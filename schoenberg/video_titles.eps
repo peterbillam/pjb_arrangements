@@ -1,0 +1,48 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 1280 720
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           This EPS is Copyright (c) 2013, Peter J Billam              %
+%                                                                       %
+% Permission is granted  to any individual or institution to use, copy, %
+% modify or redistribute this software, so long as it is not resold for %
+% profit,  and provided this notice is retained.   Neither Peter Billam %
+% nor  PJB Computing  make any representations about the suitability of %
+% this software for any purpose.    It is provided "as is", without any %
+% express or implied warranty.                http://www.pjb.com.au     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%EndComments
+%%BeginProlog
+/centreshow { % usage: x y font fontsize (string) centreshow
+    /s exch def /fontsize exch def /font exch def 
+    gsave moveto font findfont fontsize scalefont setfont
+    gsave s false charpath flattenpath pathbbox grestore
+    exch 4 -1 roll pop pop s stringwidth pop -0.5 mul  % dx/2
+    3 1 roll sub 0.5 mul % dy/2
+    rmoveto s show grestore
+} bind def
+
+/Times-Roman findfont dup length dict begin
+    { 1 index /FID ne { def } { pop pop } ifelse } forall
+    /Encoding ISOLatin1Encoding def currentdict
+end /Times-Roman-ISO exch definefont pop
+
+/Times-Bold findfont dup length dict begin
+    { 1 index /FID ne { def } { pop pop } ifelse } forall 
+    /Encoding ISOLatin1Encoding def currentdict
+end /Times-Bold-ISO exch definefont pop
+    
+/Times-BoldItalic findfont dup length dict begin
+    { 1 index /FID ne { def } { pop pop } ifelse } forall 
+    /Encoding ISOLatin1Encoding def currentdict
+end /Times-BoldItalic-ISO exch definefont pop
+    
+/Times-Italic findfont dup length dict begin
+    { 1 index /FID ne { def } { pop pop } ifelse } forall 
+    /Encoding ISOLatin1Encoding def currentdict
+end /Times-Italic-ISO exch definefont pop
+%%EndProlog
+640 590 /Times-BoldItalic 60 (Arnold Schoenberg) centreshow
+640 425 /Times-BoldItalic 110 (Verklaerte Nacht) centreshow
+640 255 /Times-BoldItalic 45 (arranged for piano by Peter Billam) centreshow
+640 115 /Times-BoldItalic 30 (1899    \(arr. 2013\)) centreshow
+%%EOF

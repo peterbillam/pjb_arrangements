@@ -1,0 +1,55 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2009.04.10.00.40.26;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@title for ric6_str
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 4.8c
+.ce 100
+\f3\s+9\s+9Ricercare a 6\s-9\s-9\fP
+.sp 2.2c
+\f2\s+9J. S. Bach\s0\fP
+.sp 1.0c
+\f3\s+2From the Musicial Offering\s0\fP
+.sp 2.2c
+\f2\s+9Transcribed by Peter Billam\s0\fP
+.sp 1.0c
+\f3\s+2For two Violins, two Violas and two Celli\s0\fP
+.sp 2.2c
+\(co Peter J Billam, 1998
+.sp 0.7c
+\s-1This score may be freely photocopied, and redistributed
+in paper form.  It may be freely performed to live audiences;
+performing rights are waived.  It may not be redistributed in
+electronic form, and all other rights, such as those of recording
+and broadcast, remain reserved by the arranger, Peter Billam,
+GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
+.sp 0.7c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.7c
+\f2www.pjb.com.au\fP
+@

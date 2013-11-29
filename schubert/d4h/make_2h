@@ -1,0 +1,27 @@
+#! /usr/bin/perl
+my @lines_4h = (<>);
+my @lines_tp = ();
+my @lines_bp = ();
+my @lines_2h = ();
+my $pagenum = 0;
+foreach my $line (@lines_4h) {
+	if ($line =~ /^\d+\s+systems/) { $pagenum += 1;  push @lines_bp,$line; }
+	if ($pagenum % 2) { push @lines_bp,$line; } else { push @lines_tp,$line; }
+}
+while (@lines_bp) {
+	my $line_bp = shift @lines_bp;
+	my $line_tp = shift @lines_tp;
+	if ($line_tp =~ /^systems/) { print "6 systems /19-25-19/\n"; next; }
+	if ($line_tp =~ /^=\d/) {
+		$line_tp =~ s/^=2[,']*/=1,/;
+		$line_tp =~ s/^=1[,']*/=1'/;
+	}
+	print $line_tp;
+	if ($line_bp =~ /^=\d/) {
+		$line_bp =~ s/^=2[,']*/=2,/;
+		$line_bp =~ s/^=1[,']*/=2'/;
+		print $line_bp;
+	}
+}
+# exit;
+

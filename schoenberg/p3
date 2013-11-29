@@ -1,0 +1,24 @@
+.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 13
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 1.5c
+.Lp
+.ce 2
+\s+9\f3Verklärte Nacht\fP\s0
+.sp 0.8c
+\f3Gedicht von Richard Dehmel \  (aus "Weib und Welt")\fP
+.sp 0.9c
+.Lp
+the pedalling is often a necessary part of the fingering
+rising +1 semitone 202-210
+300-310 rising +1 st alternately in treble and bass
+.sp 0.5c

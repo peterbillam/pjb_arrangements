@@ -1,0 +1,75 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.de Dp
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+.LP
+\&
+.sp 2.4c
+.ce 2
+\f3\s+9Trio super Herr Jesu Christ, dich zu uns wend\s-9\fP
+.sp 2.0c
+.Lp
+Johann Sebastian Bach probably wrote the \f2Great Eighteen Chorales\fP,
+soon after 1708, when he moved to Weimar.
+He then revised them, during the years 1739-1742 and 1746-1747,
+while he was in Leipzig, and they are sometimes known as the
+\f2Eighteen Leipzig Chorales\fP.
+Both versions can be seen in the \f2Bach-Gesellschaft\fP
+edition, or reprinted in the \f2Dover\fP edition,
+and they confirm Forkel's observation
+"\f2comparing together many copies of his principal works,
+written in different years, I confess that I have often felt
+both surprise and delight at the means which he employed to make,
+little by little, the faulty good,
+the good better, and the better perfect \ .\ .\ .
+Even commonplace passages are frequently changed into the most elegant
+by changing, taking away, or adding a single note.\fP"
+
+.Lp
+Number 5 of the \f2Eighteen Chorales\fP is
+a trio on the hymn-tune
+\f2Herr Jesu Christ, dich zu uns wend\fP, BWV 655.
+It fits particularly well onto flute and piano.
+The top two voices share the same register, and frequently cross,
+so they need different tone-colours.
+Just a few beats in bars 50 and 51 need to be exchanged between voices;
+if this arrangement is being played on violin and piano
+the original in small notes can be played.
+The running semiquaver scales are
+Bach's characteristic motif expressing happiness,
+as is the quaver rhythm in the bass, for example from bar 6 to bar 7.
+
+.Lp
+The flute trill in bar 62 should start from below,
+starting with \f3d e f# e\fP.
+For more practical performance,
+a separate piano part is supplied, with a convenient page turn.
+The piano fingering may be disregarded with a clear conscience.
+Bach's SATB setting of the hymn is included.
+
+.Dp
+\f2Johann Sebastian Bach\fP, Albert Schweizer, Breitkopf and Härtel
+.Dp
+\f2Johann Sebastian Bach\fP, Albert Schweizer,
+translated by Ernest Newmann, Dover
+.Dp
+\f2Johann Sebastian Bach Organ Music\fP, 1970, Dover Press
+.Dp
+\f2Johann Sebastian Bach\fP, Christoph Wolff, 2001, Oxford University Press
+.Dp
+\f2J. S. Bach, 388 Four-Part Chorales\fP edited by János Dobra,
+Editio Musica Budapest
+
+.sp 0.6c
+.Lp
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP
+

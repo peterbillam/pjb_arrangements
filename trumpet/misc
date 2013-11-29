@@ -1,0 +1,978 @@
+12 systems 20 /18/
+title Eine Kleine Nachtmusik
+lefthead Wolfgang Amadeus Mozart
+/
+6 bars | 4/4 1 1 1 1.4 1 1 1 1.2 | 8 | 1 1 1 1.2 1 1 1 1.1 | 8 |
+|
+I0.5 .2 Allegro
+=1 treble 4/4 cro c qua rest G cro c qua rest G
+I0.2 .2 f
+|
+=1 qua [c G, c e] cro g rest
+|
+=1 cro f qua rest d cro f qua rest d
+|
+=1 qua [f d B, d] cro G rest
+|
+il0.4   .2 5
+=1 qua c rest cro. c qua [e(1 d)1 c-.]
+|
+=1 qua [c(1 B,)1] cro. B qua [d-. f-. B,-.]
+/
+5 bars | 8 | 8 | 2 2.6 2 2.6 | 2 2.6 1.7 1.7 | 4 |
+|
+=1 treble qua [d(1 c)1] cro c qua rest [e d c-.]
+|
+=1 qua [c-tr B] cro. B qua [d f B,-.]
+|
+=1, qua [c-. c-.] smq [c(1 B A B)1] qua [c-. c-.] smq [e(1 d c d)1]
+|
+il0.6   10
+=1 qua [e-. e-.] smq [g(1 f e f)1] cro g rest
+|
+=1 smb rest
+/
+7 bars | 3 | 3 | 3 | 6 | 8 | 8 |
+|
+=1 treble smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.5 15
+=1 min G(2 A)2
+I0.1  .01 p
+|
+=1 qua [G(2 F)2 F-. F-.] [F(2 E)2 E-. E-.]
+|
+=1 qua [E(2 D)2 D-. D-.] [C(2 B_ A_ B_)2]
+|
+=1 min C qua rest smq [B_(2 C] qua [D')2 B_]
+I0.4 .01 sf .62 p
+/
+5 bars | 8 | 6 | 6 | 8 | 8 |
+|
+=1 treble min E qua rest smq [D(2 E] qua [F)2 D]
+I0.3 .01 sf .62 p
+|
+il0.5  20
+=1 min G cro A B'
+i0.2 .7 cresc . . .
+|
+=1 cro c d e f#
+|
+=1 cro g qua rest d qua. [f# smq d qua. f# smq d]
+I0.2 .01 f
+|
+=1 cro g qua rest d qua. [f# smq d qua. f# smq d]
+/
+5 bars | 8 | 8 | 8 | 8 | 1 1 1 2 1 1 1 1 |
+|
+=1 treble qua g cro g g g qua g(1
+|
+il0.5    25
+=1 qua g)1 cro g g g qua g
+|
+=1 qua [f# d g d] [f# d g d]
+|
+=1 qua [f#' D D D] cro D rest
+|
+=1 cro. d smq3 [c B,-I3 A,] qua G rest e rest
+I0.2 .01  p
+/
+5 bars | 8 | 1 1 1 2 1 1 1 1 | 7 | 7 | 7 |
+|
+=1 treble qua c rest A rest d rest cro rest
+|
+il0.5    30
+=1 cro. B' smq3 [A G-I3 F#] qua E rest c rest
+|
+=1 min B'(2 cro A)2 rest
+|
+=1 qua rest cro. d(1 min d)1(1
+|
+=1 min d)1(1 qua [d)1 d e f#]
+/
+5 bars | 24 | 24 | 24 | 24 | 6 3 3 3 3 3 3 3 |
+|
+=1 treble qua [f# g] rest e-. [e d] rest F#
+|
+il0.5    35
+=1 cro G qua rest d-. qua [g(1 f#)1 e d]
+|
+=1 qua [e(1 d)1] rest d-. [d-. d-. d-. d-.]
+|
+=1 qua [e(1 d)1] rest d-. qua [g(1 f#)1 e d]
+|
+=1 smq3 [e(1 f#-blank-I3 e qua d)1] rest d-. [d-. d-. d-. d-.]
+/
+5 bars | 3 3 3 3 3 3 3 6 | 3 3 3 3 3 3 3 6 | 24 | 24 | 24 |
+|
+=1 treble qua [e(1 d)1] cro rest cro. e-If, smq3 [d c-I3 B,]
+|
+il0.5    40
+=1 cro c rest cro. d-If, smq3 [c B,-I3 A,]
+|
+=1 cro B rest qua [e smq f# g] [f e-.]
+|
+=1 qua [e(1 d)1 B, d] [d(1 c)1 B, A,]
+|
+=1 cro G qua rest d-. qua [g(1 f#)1 e d]
+/
+5 bars | 24 | 24 | 6 3 3 3 3 3 3 3 | 3 3 3 3 3 3 3 6 | 3 3 3 3 3 3 3 6 |
+|
+=1 treble qua [e(1 d)1] rest d-. [d-. d-. d-. d-.]
+|
+il0.5    45
+=1 qua [e(1 d)1] rest d-. qua [g(1 f#)1 e d]
+|
+=1 smq3 [e(1 f#-blank-I3 e qua d)1] rest d-. [d-. d-. d-. d-.]
+|
+=1 qua [e(1 d)1] cro rest cro. e-If, smq3 [d c-I3 B,]
+|
+=1 cro c rest cro. d-If, smq3 [c B,-I3 A,]
+/
+7 bars | 8 | 8 | 6 | 3 | 3 | 3 | 3 :||
+|
+=1 treble cro B rest qua [e smq f# g] [f g-.]
+|
+il0.5    50
+=1 qua [e(1 d)1 B, d] [d(1 c)1 B, A,]
+|
+=1 qua G rest cro rest min rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+
+
+4 systems 30 /19 30 19-25-19 /19 30 19-25-19 /19 30 19-35-19 /19 30 19-25-19 30/
+title All Through the Night
+lefthead traditional Welsh choir song
+/
+4 bars |: 1# 4/4 8 | 8 | 8 | 8 |
+|
+=1  treble 1# 4/4 cro. G qua F cro E G
+=2' bass   1b 4/4 min c~ cro d~ c~
+=2, 1b 4/4 min <f a> f
+=3  bass   1b 4/4 cro F A B A
+|
+b0.1 .9 '
+=1  cro. A qua G cro F# D
+=2' cro bn d~ min c~
+=2, cro rest f g f
+=3  cro <G d'> Bn c A
+|
+=1  min E cro. F qua F
+=2 min <d f b> <en g c~>
+=3  cro B A G c
+|
+=1 min. G cro rest
+=2 smb <a c~>
+=2, min f
+=3' cro rest' A c f
+=3 smb F
+/
+4 bars | 1# 8 | 8 | 8 | 8 |
+|
+=1  treble 1# cro. G qua F cro E G
+=2' bass   1b min c~ cro d~ c~
+=2, 1b min <f a> f
+=3  bass   1b cro F A B A
+|
+b0.1 .9 '
+=1  cro. A qua G cro F# D
+=2' cro bn d~ min c~
+=2, cro rest f g f
+=3  cro <G d'> Bn c A
+|
+=1  min E cro. F qua F
+=2 min <d f b> <en g c~>
+=3  cro B A G c
+|
+=1 min. G cro rest
+=2 smb <a c~>
+=2, min f blank treble
+=3' cro rest' c f eb
+=3 smb F
+/
+4 bars | 1# 8 | 8 | 8 | 8 |
+|
+=1 treble 1# cro c B c d
+=2 treble 1b cro <B_ F> <C F> <B_ F> <C F>
+I0.3 .1 f
+=3, bass   1b cro <d f> <ebx f> <d f> <A f>
+|
+b0.1 .9 '
+=1 cro. e qua d cro c B,
+=2' cro <B_ B> <A_ A> <B_r G> <C F#>
+=2, min blank D
+=3' min f
+=3 cro B, c, d, D
+|
+=1 cro c B A G
+=2' cro D C min D
+=2, min B_ G_
+=3' min d d
+=3, cro G A B Bn
+|
+=1 cro. B' qua A cro G F#
+=2' min <F_ A_ C F> <E_n G_ C> bass
+=3' min c <C c>
+/
+4 bars | 1# 8 | 8 | 8 | 8 :||
+|
+=1  treble 1# cro. G qua F cro E G
+=2' bass   1b min c~ cro d~ c~
+=2, 1b min <f a> f
+=3  bass   1b cro F A B A
+|
+b0.1 .9 '
+=1  cro. A qua G cro F# D
+=2' cro bn d~ min c~
+=2, cro rest f g f
+=3  cro <G d'> Bn c A
+|
+=1  min E cro. F qua F
+=2 min <d f b> <en g c~>
+=3  cro B A G c
+|
+=1 min. G cro rest
+=2 smb <a c~>
+=2, min f
+=3' cro rest' c min f
+=3 smb F
+
+
+12 systems 30 /19/19/19 25/19/19/19 30 /19/19/19/19/19/19 12/
+title Scales
+/
+6 bars | 6/4 4 3 4 3 3 3 | 3 4 3 4 3 3 | 3 4 3 4 3 3 \
+ | 3 4 3 4 3 3 | 3 4 3 3 3 3 | 4 3 4 3 3 2 ||
+|
+bl1.0 .1 Chromatic
+=1' treble 6/4 cro C C# D D# E rest
+|
+=1 cro E F F# G G# rest
+|
+=1 cro G# A A# B c rest
+|
+=1 cro c B Bb A Ab rest
+|
+=1 cro Ab G Gb F E rest
+|
+=1 cro E Eb D Db min C
+/
+4 bars | 8/4 4 3 4 3 3 4 3 3 | 3 4 3 4 3 3 3 3 \
+ | 3 4 3 4 3 4 3 3 | 3 3 4 3 4 3 3 2 ||
+|
+=1' treble 8/4 cro C C# D D# E F F# rest
+|
+=1 cro F# G G# A A# B c rest
+|
+=1 cro c B Bb A Ab G Gb rest
+|
+=1 cro Gb F E Eb D Db min C
+/
+4 bars 8/4 | 4 3 4 3 3 4 3 3 | 3 4 3 3 3 2 3 2 \
+ | 3 4 3 4 3 4 3 3 | 4 3 4 3 3 2 3 2 ||
+|
+=1  treble 8/4 cro C C# D D# E F F# G
+|
+=1  cro G# A A# B min c rest
+|
+=1  cro c B Bb A Ab G Gb F
+|
+=1  cro E Eb D Db min C rest
+/
+6 bars | 6/4 4 3 4 3 3 3 | 3 4 3 4 3 3 | 3 3 4 3 3 3 \
+ | 4 3 3 4 3 3 | 3 4 3 3 3 3 | 4 3 4 3 3 2 ||
+|
+=1' treble 6/4 cro G G# A A# B rest
+|
+=1 cro B c c# d d# rest
+|
+=1 cro d# e f f# g rest
+|
+=1 cro g gb f e eb rest
+|
+=1 cro eb d db c B rest
+|
+=1 cro B' Bb' A Ab min G
+/
+4 bars | 8/4 4 3 4 3 3 4 3 3 | 3 4 3 3 4 3 3 3 \
+ | 4 3 3 4 3 4 3 3 | 3 3 4 3 4 3 3 2 ||
+|
+=1  treble 8/4 cro G G# A A# B c c# rest
+|
+=1 cro c# d d# e f f# g rest
+|
+=1 cro g gb f e eb d db rest
+|
+=1 cro db c B Bb A Ab min G
+/
+4 bars 8/4 | 4 3 4 3 3 4 3 3 | 3 3 4 3 3 2 3 2 \
+ | 4 3 3 4 3 4 3 3 | 4 3 4 3 3 2 3 2 ||
+|
+=1 treble 8/4 cro G G# A A# B c c# d
+|
+=1 cro d# e f f# min g rest
+|
+=1 cro g gb f e eb d db c
+|
+=1 cro B' Bb' A Ab min G rest
+
+12 systems 30 /18/18/18/18/18 30/18/18/18/18/18 30/18/18 12/
+title Arpeggios
+/
+6 bars | 6/8 6 | 4 | 6 | 4 | 6 | 4 |
+|
+bl1.5 .1 Major Arpeggios
+=1' treble 6/8 qua [C-. E-. G-.] [c-. G-. E-.]
+|
+=1 cro. C rest
+|
+=1' qua [Db-. F-. Ab-.] [db-. Ab-. F-.]
+|
+=1 cro. Db rest
+|
+=1' qua [Dn-. F#-. A-.] [d-. A-. F#-.]
+|
+=1 cro. D rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 |
+|
+=1 treble qua [Eb-. G-. Bb'-.] [eb-. Bb,-. G,-.]
+|
+=1 cro. Eb rest
+|
+=1 qua [En-. G#-. B'-.] [e-. B,-. G#,-.]
+|
+=1 cro. E rest
+|
+=1 qua [F-. A-. c'-.] [f-. c-. A,-.]
+|
+=1 cro. F rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 |
+|
+=1 treble qua [F#-. A#-. c#'-.] [f#-. c#-. A#,-.]
+|
+=1 cro. F# rest
+|
+=1 qua [G-. B'-. d'-.] [g-. d-. B,-.]
+|
+=1 cro. G rest
+|
+=1 qua [F#-. A#-. c#'-.] [f#-. c#-. A#,-.]
+|
+=1 cro. F# rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 |
+|
+=1 treble qua [F-. A-. c'-.] [f-. c-. A,-.]
+|
+=1 cro. F rest
+|
+=1 qua [E-. G#-. B'-.] [e-. B,-. G#,-.]
+|
+=1 cro. E rest
+|
+=1 qua [Eb-. G-. Bb'-.] [eb-. Bb,-. G,-.]
+|
+=1 cro. Eb rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 ||
+|
+=1' treble qua [D-. F#-. A-.] [d-. A-. F#-.]
+|
+=1 cro. D rest
+|
+=1' qua [Db-. F-. Ab-.] [db-. Ab-. F-.]
+|
+=1 cro. Db rest
+|
+=1' qua [C-. E-. G-.] [c-. G-. E-.]
+|
+=1 cro. C rest
+/
+6 bars | 6/8 6 | 4 | 6 | 4 | 6 | 4 |
+|
+bl1.5 .1 Minor Arpeggios
+=1' treble 6/8 qua [C-. Eb-. G-.] [c-. G-. Eb-.]
+|
+=1 cro. C rest
+|
+=1' qua [C#-. E-. G#-.] [c#-. G#-. E-.]
+|
+=1 cro. C# rest
+|
+=1' qua [D-. F-. A-.] [d-. A-. F-.]
+|
+=1 cro. D rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 |
+|
+=1 treble qua [Eb-. Gb-. Bb'-.] [eb-. Bb,-. Gb,-.]
+|
+=1 cro. Eb rest
+|
+=1 qua [En-. G-. B'-.] [e-. B,-. G,-.]
+|
+=1 cro. E rest
+|
+=1 qua [F-. Ab-. c'-.] [f-. c-. Ab,-.]
+|
+=1 cro. F rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 |
+|
+=1 treble qua [F#-. A-. c#'-.] [f#-. c#-. A,-.]
+|
+=1 cro. F# rest
+|
+=1 qua [G-. Bb'-. d'-.] [g-. d-. Bb,-.]
+|
+=1 cro. G rest
+|
+=1 qua [F#-. A-. c#'-.] [f#-. c#-. A,-.]
+|
+=1 cro. F# rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 |
+|
+=1 treble qua [F-. Ab-. c'-.] [f-. c-. Ab,-.]
+|
+=1 cro. F rest
+|
+=1 qua [E-. G-. B'-.] [e-. B,-. G,-.]
+|
+=1 cro. E rest
+|
+=1 qua [Eb-. Gb-. Bb'-.] [eb-. Bb,-. Gb,-.]
+|
+=1 cro. Eb rest
+/
+6 bars | 6 | 4 | 6 | 4 | 6 | 4 ||
+|
+=1' treble qua [D-. F-. A-.] [d-. A-. F-.]
+|
+=1 cro. D rest
+|
+=1' qua [C#-. E-. G#-.] [c#-. G#-. E-.]
+|
+=1 cro. C# rest
+|
+=1' qua [C-. Eb-. G-.] [c-. G-. Eb-.]
+|
+=1 cro. C rest
+/
+6 bars | 6/8 1.4 1.4 1 1 1 1.4 1.4 1 | 4.5 | 1 1 1.4 1.4 1.4 1 1 1 | 4.5 \
+ | 1 1.4 1.4 1 1 1.4 1 1 | 4.5 |
+|
+bl1.5 .1 Diminished Arpeggios
+=1' treble 4/4 qua [C-. Eb-. F#-. A-.] [c-. A-. F#-. Eb-.]
+|
+=1 min C rest
+|
+=1' qua [C#-. E-. G-. Bb-.] [c#-. Bb-. G-. E-.]
+|
+=1 min C# rest
+|
+=1' qua [D-. F-. Ab-. Bn-.] [d-. B-. Ab-. F-.]
+|
+=1 min D rest
+/
+6 bars | 1.4 1 1 1.4 1 1 1.4 1 | 4.5 | 1 1.4 1.4 1 1.4 1.4 1 1 | 4.5 \
+ | 1.4 1 1 1 1 1 1.4 1 | 4.5 ||
+|
+=1 treble qua [Eb-. F#-. A-. c'-.] [eb-. c-. A,-. F#,-.]
+|
+=1 min Eb rest
+|
+=1 qua [En-. G-. Bb'-. c#'-.] [e-. c#-. Bb,-. G,-.]
+|
+=1 min E rest
+|
+=1 qua [F-. Ab-. B'-. d'-.] [f-. d-. B,-. Ab,-.]
+|
+=1 min F rest
+
+
+4 systems 20 /19 35 19-30-19/19 35 19-30-19/19 35 19-30-19/19 35 19-30-19 15/
+title The Entry of the Gladiators
+innerhead Julius Fuçik
+/
+3 bars | 4/4 9 ||: 1 1 1 1 1.3 1 1 1.3 1 1 1 1 1 1 1 1 \
+  | 1 1 1 1 1.3 1 1.3 1 1 1 1 1 1 1 1 1 |
+|
+=1  treble    4/4 smb rest
+=2  treble 1b 4/4 min// <C E G#> min rest
+=3' bass   1b 4/4 min// <C c>     min rest
+|
+=1 qua [g-. gb-.] smq [f gb f e] qua [eb-. d-.] [c#(1 d)1-.] 
+=2 qua rest, <G# Ax C Fx> rest, <G# Ax C Fx> rest, \
+ <G# Ax C Fx> rest, <G# Ax C Fx>
+=3' qua <F-., f> rest <C-., c> rest <F-., f> rest cro <C-emph, c>
+|
+=1 qua [e-. eb-.] smq [d eb d db] qua [c-. B-.] [A#(2 B')2-.]
+=2 qua rest, <G# Ax C Fx> rest, <G# Ax C Fx> rest, \
+ <G# Ax C Fx> rest, <G# Ax C Fx>
+=3' qua <F-., f> rest <C-., c> rest <F-., f> rest cro <C-emph, c>
+/
+2 bars | 16 | 16 |
+|
+=1  treble    qua [d smq c c] qua [G#(2 A)2-.] [d smq c c] qua [G#(2 A)2-.]
+=2' treble 1b qua rest, <D# Ex G Bb> rest, <D# Ex G Bb> rest, \
+ <D# Ex G Bb> cro rest
+=3' bass  1b qua <G-., g> rest cro <C-emph, c> qua <G-., g> rest cro <C-emph, c>
+|
+=1 smq [D E F# G] [A, B, c c#] [d d# e f#] qua [e(1 dn)1-.]
+=2  min <c bn> cro rest <C E G#>
+=3' min C_ rest
+/
+2 bars | 16 | 16 |
+|
+=1 treble    qua [g-. gb-.] smq [f gb f e] qua [eb-. d-.] [c#(1 d)1-.]
+=2 treble 1b qua rest, <G# Ax C Fx> rest, <G# Ax C Fx> rest, \
+ <G# Ax C Fx> rest, <G# Ax C Fx>
+=3' bass 1b qua <F-., f> rest <C-., c> rest <F-., f> rest cro <C-emph, c>
+|
+=1 qua [e-. eb-.] smq [d eb d db] qua [c-. B-.] [A#(2 B')2-.]
+=2 qua rest, <G# Ax C Fx> rest, <G# Ax C Fx> rest, \
+ <G# Ax C Fx> rest, <G# Ax C Fx>
+=3' qua <F-., f> rest <C-., c> rest <F-., f> rest cro <C-emph, c>
+/
+2 bars | 16 | 16 :||
+|
+=1 treble    qua [B smq B B] qua [f#-. B-.] smq [g a g f#] qua e rest
+=2 treble 1b qua <C#-., Ex F A> rest rest <C# Ex F A> \
+ <D-., Ex F A> rest rest <D Ex F A>
+=3' bass  1b qua <A_-., A> rest rest <A_ A> <D-., d> rest rest <D d>
+|
+=1 qua [b-. smq b b] qua [b-. b-.] b rest cro d
+=2 cro blank A min blank
+=2 qua [<B_b E A> smq <D# A> B_b] qua [E, D#,] \
+ <B_b-., E-s1-s3> rest cro// <C E G#>
+=3 qua [<C c> smq C c] qua [C c] <C-., c> rest cro rest
+
+3 systems 60 / 19 45 19-35-19 / 19 45 19-35-19 / 19 45 19-35-19 60/
+innerhead Chorale from the St. Matthew Passion, J. S. Bach
+title O Haupt voll Blut und Wunden
+/
+5 bars |: 4/4 2.8 | 8 | 8 | 8 | 5 :||
+|
+=1  treble 4/4 cro E
+=2  bass   2b 4/4 cro B_-s1-s3
+=3' bass   2b 4/4 cro g
+=3,        2b 4/4 qua [g f-s1,]
+|
+=1  cro A G F E
+=2  qua [B_ C] cro D C B_
+=3' qua [g a] cro b qua [g a] cro b
+=3, cro e d-s1, c B
+|
+=1  min D cro E-fermata cro B'
+=2  cro B_-s2-s4(2 A_)2 B_-fermata D-s2-s5
+=3' cro g f f a
+=3, cro E(2 F)2 B-fermata, F#-s5,
+|
+=1 cro c c qua [B'(2 A)2] cro B'
+=2 cro D D D qua [D C]
+=3' cro a g g f#
+=3, qua [G-s5, A B c] cro d D
+|
+=1  min. A
+=2  min. B_
+=3' min. d
+=3, min. G
+/
+5 bars | 2.8 | 8 | 2 2 2 2.5 | 8 | 7 |
+|
+=1  treble cro c
+=2  bass   2b cro D-s1-s5
+=3' bass   2b qua [g f-s1,]
+=3,        2b cro G-s5,
+|
+=1  qua [B' A] cro G A B'
+=2  cro C qua [C B_] cro B_ E
+=3' cro e f fr qua [e f]
+=3, cro c d qua [e d] cro c
+|
+=1  min c cro c-fermata G
+=2  cro E qua [D C] cro D-fermata D-s3-s5
+=3' cro g qua [f e] cro f qua [b ab]
+=3, min B cro B-fermata, B
+|
+=1  cro A G qua [F E] cro F
+=2  qua [D C] cro D qua [C B_n] cro C
+=3' cro g g g g
+=3, cro e Bn c C
+|
+=1 min. E-fermata cro c
+=2 min. B_n-fermata cro C
+=3' min. g cro g
+=3, min. G-fermata, cro En
+/
+4 bars | 8 | 8 | 8 | 7 ||
+|
+=1  treble qua [B, c] cro d c B
+=2  bass   2b cro C F F F
+=2,        2b min blank cro B_ C
+=3' bass   2b qua [f g] cro a min blank
+=3,        2b cro F qua [f en] cro d c
+|
+=1 min A cro B'-fermata E
+=2' cro F En F-fermata qua [B_ A_]
+=2, cro D C C blank
+=3' min. blank cro f
+=3, cro B c F-fermata, B
+|
+=1  cro F E D G
+=2' qua [G_ A_] cro B_ B_ A_
+=3' cro e f qua [f smq e-s2, d-s1,] qua [c f]
+=3, cro c qua [d e] cro f-s1, F
+|
+=1  min. E-fermata
+=2  min. B_-fermata
+=3' min. f
+=3, min. B-fermata,
+
+3 systems 60 / 19 45 19-35-19 / 19 45 19-35-19 / 19 45 19-35-19 60/
+innerhead Chorale from the St. Matthew Passion, J. S. Bach
+title O Haupt voll Blut und Wunden
+/
+5 bars |: 2# 4/4 2.5 | 8 | 8 | 8 | 5 :||
+|
+=1  treble 2# 4/4 cro F#
+=2  treble 4/4 cro C
+=3' bass   4/4 cro a
+=3, bass 4/4 qua [a g]
+|
+=1  cro B' A G F#
+=2 qua [C D] cro E D C
+=3' qua [a b] cro c~ qua [a b] cro c~
+=3, cro f e d c
+|
+=1  min E cro F#-fermata cro c
+=2  cro C(2 B_)2 C-fermata E
+=3' cro a g g b
+=3, cro F(2 G)2 c-fermata, G#
+|
+=1 cro d d qua [c#(1 B,)1] cro c#
+=2 cro E E E qua [E D]
+=3' cro b a a g#
+=3, qua [A B c d] cro e E
+|
+=1  min. B
+=2  min. C
+=3' min. e
+=3, min. A
+/
+5 bars | 2 | 8 | 2 2 2 2.5 | 8 | 7 |
+|
+=1  treble 2# cro d
+=2  treble cro E
+=3' bass   qua [a g]
+=3, bass cro A
+|
+=1  qua [c# B,] cro A B c#
+=2  cro D qua [D C] cro C F
+=3' cro f g gr qua [f g]
+=3, cro d e qua [f e] cro d
+|
+=1  min d cro d-fermata A
+=2  cro F qua [E D] cro E-fermata E
+=3' cro a qua [g f] cro g qua [c~ bb]
+=3, min c cro c-fermata, c
+|
+=1  cro B' A qua [G F#] cro G
+=2  qua [E D] cro E qua [D C#] cro D
+=3' cro a a a a
+=3, cro f c# d D
+|
+=1 min. F#-fermata cro d
+=2 min. C#-fermata cro D
+=3' min. a cro a
+=3, min. A-fermata, cro F#
+/
+4 bars | 8 | 8 | 8 | 7 ||
+|
+=1  treble 2# qua [c# d] cro e d c#
+=2  treble cro D G G G
+=2, treble cro blank B_ C D
+=3' bass   qua [g a] min. blank
+=3, bass cro G qua [g f#] cro e d
+|
+=1 min B cro c#-fermata F#
+=2' cro G F# G-fermata qua [C B_]
+=2, cro E D  D blank
+=3' min. blank cro g
+=3, cro c d G-fermata, c
+|
+=1  cro G F# E A
+=2' qua [A_ B_] cro C C B_
+=3' cro f g qua [g smq f e] qua [d g]
+=3, cro d qua [e f] cro g G
+|
+=1  min. F#-fermata
+=2  min. C-fermata
+=3' min. g
+=3, min. c-fermata,
+
+3 systems 60 / 19 45 19-35-19 / 19 45 19-35-19 / 19 45 19-35-19 60/
+innerhead Johannes Brahms
+title From the Finale of the 1st Symphony
+/
+6 bars | 4/4 2.8 | 8 | 8 | 8 | 8 | 8 |
+|
+=1  treble 1b 4/4 cro C(2
+=2  bass   3b 4/4 cro b
+=3' bass   3b 4/4 cro B-.,
+|
+=1  min F cro E F)2
+=2,  min <g b e~> cro <f b> <g e~(1>
+=3' cro E-., e-., rest, E-.,
+|
+=1  min D(2 cro C)2 F(2
+=2, min <a c~ e~> cro <g b> <g e~>
+=3' cro E-., e-., rest, E-.,
+|
+=1 cro G qua [A G] cro A F)2
+=2' cro d~ qua [e~ d~] cro e~ b
+=2, min b cro e g
+=3' cro B_-., B-., rest, E-.,
+|
+=1  min G cro G C(2
+=2' min d~ cro d~ b
+=2, min b cro b blank
+=3' cro B_-., B-., rest, B-.,
+|
+=1  min F cro E F)2
+=2, min <g b e~> cro <f b> <g e~(1>
+=3' cro E-., e-., rest, E-.,
+/
+6 bars | 1b 8 | 2 2.6 2 2 | 8 \
+ | 1 1 1.6 1.3 1 1 1 1 | 1 1 1.6 1.3 1 1 1 1 | 1 1 1.6 1.3 1 1 1 1 |
+|
+=1  treble 1b min D(2 cro C)2 F(2
+=2, bass   3b min <a c~ e~> cro <g b> <g e~>
+=3' bass   3b cro E-., e-., rest, E-.,
+|
+=1 cro G qua [A G] cro A F)2
+=2' cro d~ qua [e~ d~] cro e~ b
+=2, min b cro e g
+=3' cro B_-., B-., rest, E-.,
+|
+=1  min G cro F C(2
+=2' min d~ cro e~ b
+=2, min b cro b blank
+=3' cro B_-., B-., rest, E-.,
+|
+=1  cro G qua [A Bb'] cro A G)2(2
+=2' min. d~ cro d~b
+=2, cro rest b-., rest b-.,
+=3' cro <B_-., B> B-., rest, <B_-., B>
+|
+=1  cro G)2 qua [A(2 Bb'] cro A G)2(2
+i0.7   cresc  .   .   .
+=2' min. c~ cro c~
+=2, cro rest f-., rest f-.,
+=3' cro <A_-., A> A-., rest, <A_-., A>
+|
+=1  cro G)2 qua [A(2 Bb'] cro A E)2
+=2' min d~ cro c~ bn
+=2, min bn g
+=3' cro <G_-., G> qua [G F] cro E G
+
+/
+6 bars | 8 | 1 1 1.3 1.6 1 1 1.3 1.3 | 1 1 1.3 1.6 1 1 1 1 | 8 \
+ | 1 1 1.3 1.6 1 1 1 1 | 6 ||
+|
+=1  treble 1b min F d-emph
+=2, bass   3b min <g c~ e~> <c~ e~ a~-emph>
+=3' bass   3b cro C c A_ A-emph
+|
+=1 cro c qua [G(2 A] cro Bb' qua [c' G)2]
+=2' cro f~ qua [d~ e~(1] cro e~)1 d~
+=2, cro d~ b c~ d~
+=3' cro rest, qua [A G] cro F B-Ip
+|
+=1  cro A(2 qua [G D] cro E)2 C(2
+=2, cro <b e~> an <f b> rest
+=3' cro E F B_ B
+|
+=1  min D cro Bb' A)2(2
+=2  min c~(1 qua [c~)1 d~] cro e~
+=3' cro rest, qua [A G] cro F  G
+|
+=1 cro A)2(2 qua [G F] min E-tr)2
+=2 min c~ b
+=3' cro A rest, B rest,
+|
+=1 min. F
+=2 min. <g b>
+=3 min. E
+
+
+15 systems 15 /18/18 30/18/18/18/18/18/18/18/18/18/18/18/18/18 8/
+title Scales
+/
+4 bars | 4/4 8 | 8 | 8 | 8 ||
+|
+bl1.2 .05 Chromatic Scales
+=1  treble 4/4 qua [C C# D D#] [E F F# G]
+|
+=1 qua [G# A A# B'] cro c rest
+|
+=1  qua [c' B' Bb' A] [Ab G Gb F]
+|
+=1 qua [E Eb D Db] cro C rest
+/
+4 bars | 8 | 8 | 8 | 8 ||
+|
+=1 treble qua [G G# A A#'] [B, c c# d]
+|
+=1 qua [d# e f f#] cro g rest
+|
+=1 qua [g gb f e] [eb d db c]
+|
+=1 qua [B' Bb' A Ab] cro G rest
+
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+bl1.0 .05 Major Scales
+=1  treble qua [C D E F] [G F E D] 
+|
+=1 qua [C D E F] [G F E D]
+|
+=1  qua [C D E F] cro G E
+|
+=1 min C rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1 treble qua [Db Eb F Gb] [Ab Gb F Eb]
+|
+=1 qua [Db Eb F Gb] [Ab Gb F Eb]
+|
+=1 qua [Db Eb F Gb] cro Ab F
+|
+=1 min Db rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1 treble qua [D E F# G] [A G F# E]
+|
+=1 qua [D E F# G] [A G F# E]
+|
+=1 qua [D E F# G] cro A F#
+|
+=1 min D rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1' treble qua [Eb F G Ab] [Bb Ab G F]
+|
+=1' qua [Eb F G Ab] [Bb Ab G F]
+|
+=1' qua [Eb F G Ab] cro Bb G
+|
+=1' min Eb rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1' treble qua [E F# G# A] [B A G# F#]
+|
+=1' qua [E F# G# A] [B A G# F#]
+|
+=1' qua [E F# G# A] cro B G#
+|
+=1 min E rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1' treble qua [F G A Bb] [c Bb A G]
+|
+=1' qua [F G A Bb] [c Bb A G]
+|
+=1' qua [F G A Bb] cro c A
+|
+=1' min F rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1' treble qua [F# G# A# B] [c# B A# G#]
+|
+=1' qua [F# G# A# B] [c# B A# G#]
+|
+=1  qua [F# G# A# B'] cro c# A#
+|
+=1 min F# rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1  treble qua [G A B' c'] [d c B, A,]
+|
+=1  qua [G A B' c'] [d c B, A,]
+|
+=1  qua [G A B' c'] cro d B,
+|
+=1' min G rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1, treble qua [Ab Bb c db] [eb db c Bb]
+|
+=1, qua [Ab Bb c db] [eb db c Bb]
+|
+=1, qua [Ab Bb c db] cro eb c
+|
+=1 min Ab rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1, treble qua [A B c# d] [e d c# B]
+|
+=1, qua [A B c# d] [e d c# B]
+|
+=1, qua [A B c# d] cro e c#
+|
+=1' min A rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1, treble qua [Bb c d eb] [f eb d c]
+|
+=1, qua [Bb c d eb] [f eb d c]
+|
+=1, qua [Bb c d eb] cro f d
+|
+=1 min Bb rest
+/
+4 bars | 8 | 8 | 4 3 | 6 |
+|
+=1, treble qua [B c# d# e] [f# e d# c#]
+|
+=1, qua [B c# d# e] [f# e d# c#]
+|
+=1, qua [B c# d# e] cro f# d#
+|
+=1, min B rest
+/
+4 bars | 8 | 8 | 4 3 | 6 ||
+|
+=1, treble qua [c d e f] [g f e d]
+|
+=1, qua [c d e f] [g f e d]
+|
+=1, qua [c d e f] cro g e
+|
+=1 min c rest
+

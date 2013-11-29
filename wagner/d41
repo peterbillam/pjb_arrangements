@@ -1,0 +1,18 @@
+boundingbox 260 73
+midi channel 1 patch 60 pan40 reverb 70
+midi channel 2 patch 60 pan60 reverb 70
+1 system /27 5/
+/
+2 bars | 5 5 5 4 5 6 | 3 3 3 5 3 2 3 2 3 2 3 2 |
+| 3/4 1.9
+midi off
+=1 treble cha1 vol105 leg55 4 <E G> leg85 4. <A_ C> leg65 8 <B_ D>
+midi on
+#=1 treble cha1 vol105 leg55 4 E leg85 4. A_ leg65 8 B_
+#=1 treble cha2 vol105 leg55 4 G leg85 4. C leg65 8 D
+|
+midi off
+=1 8. leg85 vol115 [<C E> leg60 vol105 16 <E G>] 2 leg90 <E G-dim40>
+midi on
+#=1 cha1 8. leg85 vol115 [C leg60 vol105 16 E] 2 leg90 E-dim40
+#=1 cha2 8. leg85 vol115 [E leg60 vol105 16 G] 2 leg90 G-dim40

@@ -1,0 +1,955 @@
+% start
+6 systems 10/20-30-20/20-30-20/20-30-20/20-35-20/20-35-20 7/20-40-20 8/
+lefthead J. S. Bach
+title Ricercare a 3
+righthead Musikalisches Opfer
+leftfoot transcribed 1998 Peter Billam
+midi channel 1 patch 0 pan 30
+midi channel 2 patch 0 pan 70
+/
+7 bars | 3b 2/2 4 | 4 | 4.2 | 4 | 4 | 5 | 5.5 |
+| 2/2 2.0
+=1 treble channel1 3b 2/2 min c e
+=2 bass   channel2 3b 2/2 smb rest
+|
+=1 min g a
+=2 smb rest
+|
+=1 min Bn, cro rest g-s4
+=2 smb rest
+|
+=1 min f# fn
+=2 smb rest
+|
+il0.4 .10 5
+=1 min en eb(2-s4
+=2 smb rest
+|
+=1 cro e)2 d db c
+=2 smb rest
+|
+=1' cro Bn-s3 qua [An G] cro c-s2 f-s4
+=2 smb rest
+/
+6 bars | 3b 7 | 8 | 8 | 2 2.2 2 2 \
+ | 1 1 1.8 1.3 1.3 1.3 1.8 1.1 | 1.8 1.3 1 1 1 1 1 1 |
+|
+=1' min e-s3 d-tr
+=1 smb rest,
+=2 smb rest
+|
+=1' cro c c~ f# an
+=1 smb rest,
+=2 smb rest
+|
+il0.7 .01 10
+=1' cro B d~ g b
+=1, min G B
+=2 smb rest
+|
+=1' cro e g cr c~(1
+=1 min c e
+=2 smb rest
+|
+=1' cro c~)1 qua [b-s4 an] [b a g fn]
+=1 min F#, cro rest, d,
+=2 smb rest
+|
+=1' qua [enr-s2 d-s1] min e cro f#
+=1, min c#rl cn-s1,
+=2 smb rest
+/
+5 bars | 3b 1 1 1.5 1.1 1.5 1.5 1 1 | 8 | 8  | 7 | 7 |
+|
+=1' qua [g d g an] [g fn eb d-s1]
+=1 min Bn, Bb,(2
+=2 smb rest
+|
+il0.7 .25 15
+=1' min c(1-s2 qua [c)1 d e c]
+=1, cro Br)2 An-s1, Ab G-s1,
+=2 smb rest
+|
+=1' cro d-blank-s1 c~-s4 b an
+=1, cro F#-s3, qua [En D] cro G c
+=2 smb rest
+|
+=1' cro d~ min g-s1 cro f#-s2
+=1 min B, An,-tr,
+=2 smb rest
+|
+=1' cro g-s3 b en-s2 g-s3
+=1, min G cro rest, B(2-s1,
+=2 smb rest
+/
+4 bars | 3b .5 .5 .65 .5 .5 .5 .65 .5 | 1 1 1 .9 | 4 \
+ | .45 .45 .5 .5  .5 .65 .65 .5 |
+|
+=1' cro c-s1 qua [d en] min f(1
+=1, cro Br)2 qua [Ab G] [A G-s1, F Eb]
+=2 smb rest
+|
+il0.6 .15 20
+=1' cro f)1 a d-s2 f-s4
+=1, qua [D E F G] [A-s2, G-s1,] cro A(2-s2,
+=2 smb rest
+|
+=1' cro B-s1 qua [c-s3 d] min e(1
+=1, cro Ar)2 qua [G-s1, F] [G F E D]
+=2 smb rest
+|
+=1' cro e)1 qua [d c] [d c-s3 Bn-s1-s4 An]
+=1, cro C qua [D E] [F E] cro F(2
+=2 smb rest
+/
+4 bars | 3b 1 1 1.3 1 1 1 1 1 | 7.5 \
+ | .9 .9 1 1 1 1 1.3 1 | 1.4 1 1 1 1 1 1 1 |
+|
+=1' cro G qua [An Bn] [c B] cro c(1
+=1, min Fr)2(2 cro. F)2 qua E-blank-s2
+=2 min c-s5, e-s4,
+|
+=1' cro c)1 min Bb-s3-s5 cro Ab-s3-s4
+=1, cro D-blank-s1 G C-s1 F(2
+=2 min g-s2, a-s1,
+|
+il0.5 .20 25
+=1 min G-s5 rest
+=1, cro Fr,)2 qua [E D] [E D C B_b]
+=2 min Bn-s5, cro rest g-s1,-s3,
+|
+=1 qua rest [e-s3 d c] [d f e d]
+=2' qua [anr g-s3,] min a-s1, cro bn-s2,
+=2, min f#rl-s1,-s4, fn-s4,
+/
+4 bars | 1 1.15 1.3 1.3 | .5 .5 .5 .5 .5 .6 .5 .5 | .9 1 .9 .9 \
+ | 1.2 1 1 1 |
+|
+=1 min g(1 qua [g)1 db-s2 c-s1 Bb,-s3]
+=2' qua [c~ g-s4, c~-s2, d~] [c~ bb ab g-s1,]
+=2, min en-s1,-s5, eb(2-s2,-s5,
+|
+=1 qua [An G A c'] min f(1
+=2' min f(1 qua [f)1 g ab f-blank,-s3,]
+=2, cro er)2-s2, d-s3, db-s4, c-s2,-s5,
+|
+=1' cro f)1 Bn-s2-s4 qua rest' cro c qua B
+=1, cro blank F E D
+=2' cro g
+=2, cro Bn-s1,-s5, qua [An-s4, G] cro c-s3, f-s1,
+|
+il0.8 .15 30
+=1' qua [c-s2-s5 Bb Ab-s1-s3 G-s4] [F-s3 A-s5 G-s1-s4 F]
+=1 cro G, min C, cro B_n,
+=2, min e d,-tr
+
+6 systems 10 /20-30-20/20-40-20/20-30-20/20-30-20/20-25-20/20-30-20/
+pagenum 5
+innerhead Ricercare a 3, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 8 | 1.2 1 1 1 1 1.2 1.1 1 \
+ | 1 1.1 1 1 1.1 1 1 1 | 1.2 1 1 1.1 1.1 1 1 1 |
+|
+=1' cro E-s1-s2 e-s3-s5 d-blank-s5 db-s2-s4
+=1, cro C min c cro B(2
+=2 qua [c,-s5, d, e f] [g e-s3, f g]
+|
+=1' cro c-s5 min B-s1-s4 cro An-s1-s4
+=1, qua [Br)2 A-blank-s1 G F-s2] [E-s1 Gb-s2 F E-s2]
+=2 cro a-s3, b qua [c~ b] cro c~
+|
+=1' cro d-s1-s5 db-s3-s4 c-blank-s5 cb-s2-s4
+=1, cro F min B cro Abl,(2
+=2, qua [b c-s5, db e] [f dn-s4, e f]
+|
+=1' cro B-s5 min A-s3-s4 cro G-s1-s4
+=1, qua [Ar)2 G F E-s2] [Db Fb-s2 E D-s2]
+=2 cro g a-s2, qua [b a] cro b
+/
+4 bars | 3b 3 3.5 3.5 3 3.5 3.5 3.5 3 | 3.5 3.5 3 3.5 3.3 3 3.5 3 \
+ | 24 | 2.2 2.2 3.5 2.2 2.2 2.5 2.3 2.2 2.2 2.2 2.2 2.2|
+|
+il0.4     35
+=1' cro c cb-s2-s4 min B
+=1, cro E min A cro G(2
+=2, qua [a B-s5, cb db] [e cn-s4, dn en]
+|
+=1' cro An-s5 Ab-s2-s4 min G(1-s5
+=1, cro Gr)2 min F qua [E D-s2]
+=2, qua [f eb db c] [Bn dn-s1, c Bb]
+|
+=1 qua [G)1 F E D] [C-s1 E-s5 D-s1-s4 C-s3]
+=1 cro C,
+=2' cro rest' c-s2, f f#
+=2, min An-s4, Ab-s1,-s3,
+|
+=1 cro B_n-s1-s2 rest min rest
+=2' qua3 [g d-I3-s2, g-s1,] [bn-s3 g b] [d~ a-s3 g] [f e-s1, d-s2,]
+=2, min G-s5, Bn-s4,
+/
+3 bars | 3b 2 2 2 2 2 2 2.5 2 2 2 2 2 | 2 2 2 2 2 2 2.5 2 2 2.5 2 2 \
+ | 2 2 2.5 2 2 2 2.5 2 2 2.5 2 2 |
+|
+=1  qua3 rest [G-I3 c'] [e c e] [g db-s2 c] [B'-s3 A G]
+=2' cro e rest' min rest'
+=2, min c en-s1,
+|
+il0.3      40
+=1 cro A-s5 rest min rest
+=2' qua3 rest' [c f] [a f a] [c~ gb-s2 f] [e-s2 db-s1, c-s2,]
+=2, min F-s5, An-s4,
+|
+=1 qua3 rest [F' B'] [db B, d] [f cb-s1 B-s4] [A Gb F]
+=2' cro db rest' min rest'
+=2, min B dn
+/
+4 bars | 3b 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1 1.3 1 \
+ | 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1.3 1.3 1 |
+|
+=1' qua Gb cro e-s5 qua dn [e B-s3] cro cn(1-s5
+=1, min blank cro rest,, qua rest,, E-s2
+=2 cro E-s4, F Gn An
+|
+=1' qua c)1 cro B-s5 qua An [B F-s3] cro G-s4
+=1, qua D rest,, cro rest,, rest,, qua rest,, Db-s2
+=2 cro B-s3, c db' En
+|
+=1' qua Ab-s1-s3 cro f-s5 qua en [f c-s3] cro dn(1-s5
+=1, qua C rest,, cro rest,, rest,, qua rest,, F-blank-s2
+=2 cro F G An Bn
+|
+il0.5         45
+=1' qua d)1 cro c-s5 qua Bn [c G-s3] cro An
+=1, qua En rest,, cro rest,, rest,, qua rest,, Eb-s2
+=2 cro c-s3, dn' eb F#
+/
+3 bars | 3b 24 | 2.6 2.6 2 2.6 2 2 2 2 2 2 2 2 \
+ | 1.4 1.4 1.5 1.5 1.4 1.4 1.4 1.4 1.5 1.5 1.5 1.5 1.6 1.6 2.4 1.6 |
+|
+=1' qua3 [B G-s2 B-s3] [d B-s1 d-s2] min g(1-s5
+=1, qua D rest,, cro rest,, qua rest, [d-s2 c B-s2]
+=2  min G-s4, B-s3,
+|
+rs1.6 .58 4-5
+=1' qua3 [g)1 f#-s3 en] [f an-s4 d~] min c~(1
+=1, qua An rest, cro rest, qua rest, [bb an g]
+=2  min d-s2, eb
+|
+=1' min c~)1(1-s3 qua [c~)1 an-s4] cro bb(1
+=1, qua [an d eb-s2 c] cro d smq rest [a g f#]
+=2' min F# cro rest d-s1,
+/
+4 bars | 3b 1.3 1 1 1 1.7 1.3 1.3 1 | 1 1.3 1.3 1 1.3 1 1.3 1 \
+ | 1 1.3 1.3 1 1 1.3 1 1 | 1.7 1.3 1 1 1 1 1.3 1 |
+|
+=1' qua [b)1 an b g] min a(1
+=1, min g(2 qua [gr)2 en f# an]
+=2 min c# cn-s1,
+|
+il0.9 .65 50
+=1' qua [a)1 g-s3 ab f#] cro. g-s5 qua fn-s4
+=1, min d(2 qua [d)2 c#-s2] cro d-s1
+=2 min Bn Bb(2
+|
+=1' min en(1-s5 qua [e)1 d eb c]
+=1, qua rest, [G cn---s3 Bn] min c(2
+=2 cro B)2 An-s1, Ab G-s1,
+|
+=1' smb d(1-s5
+=1, qua [cr)2 An-s2 Bb c] [B A G F#]
+=2 cro F#-s3, qua [En D] cro G c
+
+6 systems /20-36-20/20-30-20/20-30-20/20-33-20/20-30-20/20-35-20/
+pagenum 6
+innerhead Ricercare a 3, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 1.3 1.3 1 1 1 1 1 1 | 1 1.3 1 1 1 1.3 1.3 1 \
+ | 1 1 1 1.2 1 1.3 1 1 | 1 1.3 1.3 1 1 1 1 1 |
+|
+=1' qua [d)1-s1-s5 en-s3 f# g] [f e d c]
+=1, cro G min. blank
+=2' cro rest' d rest' f#
+=2, min B-s2, An
+|
+=1' qua [B-s3 G An B] [A G F#-s3 En]
+=2' cro g rest'' min rest'
+=2, cro G en f# An
+|
+il0.3   55
+=1 cro D rest min rest
+=2' qua rest' [b-s2 c~ d~] [c~-s1-s3 b an g-s2,]
+=2, cro B g-s1, an c-s5,
+|
+=1 qua rest' [d-s2 eb fn] [e d c B,-s3]
+=2' cro fn min blank cro g
+=2, cro d-s3,-s4, b-s2, c~ eb(2-s2,-s4,
+/
+4 bars | 3b 1.3 1 1 1 1 1 1.3 1 | 1 1 1.3 1 1 1 1 1 | 8 | 8 |
+|
+=1' min blank cro G f'(1-s2-s4
+=1, qua [An Bn c d] cro rest,, d
+=2' cro f-blank,-s1, rest'' min blank
+=2, qua [er)2 d-s3, e f] [e d c Bn]
+|
+=1' qua [f)1 d e f] cro Bn ab(1-s5
+=1, cro G rest, min rest,
+=2, qua [c f-s2, g ab-s2,] [g-s1, f e d]
+|
+=1' qua [a)1 f g a] [g f e d]
+=2' min c~ e~b
+=2, cro e c c~ g-s5,
+|
+il1.1 .30 60
+=1' qua [c-s2 e-s3 f g] [f-s1-s4 e d-s3 c-s2]
+=1, min G A
+=2 cro e~-s1,-s2, c~ rest' f(2
+/
+4 bars | 3b 1 1 1 1 1 1 1.3 1 | 1 1 1 1 1 1.3 1 1 \
+ | 1.3 1 1 1 1.3 1 1 1 1 | 1.3 1 1 1 1 1 1.3 1 |
+|
+=1' cro g G qua [c-s3 d] cro e(1
+=1, min blank cro rest, G
+=2' min bn
+=2, qua [f)2 d e f] [e d-s1, c Bb]
+|
+=1' cro e)1-s1 An-s2 qua [Bn-s1-s3 c] cro d(1
+=1, min F# Fnl
+=2' qua [An c-s2, d e-s2,] [d-s1, c Bn A]
+|
+=1' cro d)1-s1 G-s2 qua [An Bb] cro c(1
+=1, min En Ebl(2
+=2' qua [G Bn c d] [c Bb A G-s1,]
+|
+=1' qua [c)1 An B c] [B-s1-s4 A-s5 G F#]
+=1, cro E)2 D Db C
+=2 cro F#-s4, rest rest e
+/
+4 bars | 3b 1 1 1 1 1 1 1.3 1 | 1 1 1 1 1.3 1 1 1 \
+ | 1 1 1 1 1 1 1.3 1 | 1 1 1 1 1 1 1.3 1 |
+|
+il0.3 .46 65
+=1' smb G(1-s1-s5
+=1, cro B_n qua [A_n-s2 G_] cro C F
+=2, qua [Fn d-s1, e-s2, f] [e d c Bn]
+|
+=1' cro G)1 min c cro Bb(1
+=1, min E D
+=2, qua [c d e f-s1,] [g-s3, ab-s2, g-s3, f-s1,]
+|
+=1' cro B)1 qua [A G] min A(1
+=1, min C(2 qua [C)2 C D Eb]
+=2 qua [en c,-s4, d, e] cro f F
+|
+=1' cro. A)1 qua F# min G(1
+=1, qua [D C] cro B_(2 qua [B_)2 B_ C Db]
+=2 cro B d-s2, eb E
+/
+4 bars | 3b 8 | 1 1.2 1 1 1 1 1.3 1 \
+ | 1 1.2 1 1 1 1.3 1.3 1 | 1 1 1.3 1 1.3 1 1 1 |
+|
+=1' cro. G)1 qua En [F A B c]
+=2' qua [c~ b] cro a(1 qua [a)1 f-s3, g a]
+=2, cro A-s3, c-s1,-s5, min db(2-s4,
+|
+il0.5         70
+=1' qua [B A G F] [G B c db]
+=2' qua [g f] cro b(1 qua [b)1 g-s3, a b]
+=2, cro d)2 dn-s1,-s5, min e(2-s4,
+|
+=1' qua [c B A G] [A c-s1 dn en]
+=2' qua [a g] cro c~(1 qua [c~)1 a-s2, b g]
+=2, cro e)2 en-s1,-s5, min f(2-s4,
+|
+=1 min f-s1 a
+=2' qua [a c~ d~-s3, e~n] min f~(1
+=2, cro f)2 rest qua rest [d~b-s2, c~ b]
+/
+4 bars | 3b 1.3 1.3 1 1 1.4 1 1 1 | 1.3 1 1 1 1.4 1 1.3 1 \
+ | 1 1 1 1 1.3 1 1 1 | 1 1 1.3 1 1 1 1 1 |
+|
+=1 min c~ d~b
+=2' qua [f~)1 e~b d~b c~-s1,] min b(1-s2,
+=2, min a(2 qua [ar)2 a-s3, g f]
+|
+=1 min en cro rest' c~-s4
+=2' qua [b)1 d~b c~ b] min a(1-s1,
+=2, min g(2 qua [gr)2 g-s2, f eb]
+|
+il0.5       75
+=1 min bn bb
+=2' qua [a)1 a g f] min g-s1,
+=2, min dn qua rest, [en-s3, d c]
+|
+=1' min an ab(1-s4
+=1, qua rest, [C-s1, D-s3, En] min F(2
+=2, min f(2 qua [f)2 f g a]
+rs0.1 .02 4-5
+
+6 systems 8/20-30-20/20-30-20/20-30-20/20-30-20/20-30-20/20-30-20/
+pagenum 7
+innerhead Ricercare a 3, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1 1.3 1 \
+ | 1.3 1 1 1 1.3 1.3 1 1 | 1.4 1.2 1 1 1 1 1.3 1 |
+|
+=1' cro a)1 g-s5 gb-s4 f-s2-s5
+=1, qua [F)2 F-s2, G-s1, A-s2,] [B-s1, c-s1 db B]
+=2 smb b(2-s5,
+|
+=1' cro en-s2-s4 qua [dn c-s1] cro f b
+=1, smb c(2
+=2 qua [b)2 g-s3, a b] [a g f en]
+|
+=1' min a g-s2-s5
+=1, cro c)2 Bn qua [c d-s1] cro eb(2-s3
+=2, qua [f-s2, en f g] [f eb d c]
+|
+il1.1     80
+=1' cro f#-s4 qua [eb-s1-s3 d-s2] cro g-s5 c~-s1-s4
+=1, qua [er)2 c-s2] cro F# rest, e
+=2 qua [d an-s1, b-s2, c~] [b a g f#]
+/
+4 bars | 3b 1.3 1 1 1 1 1 1 1 | 1 1.3 1 1 1 1.3 1.3 1 \
+ | 1 1 1.2 1 1 1 1.3 1 | 8 |
+|
+=1' cro bn-s1-s5 bb-s2-s4 an-s5 ab-s1-s3
+=1, cro d min g cro fnl(2
+=2 qua [g an b c~] [d~-s3, e~-s2, d~-s1, c~]
+|
+=1' min g(1-s5 qua [g)1 g-s4 an bb-s4]
+=1, cro fr)2 qua [e-s2 d] min e(2
+=2 qua [bn g an-s3, b] cro c~ c
+|
+=1' qua [an-s5 g] cro f(1 qua [f)1 f-s4 g ab-s4]
+=1, cro. e)2 qua c# min d(2
+=2 cro f-s3, an-s2, b B
+|
+=1' qua [g-s5 f] cro e(1 qua [e)1 c d e]
+=1, cro. d)2 qua B_n [C E F G]
+=2 cro e g min ab(2
+/
+3 bars | 3b 21 | 21 | 2 2 2 2 2 2 2.4 2 2.5 2.5 2 2 |
+|
+il0.5 .04 85
+=1' qua [d c] cro f(1 qua [f)1 d e f]
+=1, qua [F E D C] [D F G A]
+=2 cro a)1 an min b(2
+|
+=1' qua [e d] cro g(1 qua [g)1 e f d]
+=1, qua [G F E D] [E G An Bn]
+=2 cro b)2 bn c~ rest'
+|
+=1' cro e rest'' min rest''
+=1, qua3 [c G c] [e c e] [g db c] [Bb Ab G]
+=2 min c en
+/
+3 bars | 3b 2 2 2 2 2 2 2.7 2 2.7 2.7 2 2 \
+ | 2 2 2.6 2 2 2 2.6 2 2.6 2.6 2 2 | 2 2 2.7 2 2 2 2.6 2 2.6 2.6 2 2 |
+|
+=1' qua3 rest' [c f] [a f a] [c~ gb f] [eb db c]
+=1, cro A rest, min rest,
+=2 min f an
+|
+=1' cro db rest'' min rest''
+=1, qua3 rest, [F B] [db B d] [f cb B-s4] [Ab Gb F]
+=2 min B dn
+|
+il0.6  90
+=1' qua3 rest' [B e] [gb e g] [b fb e-s3] [db cb B-s4]
+=1, cro Gb rest, min rest,
+=2 min e gn
+/
+4 bars | 3b 8 | 1.2 1 1 1 1 1 1 1 | 1 1 1 1 1 1.3 1 1 | 1.2 1 1 1 1 1 1 1 |
+|
+=1 cro cb' rest' rest' qua rest' A'-s5
+=1 qua qua rest, cro A, qua G, [A, E,] cro F,(2
+=2 cro A-s4, B cn dn'
+|
+=1' cro G rest' rest' qua rest' Gb-s4
+=1, qua Fr)2 cro E-s3 qua D [E B_] cro C-s2
+=2 cro e-s3, f gb An-s4,
+|
+=1' cro F-s1-s3 rest' rest' qua rest' B
+=1, qua Db cro B qua An [B F-s2] cro Gn(2
+=2 cro B c dn, en,-s4,
+|
+=1' cro An rest' rest' qua rest' Ab
+=1, qua Gr)2 cro F qua En [F C] cro D
+=2 cro f g ab Bn-s5,
+/
+3 bars | 3b 24 | 3.5 2.5 2 2 2 2 2 2 2 2 2 2 | 24 |
+|
+il0.4      95
+=1' cro G rest' qua rest'' [g f e-s3]
+=1, qua3 [Eb C E] [G E G--s1] min c(2---s2
+=2 min c e-s3,
+|
+=1' cro d-s4 rest'' qua rest'' [e d c]
+=1, qua3 [cr)2 Bn An] [B d g] min f(,2
+=2 min g-s2, a
+|
+=1' qua [dr G A F] cro G-s2 qua rest'' g-s4
+=1, min f),2 qua rest,, d--s4 cro e(2---s2
+=2 min Bn cro rest g
+
+6 systems 8/20-30-20 5/20-33-20/20-42-20/20-30-20/20-30-20/20-30-20/
+pagenum 8
+innerhead Ricercare a 3, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 1.3 1 1 1 1 1 1 1 | 1 1.3 1.3 1 1.3 1 1 1 \
+ | 1 1 1.3 1 1 1.3 1 1 | 1 1.3 1 1 1 1 1.3 1 |
+|
+=1' qua [an-s5 bn-s4] cro c~(1 qua [c~)1 a b d~]
+=1, qua [e)2 d-s1, e c] min d(2
+=2 min f# fn
+|
+=1' min g(1 qua [g)1 f#] cro g(1
+=1, qua [d)2 c db Bn] cro. c qua Bb
+=2 min en, eb,(1
+|
+il1.2 .23 100
+=1' qua [g)1 c f en] min f(1
+=1, min An(2 qua [A)2 G Ab F]
+=2 cro e,)1 d, db' c'
+|
+=1' qua [f)1 d-s3 eb f] [e d-s5 c-s3 Bn]
+=1, smb G(2
+=2 cro Bn qua [An G] cro c f
+/
+4 bars | 3b 1.3 1.3 1 1 1.3 1.3 1 1 | 1.3 1.3 1.3 1 1 1.3 1.3 1 \
+ | 1.3 1 1.3 1 1 1.3 1 1 | 1.3 1 1 1.3 1 1 1.3 1 |
+|
+=1 qua [c' Bn'] [c, d,] [c, Bb, An, G,]
+=1 cro G,)2 min f#' cro g'(2
+=2 min e d,-tr
+|
+=1' qua [g)2 en-s3 fn g] [f e] cro bb-s2-s5
+=1, min. An qua [d c#]
+=2 cro c# qua [Bn An] cro d, g,
+|
+=1' cro an-s2-s5 min d-s3-s5 cro c(1
+=1, qua [d cn B An] [G B Ab G]
+=2 cro f# fn en eb
+|
+il0.6         105
+=1' qua [c)1 An B G] [En B A Eb]
+=1, cro F# D C#l-s1, Cn-s1,
+=2 smb d(2
+/
+4 bars | 3b 1.3 1.3 1 1 1 1.3 1 1 | 1.3 1.3 1 1 1 1 1 1 \
+ | 1.3 1.3 1 1 1.3 1.4 1.3 1 | 1 1 .9 .9 1.3 1.3 1 1 |
+|
+=1' cro D d c# cn
+=1, qua [B_n-s2, A_n-s3, B_b-s2, G] [A_ G F# A_]
+=2 smb d)2(2
+|
+=1' qua [Bn An] cro Bb(1 qua [B)1 A] cro e(1
+=1, cro. G_ qua F_# cro. G_ qua F#
+=2' cro d)2 d c# cn
+|
+=1' qua [e)1 d] cro g rest'' qua [an cn]
+=1, cro. G qua e [d c#] rest, Anl
+=2' qua [Bn An Bb g] [A g d f#]
+|
+=1' qua [c  B] cro rest' qua rest' [db c B]
+=1, qua [An G] cro rest, qua rest, [B Ab G]
+=2 cro G b en g
+/
+4 bars | 3b 1.3 1 1.3 1 1 1 1.3 1 | 1 1 1.3 1 1 1 1 1 \
+ | 1 1 1 1.3 1 1 1 1 | 1 1 1 1 1.3 1 1.3 1 |
+|
+il0.4    110
+=1' qua rest' [B A G] rest [G F En]
+=1, qua rest,, [Db C B_] min blank
+=2' min blank qua rest'' [b a g]
+=2, cro c qua [d en] [f e] cro f(2
+|
+=1' qua [En{2 F}2] rest' d rest' f rest' d
+=1, cro blank qua rest, Bn rest, B rest, B
+=2' qua [g(1 a] min. blank
+=2, cro fr)2 a d f
+|
+=1' qua rest'' [c~ b a] rest'' [a g f]
+=1, qua rest [a g f] rest [f e d]
+=2 cro Bb qua [c' d'] [eb, d,] cro e(1
+|
+=1' qua [f g] rest' c [c Bn] cro f(1
+=1, qua [d e] cro rest, rest, qua rest, A
+=2 qua [e,)1 d, e, f,] [e' d' c' Bn']
+/
+4 bars | 3b 1.3 1 1.3 1 1.3 1.3 1 1 | 1 1 1 1.3 1.3 1 1.3 1 \
+ | 1 1 1 1.3 1.3 1.3 1.3 1 | 
+|
+=1' cro f)1 qua [e A] [A G] cro db(1
+=1, qua [A G] cro rest,, rest,, qua rest, B
+=2 qua [c Bn c db'] [c Bb A G]
+|
+il0.7    115
+=1' cro d)1 qua [c e] [dn db c cb]
+=1, qua [B E] cro A rest, qua rest, Dn
+=2 cro A c e f
+|
+=1' qua [cb B] cro rest' rest' qua rest' e
+=1, qua [D E] rest, B [An Ab G Gb]
+=2, cro G B d e
+|
+=1' qua [e d] rest' A [Gn Gb F Fb]
+=1, qua [Gb F] min. blank
+=2' cro blank qua rest' c~ qua [bn bb an ab]
+=2, cro F A c d
+/
+4 bars | 3b 1.3 1 1 1 1.3 1.3 1.3 1 | 1 1.3 1 1.3 1.3 1 1.3 1 \
+ | 1.3 1 1 1.3 1.3 1 1.3 1 | 1.3 1.3 1 1 1.3 1 1.3 1 |
+|
+=1' qua [Fb{2 E}2] rest E [F Fn Gb Gn]
+=2' qua [a gn] cro g a b
+=2, cro E e d db
+|
+=1' qua [A G Gb F] min B(1
+=1, cro blank qua rest,, C, [Db Dn E En]
+=2 cro <c, e'> A G Gb
+|
+il0.5       120
+=1' qua [B)1 Gn A F] [Gb Gn A An]
+=1, qua [F En F A_] cro B_ C
+=2 cro F f en eb
+|
+=1' qua [B An Ab G] min c'(1
+=1, cro blank qua rest,, D [E En F F#]
+=2 cro <d, f'> B An Ab
+
+6 systems /20-40-20/20-30-20/20-40-20/20-30-20/20-30-20/20-30-20/
+pagenum 9
+innerhead Ricercare a 3, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+3 bars | 4.4 | 4 | 4 |
+|
+=1 qua [c')1 An'] cro B' min rest
+=1 qua [G, F#l,] cro G, rest, qua rest, D,
+=2 cro G g f# fn
+|
+=1 cro rest' G' F#' Fn'(1
+=1 qua [C#, Cn, B_n, B_b,] [A_n, B_, B_n, C,]
+=2 cro en min eb qua [d' c']
+|
+=1 cro F')1 qua [E' D'] qua3 [E' F' G'] [A' G' F']
+=1 cro D, min C, cro B_n,
+=2 qua [Bn' smq An' G'] qua [c, f,] cro e, d,
+/
+3 bars | 1.1 1.1 1.3 1.1 | 1.2 1 1 1 | .6 .6 .5 .5 .6 1 .6 .6 |
+|
+il0.4       125
+=1' cro E c Bn Bb
+=1, cro C qua rest, A(2 [Ar)2 smq G F] cro G(2
+=2, qua [c d e c] [db dn eb en]
+|
+=1 cro An min Ab qua [G' F']
+=1 qua [Gr,)2 smq F, E,] qua [D, C,] cro B_n, qua [G' F']
+=2' min. blank cro bb'(1
+=2, qua [f c f eb] [d c db B]
+|
+=1 qua [En' smq D' C'] qua [F' c'] cro A' G'
+=2 cro b')1 qua [a' g'] cro f' enrl'
+=2 min c,(2 qua3 [c,)2 B, c,] [dbl, c, B,]
+/
+3 bars | 5.7 | 4 | 4 |
+|
+=1' qua3 [F G A] [B A G] [A B c] [db c B]
+=1, cro blank qua rest,, En cro F qua rest, G
+=2 cro <A, f'> c, min F(2
+|
+=1 cro c' min f' cro e'(1
+=1 cro A, qua rest, A, cro G, Gb,
+=2 qua [F)2 G A B] [c A B c]
+|
+il0.8             130
+=1 qua [e')1 db' c' B'] [A' cb' B' A']
+=1 cro F, min E, cro Dn,
+=2 cro db, e, qua [f e] cro f
+/
+4 bars |3b 1 1.3 1 1 1.3 1 1 1 | 1 1 1 1.3 1.6 1 1 1 \
+ | 1 1.3 1.3 1 1.3 1.3 1.3 1 | 1.3 1.3 1 1.3 1.3 1 1.3 1 |
+|
+=1' cro B min e cro db(1
+=1, cro G qua rest, Gb cro F, Fb,
+=2' qua [e F Gb A] [B Gn A B]
+|
+=1' qua [d)1 c B A] [Gb Bbb A G]
+=1, cro E min Db cro C
+=2 cro c db qua [e, d,] cro e,
+|
+=1' cro A min db cro c(1
+=1, cro F qua rest, Fb min E
+=2' qua [db E Fb Gb] [A Fn Gn An]
+|
+=1' cro c)1 min B qua [A G]
+=1, cro Dn Db min C(2
+=2 qua [B Ab Gb F] [En Gn F Eb]
+/
+4 bars | 3b 1.1 1.3 1 1.3 1 1.34 1.2 1 | 1 1 1 1.3 1.3 1 1 1 \
+ | 1 1 1 1 1.3 1.3 1.3 1 | 1 1 1 1 1.2 1 1.3 1 |
+|
+il0.4     135
+=1 min F cro rest B(1
+=2' qua [c~)1 c~ bb a] [gb f enrl f]
+=2, cro Db F B dbl
+|
+=1' qua [B)1 A G F] [En db c B]
+=2' min en rest'
+=2, cro G cro. c qua [B A G]
+|
+=1' qua [A G F G] min A(1
+=1, cro rest,, F(2 qua [F)2 En Eb Dn]
+=2 cro F A db, f
+|
+=1' qua [A)1 c B A] [G f e db]
+=1, cro Db, min blank
+=2' cro blank g b rest'
+=2, cro B cro. e qua [db c B]
+/
+4 bars | 3b 1 1 1 1 1.1 1 1.3 1 | 1 1.3 1 1 1 1 1.3 1 \
+ | 1 1 1 1 1.3 1 1 1 | 8 |
+|
+=1' qua [c B A B] min c(1
+=1, cro rest, qua rest, B(2 [Br)2 A G F#]
+=2 cro A c f a
+|
+il0.5     140
+=1' cro c)1 Bn min rest
+=1, qua [Fn A G F] [E D C B_n]
+=2, cro dn cro. g qua [f e d]
+|
+=1' min c e
+=1, qua C rest, cro rest, qua rest, [Bn c d]
+=2' qua [e c B A] [G F E D]
+|
+=1' min g a
+=1, cro e min c cro f(2
+=2 qua [C' c' d' e'] [f, g, a, f,]
+
+6 systems /20-30-20/20-40-20/20-40-20/20-30-20/20-30-20/20-30-20/
+pagenum 10
+innerhead Ricercare a 3, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 8 | 1 1 1 1.3 1 1.3 1 1 \
+ | 1.3 1 1 1.3 1.3 1.3 1 1 | 1.3 1 1 1 1.3 1 1.3 1 |
+|
+=1' qua [f)1 d e f] cro rest'' g
+=1, min Bn qua [e d c B]
+=2 cro g G qua [c' d'] cro e,(1
+|
+=1' min f# fn
+=1, qua [An c d e] [d c Bn A]
+=2 cro e,)1 An qua [Bn c] cro d,(1
+|
+il0.4      145
+=1' min en eb(1
+=1, qua [G Bn c d] [c Bb An G]
+=2 cro d,)1 G qua [An Bb] cro c(2
+|
+=1' cro e)1 d db c
+=1, cro F# min G cro Ab(2
+=2 qua [c')2 An B c] [B Ab G F#]
+/
+4 bars | 3b 1.2 1 1 1.2 1 1 1.3 1 | 1 1 1.3 1 1 1 1 1 \
+ | 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1 1.3 1 |
+|
+=1' cro Bn qua [An G] cro c f
+=1, qua [Ar)2 D E Fr] [E D C B_n]
+=2 cro G rest rest g
+|
+=1' min e cro d db
+=1, qua [C F G Ab(2] [A)2 A G F]
+=2 cro a f min b(1
+|
+=1' qua [c g a b] [a g f# g]
+=1, min En Eb
+=2 cro b)1 g min c~(1
+|
+il0.8      150
+=1' min f#(1 qua [f)1 f g an]
+=1, qua [D c d e] [d c B An]
+=2 cro c~)1 an min d~(1
+/
+3 bars | 3b 4 | 4 | 4 |
+|
+=1' qua [g fn e d] [e c d e]
+=1, qua [B G An B] [Ab G F# G]
+=2 min d~)1 c~(1
+|
+=1 min d'(1 qua [d')1 c' B' An']
+=1 cro F#, qua [G, An,] cro D, rest,,
+=2 qua [c~)1 an b c~] [b a g f#]
+|
+=1 qua [B' d'] cro g' qua [d' g'] cro b'(1
+=1 min G, B,
+=2 qua [g f# g an] [g fn e d,]
+/
+3 bars | 3b 1 1 1 1  1 1 1 1  1 1 1.2 1.6  1.2 1.2 1 1 | 16 | 16 |
+|
+=1' qua [b)1 g an b(1] [b)1 smq a g] [f# g qua a]
+=1, min c e
+=2 cro e c treble min c(1
+|
+il0.7    155
+=1' cro d d~ qua [g an] cro b(1
+=1, min F# cro rest, d
+=2 qua [c,)1 An, B, c,] [B' A G Fn]
+|
+=1' cro b)1 en qua [f# g] cro an(1
+=1, min c# cnl
+=2 qua [En G An B'] [A G F# E]
+/
+3 bars | 3b 4 | 4 | 4 |
+|
+=1 cro a')1 d' qua [en' fn'] cro g'(1
+=1 min Bn, Bbl,(2
+=2 qua [D F# G An] [G Fn En D]
+|
+=1 qua [g')1 en' f' g'] [f' e' d' c#']
+=1 cro B,)2 An, Ab, G,
+=2 cro C# rest rest B bass
+|
+=1 smb d(1
+=1 cro F#, qua [En, D,] cro G, c,
+=2 qua [c~n an b c~] [b a g f#]
+/
+4 bars | 3b 1.3 1 1 1 1 1 1 1 | 1 1.3 1 1 1 1 1 1 \
+ | 8 | .9 .9 1.3 1 1 1 1.3 1 |
+|
+il0.4     160
+=1' cro d)1 min g cro f#
+=1, min B An
+=2 qua [g fn e d,] [c B c d']
+|
+=1' cro g d~ g b
+=1, cro G rest, rest, db
+=2, qua [G g f# g] [b d~ g b]
+|
+=1' qua [en f g e] cro c b(1-s4
+=1, cro G B qua [En F G E]
+=2 min c~ cro rest c~
+|
+=1' cro b)1 qua [ab g] [a g f eb-s3]
+=1, cro C qua [D En] min F(2
+=2 cro ab c~ f qua [g a]
+
+6 systems 10 /20-33-20 5/20-43-20/20-40-20/20-35-20/20-35-20/20-32-20 13/
+pagenum 11
+innerhead Ricercare a 3, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 8 | 1.8 2 2 2 | .9 .9 1 1 1 1.3 1.3 1 | .9 .9 1.3 1 1 1 1.3 1 |
+|
+=1' qua [d-s2 e f g] [a-s4 g-s5] cro a(1-s4
+=1, cro F)2 A qua [D E F D]
+=2 min b cro rest b-s1,-s4,
+|
+il1.2 .01 165
+=1' cro a)1 qua [g-s5 f] [g f e d]
+=1 cro B_, qua [C, D,] min E,(2
+=2 cro g b e qua [f-s5, g]
+|
+=1' cro c qua [d e] min f(1
+=1, cro E)2 qua [D C] [D C B_n A_n]
+=2, min a cro rest d-s1,-s5,
+|
+=1' cro f)1 qua [e d] [e d c Bb-s4]
+=1, cro G_ qua [A_n B_n] min C(2
+=2 cro e,-s3,-s4, g,-s3,-s1, c'-s1,-s5, qua [d, en,]
+/
+4 bars | 3b 1.3 1 1 1 1 1 1.3 1 | .9 .9 1.3 1.1 1.1 1 .9 1 \
+ | 1.6 1.3 1 1 1 1.2 1 1 | 1 1 1.3 1 1 1 1.3 1 |
+|
+rs.7 .78 4 - 5
+=1 cro An-s5 Ab-s1-s4 G-s2-s5 F(1-s3
+=1 cro C,)2 B_n, C, D,
+=2, qua [f eb d f-s1,] [e d c Bn]
+|
+=1 min F)1(1 cro. F)1 qua E-s4
+=1, cro G_ qua [A_n-s2 B_n-s1] [C B_] cro C(2
+=2, min c-s1,-s4, e-s3,
+|
+il0.6 .35 170
+=1 cro D' min G' cro F#'
+=1, qua [Cr)2 B_n-s2 A_n B_] [C E D C-s1,]
+=2 min g-s1, ab-s2,
+|
+=1' qua [G-s1-s3 d-s5 e-s4 fn] [e d-s5 c-s3 Bb]
+=1, cro D G_-s2, qua [C-s1, D-s2,] cro E(2-s1,
+=2 min Bn-s5, cro rest g-s5,
+/
+3 bars | 3b 4 | 4 | 4 |
+|
+=1' qua [An c-s3 d e] [d c Bn A]
+=1, cro E)2 cro A_n-s2, min blank
+=2' min blank qua [bn c~-s2,] cro d~(1
+=2, min f#-s4, fn
+|
+=1' qua [G-s2 Bn-s3 c d] [c Bb An G]
+=2' cro d~)1 g-s2, qua [an bb-s2,] cro c~(1
+=2, min en-s4, ebl(2
+|
+=1 min F#-s2 cro rest e
+=2' qua [c~)1 an-s2, b c~-s1] [b a g f#]
+=2, cro e)2 d-s1,-s5, db c
+/
+4 bars | 3b 1 1 1 1 1 1 1.3 1 | 8 \
+ | 1 1.3 1.3 1 1 1 1 1 | 1.3 1 1.3 1 1.3 1.3 1 1 |
+|
+il0.4       175
+=1' qua [Fn D E F] [E D C B_n]
+=2' smb g(1
+=2, cro Bn qua [An G] cro c-s3, f-s2,
+|
+=1 qua [C F-s3 G-s1-s4 A] [G F E D]
+=2' cro g)1 min c~ cro bn-s1,
+=2, min e-s3, d,
+|
+=1' min E(1-s2-s3 qua [E)1 B-s4 A-s3 G]
+=2' qua [c~ g-s2, ab bb-s1] [a-s1, g f-s1, e-s3,]
+=2, smb c(2
+|
+=1  qua [F# e'-s4] cro d(1-s1 qua [d)1 ab-s4 g f]
+=2' qua [d f#-s3, g an] [g fn-blank,-s1, en d]
+=2, min cr)2 Bb(2-s2,-s5,
+/
+3 bars | 3b 4 | 4 | 4 |
+|
+=1  qua [en d~b] min c~ cro f(1-s1
+=2' qua [c en-s3, f g] [f eb d-s1, c]
+=2, min Br)2 A
+|
+il0.7 .03 180
+=1, qua [f)1 d-s2 eb-s3 c] [An-s2 e d Ab-s2]
+=2' cro Bn g-s1, f# fn-s1,
+=2, smb G(2
+|
+=1  qua [G F#-s4] cro G-s5 F-s4 Fn-s1-s5
+=2' qua [en d eb c~-s2] [d c~-s2 bn d-s2,]
+=2  smb G)2(2
+/
+4 bars | 3b 1 1.3 1.1 1.1 1 1 1 1 | 1 1.3 1 1 1.3 1 1.3 1 \
+ | 1 1 1 1 1 1 1.3 1 | 4 3 ||
+|
+=1  qua [En D] cro Eb(2 qua [E)2 D] cro A(1
+=2' cro. c qua Bn-,-s1, cro. c qua bn-s2
+=2,  cro G)2 G-s5, F#-s2,-s4, Fn
+|
+=1' qua [A)1-s1 G-s3] cro c rest' qua [d Fn]
+=1, cro. C qua A-s3 [G F#] qua rest, D
+=2  qua [En-s4, D Eb c] [D c G-s4, Bn]
+|
+=1' qua [F E] rest' c rest' c rest' Bn
+=1, qua [D C] rest, E rest D rest, F
+=2  cro c A F G
+|
+=1' cro-s Bn{1 min c}1 rest
+=1, cro-s F{2 min En}2 rest,
+=2 min C rest,

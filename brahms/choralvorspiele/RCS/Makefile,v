@@ -1,0 +1,168 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	2001.02.07.08.09.01;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	99.10.18.08.29.56;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	99.10.14.08.55.00;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for O wie selig
+@
+
+
+1.3
+log
+@use a42us etc, add free edititon
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+
+all : ${FD}/choralvorspiele.us ${SD}/choralvorspiele.us \
+ ${FREED}/choralvorspiele.pdf
+
+${FD}/choralvorspiele.a4 : title.a4 p2.a4 score.a4 ${BLURB}.a4
+	${PSCAT} title.a4 p2.a4 score.a4 ${BLURB}.a4 > $@@
+${FD}/choralvorspiele.us : ${FD}/choralvorspiele.a4
+	${A42US} ${FD}/choralvorspiele.a4 > $@@
+
+${FREED}/choralvorspiele.pdf : title_free.a4 p2.a4 score.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} score.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+score.a4 : score
+	${MUSCRIPT} score > score.a4
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+
+${SD}/choralvorspiele.a4 : score.a4
+	./make_samples
+${SD}/choralvorspiele.us : ${SD}/choralvorspiele.a4
+	${A42US} ${SD}/choralvorspiele.a4 > $@@
+@
+
+
+1.2
+log
+@roll the parts into the score
+@
+text
+@d3 1
+d5 6
+a10 1
+MUSCRIPT = /home/pbin/muscript
+d12 2
+a13 1
+all : choralvorspiele.a4 choralvorspiele.us $(SD)/choralvorspiele.a4
+d15 4
+a18 6
+choralvorspiele.a4 : title.a4 p2.a4 score.a4 ${BLURB}.a4
+	cat title.score.a4 p2.a4 score.a4 ${BLURB}.a4 > $@@
+#	cp $@@ $(FD)/$@@
+choralvorspiele.us : title.us p2.us score.us ${BLURB}.us
+	cat title.score.us p2.us score.us ${BLURB}.us > $@@
+#	cp $@@ $(FD)/$@@
+d20 5
+a24 4
+score.a4 : score ${MUSCRIPT}
+	${MUSCRIPT} score > score.a4
+score.us : score ${MUSCRIPT}
+	${MUSCRIPT} -us score > score.us
+d27 5
+a31 6
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+	groff -p -t -e -ms title >> $@@
+title.us : title.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.a4 >> $@@
+d33 1
+a33 6
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+	groff -p -t -e -ms p2 >> $@@
+p2.us : p2
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat p2.a4 >> $@@
+d35 1
+a35 1
+$(SD)/choralvorspiele.a4 : score.a4
+d37 2
+@
+
+
+1.1
+log
+@cat the separate instruments into parts
+@
+text
+@d6 1
+a6 3
+all : a4 us $(SD)/choralvorspiele.a4
+a4 : choralvorspiele.score.a4 choralvorspiele.parts.a4
+us : choralvorspiele.score.us choralvorspiele.parts.us
+d8 6
+a13 12
+choralvorspiele.score.a4 : title.a4 p2.a4 score.a4 ${BLURB}.a4
+	cat title.a4 p2.a4 score.a4 ${BLURB}.a4 > $@@
+	cp $@@ $(FD)/$@@
+choralvorspiele.score.us : title.us p2.us score.us ${BLURB}.us
+	cat title.us p2.us score.us ${BLURB}.us > $@@
+	cp $@@ $(FD)/$@@
+choralvorspiele.parts.a4 : title.parts.a4 parts.a4 ${BLURB}.a4
+	cat title.parts.a4 parts.a4 ${BLURB}.a4 > $@@
+	cp $@@ $(FD)/$@@
+choralvorspiele.parts.us : title.parts.us parts.us ${BLURB}.us
+	cat title.parts.us parts.us ${BLURB}.us > $@@
+	cp $@@ $(FD)/$@@
+d20 1
+a20 6
+parts.a4 : parts ${MUSCRIPT}
+	${MUSCRIPT} parts > $@@
+parts.us : parts ${MUSCRIPT}
+	${MUSCRIPT} -us parts > $@@
+
+title.a4 : title.score
+d22 1
+a22 1
+	groff -p -t -e -ms title.score >> $@@
+a33 7
+title.parts.a4 : title.parts
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+	groff -p -t -e -ms title.score >> $@@
+title.parts.us : title.parts.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.a4 >> $@@
+@

@@ -1,0 +1,1122 @@
+4 systems 10 / 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/
+title The Rambling Pitchfork
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+midi channel 1 patch 110 pan 90
+midi channel 2 patch 23 pan 10
+midi channel 3 patch 105 pan 50
+
+/
+4 bars | 2# 36 | 36 | 36 | 36 |
+| .19 .14 .17 .19 .14 .17
+=1 treble 2# cha1 vol80 8 [F E F] [A F F]
+=2 treble 2# cha2 vol126 cc11=125 4 F-s2, 8 F 4 A-s3, 8 F
+=3 treble8vab 2# cha3 vol90 leg160 4 D 8 d 4 D 8 d
+|
+=1 8 [d' F F] [A F D]
+=2 4 d-s5, 8 F-s2, [A-s3, F-s2, D-s1,]
+=3 4 D 8 d 4 D 8 d
+|
+=1 8 [G F G] [A, B c]
+=2 4 G-s3, 8 G-s1, 8 [A, B c]
+=3' 4 D 8 B 4 D 8 B
+|
+=1 8 [d e d] [c' A G]
+=2 4 d-s5, 8 d [c' A-s2, G]
+=3 4 D 8 c 4 D 8 c
+
+/
+4 bars | 36 | 36 | 36 | 36 :||
+|
+=1 4. F-turn 8 [A F F]
+# =1 8 blank 16 G 8 blank 16 E 8 blank 8. blank blank 8 blank
+=2 8 [F-s2, E-s1, F] 4 A-s3, 8 F
+=3 4 D 8 d 4 D 8 d
+|
+=1 8 [d' F F] [A F D]
+=2 4 d-s5, 8 F-s2, [A-s3, F-s2, D-s1,]
+=3 4 D 8 d 4 D 8 d
+|
+=1 4. G-turn 8 [B' G B']
+# =1 8 blank 16 A 8 blank 16 F 8 blank 8. blank blank 8 blank
+=2 4 G-s3, 8 G 8 [B' G B']
+=3' 4 D 8 B 4 D 8 c
+|
+=1 8 [A F D] 4 D 8 A
+=2 8 [A F D] 4 D 8 A
+=3 4 D 8 d 4. D
+
+# |
+# =1 8 [F E F] [A F F]
+# =2 4 F-s2, 8 F 4 A-s3, 8 F
+# =3 4 D 8 d-s3 4 D 8 d-s3
+# |
+# =1 8 [d' F F] [A F D]
+# =2 4 d-s5, 8 F-s2, [A-s3, F-s2, D-s1,]
+# =3 4 D 8 d-s3 4 D 8 d-s3
+# |
+# =1 8 [G F G] [A, B c]
+# =2 4 G-s3, 8 G-s1, 8 [A, B c]
+# =3' 4 D 8 B-s0 4 D 8 B-s0
+# |
+# =1 8 [d e d] [c' A G]
+# =2 4 d 8 d-s5, [c' A G]
+# =3 4 D 8 c-s2 4 D 8 c-s2
+# |
+# =1 4. F-turn 8 [A F F]
+# =1 8 blank 16 G 8 blank 16 E 8 blank 8. blank blank 8 blank
+# =2 8 [F-s2, E-s1, F] 4 A-s3, 8 F
+# =3 4 D 8 d-s3 4 D 8 d-s3
+# |
+# =1 8 [d' F F] [A F D]
+# =2 4 d-s5, 8 F-s2, [A-s3, F-s2, D-s1,]
+# =3 4 D 8 d-s3 4 D 8 d-s3
+# |
+# =1 4. G-turn 8 [B' G B']
+# # =1 8 blank 16 A 8 blank 16 F 8 blank 8. blank blank 8 blank
+# =2 4 G-s3, 8 G-s1, 8 [B' G B']
+# =3' 4 D 8 B-s0 4 D 8 c-s3
+# |
+# =1 8 [A F D] 4 D 8 A
+# =2 8 [A F D] 4 D 8 A
+# =3 4 D 8 d-s3 4. D
+
+/
+4 bars ||: 36 | 36 | 36 | 36 |
+|
+=1 4 d 8 e [f d f]
+=2 8 [d-s5, c B] [A G-s1, F-s2,]
+=3 4 A 8 d 4 A 8 d
+|
+=1, 8 [e c A] [A B c]
+=2' 8 [E-s1, F-s2, G-s1,] [A B c]
+=3 4 A 8 c 4 A 8 c
+|
+=1 8 [d c d] [e d e]
+=2 8 [B c d-s5] [c-s3 d-s1 e]
+=3' 4 A 8 B 4 A 8 B
+|
+=1 8 [f a f] [g f e]
+=2 4 f 8 f [g f e]
+=3 4 A 8 c 4 A 8 c
+
+/
+4 bars | 36 | 36 | 36 | 36 :||
+|
+=1 4 d 8 e [f d f]
+=2 8 [d c-s4, B] [A G F-s2,]
+=3 4 A 8 d 4 A 8 d
+|
+=1 8 [e c A,] [A G F]
+=2' 4 E-s1, 8 G [F G A-s4,]
+=3 4 A 8 c 4 A 8 c
+|
+=1 4. G-turn 8 [B' G B']
+# =1 8 blank 16 A 8 blank 16 F 8 blank 8. blank blank 8 blank
+=2' 4 G-s1, 8 B [A B c]
+=3 4 G 8 e 4 A 8 e
+|
+=1 8 [A F D] [D F A]
+=2 8 [d'-s5, A-s3, F-s2,] 4. D
+=3 4 D 8 d 4. D
+
+# |
+# =1 4 d 8 e [f d f]
+# =2 8 [d-s5, c B] [A G-s1, F-s2,]
+# =3' 4 A 8 d 4 A 8 d
+# |
+# =1, 8 [e c A] [A B c]
+# =2' 8 [E-s1, F-s2, G-s1,] [A B c]
+# =3' 4 A 8 c 4 A 8 c
+# |
+# =1 8 [d c d] [e d e]
+# =2 8 [B c d-s5] [c-s4 d e-s2]
+# =3' 4 A 8 B 4 A 8 B
+# |
+# =1 8 [f a f] [g f e]
+# =2 4 f 8 f [g f e]
+# =3' 4 A 8 c 4 A 8 c
+# |
+# =1 4 d 8 e [f d f]
+# =2 8 [d-s5, c B] [A G-s1, F-s2,]
+# =3' 4 A 8 d 4 A 8 d
+# |
+# =1 8 [e c A,] [A G F]
+# =2' 4 E-s1, 8 G [F G A-s4,]
+# =3' 4 A 8 c 4 A 8 c
+# |
+# =1 4. G-turn 8 [B' G B']
+# =1 8 blank 16 A 8 blank 16 F 8 blank 8. blank blank 8 blank
+# =2 4 G-s1, 8 B [A B' c']
+# =3' 4 G 8 e 4 A 8 e
+# |
+# =1 8 [A F D] [D F A]
+# =2 8 [d'-s5, A-s3, F-s2,] 4. D
+# =3' 4 D 8 d 4. D
+
+
+4 systems 10 / 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/
+title The Blackthorn Stick
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+/
+4 bars ||: 36 | 36 | 36 | 36 |
+| .19 .14 .17 .19 .14 .17
+=1 treble 1# cha1 vol80 8 [g f g] [e f g]
+=2 treble 1# cha2 vol126 cc11=125 8 [G A B'] [c d e]
+=3 treble8vab 1# cha3 vol90 leg160 16 [g g g g] 83 [e g e]
+|
+=1' 8 [d B G] [A G E]
+=2' 8 [d B G] [A G E]
+=3 4 d 8 G 4 E 8 G
+|
+=1 8 [D G G] [F G A]
+=2 8 [D G G] [F G A]
+=3 4 D 8 D 4 D 8 D
+|
+=1 8 [B' G B'] 4 A 8 d
+=2 8 [G F E] [D E F]
+=3' 4 D 8 D [D A d]
+
+/
+4 bars | 36 | 36 | 36 | 36 :||
+|
+=1 8 [g f g] [a g e]
+=2 8 [G A B'] [c d e]
+=3 16 [g g g g] 83 [a g e]
+|
+=1' 8 [d B G] [A G E]
+=2' 8 [d B G] [A G E]
+=3 4 d 8 G 4 E 8 G
+|
+=1 8 [D G G] [F G A]
+=2 8 [D G G] [F G A]
+=3 4 D 8 D [D E F]
+|
+=1 8 [B' G G] 4 G 8 d
+=2 4. G 8 [D E F]
+=3 4 G 8 G 4. G
+
+# |
+# =1 8 [g f g] [e f g]
+# =2 8 [G A B'] [c d e]
+# =3 84 [g g g g] 8 [e g e]
+# |
+# =1' 8 [d B G] [A G E]
+# =2' 8 [d B G] [A G E]
+# =3 4 d 8 G 4 E 8 G
+# |
+# =1 8 [D G G] [F G A]
+# =2 8 [D G G] [F G A]
+# =3 4 D 8 D 4 D 8 D
+# |
+# =1 8 [B' G B'] 4 A 8 d
+# =2 8 [G F E] [D E F]
+# =3' 4 D 8 D [D A d]
+# |
+# =1 8 [g f g] [a g e]
+# =2 8 [G A B'] [c d e]
+# =3 84 [g g g g] 8 [a g e]
+# |
+# =1' 8 [d B G] [A G E]
+# =2' 8 [d B G] [A G E]
+# =3 4 d 8 G 4 E 8 G
+# |
+# =1 8 [D G G] [F G A]
+# =2 8 [D G G] [F G A]
+# =3 4 D 8 D [D E F]
+# |
+# =1 8 [B' G G] 4 G 8 d
+# =2 4. G 8 [G A B']
+# =3 4 G 8 G 4. G
+
+/
+4 bars ||: 36 | 36 | 36 | 36 |
+|
+=1 8 [e d d] [g d d]
+=2 8 [c d d] [B d d]
+=3 16 [d d d d] 43 d 83 d
+|
+=1 8 [e d d] [g d d]
+=2 8 [G, d d] [G A B']
+=3 16 [d d d d] 43 d 83 d
+|
+=1 8 [e d d] [g f g]
+=2 8 [c d d] [B d d]
+=3 16 [d d d d] 83 [d d d]
+|
+=1 8 [e d B] 4 A 8 d
+=2 4. A 8 [D E F]
+=3 8 [c' B' G] 4 F 8 d
+
+/
+4 bars | 36 | 36 | 36 | 36 :||
+|
+=1 8 [g f g] [a g e]
+=2 8 [G A B'] [c d e]
+=3 16 [g g g g] 83 [a g e]
+|
+=1' 8 [d B G] [A G E]
+=2' 8 [d B G] [A G E]
+=3 4 d 8 G 4 E 8 G
+|
+=1 8 [D G G] [F G A]
+=2 8 [D G G] [F G A]
+=3 4 D 8 D [D E F]
+|
+=1 8 [B' G G] 4 G 8 d
+=2 4. G 8 [G A B']
+=3 4 G 8 G 4. G
+
+# |
+# =1 8 [e d d] [g d d]
+# =2 8 [c d d] [B d d]
+# =3 84 [d d d d] 4 d 8 d
+# |
+# =1 8 [e d d] [g d d]
+# =2 8 [G, d d] [G A B']
+# =3 84 [d d d d] 4 d 8 d
+# |
+# =1 8 [e d d] [g f g]
+# =2 8 [c d d] [B d d]
+# =3 84 [d d d d] 8 [d d d]
+# |
+# =1 8 [e d B] 4 A 8 d
+# =2 4. A 8 [D E F]
+# =3 8 [c' B' G] 4 F 8 d
+# 
+# |
+# =1 8 [g f g] [a g e]
+# =2 8 [G A B'] [c d e]
+# =3 84 [g g g g] 8 [a g e]
+# |
+# =1' 8 [d B G] [A G E]
+# =2' 8 [d B G] [A G E]
+# =3 4 d 8 G 4 E 8 G
+# |
+# =1 8 [D G G] [F G A]
+# =2 8 [D G G] [F G A]
+# =3 4 D 8 D [D E F]
+# |
+# =1 8 [B' G G] 4 G 8 d
+# =2 4. G 8 [D E F]
+# =3 4 G 8 G 4. G
+
+4 systems 10 / 19-25-19-35-19/ 19-25-19-35-19/ 19-25-19-35-19/ 19-25-19-35-19/
+title Whelan's Jig
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+/
+4 bars ||: 1# 36 | 36 | 36 | 36 |
+| .21 .12 .17 .20 .13 .17
+=1' treble 1# cha1 vol100 4 E 8 E [B A F]
+=2' treble 1# cha2 vol126 cc11=125 4 E 8 E [B A F]
+=3 treble8vab 1# cha3 vol90 leg100 4 e 8 E [B' E B']
+|
+=1 8 [F E B'] [A F D]
+=2 4 F 8 B' [A F D]
+=3 4 d 8 E [d{1 B}1 d]
+| .19 .14 .17 .20 .13 .17
+=1' 8 [E B_ E] [B A F]
+=2' 8 [E B_ E] [B A F]
+=3 4 e 8 E [B' E B']
+| .21 .12 .17 .20 .13 .17
+=1' 8 [d A F] [F E D]
+=2 8 [d rest A,] [F E D]
+=3  4 D 8 d 4 B 8 B
+/
+4 bars | 1# 36 | 36 | 36 | 36 :||
+| .19 .14 .17 .20 .13 .17
+=1' leg60 8 [E 16 E E 8 E] leg95 [B A F]
+=2' 4 E 8 E [B A F]
+=3 4 e 8 E [B' E B']
+| .21 .12 .17 .20 .13 .17
+=1 8 [F E B'] [A F A]
+=2 8 [D E B'] [A rest F]
+=3 4 d 8 E [d{1 B}1 A,]
+| .19 .14 .17 .20 .13 .17
+=1 8 [B c B] [B' A G]
+=2' 4 G 8 A 8 [B rest G]
+=3 8 [G{2 A}2 G] [G{2 F}2 E]
+| .21 .12 .17 .20 .13 .17
+=1' 8 [d A F] [F E D]
+=2' 8 [d rest A] [F E D]
+=3  4 D 8 d 4 B 8 B
+
+# | .21 .12 .17 .20 .13 .17
+# =1' 8 [E 16 F 8 E 16 D 8 E] 2 blank
+# =1' 4. blank 8 [B A F]
+# =2' 4 E 8 E [B A F]
+# =3 4 e 8 E [B' E B']
+# |
+# =1 8 [F E B'] [A F D]
+# =2 4 F 8 B' [A F D]
+# =3 4 d 8 E [d{1 B}1 d]
+# | .19 .14 .17 .20 .13 .17
+# =1' 8 [E B_ E] [B A F]
+# =2' 8 [E B_ E] [B A F]
+# =3 4 e 8 E [B' E B']
+# | .21 .12 .17 .20 .13 .17
+# =1' 8 leg150 [d rest leg95 F] [F E D]
+# =2 8 [d rest A,] [F E D]
+# =3  4 D 8 d 4 B 8 B
+# | .19 .14 .17 .20 .13 .17
+# =1' 8 [E 16 F 8 E 16 D 8 E] 2 blank
+# =1' 4. blank 8 [B A F]
+# =2' 4 E 8 E [B A F]
+# =3 4 e 8 E [B' E B']
+# | .21 .12 .17 .20 .13 .17
+# =1 8 [F E B'] [A F A]
+# =2 8 [D E B'] [A rest F]
+# =3 4 d 8 E [d{1 B}1 A,]
+# | .19 .14 .17 .20 .13 .17
+# =1 8 [B 16 c 8 B 16 A 8 B] 2 blank
+# =1 4. blank 8 [B' A G]
+# =2' 4 G 8 A 8 [B rest G]
+# =3 8 [G{2 A}2 G] [G{2 F}2 E]
+# | .21 .12 .17 .20 .13 .17
+# =1' 8 [d A F] [F E D]
+# =2' 8 [d rest A] [F E D]
+# =3  4 D 8 d 4 B 8 B
+
+/
+4 bars ||: 1# 36 | 36 | 36 | 36 |
+| .21 .12 .17 .20 .13 .17
+=1 4 B 8 B [e B e]
+=2 8 [B c B] [e B e]
+=3  4 B 8 B 4 e 8 e
+|
+=1 8 [f e d] [e f d]
+=2 8 [f e d] [e rest d]
+=3 4 d 8 D 4 d 8 A
+| .19 .14 .17 .20 .13 .17
+=1 8 [B' A B'] 4 g 8 e
+=2 8 [B' A B'] [g f e]
+=3 4 B 8 B [e f g]
+|
+=1 8 [f d B] [A F A]  
+=2 8 [f d B] 4 A 8 A] 
+=3 4 f 8 D 4 d 8 A
+/
+4 bars | 1# 36 | 36 | 36 | 36 :||
+| .21 .12 .17 .20 .13 .17
+=1 4 B 8 B [e B e]
+=2 8 [B c B] [e B e]
+=3  4 B 8 B 4 e 8 e
+|
+=1 8 [f e d] 4 e 8 f
+=2 8 [f e d] [e rest d]
+=3 4 d 8 D 4 B 8 d
+| .19 .14 .17 .20 .13 .17
+=1 16 [g a b g] [f g a f]
+=2 8 [g a g] [f g f]
+=3 8 [g d g] [d f d]
+|
+=1 [e d B] [A F D]
+=2 [e d B] [F rest, D]
+=3 4 e 8 B 4 A 8 D
+
+# | .21 .12 .17 .20 .13 .17
+# =1 4 B 8 B [e B e]
+# =2 8 [B c B] [e B e]
+# =3  4 B 8 B 4 e 8 e
+# |
+# =1 8 [f e d] [e f d]
+# =2 8 [f e d] [e rest d]
+# =3 4 d 8 D 4 d 8 A
+# | .19 .14 .17 .20 .13 .17
+# =1 8 [B' A B'] 4 g 8 e
+# =2 8 [B' A B'] [g f e]
+# =3 4 B 8 B [e f g]
+# |
+# =1 8 [f d B] [A F A]  
+# =2 8 [f d B] 4 A 8 A] 
+# =3 4 f 8 D 4 d 8 A
+# | .21 .12 .17 .20 .13 .17
+# =1 4 B 8 B [e B e]
+# =2 8 [B c B] [e B e]
+# =3  4 B 8 B 4 e 8 e
+# |
+# =1 8 [f e d] 4 e 8 f
+# =2 8 [f e d] [e rest d]
+# =3 4 d 8 D 4 B 8 d
+# | .19 .14 .17 .20 .13 .17
+# =1 16 [g a b g] [f g a f]
+# =2 8 [g a g] [f g f]
+# =3 8 [g d g] [d f d]
+# |
+# =1 [e d B] [A F D]
+# =2 [e d B] [F rest, D]
+# =3 4 e 8 B 4 A 8 D
+
+### | 0.5 1.4
+### =1 1 <B_ E>
+### =2 1 E
+### =3 8 leg200 [E G B] 4. leg100 e
+
+4 systems 10 / 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/
+title O'Keefe's Jig
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+/
+5 bars ||: 2# 36 | 36 | 6 8 6 6 6 5 | 36 | 36 |
+| .20 .13 .17 .19 .14 .17
+=1 treble 2# cha1 vol90 8 [A F A] [D F A]
+=2 treble 2# cha2 vol106 cc11=125 2. D
+=3 treble8vab 2# cha3 vol90 leg160 4. A 8 [A F A]
+| .19 .14 .17 .18 .15 .17
+=1' 8 [B A F] [D F A]
+=2' 8 [D F A] [B A F]
+=3 2. D
+| .20 .13 .17 .19 .14 .17
+midi off
+=1 8 [d 16 d d 8 d] [<c e> d e]
+midi on
+# =1 8 [d 16 d d 8 d] [c d e]
+=2 2. D
+=3, 8 [B B B] [A B c]
+| .19 .14 .17 .18 .15 .17
+=1 8 [f a f] [d e f]
+=2 8 [D F A] [B c d]
+=3 4 d 8 D 4. D
+| .20 .13 .17 .19 .14 .17
+=1 4 g 8 f [g b b]
+=2 2. D
+=3 8 [B d B] 4 c 8 c
+/
+5 bars | 2# 36 | 36 | 36 :|| 36 | 36 |
+| .19 .14 .17 .18 .15 .17
+bl1.5 .09 ___________________________________
+bl0.8 .01 1a
+=1 8 [a f d] [B c d]
+=2 8 [d c B] [A G F]
+=3 4 d 8 D [D E F]
+| .20 .13 .17 .19 .14 .17
+=1 8 [e f e] 163-s [e' f'] 43 e 8 d
+=2 4. E 4 E 8 B
+=3' 8 [G# B G] 4. G
+| .19 .14 .17 .17 .16 .17
+=1, 8 [c B A] [B c d]
+=2, 8 [c B A] [B c d]
+=3 4. A rest
+
+# | .20 .13 .17 .19 .14 .17
+# =1 8 [A F A] [D F A]
+# =2 2. D
+# =3 4. A 8 [A F A]
+# | .19 .14 .17 .18 .15 .17
+# =1' 8 [B A F] [D F A]
+# =2' 8 [D F A] [B A F]
+# =3 2. D
+# | .20 .13 .17 .19 .14 .17
+# =1 8 [d 16 d d 8 d] [e d e]
+# =2 2. D
+# =3, 8 [B B B] [A B c]
+# | .19 .14 .17 .18 .15 .17
+# =1 8 [f a f] [d e f]
+# =2 8 [D F A] [B c d]
+# =3 4 d 8 D 4. D
+# | .20 .13 .17 .19 .14 .17
+# =1 4 g 8 f [g b b]
+# =2 2. D
+# =3 8 [B d B] 4 c 8 c
+
+| .19 .14 .17 .18 .15 .17
+bl1.5 .11 ____________________
+bl0.8 .01 2a
+=1 8 [a f d] 4 B' 8 A
+=2 8 [d c B] 4. F
+=3 4 d 8 D [D E F]
+| .20 .13 .17 .19 .14 .17
+=1, 8 [A B d] [e f e]
+=2 4 E 8 D 4. A
+=3 4 Gn 8 B' 4 A 8 c
+
+/
+5 bars | 2# 36 ||: 36 | 36 | 36 | 6 6 6 6 8 5 |
+| .19 .14 .17 .18 .15 .17
+=1 4. d 8 [d c d]
+=2 4 d 8 d [d c B]
+=3 4. d d
+| .20 .13 .17 .19 .14 .17
+=1, 8 [e A A] [e f g]
+=2 2. A
+=3, 8 [e A A] [c d e]
+| .19 .14 .17 .18 .15 .17
+=1 163-s  [f' a'] 43 f 8 d 4 f 8 a
+=2 4 A 8 d [d e f]
+=3 4 d 8 A 4. A
+| .20 .13 .17 .19 .14 .17
+=1 8 [f g g] 4 f 8 f
+=2 2. A
+=3 4 e 8 A 4 d 8 A
+| .19 .14 .17 .18 .15 .17
+=1, 8 [e d B] [A 16 B c 8 d]
+=2 8 [A B' A] [A, c d]
+=3' 8 [c A A] 4. A
+
+/
+5 bars | 2# 36 | 36 | 36 | 36 :|| 36 |
+| .20 .13 .17 .19 .14 .17
+=1, 8 [e A A] [e f g]
+=2 2. A
+=3, 8 [e A A] [c d e]
+| .19 .14 .17 .18 .15 .17
+=1 163-s  [f' a'] 43 f 8 d 4 f 8 a
+=2 4 A 8 d 4 D 8 F
+=3 4 d 8 A 4. A
+| .20 .13 .17 .19 .14 .17
+=1 8 [g f e] [d c B]
+=2 8 [E E E] 4 F 8 G
+=3' 8 [B A G] 4 A 8 B
+| .19 .14 .17 .18 .15 .17
+bl1.5 .09 __________
+bl0.8 .01 1a
+=1 4. A 8 [A, c d]
+=2 4. A 8 [d c B]
+=3 4. A 8 [A, c d]
+
+# | .20 .13 .17 .19 .14 .17
+# =1, 8 [e A A] [e f g]
+# =2 2. A
+# =3, 8 [e A A] [c d e]
+# | .19 .14 .17 .18 .15 .17
+# =1 163-s  [f' a'] 43 f 8 d 4 f 8 a
+# =2 4 A 8 d [d e f]
+# =3 4 d 8 A 4. A
+# | .20 .13 .17 .19 .14 .17
+# =1 8 [f g g] 4 f 8 f
+# =2 2. A
+# =3 4 e 8 A 4 d 8 A
+# | .19 .14 .17 .18 .15 .17
+# =1, 8 [e d B] [A 16 B c 8 d]
+# =2 8 [A B' A] [A, c d]
+# =3' 8 [c A A] 4. A
+
+# | .20 .13 .17 .19 .14 .17
+# =1, 8 [e A A] [e f g]
+# =2 2. A
+# =3, 8 [e A A] [c d e]
+# | .19 .14 .17 .18 .15 .17
+# =1 163-s  [f' a'] 43 f 8 d 4 f 8 a
+# =2 4 A 8 d 4 D 8 F
+# =3 4 d 8 A 4. A
+# | .20 .13 .17 .19 .14 .17
+# =1 8 [g f e] [d c B]
+# =2 8 [E E E] 4 F 8 G
+# =3' 8 [B A G] 4 A 8 B
+
+| .19 .14 .17 .18 .15 .17
+bl1.5 .09 __________
+bl0.8 .01 2a
+=1 8 [A F A] [B d d]
+=2 8 [A F A] [B d d]
+=3 8 [A F A] [B d d]
+
+
+4 systems 10 / 19-25-19-35-19/ 19-25-19-35-19/ 19-25-19-25-19/ 19-25-19-25-19/
+title Scully's Jig
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+/
+5 bars ||: 3# 36 | 36 | 36 | 36 | 36 |
+| .19 .14 .17 .19 .14 .17
+=1 treble 3# cha1 vol90 163-s [c' e'] 4. c 8 [d c d]
+=2 treble 3# cha2 vol96 cc11=125 2. <E(1 A_(2>
+=3' treble8vab 3# cha3 vol90 leg100 4. <E A c> <F A d>
+|
+=1 4 e 8 c 4 e 8 f
+=2' 2. <E)1(1 A_)2(2>
+=3, 4. <A c e> 4 e 8 a
+|
+=1, 8 [e c A] [e c A]
+=2 2. <E)1(1 A_)2(2>
+=3, 8 [c e A] [c e A]
+|
+=1 8 [B c B] [B' A B']
+=2 2. <E)1(1 A_)2(2>
+=3' 8 [B A B] [G A B']
+|
+=1 163-s [c' e'] 4. c 8 [d c d]
+=2 2. <E)1(1 A_)2(2>
+=3' 4. <E A c> <F A d>
+
+/ 
+4 bars | 3# 36 | 36 | 36 :|| 36 |
+|
+=1 4 e 8 c 4 e 8 a
+=2 2. <E)1(1 A_)2(2>
+=3, 4. <A c e> 4 e 8 f
+|
+=1 8 [g f e] [d c B]
+=2 2. <E)1(1 A_)2(2>
+=3 8 [g e c] [B' A G]
+|
+bl1.5 .09 __________
+bl0.8 .01 1a
+=1' 4. A(2 8 [A)2 rest B]
+=2' 2. <E)1 A_)2>
+=3' 4. A 8 [A rest E]
+
+# |
+# =1 8 c 16 d 8 c 16 B 8 c 4. blank
+# =1 4. blank 8 [d c d]
+# =2 2. <E(1 A_(2>
+# =3' 4. <E A c> <F A d>
+# |
+# =1 4 e 8 c 4 e 8 f
+# =2' 2. <E)1(1 A_)2(2>
+# =3, 4. <A c e> 4 e 8 f
+# |
+# =1, 8 [e c A] [e c A]
+# =2' 2. <E)1(1 A_)2(2>
+# =3, 8 [c e A] [c e A]
+# |
+# =1 8 [B c B] [B' A B']
+# =2' 2. <E)1(1 A_)2(2>
+# =3 8 [B' A B'] [G A B']
+# |
+# =1 8 [c 16 c c 8 c] [d c d]
+# =2 2. <E)1(1 A_)2(2>
+# =3' 4. <E A c> <F A d>
+# |
+# =1 4 e 8 c 4 e 8 a
+# =2' 2. <E)1(1 A_)2(2>
+# =3, 4. <A c e> 4 e 8 a
+# |
+# =1 8 [g f e] [d c B]
+# =2' 2. <E)1(1 A_)2(2>
+# =3 8 [g e c] [B' A G]
+
+|
+bl1.5 .09 __________
+bl0.8 .01 2a
+=1 4. A 4 A 8 e
+=2' 2 <E)1 A_)2> 4 rest
+=3 4. A 4 A 8 e
+
+/
+5 bars ||: 3# 36 | 36 | 6 6 6 8 6 5 | 6 6 6 8 6 5 | 36 |
+|
+=1 4 a 8 e 4 c 8 a
+=2 2. <E(2 A(1>
+=3 4 a 8 e [c e a]
+|
+=1 4 g 8 f 4. d
+=2' 2. <E)2(2 A)1(1>
+=3 4 g 8 f 4 d 8 B
+|
+=1, 8 [e f e] 16 [d e 8 d B]
+=2' 2. <E)2(2 A)1(1>
+=3 4. E 8 [E F G]
+|
+=1, 8 [e f e] 16 [c e 8 c e]
+=2' 2. <E)2 A)1>
+=3 4 A 8 B' [c d e]
+|
+=1 4 a 8 e 4 c 8 a
+=2 2. <E(2 A(1>
+=3 4 a 8 e [c e a]
+
+/ 
+4 bars | 3# 36 | 36 | 36 :|| 36 |
+|
+=1 4 g 8 f 4 d 8 c
+=2' 2. <E)2(2 A)1(1>
+=3 4 g 8 f 4 d 8 c
+|
+=1, 8 [B c d] [e f g]
+=2' 2. <E)2(2 A)1(1>
+=3, 8 [B c d] [e f g]
+|
+bl1.5 .09 __________
+bl0.8 .01 1a
+=1, 4. a 8 [a rest' e]
+=2' 2. <E)2 A)1>
+=3, 4. <c a> 4 a 8 e
+
+# |
+# =1 4 a 8 e 4 c 8 a
+# =2 2. <E(2 A(1>
+# =3 4 a 8 e [c e a]
+# |
+# =1 4 g 8 f 4. d
+# =2' 2. <E)2(2 A)1(1>
+# =3 4 g 8 f 4 d 8 B
+# |
+# =1, 8 [e f e] 16 [d e 8 d B]
+# =2' 2. <E)2(2 A)1(1>
+# =3 4. E 8 [E F G]
+# |
+# =1, 8 [e f e] 16 [c e 8 c e]
+# =2' 2. <E)2 A)1>
+# =3 4 A 8 B' [c d e]
+# |
+# =1 4 a 8 e 4 c 8 a
+# =2 2. <E(2 A(1>
+# =3 4 a 8 e [c e a]
+# |
+# =1 4 g 8 f 4 d 8 c
+# =2' 2. <E)2(2 A)1(1>
+# =3 4 g 8 f 4 d 8 c
+# |
+# =1, 8 [B c d] [e f g]
+# =2' 2. <E)2(2 A)1(1>
+# =3, 8 [B c d] [e f g]
+
+|
+bl1.5 .09 __________
+bl0.8 .01 2a
+=1, 4. a 4 A 8 B
+=2' 2. <E)2 A)1>
+=3, 4. <e a> 4 a 8 e
+
+
+4 systems 10 / 19-25-19-35-19/ 19-25-19-35-19/ 19-25-19-35-19/ 19-25-19-35-19/
+title Lannigan's
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+/
+4 bars ||: 2# 36 | 36 | 36 | 36 |
+| .18 .15 .17 .18 .15 .17
+=1 treble 2# cha1 vol100 4 E 8 F 4 G 8 A
+=2' treble 2# cha2 vol106 cc11=125 4. E(1 4 E)1 8 F
+=2, treble 2# cha2 vol106 2. B_(2
+=3 treble8vab 2# cha3 vol90 leg190 4. E <G, B e>
+| .18 .15 .17 .17 .16 .17
+=1 4 B' 8 A [B c d]
+=2' 4 G 8 F 4 G 8 E
+=2, 2. B_)2(2
+=3 4. E <G, B e>
+| .18 .15 .17 .18 .15 .17
+=1 4 D 8 E 4 F 8 G
+=2' 4. D(1 4 D)1 8 E
+=2, 2. B_)2(2
+=3 4. D <A, d f>
+| .18 .15 .17 .17 .16 .17
+=1 8 [A B' A] [A F D]
+=2' 4 F 8 E 4 F 8 D
+=2, 2. B_)2
+=3 4. D <A, d f>
+/
+4 bars | 1# 36 | 36 | 36 | 36 :||
+| .18 .15 .17 .18 .15 .17
+=1 4 E 8 F 4 G 8 A
+=2' 4. E(1 4 E)1 8 F
+=2, 2. B_(2
+=3 4. E <G, B e>
+| .18 .15 .17 .17 .16 .17
+=1 4 B' 8 A [B c d]
+=2' 4 G 8 F [G A B]
+=2, 2. B_)2(2
+=3 4. E <G, B e>
+| .18 .15 .17 .18 .15 .17
+=1 8 [e d B] [c B A,]
+=2' 4 G 8 G [A G A]
+=2, 2. B_)2(2
+=3, leg100 4. <E G B e> <E A c# e>
+| .18 .15 .17 .17 .16 .17
+=1 8 [B' E E] 4 E 8 B
+=2' 4 B 8 E 4 E 8 rest
+=2, 2. B_)2
+=3' 2. <E G B e>
+
+# | .18 .15 .17 .18 .15 .17
+# =1  4 E 8 F 4 G 8 A
+# =2' 4. E(1 4 E)1 8 F
+# =2, 2. B_(2
+# =3 leg190 4. E <G, B e>
+# | .18 .15 .17 .17 .16 .17
+# =1' 4 B 8 A [B c d]
+# =2' 4 G 8 F 4 G 8 E
+# =2, 2. B_)2(2
+# =3 4. E <G, B e>
+# | .18 .15 .17 .18 .15 .17
+# =1 4 D 8 E 4 F 8 G
+# =2' 4. D(1 4 D)1 8 E
+# =2, 2. B_)2(2
+# =3 4. D <A, d f>
+# | .18 .15 .17 .17 .16 .17
+# =1 8 [A B' A] [A F D]
+# =2' 4 F 8 E 4 F 8 D
+# =2, 2. B_)2
+# =3 4. D <A, d f>
+# | .18 .15 .17 .18 .15 .17
+# =1 4 E 8 F 4 G 8 A
+# =2' 4. E(1 4 E)1 8 F
+# =2, 2. B_(2
+# =3 4. E <G, B e>
+# | .18 .15 .17 .17 .16 .17
+# =1' 4 B 8 A [B c d]
+# =2' 4 G 8 F [G A B]
+# =2, 2. B_)2(2
+# =3 4. E <G, B e>
+# | .18 .15 .17 .18 .15 .17
+# =1 8 [e d B] [c B A,]
+# =2' 4 G 8 G [A G A]
+# =2, 2. B_)2(2
+# =3, leg100 4. <E G B e> <E A c# e>
+# | .18 .15 .17 .17 .16 .17
+# =1 8 [B' E E] 4 E 8 B
+# =2' 4 B 8 E 4 E 8 rest
+# =2, 2. B_)2
+# =3' 2. <E G B e>
+
+/
+4 bars ||: 2# 36 | 36 | 36 | 36 |
+| .18 .15 .17 .18 .15 .17
+=1 4 e 8 f [g f g]
+=2' 4. E(2 4 E)2 8 E
+=3  leg150 4 E 8 B 4 e 8 B
+| .18 .15 .17 .17 .16 .17
+=1 8 [e a g] [f e d]
+=2' 4 F 8 E [D E F]
+=3 4 D 8 B 4 f 8 A
+| .18 .15 .17 .18 .15 .17
+=1 4 e 8 f [g f g]
+=2' 4. E(2 4 E)2 8 E
+=3  leg150 4 E 8 B 4 e 8 B
+| .18 .15 .17 .17 .16 .17
+=1, 8 [e B B] 4 B 8 B
+=2' 4 F 8 E [D E F]
+=3 4 D 8 B 4 f 8 A
+
+/
+4 bars | 2# 36 | 36 | 36 | 36 :||
+| .18 .15 .17 .18 .15 .17
+=1 4 e 8 f [g f g]
+=2' 4. E(2 4 E)2 8 E
+=3  leg150 4 E 8 B 4 e 8 B
+| .18 .15 .17 .17 .16 .17
+=1 8 [e a g] [f e d]
+=2' 4 F 8 E [D E F]
+=3 4 D 8 B 4 f 8 A
+| .18 .15 .17 .18 .15 .17
+=1 8 [e d B] [c B A,]
+=2' 4 G 8 G [A G A]
+=2, 2. B_(2
+=3, leg100 4. <E G B e> <E A c# e>
+| .18 .15 .17 .17 .16 .17
+=1 8 [B' E E] 4 E 8 B
+=2' 4 B 8 E 4 E 8 rest
+=2, 2. B_)2
+=3' 2. <E G B e>
+
+# | .18 .15 .17 .18 .15 .17
+# =1 4 e 8 f [g f g]
+# =2' 4. E(2 4 E)2 8 E
+# =3  leg150 4 E 8 B 4 e 8 B
+# | .18 .15 .17 .17 .16 .17
+# =1 8 [e a g] [f e d]
+# =2' 4 F 8 E [D E F]
+# =3 4 D 8 B 4 f 8 A
+# | .18 .15 .17 .18 .15 .17
+# =1 4 e 8 f [g f g]
+# =2' 4. E(2 4 E)2 8 E
+# =3  leg150 4 E 8 B 4 e 8 B
+# | .18 .15 .17 .17 .16 .17
+# =1, 8 [e B B] 4 B 8 B
+# =2' 4 F 8 E [D E F]
+# =3 4 D 8 B 4 f 8 A
+# | .18 .15 .17 .18 .15 .17
+# =1 4 e 8 f [g f g]
+# =2' 4. E(2 4 E)2 8 E
+# =3  leg150 4 E 8 B 4 e 8 B
+# | .18 .15 .17 .17 .16 .17
+# =1 8 [e a g] [f e d]
+# =2' 4 F 8 E [D E F]
+# =3 4 D 8 B 4 f 8 A
+# | .18 .15 .17 .18 .15 .17
+# =1 8 [e d B] [c B A,]
+# =2' 4 G 8 G [A G A]
+# =2, 2. B_(2
+# =3, leg100 4. <E G B e> <E A c# e>
+# | .18 .15 .17 .17 .16 .17
+# =1 8 [B' E E] 4 E 8 B
+# =2' 4 B 8 E 4 E 8 rest
+# =2, 2. B_)2
+# =3' 2. <E G B e>
+
+
+4 systems 10 / 19-25-19-35-19/ 19-25-19-35-19/ 19-25-19-35-19/ 19-25-19-35-19/
+title Father O'Flynn (or: Top of Cork Road)
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+/
+4 bars ||: 2# 36 | 36 | 36 | 36 |
+| .21 .12 .17 .20 .13 .17
+=1 treble 2# cha1 vol100 8 [d' A F] [D F A]
+=2' treble 2# cha2 vol106 cc11=125 4 blank 2. rest
+=2, treble 2# cha2 vol106 2. D(2
+=3 treble8vab 2# cha3 vol95 leg100 8 [d' A F] [D{2 F}2 A]
+|
+=1 8 [d e d] [c B A,]
+=2' 4 rest 8 <A d> 4 <A c> 8 <A c>
+=2, 2. D)2(2
+=3 8 [B rest d] [c{1 B}1 A,]
+|
+=1 8 [d c d] [e f g]
+=2' 4 <A d> 8 rest 4. rest
+=2, 2. D)2(2
+=3 8 [d{1 c}1 d] [e f g]
+|
+=1 8 [f d f] [e c A,]
+=2' 4. rest <A c>
+=2, 2. D)2(2
+=3 8 [f rest' f] [e c A,]
+/
+4 bars | 2# 36 | 36 | 36 | 36 :||
+| .20 .13 .17 .19 .14 .17
+=1 8 [d' A F] [D F A]
+=2' 4. <A d> rest
+=2, 2. D)2(2
+=3 8 [d' A F] [D{2 F}2 A]
+|
+=1 8 [d e d] [c B A,]
+=2' 4 rest 8 <A d> 4 <A c> 8 <A c>
+=2, 2. D)2(2
+=3 8 [B rest d] [c{1 B}1 A,]
+|
+=1 8 [d 16 d d 8 d] [e f g]
+=2' 4 <G B> 8 <G B> 4 <A c> 8 <A c>
+=2, 2. D)2(2
+=3 8 [d rest d] [e{1 f}1 g]
+|
+=1 8 [f d d] 4 d 8 d
+=2' 4. <A d> rest
+=2, 2. D)2
+=3 8 [f rest d] 4 d 8 rest
+
+# | .20 .13 .17 .19 .14 .17
+# =1 8 [d' A F] [D F A]
+# =2' 4 blank 2. rest
+# =2, 2. D(2
+# =3 8 [d' A F] [D F A]
+# |
+# =1 8 [d e d] [c B A,]
+# =2' 4 rest 8 <A d> 4 <A c> 8 <A c>
+# =2, 2. D)2(2
+# =3 8 [B rest d] [c B A,]
+# |
+# =1 8 [d c d] [e f g]
+# =2' 4 <A d> 8 rest 4. rest
+# =2, 2. D)2(2
+# =3 8 [d c d] [e f g]
+# |
+# =1 8 [f d f] [e c A,]
+# =2' 4. rest <A c>
+# =2, 2. D)2(2
+# =3 8 [f rest' f] [e c A,]
+# | .20 .13 .17 .19 .14 .17
+# =1 8 [d' A F] [D F A]
+# =2' 4. <A d> rest
+# =2, 2. D)2(2
+# =3 8 [d' A F] [D F A]
+# |
+# =1 8 [d e d] [c B A,]
+# =2' 4 rest 8 <A d> 4 <A c> 8 <A c>
+# =2, 2. D)2(2
+# =3 8 [B rest d] [c B A,]
+# |
+# =1 8 [d 16 d d 8 d] [e f g]
+# =2' 4 <G B> 8 <G B> 4 <A c> 8 <A c>
+# =2, 2. D)2(2
+# =3 8 [d rest d] [e f g]
+# |
+# =1 8 [f d d] 4 d 8 d
+# =2' 4. <A d> rest
+# =2, 2. D)2
+# =3 8 [f rest d] 4 d 8 rest
+
+/
+4 bars ||: 2# 36 | 36 | 36 | 36 |
+| .21 .12 .17 .20 .13 .17
+=1 8 [f d f] [f g a]
+=2' 4. rest 4 <A d> 8 <A d>
+=2, 2. D(2
+=3 8 [f rest' f] [f{1 g}1 a]
+|
+=1 8 [e c A,] [A, B c]
+=2' 4. rest 4 <A c> 8 <A c>
+=2, 2. D)2(2
+=3 8 [e c A,] [A,{1 B}1 c]
+|
+=1 8 [d 16 d d 8 d] [f e d]
+=2' 4. rest 4 <B d> 8 <B d>
+=2, 2. D)2(2
+=3 8 [d rest' d] [f{1 e}1 d]
+|
+=1 8 [c' A A] 4 A 8 c
+=2' 4. <A c> rest
+=2, 2. D)2(2
+=3 8 [c' rest A] 4 A 8 c
+
+/
+4 bars | 2# 36 | 36 | 36 | 36 :||
+|
+=1 8 [B 16 B B 8 B] [B c d]
+=2' 4. rest 4 <G B> 8 <G B>
+=2, 2. D)2(2
+=3 8 [B rest B] [B{1 c}1 d]
+|
+=1 8 [A F D] [D F A]
+=2' 4. rest <F A>
+=2, 2. D)2(2
+=3 8 [A F D] [D{2 F}2 A]
+|
+=1 8 [d c d] [e f g]
+=2' 4 <G B> 8 <G B> 4 <A c> 8 <A c>
+=2, 2. D)2(2
+=3 8 [d rest d] [e{1 f}1 g]
+|
+=1 8 [f d d] 4 d 8 d
+=2' 4. <A d> rest
+=2, 2. D)2
+=3 8 [f rest' d] 4 d 8 rest
+
+# | .21 .12 .17 .20 .13 .17
+# =1 8 [f 16 g 8 f 16 e 8 f] 2 blank
+# =1 4. blank 8 [f g a]
+# =2' 4. rest 4 <A d> 8 <A d>
+# =2, 2. D(2
+# =3 8 [f rest' f] [f{1 g}1 a]
+# |
+# =1 8 [e c A,] [A, B c]
+# =2' 4. rest 4 <A c> 8 <A c>
+# =2, 2. D)2(2
+# =3 8 [e c A,] [A,{1 B}1 c]
+# |
+# =1 8 [d 16 e 8 d 16 c 8 d] 2 blank
+# =1 4. blank 8 [f e d]
+# =2' 4. rest 4 <B d> 8 <B d>
+# =2, 2. D)2(2
+# =3 8 [d rest' d] [f{1 e}1 d]
+# |
+# =1 8 [c' A A] 4 A 8 c
+# =2' 4. <A c> rest
+# =2, 2. D)2(2
+# =3 8 [c' rest A] 4 A 8 c
+# |
+# =1 8 [B 16 B B 8 B] [B c d]
+# =2' 4. rest 4 <G B> 8 <G B>
+# =2, 2. D)2(2
+# =3 8 [B rest B] [B{1 c}1 d]
+# |
+# =1 8 [A F D] [D F A]
+# =2' 4. rest <F A>
+# =2, 2. D)2(2
+# =3 8 [A F D] [D{2 F}2 A]
+# |
+# =1 8 [d 16 e 8 d 16 c 8 d] 2 blank
+# =1 4. blank 8 [e f g]
+# =2' 4 <G B> 8 <G B> 4 <A c> 8 <A c>
+# =2, 2. D)2(2
+# =3 8 [d rest d] [e{1 f}1 g]
+# | .55 1.2
+# =1 8 [f d d] 4. d-dim20
+# =2' 4. <A d> rest
+# =2, 2. D)2
+# =3 8 [f rest d] 4. d
+
+midi pause 3.0
+

@@ -1,0 +1,34 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 2001, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                http://www.pjb.com.au     #
+#########################################################################
+
+while (<>) {
+	if (/^title (.+)$/) {
+		$title = $1; print STDERR "title = $title\n";
+	} elsif (/^=6/ || (/^=2/ && $title =~ /Alto Flute/)) {
+		if (s/bass8va/treble/) {
+			print "i0.01       Alto in G\n";
+		}
+		s/ treble/ treble 1b/;
+		s/ G/ C/g;
+		s/ A/ D/g;
+		s/ B/ E/g;
+		s/ c(?!ro)/ F/g;  # not cro ...
+		s/ d/ G/g;
+		s/ e/ A/g;
+		s/ f/ B/g;
+		s/ g/ c/g;
+		s/ a/ d/g;
+		s/ b/ e/g;
+	}
+	print $_;
+}

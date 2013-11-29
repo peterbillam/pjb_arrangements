@@ -1,0 +1,27 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 4.4c
+.ce 100
+\f3\s+9\s+5Vor deinen Thron tret' ich hiermit\s-5\s-9\fP
+.sp 2.9c
+\f2\s+9by J. S. Bach\s-9\fP
+.sp 2.9c
+\f2\s+5Arranged and Typeset by Peter Billam\s0\fP
+.sp 1.0c
+\f3\s+2For Piano\s0\fP
+.sp 1.8c
+\(co Peter J Billam, 2001
+.sp 0.7c
+\s-1This score may be freely photocopied, and redistributed
+in paper form.  It may be freely performed to live audiences;
+performing rights are waived.  It may not be redistributed in
+electronic form, and all other rights, such as those of recording
+and broadcast, remain reserved by the arranger, Peter Billam.
+.sp 1.0c
+\f2\s-2This edition \*(DY.\s0\fP
+.sp 1.0c
+\f2http:\fP//\f2www.pjb.com.au\fP

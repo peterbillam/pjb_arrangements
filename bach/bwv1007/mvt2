@@ -1,0 +1,59 @@
+
+12 systems 10/20/20/20/20/20 20/ 20/
+innerhead Cello Suite I in G major, J. S. Bach, bwv1007
+leftfoot Arranged for Soprano Recorder
+midi channel 1 patch 74
+/
+4 bars | 2# 28 | 26 | 24 |
+| 3/4 3.8
+il0.9 .10 Sarabande
+=1 treble 2# 3/4 cha1 leg100 \
+ smq-s [D A] cro f smq-s [D B'] cro. g(1 qua f)1
+| 3/4 3.6
+=1 smq [c(1 e f g)1] smq3-s [D A] cro f-tr qua [e(1 leg85 d)1]
+| 3/4 3.4
+=1 qua leg100 [a cn] qua. [B'(2 dsq A G F)2] qua leg85 [G leg100 B']
+| 3/4 3.6
+=1 smq [c# g(1 f d)1] smq3-s [E A] cro c-tr qua [B'(2 leg85 A)2] leg100
+/
+3 bars | 2# 24 | 24 | 24 |
+| 3/4 3.4
+=1 smq [e(1 c A, G,)1] leg85 qua. [F leg100 smq D] smq [F, A, d e]
+|
+=1 smq [f(1 d B, A,)1] qua. leg85 [G#-tr leg100 dsq E F] smq [G A B' c']
+|
+=1 smq leg85 [d leg100 g#(1 a g)1] leg85 [a leg100 e d(1 leg85 c)1] \
+ leg100 [B,(1 leg85 d)1 leg100 c(1 leg85 A,)1]
+/
+3 bars | 2# 24 :||: 24 | 24 |
+| 3/4 1.3 1.3 1.6
+=1 smq leg100 [E(2 leg85 A)2 leg100 B'(2 leg85 G#)2] \
+ cro A smq3-s leg100 [C E] leg85 cro A
+midi pause .08
+| 3/4 3.8
+=1 smq3-s [E A] qua [c' smq B' A] smq3-s [E A c'] cro. leg85 g \
+ leg100 smq [f(1 e)1]
+| 3/4 3.6
+=1 smq [f c(1 d B,)1] smq3-s E qua. [A#-tr smq B'] [c d e f]
+/
+3 bars | 2# 24 | 24 | 24 |
+| 3/4 3.4
+=1 smq leg85 [A#, leg100 e f g] qua [f-tr smq e(1 leg85 d)1] \
+ leg100 [c(1 leg85 B,)1 leg100 e(1 leg85 c)1]
+| 3/4 1.2 1.2 1.3
+=1 smq leg100 [d(1 leg85 B,)1 leg100 c(1 leg85 A#,)1] \
+ cro B smq3-s leg100 [D F#] leg85 cro B
+midi pause .06
+| 3/4 3.8
+=1 leg100 smq3-s F qua. [An(2 dsq B' cn')2] smq3-s [D G] \
+ leg85 qua. [B, smq leg100 c#] [d(1 e f g)1]
+/
+3 bars | 2# 24 | 24 | 24 :||
+| 3/4 3.6
+=1 smq [D#, a(1 g f)1] smq3-s [E B'] qua. leg85 [g smq f] leg100 [e dn c B,]
+| 3/4 3.4
+=1 smq leg85 A leg100 [F, G, E,] leg85 F leg100 [B'(2 c' leg85 d')2] \
+ leg100 [e leg85 g leg100 f leg85 d]
+| 3/4 1.2 1.5 1.9
+=1 smq leg100 [A,(1 leg85 d)1 leg100 e(1 leg85 c)1] cro d leg100 cro D
+

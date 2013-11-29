@@ -1,0 +1,67 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2008.11.09.22.30.30;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for bwv1032_desc
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+XMLD = /home/pjb/www/mus/xml
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+NROF = /home/pbin/nrof
+ADDMESSAGE = /home/pbin/add_free_message
+UTF2ISO = /home/pbin/utf2iso
+PIECE = bwv1032_desc
+
+dev : t.mid ${PIECE}.a4
+all : ${FREED}/${PIECE}.pdf \
+ ${XMLD}/${PIECE}.xml ${XMLD}/${PIECE}_readme.txt
+
+${FREED}/${PIECE}.pdf : title_free.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
+	groff -ms title_free | ${BANNERISE} > title_free.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${XMLD}/${PIECE}.xml : ${PIECE}
+	${MUSCRIPT} -xml ${PIECE} > $@@
+${XMLD}/${PIECE}_readme.txt : p2
+	${NROF} p2 > $@@
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+${PIECE}.a4 : ${PIECE}
+	${MUSCRIPT} ${PIECE} > $@@
+t.mid : ${PIECE}
+	start_stop ${PIECE} | ${MUSCRIPT} -midi > $@@
+	aplaymidi -p64:0 $@@ &
+${PIECE}.acc.mid : ${PIECE}
+	sed '/pagenum 20/q' ${PIECE} | grep -v '^=1' | ${MUSCRIPT} -midi > $@@
+@

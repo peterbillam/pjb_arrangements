@@ -1,0 +1,1088 @@
+head	1.10;
+access;
+symbols;
+locks
+	pjb:1.10; strict;
+comment	@# @;
+
+
+1.10
+date	2013.04.29.06.39.51;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2013.04.29.03.13.14;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.28.23.40.07;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.28.11.46.08;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.28.08.26.09;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.28.05.36.20;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.28.04.31.50;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.28.02.35.29;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.27.05.55.13;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.27.04.28.49;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Spem in Alium, Choir 1, first tne bars
+@
+
+
+1.10
+log
+@notes up to end, bar 138
+@
+text
+@3 systems 10 / 18-22-18-30-18-22-18-22-18 \
+/ 18-22-18-30-18-22-18-22-18 \
+/ 18-22-18-30-18-22-18-22-18 10 /
+pagenum 1
+title Spem in Alium   Choir 1
+innerhead Thomas Tallis
+leftfoot Typeset  (c) Peter Billam  2013
+midi channel 1 patch 87 pan 10
+midi channel 2 patch 87 pan 70
+midi channel 3 patch 87 pan 30
+midi channel 4 patch 87 pan 90
+midi channel 5 patch 87 pan 50
+
+/
+6 bars | 48 | 48 |
+| 2.8
+=1  treble     cha1 vol90 leg80 1 rest d(1
+r0.50 .53 Spem
+=2  treble     cha2 vol90 leg80 1. G 2 G
+r0.50 .03 Spem .77 in
+=3  treble8vab cha3 vol90 leg80 1 blank bre rest
+=4  bass       cha4 vol90 leg80 1 blank bre rest
+=5  bass       cha5 vol90 leg80 1 blank bre rest
+|
+=1 2 d)1 d d d
+r0.5 .26 in .50 a - li -
+=2 2 G G D F
+r0.5 .01 a - li - um .75 nun -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1 2 A c c e(1
+r0.5 .01 um .26 nunquam .76 hab -
+=2 2 F 1 leg100 A 2 G
+r0.5 .01 quam ha .70 -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1 4 e)1 d 1 leg100 d 2 c
+r0.5 .50 -
+=2 1 F 1 E
+r0.5 .50 -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+il0.5 .05 5
+=1 2. B 4 A 2 G D
+r0.5 .50 -
+=2 2. D 4 C B_ G_ 2 B_(2
+=3 1 rest d(1
+r0.5 .53 Spem
+=4  1. g 2 g
+r0.5 .03 Spem .77 in
+=5  1 blank bre rest
+|
+=1 2 G 2. leg80 A 4 leg100 A 2 leg80 D
+r0.5 .62 bui ,
+=2 2 B_)2 A_ 2. A_ 8 [B_ C]
+r0.3 .26 bu .80 -
+=3 2 d)1 d d d
+r0.5 .26 in .50 a - li -
+=4 2 g f d f
+r0.5 .01 a - li - um .75 nun -
+=5 2 rest 1 d 2 d'
+r0.3 .25 Spem .75 in
+|
+=1 2 rest 2. d 4 c 2 c(1
+r0.5 .25 numquam ha
+=2 1 leg80 D 2 rest G
+r0.4 .05 i
+r0.5 .76 nun
+=3 2 A A c e(1
+r0.5 .01 um nunquam ha
+=4 2 f leg100 1 a 2 g(1
+r0.5 .01 quam ha .80 -
+=5' 2 d d A c(2
+r0.3 .01 a - li - um .76 nun
+|
+=1 2 c)1 F 4. leg100 c 8 B' 4 A G
+r0.5 .25 quam ha .85 -
+=2 2 E 4 F D 2. E 4 leg100 E
+r0.5 .01 quam ha .30 - .81 ha
+=3 4 e)1 d 1 d 2 c#
+r0.5 .13 ha .70 -
+=4 2 g)1 f 1 e
+r0.5 .50 -
+=5 2 c)2 d' A A
+r0.3  - .25 quam habu -
+|
+=1 2 F 2. f 4 e 2 d(1
+r0.5 .50 -
+=2 2 F 2. A 4 G F E
+r0.5 .50 -
+=3 2 d A rest d
+r0.5 - .25 i , .76 in
+=4 1 d 2 a leg80 d
+r0.5 .76 bu -
+=5 1 d f(1
+r0.3 i , .51 spem
+|
+il0.7 .01 10
+=1 4 d)1 2 A d leg80 D 4 A(2
+r0.5  .01 - .82 bu
+=2 2 leg80 D A_ 4 rest 2 A 4 A
+r0.4 - .12 i ,
+r0.5 .58 spem in
+=3 1. f 2 d
+r0.5 .01 a .38 - .76 li
+=4 1 a 2 rest leg100 d
+r0.5  .01 i , .76 in
+=5 2 f)1 d 1 f
+r0.3 .25 in .50 a .80 -
+|
+=1 4 A)2 E rest G 2 c f(1
+r0.5 .10 i, nunquam ha -
+=2 4 A A E 2 G 4 G 2 G(2
+r0.5 .01 alium nunquam ha -
+=3 2. e 4 d 2 c B
+r0.5 .50 -
+=4 4 a 2 c~ 4. c 8 [d' e' c] 2 d'
+r0.5 .01 a .29 - .58 lium
+=5 2 e 4 c g 4. e 8 f 2 g
+r0.3 li .30 - .70 li -
+|
+=1 4. f)1 8 e 4 d c 2 B G
+r0.5 .15 - .76 bu -
+=2 2 G)2 F# G B'
+r0.5 .03 - .27 bui .75 nun -
+=3 1 leg80 A G
+r0.5 .10 - .51 um
+=4 4 rest d a 4. d~ 8 c~ 2 b 4 g
+r0.5 .13 in a .55 - .82 li -
+=5 2 rest d d g
+r0.3 .25 in .51 al - i -
+|
+=1 bre d
+r0.5 .01 i
+=2' 2 B 2. B 4 A 2 G
+r0.5 .01 quam  ha - bui
+=3 rest G d D
+r0.5 .25 in .50 a - li -
+=4 2. b 2 d~ 4 g rest d~
+r0.5 .01 um  nunquam, in
+=5 2 g d 2. d 4 G
+r0.3 um, .26 in .53 a - li -
+|
+=1 2 rest d 4 d 2 d 4 A
+r0.5 .25 spem in al - i -
+=2 2 rest 4 rest 2 A 4 A 2 A
+r0.5 .39 spem in a -
+=3 1 D 2 rest D
+r0.5 .01 um .76 in
+=4 2 b 1 a 2 d
+r0.5 .01 a .38 - .76 li -
+=5 2 G 4 rest d 2. a 4 a
+r0.3 um , .39 in a - li -
+|
+il0.7 .03 15
+=1 2 A 4 rest F c 2 e 4 c
+r0.5  - .01 um nunquam habu -
+=2 4 A 2 D 4 A A 2 c 4 G
+r0.5  - .01 lium nunquam habu -
+=3 4 D 2 A 4 F A A 2 E
+r0.5 .01 a .35 - .62 lium,
+=4 2. d~ 4 d 2 e c
+r0.5  - .03 um .37 nun-quam
+=5 1 d rest
+r0.3  - .01 um
+|
+=1 2 e 4 rest A A 2 e 4 c
+r0.5 .01 i, nunquam habu -
+=2 2 G rest E 4 E A(2
+r0.5 .01 i .50 spem in a
+=3 4 rest E F 2 A 4 E 2 e
+r0.5 .12 in a .39 - .62 lium
+=4 2 rest a 1 c~
+r0.5 .25 nunquam
+=5 2 rest d e a(1
+r0.3 .25 nunquam ha -
+|
+=1 2 f 4. f 8 e 4 d A 2 A(2
+r0.5 .01 i .25 nunquam, nun -
+=2 4 A)2 D 2 F 4. F 8 G 4 A F(2
+r0.5 .12 lium .50 nun - quam
+=3 2 rest A 4 d 4. f 8 f 4 e
+r0.5 .25 spem in a - li -
+=4 2 rest 2. f 2 f 4 a(1
+r0.5 .25 spem .62 in .82 a -
+=5 4 a)1 a 1 d 2 a
+r0.3  - .12 bui, .75 nun -
+|
+=1 2 A)2 D 2. A 4 A
+r0.5  - .25 quam  ha - bu -
+=2 4 F)2 D 2. D 4 A_ D A_
+r0.5 .12 in a .37 - .62 li -
+=3 2 d 4 rest 2 D  A 4 F
+r0.5  - .01 um .38 nun  -  quam
+=4 4 a)1 d a 2 d~ 8 [c~ b] 2 a
+r0.5 .20 - .63 li-um
+=5 2 a 2. a 4 a 2 d
+r0.3  - .03 quam ha - .63 bui
+|
+=1 2 A rest 4 rest 2 G 4 B
+r0.5 .01 i .62 nunquam
+=2 2 A_ rest rest D
+r0.5 .01 um , .76 nun
+=3 4 rest c 4. c 8 d 2 e rest
+r0.5 .13 in alium
+=4 2 rest 4 c~ 2 c g 4 d
+r0.5 .15 nunquam, nunquam
+=5 2 rest g e 4 rest d
+r0.3 .25 nunquam .83 nunquam
+|
+il0.7 .03 20
+=1 4 d 2 A d 4 G rest d(1
+r0.5 .01 nunquam nunquam ha
+=2 2 A_ D rest 4 D G(2
+r0.5 .01 - .25 quam .70 nunquam
+=3 2 rest d 4 d 2 g 4 G
+r0.5  .25 nunquam nunquam
+=4 4 rest d~ 2. d~ 4 d g d
+r0.5 .10 in al .40 - .63 li .90 -
+=5 4 d 2 a 4 d rest g 2 g(1
+r0.3 .12 nunquam .63 in a .90 -
+|
+=1 4 d)1 8 [e f] 2. g 4 d 2 d
+r0.5 .25 - .63 bui
+=2 4 G)2 D 2. D 4 D 2 A_
+r0.5 .12 in a - lium
+=3 4. d 8 c 2 B 4 G 2 d 4 A
+r0.5 .01 ha .40 - .63 bui
+=4 1 d rest
+r0.5 .01 um
+=5' 4 g)1 G d G 2 d rest
+r0.3 .13 li - um
+|
+=1 1 rest 2 D A
+r0.5 .50 nunquam
+=2 1 rest 4 A_ 4. D 8 E 4 F
+r0.5 .50 in alium
+=3 1 rest 4 d 4. f 8 e 4 d(1
+r0.5 .50 in alium
+=4 2 g c~ 4 rest f 2 a
+r0.5 .01 nunquam .62 nunquam
+=5 1 rest 4 rest 2 a 4 d(1
+r0.3 .62 nunquam
+|
+=1 4 rest leg100 d 2. B 4 G 2 d
+r0.5 .12 ha .60 -
+=2 4 rest 2 D 4 A_ 2. G 4 G
+r0.5 .12 nunquam habu -
+=3 4 d)1 4. d 8 c 4 B 4. B' 8 A 4 2 G
+r0.5 .12 nunquam habu -
+=4 4 rest 2 d 4 d~ 1 d~
+r0.5 .12 habui
+=5 4 d)1 2 leg100 g 8 [f e] 2 leg80 d' G
+r0.3 .12 nun .75 quam
+|
+=1 2 G 1 leg80 c 2 A
+r0.5 .30 - .75 bu -
+=2 1 G rest
+r0.5 .01 i
+=3 1 G rest
+r0.5 .01 um
+=4 1 blank bre rest
+=5 2 rest 4 c c 1 c
+r0.3 .25 habui
+|
+il0.7 .03 25
+=1 1 A rest
+r0.5 .01 - i
+=2 1 blank bre rest
+=3 1 blank bre rest
+=4 1 blank bre rest
+=5 1 blank bre rest
+|
+bl0.3 .35 14
+=1 1 blank bre rest
+bl0.2 .35 14
+=2 1 blank bre rest
+bl0.2 .35 14
+=3 1 blank bre rest
+bl0.2 .35 14
+=4 1 blank bre rest
+bl0.2 .35 14
+=5 1 blank bre rest
+|
+il0.7 40 Tutti
+=1 2 rest d B B
+r0.5 .25 praeter .76 in
+=2 2 rest D 4 D G 2 G
+r0.5 .25 praeter in te,
+=3 2 rest B 4 B B 2 B
+r0.5 .25 praeter in te,
+=4 2 rest g 4 g b 2 b
+r0.5 .25 praeter in te,
+=5 2 rest d d 4 G g(1
+r0.3 .25 praeter .76 in te
+|
+=1 1 E 2 rest B'
+r0.5 .01 te .76 in
+=2 4 rest 2 G 4 E G C rest G(2
+r0.5 .12 De - .62 us .87 De -
+=3 2 rest E E rest
+r0.5 .25 Deus
+=4 4 rest g c 2 g 4 c 2 rest
+r0.5 .12 in te  Deus
+=5 4 g)1 c 2. e 4. g 8 g 4 d'
+r0.3 .12 Deus .63 Israel
+|
+=1 2 e 4 rest 2 E 4 E 2 E(2
+r0.5  .01 te .38 Deus .76 Is -
+=2 8 [G)2 E] 4. E 8 F 4 G 2 rest 4 rest C
+r0.5 .08 us Israel .82 in
+=3 4 G G 2 G rest E
+r0.5 .01 Israel .76 te
+=4 2. c~ 4 g 1 g
+r0.5 .01 Is .21 - .38 rael
+=5 4 rest 2 g 4. e 8 f 2 g 4 c(2
+r0.3 .12 in .38 te .82 De
+|
+=1 4 E)2 E 2 E 4 rest D 2 G(2
+r0.5 .12 rael .63 in te
+=2 4 E 2 G 4 G rest D D G(2
+r0.5 .01 te .12 De - us .63 Deus Is -
+=3 2 e e 4 B d G B'(2
+r0.5 .01 De - .25 us .50 te, Deus Is -
+=4 2 rest g 1 g
+r0.5 .25 in .50 te,
+=5 4 c)2 g 2 g g 4 2 g 4 d(2
+r0.3 .04 - .25 us .63 te, .82 De
+|
+=1 4 G)2 2 B' 4 G rest 2 d 4 g
+r0.5 .12 De - us .63 Is - ra -
+=2 4 G)2 G 2 G rest 4 rest D(2
+r0.5 .01 - .12 rael .83 De -
+=3' 4 B)2 B 2 B rest 4 rest D
+r0.5 .01 - .12 rael .83 De -
+=4 2 rest g 4. g 8 a 4. b 8 c~
+r0.5 .25 in .50 te, De - us
+=5 4 d')2 G 1 d 2 g
+r0.3 .01 - .12 us  Is .50 - .75 ra -
+|
+il0.8 .07 45
+=1 1 g rest
+r0.5 .01 el .
+=2 8 [D)2 B_] 2 B_ 4 G_ 1 D
+r0.5 .08 us Is - rael .
+=3 4 G B' G d d B 2 d
+r0.5 .14 te Deus Israel .
+=4 2. d~ 4 b 1 b
+r0.5 .01 Is .20 - .38 rael .
+=5 bre g
+r0.3 .01 el .
+|
+bl0.3 .35 19
+=1 1 blank bre rest
+bl0.2 .35 19
+=2 1 blank bre rest
+bl0.2 .35 19
+=3 1 blank bre rest
+bl0.2 .35 19
+=4 1 blank bre rest
+bl0.2 .35 19
+=5 1 blank bre rest
+|
+il0.8 .07 65
+=1 1 rest d
+r0.5 .52 Et
+=2 1 rest D
+r0.5 .52 Et
+=3 1 rest G
+r0.5 .52 Et
+=4 1 rest g
+r0.5 .52 Et
+=5 1 blank bre rest
+|
+=1 1. e 2 e
+r0.5 .01 o .40 - .74 mni -
+=2 2. C 4 leg100 D E leg80 F 2 G
+r0.5 .01 0 .20 - .38 mni .63 - .75 a
+=3 2 G E 1 E
+r0.5 .01 o - mni - a
+=4 1. g 2 g
+r0.5 .01 o .40 - .74 mni -
+=5 1 blank bre rest
+|
+=1 1 e 2 rest e
+r0.5 .01 a .76 pec -
+=2 2 rest C G G
+r0.5 .26 pec - ca - ta
+=3 2 rest c c c
+r0.5 .26 pec - ca - ta
+=4 1 g rest
+r0.5 .01 a
+=5 1 blank bre rest
+|
+=1 2 e d 2. c 4 c
+r0.5 .01 ca - ta .50 ho - mi -
+=2 2. A 4 A 1 G(2
+r0.5 .01 ho - .38 minem
+=3 4 c c 2 A 1 rest
+r0.5 .01 hominem
+=4 1 blank bre rest
+=5 1 blank bre rest
+|
+il0.4 .35 Tutti
+=1 1 B 2 rest G(2
+r0.5 .01 nem .76 et
+=2 2 G)2 2. leg100 G 4 A 2 leg80 B'
+r0.5 .26 et
+=3 1 rest d
+r0.5 .50 et
+=4 1 rest g
+r0.5 .50 et
+=5 1 rest 2 g g(1
+r0.3 .50 et .76 ex -
+|
+il0.7 70
+=1 4 G)2 4. G 8 E 4 E rest 2 C 4 G(2
+r0.5 .12 omnia .63 pecca
+=2 1. c 2 G
+r0.5 .01 om .39 - .76 ni -
+=3 2. e 4 e 1 e
+r0.5 .01 om .39 nia
+=4 2 g g 4 c 2 e 4 g
+r0.5 .01 om - ni - a .63 pecca -
+=5 4 g)1 c c e 2 e c
+r0.3 .12 mni - a .38 pecca - .75 ta
+|
+=1 8 [G)2 E] 2 E 4. c 8 c 4 c rest e(1
+r0.5 - .18 ta .36 hominum .84 et
+=2 2 G 4 rest G 2 G 4 G c(1
+r0.5 .01 a .39 peccata  ho -
+=3 2 g e c g(1
+r0.5 .01 pec - cata .76 ho -
+=4 4 g 2 c~ 4 c~ 1 c~
+r0.5 .01 ta ho - minum
+=5 4 rest 2 g e c 4 g(1
+r0.5 .12 pec - cata .83 ho -
+|
+=1 4 e)1 4. e 8 f 4 g rest c F c(1
+r0.5 .12 omnia .63 peccata
+=2 8 [c)1 c] 4 c C E F 4. A 8 A 4 F
+r0.5 .06 minum peccata hominum
+=3 4 g)1 c 2 c rest 4 rest c
+r0.5 .10 minum .80 pec -
+=4 2 rest 4 c 2 c 4 c rest a(1
+r0.5 ..25 pecca - ta .82 ho -
+=5 4 g)1 g 2 g 4 a 2 a 4 a
+r0.5 .12 minum .58 peccata
+|
+=1 8 [c')1 A] 2 A 8 [G F] 2 G 4 rest G(2
+r0.5 .16 ho-minum .82 ho -
+=2 2 rest 4 E 2 E 4 E 2 rest
+r0.5 .25 peccata
+=3 2 c 4 c 4. c 8 G 4 G 2 rest
+r0.5 .01 ca - ta ho-minum
+=4 4 a)1 a 2 a 1 rest
+r0.5 .12 minum
+=5 4 leg100 e A 1 leg80 c 2 c
+r0.5 .01 ho .76 mi -
+|
+=1 4 G)2 G 2 d rest d
+r0.5 .01 - .12 minum .76 in
+=2 4. G 8 G 2 G rest B
+r0.5 .01 hominum .76 in
+=3 4. d 8 G 2 G rest g
+r0.5 .01 hominum .76 in
+=4 4. b 8 b 2 b rest g
+r0.5  .01 hominum .76 in
+=5 1 d 2 rest g
+r0.3   - .01 num .76 in
+|
+il0.7 .03 75
+=1 4. d 8 d 4 d d 2 rest G(2
+r0.5 .01 tri - bulati .75 o
+=2 4. B 8 B 4 B B rest G 2 G
+r0.5 .01 tri - bula - .62 ti - .77 o
+=3 2 g 4 g 4. g 8 f 4. leg100 e 8 leg80 d 4 c
+r0.5 .01 tri - bula-tio - .83 ne
+=4 2. g 4 g 2 g g
+r0.5 .01 tri - .38 bulati .75 o
+=5 2. b 4 g g c 2 g(1
+r0.3 .01 tri - .38 bula-tio -
+|
+=1 2 G)2 F 4 rest G 2 d
+r0.5 .35 - .75 ne .
+=2 1 blank bre rest
+=3 1 blank bre rest
+=4 1 d~ 2 g rest
+r0.5  .01 o .25 - .51 ne .
+=5 4 g)1 f 2 d 1 rest
+r0.3 .05 - .25 ne .
+|
+bl0.3 .35 4
+=1 1 blank bre rest
+bl0.2 .35 4
+=2 1 blank bre rest
+bl0.2 .35 4
+=3 1 blank bre rest
+bl0.2 .35 4
+=4 1 blank bre rest
+bl0.2 .35 4
+=5 1 blank bre rest
+|
+il0.7 .03 81
+=1 2 rest c 2. f 4 f
+=2 2 rest A A A
+=3 2 rest c A 4 A d(1
+=4 2 rest a d f
+=5 1 rest 2 rest d
+|
+=1 4 e d 2 d 4 c 2 A 8 [G F]
+=2 2 B B 1 c
+=3 8 [d)1 c] 4. B 8 A 4 G rest c A e(1
+=4 2 g g 1 a
+=5 2 G B 2. A 4 A
+|
+=1 2 E 4 rest 4. A 8 [B c d] 4 e A(2
+=2 2 c A 1 A
+=3 2 e)1 A 4 rest 8 [A B'] [c d] 4 e
+=4 2 g f 1 e
+=5 2 c 4 F F 1 A
+|
+=1 4 A)2 d 2 d 1 rest
+=2 1 A rest
+=3 4 f d 2 d 1 rest
+=4 1 d rest
+=5 1 d rest
+|
+il0.7 .03 85
+=1 2 rest e 1 d
+=2 2 rest c 1 A
+=3 2 rest c 4. f 8 e 4. d 8 c
+=4 2 rest a a d
+=5 2 rest A 1 d
+|
+=1 2 d 4 d 2 g 8 [f e] 4. d 8 c
+=2 2 B 1 G 2 F#
+=3 2 B rest 4 A 2 d 4 A
+=4 2 d rest rest d
+=5 2 G 4 rest d 2 f 4. f 8 e
+|
+=1 1 B rest
+=2 1 G rest
+=3 4 rest d B G 2 G rest
+=4 1. d 2 g
+=5 4 d G 2 G 1 rest
+|
+=1 1 blank bre rest
+=2 1 blank bre rest
+=3 1 blank bre rest
+=4 2 g rest 1 rest
+=5 1 blank bre rest
+|
+=1 1 blank bre rest
+=2 1 blank bre rest
+=3 1 blank bre rest
+=4 1 blank bre rest
+=5 1 blank bre rest
+|
+il0.7 .03 90
+=1 1 blank bre rest
+=2 1 blank bre rest
+=3 1 blank bre rest
+=4 1 blank bre rest
+=5 1 blank bre rest
+|
+=1 2 rest 2. c 4 c 2 e
+=2 2 rest 2. A 4 A 2 A
+=3 2 rest 2. e 4 e 2 e
+=4 2 rest 2. c~ 4 c~ 2 a
+=5 1 blank bre rest
+|
+=1 2 f e 1 rest
+=2 2 A A 1 rest
+=3 4 rest 2 A 4 e 2 e rest
+=4 2 a a 1 rest
+=5 1 blank bre rest
+|
+=1 2 rest d e d
+=2 2 rest G G G
+=3 2 rest d g d
+=4 2 rest g g g
+=5 1 blank bre rest
+|
+=1 2 rest d e d
+=2 2 rest G G 4 G G(2
+=3 2 rest d g 4 d G(2
+=4 2 rest g g g
+=5 1 blank bre rest
+|
+il0.5 .03 95
+=1 2 c B 1 rest
+=2 4 G)2 2 G_ 4 D rest E 2 G
+=3 4 G)2 g 2 g 1 rest
+=4 2 g g 1 rest
+=5 1 blank bre rest
+|
+bl0.3 .35 4
+=1 1 blank bre rest
+bl0.2 .35 4
+=2 1 blank bre rest
+bl0.2 .35 4
+=3 1 blank bre rest
+bl0.2 .35 4
+=4 1 blank bre rest
+bl0.2 .35 4
+=5 1 blank bre rest
+|
+il0.7 .03 100
+=1 1 blank bre rest
+=2 1 rest 4 rest B c G
+r0.5 .63 Creator
+=3 1 rest 4 rest d 2 c
+r0.5 .63 Crea -
+=4 1 rest 2 rest 4 e g(1
+r0.5 .75 Crea
+=5 1 rest 4 rest g 2 g
+r0.5 .63 Crea -
+|
+=1 1 rest 2. rest 4 g
+=2 4 rest D G C rest 2 G 4 c
+=3 2 B 4 rest e d d 2 c
+r0.5 .01 tor
+=4 4 g)1 d 2 rest 4 d 2 g 4 c
+r0.5 - .12 tor
+=5 2 g 4 rest g g g 2 e
+r0.5 .01 tor
+|
+=1 2 f e rest 4 rest g
+=2 4 F A G C 2 C 4 rest C
+=3 4 A F 2 c rest 4 rest e
+=4 2 f c rest 4 rest c
+=5 2 d rest 1 rest
+|
+=1 4 f f 2 e d rest
+=2 4 C C 2 E A_ rest
+=3 4 f f 2 g d rest
+=4 4 f f 2 c f rest
+=5 1 blank bre rest
+|
+=1 1 rest 4 A 2 leg100 d 4 leg80 c#
+r0.5 .50 Crea .80 -
+=2 1 rest 4 A 4. A 8 G 4 E
+=3 1 rest 4 rest f 2 e
+=4 1 rest 4 d 4. a 8 e 4 a
+=5 1 rest 4 rest d 2 a
+|
+il0.7 .03 105
+=1 2 d rest rest e
+=2 4 rest A E 2 A_ 4 A A E
+=3 2 d rest 4 rest f e e
+=4 2 a rest 4 rest a c~ c~
+=5 2 d rest 4 rest a a a
+|
+=1 4 B d G c 2 B G
+=2 2 G G 4 rest G 2 G
+# misprint  final G in score
+=3 2 d c 4 rest B 2 e
+=4 2 b 4 e 2 a 4 d rest g
+=5 2 d 4 e c 2 g c
+|
+=1 2 rest 4 rest G 4. G 8 A [B c] 4 d
+=2 2 G rest 4 rest G 2 G(2
+=3 4 d 2 c 4 C 2 e d
+=4 4 g 2 e 4. g 8 f 4 e rest g(1
+=5 4 G 2 c 4 G 2 c G
+|
+il0.7 .70 Tutti
+=1 1 G 2 rest e(1
+=2 4 G c 2 c rest A(2
+=3 1 c 2 rest c#(1
+=4 4 g)1 c 2 g rest e(1
+=5 1 c 2 rest e(1
+|
+=1 2 e)1 e 1 e(1
+=2 2 A)2 A 1 A(2
+=3 2 c)1 c# 1 c(1
+=4 2 e)1 e 1 e(1
+=5 2 e)1 a 2. A 4 B
+|
+il0.7 .03 110
+=1 1 e)1 rest
+=2 1 A)2 rest
+=3 1 blank bre rest
+=4 1 e)1 rest
+=5 4 c A 2 e 1 rest
+|
+bl0.3 .35 6
+=1 1 blank bre rest
+bl0.2 .35 6
+=2 1 blank bre rest
+bl0.2 .35 6
+=3 1 blank bre rest
+bl0.2 .35 6
+=4 1 blank bre rest
+bl0.2 .35 6
+=5 1 blank bre rest
+|
+il0.7 .03 117
+=1 1 rest 2 rest d
+=2 1 rest 2 D D
+=3 1 blank bre rest
+=4 1 blank bre rest
+=5 1 blank bre rest
+|
+=1 2 d d 2. g 4 f
+=2 2 D 2. G 4 F 2 E
+=3 2 rest d e c
+=4 1 rest 2 rest g
+=5 1 blank bre rest
+|
+=1 2 e d c B
+=2 2 rest D G_ 4. D 8 E
+=3 2. g 4 f 2 e d(1
+=4 2 g d 1 g
+=5 1 blank bre rest
+|
+il0.7 .03 120
+=1 2 A 2. d 4 c B G
+=2 4 F G 2 A 1 D(2
+=3 4 d)1 c B' A 2 G 4 rest D(2
+=4 1 a b
+=5 1 blank bre rest
+|
+=1 1 A rest
+=2 1 D)2 rest
+=3 4 D)2 F# 2 F 1 rest
+=4 1 a rest
+=5 1 blank bre rest
+|
+il0.7 Tutti
+=1 1. B 2 B
+r0.5 .01 re .40 - .76 spi -
+=2 1. D 2 D
+=3 2. G 2 B' G 4 d(1
+=4 2. g 8 [f e] 2 d' B
+=5 1. g 2 d
+|
+=1' 2 B 4 rest 2 G 4 B 2 B
+=2 bre D
+=3 4 d)1 G 2 B 1 B
+=4 bre B
+=5 bre g
+|
+=1 1 blank bre rest
+=2 1 blank bre rest
+=3 1 rest 2 rest c
+=4 1 rest 2 rest c
+=5 1 blank bre rest
+|
+il0.7 .03 125
+=1 2 rest c c c
+=2 2 A A A c(1
+=3 2 c 4 c 2 f 4 c rest c
+=4 4 c 2 f a 4 f 2 f
+=5 2 c c 4 c 2 c 4 f(1
+|
+=1 1 f c
+=2 2 c)1 4 A F 1 F
+=3 4 A F 2 c 4 rest A 2 A
+=4 1 c~ 2 a c~
+=5 2 f)1 c rest f
+|
+=1 4 rest 2 A 4. F 8 D 2. d
+=2 2 rest 2. F 4 B_b 2 Bb
+=3 4 A 2. c 4 F 2. f
+=4 2 rest f 4 f 2 bb 4 d~(1
+=5 2 f a bb f
+|
+=1 2 d rest 4 rest 2. Bb
+# misprint in score B_b
+=2 2 Bb 4 rest 2. B_b 2 B_b
+=3 2 f 4 rest 2 d 4 G 2 G
+=4 4 d~)1 d~ 4. bb 8 a 4 g 2 d 4 g
+=5' 2 rest d Bb d
+|
+=1 2 f 4 F 2 A 4 D 2 G
+=2 4 rest D 2 A_ 2. A_
+=3 4 rest 2. D 1 D
+=4 2 rest 4 rest f 2 f 4 rest g(1
+=5' 2 rest f d Bb
+|
+il0.7 .03 130
+=1 1 G rest
+=2 4 C 2 G 4. C 8 A_ 4 A 2 A
+=3 1 rest 4 rest 2. d
+=4 8 [g)1 c,] 4 e 2 rest 4 rest d 2 d
+=5 2 rest g 4 f 2 a 4 d
+|
+=1 2 rest 2. d 4 B 2 B
+=2 1 rest 2 rest G
+=3 2 d rest rest d
+=4 2 rest d~ b b
+=5 1 d rest
+|
+=1 4 B 2 d 4 B 2 rest 4 rest c(1
+=2 4 G 4. G 8 A 4 B' 2 rest 4 rest E(2
+=3 2 d d G G
+=4 2 g d 1 rest
+=5 2 rest g g g
+|
+=1 8 [c')1 G] 4. G 8 D 4 D 2. rest 4 rest G
+=2 2 E B_ rest C(2
+=3 2 rest g g g
+=4 2 rest 4 d 2 g e 4 e
+=5 4. g 8 a 2 b g rest
+|
+=1 4 E 2 e 4 e e d 2 c
+=2 4 C)2 E C G 1 g
+=3 2. c 4 e 1 e
+=4 4. e 8 f 2 g 4 rest 2 c~ 4 c~
+=5 2 rest c g e
+| 2.9
+il0.7 .03 135
+=1 2 rest 4 rest G 2. d 4 g
+=2 2 rest 2. B_ 4 B_ 2 B_
+=3 2 rest 4 rest 2 d 4. d 8 c 2 B
+=4 4 rest 2 b 4 f 2 f 4 rest g(1
+=5 2 rest g G g
+| 3.0
+=1 2 g 4 rest 2 g 2 d 2 d(1
+=2 4 B_ 2 D 4 D 2 rest G(2
+=3 4 rest 2. G 1 G
+=4 4 g)1 4. d~ 8 g 4. b 8 c~ 4 d~ d g(1
+=5 2. g 8 [f e] 1 d
+| 3.2
+=1 bre d(1
+=2 2 G)2 D 1 D(2
+=3 2 rest B 1 B(1
+=4 8 [g)1 a] 2 b 4 g 1 g
+=5 1 bre d(1
+| 4.0
+=1 1 bre d)1-fermata
+=2 1 bre D)2-fermata
+=3 1 bre B)1-fermata
+=4 1 bre g-fermata
+=5 1 bre d)1-fermata
+@
+
+
+1.9
+log
+@notes up to 125
+@
+text
+@d761 1
+a761 1
+=4 4 c 2 d f 4 d 2 d
+d763 81
+@
+
+
+1.8
+log
+@notes up to 100
+@
+text
+@d525 1
+a525 1
+=3 2 e)1 A 4 rest 8 [A B'] [c d] 4 f
+d617 146
+@
+
+
+1.7
+log
+@up to bar 80
+@
+text
+@d511 106
+@
+
+
+1.6
+log
+@up to bar 71
+@
+text
+@d334 1
+a334 1
+r0.3 .04 - .25 us .63 te, .82 De -
+d336 2
+a337 2
+=1 4 G 2 B' 4 G rest 2 d 4 g
+r0.5 .01 x
+d339 1
+a339 1
+r0.5 .01 x
+d341 1
+a341 1
+r0.5 .01 x
+d343 1
+a343 1
+r0.5 .01 x
+d345 1
+a345 1
+r0.3 .01 x
+d351 1
+a351 1
+r0.5 .01 us Israel .
+d353 1
+a353 1
+r0.5 .01 te, Deus Israel .
+d355 1
+a355 1
+r0.5 .01 Israel .
+d444 67
+@
+
+
+1.5
+log
+@up to bar 69
+@
+text
+@d383 1
+a383 1
+=2 2. C 4 D E F 2 G
+d413 1
+a413 1
+=2 2 G)2 2. G 4 A 2 B'
+d420 1
+a420 1
+r0.5 .50 et .76 ex -
+d423 21
+@
+
+
+1.4
+log
+@up to bar 64
+@
+text
+@d371 52
+@
+
+
+1.3
+log
+@up to bar 23
+@
+text
+@d226 1
+a226 1
+=5 4 d 2 a 4 d rest g 2. g(1
+d261 110
+@
+
+
+1.2
+log
+@to bar 14
+@
+text
+@d1 3
+a3 1
+3 systems 10 /18-22-18-30-18-22-18-22-18/
+d15 1
+a15 1
+7 bars | 48 | 48 |
+d80 1
+a80 3
+r0.3 .01 alium .76 nun
+/
+7 bars | 48 |
+d91 1
+a91 1
+r0.3 .25 quam habu -
+d123 1
+a123 1
+=4 4 a 2 c~ 4. c 8 [d' e' c] 2 d
+d160 101
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@a11 1
+
+d14 1
+a14 1
+| 2.4
+d39 1
+a39 1
+=1 4 e)1 d 1 d 2 c
+d49 1
+d52 1
+a52 1
+r0.3 .53 Spem
+d57 1
+a57 1
+=1 2 G 2. A 4 A 2 D
+d82 1
+a82 1
+=1 2 c)1 F 4. c 8 B' 4 A G
+d84 1
+a84 1
+=2 2 E 4 F D 2. E 4 E
+d105 1
+a105 1
+=1 4 d)1 2 A d D 4 A(2
+d107 3
+a109 2
+=2 2 D A_ 4 rest 2 A 4 A
+r0.4 - .12 i .62 spem in
+d112 1
+a112 1
+=4 1 a 2 rest d
+d116 44
+@

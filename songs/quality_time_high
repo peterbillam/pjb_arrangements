@@ -1,0 +1,571 @@
+% start
+5 systems 5 /17 43 17-22-17 / 17 40 17-23-17 \
+ / 17 35 17-25-17 / 17 25 17-25-17 / 17 40 17-25-17 /
+title Quality Time
+pagenum 1
+innerhead Dave Frishberg
+midi channel 1 patch 53 pan 50
+midi channel 2 patch  0 pan 85 reverb 90
+midi channel 3 patch  0 pan 15 reverb 90
+/
+3 bars | 4/4 2 2 3 3 2 3 3 3 2 3 3 2  1 1 1 1 1 1 1 1 1 1 1 1 \
+ | 4.3 4.3 4 5 4 4 4 4 | 3 3 4 3 3 3 4 6 |
+| 4/4 80
+b0.5 .10 mm = 80
+=1 treble 4/4 cha1 vol125 min. rest qua [D# E]
+r0.5 .88 I'll be
+=2, treble 4/4 cha2 cro rest smq3 \
+ [F#-s5 G#-s4, A#-s3, d-s1, f#-s1 a#] min f~#-s5
+=3' bass 4/4 cha3 leg100 qua3 rest' smq3 [e g#-s1 a#-s2 e~-s4] min. blank
+=3, 4/4 cha3 leg100 smb F#
+|
+=1 qua3 [F# F F] qua [F smq E D#] qua [B_ F_#] rest B_
+r0.5 .01 late getting home from the office .87 and
+=2 cro <B_x C# E-s2-s3-s5> <A_#l C# E> min <A_#l D#>
+=3 cro c# F# min B
+|
+=1 cro C# qua F# cro. D# qua rest smq [D# E]
+r0.5 .01 so .25 will you .75 Coz we
+=2 cro <B_x C# E> qua <A_#l C# E> min <A_# D#> qua rest
+=3 cro c# qua F# min B qua rest
+/
+4 bars | 5# 48 | 48 | 48 | 48 |
+|
+=1 qua3 [F# F F] qua [F D#] qua3 [F D B_] [G_# B_ D]
+r0.4  both have a million calls to return and a
+=2' cro <B_x C# E> <A_# C E> min Eb
+=2, min blank cro B_b A_b
+=3 cro c# F# min Bn-s4,
+|
+il0.5 .10 5
+=1 qua [Ab F] [Ab F] cro Ab qua rest smq [F A]
+r0.4 .06 million things to do .75 We're not
+=2 cro <Eb B_b-s1-s4> <C F> min F
+=2, min blank cro C B_b
+=3 cro <db, gb> <Ab gb'> min <db, ab>
+|
+=1' qua3 [Bb B B] [G F G] qua [Eb E] rest C
+r0.4 .01 seeing enough of each other, .87 coz
+=2 cro <Db F-s3-s5> <Db F> min <C Eb-s2-s4>
+=3' min blank cro g fn
+=3, cro <Bb ab> <eb g> min Ab
+|
+=1 cro Db qua Bb cro. Db qua rest Db
+r0.4 .01 truth .25 be told .87 we're
+=2 cro <B_nlr Eb-s2-s4> qua <B_ Eb> min <B_b Db> qua rest
+=3' cro. blank min gb qua rest'
+=3, cro <db ab> qua <ab f> cro. fr cro eb
+/
+4 bars | 5# 48 | 48 | 48 | 8 8 8 12 |
+|
+=1' qua3 [Eb F Gb] qua [F Eb] [D F] [Bb smq D E]
+r0.45 .01 up to our ears in our careers and we're
+=2 cro <B_b Cx> <A_ C> <C Dx> <B_b D>
+=3' cro <c gb> <F gb> <Bb f> <G f>
+|
+=1 qua3 [F Eb F] qua [D F_] cro B_b qua rest B_b
+r0.4 .01 putting our hearts on hold. .87 So
+=2 cro <B_b Cx> <A_ C> qua3 rest [C-I3 D] qua [F En]
+=3' cro <c eb> <F eb> min <Bb fx g>
+|
+il0.7 .10 10
+=1' qua [Bb B] [B B] [B Ab] [F Eb]
+r0.45 .01 Darlin let me bring you up to
+=2 min <B_nrl Eb> <B_ Eb>
+=3, min <dbrl gb> <db f>
+|
+=1 min Db cro. rest qua Db
+r0.5 .01 speed .87 a 
+=2 smb <B_b Db>
+=3 smb f
+=3, cro rest, Bb Ab Gb
+/
+2 bars | 48 | 2b 4.5 4.5 4.5 4.5 4.5 6 6 6 | 48 ||
+|
+=1' smq [Bb qua. B] qua [B B] smq [Ab qua. A] qua [F F]
+r0.6 .01 little .25 time to - gether's .75 what we
+=2 min <A_b C> <Cl Dx>
+=3 min F Bb
+| 4/4 86
+=1 smq F{2 min. Eb}2 cro rest
+r0.6 .01 need . . .
+=2 min rest qua rest smq [<B_b Dbxl Ebl> qua <B_ Dx E> smq <B_ Dx E>] qua rest
+=3, min rest qua rest smq [<f ab-s1,-s2,> qua <f a> smq <f a>] qua rest
+|
+=1 smb rest
+=2 smq [<B_b Dbl Ex> qua <B_ D Ex> smq <B_ D Ex>] qua rest smq [<B_ D F> \
+ qua <B_ D F> smq <B_ D F>] qua rest smq [<A_ Db F> qua. <A_ D F>]
+=3, smq [<e ab> qua <e a> smq <e a>] qua rest smq [<eb-s1,-s2, g> \
+ qua <e g> smq <e g>] qua rest smq [<Bn f-s1,-s4,> qua. <B f>]
+/
+4 bars ||: 1# 48 | 48 |
+| 4/4 .27 .21 .26 .21 .27 .21 .26 .21
+il0.5 15
+b0.5 .10 mm = 116
+=1 2b qua [D C F] cro. D cro rest
+r0.5 .10 Quality time,
+=2 2b cro <B_ D> <B_ D> <A_ D> qua [<A_ D> <B_(2 D(1>]
+=3' 2b cro <c-s2,-s3, e> <c e> <e fx> qua [<e fx> <c(2 e(1>]
+|
+=1 qua rest [D C D] [G_ A_ B_ C]
+r0.6 .12 we both deserve a litte
+r0.3 .12 we owe ourselves a little
+=2 cro <B_)2 D)1> <B_ D> <A_ D> qua [<A_ D> <B_(2 D(1>]
+=3' cro <c)2 e)1> <c e> <F e> qua [<F e> <c(2 e(1>]
+|
+=1 qua qua [D C F] cro. D cro rest
+r0.5 .01 Quality time,
+=2' cro <B_)2 D)1> <B_ D> <A_ D> qua rest qua e{'1
+=3' cro <c)2 e)1> <c e> <e fx> <e-s4,-s5, fx>
+|
+=1 smb rest
+=2' qua [d}'1 B] [F-s1 En-s2] [Eb db{'1] [c}'1 B(2]
+=3 cro <g bx c~> <g bx c~> <f#l-s1,-s2,-s4, bx c~> <f#-s1,-s3,-s4, a c~>
+/
+4 bars | 1# 48 | 48 |
+|
+=1 qua rest [F F F] [F F F F]
+r0.6 .12 We'll find a small hotel re -
+r0.3 .12 In the Bahamas .75 we can
+=2 min B)2 cro <B_ D F> <B_ D F>
+=3 cro <a bx d~> <a bx d~> smq-s [f-s5, f# g] min ab
+|
+=1 cro B G qua [F E] cro rest
+r0.6 .01 mote .25 and .50 quiet
+r0.3 .01 let .25 our .50 stress go
+=2 cro <B_ D F> <B_ D F> <B_ Db Ex F> qua [<B_ Db Ex F> <B_ Cx D>]
+=3 min g-s1, gb
+|
+=1 qua rest [D D D] [D D D D]
+r0.6 .12 In case they wanna sell, my
+r0.3 .12 We'll walk along the beach and
+=2 cro rest <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3, min f <enl-s2,-s4, g#>
+|
+=1 cro G E qua [D C] cro rest
+r0.6 .01 firm .25 could .50 buy it
+r0.3 .01 dine .25 al .50 fresco
+=2 cro <B_ Cx D> <B_ Cx D> <B_ Cx D> qua [<B_ Cx D> <B_ Cx D>]
+=3, min <eb-s1,-s3, g> <d f#>
+/
+4 bars | 1# 48 | 48 | 48 | 30 :||
+|
+=1 qua rest [B_ B_ B_] [B_ C D F]
+r0.6 .12 And we'd develop .75 it, .87 en -
+r0.3 .12 I'll take a power-lunch with
+=2 cro rest <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3 min g f-s3,
+|
+=1 cro A c qua [A G#] cro rest
+r0.6 .01 gen  - .25 try  - .50 fy  it
+r0.3 .01 Ro - bert .50 Vesco
+=2 min <B_ D> cro <Dx En> <Dx E>
+=3, min <en g> cro <e b> <e b>
+|
+=1 qua rest [G G G] [A A A D(2]
+r0.5 .12 We're talking quality .85 time . . .
+=2 min <C Eb> cro <C#l Eb> qua [<B_n E> <B_b(2 D(1>]
+=3 min <g-s1,-s3, bb> cro <f a> qua [<f a> <f(2 a(1>]
+% stop
+|
+i1.0       _______________
+Il0.4 1a
+=1 min D)2 rest
+=2 smb <B_)2 D)1>
+=3 smb <f)2 a)1>
+=3, min rest,  qua rest, cro Bb-s5, qua Bn
+/
+4 bars | 1# 48 | 48 | 48 | 48 |
+% start
+|
+I1.1         ______________
+Il0.6   2a
+=1 min D)2 cro rest D
+r0.5 .73 Come
+=2 smb <B_)2 D)1>
+=3 min <f)2 a)1> cro B-s2, qua [A Ab]
+|
+=1 cro A qua G cro. G qua rest A
+r0.5 .01 fly .25 with  me .87 un - wind
+=2 cro <D F A> <D Fx G> qua3 rest <D F A> rest rest <D Fx G> rest
+=3' qua [G g] [B-s4, Bn] [g Bb] [Bn d]
+|
+=1 cro A qua rest G cro A qua rest G
+r0.5 .37 kick back .87 re -
+=2 qua3 rest <D F A> rest rest <D Fx G> rest cro <B_ En A> <B_ E>
+=3' qua [G g] [B Bn] [c-s1, Ab] [G F(2]
+|
+=1 cro C rest rest G
+r0.5 .01 lax .75 I'll
+=2 cro <A_ C En> qua3 rest [d,-I3 en] qua [g f] [c' A]
+=3 cro rest' <a c~ e~n> min <a c~ e~>
+=3 smb F)2
+|
+=1 qua G cro. F qua G cro F qua B_(1
+r0.5 .01 bring  my .50 laptop .87 fax
+=2 cro. <C Eb G> <C Dx G> cro F
+=3' cro Ab qua [An <B(2 ab(1>] min <B)2 a)1>
+|
+=1 cro B_)1 rest min rest
+=2, cro rest qua3 [c#-s2 d-s1 f] qua [g b-s4] [c~ b]
+=3 smb <e g b d~>
+|
+=1 smb rest
+=2 smq3 f#{1 qua [g}1 e] [c B(1] cro B)1 rest
+=3 qua rest cro. <g b d~> qua rest c qua [e f]
+|
+=1 qua F F F E F cro. G#
+r0.5 .01 You'll work on your new screen -
+=2 smb <B_ Db F>
+=3 min. gb cro Gn
+|
+=1 cro F rest min rest
+r0.5 .01 play,
+=2 min <C F> qua [b gb] [f e]
+=3 smb <Ab gb>
+|
+=1 qua rest En cro E qua [E D] qua3 [E G-I3 E(2]
+r0.5 .12 I'll up .37 - .50 date my resumé
+=2 smb <A d>
+=3 smb <f# c~ e~n>
+|
+=1 min En)2 rest
+=2 cro. rest smq3-s f~#{1 qua g~}1 cro g G(1-s5
+|
+=1 qua [D C F] cro. D cro rest
+r0.5 .01 Quality .37 time,
+=2 smb G)1
+=2 cro <B_, D,> <B_ D> <A_ D> qua [<A_ D> <B_(2 D(1>]
+=3' cro <c-s2,-s3, e> <c e> <e fx> qua [<e fx> <c(2 e(1>]
+
+5 systems 5 /17 38 17-22-17 / 17 35 17-23-17 \
+ / 17 35 17-25-17 / 17 40 17-25-17 / 17 40 17-25-17 /
+pagenum
+innerhead Quality Time, Dave Frishberg
+|
+=1 qua rest [D C D] [G_ A_ B_ C]
+r0.4 .12 a .25 little .50 frolic .75 and fri -
+=2 cro <B_)2 D)1> <B_ D> <A_ D> qua [<A_ D> <B_(2 D(1>]
+=3' cro <c)2 e)1> <c e> <F e> qua [<F e> <c(2 e(1>]
+|
+=1 qua [D C F] cro. D cro rest
+r0.4 .01 volity .37 time
+=2' cro <B_)2 D)1> <B_ D> <A_ D> qua rest qua e{'1
+=3' cro <c)2 e)1> <c e> <e fx> <e-s4,-s5, fx>
+|
+=1 smb rest
+=2' qua [d}'1 B] [F En] [Eb db{'1] [c}'1 B(2]
+=3 cro <g bx c~> <g bx c~> <f#l-s1,-s2,-s4, bx c~> <f#-s1,-s3,-s4, a c~>
+|
+=1 qua rest [F F F] [F F F F]
+r0.5 .12 We'll take a .53 seminar .87 in
+=2 min B)2 cro <B_b D F> <B_ D F>
+=3 min <a bx d~> smq-s [f-s5, f# g] min ab
+/
+4 bars | 1# 48 | 48 |
+|
+=1 cro B G qua [F E] cro rest
+r0.5 .06 self .24 - .35 hypgnosis
+=2 cro <B_ D F> <B_ D F> <B_ Db Ex F> <B_ Db Ex F>
+=3 min g gb
+|
+=1 qua rest [D D D] [D D D D]
+r0.5 .12 so we can learn to stop and
+=2 cro <B_ Cx D> <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3, min f <enl g#>
+|
+=1 cro G E qua [D C] cro rest
+r0.5 .01 smell .25 the .50 roses ,
+=2 cro <B_ Cx D> <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3, min <e g> <d f#>
+|
+=1 qua rest [B_ B_ B_] [B_ C D F]
+r0.5 .12 We'll do a workshop on the
+=2 cro <B_ Cx D> <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3 min g f
+|
+=1 cro A c qua [A G#] cro rest
+r0.5 .07 griev - ing .53 process ,
+=2 min <B_ D> cro <Dx En> <Dx E>
+=3, min <en g> cro <e b> <e b>
+|
+=1 cro3 G E-I3 G A D-I3 A
+r0.5 learning .33 to .50 cry .67 is .83 no
+=2' cro Eb G min A
+=2, min C cro <C Eb> D-s1
+=3, cro3 g f e min <d f#>
+|
+=1 min B rest
+r0.5 .01 crime
+=2 smb <Dx En B>
+=3' smb b
+=3, min g cro d db
+|
+=1' cro3 B G-I3 E qua [D B_ B_ B_(2]
+r0.4 .01 we're talking .50 quality .86 time.
+=2' min <E G B> cro <E G B> qua [<E G B> <D(2 F Ax B(1>]
+=3, cro c bb f F
+/
+4 bars | 48 ||: 1# 48 | 48 | 48 |
+|
+=1 min B_)2 rest
+=2 smb <D)2 F Ax B)1>
+=3' cro rest B d-s3, db
+|
+=1 smb rest
+=2 qua [<d, d~> <c, c~> <f f~>] min <d, d~> qua <B_(2 D(1>
+=3' cro <c-s1,-s3,-s5, e b> <c e b> \
+ <e fx a> qua [<e-s1,-s2, fx> <c(2-s2,-s3, e(1>]
+|
+=1 qua rest [D C D] [G_ A_ B_ C]
+r0.6 .12 we better shape up while we're
+r0.3 .12 we're both entitled to some
+=2 cro <B_)2 D)1> <B_ D> <A_ D> qua [<A_ D> <B_(2 D(1>]
+=3' cro <c)2 e)1> <c e> <F e> qua [<F e> <c(2 e(1>]
+|
+=1 qua qua [D C F] cro. D cro rest
+r0.6 .01 still in our prime,
+r0.3 .01 quality time,
+=2' cro <B_)2 D)1> <B_ D> <A_ D> qua rest qua e{'1
+=3' cro <c)2 e)1> <c e> <e fx> <e fx>
+/
+4 bars | 1# 48 | 48 |
+|
+=1 smb rest
+=2' qua [d}'1 B] [F En] [Eb db{'1] [c}'1 B(2]
+=3 cro <g bx c~> <g bx c~> <f#l bx c~> <fl ax c~>
+|
+=1 qua rest [F F F] [F F F F]
+r0.6 .12 We'll hit the tennis courts in
+r0.3 .12 We'll find some upscale types to
+=2' min B)2 cro <B_ D F> <B_ D F>
+=3 cro <a bx d~> <a bx d~> smq-s [f f# g] min ab
+|
+=1 cro B G qua [F E] cro rest
+r0.6 .01 our .25 A - .50 didas,
+r0.3 .01 share .25 some .50 space with
+=2 cro <B_ D F> <B_ D F> <B_ Db Ex F> <B_ Db Ex F>
+=3 min g gb
+|
+=1 qua rest [D D D] [D D D D]
+r0.6 .12 some influential sports are
+r0.3 .12 a wealthy couple we could 
+=2 cro <B_ Cx D> <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3, min f <enl g#>
+
+5 systems 5 /17 38 17-22-17 / 17 35 17-23-17 \
+ / 17 35 17-25-17 / 17 40 17-25-17 / 17 40 17-25-17 /
+pagenum
+innerhead Quality Time, Dave Frishberg
+|
+=1 cro G E qua [D C] cro rest
+r0.6 .01 bound .25 to .50 meet us
+r0.3 .01 inter .28 - .50 face with,
+=2 cro <B_ Cx D> <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3' min <e g> <d f#>
+|
+=1 qua rest [B_ B_ B_] [B_ C D F]
+r0.6 .10 we'll doublefault of course and
+r0.3 .12 a smart attorney we could
+=2 cro <B_ Cx D> <B_ Cx D> <B_ Cx D> <B_ Cx D>
+=3 min g f
+|
+=1 cro A c qua [A G#] cro rest
+r0.6 .03 let .25 them .50 beat us,
+r0.3 .01 start .25 a .50 case with
+=2 min <B_ D> cro <Dx En> <Dx E>
+=3, min <en g> cro <e b> <e b>
+|
+=1 cro3 G E-I3 G qua [A A A D(2]
+r0.5 .01 We're talking .54 quality .85 time . . .
+=2 min <C E> cro <C# E> qua [<B_n E> <B_b(2 D(1>]
+=3 min <g b> cro <f a> qua [<f a> <f(2 a(1>]
+/
+4 bars | 1# 40 :|| 48 | 48 |
+% stop
+|
+i1.0         _______________
+Il0.4   1a
+=1 min D)2 rest
+=2 smb <B_)2 D)1>
+=3 smb <f)2 a)1>
+% start
+|
+i1.0       ______________
+Il0.4  2a
+=1 min D)2 cro rest D
+r0.5 .73 Come
+=2 smb <B_)2 D)1>
+=3 min <f)2 a)1> cro B qua [A Ab]
+|
+=1 cro A qua G cro. G qua rest A
+r0.5 .01 dine .25 with  me .87 this
+=2 cro <D F A> <D Fx G> qua3 rest <D F A> rest rest <D Fx G> rest
+=3' qua [G g] [B Bn] [g Bb] [Bn d]
+|
+=1 cro A qua c cro. C qua [C C(2]
+r0.5 .01 time .25 you choose .75 the wine
+=2 qua3 rest <D F A> rest rest <D Fx G> rest cro <B_ En A> <B_ E>
+=3' qua [G g] [B Bn] [c Ab] [G F(2]
+/
+4 bars | 1# 48 | 48 | 48 | 4 3 3 3 6 3 3 3 3 3 3 3 3 3 3 3 3 |
+|
+=1 cro C)2 rest rest G
+r0.5 .75 ro .90 -
+=2 cro <A_ C En> qua3 rest [d,-I3 en] qua [g f] [c' A]
+=3 cro rest' <a c~ e~n> min <a c~ e~>
+=3 smb F)2
+|
+=1 cro G qua [E F] qua G cro F qua B_(1
+r0.5 .01 mance  .25 is  the .50 bottom .87 line . . .
+=2 cro. <C E G> <C Dx G> cro F
+=3' cro Ab qua [An <B(2 ab(1>] min <B)2 a)1>
+|
+=1 cro B_)1 rest min rest
+=2, cro3 rest c~-I3 bn qua [bb g] [e ab-s5]
+=3 smb <e g b d~>
+|
+=1 min. rest cro E
+r0.5 .75 and
+=2 smq3 f#{1 qua [g}1-s5 smq e-s3 B,-s2] qua <e' Ab> cro. <G e'> cro rest
+=3 qua rest cro. <g b d~> qua rest c qua [e f]
+/
+4 bars | 1# 48 | 48 | 48 | 48 |
+|
+=1 smq [F qua. F] qua rest E cro F qua [Ab F(2]
+r0.5 .08 later .37 when we're .77 alone -
+=2 qua <B_ Db F> min.. rest
+=3 qua gb min.. rest
+|
+=1 cro F)2 rest min rest
+=2 qua rest smq [g# g~#] [g g~ g g~] [g g~ g g~] [g g~ qua g]
+=3 smb rest
+|
+=1 qua rest F# cro F qua [F En] qua3 [F A-I3 F(2]
+r0.5 .12 hang on , .46 there's my other phone
+=2 qua <a a~> min.. rest
+=3 smb rest
+|
+=1  0 min F#)2 rest
+=2' 0 min rest qua rest cro. <En G c>
+=3  0 min rest qua rest cro. <al c~#>
+|
+=1  qua [E D G E(2] cro. E)2 qua rest
+r0.5 .01 We'll have a ball
+=2  cro <F A> <F A> cro <B_ E> qua [<B_ E> <C(2 E(1>]
+=3, cro <d c~> <d c~> <fx g> qua [<fx g> <d(2 f(1>]
+|
+=1 qua rest [E D E] [A_ B_ C D]
+r0.5 .12 but first I'd rather deal with
+=2 cro <C)2 E)1> <C E> <B_ E> qua [<B_ E> <C(2 E(1>]
+=3' cro <d)2 f)1> <d f> <G f> qua [<G f> <d(2 f(1>]
+|
+=1 qua qua [E D G] cro. E cro rest
+r0.5 .01 this other call
+=2' cro <C)2 E)1> <C E> <B_ E> qua rest qua f{'1
+=3' cro <d)2 f)1> <d f> <f gx> <f gx>
+|
+=1 smb rest
+=2' qua [e}'1 c] [G Gb] [F eb{'1] [d}'1 c(2]
+=3 cro <a c~x d~> <a c~x d~> <g#l c~x d~> <g# b d~>
+
+5 systems 5 /17 38 17-22-17 / 17 35 17-23-17 \
+ / 17 35 17-25-17 / 17 40 17-25-17 / 17 40 17-25-17 /
+pagenum
+innerhead Quality Time, Dave Frishberg
+|
+=1 qua rest [G G G] [G G G G]
+r0.5 .06 We've both been chewing more than we
+=2 min c)2 cro <C E G> <C E G>
+=3 min <b c~x e~> smq-s [g g# a] min bb
+|
+=1 cro c A qua [G F] cro rest
+r0.5 .25 can .50 bite off
+=2 cro <C E G> <C E G> <C Eb Fx G> <C E Fx G>
+=3 min a ab
+|
+=1 qua rest [E A G] [E E E E]
+r0.5 .12 we gotta .50 take at least a
+=2 cro <C Dx En> <C Dx E> <C Dx E> <C Dx E>
+=3, min g <gbl bb>
+|
+=1 cro A F qua [E D] cro rest
+r0.5 .01 day .25 a .47 night off
+=2 cro <C Dx E> <C Dx E> <C Dx E> <C Dx E>
+=3' min <f a> <e g#>
+|
+=1 qua rest [C C C] [C D E G]
+r0.5 .12 I'll speak to Sid he'll make it
+=2 cro <C Dx E> <C Dx E> <C Dx E> <C Dx E>
+=3 min a g
+|
+=1 cro B d qua [B Bb] cro rest
+r0.5 .01 all .25 a .47 write-off
+=2 min <C E> cro <Ex F#> <Ex F>
+=3, min <f# a> cro <f c~> <f c~>
+|
+=1 cro3 A F-I3 A B E-I3 B
+r0.5 .01 this may not .50 cost us .87 a 
+=2 min <D Fn> <D F>
+=3, cro <a c~> f min <el g#>
+|
+=1 min. c cro E
+r0.5 .01 dime ! .75 I'll
+=2 smb <E Gx A>
+=3 smb <a c~>
+|
+=1 cro D-. c-. A-. qua [F E]
+r0.5 .01 fax .25 you .50 back .75 with a 
+=2 qua <F A> rest cro rest qua rest cro. <F A>
+=3, qua <d c~> rest cro rest qua rest cro. <d c~>
+|
+=1' qua [Eb c B A] rest [En G A]
+r0.5 .01 plan of .27 attack .60 and let .87 the
+=2 qua <F# A> rest cro rest min <Fl A>
+=3, qua <eb c~> rest cro rest min <e c~>
+|
+=1' qua [B A B G(2] cro G)2 E
+r0.5 .04 quality .37 times .75 be  -
+=2' qua <G B> rest cro rest qua rest cro. <G B>
+=3, qua <e c~> rest cro rest qua rest cro. <e c~>
+|
+=1 cro B-. E cro3 G F-I3 E
+r0.5 .01 gin, .25 we'll .50 firm up .83 the
+=2' qua <C# G B> min.. rest
+=3 qua A min.. rest
+|
+=1 cro D min. c
+r0.5 .01 time - frame
+=2 min. rest qua <F A> rest
+=3, min. rest qua <d c~> rest
+|
+=1 smb rest
+=2 min <F# A> qua <G Ax> rest [<F# A> <Fn A>]
+=3, min <eb c~> qua <en c~> rest [<eb c~> <d c~>]
+|
+=1 qua rest [G A c'] [eb c e c(1]
+r0.5 .12 and you can  pencil me .87 in
+|
+=1 min c)1 rest
+=2 qua rest [G A c'] smq [eb c] cro. e
+=3' cro rest' c rest' c
+=3, min C En
+/
+4 bars | 16 | 16 | 16 | 16 ||
+|
+=1 smb rest
+=2 smq [c A,] cro. c cro A qua [Ab G]
+=3' cro rest' cro eb rest' eb
+=3, min F cro. F# qua G
+|
+=1' qua rest [F F# G] [Bb G B G(2]
+r0.5 .12 you better .50 pencil .75 me in
+|
+=1 min. G)2 cro rest
+=2' min rest qua <D#l G#> cro. <E(2 A(1>
+=3, min rest qua <db b> cro. <c(2 bb(1>
+|
+=1 smb rest
+=2' cro rest'' smq [f~# e~ a~] min f~#
+=2, smb <E)2 A)1>
+=3, smb <c)2 bb)1>

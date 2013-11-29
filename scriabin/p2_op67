@@ -1,0 +1,89 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.sp 1.4c
+.LP
+.ce 1
+\f3\s+8Two Preludes, \  Alexander Scriabin op.67, 1912-3\s0\fP
+.sp 1.4c
+.LP
+.nh
+Danilewitsch quotes Scriabin:
+"my melody is a decomposed harmony, and my harmony is condensed melody."
+Indeed, the harmony notes are not a subset,
+selected for lower tension, of the melody notes;
+they are all of them.
+The euphony desirable in longer notes is attained by careful spacing;
+this in turn encourages some arpeggiation,
+that further blurs the border between the harmonic and melodic realms.
+The following observations on the harmonic and rhythmic construction
+are mostly gleaned from Manfred Kelkel's book
+\f2Alexandre Scriabine:
+Sa vie, l'ésotérisme et le langage musical dans son oeuvre\fP,
+Éditions Honoré Champion, 7 quai Malaquais, Paris, 1978.
+
+.LP
+.nh
+At the time of Op. 67,
+Scriabin was using the eight-note scale 1+2+1+2+1+2+1+2 semitones.
+Since the pattern repeats every three semitones,
+it has only three distinct transpositions.
+In the second movement,
+the first bars are made from \f2C Db Eb En F# G A Bb\fP;
+in bar 1 \f2Db\fP and \f2En\fP are omitted,
+in bar 2 the first half has \f2En\fP and \f2G\fP omitted,
+and the second half has \f2G\fP and \f2Bb\fP omitted,
+a simple rising pattern.
+.LP
+.nh
+In the slower first movement,
+this eight-note scale is expanded to a nine-note scale.
+In the first bar, an \f2Ab\fP is added on the barline.
+In bar 15, using the second transposition
+\f2C# D E F G G# A# B\fP,
+an \f2F#\fP is added on the barline,
+and the scale-note \f2G\fP is omitted in bar 15 but mentioned in bar 16.
+By simple changes of this kind,
+Scriabin maintains harmonic rhythm,
+and harmonic movement from bar to bar.
+.LP
+.nh
+Both movements are 35 bars long.
+The rhythmic structure of the first is most easily read
+by counting the left hand chords in eigth-notes:
+there is a six-bar phrase and its repetition,
+then a four-bar phrase and its repetition a semitone down,
+then a six-bar phrase
+and its repetition six semitones down extended to eight bars.
+.nf
+.ce 5
+\  \  6 bars: 3+2, 3+2, 3+7, 3+7; \  6 bars: 3+2, 3+2, 3+7, 3+5+2
+4 bars: 8+2, 10; \  4 bars: 8+2, 10
+6 bars: 3+7, 3+17
+8 bars: 3+2, 3+2, 3+5+2, 3+17
+last bar: 5
+.fi
+The sections of the second movement are counted in bars.
+First there is a ten-bar section (4+2+4),
+then a twelve-bar section (4+2+4+2),
+then a recapitulation of the ten-bar section (4+2+4),
+and then a three-bar conclusion.
+
+.LP
+.nh
+In this edition the notes are right but many expression marks are not,
+partly through the constraints of my music-typesetting software \f2muscript\fP.
+Long slurs have been omitted, and the arpeggiation symbols are missing.
+If you're considering playing these pieces,
+make sure you consult Peters or Dover or some other more authoritative edition.
+The fingering is editorial only; it may help, but can be ignored.
+
+.LP
+.nh
+.ce
+Peter Billam, \  \f2www.pjb.com.au\fP
+

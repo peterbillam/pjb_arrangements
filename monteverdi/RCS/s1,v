@@ -1,0 +1,406 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	98.01.26.00.17.49;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	95.06.29.09.43.45;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	95.06.28.12.07.38;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	95.06.28.12.01.24;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	95.06.28.11.46.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Ecco Mormorar L'Onde, Monteverdi; Soprano 1
+@
+
+
+1.5
+log
+@added beams to muscript 1.5
+@
+text
+@12 systems /24/24/24/24/24/24/24/24/24/24/24/24/
+lefthead Monteverdi
+Title Ecco mormorar l'onde
+righthead Soprano 1
+leftfoot Typeset 1995 by Peter J Billam.
+rightfoot This page may be freely photocopied and redistributed, provided it is not resold for profit.
+/
+6 bars | .14 | 0.1 | 0.1 | 0.16 | 0.11 0.14 | 0.13 0.1 |
+|
+=1 treble 1# 4/4 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 cro B min c cro B
+|
+il0.2   5
+=1 cro A G qua. d smq c qua B'[ G]
+|
+=1 qua A[ G G F] min G
+/
+4 bars | 0.25 | 0.35 | 0.25 | 0.15 |
+|
+=1 treble 1# min rest cro d qua d[ d]
+|
+=1 smq d[ d] qua d cro e qua d[ d] smq B[ A, B, c]
+|
+=1 qua d[ d] cro rest min rest
+|
+il0.2 10
+=1 smb rest
+/
+4 bars | 25 | 8 6 6 6 | 10 9 | 7 8 7 8 |
+|
+=1 treble 1# cro rest qua rest G cro. A qua E
+|
+=1 qua. F smq G cro A qua D cro d qua c
+|
+=1 qua c[ B] cro A min G
+|
+=1 qua rest G qua. B smq c' qua d'[ G] qua. B smq c'
+/
+3 bars | 16 20 | 32 | 32 |
+|
+il0.2      15
+=1 treble 1# qua d[ e] cro d qua e[ g] smq g[ f e d]
+|
+=1 smq e[ d c B] qua c'[ B'] A[ G] cro F
+|
+=1 qua F[ F] smq G[ A B c'] qua d'[ A] smq B,[ c d c]
+/
+3 bars | 6 5 6 10 6 6 | 35 | 14 11 |
+|
+=1 treble 1# smq B'[ A] qua G F qua. G dsq F[ E] qua F cro G
+|
+=1 qua rest D smq G[ A B c'] qua d[ B, A, d]
+|
+il0.2  20
+=1 cro d d min rest
+/
+3 bars | 41 | 36 | 13 10 |
+|
+=1 treble 1# qua B' smq B'[ A] qua B,[ c] cro d G
+|
+=1 cro B qua B qua. G smq A qua B cro c
+|
+=1 min B rest
+/
+3 bars | 37 | 31 | 32 |
+|
+=1 treble 1# qua rest d smq G[ A B c'] qua d[ d] cro rest
+|
+il0.2  25
+=1 qua rest cro d B qua d[ d B,]
+|
+=1 cro A B qua rest G smq G[ A B c']
+/
+4 bars | 9 5.5 5 | 11 12 | 5 5 5 5 8 | 19 |
+|
+=1 treble 1# qua d[ d] cro rest min rest
+|
+=1 qua rest cro d B qua d c[ B]
+|
+=1 qua B qua. G smq A smq B'[ G A B'] qua. c' smq B' B' dsq A[ B']
+|
+il0.2  30
+=1 cro c B rest G
+/
+4 bars | 0.2 | 0.06 0.09 0.06 | 0.15 | 0.34 |
+|
+=1 treble 1# cro A A B A
+|
+=1 cro G qua. F smq G min A
+|
+=1 cro A rest min rest
+|
+=1 qua B' smq B'[ A] qua G[ c'] cro B B
+/
+3 bars | 36 | 8 8 14 10 | 11 8 11 |
+|
+il0.2      35
+=1 treble 1# qua B, smq B,[ c] qua d[ B,] qua d smq d[ c] qua B,[ e]
+|
+=1 cro d d qua. G smq F smq E[ F G E]
+|
+=1 qua F smq F[ E] qua F[ D] qua. E smq D qua E[ F]
+/
+4 bars | 0.14 0.11 | 0.15 | 0.35 | 0.17 0.13 |
+|
+=1 treble 1# cro G G min rest
+|
+=1 smb rest
+|
+il0.2 40
+=1 qua. e smq d c[ d e c] qua d smq d[ c] qua d[ B]
+|
+=1 qua. c smq B, qua c[ A,] cro B' B'
+/
+5 bars | 0.25 | 0.2 | 0.18 | 0.24 | 0.13 ||
+|
+=1 treble 1# cro G qua A[ B] cro A A
+|
+=1 cro B G A D
+|
+=1 cro D min d cro c
+|
+il0.2  45
+=1 cro A min c cro B min A
+|
+=1 smb B
+@
+
+
+1.4
+log
+@errors in 8 14, 2 stems in 16
+@
+text
+@d2 5
+a9 1
+b1.1 Monteverdi
+a13 1
+bl1.1      Ecco mormorar L'onde
+d19 1
+a19 1
+=1 cro A G qua. d smq c qua B G
+d21 1
+a21 2
+b1.1                   Soprano 1
+=1 qua A G G F# min G
+d25 1
+a25 1
+=1 treble 1# min rest cro d qua d d
+d27 1
+a27 1
+=1 smq d d qua d cro e qua d d smq B A, B, c
+d29 1
+a29 1
+=1 qua d d cro rest min rest
+d31 1
+a31 1
+il0.2   10
+d34 1
+a34 1
+4 bars | 0.25 | 0.25 | 0.2 | 0.3 |
+d38 1
+a38 1
+=1 qua. F# smq G cro A qua D cro d qua c
+d40 1
+a40 1
+=1 qua c B cro A min G
+d42 1
+a42 1
+=1 qua rest G qua. B smq c' qua d' G qua. B smq c'
+d47 1
+a47 1
+=1 treble 1# qua d e cro d qua e g smq g f# e d
+d49 1
+a49 1
+=1 smq e d c B qua c' B' A G cro F#
+d51 1
+a51 1
+=1 qua F# F# smq G A B c' qua d' A smq B, c d c
+d53 1
+a53 1
+3 bars | 6 5 6 6 10 6 | 35 | 14 11 |
+d55 1
+a55 1
+=1 treble 1# smq B' A qua G F# cro. G dsq F E qua F cro G
+d57 1
+a57 1
+=1 qua rest D smq G A B c' qua d B, A, d
+d64 1
+a64 1
+=1 treble 1# qua B' smq B' A qua B, c cro d G
+d72 1
+a72 1
+=1 treble 1# qua rest d smq G A B c' qua d d cro rest
+d75 1
+a75 1
+=1 qua rest cro d B qua d d B
+d77 1
+a77 1
+=1 cro A B qua rest G smq G A B c'
+d79 1
+a79 1
+4 bars | 0.09 0.055 0.055 | 0.24 | 0.36 | 0.20 |
+d81 1
+a81 1
+=1 treble 1# qua d d cro rest min rest
+d83 1
+a83 1
+=1 qua rest cro d B qua d c B
+d85 1
+a85 1
+=1 qua B qua. G smq A smq B G A B qua. c' smq B' B' dsq A B
+d94 1
+a94 1
+=1 cro G qua. F# smq G min A
+d98 1
+a98 1
+=1 qua B smq B A qua G C cro B B
+d103 1
+a103 1
+=1 treble 1# qua B, smq B, c qua d B, qua d smq d c qua B, e
+d105 1
+a105 1
+=1 cro d d qua. G smq F# smq E F# G E
+d107 1
+a107 1
+=1 qua F# smq F# E qua F# D qua. E smq D qua E F#
+d116 1
+a116 1
+=1 qua. e smq d c d e c qua d smq d c qua d B
+d118 1
+a118 1
+=1 qua. c smq B, qua c A, cro B' B'
+d122 1
+a122 2
+=1 treble 1# cro G qua A B cro A A
+is0.9 Typeset 1995 by Peter J Billam.                      This page may freely photocopied and redistributed, provided it is not resold for profit.
+@
+
+
+1.3
+log
+@correct gross spacing errors, on octave
+@
+text
+@d18 1
+a18 1
+b1.1               Soprano 1
+d25 1
+a25 1
+=1 smq d qua d cro e qua d d smq B A, B, c
+d40 1
+a40 1
+=1 qua G qua. B smq c' qua d' G qua. B smq c'
+d47 1
+a47 1
+=1 smq e d c B qua c B A G cro F#
+d49 1
+a49 1
+=1 qua qua F# F# smq G A B c' qua d' A smq B, c d c
+d70 1
+a70 1
+=1 qua rest d smq G A B c' qua d d cro rest
+d90 1
+a90 1
+=1 cro treble 1# A A B A
+d121 1
+@
+
+
+1.2
+log
+@tails
+@
+text
+@d51 1
+a51 1
+3 bars | 40 | 35 | 14 11 |
+d77 1
+a77 1
+4 bars | 0.9 0.55 0.55 | 0.24 | 0.36 | 0.20 |
+d88 1
+a88 1
+4 bars | 0.2 | 0.6 0.9 0.6 | 0.15 | 0.34 |
+d98 1
+a98 1
+3 bars | 36 | 11 11 17 | 32 |
+d100 1
+a100 1
+il0.2     35
+d103 1
+a103 1
+=1 cro d d qua. g smq F# smq E F# G E
+@
+
+
+1.1
+log
+@correct syntax, add title
+@
+text
+@d10 1
+a10 1
+bl1.0 Ecco mormorar L'onde
+d18 1
+a19 1
+b1.1 Soprano 1
+d25 1
+a25 1
+=1 smq d qua d cro e qua d d smq B A B c
+d40 1
+a40 1
+=1 qua G qua. B smq c qua d G qua. B smq c
+d42 1
+a42 1
+3 bars | 36 | 32 | 32 |
+d44 1
+a44 1
+il0.2  15
+d49 1
+a49 1
+=1 qua qua F# F# smq G A B c qua d A smq B c d c
+d53 1
+a53 1
+=1 treble 1# smq B A qua G F# cro. G dsq F E qua F cro G
+d55 1
+a55 1
+=1 qua D smq G A B c qua d B A d
+d62 1
+a62 1
+=1 treble 1# qua B smq B A qua B c cro d G
+d70 1
+a70 1
+=1 qua d smq G A B c qua d d cro rest
+d75 1
+a75 1
+=1 cro A B qua rest G smq G A B c
+d77 1
+a77 1
+4 bars | 0.2 | 0.27 | 0.33 | 0.20 |
+d83 1
+a83 1
+=1 qua B qua. G smq A smq B G A B qua. c smq B B dsq A B
+d88 1
+a88 1
+4 bars | 0.25 | 0.2 | 0.15 | 0.35 |
+d98 1
+a98 1
+3 bars | 36 | 13 16 | 32 |
+d100 2
+a101 2
+il0.2 35
+=1 treble 1# qua B smq B c qua d B qua d smq d c qua B e
+d116 1
+a116 1
+=1 qua. c smq B qua c A cro B B
+@

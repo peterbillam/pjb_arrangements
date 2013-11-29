@@ -1,0 +1,196 @@
+% start
+5 systems 5 /17 20 17-22-17 / 17 35 17-23-17 \
+ / 17 40 17-25-17 / 17 40 17-25-17 / 17 30 17-25-17 /
+title My Baby Just Cares For Me
+lefthead Gus Kahn / Walter Donaldson
+midi channel 1 patch 53
+midi channel 2 patch 0 reverb 90
+/
+4 bars | 3# 4/4 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 \
+ | 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 \
+ | 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 \
+ | 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 ||
+| 4/4 126
+=1 treble 3# 4/4 cha1 vol125 smb rest
+=2 treble 3# 4/4 cha2 vol80 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 bass   3# 4/4 cha2 cro a-. g-. f-. e-.-s1,
+|
+=1 smb rest
+=2 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. e-.-s2,
+|
+=1 smb rest
+=2 vol70 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. f-. e-.
+|
+=1 smb rest
+=2 vol60 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. e-.
+
+/
+4 bars | 3# 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 \
+ | 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 |
+|
+=1 cro rest qua rest A_ [A_ A_] cro F_
+=2 vol50 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. vol80 f-. e-.
+|
+=1 cro A_ qua A_ cro G_ cro. rest
+=2 vol40 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. e-.
+|
+=1 cro3 rest rest-I3 A_ qua [A_ A_] cro A_
+=2 vol50 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. vol80 f-. e-.
+|
+=1 cro A_ qua F_ leg100 [A_{2 C}2] leg85 cro. rest
+=2 vol40 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. e-.
+|
+=1 cro rest qua rest A_ cro3 A_ A_-I3 F_
+=2 vol50 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. vol80 f-. e-.
+|
+=1 min A_ cro rest qua [C B_(2]
+=2 vol40 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. A-.
+|
+=1 cro B_)2 min. rest
+=2' vol40 cha2 qua. rest smq <D F Ax B> qua. rest smq <D F Ax B> \
+ qua. rest smq <D F Ax B> qua. rest smq <D F Ax B>
+=3 cro B-. d-. f-. d-.
+|
+=1 smb rest
+=2' vol40 cha2 qua. rest smq <D Fx G# B> qua. rest smq <D Fx G# B> \
+ qua. rest smq <D Fx G# B> qua. rest smq <D Fx G# B>
+=3 cro e-. E-. d-. B-.-s5,
+|
+=1 cro rest C cro3 D C-I3 C
+=2' vol40 cha2 qua. rest smq <D#l E#lx G# B> qua. rest smq <D#l E#lx G# B> \
+ qua. rest smq <D#l E#lx G# B> qua. rest smq <D#l E#lx G# B>
+=3 cro c#-. e#-. g#-. e-.
+|
+=1 cro C G_ min rest
+=2' vol40 cha2 qua. rest smq <D#l E#lx G# B> qua. rest smq <D#l E#lx G# B> \
+ qua. rest smq <D#l E#lx G# B> qua. rest smq <D#l E#lx G# B>
+=3 cro c#-. C#-. B-. G#-.
+|
+=1 min rest cro. B_ qua A_
+=2' vol40 cha2 qua. rest smq <C E Fx A> qua. rest smq <C E Fx A> \
+ qua. rest smq <C E Fx A> qua. rest smq <C E Fx A>
+=3 cro F#-. A-. c#-. A-.
+|
+=1 leg100 qua B_{2 cro. C}2 min rest
+=2' vol40 cha2 qua. rest smq <C E Fx A> qua. rest smq <C E Fx A> \
+ qua. rest smq <C E Fx A> qua. rest smq <C E Fx A>
+=3 cro f#-. F-. e-. c#-.
+|
+=1 cro rest A_ cro3 A_ A_-I3 A_
+=2' vol40 cha2 qua. rest smq <Cx D# F A> qua. rest smq <Cx D# F A> \
+ qua. rest smq <Cx D# F A> qua. rest smq <Cx D# F A>
+=3 cro B-. B_-. D#-. F-.
+|
+=1 qua C cro. C min rest
+=2' vol40 cha2 qua. rest smq <Cx D# F A> qua. rest smq <Cx D# F A> \
+ qua. rest smq <Cx D# F A> qua. rest smq <Cx D# F A>
+=3 cro B-. d#-. f-. fn-.
+|
+=2, cro rest vol+125 leg45 <E G# B dx e-emph> leg85 rest rest
+=3 cro e-. min. rest
+|
+=1 cro E_ E_ E_ F_
+=2 smb rest
+=3 min. rest cha9 vol120 cro-s E-. cha2
+
+|
+=1 cro rest qua rest A_ [A_ A_] cro F_
+=2 vol50 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. vol80 f-. e-.
+|
+=1 cro A_ qua A_ cro C cro. rest
+=2 vol40 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. e-.
+|
+=1 cro rest qua rest A_ [Cn C# D D#]
+=2 vol50 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. vol80 f-. e-.
+|
+=1 cro3 E C-I3 E_ min rest
+=2 vol40 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. e-.
+|
+=1 smb rest
+=2 vol50 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. vol80 f-. e-.
+|
+=1 cro. rest qua A_ [C C C C]
+=2 vol40 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ qua. rest smq <D Ex A> qua. rest smq <D Ex A>
+=3 cro d-. c-. B-. c-.
+|
+=1 qua leg100 C{2 cro B_}2 qua rest min rest leg85 
+r0.4 .01 see ,
+=2 qua. rest smq <D Ex F A> qua. rest smq <D Ex F A> \
+ qua. rest smq <D Ex F A> qua. rest smq <D Ex F A>
+=3 cro d-. f-. a-. f-.
+|
+=1 smb rest
+=2 qua. rest smq <D Ex F A> qua. rest smq <D Ex F A> \
+ qua. rest smq <D Ex F A> qua. rest smq <D Ex F A>
+=3 cro d-. F-. B-. c-.
+|
+=1 cro. rest qua D cro3 D E-I3 F
+=2 qua. rest smq <B_ D F A> qua. rest smq <B_ D F A> \
+ qua. rest smq <B_ D F A> qua. rest smq <B_ D F A>
+=3 cro d-. f-. B-. A-.
+|
+=1 min. G# cro F#
+=2 qua. rest smq <Cn Ebl Gb Abx> qua. rest smq <C Ebl Gb Abx> \
+ qua. rest smq <C Ebl Gb Abx> qua. rest smq <C Ebl Gb Abx>
+=3 cro Ab-. cn-. eb-. c-.
+|
+=1 cro. rest cro E qua C cro E
+=2 qua. rest smq <C# Ex F# A> qua. rest smq <C# Ex F# A> \
+ qua. rest smq <C# Ex F# A> qua. rest smq <C# Ex F# A>
+=3 cro An-. c#-. A-. G#-.
+|
+=1 min F rest
+=2 qua. rest smq <C# Ex F# A> qua. rest smq <C# Ex F# A> \
+ qua. rest smq <C# Ex F# A> qua. rest smq <C# Ex F# A>
+=3 cro F#-. A#-. c#-. A#-.
+|
+=1 cro. rest qua B_ cro3 B_ C-I3 D
+=2 qua. rest smq <B_ D F#> qua. rest smq <B_ D F#> \
+ qua. rest smq <B_ D F#> qua. rest smq <B_ D F#>
+=3 cro B-. d-. f-. fn-.
+|
+=1 min E cro. rest qua B_
+=2 qua. rest smq <B_ D F#> qua. rest smq <B_ D F#> \
+ qua. rest smq <B_ D F#> qua. rest smq <B_ D F#>
+=3 cro e-. E-. e-. f#-.
+|
+=1 cro A_ min. rest
+=2 qua. rest smq <C E A> qua. rest smq <C E A> \
+ qua. rest smq <C E A> qua. rest smq <C E A>
+=3 cro a-. g-. f-. e-.
+|
+=1 smb rest
+=2 cha2 qua. rest smq <D Ex A> qua. rest smq <D Ex A> \
+ cro rest vol100 <E G# B' dx' e'-emph>
+=3 cro d-. c-. B-. e-.
+

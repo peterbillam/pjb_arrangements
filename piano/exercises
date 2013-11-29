@@ -1,0 +1,1204 @@
+9 systems 20 /19-25-19/19-25-19 20/19-25-19 20/19/19/19 20/ 19/19 20/19-20-19/
+midi channel 0 patch 0
+midi off
+title Piano Exercises
+/
+3 bars | 4/4 36 | 4 3 3 4 3 3 4 3 3 4 3 3 | 4 4 4 3 4 4 3 4 4 3 4 3 |
+| 4/4 1.6
+Il0.9 .05 Jazz 
+=1 treble 4/4 qua3 [fn d c] [f d c] [f d c] [f d c]
+=2 bass   4/4 smb <f# a c~ e~b>
+|
+=1, qua3 [e c# B] [e c# B] [e c# B] [e c# B]
+=2 smb <fnlr ab bx d~>
+|
+=1, qua3 [eb cn Bb] [eb c Bb] [eb c Bb] [eb c Bb]
+=2 smb <er g bbl d~b>
+/
+4 bars | 3 3 3 3 3 4 4 4 4 4 4 3 | 3 3 3 3 3 3 4 4 3 4 4 3 \
+ | 3 3 3 4 3 4 4 4 3 4 3 3 | 10 ||
+|
+=1, qua3 [d B A] [d B A] [db Bb Ab] [db Bb Ab]
+=2  min <d#rl f# a c~> <dn fnl abxl b>
+|
+=1' qua3 [c A G] [c A G] [B G# F#] [B G# F#]
+=2, min <c#lr e g bb> <cn ebl f#xl a>
+|
+=1' qua3 [Bb G F] [A F# E] [Ab Fn Eb] [G En D]
+=2  cro <Br, d f g#x> <Bbxl, c#l, e gn> <A cn ebl' gb'> <G#l Bn d' f'>
+|
+=1 smb F#
+=2 smb <Gnr Bbl c#lx e>
+
+/
+4 bars | 4/4 36 | 4 3 3 4 3 3 4 4 3 4 4 3 | 4 4 4 3 4 3 3 3 3 3 3 3 | 10 ||
+| 4/4 1.6
+=1 treble 4/4 qua3 [fn d c] [f d c] [g e d] [g e d]
+=2 bass   4/4 min <f# a c~ e~b> <fnlr ablx b d~>
+|
+=1, qua3 [a f# e] [a f# e] [b g# f#] [b g# f#]
+=2 min <er g bbl d~b> <d#rl f# a c~>
+|
+=1, qua3 [d~b bb ab] [e~b c~ bb] [f~ d~ c~] [g~ e~ d~]
+=2, cro <dnrr fnl abxl b> <c#lr e g bb> <cnr ebl f#xl anl> <Br d fnxl g#l>
+|
+=1 smb a~
+=2 smb <A#lr c# e g>
+
+
+/
+3 bars | 4/4 4 4 4 4 4 5 4 5 4 5 5 4 | 4 4 4 4 4 5 4 5 4 5 5 4 | 12 ||
+| 4/4 1.6
+=1' treble 4/4 qua3 [D B_ A_] [F D C] [Ab F Eb] [B G# F#]
+|
+=1, qua3 [d B A] [f d c] [ab f eb] [b g# f#]
+|
+=1 smb d~
+/
+3 bars | 4 5 5 5 5 4 5 5 4 4 4 4 | 4 5 4 5 5 4 5 5 4 4 4 4 | 12 ||
+|
+=1' qua3 [Eb C B_b] [F# D# C#] [A F# En] [c A G]
+|
+=1, qua3 [eb c Bb] [f# d# c#] [a f# en] [c~ a g]
+|
+=1 smb e~b
+/
+3 bars | 5 4 4  4 4 5  4 4 5  5 5 4 | 5 4 4 4 4 5 4 4 5 5 5 4 | 12 ||
+|
+=1' qua3 [E C# B_] [G E D] [Bb G F] [c# A# G#]
+|
+=1, qua3 [e c# B] [g e d] [bb g f] [c~# a# g#]
+|
+=1 smb e~n
+
+/
+2 bars | 4/4 4 3 3.5 3.2 4 4 3 3 4 4 4 4 4 4 3 3 | 3 3 4 4 4 3 4 3 4 4 4 4 4 4 4 3 |
+| 4/4 2.0
+=1, treble 4/4 smq [db eb a c~] [c dn g# b] [B c# gn bb] [Bb cn f# a]
+|
+=1, smq [A B f ab] [Ab Bb e gn] [G An d#  f#] [F# G# dn fn]
+/
+3 bars |2 3 2 2 3 3 3 3 3 2 2 2 3 3 3 2|3 2 2 2 3 3 2 2 3 3 3 3 3 3 2 2|9||
+|
+=1' smq [F G c# e] [E F# cn eb] [Eb Fn B d] [D En A# c#]
+|
+=1' smq [Db Eb A c] [C Dn G# B] [B_ C# Gn Bb] [B_b Cn F# A]
+|
+=1 smb A_
+
+/
+2 bars ||: 48 | 48 :|
+| 2.1
+=1' treble 8 rest'' 16 rest' [e rest' e rest' e rest' e rest' e rest' e] 8 rest'
+=1, 1 <A Bx c dx>
+=2' bass 1 <e fx g ax>
+=2, 8 rest,, 16 [d rest d rest d rest d rest d rest d] rest, 8 rest,
+|
+=1' 8 rest'' 16 [e rest' e rest' e rest' e rest' e rest' e] rest' 8 rest'
+=1, 1 <G B cx d>
+=2' 1 <e fx g b>
+=2, 8 rest,, 16 rest [d rest d rest d rest d rest d rest d] 8 rest,
+
+
+11 systems 50 /19/19/19/19/19/19/19/19/19/19/19 40/
+title Piano Exercises
+/
+3 bars | 12/8 3 3 4 3 4 3 3 4 3 4 3 3 | 3 4 4 4 3 4 4 3 4 3 4 3 \
+ | 3 4 3 4 3 4 4 4 3 4 3 3 |
+| 12/8 2.0
+Il0.9 .05 Jazz 
+=1 treble 12/8 qua [G A c'] [eb-is5 d db] [c B Bb-is3] [A Ab G]
+|
+=1 qua [Gb-is2 F Gn] [Bb, db c] [Bn' Bb' A] [Ab G Gb]
+|
+=1 qua [F E Eb] [F-is1 Ab B'] [Bb' An Ab] [G Gb F-is2]
+/
+3 bars | 4 3 4 4 4 3 4 4 4 3 4 3 | 3 4 3 3 4 4 3 4 3 3 4 3 \
+ | 4 3 3 4 3 4 4 3 3 4 3 3 |
+|
+=1 qua [E Eb D] [Db-is2 Eb-is3 Gb-is4] [A-is5 Ab Gn-is1] [Gb-is3 F-is2 En]
+|
+=1 qua [Eb D Db] [C-is2 B_ C#] [En G Gb] [F E-is1 Eb]
+|
+=1 qua [D Db C-is2] [B_ B_b-is2 A_] [B_n Dn F] [E Eb D-is1]
+/
+3 bars | 3 3.5 4.5 3.5 4.5 3.5 4.5 3.5 4 4 3 3 \
+ | 16 11 8 8 | 4 4 3 4 3 4 4 3 4 4 4 3 |
+|
+=1 qua [Db C-is2 B_] [B_b A_ A_b-is2] [G_ A_n C] [Eb Dn C]
+|
+=1 cro D qua A_b cro. rest min. rest
+
+|
+=1 qua [G# A# c#'] [e-is5 eb-is3 d-is1] [db cn-is2 B,] [Bb'-is3 An Ab]
+/
+3 bars | 4 4 3 3 4 3 3 4 3 4 4 3 | 3 3 4 3 3 3 4 3 4 3 4 3 \
+ | 3 4 3 4 3 4 3 4 3 4 3 3 |
+|
+=1 qua [G F#-is2 G#-is3] [B, d db] [c B,-is1 Bb,] [A Ab Gn]
+|
+=1 qua [Gb F-is2 E] [F# A c'] [B' Bb' A-is1] [Ab G F#]
+|
+=1 qua [F-is2 E Eb] [D En G] [Bb' A Ab] [G-is1 Gb F-is2]
+/
+3 bars | 4 3 4 3 4 3 4 3 4 3 3 3 | 3 4 3 3 4 3 4 4 3 4 4 3 \
+ | 4 3 3 4 3 4 4 4 3 4 4 3 |
+|
+=1 qua [E Eb D] [Db-is2 C Dn] [F Ab G] [Gb F E]
+|
+=1 qua [Eb D Db] [C B_ B_b-is2] [C-is1 Eb Gb] [F En Eb]
+|
+=1 qua [D Db C-is2] [B_ B_b A_] [A_b-is2 B_b-is3 Db-is4] [E-is5 Eb Db]
+/
+3 bars | 16 11 8 8 | 3 3 3 3 4 3 4 3 3 4 3 3 | 3 4 3 4 3 4 3 3 4 3 4 3 |
+|
+=1 cro Eb qua A_ cro. rest min. rest
+
+|
+=1 qua [A, B, d] [f e eb] [d-is1 db c-is2] [B' Bb' A]
+|
+=1 qua [Ab-is2 G An] [c, eb-is5 d] [db c B,] [Bb' A Ab]
+/
+3 bars | 4 3 4 4 4 3 4 4 3 4 3 3 | 3 3 4 3 4 3 4 4 4 4 4 3 \
+ | 3 4 3 4 4 4 3 4 3 4 4 3 |
+|
+=1 qua [G Gb-is2 F] [Gn Bb' db'] [c Bn, Bb,] [A Ab G]
+|
+=1 qua [Gb F E] [Eb-is2 F-is1 Ab] [B' Bb' An] [Ab Gn Gb]
+|
+=1 qua [F-is2 E Eb] [D C#-is2 D#-is3] [F#-is4 A-is5 Ab] [G-is1 Gb-is3 Fn-is2]
+/
+3 bars | 4 3 4 3 3 4 4 3 4 3 3 3 | 3 4 3 3 4 3 4 4 3 4 3 3 | 16 12 9 9 |
+|
+=1 qua [E Eb D] [Db C B_] [C# En G] [Gb F E-is1]
+|
+=1 qua [Eb D Db] [C B_ B_b] [A_ B_n Dn] [F En D]
+|
+=1 cro E qua B_b cro. rest min. rest
+
+/
+2 bars | 36 | 36 |
+|
+=1 qua [Bb,-is1 c eb] [gb f e] [eb d db] [c B, Bb,]
+|
+=1 qua [A-is2 G#-is2 A#-is3] [c#-is4 e-is5 eb] [d-is1 db c-is2] [B' Bb' A]
+/
+3 bars | 3 4 4 3 3 4 3 3 4 4 4 3 | 4 3 3 4 3 3 3 4 3 4 3 3 \
+ | 3 3 4 3 4 4 4 3 4 3 4 3 |
+|
+=1 qua [Ab G F#-s2] [G#-is3 B'-is4 d'-is5] [db c B,-is1] [Bb' An Ab]
+|
+=1 qua [G Gb F-is2] [E-is1 F# A] [c B, Bb,] [A-is1 Ab G]
+|
+=1 qua [Gb F E] [Eb-is2 D En-is2] [Gn Bb' A] [Ab G-is1 F#]
+/
+3 bars | 3 4 3 4 3 4 3 4 3 4 3 3 | 4 3 4 3 3.5 4.5 3.5 4.5 4.5 3 4 3 \
+ | 16 12 9 9  ||
+|
+=1 qua [F E Eb] [D Db-is2 C] [Dn F Ab] [G Gb F]
+|
+=1 qua [E Eb D] [Db C B_] [B_b C-is1 Eb] [Gb F Eb]
+|
+=1 cro F qua B_n cro. rest min. rest
+
+
+12 systems 20 /19/19/19/19/19/19/19/19/19/19/19/19 10/
+/
+3 bars | 12/8 36 | 36 | 36 |
+|
+=1, bass 12/8 qua [b db-is4, bb] [c-is5, a B] [ab Bb-is4, g] [A gb Ab-is4,]
+|
+=1' qua [f G e] [Gb-is4, eb F] [d E db] [Eb-is4, c D]
+|
+=1  qua [B Db-is4, Bb] [C An B_] [Ab B_b-is4, G] [A_ Gb A_b-is4,]
+/
+3 bars | 9 9 9 7 | 36 | 36 |
+|
+=1 qua [F G_ E] [G_b Eb F_] [D E_ C#] cro. B_
+|
+=1, qua [b d-is5, bb] [db-is4, a c] [ab B g] [Bb-is4, gb A]
+|
+=1' qua [f Ab-is4, e] [G eb Gb-is4,] [d F db] [E c Eb-is4,]
+/
+3 bars | 36 | 9 9 9 7 | 36 |
+|
+=1  qua [B D Bb] [Db-is4, A C] [Ab B_ G] [B_b Gb A_]
+|
+=1  qua [F A_b E] [G_ Eb G_b] [D F_ C#] cro. B_
+|
+=1, qua [b eb-is4, bb] [d a db-is4,] [ab c g] [B gb Bb]
+/
+3 bars | 36 | 36 | 9 9 9 7 |
+|
+=1' qua [f A e] [Ab eb G] [d Gb db] [F c E]
+|
+=1  qua [B Eb Bb] [D A Db] [Ab C G] [B_ Gb B_b]
+|
+=1  qua [F A_ E] [A_b Eb G_] [D F_# C#] cro. B_
+/
+3 bars | 36 | 36 | 36 |
+|
+=1, qua [b e bb] [eb-is4, a d] [ab db-is4, g] [c gb B]
+|
+=1' qua [f Bb-is4, e] [A eb Ab-is4,] [d G db] [Gb-is4, c F]
+|
+=1  qua [B E Bb] [Eb-is4, A D] [Ab Db-is4, G] [C Gb B_]
+/
+3 bars | 9 9 9 7 | 36 | 36 |
+|
+=1 qua [F B_b-is4, E] [A_ Eb A_b] [D G_ C#] cro. B_
+|
+=1, qua [b f bb] [e a eb-is4,] [ab d g] [db-is4, gb c]
+|
+=1' qua [f B e] [Bb-is4, eb A] [d Ab-is4, db] [G c Gb-is4,]
+/
+3 bars | 36 | 9 9 9 7 | 36 |
+|
+=1  qua [B F Bb] [E A Eb-is4,] [Ab D G] [Db-is4, Gb C]
+|
+=1 qua [F B_ E] [B_b-is4, Eb A_] [D G_# C#] cro. B_
+|
+=1, qua [b gb-is4, bb-is2,] [f a e] [ab-is2, eb-is4, g] [d gb-is2, db-is4,]
+/
+3 bars | 36 | 36 | 9 9 9 7 |
+|
+=1' qua [f c e] [B eb-is2, Bb-is4,] [d A-is4, db-is2,] [Ab-is4, c G]
+|
+=1 qua [B Gb-is4, Bb-is2,] [F A E-is4,] [Ab-is2, Eb-is4, G] [D Gb-is2, Db-is4,]
+|
+=1 qua [F C E] [B_-is4, Eb-is2, B_b-is4,] [D A_ C#] cro. B_
+/
+3 bars | 36 | 36 | 36 |
+|
+=1, qua [b g-is4, bb-is2,] [gb-is3, a f-is4,] \
+ [ab-is2, e-is5, g] [eb-is3, gb-is2, d-is4,]
+|
+=1' qua [f db-is3, e] [c-is4, eb-is2, B-is5,] \
+ [d Bb-is3, db-is2,] [A-is4, c Ab-is3,]
+|
+=1 qua [B G-is4, Bb-is2,] [Gb-is3, A F-is4,] \
+ [Ab-is2, E-is5, G] [Eb-is3, Gb-is2, D-is4,]
+/
+3 bars | 9 9 9 7 | 36 | 36 |
+|
+=1 qua [F Db-is3, E] [C-is4, Eb-is2, B_-is5,] [D B_b-is3, C#-is2,] cro. B_n
+|
+=1, qua [b ab-is3, bb-is2,] [g-is4, a gb-is3,] \
+ [ab-is2, f-is4, g] [e-is5, gb-is2, eb-is3,]
+|
+=1' qua [f d-is4, e] [db-is3, eb-is2, c-is4,] \
+ [d B-is5, db-is2,] [Bb-is3, c A-is4,]
+/
+3 bars | 36 | 9 9 9 7 | 36 |
+|
+=1 qua [B Ab-is3, Bb-is2,] [G-is4, A Gb-is3,] \
+ [Ab-is2, F-is4, G] [E-is4, Gb-is2, Eb-is3,]
+|
+=1 qua [F D-is4, E] [Db-is3, Eb-is2, c-is4,] [D B_-is5, C#-is2,] cro. B_n
+|
+=1, qua [b a-is3, bb-is2,] [ab-is4, a-is1, g-is3,] \
+ [ab-is2, gb-is4, g-is1,] [f-is3, gb-is2, e-is4,]
+/
+3 bars | 36 | 36 | 9 9 9 7 ||
+|
+=1' qua [f-is1, eb-is4, en-is1,] [d-is3, eb-is2, db-is4,] \
+ [d-is1, c-is3, db-is2,] [B-is4, c-is1, Bb-is3,]
+|
+=1 qua [B-is1, A-is3, Bb-is2,] [Ab-is4, An-is1, G-is3,] \
+ [Ab-is2, Gb-is4, Gn-is1,] [F-is3, Gb-is2, E-is4,]
+|
+=1 qua [F-is1, Eb-is4, En-is1,] [D-is3, Eb-is2, Db-is4,] \
+ [D-is1, C-is3, C#-is2,] cro. B_n
+
+
+
+6 systems 20 /19-30-19/19-30-19 20/19-30-19 20/19-30-19/19-30-19/19-30-19 20/
+title Piano Exercises
+/
+4 bars | 4/4 8 | 8 |
+|
+Il0.9 .05 Two-finger coordination
+=1' treble 4/4 qua [<C F> <D G> <C F> <D G>] [<C F> <D G> <C F> <D G>]
+=2, bass 4/4 qua [<c f> <d g> <c f> <d g>] [<c f> <d g> <c f> <d g>]
+|
+=1' qua [<C F> <D G> <C F> <D G>] [<C F> <D G>] cro <C F>
+=2, qua [<c f> <d g> <c f> <d g>] [<c f> <d g>] cro <c f>
+|
+=1' qua [<C G> <D F> <C G> <D F>] [<C G> <D F> <C G> <D F>]
+=2, qua [<c g> <d f> <c g> <d f>] [<c g> <d f> <c g> <d f>]
+|
+=1' qua [<C G> <D F> <C G> <D F>] [<C G> <D F>] cro <C F>
+=2, qua [<c g> <d f> <c g> <d f>] [<c g> <d f>] cro <c g>
+/
+4 bars | 8 | 8 |
+|
+=1' qua [<C E> <D F> <E G> <D F>] [<E G> <D F> <C E> <D F>]
+=2, qua [<c e> <d f> <e g> <d f>] [<e g> <d f> <c e> <d f>]
+|
+=1' qua [<E G> <D F> <C E> <D F>] [<C E> <D F> <E G> <D F>]
+=2, qua [<e g> <d f> <c e> <d f>] [<c e> <d f> <e g> <d f>]
+|
+=1' qua [<E G> <D F> <C E> <D F>] [<C E> <D F> <E G> <D F>]
+=2, qua [<e g> <d f> <c e> <d f>] [<c e> <d f> <e g> <d f>]
+|
+=1' qua [<C E> <D F> <E G> <D F>] [<E G> <D F>] cro <C E>
+=2, qua [<c e> <d f> <e g> <d f>] [<e g> <d f>] cro <c e>
+
+/
+4 bars | 12/8 12 | 12 | 12 | 4 ||
+|
+Il0.9 .05 Measuring intervals
+=1 treble 12/8 qua [c' C c'] [D d' D] [c' C c'] [E e' E]
+=2 bass 12/8 qua [c' C c'] [D d' D] [c' C c'] [E e' E]
+|
+=1 qua [c' C c'] [F, f F,] [c' C c'] [G, g G,]
+=2 qua [c' C c'] [F, f F,] [c' C c'] [G g' G]
+|
+=1 qua [c' C c'] [A, a A,] [c' C c'] [B, b B,]
+=2 qua [c' C c'] [A, a A,] [c' C c'] [B, b B,]
+|
+=1 cro. c
+=2 cro. c
+
+/
+4 bars | 12/8 24 | 24 |
+|
+Il0.9 .05 Pentatonic
+=1' treble 12/8 qua [C-s1 D-s2 E-s3] [G-s5 D-s1 E-s2] \
+ [G-s4 A-s5 E-s1] [G-s2 A-s3 c-s5]
+=2' bass   12/8 qua [C-s5, D-s4, E-s3,] [G-s1, D-s5, E-s4,] \
+ [G-s2, A-s1, E-s5,] [G-s3, A-s2, c-s1,]
+|
+=1, qua [G-s1 A-s2 c-s4] [d-s5 A-s1 c-s3] \
+ [d-s4 e-s5 c-s1] [d-s2 e-s3 g-s5]
+=2 qua [G-s5, A-s4, c-s2,] [d'-s1, A-s5, c-s3,] \
+ [d'-s2, e'-s1, c-s5,] [d,-s4, e-s4, g-s1,]
+|
+=1, qua [d-s1 e-s2 g-s3] [a-s5 e-s1 g-s2] \
+ [a-s4 c~-s5 g-s1] [a-s2 c~-s3 d~-s5]
+=2, qua [d-s5, e-s4, g-s3,] [a-s1, e-s5, g-s4,] \
+ [a-s2, c~-s1, g-s5,] [a-s4, c~-s3, d~-s2,]
+|
+=1, qua [e~-s5 d~-s4 c~-s3] [a-s1 d~-s5 c~-s4] \
+ [a-s2 g-s1 c~-s5] [a-s3 g-s2 e-s1]
+=2 qua [e~-s1, d~-s4, c~-s3,] [a-s5, d~-s1, c~-s2,] \
+ [a-s4, g-s5, c~-s1,] [a-s2, g-s3, e-s5,]
+/
+3 bars | 6 3 6 3 |
+|
+Il0.5 .05 Agitation
+=1 165 [Eb F C En F#] 4 rest 165 [E F# C#-I5 Fn G] 4 rest
+=2, 165 [eb f c-I5 en f#] 4 rest 165 [e f# c#-I5 fn g] 4 rest
+|
+=1 165 [F G D-I5 F# G#] 4 rest 165 [F# G# D#-I5 Gn A] 4 rest
+=2 165 [f g d-I5 f# g#] 4 rest 165 [f# g# d#-I5 gn a] 4 rest
+|
+=1' 165 [G A E-I5 G# A#] 4 rest 165 [G# A# F-I5 An B] 4 rest
+=2 165 [g a e-I5 g# a#] 4 rest 165 [g# a# f-I5 an b] 4 rest
+
+/
+3 bars | 12/8 24 | 24 |
+|
+Il0.9 .05 Blues
+=1, qua [e~ d~ b] [a a#-s4 b] [a-s4 g-s2 g#] [e d-s2 d#-s4]
+=2' cro <E B> qua B cro <E c#> qua c# cro <E B> qua B cro <E c#> qua c#
+|
+=1  qua [e d B,] [A A#-s4 B'] [A-s4 G-s2 G#] [E D-s2 D#-s4]
+=2' cro <E B> qua B cro <E c#> qua c# cro <E B> qua B cro <E c#> qua c#
+|
+=1 qua [E D B_] [A_ A_#-s4 B_'] [A_-s4 G_-s2 G_#] cro. E_
+=2' cro <E B> qua B cro <E c#> qua c# cro <E B> qua c# cro. <E d>
+
+10 systems 10 /18/
+title Piano Exercises
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+| 2.0
+=1, treble qua [A e A e A e A e] [A e A e A e A e]
+|
+=1, qua [B e B e B e B e] [B e B e B e B e]
+|
+=1, qua [c e c e c e c e] [c e c e c e c e]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [d e d e d e d e] [d e d e d e d e]
+|
+=1, qua [c e c e c e c e] [c e c e c e c e]
+|
+=1, qua [B e B e B e B e] [B e B e B e B e]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [A e A e A e A e] [A e A e A e A e]
+|
+=1, qua [A d A d A d A d] [A d A d A d A d]
+|
+=1, qua [A c A c A c A c] [A c A c A c A c]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 :||
+|
+=1' qua [A B A B A B A B] [A B A B A B A B]
+|
+=1, qua [A c A c A c A c] [A c A c A c A c]
+|
+=1, qua [A d A d A d A d] [A d A d A d A d]
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [B e B e B e B e] [B e B e B e B e]
+|
+=1, qua [c e c e c e c e] [c e c e c e c e]
+|
+=1, qua [d e d e d e d e] [d e d e d e d e]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [c e c e c e c e] [c e c e c e c e]
+|
+=1, qua [B e B e B e B e] [B e B e B e B e]
+|
+=1, qua [B d B d B d B d] [B d B d B d B d]
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1, qua [B c B c B c B c] [B c B c B c B c]
+|
+=1, qua [B d B d B d B d] [B d B d B d B d]
+/
+3 bars ||: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [A d A d A d A d] [A d A d A d A d]
+|
+=1, qua [B d B d B d B d] [B d B d B d B d]
+|
+=1, qua [c d c d c d c d] [c d c d c d c d]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [B d B d B d B d] [B d B d B d B d]
+|
+=1, qua [A d A d A d A d] [A d A d A d A d]
+|
+=1, qua [A c A c A c A c] [A c A c A c A c]
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 :||
+|
+=1' qua [A B A B A B A B] [A B A B A B A B]
+|
+=1, qua [A c A c A c A c] [A c A c A c A c]
+
+10 systems 10 /18/
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, treble qua [e A e A e A e A] [e A e A e A e A]
+|
+=1, qua [d A d A d A d A]  [d A d A d A d A]
+|
+=1, qua [c A c A c A c A] [c A c A c A c A]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1' qua [B A B A B A B A] [B A B A B A B A]
+|
+=1, qua [c A c A c A c A] [c A c A c A c A]
+|
+=1, qua [d A d A d A d A] [d A d A d A d A]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [e A e A e A e A] [e A e A e A e A]
+|
+=1, qua [e B e B e B e B] [e B e B e B e B]
+|
+=1, qua [e c e c e c e c] [e c e c e c e c]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 :||
+|
+=1, qua [e d e d e d e d] [e d e d e d e d]
+|
+=1, qua [e c e c e c e c] [e c e c e c e c]
+|
+=1, qua [e B e B e B e B] [e B e B e B e B]
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [d A d A d A d A] [d A d A d A d A]
+|
+=1, qua [c A c A c A c A] [c A c A c A c A]
+|
+=1' qua [B A B A B A B A] [B A B A B A B A]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [c A c A c A c A] [c A c A c A c A]
+|
+=1, qua [d A d A d A d A] [d A d A d A d A]
+|
+=1, qua [d B d B d B d B] [d B d B d B d B]
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1, qua [d c d c d c d c] [d c d c d c d c]
+|
+=1, qua [d B d B d B d B] [d B d B d B d B]
+/
+3 bars ||: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [e B e B e B e B] [e B e B e B e B]
+|
+=1, qua [d B d B d B d B] [d B d B d B d B]
+|
+=1, qua [c B c B c B c B] [c B c B c B c B]
+/
+3 bars | 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 \
+ | 4 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 | 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 |
+|
+=1, qua [d B d B d B d B] [d B d B d B d B]
+|
+=1, qua [e B e B e B e B] [e B e B e B e B]
+|
+=1, qua [e c e c e c e c] [e c e c e c e c]
+/
+2 bars | 64 | 64 :||
+|
+=1, qua [e d e d e d e d] [e d e d e d e d]
+|
+=1, qua [e c e c e c e c] [e c e c e c e c]
+I0.6 .53 Then the same with the left
+I1.1 .53 hand, two octaves down . . .
+
+10 systems 10 /18/
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [A e A e A e A e] [B e B e B e B e]
+|
+=1, qua [c e c e c e c e] [d e d e d e d e]
+|
+=1, qua [c e c e c e c e] [B e B e B e B e]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 :||
+|
+=1, qua [A e A e A e A e] [A d A d A d A d]
+|
+=1' qua [A c A c A c A c] [A B A B A B A B]
+|
+=1, qua [A c A c A c A c] [A d A d A d A d]
+/
+3 bars ||: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 |
+|
+=1, qua [B e B e B e B e] [c e c e c e c e]
+|
+=1, qua [d e d e d e d e] [c e c e c e c e]
+|
+=1, qua [B e B e B e B e] [B d B d B d B d]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||: \
+ 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 |
+|
+=1, qua [B c B c B c B c] [B d B d B d B d]
+|
+=1, qua [A d A d A d A d] [B d B d B d B d]
+|
+=1, qua [c d c d c d c d] [B d B d B d B d]
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1, qua [A d A d A d A d] [A c A c A c A c]
+|
+=1' qua [A B A B A B A B] [A c A c A c A c]
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 |
+|
+=1, qua [e A e A e A e A] [d A d A d A d A]
+|
+=1, qua [c A c A c A c A] [B A B A B A B A]
+|
+=1, qua [c A c A c A c A] [d A d A d A d A]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 :||
+|
+=1, qua [e A e A e A e A] [e B e B e B e B]
+|
+=1, qua [e c e c e c e c] [e d e d e d e d]
+|
+=1, qua [e c e c e c e c] [e B e B e B e B]
+/
+3 bars ||: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 |
+|
+=1, qua [d A d A d A d A] [c A c A c A c A]
+|
+=1' qua [B A B A B A B A] [c A c A c A c A]
+|
+=1, qua [d A d A d A d A] [d B d B d B d B]
+/
+3 bars | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||: \
+ 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 |
+|
+=1, qua [d c d c d c d c] [d B d B d B d B]
+|
+=1, qua [e B e B e B e B] [d B d B d B d B]
+|
+=1, qua [c B c B c B c B] [d B d B d B d B]
+/
+2 bars | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1, qua [e B e B e B e B] [e c e c e c e c]
+|
+=1, qua [e d e d e d e d] [e c e c e c e c]
+I0.6 .53 Then the same with the left
+I1.1 .53 hand, two octaves down . . .
+
+9 systems 10 /18/18/18/18/18/18 10/18/18/18 20/
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 :||
+|
+=1, qua [A e A e] [B e B e] [c e c e] [d e d e]
+|
+=1, qua [c e c e] [B e B e] [A e A e] [A d A d]
+|
+=1  qua [A c' A c'] [A B' A B'] [A, c A, c] [A, d A, d]
+/
+2 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1, qua [B e B e] [c e c e] [d e d e] [c e c e]
+|
+=1, qua [B e B e] [B d B d] [B c B c] [B d B d]
+/
+2 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1, qua [A d A d] [B d B d] [c d c d] [B d B d]
+|
+=1 qua [A, d A, d] [A, c A, c] [A B' A B'] [A c' A c']
+/
+3 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 | 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 :||
+|
+=1 qua [e A, e A,] [d A, d A,] [c' A c' A] [B' A B' A]
+|
+=1, qua [c A c A] [d A d A] [e A e A] [e B e B]
+|
+=1, qua [e c e c] [e d e d] [e c e c] [e B e B]
+/
+2 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1 qua [d A, d A,] [c A, c A,] [B' A B' A] [c' A c' A]
+|
+=1, qua [d A d A] [d B d B] [d c d c] [d B d B]
+/
+2 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 5 4 5 4 \
+ | 5 4 5 4 5 4 5 4 5 5 5 5 5 5 5 5 :||
+|
+=1, qua [e B e B] [d B d B] [c B c B] [d B d B]
+|
+=1, qua [e B e B] [e c e c] [e d e d] [e c e c]
+I0.6 .53 Then the same with the left
+I1.1 .53 hand, two octaves down . . .
+/
+4 bars |: 5 4 5 4 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 4 5 4 5 5 \
+ :||: 5 4 5 4 5 4 5 4 | 5 4 5 4 5 4 5 5 :||
+| 1.5
+=1, treble qua [A-s1 e B e] [c e d e] [c e B e]
+|
+=1, qua [A e A d] [A' c' A' B'] [A c A d]
+| 1.0
+=1, qua [B-s2 e c e] [d e c e]
+|
+=1, qua [B e B d] [B c B d]
+/
+4 bars |: 4 5 4 5 4 5 4 5 | 4 5 4 5 4 5 4 5 \
+ :||: 4 5 4 5 4 5 4 5 4 5 4 5 | 4 5 4 5 4 5 4 5 4 5 4 5 :||
+|
+=1, qua [A-s1 d B d] [c d B d]
+|
+=1, qua [A d A c] [A' B' A' c']
+| 1.5
+=1, qua [e-s5  A d A] [c' A' B' A'] [c A d A]
+|
+=1, qua [e A e B] [e c e d] [e c e B]
+/
+5 bars ||: 4 5 4 5 4 5 4 5 | 4 5 4 5 4 5 4 5 \
+ :||: 4 5 4 5 4 5 4 5 | 4 5 4 5 4 5 4 5 :|| 10 ||
+| 1.0
+=1, qua [d-s4  A c A] [B' A' c' A']
+|
+=1, qua [d A d B] [d c d B] 
+|
+=1, qua [e-s5  B d B] [c B d B]
+|
+=1, qua [e B e c] [e d e c]
+I0.6 .13 Then the same with the left
+I1.1 .13 hand, two octaves down . 
+|
+=1 1 A
+
+12 systems 20 /19/
+title Oscillations
+/
+3 bars ||: 48 | 48 | 48 |
+|
+=1' treble 8 [G B d B] [G B d B] [G B d B] [G B d B]
+|
+=1, 8 [G c d c] [G c d c] [G c d c] [G c d c]
+|
+=1' 8 [G B d B] [G B d B] [G B d B] [G B d B]
+/
+3 bars | 48 :||: 48 | 48 |
+|
+=1' 8 [G A d A] [G A d A] [G A d A] [G A d A]
+|
+=1' 8 [G A B A] [G A B A] [G A B A] [G A B A]
+|
+=1' 8 [G A c A] [G A c A] [G A c A] [G A c A]
+/
+3 bars | 48 | 48 | 48 |
+|
+=1' 8 [G B c B] [G B c B] [G B c B] [G B c B]
+|
+=1' 8 [A B c B] [A B c B] [A B c B] [A B c B]
+|
+=1, 8 [A B d B] [A B d B] [A B d B] [A B d B]
+/
+3 bars | 48 | 48 | 48 |
+|
+=1, 8 [A c d c] [A c d c] [A c d c] [A c d c]
+|
+=1, 8 [B c d c] [B c d c] [B c d c] [B c d c]
+|
+=1, 8 [A c d c] [A c d c] [A c d c] [A c d c]
+/
+3 bars | 48 | 48 | 48 |
+|
+=1, 8 [A B d B] [A B d B] [A B d B] [A B d B]
+|
+=1' 8 [A B c B] [A B c B] [A B c B] [A B c B]
+|
+=1' 8 [G B c B] [G B c B] [G B c B] [G B c B]
+/
+3 bars | 48 | 48 :||: 48 |
+|
+=1' 8 [G A c A] [G A c A] [G A c A] [G A c A]
+|
+=1' 8 [G A B A] [G A B A] [G A B A] [G A B A]
+|
+=1' 8 [G B d B] [G B d B] [G B d B] [G B d B]
+/
+4 bars | 48 | 48 | 48 :|| 8 ||
+|
+=1, 8 [G c d c] [G c d c] [G c d c] [G c d c]
+|
+=1' 8 [G B d B] [G B d B] [G B d B] [G B d B]
+|
+=1' 8 [G A d A] [G A d A] [G A d A] [G A d A]
+I0.4 .48 Then the same with the left
+I0.9 .50 hand, two octaves down.
+|
+=1 2 G
+
+midi on
+7 systems  /19-25-19/19-25-19/19-25-19/19-25-19/19-25-19/19-25-19/19-20-19/
+/
+4 bars | 7 7 7 7 6 7 4 | 7 7 6 7 7 7 4 | 7 6 7 6 6 7 4 | 7 7 6 7 7 7 4 |
+| 1.75
+Il1.1 .01 Chromatic scales in Chords
+=1, bass 8 [<d#rl f#-s2-s3> <e g> <f ab> <f#l an>] [<g bb> <f# a> <fnl ab>]
+=2' bass 8 [<A c#-s2,-s4,> <Bb d> <Bnl d#-s5,-s2,> <cn e>] \
+ [<db f> <c e-s1,-s4,> <B d#>]
+|
+=1, 8 [<e g-s1-s4> <f ab-s1-s3> <f#l an> <g bb>] [<g#l bn> <gnl bb> <f#l an>]
+=2' 8 [<Bb d-s1,-s3,> <Bnl d#-s2,-s5,> <cn e> <db f-s1,-s3,>] \
+ [<dnl f#-s2,-s4,> <dbl fn-s1,-s3,> <c e>]
+|
+=1, 8 [<f ab> <f#l an> <g bb> <g#l bn>] [<a c~-s1-s5> <g# b-s2-s4> <gnl bb>]
+=2, 8 [<B d#> <c e> <db f> <dnl f#>] [<eb g> <d f#-s2,-s4,> <dbl fn-s1,-s3,>]
+|
+=1, 8 [<f#lr an> <g bb> <g#l bn> <a c~>] [<bbl d~b> <a c~-s1-s5>  <g#l bn>]
+=2, 8 [<c e-s1,-s4,>   <db f> <dnl f#> <eb g>] \
+ [<enl g#-s2,-s5,> <ebl gn-s1,-s3,> <d f#>]
+
+/
+4 bars | 7 6 7 7 7 7 4 | 8 7 7 7 5 7 4 \
+ | 7 7 7 7 7 5 6.5 | 9.5 7 7 7 6 7 4 |
+|
+=1, 8 [<g bb> <g#l bn> <a c~> <bbl d~b>] \
+ [<bnl d~n-s1-s4> <bbl d~b> <a c~-s1-s5>]
+=2, 8 [<db f> <dnl f#> <eb g> <enl g#-s2,-s5,>] \
+ [<fn a> <enl g#> <ebl gn-s1,-s3,>]
+|
+=1, 8 [<g#lr bn> <a c~> <bbl d~b> <bnl d~n>] [<c~ e~b> <b d~> <bbl d~b>]
+=2, 8 [<dnlr f#> <eb g> <enl g#> <fn a>] [<gbl bb> <f a> <e g#>]
+|
+=1, 8 [<a c~-s1-s5> <bbl d~b> <bnl d~n> <c~ e~b>] \
+ [<c~#l e~n> <c~nl e~b> <b d~>] treble
+=2, 8 [<eb g> <enl g#> <fn a> <gbl bb>] [<gnl bn> <gbl bb> <f a>]
+|
+=1' 8 [<B_blr Db> <B_nl Dn> <C Eb> <C#l En>] [<D F> <C# E> <Cnl Eb>]
+=2, 8 [<enlr g#> <fn a> <gbl bb> <gnl bn>] [<ab c~> <g b> <gbl bb>]
+/
+3 bars | 6 6 6 6 6 6 4 | 7 6 6 6 6 6 4 | 6 6 6 6 6 6 4 |
+|
+=1' 8 [<B_ D> <C Eb> <C#l En> <D F>] [<Ebl Gb> <D F> <C#l En>]
+=2, 8 [<f a> <gbl bb> <gnl bn> <ab c~>] [<anl c~#> <abl c~n> <g b>]
+|
+=1' 8 [<Cr Eb> <C#l En> <D F> <Ebl Gb>] [<Enl Gn> <Ebl Gb> <D F>]
+=2, 8 [<gblr bb> <gnl bn> <ab c~> <anl c~#>] [<bb d~> <a c~#> <abl c~n>]
+|
+=1' 8 [<C# E> <D F> <Ebl Gb> <Enl Gn>] [<F Ab> <E G> <Ebl Gb>]
+=2, 8 [<g b> <ab c~> <anl c~#> <bb d~>] \
+ [<bnl d~#-s2,-s5,> <bbl d~n-s1,-s3,> <a c~#>]
+/
+4 bars | 6 6 6 6 6 6 4 | 9 6 6 4 | 6 6 6 6 6 6 4 | 6 6 6 6 6 6 4 |
+|
+=1' 8 [<D F> <Ebl Gb> <Enl Gn> <F Ab>] [<F#l An> <Fnl Ab> <E G>]
+=2, 8 [<ab c~> <anl c~#> <bb d~> <bnl d~#>] [<c~n e~> <b d~#> <bbl d~n>]
+| 1.0
+=1' 8 [<Eblr Gb> <Enl Gn> <F Ab> <F#l An>]
+=2, 8 [<ar c~#> <bb d~> <bnl d~#> <c~n e~>]
+| 1.75
+=1' 8 [<G Bb> <F# A> <Fnl Ab> <E G>] [<D#l F#> <E G> <Fnl Ab>]
+=2, 8 [<d~b f~> <c~ e~> <b d~#> <bbl d~n>] [<a c~#> <bb d~> <bnl d~#>]
+|
+=1' 8 [<F# A> <Fnl Ab> <E G> <D#l F#>] [<Dnl Fn-s1-s5> <D#l F#> <E G>]
+=2, 8 [<c~ e~> <b d~#> <bbl d~n> <a c~#>] [<abl c~n> <anl c~#> <bb d~>]
+
+/
+3 bars | 7 7 7 6 6 7 4 | 7 7 6 7 7 6 4 | 9 6 7 7 7 7 4 | 6 7 7 7 5 7 4 |
+|
+=1' 8 [<F Ab> <E G> <D#l F#> <Dnl Fn>] [<C# E> <D F> <D#l F#>]
+=2, 8 [<b d~#-s2,-s5,> <bbl d~n-s1,-s3,> <a c~#> <abl c~n>] \
+ [<g bn> <ab c~> <anl c~#>]
+|
+=1' 8 [<E G> <D#l F#> <Dnl Fn> <C# E>] [<Cnl Eb> <C#l En> <D F>]
+=2, 8 [<bb d~> <a c~#> <abl c~n> <g bn>] [<f#l a#> <g b> <ab c~>]
+|
+=1' 8 [<D#lr F#> <Dnl Fn> <C# E> <Cnl Eb>] [<B_ D> <C Eb> <C#l En>]
+=2, 8 [<ar c~#> <abl c~n> <g b> <f#l a#>] [<fnl an> <f#l a#> <g b>]
+|
+=1' 8 [<D F> <C# E> <Cnl Eb> <B_ D>] [<A_#l C#> <B_ D> <Cnl Eb>]
+=2, 8 [<ab c~> <g b> <f#l a#> <fnl an>] [<e g#> <f a> <f#l a#>]
+/
+3 bars | 7 7 7 7 7 6 7 | 8 7 7 7 7 7 4 | 8 7 7 7 6 7 4 |
+|
+=1' 8 [<C# E> <Cnl Eb> <B_ D> <A_#l C#>] \
+ [<A_nl Cn-s1-s5> <A_#l C#> <B_ D>] bass
+=2, 8 [<g bn> <f#l a#> <fnl an> <e g#>] [<ebl gn> <enl g#> <fn a>]
+|
+=1, 8 [<c~r e~b> <b d~> <a#l c~#> <anl c~n>] [<g# b> <a c~> <a#l c~#>]
+=2, 8 [<f#lr a#> <fnl an> <e g#> <ebl gn>] [<dnl f#> <ebl g> <enl g#>]
+|
+=1, 8 [<br d~> <a#l c~#> <anl c~n> <g# b>] [<gnl bb> <g#l bn> <a c~>]
+=2, 8 [<fnlr an> <e g#> <ebl gn> <d f#>] [<dbl fn> <dnl f#> <ebl g>]
+/
+5 bars | 8 7 7 7 7 7 4 | 6 7 6 7 7 7 4 | 7 6 7 7 7 7 4 | 6 7 7 4 | 7 ||
+|
+=1, 8 [<a#lr c~#> <anl c~n> <g# b> <gnl bb>] [<f# a> <gnl bb> <g#l bn>]
+=2, 8 [<er g#-s2,-s5,> <ebl gn> <dnl f#> <db fn>] [<c en> <db f> <dnl f#>]
+|
+=1, 8 [<a c~> <g# b> <gnl bb> <f# a>] [<fnl ab> <f#l an> <gnl bb>]
+=2, 8 [<eb g> <d f#> <dbl fn> <c en>] [<B d#> <c e> <db f>]
+|
+=1, 8 [<g# b> <gnl bb> <f# a> <fnl ab>] [<e g> <fnl ab> <f#l an>]
+=2, 8 [<d f#> <dbl fn> <c e> <B d#>] [<Bbl dn> <Bnl d#> <c e>]
+| 1.02
+=1, 8 [<g bb> <f# a> <fnl ab> <e g>]
+=2, 8 [<db f> <c e> <B d#> <Bbl dn>]
+|
+=1, 4 <d#lr f#>
+=2' 4 <Ar c#>
+
+
+
+
+midi off
+6 systems 20 /18-30-18/19-30-19 20/19-30-19/19-30-19 20/19-30-19/19-30-19 20/
+/
+4 bars |: 8 | 8 :||: 8 | 8 :||
+|
+Il0.9 .05 Major Chords
+=1, treble cro <c e g> <c e g> <f a c~> <f a c~>
+i0.5 .09 C .54 F
+=2, bass   cro <c e g> <c e g> <f a c~> <f a c~>
+|
+=1, cro <g b d~> <g b d~> <f a c~> <f a c~>
+i0.6 .01 G .50 F
+=2, cro <g b d~> <g b d~> <f a c~> <f a c~>
+|
+=1, cro <A c# e> <A c e> <d f# a> <d f a>
+i0.4 .06 A .53 D
+=2  cro <A c# e'> <A c e'> <d, f# a> <d, f a>
+|
+=1, cro <e g# b> <e g b> <d f# a> <d f a>
+i0.5 .01 E .50 D
+=2, cro <e g# b> <e g b> <d f# a> <d f a>
+/
+4 bars |: 2.5 2 2.5 2 | 2.5 2 2.5 2 :||: 2.5 2 2.5 2 | 2 2 2.5 2 :||
+|
+=1, treble cro <Abrl c eb> <A c e> <dbrl f ab> <d f a>
+i0.4 .09 Ab .54 Db
+=2  bass   cro <Abrl c eb'> <A c e'> <dbrl, f ab> <d, f a>
+|
+=1, cro <ebrl g bb> <e g b> <dbrl f ab> <d f a>
+i0.6 .01 Eb .50 Db
+=2, cro <ebrl g bb> <e g b> <dbrl f ab> <d f a>
+|
+=1  cro <F#r A#l c#'> <F A c'> <B, d#rl f#> <B, d f>
+i0.4 .06 F# .53 B
+=2  cro <F#r A#l c#> <F A c> <B, d#rl, f#> <B, d, f>
+|
+=1, cro <Bb d f> <B d f> <Bnll d#rl f#> <B d f>
+i0.5 .01 Bb .50 B
+=2, cro <Bb d f> <B d f> <Bnll d#rl f#> <B d f>
+
+/
+4 bars |: 8 | 8 :||: 8 | 8 :||
+|
+Il0.9 .05 Minor Chords
+=1, treble cro <c eb g> <c e g> <f ab c~> <f a c~>
+i0.5 .09 Cm .54 Fm
+=2, bass   cro <c eb g> <c e g> <f ab c~> <f a c~>
+|
+=1, cro <g bb d~> <g bb d~> <f ab c~> <f a c~>
+i0.6 .01 Gm .50 Fm
+=2, cro <g bb d~> <g bb d~> <f ab c~> <f a c~>
+|
+=1, cro <A c e> <A c e> <d f a> <d f a>
+i0.4 .06 Am .53 Dm
+=2  cro <A c e'> <A c e'> <d, f a> <d, f a>
+|
+=1, cro <e g b> <e g b> <d f a> <d f a>
+i0.5 .01 Em .50 Dm
+=2, cro <e g b> <e g b> <d f a> <d f a>
+/
+4 bars |: 2.5 2 2.5 2 | 2.5 2 2.5 2 :||: 2.5 2 2 2 | 2.5 2 2.5 2 :||
+|
+=1, treble cro <c#rl e g#> <c e g> <f#rl a c~#> <f a c~>
+i0.4 .09 C#m .54 F#m
+=2, bass   cro <c#rl e g#> <c e g> <f#rl a c~#> <f a c~>
+|
+=1, cro <g#rl b d~#> <g b d~> <f#rl a c~#> <f a c~>
+i0.7 .01 G#m .50 F#m
+=2, cro <g#rl b d~#> <g b d~> <f#rl a c~#> <f a c~>
+|
+=1  cro <Ebr Gbl Bb'> <E G B'> <Br, db f> <B, d f>
+i0.4 .06 Ebm .53 Bbm
+=2  cro <Ebr Gbl Bb> <E G B> <Br, db, f> <B, d, f>
+|
+=1, cro <Bnrl d f#> <B d f> <Bbrll dbl fn> <B d f>
+i0.4 .01 Bm .50 Bbm
+=2, cro <Bnrl d f#> <B d f> <Bbrll dbl fn> <B d f>
+
+5 systems 20 /19-30-19/19-30-19/19-30-19 20/19-30-19/19-30-19 20/
+title Scales
+/
+5 bars | 3/4 12 | 12 | 2 2 2 2 2 3 | 12 | 12 |
+|
+I1.0 .10 1-3-5
+=1, bass   3/4 qua [c-s1  d e f g-s5  f-s3]
+=2' bass   3/4 qua [C-s5, D E F G-s1, F-s3,]
+|
+=1, qua [e-s1  f g a b-s5  a-s3]
+=2' qua [E-s5, F G A B-s1, A-s3,]
+|
+=1, qua [g-s1  a b c~ d~-s5 c~-s3] treble
+=2' qua [G-s5, A B c  d-s1, c-s3,] 
+|
+=1' qua [B_-s1  C D E F-s5 E-s3]
+=2' qua [B-s5, c d e  f-s1, e-s3,]
+|
+=1' qua [D-s1  E F G A-s5 G-s3]
+=2, qua [d-s5, e f g  a-s1, g-s3,]
+/
+6 bars | 12 | 6 6.6 | 4.4 4.4 3.2 | 13.2 | 4.4 4 4 | 12 |
+|
+=1' qua [F-s1  G A B c-s5 B-s3]
+=2, qua [f-s5, g a b  c~-s1, b-s3,]
+|
+=1, qua [A-s1  B c d e-s5 d-s3]
+=2, qua [a-s5, b c~ d~  e~-s1, d~-s3,]
+|
+=1, qua [c-s1  d e f] cro g
+=2, qua [c~-s5, d~ e~ f~] cro g~
+|
+=1, qua [g-s5  f e d c-s1 d-s3]
+=2, qua [g~-s1, f~ e~ d~ c~-s5, d~-s3,]
+|
+=1, qua [e-s5  d c B A-s1 B-s3]
+=2, qua [e~-s1, d~ c~ b a-s5, b-s3,]
+|
+=1' qua [c-s5  B A G F-s1 G-s3]
+=2, qua [c~-s1, b a g f-s5, g-s3,]
+/
+5 bars | 12 | 2 2 2 2 2 3 | 12 | 12 | 12 ||
+|
+=1' qua [A-s5  G F E D-s1 E-s3]
+=2, qua [a-s1, g f e d-s5, e-s3,]
+|
+=1' qua [F-s5  E D C B_-s1 C-s3] bass
+=2' qua [f-s1, e d c B-s5, c-s3,] 
+|
+=1, qua [d~-s5  c~ b a g-s1 a-s3]
+=2' qua [d-s1, c B A G-s5, A-s3,]
+|
+=1, qua [b-s5  a g f e-s1 f-s3]
+=2' qua [B-s1, A G F E-s5, F-s3,]
+|
+=1  qua [g-s5  f e d,] cro c
+=2' qua [G-s1, F E D] cro C
+
+/
+4 bars | 5b 4/4 2 2 2 2 2 2 2 3 | 2 2 2 2 2 2 2 3 | 16 | 8 6 |
+|
+I1.3 .10 D flat
+=1 bass 5b qua [d, e f-s1 g a b c~-s1, d~] treble
+=2' bass 5b qua [D E F G-s4, A B c d-s3] 
+|
+=1' qua [E F-s1 G A B c-s1 d e] 
+=2, qua [e f g-s4, a b c~ d~-s3, e~] treble
+|
+=1 qua [f-s1 g a b c~-s1 d~ e~ f~-s1]
+=2' qua [F G-s4, A B c d-s3, e f]
+|
+=1 qua [g~ a~ b~ c~~-s1] min d~~
+=2, qua [g-s4, a b c~] min d~-s2,
+/
+4 bars | 6b 16 | 2 2 2 2 2 2 2 3 | 2 2 2 2 2 2 2 3 | 8 6 ||
+|
+=1 qua [d~~ c~~ b~-s4 a~ g~ f~ e~-s3 d~]
+=2 qua [d~ c~-s1, b a g f-s1, e d]
+|
+=1 qua [c~ b-s4 a g f e-s3 d c] 
+=2' qua [c-s1, B A G F-s1, E D C-s1,] bass
+|
+=1' qua [B-s4 A G F E-s3 D C B_-s4] bass
+=2, qua [b a g f-s1, e d c-s1, B]
+|
+=1  qua [a g f e-s3] min d'
+=2' qua [A G F-s1, E] min D
+
+5 systems 20 /19-30-19/19-30-19/19-30-19 20/19-30-19/19-30-19 20/
+title Scales
+/
+3 bars | 48 |
+|
+=1 treble 16 [G A B' c'] [A, B, c d] [G A B' c'] [A, B, c d] 
+=2' bass  16 [G A B c] [A B c d] [G A B c] [A B c d]
+|
+=1 16 [G A B' c'] [A, B, c d] 4. G 8 rest
+=2' 16 [G A B c] [A B c d] 4. G 8 rest
+
+10 systems 20 /19/
+title Chromatic Scales
+/
+8 bars |4 3 4 2 |4 3 4 2 | 4 3 4 2 | 11 \
+ |4 3 4 2 |4 3 4 2 | 4 3 4 2 | 11 |
+|
+I0.2 .01 R.H.
+=1 treble 8 [C C# D D#]
+|
+=1 8 [E Eb D Db]
+|
+=1 8 [C C# D D#]
+|
+=1 4 E rest
+|
+=1 8 [F F# G G#]
+|
+=1' 8 [A A# B A#]
+|
+=1 8 [A Ab G Gb]
+|
+=1 4 F rest
+|
+=1 8 [E Eb D Db]
+|
+=1 8 [C C# D D#]
+|
+=1 8 [E Eb D Db]
+|
+=1 4 C rest
+|
+=1 8 [B_ B_b A_ A_b]
+|
+=1 8 [G_ G_b F_ G_b]
+|
+=1 8 [G_ G_# A_ A_#]
+|
+=1 4 B_ rest
+|
+=1 8 [C C# D D#]
+|
+=1 8 [E Eb D Db]
+|
+=1 2 C
+|
+=1 2 rest bass
+I0.1 .60 L.H.
+|
+=1 8 [e eb d db]
+|
+=1' 8 [c c# d d#]
+|
+=1 8 [e eb d db]
+|
+=1 4 c rest
+|
+=1 8 [B Bb A Ab]
+|
+=1 8 [G Gb F Gb]
+|
+=1 8 [G G# A A#]
+|
+=1 4 B rest
+|
+=1' 8 [c c# d d#]
+|
+=1 8 [e eb d db]
+|
+=1' 8 [c c# d d#]
+|
+=1 4 e rest
+|
+=1 8 [f f# g g#]
+|
+=1 8 [a a# b a#]
+|
+=1 8 [a ab g gb]
+|
+=1 4 f rest
+|
+=1 8 [e eb d db]
+|
+=1' 8 [c c# d d#]
+|
+=1 2 e(1
+|
+=1 2 e)1
+

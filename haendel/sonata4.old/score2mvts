@@ -1,0 +1,114 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 2005, Peter J Billam         #
+#               c/o P J B Computing, www.pjb.com.au                     #
+#                                                                       #
+#     This script is free software; you can redistribute it and/or      #
+#            modify it under the same terms as Perl itself.             #
+#########################################################################
+my $accomp = 0;
+my $movement = '';
+while ($ARGV[$[] =~ /^-([a-z])/) {
+   if ($1 eq 'a')      { $accomp = 1; shift;
+   } elsif ($1 =~ /^\d$/) { $movement = $1; shift;
+   } else { print <<EOT; exit 0;
+usage:
+   score2mvts file      # splits a muscript file into midi movements
+   score2mvts -a file   # Accompaniment only (suppresses stave 1)
+   score2mvts -3 file   # only outputs the 3rd movement
+EOT
+	}
+}
+$infile = 'sonata3';
+$mvt1='mvt1'; $mvt2='mvt2'; $mvt3='mvt3'; $mvt4='mvt4'; $mvt5='mvt5';
+if (! open (I, $infile)) { die "can't open $infile: $!\n"; }
+if (! open (M1, "> $mvt1")) { die "can't open $mvt1: $!\n"; }
+if (! open (M2, "> $mvt2")) { die "can't open $mvt2: $!\n"; }
+if (! open (M3, "> $mvt3")) { die "can't open $mvt3: $!\n"; }
+if (! open (M4, "> $mvt4")) { die "can't open $mvt4: $!\n"; }
+if (! open (M5, "> $mvt5")) { die "can't open $mvt5: $!\n"; }
+print STDERR "score: mvt1 ";
+while (<I>) {
+	if (/endmvt1/) { last; }
+	next if $accomp && /^=1/;
+	print M1 $_;
+}
+print STDERR "mvt2 ";
+while (<I>) {
+	if (/endmvt2/) { last; }
+	next if $accomp && /^=1/;
+	print M2 $_;
+}
+print STDERR "mvt3 ";
+while (<I>) {
+	if (/endmvt3/) { last; }
+	next if $accomp && /^=1/;
+	print M3 $_;
+}
+print STDERR "mvt4 ";
+my $on = 1;
+while (<I>) {
+	if (/endmvt4/) { last; }
+	if (/ 1a /) { $on = 0; }
+	if (/ 2a /) { $on = 1; }
+	next if $accomp && /^=1/;
+	if ($on) { print M4 $_; }
+}
+print STDERR "mvt5 ";
+while (<I>) {
+	if (/endmvt5/) { last; }
+	next if $accomp && /^=1/;
+	print M5 $_;
+}
+close I;
+close M1; close M2; close M3; close M4; close M5;
+print STDERR "\n midi: ";
+# print STDERR "mvt1 ";
+# system "/home/pbin/muscript -midi $mvt1 > $mvt1.mid";
+# print STDERR "mvt2 ";
+# system "/home/pbin/muscript -midi $mvt2 > $mvt2.mid";
+# print STDERR "mvt3 ";
+# system "/home/pbin/muscript -midi $mvt3 > $mvt3.mid";
+# print STDERR "mvt4 ";
+# system "/home/pbin/muscript -midi $mvt4 > $mvt4.mid";
+print STDERR "mvt5 ";
+system "/home/pbin/muscript -midi $mvt5 > $mvt5.mid";
+print STDERR "\n";
+
+
+__END__
+
+=pod
+
+=head1 NAME
+
+scriptname - Perl script to
+
+=head1 SYNOPSIS
+
+=head1 DESCRIPTION
+
+This script
+
+=head1 SUBROUTINES
+
+=over 3
+
+=item I<subrname>( $arg1, $arg2 );
+
+=back
+
+=head1 AUTHOR
+
+Peter J Billam  www.pjb.com.au/comp/contact.html
+
+=head1 CREDITS
+
+Based on
+
+=head1 SEE ALSO
+
+http://www.pjb.com.au/, perl(1).
+
+=cut
+

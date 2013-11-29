@@ -1,0 +1,44 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.nr PO 3.2c
+.nr LL 14.6c
+.pl 11.7i
+.LP
+\&
+.sp 3.7c
+.ce 2
+\f3\s+9Fuge in as-moll\s-9\fP
+.sp 1.7c
+\f3\s+7Johannes Brahms\s-7\fP
+.sp 2.9c
+.LP
+Brahms wrote his Fugue in Ab minor for Organ around 1846,
+the year in which Robert Schumann,
+the great composer and Brahms' great friend, mentor and champion,
+died after a prolonged period of madness.
+The Ab minor Fugue is a particularly introverted and searching work,
+in slow tempo and extremely sombre key.
+
+.LP
+This arrangement is taken from Brahms' 1864 revision.
+It is transposed
+up one octave as is usual for the recorder,
+and also up one semitone into A minor.
+If it is played on \f2A 415\fP instruments,
+then it will sound in concert Ab minor, as intended;
+of course it may also be played on \f2A 440\fP instruments,
+provided the very dark tonality of the original is borne in mind.
+
+.LP
+In the original, the passage between the fourth crochet in bar 30
+and the beginning of bar 40 is notated in B minor.
+This change in key signature does not seem
+to signal any brighter mood,
+so rather than write in B# minor,
+I have left the key signature of this passage unchanged.
+The original time signature is \f2CC\fP, which I have changed to 8/4.
+.sp 1.9c
+.LP
+.ce 1
+\f2Peter Billam\fP

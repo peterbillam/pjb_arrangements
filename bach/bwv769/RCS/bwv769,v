@@ -1,0 +1,461 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2007.11.23.09.34.43;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@BWV769 Canonic Variations
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@4 systems 30 /19-30-19 25 20/ 19-35-19 25 20/ 19-30-19 25 20/ 19-35-19 25 20/
+pagenum 4
+title Von Himmel hoch, da komm' ich her
+innerhead J. S. Bach,  BWV769
+leftfoot Typeset and annotated by Peter Billam
+% start
+midi channel 1 patch 19 pan 65 reverb 75 vibrato 0
+midi channel 2 patch 19 pan 35 reverb 75 vibrato 0
+midi channel 3 patch 19 pan 50 reverb 75
+/
+2 bars | 12/8 96 | 96 |
+| 12/8 5.4
+il1.2    VAR. 1  Canone al' Ottava
+=1 treble 12/8 cha1 leg98 vol100 \
+ smq rest [c' B' A G F] [E A G F E D] qua [C E G] smq [c e g c B, f]
+=2, bass 12/8 cha2 leg70 vol80 \
+ cro. rest smq rest [c~ b a g f] [e a g f e d] qua [c e g]
+=3  bass   4/4 cha3 leg85 vol125 tra-12 smb rest
+|
+=1 cro e-tr qua d smq rest [c' B' A G F] qua [E C E] smq [G, g f e d c]
+=2, smq [c~ e~ g~ c~ b f~] cro e~-tr qua d~ smq rest [c~ b a g f] qua [e c e]
+=3 min rest c~
+r0.2 .50 Von
+|
+=1, smq [d B c e qua f#(1] smq [f)1 g a c B A] qua [d f g] smq rest [c B A G Fn]
+=2 smq [g, g~ f~# e~ d~ c~] smq [d~ b c~ e~ qua f~#(1] \
+ smq [f~)1 g~ a~ c~ b a] qua [d~ f~ g~]
+=3 cro b a b g
+r0.2 .10 Himmel .50 hoch .75 da
+|
+=1' qua [E smq D E qua F(2] smq [F)2 G F E D E] \
+ qua [C smq D E F G] [A G F G A B]
+=2, smq rest [c~ b a g f] qua [e smq d e qua f(1] smq [f)1 g f e d e] qua [c smq d e a g]
+=3 cro a b min c~
+r0.2 .01 komm .25 ich .50 her
+|
+=1' qua [c A F(2] smq [F)2 E F G A F] [D C D E C D] qua [B_ D G(2]
+=2 smq [a g f g a b] qua [c~ a f(1] smq [f)1 e f g a f] [d' c d' e' c d']
+=3 smb rest
+|
+=1 smq [G)2 A G F E D] [E F E D C B_] [C G_ A_ B_ C D] [E D C D E F]
+=2 qua [B, d g(1] smq [g)1 a g f e d] [e f e d c, B,] [c G A B c d']
+=3 min rest c~
+r0.2 .50 ich
+|
+=1 smq [G F E G c' A] [B G, B d e f] qua [g e B(1] smq [B)1 A, G, B d# e]
+=2, smq [e d c d e f] [g f e g c~ a] [b g b d~ e~ f~] qua [g~ e~ b(1]
+=3 cro c~ g g e
+r0.2 .01 bring .25 euch .62 gute
+|
+=1, smq [e c# qua dn] rest smq rest [A G# A e d#] \
+ [e fn e dn cn B] [c d c B A G#]
+=2 smq [b)1 a, g, b d~# e~] smq [e~ c~# qua d~n] rest \
+ smq rest [a g# a e~ d~#] [e~ f~n e~ d~n c~n b]
+=3 cro g f min e
+r0.2 .12 neue .50 Mär
+
+5 systems /19-30-19 25 19/ 19-35-19 25 19/ 19-30-19 25 19/ 19-35-19 25 19/
+pagenum
+innerhead Von Himmel hoch, da komm' ich her, J. S. Bach,  BWV769
+leftfoot Typeset and annotated by Peter Billam
+|
+=1 qua [A E D] smq [C B_ C D B_ C] qua [A_ smq A Fn Gn E] [F G F D E C#]
+=2 smq [c~ d~ c~ b a g#] qua [a e d] smq [c B c d' B c] qua [A, smq a fn gn e]
+=3 smb rest
+|
+=1 qua [D d' cn'] smq [B A, B d A, d] qua [G# E] rest smq rest [E_ F_# G_# A_ B_]
+=2, smq [f g f d e cn] qua [d d~ c~n] smq [b a b d~ a d~] qua [g# e] rest
+=3 min rest e
+r0.2 .50 der
+|
+=1 smq [C B_ A_ B_ C D] [E D C D E Fn] qua [Gn, g G,] smq rest [A G F E D]
+=2 smq rest [E F# G# A B] [c B A B c d'] [e d c, d e fn] qua [gn g~ g]
+=3 cro a a g b
+r0.2 .12 guten .50 Mär .75 bring
+|
+=1 smq [E F E D qua C(2] smq [C)2 B_ C D E Fn] qua. [G smq F G A] [B c qua d G,]
+=2 smq rest [a g f e d] smq [e f e d qua c,(1] smq [c)1 B c d' e' fn'] qua. [g smq f g a]
+=3 cro c~ a min g
+r0.2 .01 ich .25 so .50 viel,
+|
+=1 smq rest [c' B' A G Fn] [E A G F E D] qua [C E G] smq [c e g c B f]
+=2 smq [b c~ qua d~ g,] smq rest [c~ b a g fn] [e a g f e d] qua [c, e g]
+=3 smb rest
+|
+=1 cro e-tr qua d smq rest [C D E F D] [E G F G E F] qua [G d' D]
+=2 smq [c~ e~ g~ c~ b f~] cro e~-tr qua d~ smq rest [c, d e f d] [e g f g e f]
+=3 min rest c~
+r0.2 .50 da .79 -
+|
+=1, smq rest [d c B A B] [c d] cro e(1 smq [e)1 f g d e B] [c d e f g e]
+=2 qua [g d~ d] smq rest [d~ c~ b a b] [c~ d~] cro e~(1 smq [e~)1 f~ g~ d~ e~ b]
+=3 cro b a g qua. [a smq g]
+r0.2  - .01 von .26 ich .59 singen .90 und
+|
+=1 qua [a A,] rest smq rest [E F A c' B'] [c e d f e d] [e g f a g f]
+=2 smq [c~ d~ e~ f~ g~ e~] qua [a~ a,] rest smq rest [e f a c~ b] [c~ e~ d~ f~ e~ d~]
+=3 qua. [f{1 smq e}1] cro d min c(2
+r0.2 .125 sagen .50 will
+/
+2 bars | 96 | 96 ||
+|
+=1 smq [g e d f e d] [e c B d c B] [c' A G F E D] [E F E D C B_]
+=2 smq [e~ g~ f~ a~ g~ f~] [g~ e~ d~ f~ e~ d~] [e~ c~ b d~ c~ b] [c~ a g f e d]
+=3 smb c)2(2
+| 1.40 1.45 1.55 1.65
+=1 qua C cro c(1 smq [c')1 G E C G_ E_] bass qua c rest rest cro. rest-fermata
+=2 smq [e' f' e' d' c B] qua c cro c~(1 smq [c~')1 g' e' c G E] qua C-fermata rest rest
+=3 smb c)2
+midi pause 3.0
+
+4 systems 20 / 19-30-19 30 19 / 19-30-19 30 19 \
+ / 19-30-19 30 19 / 19-30-19 30 19 /
+pagenum
+innerhead Von Himmel hoch, da komm' ich her, J. S. Bach,  BWV769
+leftfoot Typeset and annotated by Peter Billam
+/
+3 bars | 4/4 64 | 64 | 64 |
+| 4/4 3.2
+midi channel 1 patch 68 pan 65 reverb 75
+midi channel 2 patch 69 pan 35 reverb 75
+midi channel 3 patch 19 pan 50 reverb 75
+il1.2    VAR. II  Allo modo in Canone alla Quinta
+=1  treble 4/4 cha1 leg98 vol100 qua rest [c B A,] [B' smq A G] [A, c B d]
+=2' treble 4/4 cha2 leg90 vol90  min rest qua rest [F E D]
+=3  bass   4/4 cha3 leg85 vol125 tra-12 smb rest
+|
+=1  qua [c smq B A,] qua [B c] [d smq c B] [c e d f]
+=2  qua [E smq D C] [D F E G] qua [F smq E D] qua [E F]
+=3  smb rest
+|
+=1, qua [e d c-tr B] smq [c d e c] [a A B c]
+=2' qua [G smq F E] [F# A G# B] qua [A Gn F-tr E]
+=3  min rest c~(1
+r0.2 .50 Euch
+/
+3 bars | 64 | 64 | 64 |
+|
+=1 smq [d e f# d] [g f g a] cro d qua rest fn(1
+=2 smq [F# G A F] [d' D E F] [G A B' G] [c B c d]
+=3 cro c~)1 min b cro a
+r0.2 .27 ist .75 ein
+|
+=1  smq [f)1 e d c] [B' A G F#] qua [G, B e g(1]
+=2' cro G qua rest B'(2 smq [B)2 A G Fn] [E D C B_]
+=3  min b g
+r0.2 .23 Kindlein
+|
+=1 smq [g)1 fn e d] [c e f a] [d g f e] [d c d f]
+=2' qua [C E A c(2] smq [c)2 B A G] [F A B d]
+=3  min a b
+r0.2 .01 heut .50 ge .80 -
+|
+=1  cro e(1 smq [e)1 d e g] [c d e c] [f e f a]
+=2' smq [G c Bb A] [G F G B] cro A(2 smq [A)2 G A c]
+=3 min c~ rest
+r0.2  - .03 born
+|
+=1, qua [d f] [G smq g f] [e f d f] [e b a g]
+=2  smq [F G A F] [Bn A, B d] qua [G B'] [C smq c' B']
+=3  min rest c~
+r0.2 .50 von
+|
+=1, smq [f# g e g] [f g qua a(1] smq [a)1 g f e] [d c B A]
+=2 smq [A B' G B'] [A, e d c] [B c A, c] [B c qua d(1]
+=3 min c~ g
+r0.2 .23 einer
+|
+=1 qua [G, d d G,] smq [G F E F] [G e' G F]
+=2 smq [d c B A,] [G F E D] qua [C G G C]
+=3 min g e
+r0.2 .23 Jungfrau
+|
+=1  smq [E D C D] qua [E, e(1] [e)1 smq d c] [d e c d]
+=2  smq [C B_ A_ B_] [C A C B_] [A_ G_ F_ G_] qua [A_ A(2]
+=3  min g f
+r0.2 .25 auser .80 -
+|
+=1, smq [e B qua e(1] smq [e)1 fn d e] [c B A B] [c# d e c]
+=2' qua [A)2 smq G# F#] [G A F G] [A E qua A(2] smq [A)2 Bb Gn A]
+=3 min e rest
+r0.2 .01 korn
+/
+2 bars | 64 | 64 |
+|
+=1  smq [d e f e] [d e cn d] [B' A G A] [B' c' A B']
+=2' smq [Fn E D E] [F G A F#] [G A B A] [G A Fn G]
+=3  min rest e
+r0.2 .50 ein
+|
+=1 min c(1 smq [c')1 B' A G] [F E D C]
+=2 smq [E D C D] [E F D E] min F(2
+=3 min a a
+r0.2 .23 Kinde .75 -
+/
+3 bars | 64 | 64 | 64 |
+|
+=1 cro D qua rest d(1 smq [d)1 c B A,] [G F E D]
+=2 smq [F)2 E D C] [B_ A_ G_ F_#] cro G_ qua rest G(2
+=3 min g b
+r0.2  - .03 lein .50 so
+|
+=1 smq [E G A B'] qua [c' C] rest c(1 smq [c)1 qua B smq A,]
+=2 smq [G)2 Fn E D] [C B_ A_ G_] [A_ C D E] qua [F F_]
+=3 min c~ a
+r0.2 .01 zart .50 und
+|
+=1 qua [B' smq A G] [A, c B d] qua [c smq B A,] [B d c e]
+=2 qua rest F(2 smq [F)2 qua E smq D] qua [E smq D C] [D F E G]
+=3 min g rest
+r0.2 .01 fein
+|
+=1 smq [d B c d] qua G rest rest smq [A B'] [c d e f#]
+=2' qua [F smq E D] [E G F A] [G E F G] qua C rest
+=3 min rest c~
+r0.2 .50 den
+|
+=1 smq [g e f# g] [a b a g] cro f(1 smq [f)1 g e f]
+=2 qua rest smq [D E] [F# G A B'] [c A, B c] [d e d c]
+=3 min b a
+r0.2 .01 soll .50 eur
+|
+=1 smq [g a fn g] qua [e' E(2] smq [E)2 F D E] [F G A B']
+=2 cro B(1 smq [B)1 c A, B] [c d B c] qua [A A_(2]
+=3 min g a
+r0.2 .01 Freund .50 und
+/
+3 bars | 64 | 64 | 32 17 ||
+|
+=1, smq [c B qua c] smq rest [e d c] [B c d e] qua [f B]
+=2  smq [A_)2 B_ G_ A_] [B_ C D E] [F E qua F] smq rest [A G F]
+=3  cro f{1 e}1 min d
+r0.2 .20 Wonne
+| .8 .8 .8 .83
+=1 qua [c e] smq [G A Bb' G] [A G F G] [A Bn' c' A]
+=2 smq [E F G A] qua [Bb' E] [F A] smq [C D E C]
+=3 smb c(2
+r0.2 .01 sein
+| .87 .94 1.00 1.15
+=1 smq [B c d e] [f g a b] min c~-fermata
+=2 smq [D C B_ C] [D E F D] min E-fermata
+=3 smb c)2
+midi pause 3.0
+
+4 systems 20 / 18-35-18 25 18 / 18-35-18 25 18 \
+ / 18-35-18 25 18 / 18-35-18 25 18 /
+pagenum
+innerhead Von Himmel hoch, da komm' ich her, J. S. Bach,  BWV769
+leftfoot Typeset and annotated by Peter Billam
+/
+3 bars | 4/4 64 | 64 | 64 |
+| 4/4 5.2
+midi channel 1 patch 56 pan 60 reverb 75
+midi channel 2 patch 69 pan 40 reverb 75
+midi channel 3 patch 71 pan 80 reverb 75
+midi channel 4 patch 70 pan 20 reverb 75
+il1.2    VAR. III  In Canone alla Settima
+=1' treble 4/4 cha1 leg98 vol105 smb rest'
+=1,        4/4 cha2 leg98 vol110  cro E-tr, smq [F E D C] cro G(1 smq [G)1 F E D]
+=2' treble 4/4 cha3 leg90 vol105  min rest qua rest [B' A G]
+=3  bass   4/4 cha4 leg98 vol105  qua rest [c~ b a] [b g a b]
+|
+=1' smb rest'
+=1, dsq [E D smq C qua c] rest, D(1 \
+ smq [D)1 G qua Bb(1] smq [B)1 A dsq3-s B' smq A G]
+=2' qua [A F# G A] leg75 [B leg95 G Fn E]
+=3  qua leg75 [c~ leg95 a g f#] [g e fn g]
+|
+=1' smb rest'
+=1, dsq [F G smq A qua A] smq rest, [G A Bn] \
+ qua [c C] dsq3-s D' smq [C B_ qua C(1]
+=2 qua [F D E F] leg75 [G leg95 E D C]
+=3, qua leg75 [a leg95 f e d] [e c d e]
+|
+r0.4 .50 Es
+=1' cha1 min vib0 vol105 rest' c
+=1, cha2 vol110 smq [C)1 qua. A(1] qua [A)1 smq G F] cro E qua rest, A(2
+=2  qua [D B_ C D] leg75 [E leg95 C B_ A_]
+=3' qua leg75 [f leg95 d c B] [c A B c]
+|
+r0.4 .01 ist .50 der
+=1' cha1 vol105 min B A
+=1, cha2 vol110 smq [A)2 F# E-tr, D] [G F G D] qua. [E dsq Fn G] smq [F E D C]
+=2 qua [B_ G_ A_ B_] [C D] rest F(2
+=3, qua [d e] rest g(1 [g)1 smq fn e] qua leg75 [f a]
+|
+r0.4 .01 Herr .50 Christ,
+=1' cha1 vol105 min B G
+=1, cha2 vol110 smq [D F G A] [G F E D] [E F G E] [C B_b dsq3-s C' smq3 B_ smq A_]
+=2 qua [F)2 smq E D] qua leg75 [E G] leg95 C rest rest E(2
+=3, qua leg95 d rest rest f(1 [f)1 smq e d] qua leg75 [e leg95 g]
+|
+r0.4 .25 unser
+=1' cha1 vol105 min A B
+=1, cha2 vol110 smq [A_ G qua F(1] smq [F)1 E dsq3-s F' smq3 E smq D] \
+ [D F G A(1] [A)1 G  dsq3-s A' smq3 G smq F]
+=2 qua [E)2 smq D C] qua leg75 [D leg95 F]  qua [B_ smq E D] qua [E G(2] 
+=3, qua [c smq f e] qua [f a(1] [a)1 g] rest e
+|
+r0.4 .01 Gott ,
+=1' cha1 vol105 min c rest'
+=1, cha2 vol110 smq [E D C D] [E F# G smq3 A] dsq3-s c' smq [B A qua G] rest G-turn
+=2 qua [G)2 F#] rest D leg75 [G_ leg95 G Fn E]
+=3, qua leg75 [A leg95 a g f#] [g e fn g]
+|
+=1' smb rest'
+=1, smq-s G' cro c(1 smq [c)1 dsq d c B c smq A] \
+    smq-s A' cro G(1 smq [G)1 dsq A G F G smq E]
+=2 qua [F D E F] leg75 [G leg95 E D C]
+=3, qua leg75 [a leg95 f e d] [e c d e]
+|
+r0.4 .50 der
+=1' cha1 vol105 min rest' c
+=1, cha2 vol110 smq [D qua F smq E] smq3-s E' qua. [F smq G] \
+ smq3-s F' qua E rest, smq rest, [c B A]
+=2  qua [D B_ C D] leg75 [E F] leg95 cro G(2
+=3, qua leg75 [f g] leg95 cro a(1 qua [a)1 smq g f] qua [e d]
+|
+r0.4 .01 will .50 euch
+=1' cha1 vol105 min c G
+=1, cha2 vol110 smq [G F A G] dsq [F E smq D dsq E D smq C] \
+ [B_ D qua G(1] smq [G)1 F dsq E F smq D]
+=2  qua [G)2 smq F E] qua [D C] [D B_] cro E(2
+=3, qua [e c] cro f(1 qua [f)1 smq e d] qua [e c]
+|
+r0.4 .01 führn .50 aus
+=1' cha1 vol105 cro. G qua F cro. E qua F
+=1, cha2 vol110 qua. [C dsq D E] smq [D C qua D(2] smq [Dr)2 G_ C B_] [C qua E smq D]
+=2  qua [E)2 smq D C] qua [D B_] cro G_ A_
+=3' cro A B qua [c e d c]
+
+5 systems / 18-35-18 25 18 / 18-35-18 25 18 \
+ / 18-35-18 25 18 / 18-35-18 25 18 / 18-35-18 25 18 /
+pagenum
+innerhead Von Himmel hoch, da komm' ich her, J. S. Bach,  BWV769
+leftfoot Typeset and annotated by Peter Billam
+|
+r0.4 .25 aller
+=1' cha1 vol105 min G F
+=1, cha2 vol110 smq [D qua F smq E] dsq3-s F' smq [E D dsq3-s E' smq D C(2] \
+ [C)2 B_ smq3-s C' smq B_ A_] [G_# A_ A_ B_]
+=2 qua [B_ D C B_] [A_ D_] cro D(2
+=3  qua [B E] cro e(1 qua [e)1 smq d c,] qua [B A]
+|
+r0.4 .01 not
+=1' cha1 vol105 min E rest'
+=1, cha2 vol110 smq [B_ dsq A_ G_# smq A_ B_] dsq3-s D' \
+ smq3 [C smq B_ qua C(1] smq [C)1 A Gn F#] [E D E F]
+=2  qua [D)2 smq C B_] qua [A_ G_n] bass [f# d] g rest
+=3  qua [G# E] A rest rest [c B A]
+|
+=1' smb rest'
+=1, qua [G G_] cro rest, D(1 smq [D)1 G F# E]
+=2  qua rest [b a g] [e f# g a]
+=3' qua [B G A B] [c smq d c] qua [B c]
+|
+r0.4 .50 er
+=1' cha1 vol105 min rest' E
+=1, cha2 vol110 dsq [D-tr C smq D qua G(1] smq [G)1 A G Fn] \
+ smq [Er qua Dr smq C] dsq3-s D' smq3 [C smq B_b dsq3-s C' smq3 B_ smq A_]
+=2  qua [b smq c~ b] qua [a b] treble [C D] [E smq D C#]
+=3, qua [d e] [fn smq e d] qua [e f] cro g(1
+|
+r0.4 .01 will .50 eur
+=1' cha1 vol105 min A A
+=1, cha2 vol110 cro A_ smq rest, [G F E] \
+ smq [D C dsq3-s D' smq3 C smq B_n] [A_ B_ B_ C]
+=2  qua [D E] cro F(2 qua [F)2 smq E D] qua [Cn D]
+=3, qua [g)1 smq f e] qua [d e] [f g] [a smq g f]
+|
+r0.4 .25 Heiland
+=1' cha1 vol105 min G B
+=1, cha2 vol110 smq [C qua B_ dsq C D] [C B_ smq C qua G_] \
+ smq rest,, [D E F#] [G E F G]
+=2  qua [E F] [G smq F E] qua [D C D B_]
+=3  qua [e d e c,] [g' G] rest d(1
+|
+r0.4 .39 selber
+=1' cha1 vol105 cro cr{'1 B}'1 min A
+=1, cha2 vol110 smq3-s B smq3 [A G qua A(2] smq [Ar)2 G D# E] \
+ [E D E G] [F# Cn B_ A_]
+=2  qua [F# F_#] rest C(2 [C)2 C# D D#]
+=3  qua [d)1 d# e e#] cro f# qua rest F#
+|
+r0.4 .01 sein
+=1' cha1 vol105 min G rest'
+=1, cha2 vol110 smq [B_ C C D] [D E E F] \
+ cro F(1 smq [F)1 E dsq-s F' smq E smq D]
+=2  cro E bass qua rest e [d d~ c~ b]
+=3' qua [E e dn cn] [d B c d]
+|
+=1' cha1 vol105 smb rest'
+=1, cha2 vol110 smq [C D E F#] [G qua G# smq A(1] \
+ [A)1 qua G smq A(1] [A)1 qua B smq c]
+=2  qua [c~ a b c~] [d~ b a g#]
+=3' qua [e c B A] [B E] cro rest
+|
+r0.4 .50 von
+=1' cha1 vol105 min rest' c
+=1, cha2 vol110 cro c(2 smq [c)2 B A Gn] cro A(2 smq [A)2 G dsq F# G smq A(2]
+=2  qua [a d] cro rest treble qua rest [F# E D#]
+=3, qua rest [gn f# e] [f d# e f]
+|
+r0.4 .25 allen
+=1' cha1 vol105 min B A
+=1, cha2 vol110 smq [Ar)2 qua. Gr(1] smq [G)1 Fn dsq E F smq G] \
+ smq [G F dsq3-s G' smq F E] dsq3-s F' smq [E D D G]
+=2  qua [E C# Dn E] [Fn D Cn B_]
+=3, qua [g f dn c#] d rest rest fn(1
+|
+r0.4 .25 sünden
+=1' cha1 vol105 min G A
+=1, cha2 vol110 qua [Gr smq C D] [C B_b dsq3-s C' smq3 B_ A_] \
+ smq [A_ G F E] [D C B_n C]
+=2  qua C rest rest E(2 [E)2 smq D C] qua [D F]
+=3, qua [f smq e d] qua [e g] [c smq d e] qua [f a(1]
+/
+3 bars | 4/4 64 | 64 | 32 20 ||
+|
+r0.4 .29 machen
+=1' cha1 vol105 cro Fr{'1 E}'1 min D
+=1, cha2 vol110 dsq3-s C cro Dr(2 smq [Dr)2 C dsq3-s D' smq3 C B_b] \
+ smq [A_ dsq B_n A_ smq B_ C] qua. [B_-tr smq C]
+=2  qua [B_ smq C D] qua [E G(2] [G)2 smq F E] qua [F D]
+=3  qua [a)1 smq g f] qua [g e] [f' d' g' G]
+| 4/4 1.3 1.3 1.35 1.45
+r0.4 .01 rein
+=1' cha2 vol110 cro Cr(1 smq [C)1 D D E] [E F F G] [G A smq3-s A, qua3 Bb(1]
+=1, cha1 vol105 smb C(2
+=2  qua [E C F F_] [B_b A_ G_ G]
+=3, qua [c Bb A a] [g f] [e smq d e]
+| 4/4 1.6 1.8 1.9 2.0
+=1' cha2 vol110 smq [B)1 A G A] [G F E F] smq3-s F min G-mordent-fermata
+=1, cha1 vol105 smb C)2
+=2  qua [F E] [D-tr smq C D] min E-fermata
+=3, cro f F min C-fermata
+@

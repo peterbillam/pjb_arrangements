@@ -1,0 +1,12 @@
+boundingbox 300 143
+midi channel 1 patch 44 pan20 reverb 90
+midi channel 2 patch 44 pan80 reverb 90
+1 system 8 /27-35-27 13/
+/
+2 bars | 2# 3/4 3 3 3  4 3 3  3 3 2 | 4
+| 3/4 1.0 1.2 1.1
+=1  treble 2# 3/4 cha1 leg101 vol80 4 F 83 [G G#-I3 A] 8 [d f]
+=2, bass   2# 3/4 cha2 leg99 vol80 83 [<A f> a-I3 e~] 8 [d~ a f d]
+| 1.1
+=1  4 <d-dim40 a-dim40>
+=2, 4 <A-dim40 f-dim40 a-dim40>

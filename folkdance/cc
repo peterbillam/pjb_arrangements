@@ -1,0 +1,58 @@
+/
+4 bars |: 1# 2/2 8 | 8 | 8 | 8 |
+|
+Il1.0         The Old Grey Gander
+=1 treble 1# 2/2 qua [E A A B'] qua3 [c d-I3  c] qua [B' A]
+=2, treble 1# 2/2 qua [c e] [B e] [A e] [c e]
+|
+i1.1          ( reel )
+=1 qua [B' G] qua3 [G F-I3 G] qua [B, c d B,]
+=2' qua [G B] [F# B] [E B] [G B]
+|
+=1 qua [A E] qua3 [E D-I3 E] qua [c d e f]
+=2 qua [c e] [B, e] [A, e] [c e]
+|
+=1 qua [g e d B,] cro c qua [B' A]
+=2 qua [E B' G B'] cro A rest
+/
+4 bars | 1# 8 | 8 | 8 | 8 |
+|
+=1 treble 1# qua [E A A B'] qua3 [c d c] qua [B' A]
+=2, treble 1# qua [c e] [B e] [A e] [c e]
+|
+=1  qua [B' G] qua3 [G F G] qua [B, c d B,]
+=2' qua [G B] [F B] [E B] [G B]
+|
+=1 qua [A E] qua3 [E D E] qua [c d e f]
+=2 qua [c e] [B, e] [A, e] [c e]
+|
+=1 qua [g e d B,] [B' A] cro A
+=2 qua [E B' G B'] cro A rest
+/
+4 bars | 1# 8 | 1 1 1 1 1 1 1.5 1 | 8 | 8 |
+|
+=1 treble 1# cro a qua [e a] cro a qua [g e]
+=2 treble 1# qua [c e G, e] [c e G, e]
+|
+=1 cro d qua [B' G] [B, d] qua3 [d c# d]
+=2 qua [d g G, g] [d g G, g]
+|
+=1 cro a qua [e a] qua [a g b a]
+=2 qua [c e G, e] [c e G, e]
+|
+=1 qua [g e d B,] [B' A] cro A
+=2 qua [d g G, g] [A, g B, g]
+/
+4 bars | 1# 8 | 1 1 1 1 1 1 1.5 1 | 8 | 8 :||
+|
+=1 treble 1# cro a qua [e a] cro a qua [g e]
+=2 treble 1# qua [c e G, e] [c e G, e]
+|
+=1 cro d qua [B' G] [B, d] qua3 [d c# d]
+=2 qua [d g G, g] [d g G, g]
+|
+=1 qua [E A A B'] [c d e f]
+=2 qua [c e B, e] [A, e B, e]
+|
+=1  qua [g e d B,] [B' A] cro A
+=2' qua [D B' G B'] min A

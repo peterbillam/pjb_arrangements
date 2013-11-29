@@ -1,0 +1,11 @@
+head	;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+
+desc
+@Extracts sample page from ric6_kbd
+@

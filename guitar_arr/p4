@@ -1,0 +1,69 @@
+.\" header = mushead
+.AM
+.nr PS 13.0
+.nr VS 13.0
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 0.1c
+.Lp
+ \f3Die Gedanken sind frei\fP
+.sp .23c
+ Die Gedanken sind frei, wer kann sie erraten?
+ Sie fliehen vorbei wie nächtliche Schatten.
+ Kein Mensch kann sie wissen, kein Kerker einschliessen;
+ es bleibet dabei: die Gedanken sind frei.
+.sp .23c
+ Ich denke, was ich will und was mich beglükket,
+ doch alles in der Still und wie es sich schikket.
+ Mein Wunsch ind Begehren kann niemand verwehren;
+ es bleibet dabei: die Gedanken sind frei.
+.sp .23c
+ Und schliesst man mich ein im finsteren Kerker,
+ ich spotte der Pein und menschlichem Werke;
+ denn meine Gedanken serrissen de Schranken
+ und Mauern entzwei: die Gedanken sind frei.
+.sp .49c
+ \f3Muss i' denn\fP
+.sp .23c
+ Muss i' denn, muss i' denn
+ Zum Städtele hinaus, Städtele hinaus
+ Und du mein Schatz bleibst hier
+ Wenn i' komm, wenn i' komm
+ Wenn i' wieder, wieder komm, Wieder, wieder komm
+ Kehr i' ein mein Schatz bei dir
+ Kann i' auch nicht immer bei dir sein
+ Hab' i' doch mei' Freud' an dir
+ Wenn i' komm, wenn i' komm
+ Wenn i' wieder, wieder komm, Wieder, wieder komm
+ Kehr' i' ein mein Schatz bei dir
+.sp .23c
+ Weine nicht, weine nicht
+ Wenn i' weiter wandern muss, Weiter wandern muss
+ Als wär' alle Lieb' vorbei
+ Gibt es auch, gibt es auch
+ Der Mädele so viel, Mädele so viel
+ Lieber Schatz i' bleib dir treu
+ Denk nicht gleich wenn i die andern seh'
+ Wär' meine Liebe vorbei
+ Gibt es auch, gibt es auch
+ Der Mädele so viel, Mädele so viel
+ Lieber Schatz i bleib dir treu
+.sp .23c
+ Über's Jahr, über's Jahr
+ Sind die Träubele erst reif, Träubele erst reif
+ Stell i' hier mich wieder ein
+ Wenn i' dann, wenn i' dann
+ Dein Schätzele noch bin, Schätzele noch bin
+ So soll die Hochzeit sein
+ Und ein Jahr geht ja so schnell vorbei
+ und bis dahin bin i' dein
+ Wenn i' dann, wenn i' dann
+ Dein Schätzele noch bin, Schätzele noch bin
+ So soll die Hochzeit sein
+

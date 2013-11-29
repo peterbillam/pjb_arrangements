@@ -1,0 +1,88 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	2003.04.24.07.01.09;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2002.09.30.10.01.59;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for Passacaglia and Fugue BWV582
+@
+
+
+1.2
+log
+@cut out a42us, rely on muscript autodetect
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+PIECE = bwv582
+
+all : ${FD}/${PIECE}.a4 ${SD}/${PIECE}.a4 ${FREED}/${PIECE}.pdf
+dev : title.a4 title_free.a4 p2.a4 p3.a4 bwv582.a4
+
+${FD}/${PIECE}.a4 : title.a4 p2.a4 p3.a4 ${PIECE}.a4 ${BLURB}.a4
+	${PSCAT} title.a4 p2.a4 p3.a4 ${PIECE}.a4 ${BLURB}.a4 > $@@
+${SD}/${PIECE}.a4 : ${PIECE}.a4
+	./make_sample
+${SD}/${PIECE}.us : ${SD}/${PIECE}.a4
+	${A42US} ${SD}/${PIECE}.a4 > $@@
+${FREED}/${PIECE}.pdf : title_free.a4 p2.a4 p3.a4 \
+ ${PIECE}.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${PIECE}.a4 : ${PIECE}
+	${MUSCRIPT} ${PIECE} > $@@
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+p3.a4 : p3
+	groff -ms p3 | ${BANNERISE} > $@@
+@
+
+
+1.1
+log
+@roll passacaglia and fugue into bwv582
+@
+text
+@a7 1
+A42US = /home/pbin/a42us
+d12 1
+a14 2
+all : ${FD}/${PIECE}.a4 ${SD}/${PIECE}.a4 ${FREED}/${PIECE}.pdf
+
+d17 4
+a20 2
+${FD}/${PIECE}.us : ${FD}/${PIECE}.a4
+	${A42US} ${FD}/${PIECE}.a4 > $@@
+a24 1
+	| ${A42US} -c \
+@

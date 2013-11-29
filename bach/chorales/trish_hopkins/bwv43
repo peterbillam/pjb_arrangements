@@ -1,0 +1,130 @@
+6 systems 10 /19-45-19/19-41-19/19-40-19 20/19-45-19/19-43-19/19-40-19 10/
+pagenum
+innerhead Chorales by Johann Sebastian Bach
+midi channel 1 patch 74
+midi channel 2 patch 56
+
+$V = {
+/
+8 bars |: 1# 3/4 6 | 1 1 1 1.3 1 1 | 6 | 6 | 6 | 5 | 6 | 5 :||
+| 3/4 84
+bl1.0 BWV 43
+r1.0 .60 Ermuntre dich, mein schwacher Geist
+=1' treble 1# 3/4 cha1 leg95 cro G G A
+=1, treble 1# 3/4 cha1 leg95 cro D E F
+=2' bass   1# 3/4 cha1 leg95 cro b b d~
+=2, bass   1# 3/4 cha1 leg95 cro g e d
+|
+=1' cro. B qua c cro d
+=1, min. G
+=2' cro. d~ qua c~ cro b
+=2, cro. g qua a cro b
+|
+=1' cro d d c#
+=1, cro G E E
+=2' cro b a a
+=2, cro g a A
+| 74 74 84
+=1' min d-fermata cro B
+=1, min F cro G
+=2' min a cro g
+=2, min d cro g
+| 84
+=1' min c cro B
+=1, min E cro D
+=2' min g cro g
+=2, min c cro G
+|
+=1' min. A
+=1, min. D
+=2' min. f
+=2, min. d
+|
+=1' cro G min F
+=1, cro B_ min D
+=2' cro e min a
+=2, cro e min d
+|
+=1' min. G-fermata
+=1, min. D
+=2' min. b
+=2, min. G
+midi pause 0.2
+}
+$V $V
+/
+7 bars | 1# 6 | 6 | 1 1 1 1.3 1 1 | 5 | 6 | 1 1 1 1.3 1 1 | 6 |
+|
+=1' cro A A B
+=1, cro D D D
+=2' cro f f g#
+=2, cro d d B
+|
+=1' min c cro c
+=1, min C cro E
+=2' min a cro a
+=2, min A cro c
+|
+=1' cro. B qua A cro B
+=1, min E cro E
+=2' cro. g# qua a cro g
+=2, min e cro e
+|
+=1' min. A-fermata
+=1, min. E
+=2' min. a
+=2, min. A
+midi pause 0.2
+|
+=1' cro B B B
+=1, cro E G# G
+=2' cro g# b e~
+=2, cro e e e
+|
+=1' cro. c qua d cro e
+=1, min. A
+=2' cro. e~ qua d~ cro c~
+=2, cro. a qua b cro c~
+|
+=1' cro e d# d
+=1, cro A F F
+=2' cro c~ b b
+=2, cro a b b
+/
+7 bars | 1# 6 | 6 | 6 | 6 | 1 1 1 1.3 1 1 | 6 | 5 ||
+| 74 74 84
+=1' min e-fermata cro f
+=1, min G cro A
+=2' min b cro d~
+=2, min e cro d
+| 84
+=1' min g cro B
+=1, min B cro G
+=2' min d~ cro d~
+=2, min g cro g
+|
+=1' min c cro B
+=1, min G cro G
+=2' min e~ cro d~
+=2, min c cro G
+| 84 70 84
+=1' cro A A-fermata d
+=1, cro F F G
+=2' cro d~ d~ d~
+=2, cro d d B
+|
+=1' cro. e qua d cro c
+=1, cro. G qua F cro E
+=2' cro. c~ qua a cro g
+=2, cro. c qua d cro e
+|
+=1' cro B min A
+=1, cro D min D
+=2' cro g g f
+=2, cro g min d
+|
+=1' min. G-fermata
+=1, min. D
+=2' min. g
+=2, min. G
+midi pause 2.0

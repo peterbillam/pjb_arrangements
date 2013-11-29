@@ -1,0 +1,68 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.de Dp
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+
+.sp 0.1c
+
+.TS
+center;
+l l n.
+BWV 26	Ach wie flüchtig, ach wie nichtig	4
+BWV 262	Alle menschen müssen sterben	4
+BWV 104	Allein Gott in der Höh sei Ehr	5
+BWV 4	Christ lag in Todesbänden	5
+BWV 274	Christe, der du bist Tag und Licht	6
+BWV 121	Christum wir sollen loben schon	6
+BWV 288	Das alte Jahr vergangen ist	7
+BWV 18	Durch Adams Fall ist ganz verderbt	7
+BWV 303	Ein Feste Burg ist unser Gott	8
+BWV 43	Ermuntre dich, mein schwacher Geist	8
+BWV 145	Erschienen ist der herrlich Tag	9
+BWV 306	Erstanden ist der heilige Christ	9
+BWV 155	Es ist das Heil uns kommen her	10
+BWV 310	Es wird schier die letzte Tag herkommen	10
+BWV 60	Es ist genug	11
+BWV 32	Freu dich sehr, o meine Seele	12
+BWV 315	Gib dich zufrieden und sei stille	12
+BWV 318	Gottes Sohn ist Kommen	13
+BWV 330	Herr, ich habe misgehandelt	13
+BWV 371	Kyrie, Gott Vater in Ewigkeit	14
+BWV 228	Lobt den Herren, denn er ist sehr freundlich	16
+BWV 376	Lobt Gott, ihr Christen allzugleich	16
+BWV 245	Machs mit mir, Gott, nach deiner Güt	17
+BWV 378	Mein Augen schließ ich jetzt	17
+BWV 382	Mit Fried und Freud ich fahr dahin	18
+BWV 386	Nun danket alle Gott	18
+BWV 387	Nun freut euch, Gottes Kinder all	19
+BWV 307	Nun freut euch, lieben Christen gemein	19
+BWV 62	Nun komm, der Heiden Heiland	19
+BWV 390	Nun lob, mein Seel, den Herren	20
+BWV 396	Nun sich der Tag geendet hat	21
+BWV 400	O Herzensangst, o Bangigkeit und Zagen	21
+BWV 402	O Mensch, bewein dein Sünde groß	22
+BWV 394	O Welt, ich muß dich lassen	23
+BWV 180	Schmücke dich, o liebe Seele	23
+BWV 413	Sollt ich meinem Gott nicht singen	24
+BWV 414	Uns ist ein Kindlein heut geborn	25
+BWV 248	Von Himmel hoch da komm ich her	25
+BWV 437	Wir glauben all an einen Gott	26
+BWV 178	Wo Gott der Herr nicht bei uns hält	27
+.TE
+
+.sp 0.6c
+.Lp
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP
+

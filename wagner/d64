@@ -1,0 +1,75 @@
+boundingbox 475 125
+midi channel 1  patch 56 pan20 reverb 95  # trp
+midi channel 2  patch 57 pan80 reverb 95  # trb
+midi channel 3  patch 58 pan50 reverb 95  # tub
+
+midi channel 4  patch 73 pan30 reverb 95  # flu
+midi channel 5  patch 68 pan60 reverb 95  # obo
+midi channel 6  patch 71 pan40 reverb 95  # clr
+midi channel 7  patch 60 pan70 reverb 95  # hrn
+
+midi channel 8  patch 24 pan80 reverb 95  # tym
+midi channel 10 patch 44 pan10 reverb 95  # str
+midi channel 11 patch 44 pan90 reverb 95  # str
+1 system /27-30-27/
+/
+4 bars | 5b 36 | 3 3 3 5 3 3 3 3 3 3 3 3 | 36 | 5
+| 3/4 2.1
+=1 treble   5b cha10 vol60 smq3-s [a b a f d f] [a b a f d f] [a b a f d f]
+=2'  bass   5b cha2 vol125 cro D cro. F qua A
+#=3' bass   5b cha3 vol125 4 leg50 D 4. leg85 F 8 A
+#=3' bass   5b cha3 vol125 4 leg50 D 4. leg85 F 8 A
+#=11' bass  5b cha11 vol125 4 leg50 <D_ D> 4. leg85 <F_ F> 8 <A_ A>
+#=12' bass  5b cha1 vol125 4 leg50 d 4. leg85 f 8 a
+#=14 bass   5b cha2 vol100 leg60 2 d-dim50 8 [A 163 A A A]
+#=15 treble 5b cha1 vol100 leg60 2 D-dim50 8 [A_ 163 A_ A_ A_]
+#=8  bass   5b cha8 vol100 2 d-dim50 8 [A 163 A A A]
+#=4  treble 5b cha4 vol65 83 [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>] \
+ [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>] [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>]
+#=6  treble 5b 3/4 cha6 vol65 83 [<d f a> <d f a> <d f a>] \
+ [<d f a> <d f a> <d f a>] [<d f a> <d f a> <d f a>]
+#=7  treble 5b 3/4 cha7 vol70 83 [<A_ D F A> <A_ D F A> <A_ D F A>] \
+ [<A_ D F A> <A_ D F A> <A_ D F A>] [<A_ D F A> <A_ D F A> <A_ D F A>]
+|
+=1  163-s [a b a f d f] [a b a f d f] [a b a f d f]
+=2,   8. [d 16 f] 4 a f
+#=3,  8. [D 16 F] 4 A F
+#=12, 8. [d~ 16 f~] 4 a~ f~
+#=11, 8. [<D  d>16 <F f>] 4 <A a> <F f>
+#=14 2 d-dim50 8 [A 163 A A A]
+#=15 2 D-dim50 8 [A_ 163 A_ A_ A_]
+#=8  2 d-dim50 8 [A 163 A A A]
+#=4  83 [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>] \
+ [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>] [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>]
+#=6  83 [<d f a> <d f a> <d f a>] \
+ [<d f a> <d f a> <d f a>] [<d f a> <d f a> <d f a>]
+#=7  83 [<A_ D F A> <A_ D F A> <A_ D F A>] \
+ [<A_ D F A> <A_ D F A> <A_ D F A>] [<A_ D F A> <A_ D F A> <A_ D F A>]
+|
+=1  163-s [a b a f d f] [a b a f d f] [a b a f d f]
+=2' 4 leg65 d A 8 leg85 [F G]
+#=3 4 leg65 D A_ 8 leg85 [F_ G_]
+#=12 4 leg65 d~ a 8 leg85 [f g]
+#=11 4 leg65 <D d> <A_ A> 8 leg85 [<F_ F> <G_ G>]
+#=14 2 d-dim50 8 [A 163 A A A]
+#=15 2 D-dim50 8 [A_ 163 A_ A_ A_]
+#=8  2 d-dim50 8 [A 163 A A A]
+#=4  83 [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>] \
+ [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>] [<d~ f~ a~> <d~ f~ a~> <d~ f~ a~>]
+#=6  83 [<d f a> <d f a> <d f a>] \
+ [<d f a> <d f a> <d f a>] [<d f a> <d f a> <d f a>]
+#=7  83 [<A_ D F A> <A_ D F A> <A_ D F A>] \
+ [<A_ D F A> <A_ D F A> <A_ D F A>] [<A_ D F A> <A_ D F A> <A_ D F A>]
+|
+=1 1 blank
+=2' 4 A-dim60
+#=3' 4 A_-dim60
+#=12 4 a-dim60
+#=11 4 <A_ A-dim60>
+#=8  vol75 2 d-dim60
+#=14 vol75 2 d-dim60
+#=15 vol75 2 D-dim60
+#=8  vol75 2 d-dim60
+#=4  vol55 83 <d~ f~ a~-dim60>
+#=6  vol55 83 <d f a-dim60>
+#=7  vol60 83 <A_ D F A-dim60>

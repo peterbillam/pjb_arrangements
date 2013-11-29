@@ -1,0 +1,73 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.sp 2.1c
+.SH
+Structure and rhythm
+.LP
+.nh
+Scriabin studied composition under Georges Conyus from 1883.
+Georges Conyus had devised a neat method of rhythmic and metric analysis :
+\f2Le diagnose metrotectonique de la forme des organismes musicaux\fP
+which, much later in 1933, was published as a book.
+As Kelkel points out,
+Scriabin's pieces are particularly clearly shaped,
+when looked at with Conyus' method.
+.LP
+.nh
+Scriabin also used palindromic (non-retrogradable) rhythms,
+and also many forms of augmentation or diminution,
+such as addition or subtraction of the dot
+or long/short inversion,
+which were later used by Messiaen.
+.LP
+.nh
+The overall layout of the op. 74 preludes is simply,
+fast, slow, fast, slow, fast;
+and also (structurally) binary, ternary, binary, ternary, binary.
+As Kelkel points out, the numbers of bars of the preludes,
+and of neighbouring groups of the preludes,
+contain a significantly high proportion of
+the Lucas numbers: 1 3 4 7 11 18 29 47 76 etc,
+which is a Fibonacci-like series beginning with 1 and 3 instead of 1 and 2.
+.LP
+.nh
+No. 4 has the old Minnesänger form of the \f2Bar\fP,
+as explained by \f2David\fP in Act I Scene 3 and Act III Scene 2
+of the \f2Meistersinger\fP.
+It can also be seen as spun by repeating the last 6, 3, or 2 beats,
+somewhat varied (usually upwards),
+in a classical condensation and liquidation,
+leading to the recapitulation with written-out ritardandi.
+
+.SH
+Editions
+.LP
+.nh
+In this edition the notes are right but many expression marks are not,
+partly through the constraints of my music-typesetting software \f2muscript\fP.
+Long slurs have been omitted, and the arpeggiation symbols are missing.
+If you're considering playing these pieces,
+make sure you consult a more authoritative edition.
+.LP
+.nh
+Op.74 is not included in the Peters Edition \f2Band III Preludes and Poems\fP
+edited by Gunther Philipp.
+.LP
+.nh
+In the 1967 \f2Muzyka\fP edition, reprinted by \f2Dover\fP in 1973,
+there seem to be misprints in:
+ no.1 bar 1, RH top voice 2nd-last note should be an e#, not an e
+ no.4 bar 9, LH third triplet-quarter-note should surely be a gb, not a g
+ no.5 bar 3, RH last note c# should be tied over to the first note of bar 4
+ no.5 bar 11, LH middle phrase, the first of the tied chords should be <G_ G> not <G_ E>
+
+.LP
+.nh
+.ce
+Peter Billam, \  \f2www.pjb.com.au\fP
+

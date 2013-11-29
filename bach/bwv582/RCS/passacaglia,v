@@ -1,0 +1,3946 @@
+head	1.16;
+access;
+symbols;
+locks
+	pjb:1.16;
+comment	@# @;
+
+
+1.16
+date	2002.09.29.10.11.09;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2002.09.29.07.42.34;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2002.09.29.00.43.33;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2002.09.28.07.26.03;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2002.09.28.05.02.45;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2002.09.27.11.05.31;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2002.09.22.10.06.16;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2002.09.21.22.13.35;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2002.09.20.22.46.51;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2002.09.20.05.53.20;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2002.09.19.05.43.49;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2002.09.16.06.32.28;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2002.09.15.23.05.48;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2002.09.14.23.01.30;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2002.09.14.10.53.21;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2002.09.13.22.47.16;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Passacaglia & Fugue in c min for 4 hands
+@
+
+
+1.16
+log
+@space pages 11&12, to end of passacaglia
+@
+text
+@7 systems 15 /18-23-18/18-23-18/18-23-18/18-23-18/18-24-18 \
+ /18-24-18/18-23-18 15/
+pagenum 1
+innerhead J. S. Bach
+title Passacaglia and Fugue
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+10 bars |3b 3/4 18| 48| 48| 48| 48| 48| 48| 40| 16 16 20| 20 16 20|
+|
+=1 bass 3b 3/4 cro c
+=2 bass 3b 3/4 cro rest
+|
+=1 min g cro e
+=2 min. rest
+|
+=1 min f cro g
+=2 min. rest
+|
+=1 min a cro f
+=2 min. rest
+|
+=1 min g cro d
+=2 min. rest
+|
+=1 min e cro Bn
+=2 min. rest
+|
+=1 min c cro rest
+=2 min rest cro F
+|
+=1 min. rest
+=2 min. G
+|
+il0.5   8
+=1 min rest qua rest' e~(1
+=2 min C cro c
+|
+=1 qua e~)1 cro. d~ qua rest' g~(1
+=2 min g cro e
+/
+7 bars |3b 11 8 7 6 10 8| 16 13 16| 11 8 7 6 8 8| 11 8 7 6 8 8\
+ | 16 13 16| 4 4 4 4  4 4 4 10  4 4 4 4| 16 13 16|
+|
+=1 bass 3b qua g~)1 cro. f~ qua rest' bn(1
+=2 bass 3b min f cro g
+|
+=1 cro b)1 c~ qua rest' e~(1
+=2 min a cro f
+|
+=1 qua e~)1 cro. d~ qua rest' f~(1
+=2 min g cro d
+|
+=1 qua f~)1 cro. e~ qua rest' d~(1
+=2 min e cro Bn
+|
+=1 qua d~)1 cro. c~ qua rest' c~(1
+=2 min c cro F
+|
+=1 cro c~)1(1 qua. [c~)1 smq d~] cro bn
+=2 min. G
+|
+il0.5         16
+=1 qua c~ cro. g qua rest' e~(1
+=2 min C cro c
+/
+6 bars |3b 48| 48| 48| 4 4 4 9  4 4 4 4  4 4 4 4| 48| 48|
+|
+=1 bass 3b qua e~)1 cro. d~ qua rest d~b(1
+=2 bass 3b min g cro e
+|
+=1 qua d~b)1 cro. c~ qua rest bn(1
+=2 min f cro g
+|
+=1 qua bn)1 cro. c~ qua rest c~(1
+=2 min a cro f
+|
+=1 qua. [c~)1 smq d~] cro bn qua rest a(1
+=2 min g cro d
+|
+=1 qua a)1 cro. g qua rest f(1
+=2 min e cro Bn
+|
+=1 cro f)1  e qua rest e(1
+=2 min c cro F
+/
+6 bars |3b 48| 8 8 8 8 10 8| 8 8 8 11 10 8\
+ | 10 11 10 11 7 7| 11 8 8 10 10 8| 8 8 8 10 8 8|
+|
+=1 bass 3b qua e)1 cro d qua [f qua. e smq d]
+=2 bass 3b min. G
+|
+il0.5     24
+=1 cro c qua rest [g c~ d~]
+=2 min C cro c
+|
+=1 cro. bn qua [c~ d~b e~]
+=2 min g cro e
+|
+=1 qua [c~ f~ d~n c~] cro bn
+=2 min f cro g
+|
+=1 qua [c~ bb rest' c~ f~ e~]
+=2 cro a a f
+|
+=1 cro. d~ qua e~ cro f~
+=2 min g cro d
+/
+6 bars |3b 19 16 14| 48| 16 16 14\
+ | 8 13 8 13 8 8| 4 4 9 9 4 4 7 7 4 3 4 3| 10 15 10 15 7 7|
+|
+=1 bass 3b qua [e~ f~ g~] rest' cro d~
+=2 bass 3b min e cro Bn
+|
+=1 qua  rest' [a g f e d]
+=2 min c cro F
+|
+=1 qua [e f g a] cro g(1
+=2 min. G 
+|
+il0.5          32
+=1, qua [g smq c d] qua [e smq e f] qua [g c~]
+=2 min C cro c
+|
+=1 qua [d~ smq rest' an] qua [bn smq a b] cro c~(1
+=2 qua g cro. g cro e
+|
+=1 qua [c~)1 smq d~ e~] qua [f~ smq f~ e~] cro d~
+=2 min f cro g
+/
+5 bars |3b 3 3 3 3 3 3 3 3 4 4 7 4| 9 14 9 14 7 7| 7 7 8 14 8 8\
+ | 4 4 7 7 4 4 10 6 4 4 5 5| 6 6 8 11 8 8 |
+|
+=1 bass 3b cro c~ rest' qua rest' smq [f~ e~]
+=2 bass 3b min a cro f
+|
+=1 qua [d~ smq bn c~] qua [d~ smq d~ e~] cro f~
+=2 min g cro d
+|
+=1 cro g~ qua rest' smq [g~ f~] qua [g~ g]
+=2 min e cro Bn
+|
+=1, qua [c~ smq e~ d~] qua [e~ smq c~ bn] qua [c~ smq e d]
+=2 min c cro F
+|
+=1 cro e qua rest smq [g f] qua [g d]
+=2 min. G
+/
+5 bars |3b 6 6 8 11 8 10| 6 6 8 10 8 10| 6 6 8 16 8 10\
+ | 6 6 8 12 8 10| 6 6 8 10 8 10|
+|
+il0.5          40
+=1 bass 3b cro e qua rest' smq [g~ g] qua [c~-. smq c~] rest
+=2 bass 3b min C qua. rest smq c
+|
+=1 cro bn qua rest' smq [b g] cro c~(1
+=2 cro g rest qua rest smq [e c,]
+|
+=1 cro c~)1 qua rest' smq [d~ an] cro bn
+=2 cro f rest qua rest smq [g e]
+|
+=1 cro c~ qua rest' smq [c~~ c~] cro f~
+=2 cro ab rest qua rest smq [f d,]
+|
+=1 cro d~ qua rest' smq [d~ d,] qua [g-. d~]
+=2 cro g rest qua rest smq [g d,]
+
+7 systems 15 /18-23-18/18-23-18/18-24-18/18-29-18/18-24-18 \
+ /18-24-18/18-24-18 10/
+pagenum 2
+innerhead J. S. Bach
+title Passacaglia and Fugue
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+12 bars |3b 3/4 4 | 6|6|6|6|6|6|6|3 6 | 1 1 1 2.6 1 1 1 1 1 1 1 1\
+ | 1 1 1 1.6 1 1 1 1 1 1 1 1| 1 1 1 1.6 1 1 1 1 1 1 1 1 |
+|
+=1 treble 3b 3/4 cro rest
+=2 treble 3b 3/4 cro rest
+|
+=1 min. rest
+=2 min. rest
+|
+=1 min. rest
+=2 min. rest
+|
+=1 min. rest
+=2 min. rest
+|
+=1 min. rest
+=2 min. rest
+|
+=1 min. rest
+=2 min. rest
+|
+=1 min. rest
+=2 min. rest
+|
+=1 min. rest
+=2 min. rest
+|
+il0.5    8
+=1 min rest qua rest c(1
+=2 min rest qua rest G(2
+|
+=1 qua. [c)1 smq d] cro Bn qua rest e(1
+=2 cro G)2 G qua rest c(1
+|
+=1 qua. [e)1 smq f] cro d qua rest d(1
+=2 cro c)1 A qua rest G(2
+|
+=1 qua. [d)1 smq e] cro c qua rest c(1
+=2 qua G)2 cro. F qua rest A(2
+/
+7 bars |3b 4 4 4 12 4 3 4 3 4 4 4 4| 5 5 5 8 4 3 4 3 4 4 4 4\
+ | 4 4 4 8 4 3 4 3 4 4 4 4| 4 4 4 7 4 3 4 3 4 4 4 4\
+ | 4 4 4 8 4 3 4 3 4 4 4 4| 4 4 4 12 4 3 4 3 5 5 4 4\
+ | 4 4 4 8 4 3 4 3 4 4 4 4|
+|
+=1 treble 3b qua. [c)1 smq d] cro Bn qua rest a(1
+=2 treble 3b cro A)2 G qua rest B'(2
+|
+=1 qua. [a)1 smq bb] cro g qua rest f(1
+=2 cro B')2 c qua rest A(2
+|
+=1 qua. [f)1 smq g] cro e qua rest e(1
+=2 cro A)2 G qua rest A(2
+|
+=1 qua. [e)1 smq f] cro d qua rest d(1
+=2 qua [A)2 G] cro F qua rest F(2
+|
+il0.5    16
+=1 qua. [d)1 smq e] cro c qua rest c(1
+=2 qua. [F)2 smq G] cro E qua rest G(2
+|
+=1 qua. [c)1 smq d] cro Bn qua rest Bb(1
+=2 cro G)2 G qua rest G(2
+|
+=1 qua. [B)1 smq c] cro A qua rest G(2
+=2 cro G)2 F qua rest E(2
+/
+7 bars |3b 4 4 4 8 4 3 4 3 4 4 4 4| 4 4 4 4 4 3 4 3 4 4 4 4\
+ | 4 4 4 8 4 3 4 3 4 4 4 4| 5 5 4 8 4 3 4 3 4 4 4 4\
+ | 4 4 4 12 4 3 4 3 4 4 4 4| 11 8 8 8 8 8| 48 |
+|
+=1 treble 3b qua. [G)2 smq A] cro F qua rest A(2
+=2 treble 3b cro E)2 D qua rest E(2
+|
+=1 qua [A)2 G] cro G-tr qua rest F(2
+=2 cro E)2 D qua rest B_n(2
+|
+=1 qua. [F)2 smq G] cro E qua rest D(2
+=2 cro B_)2 C qua rest A_(2
+|
+=1 qua. [D)2 smq E] cro C qua rest C(2
+=2 qua A_)2 cro. G_ qua rest A_(2
+|
+=1 qua. [C)2 smq D] cro. B_n-tr qua B_
+=2 cro A_)2 qua rest [A_ qua. G_ smq F_]
+|
+il0.5     24
+=1 qua C [G, c d e f]
+=2 cro E_ min rest
+|
+=1 min d cro g(1
+=2' qua rest [D G A B c]
+/
+6 bars |3b 21 24| 48| 8 8 8 10 8 8| 48| 48| 10 9 8 8 10 8|
+|
+=1 treble 3b cro g)1 f e(1
+=2 treble 3b cro. A qua [A G F]
+|
+=1 qua [e)1 g f e d c]
+=2 qua [E rest, F G] cro A(2
+|
+=1 cro Bn rest qua rest a
+=2' qua [A)2 A G c] cro Bn
+|
+=1 qua [g f] cro e qua rest a
+=2 cro. c qua [A G F]
+|
+=1 qua [g f] cro e qua rest a
+=2 qua [E D] min C(2
+|
+=1, qua [g <f A> e d c Bn]
+=2' qua [C)2 B_n <C G> <D F> E <D F>]
+/
+5 bars |3b 3 3 3 3 4 4 5 5 4 4 8 5| 8 10 8 10 8 10\
+ | 3 3 3 3 3 3 5 8 4 4 5 5| 8 10 8 10 8 10\
+ | 4 4 5 8 4 4 5 9 4 4 5 5|
+|
+il0.5          32
+=1 treble 3b cro c rest qua rest smq [G An]
+=2 treble 3b cro <C E> qua rest smq [C D] qua [E smq E F]
+|
+=1 qua [Bn smq B c] qua [d smq c d] cro e(1
+=2 min G(2 qua [G)2 smq F G]
+|
+=1 cro. e)1 smq [d c] cro Bn
+=2 min A(2 qua [A)2 smq G F]
+|
+=1 qua rest smq [c d] qua [e smq f g] qua [a smq d c]
+=2 cro. E smq [D E] qua [F A]
+|
+=1 cro Bn qua rest smq [g a] qua [bn smq a b]
+=2 qua [G smq G A] qua [Bn, smq B, c] cro d
+/
+4 bars |3b 8 10 8 8 8 10| 4 4 7 5 4 4 4 6 4 4 7 5\
+ | 4 4 7 5 4 4 5 5 5 5 4 4| 4 4 5 5 4 4 5 5 4 4 7 5|
+|
+=1 treble 3b qua [c~ smq g f] qua [g e] [d smq c d]
+=2 treble 3b qua [c smq e d] qua [e-. c] cro G(2
+|
+=1 qua [e smq c Bn,] qua [c' G] [A, a]
+=2 cro G)2 qua. rest smq D qua [E smq C B_n]
+|
+=1 qua [g smq c Bn,] qua [c' smq E D] qua. [D-tr smq C]
+=2 qua [C smq E D] qua [E C] [C B_n]
+|
+il0.5          40
+=1 qua rest smq [g G,] qua [c smq d e] cro e
+=2 cro C rest qua rest smq [G F#]
+/
+4 bars |3b 4 4 5 5 4 4 7 5 4 4 5 5| 8 10 7 8 8 10\
+ | 4 4 5 5 4 4 5 6 4 4 5 9| 4 4 5 5 4 4 7 5 4 4 5 5|
+|
+=1 treble 3b qua [d-. smq d] rest qua rest smq [d Bn,] cro e(1
+=2 treble 3b qua [G smq rest, D] cro G qua rest smq [G E]
+|
+=1 qua [e)1 smq e c] cro. f smq [e g]
+=2 cro. A qua F cro G
+|
+=1 qua [c smq c~ c] qua [f smq g a] qua. [a-tr dsq g a]
+=2 cro E rest qua rest smq [d f]
+|
+=1 qua g rest rest smq [An Bn'] cro B'-tr
+=2' qua rest'' smq [d D] qua G rest rest smq [G F]
+=2, cro Bn
+
+7 systems 15 /18-23-18/18-23-18/18-23-18/18-24-18/18-24-18 9\
+ /18-23-18/18-24-18 15/
+pagenum 3
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars | 3b 3 3 3 3 4 3 4 5 4 3 5 4| 13 16 16| 13 13 16| 8 9 7 8 7 6|
+|
+=1 treble 3b cro C qua rest smq [G G_] qua [C smq B_n D]
+=2 bass   3b cro e rest qua rest smq [g Bn,]
+|
+=1 cro C qua rest smq [c' C] qua. [F smq E]
+=2 cro c rest qua rest smq [f' F]
+|
+=1 cro D rest qua rest smq [G D]
+=2 min. G
+|
+il0.5          48
+=1 smq [E G_ A_ B_] qua. [C smq D] cro E
+=2 min C cro c
+/
+4 bars |3b 16 12 12| 16 14 14| 16 14 14| 5 4 4 5 4 3 4 7 4 3 4 3|
+|
+=1 treble 3b smq rest [D E F] min G
+=2 bass   3b min g cro e
+|
+=1 smq rest [C D E] qua. [F smq E] qua [D F]
+=2 min f cro g
+|
+=1 smq [E C D E] qua. [F smq G] qua [A F]
+=2 min ab cro f
+|
+=1 smq D qua. rest bass rest smq an cro bn
+=2' cro g g cro d
+=2, smq rest, [d e f] cro g blank
+/
+4 bars |3b 4 6 6 4 3 3 3 3 3 3 3 3| 4 6 6 4 3 3 3 3 3 3 3 3\
+ | 3 3 3 3 5 6 6 4 3 3 3 3| 12 12 16|
+|
+=1 bass 3b smq rest [g an bn] cro c~ d~
+=2 bass 3b min e cro Bn
+|
+=1 smq rest [g an bn] min c~(1
+=2 min c cro F
+|
+=1 cro c~)1(1 smq [c~)1 c~ bn an] cro g
+=2 min. G
+|
+il0.5          56
+=1 cro c~ rest smq rest [g f e]
+=2 min C cro C
+/
+4 bars |3b 12 16 16| 12 16 16| 12 16 16| 3 3 3 3 3 3 3 3 6 4 4 4|
+|
+=1 bass 3b cro d rest treble smq rest [F E D]
+=2 bass 3b min G cro E
+|
+=1 cro C smq rest [G F E] [D F E D]
+=2 min F cro G
+|
+=1 cro C smq rest [G F E] [D E D C]
+=2 min A cro F
+|
+=1 cro B_n rest smq rest [Ab G F]
+=2 min G cro D
+/
+4 bars |3b 3 3 3 3 4 4 4 4 5 6 6 4| 3 3 3 3 3 3 3 3 4 5 5 4\
+ | 12 12 16| 4 4 4 4 4 4 4 4 4 5 5 4|
+|
+=1 treble 3b cro G rest bass smq [d~ c~ bn an]
+=2 bass   3b min E cro B_n
+|
+=1 cro g rest smq rest [e~ d~ c~]
+=2 min C cro F_
+|
+=1 cro bn rest smq rest [a g f]
+=2 min. G_
+|
+il0.7 .3 64
+=1 smq [e' c B A] [G F E D] rest [e~ d~ c~]
+=2 min C_ cro C
+/
+4 bars |3b 3 3 3 3 4 4 6 4 4 4 4 4| 4 3 4 4 3 3 3 3 4 6 6 4\
+ | 6 5 6 4 4 6 5 5 5 5 5 4| 3 3 3 3 5 5 5 7 4 4 6 4|
+|
+=1 bass 3b cro bn(1 smq [bn)1 c~ b an] [g e f g]
+=2 bass 3b min G cro E
+|
+=1 qua. [ab smq bb] cro c~ smq rest [g an bn]
+=2 min F cro G
+|
+=1 smq [c~ d~b c~ bb] [a rest' d~n e~] [f~ g~ f~ e~]
+=2 min Ab cro F
+|
+=1 cro d~(1 smq [d~)1 e~ d~ c~] [bn c~ b an]
+=2 min G cro D
+/
+4 bars |3b 4 4 4 4 4 4 4 4 6 4 4 4| 16 16 12\
+ | 4 4 6 4 4 4 4 4 6 4 4 4|4 3 4 3 4 6 4 4 4 4 4 4|
+|
+=1 bass 3b cro g treble smq rest [C D E] [F Ab G F]
+=2 bass 3b min E cro B_n
+|
+=1 cro E bass smq rest [e f g] cro a
+=2 min C cro F_
+|
+=1 qua [g smq an bn] [c~ c, d, e] [f ab g f]
+=2 min. G_
+|
+il0.5      72
+=1 qua [e c,] smq rest [g bn g] cro c~-mordent
+=2 cro C_ rest smq rest [c e' c]
+
+
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 4
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars |3b 7 8 7 7 7 8| 4 3 4 4 4 3 4 3 4 3 6 4\
+ | 4 3 4 4 4 3 6 4 4 3 3 4| 3 3 3 3 4 4 4 4 6 6 4 4|
+|
+=1 treble 3b qua [c smq g] rest qua [c d] [e smq d f]
+=2 treble 3b qua. [G smq G] cro. rest qua G
+|
+=1 qua [e smq c~ c] qua [f g a f(1]
+=2 cro G cro. rest smq [d An,]
+|
+=1 qua [f)1 smq g d] qua. [e smq f] qua. [d-tr smq e]
+=2' cro Bn qua rest smq [c An] cro B
+|
+il0.5          48
+=1 cro c rest smq rest [An, Bn, c]
+=2 cro rest smq rest [D E F] cro G(2
+/
+4 bars |3b 3 3 3 3 4 6 6 4 4 4 4 4| 3 3 3 3 6 6 4 4 4 6 7 4\
+ | 3 3 3 3 4 6 6 4 4 4 4 4| 3 3 3 3 5 7 6 5 4 4 4 4|
+|
+=1 treble 3b cro Bn rest smq rest [e f g]
+=2 treble 3b cro G)2 smq rest [G An Bn'] cro c(1
+|
+=1 cro ab rest smq rest [g an bn]
+=2 cro c)1 smq rest [An, Bn, c] qua [B' G(2]
+|
+=1 cro c~ rest smq rest [d e f]
+=2 cro G)2 smq rest [G Ab Bb'] qua c' rest
+|
+=1 cro Bn rest smq rest [E F G]
+=2 cro G smq rest [A_n B_n C] cro D
+/
+4 bars |3b 3 3 3 3 4 4 4 4 6 4 4 4| 3 3 3 3 4 4 4 6 6 4 4 4\
+ | 16 12 16| 4 4 4 4 4 4 4 4 5 4 4 4|
+|
+=1 treble 3b cro E rest smq rest [Bn, c d]
+=2 treble 3b cro C smq rest [D E F] cro G(2
+|
+=1 cro e rest smq rest [Bn c d]
+=2 cro G)2 smq rest [E F G] cro Ab
+|
+=1 smq [e g f e] min d
+=2 min G(2 smq [G)2 A G F]
+|
+il0.5     56
+=1 smq [c c B, A,] [G A G F] E qua. rest
+=2 cro E smq rest [F E D] [C E D C]
+/
+4 bars |3b 4 4 4 4 4 6 6 4 6 4 6 4| 4 5 4 4 4 4 4 6 4 4 4 4\
+ | 4 4 4 4 6 4 4 4 4 4 4 4| 4 4 4 4 4 6 6 4 3 3 3 3|
+|
+=1 treble 3b smq rest [g f e] [d e d e] cro c(1
+=2 treble 3b cro B_n smq rest [c' Bn' An] [G Ab G Bb']
+|
+=1 smq [c)1 b a g] [f e d c] cro Bn
+=2 cro A rest smq rest [A G F]
+|
+=1 smq [c f e d] [c' Bb' A G] cro A
+=2 cro E rest smq rest [G F E]
+|
+=1 smq [G, g f e] [d e d e] cro f(1
+=2 cro D smq rest [c' Bn' An] cro B'
+/
+4 bars |3b 4 4 4 6 6 4 4 4 6 4 4 4| 4 4 4 4 6 6 4 4 4 3 4 4\
+ | 4 4 4 5 6 5 5 6 4 3 4 4| 32|
+|
+=1 treble 3b smq [f)1 e d c] [Bn, An, B, c] cro d(1
+=2 treble 3b cro c smq rest [G F E] [F Ab G F]
+|
+=1 smq [d)1 f e d] qua. [c smq B,] cro A(2
+=2 cro E smq rest [Bb' Ab G] qua. [F smq E]
+|
+I0.2 .78 tr
+=1 smq [A)2 A G F] dsq [E F smq G F dsq G A] qua. [D smq E]
+=2 qua. [D smq D] [C E D C] cro B_n
+|
+il0.5      64
+=1 min. rest
+=2 cro C min rest
+/
+4 bars |3b 4 4 4 4 6 4 4 4 4 4 6 4| 6 7 7 4 4 4 7 5 4 4 4 4\
+ | 4 6 4 4 4 4 4 4 4 7 5 4| 6 5 7 7 4 4 4 4 3 3 3 3|
+|
+=1 treble 3b cro rest smq rest [d e f] [g f e d]
+=2 treble 3b smq rest [D E F] [G, Bn, c d] [e d c Bb,]
+|
+=1 smq [c db c B,] [A, f g a] cro Bn
+=2 smq [A C Dn En] [F G F Eb] [D A G F]
+|
+=1 smq rest [c dn e] [f g f e] [d an bn c~]
+=2 smq [E F E D] qua C rest cro rest
+|
+=1 smq [bn c~ b an] qua [g smq fn e] cro f(1
+=2 smq rest [F# G An] [Bn' A B' c'] cro d(1
+/
+4 bars |3b 7 6 6 4 4 4 4 4 3 3 3 3| 6 4 4 4 4 4 4 6 4 4 4 4\
+ | 4 6 4 4 4 4 4 4 4 3 4 3| 5 5 4 4 4 3 4 4 3 3 3 3|
+|
+=1 treble 3b smq [f)1 ab g f] [e g f e] cro d(1
+=2 treble 3b smq [d')1 G An Bn'] cro c rest
+|
+=1 smq [d)1 f e d] [c e d c] [db e d c]
+=2 smq rest [B_n C D] [E C D E] cro F(2
+|
+=1 smq [Bn, c qua dn(1] smq [d)1 e d c(1] qua [c)1 B,]
+=2 smq [F)2 G F E] [E G F E] cro D
+|
+il0.5      72
+=1 cro c min rest
+=2 smq [C C E C] qua. [G smq F] cro E-tr
+
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 5
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars | 3b 12 16 16| 20 13 16| 13 20 16| 4 6 4 4 5 5 5 5 4 4 4 4|
+|
+=1 bass 3b cro bn smq rest [g b g] cro c~
+=2 bass 3b cro g rest smq rest [e g e]
+|
+=1 smq rest [c~ e~ c~] min f~
+=2 cro f rest smq rest [g b g]
+|
+=1 cro rest smq rest [c~ e~ c~] cro f~
+=2 cro a rest smq rest [f a f]
+|
+=1 smq [d~ rest' bn g] [d~ b d~ b] cro f~
+=2 smq [g qua g] smq rest cro rest smq rest [d, f d,]
+/
+4 bars |3b 5 6 4 5 3 3 3 3 6 4 4 4| 4 6 4 4 3 3 3 3 4 4 4 4\
+ | 4 6 4 4 3 3 3 3 4 4 4 4| 36|
+|
+=1 bass 3b smq [g~ g bn g] cro c~ rest
+=2 bass 3b cro e rest smq rest [Bn d' B]
+|
+=1 smq rest [g bn g] cro c~ rest
+=2 cro c rest smq rest [F A F]
+|
+=1 smq rest [g bn g] cro c~(1 qua. [c~)1 smq b]
+=2 cro G rest smq rest [G F G]
+|
+il0.5      80
+=1 cro c~ rest' e~-.
+=2 cro C rest c-.
+/
+6 bars |3b 12 | 12 |
+|
+=1 bass 3b cro d~ rest' c~-.
+=2 bass 3b cro  g rest e-.
+|
+=1 cro c~ rest' rest'
+=2 cro  f rest g-.
+|
+=1 cro c~ rest' a-.
+=2 cro  a rest f-.
+|
+=1 cro  g rest f-.
+=2 cro  rest rest d-.
+|
+=1 cro  g rest g-.
+=2 cro  e rest Bn-.
+|
+=1 cro c~ rest a-.
+=2 cro  c rest F-.
+/
+4 bars |3b 35| 3 3 3 3 3 3 3 3 5 5 5 4\
+ | 5 5 6 5 4 4 4 4 5 6 5 4| 5 5 5 5 5 5 5 6 5 5 5 4|
+|
+=1 bass 3b cro  g rest bn-.
+=2 bass 3b cro  G rest G-.
+|
+il0.5     88
+=1 cro g rest treble smq [C E D C]
+=2 cro C rest rest
+|
+=1 smq [B_n C B_ A_n] G_ qua. rest smq rest [Bb'-s4 Ab G]
+=2' cro rest smq rest [f e d] c qua. rest
+|
+=1 smq [A B' A G] [F E D C] [B_n-s2 D C B_]
+=2  min. rest
+/
+3 bars |3b 4.5 4.5 6 5 4 4 4 4 4 4 4 4| 4 4 5.5 4 4 4 4 4 4 4 4 4\
+ | 4 4 4 4 5 6 5 4 4 4 4 4|
+|
+=1  treble 3b smq [C D C B_b] A_b qua. rest cro rest
+=2' bass 3b cro rest smq rest [g-s1, f e] [d e d-s1, c]
+|
+=1  min. rest
+=2' smq [Bn c B An] [G A B c] [B d c B]
+|
+=1  cro blank smq rest [A_n B_n C] [D-s1 F E D]
+=2' smq [c d e-s3, f] g qua. rest cro rest
+/
+3 bars |3b 4 4 5.5 5.5 4 4 4 4 4 4 4 4| 5 4 4 4 4 5 6 4 6 4 4 4 | 48|
+|
+=1' treble 3b smq [E G c Bb] [Ab G F E] [D E D C]
+=2  bass 3b min. rest
+|
+=1 smq [B_n-s2 C D E] [D C B_ A_n] cro rest bass
+=2 min rest smq [g ab g f]
+|
+il0.5     96
+=1 qua. rest smq a-s3 [g f e-s3 d,] [c e'-s4 d' c]
+=2 smq [e f g] rest cro. rest qua A-s1,
+/
+3 bars | 3b 4 4 4 4.5 4.5 4.5 5 5 5 5 5 5| 17 21\
+ | 6 5 5 5 4.5 5 5 5 5 5 5 5|
+|
+=1 bass 3b qua Bn [f-. e-.] [g ab bb]
+=2 bass 3b smq [G A F G] [E F <D d'> E] [<C c> D <B_ B> C]
+|
+=1 min c~ qua [d~b c~(1]
+=2 cro. <A_ A> qua [<A_ A> <B_ B> <C c>]
+|
+=1 smq [c~)1 d~b b c~] qua [a c~] smq [f~ g~ e~ f~]
+=2 qua [<F_ F> <C c>] smq [<F f'> G <E e'> F] [<D d'> E <C c'> D]
+
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 6
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars |3b 4 6 4 4 3 3 3 3 3 3 3 3| 3 3 3 3 6 4 4 4 3 3 3 3\
+ | 16 12 12| 3 3 3 3 4 6 4 4 4 4 4 4|
+|
+=1 treble 3b smq rest [G Bn' G] cro d e(1
+=2 treble 3b cro D qua rest cro. G
+|
+=1 cro e)1 smq rest [db f d(1] cro d)1(1
+=2 cro A rest B'
+|
+=1 cro d)1 c dn
+=2 smq rest [E G E] min A
+|
+=1 cro Bn min rest
+=2 cro G smq rest [G Bn' G] [d B, d B,]
+/
+4 bars |3b 12 16 16| 12 16 16| 12 16 16| 20 16 16|
+|
+=1 treble 3b cro rest smq rest [c e c] [f d f d]
+=2 treble 3b cro c smq rest [E G E] cro A
+|
+=1 cro e smq rest [c e c] [f d f d]
+=2 cro G smq rest [E G E] cro A
+|
+=1 cro e smq rest [c e c] [f d f d]
+=2 cro G smq rest [E G E] cro D
+|
+il0.7 .4 80
+=1 smq [e c~ b a] [g f e d] [c e d c]
+=2 cro rest rest G-.
+/
+3 bars |3b 4 4 5 4 4 4 4 4 4 5 4 4| 5 5 5 4 4 4 4 5 4 4 4 4\
+ |4 4 5 4 4 4 4 4 4 4 4 4|
+|
+=1 treble 3b smq [Bn' c' B' An] cro rest smq rest [bb ab g]
+=2 treble 3b cro G smq [G F E D] cro G-.
+|
+=1 smq [a b a g] [f e d c] [Bn, d c B,]
+=2 cro F rest F-.
+|
+=1 smq [c d c Bb,] [A G F E] cro F-.
+=2 cro E rest smq [D E D C]
+/
+3 bars |3b 5 5 6 5 5 5 5 5 5 5 5 5| 5 4 4 4 5 5 4 4 4 4 4 4\
+ |4 4 6 6 4 4 4 4 4 4 4 4|
+|
+=1 treble 3b cro D rest rest
+=2 treble 3b smq [B_n C B_ A_n] [G_ A_ B_ C] [B_ D C B_]
+|
+=1 cro rest smq rest [An, Bn, c] [d f e d]
+=2 smq [C D E F] G qua. rest cro G-.
+|
+=1 smq [e g c~ bb] [ab g f e] [d e d c]
+=2 cro G rest F-.
+/
+4 bars |3b 4 4 4 4 4 4 6 4 6 4 4 4| 16 16 13| 39| 39|
+|
+=1 treble 3b smq [Bn c d e] [d c B, An,] [G Ab G F]
+=2 treble 3b cro D rest D-.
+|
+il0.5     88
+=1 smq [E F G A] cro rest cro c~
+=2 cro C smq [G F E D] cro c
+|
+=1 min g~ cro e~
+=2 min g  cro e
+|
+=1 min f~ cro g~
+=2 min f  cro g
+/
+5 bars | 3b 48| 48| 48| 48| 40|
+|
+=1 treble 3b min a~ cro f~
+=2 treble 3b min a  cro f
+|
+=1 min g~ cro d~
+=2 min g  cro d
+|
+=1 min e~ cro bn
+=2 min e  cro Bn
+|
+=1 min c~ cro f
+=2 min c  cro F
+|
+=1 min. g
+=2 min. G
+/
+4 bars |3b 35| 14 14 12| 5 5 4 5 4 4 4 4 4 5 4 4| 14 12 14|
+|
+il0.5          96
+=1 treble 3b min c cro c~
+=2 treble 3b min C cro c
+|
+=1 min <g g~> cro <e e~>
+=2 qua rest [G An Bn'] cro c(1
+|
+=1 min <f f~> cro <g g~>
+=2 smq [c)1 db Bb, c] [Ab B' G A] [F G En G]
+|
+=1 min <a a~> cro <f f~>
+=2 qua F rest cro rest qua rest An
+
+7 systems 15 /18-23-18/18-24-18 10/18-23-18/18-24-18/18-23-18\
+ /18-23-18/18-23-18 12/
+pagenum 7
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+3 bars |3b 5 7 5 5 5 5 5 6 5 6 4 4| 5 6 5 6 4 4 4 4 4 4 4 4\
+ |4 3.5 4.5 3 5 5 5 6 4 4 4 4|
+|
+=1 bass 3b cro d~(1 smq [d~)1 e~ c~ d~] [bn c~ an b]
+=2 bass 3b smq [<B_n Bn> C <A_n An> B_] min <G_ G>
+|
+=1 smq [c~ d~ bb c~] [ab b g a] [f g e d,]
+=2 cro. <C c> qua <C_ C> cro <D_ D>
+|
+=1 qua c rest rest e smq [f g e f]
+=2 qua [<E_ E> <G_ G>] smq [<C c> D <B_ B> C] cro <A_n An>
+/
+3 bars |3b 4 4 4 6 5 5 5 5 5 5 5 5| 20 16 12| 6 6 4 4 4 4 4 4 7 5 7 4|
+|
+=1 bass 3b smq [d, e c, d,] qua [Bn, d, e f]
+=2 bass 3b qua [<B_n Bn> C] smq [<G_ G> A_ <F_ F> G_] [<E_ E> F_ <D_ D> F_]
+|
+il0.5          104
+=1 smq [g a f g] [e f d, f] qua c rest
+I0.5 .83 p
+=2 smq [[<E_ E> F_ <D_ D> E_] cro <C_ C> rest
+|
+=1 smq smq [g bn an g] cro c~(1 smq [c~)1 d~b c~ bb]
+=2 min. rest
+/
+5 bars |3b 17 18| 34|4 4 4 4 4 3 4 6 3 3 3 3| 16 12 12| 48|
+|
+=1 bass 3b cro. a qua [d~b b c~]
+=2 bass 3b min. rest
+|
+=1 cro f~ rest' a
+=2 min. rest
+|
+=1 smq [g a g f] qua [e smq d, c,] cro Bn-tr
+=2 min. rest
+|
+=1 smq [c e' d' c] cro. g qua rest
+=2 cro rest cro. rest qua G
+|
+=1 cro rest smq rest [b a g] rest [a g f]
+=2 smq [A c B A] qua [e en] qua f rest
+/
+4 bars |3b 48| 12 16 14\
+ | 4 6 4.5 5 5 4 3 4 4 4 4.5 5| 4 4 4.5 5 4.5 4 3 4 6 4.5 5 4|
+|
+=1 bass 3b cro g(1 smq [g)1 g f e] [d f e d]
+=2 bass 3b smq rest [f e d] qua e rest cro Bn
+|
+il0.5          112
+=1 cro e(1 smq [e)1 f e d,] qua c-. rest
+I0.5 .62 pp
+=2 min c qua rest C-.
+|
+=1 smq rest [g bn d~] g~ qua. rest' smq [e g c~ e~]
+=2 min. rest
+|
+=1 smq rest [f a c~] f~ qua. rest' smq [g bn e~ g~]
+=2 min. rest
+/
+4 bars |3b 4.5 4.5 5 5 4.5 4 3 4 4 4 5 4| 4.5 6 4.5 5 4.5 4 3 4 4 5 4.5 4\
+ | 4 4 4 4.5 4.5 4 3 4 4 4 6 4| 4.5 4 4 4 4.5 4 3 4 4 4 4 4|
+|
+=1 bass 3b smq rest [a c~ e~] a~ qua. rest' smq [f a d~ f~]
+=2 bass 3b min. rest
+|
+=1 smq rest [g bn d~] g~ qua. rest' smq [d f bb d~]
+=2 min. rest
+|
+=1 smq rest [e g b] e~ qua. rest' smq [Bn, d g bn]
+=2 min. rest
+|
+=1 smq rest [c, e g] c~ qua. rest' smq [F c d' f']
+=2 min. rest
+/
+5 bars |3b 4 4 4 4 4 4 3 4 7 4 4 4| 5.5 4 4 4 3 3 3 3 3 3 3 3\
+ | 6 7 4.5 4 3 3 3 3 3 3 3 3\
+ | 6 4 4.5 4 3 3 3 3 3 3 3 3| 6 4.5 5 4 3 3 3 3 3 3 3 3|
+|
+=1 bass 3b smq rest [G c e'] g qua. rest smq [G Bn d' g']
+=2 bass 3b min. rest
+|
+il0.5          120
+=1 smq rest [c, e g] min rest
+i0.2 .03 una corda . . .
+=2 smq C qua. rest min rest
+|
+=1 smq rest [g bn d~] min rest
+=2 smq G qua. rest min rest
+|
+=1 smq rest [f a c~] min rest
+=2 smq F qua. rest min rest
+|
+=1 smq rest [a c~ e~] min rest
+=2 smq A qua. rest min rest
+/
+5 bars |3b 6 6.5 4.5 4.5 3 3 3 3 4.5 4 3 3| 5.5 4 4.5 4.5 3 3 3 3 4.5 3 3 3\
+ | 5.5 4 4 4 3 3 3 3 4.5 4 4 4| 6 4.5 5 4.5 3 3 3 3 4.5 4 3 3\
+ | 5.5 4.5 4 3 3 3 3 3 4 3 4 3|
+|
+=1 bass 3b smq rest [g bn d~] cro rest smq d~ qua. rest
+=2 bass 3b smq G qua. rest min rest
+|
+=1 smq rest [e g c~] cro rest smq bn qua. rest
+=2 smq E qua. rest min rest
+|
+=1 smq rest [c, e g] cro rest smq f qua. rest
+=2 smq C qua. rest min rest
+|
+=1 smq rest [g c~ e~] cro rest smq g qua. rest
+=2 smq G qua. rest min rest
+|
+il0.5          128
+=1 min rest qua rest g
+I0.5 .62 ff
+=2 smq [c, c~] qua rest cro rest <C c>
+i0.7 .62 tre corde
+
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 8
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars |3b 4 4 4 6 4 6 4 4 6 4 4 4| 7 7 7 7 8 8| 16 16 12| 16 13 13|
+|
+=1 treble 3b min <g g~> cro <d d~>
+=2 treble 3b smq [d e c d] [Bn' c' An B'] [G Ab F G]
+|
+=1 min <e e~> cro <Bn, bn>
+=2 qua [E G c' Bb'] [A smq G F]
+|
+=1 min <c c~> cro f
+=2 smq [G A F G] [E F D E] qua [C F(2]
+|
+=1 min. <G, g>
+=2 smq [F)2 rest, E F] qua [D B_n C B_]
+/
+5 bars |3b 12 12 16| 12 16 12| 14 8 8 8 8 8\
+ | 4 4 4 4 4 4 4 4 5.5 4 4 4| 12 16 16|
+|
+il0.5        104
+=1 treble 3b min c cro rest
+I0.5 .62 p
+=2 treble 3b min C smq [C E D C]
+|
+=1 cro rest smq [c e d c] cro g
+=2 min G cro E
+|
+=1 smq [c en dn c] cro. f qua e
+=2 cro F(2 smq [F)2 A G F] [G B' A G]
+|
+=1 smq [f a g f] cro c~(1 smq [c~)1 eb d c]
+=2 cro A(2 smq [A)2 B' A G] cro F
+|
+=1 cro Bn, c d
+=2 cro G(2 smq [G)2 G F E] [D F E D]
+/
+4 bars |3b 4 3 4 3 4 6 6 6 4.5 4.5 5 4| 12 16 16\
+ | 12 16 12| 6 6 4.5 4.5 4 3 4 3 4 4 4 4|
+|
+=1 treble 3b qua [G, c(1] smq [c)1 c Bn, An,] qua [G F]
+=2 treble 3b cro E(2 smq [E)2 E D C] [B_n D C B_]
+|
+=1 qua [E Ab(2] smq [A)2 G c' B'] [A, f g a]
+=2 cro C min rest
+|
+=1 cro Bn smq [c e d c] cro g(1
+=2 min. rest
+|
+il0.8      112
+=1 smq [g)1 bn an g] qua [c~ c] smq rest [g e c]
+I0.5 .62 pp
+=2 min. rest
+/
+4 bars |3b 14 16 16| 4 3 4 3 4 4 4 4 4 4 5.5 4\
+ | 14 16 16| 4 3 4 3 4 4 4 4 4 4 5.5 4|
+|
+=1 treble 3b min. rest
+=2 treble 3b qua [Bn'-. G-.] smq rest [B, d g] rest [g e c]
+|
+=1 min. rest
+=2 qua [a-. f-.] smq rest [A, c f] rest [g e Bn,]
+|
+=1 min. rest
+=2 qua c-. rest smq rest [c e a] rest [a f d]
+|
+=1 min. rest
+=2 qua [Bn'-. G-.] smq rest [B, d g] rest [a f Bb]
+/
+4 bars |3b 14 16 16| 14 16 16| 4 3 4 3 4 4 4 5 4 4 4 4| 14 16 16|
+|
+=1 treble 3b min. rest
+=2 treble 3b qua [g-. e-.] smq rest [G, c e] rest [f d G,]
+|
+=1 min. rest
+=2 qua [e-. c-.] smq rest [E G c'] rest [A F D]
+|
+=1 min. rest
+=2 qua [E-mordent-. C-.] smq rest [C E G] [B_n D F B_]
+|
+il0.7     120
+=1 qua E rest cro rest smq [c e g c~]
+i0.5 .03 una corda . . .
+=2 qua C rest smq [C E G c'] cro rest
+/
+4 bars |3b 3 3 3 3 6 4 4 4 4 4 4 4| 3 3 3 3 4 4 4 4 4 4 6 4\
+ | 3 3 3 3 4 4 4 4 4 4 5 4| 3 3 3 3 6 4 4 4 4 4 5 4|
+|
+=1 treble 3b cro rest qua rest smq [d g] qua rest smq [g c~]
+=2 treble 3b cro rest smq [G Bn'] qua rest smq [E c'] qua rest
+|
+=1 cro rest qua rest smq [c f] qua rest smq [g bn]
+=2 cro rest smq [F A] qua rest smq [G, e] qua rest
+|
+=1 cro rest qua rest smq [e a] qua rest smq [a c~]
+=2 cro rest smq [A c'] qua rest smq [F d'] qua rest
+|
+=1 cro rest qua rest smq [d g] qua rest smq [f bn]
+=2 cro rest smq [G Bn'] qua rest smq rest d qua rest
+/
+4 bars |3b 3 3 3 3 4 4 4 4 4 5 4 4| 3 3 3 3 4 4 4 4 4 5 4 4\
+ | 3 3 3 3 4 4 4 4 4 4 6 4| 7 8 8 8 8 7|
+|
+=1 treble 3b cro rest qua rest smq [c e] qua rest smq [d f]
+=2 treble 3b cro rest smq [E G] qua rest smq rest G qua rest
+|
+=1 cro rest qua rest smq [G c'] qua rest smq [A, f]
+=2 cro rest smq [C E] qua rest smq rest D qua rest
+|
+=1 cro rest qua rest smq [e g] qua rest smq [f bn]
+=2 cro rest smq [G c'] qua rest smq rest d' qua rest
+|
+il0.5    128
+=1 cro rest smq rest [e g c~] qua rest c
+I0.5 .69 ff
+=2 qua rest smq [E G] c' qua. rest qua rest <C E G>
+i0.5 .69 tre corde
+
+6 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 9
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars |3b 12 | 12 |
+|
+=1 bass 3b min g qua rest g
+=2' bass 3b min G cro <E e>
+|
+=1 min f qua [g g]
+=2' min F cro G
+|
+=1 min a qua rest d~
+=2 min A cro <F f'>
+|
+=1 min g qua rest g
+=2' min G cro <D d>
+/
+3 bars |3b 54 | 54 | 54 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  4.5 4.5 4.5 7 5.5 5.5 |
+|
+=1  bass 3b min e qua rest g
+=2' bass 3b min E cro <B_n Bn>
+|
+=1  min rest qua rest d~
+=2' min <C c> cro <F_ F>
+|
+=1 min rest qua rest d~
+=2' min. <G_ G>
+|
+il0.5          136
+=1 min rest treble qua C smq3 [G Fn-I3 E]
+=2 min <C_ C> cro c
+/
+2 bars |3b 4 4 4 5 5 4.5  4.5 4.5 4.5 4.5 4 4  4 4 4 4 4 4 | 72 |
+|
+=1 treble 3b smq3 [E D-I3 C] [C B_n A_n] [G_ A_ B_] [B_ C D] [C D E] [E F G]
+=2 bass 3b cro g rest e
+|
+=1 smq3 [F G-I3 A] [A G F] [F E D] [D E F] [F G A] qua3 [G smq3 F]
+=2 min f cro g
+/
+4 bars |3b 13 11 11| 33| 11 11 13\
+ | 5.5 5.5 5.5 5.5 5.5 5.5 6.5 6 4 4 4 4 4 4 4 4 6 4|
+|
+=1 treble 3b qua E rest min rest
+=2 bass 3b min a cro f
+|
+=1 min. rest
+=2 min g cro d
+|
+=1 min rest bass qua rest g~(1
+=2 min e cro Bn
+|
+=1 smq3 [g~)1 f~-I3 e~] [e~ d~ c~] [c~ bb ab] [a g f] [f e d,] [d' c Bn]
+=2 min c cro F
+/
+2 bars |3b 5 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4 4\
+ | 4 4 4 4 3 4 4 4 4.5 4.5 4.5 4 4 3 4 4 3 4|
+|
+=1  bass 3b smq3 [Bn An G] rest [A B] [B c d'] [d, e f] [f g ab] [g a f]
+=2 bass 3b smq G rest qua G(2 min G)2
+|
+il0.5          144
+=1 smq3 [e f d,] qua c smq3 [G F E] [E D C] qua rest c
+I0.4 .85 p
+=2 min C cro C
+/
+5 bars |3b 16 16 20| 16 16 20| 20 16 20\
+ | 9 8 8 8  6 6 8 8  6 6 6 6| 12 17 10 10 12 12|
+|
+=1 bass 3b min g qua rest e
+=2 bass 3b min. rest
+|
+=1 min f cro d~(1
+=2 min rest qua rest g
+|
+=1 qua d~)1 cro. c~ qua rest d~
+=2 min a qua rest f
+|
+=1  smq [c~(1 bn)1 c~ b] qua [c~ smq d~ e~] cro b'(1
+=1, min blank qua rest, d
+=2  min g cro rest
+|
+=1 qua [b')1 smq c~' d~'] cro e~' qua rest d~
+=1, min e
+=2 min rest qua rest Bn
+
+7 systems 15 /18-24-18 10 /18-24-18/18-22-18/18-24-18/18-22-18\
+ /18-22-18/18-24-18 15/
+pagenum 10
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars |3b 9 9 12 13 13 9 9 9 7 7 7 7| 12 9 9 13 12 9 9 12 7 7 7 7\
+ | 9 9 12 9 9 9 9 9 7 7 7 7| 9 9 12 13 13 9 9 13 7 7 7 7|
+|
+=1' treble 3b qua rest' cro. d(1 qua [d-.)1 c]
+=1, 3b smq rest, [c d An] cro Bn(2 qua [B)2 c]
+=2' treble 3b cro rest  qua rest' G(1 [G-.)1 G]
+=2, 3b cro blank smq rest, [F# G D] qua [E <C E>]
+|
+=1' qua rest' cro. c(1 qua [c-.)1 Bn]
+=1, smq rest, [Bb c G] cro Ab qua [G G]
+=2' cro rest  qua rest' F [Eb-. F]
+=2, cro blank smq rest, [En F C(2] qua [C)2 D]
+|
+=1' qua rest' cro. e(1 qua [e-.)1 d]
+=1, smq rest, [d e Bn] cro c(2 qua [c)2 cr]
+=2' cro rest  qua rest' A(1 [A-.)1 A]
+=2, cro blank smq rest, [G A E] qua [F-. F]
+|
+=1' qua rest' cro. d(1 qua [d-.)1 f]
+=1, smq rest, [c d An] cro Bn(2 qua [B)2 B]
+=2' cro rest  qua rest' G [Fn-. F]
+=2, cro blank smq rest, [F# G D(2] qua [D)2 D]
+/
+4 bars |3b 13 9 9 9 12 9 9 9 7 7 7 7| 9 9 9 9 12 9 9 9 7 7 7 7\
+ |9 9 9 9 12 9 12 9 7 7 7 7| 9 9 9 9 12 9 12 9 14 14 14 14|
+|
+=1' treble 3b qua rest' cro. g(1 qua [g-.)1 fn]
+=1, 3b smq rest, [f# g d] cro e qua [d d]
+=2' treble 3b cro rest qua rest' c(1 [c-.)1 c]
+=2, 3b cro blank smq rest, [Bn c G] qua [A-. A]
+|
+=1' qua rest' cro. g(1 qua [g-.)1 f]
+=1, smq rest, [f g d] cro e(2 qua [e)2 d]
+=2' cro rest  qua rest' c(1 [c-.)1 c]
+=2, cro blank smq rest, [Bn c G] qua [A-. A]
+|
+=1' qua rest' cro. g(1 qua [g-.)1 fn]
+=1, smq rest, [f g d] cro e qua [d d]
+=2' cro rest  qua rest' c(1 [c-.)1 B]
+=2, cro blank smq rest, [Bn c F#] qua [G-. G]
+|
+il0.9          136
+=1' qua rest'' cro. g(1 smq3 [g)1 f-I3 e] [[e d-I3 c]
+=1, smq rest [f g d] cro. e qua rest,
+=2' cro rest  qua rest' c(1 smq c-)1 qua. rest
+=2, cro blank smq rest, [Bn c F#] G qua. blank
+/
+2 bars |3b 5 5 4 4 4 4  4 4 4 4 4 4 4 4 4 5 5 4| 24 24 18|
+|
+=1, treble 3b smq3 [c Bn An] [A B c] [B c d] [d e f] [e f g] [g ab bb]
+=2 treble 3b min. rest
+|
+=1, smq3 [a g f] [f e d] [d e f] [f g a] cro Bn-tr
+=2  min. rest 
+/
+2 bars |3b 4.5 4.5 4.5 4 4 4  4 4 4 4 4 4  4 5 4.5 5 5 4\
+ | 5 5 4 4 4 4.5  4 4 4 4 4 4  4 4 4 4 4 4|
+|
+=1  treble 3b smq3 [c~ b a] [a g f] [f e d] [d e f] [f g an] [a bn c~]
+=2' treble 3b qua rest smq3 [c B-I3 A] [A G F] [F E D] [D E F] [F G Ab]
+|
+=1 qua. [bn dsq3 blank smq3 an] qua b smq3 [f g a] [a g f] [f e d]
+=2 smq3 [G An Bn'] [B, c d] [d e f] qua rest rest B_n
+/
+2 bars |3b 4 4 4 4 4 4  5 5 4 4 4 4  4 4 4 4 4 4\
+ | 4 3 3.5 4 4 4  4 4 4.5 4.5 4.5 4.5  4 4 4 4 4 4|
+|
+=1 treble 3b cro g rest smq3 [d e f] [e f d]
+=2 treble 3b smq3 [C D E] [E F G] [G An Bn'] [B, c d] cro rest
+|
+=1 qua e smq3 [g f e] [e d c] [c~ b a] [a g f] [f e d]
+=2 min. rest
+/
+3 bars |3b 4 5.5 4 4 4 4  4 4 4 4 4 4.5 4 3 4 3 3 4\
+ | 4 3 3 4 4 4  4 4 4.5 4 3 4  3 3 3 3 3 3| 4 4 6 5  4 4 5 5  4 4 4 4|
+|
+=1  treble 3b smq3 [d c Bn,] [B, c d] [d e f] [f g a] \
+ qua3. [Bn,-tr smq3 blank blank c]
+=2  treble 3b min. rest
+|
+il0.5          144
+=1 qua c rest cro rest c(1
+I0.5 .7 p
+=2 qua rest smq3 [G F E] [E D C] qua C cro <E(2 G(1>
+|
+=1' qua [c)1 smq Bn An] qua [B smq c d] cro e(1
+=1, min blank qua rest, c
+=2' min G)1
+=2, qua [E)2 smq D C] qua [D smq E F] cro G(1
+/
+4 bars |3b 12 12 10 12 10 10| 5 5 8 6 5 5 6 6 5 5 5 5\
+ | 10 12 10 12 10 10| 5 5 8 6 5 5 6 6 5 5 5 5|
+|
+=1' treble 3b qua [e)1 smq d c] qua [d smq e f] cro Bn(1
+=1, 3b smq [B qua. A(2] cro A)2 blank
+=2 treble 3b qua [G)1 smq F E] qua [F smq G A] qua rest G
+|
+=1, qua [B)1 smq c Bn] qua [d smq d e] cro f(1
+=2 qua [F smq E D] qua [E smq F G] cro A
+|
+=1  qua [f)1 smq e d] qua [e smq f g] cro d(1
+=2  min G qua rest F
+|
+=1, qua [d)1 smq c Bn] qua [c smq d e] cro f(1
+=2  cro. G smq [F G] cro A(2
+
+6 systems 5 /18-24-18/18-26-18/18-24-18/18-39-18\
+ /18-42-18/18-24-18 25/
+pagenum 11
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+3 bars |3b 3 3 3 3  3 3 4.5 4  4 3 4 3| 4 3 4 4 4 3 4 4 4 3 4 3\
+ | 4 3 4 4 4 3 4 4.5 4 3 4 3|
+|
+=1 bass 3b cro. c~ treble smq [D En] cro F(2
+=2 bass 3b min c qua rest F
+|
+=1 qua [F)2 smq Eb D] qua [E smq D C] qua [G F(2]
+=2 min G qua rest G
+|
+il0.6       152
+=1 qua [F)2 smq E D] qua [E smq E D] qua [C E(2]
+I0.3 .6 ff
+=2 min C cro <C c'>
+/
+3 bars |3b 16 12 16| 12 16 12| 16 12 16|
+|
+=1 treble 3b smq [E)2 F E D] cro E(2 smq [E)2 F E D]
+=2' bass 3b min <G g> cro <E e>
+|
+=1 cro E(2 smq [E)2 F E D] cro E(2
+=2' min <F f> cro <G g>
+|
+=1 smq [E)2 F E D] cro E(2 smq [E)2 F E D]
+=2' min <A a> cro <F f>
+/
+4 bars |3b 12 16 12| 4 4 4 4.5 3 3 3 3 3 3 3 3| 36| 12 12 14|
+|
+=1 treble 3b cro E(2 smq [E)2 E D C] cro D(2
+=2' bass 3b min <G g> cro <D d>
+|
+=1 smq [D)2 F E D] cro C D(2
+=2' min <E e> cro <B_n Bn>
+|
+=1 cro D)2 min C
+=2' min <C c> cro <F_ F>
+|
+=1 cro B_n C qua [D G_(2]
+=2' min. <G_ G>
+/
+3 bars |3b 12 16 14| 4 4.5 5.5 4.5 4 4 4 4.5 4.5 4.5 5 4\
+ | 4 4 4 4.5 4 4.5 5.5 4.5 4 4 4 4|
+|
+il0.5 .2 160
+=1 treble 3b cro G_)2(2 smq [G_)2 A_ G_ F_] qua E_-. C-s2(2
+=2' 3b min <C_ C> cro <C c>
+|
+=1' cro rest' smq [E F E D] cro E(1
+=1, smq [C)2 D C B_n] cro C(2 smq [C)2 D C B_]
+=2' min <G g> cro <E e>
+|
+=1' smq [E)1 F E D] cro E(1 smq [E)1 F E D]
+=1, cro C(2 smq [C)2 D C B_n] cro C
+=2' min <F f> cro <G g>
+/
+3 bars |3b 4 4 5.5 4.5 4 4 4 4.5 4.5 4.5 5 4| 4 4 4 4.5 4 4.5 4 4 4 3 4 3\
+ | 4 4 4 4.5 5 5.5 5.5 4.5 5 4 4 4|
+|
+=1' treble 3b qua. rest' smq F [E F E D] cro E(1
+=1, 3b smq [C D C B_n] cro C(2 smq [C)2 D C B_]
+=2' bass 3b min <A a> cro <F f>
+|
+=1' smq [E)1 F E D] [E E F G] qua [A-. F-ten]
+=1, cro C(2 smq [C)2 C D E] qua [F F_]
+=2' min <G g> cro <D d>
+|
+=1' smq [E F E D] cro E smq [F Ab G F]
+=1, cro C(2 smq [C)2 C B_n A_n] cro D
+=2' min <E e> cro <B_n Bn>
+/
+3 bars |3b 5 5 5 5 6 4 4 4.5 5 5 6 4| 4 4 4 4 5 5 6 4.5 5 5 4.5 4.5\
+ | 12 16 12 ||
+|
+=1' bass 3b smq [e~ f~ e~ d~] cro c~(1 smq [c~)1 d~ c~ bn]
+=1, 3b cro g(2 smq [g)2 bb a g] cro f
+=2' bass 3b min <C c> cro <F_ F>
+|
+=1' cro c~(1 smq [c~)1 d~ c~ bn] [c~ d~ c~ b]
+=1, smq [e f e d] qua. [e smq f] [g f g ar]
+i0.1   molto rit . . .
+=2' min. <G_ G>
+|
+=1' cro c~(1 smq [c~)1 a g f] cro c~-fermata
+=1, cro g(2 smq [g)2 f e d] cro <c e g>
+=2' min. C
+=2, min C_ cro C_
+i0.9 .8 segue
+
+6 systems 5 /18-21-18/18-21-18/18-24-18 5/18-24-18 10\
+ /18-24-18 5/18-24-18 15/
+pagenum 12
+innerhead Passacaglia and Fugue, BWV582, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars |3b 7 8 7 8 7 7|7 8 7 8 7 8\
+ | 4 3 4 3 4 3 5.5 4.5 4 3 4 3| 3 3 3 3 5 5 6 5 3 3 3 3|
+|
+=1 treble 3b qua [f)1 smq e d] qua [e smq f g] cro a(1
+=2 treble 3b qua [A)2 smq G F] qua [G smq A B'] qua [c d]
+|
+=1 qua [a)1 smq g f] qua [g smq f e] qua [e smq d c]
+=2 cro Bn cro. c qua B
+|
+il0.5   152
+=1 cro. c smq [c~ b] qua [c~-. c~(1]
+I0.7 .65 ff
+=2 qua rest cro G-emph smq [G F] qua [E <G(2 c'(1>]
+|
+=1  cro c~)1(1 smq [c~)1 d~ c~ bn] cro c~(1
+=2' cro c)1(1 smq [c)1 d c Bn] cro c(1
+=2, min G)2 cro G
+/
+3 bars |3b 5 5 6 5 3 3 3 3 5 5 5 4| 3 3 3 3 5 5 6 5 3 3 3 3\
+ | 5 5 6 5 4 3 6 5 5.5 4 4 4|
+|
+=1  treble 3b smq [c~)1 d~ c~ bn] cro c~(1 smq [c~)1 d~ c~ b]
+=2' treble 3b smq [c)1 d c Bn] cro c(1 smq [c)1 d c B]
+=2, 3b min A cro G(2
+|
+=1  cro c~(1 smq [c~)1 d~ c~ bn] cro c~(1
+=2' cro c(1 smq [c)1 d c Bn] cro c(1 
+=2, min G)2 cro A
+|
+=1  smq [c~)1 d~ c~ bn] qua [c~ smq b an] cro b(1
+=2' smq [c)1 d c Bn] qua [c smq B An] cro B(1
+=2, min G(2 smq [G)2 Ab G F]
+/
+3 bars |3b 5 5 6 5 5.5 4 4 5 5 5 5 5| 16 20 16| 4 4 4 4 5 5 5 5 5 5 6 4|
+|
+=1  treble 3b smq [c~)1 d~ c~ bn] qua. [c~ smq e~] smq [d~ f~ e~ d~]
+=2' treble 3b smq [c)1 d c Bn] qua. [c smq e] smq [d f e d]
+=2, 3b cro G(2 smq [G)2 Ab G F] cro G(2
+|
+=1  cro e~(1 smq [e~)1 <g g~> f~ e~] cro <a a~>
+=2' cro e(1 smq [e)1 rest' f e] cro rest'
+=2, smq [G)2 A G F] cro G(2 smq [G)2 A G F(2]
+|
+=1  cro d~(1 smq [d~)1 <e e~> d~ c~(1] [c~)1 d~ c~ bn]
+=2' cro d(1 smq [d)1 rest' d c(1] [c)1 d c Bn]
+=2, smq [F)2 A G F(2] cro E F(2
+/
+3 bars |3b 16 16 14| 5 5 5 5 5 5 6 5 5 5 5 5| 5 5 6 5 5 5 5 5 5 5 5 5|
+|
+il0.7 .3 160
+=1  treble 3b cro c~ rest' qua rest' e~-s4(1
+=2' treble 3b cro c rest' qua rest' e-blank,-s2,(1
+=2, 3b smq [F)2 A G F] [E F E D] qua C-., rest,
+|
+=1' smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+=1, cro rest smq [c~ d~ c~ bn] cro c~(2
+=2' smq [e)1 f e d] cro e(1 smq [e)1 f e d]
+=2, cro rest, smq [c d c Bn] cro c(2
+|
+=1' cro e~(1 smq [e~)1 f~ e~ d~] cro e~(1
+=1, smq [c~)2 d~ c~ bn] cro c~(2 smq [c~)2 d~ c~ b]
+=2' cro e(1 smq [e)1 f e d] cro e(1
+=2, smq [c)2 d c Bn] cro c(2 smq [c)2 d c B]
+/
+3 bars |3b 5 5 5 5 5 5 6 5 5 5 5 5| 5 5 6 5 5 5 5 5 4 3 4 3\
+ | 5 5 6 5 5 5 5 5 5 5 5 5|
+|
+=1' treble 3b smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+=1, 3b cro c~(2 smq [c~)2 d~ c~ bn] cro c~(2
+=2' treble 3b smq [e)1 f e d] cro e(1 smq [e)1 f e d]
+=2, 3b cro c(2 smq [c)2 d c Bn] cro c(2
+|
+=1' cro e~(1 smq [e~)1 g~ f~ e~] qua [d~-. a~-ten]
+=1, smq [c~)2 d~ c~ bn] [c~ e~ d~ c~] qua [b b]
+=2' cro e(1 smq [e)1 g f e] qua [d-. a]
+=2, smq [c)2 d c Bn] [c e d c] qua [B B]
+|
+=1' cro g~(1 smq [g~)1 a~ g~ f~] cro g~(1
+=1, smq [c~ d~ c~ bn] cro c~ smq [d~ f~ e~ d~]
+=2' cro g(1 smq [g)1 a g f] cro g(1
+=2, smq [c d c Bn] cro c smq [d f e d]
+/
+3 bars |3b 5 5 5 5 5 5 6 5 5 5 5 4| 4.5 4.5 4 4 5 5 5 5 5 5 5 5\
+ | 5 5 6 5 5 5 5 5 4 3 3 3 ||
+|
+=1' treble 3b smq [g~)1 a~ g~ f~] cro e~(1 smq [e~)1 f~ e~ d~]
+=1, 3b cro c~(2 smq [c~)2 d~ c~ bb] cro a
+=2' treble 3b smq [g)1 a g f] cro e(1 smq [e)1 f e d]
+=2, 3b cro c(2 smq [c)2 d c Bb] cro A
+|
+=1' cro e~(1 smq [e~)1 f~ e~ d~] [e~ f~ e~ d~]
+=1, smq [g a g f] qua. [g smq a] [g a g f]
+i0.8  molto rit . . .
+=2' cro e(1 smq [e)1 f e d] [e f e d]
+=2, smq [G A G F] qua. [G smq A] [G A G F]
+|
+=1' smq [c~ d~ c~ bn] [c~ b c~ <b d~>] cro <c~ e~-fermata>
+=1, smq [e f e d] [e d e f] cro g
+=2' smq [c d c Bn] [c B c <B d>] cro <c e-fermata>
+=2, smq [E F E D] [E D E F] cro G
+i0.5 .8 segue
+@
+
+
+1.15
+log
+@space pages 9&10, to bar 149
+@
+text
+@d1230 2
+a1231 2
+6 systems 5 /18-24-18/18-24-18/18-24-18/18-39-18\
+ /18-38-18/18-24-18 25/
+d1236 2
+a1237 1
+3 bars |3b 12 | 12 |
+d1245 1
+a1245 1
+il0.9       152
+d1247 1
+a1247 1
+I0.5 .35 ff
+d1250 1
+a1250 1
+3 bars |3b 12 | 12 |
+d1261 1
+a1261 1
+4 bars |3b 12 | 12 | 10 | 10 |
+d1275 2
+a1276 1
+3 bars |3b 12 | 12 |
+d1278 2
+a1279 2
+il0.6   160
+=1 treble 3b cro G_)2(2 smq [G_)2 A_ G_ F_] qua E_-. C(2
+d1290 2
+a1291 1
+3 bars |3b 12 | 12 |
+d1305 2
+a1306 1
+3 bars |3b 12 | 12 | 12 ||
+d1317 2
+a1318 2
+=1' cro c~(1 smq [c~)1 a g f] cro <g c~-fermata>
+=1, cro g(2 smq [g)2 f e d] cro <c e>
+d1321 1
+d1329 2
+a1330 1
+4 bars |3b 12 | 12 |
+d1347 2
+a1348 1
+3 bars |3b 12 | 12 |
+d1362 1
+a1362 1
+3 bars |3b 12 | 12 |
+d1368 2
+a1369 2
+=1  cro e~(1 smq [e~)1 g~ f~ e~] cro a~
+=2' cro e(1 smq [e)1 g f e] cro a
+d1372 2
+a1373 2
+=1  cro d~(1 smq [d~)1 e~ d~ c~(1] [c~)1 d~ c~ bn]
+=2' cro d(1 smq [d)1 e d c(1] [c)1 d c Bn]
+d1376 1
+a1376 1
+3 bars |3b 12 | 12 |
+d1378 3
+a1380 3
+il0.7      160
+=1  treble 3b cro c~ rest' qua rest' e~(1
+=2' treble 3b cro c rest' qua rest' e(1
+d1389 1
+a1389 1
+=1, smq [c~ d~ c~ bn] cro c~(2 smq [c~)2 d~ c~ b]
+d1391 1
+a1391 1
+=2, smq [c d c Bn] cro c(2 smq [c)2 d c B]
+d1393 2
+a1394 1
+3 bars |3b 12 | 12 |
+d1403 1
+a1403 1
+=2' cro e(1 smq [e)1 g f e] qua [d-. a-ten]
+d1411 2
+a1412 1
+3 bars |3b 12 | 12 | 12 ||
+d1429 1
+@
+
+
+1.14
+log
+@space pages 7&8, to bar 128
+@
+text
+@d339 1
+a339 1
+7 systems 15 /18-23-18/19-23-18/18-23-18/18-24-18/18-24-18 9\
+d569 1
+a569 1
+7 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+d784 1
+a784 1
+7 systems 15 /18-23-18/19-24-18 10/18-23-18/18-24-18/18-23-18\
+d1010 2
+a1011 1
+4 bars |3b 12 16 16| 12 16 16| 3 3 3 3 4 4 4 4 4 4 6 4| 7 8 8 8 8 7|
+d1020 1
+a1020 1
+=2 cro rest smq [G c'] qua rest smq rest d qua rest
+d1028 1
+a1028 1
+6 systems 15 /19-24-18/18-24-18/18-24-18/18-24-18\
+d1034 1
+a1034 1
+5 bars |3b 12 | 12 |
+d1036 2
+a1037 2
+=1 bass 3b min rest qua rest g
+=2' bass 3b min <G g> cro <E e>
+d1039 2
+a1040 2
+=1 min rest qua rest g
+=2' min <F f> cro <G g>
+d1042 2
+a1043 2
+=1 min rest qua rest d~
+=2 min <A, a> cro <F f'>
+d1045 5
+a1049 2
+=1 min rest qua rest g
+=2' min <G g> cro <D d>
+d1051 2
+a1052 4
+=1  min rest qua rest g
+=2' min <E e> cro <B_n Bn>
+/
+3 bars |3b 12 | 12 | 2 2 2 2 3 4 |
+d1054 2
+a1055 2
+=1 bass 3b min rest qua rest d~
+=2' bass 3b min <C c> cro <F_ F>
+d1064 1
+a1064 1
+2 bars |3b 12 | 12 |
+d1070 1
+a1070 1
+=2' min f cro g
+d1072 2
+a1073 1
+4 bars |3b 12 | 12 | 12 | 24 |
+d1084 1
+a1084 1
+=1 smq3 [g~)1 f~ e~] [e~ d~ c~] [c~ bb ab] [a g f] [f e d,] [d' c Bn]
+d1087 2
+a1088 1
+2 bars |3b 18 | 3 2 3 3 2 2 |
+d1090 2
+a1091 2
+=1  bass 3b smq3 [Bn An G] [G A B] [B c d'] [d, e f] [f g ab] [g a f]
+=2 bass 3b min. G
+d1098 2
+a1099 1
+5 bars |3b 9 | 9 | 9 | 4 4 3 | 4 3 3 |
+d1110 7
+a1116 5
+=1  smq [c~(1 bn)1 c~ b] qua [c~ smq d~ e~] cro b(1
+=2  min g qua rest d
+|
+=1 qua [b)1 smq c~ d~] cro e~ qua rest d~
+=2 min e qua rest Bn
+d1118 2
+a1119 2
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+d1124 2
+a1125 1
+4 bars |3b 12 | 12 |
+d1147 2
+a1148 1
+4 bars |3b 12 | 12 |
+d1171 1
+a1171 1
+2 bars |3b 12 | 12 |
+d1179 2
+a1180 1
+2 bars |3b 12 | 12 |
+d1185 2
+a1186 2
+=1 qua. [bn dsq3 blank smq3 an] qua b rest smq3 [a g f] [f e d]
+=2 smq3 [G An Bn'] [B, c d] [d e f] [f g a] qua rest B_n
+d1188 2
+a1189 1
+2 bars |3b 12 | 12 |
+d1197 2
+a1198 1
+3 bars |3b 6 6 4 | 2 3 3 2 2 2 | 12 |
+d1214 2
+a1215 1
+4 bars |3b 12 | 4 4 3 | 4 4 3 | 4 4 3 |
+d1218 2
+a1219 2
+=1, 3b smq [Bb(2 qua. Ab)2(2] cro A)2 blank
+=2 treble 3b qua [G)1 smq F E] qua [F smq G A] qua rest G(1
+d1222 1
+a1222 1
+=2 qua [F)1 smq E D] qua [E smq F G] cro A
+d1230 1
+a1230 1
+6 systems 5 /19-24-18/18-24-18/18-24-18/18-39-18\
+@
+
+
+1.13
+log
+@space pages 5&6, to bar 99
+@
+text
+@d631 1
+a631 1
+il0.5          88
+d641 1
+a641 1
+3 bars |3b 5 5 7 5 4 4 4 4 4 4 4 4| 4 4 4 6 4 4 4 4 4 4 4 4\
+d653 1
+a653 1
+3 bars |3b 4 4 6 6 4 4 4 4 4 4 4 4| 5 4 4 4 4 5 6 4 6 4 4 4 | 48|
+d665 2
+a666 1
+3 bars | 3b 12 15 15| 17 21| 7 5 5 5 4 5 5 5 5 5 5 5|
+d784 2
+a785 2
+7 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+d790 2
+a791 1
+3 bars |3b 12 | 12 |
+d802 1
+a802 1
+4 bars |3b 12 | 12 | 10 |
+d805 1
+a805 1
+=2 bass 3b qua [<B_n Bn> <C c>] smq [<G_ G> A <F_ F> G_] [<E_ E> F_ <D_ D> E_]
+d809 1
+a809 1
+I0.5 .67 p
+a813 3
+|
+=1 cro. ab qua [d~b b c~]
+=2 min. rest
+d815 1
+a815 1
+4 bars |3b 9 | 12 |
+d817 1
+a817 1
+=1 bass 3b cro f~ rest' a
+d820 3
+d832 2
+a833 1
+4 bars |3b 12 | 12 |
+d849 2
+a850 1
+4 bars |3b 12 | 12 |
+d864 3
+a866 1
+5 bars |3b 12 | 12 |
+d868 1
+a868 1
+=1 bass 3b smq rest [G c e'] g qua. rest' smq [G Bn d' g']
+d871 1
+a871 1
+il0.3          120
+d874 1
+a874 1
+=2 smq C qua rest min rest
+d885 3
+a887 1
+5 bars |3b 12 | 12 |
+d902 1
+a902 1
+=1 smq rest c~ qua rest cro rest qua rest g
+d904 2
+a905 2
+i0.5 .62      tre corde
+=2 smq c qua. rest cro rest <C c>
+d913 1
+a913 1
+4 bars |3b 12 | 12 |
+d927 2
+a928 1
+5 bars |3b 3 3 4 | 3 4 3 | 12 | 12 | 3 4 4 |
+d947 2
+a948 1
+4 bars |3b 12 | 12 |
+d959 1
+a959 1
+il0.7     112
+d964 2
+a965 1
+4 bars |3b 12 | 12 |
+d979 1
+a979 1
+4 bars |3b 12 | 12 |
+d995 2
+a996 1
+4 bars |3b 12 | 12 |
+d1010 1
+a1010 1
+4 bars |3b 12 | 12 |
+d1021 1
+a1021 1
+il0.5          128
+@
+
+
+1.12
+log
+@space pages 3&4, to bar 72
+@
+text
+@d345 1
+a345 1
+4 bars | 3b 13 16 16| 13 16 16| 13 13 16| 8 9 7 8 7 6|
+d360 1
+a360 1
+4 bars |3b 16 12 12| 16 14 14| 16 14 14| 4 4 4 4 4 3 4 7 4 3 4 3|
+d371 3
+a373 3
+=1 bass smq d~ qua. rest rest smq an cro bn
+=2' clefspace cro g g cro d
+=2, clefspace smq rest, [d e f] cro g blank
+d376 1
+a376 1
+ | 3 3 3 3 4 6 6 4 3 3 3 3| 12 12 16|
+d388 1
+a388 1
+=1 cro c~ rest smq [g f e]
+d405 2
+a406 1
+4 bars |3b 3 3 3 3 4 4 4 4 5 6 6 4| 12 12 16| 12 12 16| 48|
+d530 2
+a531 1
+=1 smq [A)2 A G F] dsq [E F smq G F dsq G A] qua. [D-tr smq E]
+d575 1
+a575 1
+4 bars | 3b 12 | 12 |
+d586 2
+a587 2
+=1 smq [d~ g bn g] [d~ b d~ b] cro f~
+=2 cro g rest smq rest [d, f d,]
+d589 2
+a590 1
+4 bars |3b 12 | 12 | 12 | 7 |
+d601 1
+a601 1
+il0.5          80
+d625 2
+a626 1
+4 bars |3b 7 | 12 |
+d632 1
+a632 1
+=1 cro g rest smq [c~ e~ d~ c~]
+d635 2
+a636 2
+=1  smq [bn c~ b an] cro rest' smq rest' [b~b a~b g~]
+=2' cro rest smq [g f e d] c qua. rest
+d638 1
+a638 1
+=1  smq [a~ b~ a~ g~] [f~ e~ d~ c~] [bn d~ c~ b]
+d641 2
+a642 1
+3 bars |3b 12 | 12 |
+d644 2
+a645 2
+=1  bass 3b smq [c~ d~ c~ bb] [ab g f e] cro rest
+=2' bass 3b min rest smq [d e d c]
+d647 1
+a647 1
+=1  min. rest treble
+d650 2
+a651 2
+=1  cro blank smq rest [A_n B_n C] [D F E D]
+=2' smq [c d e f] g qua. rest cro rest
+d653 1
+a653 1
+3 bars |3b 12 | 12 |
+d658 1
+a658 1
+=1 smq [B_n C D E] [D C B_ A_n] cro rest bass
+d661 3
+a663 3
+il0.5          96
+=1 qua. rest smq a [g f e d,] [c e' d' c]
+=2 smq [e f g] rest cro. rest qua A
+d665 1
+a665 1
+3 bars | 3b 12 | 12 |
+d682 2
+a683 1
+4 bars |3b 12 | 12 |
+d697 1
+a697 1
+4 bars |3b 12 | 12 |
+d708 1
+a708 1
+il0.7       80
+d712 2
+a713 1
+3 bars |3b 12 | 12 |
+d724 2
+a725 1
+3 bars |3b 12 | 12 |
+d730 2
+a731 2
+=1 smq [C D E F] [G An Bn' c'] [d f e d]
+=2 cro rest rest G-.
+d736 1
+a736 1
+4 bars |3b 12 | 4 4 3 | 2.5 2.5 3.5 |
+d741 1
+a741 1
+il0.5          88
+d751 1
+a751 1
+5 bars | 3b 12 | 12 |
+d768 1
+a768 1
+4 bars |3b 9 | 12 | 15 | 10 |
+@
+
+
+1.11
+log
+@space pages 1&2, to bar 44
+@
+text
+@d273 1
+a273 1
+=2 qua [E rest F G] cro A(2
+d287 3
+a289 3
+5 bars |3b 3 3 3 3 4 4 5 5 4 4 9 5| 8 10 8 10 8 10\
+ | 3 3 3 3 3 3 5 9 4 4 5 5| 8 10 8 10 8 10\
+ | 4 4 5 5 4 4 5 9 4 4 5 5|
+d305 1
+a305 1
+=2 qua [G smq G A] qua [B, smq B, c] cro d
+d307 1
+a307 1
+4 bars |3b 8 10 8 8 8 10| 4 4 7 5 4 4 4 5 4 4 7 5\
+d339 2
+a340 2
+7 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+d342 1
+a342 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d345 1
+a345 1
+4 bars | 3b 12 | 12 |
+d350 2
+a351 2
+=1 cro C qua rest' smq [c' C] qua. [F smq E]
+=2 cro g rest qua rest smq [f' F]
+d353 1
+a353 1
+=1 cro D rest' qua rest' smq [G D]
+d360 1
+a360 1
+4 bars |3b 12 | 12 |
+d371 3
+a373 2
+=1 bass smq [d~ d, e f] qua. [g smq an] cro bn
+=2 clefspace min g cro d
+d375 2
+a376 1
+4 bars |3b 12 | 12 |
+d389 1
+a389 1
+=2 min C cro c
+d391 1
+a391 1
+4 bars |3b 12 | 12 |
+d393 2
+a394 2
+=1 bass 3b cro d blank treble smq rest [F E D]
+=2 bass 3b min g cro e
+d397 1
+a397 1
+=2 min f cro g
+d400 1
+a400 1
+=2 min a cro f
+d403 1
+a403 1
+=2 min g cro d
+d405 1
+a405 1
+4 bars |3b 12 | 12 |
+d407 2
+a408 2
+=1 treble 3b cro G blank bass smq [d~ c~ bn an]
+=2 bass   3b min e cro Bn
+d411 1
+a411 1
+=2 min c cro F
+d414 1
+a414 1
+=2 min. G
+d416 1
+a416 1
+il0.5          64
+d418 1
+a418 1
+=2 min C cro C
+d420 2
+a421 1
+4 bars |3b 12 | 12 |
+d435 2
+a436 1
+4 bars |3b 12 | 12 |
+d447 1
+a447 1
+il0.5          72
+d455 1
+a455 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d458 2
+a459 1
+4 bars |3b 12 | 12 |
+d461 2
+a462 2
+=1 treble 3b qua [c smq g G,] qua [c d] [e smq d f]
+=2 treble 3b cro G cro. rest qua G
+d471 1
+a471 1
+=1 cro c rest smq [An, Bn, c]
+d474 2
+a475 1
+4 bars |3b 12 | 12 |
+d484 1
+a484 1
+=2 cro G)2 smq [G Ab Bb'] qua c' rest
+d489 2
+a490 1
+4 bars |3b 12 | 12 |
+d505 2
+a506 1
+4 bars |3b 12 | 12 |
+d515 1
+a515 1
+=2 cro E rest smq [G F E]
+d520 2
+a521 1
+4 bars |3b 12 | 12 |
+d532 1
+a532 1
+il0.5          64
+d536 2
+a537 1
+4 bars |3b 8 | 12 |
+d551 2
+a552 1
+4 bars |3b 12 | 12 |
+d555 1
+a555 1
+=2 treble 3b smq [d')1 G A B'] cro c rest
+d560 1
+a560 1
+=1 smq [Bn, c qua d(1] smq [d)1 e d c(1] qua [c)1 B,]
+d563 1
+a563 1
+il0.5          72
+d570 1
+a570 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d674 1
+a674 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d778 1
+a778 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d894 1
+a894 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d1010 1
+a1010 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d1094 1
+a1094 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d1200 1
+a1200 1
+innerhead Passacaglia and Fugue, J. S. Bach
+d1288 1
+a1288 1
+innerhead Passacaglia and Fugue, J. S. Bach
+@
+
+
+1.10
+log
+@shuffle bars within each page
+@
+text
+@d1 2
+a2 2
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 \
+ /18-24-18/18-24-18 15/
+d5 1
+a5 1
+title Passacaglia et Thema Fugatum
+d8 1
+a8 1
+9 bars |3b 3/4 4 | 12 |
+d34 1
+a34 1
+il0.5         8
+d37 3
+d41 2
+a42 1
+7 bars |3b 12 | 12 |
+d44 2
+a45 5
+=1 bass 3b qua e~)1 cro. d~ qua rest' g~(1
+=2 bass 3b min g cro e
+|
+=1 qua g~)1 cro. f~ qua rest' bn(1
+=2 min f cro g
+a60 2
+/
+6 bars |3b 12 | 12 |
+d63 4
+a66 2
+=1 bass 3b qua c~ cro. g qua rest' e~(1
+=2 bass 3b min C cro c
+d68 2
+a69 2
+=1 qua e~)1 cro. d~ qua rest d~b(1
+=2 min g cro e
+d82 3
+d86 2
+a87 1
+6 bars |3b 12 | 12 |
+d89 2
+a90 2
+=1 bass 3b cro f)1  e qua rest e(1
+=2 bass 3b min c cro F
+d92 1
+a92 4
+=1 qua e)1 cro d qua [f qua. e smq d]
+=2 min. G
+|
+il0.5          24
+d102 5
+a106 2
+=1 qua [c~ bb a c~ f~ e~]
+=2 min a cro f
+d108 2
+a109 1
+6 bars |3b 12 | 12 |
+d111 2
+a112 5
+=1 bass 3b cro. d~ qua e~ cro f~
+=2 bass 3b min g cro d
+|
+=1 qua [e~ f~ g~] rest' cro d~
+=2 min e cro Bn
+d124 5
+a128 2
+=1 qua [d~ smq g an] qua [bn smq a b] cro c~(1
+=2 min g cro e
+d130 2
+a131 1
+6 bars |3b 12 | 12 |
+d133 2
+a134 5
+=1 bass 3b qua [c~)1 smq d~ e~] qua [f~ smq f~ e~] cro d~
+=2 bass 3b min f cro g
+|
+=1 cro c~ rest' qua rest' smq [f~ e~]
+=2 min a cro f
+d148 2
+a149 1
+5 bars |3b 12 | 12 |
+d152 2
+a153 2
+=1 bass 3b cro e qua rest' smq [g~ g] cro c~
+=2 bass 3b min C qua rest smq [c~ c,]
+d164 1
+a164 1
+=1 cro d~ qua rest' smq [d~ d,] qua [g d~]
+d167 2
+a168 2
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 \
+ /18-24-18/18-24-18 15/
+d171 1
+a171 1
+title Passacaglia et Thema Fugatum
+d174 2
+a175 1
+12 bars |3b 3/4 4 | 6|6|6|6|6|6|3 6|12|12|12 |
+d201 1
+a201 1
+il0.5          8
+d214 4
+a217 1
+7 bars |3b 12 | 12 |
+d231 1
+a231 1
+il0.5          16
+d241 3
+a243 1
+7 bars |3b 12 | 12 |
+d260 1
+a260 1
+il0.5          24
+d265 1
+a265 1
+=2' qua rest [D G A Bb c]
+d267 1
+a267 1
+6 bars |3b 12 | 12 |
+d287 3
+a289 1
+5 bars |3b 12 | 12 |
+d302 1
+a302 1
+=2 cro E smq [D E] qua [F A]
+d307 2
+a308 1
+4 bars |3b 12 | 12 |
+d323 2
+a324 1
+4 bars |3b 12 | 12 |
+d326 2
+a327 2
+=1 treble 3b qua d-. rest rest smq [d Bn,] cro e(1
+=2 treble 3b qua [G smq d' D] cro G qua rest smq [G E]
+d333 1
+a333 1
+=2 cro E cro. rest smq [d f]
+d335 3
+a337 2
+=1 qua [g smq d D,] qua [G smq An Bn'] cro B'-tr
+=2 cro Bn cro. rest smq [G F]
+d342 1
+a342 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d451 1
+a451 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d559 1
+a559 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d635 1
+a635 1
+=2' smq [c d e f] g qua rest cro rest
+d663 1
+a663 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d767 1
+a767 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d883 1
+a883 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d999 1
+a999 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d1083 1
+a1083 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d1189 1
+a1189 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+d1277 1
+a1277 1
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+@
+
+
+1.9
+log
+@shuffle bars onto 12 pages
+@
+text
+@d560 1
+a560 1
+5 bars |3b 12 | 12 | 12 | 7 | 7 |
+a573 3
+|
+=1 cro d~ rest' c~-.
+=2 cro  g rest e-.
+d577 5
+a581 2
+=1 bass 3b cro c~ rest' rest'
+=2 bass 3b cro  f rest g-.
+d594 2
+d597 2
+a598 4
+=1 cro  g rest bn-.
+=2 cro  G rest G-.
+/
+4 bars |3b 12 | 12 |
+d601 2
+a602 2
+=1 bass 3b cro g rest smq [c~ e~ d~ c~]
+=2 bass 3b cro C rest rest
+d609 2
+d612 2
+a613 4
+=1  smq [c~ d~ c~ bb] [ab g f e] cro rest
+=2' min rest smq [d e d c]
+/
+4 bars |3b 12 | 12 |
+d615 2
+a616 2
+=1  treble 3b min. rest 
+=2' bass  3b smq [Bn c B An] [G A B c] [B d c B]
+d620 2
+d623 2
+a624 2
+=1' smq [E G c Bb] [Ab G F E] [D E D C]
+=2  min. rest
+a627 2
+/
+4 bars |3b 12 | 12 |
+d630 4
+a633 2
+=1 bass 3b qua. rest smq a [g f e d,] [c e' d' c]
+=2 bass 3b smq [e f g] rest cro. rest qua A
+d635 2
+a636 2
+=1 qua Bn [f-. e-.] [g ab bb]
+=2 smq [G A F G] [E F <D d'> E] [<C c> D <B_ B> C]
+d644 1
+a644 1
+7 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+d650 1
+a650 1
+5 bars |3b 12 | 12 |
+d664 1
+a664 1
+5 bars |3b 12 | 12 |
+d678 2
+d681 2
+a682 4
+=1 smq [Bn' c' B' An] cro rest smq rest [bb ab g]
+=2 cro G smq [G F E D] cro G-.
+/
+4 bars |3b 12 | 12 |
+d684 2
+a685 2
+=1 treble 3b smq [a b a g] [f e d c] [Bn, d c B,]
+=2 treble 3b cro F rest F-.
+d689 2
+d692 2
+a693 2
+=1 cro D rest rest
+=2 smq [B_n C B_ A_n] [G_ A_ B_ C] [B_ D C B_]
+d697 3
+d701 1
+a701 1
+4 bars |3b 12 | 12 |
+d703 2
+a704 5
+=1 treble 3b smq [e g c~ bb] [ab g f e] [d e d c]
+=2 treble 3b cro G rest F-.
+|
+=1 smq [Bn c d e] [d c B, An,] [G Ab G F]
+=2 cro D rest D-.
+d712 3
+d716 1
+a716 4
+4 bars |3b 12 | 12 |
+|
+=1 treble 3b min f~ cro g~
+=2 treble 3b min f  cro g
+d718 2
+a719 2
+=1 min a~ cro f~
+=2 min a  cro f
+a725 2
+/
+4 bars |3b 12 | 12 |
+d727 2
+a728 2
+=1 treble 3b min c~ cro f
+=2 treble 3b min c  cro F
+d732 2
+d736 2
+a737 2
+=1 min c cro c~
+=2 min C cro c
+a740 2
+/
+4 bars |3b 12 | 12 |
+d742 2
+a743 2
+=1 treble 3b min <f f~> cro <g g~>
+=2 treble 3b smq [c)1 db Bb, c] [Ab B' G A] [F G En G]
+d754 1
+a754 1
+4 bars |3b 12 | 12 |
+d761 3
+d765 1
+a765 4
+4 bars |3b 12 | 12 |
+|
+=1 bass 3b qua c rest rest e smq [f g e f]
+=2 bass 3b qua [<E_ E> <G_ G>] smq [<C c> D <B_ B> C] cro <A_n An>
+d767 2
+a768 2
+=1 smq [d, e c, d,] qua [Bn, d, e f]
+=2 qua [<B_n Bn> <C c>] smq [<G_ G> A <F_ F> G_] [<E_ E> F_ <D_ D> E_]
+d777 3
+d781 1
+a781 1
+4 bars |3b 12 | 12 |
+d783 1
+a783 1
+=1 bass 3b cro. ab qua [d~b b c~]
+a785 3
+=1 cro f~ rest' a
+=2 min. rest
+|
+d791 3
+d797 2
+a798 5
+=1 bass 3b cro rest smq rest [b a g] rest [a g f]
+=2 bass 3b smq [A c B A] qua [e en] qua f rest
+|
+=1 cro g(1 smq [g)1 g f e] [d f e d]
+=2 smq rest [f e d] qua e rest cro Bn
+d807 3
+d811 1
+a811 1
+5 bars |3b 12 | 12 |
+d813 1
+a813 1
+=1 bass 3b smq rest [f a c~] f~ qua. rest' smq [g bn e~ g~]
+a815 3
+=1 smq rest [a c~ e~] a~ qua. rest' smq [f a d~ f~]
+=2 min. rest
+|
+a876 2
+/
+4 bars |3b 12 | 12 |
+d878 2
+a879 2
+=1 treble 3b min <c c~> cro f
+=2 treble 3b smq [G A F G] [E F D E] qua [C F(2]
+d883 2
+d887 1
+a887 1
+=1 min c cro rest
+d889 1
+a889 1
+=2 min C smq [C E D C]
+d891 1
+a891 1
+=1 cro rest smq [c e d c]
+a892 2
+/
+4 bars |3b 12 | 12 |
+d894 2
+a895 2
+=1 treble 3b smq [c en dn c] cro. f qua e
+=2 treble 3b cro F(2 smq [F)2 A G F] [G B' A G]
+a901 3
+|
+=1 qua [G, c(1] smq [c)1 c Bn, An,] qua [G F]
+=2 cro E(2 smq [E)2 E D C] [B_n D C B_]
+d905 5
+a909 2
+=1 treble 3b qua [E Ab(2] smq [A)2 G c' B'] [A, f g a]
+=2 treble 3b cro C min rest
+a917 3
+|
+=1 min. rest
+=2 qua [Bn'-. G-.] smq rest [B, d g] rest [g e c]
+d919 1
+a919 1
+5 bars |3b 12 | 12 |
+d922 4
+a925 1
+=2 treble 3b qua [a-. f-.] smq rest [A, c f] rest [g e Bn,]
+d932 2
+d935 2
+a936 2
+=1 min. rest
+=2 qua [g-. e-.] smq rest [G, c e] rest [f d G,]
+a939 2
+/
+5 bars |3b 12 | 12 |
+d941 2
+a942 2
+=1 treble 3b min. rest
+=2 treble 3b qua [E-mordent-. C-.] smq rest [C E G] [B_n D F B_]
+d948 2
+d951 2
+a952 2
+=1 cro rest qua rest smq [d g] qua rest smq [g c~]
+=2 cro rest smq [G Bn'] qua rest smq [E c'] qua rest
+d959 3
+d963 1
+a963 4
+5 bars |3b 12 | 12 |
+|
+=1 treble 3b cro rest qua rest smq [d g] qua rest smq [f bn]
+=2 treble 3b cro rest smq [G Bn'] qua rest smq rest d qua rest
+d965 2
+a966 2
+=1 cro rest qua rest smq [c e] qua rest smq [d f]
+=2 cro rest smq [E G] qua rest smq rest G qua rest
+d980 1
+a980 1
+7 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+d999 3
+d1003 1
+a1003 1
+4 bars |3b 12 | 12 |
+d1005 2
+a1006 5
+=1  bass 3b min rest qua rest g
+=2' bass 3b min <E e> cro <B_n Bn>
+|
+=1 min rest qua rest d~
+=2' min <C c> cro <F_ F>
+d1018 1
+a1018 1
+=2 bass 3b min G cro E
+d1021 1
+a1021 1
+=2' min F cro G
+d1026 1
+a1026 1
+=2 bass 3b min A cro F
+d1029 1
+a1029 1
+=2 min G cro D
+d1032 1
+a1032 1
+=2 min E cro B_n
+d1035 1
+a1035 1
+=2 min C cro F_
+d1037 1
+a1037 1
+3 bars |3b 12 | 12 |
+d1040 1
+a1040 1
+=2  bass 3b min. G_
+d1044 4
+a1047 2
+I0.4 .7 p
+=2 min C_ cro C
+d1049 2
+a1050 4
+=1 min g qua rest e
+=2 min. rest
+/
+4 bars |3b 12 | 12 |
+d1052 2
+a1053 2
+=1 bass 3b min f cro d~(1
+=2 bass 3b min rest qua rest g
+d1109 1
+a1109 1
+il0.7          136
+d1115 1
+a1115 1
+3 bars |3b 12 | 12 |
+d1122 5
+d1128 2
+a1129 2
+=1  smq3 [c~ b a] [a g f] [f e d] [d e f] [f g an] [a bn c~]
+=2' qua rest smq3 [c B-I3 A] [A G F] [F E D] [D E F] [F G Ab]
+d1131 1
+a1131 4
+3 bars |3b 12 | 12 |
+|
+=1 treble 3b qua. [bn dsq3 blank smq3 an] qua b rest smq3 [a g f] [f e d]
+=2 treble 3b smq3 [G An Bn'] [B, c d] [d e f] [f g a] qua rest B_n
+d1133 2
+a1134 2
+=1 cro g rest smq3 [d e f] [e f d]
+=2 smq3 [C D E] [E F G] [G An Bn'] [B, c d] cro rest
+d1139 1
+a1139 1
+3 bars |3b 12 | 12 |
+d1145 1
+a1145 1
+il0.7          144
+d1155 1
+a1155 1
+4 bars |3b 12 | 12 |
+d1170 2
+a1171 2
+6 systems 5 /19-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 5/
+d1178 1
+a1178 1
+=1 bass 3b cro. c~ smq [d~ e~n] cro f~(1
+d1181 1
+a1181 1
+=1 qua [f~)1 smq e~b d~] qua [e~ smq d~ c~] qua [g~ f~(1]
+d1185 2
+a1186 2
+=1 qua [f~)1 smq e~ d~] qua [e~ smq e~ d~] qua [c~ e~(1]
+I0.5 .65 ff
+d1191 1
+a1191 1
+=1  bass 3b smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+d1194 1
+a1194 1
+=1  cro e~(1 smq [e~)1 f~ e~ d~] cro e~(1
+d1197 1
+a1197 1
+=1 smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+d1202 1
+a1202 1
+=1 bass 3b cro e~(1 smq [e~)1 e~ d~ c~] cro d~(1
+d1205 1
+a1205 1
+=1 smq [d~)1 f~ e~ d~] cro c~ d~(1
+d1208 1
+a1208 1
+=1  cro d~)1 min c~
+d1211 1
+a1211 1
+=1  cro bn c~ qua [d~ g(1]
+d1217 1
+a1217 1
+=1  bass 3b cro g)1(1 smq [g)1 a g f] qua e-. treble C(2
+d1225 1
+a1225 1
+=1, cro C(2 smq [C)2 D C B_n] cro C(2
+d1231 1
+a1231 1
+=1, 3b smq [C)2 D C B_n] cro C(2 smq [C)2 D C B_]
+d1259 1
+a1259 1
+ /18-24-18 5/18-24-18 5/
+d1267 1
+a1267 1
+=2 treble 3b qua [A)2 smq G F] qua [G smq A Bb'] qua [c d]
+@
+
+
+1.8
+log
+@squeeze last page of passacaglia
+@
+text
+@a142 1
+
+d144 1
+a144 1
+8 bars |3b 12 | 12 |
+a160 3
+|
+=1 cro c~ qua rest' smq [g~ g] qua [c~ smq bn d~]
+=2 cro e rest qua rest smq [g Bn,]
+d169 1
+a169 1
+11 bars |3b 3/4 4 | 8|8|8|8|8|8|8|12|12|12 |
+d204 3
+d210 2
+a211 5
+=1 treble 3b qua. [d)1 smq e] cro c qua rest c(1
+=2 treble 3b qua G)2 cro. F qua rest A(2
+|
+=1 qua. [c)1 smq d] cro Bn qua rest a(1
+=2 cro A)2 G qua rest B'(2
+d228 3
+d234 2
+a235 5
+=1 treble 3b qua. [B)1 smq c] cro A qua rest G(2
+=2 treble 3b cro G)2 F qua rest E(2
+|
+=1 qua. [G)2 smq A] cro F qua rest A(2
+=2 cro E)2 D qua rest E(2
+d252 3
+d256 1
+a256 4
+7 bars |3b 12 | 12 |
+|
+=1 treble 3b min d cro g(1
+=2' treble 3b qua rest [D G A Bb c]
+d258 2
+a259 2
+=1 cro g)1 f e(1
+=2 cro. A qua [A G F]
+d276 1
+a276 1
+6 bars |3b 12 | 12 |
+d293 2
+d296 2
+a297 4
+=1 qua [c~ smq g f] qua [g e] [d smq c d]
+=2 qua [c smq e d] qua [e-. c] cro G(2
+/
+6 bars |3b 12 | 12 |
+d299 2
+a300 2
+=1 treble 3b qua [e smq c Bn,] qua [c' G] [A, a]
+=2 treble 3b cro G)2 qua. rest smq D qua [E smq C B_n]
+d308 2
+d311 2
+a312 2
+=1 qua d-. rest rest smq [d Bn,] cro e(1
+=2 qua [G smq d' D] cro G qua rest smq [G E]
+a318 2
+/
+6 bars |3b 12 | 12 |
+d320 2
+a321 5
+=1 treble 3b qua [g smq d D,] qua [G smq An Bn'] cro B'-tr
+=2 treble 3b cro Bn cro. rest smq [G F]
+|
+=1 qua [c smq g G,] qua [c d] [e smq d f]
+=2 cro G cro. rest qua G
+d329 4
+a332 1
+6 bars
+d334 2
+a335 2
+=1 treble 3b cro C qua rest' smq [c' C] qua. [F smq E]
+=2 bass   3b cro g rest qua rest smq [f' F]
+d343 2
+d346 2
+a347 2
+=1 smq rest [D E F] min G
+=2 min g cro e
+d354 3
+d358 1
+a358 4
+6 bars |3b 12 | 12 |
+|
+=1 bass 3b smq [d~ d, e f] qua. [g smq an] cro bn
+=2 bass 3b min g cro d
+d360 2
+a361 2
+=1 smq rest [g an bn] cro c~ d~
+=2 min e cro Bn
+d372 2
+d375 2
+a376 4
+=1 cro d blank treble smq rest [F E D]
+=2 min g cro e
+/
+6 bars |3b 12 | 12 |
+d378 2
+a379 2
+=1 treble 3b cro C smq rest [G F E] [D F E D]
+=2 bass   3b min f cro g
+d386 2
+d389 2
+a390 2
+=1 cro G blank bass smq [d~ c~ bn an]
+=2 min e cro Bn
+a396 2
+/
+5 bars |3b 12 | 12 |
+d399 4
+a402 2
+=1 bass 3b smq [e' c B A] [G F E D] rest [e~ d~ c~]
+=2 bass 3b min C cro C
+d404 2
+a405 2
+=1 cro bn(1 smq [bn)1 c~ b an] [g e f g]
+=2 min G cro E
+d416 1
+a416 1
+6 bars |3b 12 | 12 |
+d430 1
+a430 50
+|
+=1 cro bn smq rest [g b g] cro c~
+=2 cro g rest smq rest [e g e]
+|
+=1 smq rest [c~ e~ c~] min f~
+=2 cro f rest smq rest [g b g]
+/
+5 bars |3b 12 | 12 |
+|
+=1 bass 3b cro rest smq rest [c~ e~ c~] cro f~
+=2 bass 3b cro a rest smq rest [f a f]
+|
+=1 smq [d~ g bn g] [d~ b d~ b] cro f~
+=2 cro g rest smq rest [d, f d,]
+|
+=1 smq [g~ g bn g] cro c~ rest
+=2 cro e rest smq rest [Bn d' B]
+|
+=1 smq rest [g bn g] cro c~ rest
+=2 cro c rest smq rest [F A F]
+|
+=1 smq rest [g bn g] cro c~(1 qua. [c~)1 smq b]
+=2 cro G rest smq rest [G F G]
+/
+8 bars |3b 12 | 12 |
+|
+il0.5          80
+=1 bass 3b cro c~ rest' e~-.
+=2 bass 3b cro C rest c-.
+|
+=1 cro d~ rest' c~-.
+=2 cro  g rest e-.
+|
+=1 cro c~ rest' rest'
+=2 cro  f rest g-.
+|
+=1 cro c~ rest' a-.
+=2 cro  a rest f-.
+|
+=1 cro  g rest f-.
+=2 cro  rest rest d-.
+|
+=1 cro  g rest g-.
+=2 cro  e rest Bn-.
+|
+=1 cro c~ rest a-.
+=2 cro  c rest F-.
+|
+=1 cro  g rest bn-.
+=2 cro  G rest G-.
+d438 4
+a441 1
+6 bars |3b 12 | 12 |
+d443 2
+a444 2
+=1 treble 3b qua [e smq c~ c] qua [f g a f(1]
+=2 treble 3b cro G cro. rest smq [d An,]
+d452 2
+d455 2
+a456 2
+=1 cro Bn rest smq rest [e f g]
+=2 cro G)2 smq rest [G An Bn'] cro c(1
+d463 3
+d467 1
+a467 4
+6 bars |3b 12 | 12 |
+|
+=1 treble 3b cro Bn rest smq rest [E F G]
+=2 treble 3b cro G smq rest [A_n B_n C] cro D
+d469 2
+a470 2
+=1 cro E rest smq rest [Bn, c d]
+=2 cro C smq rest [D E F] cro G(2
+d481 2
+d484 2
+a485 4
+=1 smq rest [g f e] [d e d e] cro c(1
+=2 cro B_n smq rest [c' Bn' An] [G Ab G Bb']
+/
+6 bars |3b 12 | 12 |
+d487 2
+a488 2
+=1 treble 3b smq [c b a g] [f e d c] cro Bn
+=2 treble 3b cro A rest smq rest [A G F]
+d495 2
+d498 2
+a499 2
+=1 smq [f)1 e d c] [Bn, An, B, c] cro d(1
+=2 cro c smq rest [G F E] [F Ab G F]
+a505 2
+/
+8 bars |3b 12 | 12 |
+d508 4
+a511 2
+=1 treble 3b min. rest
+=2 treble 3b cro C min rest
+d513 2
+a514 2
+=1 cro rest smq rest [d e f] [g f e d]
+=2 smq rest [D E F] [G, Bn, c d] [e d c Bb,]
+d524 2
+d527 2
+a528 2
+=1 smq [f ab g f] [e g f e] cro d(1
+=2 smq [d')1 G A B'] cro c rest
+d535 42
+d580 69
+a648 3
+il0.5          72
+=1 treble 3b cro c min rest
+=2 treble 3b smq [C C E C] qua. [G smq F] cro E-tr
+d650 2
+a651 2
+=1 smq rest [G Bn' G] cro d e(1
+=2 cro D qua rest cro. G
+a660 3
+|
+=1 cro rest smq rest [c e c] [f d f d]
+=2 cro c smq rest [E G E] cro A
+d664 5
+a668 2
+=1 treble 3b cro e smq rest [c e c] [f d f d]
+=2 treble 3b cro G smq rest [E G E] cro A
+d679 2
+d682 2
+a683 4
+=1 smq [a b a g] [f e d c] [Bn, d c B,]
+=2 cro F rest F-.
+/
+5 bars |3b 12 | 12 |
+d685 2
+a686 2
+=1 treble 3b smq [c d c Bb,] [A G F E] cro F-.
+=2 treble 3b cro E rest smq [D E D C]
+d693 2
+d696 2
+a697 2
+=1 smq [e g c~ bb] [ab g f e] [d e d c]
+=2 cro G rest F-.
+a700 8
+
+7 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 5
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+5 bars |3b 12 | 12 |
+d703 7
+a709 2
+=1 bass 3b cro g rest smq [c~ e~ d~ c~]
+=2 bass 3b cro C rest rest
+d711 2
+a712 2
+=1 smq [bn c~ b an] cro rest' smq rest' [b~b a~b g~]
+=2' cro rest smq [g f e d] c qua. rest
+d714 2
+a715 2
+=1 smq [a~ b~ a~ g~] [f~ e~ d~ c~] [bn d~ c~ b]
+=2 min. rest
+d717 2
+a718 2
+=1 smq [c~ d~ c~ bb] [ab g f e] cro rest
+=2' min rest smq [d e d c]
+d720 2
+a721 2
+=1 min. rest treble
+=2' smq [Bn c B An] [G A B c] [B d c B]
+d723 1
+a723 1
+5 bars |3b 12 | 12 |
+d725 2
+a726 2
+=1 treble 3b cro blank smq rest [A_n B_n C] [D F E D]
+=2' bass  3b smq [c d e f] g qua rest cro rest
+d728 2
+a729 5
+=1' smq [E G c Bb] [Ab G F E] [D E D C]
+=2 min. rest
+|
+=1 smq [B_n C D E] [D C B_ A_n] cro rest bass
+=2 min rest smq [g ab g f]
+d732 2
+a733 2
+=1 qua. rest smq a [g f e d,] [c e' d' c]
+=2 smq [e f g] rest cro. rest qua A
+d735 2
+a736 2
+=1 qua Bn [f-. e-.] [g ab bb]
+=2 smq [G A F G] [E F <D d'> E] [<C c> D <B_ B> C]
+d738 1
+a738 1
+5 bars |3b 12 | 12 |
+d740 2
+a741 2
+=1 bass 3b min c~ qua [d~b c~(1]
+=2 bass 3b cro. <A_ A> qua [<A_ A> <B_ B> <C c>]
+d743 10
+a752 2
+=1 smq [c~)1 d~b b c~] qua [a c~] smq [f~ g~ e~ f~]
+=2 qua [<F_ F> <C c>] smq [<F f'> G <E e'> F] [<D d'> E <C c'> D]
+d754 2
+a755 2
+=1 cro d~(1 smq [d~)1 e~ c~ d~] [bn c~ an b]
+=2 smq [<B_n Bn> C <A_n An> B_] min <G_ G>
+d759 2
+d762 2
+a763 4
+=1 qua c rest rest e smq [f g e f]
+=2 qua [<E_ E> <G_ G>] smq [<C c> D <B_ B> C] cro <A_n An>
+/
+5 bars |3b 12 | 12 |
+d765 2
+a766 2
+=1 bass 3b smq [d, e c, d,] qua [Bn, d, e f]
+=2 bass 3b qua [<B_n Bn> <C c>] smq [<G_ G> A <F_ F> G_] [<E_ E> F_ <D_ D> E_]
+d775 2
+d778 2
+a779 2
+=1 cro. ab qua [d~b b c~]
+=2 min. rest
+a782 2
+/
+5 bars |3b 12 | 12 |
+d784 2
+a785 2
+=1 bass 3b smq [g a g f] qua [e smq d, c,] cro Bn-tr
+=2 bass 3b 
+d789 2
+d792 2
+a793 2
+=1 cro rest smq rest [b a g] rest [a g f]
+=2 smq [A c B A] qua [e en] qua f rest
+d796 1
+a796 1
+=2 smq rest [f e d] qua e rest Bn
+d802 3
+d808 1
+a808 1
+=1 bass 3b smq rest [g bn d~] g~ qua. rest' smq [e g c~ e~]
+a810 3
+=1 smq rest [f a c~] f~ qua. rest' smq [g bn e~ g~]
+=2 min. rest
+|
+d819 3
+d825 1
+a825 1
+=1 bass 3b smq rest [c, e g] c~ qua. rest' smq [F c d' f']
+a827 3
+=1 smq rest [G c e'] g qua. rest' smq [G Bn d' g']
+=2 min. rest
+|
+d838 3
+a840 6
+
+7 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 6
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+d842 1
+a842 1
+8 bars |3b 12 | 12 |
+d844 2
+a845 3
+il0.5          88
+=1 treble 3b smq [E F G A] cro rest cro c~
+=2 treble 3b cro C smq [G F E D] cro c
+d847 2
+a848 2
+=1 min g~ cro e~
+=2 min g  cro e
+d850 2
+a851 2
+=1 min f~ cro g~
+=2 min f  cro g
+d853 2
+a854 2
+=1 min a~ cro f~
+=2 min a  cro f
+d856 11
+a866 11
+=1 min g~ cro d~
+=2 min g  cro d
+|
+=1 min e~ cro bn
+=2 min e  cro Bn
+|
+=1 min c~ cro f
+=2 min c  cro F
+|
+=1 min. g
+=2 min. G
+d868 1
+a868 11
+5 bars |3b 12 | 12 |
+|
+il0.5          96
+=1 treble 3b min c cro c~
+=2 treble 3b min C cro c
+|
+=1 min <g g~> cro <e e~>
+=2 qua rest [G An Bn'] cro c(1
+|
+=1 min <f f~> cro <g g~>
+=2 smq [c)1 db Bb, c] [Ab B' G A] [F G En G]
+d870 2
+a871 2
+=1 min <a a~> cro <f f~>
+=2 qua F rest cro rest qua rest An
+d873 2
+a874 2
+=1 min <g g~> cro <d d~>
+=2 smq [d e c d] [Bn' c' An B'] [G Ab F G]
+d876 1
+a876 1
+5 bars |3b 12 | 12 |
+d878 2
+a879 5
+=1 treble 3b min <e e~> cro <Bn, bn>
+=2 treble 3b qua [E G c' Bb'] [A smq G F]
+|
+=1 min <c c~> cro f
+=2 smq [G A F G] [E F D E] qua [C F(2]
+d892 1
+a892 1
+5 bars |3b 12 | 12 |
+d905 2
+d908 2
+a909 4
+=1 qua [E Ab(2] smq [A)2 G c' B'] [A, f g a]
+=2 cro C min rest
+/
+5 bars |3b 12 | 12 |
+d911 2
+a912 2
+=1 treble 3b cro Bn smq [c e d c] cro g(1
+=2 treble 3b min. rest
+d921 2
+d924 2
+a925 2
+=1 min. rest
+=2 qua [a-. f-.] smq rest [A, c f] rest [g e Bn,]
+a928 2
+/
+5 bars |3b 12 | 12 |
+d930 2
+a931 2
+=1 treble 3b min. rest
+=2 treble 3b qua [Bn'-. G-.] smq rest [B, d g] rest [a f Bb]
+d938 2
+d941 2
+a942 2
+=1 min. rest
+=2 qua [E-mordent-. C-.] smq rest [C E G] [B_n D F B_]
+a947 2
+/
+5 bars |3b 12 | 12 |
+d949 2
+a950 2
+=1 treble 3b cro rest qua rest smq [d g] qua rest smq [g c~]
+=2 treble 3b cro rest smq [G Bn'] qua rest smq [E c'] qua rest
+d954 3
+a956 6
+
+7 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 7
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+d960 2
+a961 2
+=1 bass 3b smq rest [a c~ e~] min rest
+=2 bass 3b smq A qua. rest min rest
+d963 2
+a964 2
+=1 smq rest [g bn d~] cro rest smq d~ qua. rest
+=2 smq G qua. rest min rest
+d966 2
+a967 2
+=1 smq rest [e g c~] cro rest smq bn qua. rest
+=2 smq E qua. rest min rest
+d969 2
+a970 2
+=1 smq rest [c, e g] cro rest smq f qua. rest
+=2 smq C qua. rest min rest
+d972 11
+a982 2
+=1 smq rest [g c~ e~] cro rest smq g qua. rest
+=2 smq G qua. rest min rest
+d986 2
+a987 8
+il0.5          128
+=1 bass 3b smq rest c~ qua rest cro rest qua rest g
+I0.5 .62 ff
+i0.5 .62      tre corde
+=2 bass 3b smq c qua. rest cro rest <C c>
+|
+=1 min rest qua rest g
+=2' min <G g> cro <E e>
+d998 1
+a998 1
+5 bars |3b 12 | 12 |
+d1012 2
+d1015 5
+a1019 2
+=1 smq3 [E D-I3 C] [C B_n A_n] [G_ A_ B_] [B_ C D] [C D E] [E F G]
+=2 min G cro E
+d1021 1
+a1021 4
+5 bars |3b 12 | 12 |
+|
+=1 treble 3b smq3 [F G-I3 A] [A G F] [F E D] [D E F] [F G A] qua3 [G smq3 F]
+=2' bass 3b min F cro G
+d1023 2
+a1024 2
+=1 qua E rest min rest
+=2 min A cro F
+d1035 1
+a1035 1
+5 bars |3b 12 | 12 |
+d1047 14
+d1064 1
+a1064 1
+pagenum 8
+d1068 1
+a1068 10
+5 bars |3b 12 | 12 |
+|
+=1 treble 3b cro rest qua rest smq [e a] qua rest smq [a c~]
+=2 treble 3b cro rest smq [A c'] qua rest smq [F d'] qua rest
+|
+=1 cro rest qua rest smq [d g] qua rest smq [f bn]
+=2 cro rest smq [G Bn'] qua rest smq rest d qua rest
+|
+=1 cro rest qua rest smq [c e] qua rest smq [d f]
+=2 cro rest smq [E G] qua rest smq rest G qua rest
+d1070 4
+a1073 18
+=1 cro rest qua rest smq [G c'] qua rest smq [A, f]
+=2 cro rest smq [C E] qua rest smq rest D qua rest
+|
+=1 cro rest qua rest smq [e g] qua rest smq [f bn]
+=2 cro rest smq [G c'] qua rest smq rest d qua rest
+/
+5 bars |3b 12 | 12 |
+|
+il0.5          128
+=1 treble 3b cro rest smq rest [e g c~] qua rest c
+I0.5 .69 ff
+=2 treble 3b qua rest smq [E G] c' qua. rest qua rest <C E G>
+i0.5 .69 tre corde
+|
+=1' qua rest' cro. d(1 qua [d-.)1 c]
+=1, smq rest, [c d An] cro Bn(2 qua [B)2 c]
+=2' cro rest  qua rest' G(1 [G-.)1 G]
+=2, cro blank smq rest, [F# G D] qua [E <C E>]
+d1090 1
+a1090 1
+5 bars |3b 12 | 12 |
+d1112 2
+d1115 2
+a1116 4
+=1, smq3 [c Bn An] [A B c] [B c d] [d e f] [e f g] [g ab bb]
+=2 min. rest
+/
+5 bars |3b 12 | 12 |
+d1118 2
+a1119 2
+=1, treble 3b smq3 [a g f] [f e d] [d e f] [f g a] cro Bn-tr
+=2  treble 3b min. rest 
+d1123 2
+d1126 2
+a1127 2
+=1 qua3. [bn smq3 blank blank an] qua b rest qua3 [a g f] [f e d]
+=2 smq3 [G An Bn'] [B, c d] [d e f] [f g a] qua3 rest smq3 B_n
+d1135 1
+a1135 1
+5 bars |3b 12 | 12 |
+a1149 6
+
+7 systems 5 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 5/
+pagenum 9
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+d1153 3
+a1155 2
+=1 bass 3b min f cro d~(1
+=2 bass 3b min rest qua rest g
+d1157 2
+a1158 2
+=1 qua d~)1 cro. c~ qua rest d~
+=2 min a qua rest f
+d1160 2
+a1161 2
+=1  smq [c~(1 bn)1 c~ b] qua [c~ smq d~ e~] cro b(1
+=2  min g qua rest d
+d1163 8
+a1170 2
+=1 qua [b)1 smq c~ d~] cro e~ qua rest d~
+=2 min e qua rest Bn
+d1172 1
+a1172 1
+4 bars |3b 12 | 12 |
+d1174 1
+a1174 1
+=1 bass 3b cro. c~ smq [d~ e~] cro f~(1
+a1183 3
+|
+=1  smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+=2' min <G g> cro <E e>
+d1187 5
+a1191 2
+=1  bass 3b cro e~(1 smq [e~)1 f~ e~ d~] cro e~(1
+=2' bass 3b min <F f> cro <G g>
+d1195 2
+d1198 2
+a1199 4
+=1 cro e~(1 smq [e~)1 e~ d~ c~] cro d~(1
+=2' min <G g> cro <D d>
+/
+3 bars |3b 12 | 12 |
+d1201 2
+a1202 2
+=1 bass 3b smq [d~)1 f~ e~ d~] cro c~ d~(1
+=2' bass 3b min <E e> cro <B_n Bn>
+d1254 1
+a1254 1
+7 systems 5 /18-21-18/18-21-18/18-22-18/18-24-18 5/18-24-18 10\
+d1256 1
+a1256 1
+pagenum 10
+a1258 15
+/
+4 bars |3b 12 | 12 |
+|
+=1' treble 3b qua [e)1 smq d c] qua [d smq e f] cro Bn(1
+=1, 3b smq [Bb(2 qua. Ab)2(2] cro A)2 blank
+=2 treble 3b qua [G)1 smq F E] qua [F smq G A] qua rest G(1
+|
+=1, qua [B)1 smq c Bn] qua [d smq d e] cro f(1
+=2 qua [F)1 smq E D] qua [E smq F G] cro A
+|
+=1  qua [f)1 smq e d] qua [e smq f g] cro d(1
+=2  min G qua rest F
+|
+=1, qua [d)1 smq c Bn] qua [c smq d e] cro f(1
+=2  cro. G smq [F G] cro A(2
+@
+
+
+1.7
+log
+@up to 168, end of passacaglia
+@
+text
+@d163 1
+a163 1
+=1 cro c~ qua rest' smq [g~ g] qua [c~ smq bn c~]
+d277 2
+a278 2
+=1, qua [g <f A> <G e> d c Bn]
+=2' qua [C)2 B_n C <D F> E <D F>]
+d303 1
+a303 1
+=1 treble 3b qua [e smq c B,] qua [c' G] [A, a]
+d306 1
+a306 1
+=1 qua [g smq c Bn,] qua [c' smq E D] qua. [E-tr smq C]
+d410 1
+a410 1
+=1 smq [c~ d~b c~ bb] [a rest d~n e~] [f~ g~ f~ e~]
+d522 2
+a523 2
+il0.5          56
+=1 smq [c c Bb, Ab,] [G A G F] e qua. rest
+d682 2
+a683 2
+=1 cro d~(1 smq [d~)1 e~ c~ d~] [bn c~ a b]
+=2 smq [<B_n Bn> C <A_ A> B_] min <G_ G>
+d697 1
+a697 1
+=1 smq [g a f g] [e f d, f] qua c
+d699 1
+a699 1
+=2 smq [[<E_ E> F_ <D_ D> E_] cro C rest
+d718 1
+a718 1
+=1 cro rest smq rest [bb a g] rest [a g f]
+d722 1
+a722 1
+=2 smq rest [f e d] cro e Bn
+d734 1
+a734 1
+=1 smq rest [f a c~] f~ qua. rest' smq [g b e~ g~]
+d756 1
+a756 1
+i0.5 .03 una corda . . .
+d886 1
+a886 1
+=1 qua E rest rest smq [G, c] qua rest smq [g c~]
+d888 1
+a888 1
+=2 qua C rest smq [C E] qua rest smq [c e] qua rest
+d953 1
+a953 1
+=1 min rest qua c~ qua3 [g~ f~n-I3 e~]
+d956 1
+a956 1
+=1 qua3 [e~ d~-I3 c~] [c~ bn an] [g a b] [b c~ d~] [c~ d~ e~] [e~ f~ g~]
+d961 1
+a961 2
+=1  bass 3b qua3 [f~ g~-I3 a~] [a~ g~ f~] [f~ e~ d~] [d~ e~ f~] \
+ [f~ g~ a~] qua3 [g~ smq3 f~]
+d964 1
+a964 1
+=1 qua e~ rest min rest
+d970 1
+a970 1
+=1 min rest qua rest g~(1
+d983 1
+a987 42
+|
+=1 min f cro d~(1
+=2 min rest qua rest g
+|
+=1 qua d~)1 cro. c~ qua rest d~
+=2 min a qua rest f
+/
+5 bars |3b 12 | 12 |
+|
+=1  bass 3b smq [c~(1 bn)1 c~ b] qua [c~ smq d~ e~] cro b(1
+=2  bass 3b min g qua rest d
+|
+=1 qua [b)1 smq c~ d~] cro e~ qua rest d~
+=2 min e qua rest Bn
+|
+=1 cro. c~ smq [d~ e~] cro f~(1
+=2 min c qua rest F
+|
+=1 qua [f~)1 smq e~b d~] qua [e~ smq d~ c~] qua [g~ f~(1]
+=2 min G qua rest G
+|
+il0.9       152
+=1 qua [f~)1 smq e~ d~] qua [e~ smq e~ d~] qua [c~ e~(1]
+I0.5 .65 ff
+=2 min C cro <C c'>
+/
+5 bars |3b 12 | 12 |
+|
+=1  bass 3b smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+=2' bass 3b min <G g> cro <E e>
+|
+=1  cro e~(1 smq [e~)1 f~ e~ d~] cro e~(1
+=2' min <F f> cro <G g>
+|
+=1 smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+=2' min <A a> cro <F f>
+|
+=1 cro e~(1 smq [e~)1 e~ d~ c~] cro d~(1
+=2' min <G g> cro <D d>
+|
+=1 smq [d~)1 f~ e~ d~] cro c~ d~(1
+=2' min <E e> cro <B_n Bn>
+d1059 3
+a1061 3
+=1, smq rest [f g d] cro. e rest,
+=2' cro rest  qua rest' c(1 smq c-)1 cro.. rest'
+=2, cro blank smq rest, [Bn c F#] G cro.. rest,
+d1063 1
+a1063 1
+=1, smq3 [c Bn An] [A B c] [B c d] [e d f] [e f g] [g ab bb]
+d1075 1
+a1075 1
+=2 smq3 [G An Bn'] [B, c d] [d e f] [d e f] [f g a] rest B_n
+d1091 1
+d1098 11
+d1110 2
+a1111 3
+=1' qua [e)1 smq d c] qua [d smq e f] cro Bn(1
+=1, smq [Bb(2 qua. Ab)2] min blank
+=2 qua [G)1 smq F E] qua [F smq G A] qua rest G(1
+d1113 5
+a1117 2
+=1, qua [B)1 smq c Bn] qua [d smq d e] cro f(1
+=2 qua [F)1 smq E D] qua [E smq F G] cro A
+d1119 1
+a1119 1
+5 bars |3b 12 | 12 |
+d1121 2
+a1122 2
+=1  treble 3b qua [f)1 smq e d] qua [e smq f g] cro d(1
+=2  treble 3b min G qua rest F
+d1124 2
+a1125 2
+=1, qua [d)1 smq c Bn] qua [c smq d e] cro f(1
+=2  cro. G smq [F G] cro A(2
+d1127 4
+a1130 2
+=1 qua [f)1 smq e d] qua [e smq f g] cro a(1
+=2 qua [A)2 smq G F] qua [G smq A Bb'] qua [c d]
+d1132 2
+a1133 7
+=1 qua [a)1 smq g f] qua [g smq f e] qua [e smq d c]
+=2 cro Bn cro. c qua B
+|
+il0.5   152
+=1 cro. c smq [c~ b] qua [c~-. c~(1]
+I0.7 .65 ff
+=2 qua rest cro G-emph smq [G F] qua [E <G(2 c'(1>]
+d1135 1
+a1135 1
+5 bars |3b 12 | 12 |
+d1137 2
+a1138 7
+=1  treble 3b cro c~)1(1 smq [c~)1 d~ c~ bn] cro c~(1
+=2' treble 3b cro c)1(1 smq [c)1 d c Bn] cro c(1
+=2, 3b min G)2 cro G
+|
+=1  smq [c~)1 d~ c~ bn] cro c~(1 smq [c~)1 d~ c~ bn]
+=2' smq [c)1 d c Bn] cro c(1 smq [c)1 d c Bn]
+=2, min A cro G(2
+d1140 2
+a1141 3
+=1  cro c~(1 smq [c~)1 d~ c~ bn] cro c~(1
+=2' cro c(1 smq [c)1 d c Bn] cro c(1 
+=2, min G)2 cro A
+d1143 4
+a1146 3
+=1  smq [c~)1 d~ c~ bn] qua [c~ smq b an] cro b(1
+=2' smq [c)1 d c Bn] qua [c smq B An] cro B(1
+=2, min G(2 smq [G)2 Ab G F]
+d1148 2
+a1149 11
+=1  smq [c~)1 d~ c~ bn] qua. [c~ smq e~] smq [d~ f~ e~ d~]
+=2' smq [c)1 d c Bn] qua. [c smq e] smq [d f e d]
+=2, cro G(2 smq [G)2 Ab G F] cro G(2
+
+6 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+pagenum 9
+innerhead Passacaglia et Thema Fugatum, J. S. Bach
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+4 bars |3b 12 | 12 |
+d1151 2
+a1152 2
+=1  bass 3b cro d)1 min c~
+=2' bass 3b min <C c> cro <F_ F>
+d1156 2
+d1159 3
+a1161 3
+il0.5   160
+=1 cro g)1(1 smq [g)1 a g f] qua e-. treble C(2
+=2' min <C_ C> cro <C c>
+d1166 4
+d1171 1
+a1171 1
+4 bars |3b 12 | 12 |
+d1173 3
+a1175 7
+=1' treble 3b smq [E)1 F E D] cro E(1 smq [E)1 F E D]
+=1, 3b cro C(2 smq [C)2 D C B_n] cro C(2
+=2' bass   3b min <F f> cro <G g>
+|
+=1' qua. rest' smq F [E F E D] cro E(1
+=1, smq [C)2 D C B_n] cro C(2 smq [C)2 D C B_]
+=2' min <A a> cro <F f>
+d1185 1
+a1185 1
+4 bars |3b 12 | 12 |
+d1191 1
+a1191 1
+=1' cro c~(1 smq [c~)1 d~ c~ bn] [c~ d~ c~ bn]
+d1193 1
+d1198 2
+a1199 1
+=2 min. <C_ C>
+d1201 2
+a1202 2
+5 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18\
+ /18-24-18/18-24-18 15/
+d1209 53
+a1261 3
+=1  treble 3b cro e~(1 smq [e~)1 g~ f~ e~] cro a~
+=2' treble 3b cro e(1 smq [e)1 g f e] cro a
+=2, 3b smq [G)2 A G F] cro G(2 smq [G)2 A G F(2]
+d1266 2
+d1270 3
+a1272 3
+=1  cro c~ rest' qua rest' e~(1
+=2' cro c rest' qua rest' e(1
+=2, smq [F)2 A G F] [E F E D] qua C-., rest,
+d1277 1
+a1277 3
+=2, cro rest smq [c d c Bn] cro c(2
+/
+4 bars |3b 12 | 12 |
+d1279 11
+a1289 9
+=1' treble 3b cro e~(1 smq [e~)1 f~ e~ d~] cro e~(1
+=1, 3b smq [c~ d~ c~ bn] cro c~(2 smq [c~)2 d~ c~ b]
+=2' treble 3b cro e(1 smq [e)1 f e d] cro e(1
+=2, 3b smq [c d c Bn] cro c(2 smq [c)2 d c B]
+|
+=1' smq [e~)1 f~ e~ d~] cro e~(1 smq [e~)1 f~ e~ d~]
+=1, cro c~(2 smq [c~)2 d~ c~ bn] cro c~(2
+=2' smq [e)1 f e d] cro e(1 smq [e)1 f e d]
+=2, cro c(2 smq [c)2 d c Bn] cro c(2
+d1292 1
+a1292 1
+=1, smq [c~ d~ c~ bn] [c~ e~ d~ c~] qua [b b]
+d1294 1
+a1294 1
+=2, smq [c d c Bn] [c e d c] qua [B B]
+d1299 1
+a1299 1
+=2, smq [c d c Bn] cro c(2 smq [d f e d]
+d1301 1
+a1301 1
+4 bars |3b 12 | 12 |
+d1310 1
+@
+
+
+1.6
+log
+@up to bar 152
+@
+text
+@d1009 1
+a1009 1
+il0.7       152
+d1013 17
+d1165 141
+@
+
+
+1.5
+log
+@to bar 122
+@
+text
+@d897 251
+@
+
+
+1.4
+log
+@up to 112
+@
+text
+@d632 1
+a632 1
+6 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18\
+d728 36
+a763 1
+
+d861 36
+@
+
+
+1.3
+log
+@to bar 88
+@
+text
+@d1 2
+a2 1
+6 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 15/
+d8 1
+a8 1
+8 bars |3b 3/4 4 | 12 |
+a32 2
+/
+8 bars |3b 12 | 12 |
+d35 4
+a38 2
+=1 bass 3b min rest qua rest' e~(1
+=2 bass 3b min C cro c
+d40 2
+a41 2
+=1 qua e~)1 cro. d~ qua rest' g~(1
+=2 min g cro e
+d61 1
+a61 1
+8 bars |3b 12 | 12 |
+d81 2
+d84 2
+a85 2
+=1 cro f)1  e qua rest e(1
+=2 min c cro F
+a88 2
+/
+8 bars |3b 12 | 12 |
+d91 2
+a92 2
+=1 bass 3b cro c qua rest [g c~ d~]
+=2 bass 3b min C cro c
+d102 2
+d105 2
+a106 2
+=1 cro. d~ qua e~ cro f~
+=2 min g cro d
+a115 2
+/
+8 bars |3b 12 | 12 |
+d118 2
+a119 2
+=1, bass 3b qua [g smq c d] qua [e smq e f] qua [g c~]
+=2 bass 3b min C cro c
+d123 2
+d126 2
+a127 2
+=1 qua [c~)1 smq d~ e~] qua [f~ smq f~ e~] cro d~
+=2 min f cro g
+a164 6
+|
+=1 cro c~ treble qua rest' smq [c' C] qua. [F smq E]
+=2 cro g rest qua rest smq [f' F]
+|
+=1 cro D rest' qua rest' smq [G D]
+=2 min. G
+d166 2
+a167 1
+6 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 15/
+d173 1
+a173 1
+8 bars |3b 3/4 4 | 12 |
+a197 2
+/
+8 bars |3b 12 | 12 |
+d200 2
+a201 2
+=1 treble 3b min rest qua rest c(1
+=2 treble 3b min rest qua rest G(2
+d208 2
+d211 2
+a212 2
+=1 qua. [d)1 smq e] cro c qua rest c(1
+=2 qua G)2 cro. F qua rest A(2
+a224 2
+/
+8 bars |3b 12 | 12 |
+d227 2
+a228 2
+=1 treble 3b qua. [d)1 smq e] cro c qua rest c(1
+=2 treble qua. [F)2 smq G] cro E qua rest G(2
+d232 2
+d235 2
+a236 2
+=1 qua. [B)1 smq c] cro A qua rest G(2
+=2 cro G)2 F qua rest E(2
+a251 2
+/
+8 bars |3b 12 | 12 |
+d254 4
+a257 2
+=1 treble 3b qua C [G, c d e f]
+=2 treble 3b cro E_ min rest
+d259 2
+a260 2
+=1 min d cro g(1
+=2' qua rest [D G A Bb c]
+d277 2
+a278 2
+=1, qua [g <f A> e d c Bn]
+=2' qua [C)2 B_n <C G> <D F> E <D F>]
+d280 1
+a280 1
+8 bars |3b 12 | 12 |
+d300 2
+d303 2
+a304 2
+=1 qua [e smq c B,] qua [c' G] [A, a]
+=2 cro G)2 qua. rest smq D qua [E smq C B_n]
+a307 2
+/
+8 bars |3b 12 | 12 |
+d310 2
+a311 2
+=1 treble 3b qua rest smq [g G,] qua [c smq d e] cro e
+=2 treble 3b cro C rest qua rest smq [G F#]
+d321 2
+d324 2
+a325 2
+=1 qua [g smq d D,] qua [G smq An Bn'] cro B'-tr
+=2 cro Bn cro. rest smq [G F]
+a328 6
+|
+=1 qua [e smq c~ c] qua [f g a f(1]
+=2 cro G cro. rest smq [d An,]
+|
+=1 qua [f)1 smq g d] qua. [e smq f] qua. [d-tr smq e]
+=2' cro Bn qua rest smq [c An] cro B
+d330 2
+a331 1
+6 systems 15 /18-24-18/19-24-18/18-24-18/18-24-18/18-24-18/18-24-18 15/
+d336 7
+a342 1
+8 bars |3b 12 | 12 |
+d345 2
+a346 2
+=1 treble 3b smq [E G_ A_ B_] qua. [C smq D] cro E
+=2 bass 3b min C cro c
+d356 2
+d359 2
+a360 2
+=1 bass smq [d~ d, e f] qua. [g smq an] cro bn
+=2 clefspace min g cro d
+a369 2
+/
+8 bars |3b 12 | 12 |
+d372 2
+a373 2
+=1 bass 3b cro c~ rest smq [g f e]
+=2 bass 3b min C cro c
+d377 2
+d380 2
+a381 2
+=1 cro C smq rest [G F E] [D F E D]
+=2 min f cro g
+d398 1
+a398 1
+8 bars |3b 12 | 12 |
+d415 2
+d418 2
+a419 2
+=1 cro g treble smq rest [C D E] [F Ab G F]
+=2 min E cro B_n
+a425 2
+/
+8 bars |3b 12 | 12 |
+d428 2
+a429 2
+=1 bass 3b qua [e c,] smq rest [g bn g] cro c~-mordent
+=2 bass 3b cro C_ rest smq rest [c e' c]
+d436 2
+d439 2
+a440 2
+=1 cro rest smq rest [c~ e~ c~] cro f~
+=2 cro a rest smq rest [f a f]
+a479 6
+/
+8 bars |3b 12 | 12 |
+|
+il0.5          88
+=1 bass 3b cro g rest smq [c~ e~ d~ c~]
+=2 bass 3b cro C rest rest
+d481 2
+a482 1
+6 systems 15 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 15/
+d487 7
+a493 1
+8 bars |3b 12 | 12 |
+d496 2
+a497 2
+=1 treble 3b cro c rest smq [An, Bn, c]
+=2 treble 3b cro rest smq rest [D E F] cro G(2
+d507 2
+d510 2
+a511 2
+=1 cro Bn rest smq rest [E F G]
+=2 cro G smq rest [A_n B_n C] cro D
+d520 1
+a520 3
+=2 min G(2 smq [G A G F]
+/
+8 bars |3b 12 | 12 |
+d523 2
+a524 2
+=1 treble 3b smq [c c Bb, Ab,] [G A G F] e qua. rest
+=2 treble 3b cro E smq rest [F E D] [C E D C]
+d528 2
+d531 2
+a532 2
+=1 smq [c b a g] [f e d c] cro Bn
+=2 cro A rest smq rest [A G F]
+d576 1
+a576 1
+8 bars |3b 12 | 12 |
+d596 2
+d599 2
+a600 2
+=1 cro e smq rest [c e c] [f d f d]
+=2 cro G smq rest [E G E] cro A
+a603 2
+/
+8 bars |3b 12 | 12 |
+d606 2
+a607 2
+=1 treble 3b smq [e c~ b a] [g f e d] [c e d c]
+=2 treble 3b cro rest rest G-.
+d614 2
+d617 2
+a618 2
+=1 smq [c d c Bb,] [A G F E] cro F-.
+=2 cro E rest smq [D E D C]
+d631 104
+d762 64
+@
+
+
+1.2
+log
+@to bar 71
+@
+text
+@d421 60
+d567 81
+a647 1
+
+@
+
+
+1.1
+log
+@to bar 47
+@
+text
+@d1 2
+a2 2
+6 systems 15 /19-24-19/19-24-19/19-24-19/19-24-19/19-24-19/19-24-19 15/
+pagenum 4
+d163 1
+a163 1
+=1 cro c~ qua rest' smq [c~~ c~] qua. [f~ smq e~]
+d166 1
+a166 1
+=1 cro d~ rest' qua rest' smq [g~ d~]
+d169 2
+a170 2
+6 systems 15 /19-24-19/19-24-19/19-24-19/19-24-19/19-24-19/19-24-19 15/
+pagenum
+d175 1
+a175 1
+8 bars |3b 5 | 12 |
+d335 173
+@

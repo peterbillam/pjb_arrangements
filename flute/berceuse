@@ -1,0 +1,448 @@
+6 systems 10 /19-35-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/
+title Berceuse
+innerhead Op. 16, Gabriel Fauré
+midi channel1 patch0
+/
+5 bars | 1b 6/8 6 | 6 | 6 | 6 | 6 |
+| 6/8 .315 .315 .335 .315 .315 .335
+=1' treble 1b 6/8 cha1 vol65 leg195 qua rest [<F A c> C] rest [<B_ D F> G_]
+i0.3 .08 dolcissimo sempre
+=2  bass   1b 6/8 cha1 vol75 leg90 cro. F leg100 c
+i0.3 .08 una corda
+| 6/8 .49 .49 .49 .52
+=1' qua rest [<F A c> C] rest vol-5 [<B_ D F> vol-5 G_]
+=2  cro. leg85 F leg100 c
+midi pause .04
+| 6/8 .31 .31 .33 .31 .31 .32
+=1' vol50 qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+| 6/8 .31 .31 .33 .31 .31 .33
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+| 6/8 .305 .305 .315 .305 .305 .315
+il0.6 .05 5
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. F leg100 c
+/
+5 bars | 1b 6 | 6 | 6 | 6 | 1 1 1 1.1 1.1 1 |
+| 6/8 .31 .31 .325 .315 .315 .325
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+|
+midi pause .04
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+|
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+| 6/8 .31 .31 .31 .31 .31 .31
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. F c
+| 6/8 .315 .315 .33 .315 .315 .33
+il0.6 .05 10
+=1' qua rest [<F A c> C] rest vol+10 [<C E G#> leg100 G_#]
+=2  cro. leg85 F vol+5 leg100 c
+i0.3 .28 tre corde
+/
+5 bars |1b 1 1 1 1 1.1 1 | 1 1 1 1 1.1 1 | 1 1 1 1 1.1 1 | 1 1 1 1 1.1 1 |6|
+| 6/8 .31 .31 .325 .31 .31 .325
+=1' qua rest leg190 [<E A c> C] rest [<D F A> B_n]
+=2  cro. leg85 A leg100 e
+|
+=1' qua rest [<E A c> C] rest [<D F A> B_n]
+=2  cro. leg85 A leg100 e
+| 6/8 .305 .305 .315 .305 .305 .315
+=1' qua rest [<E A c> C] rest [<D F A> B_n]
+=2  cro. A leg100 e
+| 6/8 .31 .31 .325 .31 .31 .325
+=1' qua rest [<E A c> C] rest [<D F A> B_n]
+=2  cro. leg85 A leg100 e
+| 6/8 .31 .32 .325 .31 .32 .325
+il0.6 .05 15
+=1' qua rest [<E A c> C] rest [<A c> D]
+=2  cro. leg85 A vol+15 leg103 f
+/
+5 bars | 1b 1 1 1 1.1 1 1 | 1 1 1 1 1.1 1 \
+ | 1.1 1.1 1 1 1.1 1 | 2.2 2 2 | 1 1 1.1 1 1 1 |
+| 6/8 .305 .305 .31 .305 .305 .31
+=1' qua rest [<G c> C] rest [<F# c> C]
+=2, cro. e-s4, d#
+| 6/8 .30 .30 .305 .30 .30 .305
+=1' qua rest [<G c> C] rest [<A c> D#]
+=2, cro. e f#
+| 6/8 .305 .305 .31 .305 .305 .31
+=1' qua rest [<E Bn> B_n] rest [<A c> D#]
+=2, cro. leg85 g vol+5 leg100 f#
+|
+=1' qua rest [<E Bn> B_n] rest [E-s2 A-s4]
+=2, cro.  g a
+|
+il0.6 .05 20
+=1' qua rest [F C] vol90 leg100 cro. G#
+=1, cro. blank qua vol55 leg160 blank [F C]
+=2' min. vol+5 d-s3,(2
+/
+6 bars | 1b 1 1 1.1 1 1 1 | 1 1 1 1 1.1 1 | 1 1 1 1 1.1 1 \
+ | 3 2.3 | 4 | 1 1 1 1 1.1 1 |
+| 6/8 .31 .31 .32 .315 .315 .325
+=1' cro. vol90 leg100 A Bn
+=1, qua vol60 leg160 blank [F C] blank [G F]
+=2' bass   1b min. vol-15 G)2
+| 6/8 .31 .31 .33 .315 .315 .33
+=1' qua rest leg190 vol-5 [<E G c> C] rest [<F Gx> D]
+=2  cro. vol75 leg85 c-s3, leg100 g
+| 6/8 .32 .32 .335 .325 .325 .335
+=1' qua rest vol-5 [<E G c> C] rest vol-5 [<F Gx> D]
+=2  cro. leg85 c leg100 vol-5 g
+| 6/8 .33 .33 .335 .33 .33 .335
+=1' qua rest cro leg100 vol-5 <E G c> cro. rest
+=2  cro. vol-5 c rest
+|
+il0.6 .05 25
+=1 cro. blank min. rest
+=2 cro. blank min. rest
+| 6/8 .31 .31 .33 .315 .315 .33
+=1' qua rest vol50 leg190 [<E A c> C] rest [<F Gx> D]
+=2' cro. leg80 B leg100 vol-5 c
+/
+7 bars | 1b 1 1 1 1 1.2 1 | 3 2.3 | 4 \
+ | 1.2 1.2 1 1 1.2 1 | 1.2 1.2 1 1 1.2 1 | 1.2 1 1 .8 .7 .8 | 4 |
+| 6/8 .32 .32 .335 .325 .325 .335
+=1' qua rest [<E A c> C] rest vol-5 [<F Gx> D]
+i0.3 .06 dim . . .
+=2' cro. leg85 B leg100 vol-5 c
+| 6/8 .33 .33 .335 .33 .33 .335
+=1' qua rest cro vol-5 leg100 <E G c> cro. rest
+=2  cro. vol-5 B rest
+|
+=1 cro. blank min. rest
+=2 cro. blank min. rest
+i0.2 .20 una corda
+| 6/8 .31 .31 .33 .315 .315 .33
+il0.6 .05 30
+=1' qua rest vol45 leg190 [<F A c#> C#] rest [<C G Ax> A_]
+=2  cro. leg85 A leg100 e
+| 6/8 .32 .32 .335 .325 .325 .335
+=1' qua rest [<F A c#> C#] rest [<C G Ax> A_]
+=2  cro. leg85 A leg100 e
+| 6/8 .33 .33 .335 .33 .33 .335
+=1' qua rest cro leg100 vol-5 <E G c#> cro. rest
+=2 cro. vol-5 A rest
+|
+=1  min. rest
+=2  min. rest
+i0.3 .18 tre corde
+
+6 systems 10 /19-25-19/ 19-25-19/ 19-25-19/ 19-30-19/ 19-35-19/ 19-25-19/
+pagenum 2
+innerhead Berceuse, Op. 16, Gabriel Fauré
+/
+6 bars | 1b 6 | 6 | 1.3 1 1 1 1 1 \
+ | 1.1 1 1.3 1 1 1 | 1 1.3 1.3 1 1 1 | 2.6 2 2 |
+| 6/8 .305 .305 .315 .305 .305 .315
+=1' qua rest vol65 leg190 [<E A> e] rest [<A d> D]
+=2  cro. vol70 leg85 F leg100 vol80 f
+| 6/8 .30 .30 .31 .30 .30 .31
+il0.6 .05 35
+=1' qua rest [<D G> d] rest [<A d> D]
+=2  cro. e-s3, f
+| 6/8 .295 .295 .305 .295 .295 .310
+=1' qua rest [Eb <G B>] rest [D <G B>]
+=2  cro. vol+5 g vol-5 f
+| 6/8 .30 .30 .31 .30 .30 .31
+=1' qua rest [C# <G Ax>] rest [D A]
+=2 cro. leg85 e leg100 vol90 f-emph(1
+| 6/8 .31 .32 .33 .32 .32 .33
+=1' qua rest [D <Ax Bn>] rest [<A c> E]
+=2  cro. f)1 vol-5 e
+| 6/8 .290 .295 .305 .295 .30 .315
+=1' qua rest [<E G#> B_n] rest [E A_]
+=2  cro. leg85 d leg100 vol-5 c
+/
+7 bars | 1b 1 1.5 1 1 1.5 1 | 6 | 6 | 6 \
+ | 1.5 1 1 1 1 1 | 1 1 1.5 1 1 1 | 1 1.5 1.5 1 1 1 |
+| 6/8 .29 .29 .30 .29 .29 .30
+il0.6 .05 40
+=1' qua rest [A_ F#] rest [D G#]
+=2  cro. d vol-5 e
+| 6/8 .295 .295 .305 .295 .295 .310
+=1' qua rest [C A] rest [<C# E> A]
+=2  cro. a vol+5 G-s4,
+|
+=1' qua vol-10 rest [<E A> e] rest [<A d> D]
+=2  cro. vol+5 leg85 F leg100 f
+| 6/8 .29 .29 .30 .29 .29 .30
+=1' qua rest [<D G> d] rest [<A d> D]
+=2  cro. e-s3, f
+| 6/8 .285 .285 .29 .285 .285 .29
+=1' qua rest [Eb <G B>] rest [D <G B>]
+=2  cro. g f
+| 6/8 .29 .29 .30 .29 .29 .30
+il0.6 .05 45
+=1' qua vol+10 rest [C# <G Ax>] rest [D A]
+=2 cro. leg85 e leg100 vol95 f-emph(1
+| 6/8 .30 .30 .31 .30 .30 .31
+=1' qua rest [D <Ax Bn>] rest [<A c> E]
+=2  cro. f)1 vol-5 e
+/
+6 bars | 1b 2.6 2 2 | 1 1.3 1 1 1.3 1 | 6 \
+ | 1.3 1 1 1 1 1 | 1 1 1 1 1.5 1 | 1.3 1 1 1 1 1 |
+| 6/8 .305 .305 .315 .31 .31 .315
+=1' qua rest [<E G#> B_n] rest [E A_]
+=2  cro. d vol-5 c
+| 6/8 .295 .29 .30 .29 .29 .30
+=1' qua rest [A_ F#] rest [D G#]
+=2 cro. d vol-5 e
+| 6/8 .295 .295 .305 .295 .295 .310
+=1' vol-10 qua rest [C A] rest [<A c> C]
+=2  cro. vol+5 leg85 a vol+5 leg100 g
+|
+il0.6 .05 50
+=1' qua rest [Eb <A c>] rest [<A c> D]
+=2 cro. leg85 f#-s1, vol+10 leg100 F#
+|
+=1' qua rest [D <G B>] rest [<G Ax> En]
+=2  cro. leg85 vol-5 G leg100 vol-5 c#
+|
+=1' qua rest [Eb <A c>] rest [<A c> D]
+=2  cro. leg85 vol-5 cn-s4, leg100 f#-s2,
+/
+7 bars | 1b 1 1 1 1.3 1 1.5 | 6 | 6 | 6 | 3 2.2 | 6 | 3 2.2 |
+|
+=1' qua rest [D <G B>] rest [En <G Ax>]
+=2  cro. leg85 vol-5 g leg100 c#-s5,
+|
+=1' qua rest [F A] rest [<G B> C]
+=2  cro. leg85 d leg100 e
+|
+il0.9 .01 55
+=1' qua rest [<F A-s3-s5> C] rest [D-s1 F]
+=2 cro. leg85 f leg100 b
+| 6/8 .295 .295 .305 .30 .30 .31
+=1' qua rest [F-s3 A-s5] rest vol-5 [A F]
+=2' cro. vol50 d~ vol-5 d~b
+=2, min. vol100 a(2
+| 6/8 .305 .305 .315 .31 .31 .32
+=1' qua rest leg100 vol-5 [F vol-5 A] cro. rest
+=2' cro. vol55 c~ blank
+=2, cro. vol100 a)2 rest
+|
+=1' qua leg190 rest [F-s3 A-s5] rest vol-5 [A F]
+=2' cro. vol60 vol+5 d~ vol-5 d~b
+=2, min. vol85 a(2
+| 6/8 .31 .31 .32 .315 .315 .325
+=1' qua rest vol-5 [F leg100 vol-5 A] cro. rest
+=2' cro. vol50 c~ blank
+=2, cro. vol85 a)2 rest
+/
+7 bars | 1b 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+| 6/8 .98 1.01
+il0.9 .01 60
+=1' qua leg190 vol50 [F-s1 B-s4 c-s5] [E-s2 vol-5 c B]
+=1, cro. vol55 F E
+i0.2 .40 poco rit . . .
+=2, vol-5 min. g-s1,
+| 6/8 1.04 1.07
+=1' qua [D-s1 B c] [E vol-5 B c]
+=1, cro. D vol-5 E
+=2  vol-5 min. c-s3,
+| 6/8 .31 .31 .325 .315 .315 .325
+i0.8 .01 a tempo
+=1' qua rest vol50 [<F A c> C] rest [<B_ D F> G_]
+i0.2 .04 sempre dolcissimo . . .
+=2  cro. vol75 leg85 F leg100 c
+i0.2 .01 una corda
+|
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+| 6/8 .31 .31 .31 .31 .31 .31
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. F c
+| 6/8 .31 .31 .325 .315 .315 .325
+il0.6 .05 65
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+| 6/8 .31 .31 .325 .31 .31 .325
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+/
+6 bars | 1b 6 | 6 | 1 1 1 1.3 1.3 1 \
+ | 1 1 1 1 1.3 1 | 1 1 1 1 1.3 1 | 1 1 1 1 1.3 1 |
+|
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. leg85 F leg100 c
+| 6/8 .305 .305 .315 .305 .305 .315
+=1' qua rest [<F A c> C] rest [<B_ D F> G_]
+=2  cro. F leg100 c
+| 6/8 .31 .31 .325 .31 .31 .325
+=1' qua rest [<F A c> C] rest vol+10 [<C E G#> G_#]
+=2  cro. leg85 F leg100 vol+10 c
+i0.3 .28 tre corde
+| 6/8 .31 .31 .325 .31 .31 .325
+il0.6 .05 70
+=1' qua rest [<E A c> C] rest [<D F A> B_n]
+=2  cro. leg85 A leg100 e
+|
+=1' qua rest [<E A c> C] rest [<D F A> B_n]
+=2  cro. leg85 A leg100 e
+| 6/8 .305 .305 .315 .305 .305 .315
+=1' qua rest [<E A c> C] rest [<D F A> B_n]
+=2  cro. A e
+
+6 systems 10 /19-30-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-30-19/
+pagenum 3
+innerhead Berceuse, Op. 16, Gabriel Fauré
+/
+6 bars | 1b 1 1 1 1 1.3 1 | 6 | 1 1 1 1.3 1 1 \
+ | 1 1 1 1 1.3 1 | 1.3 1.3 1 1 1.3 1 | 2.6 2 2 |
+| 6/8 .31 .31 .325 .31 .31 .325
+=1' qua rest [<E A c> C] rest [<D F A> B_n]
+=2  cro. leg85 A leg100 e
+| 6/8 .31 .32 .325 .31 .32 .325
+=1' qua rest [<E A c> C] rest [<A c> D]
+=2  cro. leg85 A vol+10 leg100 f
+| 6/8 .305 .305 .31 .305 .305 .31
+il0.6 .05 75
+=1' qua rest [<G c> C] rest [<F# c> C]
+=2, cro. e-s4, d#
+| 6/8 .295 .295 .30 .295 .295 .30
+=1' qua rest [<G c> C] rest [<A c> D#]
+=2, cro. e f#
+| 6/8 .305 .305 .31 .305 .305 .31
+=1' qua rest [<E Bn> B_n] rest [<A c> D#]
+=2, cro. leg80 g leg100 f#
+| 6/8 .295 .295 .30 .295 .295 .30
+=1' qua rest [<E Bn> B_n] rest [E-s2 A-s4]
+=2, cro.  g a
+/
+6 bars | 1b 1 1 1.3 1 1 1 | 1 1 1.1 1 1 1 | 6 \
+ | 2.6 2 2 | 2.6 2 2 | 2.6 2 2 |
+| 6/8 .305 .305 .31 .305 .305 .31
+=1' qua rest [F C] cro. vol+15 G# vol-15
+=1, cro. blank qua blank [F C]
+=2' min. d-s3,(2
+| 6/8 .31 .31 .32 .315 .315 .325
+il0.6 .05 80
+=1' cro. vol+15 A Bn vol-15
+=1, qua blank [F C] blank [G F]
+=2' min. G)2
+
+| 6/8 .33 .33 .34 .33 .33 .33
+=1' qua rest [<C E G> c] rest [<E G c> C]
+=2  cro. vol+10 c-s1, B
+| 6/8 .315 .315 .325 .315 .315 .325
+=1' qua rest [<C Eb Fx> c] rest [<E Fx B> B_]
+=2  cro. vol-5 A vol-5 G
+| 6/8 .31 .31 .32 .315 .315 .325
+=1' qua rest [<A_ Eb Fx> A] rest [<E G B> B_]
+=2  cro. leg85 F leg100 c
+|
+=1' qua rest [<A_ Eb Fx> A] rest [<E G B> B_]
+=2  cro. F vol-10 c
+/
+6 bars | 1b 1.3 1.3 1 1 1 1 | 1.3 1.3 1 1 1 1 | 1.3 1.3 1 1 1 1 \
+ | 1 1 1 1.3 1 1 | 1.3 1 1 1.3 1 1 | 1 1 1 1.3 1 1 |
+|
+il0.6 .05 85
+=1' qua rest [<A_ Eb Fx> A] rest [<E G B> B_]
+=2  cro. leg85 F leg100 vol-10 c
+|
+=1' qua rest [<A_ Eb Fx> A] rest [<E G B> B_]
+=2  cro. F vol+10 c
+|
+=1' qua rest [<A_ Eb Fx> A] rest [<F c> E]
+=2  cro. leg85 F leg100 vol+10 A-s4,
+| 6/8 .31 .31 .32 .31 .31 .32
+=1' qua rest [<D F> B] rest [<F# A> D]
+=2' cro. B d-s2,
+|
+=1' qua rest [<G Bn> D] rest [<G Bb> E]
+=2  cro. g leg80 c
+|
+il0.6 .05 90
+=1' qua rest [<A c> D] rest [<F# c> D]
+=2, cro. leg100 f# d
+/
+7 bars | 1b 1.5 1 1 1.5 1 1 | 1 1 1 1.5 1 1 | 6 | 1 1 1.5 1.5 1 1 \
+ | 1 1 1.5 1 1 1 | 2.5 2 | 4 |
+|
+=1' qua rest [<Fnl Bn> D] rest [<G Bb> E]
+=2  cro. g c
+| 6/8 .315 .315 .32 .315 .315 .32
+=1' qua rest [<F A> C] rest [C# F]
+=2  cro. f vol-5 A-s5,
+| 6/8 .315 .315 .325 .315 .315 .325
+=1' qua rest [F D] rest [F B_]
+=2' cro. vol-5 B vol-5 d-s2,
+| 6/8 .32 .32 .325 .32 .32 .325
+=1' qua [F A_ C] [Eb vol-5 F# E]
+=2' min. vol-5 c-s1,
+| 6/8 .32 .325 .33 .325 .33 .335
+il0.6 .05 95
+=1' qua [D vol-5 B_ D] [En vol-5 B_ E]
+=2' min. vol-5 C
+| 6/8 .33 .335 .32 .325 .325 .33
+=1' cro vol-5 leg100 <A_ vol-5 F> qua rest cro. rest
+=2' cro vol-5 F qua rest cro. rest
+|
+=1  min. rest
+=2  min. rest
+i0.2 .01 una corda
+/
+7 bars | 1b 6 | 6 | 1.3 1 1 .8 .7 .7 | 4 \
+ | 1.3 1 1 1 1 1 | 1.3 1 1 1 1 1 | 3 2.2 |
+|
+=1' qua rest vol55 leg190 [<F A> A_] cro. blank
+=2' cro. blank qua rest'' vol50 [a f]
+=2, 1b cro. d f
+|
+=1' qua rest vol-5 [<F A> A_] cro. blank
+=2' cro. blank qua rest'' vol45 [a f]
+=2, cro. vol55 c# vol50 f
+| 6/8 .35 .35 .35 .30 .30 .30
+il0.6 .05 100
+=1' qua rest cro leg100 <A_ F# A> cro. rest
+=2, cro. d rest
+|
+=1  min. rest
+=2  min. rest
+| 6/8 .64 .64 .67
+=1' qua rest [<F# A> A_] cro. blank
+=2' cro. blank qua rest'' [a f#]
+=2, cro. d f#
+|
+=1' qua rest [<Fn A> A_] cro. blank
+=2' cro. blank qua rest'' [a f]
+=2, cro. db fn
+| 6/8 .35 .35 .35 .30 .30 .30
+=1' qua rest cro leg100 <A_ F A> cro. rest
+=2, cro. c rest
+/
+7 bars | 1b 4 | 6 | 1 1.3 1 1 1.4 1 | 1 1 1 1 1.3 1 | 6 | 3 2.2 | 2.5 3 ||
+| 6/8 1.01 1.04
+il0.6 .05 105
+=1  min. rest
+i0.2 .14 poco rit . . .
+=2  min. rest
+i0.2 .05 tre corde
+| 6/8 .64 .64 .67
+=1' qua rest vol65 leg190 [<E A c> C] rest [C E]
+i0.2 .04 a tempo
+=2' cro. leg85 vol+10 A-s3, leg100 c
+|
+=1' qua rest [<E B cx> C] rest [<B_ Cx> E]
+=2' cro. leg85 G leg100 vol-5 c
+|
+=1' qua rest [<F A> C] rest vol-5 [<D F Gx> B_]
+=2' cro. leg85 F leg100 vol-5 c
+|
+=1' qua rest [<F A> C] rest vol-5 [<D F Gx> B_]
+=2' cro. F vol-5 c
+| 6/8 .39 .35 .35 .35 .35 .35
+il0.6 .05 110
+=1' qua rest cro leg100 vol-5 <C F A> cro. rest
+=2  cro. vol-5 F rest
+|
+=1, min vol50 <A vol65 f> qua rest rest
+=2, min vol50 <f vol45 c~> qua rest rest
+

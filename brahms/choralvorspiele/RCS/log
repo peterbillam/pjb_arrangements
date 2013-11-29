@@ -1,0 +1,34 @@
+19980410 164802 tenor pjb O wie selig seid ihr doch, Tenor part
+19980410 171445 bass pjb O wie selig, Bass part
+19980410 171511 Makefile pjb Makefile for O wie selig
+19980410 171655 bass pjb two typos
+19980413 114335 soprano pjb Soprano part, O wie selig seid ihr doch
+19980413 114353 alto pjb Altp part, O wie selig seid ihr doch
+19980413 114416 tenor pjb spread out to 2 bars per line
+19980413 114431 bass pjb spread out to 2 bars per line
+19980531 091440 bass pjb correct accidentals
+19980531 091717 tenor pjb correct rhythm in last bar
+19980531 092317 bass pjb Bn in bar 9
+19980531 093130 bass pjb correct breath spacings, rhythm in 16
+19980531 093257 tenor pjb cro. at end of o_wie bar 9
+19980531 093712 alto pjb accidentals in 10, 15, 16
+19990405 151124 score pjb Score of 3 Chorale Preludes; from parts
+19990407 164608 score pjb corrections up to Ros bar 8
+19990408 153921 score pjb fully tweaked; but Ros last 5 bars need phrasing
+19990409 174236 score pjb last phrasing, Plus Isaac, Bach and Praetorius
+19990413 111559 score pjb added words for Praetorius Ros
+19990415 161754 score pjb octavise clefs as 1.7d; transpose Ros into C
+19990701 105021 score pjb add barlines to Innsbruck
+19990701 110139 score pjb minor changes to O wie Seilig Cruger/Bach
+19990702 223937 score pjb brahms o welt alto bar 14 Bn
+19990702 224018 soprano pjb o welt bar 14 is 4/2
+19991014 154321 make_samples pjb Make samples for ChoralVorspiele
+19991014 195501 Makefile pjb cat the separate instruments into parts
+19991018 192732 score pjb roll parts into score, and contrabass part
+19991018 192957 Makefile pjb roll the parts into the score
+19991204 155508 score pjb Ros: rhythm in 4 bass, Bn in 9 tenor, less breaths
+20010207 190901 Makefile pjb use a42us etc, add free edititon
+20010207 190934 score pjb much modernising, eg fermata
+20010207 191000 title_free pjb title page of free edition
+20061125 212455 score pjb 2 misprints in Isaac, much spacing refinement
+20080827 065635 score pjb updated muscript syntax

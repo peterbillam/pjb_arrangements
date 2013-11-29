@@ -1,0 +1,34 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                                          #
+#      P J B Computing specialises in Internet Commerce, and offers Web #
+# Functionality in Perl, HTML and Java.           http://www.pjb.com.au #
+#########################################################################
+
+$sd = '/home/pjb/www/mus/samples';
+$message = 'Sample only.  Order the whole song at www.pjb.com.au/mus !';
+
+foreach $paper ('a4') {
+   open (I, "poet.$paper") || die "can't open poet.$paper: $!\n";
+   open (O, "> $sd/poet.$paper") || die "can't open $sd/poet.$paper: $!\n";
+
+   while (<I>) {
+      if (/^pgsave restore/) {
+         print O "565 30 /Times-Italic 9 ($message) rightshow\n";
+         print O "pgsave restore\nshowpage\n";
+         last;
+      }
+      print O;
+   }
+   close I;
+   close O;
+}
+

@@ -1,0 +1,518 @@
+6 systems / 19 25 19 /
+title Eine Kleine Nachtmusik - 1st mvt
+innerhead Wolfgang Amadeus Mozart
+midi channel1 patch0
+/
+5 bars | 1# 4/4 8 | 8 |
+| 4/4 1.76
+=1 treble 1# 4/4 channel1 smb blank
+=2 bass 1# 4/4 channel9 vol-20 cro-s F# vol-8 F# vol+8 qua F# vol-8 F# F# F#
+| 4/4 .91 .89
+=1 cha1 vol105 leg70 cro <D G> qua rest vol-8 leg50 D \
+ cro vol+8 leg70 G qua rest vol-8 leg50 D
+=2 cha1 vol105 leg70 cro <g b> qua rest vol-8 leg50 d \
+ cro vol+8 leg70 g qua rest vol-8 leg50 d
+| 4/4 .87 .88
+=1 qua vol+2 leg60 [G vol+2 D vol+2 G vol+2 B'] cro vol+2 d rest
+=2 qua vol+2 leg60 [g vol+2 d vol+2 g vol+2 b] cro vol+2 d~ rest
+| 4/4 .90 .88
+=1 leg70 cro c qua rest vol-8 leg50 A \
+ cro vol+8 leg70 c qua rest vol-8 leg50 A
+=2 leg70 cro c~ qua rest vol-8 leg50 a \
+ cro vol+8 leg70 c~ qua rest vol-8 leg50 a
+| 4/4 .87 .89
+=1' leg60 qua vol+2 [c vol+2 A vol+2 F vol+2 A] cro vol+2 D rest
+=2 leg60 qua vol+2 [c~ vol+2 a vol+2 f vol+2 a] cro vol+2 d rest
+| 4/4 1.76
+=1 leg45 vol60 qua [G G vol+2 G G] vol+2 [G G vol+2 G G]
+=2 leg45 vol60 qua [<g b> <g b> vol+2 <g b> <g b>] vol+2 [<g b> <g b> vol+2 <g b> <g b>]
+|
+=1' qua vol+2 [A A vol+2 A A] vol+10 [A(2 vol-10 c)2 vol+8 F(2 vol-10 A)2]
+=2 qua vol+2 [<g c~x d~> <g c~x d~> vol+2 <g c~x d~> <g c~x d~>] \
+ [<g c~x d~> vol-2 <g c~x d~> <g c~x d~> <g c~x d~>]
+|
+=1 qua [G G vol+2 G G] vol+2 [G G vol+2 G G]
+=2 qua [<g b> <g b> vol+2 <g b> <g b>] vol+2 [<g b> <g b> vol+2 <g b> <g b>]
+|
+=1' qua vol+2 [A A vol+2 A A] vol+10 [A(2 vol-10 c)2 vol+8 F(2 vol-10 A)2]
+=2 qua vol+2 [<g c~x d~> <g c~x d~> vol+2 <g c~x d~> <g c~x d~>] \
+ [<g c~x d~> vol-2 <g c~x d~> <g c~x d~> <g c~x d~>]
+|
+=1 cro vol+2 D vol+2 c vol+2 d qua [c(1 vol-3 smq B, vol-4 A,)1]
+=2 qua [<g b> <g b> vol+2 <a d~> <a d~>] \
+ vol+2 [<b d~> <b d~> vol-4 <f d~> <f d~>]
+|
+=1 qua [G vol-4 G F vol-4 F] leg100 cro G rest
+=2 qua [<g d~> vol-4 <g d~> <a d~> vol-4 <a d~>] leg100 cro <b d~> rest
+| 4/4 1.80
+midi pause .05
+=1, vol75 min <B d> <c e>
+=2, smb rest
+| 4/4 .44 .46 .44 .46
+=1 smq-s <B' d'> cro leg45 <A, c> leg60 <A, c> \
+ leg100 smq-s <A c'> cro leg45 <G B'> leg60 <G B'>
+=2, leg100 min <d f> <e g>
+| 4/4 .44 .46 .45 .45
+=1 dsq-s B' qua.. leg45 A cro leg60 A qua [G(2 F)2 E F]
+=1, cro leg45 E leg60 E min blank
+=2, leg50 cro <c c~> <c c~> <d, a c~> <d a>
+| 4/4 .45 .46 .47 .45
+=1 leg60 qua <D G> vol-8 rest <D F A> rest vol-8 leg85 <D G B'> rest cro rest
+=2 leg60 qua <B, g> vol-8 rest d rest vol-8 leg85 g rest cro rest
+|
+=1, vol65 leg100 min B vol+5 c
+=2, smb rest
+| 4/4 1.78
+=1' vol+5 qua [B(1 leg45 vol-10 A)1 A A] vol+10 [A(1 vol-10 G)1 G G]
+=1, leg100 min F E
+=2, vol70 leg100 min d e
+|
+=1 leg45 cro <C E> leg35 qua [<C E> <C E>] \
+ leg45 cro <A_ C> leg35 qua [<A_ C> <A_ C>]
+=2, leg50 cro c leg95 c  leg50 d leg95 d
+|
+=1 min vol105 leg100 B_(2 qua [B_)2 vol75 dsq C B_ A_ B_ qua C A_]
+=2, qua vol110 leg90 [<G g> leg50 vol92 g vol75 g g] [g g g g]
+|
+=1 min vol105 leg100 G(2 qua [G)2 vol75 dsq A G F G qua A F]
+=2, qua vol110 leg90 [<G g> leg50 vol92 g vol75 g g] [g g g g]
+|
+=1' vol75 leg100 min <G B> cro <G c> vol+8 <A c>
+=2, qua leg60 [g vol70 g g g] vol+4 [g vol+4 g vol+4 g vol+4 g]
+|
+=1' vol+8 cro B vol+8 min d vol+8 cro g
+=2, qua vol+4 [<g g~> vol+4 <g g~> vol+4 <f f~> vol+4 <f f~>] \
+ vol+4 [<g g~> vol+4 <g g~> vol+4 <e e~> vol+4 <e e~>]
+| 4/4 1.76
+=1, vol108 leg150 smq [f d A d] [f d A leg100 d] \
+ leg150 [g d A d] [g d A leg100 d]
+=2, vol115 leg85 min d d~
+|
+=1, vol108 leg150 smq [f d A d] [f d A leg100 d] \
+ leg150 [g d A d] [g d A leg100 d]
+=2, vol115 leg85 min d d~
+|
+=1' leg80 qua <d f> cro <d f> <d f> <d f> qua <d f>
+=1, qua [F G A G] [F G A F]
+=2, qua [d e f e] [d e f d]
+|
+=1' leg80 qua vol-15 <d ex> vol+15 cro <d ex> <d ex> <d ex> qua <d ex>
+=1, qua [B A G A] [B A G# B]
+=2, qua [g a b a] [g a b g#]
+|
+=1, leg60 qua [<A c# e> leg75 <A c e> leg60 <A d f> leg75 <A d f>] \
+ leg60 [<A c# e> leg75 <A c e> leg60 <A d f> leg75 <A d f>]
+=2 vol120 smb a(1
+| 4/4 .88 .91
+=1, qua [<A c# e> leg45 A A A] leg100 cro A rest
+=2, qua [a)1 leg45 <A a> <A a> <A a>] leg100 cro <A a> rest
+| 4/4 1.82
+=1' min. rest vol65 leg65 qua <F B> rest
+=2, min. rest vol65 leg65 qua d# rest
+|
+=1 qua <B_ G> rest <E G> rest <E A> rest vol+10 C# rest
+=2 qua e rest dn rest c# rest vol+10 A rest
+|
+=1 cro rest leg100 E(2 qua leg65 vol-10 D)2 rest <E G> rest
+=2 cro rest leg100 vol+5 A#(2 qua leg65 vol-10 B)2 rest vol-5 G rest
+|
+=1 min leg100 vol+10 <D F> cro <C# E> rest
+=2 cro A cro. leg100 vol+10 a qua vol-2 [g# vol-3 gn vol-3 e]
+|
+=1' cro. leg100 vol+20 A smq3 vol-3 [G vol-3 F-I3 vol-3 E] qua vol-1 D \
+ rest vol75 leg65 <F B> rest
+=1, cro rest vol85 C# min rest
+=2, vol75 leg65 qua d rest e rest f rest d# rest
+|
+=1 qua G rest E rest A rest vol+5 <E G> rest
+=2 qua <e b> rest <d g> rest <c#, e> rest A rest
+|
+=1 leg100 qua [<E G> leg65 <D F>] rest g leg100 [g vol-5 f] rest leg65 vol65 G
+=2 qua B rest g rest a rest vol+5 A rest
+| 4/4 1.79
+=1' qua [<D F> <D F> leg45 <E G> leg60 <E G>] \
+ leg45 [<F A> leg60 <F A> leg45 <D F> leg60 <D F>]
+=2 cro leg100 vol85 d min. rest
+|
+=1 qua leg45 [<C# E> leg60 <C# E> leg45 <D F> leg60 <D F>] \
+ leg45 [<E G> leg60 <E G> leg45 <C# E> leg60 <C# E>]
+=2 cro A min. rest
+|
+=1' vol60 qua [<D F> <D F> leg45 <E G> leg60 <E G>] \
+ leg45 [<F A> leg60 <F A> leg45 <D F> leg60 <D F>]
+=2 cro leg75 d min. rest
+|
+=1 qua leg45 [<C# E> leg60 <C# E> leg45 <D F> leg60 <D F>] \
+ leg45 [<E G> leg60 <E G> leg45 <C# E> leg60 <C# E>]
+=2 cro A min. rest
+|
+=1 leg100 cro <D F> rest vol100 min <B, f(1>
+=2 qua vol115 leg60 rest [d, f e] leg80 [d#' leg60 B c# d]
+|
+=1 cro e)1 rest min <A, e(1>
+=2 qua [e g e d,] leg80 [c# leg60 A B c]
+|
+=1 qua leg45 [d)1 vol110 f g a] vol95 leg100 [g smq a b qua leg45 a g]
+=2 qua [d, leg45 d, e f] vol95 leg100 min <g d~>
+|
+=1' min blank qua [f(1 e)1 d c#]
+=1, qua [g(1 f)1 d f] leg85 cro. A qua G
+=2 min <a d~> A
+| 4/4 1.79
+=1' qua [<F d'> vol65 <D F> leg45 <E G> leg60 <E G>] \
+ leg45 [<F A> leg60 <F A> leg45 <D F> leg60 <D F>]
+=2 cro leg100 vol85 d min. rest
+|
+=1 qua leg45 [<C# E> leg60 <C# E> leg45 <D F> leg60 <D F>] \
+ leg45 [<E G> leg60 <E G> leg45 <C# E> leg60 <C# E>]
+=2 cro A min. rest
+|
+=1' vol60 qua [<D F> <D F> leg45 <E G> leg60 <E G>] \
+ leg45 [<F A> leg60 <F A> leg45 <D F> leg60 <D F>]
+=2 cro leg75 d min. rest
+|
+=1 qua leg45 [<C# E> leg60 <C# E> leg45 <D F> leg60 <D F>] \
+ leg45 [<E G> leg60 <E G> leg45 <C# E> leg60 <C# E>]
+=2 cro A min. rest
+|
+=1 leg100 cro <D F> rest vol100 min <B, f(1>
+=2 qua vol115 leg60 rest [d, f e] leg80 [d#' leg60 B c# d]
+|
+=1 cro e)1 rest min <A, e(1>
+=2 qua [e g e d,] leg80 [c# leg60 A B c]
+|
+=1 qua leg45 [d)1 vol110 f g a] vol95 leg100 [g smq a b qua leg45 a g]
+=2 qua [d, leg45 d, e f] vol95 leg100 min <g d~>
+|
+=1' min blank qua [f(1 e)1 d c#]
+=1, qua [g(1 f)1 d f] leg85 cro. A qua G
+=2 min <a d~> A
+| 4/4 1.76
+=1 qua [<F d'> vol100 A B' c#'] [d d leg100 smq3 e f e smq d e]
+=2, qua leg70 [d <A a> <B b> <c# c~#>] \
+ leg45 [<d d~> leg70 <d d~> leg45 <e e~> leg70 <e e~>]
+|
+=1 qua leg50 [f vol95 c# d e] [f f leg100 smq3 g a g smq f g]
+=2, qua leg70 [<f f~> <c# c~#> <d d~> <e e~>] \
+ leg45 [<f f~> leg70 <f f~> leg45 <g g~> leg70 <g g~>]
+| 4/4 .22 .23 .24 .25 .25 .25 .25 .25
+=1 qua leg50 [a a leg100 smq3 a# b a# smq vol-10 g# a] cro vol-10 b rest
+=2, qua leg45 [<a a~> leg70 <a a~> leg45 <a# a~#> leg70 vol-10 <a a~>] \
+ cro leg100 vol-10 <b b~> rest
+| 4/4 1.90
+=1' vol80 cro. B qua e [d c# B A]
+=1, vol90 smb G
+=2' min. vol80 e~ qua [d~ c~#]
+=2' min g a
+| 4/4 1.8
+=1 qua vol75 leg45 <F d'> rest <A, f> rest leg85 <F d'> rest cro rest
+=2, qua vol75 leg45 <d d~> rest <d d~> rest leg85 <d d~> rest cro rest
+| 4/4 .91 .89
+midi pause .08
+=1 cha1 vol105 leg70 cro D qua rest vol-8 leg50 A_ \
+ cro vol+8 leg70 D qua rest vol-8 leg50 A_
+=2 cha1 vol105 leg70 cro d' qua rest vol-8 leg50 A \
+ cro vol+8 leg70 d qua rest vol-8 leg50 A
+| 4/4 .87 .89
+=1 qua vol+2 leg60 [D vol+2 A_ vol+2 D vol+2 F#] cro vol+2 A rest
+=2 qua vol+2 leg60 [d' vol+2 A vol+2 d vol+2 f#'] cro vol+2 a rest
+| 4/4 .45 .45 .46 .47
+=1 leg70 cro A qua rest vol-8 leg50 F \
+ cro vol+8 leg70 A qua rest vol-8 leg50 F
+=2 leg70 cro a qua rest vol-8 leg50 f \
+ cro vol+8 leg70 a qua rest vol-8 leg50 f
+| 4/4 .48 .50 .53 .53
+=1' leg60 qua vol+2 [A vol+2 F vol+2 D# vol+2 F] cro vol+2 leg100 B_ rest
+=2 leg60 qua vol+2 [a vol+2 f vol+2 d# vol+2 f] cro vol+2 leg100 B rest
+| 4/4 1.79
+=1' vol64 qua leg45 [<C E> leg60 <C E> leg45 <D Fn> leg60 <D F>] \
+ leg45 [<E G> leg60 <E G> leg45 <C E> leg60 <C E>]
+=2 cro leg100 vol85 c min. rest
+|
+=1 qua leg45 [<B_ D> leg60 <B_ D> leg45 <C E> leg60 <C E>] \
+ leg45 [<D Fn> leg60 <D F> leg45 <B_ D> leg60 <B_ D>]
+=2 cro G min. rest
+| 4/4 1.79
+=1' vol58 qua leg45 [<C E> leg60 <C E> leg45 <D Fn> leg60 <D F>] \
+ leg45 [<E G> leg60 <E G> leg45 <C E> leg60 <C E>]
+=2 cro leg75 vol85 c min. rest
+|
+=1 qua leg45 [<B_ D> leg60 <B_ D> leg45 <C E> leg60 <C E>] \
+ leg45 [<D Fn> leg60 <D F> leg45 <B_ D> leg60 <B_ D>]
+=2 cro G min. rest
+| 4/4 1.79
+=1' vol64 qua leg45 [<C E> leg60 <C E> leg45 <D Fn> leg60 <D F>] \
+ leg45 [<E G> leg60 <E G> leg45 <C E> leg60 <C E>]
+=2 cro leg100 vol85 c min. rest
+|
+=1 vol58 qua leg45 [<B_ D> leg60 <B_ D> leg45 <C E> leg60 <C E>] \
+ leg45 [<D Fn> leg60 <D F> leg45 <B_ D> leg60 <B_ D>]
+=2 cro leg75 e min. rest
+| 4/4 1.80
+=1' vol65 qua leg45 [<A_ C> leg60 <A_ C> leg45 <B_ D> leg60 <B_ D>] \
+ leg45 [<C E> leg60 <C E> leg45 <A_ C> leg60 <A_ C>]
+=2 cro leg100 vol85 A min. rest
+| 4/4 1.80
+=1 vol58 qua leg45 [<A_ C> leg60 <A_ C> leg45 <B_b D> leg60 <B_ D>] \
+ leg45 [<C Eb> leg60 <C E> leg45 <A_ C> leg60 <A_ C>]
+=2 cro leg75 d min. rest
+| 4/4 1.82
+=1 qua leg45 [<G_ B_b> leg60 <G_ B_> leg45 <F_ A_> leg60 <F_ A_>] \
+ leg45 [<G_ B_b> leg60 <G_ B_b> leg45 <F A> leg60 <F A>]
+=2 vol95 leg100 smb eb(1
+| 4/4 .46 .47 .48 .49
+=1 qua leg50 [<G Bb> leg65 vol+10 <G B> leg45 <F A> leg60 <F A>] \
+ leg60 [<G Bb> leg85 <G_ B> <F_ A> leg60 <G_ G>]
+=2 vol95 leg100 smb eb)1
+| 4/4 .99 .90
+=1 cro leg100 F qua rest vol105 qua D [E F G A]
+=2, cro vol80 leg100 <d a> qua rest vol105 d [e f g a]
+| 4/4 .22 .22 .25 .22 .22 .22 .22 .22
+=1 qua vol+10 [c vol-10 Bb] rest F [G A B' c#']
+=2 qua vol+10 [c~ vol-10 bb] rest f [g a b c~#]
+| 4/4 .22 .22 .25 .22 .22 .22 .22 .22
+=1 qua vol+10 [e vol-10 d] min. rest
+=2 qua vol+10 [e~ vol-10 d~] min. rest
+| 4/4 1.95
+=1 smb rest
+=2 smb rest
+| 4/4 1.79
+=1, qua leg45 vol65 [<B d> <B d> leg100 vol+10 <B d> leg45 vol-10 <c e>] \
+ [<A c> <A c> leg100 vol+10 <A c> leg45 vol-10 <B d>]
+=1 smb rest
+| 4/4 .45 .45 .46 .47
+=1, qua leg45 vol65 [<G B> <G B> leg100 vol+10 <G B> leg45 <B d>] \
+ leg90 vol+5 [<B d> leg80 vol+5 <A c> leg60 vol+5 <G B> vol+5 <D A>]
+=2 vol100 leg100 smb d
+=1 smb rest
+
+| 4/4 .91 .89
+=1 vol105 leg70 cro <D G> qua rest vol-8 leg50 D \
+ cro vol+8 leg70 G qua rest vol-8 leg50 D
+=2 vol105 leg70 cro <g b> qua rest vol-8 leg50 d \
+ cro vol+8 leg70 g qua rest vol-8 leg50 d
+| 4/4 .87 .89
+=1 qua vol+2 leg60 [G vol+2 D vol+2 G vol+2 B'] cro vol+2 d rest
+=2 qua vol+2 leg60 [g vol+2 d vol+2 g vol+2 b] cro vol+2 d~ rest
+| 4/4 .91 .89
+=1 leg70 cro c qua rest vol-8 leg50 A \
+ cro vol+8 leg70 c qua rest vol-8 leg50 A
+=2 leg70 cro c~ qua rest vol-8 leg50 a \
+ cro vol+8 leg70 c~ qua rest vol-8 leg50 a
+| 4/4 .87 .89
+=1' leg60 qua vol+2 [c vol+2 A vol+2 F vol+2 A] cro vol+2 D rest
+=2 leg60 qua vol+2 [c~ vol+2 a vol+2 f vol+2 a] cro vol+2 d rest
+|
+=1 leg45 vol60 qua [G G vol+2 G G] vol+2 [G G vol+2 G G]
+=2 leg45 vol60 qua [<g b> <g b> vol+2 <g b> <g b>] vol+2 [<g b> <g b> vol+2 <g b> <g b>]
+|
+=1' qua vol+2 [A A vol+2 A A] vol+10 [A(2 vol-10 c)2 vol+8 F(2 vol-10 A)2]
+=2 qua vol+2 [<g c~x d~> <g c~x d~> vol+2 <g c~x d~> <g c~x d~>] \
+ [<g c~x d~> vol-2 <g c~x d~> <g c~x d~> <g c~x d~>]
+|
+=1 qua [G G vol+2 G G] vol+2 [G G vol+2 G G]
+=2 qua [<g b> <g b> vol+2 <g b> <g b>] vol+2 [<g b> <g b> vol+2 <g b> <g b>]
+|
+=1' qua vol+2 [A A vol+2 A A] vol+10 [A(2 vol-10 c)2 vol+8 F(2 vol-10 A)2]
+=2 qua vol+2 [<g c~x d~> <g c~x d~> vol+2 <g c~x d~> <g c~x d~>] \
+ [<g c~x d~> vol-2 <g c~x d~> <g c~x d~> <g c~x d~>]
+|
+=1 cro vol+2 D vol+2 c vol+2 d qua [c(1 vol-3 smq B, vol-4 A,)1]
+=2 qua [<g b> <g b> vol+2 <a d~> <a d~>] \
+ vol+2 [<b d~> <b d~> vol-4 <f d~> <f d~>]
+|
+=1 qua [G vol-4 G F vol-4 F] leg100 cro G rest
+=2 qua [<g d~> vol-4 <g d~> <a d~> vol-4 <a d~>] leg100 cro <b d~> rest
+| 4/4 1.80
+midi pause .05
+=1, vol75 min <B d> <c e>
+=2, smb rest
+| 4/4 .44 .46 .44 .46
+=1 smq-s <B' d'> cro leg45 <A, c> leg60 <A, c> \
+ leg100 smq-s <A c'> cro leg45 <G B'> leg60 <G B'>
+=2, leg100 min <d f> <e g>
+| 4/4 .44 .46 .45 .45
+=1 dsq-s B' qua.. leg45 A cro leg60 A qua [G(2 F)2 E F]
+=1, cro leg45 E leg60 E min blank
+=2, leg50 cro <c c~> <c c~> <d, a c~> <d a>
+| 4/4 .45 .46 .47 .45
+=1 leg60 qua <D G> vol-8 rest <D F A> rest vol-8 leg85 <D G B'> rest cro rest
+=2 leg60 qua <B, g> vol-8 rest d rest vol-8 leg85 g rest cro rest
+|
+=1, vol65 leg100 min B vol+5 c
+=2, smb rest
+| 4/4 1.78
+=1' vol+5 qua [B(1 leg45 vol-10 A)1 A A] vol+10 [A(1 vol-10 G)1 G G]
+=1, leg100 min F E
+=2, vol70 leg100 min d e
+|
+=1 leg45 cro <C E> leg35 qua [<C E> <C E>] \
+ leg45 cro <A_ C> leg35 qua [<A_ C> <A_ C>]
+=2, leg50 cro c leg95 c  leg50 d leg95 d
+|
+=1 min vol105 leg100 B_(2 qua [B_)2 vol75 dsq C B_ A_ B_ qua C A_]
+=2, qua vol110 leg90 [<G g> leg50 vol92 g vol75 g g] [g g g g]
+|
+=1 min vol105 leg100 G(2 qua [G)2 vol75 dsq A G F G qua A F]
+=2, qua vol110 leg90 [<G g> leg50 vol92 g vol75 g g] [g g g g]
+|
+=1' vol75 leg100 min <G B> cro <G c> vol+8 <A c>
+=2, qua leg60 [g vol70 g g g] vol+4 [g vol+4 g vol+4 g vol+4 g]
+|
+=1' vol+8 cro B vol+8 min d vol+8 cro g
+=2, qua vol+4 [<g g~> vol+4 <g g~> vol+4 <f f~> vol+4 <f f~>] \
+ vol+4 [<g g~> vol+4 <g g~> vol+4 <e e~> vol+4 <e e~>]
+| 4/4 1.76
+=1, vol108 leg180 smq [f d A d] [f d A leg100 d] \
+ leg180 [g d A d] [g d A leg100 d]
+=2, vol115 leg85 min d d~
+|
+=1, vol108 leg180 smq [f d A d] [f d A leg100 d] \
+ leg180 [g d A d] [g d A leg100 d]
+=2, vol115 leg85 min d d~
+|
+=1, vol108 leg180 smq [f d A leg100 d] leg180 [g d A leg100 d] \
+ leg180 smq [f d A leg100 d] leg180 [g d A leg100 d]
+=2, cro leg70 d d~ d d~
+| 4/4 .88 .91
+=1' qua leg60 [<A f> leg45 D D D] leg100 cro D rest
+=2, qua leg60 [d leg45 d d d] leg100 cro d rest
+| 4/4 1.82
+=1' min. rest vol65 leg65 qua E rest
+=2, min. rest vol65 leg65 qua <g# b> rest
+|
+=1 qua C rest C rest D rest cro rest
+=2 qua a rest <gn a> rest <f a> rest vol+10 <d, f> rest
+|
+=1 cro rest leg100 A(2 qua leg65 vol-10 G)2 rest <A, c> rest
+=2 cro rest leg100 vol+5 d#(2 qua leg65 vol-10 e)2 rest vol-5 c rest
+|
+=1 min leg100 vol+10 <G B'> cro <F A> rest
+=2 cro d cro. leg100 vol+10 d~ qua vol-2 [c~# vol-3 c~n vol-3 a]
+|
+=1' cro. leg100 vol+20 d smq3 vol-3 [c vol-3 B-I3 vol-3 A] qua vol-1 G \
+ rest vol75 leg65 <B e> rest
+=1, cro rest vol85 F min rest
+=2, vol75 leg65 qua g rest a rest b rest g# rest
+|
+=1 qua c rest A rest cro vol+10 leg100 d qua rest leg65 vol-10 <A c'>
+=2' qua e~ rest c~ rest cro vol+5 a rest vol-5
+=2, qua a rest g rest f# rest d rest
+|
+=1 leg100 qua [<A c'> leg65 <G B'>] rest c \
+ leg100 [c vol-5 B,] rest leg65 vol65 C
+=2 qua e rest c rest d rest vol+5 d rest
+| 4/4 1.79
+=1' qua [<G_ B_> <G_ B_> leg45 <A_ C> leg60 <A_ C>] \
+ leg45 [<B_ D> leg60 <B_ D> leg45 <G_ B_> leg60 <G_ B_>]
+=2 cro leg100 vol85 G min. rest
+|
+=1 qua leg45 [<F_# A_> leg60 <F_# A_> leg45 <G_ B_> leg60 <G_ B_>] \
+ leg45 [<A_ C> leg60 <A_ C> leg45 <F_# A_> leg60 <F_# A_>]
+=2 cro d min. rest
+|
+=1' vol60 qua [<G_ B_> <G_ B_> leg45 <A_ C> leg60 <A_ C>] \
+ leg45 [<B_ D> leg60 <B_ D> leg45 <G_ B_> leg60 <G_ B_>]
+=2 cro leg75 vol85 G min. rest
+|
+=1 qua leg45 [<F_# A_> leg60 <F_# A_> leg45 <G_ B_> leg60 <G_ B_>] \
+ leg45 [<A_ C> leg60 <A_ C> leg45 <F_# A_> leg60 <F_# A_>]
+=2 cro d min. rest
+|
+=1 leg100 cro B_ rest vol100 min <E B'>
+=2 qua [G, vol115 leg60 g b a] leg80 [g# leg60 e f g]
+|
+=1 cro A rest min <D A>
+=2 qua [a c~ a g] leg80 [f leg60 d e f]
+|
+=1 qua [G, leg45 vol110 B, c d] vol95 leg100 [c smq d e qua leg45 d c]
+=2 qua [g leg45 g a b] vol95 leg100 min <c~ g~>
+|
+=1' min blank qua [B(1 A)1 G F]
+=1, qua [c(1 B)1 G B] leg85 cro. D qua C
+=2 min <d~ g~> d
+| 4/4 1.79
+=1' qua [<B_ G> vol65 <G_ B_> leg45 <A_ C> leg60 <A_ C>] \
+ leg45 [<B_ D> leg60 <B_ D> leg45 <G_ B_> leg60 <G_ B_>]
+=2 cro leg100 vol85 G min. rest
+|
+=1 qua leg45 [<F_# A_> leg60 <F_# A_> leg45 <G_ B_> leg60 <G_ B_>] \
+ leg45 [<A_ C> leg60 <A_ C> leg45 <F_# A_> leg60 <F_# A_>]
+=2 cro d min. rest
+|
+=1' qua [<B_ G> vol70 <G B> leg45 <A c> leg60 <A c>] \
+ leg45 [<B d> leg60 <B d> leg45 <G B> leg60 <G B>]
+=2 cro leg75 G min. rest
+|
+=1' qua leg45 [<F# A> leg60 <F# A> leg45 <G B> leg60 <G B>] \
+ leg45 [<A c> leg60 <A c> leg45 <F# A> leg60 <F# A>]
+=2 cro d min. rest
+|
+=1 leg100 cro <G B'> rest vol100 min <e b>
+=2 qua vol115 leg60 rest [g b a] leg80 [g# leg60 e f g]
+|
+=1 cro a rest min <d a>
+=2 qua [a~ c~ a g] leg80 [f# leg60 d e f]
+|
+=1 qua leg45 [g vol110 B, c d] vol95 leg100 [c smq d e qua leg45 d c]
+=2 qua [g leg45 g a b] vol95 leg100 min <c~ g~>
+|
+=1' min blank qua [b(1 a)1 g f]
+=1, qua [B d g b] leg85 cro. d qua c
+=2 min <d~ g~> d treble
+| 4/4 1.76
+=1, qua [<B g> vol100 d e f] [g g leg100 smq3 a b a smq g a]
+=2, qua leg70 [G_ <D_ D> <E_ E> <F_ F>] \
+ leg45 [<G_ G> leg70 <G_ G> leg45 <A_ A> leg70 <A_ A>]
+|
+=1 qua leg50 [b vol95 f# g a] [b b leg100 smq3 c~ d~ c~ smq b c~]
+=2, qua leg70 [<B_ B> <F_# F#> <G_ G> <A_ A>] \
+ leg45 [<B_ B> leg70 <B_ B> leg45 <C c> leg70 <C c>]
+| 4/4 .22 .23 .24 .25 .25 .25 .25 .25
+=1 qua leg50 [d~ d~ leg100 smq3 d~# e~ d~# smq vol-10 c~# d~] \
+ cro vol-10 e~ rest
+=2, qua leg45 [<D d> leg70 <D d> leg45 <D# d#> leg70 vol-10 <D d>] \
+ cro leg100 vol-10 <E e> rest bass
+| 4/4 1.96
+=1' leg100 vol75 smb C
+=1, min. A_ qua [G_ F_]
+=2' leg100 vol75 min c d
+|
+=1 cro <G_ B_> min. rest
+=2 cro G min. rest
+|
+=1' leg100 vol75 smb C
+=1, min. A_ qua [G_ F_]
+=2' leg100 vol75 min c d
+|
+=1 vol-8 cro <G_ B_> rest vol-8 <G B> rest
+=2 vol-8 cro G min. rest
+| 4/4 .98 .90
+=1 vol-8 cro <E A e'> rest vol105 leg115 <A, c f> rest
+=2, vol-8 cro <c c~> rest vol105 leg115 <d d~> rest
+| 4/4 1.78
+=1 leg80 qua [<B_ D G> vol-20 <B_ D G> vol-20 leg60 <B_ D G> <B_ D G>] \
+ vol+5 [<B_ D G> <B_ D G> vol+5 <B_ D G> <B_ D G>]
+=2 leg80 qua [G vol-20 g' leg60 vol-20 g' g'] \
+ vol+5 [g g vol+5 g g]
+|
+=1 vol+5 qua [<B_ D G> <B_ D G> vol+5 <B_ D G> <B_ D G>] \
+ vol+5 [<B_ D G> <B_ D G> vol+5 <C Dx A> <C Dx A>]
+=2 vol+5 qua [g g vol+5 g g] \
+ vol+5 [g g vol+5 g g]
+| 4/4 1.76
+=1 leg80 vol+10 qua [<B_ D G> vol-20 <B_ D G> vol-20 leg60 <B_ D G> \
+ <B_ D G>] vol+5 [<B_ D G> <B_ D G> vol+5 <B_ D G> <B_ D G>]
+=2 leg80 vol+10 qua [G vol-20 g' leg60 vol-20 g' g'] \
+ vol+5 [g g vol+5 g g]
+|
+=1 vol+5 qua [<B_ D G> <B_ D G> vol+5 <B_ D G> <B_ D G>] \
+ vol+5 [<B_ D G> <B_ D G> vol+5 <C Dx A> <C Dx A>]
+=2 vol+5 qua [g g vol+5 g g] \
+ vol+5 [g g vol+5 g g]
+| 4/4 .45 .45 .47 .50
+=1 leg100 cro <B_ D G> rest <D G B'> rest
+=2 qua vol110 leg65 [G B d' g'] [b g d~ b]
+| 4/4 .27 .30 .32 .25 .35 .35 .30 .30 
+=1 leg70 cro <B_ D G> qua. [G smq G] cro leg100 G rest
+=2' leg70 cro g qua. [G smq G] cro leg100 G rest

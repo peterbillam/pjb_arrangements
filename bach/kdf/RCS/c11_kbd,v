@@ -1,0 +1,3589 @@
+head	1.32;
+access;
+symbols;
+locks
+	pjb:1.32; strict;
+comment	@# @;
+
+
+1.32
+date	2010.05.11.01.01.35;	author pjb;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2010.05.10.11.07.15;	author pjb;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2010.05.09.10.18.16;	author pjb;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2010.05.08.20.07.20;	author pjb;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2010.05.07.10.08.23;	author pjb;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2010.05.06.09.34.56;	author pjb;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2010.05.05.22.58.01;	author pjb;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2010.05.04.11.21.41;	author pjb;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2010.04.11.10.29.57;	author pjb;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2010.04.10.10.14.01;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2010.04.08.10.40.13;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2010.04.07.08.35.38;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2010.01.03.04.53.36;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2010.01.03.00.57.49;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2010.01.02.09.14.17;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2010.01.01.01.08.10;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2009.12.12.03.31.23;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2009.12.11.09.41.30;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2009.07.20.04.35.29;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2009.07.20.03.12.51;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2009.07.20.00.50.15;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2009.07.19.07.49.59;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2009.07.19.05.34.12;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.07.19.03.09.16;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2009.07.19.01.12.46;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2009.07.18.09.40.49;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2009.07.18.06.02.22;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2009.07.18.03.50.52;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2009.07.17.02.00.04;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2009.07.17.00.56.26;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.07.16.22.57.42;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.07.16.11.09.25;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Contrapunctus 11 for kbd, up to bar 52
+@
+
+
+1.32
+log
+@published
+@
+text
+@5 systems 15 /20-45-20/20-45-20/20-45-20/20-45-20/20-45-20 10/
+pagenum 2
+title Contrapunctus 11
+innerhead J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+midi channel 1 patch 19 pan 80 reverb 99
+midi channel 2 patch 19 pan 20 reverb 99
+/
+6 bars | 1b 4/4 11 10 10 9 | 10 10 10 9 | 11 10 10 9 \
+ | 10 12 10 9 | 5 5 9 7 5 5 5 4 | 10 11 12 9 |
+| 2/2 2.2
+=1' treble  1b 2/2 cha1 leg85 1 rest'
+=1,         1b 2/2 cha1 leg85 4 rest, D-s5, leg99 A leg85 G
+=2' bass    1b 2/2 cha2 leg85 1 rest
+=2,         1b 2/2 cha2 leg85 1 blank
+|
+=1' 1 rest'
+=1, 4 rest, F-s1, leg99 E leg85 D 
+=2  1 rest
+|
+=1' 1 rest'
+=1, 4 rest, C#-s4, leg99 D leg85 E
+=2  1 rest
+|
+=1' 1 rest'
+=1, 4 rest, leg99 8 [F-s1, G-s2,] 4 F-s1, E
+=2  1 rest
+|
+il0.7 .10 5
+=1' 4 rest' A-s1 leg99 e leg85 d
+=1, 4 leg85 D leg99 8 [C B_n] 4 C D
+=2  1 rest
+|
+=1' 4 rest' c leg99 Bn leg85 A
+=1, 4 leg85 E A_ leg99 8 [D-s2, E-s1,] 4 F-s2,
+=2  1 rest
+/
+4 bars | 1b 6 6 6 6 8 6 8 5 | 12 12 12 9 \
+ | 11 12 11 9 | 6 7 7 6 6 7 6 5 |
+|
+=1' 4 rest' G#-s2 leg99 A-s1 leg85 Bn
+=1, 83-s F-s2, 45. E-s1, 8 D [C B_n A_ G_#-s4,]
+=2  1 rest
+|
+=1' 4 rest' leg99 8 [c-s3 d] 4 c-s5 Bn-s2-s4
+=1, 8 leg85 [A_-s5, E-s2,] 4. A-s1, 8 D 4 G(2
+=2  1 rest
+|
+=1' 4 leg85 A leg99 Bn-s1-s4 c-s2-s5 c#-s1-s4
+=1, 4 leg85 Gr)2 8 leg99 [F G--s3] 4 F E
+=2' 4. blank 1 rest''
+=2, 4 rest d leg99 a leg85 g
+|
+il1.1 .39 10
+=1' 4 leg85 d-s1-s5 8 leg99 [c#-s1-s4 Bn] 4 c-s2-s4 d-s2-s5
+=1, 8 leg99 [F G] 4 leg85 A 8 leg99 [G A--s1] 4 leg99 Bb(2
+=2' 4. blank 1 rest''
+=2, 4 rest f leg99 e leg85 d
+/
+4 bars | 1b 11 12 12 9 | 10 12 11 9 | 5 5 5 5 6 8 8 5 | 5 6 8 6 5 6 5 4 |
+|
+=1' 4 leg85 e-s"( 2 )"-s4 leg99 g-s1-s5 f e-s1-s3
+=1, 4 leg99 B)2 8 [A B] 4 A G(2
+=2' 4. blank 1 rest''
+=2, 4 rest c#-s4, leg99 d-s5, leg85 e
+|
+=1' 4 leg85 a leg99 d-s3 Bn-s1 c#-s2-s4
+=1, 4 leg99 G)2 F leg85 D leg99 G(2
+=2' 4. blank 1 rest''
+=2, 4 rest leg99 8 [f-s1,-s5, g-,-s4,] 4 f-s2,-s5, e-s4,
+|
+=1' 2 leg85 d 4 leg99 cn-s4 Bn-s3
+=1, 4 leg99 G)2 F 8 leg85 E 4 leg99 A--s2 8 G#--s1
+=2' 4 rest'' leg85 a-s2, leg99 e~-s1, leg85 d~
+=2, 2 leg99 d-s5, 4 rest e-s1,-s4,
+|
+=1' 4 leg85 A-s1 leg99 e-s2-s5 d-s2-s4 c(1-s"     1 - 3"-s5
+=1, 4 leg85 A 8 leg99 [G# F#] 4 G leg85 A
+=2' 4 rest'' leg85 c~ leg99 bn leg85 a
+=2, 4 leg99 f 8 [e-s1,-s4, d] 4 e-s1,-s4, fn-s2,-s3,
+/
+4 bars | 1b 12 12 11 9 | 5 5 6 6 5 6 6 5 | 5 6 6 8 5 6 5 4 | 5 6 6 6 5 5 7 6 |
+|
+il0.8 .01 15
+=1' 4 leg99 c)1 Bn-s1-s4 A-s2-s5 G#-s1-s4
+=1, 8 leg99 [D E] 4 F E D(2
+=2' 4 rest'' leg85 g# leg99 a leg85 bn
+=2, 4 leg85 Bn-s5, 8 leg99 [c-s1,-s3, d] 4 c-s1,-s3, Bn-s1,-s4,
+|
+=1' 4 leg85 A E rest' leg99 Bn-s2-s5
+=1, 4 leg99 D)2 leg85 C-s2-s3 leg99 4 F--s4 8 [E D]
+=2' 4 rest' 8 leg99 [c~ d~-s1] 4 c~ bn
+=2, 4 leg80 A a-s"     1 - 2", d-s1,-s5, leg99 g(2-s2,-s4,
+|
+=1' 4 c#-s1-s4 2 d-s1-s4 4 leg85 e-s5
+=1, 4 leg99 E F 2 G(2--s2
+=2' 2 leg99 a 4 bn c~#
+=2, 4 leg85 gr)2 8 leg99 [f g] 4 f-s2,-s5, e-s1,-s4,
+|
+=1' 4 leg85 A-s1 8 leg99 [a-s5 b-s4] 4 a-s5 g-s1-s4
+=1, 4 leg85 Gr)2 8 leg99 [F-s2, E-s3,] 4 leg85 F-s2, leg99 B
+=2' 2 leg99 d~ 4 rest' 8 [d~-s1, c~#-s2,]
+=2, 4 leg99 d-s1,-s5, rest, 2 rest,
+/
+4 bars | 1b 10 12 11 9 | 5 5 8 7 6 5 5 4 | 10 13 11 9 | 5 6 6 6 6 6 11 5 |
+|
+=1' 4 leg85 f-s1-s5 leg99 c#-s1-s2-s4 d-s1-s3-s5 rest''
+=1, 4 leg99 A G A eb(2----s1-s4
+=2' 4 leg99 d~ e~ f~ f~#
+=2, 4 rest,-s1, leg99 8 [d-s5, e] 4 d c-s4,
+|
+il1.0 .13 20
+=1' 4 blank 1 rest''
+=1, 4 leg99 e)2-s1-s"( 4 )" 8 [d-s4 eb-s2-s5] 4 d-s1-s4 c(2-s2-s3
+=2' 4. leg99 g~ 8 f~# 4 g~ a~
+=2, 4 leg85 B b leg99 e-s5, f#
+|
+=1' 4 rest'' leg99 8 [e-s1-s2-s4 f-s1-s3-s5] 4 e d-s2-s3-s5
+=1, 4 leg85 c)2 8 leg99 [B c] 4 B A
+=2' 4 leg85 d~ 8 leg99 [g~ a~] 4 g~ f~n
+=2, 2. leg85 g 4 leg99 a
+|
+=1' 4 leg85 c#-s1-s2-s4 leg99 e-s5 a-s4 g-s1-s5
+=1, 4 leg85 G C# rest leg99 A(2
+=2' 2 leg99 e~ 4 leg85 d~ leg99 e
+=2, 4 leg99 b-s1, 8 [a-s2,-s3, g-,-s4,] [f-s1,-s5, e-,-s3, dr-s3,-s4, c#-s5,]
+
+5 systems 15 /20-45-20/20-45-20/20-40-20/20-45-20/20-45-20 5/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 48 | 7 6 6 6 8 6 8 6 | 6 6 6 6 5 6 8 6 | 8 6 6 6 6.5 6.5 5 4 |
+|
+=1' 4 rest'' leg99 f-s5 e-s1-s2-s4 d-s1-s5
+=1, 8 leg85 A)2 leg99 4 d---s4 8 c---s3 B 4 A--s2 8 B
+=2' 4 leg85 f d~-s1, leg99 g~ f~
+=2, 4 leg99 d-s2,-s4, rest rest d-s5,
+|
+=1' 4 rest' leg99 c#-s2-s3 d-s1-s4 e-s2-s5
+=1, 4 leg85 C# leg99 4 Br A G
+=2' 8 leg85 e~ 4 leg99 f~-s1, 8 e~-s1, leg85 a 4 leg99 d~-s1, 8 c~#-s2,
+=2, 4 leg99 a-s1,-s2,-s3, g-,-s4, leg85 f-s3,-s5, leg99 b-,-s3,
+|
+il1.0 .02 25
+=1' 4 rest'-s1 leg99 8 [f-s1-s2-s3 g-s4] 4 f-s1-s"( 2 )"-s5 e-s3-s4
+=1, 4 leg85 F 2 leg99 d 8 [c# cn--s2]
+=2' 4 leg85 d~ leg99 a~ leg85 b~ leg99 e~
+=2, 8 leg99 [a-s1,-s4, g] 4 f-s4, g-s5, a(2-s2,-s4,
+|
+=1' 2. leg99 d-s1-s5 4 c#-s1-s4
+=1, 4 leg99 Bn Bb-s4 2 A-s3
+=2' 2 leg99 f~ 8 [e~ f~-s2] 4 g~(1
+=2, 8 leg99 [a)2 g#-s5, a g] leg85 4 a-s1,-s"     4 - 1", A-s5,
+/
+5 bars | 1b 20 16| 10 10 11 9| 10 10 10 9| 8 6 6 6 6 6 6 8| 5 6 6 8 6 6 8 5|
+|
+=1' 2 d-s"( 1 )"-s3-s5 rest
+=1, 2 A A_-s1,
+=2' 4 g~)1 f~-s2 2 rest'
+=2, 2 d-s3, rest,
+|
+=1' 4 rest' leg99 D-s1 Eb-s3 En-s1
+=1, 4 leg85 B_-s2, F_-s5, leg99 C-s1, C#l-s2,
+=2  4. blank 1 rest
+|
+=1' 4 leg99 F F# G-s1 G#
+=1, 4 leg85 D A_-s4, leg99 2 E-s1,
+=2  4. blank 1 rest
+|
+il0.8 .20 30
+=1' 8 leg99 [A-s1 Bn leg85 c A] 4. leg99 f 16 [e d]
+=1, 4 leg99 F-s2, E 8 [D-s2, E-s1,] 4 D
+=2' 4. blank 1 rest''
+=2, 4 rest 2 leg99 a-s1,-s5, 4 g#-s2,-s4,
+|
+=1' 4 leg99 c#-s1-s2 leg85 d 2 leg99 g(1-s2-s5
+=1, 4. leg85 A 8 leg99 A [Bn A B c#-s3]
+=2' 4. blank 1 rest''
+=2, 4 leg99 gn-s5, f#-s2, fn e
+/
+4 bars |1b 5 5 6 6 6 6 6 5| 6 6 8 7 6 6 8 5| 6 9 6 6 6 6 6 5| 8 6 6 6 8 6 6 5|
+|
+=1' 4 leg85 g)1-s3-s"( 5 )" 8 leg99 [f-s1-s4 e] [f g f-s1-s4 e]
+=1, 4 leg85 d A leg99 d c#
+=2' 4. blank 1 rest''
+=2, 2 leg99 d rest
+|
+=1' 4 leg85 d-s1-s2 8 leg99 [g-s4 f#] [g a g fn]
+=1, 4 leg99 cnrl Bn-s1, Bb-s2, A-s3,
+=2  4. blank 1 rest
+|
+=1' 4 leg85 e-s5 leg99 f#-s2-s4 g-s2-s5 g#-s1-s5
+=1, 8 leg85 [G#-s4, leg99 c---s1 Bnl A---s1] leg85 [B leg99 d---s3 c B---s2]
+=2' 2 rest' leg99 e-s2,
+=2, 4 blank 1 rest,
+|
+il1.1 .52 35
+=1' 8 leg99 [a gn-s4 f-s5 e] [d c#-s2] 4 d(1-s5
+=1, 2 leg99 A 4. rest, 8 F--s2
+=2' 4 leg85 f c leg99 g g#
+=2, 4 rest, leg99 A-s3,-s5, Bb-s1,-s4, Bn-s2,-s5,
+/
+4 bars |1b 8 8 6 8 7 7 7 5| 8 8 6 6 6 6 5 5| 6 6 6 8 6 6 8 5| 6 6 6 6 6 8 8 5|
+|
+=1' 8 leg99 [d)1 cn Bb-s2-s3 A-s4] [G#{'1--s1-s3 A G---s2-s3 A}'1]
+=1, 4 leg85 E leg99 G Fr F#rl
+=2' 4 leg85 a e 2 leg99 bn
+=2, 4 leg99 c-s1,-s4, c#-s2,-s3, d-s1,-s5, d#
+|
+=1' 4 leg85 G#-s1-s3 2 leg99 e-s2-s5 4 d#-s4
+=1, 8 leg99 [E F#--s1 G# E] 2 A--s2
+=2' 4 leg99 c~ bn 8 [a b] 4 a
+=2, 2 leg99 e-s1,-s5, fn-s3,-s4,
+|
+=1' 4 leg99 dn-s1-s5 c#-s2-s4 cn-s1-s3-s5 Bn(1-s1-s4
+=1, 4 leg99 G# Gnl leg85 A leg99 E(2
+=2' 4 leg80 e~ leg99 e~-s1, d~# d~n
+=2, 4 leg99 e-s1,-s5, 8 rest e-s5, [f#-s4, e f-s1,-s4, g#]
+|
+=1' 8 leg99 [B)1 A-s2] rest' a [Bn-s2 A-s1 B-s2-s3 c#-s4]
+=1, 4 leg85 E)2 leg99 A--s1 G#l-s2, Gn(2
+=2' 4 leg85 c~# 2 leg99 f~-s1, 4 e~-s3,
+=2, 4 leg99 a-s2,-s4, 2. rest
+/
+4 bars | 1b 6 6 6 6 6 6 8 5 | 6 6 8 6 6 6 8 5 | 6 6 6 6 6 6 6 5 \
+ | 3 3 3 3 3 3 3 3  6 4 4 4 4 4 3 2 |
+|
+il0.7  40
+=1' 4 leg99 d-s"( 2 )"-s5 8 rest'-s2 d-s4 [e-s5 d e-s1-s5 f#-s4]
+=1, 8 leg99 [G)2 leg85 F--s1] 2 leg99 B 4 A
+=2' 4 leg99 d~-s1, 2. rest''
+=2, 4 leg99 rest d-s5, c#-s3, cn
+|
+=1' 8 leg85 [g-s3-s5 G] 4 leg99 g f#-s2-s4 fn(1-s3-s5
+=1, 4 leg99 d 8 [c Bn] 4 c d
+=2' 4. leg99 rest'' 8 g-s1, [a-s2, g-s1, a bn]
+=2, 4 leg85 Bn 2 leg99 e-s3, 4 d-s2,-s4,
+|
+=1' 8 leg85 [f)1 leg99 d] 4 e-s2-s5 f-s1-s4 g-s2-s5
+=1, 4 leg85 G leg99 c Bn Bb(2
+=2' 4 leg99 c~ 2. rest''
+=2, 4 leg99 c-s1,-s5, 8 rest, 8 c [d c d e]
+|
+=1' 4 leg85 c-s"( 2 )"-s1 leg99 f-s3-s5 e-s4 eb(1-s1-s5
+=1, 8 leg85 [Br)2 A--s2] 4 leg99 d(2 16 [dr)2 c--s1 B--s2 A--s2] 8 [G F#---s2]
+=2' 4. blank 1 rest''
+=2, 8 leg85 [f-s2, leg99 e-s4, f g] 4 leg85 a leg99 A-s4,
+
+5 systems 5 /20-45-20/20-45-20/20-40-20/20-50-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 6 7 8 6 8 8 6 5| 8 6 8 6 6 8 6 5| 6 6 6 6 6 8 8 5| 5 6 6 6 8 6 8 5 |
+|
+=1' 8 leg99 [eb)1 d-s5 c-s2-s4 Bn] [c-s1-s5 Bb] 4 An(1-s3
+=1, 4 leg85 G leg99 4 Ab 4. leg85 G 8 leg99 G-s1
+=2' 4 rest' leg99 d eb en
+=2, 4 leg85 B-s3, F-s1,-s5, leg99 c-s2,-s"     3 - 4", c#l-s1,-s3,
+|
+il1.1 .45 45
+=1' 8 leg85 [A)1-s2-s"( 3 )" leg99 Bn] 4. leg85 c-s1-s5 8 leg99 [B-s2 c# e(1-s4]
+=1, 4 leg99 F 8 [E D#--s2] 4 E--s1 rest,
+=2' 4 leg99 f f# g g#-s2,
+=2, 4 leg85 d-s1,-s4, A-s2,-s5, 2 leg99 e-s1,-s"     3 - 4",
+|
+=1' 8 leg99 e)1 4 d-s5 8 c# leg85 d-s2-s5 4 leg99 A-s4 8 G#-s3
+=1, 4 leg99 rest, G F# Fn
+=2' 4 leg99 a 8 rest'' a-,-s1, 4 b bn
+=2, 4 leg99 f-s1,-s3, e 8 [d-s2,-s5, e] 4 d-s1,-s5,
+|
+=1' 2 leg99 A-s2-s4 4. rest'-s1 8 A
+=1, 4 leg99 E 8 rest' E-s2 4 F F#
+=2' 4 leg99 c~ c~#-s3,-s"( 4 )", 8 [d~ e~b d~ c~n]
+=2, 2 leg99 a-s2,-s4, 4. rest-s1, 8 a
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5| 6 8 6 8 6 6 6 5 \
+ | 3 3 3 3 3 3 3 3 4.2 4.7 6.5 5.5 4.2 6.5 3 3 |
+|
+=1' 4 leg99 B-s1-s4 Bn 2 c(1-s"( 1 )"-s4
+=1, 2 leg99 G(2 8 [G)2 F--s2] 4 E--s1
+=2' 2 leg85 d~ 4 g 8 leg99 [c~ b]
+=2, 8 leg99 [g-s1,-s4, a g f-s5,] [e-s2,-s3, d] 4 c
+|
+=1' 8 leg99 [c)1-s2 d--s5 c-s1-s4 B] 4 leg85 A d(1-s1-s4
+=1, 4 leg85 F 2 leg99 G 4 F#
+=2' 8 leg99 [a f-,-s3,] 4. leg85 c~ 8 leg99 [e~n-s1, d~-s2, c~]
+=2, leg99 4 d-s1,-s4, e-s1,-s4, f-s5, 8 rest d-s1,-s5,
+|
+il1.1 .15 50
+=1' 8 leg99 [d)1-s1 e d-s1-s4 c] 4 leg85 Bn-s2 e(1-s1-s4
+=1, 4 leg85 G 2 leg99 A 4 G#
+=2' 8 leg99 [bn g-,-s3,] 4. leg85 d~ 8 leg99 [f~n-s1, e~-s2, d~]
+=2, leg99 4 e-s2,-s4, f#-s1,-s4, g-s5, 8 rest e-s1,-s5,
+|
+=1' 8 leg85 [e)1-s1 leg99 a-s5 e d] 4 c-s5 c#-s1-s4
+=1, 4 leg99 A 4. leg85 Bn 16 leg99 [E-s1 Fn--s2] [G A 8 Bb]
+=2' 4 leg99 c~ bn 16 [a b c~ d~] 4 e~
+=2, 4 leg99 f#-s2,-s4, g#l-s1,-s3, a-s5, 8 rest gn-s4,
+/
+4 bars | 1b 6 7 6 6 6 6 6 5| 6 6 8 6 8 8 6 5 \
+ | 6 6 6 8.5 6 6 7.5 5| 6 6 6 6 6 6 7 5|
+|
+=1' 4 leg99 d-s2-s5 e-s1-s4 f-s1-s5 f#-s4
+=1, 4 leg99 A G F 8 rest, d--s1
+=2' 4 leg85 f~ c~# 8 leg99 d~ 4. rest''
+=2, 8 leg99 [f-s1,-s5, g f-s1,-s5, e-,-s4,] \
+ [d-s1,-s5, leg85 A-s3, leg99 d-s1, c]
+|
+=1' 4 leg99 g-s2-s5 a-s2-s4 2 b(1-s1-s5
+=1, 8 leg99 [e d---s1 e f#---s3] [g fn----s3 eb d]
+=2' 4 blank 1 rest''
+=2, 8 leg99 [B c B A] leg85 [G d] 4 g(2
+|
+=1' 8 leg85 [b)1-s2 e-s3] 4 leg99 a-s1-s5 g# gn-s3-s5
+=1, 4 leg85 c# 2 leg99 d 4 leg85 e
+=2' 4. rest'' 8 leg99 a-s2, [bn a b c~#-s2,]
+=2, 4 leg99 g)2 f#-s3, fnl e-s1,-s5,
+|
+il1.2 .15 55
+=1' 4 leg99 f#-s1-s4 fn-s4 e-s5 eb-s1-s4
+=1, 4 leg99 A 8 rest B(2--s2 [B)2 A--s2 G F#--s2]
+=2' 8 leg85 [d~ a-,-s2,] 4 leg99 d~ 2 rest'
+=2, 4 rest, leg99 d-s1,-s5, c#-s3, cn
+/
+4 bars | 1b 8 8 7 6 6 6 6 5| 10 4 8 6 6 6 6 5| 5 5 6 8 6 6 6 5| 6 7 6 6 6 6 6 5|
+|
+=1' 4. leg99 d-s1-s5 8 c#-s3 4. d-s1-s4 8 e
+=1, 4 leg99 G G#--s2 A Bn
+=2' 8 rest' leg99 [c#-,-s"2  ", d e-,-s"2  ",] [f e] 4 f
+=2, leg99 Bn-s5, Bb-s1,-s4, A-s1,-s5, G#-s1,-s4,
+|
+=1' 83-s leg99 d 43 leg85 c# 4 f-s5 leg99 Bn-s"     2 - 5" Bb-s1-s4
+=1, 4 leg99 A 8 rest, C#-s3, [D C-s3, D E--s2]
+=2' 4 leg85 e leg99 a g# gn-,-s"1  ",
+=2, 4 leg99 A-s2,-s5, rest,-s1, 4. rest,-s2,-s5, 8 c#-s5,
+|
+=1' 4 leg85 A-s1-s4 d-s5 2 G-s"    2 - 5"
+=1, 4 leg99 A_ 8 rest,, A_-s1, [B_b A_-s1, B_-s2 C-s1]
+=2' 4 leg99 f# fn e eb-,-s2,
+=2, 4 leg99 d-s2,-s4, rest,-s3, 4. rest,-s2,-s5, 8 A-s4,
+|
+=1' 4 leg99 F-s2-s3 G-s3-s4 8 [A-s1-s5 G-s3-s4] 4 A
+=1, 8 leg85 [D B_--s1 leg99 Eb D] leg85 [C leg99 E D C(2]
+=2' 4 leg99 d rest' 2 rest'
+=2, 8 leg99 [B A] 2 G-s5, 4 F#-s3,
+/
+4 bars | 1b 9 6 6 6 6 6 7 5| 6 6 6 6 6 6 6 5\
+ | 6 6 6 7 6 7 7 5| 7.5 6 6 6 6 6 6 5|
+|
+il0.7   60
+=1' 4 leg85 D-s3 leg99 G-s3-s5 F#-s"( 3 )"-s5 Fn(1-s4-s5
+=1, 8 leg99 [Cr)2 B_n-s2] 2 C 4 leg85 D
+=2' 4. rest' 8 leg99 g-s1 [a-s2 g-s1 a-s1 bn-s2]
+=2, 4 leg99 Fn E Eb-s3, D
+|
+=1' 4 leg85 F)1-s1-s3-s"( 5 )" leg99 E-s2-s3 F-s1-s4 G-s5
+=1, 4 leg99 G_ 2. rest,,
+=2' 8 leg85 [c~ c-,-s1,] 4 leg99 c~ bn bb(1
+=2, 4 leg99 C-s5, 8 rest, c-s5, [d-s4, c d-s1,-s4, e]
+|
+=1' 4 leg99 C-s1 8 rest' c-s4 [d-s2-s5 c-s3 d-s2-s4 e]
+=1, 4 rest,,, leg99 A--s3 G# Gn(2
+=2' 4 leg99 b)1 a 8 [bn-s2, a-s1, b-s2,-s4, c~#-s1,]
+=2, 8 leg85 [f c-s5,] 2 leg99 f-s1,-s"      3 - 5", 4 e
+|
+=1' 4 leg85 A-s3 leg99 f-s5 e-s1-s4 eb(1-s1-s4
+=1, 8 leg99 [Gr)2 F-s1] rest, F-s1, [G F-s1, G A---s2]
+=2' 8 leg85 [d~ a-,-s3,] leg99 2 d~-s2, 4 c~n-s3,
+=2, 4 leg99 d-s1,-s5, 2. rest
+
+5 systems 15 /20-45-20/20-55-20/20-45-20/20-45-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 6 6 6 8 7 6 6 5| 6 6 6 6 8 6 8 5| 8 6 8 8 6 6 8 5| 7 6 6 8 6 6 6 6|
+|
+=1' 8 leg99 [eb)1-s3-s"( 4 )" d-s1-s5] rest''-s2 d-s4 \
+ [eb-s2-s3 d-s1-s2 e-s1-s3 f]
+=1, 8 leg85 [B F B leg99 d] [c Bn c d]
+=2' 4 leg85 b leg99 g~ f~# f~n(1
+=2, 4 rest, leg99 b-s1,-s4, a-s2,-s5, abl-s1,-s4,
+|
+il0.9 .16 65
+=1' 4 leg99 g 8 rest' g-s4 [a g#-s3 a bn]
+=1, 8 leg85 [Bn d] 4 leg99 G F# Fn
+=2' 4 leg99 f~)1 e~ d~#-s3,-s4, d~n(1-s2,-s5,
+=2, 4 leg99 g 2. rest-s1,
+|
+=1' 8 leg85 [g# bn] 4 leg99 e-s"    2-5" d#-s2-s4 dn-s2-s5
+=1, 4 leg99 E 8 rest, G#--s1 [A G A leg85 Bn]
+=2' 4 leg99 d~)1-s1,-s"( 5 )", c~#-s2, c~n bn(1
+=2, 4. rest 8 leg99 e [f#-s1,-s4, e f-s2,-s4, g#]
+|
+=1' 4 leg85 c# leg99 fn e d#-s3
+=1, 4. leg99 E 8 D-s1, 4 C# Cn
+=2' 4 leg99 br)1 a 4. rest'' 8 f~#-,-s1,
+=2, 8 leg85 [a-s"( 2 )",-s1, e-s5,] leg99 4. a-s3, 8 g#-s5, 4 a-s2,-s4,
+/
+4 bars | 1b 7 6 7 7 6 7 6 5| 7.5 6 6 7.5 7 6 6.5 5 \
+ | 7 6 5 5 6 6 5 4 | 10 10 11 9|
+|
+=1' 4 leg85 e-s5 leg99 e-s1-s5 d#-s1-s4 dn-s1-s5
+=1, 8 leg85 [B_n leg99 Bn--s2 A G#--s2] leg85 [A leg99 c--s3 B A-s3]
+=2' 8 leg99 [e~ d~-,-s2, c~ bn-s3,] 4 c~ d~
+=2, 4 leg85 g#-s1,-s3,-s5, c~-s1, leg99 f#-s2,-s4, fn-s1,-s4,
+|
+=1' 4 leg99 c#-s1-s2-s4 cn-s1-s3-s5 Bn-s1-s2-s5 Bb-s1-s3-s4
+=1, 4 leg99 G# Gnl F#l Fnl
+=2' 8 leg99 [e~ d~#-s1, leg85 e~ leg99 c~-,-s1,] \
+ [d~n c~#-,-s1, leg85 d~ leg99 g#-,-s2,]
+=2, 4 leg85 e-s5, a-s2, 2 leg99 d-s4,
+|
+il0.8 .13 70
+=1' 2. leg99 A-s2-s5 4 G#-s"( 2 )"-s4
+=1, 4 leg99 E F-s1-s3-s"( 5 )" 2 leg85 E-s1-s2-s"( 5 )"
+=2' 8 leg99 [a bn-,-s1,] 4 c~ 2 b
+=2, 4 leg99 c-s2,-s5, d-s4, 8 [e-s1,-s2, d-s3,] 4 e-s2,
+|
+=1' 4 leg99 A-s1-s2-s5 rest' rest' leg85 d-s2-s5
+=1, 4 leg99 E rest, rest, leg85 F
+=2' 4 leg85 c~ e~-s2 leg99 a-,-s1, bn
+=2, 4 leg99 A-s5, rest, rest, g#l-s2,-s4,
+/
+4 bars | 1b 10 10 11 9| 5 5 7 6 5 5 6 5| 5 5 7 6 5 5 5 4| 7 6 6 6 6 6 5 5|
+|
+=1' 4 leg99 d{1 leg85 c}1-s1-s4 rest' Bb-s1-s2-s4
+=1, 4 leg99 F{2 leg85 E}2 rest, G
+=2' 4 rest'' leg99 c~-s2, d~-s1, e~
+=2, 2 leg99 a-s4, 4 rest c#-s4,
+|
+=1' 4 leg85 B-s1-s4 8 leg99 [A-s2-s3 Bn] 4 leg85 c-s1-s5 8 leg99 [B-s2-s3 c]
+=1, 4 leg99 G leg85 F rest, leg99 G#(2
+=2' 4 rest'' leg99 f~ e~ d~
+=2, 2 leg99 d-s5, 4 rest e-s1,-s5,
+|
+=1' 4 leg85 d 8 leg99 [c-s1-s3 d] 4 leg85 e-s5 leg99 d(1-s1-s3-s5
+=1, 4 leg99 G)2 leg85 A rest, leg99 A
+=2' 4 rest'' 8 leg99 [c~-s1, bn-s2,] 4 c~-s1, d~
+=2, 2 leg99 f-s4, 4 rest Bn-s4,
+|
+il0.6 .16 75
+=1' 4 leg99 d)1-s1-s2-s"( 5 )" c-s2-s4 Bn--s3 c#-s2-s4
+=1, 4 leg85 G# 2 leg99 A 4 Gnl
+=2' 2 leg99 e~ 4 rest'' bb
+=2, 8 leg99 [c-s3, Bn c d] leg85 [e E] 4 leg99 e-s1,-s4,
+/
+4 bars | 1b 6 6 6 7 5 5 5 4| 6 6 6 7 6 6 7 5| 7 6 6 7 7 7 6 5| 6 6 7 6 6 6 6 5|
+|
+=1' 4 leg85 d-s1-s4 a-s5 leg99 d-s4 e-s2-s5
+=1, 8 leg99 [F E-s1,] 2 leg85 D 4 leg99 G
+=2' 4 leg85 a 8 leg99 [d~ c~-s2,] 4 bn bb
+=2, 4 leg99 f-s3,-s5, f#-s1,-s4, leg85 g-s1,-s4, leg99 c#-s2,-s5,
+|
+=1' 4 rest' leg99 f-s1-s5 g-s1-s4 a-s2-s5
+=1, 8 leg99 [F A B d-s2] 4 c# cn
+=2' 4 leg85 a d-,-s4, 8 leg99 [e d e f#]
+=2, 4 leg99 d-s1,-s5, 2. rest,
+|
+=1' 4 rest'' leg99 b-s1-s5 a-s2-s5 g-s1-s4
+=1, 8 leg99 [Bn c#] 4 d cn Bb
+=2' 4 leg85 g-,-s1, 8 leg99 [f# e-,-s3,] [f-,-s2,-s4, a-,-s1, c~# e~(1]
+=2, 4 leg99 rest, d-s2,-s5, ebrl en-s2,-s5,
+|
+=1' 4 rest' 8 leg99 [f-s3 e] 4 f g
+=1, 4 A--s1 2. rest,
+=2' 8 leg85 e~)1 4 leg99 d~-s1, 8 c~#-s2, leg85 d~ 4 leg99 f~-s1, 8 e~-s1,
+=2, 4 leg85 fn-s4, leg99 b-s3, a-s2,-s4, g-,-s5,
+/
+4 bars | 1b 6 6 6 7 6 13 5 5 | 3 3 6 4 3 3 3 4 3 3 3 3 3 3 3 2\
+ | 6 7 6 7 7 6 6 5| 6 6 6 7 6 6 6 5|
+|
+il1.0 .21 80
+=1' 4. leg99 a-s5 8 g-s5 4 f#-s2-s4 fn-s1-s2-s4
+=1, 4 rest leg99 Bn--s1 8 [c 16 d--s1 eb] 4 d(2
+=2' 8 leg99 [f~ e~-,-s1,] 4 d~ rest' g~#
+=2, 4 leg85 d~-s2,-s3, d-s1,-s5, leg99 A-s4, Bn-s3,
+|
+=1' 4 leg99 e-s1-s5 eb-s2-s4 d-s2-s5 c#-s2-s4
+=1, 8 leg99 [dr)2 16 c---s3 Bb---s2 8 A G] leg85 [F# D G leg99 E]
+=2' 4 leg85 a~ 4. leg99 c~ 8 [b-,-s1, a leg85 g-,-s3,]
+=2, 4 rest, leg99 c-s1,-s4, d-,-s5, e-s1,-s4,
+|
+=1' 4 leg85 cn-s2-s4 leg99 Bn-s3 c#-s4 d-s4
+=1, 8 leg85 F# 4 leg99 A--s1 leg85 G--s2 leg99 Bb--s3 8 A--s2
+=2' 2 leg85 d~-s1, 4 leg99 e~ f~n-s1
+=2, 4 rest leg99 fn-s3, e-s1,-s4, d-s5,
+|
+=1' 1 e(1-s1-s3-s5
+=1, 8 leg99 Bb 4 leg85 A--s2 8 leg99 B---s3 [A---s2 G---s1 F---s2 E---s1]
+=2' 4 leg99 g~ e~-s1 rest' 8 [a b-,-s2,]
+=2, 4 rest, 8 leg99 [c#-s2, A-s4,] 4 Bn-s5, c-s1,-s4,
+
+5 systems 5 /20-40-20/20-47-20/20-45-20 5/20-45-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 6 7 6 6 7 7 6 5| 6 6 6 6 6 8 6 5| 7 6 6 6 6 6 6 5| 5 5 7 6 7 6 7 5|
+|
+=1' 8 leg99 [e)1-s1-s"( 5 )" d leg85 c#-s2-s3 leg99 e-s4] \
+ [d-s1-s5 cn leg85 Bb-s1-s3 leg99 d-s5]
+=1, 4 leg85 F A leg99 D E
+=2' 4. leg99 a 8 g-,-s1, [f leg85 d-s3,] 4 leg99 g(1
+=2, 4 leg99 d-s1,-s4, leg99 A leg85 B-s2,-s4, leg99 G
+|
+il1.0 .04 85
+=1' 8 leg99 [c B A-s1-s2 c] leg88 B-s1-s2 4 leg99 g-s5 8 f#
+=1, 4 rest,, leg99 F G A
+=2' 4 leg99 g)1 4. leg85 f 8 leg99 d-,-,-s2, 4 eb-,-,-s1,
+=2, 4 leg85 A d-s1,-s2, 2 leg99 G(2-s5,
+|
+=1' 8 leg99 [g-s5 fn-s4 e-s1-s5 d-s4] \
+ [c-s2-s3 leg85 d-s5 leg99 B-s1-s3 leg785 c-s5]
+=1, 4 rest, leg99 B A G
+=2' 4 leg85 d 8 leg99 [g-s1, f-,-s2,] [e d e leg85 c]
+=2, 2 leg99 G)2 A(2-s1,-s4,
+|
+=1' 2 A(1-s3 8 leg85 [A)1 leg99 Bb A-s2-s3 B]
+=1, 4 rest,, 8 leg99 [F-s1 E-s2] 4 F--s1 Gr
+=2' 4 leg99 f 2. rest''
+=2, 4 leg99 A)2 8 [Bn-s3, c#] 4 leg85 d Bb
+/
+4 bars | 1b 12 12 12 10| 10 10 11 9 | 6 6 6 6 7 7 6 5| 7 6 6 6 7 7 6 5|
+|
+=1' 4 leg85 c-s1-s3 2 leg99 f-s1-s3-s5 4 e-s1-s2-s4
+=1, 8 leg99 [A B] 2 c 4 B(2
+=2' 4 rest'' a~ 8 [g~-s2 f~-s1] 4 g~
+=2, 4 leg85 f 8 leg99 [A-s3, B] 4 leg85 c C
+|
+=1' 2 leg99 f-s1-s"( 2 )"-s5 rest'
+=1, 4 leg99 B)2 A--s2 2 rest,
+=2' 2 leg99 f~ 4 rest' eb(1-s1,
+=2, 2 leg85 F-s"   3 - 5", leg99 A-s4,
+|
+il0.5 .07 90
+=1' 2 blank 1 rest'
+=1, 2. rest, 4 leg99 B_(2-s2
+=2' 8 leg99 [eb)1 leg85 d leg75 f f] leg99 [f leg85 en leg75 g g]
+=2, 4 leg85 B F leg99 c-s1,-s4, c#-s1,-s3,
+|
+=1' 4 blank 1 rest'
+=1, 8 leg99 [B_)2 leg85 A_ leg75 C C] leg99 [C leg85 B_n leg75 D D]
+=2' 8 leg99 [g leg85 f# leg75 a a] leg99 [a leg85 g# leg75 bn b]
+=2, 4 leg85 d-s1,-s3, A 2 leg99 e-s1,-s3,
+/
+4 bars | 1b 8 6 8 6 7 6 6 5| 6 6 6 8 6 6 6 5| 6 6 6 8 8 7 6 5| 8 6 8 7 6 6 6 5|
+|
+=1' 2. blank 1 rest'
+=1, 8 leg99 [D C#-s3 D-s1 E] leg85 [F leg99 E F G--s4]
+=2' 8 leg99 [bn a-s"3   ", b c~#-s"1   ",] leg85 [d~ leg99 g# a b-,-s2,]
+=2, 4 leg99 f-s1,-s5, e-s2,-s4, 8 [d-s1,-s5, e] 4 leg85 d-s1,-s5,
+|
+=1' 2. rest' 4 leg99 B(1-s1-s4
+=1, 8 leg85 [E--s1 leg99 G F E-s1] 4 D-s2 E
+=2' 4. leg85 c~ 8 leg99 c~ [bb a b c~-s1,]
+=2, 8 leg85 [a-s1,-s3, e] 2 leg99 a 4 g-s2,-s4,
+|
+=1' 8 leg99 [B)1-s2 leg85 A-s3 leg75 c c] \
+ leg99 [c-s1-s2-s5 leg85 Bn-s3 leg75 d-s2-s5 d]
+=1, 4 leg85 F C leg99 G G#
+=2' 4 leg85 d~ a-s1, 2 leg99 e~(1
+=2, 4. leg99 f-s2,-s5, 16 [g-s2, f] 8 [e d-s5,] 4 e-s2,
+|
+il1.3 .42 95
+rs1.0 .60 2 - 1
+=1' 8 leg99 [d-s2-s5 leg85 c#-s3 leg75 e-s1-s5 e] \
+ leg99 [e--s5 leg85 d--s3 leg75 f--s5 f]
+=1, 4 leg85 A E 2 leg99 Bn
+=2' 4 leg99 e~)1 8 [d~ leg85 c~#] 4 f~-s1, rest''
+=2, 4 leg85 A 2 leg99 a-s1,-s3, 4 g#-s4,
+/
+4 bars | 1b 6 8 8 6 6 6 4 5| 8 6 6 6 6 8 6 5| 9 7 7 8 7 6 6 5| 9 6 6 6 7 8 6 5|
+|
+=1' 8 leg99 [f-s2-s5 e-s3 f#-s1-s4 g#-s5] [a-s1-s5 g-s1-s4] 4 a(1
+=1, 4 leg99 cn Bn 8 [A B] 4 leg85 A
+=2' 4 rest''' leg99 d~ c~#-s2, c~n(1
+=2, 2 leg99 a-s3, 4 rest d#-s1,-s5,
+|
+=1' 8 leg99 [a)1-s3-s"( 5 )" leg85 f#-s4 leg75 g g] \
+ leg99 [g leg85 e leg75 fn-s1-s2-s4 f]
+=1, 2 leg99 e 4 rest, d(2
+=2' 4 leg85 c~)1 leg99 bn-s3, leg85 c~ g~
+=2, 2 leg85 e-s"( 1 )",-s5, 4 leg99 a-s2,-s4, bn-s3,
+|
+=1' 2 leg85 e-s1-s"( 2 )"-s5 4 leg99 d#-s3-s4 dn(1-s2-s4
+=1, 8 leg99 [dr)2 leg85 Bn--s2 leg75 c--s3 c] leg99 [cr leg85 A leg75 B B]
+=2' 2 leg99 g~ 4 rest'' f~n(1
+=2, 4 leg85 c~-s1, leg99 e-s5, f# g#-s1,-s3,
+|
+=1' 8 leg85 [d)1 leg99 Bn-s1-s2 leg85 c-s1-s3 e] 4 leg99 A B(1-s1-s3
+=1, 8 leg85 [Bn leg99 G#l leg85 A c] 4 leg99 F# Fn
+=2' 8 leg99 [f~)1 leg85 d~#-s2, leg75 e~ e~] \
+ leg99 [e~ leg85 c~#-s2, leg75 d~n-s1, d~]
+=2, 1 leg99 a(2-s"( 1 )",-s5,
+/
+4 bars | 1b 8 6 6 8 7 8 7 5| 8 6 6 8 6 6 6 8| 7 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5|
+|
+il1.0 100
+=1' 8 leg85 [B)1-s1-s"( 3 )" leg99 G#-s2 leg85 A-s2 leg99 c-s4] \
+ leg85 [Bn-s1-s3 leg99 d leg85 c#l-s2-s4 leg99 e]
+=1, 2 leg99 E 4 leg85 F#l leg99 Bbrl
+=2' 8 leg99 [d~ bn-s2,] 4 c~ d~ e~
+=2, 4 leg85 a)2-s1,-s"( 5 )", a(2-s1,-s4, 8 [a)2-s2,-s"( 4 )", \
+ leg99 f# leg75 g-s1,-s4, g]
+|
+=1' 8 leg99 [d-s2-s4 c#-s3] 2 d-s1-s4 8 [g-s1-s5 16 f e-s3]
+=1, 4 leg85 A D leg99 A--s2 G
+=2' 4. leg85 a-s3,-s4, 8 leg99 a 4 bn c~#
+=2, 8 leg85 [gr leg99 e-s5, leg75 f-s4, f-s3,-s4,] \
+ leg85 [f-s2,-s4, leg99 d leg75 e-s1,-s4, e]
+|
+=1' 4 leg85 f-s5 8 leg99 [A-s1-s4 G-s3] 4 A-s2-s4 B(1-s1-s3-s5
+=1, 4 rest, leg99 F E D
+=2' 4 leg99 d~ rest'' rest'' g~
+=2, 8 leg85 [e-s1,-s4, leg99 c#-s5, d-s5, e] leg85 [f leg99 e f leg85 g-s2,]
+|
+=1' 8 leg85 [B)1-s2-s"( 5 )" leg99 G-s4 leg75 A-s1-s5 A] \
+ leg85 [A-s1-s5 leg99 F-s3 leg75 G-s2-s4 G]
+=1, 4 rest,, leg99 C# D E
+=2' 4 leg85 e~ leg99 g-,-,-s2, leg85 f-,-,-s1, leg99 c#
+=2, 4 leg99 c#-s5, rest, rest, Br(2-s3,-s4,
+
+5 systems 10 /20-50-20 5/20-40-20/20-45-20/20-45-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 4 4 4 5 3 3 3 4 3 3 4 4 3 3 3 2 \
+ | 6 8 6 6 7 6 6 5| 6 6 6 6 7 8 6 5| 8 6 6 6 8 6 6 5|
+|
+=1' 8 leg99 [F 16 E D] 4 leg85 d-s2-s5 leg99 Bn-s1-s2-s4 c#-s1-s3-s5
+=1, 4 rest,, 8 leg99 [F G] 4 F E
+=2' 4 leg85 d a d~ a~(1
+=2, 8 leg85 [B)2-s2,-s"( 4 )", leg99 G#-,-s5, leg75 A-s1,-s4, A] \
+ leg85 [A leg99 F leg75 Gn-s4, G]
+|
+il1.8 .23 105
+=1' 4 leg99 d-s1-s"( 3 )"-s5 cn-s3-s4 Bn-s1-s"( 3 )"-s5 Bb(1-s2-s4
+=1, 4 leg85 D 4. leg85 A 8 leg99 [F#--s2 leg75 G G]
+=2' 4 leg99 a~)1 rest' 2 d~
+=2, 8 leg85 [G leg99 E leg75 F# F] 4 leg99 G E
+|
+=1' 8 leg99 [B)1-s1-s3-s"( 4 )" leg85 A-s1-s3] 4. leg85 d-s1-s5 \
+ 8 leg99 [Bn-s2 leg85 c#-s3 e-s4]
+=1, 8 leg85 [G leg99 E leg75 F F] leg85 [F leg99 D-s2, leg75 E-s1, E-s1,]
+=2' 4 leg85 c~# f~ leg99 bn bb
+=2, 4 leg85 A-s3, leg99 a-s1, g#l-s3,-s4, gnl-s3,-s5,
+|
+=1' 4 leg85 a-s5 8 [A leg75 d-s5] leg85 [d leg99 Bn-s4 leg75 c-s1-s5 c]
+=1, 8 leg85 [E-s1, leg99 C#-s2,] 4 D rest, leg85 Cn
+=2' 4 leg85 a d~ 2 leg99 g
+=2, 4 leg99 f#-s3,-s4, fn-s1,-s5, e-s2,-s3, eb-s"( 2 )",-s4,
+/
+4 bars | 1b 6 8 6 8 6 8 6 5| 6 6 6 7 6 8 6 9| 6 8 6 8 6 8 6 5| 6 6 6 6 6 9 6 5|
+|
+=1' 8 leg85 [c-s2-s5 leg99 A-s4 leg75 Bb-s1-s3 leg99 B] [c-s1-s4 d-s5] 4 eb(1-s4
+=1, 4 leg99 F E Eb 8 rest, c(2
+=2' 4 leg99 f g 8 [a g] 4 a
+=2, 4 leg99 d-s3,-s5, db-s2,-s4, leg85 c f
+|
+=1' 4 leg85 e)1 leg99 d-s2-s5 en-s4 f(1-s2-s5
+=1, 8 leg85 [c)2 leg99 A--s1 leg75 B B] leg85 [B leg99 G leg75 Ab A]
+=2' 4 leg85 d f 4. leg99 c~-s1, 16 [d~-s2, c~-s1,]
+=2, 2 leg99 B rest
+|
+il1.1 .40 110
+=1' 8 leg85 [f)1 leg99 d-s4 leg75 eb e] leg85 [e leg99 c-s3 leg75 d d-s1-s4]
+=1, 4. leg85 G 8 A 4. F# 8 G
+=2' 4 leg99 bn 4. leg85 c~-s1, 8 leg99 [a-s3, leg75 bb b]
+=2, 4 blank 1 rest,
+|
+=1' 4 leg99 en-s5 f#-s2-s4 leg85 g leg99 eb-s2-s3-s5
+=1, 4 leg85 C 4. c 8 leg99 [A leg75 Bbl B--s3]
+=2' 8 leg85 [b-s1,-s2, leg99 g leg75 a-s3, a] 4 leg85 g-s1, leg99 g~
+=2, 2. rest, 4 G(2-s4,
+/
+4 bars | 1b 6 6 6 6 6 8 6 5| 6 6 6 6 6 6 8 5| 6 6 6 8 8 6 6 5| 8 6 6 8 8 7 6 5|
+|
+=1' 4 leg99 c#-s1-s3-s5 leg85 d-s1-s"( 3 )"-s5 \
+ leg99 Bn--s"( 1 )"-s2-s4 leg85 cn-s1-s"( 2 )"-s5
+=1, 2 leg99 A G
+=2' 4 leg85 e~ 2 leg99 d~ 4 c~(1
+=2, 8 leg85 [G)2 leg99 E leg75 F F] leg85 [F leg99 D leg75 Eb-s3, E]
+|
+rs0.5 .41 1 .51 2 .63 4
+=1' 4 leg85 A--s"( 1 )"-s3-s4 2 leg99 Bb-s1-s"( 3 )"-s5 4 A-s1-s3-s5
+=1, 2 leg99 F(2 8 leg85 [F)2 leg99 G F Eb(2]
+=2' 4 leg85 c~)1 8 leg99 [b c~] 4 leg88 d~ c~
+=2, 8 leg85 [Eb leg99 C D E] [F-s2, E-s4,] 4 leg85 F-s5,
+|
+=1' 4 leg85 B-s"( 2 )"-s5 F-s2 leg99 c-s2-s5 c#-s2-s4
+=1, 8 leg99 [Eb)2 leg85 D leg75 F F] leg99 [F leg85 Eb leg75 G G]
+=2' 4. leg85 b 8 leg99 a-,-s1, [g b-s1, a-s2, g-s3,]
+=2, 4 leg85 B-s1,-s4, leg99 d-s5, 2 eb-s2,-s4,
+|
+il0.8 .05 115
+=1' 4 leg85 d A-s2 2 leg99 e-s2-s4
+=1, 8 leg99 [G leg85 F# leg75 A A] leg99 [A leg85 G leg75 Bn-s2 B]
+=2' 4 leg95 a 8 leg99 [d~ c~] [bn c~#] 4 d~(1
+=2, 4 leg85 d-s2,-s5, leg99 f#-s1,-s4, g-s3,-s5, g#-s1,-s4,
+/
+4 bars | 1b 8 6 8 8 6 7 6 5| 8 8 6 7 7 8 8 5| 9 6 6 6 8 9 6 5| 9 6 6 9 8 8 6 5|
+|
+=1' 4 leg99 f e-s2-s4 8 [d-s1 e] 4 d
+=1, 4 leg99 A 8 [Bn c#--s3] 4 d rest,
+=2' 8 leg99 [d~)1 leg85 c~#] 4 leg99 g~(1 8 [g~)1 leg85 e~ leg75 f~ f~]
+=2, 4 leg99 a-s5, 8 rest a-s5, 4 bb-s4, bn-s1,-s5,
+|
+=1' 4 leg99 a 4. leg85 g 8 leg99 [e leg75 f-s"( 1 )"-s5 f]
+=1, 2. rest leg99 d(2
+=2' 8 leg99 [f~ leg85 d~# leg75 e~ e~] leg85 [e~ a-,-s3, leg99 d~n c~n]
+=2, 4 leg99 c~ c~#-s1,-s3, leg85 d~nrl-s1,-s2, d-s1,-s5,
+|
+=1' 8 leg85 [f leg99 d#-s2-s4 leg75 e e] \
+ leg85 [e leg99 c#-s2-s4 leg75 dn-s3-s5 d]
+=1, 8 leg85 [d)2 leg99 Bnl leg75 c c] leg85 [c leg99 A leg75 Bnl B]
+=2' 4 leg99 bn bb a 8 rest' a
+=2, 4 leg85 g-s1,-s3, c-s2,-s5, f-s1,-s3, Bn
+|
+=1' 8 leg85 [d leg99 Bn-s2-s4 leg75 c c] leg85 [c leg99 A-s1-s3 leg75 B-s2-s4 B]
+=1, 8 leg85 [Bn leg99 G#l leg75 A A] leg85 [A leg99 F# leg75 G# G]
+=2' 4 leg99 g# gn f# fn
+=2, 4 leg99 e-s2,-s3, 8 rest,-s1, e-s4, 4 d#l-s2,-s3, dnl-s1,-s4,
+/
+4 bars | 1b 3 3 7 7 3 3 3 3 3 3 3 4 3 3 3 2 \
+ | 8 9 6 6 9.5 6 6 5| 9.5 7 6 6 6 8 6 5| 8 6 6 6 9 6 6 5|
+|
+il1.0 .51 120
+=1' 8 leg85 [Bn-s1-s3 e-s2-s5] 4. A-s2-s4 8 leg99 [c-s5 B-s5 A-s4]
+=1, 8 leg99 [G# 16 A Gn] 8 [F# E] 2 F(2
+=2' 2. leg99 e 4 d#
+=2, 4 leg99 c#-s1,-s3, cn-s3, 8 [Bn A] 4 leg85 B-s1,-s2,
+|
+=1' 4 leg85 G# leg99 Bn-s1-s3-s5 leg85 A-s"( 1 )"-s3-s4 leg99 c-s3-s5
+=1, 8 leg99 [Fr)2 leg85 E leg75 G#l G] leg99 [Gr leg85 F# leg75 A A--s2]
+=2' 4 leg85 e 2 leg99 e~ 4 d~#-s2,
+=2, 4 leg99 E-s1,-s5, 2. rest,
+|
+=1' 4 leg85 Bn-s2-s3 4 leg99 d(1-s2-s4 8 [d)1 leg85 c leg75 eb-s2-s4 e]
+=1, 8 leg99 [Ar leg85 G# leg75 Bn B] leg99 [B leg85 A leg75 c c]
+=2' 4 leg85 e~ leg99 g# a rest''
+=2, 4 rest-s1, leg99 e-s3,-s5, f f#-s3,
+|
+=1' 8 leg99 [eb leg85 d leg75 f-s2-s4 f] leg99 [f leg85 en leg75 g-s2-s4 g]
+=1, 8 leg99 [c leg85 Bn leg75 d d] leg99 [d leg85 c#l leg75 e e]
+=2' 2. rest'' 4 leg99 e~
+=2, 4 leg99 g-s5, g# a-s5, rest-s2,
+
+5 systems 8 /20-50-20/20-55-20/20-40-20/20-45-20/20-50-20/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 6 8 6 6 6 8 6 5 | 6 6 6 6 6 6 6 5| 7 6 6 6 8 8 8 5| 6 8 6 6 8 6 6 5|
+|
+=1' 8 leg99 [g-s2-s4 leg85 f leg75 c~-s2-s5 c~] \
+ leg99 [c~ leg85 b-s1-s4 leg75 fn-s1-s3 f-s2-s4]
+=1, 8 leg99 [e leg85 d leg75 eb e] leg99 [e leg85 d leg75 d d]
+=2' 4 leg99 f~ f~# g~ g~#
+=2, 4 leg99 rest-s1, a-s2,-s5, bb bn-s2,-s5,
+|
+il1.9 .50 125
+=1' 8 leg99 [f-s1-s3-s5 leg85 e-s"( 1 )"-s2-s4 leg75 e-s"( 1 )"--s4 e] \
+ leg99 [e leg85 d-s2 leg75 b-s2-s5 b-s1-s5]
+=1, 8 leg99 [d leg85 c leg75 G G] 4 leg85 F 8 leg75 [d leg85 d]
+=2' 2 leg99 a~(1 8 leg85 [a~)1 leg99 f~ leg75 g~ g~]
+=2, 4 leg99 c~-s4, c~# 2 d~(2
+rs0.01 .29 1 .41 1 .54 2 .67 2 .79 1
+rs0.40 .29 3 .54 5
+|
+=1' 4 leg99 c#-s2-s3 leg85 d-s2-s4 Bn e-s2-s5
+=1, 8 leg99 8 [Br G] 4 A G#l 8 [A Gn]
+=2' 8 leg85 [g~ leg99 e~-s2, leg75 f~-s1,-s3, f~] \
+ leg85 [f~ leg99 d~ leg75 e~ e~]
+=2, 4 leg85 d~)2 8 leg75 [d~ d~] leg85 [d~ leg99 bn-s2,-s4, leg75 c~ c~]
+|
+=1' 4 leg85 A-s2-s3 8 leg99 [d-s1-s5 e-s4] 2 f(1-s5
+=1, 4 leg99 F# 4. leg85 G# 8 leg99 [Bn---s2 leg85 A leg99 c---s2]
+=2' 8 leg85 [e~ leg99 c~ leg75 d~ d~] 2 leg99 d~(1
+=2, 8 leg85 [c~ leg99 a-s2,-s4, leg75 bn b] \
+ leg85 [b leg99 g#-s4, leg75 a a]
+/
+4 bars | 1b 6 6 6 6 8 8 8 5| 6 6 6 6 8 6 6 5| 8 8 6 9 6 8 6 5| 6 6 6 6 6 6 6 5|
+|
+=1' 8 leg99 f)1-s1 4 e-s5 8 d [c-s"( 2 )"-s3 8. Bn--s4 16 A-s3 8 B-s4]
+=1, 4 leg85 Bn 2 leg99 A---s2 4 G#---s2
+=2' 4 leg99 d~)1 leg85 c~ f~-s1 leg99 bn
+=2, 4 leg99 g#-s"( 1 )",-s4, leg85 a-s2,-s3, leg99 d-s5, leg85 e-s1,-s2,
+|
+=1' 2 leg99 A-s5 4 rest'-s3 G#l-s3-s4
+=1, 4 leg99 Ar Gn--s4 F# Fnrl
+=2' 8 leg99 [c~-s1 d~-s2 leg75 e~-s1 e~-s1] \
+ leg85 [e~-s1 leg99 c~#-s2 leg75 d~-s"   1" d~-s1]
+=2, 1 leg99 A(2-s5,
+|
+il0.7 .17 130
+=1' 4. leg85 A-s1-s2-s5 8 leg99 A-s1-s4 \
+ leg85 [Bn-s1-s3 leg99 d-s1-s2-s5 leg75 c#-s1-s4 c]
+=1, 4. leg85 E 8 leg99 E leg85 [F A leg75 E E]
+=2' 8 leg85 [d~ leg99 bn-s1, leg75 c~n leg99 c~] leg85 [d~ f~ leg75 bb b]
+=2, 4 leg85 A)2 8 leg75 [a-s3,-s4, a] leg85 \
+ [a-s2,-s4, leg99 f leg75 g-s2,-s4, g-s1,-s4,]
+|
+=1' 8 leg85 [c# leg99 e-s2-s5 leg75 d-s1-s4 d] \
+ leg85 [d leg99 f-s2-s5 leg75 e-s1-s4 e]
+=1, 8 leg85 [E leg99 G leg75 F F] leg85 [F leg99 A leg75 G G]
+=2' 8 leg85 [b leg99 g leg75 a a] leg85 [a leg99 f leg75 g g]
+=2, 8 leg85 [g-s1,-s2, leg99 e-s2,-s4, leg75 f f] \
+ leg85 [f leg99 d-s2,-s4, leg75 e e]
+/
+4 bars | 1b 7 6 6 6 7 7 6 5| 7 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5|
+|
+=1' 8 leg85 [e leg99 g leg75 f-s1-s4 f-s3-s5] leg85 [f leg99 d leg75 e e]
+=1, 8 leg85 [G leg99 B leg85 A leg75 d] leg85 [d leg99 Bn leg75 c# c]
+=2' 8 leg85 [g leg99 e] 4 f rest'' b
+=2, 8 leg85 [e leg99 c#-s3,-s5,] 4 leg85 d leg99 a-s1, g-s2,-s3,
+|
+=1' 8 leg85 [e-s3-s5 leg99 c#-s1-s4 leg75 d-s2-s5 d-s1-s5] \
+ leg99 [d-s2-s4 leg85 c leg99 e-s5 leg85 d]
+=1, 8 leg85 [c# leg99 E leg75 F leg85 F] 2 leg99 B(2
+=2' 2 leg99 a g(1
+=2, 4 rest,-s1, leg99 f-s3, e d
+|
+=1' 8 leg99 [f-s5 leg85 e] 4. leg99 g-s5 8 [f-s5 e-s1-s4 d-s5]
+=1, 4. leg85 B)2 8 leg99 B---s2 4 A---s2 G(2
+=2' 4 leg85 g)1 leg99 e f g
+=2, 4 rest, leg99 c#-s4,-s5, d-s3,-s5, e
+|
+il0.9 .50 135
+=1' 8 leg85 [c# A-s3] 2 leg99 d-s2-s5 4 c
+=1, 4 leg99 G)2 8 leg85 [F D] 2 leg99 G(2-s2
+=2' 4. leg99 a 8 leg85 b leg99 [b leg75 a-,-s1, leg99 a g]
+=2, 4 rest,-s1, 8 leg99 [f-s5, g-s2,-s4,] 4 f-s2,-s5, e-s1,-s4,
+/
+4 bars |1b 7 6 6 6 7 7 6 5 | 6 6 6 6 7 6 6 5| 7 6 6 6 9 7 6 5| 7 6 7 6 6 6 6 5|
+|
+=1' 8 leg85 [d-s5 A-s3 leg75 d d] leg85 \
+ [d-s1-s5 leg99 Bn--s4 leg75 c-s2-s5 c]
+=1, 4 leg95 G)2 8 [F G] 4 F Eb(2
+=2' 2 leg99 a 4 rest'' a
+=2, 8 leg85 [d-s1,-s5, leg99 c#-s4, d-s5, e] 4 f-s3, f#-s2,-s4,
+|
+=1' 4 leg99 Bb-s4 A(1-s2-s4 8 [A)1 leg85 G leg75 B-s2-s4 B]
+=1, 8 leg99 [Eb)2 leg85 D leg75 F F] 8 [F leg85 En leg75 G G]
+=2' 4 leg85 b fn leg99 c~ c~#
+=2, 4 leg85 g-s1,-s3, d-s4,-s5, 2 leg99 a(2-s1,-s3,
+|
+=1' 8 leg99 [B leg85 A  leg75 c-s2-s4 c] 8 [c leg85 Bn leg75 d-s2-s4 d]
+=1, 8 leg99 [G leg85 F# leg75 A A] 8 [A leg85 G#l leg75 Bn B]
+=2' 4 leg85 d~ a-s5, 2 leg99 e~-s2,
+=2, 1 a)2(2
+|
+=1' 8 leg85 [d-s1-s4 leg99 c#-s2-s3 d e-s2-s5] \
+ leg85 [f-s1-s4 leg99 e-s2-s3 f g-s3-s5]
+=1, 8 leg85 [Bn leg99 A B c#] leg85 [d leg99 c d e]
+=2' 4 leg99 f~ e~ 8 [d~ e~] 4 leg85 d~-s3,
+=2, 1 a)2(2-s1,-s"( 5 )",
+/
+4 bars | 1b 6 6 6 6 8 6 6 5| 6 6 6 6 8 6 6 5| 6 8 6 6 8 6 6 5| 8 6 6 6 9 8 6 5|
+|
+il1.0 140
+=1' 4 leg99 e-s1-s3 leg85 f-s2-s5 leg99 d-s1-s4 leg85 e-s3-s5
+=1, 4 leg99 c# cn Bn Bb
+=2' 8 leg85 [a~ e~  leg75 a~ a~] 8 [a~ leg99 f~#-s3, leg75 g~-s2, g~]
+=2, 4 leg99 a)2 2. rest
+|
+=1' 4 leg99 c#-s2-s4 d-s3-s5 2 rest'-s3
+=1, 4 leg99 A Bb Bn cn-s4
+=2' 8 leg85 [g~-s2, e~-,-s1,  leg75 f~-s1 f~-s1] \
+ 8 leg85 [f~-s1 leg99 a~b-s2 leg75 g~-s1 g~-s1]
+=2, 4 rest 4. leg99 d-s5, 8 [f-s3, leg75 e e]
+|
+rs0.9 .18 1
+=1' 4 rest''-s2 leg85 a(1-s2-s5 8 [a)1-s3-s"( 5 )" leg99 f#-s4 leg75 g g]
+=1, 4 leg99 c# d 2 eb(2
+=2' 8 leg85 [g~-s1 leg99 b~-s1] 4 leg85 a~ 2 leg99 c~
+=2, 8 leg85 [e leg99 g-s2, leg75 f#-s4, f] \
+ leg85 [f-s1,-s4, leg99 a-s2, leg75 g-s4, g]
+|
+=1' 8 leg85 [g leg99 en-s2-s4 leg75 f f] leg85 [f leg99 d#-s2-s4 leg75 e e]
+=1, 8 leg85 [eb)2 leg99 c#l leg75 d d] leg85 [d leg99 Bnl leg75 cn c]
+=2' 4 leg99 b rest''' rest''' g~-s1,
+=2, 8 leg85 [g-s2,-s4, leg99 b leg75 a-s4, a] 2 leg85 a(2
+
+5 systems 10 /20-45-20/20-45-20 5/20-54-20/20-50-20/20-45-20 5/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 8 6 9 8 6 8 9 5| 6 8 6 8 6 6 6 5| 8 6 6 6 8 6 6 5| 8 8 6 7 6 6 6 5|
+|
+=1' 4 leg99 d#r-s1-s2-s4 8 [e-s"( 2 )"-s5 dn-s1-s4] \
+ 4 c#-s2-s3 8 [d--s5 cn-s1-s4]
+=1, 4. leg99 Bnrl 8 Bbl 4. A 8 Abl
+=2' 4 leg99 f~# 2 e~ 4 d~(1
+=2, 8 leg85 [a)2-,-s"( 4 )", leg99 f# leg75 g-s1,-s4, g] \
+ leg85 [g leg99 e leg75 fn-s1,-s4, f]
+|
+il1.1 .45 145
+=1' 4 leg85 Bn-s2-s3 2 leg99 c-s5 4 B-s2-s4
+=1, 4. G 8 F--s1 [Eb--s2 leg85 D--s1 leg75 F F]
+=2' 4 leg99 d~)1 2. rest''
+=2, 8 leg85 [f leg99 d eb-s3, f] 4 leg85 g-,-s1, G-s5,
+|
+=1' 4 leg85 c G-s2 leg99 d-s2-s5 d#-s2-s4
+=1, 8 leg99 [F leg85 En leg75 G G] leg99 [G leg85 F# leg75 A A]
+=2' 4 rest' leg85 e leg99 bn a
+=2, 2 leg99 c-s4, 4 rest,-s1, fn-s2,-s4,
+|
+=1' 4 leg85 e Bn-s2 2 leg99 f#-s2-s4
+=1, 8 leg99 [A leg85 G# leg75 Bn B] leg99 [B leg85 A leg75 c-s2 c]
+=2' 4 rest'' leg99 gn-s1, f# er
+=2, 2 leg99 e-s5, 4 leg85 d#l-s3,-s4, a-s2,-s5,
+/
+4 bars | 1b 8 6 6 6 6 6 6 5| 7 6 6 6 8 8 6 5| 8 6 6 6 8 8 6 5| 8 6 6 6 8 8 6 5|
+|
+=1' 4 leg99 g-s1-s5 f#-s1-s5 8 [e-s1-s4 f] 4 e-s2-s3
+=1, 8 leg99 [c Bn--s2 A leg85 B--s2] 4 G leg99 c
+=2' 4 rest'' leg99 d# e-,-s2, f#
+=2, 4 leg85 g-s1, 2 leg99 cr-s3,-s4, 8 [Bnl,-s1,-s5, A-s4,]
+|
+=1' 8 leg85 [bn leg99 d#-s2] 4 leg85 e(1-s5 8 [e)1 leg99 c#-s4 leg75 dn d]
+=1, 4 leg99 Bn 2. rest,
+=2' 4 rest' 8 leg99 [g a-,-s1,] 4 g f#
+=2, 4 leg85 G-s5, c-s2,-s4, leg99 A-s1,-s5, Bnl-s2,-s4,
+|
+il1.0 .35 150
+=1' 8 leg85 [d leg99 Bn-s4 leg75 c c] leg85 [c leg99 A-s2-s3 leg75 Bb-s1-s4 B]
+=1, 4 rest, leg85 A(2 8 [A)2 leg99 F# leg75 G G]
+=2' 2 leg99 e 4 rest' leg85 e~(1
+=2, 4 leg99 G#-s1,-s5, leg85 A-s"( 1 )",-s3, leg99 E rest,-s1,
+|
+=1' 4 leg99 A-s2-s3 leg85 Bb-s1-s4 leg99 G#-s2-s3 leg85 A-s1
+=1, leg99 F# Fnl E rest,,
+=2' 8 leg85 [e~)1 leg99 c~#-s2, leg75 d~ d~] \
+ leg85 [d~ leg99 bn-s2, leg75 c~n-s1,-s3, c~]
+=2, 2. rest, 4 leg85 a(2
+/
+4 bars | 1b 9 6 6 6 7 6 6 5| 6 6 6 6 6 6 7 5| 8 7 6 6 7 6 6 5| 6 6 6 6 6 6 6 5|
+|
+=1' 4 leg99 d-s4 leg85 e leg99 c#-s3 leg85 d(1-s2-s4
+=1, 2. rest, 4 leg85 A(2
+=2' 4 leg99 bn-s2, bb 4. leg85 a-s2,-s3, 8 leg99 c~
+=2, 8 leg85 [ar)2 leg99 f#-s5, leg75 g-s1,-s3, g] leg85 [gr leg99 e-s5,] 4 f-s4,
+|
+=1' 8 leg85 [d)1 leg99 f-s1-s5 leg75 e-s1-s4 e] \
+ leg85 [e leg99 g-s5 leg75 f-s1-s4 f]
+=1, 8 leg85 [A)2 leg99 F leg75 G G] leg85 [G leg99 E-s1, leg75 F F]
+=2' 8 leg99 [b a-,-s1,] 4 b rest' 8 [a bn]
+=2, 4 leg85 g-s2,-s3, leg99 c#-s2,-s5, rest, leg85 d-s2,-s5,
+|
+=1' 8 leg85 [f leg99 a leg75 g g] leg85 [g leg99 b-s5 leg75 a-s4 a]
+=1, 8 leg85 [F leg99 D-s2, leg75 E-s1, E-s1,] \
+ leg85 [E-s1, leg99 C#-s2,] 4 leg85 D(2-s1,
+=2' 8 leg99 [c~# bn-s4,-s"( 5 )",] 4 c~-s2,-s4, rest' c~n
+=2, 4 leg85 a-s2,-s5, leg99 bbrl rest, f#l-s2,-s5,
+|
+il1.1 .20 155
+=1' 4 leg85 g-s5 G(1 8 [G)1 leg99 B-s3-s4 leg75 A-s2-s4 A]
+=1, 8 leg85 [D)2 leg99 D leg85 C--s1 E-s2-s"( 1 )"] [E leg99 G leg75 F F]
+=2' 8 leg85 [bn leg99 d~-s1, leg75 c~ c~] 2 leg85 c~(1
+=2, 4 leg99 fn-s3,-s5, e-s1,-s4, rest, eb-s4,
+/
+4 bars | 1b 7 6 6 6 6 8 6 5| 7 7 6 8 6 8 8 5| 6 8 6 6 6 6 8 5| 6 6 6 6 6 6 6 5|
+|
+=1' 8 leg85 [A-s3-s4 leg99 F#-s1-s3 leg75 G-s1-s4 G] \
+ leg85 [G B-s2-s3] 4 leg99 eb(1
+=1, 8 leg85 [F# leg99 D] 4 leg85 E(2 8 [E)2 leg99 G leg75 F F]
+=2' 8 leg85 [c~)1 leg99 a leg75 b b] [b leg99 g leg75 a a]
+=2, 4 leg99 d-s5, c#-s1,-s4, rest, cn-s1,-s4,
+rs0.3 .19 2 .66 2
+|
+=1' 8 leg99 [eb)1 leg85 d-s2-s3 leg99 g f-s1-s4] \
+ [en-s1-s5 d-s2-s4 c#-s1-s3 d]
+=1, 8 leg85 [F# leg99 A leg75 G G] leg99 [G A] 4 Br(2
+=2' 8 leg85 [a leg99 f#-,-s2, leg75 g g] leg85 [g leg99 e-,-s2, leg75 fn f]
+=2, 4 leg99 Bn-s1,-s5, 2 Bb-s1,-s4, 8 [A-s1,-s5, G#-s1,-s4,]
+|
+=1' 4 leg85 c#-s"( 1 )"-s2 a-s5 leg99 d-s1-s3 e-s2-s4
+=1, 4 leg85 Br)2 E-s2, leg99 A  B(2
+=2' 8 leg85 [e a] 4 leg99 c~# rest'' leg85 g~-s1
+=2, 4 leg99 A-s2,-s5, 8 rest-s3, g-s5, [f-s3, e d c#-s4,]
+|
+rs0.6 .18 2 .68 2 .93 1
+=1' 4 rest'' leg99 f-s3-s5 g-s4 a-s1-s5
+=1, 8 leg99 [B)2 leg85 A] 4. leg99 d 8 [c B A]
+=2' 4 rest'' leg99 f~-s1 e~ d~
+=2, 4 leg99 d-s5, 8 rest d 4 e-s1,-s4, f#-s1,-s3,
+/
+4 bars | 1b 8 6 6 6 6 8 6 5| 6 6 8 6 6 6 6 5| 6 6 6 8 6 6 6 5| 6 8 8 8 8 6 6 5|
+|
+il1.1 160
+rs1.0 .11 2 - 1
+=1' 4 rest'' leg99 b-s5 a g
+=1, 4 leg85 B leg99 C# D E
+=2' 4 rest'' rest'' 8 rest'' leg85 [a c~# a]
+=2, 8 leg99 [g fn e g] 2 leg85 f(2
+rs0.01 .33 1 .55 1 .81 1
+rs0.35 .68 4 .81 2 .93 4
+rs0.69 .10 3 .22 4 .33 5 .45 4 .55 5
+|
+=1' 4 leg99 rest' 8 [f-s5 e-s1-s4] 4 f-s3 g
+=1, 4 leg99 rest, 8 [F G] 4 F Eb
+=2' 4. leg99 d~ 8 c~# 4. d~ 8 leg85 c~n(1
+=2, 8 leg85 [f)2 f] 4 leg99 b(2 8 [b)2 a] 4 g
+rs0.01 .28 1 .54 1 .78 1
+rs0.35 .03 2 .40 3 .54 2 .90 3
+rs0.69 .15 5 .28 4 .66 4 .78 5
+|
+=1' 4 leg85 a d(1-s1-s3 8 [d)1-s1 leg99 B-s2 leg75 c-s5 c]
+=1, 4 leg85 D F# 2 leg99 G(2
+=2' 8 leg85 [c~)1 leg99 a leg75 b b] 2 leg85 b(1
+=2, 4 leg99 f#-s1, 8 rest d-s2,-s5, 4 eb-s1,-s4, en-s5,
+rs0.35 .18 4 .28 2
+rs0.69 .04 5
+|
+=1' 2 leg85 c(1 8 [c)1-s2 leg99 Ab-s4 leg75 B B]
+=1, 4 leg99 G)2 8 [F--s2 En--s1] 2 leg85 F(2
+=2' 8 leg85 [b)1 leg99 g-s2, leg75 ab-s1, a] 2 leg85 a(1
+=2, 4 leg99 fn-s3, 8 rest c-s1,-s5, 4 db-s1,-s4, dn-s3,
+
+5 systems 5 /20-45-20/20-50-20/20-35-20/20-45-20/20-45-20 15/
+pagenum
+innerhead Contrapunctus 11, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+
+/
+4 bars | 1b 6 8 6 6 6 6 6 5| 6 8 6 6 8 6 6 5| 6 8 7 6 6 8 6 5| 6 6 8 6 8 8 6 5|
+|
+=1' 2 leg99 B-s"( 2 )"-s5 4 rest'' leg85 d(1-s2-s4
+=1, 8 leg85 [F)2 leg99 D leg85 Eb leg75 B] leg85 [B leg99 G--s1 leg75 A A]
+=2' 8 leg85 [abl)1 leg99 f-s4,] 4 leg85 gr-s"2   ",-s"3   ", leg99 d~ c~
+=2, 4 leg85 eb-s"( 1 )",-s5, b leg99 en-s1,-s5, f#-s2,-s4,
+|
+il1.2 .03 165
+=1' 8 leg85 [d)1 leg99 f leg75 en-s2-s4 leg99 e] 2 leg85 f(1
+=1, 4 leg85 G leg99 c(2 8 [c)2 leg85 Bn leg75 d d]
+=2' 4 rest' leg99 b a gr
+=2, 4 rest, leg99 g-s2,-s4, a bn
+|
+rs0.6 .67 1 .80 2
+=1' 8 leg85 [f)1 leg99 d leg75 eb leg99 e] 4. leg85 e-s5 8 leg99 e-s5
+=1, 4 leg99 c rest, 8 rest, G 4 F#(2
+=2' 4 rest' leg99 f#rll gr a
+=2, 4 rest, leg99 c~-s1,-s5, bb a
+|
+rs0.2 .69 2 .95 2
+=1' 8 leg99 [d-s5 c B-s1-s3 A-s4] 4 G-s3 leg85 Fn(1-s1-s4
+=1, 4 leg99 F#)2 G 8 rest,, [Eb D C]
+=2' 4 rest' 8 leg99 [b c~] 4 b a
+=2, 4 rest, 8 leg99 [g-s2,-s4, f#] 4 g a-s3,
+/
+4 bars | 1b 8 6 6 9 8 8 6 6| 6 8 6 7 6 8 6 5| 6 6 6 6 6 6 6 5| 6 6 6 6 7 6 6 5|
+|
+=1' 8 leg85 [F)1-s1-s"( 4 )" leg99 Ab-s5 leg75 G-s3 G] \
+ leg85 [G leg99 Bb-s1-s5 leg75 An-s1-s3 A]
+=1, 4. leg85 D 8 leg99 Fr leg75 [En E leg85 E leg99 Gr]
+=2' 4 leg99 gr 2. rest''
+=2, 4 leg85 bn-s1,-s2, leg99 Bn c c#-s3,
+|
+=1' 8 leg85 [A leg99 c-s1-s5 leg75 Bn-s1-s4 B] \
+ leg85 [B-s2-s4 leg99 d-s5 leg75 c#-s4 c]
+=1, 8 leg75 [F# F leg85 F leg99 Ar] 2 leg85 G(2
+=2' 4 rest'' leg85 d~(1 8 [d~)1 leg99 f~-s2, leg75 e~ e~]
+=2, 2 leg99 d-s5,  4 rest leg85 bb(2-s1,-s4,
+|
+il1.4 .40 170
+=1' 8 leg85 [c#-s"( 2 )"-s4 leg99 e-s2-s3-s5 leg75 d-s1-s2-s4 d] \
+ leg85 [d leg99 f-s2-s4-s5 leg75 e-s1-s3-s5 e-s2-s3-s5]
+=1, 8 leg85 [G)2 leg99 B leg75 A A] leg85 [A d leg75 B B]
+=2' 8 leg85 [e~ leg99 g~ leg75 f~ f~] leg85 [f~ leg99 a~ leg75 g~ g~]
+=2, 8 leg85 [b)2 leg99 g-s5, leg75 a a] leg85 [a leg99 f-s5, leg75 g g]
+|
+=1' 2 leg99 A-s1-s3 4 rest''-s2 leg85 g
+=1, 4 leg99 E leg85 D 2 leg99 B(2
+=2' 4 leg99 c~# leg85 d~ 2 leg99 g(1-,-s2,-s4,
+=2, 8 leg85 [g-s2,-s4, leg99 e leg75 f-s1,-s4, f] leg85 [fr leg99 d leg75 e e]
+/
+4 bars | 1b 7 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5| 6 6 6 6 6 7 6 5|
+|
+=1' 8 leg85 [c#-s3 leg99 e leg75 d d] leg85 [d-s2-s4 leg99 f leg75 e e]
+=1, 4 leg99 Br)2 A 2 B
+=2' 4 leg99 g)1 f rest'' d~
+=2, 8 leg85 [e-s"( 2 )",-s4, leg99 c#-s5,] 4 leg85 d-s1,-s3, \
+ G leg99 g(2-s1,-s4,
+|
+=1' 8 leg85 [e-s1-s4 leg99 g f leg85 e] [a-s5 d-s1 leg75 g-s5 g]
+=1, 2 leg99 A 4 rest, G
+=2' 2 leg99 c~# 4 rest'' d~
+=2, 4 leg99 g)2 8 [a g] 4 leg85 f leg99 b-s1,-s2,-s4,
+|
+=1' 8 leg85 [g-s1-s5 leg99 e-s4 leg75 f f-s2-s5] \
+ leg85 [f-s2-s5 leg99 d] 4 e-s2-s5
+=1, 4. leg99 A 8 B leg85 [A leg99 F leg75 G leg99 G]
+=2' 4 leg99 c~# d~ rest'' c#
+=2, 4. leg99 a-s3,-s5, 8 g 4 leg85  a A-s2,-s5,
+rs0.2 .29 1 .40 4 .54 2 - 1
+|
+il1.0 .45 175
+rs1.1 .05 5
+rs0.7 .05 1 - 2
+=1' 4 leg85 d A-s1-s3 rest' B(1-s2-s4
+=1, 4 leg85 F D leg99 A G
+=2' 8 leg99 [d e leg75 f f] leg99 [f leg85 e leg75 g g]
+=2, 4 leg85 B-s1,-s3, F-s1,-s5, leg99 c-s1,-s4, c#-s1,-s3,
+rs0.4 .15 2
+/
+4 bars | 1b 6 6 6 6 8 8 6 5| 6 6 6 6 6 6 6 5| 7 6 6 6 8 8 6 5| 6 8 6 6 8 6 8 5|
+|
+=1' 8 leg99 [B)1 leg85 A leg75 c-s2-s5 c] leg99 [c leg85 Bn-s2] 4 leg99 g(1-s5
+=1, 4 leg99 rest,, F E D
+=2' 8 leg99 [g f leg75 a a] leg99 [a leg85 g-,-s3, leg75 bb-s1,-s2,-s"( 4 )", b]
+=2, 4 d-s1,-s3, A 2 leg99 e-s1,-s4,
+|
+=1' 8 leg99 [g)1 f leg85 g leg99 e-s2] 4 leg85 f-s1 leg99 b-s4
+=1, 4 leg99 rest,, C# D E
+=2' 8 leg99 [b a leg85 b leg99 g] 4. leg99 a 8 g-s3,
+=2, 4 leg99 f-s2,-s5, e-s1,-s2,-s4, 8 [d-s1,-s2,-s5, e] 4 leg85 d-s1,-s5,
+|
+=1' 8 leg85 [a-s5 leg99 c#-s2 leg75 d-s1-s5 d-s2-s5] \
+ leg85 [d leg99 Bn-s1-s4 leg75 cn-s2-s5 c]
+=1, 4 rest,  leg99 8 [F G] 4 F E
+=2' 8 leg99 [fr e-s3,] 4 leg85 dr-s"1   ",-s"5   ", 2 leg99 a(1
+=2, 4 leg99 a-s2,-s4, b 4. ar-s2, 8 g-s"( 2 )",-s3,
+|
+=1' 8 leg85 [c-s1-s5 leg99 A-s2 leg85 Bn-s3 d] \
+ [G-s2 leg99 Bb-s4 leg85 c-s5 leg99 Gb-s2]
+=1, 2 leg99 D 4 C# Cn
+=2' 4 leg99 a)1 2 g 4 a
+=2, 4 leg99 f#-s"( 2 )",-s4, fnrll-s3,-s4, e-s1,-s"( 3 )",-s5, eb(2-s1,-s2,-s4,
+/
+5 bars |1b 6 6 6 6 8 7 8 5| 6 8 8 8 8 6 8 5| 8 10 6 6 6 6 6 5| 11 12 11 10|20||
+|
+il1.0 .10 180
+=1' 4 leg85 F-s1 d-s3 leg99 a g-s3-s4
+=1, 8 leg85 D 4 leg99 B-s2  leg85 A-s1 8 [c-s2 e Bb-s1]
+=2' 4 leg85 b f leg99 d~ c~#
+=2, 8 leg99 [eb)2-s1,-s2,-s"( 4 )", leg85 d leg75 f-s4, f] \
+ leg99 [f-s1,-s4, leg85 en leg75 g-s2,-s4, g]
+|
+=1' 4 leg99 rest''-s1 f e-s1-s4 d-s1-s5
+=1, 8 leg85 [A leg99 d-s4 c# cn] [Bn Bb-s2 A G#-s2]
+=2' 4 leg85 d~ a leg99 2 e~
+=2, 8 leg99 [g leg85 f leg75 a-s4, a] leg99 [a-s2,-s4, leg85 g leg75 b-s4, b]
+| 1.1 1.2
+=1' 4 rest''-s1 leg99 c#-s1-s3 d-s1-s4 e-s3-s5
+=1, 8 leg99 [A leg85 Bb-s2 leg99 Gnl leg85 A] 4 F B
+=2' 4 leg99 f~ e~ 8 [d~ e~] 4 leg85 d~
+=2, 2 leg99 a(2-s1,-s5, 4. a)2 8 g#
+rs0.1 .58 3 .70 2 .81 1 .92 3
+| .65 .7 .76 .83
+=1' 4 rest'-s1 8 leg99 [<d f-s1-s2-s4> <e g-s1-s3-s5>] \
+ 4 <d f-s1-s"    2-3"-s4> <c# e-s1-s2-s5>
+=1, 4 leg85 C# 8 leg99 [A B] 4 A G
+=2' 4 leg85 a~ d~-s2, 2 leg99 a(1-s1,
+=2, 2. leg85 a-s2,-s4, 4 A-s5,
+| 3.3
+=1' 1 d-fermata--s1-s4
+=1, 1 F#-fermata,
+=2' 1 a)1-fermata
+=2, 1 d-fermata,
+@
+
+
+1.31
+log
+@proofread, many small changes
+@
+text
+@d6 2
+a7 2
+midi channel 1 patch 19 pan 80 reverb 80
+midi channel 2 patch 19 pan 20 reverb 80
+d42 1
+a42 1
+=1, 83-s F-s2, 43. E-s1, 8 D [C B_n A_ G_#-s4,]
+d80 1
+a80 1
+=2, 4 leg99 f 8 [e-s1,-s4, d] 4 e-s1,-s4, fn-s1,-s2,
+d88 1
+a88 1
+=2, 4 leg85 Bn-s4, 8 leg99 [c-s1,-s3, d] 4 c-s1,-s3, Bn-s1,-s4,
+d109 2
+a110 2
+=2' 4 leg99 d~-s1, e~ f~ f~#
+=2, 4 rest, leg99 8 [d-s5, e] 4 d c-s4,
+d1155 1
+a1155 1
+|
+d1161 1
+a1161 1
+|
+d1167 1
+a1167 1
+|
+@
+
+
+1.30
+log
+@partial last page also
+@
+text
+@d6 2
+a7 2
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+d499 1
+a499 1
+5 systems 10 /20-40-20/20-47-20/20-45-20/20-45-20/20-45-20 10/
+d526 1
+a526 1
+=1, 4 rest,, 8 leg99 [F-s1 E-s2] 4 F-s1 Gr
+d571 4
+a574 3
+il1.3 .35 95
+=1' 8 leg99 [d-s2-s5 leg85 c#-s3 leg75 e e] \
+ leg99 [e-s2-s5 leg85 d-s_-s3 leg75 f-s1-s5 f]
+d576 1
+a576 1
+=2' 4 leg99 e~)1 8 [d~ leg85 c~#] 4 f~ rest''
+d587 1
+a587 1
+ leg99 [g leg85 e leg75 fn-s2-s4 f]
+d590 1
+a590 1
+=2, 2 leg85 e-s5, 4 leg99 a-s2,-s4, bn
+d592 2
+a593 2
+=1' 2 leg85 e-s5 4 leg99 d#-s3-s4 dn(1-s2-s4
+=1, 8 leg99 [dr)2 leg85 Bn--s1 leg75 c--s3 c] leg99 [cr leg85 A leg75 B B]
+d595 1
+a595 1
+=2, 4 leg85 c~-s1,-s2, leg99 e f# g#-s1,-s3,
+d600 1
+a600 1
+ leg99 [e~ leg85 c~#-s3, leg75 d~n-s1, d~]
+d609 1
+a609 1
+=2' 8 leg99 [d~ bn-s3,] 4 c~ d~ e~
+d630 1
+a630 1
+5 systems 15 /20-45-20/20-45-20/20-45-20/20-45-20/20-45-20 10/
+d643 1
+a643 1
+ leg85 [A leg99 F-s5, leg75 Gn-s3, G]
+d649 1
+a649 1
+=2, 8 leg85 [G leg99 E leg75 F# F] 4 leg99 G E-s5,
+d651 2
+a652 2
+=1' 8 leg99 [B)1 leg85 A-s1-s3] 4. leg85 d-s1-s2-s5 \
+ 8 leg99 [Bn-s1 leg85 c#-s2 e-s3]
+d654 2
+a655 2
+=2' 4 leg85 c~# e~ leg99 bn bb
+=2, 4 leg85 A-s4, leg99 a-s1, g#l-s3,-s4, gnl-s3,-s5,
+d657 2
+a658 2
+=1' 4 leg85 a-s5 8 [A leg75 d] leg85 [d leg99 Bn leg75 c c]
+=1, 8 leg85 [E leg99 C#-s2,] 4 D rest, leg85 Cn
+d660 1
+a660 1
+=2, 4 leg99 f#-s1,-s3,-s4, fn-s1,-s5, e-s2,-s3, eb-s"( 2 )",-s4,
+d664 1
+a664 1
+=1' 8 leg85 [c leg99 A leg75 Bb leg99 B] [c-s1-s4 d-s5] 4 eb(1-s4
+d691 1
+a691 1
+=2, 8 leg85 [G)2 leg99 E leg75 F-s3, F] leg85 [F leg99 D leg75 Eb-s3, E]
+d699 1
+a699 1
+=1' 4 leg85 B-s5 F-s2 leg99 c-s2-s5 c#-s2-s4
+d715 1
+a715 1
+=2, 4 leg99 a-s5, 8 rest a-s5, 4 bb-s4, bn
+d717 1
+a717 1
+=1' 4 leg99 a 4. leg85 g 8 leg99 [e leg75 f-s5 f]
+d722 2
+a723 1
+=1' 8 leg85 [f leg99 d#-s2-s4 leg75 e e] leg85 [e leg99 c#-s2-s4 leg75 dn d]
+d728 1
+a728 1
+=1' 8 leg85 [d leg99 Bn-s2-s4 leg75 c c] leg85 [c leg99 A-s1-s3 leg75 B B-s2-s4]
+d731 1
+a731 1
+=2, 4 leg99 e-s2,-s3, 8 rest,-s1, e 4 d#l-s2,-s3, dnl-s1,-s4,
+d736 1
+a736 1
+il0.8 .51 120
+d757 1
+a757 1
+5 systems 8 /20-50-20/20-50-20/20-40-20/20-45-20/20-45-20 3/
+d766 1
+a766 1
+ leg99 [c~ leg85 b-s1-s4 leg75 fn-s1-s3 f-s1-s5]
+d772 1
+a772 1
+=1' 8 leg99 [f-s3-s5 leg85 e leg75 e-s1-s5 e-s1-s5] \
+d775 4
+a778 2
+=2' 2 leg99 a~(1 8 leg85 [a~)1 leg99 f~-s2, leg75 g~ g~]
+=2, 4 leg99 c~-s1,-s4, c~#-s3, 2 d~(2-s5,
+d786 1
+a786 1
+=1' 4 leg85 A-s2-s3 8 leg99 [d-s1-s3 e-s4] 2 f(1-s5
+d790 1
+a790 1
+ leg85 [b-s2,-s2, leg99 g#-s3, leg75 a a]
+d794 1
+a794 1
+=1' 8 leg99 f)1-s1 4 e-s5 8 d--s4 [c-s1-s"( 2 )"-s3 8. Bn--s4 16 A-s3 8 B-s4]
+d796 2
+a797 2
+=2' 4 leg99 d~)1 leg85 c~ f~ leg99 bn
+=2, 4 leg99 g#-,-s3, leg85 a-s1,-s2, leg99 d-s4, leg85 e-s1,-s3,
+d799 1
+a799 1
+=1' 2 leg99 A-s5 4 rest'-s1-s3 G#l-s1-s3-s4
+d802 1
+a802 1
+ leg85 [e~ leg99 c~#-s2 leg75 d~ d~-s1]
+d806 1
+a806 1
+=1' 4. leg85 A-s1-s2-s4 8 leg99 A-s1-s4 \
+d811 1
+a811 1
+ [a-s2,-s4, leg99 f leg75 g-s2,-s4, g]
+d817 1
+a817 1
+=2, 8 leg85 [g-s1,-s3, leg99 e-s2,-s4, leg75 f f] \
+d831 1
+a831 1
+=2, 4 rest,-s1, leg99 f e d
+d847 1
+a847 1
+ [d-s1-s5 leg99 Bn-s1-s4 leg75 c-s2-s5 c]
+d876 4
+a879 4
+rs0.7 .66 2
+=1' 4 leg99 c#-s2-s4 d-s1-s3-s5 2 rest'-s1-s3
+=1, 4 leg99 A Bb Bn cn-s1-s4
+=2' 8 leg85 [g~-s2, e~-,-s1,  leg75 f~ f~] 8 leg85 [f~ leg99 a~b leg75 g~ g~]
+d883 1
+a883 1
+=1' 4 rest''-s1-s2 leg85 a(1-s1-s2-s5 8 [a)1-s3-s"( 5 )" leg99 f#-s4 leg75 g g]
+d885 1
+a885 1
+=2' 8 leg85 [g~ leg99 b~] 4 leg85 a~ 2 leg99 c~
+d891 1
+a891 1
+=2' 4 leg99 b rest'' rest'' g~-s1,-s"( 4 )",
+d903 1
+a903 1
+ 4 c#-s2-s3 8 [d-s"( 2 )"-s5 cn-s1-s4]
+d906 1
+a906 1
+=2, 8 leg85 [a)2 leg99 f# leg75 g-s1,-s4, g] \
+d913 1
+a913 1
+=2, 8 leg85 [f leg99 d eb f-s3,] 4 leg85 g-,-s1, G-s5,
+d951 1
+a951 1
+=1' 4 leg99 d-s4 leg85 e leg99 c# leg85 d(1-s2-s4
+d969 2
+a970 2
+=1' 4 leg85 g-s5 G(1-s1 8 [G)1 leg99 B-s3-s4 leg75 A-s2-s4 A]
+=1, 8 leg85 [D)2-s"( 1 )", leg99 D leg85 C E-s2] [E leg99 G leg75 F F]
+d994 1
+a994 1
+rs0.8 .17 2 .93 1
+d1006 5
+a1010 2
+=2' 4 rest'' rest'' 8 rest'' leg85 [a-s4, c~#-s1,-s2, a]
+=2, 8 leg99 [g-s3, fn e-s1,-s5, g-,-s4,] 2 leg85 f(2-s1,-s5,
+d1014 5
+a1018 3
+=2' 4. leg99 d~ 8 c~#-,-s"3  ", 4. d~ 8 leg85 c~(1-,-s3,
+=2, 8 leg85 [f)2-s2,-s"( 5 )", f-s5,] 4 leg99 b(2-s1,-s"( 2 )",-s4, \
+ 8 [b)2-s1,-s2,-s"( 4 )", a-,-,-s4,] 4 g-s1,-s"( 2 )",-s5,
+d1022 4
+a1025 2
+=2' 8 leg85 [c~)1 leg99 a-s4, leg75 b-s2, b] 2 leg85 b(1
+=2, 4 leg99 f#-s1,-s"( 3 )",-s5, 8 rest d-s2,-s5, 4 eb-s1,-s4, en-s5,
+d1032 1
+a1032 1
+5 systems 10 /20-45-20/20-50-20/20-45-20/20-45-20/20-45-20 5/
+d1038 1
+a1038 1
+4 bars | 1b 6 8 6 6 6 6 6 5| 6 8 6 6 8 6 6 5| 6 8 7 6 6 8 6 5| 6 6 8 6 8 6 6 5|
+d1040 1
+a1040 1
+=1' 2 leg99 B-s5 4 rest'' leg85 d(1-s2-s4
+d1042 2
+a1043 2
+=2' 8 leg85 [a)1 leg99 f-s4,] 4 leg85 gr-s2,-s3, leg99 d~ c~
+=2, 4 leg85 eb-s5, b leg99 en-s1,-s5, f#-s2,-s4,
+d1058 1
+a1058 1
+=1' 8 leg99 [d-s5 c B-s1-s3 A-s4] 4 G-s3 leg85 F(1-s1-s4
+d1065 1
+a1065 1
+=1' 8 leg85 [F)1-s1 leg99 Ab-s5 leg75 G-s3 G] \
+d1087 1
+a1087 1
+=2, 8 leg85 [g leg99 e leg75 f f] leg85 [fr leg99 d leg75 e e]
+d1094 2
+a1095 1
+=2, 8 leg85 [e-s4, leg99 c#-s5,] 4 leg85 d-s1,-s2, G leg99 g(2-s1,-s4,
+d1097 1
+a1097 1
+=1' 8 leg85 [e leg99 g f leg85 e] [a d leg75 g g]
+d1106 1
+a1106 1
+=2, 4. leg99 a-s3,-s5, 8 g 4 leg85  a A-s3,-s5,
+d1109 4
+a1112 2
+il1.0 .20 175
+=1' 4 leg85 d A rest' B(1
+d1120 1
+a1120 1
+=1' 8 leg99 [B)1 leg85 A leg75 c c] leg99 [c leg85 Bn] 4 leg99 g(1
+d1125 1
+a1125 1
+=1' 8 leg99 [g)1 f leg85 g leg99 e] 4 leg85 f leg99 b
+d1128 1
+a1128 1
+=2, 4 leg99 f-s2,-s4, e-s1,-s5, 8 [d-s1,-s2,-s5, e] 4 leg85 d-s1,-s5,
+d1131 1
+a1131 1
+ leg85 [d leg99 Bn leg75 cn c]
+d1133 1
+a1133 1
+=2' 8 leg99 [fr e-s3,] 4 leg85 dr-s1,-s5, 2 leg99 a(1
+d1136 2
+a1137 1
+=1' 8 leg85 [c leg99 A leg85 Bn d] [G leg99 Bb leg85 c leg99 Gb]
+d1140 1
+a1140 1
+=2, 4 leg99 f# fnrll e eb(2
+d1145 2
+a1146 2
+=1' 4 leg85 F d leg99 a g
+=1, 8 leg85 D 4 leg99 B  leg85 A 8 [c e Bb]
+d1148 2
+a1149 1
+=2, 8 leg99 [eb)2 leg85 d leg75 f f] leg99 [g leg85 en leg75 g g]
+d1151 2
+a1152 2
+=1' 4 leg99 rest'' f e d
+=1, 8 leg85 [A leg99 d c# cn] [Bn Bb A G#]
+d1154 1
+a1154 1
+=2, 8 leg99 [g leg85 f leg75 a a] leg99 [a leg85 g leg75 b b]
+d1156 2
+a1157 2
+=1' 4 rest'' leg99 c# d e
+=1, 8 leg99 [A leg85 Bb leg99 Gnl leg85 A] 4 F B
+@
+
+
+1.29
+log
+@fingered to bar 159
+@
+text
+@d721 1
+a721 1
+=1' 8 leg85 [f leg99 d#-s2-s4 leg75 e e] leg85 [e leg99 c#-s1-s4 leg75 dn d]
+d726 1
+a726 1
+=1' 8 leg85 [d leg99 Bn leg75 c c] leg85 [c leg99 A-s1-s3 leg75 B B-s2-s4]
+d926 1
+a926 1
+=2, 4 leg85 g-s1, 2 leg99 cr 8 [Bnl,-s1,-s5, A-s4,]
+d990 1
+d992 1
+a992 1
+=1, 8 leg99 [B)2 leg85 A---s2] 4. leg99 d 8 [c B A---s1]
+d999 2
+a1000 1
+=1' 4 rest''-s2 leg99 b a g
+d1002 2
+a1003 2
+=2' 4 rest'' rest'' 8 rest'' leg85 [a c~# a]
+=2, 8 leg99 [g-s3, fn e g] 2 leg85 f(2
+d1005 1
+a1005 1
+=1' 4 leg99 rest' 8 [f e] 4 f g
+d1007 3
+a1009 2
+=2' 4. leg99 d~ 8 c~# 4. d~ 8 leg85 c~(1
+=2, 8 leg85 [f)2 f] 4 leg99 b(2 8 [b)2 a] 4 g
+d1011 1
+a1011 1
+=1' 4 leg85 a d(1 8 [d)1 leg99 B leg75 c c]
+d1013 2
+a1014 2
+=2' 8 leg85 [c~)1 leg99 a leg75 b b] 2 leg85 b(1
+=2, 4 leg99 f# 8 rest d 4 eb en
+d1016 4
+a1019 4
+=1' 2 leg85 c(1 8 [c)1 leg99 Ab leg75 B B]
+=1, 4 leg99 G)2 8 [F En] 2 leg85 F(2
+=2' 8 leg85 [b)1 leg99 g leg75 ab a] 2 leg85 a(1
+=2, 4 leg99 fn 8 rest c 4 db dn
+d1029 4
+a1032 4
+=1' 2 leg99 B 4 rest'' leg85 d(1
+=1, 8 leg85 [F)2 leg99 D leg85 Eb leg75 B] leg85 [B leg99 G leg75 A A]
+=2' 8 leg85 [a)1 leg99 f] 4 leg85 gr leg99 d~ c~
+=2, 4 leg85 eb b leg99 en f#
+d1034 2
+a1035 2
+il1.1 .20 165
+=1' 8 leg85 [d)1 leg99 f leg75 en leg99 e] 2 leg85 f(1
+d1038 1
+a1038 1
+=2, 4 rest, leg99 g a bn
+d1040 2
+a1041 1
+=1' 8 leg85 [f)1 leg99 d leg75 eb leg99 e] 4. leg85 e 8 leg99 e
+d1044 1
+a1044 1
+=2, 4 rest, leg99 c~ bb a
+d1046 2
+a1047 1
+=1' 8 leg99 [d c B A] 4 G leg85 F(1
+d1050 1
+a1050 1
+=2, 4 rest, 8 leg99 [g f#] 4 g a
+d1054 2
+a1055 1
+=1' 8 leg85 [F)1 leg99 Ab leg75 G G] leg85 [G leg99 Bb leg75 An A]
+d1058 1
+a1058 1
+=2, 4 leg85 bn leg99 Bn c c#
+d1060 2
+a1061 1
+=1' 8 leg85 [A leg99 c leg75 Bn B] leg85 [B leg99 d leg75 c# c]
+d1063 2
+a1064 2
+=2' 4 rest'' leg85 d~(1 8 [d~)1 leg99 f~ leg75 e~ e~]
+=2, 2 leg99 d  4 rest leg85 bb(2
+d1066 3
+a1068 2
+il1.0 .10 170
+=1' 8 leg85 [c# leg99 e leg75 d d] leg85 [d leg99 f leg75 e e]
+d1071 1
+a1071 1
+=2, 8 leg85 [b)2 leg99 g leg75 a a] leg85 [a leg99 f leg75 g g]
+d1073 1
+a1073 1
+=1' 2 leg99 A 4 rest'' leg85 g
+d1075 1
+a1075 1
+=2' 4 leg99 c~# leg85 d~ 2 leg99 g(1
+d1080 1
+a1080 1
+=1' 8 leg85 [c# leg99 e leg75 d d] leg85 [d leg99 f leg75 e e]
+d1083 1
+a1083 1
+=2, 8 leg85 [e leg99 c#] 4 leg85 d G leg99 g(2
+d1088 1
+a1088 1
+=2, 4 leg99 g)2 8 [a g] 4 leg85 f leg99 b
+d1090 2
+a1091 1
+=1' 8 leg85 [g leg99 e leg75 f f] leg85 [f leg99 d] 4 e
+d1094 2
+a1095 1
+=2, 4. leg99 a 8 g 4 leg85  a A
+d1101 2
+a1102 1
+=2, 4 leg85 B F leg99 c c#
+d1108 2
+a1109 2
+=2' 8 leg99 [g f leg75 a a] leg99 [a leg85 g leg75 bb b]
+=2, 4 d A 2 leg99 e
+d1113 2
+a1114 2
+=2' 8 leg99 [b a leg85 b leg99 g] 4. leg99 a 8 g
+=2, 4 leg99 f e 8 [d e] 4 leg85 d
+d1119 2
+a1120 2
+=2' 8 leg99 [fr e] 4 leg85 dr 2 leg99 a(1
+=2, 4 leg99 a b 4. ar 8 g
+d1143 2
+a1144 1
+=2, 2 leg99 a(2 4. a)2 8 g#
+@
+
+
+1.28
+log
+@up to about 150
+@
+text
+@d840 1
+a840 1
+4 bars |1b 7 6 6 6 7 7 6 5 | 6 6 6 6 8 6 6 5| 8 6 6 6 9 8 6 5| 7 6 8 6 6 6 6 5|
+d890 1
+a890 1
+5 systems 10 /20-45-20/20-45-20/20-50-20/20-50-20/20-45-20 10/
+d937 1
+a937 1
+=2, 4 leg99 G#-s1,-s5, leg85 A-s"( 1 )",-s3, leg99 E-s5, rest,-s1,
+d941 2
+a942 1
+=2' 8 leg85 [e~)1 leg99 c~# leg75 d~ d~] leg85 [d~ leg99 bn leg75 c~n c~]
+d945 1
+a945 1
+4 bars | 1b 9 6 6 6 7 6 6 5| 6 6 6 6 6 6 8 5| 8 7 6 6 8 6 6 5| 6 6 6 6 6 6 6 5|
+d949 2
+a950 2
+=2' 4 leg99 bn bb 4. leg85 a 8 leg99 c~
+=2, 8 leg85 [ar)2 leg99 f# leg75 g g] leg85 [gr leg99 e] 4 f
+d952 17
+a968 15
+=1' 8 leg85 [d)1 leg99 f leg75 e e] leg85 [e leg99 g leg75 f f]
+=1, 8 leg85 [A)2 leg99 F leg75 G G] leg85 [G leg99 E leg75 F F]
+=2' 8 leg99 [b a] 4 b rest' 8 [a bn]
+=2, 4 leg85 g leg99 c# rest, leg85 d
+|
+=1' 8 leg85 [f leg99 a leg75 g g] leg85 [g leg99 b leg75 a a]
+=1, 8 leg85 [F leg99 D leg75 E E] leg85 [E leg99 C#] 4 leg85 D(2
+=2' 8 leg99 [c~# bn] 4 c~ rest' c~n
+=2, 4 leg85 a leg99 bbrl rest, f#l
+|
+il0.8 .20 155
+=1' 4 leg85 g G(1 8 [G)1 leg99 B leg75 A A]
+=1, 8 leg85 [D)2 leg99 D leg85 C E] [E leg99 G leg75 F F]
+=2' 8 leg85 [bn leg99 d~ leg75 c~ c~] 2 leg85 c~(1
+=2, 4 leg99 fn e rest, eb
+d970 1
+a970 1
+4 bars | 1b 8 6 6 6 6 8 6 5| 8 7 6 8 6 8 8 5| 6 8 6 6 6 6 8 5| 6 6 6 6 6 6 6 5|
+d972 2
+a973 1
+=1' 8 leg85 [A leg99 F# leg75 G G] leg85 [G B] 4 leg99 eb(1
+d976 2
+a977 1
+=2, 4 leg99 d c# rest, cn
+d979 2
+a980 1
+=1' 8 leg99 [eb)1 leg85 d leg99 g f] [en d c# d]
+d982 2
+a983 2
+=2' 8 leg85 [a leg99 f# leg75 g g] leg85 [g leg99 e leg75 fn f]
+=2, 4 leg99 Bn 2 Bb 8 [A G#]
+d985 9
+a993 9
+=1' 4 leg85 c# a leg99 d e
+=1, 4 leg85 Br)2 E leg99 A  B(2
+=2' 8 leg85 [e a] 4 leg99 c~# rest'' leg85 g~
+=2, 4 leg99 A 8 rest g [f e d c#]
+|
+=1' 4 rest'' leg99 f g a
+=1, 8 leg99 [B)2 leg85 A] 4. leg99 d 8 [c B A]
+=2' 4 rest'' leg99 f~ e~ d~
+=2, 4 leg99 d 8 rest d 4 e f#
+d997 2
+a998 2
+il1.1 .11 160
+=1' 4 rest'' leg99 b a g
+d1001 1
+a1001 1
+=2, 8 leg99 [g fn e g] 2 leg85 f(2
+@
+
+
+1.27
+log
+@fingered up to about 136
+@
+text
+@d813 1
+a813 1
+=2, 8 leg85 [g-s1,-s3 leg99 e-s2,-s4, leg75 f f] \
+d834 1
+a834 1
+il0.8 .45 135
+d837 2
+a838 2
+=2' 4. leg99 a 8 leg85 b leg99 [b leg75 a leg99 a g]
+=2, 4 rest, 8 leg99 [f g] 4 f e
+d840 1
+a840 1
+4 bars | 1b 7 6 6 6 7 7 6 5 | 6 6 6 6 8 6 6 5| 8 6 6 6 9 8 6 5| 8 6 8 6 6 6 6 5|
+d846 1
+a846 1
+=2, 8 leg85 [d leg99 c# d e] 4 f f#
+d851 1
+a851 1
+=2, 4 leg85 g d 2 leg99 a(2
+d855 1
+a855 1
+=2' 4 leg85 d~ a 2 leg99 e~
+d858 2
+a859 1
+=1' 8 leg85 [d leg99 c# d e] leg85 [f leg99 e f g]
+d861 2
+a862 2
+=2' 4 leg99 f~ e~ 8 [d~ e~] 4 leg85 d~
+=2, 1 a)2(2
+d866 2
+a867 2
+il0.8 .15 140
+=1' 4 leg99 e leg85 f leg99 d leg85 e
+d869 1
+a869 1
+=2' 8 leg85 [a~ e~  leg75 a~ a~] 8 [a~ leg99 f~# leg75 g~ g~]
+d872 5
+a876 4
+=1' 4 leg99 c# d 2 rest''
+=1, 4 leg99 A Bb Bn cn
+=2' 8 leg85 [g~ e~  leg75 f~ f~] 8 leg85 [f~ leg99 a~b leg75 g~ g~]
+=2, 4 rest 4. leg99 d 8 [f leg75 e e]
+d878 2
+a879 1
+=1' 4 rest'' leg85 a(1 8 [a)1 leg99 f# leg75 g g]
+d882 2
+a883 1
+=2, 8 leg85 [e leg99 g leg75 f# f] leg85 [f leg99 a leg75 g g]
+d885 4
+a888 4
+=1' 8 leg85 [g leg99 e leg75 f f] leg85 [f leg99 d# leg75 e e]
+=1, 8 leg85 [eb)2 leg99 c# leg75 d d] leg85 [d leg99 Bnl leg75 cn c]
+=2' 4 leg99 b rest'' rest'' g~
+=2, 8 leg85 [g leg99 b leg75 a a] 2 leg85 a(2
+d890 1
+a890 1
+5 systems 5 /20-45-20/20-45-20/20-50-20/20-45-20/20-45-20 10/
+d898 2
+a899 1
+=1' 4 leg99 d#r 8 [e dn] 4 c# 8 [d cn]
+d902 2
+a903 1
+=2, 8 leg85 [a)2 leg99 f# leg75 g g] leg85 [g leg99 e leg75 fn f]
+d905 3
+a907 3
+il0.8 .15 145
+=1' 4 leg85 Bn 2 leg99 c 4 B
+=1, 4. G 8 F [Eb leg85 D leg75 F F]
+d909 1
+a909 1
+=2, 8 leg85 [f leg99 d eb f] 4 leg85 g G
+d911 1
+a911 1
+=1' 4 leg85 c G leg99 d d#
+d914 1
+a914 1
+=2, 2 leg99 c 4 rest, fn
+d916 4
+a919 4
+=1' 4 leg85 e Bn 2 leg99 f#
+=1, 8 leg99 [A leg85 G# leg75 Bn B] leg99 [B leg85 A leg75 c c]
+=2' 4 rest'' leg99 gn f# er
+=2, 2 leg99 e 4 leg85 d#l a
+d923 4
+a926 4
+=1' 4 leg99 g f# 8 [e f] 4 e
+=1, 8 leg99 [c Bn A leg85 B] 4 G leg99 c
+=2' 4 rest'' leg99 d# e f#
+=2, 4 leg85 g 2 leg99 cr 8 [Bnl, A]
+d928 1
+a928 1
+=1' 8 leg85 [bn leg99 d#] 4 leg85 e(1 8 [e)1 leg99 c# leg75 dn d]
+d930 2
+a931 2
+=2' 4 rest' 8 leg99 [g a] 4 g f#
+=2, 4 leg85 G c leg99 A Bnl
+d933 2
+a934 2
+il0.9 .25 150
+=1' 8 leg85 [d leg99 Bn leg75 c c] leg85 [c leg99 A leg75 Bb B]
+d937 1
+a937 1
+=2, 4 leg99 G# leg85 A leg99 E rest,
+d939 1
+a939 1
+=1' 4 leg99 A leg85 Bb leg99 G# leg85 A
+d946 1
+a946 1
+=1' 4 leg99 d leg85 e leg99 c# leg85 d(1
+d1099 2
+a1100 1
+=1' 8 leg85 [a leg99 c# leg75 d d] leg85 [d leg99 Bn leg75 cn c]
+d1128 2
+a1129 1
+=1' 4 rest' 8 leg99 [<d f> <e g>] 4 <d f> <c# e>
+d1131 2
+a1132 2
+=2' 4 leg85 a~ d~ 2 leg99 a(1
+=2, 2. leg85 a 4 A
+d1134 1
+a1134 1
+=1' 1 d-fermata
+@
+
+
+1.26
+log
+@fingered to about 116
+@
+text
+@d692 2
+a693 2
+rs0.5 .41 1 .51 2 .63 5
+=1' 4 leg85 A-s"( 1 )"-s3-s4 2 leg99 Bb-s1-s"( 3 )"-s5 4 A-s1-s3-s5
+d703 1
+a703 1
+il0.6 .05 115
+d705 1
+a705 1
+=1, 8 leg99 [G leg85 F# leg75 A A] leg99 [A leg85 G leg75 Bn B]
+d709 1
+a709 1
+4 bars | 1b 8 6 8 8 6 7 6 5| 8 8 6 7 7 8 8 5| 9 6 6 6 8 9 6 5| 8 6 6 9 8 8 6 5|
+d716 1
+a716 1
+=1' 4 leg99 a 4. leg85 g 8 leg99 [e leg75 f f]
+d721 1
+a721 1
+=1' 8 leg85 [f leg99 d#-s2-s4 leg75 e e] leg85 [e leg99 c# leg75 dn d]
+d724 1
+a724 1
+=2, 4 leg85 g-s1,-s3, c-s2,-s5, f Bn
+d726 2
+a727 2
+=1' 8 leg85 [d leg99 Bn leg75 c c] leg85 [c leg99 A leg75 B B]
+=1, 8 leg85 [Bn leg99 G# leg75 A A] leg85 [A leg99 F# leg75 G# G]
+d729 1
+a729 1
+=2, 4 leg99 e 8 rest, e 4 d#l dnl
+d734 2
+a735 2
+il0.7 .40 120
+=1' 8 leg85 [Bn e-s2-s5] 4. A 8 leg99 [c B A]
+d738 1
+a738 1
+=2, 4 leg99 c# cn 8 [Bn A] 4 leg85 B
+d740 4
+a743 4
+=1' 4 leg85 G# leg99 Bn leg85 A leg99 c
+=1, 8 leg99 [Fr)2 leg85 E leg75 G#l G] leg99 [Gr leg85 F# leg75 A A]
+=2' 4 leg85 e 2 leg99 e~ 4 d~#
+=2, 4 leg99 E 2. rest,
+d745 1
+a745 1
+=1' 4 leg85 Bn 4 leg99 d(1 8 [d)1 leg85 c leg75 eb e]
+d748 1
+a748 1
+=2, 4 rest leg99 e f f#
+d750 1
+a750 1
+=1' 8 leg99 [eb leg85 d leg75 f f] leg99 [f leg85 en leg75 g g]
+d753 1
+a753 1
+=2, 4 leg99 g g# a rest
+d755 1
+a755 1
+5 systems 5 /20-50-20/20-50-20/20-45-20/20-45-20/20-45-20 10/
+d763 2
+a764 1
+=1' 8 leg99 [g leg85 f leg75 c~ c~] leg99 [c~ leg85 b leg75 fn f]
+d767 1
+a767 1
+=2, 4 leg99 rest a bb bn
+d769 3
+a771 2
+il1.1 .40 125
+=1' 8 leg99 [f leg85 e leg75 e e] leg99 [e leg85 d leg75 b b]
+d773 2
+a774 2
+=2' 2 leg99 a~(1 8 leg85 [a~)1 leg99 f~ leg75 g~ g~]
+=2, 4 leg99 c~ c~# 2 d~(2
+d776 1
+a776 1
+=1' 4 leg99 c# leg85 d Bn e
+d778 3
+a780 2
+=2' 8 leg85 [g~ leg99 e~ leg75 f~ f~] leg85 [f~ leg99 d~ leg75 e~ e~]
+=2, 4 leg85 d~)2 8 leg75 [d~ d~] leg85 [d~ leg99 bn leg75 c~ c~]
+d782 2
+a783 2
+=1' 4 leg85 A 8 leg99 [d e] 2 f(1
+=1, 4 leg99 F# 4. leg85 G# 8 leg99 [Bn leg85 A leg99 c]
+d785 2
+a786 1
+=2, 8 leg85 [c~ leg99 a leg75 bn b] leg85 [b leg99 g# leg75 a a]
+d790 2
+a791 2
+=1' 8 leg99 f)1 4 e 8 d [c 8. Bn 16 A 8 B]
+=1, 4 leg85 Bn 2 leg99 A 4 G#
+d793 1
+a793 1
+=2, 4 leg99 g# leg85 a leg99 d leg85 e
+d795 9
+a803 7
+=1' 2 leg99 A 4 rest' G#l
+=1, 4 leg99 Ar Gn F# Fnrl
+=2' 8 leg99 [c~ d~ leg75 e~ e~] leg85 [e~ leg99 c~# leg75 d~ d~]
+=2, 1 leg99 A(2
+|
+il0.5 .15 130
+=1' 4. leg85 A 8 leg99 A leg85 [Bn leg99 d leg75 c#-s1-s4 c]
+d805 3
+a807 2
+=2' 8 leg85 [d~ leg99 bn leg75 c~n leg99 c~] leg85 [d~ f~ leg75 bb b]
+=2, 4 leg85 A)2 8 leg75 [a a] leg85 [a leg99 f leg75 g g]
+d813 2
+a814 1
+=2, 8 leg85 [g leg99 e leg75 f f] leg85 [f leg99 d leg75 e e]
+d816 1
+a816 1
+4 bars | 1b 7 6 6 6 7 8 6 5| 8 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5|
+d821 1
+a821 1
+=2, 8 leg85 [e leg99 c#] 4 leg85 d leg99 a g
+d824 1
+a824 1
+ leg99 [d-s2-s4 leg85 c leg99 e leg85 d]
+d827 1
+a827 1
+=2, 4 rest, leg99 f e d
+d829 2
+a830 2
+=1' 8 leg99 [f leg85 e] 4. leg99 g 8 [f e d]
+=1, 4. leg85 B)2 8 leg99 B 4 A G(2
+d832 1
+a832 1
+=2, 4 rest, leg99 c# d e
+d836 1
+a836 1
+=1, 4 leg99 G)2 8 leg85 [F D] 2 leg99 G(2
+d842 2
+a843 1
+=1' 8 leg85 [d A leg75 d d] leg85 [d leg99 Bn leg75 c c]
+d848 1
+a848 1
+=1' 4 leg99 Bb A(1 8 [A)1 leg85 G leg75 B B]
+d853 1
+a853 1
+=1' 8 leg99 [B leg85 A  leg75 c c] 8 [c leg85 Bn leg75 d d]
+@
+
+
+1.25
+log
+@finger a few more bars
+@
+text
+@d650 2
+a651 2
+=1' 8 leg99 [B)1 leg85 A-s1-s3] 4. leg85 d-s2-s5 \
+ 8 leg99 [Bn-s2 leg85 c#-s3 e-s1]
+d656 1
+a656 1
+=1' 4 leg85 a-s4 8 [A leg75 d] leg85 [d leg99 Bn leg75 c c]
+d663 1
+a663 1
+=1' 8 leg85 [c leg99 A leg75 Bb leg99 B] [c d] 4 eb(1
+d666 1
+a666 1
+=2, 4 leg99 d-s3,-s5, db-s2,-s5, leg85 c f
+d668 2
+a669 2
+=1' 4 leg85 e)1 leg99 d en f(1
+=1, 8 leg85 [c)2 leg99 A leg75 B B] leg85 [B leg99 G leg75 Ab A]
+d671 1
+a671 1
+=2, 2 leg99 B rest,
+d673 2
+a674 2
+il1.1 .45 110
+=1' 8 leg85 [f)1 leg99 d leg75 eb e] leg85 [e leg99 c leg75 d d]
+d679 2
+a680 2
+=1' 4 leg99 en f# leg85 g leg99 eb
+=1, 4 leg85 C 4. c 8 leg99 [A leg75 Bbl B]
+d686 2
+a687 1
+=1' 4 leg99 c# leg85 d leg99 Bn leg85 cn
+d692 2
+a693 1
+=1' 4 leg85 A 2 leg99 Bb 4 A
+d698 1
+a698 1
+=1' 4 leg85 B F leg99 c c#
+d703 2
+a704 2
+il0.5 .15 115
+=1' 4 leg85 d A 2 leg99 e
+d707 1
+a707 1
+=2, 4 leg85 d leg99 f# g g#
+d711 2
+a712 2
+=1' 4 leg99 f e 8 [d e] 4 d
+=1, 4 leg99 A 8 [Bn c#] 4 d rest,
+d714 1
+a714 1
+=2, 4 leg99 a 8 rest a 4 bb bn
+d718 2
+a719 2
+=2' 8 leg99 [f~ leg85 d~# leg75 e~ e~] leg85 [e~ a leg99 d~n c~n]
+=2, 4 leg99 c~ c~# leg85 d~nrl d
+d721 1
+a721 1
+=1' 8 leg85 [f leg99 d# leg75 e e] leg85 [e leg99 c# leg75 dn d]
+d724 1
+a724 1
+=2, 4 leg85 g c f Bn
+d735 1
+a735 1
+=1' 8 leg85 [Bn e] 4. A 8 leg99 [c B A]
+@
+
+
+1.24
+log
+@filled out more fingering to 104
+@
+text
+@d604 3
+a606 2
+il0.8 .05 100
+=1' 8 leg85 [B)1 leg99 G# leg85 A leg99 c] leg85 [Bn leg99 d leg85 c#l leg99 e]
+d612 2
+a613 2
+=1' 8 leg99 [d c#] 2 d 8 [g 16 f e]
+=1, 4 leg85 A D leg99 A G
+d618 1
+a618 1
+=1' 4 leg85 f 8 leg99 [A-s1-s4 G-s5] 4 A-s2-s4 B(1-s1-s3-s5
+d623 1
+a623 1
+=1' 8 leg85 [B)1-s2-s"( 5 )" leg99 G-s3 leg75 A-s1-s5 A] \
+d626 2
+a627 2
+=2' 4 leg85 e~ leg99 g leg85 f leg99 c#
+=2, 4 leg99 c#-s5, rest, rest, Br(2
+d638 1
+a638 1
+=1' 8 leg99 [F 16 E D] 4 leg85 d leg99 Bn c#
+d641 2
+a642 1
+=2, 8 leg85 [B)2 leg99 G# leg75 A A] leg85 [A leg99 F leg75 Gn G]
+d644 3
+a646 3
+il0.8 .15 105
+=1' 4 leg99 d cn Bn Bb(1
+=1, 4 leg85 D 4. leg85 A 8 leg99 [F# leg75 G G]
+d648 1
+a648 1
+=2, 8 leg85 [G leg99 E leg75 F# F] 4 leg99 G E
+d650 3
+a652 2
+=1' 8 leg99 [B)1 leg85 A] 4. leg85 d 8 leg99 [Bn leg85 c# e]
+=1, 8 leg85 [G leg99 E leg75 F F] leg85 [F leg99 D leg75 E E]
+d654 1
+a654 1
+=2, 4 leg85 A leg99 a g#l gnl
+d656 2
+a657 2
+=1' 4 leg85 a 8 [A leg75 d] leg85 [d leg99 Bn leg75 c c]
+=1, 8 leg85 [E leg99 C#] 4 D rest, leg85 Cn
+d659 1
+a659 1
+=2, 4 leg99 f# fn e eb
+d666 1
+a666 1
+=2, 4 leg99 d db leg85 c f
+d670 1
+a670 1
+=2' 4 leg85 d f 4. leg99 c~ 16 [d~ c~]
+d676 1
+a676 1
+=2' 4 leg99 bn 4. leg85 c~ 8 leg99 [a leg75 bb b]
+d681 2
+a682 2
+=2' 8 leg85 [b leg99 g leg75 a a] 4 leg85 g leg99 g~
+=2, 2. rest, 4 G(2
+d689 1
+a689 1
+=2, 8 leg85 [G)2 leg99 E leg75 F F] leg85 [F leg99 D leg75 Eb E]
+d694 1
+a694 1
+=2, 8 leg85 [Eb leg99 C D E] [F E] 4 leg85 F
+d698 2
+a699 2
+=2' 4. leg85 b 8 leg99 a [g b a g]
+=2, 4 leg85 B leg99 d 2 eb
+@
+
+
+1.23
+log
+@sketched fingering up to about 100
+@
+text
+@d580 1
+a580 1
+=1' 8 leg99 [f-s2-s5 e-s3 f# g#] [a-s1-s5 g-s1-s4] 4 a(1
+d585 2
+a586 1
+=1' 8 leg99 [a)1 leg85 f# leg75 g g] leg99 [g leg85 e leg75 fn f]
+d591 2
+a592 2
+=1' 2 leg85 e 4 leg99 d# dn(1-s2-s4
+=1, 8 leg99 [dr)2 leg85 Bn leg75 c c] leg99 [cr leg85 A leg75 B B]
+d596 1
+a596 1
+=1' 8 leg85 [d)1 leg99 Bn leg85 c e] 4 leg99 A B(1
+d598 2
+a599 1
+=2' 8 leg99 [f~)1 leg85 d~# leg75 e~ e~] leg99 [e~ leg85 c~# leg75 d~n d~]
+d607 3
+a609 2
+=2' 8 leg99 [d~ bn] 4 c~ d~ e~
+=2, 4 leg85 a)2 a(2-s1,-s4, 8 [a)2-s2,-s"( 4 )", leg99 f# leg75 g-s1,-s4, g]
+d617 1
+a617 1
+=1' 4 leg85 f 8 leg99 [A-s1-s4 G] 4 A B(1
+d620 1
+a620 1
+=2, 8 leg85 [e-s1,-s4, leg99 c#-s5, d-s5, e] leg85 [f leg99 e f leg85 g]
+d622 2
+a623 1
+=1' 8 leg85 [B)1 leg99 G leg75 A A] leg85 [A leg99 F leg75 G G]
+d626 1
+a626 1
+=2, 4 leg99 c# rest, rest, Br(2
+d1062 1
+a1062 1
+=1' 4 leg85 a A rest' B(1
+@
+
+
+1.22
+log
+@fingered up to 89 and proofread
+@
+text
+@d537 2
+a538 2
+=1' 2 leg99 f-s1-s"( 2 )"-s5 rest
+=1, 4 leg99 B)2 A--s2 2 blank
+d542 3
+a544 3
+il0.7 .10 90
+=1' 4 blank 1 rest'
+=1, 2. rest, 4 leg99 B_(2
+d546 1
+a546 1
+=2, 4 leg85 B F leg99 c-s1,-s4, c#
+d551 1
+a551 1
+=2, 4 leg85 d A 2 leg99 e
+d555 9
+a563 9
+=1' 4 blank 1 rest'
+=1, 8 leg99 [D C# D E] leg85 [F leg99 E F G]
+=2' 8 leg99 [bn a b c~#] leg85 [d~ leg99 g# a b]
+=2, 4 leg99 f e 8 [d e] 4 leg85 d
+|
+=1' 2. rest' 4 leg99 B(1
+=1, 8 leg85 [E leg99 G F E] 4 D E
+=2' 4. leg85 c~ 8 leg99 c~ [bb a b c~]
+=2, 8 leg85 [a e] 2 leg99 a 4 g
+d565 2
+a566 1
+=1' 8 leg99 [B)1 leg85 A leg75 c c] leg99 [c leg85 Bn leg75 d d]
+d568 2
+a569 2
+=2' 4 leg85 d~ a 2 leg99 e~(1
+=2, 4. leg99 f 16 [g f] 8 [e d] 4 e
+d571 3
+a573 2
+il1.1 .05 95
+=1' 8 leg99 [d leg85 c# leg75 e e] leg99 [e leg85 d leg75 f f]
+d576 1
+a576 1
+=2, 4 leg85 A 2 leg99 a 4 g#
+d580 1
+a580 1
+=1' 8 leg99 [f e f# g#] [a g] 4 a(1
+d582 2
+a583 2
+=2' 4 rest'' leg99 d~ c~# c~n(1
+=2, 2 leg99 a 4 rest, d#
+d587 2
+a588 2
+=2' 4 leg85 c~)1 leg99 bn leg85 c~ g~
+=2, 2 leg85 e 4 leg99 a bn
+d590 1
+a590 1
+=1' 2 leg85 e 4 leg99 d# dn(1
+d593 1
+a593 1
+=2, 4 leg85 c~ leg99 e f# g#
+d598 1
+a598 1
+=2, 1 leg99 a(2
+d606 1
+a606 1
+=2, 4 leg85 a)2 a(2 8 [a)2 leg99 f# leg75 g g]
+d610 3
+a612 2
+=2' 4. leg85 a 8 leg99 a 4 bn c~#
+=2, 8 leg85 [gr leg99 e leg75 f f] leg85 [f leg99 d leg75 e e]
+d614 1
+a614 1
+=1' 4 leg85 f 8 leg99 [A G] 4 A B(1
+d617 1
+a617 1
+=2, 8 leg85 [e leg99 c# d e] leg85 [f leg99 e f leg85 g]
+d788 1
+a788 1
+=1' 4. leg85 A 8 leg99 A leg85 [Bn leg99 d leg75 c# c]
+d793 2
+a794 1
+=1' 8 leg85 [c# leg99 e leg75 d d] leg85 [d leg99 f leg75 e e]
+d801 1
+a801 1
+=1' 8 leg85 [e leg99 g leg75 f f] leg85 [f leg99 d leg75 e e]
+d806 2
+a807 1
+=1' 8 leg85 [e leg99 c# leg75 d d] leg99 [d leg85 c leg99 e leg85 d]
+d818 1
+a818 1
+=1' 8 leg85 [c# A] 2 leg99 d 4 c
+@
+
+
+1.21
+log
+@fingered up to about bar 86
+@
+text
+@d432 1
+a432 1
+=1' 4 leg99 d{1 leg85 c}1 rest' Bb-s2-s4-s5
+d435 1
+a435 1
+=2, 2 leg99 a 4 rest c#-s4,
+d440 1
+a440 1
+=2, 2 leg99 d-s5, 4 rest e-s1,-s4,
+d445 1
+a445 1
+=2, 2 leg99 f-s3, 4 rest Bn-s5,
+d451 1
+a451 1
+=2, 8 leg99 [c-s3, Bn-s4, c d] leg85 [e E] 4 leg99 e-s1,-s4,
+d455 1
+a455 1
+=1' 4 leg85 d-s1-s5 a-s5 leg99 d-s4 e-s2-s5
+d462 1
+a462 1
+=2' 4 leg85 a d-,-s4, 8 leg99 [e d e f#-s3,]
+d467 2
+a468 2
+=2' 4 leg85 g-s1, 8 leg99 [f# e-s3,] [f-,-s2,-s4 a-s1, c~# e~(1]
+=2, 4 leg99 rest, d-s2,-s3, ebrl en-s2,-s5,
+d471 1
+a471 1
+=1, 4 A 2. rest,
+d473 1
+a473 1
+=2, 4 leg85 fn-s4, leg99 b-s3, a-s2,-s4, g-s3,
+d486 1
+a486 1
+=2' 4 leg85 a~ 4. leg99 c~ 8 [b a leg85 g-,-s3,]
+d489 2
+a490 2
+=1' 4 leg85 cn-s4 leg99 Bn-s3 c#-s4 d-s4
+=1, 8 leg85 F# 4 leg99 A-s1 leg85 G-s2 leg99 Bb-s3 8 A-s2
+d492 1
+a492 1
+=2, 4 rest leg99 fn e d
+d496 1
+a496 1
+=2' 4 leg99 g~ e~ rest' 8 [a b-,-s2,]
+d499 1
+a499 1
+5 systems 10 /20-40-20/20-45-20/20-45-20/20-45-20/20-45-20 10/
+d507 2
+a508 1
+=1' 8 leg99 [e)1-s1-s"( 5 )" d leg85 c#-s2-s3 leg99 e] [d cn leg85 Bb leg99 d]
+d510 2
+a511 2
+=2' 4. leg99 a 8 g-,-s1, [f leg85 d] 4 leg99 g(1
+=2, 4 leg99 d-s1,-s4, leg99 A-s1, leg85 B-s2,-s4, leg99 G-s1,-s5,
+d513 2
+a514 2
+il1.0 .20 85
+=1' 8 leg99 [c B A c] leg88 B 4 leg99 g-s5 8 f#
+d517 1
+a517 1
+=2, 4 leg85 A-s4, d-s1,-s2, 2 leg99 G(2-s5,
+d522 2
+a523 2
+=2' 4 leg85 d 8 leg99 [g-s1, f-s2,] [e d e leg85 c]
+=2, 2 leg99 G)2 A(2-s1,-s5,
+d525 2
+a526 2
+=1' 2 A(1-s3 8 leg85 [A)1 leg99 Bb A B]
+=1, 4 rest,, 8 leg99 [F E] 4 F Gr
+d532 1
+a532 1
+=1' 4 leg85 c 2 leg99 f 4 e
+d534 1
+a534 1
+=2' 4 rest'' a~ 8 [g~ f~] 4 g~
+d537 2
+a538 2
+=1' 2 leg99 f rest
+=1, 4 leg99 B)2 A 2 blank
+d546 1
+a546 1
+=2, 4 leg85 B F leg99 c c#
+@
+
+
+1.20
+log
+@introduce 1 systems-line per page
+@
+text
+@d397 1
+a397 1
+=2' 4 leg99 d~)1-s1,-s"( 3 )", c~#-s2, c~n bn(1
+d401 1
+a401 1
+=1, 4. leg99 E 8 D-s1, 4 C#-s2, Cn
+d416 1
+a416 1
+ [d~n c~#-,-s1, leg85 d~ leg99 g#]
+d432 1
+a432 1
+=1' 4 leg99 d{1 leg85 c}1 rest' Bb
+d434 2
+a435 2
+=2' 4 rest'' leg99 c~ d~ e~
+=2, 2 leg99 a 4 rest c#
+d437 1
+a437 1
+=1' 4 leg85 B 8 leg99 [A Bn] 4 leg85 c 8 leg99 [B c]
+d440 1
+a440 1
+=2, 2 leg99 d 4 rest e
+d442 1
+a442 1
+=1' 4 leg85 d 8 leg99 [c d] 4 leg85 e leg99 d(1
+d444 2
+a445 2
+=2' 4 rest'' 8 leg99 [c~ bn] 4 c~ d~
+=2, 2 leg99 f 4 rest Bn
+d447 2
+a448 2
+il0.6 .20 75
+=1' 4 leg99 d)1 c Bn c#
+d451 1
+a451 1
+=2, 8 leg99 [c Bn c d] leg85 [e E] 4 leg99 e
+d455 9
+a463 9
+=1' 4 leg85 d a leg99 d e
+=1, 8 leg99 [F E] 2 leg85 D 4 leg99 G
+=2' 4 leg85 a 8 leg99 [d~ c~] 4 bn bb
+=2, 4 leg99 f f# leg85 g leg99 c#
+|
+=1' 4 rest' leg99 f g a
+=1, 8 leg99 [F A B d] 4 c# cn
+=2' 4 leg85 a d 8 leg99 [e d e f#]
+=2, 4 leg99 d 2. rest,
+d465 1
+a465 1
+=1' 4 rest'' leg99 b a g
+d467 2
+a468 2
+=2' 4 leg85 g 8 leg99 [f# e] [f a c~# e~(1]
+=2, 4 leg99 rest, d ebrl en
+d470 1
+a470 1
+=1' 4 rest' 8 leg99 [f e] 4 f g
+d472 2
+a473 2
+=2' 8 leg85 e~)1 4 leg99 d~ 8 c~# leg85 d~ 4 leg99 f~ 8 e~
+=2, 4 leg85 fn leg99 b a g
+d478 20
+a497 20
+il0.8 .21 80
+=1' 4. leg99 a 8 g 4 f# fn
+=1, 4 rest leg99 Bn 8 [c 16 d eb] 4 d(2
+=2' 8 leg99 [f~ e~] 4 d~ rest' g~#
+=2, 4 leg85 d~ d leg99 A Bn
+|
+=1' 4 leg99 e eb d c#
+=1, 8 leg99 [dr)2 16 c Bb 8 A G] leg85 [F# D G leg99 E]
+=2' 4 leg85 a~ 4. leg99 c~ 8 [b a leg85 g]
+=2, 4 rest, leg99 c d e
+|
+=1' 4 leg85 cn leg99 Bn c# d
+=1, 8 leg85 F# 4 leg99 A leg85 G leg99 Bb 8 A
+=2' 2 leg85 d~ 4 leg99 e~ f~n
+=2, 4 rest99 fn e d
+|
+=1' 1 e(1
+=1, 8 leg99 Bb 4 leg85 A 8 leg99 B [A G F E]
+=2' 4 leg99 g~ e~ rest' 8 [a b]
+=2, 4 rest, 8 leg99 [c# A] 4 Bn c
+d507 1
+a507 1
+=1' 8 leg99 [e)1 d leg85 c# leg99 e] [d cn leg85 Bb leg99 d]
+d509 2
+a510 2
+=2' 4. leg99 a 8 g [f leg85 d] 4 leg99 g(1
+=2, 4 leg99 d leg99 A leg85 B leg99 G
+d513 1
+a513 1
+=1' 8 leg99 [c B A c] leg88 B 4 leg99 g 8 f#
+d515 2
+a516 2
+=2' 4 leg99 g)1 4. leg85 f 8 leg99 d 4 eb
+=2, 4 leg85 A d 2 leg99 G(2
+d518 2
+a519 1
+=1' 8 leg99 [g fn e d] [c leg85 d leg99 B leg785 c]
+d521 2
+a522 2
+=2' 4 leg85 d 8 leg99 [g f] [e d e leg85 c]
+=2, 2 leg99 G)2 A(2
+d524 1
+a524 1
+=1' 2 A(1 8 leg85 [A)1 leg99 Bb A B]
+d527 1
+a527 1
+=2, 4 leg99 A)2 8 [Bn c#] 4 leg85 d Bb
+d534 1
+a534 1
+=2, 4 leg85 f 8 leg99 [A B] 4 leg85 c C
+d538 2
+a539 2
+=2' 2 leg99 f~ 4 rest' eb(1
+=2, 2 leg85 F leg99 A
+@
+
+
+1.19
+log
+@fingered up to bar 63, end of 3rd page
+@
+text
+@d5 1
+a5 1
+leftfoot typesetting (c) 2009 Peter Billam
+d127 6
+d251 4
+a254 1
+# sys
+d375 5
+a379 1
+# sys
+d381 1
+a381 1
+4 bars | 1b 6 6 6 6 8 6 6 5| 6 6 6 6 8 6 8 5| 8 6 8 8 6 6 8 5| 7 6 6 8 6 6 6 6|
+d383 2
+a384 1
+=1' 8 leg99 [eb)1 d] rest'' d [e d e f]
+d387 1
+a387 1
+=2, 4 rest, leg99 b a abl
+d389 2
+a390 2
+il0.6 .20 65
+=1' 4 leg99 g 8 rest' g [a g# a bn]
+d392 2
+a393 2
+=2' 4 leg99 f~)1 e~ d~# d~n(1
+=2, 4 leg99 g 2. rest
+d395 17
+a411 16
+=1' 8 leg85 [g# bn] 4 leg99 e d# dn
+=1, 4 leg99 E 8 rest, G# [A G A leg85 Bn]
+=2' 4 leg99 d~)1 c~# c~n bn(1
+=2, 4. rest, 8 leg99 e [f# e f g#]
+|
+=1' 4 leg85 c# leg99 fn e d#
+=1, 4. leg99 E 8 D 4 C# Cn
+=2' 4 leg99 br)1 a 4. rest'' 8 f~#
+=2, 8 leg85 [a e] leg99 4. a 8 g# 4 a
+/
+4 bars | 1b 7 6 7 7 6 7 6 5| 7 6 6 7 7 6 7 5| 7 6 5 5 6 6 5 4 | 10 10 11 9|
+|
+=1' 4 leg85 e leg99 e d# dn
+=1, 8 leg85 [B_n leg99 Bn A G#] leg85 [A leg99 c B A]
+=2' 8 leg99 [e~ d~ c~ bn] 4 c~ d~
+=2, 4 leg85 g# c~ leg99 f# fn
+d413 1
+a413 1
+=1' 4 leg99 c# cn Bn Bb
+d415 9
+a423 2
+=2' 8 leg99 [e~ d~# leg85 e~ leg99 c~] [d~n c~# leg85 d~ leg99 g#]
+=2, 4 leg85 e a 2 leg99 d
+d425 1
+a425 7
+il0.6 .20 70
+=1' 2. leg99 A 4 G#
+=1, 4 leg99 E F 2 leg85 E
+=2' 8 leg99 [a bn] 4 c~ 2 b
+=2, 4 leg99 c d 8 [e d] 4 e
+|
+=1' 4 leg99 A rest' rest' leg85 d
+d427 2
+a428 2
+=2' 4 leg85 c~ e~ leg99 a bn
+=2, 4 leg99 A rest, rest, g#l
+d499 5
+d619 5
+d740 6
+d861 5
+d981 5
+@
+
+
+1.18
+log
+@fingered to bar 55
+@
+text
+@d259 1
+a259 1
+=2, 4 leg85 d-s1,-s4, A-s2,-s4, 2 leg99 e-s1,-s"     3 - 4",
+d264 1
+a264 1
+=2, 4 leg99 f-s1,-s3, e 8 [d-s2,-s5, e] 4 d-s1,-s3,
+d291 1
+a291 1
+=1, 4 leg99 A 4. leg85 Bn 16 leg99 [E-s1 Fn-s2] [G A 8 Bb]
+d299 1
+a299 1
+=1, 4 leg99 A G F 8 rest, d-s1
+d301 2
+a302 1
+=2, 8 leg99 [f-s1,-s5, g f-s1,-s5, e-s4,] [d-s1,-s5, leg85 A-s3, leg99 d-s1, c]
+d305 1
+a305 1
+=1, 8 leg99 [e d---s1 e f#---s3] [g fn---s3 eb d]
+d322 14
+a335 14
+=1' 4. leg99 d 8 c# 4. d 8 e
+=1, 4 leg99 G G# A Bn
+=2' 8 rest' leg99 [c# d e] [f e] 4 f
+=2, leg99 Bn Bb A G#
+|
+=1' 83-s leg99 d 43 leg85 c# 4 f leg99 Bn Bb
+=1, 4 leg99 A 8 rest, C# [D C D E]
+=2' 4 leg85 e leg99 a g# gn
+=2, 4 leg99 A rest, 4. rest, 8 c#
+|
+=1' 4 leg85 A d 2 G
+=1, 4 leg99 A_ 8 rest,, A_ [B_b A_ B_ C]
+=2' 4 leg99 f# fn e eb
+=2, 4 leg99 d rest, 4. rest, 8 A
+d337 2
+a338 2
+=1' 4 leg99 F G 8 [A G] 4 A
+=1, 8 leg85 [D B_ leg99 Eb D] leg85 [C leg99 E D C(2]
+d340 1
+a340 1
+=2, 8 leg99 [B A] 2 G 4 F#
+d342 2
+a343 1
+4 bars | 1b 9 6 6 6 6 6 8 5| 6 6 6 6 6 6 6 5| 6 6 6 7 6 7 8 5| 7 6 6 6 6 6 6 5|
+d345 5
+a349 5
+il0.4 .10 60
+=1' 4 leg85 D leg99 G F# Fn(1
+=1, 8 leg99 [Cr)2 B_n] 2 C 4 leg85 D
+=2' 4. rest' 8 leg99 g [a g a bn]
+=2, 4 leg99 Fn E Eb D
+d351 1
+a351 1
+=1' 4 leg85 F)1 leg99 E F G
+d353 2
+a354 2
+=2' 8 leg85 [c~ c] 4 leg99 c~ bn bb(1
+=2, 4 leg99 C 8 rest, c [d c d e]
+d356 9
+a364 9
+=1' 4 leg99 C 8 rest' c [d c d e]
+=1, 4 rest,,, leg99 A G# Gn(2
+=2' 4 leg99 b)1 a 8 [bn a b c~#]
+=2, 8 leg85 [f c] 2 leg99 f 4 e
+|
+=1' 4 leg85 A leg99 f e eb(1
+=1, 8 leg99 [Gr)2 F] rest, F [G F G A]
+=2' 8 leg85 [d~ a] leg99 2 d~ 4 c~n
+=2, 4 leg99 d 2. rest,
+d366 1
+@
+
+
+1.17
+log
+@fingered up to bar 43, end of 2nd page
+@
+text
+@d177 1
+a177 1
+4 bars |1b 5 5 6 6 6 6 6 5| 6 6 8 7 6 6 8 5| 6 8 6 6 6 6 6 5| 8 6 6 6 8 6 6 5|
+d189 1
+a189 1
+=1, 8 leg85 [G#-s4, leg99 c---s1 Bn A---s1] leg85 [B leg99 d---s3 c B---s2]
+d193 1
+a193 1
+il1.0 .52 35
+d238 1
+a238 1
+=2, 4 leg99 c 8 rest, 8 c [d c d e]
+d240 1
+a240 1
+=1' 4 leg85 c-s1 leg99 f-s3-s5 e-s4 eb(1-s1-s5
+d244 3
+d250 2
+a251 2
+=1' 8 leg99 [eb)1 d c Bn] [c Bb] 4 An(1
+=1, 4 leg85 G leg99 4 Ab 4. leg85 G 8 leg99 G
+d253 1
+a253 1
+=2, 4 leg85 B F leg99 c c#l
+d255 5
+a259 5
+il0.7 .40 45
+=1' 8 leg85 [A)1 leg99 Bn] 4. leg85 c 8 leg99 [B c# e(1]
+=1, 4 leg99 F 8 [E D#] 4 E rest,
+=2' 4 leg99 f f# g g#
+=2, 4 leg85 d A 2 leg99 e
+d261 1
+a261 1
+=1' 8 leg99 e)1 4 d 8 c# leg85 d 4 leg99 A 8 G#
+d263 2
+a264 2
+=2' 4 leg99 a 8 rest'' a 4 b bn
+=2, 4 leg99 f e 8 [d e] 4 d
+d266 4
+a269 4
+=1' 2 leg99 A 4. rest' 8 A
+=1, 4 leg99 E 8 rest' E 4 F F#
+=2' 4 leg99 c~ c~# 8 [d~ e~b d~ c~n]
+=2, 2 leg99 a 4. rest 8 a
+d272 1
+a272 1
+ | 3 3 3 3 3 3 3 3 4 4 6.5 4 4 6.5 3 3 |
+d274 2
+a275 2
+=1' 4 leg99 B Bn 2 c(1
+=1, 2 leg99 G(2 8 [G)2 F] 4 E
+d277 1
+a277 1
+=2, 8 leg99 [g a g f] [e d] 4 c
+d279 1
+a279 1
+=1' 8 leg99 [c)1 d c B] 4 leg85 A d(1
+d281 2
+a282 2
+=2' 8 leg99 [a f] 4. leg85 c~ 8 leg99 [e~n d~ c~]
+=2, leg99 4 d e f 8 rest d
+d284 2
+a285 2
+il0.9 .20 50
+=1' 8 leg99 [d)1 e d c] 4 leg85 Bn e(1
+d287 2
+a288 2
+=2' 8 leg99 [bn g] 4. leg85 d~ 8 leg99 [f~n e~ d~]
+=2, leg99 4 e f# g 8 rest e
+d290 2
+a291 2
+=1' 8 leg85 [e)1 leg99 a e d] 4 c c#
+=1, 4 leg99 A 4. leg85 Bn 16 leg99 [E Fn] [G A 8 Bb]
+d293 1
+a293 1
+=2, 4 leg99 f# g#l a 8 rest gn
+d295 2
+a296 1
+4 bars | 1b 6 7 6 6 6 6 6 5 | 6 6 8 6 8 8 6 5| 6 6 6 8 6 6 8 5| 6 6 6 6 6 6 8 5|
+d298 2
+a299 2
+=1' 4 leg99 d e f f#
+=1, 4 leg99 A G F 8 rest, d
+d301 1
+a301 1
+=2, 8 leg99 [f g f e] [d leg85 A leg99 d c]
+d303 2
+a304 2
+=1' 4 leg99 g a 2 b(1
+=1, 8 leg99 [e d e f#] [g fn eb d]
+d308 1
+a308 1
+=1' 8 leg85 [b)1 e] 4 leg99 a g# gn
+d310 2
+a311 2
+=2' 4. rest'' 8 leg99 a [bn a b c~#]
+=2, 4 leg99 g)2 f# fnl e
+d313 5
+a317 5
+il0.9 .20 55
+=1' 4 leg99 f# fn e eb
+=1, 4 leg99 A 8 rest B(2 [B)2 A G F#]
+=2' 8 leg85 [d~ a] 4 leg99 d~ 2 rest'
+=2, 4 rest, leg99 d c# cn
+@
+
+
+1.16
+log
+@spaced through to end
+@
+text
+@d26 1
+a26 1
+=1, 4 rest, leg99 8 [F G] 4 F E
+d29 2
+a30 2
+il0.5 .22 5
+=1' 4 rest' A leg99 e leg85 d
+d39 1
+a39 1
+ | 11 12 11 9 | 6 7 8 6 6 6 6 5 |
+d45 1
+a45 1
+=1' 4 rest' leg99 8 [c-s3 d] 4 c Bn-s2-s4
+d49 2
+a50 2
+=1' 4 leg85 A leg99 Bn c c#
+=1, 4 leg85 Gr)2 8 leg99 [F G] 4 F E
+d52 1
+a52 1
+=2, 4 rest, d leg99 a leg85 g
+d54 3
+a56 3
+il0.7 .18 10
+=1' 4 leg85 d 8 leg99 [c# Bn] 4 c d
+=1, 8 leg99 [F G] 4 leg85 A 8 leg99 [G A] 4 leg99 B(2
+d58 1
+a58 1
+=2, 4 rest, f leg99 e leg85 d
+d62 1
+a62 1
+=1' 4 leg85 e leg99 g f e
+d65 1
+a65 1
+=2, 4 rest, c# leg99 d leg85 e
+d67 1
+a67 1
+=1' 4 leg85 a leg99 d Bn c#
+d70 1
+a70 1
+=2, 4 rest, leg99 8 [f g] 4 f e
+d72 4
+a75 4
+=1' 2 leg85 d 4 leg99 cn Bn
+=1, 4 leg99 G)2 F 8 leg85 E 4 leg99 A 8 G#
+=2' 4 rest'' leg85 a leg99 e~ leg85 d~
+=2, 2 leg99 d 4 rest, e
+d77 1
+a77 1
+=1' 4 leg85 A leg99 e d c(1
+d80 1
+a80 1
+=2, 4 leg99 f 8 [e d] 4 e fn
+d82 1
+a82 1
+4 bars | 1b 12 12 11 9 | 5 5 6 6 5 6 6 5 | 5 6 6 8 5 6 5 4 | 5 6 6 6 5 5 8 6 |
+d84 2
+a85 2
+il0.6 .18 15
+=1' 4 leg99 c)1 Bn A G#
+d88 1
+a88 1
+=2, 4 leg85 Bn 8 leg99 [c d] 4 c Bn
+d90 4
+a93 4
+=1' 4 leg85 A E rest' leg99 Bn
+=1, 4 leg99 D)2 leg85 C leg99 4 F 8 [E D]
+=2' 4 rest' 8 leg99 [c~ d~] 4 c~ bn
+=2, 4 leg80 A a d leg99 g(2
+d95 2
+a96 2
+=1' 4 c# 2 d 4 leg85 e
+=1, 4 leg99 E F 2 G(2
+d98 1
+a98 1
+=2, 4 leg85 gr)2 8 leg99 [f g] 4 f e
+d100 4
+a103 4
+=1' 4 leg85 A 8 leg99 [a b] 4 a g
+=1, 4 leg85 Gr)2 8 leg99 [F E] 4 leg85 F leg99 B
+=2' 2 leg99 d~ 4 rest' 8 [d~ c~#]
+=2, 4 leg99 d rest, 2 rest,
+d107 8
+a114 8
+=1' 4 leg85 f leg99 c# d rest''
+=1, 4 leg99 A G A eb(2
+=2' 4 leg99 d~ e~ f~ f~#
+=2, 4 rest, leg99 8 [d e] 4 d c
+|
+il0.7 .03 20
+=1' 2 blank 1 rest''
+=1, 4 leg99 e)2 8 [d eb] 4 d c(2
+d116 1
+a116 1
+=2, 4 leg85 B b leg99 e f#
+d118 1
+a118 1
+=1' 4 rest'' leg99 8 [e f] 4 e d
+d123 1
+a123 1
+=1' 4 leg85 c# leg99 e a g
+d126 1
+a126 1
+=2, 4 leg99 b 8 [a g] [f e dr c#]
+d128 1
+a128 1
+4 bars | 1b 48 | 7 6 6 6 8 6 8 6 | 6 6 6 6 5 6 9 6 | 8 6 6 6 6.5 6.5 5 4 |
+d130 4
+a133 4
+=1' 4 rest'' leg99 f e d
+=1, 8 leg85 A)2 leg99 4 d 8 c B 4 A 8 B
+=2' 4 leg85 f d~ leg99 g~ f~
+=2, 4 leg99 d rest, rest, d
+d135 1
+a135 1
+=1' 4 rest' leg99 c# d e
+d137 2
+a138 2
+=2' 8 leg85 e~ 4 leg99 f~ 8 e~ leg85 a 4 leg99 d~ 8 c~#
+=2, 4 leg99 a g leg85 f leg99 b
+d140 3
+a142 3
+il0.8 .10 25
+=1' 4 rest' leg99 8 [f g] 4 f e
+=1, 4 leg85 F 2 leg99 d 8 [c# cn]
+d144 1
+a144 1
+=2, 8 leg99 [a g] 4 f g a(2
+d146 4
+a149 4
+=1' 2. leg99 d 4 c#
+=1, 4 leg99 Bn Bb 2 A
+=2' 2 leg99 f~ 8 [e~ f~] 4 g~(1
+=2, 8 leg99 [a)2 g# a g] leg85 4 a A
+d153 4
+a156 4
+=1' 2 d rest
+=1, 2 A A_
+=2' 4 g~)1 f~ 2 rest'
+=2, 2 d rest,
+d158 2
+a159 2
+=1' 4 rest' leg99 D Eb En
+=1, 4 leg85 B_ F_ leg99 C C#l
+d162 2
+a163 2
+=1' 4 leg99 F F# G G#
+=1, 4 leg85 D A_ leg99 2 E
+d167 2
+a168 2
+=1' 8 leg99 [A Bn leg85 c A] 4. leg99 f 16 [e d]
+=1, 4 leg99 F E 8 [D E] 4 D
+d170 1
+a170 1
+=2, 4 rest 2 leg99 a 4 g#
+d172 2
+a173 2
+=1' 4 leg99 c# leg85 d 2 leg99 g(1
+=1, 4. leg85 A 8 leg99 A [Bn A B c#]
+d175 1
+a175 1
+=2, 4 leg99 gn f# fn e
+d179 1
+a179 1
+=1' 4 leg85 g)1 8 leg99 [f e] [f g f e]
+d184 2
+a185 2
+=1' 4 leg85 d 8 leg99 [g f#] [g a g fn]
+=1, 4 leg99 cnrl Bn Bb A
+d188 3
+a190 3
+=1' 4 leg85 e leg99 f# g g#
+=1, 8 leg85 [G# leg99 c Bn A] leg85 [B leg99 d c B]
+=2' 2 rest' leg99 e
+d194 2
+a195 2
+=1' 8 leg99 [a gn f e] [d c#] 4 d(1
+=1, 2 leg99 A 4. rest, 8 F
+d197 1
+a197 1
+=2, 4 rest, leg99 A Bb Bn
+d201 1
+a201 1
+=1' 8 leg99 [d)1 cn Bb A] [G# A G A]
+d204 1
+a204 1
+=2, 4 leg99 c c# d d#
+d206 2
+a207 2
+=1' 4 leg85 G# 2 leg99 e 4 d#
+=1, 8 leg99 [E F# G# E] 2 A
+d209 1
+a209 1
+=2, 2 leg99 e fn
+d211 1
+a211 1
+=1' 4 leg99 dn c# cn Bn(1
+d213 2
+a214 2
+=2' 4 leg80 e~ leg99 e~ d~# d~n
+=2, 4 leg99 e 8 rest e [f# e f g#]
+d216 4
+a219 4
+=1' 8 leg99 [B)1 A] rest' a [Bn A B c#]
+=1, 4 leg85 E)2 leg99 A G#l Gn(2
+=2' 4 leg85 c~# 2 leg99 f~ 4 e~
+=2, 4 leg99 a 2. rest,
+d224 5
+a228 5
+il0.5 .20 40
+=1' 4 leg99 d 8 rest' d [e d e f#]
+=1, 8 leg99 [G)2 leg85 F] 2 leg99 B 4 A
+=2' 4 leg99 d~ 2. rest''
+=2, 4 leg99 rest, d c# cn
+d230 1
+a230 1
+=1' 8 leg85 [g G] 4 leg99 g f# fn(1
+d232 2
+a233 2
+=2' 4. leg99 rest'' 8 g [a g a bn]
+=2, 4 leg85 Bn 2 leg99 e 4 d
+d235 1
+a235 1
+=1' 8 leg85 [f)1 leg99 d] 4 e f g
+d240 2
+a241 2
+=1' 4 leg85 c leg99 f e eb(1
+=1, 8 leg85 [Br)2 A] 4 leg99 d(2 16 [dr)2 c B A] 8 [G F#]
+d243 1
+a243 1
+=2, 8 leg85 [f leg99 e f g] 4 leg85 a leg99 A
+@
+
+
+1.15
+log
+@layed out on 9 pages, spaced to 110
+@
+text
+@d616 1
+a616 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d628 1
+a628 1
+il0.9 .45 110
+d635 1
+a635 1
+=1, 4 leg85 C 4. c 8 leg99 [A leg75 Bb B]
+d639 1
+a639 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d662 1
+a662 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d675 1
+a675 1
+=1, 8 leg85 [d)2 leg99 Bn leg75 c c] leg85 [c leg99 A leg75 Bn B]
+d684 2
+a685 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d687 1
+a687 1
+il0.6 .30 120
+d704 1
+a704 1
+=1, 8 leg99 [c leg85 Bn leg75 d d] leg99 [d leg85 c# leg75 e e]
+d708 1
+a708 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d715 1
+a715 1
+il0.9 .35 125
+d722 1
+a722 1
+=1, 8 leg99 8 [Br G] 4 A G# 8 [A Gn]
+d731 1
+a731 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d738 1
+a738 1
+=1' 2 leg99 A 4 rest G#l
+d754 1
+a754 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d771 1
+a771 1
+il0.8 .15 135
+d777 1
+a777 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d799 1
+a799 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d821 1
+d823 1
+a823 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d825 2
+a826 2
+=1' 4 leg99 d# 8 [e dn] 4 c# 8 [d cn]
+=1, 4. leg99 Bn 8 Bbl 4. A 8 Abl
+d846 1
+a846 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d851 1
+a851 1
+=2, 4 leg85 g 2 leg99 cr 8 [Bn, A]
+d856 1
+a856 1
+=2, 4 leg85 G c leg99 A Bn
+d858 1
+a858 1
+il0.8 .15 150
+d865 1
+a865 1
+=1, leg99 F# Fn E rest,,
+d869 1
+a869 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d884 1
+a884 1
+=2, 4 leg85 a leg99 bbrl rest, f#
+d892 1
+a892 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d914 1
+a914 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d916 1
+a916 1
+il1.0 .10 160
+d936 1
+d938 1
+a938 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d953 1
+a953 1
+=2' 4 rest' leg99 f#rl gr a
+d961 1
+a961 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d984 1
+a984 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d1001 1
+a1001 1
+il1.0 .10 175
+d1007 1
+a1007 1
+4 bars | 1b 48 | 48 | 48 | 48 |
+d1027 1
+a1027 1
+=2, 4 leg99 f# fnrl e eb(2
+d1029 1
+a1029 1
+5 bars |1b 6 6 6 6 8 7 8 5| 6 8 8 8 8 6 8 5| 8 8 6 6 6 6 6 5| 11 12 11 10| 20||
+d1043 1
+a1043 1
+=1, 8 leg99 [A leg85 Bb leg99 Gn leg85 A] 4 F B
+@
+
+
+1.14
+log
+@typed in up to bar 184, the end :-)
+@
+text
+@d9 2
+a10 1
+5 bars | 1b 4/4 48 | 48 | 48 | 48 | 48 |
+d29 1
+a29 1
+il0.4 .20 5
+a32 2
+/
+5 bars | 1b 48 | 48 | 48 | 48 | 48 |
+d35 1
+a35 1
+=1, 4 leg85 E A_ leg99 8 [D E] 4 F
+d37 3
+d41 2
+a42 2
+=1' 4 rest' G# leg99 A leg85 Bn
+=1, 83-s F 43. E 8 D [C B_n A_n G_#]
+d45 2
+a46 2
+=1' 4 rest' leg99 8 [c d] 4 c Bn
+=1, 8 leg85 [A_ E] 4. A 8 D 4 G(2
+d50 1
+a50 1
+=1, 4 leg85 G)2 8 leg99 [F G] 4 F E
+d54 2
+a55 2
+il0.6 .10 10
+=1' 4 leg85 d 8 leg99 [c# Bn] 4 c# d
+d59 2
+d78 1
+a78 1
+=1, 4 leg85 A 8 leg99 [G# F#] 4 G# leg85 A
+d81 2
+d84 1
+a84 1
+il0.4 .10 15
+d104 2
+d112 2
+a113 2
+il0.6 .02 20
+=1' 4. blank 1 rest''
+d127 2
+d140 1
+a140 1
+il0.4 .10 25
+d150 2
+d166 1
+a166 1
+il0.6 .10 30
+d176 2
+d193 1
+a193 1
+il1.0 .50 35
+d198 2
+d212 1
+a212 1
+=1, 4 leg99 G# Gn leg85 A leg99 E(2
+d220 3
+d242 1
+a242 1
+=2' 4 blank 2. rest''
+d244 2
+d252 1
+a252 1
+il0.5 .20 45
+d267 3
+d291 2
+d307 1
+a307 1
+=2, 4 leg99 g)2 f# fn e
+d314 2
+d336 2
+d359 3
+d366 1
+a366 1
+=2, 4 rest, leg99 b a ab
+d383 2
+d406 2
+d429 2
+d442 1
+a442 1
+=1' 4 rest' leg99 b a g
+d451 3
+d455 1
+a455 1
+il0.6 .20 80
+d475 3
+d484 1
+a484 1
+il0.8 .20 85
+d499 2
+d522 2
+d540 1
+a540 1
+il0.8 .05 95
+d545 2
+d564 1
+a564 1
+=1, 8 leg85 [Bn leg99 G# leg85 A c] 4 leg99 F# Fn
+d567 2
+d572 1
+a572 1
+=1, 2 leg99 E 4 leg85 F# leg99 Bbrl
+d590 4
+d615 2
+d638 2
+d661 2
+d683 2
+d706 2
+d729 2
+d752 2
+d775 2
+d797 2
+d820 2
+d843 2
+d866 2
+d889 2
+d911 2
+d934 2
+d957 2
+d980 2
+d1003 2
+d1025 2
+@
+
+
+1.13
+log
+@up to bar 173
+@
+text
+@d829 1
+a829 1
+il0.8 .20 160
+d850 1
+a850 1
+=1' 2 leg99 B 4 rest' leg85 d(1
+d881 1
+a881 1
+il1.1 .20 170
+d887 1
+a887 1
+=1' 2 leg99 A 4 rest' leg85 g
+d901 57
+@
+
+
+1.12
+log
+@up to 162 bars
+@
+text
+@d832 1
+a832 1
+=2' 4 rest'' rest''8 rest'' leg85 [a c~# a]
+d835 2
+a836 2
+=1' 8 leg99 [f e] 4 f g
+=1, 8 leg99 [F G] 4 F Eb
+d844 57
+@
+
+
+1.11
+log
+@up to bar 152
+@
+text
+@d1 1
+a1 1
+5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
+d755 1
+a755 1
+=2, 8 leg85 [d leg99 d eb f] 4 leg85 g G
+d770 1
+a770 1
+=2, 4 leg85 g 2 leg99 cr 8 [Bn A]
+d792 52
+@
+
+
+1.10
+log
+@up to bar 141
+@
+text
+@d720 2
+a721 2
+=1' 8 leg85 [d leg99 c# d e] 8 leg85 [f leg99 e f g]
+=1, 8 leg85 [Bn leg99 A B c#] 8 leg85 [d leg99 c d e]
+d735 57
+@
+
+
+1.9
+log
+@up to bar 135
+@
+text
+@d609 1
+a609 1
+=2, 4 leg99 c~ c~# leg85 d~ d
+d647 1
+a647 1
+il0.5 .15 125
+d704 31
+@
+
+
+1.8
+log
+@up to bar 121
+@
+text
+@d621 1
+a621 1
+il0.6 .25 120
+d632 1
+a632 1
+=1' 4 leg85 Bn 4 leg99 d(1 [d)1 leg85 c leg75 eb e]
+d636 68
+@
+
+
+1.7
+log
+@up to bar 113
+@
+text
+@d104 2
+a105 2
+il0.6 .18 20
+=1' 4 blank 1 rest''
+d138 1
+a138 1
+=2' 2 leg99 f~ 8 [e~ f~] 4 g~
+d143 1
+a143 1
+=2' 4 g~{1 f~}1 2 rest'
+d543 1
+a543 1
+il0.8 .05 105
+d569 1
+a569 1
+il0.8 .05 110
+d589 47
+a635 3
+
+
+
+@
+
+
+1.6
+log
+@up to bar 100
+@
+text
+@d521 71
+a591 1
+=2, 4 leg85 a)2 leg99 a(2 8 [a)2 leg85 f# leg75 g g]
+@
+
+
+1.5
+log
+@up to bar 93
+@
+text
+@d229 1
+a229 1
+=2, 4 leg85 B F leg99 c c#
+d485 37
+@
+
+
+1.4
+log
+@up to bar 81
+@
+text
+@d423 62
+@
+
+
+1.3
+log
+@up to bar 71
+@
+text
+@d371 52
+@
+
+
+1.2
+log
+@up to 60 bars
+@
+text
+@d314 57
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d272 42
+@

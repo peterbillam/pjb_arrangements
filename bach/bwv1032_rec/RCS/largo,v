@@ -1,0 +1,273 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	99.04.25.03.19.59;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	99.04.25.01.46.18;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	99.04.24.05.28.32;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Bach Flute Sonata III, Largo e dolce
+@
+
+
+1.3
+log
+@add up to end
+@
+text
+@5 systems /13 25 20-30-20/13 25 20-30-20/13 25 20-25-20/13 25 20-30-20/13 27 20-25-20/
+lefthead J. S. Bach
+title Flute Sonata III
+righthead Transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+4 bars | 6/8 4 4 4 3 4 4|4 4 4 3 4 4|3 4 4 3 3 3|3 4 4 3 3 3|
+|
+Il0.6        Largo e dolce
+I0.2                                                            tr
+=1 treble 3b 6/8 smq e[(1 d f e d c)1] qua c[ Bn] rest
+I0.1                                             tr
+=2 treble 3b 6/8 smq G[(2 F A G F E)2] qua E[ D] rest
+=3 bass   3b 6/8 qua c~[ c, f] qua. g[ smq f e d]
+|
+I0.3                                          tr
+=1 smq g[(1 f a g f e)1] qua qua e[ d] rest
+I0.1                                  tr
+=2 smq e[(1 d f e d c)1] qua c[ Bn] rest
+=3 qua c,[ c~ f~] qua. g~[ smq f~ e~ d~]
+|
+=1 smq en[ f] cro g(1 smq g)1[ f(1 a g f eb)1]
+=2 qua. Bb[ smq db c B] cro. A(2
+=3 qua c~[ en] rest f[ f~ a]
+|
+=1 smq d[ e] cro f(1 smq f)1[ e(1 g f e d)1]
+=2 qua. A[ smq c' B' A] cro. G(2
+=3 qua b[ d,] rest eb[ e~ g]
+/
+3 bars |3b 6 6 6 6 6 8 6 6 6 6 6 6|6 6 8 6 8 6 6 6 6 6 6 6|24 30|
+|
+=1 treble 3b cro. c(1 smq c)1[ Bn, d c B, dsq c d]
+il0.4      5
+=2 treble 3b smq G)2[ F A G F E] cro. Dn(2
+=3 bass   3b cro. a(1 smq a)1[ g f e d, c,]
+|
+=1 cro. G(1 smq G,)1[ Bn,(1 c eb d f)1]
+=2 smq D)2[ F E D C B_n] C[(2 D E G F A)2]
+=3 smq Bn[ G c Bb A G] qua A cro a(1
+|
+=1 smq Bn,[ d(1 f a g f)1] e[ f qua. f smq g]
+=2 qua D[ Bn' d'](1 smq d)1[ B, c e d c]
+=3 qua a)1[ d, Bn,] c cro A
+/
+4 bars |9 6 6 6 6 6 6 6 6 6 6 6|6 6 9 6 6 9 4 4 4 4 4 4|6 6 6 6 6 6 9 6 4 4 4 5|5 5 4 4 4 4 6 4 6 8 4 4|
+|
+=1 treble 3b min. g(1
+=2 treble 3b smq Bn'[(2 An c' B' A' G')2] c[(1 B, d c B, c)1]
+=3 bass   3b qua G[ F] rest smq e[(1 d, f e d, c,)1]
+|
+=1 cro. g)1(1 qua g)1[ a] rest'
+=2 smq d[ f e d c d] qua en[ f] rest'
+=3 smq Bn[(2 G c Bb A G)2] qua B[ A] rest
+|
+=1 qua d[ e f] dsq g[ f smq e] qua. d[(1 smq e)1]
+il0.3      10
+=2 qua F[ G A] dsq B'[ A smq G] qua. F[ smq G]
+=3 smq a[(1 g b a g f)1] qua e[ b B,]
+|
+=1 qua e[ db] rest smq c[(1 Bb, d c B, A,)1]
+I0.1    tr
+=2 cro. G(2 qua G)2 cro F
+=3 qua e[ en] rest a[ smq b c~ qua d~b]
+/
+4 bars |6 6 6 6 10 10 6 6 4 4 4 4|45 27|9 9 9 10 12 12|72|
+|
+I0.2                      tr                                            tr
+=1 treble 3b cro en qua f(1 smq f)1[ g qua. e smq f]
+I0.2                                                       tr
+=2 treble 3b qua. B'[ smq c' qua A](1 smq A)1[ B' qua. G smq A]
+=3 bass   3b smq g[ f a g f eb] db,[ B, qua c, c~]
+|
+=1 cro. f qua eb[ dn] rest
+=2 cro. A qua An[ B'] rest
+=3 smq f~[ e~ g~ f~ e~ d~] qua c~[ g~] rest'
+|
+=1 qua e[ smq d c qua f] smq d[ c B, c d e]
+=2 qua c[ B, An,] B'[ smq D E F G]
+=3 qua e~[ f~ f] cro b qua rest'
+|
+=1 cro. f(1 smq f)1[ B, c d e f]
+il0.4   15
+=2 cro. Ab(2 smq A)2[ D E F G A]
+=3 smq d'[(2 c e' d' c B)2] cro g qua f
+/
+3 bars |6 6 6 6 6 6 8 6 6 6 6 6|36 27|6 6 6 6 6 8 6 6 6 6 6 6|
+|
+=1 treble 3b cro. g(1 smq g)1[ c d en f g]
+=2 treble 3b cro. B'(2 smq B')2[ En F G A B']
+=3 bass   3b smq e[(1 d, f e d, c,)1] cro a qua g
+|
+=1 cro. a qua an[ b] rest'
+=2 cro. c qua eb[ d] rest
+=3 smq f[(1 e g f e d,)1] qua c,[ g] rest
+
+|
+=1 smq b[(1 an)1 c~(1 b a g)1] cro f# qua rest
+=2 smq d[(1 c)1 e(1 d c B,)1] cro An qua rest
+=3 qua e'[ An c] smq d'[ e' d' c B A]
+
+5 systems /13 25 20-30-20/13 25 20-30-20/13 25 20-25-20/13 25 20-30-20/13 27 20-25-20/
+pagenum 5
+innerheadhead J. S. Bach, Flute Sonata III, Transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+4 bars | 3b 9 6 6 6 6 6 5 5 4 6 9 6|6 6 6 6 6 6 5 5 5 6 9 6|6 6 4 4 4 4 6 6 6 6 9 6|12 9 9 11 11 11|
+|
+I0.5                                                             tr
+=1 treble 3b smq d[(1 c eb d c B)1] qua B'[ An] rest
+=2 treble 3b smq B'[(2 An c' B' A G)2] qua G[ F#] rest
+=3 bass   3b qua G,[ g c~] qua. d~[ smq c~ b an]
+|
+=1 smq b[(1 an c~ b a g)1] qua g[ f#] rest
+il0.4   20
+I0.4                                tr
+=2 smq d[(1 c e d c B,)1] qua B'[ An] rest
+=3 qua g'[ G c] qua. d'[ smq c B An]
+|
+=1 qua. fn[ smq ab g f] cro. e(1
+=2 smq Bn,[ c] cro d(1 smq d)1[ c e d c Bb]
+=3 qua G[ Bn] rest c,[ c~ e]
+|
+=1 qua. e)1[ smq g f e] cro. d(1
+=2 smq An,[ B] cro c(1 smq c)1[ B,(1 d c B, A,)1]
+=3 qua f[ an] rest B,[ b d]
+/
+3 bars |5 5 5 5 5 5 8 8 6 8 6 8|6 6 8 6 6 6 8 6 6 8 6 6|8 6 6 6 6 6 6 6 5 5 5 6|
+|
+=1 treble 3b smq d)1[ c(1 e d c B,)1] qua An cro an(1
+=2 treble 3b cro. G(2 smq G)2[ F# An G F dsq G A]
+=3 bass   3b qua e rest e~(1 smq e~)1[ d~ c~ b an g]
+|
+=1 smq a)1[ c~ b an g f#] g[ a b d~ c~ e~]
+=2 cro. D(2 smq D)2[ F# G B' An c']
+=3 smq f#[(1 d, g fn e d)1] cro. e(2
+|
+=1 qua an[ f# g](1 smq g)1[ a qua. f smq g]
+il0.4  25
+=2 smq F#[(2 A c' e' d' c')2] B'[ c' qua. A smq G]
+=3 qua e')2[ An B] c[ d' d']
+/
+4 bars |3b 5 5 4 4 5 5 8 8 6 6 6 6|8 8 6 6 6 6 5 5 4 4 4 4|25 36|25 36|
+|
+=1 treble 3b smq g[ an bn c~ d~ e~] qua f~n[(1 d~ b)1]
+=2 treble 3b cro. G(2 smq G,)2[ An, Bn, c d e]
+=3 bass   3b min. G(2
+|
+=1 qua ab[(1 f d)1] Bn[ Bb] rest
+=2 qua fn[(1 d Bn,)1] G,[ g] rest
+=3 smq G)2[ An Bn c d' e'] qua f[ en] rest
+|
+=1 qua An[ Bn'] rest c[ d B,]
+=2 qua c[ f] rest smq e[ d f e d e]
+=3 qua eb[ d,] rest c[ F G]
+|
+=1 smq c[(1 en f e d c)1] f[(1 e g f e f)1]
+=2 min. c(1
+=3 qua c[ B] rest smq ab[(1 g b a g f)1]
+/
+4 bars |3b 72|4 4 4 5 4 4 7 6 6 9 9 6|4 5 4 4 4 4 6 6 6 6 9 6|9 8 8 12 9 9|
+|
+=1 treble 3b smq g[ f ab g f g] cro. a(1
+il0.4      30
+=2 treble 3b cro. c)1(1 smq c')1[ F(2 G A B' c')2]
+=3 bass   3b smq en[ d, f e d c,] cro f qua rest
+|
+=1 smq a)1[ B, c d eb f] cro. g(1
+=2 cro. d(1 smq d')1[ Eb F G An Bn']
+=3 cro B qua rest cro E qua rest
+|
+=1 smq g)1[ c Bn, c d e] cro. f(1
+=2 cro. c(1 smq c')1[ D E F G Ab]
+=3 cro a qua rest cro d qua rest
+|
+I0.2                                                    tr
+=1 smq f)1[ e g f e d] e[ c qua d Bn]
+I0.2                                         tr
+=2 qua B_n[ D G](2 smq G)2[ E qua F D]
+=3 qua qua g'[ Bn G] c[ F G]
+/
+4 bars |3b 4 5 4 4 4 4 6 6 6 6 6 6|6 9 6 6 9 6 6 9 4 4 4 5|6 6 6 6 6 6 9 6 6 6 6 6|6 6 9 6 9 6 4 4 4 4 4 4||
+|
+=1 treble 3b smq c[ c~ bb g a f] g[ b a f g e]
+=2 treble 3b cro C qua rest smq rest g[ f d e c]
+=3 bass   3b min. c(2
+|
+=1 qua. f[ smq g qua e](1 smq e)1[ f qua. d smq c]
+il0.4   35
+=2 qua. d[ smq e qua c](1 smq c)1[ d qua. Bn, smq c]
+=3 smq c,[ c~ bn g c~ bb] a[ f qua g G,]
+|
+=1 qua. c[ smq d qua e](1 smq e)1[ f qua. f smq g]
+=2 smq c'[ G A F G D] E[ B_n C B_ C D]
+=2 cro. blank qua blank C,[ C,](2
+=3 cro c qua Bb smq A[ G] cro A
+|
+=1 min. g
+=2 smq <C)2[ E> <E G> <D F> <B_n D> <C E> <A_n C]> cro <B_ D>
+=3 min. G
+@
+
+
+1.2
+log
+@added up to bar 25; 3 systems to go
+@
+text
+@d141 59
+@
+
+
+1.1
+log
+@added up to bar 18, ie first page (of 2)
+@
+text
+@d10 1
+a10 1
+I0.2                                                                    tr
+d12 1
+a12 1
+I0.2                                                    tr
+d18 1
+a18 1
+I0.2                                  tr
+d32 1
+a32 1
+=1 treble 3b cro. c(1 smq c)1[ B, d c B, dsq c d]
+d38 1
+a38 1
+=2 smq D)2[ F E D C B_] C[(2 D E G F A)2]
+d42 1
+a42 1
+=2 qua D[ B' d'](1 smq d)1[ B, c e d c]
+d60 1
+a60 1
+=1 qua e[ d] rest smq c[(1 Bn, d c B, A,)1]
+d100 41
+@

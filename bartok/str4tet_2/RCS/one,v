@@ -1,0 +1,132 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2001.01.07.20.13.43;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Bartok Str 4tet, arr for piano, 1st Mvt
+@
+
+
+1.1
+log
+@up to bar 14
+@
+text
+@5 systems /19-50-19/19-50-19 15/19-50-19/19-50-19/19-50-19/
+pagenum 4
+innerhead 1st movement, arragned for piano, Peter Billam
+title String Quartet II
+leftfoot (c) 1998 Peter J Billam
+/
+2 bars |1 1 1 1 1 1 1 1 1.6|1 1.3 1.6 1 1 1 1 1 1.6|1.4 1 1 1 1 1|
+|
+il0.5     Moderato (cro. = 60-56)
+=1, treble 9/8 cro rest qua rest [Eb E E(1] [E)1 E E(2]
+I0.3     p
+i0.3            sempre tenuto
+=2' bass 9/8 cro rest' qua rest' [d~ d~ d~(1] [d~)1 d~ d~(1]
+=2,      9/8 min. Bb(2 cro B)2(2 smq [B,)2 bb]
+|
+=1' qua. rest smq [E A d] cro. c#(1 cro c)1(1 smq [c)1 G#]
+=1, qua [Eb)2 En E(2] [E)2 G E(2] [E)2 D# E(2]
+=2' qua [d)1~ d~ d~(1] [d~)1 d~ d~(1] [d~)1 d~ d~(1]
+=2, min. bb(2 cro. b)2(2
+|
+=1' 6/8 cro. Gn Bb(1
+=1, 6/8 qua [Fr)2 F F(2] [F)2 C# D]
+=2' 6/8 qua [c~r)1 bn c~(1] [c~)1 c~ c~]
+=2, 6/8 cro. bb)2 g(2
+/
+4 bars |1 1 1.9 1 1 1 1 1 1|6|6|6|
+|
+=1' treble 9/8 cro Bb)1 smq3 [A B c#] cro. B(1 qua [B)1 A G#]
+=1, treble 9/8 qua [D# E D](2 [D)2 E D](2 [D)2 Dn D#]
+=2' bass   9/8 qua [b c~ b(1] [b)1 c~ b(1] [b)1 a# b]
+=2, bass   9/8 min. g)2 cro. f#(2
+|
+il0.4       5
+=1' 6/8 qua [F# Fn Eb(1] E)1 cro Db-ten
+=1, 6/8 qua [B_ B_ B_](2 [B_)2 Cr B_](2
+=2' 6/8 qua [gr g g(1] [g)1 ab g(1]
+=2, 6/8 cro. f#)2 d
+|
+=1' cro Eb qua F(1 F)1 cro Db(1
+=1, qua [B_)2 C B_](2 [B_)2 Cr B_](2
+=2' qua [g)1 ab g(1] [g)1 ab g(1]
+=2, cro. Bb cro Gb smq [F E]
+|
+=1' qua Db)1 rest Eb(1 cro E)1 qua F(1
+=1, qua B_)2 rest,, B_(2 [B_)2 B_ C]
+=2' qua g)1 rest' cro g qua [g ab]
+=2, qua. Bb smq [D c# a] cro f qua e
+/
+4 bars |6|1 1 1 1 1.5 1|1 1 1 1 1.5 1|6|
+|
+=1' treble qua. [F)1 smq G B g] cro c qua B
+=1, treble qua [C# D C(2] [C)2 D C(2]
+=2' bass   qua [an bb a(1] [a)1 b a(1]
+=2, bass   cro d# qua B(2 cro. B)2(2
+|
+=1' cro Bb qua Eb qua. rest smq [En c a]
+=1, qua [C)2 D Dr] [C# C C]
+=2' qua [a g# g(1] [a)1 a a(1]
+=2, cro B)2 qua A# cro B qua F(2
+|
+il0.5      10
+=1' cro db qua Eb qua. rest smq [En c a]
+=1, qua [D D Dr] [C# C C]
+=2' qua [g#)1 g g] [an a a]
+=2, qua [F)2 B(2 A#)2] cro B qua F(2
+|
+=1' cro eb qua F qua rest [F# c#]
+=1, qua [E E Er] [D# D D]
+=2' qua [a# a a] [bn b b]
+=2, qua [F)2 db(2 cn)2] cro d qua G(2
+/
+4 bars |6|6|6|6|
+|
+=1' treble qua [a a# B] rest' c[ b]
+=1, qua [<D F#> <D F> <D F>] [<Eb G> <En Ab> <Eb G>]
+=2  bass qua G)2 [c~ bb] cro a qua A
+|
+=1' cro d~ qua d# rest' [e e~]
+=1, qua [<G B> <G B> <G B>] [<G# c> <A c#> <G cn>]
+=2  qua rest' [f~# e~] cro d~# qua d#(1
+|
+=1 
+=2 qua d)1 cro D# E qua F#(2
+|
+il0.5     15
+=1
+=2 qua F)2 cro G# A# qua B(2
+/
+3 bars | 11 | 8 | 7 |
+|
+=1' treble 
+=1, 
+=2' bass 
+=2, 
+|
+=1' 
+=1, 
+=2  
+|
+=1 
+=2 
+
+
+5 systems /19-35-19/19-45-19/19-35-19/19-45-19 12/19-40-19 25/
+pagenum 5
+innerhead 1st movement, 2nd suite, Three Suites, Peter Billam
+leftfoot (c) 1998 Peter J Billam
+@

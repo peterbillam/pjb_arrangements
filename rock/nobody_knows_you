@@ -1,0 +1,40 @@
+6 systems /14 19 14 19 14/
+title Nobody Knows You When You're Down And Out
+midi channel 1 patch 0
+midi channel 2 patch 16
+midi channel 4 patch 18
+midi channel 3 patch 32
+/
+5 bars | 8 |
+| 12/8 3.8
+=1 treble cha2 smb. rest
+=2  treble cha2 vol40 smb <G c e>
+=3  bass tra-12 cha3 cro. c c c c
+|
+=1  smb. rest
+=2  smb. <G c e>
+=3  cro. c c c c
+|
+=1  smb. rest
+=2, min. <G c e> <G# B e>
+=3  cro. c qua [c d' d#'] cro. e e
+|
+=1  smb. rest
+=2, smb <G c# e> min rest
+=3  cro. A A A qua [A c c#]
+|
+=1  smb. rest
+=2, min. <A d f> <A c# g>
+=3  cro. d qua [d f g] cro. a qua. [g a]
+|
+=1 smb. rest
+=2, cro <A d f> qua rest <A c# g> qua rest min <A d f> cro rest
+=3 cro. d A d qua. [d, e]
+|
+=1 smb. rest
+=2' cha4 vol80 min. <A c f> <A c d>
+=3 cro. f f f# f#
+|
+=1 smb. rest
+=2' cro. <G c e> <B dx e> min <A c# e> cro rest
+=3 cro. g g# a qua [a g eb]

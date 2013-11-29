@@ -1,0 +1,346 @@
+5 systems 10 /19 58 19/19 50 19/19 48 19/19 40 19-25-19/19 40 19-25-19/
+title The Boy From Ipanema
+innerhead Vinicius de Moraes - Antônio Carlos Jobim
+% dontstart
+midi channel 1 patch 53
+midi channel 2 patch 0
+/
+4 bars ||: 3b 4/4 8 | 8 | 8 | 8 |
+| 4/4 2.1
+I0.5 .08 Ebmaj7
+=1' treble 3b 4/4 cha1 cro F qua D cro. D cro C
+r0.7 .15 Tall and tanned .78 and
+r0.5 .15 When he walks .78 he's
+=2' bass   4/4 cha2 leg100 vol80 \
+ qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2,        4/4 cha2 leg100 cro. Eb qua Bb cro. eb qua Bb
+|
+=1 cro F qua D cro D qua D cro C
+r0.7 .01 young .25 and handsome, .82 the
+r0.5 .01 like .27 a .39 samba, .82 that
+=2' qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2, cro. Eb qua Bb cro eb qua [Bb Eb]
+|
+I0.5 .01 F13
+=1 cro F qua D cro. D cro C
+r0.7 .01 boy .23 from  I .62 - .75 pa   -
+r0.5 .01 swings .23 so cool .75 and
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro f c
+|
+=1 cro F qua [D D] [D D] rest C
+r0.7 .01 ne  - ma goes walking, and
+r0.5 .01 sways so gentle, .82 that
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro. f qua c
+/
+4 bars | 3b 8 | 8 | 8 | 8 :||
+|
+I0.5 .06 Fm
+=1 cro Eb qua C cro C qua C cro B_b
+r0.6 .06 when .29 he .44 passes .75 each
+=2' qua rest' cro. <f ab e~b> qua rest' cro <f ab c~> qua c~#
+=2, cro. F qua Ab cro c B
+|
+I0.5 .01 F#aug
+=1 cro. D qua B_b [B_b B_b] rest, A_
+r0.6 .01 girl .37 he .50 passes .86 goes
+=2' qua rest'' cro. <gbl abxl d~> qua rest'' cro <a c~> qua d~
+=2, cro. Bb qua e-s2, cro f f#
+|
+I0.5 .01 Ebmaj7
+=1 qua [G_{2 A_] min. B_b}2
+r0.6 .27 aahhh . . .
+=2' qua rest'' cro. <bbr d~> min <bbl c~x e~b>
+=2, cro. g cro Bb-s5, qua [c d eb]
+|
+=1 smb rest
+=2' qua rest'' cro. <ab c~> min <f ab bx>
+=2, cro f qua c cro B-s1, qua [Bb G-s3, F]
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .01 Emaj7
+=1 smb D#(2
+r0.6 .04 Oooh .80 -
+=2' qua rest'' cro. <g#lr b d~#> qua rest'' cro <g bx c~#> qua d~#
+=2, cro. En qua B cro e B
+|
+=1 cro D#)2 qua [En D#] cro3 C# D#-I3 C#
+r0.6 .25 but  I .50 watch him so
+=2' qua rest'' cro. <g#lr b d~#> qua rest'' cro <g bx c~#> qua d~#
+=2, cro. E qua B cro. e qua B
+|
+I0.5 .01 Em6
+=1 cro. B_n qua C#(2 min C)2(2
+r0.6 .04 sadly
+=2' qua rest'' cro. <gnlr c~# e~> qua rest'' cro <g b d~#> qua e~
+=2, cro. E qua B cro. e qua B
+|
+=1 cro C#)2 min. rest
+=2' qua rest'' cro. <g c~# e~> qua rest'' cro <g b d~#> qua e~
+=2, cro. E qua B [e B] [E F#]
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .01 Gmaj7
+=1 smb F#(2
+r0.6 .06 How
+=2' treble qua rest cro. <B_ D F#> qua rest cro <B_ Dx E> qua F#
+=3  bass   cha2 leg100 vol80 cro. G qua d' cro g d'
+rs0.1 .05 3-5
+|
+=1 cro F#)2 qua [G F#] cro3 En F#-I3 E
+r0.6 .25 can I .50 tell .66 him .83 I
+=2' qua rest cro. <B_ D F#> qua rest cro <B_ Dx E> qua F#
+=3  cro. G qua d' cro. g qua d'
+|
+I0.5 .01 Gm6
+=1 cro. D qua En(2 min E)2(2
+r0.6 .01 love .38 him
+=2' qua rest cro. <B_b E G> qua rest cro <B_bl D F#> qua G
+=3  cro. G qua d' cro. g qua d'
+|
+=1 cro E)2 min. rest
+=2' qua rest cro. <B_b E G> qua rest cro <B_bl D F#> qua G
+=3  cro. G qua d' cro g qua [d' G]
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .01 Abmaj7
+=1 smb G(2
+r0.6 .12 Yes
+=2' qua rest cro. <C Eb G> qua rest cro <C Eb Fx> qua G
+=3  cro. Ab qua eb cro ab eb
+|
+=1' cro G)2 qua [Ab G] cro3 F G-I3 F
+r0.6 .24 I would give my  heart
+=2' qua rest cro. <C Eb G> qua rest cro <C Eb Fx> qua G
+=3  cro. Ab qua eb cro. ab qua eb
+|
+I0.5 .01 Abm6
+=1 cro. Eb qua F(2 min F)2(2
+r0.6 .06 gladly ,
+=2' qua rest cro. <B_n F Ab> qua rest cro <B_ Eb G> qua Ab
+=3  cro. Ab qua eb cro. ab qua eb
+|
+=1 min F)2 cro rest qua [G Ab']
+r0.6 .72 but each
+=2' qua rest cro. <B_ F Ab> qua rest cro <B_ Eb G> qua Ab
+=3  cro. Ab qua eb cro ab qua [eb' Ab]
+
+4 systems 10 / 19 40 19-30-19/ 19 55 19/ 19 40 19-30-19/ 19 45 19-25-19/
+lefthead  The Boy From Ipanema
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .06 Eb6
+=1 cro Bb qua [B_b C] [D Eb F F#(2]
+r0.5 .06 day .27 when he walks to the sea
+=2' qua rest cro. <C Ebl Bb> cro <B_bl Cx Eb> <B_bl Cx Eb>
+=3  cro. G cro G g qua G
+|
+I0.5 .08 Ebm6
+=1 min F#)2 cro rest G
+r0.5 .75 he
+=2' qua rest cro. <B_blr Cx Eb> cro <B_bl Cx Eb> <B_bl Cx Eb>
+=3 cro. Gb-s4, cro Gb gb qua Gb
+|
+I0.5 .08 Fm7
+=1 cro Ab' qua [A_b B_b] [C D Eb En(2]
+r0.5 .01 looks .24 straight ahead not at me . . .
+=2 qua rest cro. <C Eblr Ab> cro <C Eb> <C Eb>
+=3' min rest' cro ab ab
+=3, cro. F cro F f qua F
+|
+=1 min. E)2 cro rest
+=2 qua rest cro. D cro D D
+=3' qua rest cro. <g# b> cro <g# b> <g# b>
+=3, cro. E-s4, cro E e qua E
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .08 Ebmaj7
+=1' cro F qua D cro. D cro C
+r0.7 .06 Tall and tanned .76 and
+=2' bass qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2, cro. Eb qua Bb cro. eb qua Bb
+|
+=1 cro F qua D cro D qua D cro C
+r0.7 .01 young .24 and handsome, the
+=2' qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2, cro. Eb qua Bb cro eb qua [Bb Eb]
+|
+I0.5 .01 F13
+=1 cro F qua D cro. D cro C
+r0.7 .01 boy .23 from  I .62 - .75 pa   -
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro f c
+|
+=1 cro F qua [D D] [D D] rest C
+r0.7 .01 ne  - ma goes walking, and
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro. f qua c
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .06 Fm
+=1 cro Eb qua C cro C qua C cro B_b
+r0.5 .06 when .29 he .45 passes .77 I
+=2 treble smb blank
+=3' bass qua rest' cro. <f ab e~b> qua rest' cro <f a c~> qua c~#
+=3, cro. F qua Ab cro c B
+|
+I0.7 .01 F#aug
+Il0.2 .34 ,
+=1 cro. Bb-fermata qua D cro3 D D-I3 C
+r0.5 .01 smile .37 but  he  doesn't
+=3' qua rest' cro. <gblr bb d~-fermata> min rest'
+=3, min Bb rest,
+|
+I0.5 .01 Ebmaj7
+=1 min. D cro rest
+r0.5 .01 see . . .
+=2' vol60 qua rest cro. <G Bb d> cro <G Bb d> <G Bb d>
+=3 vol60 cro. Bb cro Bb Bb qua B_b
+|
+I0.5 .01 Daug
+=1 min rest qua rest [D D C]
+r0.5 .62 he .75 doesn't
+=2' qua rest cro. <F#l Bb d> cro <F#l Bb d> <F#l Bb d>
+=3 cro. Bb cro Bb Bb qua bb
+/
+4 bars | 3b 8 | 8 | 4 3 | 4 3 ||
+|
+I0.5 .01 Ebmaj7
+=1 min. D cro rest
+r0.7 .09 see . . .
+=2, qua rest cro. <G Bb d> cro <G Bb d> <G Bb d>
+=3, cro. Bb cro Bb Bb qua B_b
+|
+I0.5 .01 Daug
+=1 cro. rest qua D cro3 D D-I3 C
+r0.6 .35 he .50 just .67 doesn't
+=2' qua rest cro. <F#l Bb d> cro <F#l Bb d> <F#l Bb d>
+=3, cro. Bb cro Bb Bb qua bb
+|
+I0.5 .01 Ebmaj7
+=1 smb D
+r0.6 .01 see . . .
+=2, qua rest, cro. <G Bb d> min <G(2 Bb d(1>
+=3, cro. Bb qua Bb(2 min B)2(2
+|
+=2' qua rest'' [g c~ f~] min b~b
+=2, smb <G)2 Bb d)1>
+=3 smb Bb)2
+
+
+6 systems 10 /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19 10/
+title Piano Solo
+innerhead Vinicius de Moraes - Antônio Carlos Jobim
+% start
+midi channel 1 patch 53
+midi channel 2 patch 0
+/
+4 bars ||: 3b 4/4 8 | 8 | 8 | 8 |
+| 4/4 2.1
+I0.5 .08 Ebmaj7
+=1' treble 3b 4/4 cha2 smb blank
+=2, bass   3b 4/4 cha2 leg90 vol80 \
+ qua rest [<g bb d~ e~bx> <g b d~ e~x>] rest rest cro <g bbx c~ e~b> qua rest
+|
+=1 smb blank
+=2 qua rest [<g bb d~ e~bx> <g b d~ e~x>] rest rest cro <g bbx c~ e~b> qua rest
+|
+I0.5 .01 F13
+=1 smb blank
+=2 qua rest [<an d~ e~bx f~> <a d~ e~x f~>] rest rest <an c~ e~bx f~> cro rest
+|
+=1 smb blank
+=2 qua rest [<an d~ e~bx f~> <a d~ e~x f~>] rest rest <an c~ e~bx f~> cro rest
+/
+4 bars | 3b 8 | 8 | 8 | 8 :||
+|
+I0.5 .06 Fm
+=1 smb blank
+=2 qua rest [<ab c~ e~bx f~> <a c~ e~x f~>] rest rest <ab c~#l e~bx f~> cro rest
+|
+I0.5 .01 F#aug
+=1 smb blank
+=2 qua rest [<abx bb d~ g~b> <ax b d~ g~>] rest rest <ab c~ d~x g~b> cro rest
+|
+I0.5 .01 Ebmaj7
+=1 smb blank
+=2 qua rest [<bb d~ e~bx g~> <b d~ e~x g~>] rest rest <bbx c~ e~b g~> cro rest
+|
+=1 smb blank
+=2, qua rest [<ab c~ e~bx f~> <a c~ e~x f~>] rest rest <abxl bnl d~ f~> cro rest
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .01 Emaj7
+=1 smb blank
+=2 qua rest [<g# bn d~#xl e~nl> <g b d~x e~>] rest rest <g# bn c~#x e~n> cro rest
+|
+=1 smb blank
+=2 qua rest [<g# bn d~#xl e~nl> <g b d~x e~>] rest rest <g# bn c~#x e~n> cro rest
+|
+I0.5 .01 Em6
+=1 smb blank
+=2 qua rest [<g bnl c~#xl e~nl> <g b c~x e~>] rest rest <g bn c~#x e~n> cro rest
+|
+=1 smb blank
+=2 qua rest [<g bnl d~ e~nxl> <g b d~x e~>] rest rest <g bn c~#x e~n> cro rest
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .01 Gmaj7
+=1 smb blank
+=2 qua rest [<g bnl d~ f~#l> <g b d~ f~>] rest rest <g bn d~ e~nx> cro rest
+|
+=1 smb blank
+=2 qua rest [<g bnl d~ f~#l> <g b d~ f~>] rest rest <g bn d~ e~nx> cro rest
+|
+I0.5 .01 Gm6
+=1 smb blank
+=2 qua rest [<g bbl d~ e~nx> <g b d~ e~x>] rest rest <g bbl d~ e~nx> cro rest
+|
+=1 smb blank
+=2 qua rest [<g bbl d~ f~> <g b d~ f~>] rest rest <g bbl d~ e~nx> cro rest
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .01 Abmaj7
+=1 smb blank
+=2 qua rest [<abx c~ e~b g~> <ax c~ e~ g~>] rest rest <ab c~ e~bx f~> cro rest
+|
+=1' smb blank
+=2 qua rest [<abx c~ e~b g~> <ax c~ e~ g~>] rest rest <ab c~ e~bx f~> cro rest
+|
+I0.5 .01 Abm6
+=1 smb blank
+=2 qua rest [<ablll c~bl e~bx f~> <a c~ e~x f~>] rest rest <ablll c~bl e~bx f~> cro rest
+|
+=1 smb blank
+=2 qua rest [<abll c~b e~bl g~b> <a c~ e~ g~>] rest rest <abll c~bl e~bx f~> cro rest
+/
+4 bars | 3b 8 | 8 | 8 | 8 ||
+|
+I0.5 .01 Eb6
+=1 smb blank
+=2, qua rest [<g bbx c~ e~b> <g bx c~ e~>] rest rest <g bb d~ e~bx> cro rest
+|
+I0.5 .01 Ebm6
+=1' smb blank
+=2, qua rest [<gbll bbx c~ e~b> <g bx c~ e~>] rest rest <gbll bb d~bx e~b> cro rest
+|
+I0.5 .01 Fm7
+=1 smb blank
+=2, qua rest [<f abl c~ e~b> <f a c~ e~>] rest rest cro. <f abl c~ e~b>
+|
+I0.5 .01 E7
+=1 smb blank
+=2' qua rest'' min.. <enll g#l bn d~>
+=2, min. blank cro En
+
+

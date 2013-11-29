@@ -1,0 +1,1760 @@
+% start
+5 systems 20 /19-35-19/19-40-19/19-35-19/19-35-19/19-35-19 25/
+title Zauberflöte Ouverture
+innerhead W. A. Mozart
+midi channel 1 patch 50
+midi channel 2 patch 51
+/
+4 bars | 3b 4/4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.3 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.3 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3.5 | 1 1 1 1 1 1 1 1.3 1 1 1 1 1 1 1 1.3 |
+| 2/2 1.2 1.2 1.8 1.0
+i0.6    Adagio
+=1  treble 3b 2/2 cha1 vol110 leg95 \
+ min <E G B' e'> cro rest-fermata qua. rest smq <G, c e g>
+=2, bass  3b 2/2 cha1 vol110 leg95 min <e g b> cro rest-fermata qua. rest smq <c c~>
+|
+=1, min <G c e g> cro rest-fermata qua. rest smq <B e g b>
+=2, min <c c~> cro rest-fermata qua. rest smq <G g>
+|
+=1 min <B, e g b> cro rest-fermata cha2 vol70 \
+ qua. rest dsq3 [B'-s5 A-s4-I3, G-s4]
+=2, min <G g> cro rest-fermata cha2 vol70 rest
+| 2/2 4.8
+=1 cro <C E Fx> min <C E Fx> cro <C E Fx>
+=2' cro a min a cro a
+=2, cro.. A smq c cro.. e smq  c
+/
+4 bars | 3b 4 5 4 4 | 1 1 1 1 1 1 1 1.3 1 1 1 1 1 1 1 1.3 \
+ | 4 5 4 4 | 1 1 1 1 1 1 1 1.3 1 1 1 1 1 1 1 1.3 |
+|
+=1' min <c e fx> min rest'
+=1, cro rest,, smq rest, [A c A] cro F <C Ex F>
+=2' cro rest' min <a c~ e~> cro a
+=2, smb A
+| 2/2 4.8
+=1 cro <Db Ex G> min <Db Ex G> cro <Db Ex G>
+=2' cro b min b cro b
+=2, cro.. B smq db cro.. g smq  d
+|
+=1' min <db ex g> cro rest' G
+=1, cro rest,, smq rest, [B d B] cro G E
+=2' cro rest' min <b d~b e~x> cro <b d~>
+=2, min. B rest,
+|
+=1' cro A qua. rest smq A cro G qua. rest smq G
+=1, cro E min E cro E(2
+=2, cro c~ qua. rest smq c~ cro b qua. rest smq b
+/
+4 bars | 3b 2.6 2 2 2 2 2.3 2 2 | 1 1 1 1 1 1 1 2.5 1 1 1 1 1 1 1 1.3 \
+ | 2.6 2 2 2 2 2.7 2 2 | 1 1 1 1 1 1 1 2.5 1 1 1 1 1 1 1 1.3 |
+|
+=1' min F cro rest' G
+=1, qua Er)2 cro E E E qua E(2
+=2' qua rest'' cro c~ c~ qua c~ cro rest'''
+=2  min a cro rest, b
+|
+=1' cro A qua. rest smq A cro Gb qua. rest smq G
+=1, cro E)2 min E cro E(2
+=2, cro c~ qua. rest smq c~ cro b qua. rest smq b
+|
+=1' min F cro rest' Gn
+=1, qua Er)2 cro E E E qua E(2
+=2' qua rest'' cro c~ c~ qua c~ cro d~b
+=2  min an cro rest, b
+|
+=1' cro A qua. rest smq A cro An qua. rest smq A
+=1, cro E)2 min E cro E
+=2, cro c~ qua. rest smq c~ cro c~b qua. rest smq c~
+/
+4 bars | 3b 16 | 16 | 16 || 4 4 4 5 |
+|
+=1' leg85 cro <Dn B> vol110 min <D B-emph> vol80 leg95 cro <D F B>
+=2, leg85 cro b      vol110 min <B b-emph> vol80 leg95 cro b
+|
+=1' min rest' gb
+=1, leg85 cro <E Gb c> vol110 min <C E Gb c-emph> vol80 leg95 cro <Gb e>
+=2, leg85 cro an       vol110 min <An e-emph>     vol80 leg95 cro <an c~>
+|
+=1' min <e fx(1> vol90 <d f)1>
+=1, cro F <Ex F> vol90 <D B> <D F>
+=2  cro <b e~> vol90 B <B, ab> vol100 B
+| 2/2 76
+i0.6 .15 Allegro
+=1' cro e-. rest' min rest'
+=1, vol80 qua [E-., E-., E-., E-.,] [E-., E-.,] vol110 smq [F{1 E D E}1]
+I0.1  p .69 f
+=2, cro <e g> rest min rest
+/
+4 bars | 3b 1 1 1 1 1 1 1 1 1 1 1 1 1.25 1.9 1.25 1.25 | 16 \
+ | 16 | 1 1 1 1 1 1 1 1 1 1 1 1 1.25 1.9 1.25 1.25 |
+|
+=1, vol80 qua [B-. B-. B-. B-.] [B-. B-.] vol110 smq [c{1 B An B}1]
+I0.4 .01 p .73 f
+=2  smb rest
+|
+=1, vol80 qua [G-. G-. c-. c-.] [F-. F-. vol110 B-. B-.]
+I0.4  p .73 f
+=2  smb rest
+|
+=1, vol80 qua [G-. G-. c-. c-.] [F-. F-. vol110 B-. B-.]
+I0.4  p .73 f
+=2  smb rest treble
+|
+I0.4 .70 f
+=1, vol80 qua [B-. B-. B-. B-.] [B-. B-.] vol110 smq [c{1 B An B}1]
+I0.4  p
+=2' vol80 qua [G-., A-., G-., F-.,] [E-., F-., E-., D-.,]
+
+
+% stop
+
+4 systems 80 /19-35-19/19-35-19/19-35-19/19-35-19 65/
+title Hesitation Blues
+/
+3 bars | 1b 4/4 8 | 8 | 8 |
+| 4/4 2.4
+i0.6    swung quavers
+=1' treble 1b 4/4 qua [<D F A> G#] [<D F A> G#] <C# E Gnllx A> cro. <C E Gx A>
+r0.4 .08 Lookin for a .53 woman .85 who's
+=2  bass   1b 4/4 cro d a A a
+|
+=1' qua rest <D F A>  rest <C#(2 E Gx A(1> cro. <C#)2 E Gx A)1> qua rest
+r0.4 .01 lookin .25 for a .50 man
+=2, cro d a A a
+|
+=1' qua [<D F A> G#] [<D F A> G#] <C# E Gnlx A> cro <C# E Gx A> qua G#
+r0.4 .01 tryin to .25 look as .50 smooth as .88 I
+=2  cro d a A a
+/
+3 bars | 1b 8 | 8 | 8 |
+|
+=1' qua [A G# A A(1] cro A)1 qua [Gn F]
+=1, min <D F> qua Eb cro. C
+r0.4 .08 possibly .39 can .75 tell me
+=2, qua [d d# e f(1] cro f)1 F
+|
+=1' min G qua F cro. G
+=1, qua rest,, cro D qua B_ cro. D qua B_
+r0.4 .01 how .54 long
+=2  cro B f B f
+|
+=1' min rest qua [F G G# <F(2 A(1>]
+=1, qua rest, cro D qua B_(2 min B_)2
+r0.4 .62 must  I  wait
+=2 cro B f d qua [db' c(2]
+/
+3 bars | 1b 8 | 8 | 8 |
+|
+=1' qua [<F)2 A)1> d c G#] [A F D C]
+=2 cro c)2 c~ bn bb
+|
+=1' qua [A F D F(2] [F)2 A B Bn]
+r0.4 .75 Do .88 I
+=2 cro a f d db
+|
+=1' qua [c d c A] min F
+=1, min blank qua rest,, [D Db C]
+r0.4 .01 make a .25 move .50 now
+=2, qua <c a> rest min <c a> cro a
+/
+3 bars | 1b 8 | 8 | 8 :||
+|
+=1' qua rest [F G F] A cro G qua F(1
+=1, min B_n B_b
+r0.4 .16 or  should  I .58 hesitate
+=2 cro g d c C
+|
+=1 min F)1 rest
+=1, min A_
+=2 cro rest, F G G#
+|
+=1' qua rest <C# E Gx A> cro rest qua G cro. A
+=1, min blank <C E>
+=2 cro A qua rest a(1 min a)1
+
+
+
+5 systems 20 /19-30-19/19-35-19/19-30-19/19-30-19/19-30-19 15/
+title Summertime
+lefthead George Gershwin
+righthead from "Porgy and Bess"
+/
+4 bars | 4/4 10 | 5 6 ||: 12 | 12 |
+|
+=1'  treble 1b   4/4 smb rest
+=1, treble 1b 4/4 min D E
+=2  bass   1b 4/4 min <e b> <f# c~>
+|
+=1' min rest qua rest' cro d qua B
+=1, min D E
+=2' min blank c~
+=2, min <e b> cro f# d
+|
+=1' smb d
+=2' cro rest' <e b> rest' <f# c~>
+=2, min G A
+|
+=1' cro rest qua [c B-s3] [c d B G(2]
+=1, cro blank D min blank 
+=2' cro rest' g e f#
+=2, min B cro c d
+/
+4 bars | 12 | 12 | 12 | 12 |
+|
+=1' treble 1b min G)2 D
+=2' bass   1b cro rest' <e b> rest' <f# c~>
+=2, 1b min G A
+|
+=1' cro rest d d B
+=1,  cro blank E F# G
+=2' min g b
+=2, min B cro. d qua db
+|
+=1' cro c min. c
+=1, min E G(2
+=2' cro b qua [g a] cro b c~(1
+=2, min c en
+|
+=1' cro rest' qua [B G] [B c B A(1]
+=1, qua G)2 cro F qua Eb min D
+=2' min c~)1 g
+=2, min eb cro rest, G
+/
+4 bars | 12 | 12 | 12 | 12 |
+|
+=1' treble 1b smb A)1
+=1, 1b qua rest, [D D Db] [C A_ F Eb]
+=2' bass   1b smb g
+=2, 1b cro A e eb A
+|
+=1' cro rest d qua d cro B qua d(2
+=1, smb D
+=2' min. <f#lr b> cro d
+=2, min rest, D
+|
+=1' smb d)2
+=2' cro rest' <e b> rest' <f# c~>
+=2, min G A
+|
+=1' cro rest qua [c B] [c(2 d)2] cro B
+=1, cro blank D min blank
+=2' cro rest' g e f#
+=2, min B cro c d
+/
+4 bars | 12 | 12 | 12 | 12 |
+|
+=1' treble 1b qua G min.. D
+=2' bass   1b cro rest' <e b> rest' <f# c~>
+=2, 1b min G A
+|
+=1' cro rest G G Gb
+=1, cro blank D D D
+I0.5 .7 f
+=2' cro rest' b b b
+=2, min B cro g gb
+|
+=1' cro F qua [D F] G cro B qua rest
+=1, cro <B_b D> B_b min <B_b D>
+=2' cro f f min g
+=2, cro B B G qua [d db]
+|
+=1' qua db(1 cro. c)1 cro. B qua G
+=1,  min <E G> cro F# D
+=2' cro g b min c~
+=2, min c d
+/
+4 bars | 12 | 12 :|| 12 | 12 ||
+|
+rl1.1 .08 ________________
+bl0.4 .01 1a
+=1' qua B min.. G
+=1, min D E
+I0.5 .15 p
+=2 min <e b> <f# c~>
+|
+=1' min rest qua rest d [d B]
+=1, min D E
+=2 min <e b> <f# c~>
+|
+rl1.1 .08 ________________
+bl0.4 .01 2a
+=1' qua B min.. G
+=1, min D E
+I0.5 .15 p
+=2 min <e b> <f# c~>
+|
+=1' smb D
+=2' smb <e b>
+=2 min rest, G_
+I0.3 .3 pp
+
+4 systems 80 /19-30-19/19-30-19/19-30-19 120/19-40-19 80/
+/
+4 bars | 4/4 1.2 1.2 1 1 1 1.2 1 1.8 | 1.2 1.2 1.2 1.6 1.3 1.2 1 1 \
+ | 9.5 | 1 1.2 1.2 1 .7 .7 1 1 |
+|
+bl2.4 Blue Monk, by Thelonius Monk
+=1' treble 4/4 qua [D-s1 D# E <D F>] min rest
+=2  bass   4/4 qua [bb-s4, c~ c~#] rest rest Bb Eb rest'' treble
+|
+=1' qua [G-s1 G# A <G Bb>] min rest
+=2' qua [Eb-s4, F F#] rest blank bass cro. blank
+=2 min blank qua rest'' eb' Ab rest
+|
+=1' smq blank qua [F-s4 G F E] Eb rest [C#-s2 D-s3]
+=2  smq-s c~#'-s2, qua [d~-s1, e~b-s2, d~ d~b] [c~-s1, f a bb]
+|
+=1  qua rest [D Db C(2] cro C)2 rest
+=2  qua rest [bb a ab(1] cro a)1 rest'' treble
+/
+4 bars | 1.2 1.2 1.2 1.6 1.3 1 1 1.8 | 1.2 1 1.2 1 1 1 1 1 \
+ | 9.5 | .8 .8 .8 .8 1 1 1 1 |
+|
+=1' treble qua [G-s1 G# A <G Bb>] min rest
+=2' treble qua [Eb-s4, F F#] rest min blank
+=2 min blank smq blank qua rest'' cro. blank 
+=2 min blank qua blank bass Bb Eb rest'' treble
+|
+=1, qua [Bb-s2 Bn c db(1] d)1 cro. rest
+=2' qua [G-s4, G# A Bb(2] B)2 cro. rest bass
+|
+=1' smq blank qua [F-s4 G F E] Eb rest [C# D(2-s3]
+=2  smq-s c~#'-s2, qua [d~-s1, e~b-s2, d~ d~b] [c~-s1, f a bb(1]
+|
+=1  cro D)2 rest qua rest smq-s E qua [F F F]
+=2  cro bb)1 min. rest
+/
+4 bars | 1 1 1 1.4 1 1 .8 .8 | 8 | 8 | 4 3 :||
+|
+=1  smq-s E qua [F F_] min. rest
+=2  smq blank cro rest qua rest e' [eb' F] cro rest
+|
+=1' smq blank qua [F-s4 G F E] Eb rest [C#-s2 D(2-s3]
+=2  smq-s c~#'-s2, qua [d~-s1, e~b-s2, d~ d~b] [c~-s1, f a bb(1]
+|
+=1  qua D)2 rest qua [F-s4 G] [F E Eb] rest
+=2  qua bb)1 rest qua [d~-s1, e~b-s2,] [d~ d~b c~-s1, f]
+|
+=1  qua [C#-s2 D(2-s3] D)2 rest min rest
+=2  qua [a bb(1] bb)1 rest min rest
+
+/
+5 bars | 2b 12 | 16 | 16 | 16 | 16 |
+|
+bl2.4 Such a Night, by Mac Rebennac
+=1 treble 2b min. rest
+=2 bass 2b cro F-., G-., A-.,
+|
+=1 cro D-., <D-., F> <D G> rest
+=2 cro B-., <f b-.> B-., <f b-.>
+|
+=1 qua [<D F> smq rest, G] qua [<D A> smq rest, <D(2 G(1>] \
+ qua [<D)2 G)1> smq rest, F] cro D-.,
+=2 cro B-., <f b-.> B-., <f b-.>
+|
+=1 cro Db-., <D-., F> <D G> rest
+=2 cro B-., <f b-.> B-., <f b-.>
+|
+=1 qua [<Db F> smq rest, G] qua [<D Ab> smq rest, <D(2 G(1>] \
+ qua [<D)2 G)1> smq rest, F] cro D-.,
+=2 cro B-., <f b-.> B-., <f b-.>
+
+
+
+
+5 systems 10 /19-30-19/19-30-19/19-30-19 70/19-40-19 60/ 19-40-19 10/
+/
+4 bars | 3b 4/4 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 | 1 1 1 1 1 1 1 1 1 1 1 2.2 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 |
+|
+bl2.0 Prelude opus 28 no. 20,  by Frederic Chopin
+b0.6 .10 Largo
+=1' treble 3b 4/4 cro <C E G> <C E A> qua. [<E G> smq <D F>] cro <G_ C E>
+=1,       3b 4/4 min blank cro B_n blank
+I0.4 .13 ff
+=2 bass   3b 4/4 cro <C c> <F_ F> <G_ G> <C c>
+|
+=1' cro <A_ C E> <A_ Db F> qua. [<C E> smq <B_ D>] cro <E_ A_ C>
+=1, min blank cro G_ blank
+=2 cro <A_ A> <D_b Db> <E_ E> <A_ A>
+|
+=1' cro <F_r B_nl Dn> <G_ B_bl En> qua. [G smq F] cro <G_ C Eb>
+=1, min blank cro <A_ C> blank
+=2 cro <G_ G> <C_ C> <F_ F> <C c>
+|
+=1' cro <F_# C Dx> <B_n D G> qua. [Bn smq An] cro <B_n D G>
+=1, min blank cro <C F#l> blank
+=2' cro <D d> <G_ G> <D_ D> <G_ G>
+/
+4 bars | 3b 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 2.2 1 1 1 1 | 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 |
+|
+=1' treble 3b cro <E G e> <E Ab e> <Dr d> <D G d>
+=1, 3b min blank qua. [A smq F#] cro blank
+I0.4 .10 p
+=2  3b cro <C c> <c, c~> <Bn, bn> <Bb, bb>
+|
+=1' cro <C G c> <C F# d> qua. [<D G Bn> smq <C An>] cro <B_n D G>
+=2 cro <An, an> <Ab, ab> <G g'> <Fn fn'>
+|
+i0.4 .81 ritenuto
+=1' cro <C G c> <A_b C Ab> qua. [G smq F] cro <G_ C E>
+=1, min blank cro <G_ D> blank
+=2' cro <E e> <F f> <B_n Bn> <C c>
+|
+=1' cro <A_ C E> <A_ Db F> qua. [E smq Dn] cro <E_ G_ C>
+=1, min blank cro <F_ B_n> blank
+=2' cro <A_ A> <D_b Db> <G_ G> <C_ C>
+/
+5 bars | 3b 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1.5 2.3 1 1 1 1 | 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1.3 1.6 1 1 1 1 | 7 ||
+|
+=1' treble 3b cro <G e> <Ab e> d <G d>
+=1, 3b min blank qua. [A smq F#] cro blank
+I0.5 .10 pp
+=2  3b cro <C c> <c, c~> <Bn, bn> <Bb, bb>
+|
+=1' cro <G c> <F# d> qua. [<D G Bn> smq <C An>] cro <B_n D G>
+=2 cro <An, an> <Ab, ab> <G g'> <Fn fn'>
+|
+i0.4 .81 ritenuto
+=1' cro <C G c> <A_b C Ab> qua. [G smq F] cro <G_ C E>
+=1, min blank cro <G_ D> blank
+i0.3 .55 cresc  .  .  .
+=2' cro <E e> <F f> <B_n Bn> <C c>
+|
+=1' cro <A_ C E> <A_ Db F> qua. [E smq Dn] cro <E_ G_ C>
+=1, min blank cro <F_ B_n> blank
+i0.3 .05 . .25 . .45 . .65 . .85 .
+=2' cro <A_ A> <D_b Db> <G_ G> <C_ C>
+I1.5 .75 Ped .  .  .
+|
+=1 smb <E G c-fermata>
+i0.5 .03 dim  .  .  .
+=2 smb <c g c~>
+/
+5 bars | 3# 2.9 | 1 1 1 1 1 1 1.3 1 | 1 1 1 1 1 1 1.3 1 \
+ | 2 2.2 2 2.2 | 2.3 2 2 2 ||
+|
+bl1.5  Theme from Symphonic Variations, by César Franck
+=1' treble 3# qua [c B#]
+I0.5 .10 mf
+=2  bass   3# cro rest
+|
+=1' cro A G rest' qua [c B#]
+=1, min F rest,
+i0.5 .10 espressivo
+=2, min <d# b#> rest
+|
+=1' cro A G rest' qua [f e#]
+=1, min F rest,
+=2, min <dn b#> rest
+|
+=1' cro d qua [c B] cro A qua [G F]
+=1, cro E# F B_# Dn
+=2' min bn cro f a
+=2, cro c d d# f
+|
+=1' cro G F min rest
+=1, qua [C B_] cro A_ min blank
+=2' cro e# f min rest
+=2, cro c F min blank
+/
+8 bars | 6/8 1.5 | 6 | 1 1 1 1 1 1.2 | 1.2 1 1 1 1 1 \
+ | 6 | 6 | 1 1 1 1 1 1.2 | 1.2 1 1 1 1 1 ||
+|
+bl1.5  Beginning of the Overture of Tristan and Isolde, by Richard Wagner
+i0.3 .10 Slow and languid
+=1' treble 6/8 qua blank
+=1, treble 6/8 qua A_
+=2  bass   6/8 qua rest
+|
+=1, cro. F(2 cro F)2 qua E
+=2  min. rest
+|
+=1' cro. G#(1 cro G)1 qua A
+=1, min. D#
+=2  min. <f b>
+|
+=1' qua A# cro B(1 qua B)1 qua rest rest
+=1, cro. Dn(2 qua D)2 cro blank
+=2 cro. <e(2 g#(1> qua <e)2 g)1> rest rest
+|
+=1, cro. rest cro rest qua B_
+=2  min. rest
+|
+=1, cro. Ab(2 cro Ab)2 qua G
+=2  min. rest
+|
+=1' cro. B(1 cro B)1 qua c
+=1, min. F#
+=2 min. <ab d~>
+|
+=1' qua c# cro d(1 qua d)1 qua rest rest
+=1, cro. F(2 qua F)2 cro blank
+=2 cro. <g(2 b(1> qua <g)2 b)1> rest rest
+
+
+4 systems 10 / 19-30-19 / 19-30-19 / 19-30-19 / 19-30-19 10/
+pagenum 8
+title Golliwog's Cake-Walk
+innerhead from The Children's Corner, Claude Debussy
+/
+6 bars | 2/4 8 | 1 1 1 1.5 1 1 1 1 | 1 1 1 1.5 1 1 1 1 \
+ | 1 1 1 1.5 1 1 1 1 | 4.5 | 1 1 1 1 1 1 1.4 1 |
+|
+=1  treble 1b 2/4 smq [c~-emph qua b smq c~] qua [g-. c~-.]
+I0.5 .01 f
+=2' bass   1b 2/4 smq [c-emph  qua B smq c]  qua [G-. c-.]
+|
+=1, smq [b-emph-s5 qua g smq f] cro db
+=2' smq [B-emph-s1, qua G smq F] cro Db
+|
+=1' smq rest [B G F] cro Db bass
+=2' min rest
+|
+=1, smq rest [b g f] qua [db-emph <c e a-.>]
+I0.2 .76 sff
+=2' smq rest [B G F] qua [Db-emph C-.]
+|
+il0.4 5
+=1' min rest
+=2' min rest
+|
+=1 qua rest <g ax c~> rest smq [<g ax c~> <g ax c~>]
+I0.5 .02 p .73 f
+=2' qua <F c> rest <F c> rest
+/
+6 bars | 1# 8 | 1 1 1.4 1 1 1 1 1 | 2 2 2 3.2 \
+ | 4.5 4 | 1.1 1.1 1.1 1.5 1 1 1 1 | 4.5 4 |
+|
+=1  bass 1b qua rest <g ax c~> rest <g ax c~>
+I0.5 .15 p
+=2  bass   1b qua <F c> rest <F c> rest
+|
+=1  qua rest smq [<g ax c~> <g ax c~>] qua rest <g ax c~>
+I0.5 .25 f .75 p
+=2' qua <F c> rest <F c> rest
+|
+=1  qua rest <g ax c~> rest <g ax c~> treble
+=2  qua <F c> rest <F c> rest
+|
+il0.6    10
+=1 smq [c(1-emph qua B)1 smq c] qua [G,-. c-.]
+=2  qua [f <g b d~b>] [f <g b d~>]
+|
+=1 smq [B'(2-emph qua G)2 smq F] qua [Db-., F-.,]
+=2  qua [f <g b d~b>] [f <g b>]
+|
+=1' smq [C-emph qua C-., smq D] qua [C <F c'-.,-emph>]
+% =1' smq [C-emph qua C-., smq D] qua [C <F c>]
+I0.5 .75 sff
+=2  qua [f <gx a>] [f <gx a>]
+/
+6 bars | 1# 6.5 | 8 | 1 1 1 1.6 1 1 1 1 | 1 1 1 1.4 1 1 1 1 | 6.5 | 8 |
+|
+=1  treble 1b cro. C qua rest
+=2  bass 1b qua [f <g ax>] [f <g ax>]
+|
+=1 smq [C(2-emph qua B_)2 smq C] qua [D-., B_-.,]
+I0.4 .01 p
+=2' qua [<F c> g] [<F c> g]
+|
+il0.6    15
+=1 smq [C(2-emph qua B_)2 smq C] qua [Db-., B_-.,]
+=2' qua [<F c> g] [<F c> g]
+|
+=1 smq [C(2 qua A_)2 smq G_-.,] cro rest
+I0.5 .02 f
+=2  cro rest qua [f-. e-.]
+|
+=1  min rest
+i0.4 .02 cresc . . .
+=2' qua d-. [<A_-., A> <D-., d> <E-., e>]
+|
+=1 smq [c(1-emph qua B)1 smq c] qua [G,-. c-.]
+I0.5 .02 f
+=2  qua [f <g b d~b>] [f <g b d~b>]
+/
+6 bars | 1# 1 1 1 1.6 1 1 1 1 | 8 | 8 | 8 | 8 | 8 |
+|
+=1 treble 1b smq [B'(2-emph qua G)2 smq F] qua [Db-., F-.,]
+=2  bass 1b qua [f <g b d~b>] [f <g b d~b>]
+|
+il0.6    20
+=1 smq [C-emph qua C-., smq D] qua [C <F c'-.,-emph>]
+I0.5 .75 sff
+=2  qua [f <gx a>] [f <gx a>]
+|
+=1 cro. C qua rest
+=2  qua [f <gx a>] [f <gx a>]
+|
+=1 smq [C-emph, qua C-., smq D] qua [C-., Eb-.,]
+I0.5 .02 p
+=2, qua [Ab <eb b-.>] [A <e bn-.>]
+|
+=1 qua [F-., G-.,] [F-., Ab'-.,]
+=2, qua [Ab <eb c~-.>] [Ab <e d~b-.>]
+|
+=1 smq [G-emph, qua G-., smq A'-emph,] qua [G,-. <A, e-.>]
+I0.5 .02 f
+I0.5 .75 ff
+=2  qua rest [<e~bl g~b> <d~ f~> <g f~>]
+
+4 systems 10 / 19-30-19 / 19-30-19 / 19-30-19 / 19-30-19 10/
+pagenum 9
+innerhead Golliwog's Cake-Walk, The Children's Corner, Claude Debussy  (1862-1918)
+/
+6 bars | 1b 8 | 8 | 8 | 8 | 8 | 8 |
+|
+il0.5   25
+=1  treble 1b cro <G c'> qua c~-emph rest
+=2  bass   1b cro <c~ e~> qua c-emph-., rest
+|
+=1  smq [<D(2 F> qua <E)2 G> smq <F A>] qua [<E G> <D F>]
+I0.3 .02 p
+=2  qua [b-. c~-.] [b-. c~-.]
+|
+=1  cro <E G> qua c~-. rest
+=2  qua [b-. c~-.] [b-. c~-.]
+|
+=1  smq [<D(2 F> qua <E)2 G> smq <F A>] qua [<E G> <D F>]
+I0.3 .02 p
+=2  qua [a-. c~-.] [a-. c~-.]
+|
+=1' qua <E G> [<D F> <E G> <A d-emph>]
+=2  qua [a-. c~-.] [a-. <f c~-.>]
+|
+il0.4 30
+=1  min <B_(2 D F(1>
+I0.1 p
+=2' smq [c(2 qua d)2 smq e] qua [d-., c-.,]
+/
+6 bars | 1b 8 | 8 | 8 | 8 | 8 | 8 |
+|
+=1  treble 1b min <B_)2 D F)1>
+=2' bass   1b smq [c(2 qua d)2 smq e] qua [d-., c-.,]
+|
+=1  min <A_ D F>
+=2' smq [c(2 qua d)2 smq e] qua [d-., c-.,]
+|
+=1 min rest
+I0.9 .13 f .75 ff
+i0.9 .3 cresc
+=2' smq rest [<C c> <D d> <E e>] qua [<D-., d> <C-., c>]
+|
+=1  smq [<D(2 F> qua <E)2 G> smq <F A>] qua [<E G> <D F>]
+I0.6 .02 p
+=2  qua [b-. c~-.] [b-. c~-.]
+|
+il0.4 35
+=1  cro <E G> qua c~-. rest
+=2  qua [b-. c~-.] [b-. c~-.]
+|
+=1  smq [<D(2 F> qua <E)2 G> smq <F A>] qua [<E G> <D F>]
+I0.6 .02 p
+=2  qua [a-. c~-.] [a-. c~-.]
+/
+6 bars | 1# 2 2 2 3.5 | 1.3 1 1 1.1 1 1 1 1 | 1.2 1 1 1.5 1 1 1 1.4 \
+ | 1 1 1 1.5 1 1 1.7 1.7 | 7 | 6 |
+|
+=1' treble 1b qua <E G> [<D F> <E G> <F A d-emph-.,>]
+=2  bass   1b qua [a-. c~-.] [a-. c~-.] treble
+|
+=1' smq [c~-emph qua b smq c~] qua [g-emph c~-emph]
+=1, min f
+=2' min dblr
+=2, smq [c-emph, qua B smq c] qua [G-emph, c-emph,]
+|
+=1  smq [b(1 qua g)1 smq f] cro db
+=2, smq [B qua G smq F] cro Db bass
+|
+il0.4 40
+=1' smq rest [B(2 G F)2] qua [Db-emph <C E A-.>] bass
+I0.6 .13 f .69 ff
+=2, smq rest [b(1 g f)1] qua [db-emph c-.]
+|
+=1 qua rest <g ax c~> rest <g ax c~>
+I0.6 .2 p
+=2 cro rest qua <F-., c> rest
+|
+=1 min rest
+=2 cro <F-., c> rest
+/
+6 bars | 1# 8 | 7 | 8 | 2 2 2 3 | 7 | 7 ||
+|
+=1  bass   1b qua rest <g ax c~> rest <g ax c~>
+I0.6 .2 p
+=2  bass   1b cro rest qua <F-., c> rest
+|
+=1 min rest
+=2 cro <F-., c> rest
+|
+il0.4 45
+=1 qua rest <g ax c~> rest <g ax c~>
+I0.6 .2 p
+=2 cro rest qua <F-., c> rest
+|
+=1' cro rest qua [db(2 dsq c B A G]
+I0.2 .5 f
+i0.2 .7 cresc
+=2  cro rest qua [Db(2 C]
+|
+=1 qua F)2 cro. rest
+I0.2 .02 ff
+=2 qua F_)2 cro. rest
+|
+=1 qua F cro. rest
+I0.2 .02 ff
+=2 qua F_ cro. rest
+
+
+5 systems 50 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 20/
+title The Magnetic Rag
+innerhead Scott Joplin
+/
+4 bars | 2b 4/4 1.2 1 1 1 .9 .9 .9 .9 | 4 3.5 | 1.2 1 1.2 1 1 1 1.2 1 | 7.4 |
+|
+=1  treble 2b 4/4 qua F cro En qua Eb(2 min E)2
+=2  bass   2b 4/4 qua f cro en qua eb(1 min e)1
+|
+=1  qua F cro E qua D(2 min D)2
+=2, qua f cro e qua d(1 min d)1
+|
+=1' qua [F-s1 F#-s3 G-s1 G#(2-s3] [G)2 A-s1 B-s3 Bn-s1]
+=2, qua [f-s1, f#-s3, g-s1, g#(1-s3,] [g)1 a-s1, b-s3, bn-s2,]
+|
+=1, cro c-s2 rest <A c f-emph> rest
+=2  cro c~-s1,-. a-. F rest
+/
+4 bars | 2b 1 1 1 1 1.2 1 1 1 | 1 1 1 1.2 1 1 1 1 \
+ | 1.2 1.2 1 1.2 1.2 1 1 1 | 1.1 1.1 1 1.1 1.1 1 1 1 |
+|
+=1 qua [D B' G F] E cro c-s3 qua c#
+=2 cro B <f b> c <f a>
+|
+=1' qua [d F B-s4 D] <C# G-s2-s5> cro <D F-s1-s4> qua rest
+=2 cro B <f b> B <f b>
+|
+=1 qua [<E Fx-s3-s4> <E Fx>] rest <E(2 Fx> [<E Fx)2> G] cro <E Fx>
+=2 cro A <f a> F <f a>
+|
+=1 qua [<D F-s2-s4> <D F>] rest <D(2 F> [<D)2 F> G] cro <D F>
+=2 cro B <f b> F <f b>
+/
+4 bars | 2b 1 1 1 1 1.2 1 1 1 | 8 | 8 | 8 |
+|
+=1 qua [D B' G F] E cro c-s3 qua c#
+=2 cro B <f b> c <f a>
+|
+=1' qua [d F B d] G cro B qua rest
+=2 cro B <f b> B-s3, G-s4,
+|
+=1 qua [A,-s1 c d e(1] [e)1 d] cro A
+=2 cro F# <f# c~> D <f c~>
+|
+rs0.3 .42 2 - 1
+=1, qua [c B A B(1] cro B)1 qua rest b(1-blank-emph
+=2 cro G <d, g> B-s3, Ab-s4,
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 qua [b)1 e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] [d')1 F] f rest
+=2 cro F <f a> B-s3, Ab
+|
+=1 qua [b e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] cro d)1 qua rest b(1-blank-emph
+=2 cro F <f a> B-s3, Ab
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 qua [b)1 e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] [d')1 F] f rest
+=2 cro F <f a> B-s3, Ab
+|
+=1 qua [b e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] d)1 [G-s1 F-s3 E]
+=2 cro F <f a> B rest
+
+6 systems 10 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 15/
+innerhead The Magnetic Rag, Scott Joplin
+/
+4 bars | 2b 1 1 1 1 1.2 1 1 1 | 1 1 1 1.2 1 1 1 1 \
+ | 1.2 1.2 1 1.2 1.2 1 1 1 | 1.1 1.1 1 1.1 1.1 1 1 1 |
+|
+=1 qua [D B' G F] E cro c-s3 qua c#
+=2 cro B <f b> c <f a>
+|
+=1' qua [d F B-s4 D] <C# G-s2-s5> cro <D F-s1-s4> qua rest
+=2 cro B <f b> B <f b>
+|
+=1 qua [<E Fx-s3-s4> <E Fx>] rest <E(2 Fx> [<E Fx)2> G] cro <E Fx>
+=2 cro A <f a> F <f a>
+|
+=1 qua [<D F-s2-s4> <D F>] rest <D(2 F> [<D)2 F> G] cro <D F>
+=2 cro B <f b> F <f b>
+/
+4 bars | 2b 1 1 1 1 1.2 1 1 1 | 8 | 8 | 8 |
+|
+=1 qua [D B' G F] E cro c-s3 qua c#
+=2 cro B <f b> c <f a>
+|
+=1' qua [d F B d] G cro B qua rest
+=2 cro B <f b> B-s3, G-s4,
+|
+=1 qua [A,-s1 c d e(1] [e)1 d] cro A
+=2 cro F# <f# c~> D <f c~>
+|
+rs0.3 .42 2 - 1
+=1, qua [c B A B(1] cro B)1 qua rest b(1-blank-emph
+=2 cro G <d, g> B-s3, Ab-s4,
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 qua [b)1 e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] [d')1 F] f rest
+=2 cro F <f a> B-s3, Ab
+|
+=1 qua [b e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] cro d)1 qua rest b(1-blank-emph
+=2 cro F <f a> B-s3, Ab
+/
+4 bars | 2b 8 | 8 | 8 | 2 2 2.3 2 |
+|
+=1 qua [b)1 e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] [d')1 F] f rest
+=2 cro F <f a> B-s3, Ab
+|
+=1 qua [b e-s2 g G,] B-s2 cro f-s5 qua F
+=2 cro G-s1, E-s4, D <d, f>
+|
+=1 qua [e G, e d(1] cro d)1 qua [d e]
+=2 cro F <f a> B treble qua [B, c]
+/
+4 bars | 2b 2 1.6 1.6 2 | 8 | 8 | 8 |
+|
+=1 cro f-. min g-emph cro gb
+=2 cro d-. min. <c#l en>
+|
+=1 qua [gb f b d~(1] [d~)1 b] cro <e c~>
+=2 qua [eb d] cro rest F F_
+|
+=1 qua <d b> rest' [b d~] [f b] [d f]
+=2 qua B_ rest cro d-. B-. F-.
+|
+=1 cro f qua [f en] f rest [D Eb]
+=2' min F(1 qua F)1 rest, [B_ Cn]
+=2, cro D qua [D C#] D cro. blank
+/
+4 bars | 2b 2 1.6 1.6 2 | 2 2.3 2 2 | 2.3 2 2 2 | 8 ||
+|
+=1 cro F-. min G-emph cro Gb
+=2 cro D-. min. <C#l En> 
+|
+=1 qua [Gb F] [B, d(1] [d)1 B,] cro <E c'>
+=2 qua [Eb D] cro rest bass f F
+|
+=1 cro <D B'> qua [f b en b eb b]
+=2 cro B treble min. B'r(1
+=2, cro blank Ab G Gb
+|
+=1 cro d rest <d f b-emph> rest
+=2, cro F
+=2' cro B)1 rest bass B_-emph rest
+
+
+5 systems 30 /19-30-19/19-30-19 20/19-30-19/19-30-19 20/19-30-19/19-30-19 30/
+title So What
+innerhead from Kind of Blue, Miles Davis
+/
+5 bars | 4/4 1 1 1 1.2 1 1 1 1 ||: 8 | 1.2 1 1 1 1 1 1 1 \
+ | 1 1 1 1.2 1 1 1 1 | 1.2 1 1 1 1 1 1 1 |
+|
+=1  treble 4/4 smb rest
+i0.6 .20 swung quavers . . .
+=2' bass   4/4 cro rest qua rest A [c d] [e c]
+|
+i0.5 .50 Em
+=1' min rest <E G B>
+=2' cro d rest min rest
+|
+i0.4 .01 Dm
+=1' qua <D F A-.,> rest cro rest min rest
+=2' cro rest qua rest A [c d] [e c]
+|
+i0.5 .50 Em
+=1' min rest <E G B>
+=2' qua [d A] cro rest min rest
+|
+i0.4 .01 Dm
+=1' qua <D F A-.,> rest cro rest min rest
+=2, cro rest qua rest A [c d] [e c]
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+i0.5 .50 Em
+=1' treble min rest <E G B>
+=2' bass cro d rest min rest
+|
+i0.4 .01 Dm
+=1' qua <D F A-.,> rest cro rest min rest
+=2, min rest cro e-. e
+|
+i0.5 .50 Em
+=1' min rest <E G B>
+=2, cro. d qua A min rest
+|
+i0.4 .01 Dm
+=1' qua <D F A-.,> rest cro rest min rest
+=2, cro rest qua rest c [db eb] [f db]
+/
+4 bars | 8 | 1.2 1 1 1 1 1 1 1 | 8 | 1.2 1 1 1 1 1 1 1 |
+|
+i0.6 .50 Fm
+=1' treble min rest <F Ab c>
+=2, bass   cro eb rest min rest
+|
+i0.5 .01 Ebm
+=1' qua <Ebr Gbl Bb-.,> rest cro rest min rest
+=2, cro rest qua rest Bb [db eb] [f db]
+|
+i0.6 .50 Fm
+=1' min rest <F Ab c>
+=2, qua [eb Bb] cro rest min rest
+|
+i0.5 .01 Ebm
+=1' qua <Ebr Gbl Bb-.,> rest cro rest min rest
+=2, cro rest qua rest Bb [db eb] [f db]
+/
+4 bars | 8 | 1.2 1 1 1 1 1 1 1 | 8 | 1.2 1 1 1 1 1 1 1 :||
+|
+i0.6 .50 Fm
+=1' treble min rest <F Ab c>
+=2, bass   cro eb rest min rest
+|
+i0.5 .01 Ebm
+=1' qua <Ebr Gbl Bb-.,> rest cro rest min rest
+=2, cro rest qua rest Bb [db eb] [f db]
+|
+i0.6 .50 Fm
+=1' min rest <F Ab c>
+=2, qua [eb Bb] cro rest min rest
+|
+i0.5 .01 Ebm
+=1' qua <Ebr Gbl Bb-.,> rest cro rest min rest
+=2, cro rest qua rest Bb [c d] [e c]
+
+6 systems 20 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 20/
+title The Entertainer
+innerhead Scott Joplin
+/
+7 bars | 2/4 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1  treble 2/4 qua [d~ e~ c~ a(1]
+=2  bass   2/4 min rest
+|
+=1  qua [a)1 b g] rest
+=2  min rest
+|
+=1, qua [d e c A(1]
+=2  min rest 
+|
+=1, qua [A)1 B G] rest
+=2  min rest
+|
+=1, qua [D E C] rest
+=2  cro. rest qua a(1-s2,
+|
+=1  min rest
+=2  qua [a)1 b a ab]
+|
+=1  min rest
+=2  cro g-s1, rest
+/
+6 bars | 4 ||: Segno 4 | 4 | 4 | 4 | 4 |
+|
+=1  treble qua <Br, fx g> rest [D-s2 D#-s3]
+=2  bass   qua G cro. rest
+|
+=1  qua E-s1 cro c qua E
+=2  qua c-s5, rest <e g> rest
+|
+=1  cro c qua [E, c(1]
+=2  qua c rest <g-s1,-s2, bb> rest
+|
+=1  min c)1
+=2  qua <f-s1,-s3, a> rest <f a> rest
+|
+=1  qua rest [c-s1 d d#]
+=2  qua <e-s1,-s2, g> rest c-s3, rest
+|
+=1  qua [e c d e(1]
+=2  qua G rest <e g> rest
+/
+7 bars | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1  treble qua [e)1 B,] cro d
+=2  bass   qua G rest <fx g> rest
+|
+=1  min c
+=2  qua c-s1, rest G rest
+|
+=1  qua rest [C-s1 D D#]
+=2  qua C cro. rest
+|
+=1  qua E-s1 cro c qua E
+=2  qua c-s5, rest <e g> rest
+|
+=1  cro c qua [E, c(1]
+=2  qua c rest <g bb> rest
+|
+=1  min c)1
+=2  qua <f a> rest <f a> rest
+|
+=1  qua rest [c'-s4 A-s2 G-s1]
+=2  qua <e g> rest c rest
+/
+7 bars | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1, treble qua [F#-s2 A-s1 c-s3 e(1-blank-s5]
+=2  bass   qua d-s5, rest f# rest
+|
+=1  qua [e)1 d c A,]
+=2  qua a rest d~ rest
+|
+=1  min d
+=2  qua g-s3, rest f-s1, rest
+|
+=1  qua rest [C D D#]
+=2  qua e-s3, rest d rest
+|
+=1  qua E cro c qua E
+=2  qua c rest <e g> rest
+|
+=1  cro c qua [E, c(1]
+=2  qua c rest <g bb> rest
+|
+=1  min c)1
+=2  qua <f a> rest <f a> rest
+/
+7 bars | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1  treble qua rest [c d d#]
+=2  bass   qua <e g> rest c rest
+|
+=1  qua [e c d e(1]
+=2  qua G rest <e g> rest
+|
+=1  qua [e)1 B,] cro d
+=2  qua G rest <fx g> rest
+|
+=1  min c
+=2  qua c rest G rest
+|
+=1  qua rest [c d d#]
+=2  qua C cro. rest
+|
+=1  qua [e c d e(1]
+=2  qua c rest <e g> rest
+|
+=1  qua [e)1 c d c]
+=2  qua c rest cro <g bb>
+/
+7 bars | 4 | 4 | 4 | 4 | 4 | 4 :|| 4 ||
+|
+=1  treble qua [e c d e(1]
+=2  bass   qua c rest <f a> rest
+|
+=1  qua [e)1 c d c]
+=2  qua c rest cro <f ab>
+|
+=1  qua [e c d e(1]
+=2  qua c rest <e g> rest
+|
+=1  qua [e)1 B,] cro d
+=2  qua G rest <fx g> rest
+|
+=1  min c
+=2  qua c rest G rest
+|
+rl1.3 .08 _______
+bl0.6 .01 1a
+=1  cro rest qua [D-s2 D#-s3]
+=2  cro C rest
+|
+rl1.8 .08 _______
+bl1.1 .01 2a
+=1  qua c~ cro. rest
+=2  cro C cro. rest
+
+6 systems 20 /19-30-19/19-30-19 /19-30-19/19-30-19/19-30-19/19-30-19 10/
+/
+5 bars | 12 |
+|
+=1 qua rest [<c e-s1-s2> <d f-s1-s3> <d# f#-s2-s4>]
+=2 min rest
+|
+=1 qua <e g-s2-s4> rest' [<e a-s2-s5> <e(2 g(1-s2-s4>]
+=2 qua c rest <g c~> rest
+|
+=1 qua <e)2 g)1> [<c e-s1-s2> <d f-s1-s3> <d# f#-s2-s4>]
+=2 qua G rest g rest
+|
+=1 qua <e g-s2-s4> rest' [<e a-s2-s5> <e(2 g(1-s2-s4>]
+=2 qua c rest <g c~> rest
+|
+=1, qua <e)2 g)1> [e-s5 c G-s2]
+=2 qua G rest g rest
+/
+6 bars | 12 |
+|
+=1, qua [A-s1 B c d] 
+=2 cro f <a c~-s1,-s2,>
+|
+=1, qua [e d c d] 
+=2' min <ab-s1,-s3, c~>
+=2, cro rest, f-s4,
+|
+=1, qua [G e-s2 f g] 
+=2 cro e qua <g c~> rest
+|
+=1, qua [a g e <d f>] 
+=2 cro G rest
+|
+=1 qua <e g-s2-s4> rest' [<e a-s2-s5> <e(2 g(1-s2-s4>]
+=2 qua c rest <g c~> rest
+|
+=1 qua <e)2 g)1> [<c e-s1-s2> <d f-s1-s3> <d# f#-s2-s4>]
+=2 qua G rest g rest
+/
+5 bars | 12 |
+|
+=1 qua <e g-s2-s4> rest' [<e a-s2-s5> <e(2 g(1-s2-s4>]
+=2 qua c rest <g c~> rest
+|
+=1 qua <e)2 g)1> [g-s2 a a#]
+=2 cro e-s3, eb
+|
+=1 qua <d g b> cro <d g b> qua <c(2 f# b(1>
+=2 cro <d d~> <d d~>
+|
+=1 qua [<c)2 f# b)1> a-s5 f-s3 d-s2]
+=2 min <d d~>
+|
+=1 min <B g>
+=2 cro g <F f'>
+/
+6 bars | 12 |
+|
+=1 qua rest [<c e-s1-s2> <d f-s1-s3> <d# f#-s2-s4>]
+=2 cro <E e'> <D d'>
+|
+=1 qua <e g-s2-s4> rest' [<e a-s2-s5> <e(2 g(1-s2-s4>]
+=2 qua C rest <g c~> rest
+|
+=1 qua <e)2 g)1> [<c e-s1-s2> <d f-s1-s3> <d# f#-s2-s4>]
+=2 qua G rest g rest
+|
+=1 qua <e g-s2-s4> rest' [<e a-s2-s5> <e(2 g(1-s2-s4>]
+=2 qua c rest <g c~> rest
+|
+=1, qua <e)2 g)1> [e-s5 c G-s2]
+=2 qua G rest g rest
+|
+=1, qua [A-s1 B c d] 
+=2 cro f <a c~-s1,-s2,>
+/
+5 bars | 12 |
+|
+=1, qua [e d c d] 
+=2' min <ab-s1,-s3, c~>
+=2, cro rest, f-s4,
+|
+=1 min c
+=2 cro e qua <g c~> rest
+|
+=1 qua rest [G-s1 F#-s2 G-s1]
+=2 cro c qua <bbx c~> rest
+|
+=1, qua c rest [A c(1]
+=2 qua <f a c~> rest' <f a c~> rest'
+|
+=1, qua [c)1 A c A]
+=2 qua <f# a e~b> rest' <f# a e~b> rest'
+/
+6 bars | 12 | 12 | 12 | 12 | 12 | 12 ||
+|
+=1, qua [G c e g(1]
+=2 qua <g c~ e~> rest' <g c~ e~> rest'
+|
+=1, qua [g)1 e c G]
+=2 cro. <g c~ e~> qua rest
+|
+=1' qua <F# A> rest <F# c> rest
+=2, qua <d c~> rest <d c~> rest
+|
+=1' qua <Fn e> cro <F d> qua <E(2 c(1>
+=2  qua <g b> rest <g b> rest
+|
+=1' min <E)2 c)1>
+=2 qua c rest G rest
+|
+b0.4 .46 Dal Segno
+=1 qua rest [C D D#]
+=2 cro C rest,
+
+
+5 systems 20 /19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 10/
+/
+5 bars | 2# 3/4 18 | 8 6 6 | 8 6 6 | 8 6 6 | 24 |
+|
+bl1.4 .05  Clair de Lune
+=1  treble 2# 3/4 cro rest <f a-s3-s5> <d(2 f(1>
+I0.5 .15 pp
+=2  treble 2# 3/4 qua rest <F(2-s1,-s3, A(1> min <F)2 A)1>
+|
+r1.4 .30 Claude Debussy
+=1  qua3 [<d)2 f)1> <c-I3,-s1-s3 e> <d f>] min <c(2 e(1>
+=2  min. <G-s2,-s1, Bb'>
+|
+=1  qua3 [<c)2 e)1> <B,-I3,-s1-s3 d> <c e>] qua <B, d> cro f qua d(1
+=2  min. <F A>
+|
+=1, qua3 [d)1 <A-I3,-s1-s3 c> <B d>] min <A c(1>
+=2  min. <E G>
+|
+=1 qua3 [c)1 B,-I3, c] [B, e-I3, B,] [A B'-I3,-s3 A(2]
+=2 min <D Ex G> cro <C E G>
+/
+4 bars | 2# 8 6 6 | 24 | 8 6 6 | 18 ||
+|
+=1 treble 2# qua3 [A)2 G-I3,-s1 A-s4] cro G-s3 F(2
+=2 treble 2# min <B_ Dx E> cro <B_bl Db Ex> bass
+|
+=1  qua3 [F)2 F-I3,-s2 G] [F B'-I3, F-s3] [E F-I3, E(2]
+=2  min <ar bnx d~nl> cro <g b>
+|
+=1  qua3 [E)2 D-I3, E-s4] cro D <A_ C>
+=2  min <fr ax b> qua [e'-s1, A]
+|
+=1  cro rest <f a-s3-s5> <d f>
+=2  min. D
+
+/
+8 bars |: 1# 2/4 1 1 1 1.5 1 1 1 1 | 8 | 8 | 8 \
+ | 1 1 1 1.5 1 1 1 1 | 8 | 8 | 8 :||
+|
+bl1.5 .05  March of the Toy Soldiers
+=1' treble 1# 2/4 qua. [<G B-s1-s2> smq <G c>] qua <G d> rest
+I0.5 .01 f
+=2, bass   1# 2/4 qua. [g-s4, smq a] qua b rest
+|
+=1' qua <G e> rest <G d> rest
+I0.5 .01 p
+=2 qua c~ rest b rest
+|
+=1' qua <F c-s2-s5> rest <G B-s1-s4> rest
+=2 qua a rest g rest
+|
+r1.5 .30 Robert Schumann
+=1 qua <F A-s2-s3> rest G rest
+=2, qua <d c~> rest <g b> rest
+|
+=1' qua. [<G B-s1-s2> smq <G c>] qua <G d> rest
+I0.5 .01 f
+=2, qua. [g-s5, smq a] qua b rest 
+|
+=1' qua <G e> rest <G d> rest
+I0.5 .01 p
+=2 qua c~ rest b rest
+|
+=1 qua <e g-s3-s5> rest <d f> rest
+=2 qua c~#-s2, rest d~-s2, rest
+|
+=1 qua <c# e> rest d rest
+=2 qua <a g~> rest' <d~ f~> rest
+/
+8 bars |: 1# 1 1 1 1.5 1 1 1 1 | 7 | 8 | 8 | 1 1 1 1.5 1 1 1 1 | 7 | 8 | 8 |
+|
+=1  treble 1# qua. [D smq E] cro F
+I0.5 .01 f
+=2, bass   1# qua. [d smq e] cro f
+|
+=1 cro E D
+=2 cro e d
+|
+=1' qua <F e> rest <G d-s1-s5> rest
+I0.5 .01 p
+=2 qua c~-s2, rest b rest
+|
+=1' qua <A c> rest <G B> rest
+=2 qua <f d~> rest <g d~> rest
+|
+=1  qua. [<D F A> smq E] cro F
+I0.5 .01 f
+=2, qua. [d smq e] cro f
+|
+=1 cro E D
+=2 cro e d
+|
+=1' qua <A c-s3-s5> rest <G B> rest
+I0.5 .01 p
+=2 qua <f-s1,-s4, d~> rest <g d~> rest
+|
+=1' qua <F A> rest <G B> rest
+=2 qua <d d~> rest <g d~> rest
+/
+8 bars | 1# 1 1 1 1.5 1 1 1 1 | 8 | 8 | 8 | 1 1 1 1.5 1 1 1 1 | 7 | 8 | 8 :||
+|
+=1' treble 1# qua. [<G B-s1-s2> smq <G c>] qua <G d> rest
+I0.5 .01 f
+=2, bass   1# qua. [g-s4, smq a] qua b rest
+|
+=1' qua <G e> rest <G d> rest
+I0.5 .01 p
+=2 qua c~ rest b rest
+|
+=1' qua <F c-s2-s5> rest <G B-s1-s4> rest
+=2 qua a rest g rest
+|
+=1 qua <F A-s2-s3> rest G rest
+=2, qua <d c~> rest <g b> rest
+|
+=1  qua. [C smq D] cro E
+I0.5 .01 f
+=2  qua. [c smq d'] cro e
+|
+=1 cro D C
+=2 cro d' c
+|
+=1 cro D qua <A, d f> rest
+=2 cro d' qua d~ rest
+|
+=1 qua <B, d g> rest cro rest
+=2 qua g rest cro rest
+
+
+6 systems 15 / 19-30-19/
+innerhead Book 1, Well-Tempered Clavier, J. S. Bach
+title Prelude in C
+/
+2 bars | 4/4 16 | 16 |
+|
+=1, treble 4/4 qua rest smq [G c] [e G c e] qua rest smq [G c] [e G c e]
+=2' bass   4/4 smq rest''' cro.. e~ smq rest''' cro.. e~
+=2         4/4 min c~ c~
+|
+=1, qua rest smq [A d] [f A d f] qua rest smq [A d] [f A d f]
+=2' smq rest''' cro.. d~ smq rest''' cro.. d~
+=2  min c~ c~
+/
+3 bars | 16 | 16 | 16 |
+|
+=1, treble qua rest smq [G d] [f G d f] qua rest smq [G d] [f G d f]
+=2' bass   smq rest''' cro.. d~ smq rest''' cro.. d~
+=2         min b b
+|
+=1, qua rest smq [G c] [e G c e] qua rest smq [G c] [e G c e]
+=2' smq rest''' cro.. e~ smq rest''' cro.. e~
+=2  min c~ c~
+|
+=1, qua rest smq [A e] [a A e a] qua rest smq [A e] [a A e a]
+=2' smq rest''' cro.. e~ smq rest''' cro.. e~
+=2  min c~ c~
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' treble qua rest smq [F# A] [d F A d] qua rest smq [F A] [d F A d]
+=2' bass   smq rest''' cro.. d~ smq rest''' cro.. d~
+=2         min c~ c~
+|
+=1, qua rest smq [G d] [g G d g] qua rest smq [G d] [g G d g]
+=2' smq rest''' cro.. d~ smq rest''' cro.. d~
+=2  min b b
+|
+=1' qua rest smq [E G] [c E G c] qua rest smq [E G] [c E G c]
+=2' smq rest''' cro.. c~ smq rest''' cro.. c~
+=2  min b b
+/
+3 bars | 16 | 1 1 1.5 1  1 1 1 1  1 1 1 1  1 1 1 1 | 16 |
+|
+=1' treble qua rest smq [E G] [c E G c] qua rest smq [E G] [c E G c]
+=2' bass   smq rest'' cro.. c~ smq rest'' cro.. c~
+=2         min a a
+|
+=1' qua rest smq [D F#] [c D F c] qua rest smq [D F] [c D F c]
+=2' smq rest'' cro.. a smq rest'' cro.. a
+=2  min d d
+|
+=1' qua rest smq [D G] [B D G B] qua rest smq [D G] [B D G B]
+=2' smq rest'' cro.. b smq rest'' cro.. b
+=2  min g g
+/
+3 bars | 1.4 1 1 1.6  1 1 1 1  1 1 1 1  1 1 1 1 | 16 \
+ | 1.4 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 |
+|
+=1' treble qua rest smq [E G] [c# E G c] qua rest smq [E G] [c E G c]
+=2' bass   smq rest'' cro.. bb smq rest'' cro.. b
+=2         min g g
+|
+=1' qua rest smq [D A] [d D A d] qua rest smq [D A] [d D A d]
+=2' smq rest'' cro.. a smq rest'' cro.. a
+=2  min fn f
+|
+=1' qua rest smq [D F] [B D F B] qua rest smq [D F] [B D F B]
+=2' smq rest'' cro.. ab smq rest'' cro.. a
+=2  min f f
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' treble qua rest smq [C G] [c C G c] qua rest smq [C G] [c C G c]
+=2' bass   smq rest'' cro.. g smq rest'' cro.. g
+=2         min e e
+|
+=1' qua rest smq [A_ C] [F A_ C F] qua rest smq [A_ C] [F A_ C F]
+=2' smq rest'' cro.. f smq rest'' cro.. f
+=2  min e e
+|
+=1' qua rest smq [A_ C] [F A_ C F] qua rest smq [A_ C] [F A_ C F]
+=2' smq rest'' cro.. f smq rest'' cro.. f
+=2  min d d
+
+6 systems 15 / 19-30-19/
+innerhead Prelude in C, Book 1, Well-Tempered Clavier, J. S. Bach
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' treble qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
+=2' bass   smq rest' cro.. d smq rest' cro.. d
+=2,        min G G
+|
+=1' qua rest smq [G_ C] [E G_ C E] qua rest smq [G_ C] [E G_ C E]
+=2' smq rest' cro.. e smq rest' cro.. e
+=2, min c c
+|
+=1' qua rest smq [B_b C] [E B_ C E] qua rest smq [B_ C] [E B_ C E]
+=2' smq rest' cro.. g smq rest' cro.. g
+=2, min c c
+/
+3 bars | 16 | 1 1 1 1.5  1 1 1 1  1 1 1 1  1 1 1 1 | 16 |
+|
+=1' treble qua rest smq [A_ C] [E A_ C E] qua rest smq [A_ C] [E A_ C E]
+=2' bass   smq rest' cro.. f smq rest' cro.. f
+=2,        min F F
+|
+=1' qua rest smq [A_ C] [Eb A_ C E] qua rest smq [A_ C] [E A_ C E]
+=2' smq rest' cro.. c smq rest' cro.. c
+=2, min F# F
+|
+=1' qua rest smq [B_ C] [D B_ C D] qua rest smq [B_ C] [D B_ C D]
+=2' smq rest' cro.. f smq rest' cro.. f
+=2, min Ab A
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' treble qua rest smq [G_ B_] [D G_ B_ D] qua rest smq [G_ B_] [D G_ B_ D]
+=2' bass   smq rest' cro.. f smq rest' cro.. f
+=2,        min G G
+|
+=1' qua rest smq [G_ C] [E G_ C E] qua rest smq [G_ C] [E G_ C E]
+=2' smq rest' cro.. e smq rest' cro.. e
+=2, min G G
+|
+=1' qua rest smq [G_ C] [F G_ C F] qua rest smq [G_ C] [F G_ C F]
+=2' smq rest' cro.. d smq rest' cro.. d
+=2, min G G
+/
+3 bars | 16 | 1.5 1 1 1.5  1 1 1 1  1 1 1 1  1 1 1 1 \
+ | 1.5 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 |
+|
+=1' treble qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
+=2' bass   smq rest' cro.. d smq rest' cro.. d
+=2,        min G G
+|
+=1' qua rest smq [A_ C] [F# A_ C F] qua rest smq [A_ C] [F A_ C F]
+=2' smq rest' cro.. eb smq rest' cro.. e
+=2, min G G
+|
+=1' qua rest smq [G_ C] [G G_ C G] qua rest smq [G_ C] [G G_ C G]
+=2' smq rest' cro.. en smq rest' cro.. e
+=2, min G G
+/
+3 bars | 16 | 16 | 1 1 1.5 1  1 1 1 1  1 1 1 1  1 1 1 1 |
+|
+=1' treble qua rest smq [G_ C] [F G_ C F] qua rest smq [G_ C] [F G_ C F]
+=2' bass   smq rest' cro.. d smq rest' cro.. d
+=2,        min G G
+|
+=1' qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
+=2' smq rest' cro.. d smq rest' cro.. d
+=2, min G G
+|
+=1' qua rest smq [G_ B_b] [E G_ B_ E] qua rest smq [G_ B_] [E G_ B_ E]
+=2' smq rest' cro.. c smq rest' cro.. c
+=2, min C C
+/
+3 bars | 16 | 16 | 10 ||
+|
+=1' treble qua rest,, blank smq [C F C A_] min blank
+=2' bass   qua blank smq [f a] cro blank smq [c~ a f a-s5] [f d f d]
+=2         smq rest cro.. c'(2 min c,)2
+=2,        min C(4 C)4
+|
+=1 qua rest smq [G B'] [d f d B,] [d B, G, B,-s5] [D F E D]
+=2' smq rest cro.. B(1 min B)1
+=2, min C(2 C)2
+|
+=1 smb <E G c-fermata>
+=2 smb <C c-fermata>
+
+6 systems 20 /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19 20/
+title Menuet
+lefthead From Anna Magdalena's Büchlein
+righthead Christian Petzold
+/
+5 bars | 1# 3/4 6 | 6 | 6 |
+| 3/4 1.5
+=1  treble 1# 3/4 cro d qua [G A B' c']
+=2' bass   1# 3/4 min <b d~>
+=2,        1# 3/4 min g cro a
+|
+=1  cro d G G
+=2  min. b
+|
+=1 cro e qua [c-mordent d e f]
+=2 min. c~
+|
+=1 cro g G G
+=2 min. b
+|
+=1 cro c-mordent qua [d c B, A,]
+=2 min. a
+/
+5 bars | 1# 6 | 6 | 6 | 6 | 6 |
+|
+=1 cro B' qua [c' B' A G]
+=2 min. g
+|
+=1' cro F qua [G A B G]
+=2 cro d~ b g
+|
+=1 qua3-s B'(2 min. A)2
+=2 cro d~ qua [d, c~ b a]
+|
+=1  cro d qua [G A B' c']
+=2  min b cro a
+|
+=1  cro d G G
+=2  cro g b g
+/
+6 bars | 1# 6 | 6 | 6 | 6 | 6 | 4.5 :||
+|
+=1 cro e qua [c-mordent d e f]
+=2 min. c~-s1,
+|
+=1 cro g G G
+=2 cro b qua [c~ b a g]
+|
+=1 cro c-mordent qua [d c B, A,]
+=2 min a cro f-s5,
+|
+=1 cro B' qua [c' B' A G]
+=2 min g cro b-s3,
+|
+=1 cro A qua [B' A G F]
+=2 cro c~ d~ d,
+|
+=1 min. G
+=2 min g-s1, cro G
+/
+5 bars ||: 1# 6 | 6 | 6 | 6 | 6 |
+|
+=1 cro b-s5 qua [g a b g]
+=2 min. g-s2,
+|
+=1 cro a qua [d e f d]
+=2 min. f
+|
+=1 cro g-s4 qua [e f g d-s1]
+=2 cro e g e
+|
+=1 cro c#-s3 qua [B, c] cro A
+=2 min a-s1, cro A
+|
+=1, qua [A B c# d-s1 e f]
+=2 min. a
+/
+5 bars | 1# 6 | 6 | 6 | 6 | 6 |
+|
+=1 cro g f e
+=2 cro b-s3, d~ c~#
+|
+=1 cro f A c#
+=2 cro d~ f a
+|
+=1 min. d
+=2 cro d~ d c~n
+|
+=1 cro d-s5 qua [G F] cro G
+=2' cro blank min d~
+=2, min b cro b
+|
+=1 cro e qua [G F] cro G
+=2' cro blank min e~
+=2, min c~ cro c~
+/
+6 bars | 1# 6 | 6 | 6 | 6 | 6 | 5 :||
+|
+=1 cro d c B
+=2 cro b a g
+|
+=1 qua [A G F-s2 G-s3] cro A
+=2 min d~ cro rest
+|
+=1 qua [D E F G-s1 A B']
+=2' cro rest'' rest'' f
+=2, min. d
+|
+=1 cro c B,-tr A
+=2 cro e g f
+|
+=1 qua [B, d] cro G F
+=2 cro g B d'
+|
+=1' min. G
+=1, min.-s <B_ D>
+=2 cro g d G
+
+7 systems 10 /19-30-19/19-29-19/19-30-19/19-29-19 \
+ /19-30-19/19-29-19/19-28-19 10/
+title Two-Part Invention I
+righthead Johann Sebastian Bach
+midi channel 1 patch 0
+/
+3 bars | 4/4 16 | 16 | 16 |
+| 3/4 3.0
+=1  treble 4/4 cha1 smq rest [C-s1 D E] [F D E C] qua [G-s2 c'] [B,-tr c]
+=2  bass   4/4 cha1 min rest smq rest [c,-s4, d, e] [f d e c,]
+|
+=1 smq [d'-. G-s1 A B'] [c' A B' G] qua [d-s2 g] [f,-tr g]
+=2 qua [g'-. G-.] cro rest smq rest [g-s4, a b] [c~ a b g]
+|
+=1 smq [e a-s5 g f] [e g f a] [g f e d] [c-s2 e d f]
+=2 qua [c~-. b-s4,] [c~ d~] [e~-. g-s4,] [a b]
+/
+3 bars | 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 \
+ | 1 1 1.6 1 1 1 1 1 1 1 1.6 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1.8 1 1 1 1 1 1 |
+|
+I0.7 .58 ,
+I0.4 .08 ,
+=1 smq [e d c B,] [A,-s2 c B, d] [c' B' A G] [F#-s2 A G B']
+=2, qua [c~ e-s4,] [f# g] [a b-s2,] cro c~(1
+|
+=1 qua [A-. D-.] qua. [c-mordent smq d-s5] [B'-s3 A G F#-s2] [E G F A]
+=2 smq [c~)1 d,-s4, e f#] [g e f d,] qua [g B,-s4,] [c d']
+|
+=1 smq [G-s1 B' A c'] [B,-s1 d c e] [d dsq B, c smq d g] qua [B'-tr smq A G]
+=2 qua [e f#-s2,] [g e] qua. [B-s4, smq c] qua [d'-s1, D]
+/
+3 bars | 16 | 1 1 1.7 1 1 1 1 1 1 1 1 1 1.45 1.45 | 16 |
+|
+=1' qua G rest cro rest smq rest [G-s2 A B] [c A B G]
+=2 smq rest [G-s5, A B] [c A B G] qua [d,-.-s2, g-s1,] [f#-s3, g]
+|
+=1 qua F#-tr rest cro rest smq rest [A,-s2 B, c] [d B, c A,]
+=2 smq [a d-s5, e f#] [g e f d] qua [a-.-s2, d~-s1,] [c~ d~] treble
+|
+=1, qua B rest cro rest smq rest [d-s5 c B] [A c B d]
+=2 smq [G_-. G-s1, F-s3, E] [D F E G] qua [F E] [F D]
+/
+3 bars | 1 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 \
+ | 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 |
+|
+=1, qua c rest cro rest smq rest [e-s5 d c] [B d c# e]
+=2' smq [E-. A-s2, G F] [E G F A] qua [G F] [G E]
+|
+=1, qua [d-. c#-s2] [d e] [f-. A-s2] [Bn c#]
+=2' smq [F-. Bb-s2, A G] [F A G B] [A-s1, G F E] [D F E G]
+|
+=1  qua [d' F#-s2] [G# A-s1] [B,-s3 cn] cro d(1
+=2' smq [F-s1, E D C] [B_ D C E] [D-s1, C B_ A_] [G_# B_ A_ C]
+/
+3 bars | 1 1.7 1.7 1 1 1 1 1.2 1 1 1 1.7 1 1.7 1 1 \
+ | 1 1.7 1 1 1 1 1 1.5 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1 1.7 1 1 |
+|
+=1 smq [d')1 E F# G#] [A F G E-s1] [e-s4 d c e] [d c B, d]
+=2 bass qua [b-s1, e] qua. [d~-mordent-s132, smq e~-s"-",] \
+ [c~-s1, b a g] [f# a g# b]
+|
+=1, smq [c-s"1  " a-s4 g# b] [a e f-s4 d-s2] \
+ [G# f-s5 e d] qua [c-tr-s31 smq B-s2 A]
+=2  smq [a-s4, c~ b d~] [c~-s4, e~ d~ f~] qua [e~-. a-.] [e~-. e-.]
+|
+=1, smq [A leg93 a-s5 g f] [e g f a] min g(1
+=2, qua [a A] cro rest smq rest' [e~-s1, d~ c~] [b d~ c~# e~]
+/
+3 bars | 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 \
+ | 16 | 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 |
+|
+=1, smq [g)1 leg93 e-s2 f g] [a f g e] min f(1
+=2, min d~(1 smq [d~)1 a-s4, b c~n] [d~ b c~ a]
+|
+=1, smq [f)1 leg93 g-s5 f e] [d f e g] min f(1
+=2, min b(1 smq [b)1 d~-s1, c~ b] [a c~ b d~]
+|
+=1, smq [f)1 leg93 d-s2 e f] [g e f d] min e(1
+=2, min c~(1 smq [c~)1 g-s4, a bb] [c~ a b g]
+/
+4 bars | 16 | 16 | 1.7 1 1 1 1 1 1 1 1.7 1 1 1 1 1 1 1 | 4.7 ||
+|
+=1, smq [e)1 leg93 c-s2 d e] [f d e c] [d-s1 e-s2 f g] [a f g e]
+=2  qua [a-. bb-s2,] [a g] [f-. d~-s1,] [c~ b]
+|
+=1 smq [f-s1 g a b] [c~ a b g] qua [c~-. g-.-s3'] [e-tr smq d c]
+=2, qua [a-. f~-s1,] [e~ d~] smq [e~-.-s1, d e-s3, f] [g e f d]
+|
+=1' smq [c-. Bb-s4 A G] [F A G B] [A Bn c E-s2] [D c F B]
+=2  qua [e-. c,] [d, e] smq [f d, e f] qua [g'-s1, G-s3,]
+|
+=1 smb <E G c-fermata>
+=2 smb <C c-fermata>
+
+5 systems 20 /19-35-19/19-40-19/19-35-19/19-35-19/19-35-19 25/
+title from Powaqqatsi
+innerhead Philip Glass
+midi channel 1 patch 0
+/
+4 bars | 10/0 40 | 40 | 40 | 40 |
+| 2.6
+=1 treble 1 blank
+=2' bass  8 [D d d] [D d d] [D d D d]
+|
+=1 1 blank
+=2' 8 [D d d] [D d d] [D d D d]
+|
+=1 1 blank
+=2' 8 [D d d] [D d d] [D d D d]
+
+

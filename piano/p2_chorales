@@ -1,0 +1,122 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.de Dp
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+
+.sp 2.0c
+.LP
+.ce 1
+\f3\s+7Bach Chorales, for piano\s0\fP
+.sp 1.5c
+
+.Lp
+It is hard to explain the great importance of these simple pieces.
+Is is these chorales, rather than his trademark fugues,
+that lie at the heart of Bach's technique.
+Wolff refers to Bach's \f2collection of 370 four-part
+chorales that charted the course for tonal harmony.\fP
+Donald Francis Tovey observes:
+\f2Counterpoint, the art defined by Sir Frederick Gore Ouseley
+as that of 'combining melodies'\. \. \.
+This definition is not quite complete.
+Classical couterpoint is the conveying of a mass of harmony
+by means of a combination of melodies.
+Thus the three melodies combined by Wagner in the Meistersinger prelude
+do not make classical couterpoint,
+for they require a mass of accompanying harmony to explain them.\fP
+
+.Lp
+Forkel recounts, in Ernest Newman's translation:
+\f2Bach began teaching composition not with dry counterpoint that led nowhere,
+as was the way with other music teachers of his time\ ;\ .\ .\ .
+He went immediately to pure four-part thorough-bass,
+laying much stress on the setting-out of the voices,
+since in this way the conception of the pure progression of the harmony
+was made most intelligible.
+From there he went to the chorale.
+In these exercises he himself set the original bass,
+and made his pupils add only the alto and the tenor.
+Gradually he let them make the bass also.
+Everywhere he insisted not only on the utmost purity of the
+harmony in itself, but also on naturalness of progression
+and a melodic flow of all the separate voices.\ .\ .\ .
+His pupils were not allowed to bring him compositions of
+their own until they had fully mastered four-part writing.
+Instruction in free composition began with the two-part fugue.\fP
+
+.Lp
+Bach, in other words, explored the frontier between voice-leading and harmony;
+he solved the problem of how voice-leading should
+be done so as to give the impression of harmony.
+The great importance of this approach is not just that is is
+the basis of Bach's technique; it can also be applied to other
+styles than Bach's \- to other sets of consonant chords,
+other ways of handling dissonances, and other conventions for voice-leading.
+For example in Duke Ellington, it is the logic of the voice-leading
+that moves the harmonies of, for example,
+\f2Satin Doll\fP, or \f2Prelude to a Kiss\fP
+
+.Lp
+Bach told his pupils that every piece of music is a conversation
+between the separate voices, that represent the characters.
+This human significance of each voice is particularly explicit
+in writing for SATB choir.
+
+.Lp
+These chorales have perhaps more agility of expression than
+any other works of Bach; consider, for example, the contrast
+in \f2Es ist genug\fP between the lines
+\f2ich fahre sicher hin mit Frieden\fP and
+\f2mein groﬂer Jammer bleibt danieden\fP.
+
+.Lp
+Of Bach's 370 four-voice chorales, mostly from his cantatas,
+a very arbitrary selection has here been made of those
+most convenient for piano transcription,
+such as those having a low-lying tenor voice.
+BWV 18
+BWV 26
+BWV 43
+BWV 104
+BWV 145
+BWV 155
+BWV 262
+BWV 288
+BWV 306
+BWV 318.
+For ease of sight-reading, and with some regret,
+crossed voices have been uncrossed.
+For example, in BWV 318 bar 7 beat 3 and bar 12 beats 3 and 4
+between Alto and Tenor.
+Often the tenor voice has to be taken in the right hand,
+and sometimes the alto in the left.
+
+.Dp
+\f2J. S. Bach, 388 Four-Part Chorales\fP edited by J·nos Dobra,
+Editio Musica Budapest
+.Dp
+\f2Johann Sebastian Bach\fP, Albert Schweizer, Breitkopf and H‰rtel
+.Dp
+\f2Johann Sebastian Bach\fP, Albert Schweizer,
+translated by Ernest Newmann, Dover
+.Dp
+\f2The Forms of Music\fP, Donald Francis Tovey, Oxford University Press
+.Dp
+\f2Johann Sebastian Bach\fP, Christoph Wolff, Oxford University Press
+
+.sp 1.2c
+.Lp
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP
+

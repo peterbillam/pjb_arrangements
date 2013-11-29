@@ -1,0 +1,79 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	98.10.28.03.54.17;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.10.28.03.51.17;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Title Page of Fuga Canonica
+@
+
+
+1.2
+log
+@add In Epidiapente
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 3.0c
+.ce 100
+\f3\s+9\s+9Fuga Canonica in Epidiapente\s-9\s-9\fP
+.sp 2.5c
+\f2\s+9J. S. Bach\s0\fP
+.sp 0.9c
+\f3\s+2From the Musicial Offering\s0\fP
+.sp 2.5c
+\f2\s+9Transcribed by Peter Billam\s0\fP
+.sp 0.9c
+\f3\s+2For Keyboard and Melody Instrument\s0\fP
+.sp 1.4c
+\(co Peter J Billam, 1998
+\s-1This score is licensed in Postscript form to the purchaser, who
+may generate printed copies or photocopies, for their own use, or for
+the use of their pupils, or of any musicians with whom they are playing
+the piece.  All other rights, such as those of performance,
+recording and broadcast, remain reserved by the arranger, Peter Billam,
+GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
+.sp 1.0c
+\f2\s-2http://www.pjb.com.au/mus\s0\fP
+.sp 1.7c
+\f2\s-2This printing \*(DY.\s0\fP
+@
+
+
+1.1
+log
+@better spacing, vaild date
+@
+text
+@d7 1
+a7 1
+.sp 3.5c
+d9 1
+a9 1
+\f3\s+9\s+9Fuga Canonica\s-9\s-9\fP
+d14 1
+a14 1
+.sp 2.2c
+d18 1
+a18 1
+.sp 1.2c
+@

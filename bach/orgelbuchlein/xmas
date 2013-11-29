@@ -1,0 +1,670 @@
+6 systems 15 /19-24-19/19-24-19/19-24-19/19-24-19/19-24-19/19-24-19 15/
+pagenum 4
+innerhead Orgelbüchlein, J. S. Bach
+title 5: Puer Natus in Bethlehem
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+midi channel 1 patch 0 pan 20 reverb 90
+midi channel 2 patch 0 pan 40 reverb 90
+midi channel 3 patch 0 pan 60 reverb 90
+midi channel 4 patch 0 pan 80 reverb 90
+/
+3 bars |2b 4.7 | 12 | 12 |
+| 3/2 1.0
+=1 bass 2b 3/2 cha1 leg100 cro b bn
+=2 bass 2b 3/2 cha2 leg100 cro rest G
+| 3/2 3.0
+=1 qua [c~ c,-. e g] [c~ bb c~ b] [c~ b c~ b]
+=2 cro C min c cro B A G
+|
+=1 qua [a d,-. f# a] [d~ c~ d~ c~] [d~ c~ d~ c~]
+=2 cro F# min d' cro c B A
+/
+3 bars |2b 12 | 12 | 12 |
+|
+=1 bass 2b qua [b d, g b] [d~ c~ d~ c~] [b a b g]
+=2 bass 2b min G D E
+|
+il0.5                       5
+=1 qua [a' F-., A c] [f e f e] min f(1
+=2 cro E_ min F cro E D C
+|
+=1 qua [f)1 B,-. d, f] [b a b a] [b a b a]
+=2 cro D min B cro A G F#
+/
+3 bars |2b 12 | 12 | 1 1.4 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 bass 2b min b(1 qua [b)1 g b d~] [c~ b c~ a]
+=2 bass 2b cro G D E C F F_
+|
+=1 qua [f-fermata B,-. d, f] [b a b a] [b a b a]
+=2 cro B_ min B cro A G F
+|
+=1 qua [g c,-. en g] [c~ b c~ b] [c~ b a g]
+=2 cro En min c cro B A G
+/
+2 bars |2b 12 | 12 |
+|
+il0.5                 10
+=1 bass 2b qua [d~ d,-. f# a] [d~ c~ d~ c~] [d~ c~ d~ c~]
+=2 bass 2b cro F# min d' cro c B A
+|
+=1 qua [b a b a] [g f# g a] [d, c~ b a]
+=2' cro G <D d> <E e> <C c> D <D_ D>
+/
+3 bars |2b 12 | 12 | 1 1 1 1 1 1 1.4 1.4 1 1 1 1 |
+|
+=1 bass 2b qua g-fermata [d' g'] rest rest [A B c] [d' c d' B]
+=2 bass 2b cro <G_ G> min B_ cro A_ <G_ G> <F_ F>
+|
+=1 cro c rest qua rest [B c d'] [e d, e d,]
+=2 cro <E_ E> min C cro B_ <A_ A> <G_ G>
+|
+=1 qua e, d' cro rest qua rest [A d' en'] [f# e f d,]
+=2 cro <F_# F#> min D cro C <B_ B> <A_ A>
+/
+3 bars |2b 12 | 12 | 1.2 1 1 1  1 1 1.2 1  .8 .8 .8 .8 ||
+|
+il0.5           15
+=1 bass 2b min rest qua rest [c, e g] [c~ b c~ d~]
+=2 bass 2b cro <G_ G> min E cro D C D
+|
+=1 qua [b g b d~] [c~ b c~ b] [c~ b c~ a]
+=2 cro E <B_ B> <C c> <A_ A> <D d'> <D_ D>
+|
+=1' qua [bn rest' Bn d] [g d g a] min b-fermata
+=1, min. blank gr
+=2 qua rest cro. G(2 smb G)2-fermata
+=2 smb. G_
+
+6 systems 15 /19-24-19/19-24-19/19-24-19/19-24-19/19-24-19/19-24-19 15/
+pagenum
+innerhead Orgelbüchlein, J. S. Bach
+title 5: Puer Natus in Bethlehem
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+3 bars |2b 4.7 | 3.5 4 4 | .9 .9 .9 1.2 1 1 1 1 1 1 1 1 |
+| 1/2 1.0
+=1 treble 2b 3/2 cha3 leg100 min g
+=2 treble 2b 3/2 cha4 leg100 qua [G F G F]
+| 3/2 3.0
+=1, smb <G g> min <G g>
+=2 min E(2 qua [E)2 D E D] [E D E F]
+|
+=1, smb <A a> min <A a>
+=2 cro. D qua En [F# E F E] [F G E F]
+/
+3 bars |2b 3.7 3.7 4 | 3.5 4 4 | 4 4 3.5 |
+|
+=1, treble 2b min <B b> <A a> <G g>
+=2 treble 2b cro G min G cro Fn qua [E D E D]
+|
+il0.5           5
+=1 smb. <F f-fermata>
+=2 min C cro rest qua [A_ C] [F E F E]
+|
+=1, smb <B b> min <c c~>
+=2 qua [F E F E] [D E C D] min E
+/
+3 bars |2b 1 1 1.3 1 1 1 1 1 1 1 1 1| 3.5 4 4| .9 .9 .9 1.5 1 1 1 1.4 1 1 1 1|
+|
+=1, treble 2b smb <B b> min <An an>
+=2 treble 2b qua rest [D F Ab] [G F G F] [E D E C]
+|
+=1, smb <B b-fermata> min <B b>
+=2 min D(2 qua [D)2 C D C] [D C E D]
+|
+=1, smb <B b> min <B b>
+=2 cro. C qua D [En F E G] [F# G F G]
+/
+3 bars |2b .9 .9 .9 1.5 1.4 1 1 .85 .85 .85 .85 | 4 3.7 4 | 4 4 4.2 |
+|
+il0.5                 10
+=1 treble 2b smb a min g
+=2 treble 2b cro. A qua G [F# En F] rest min G
+|
+=1, smb <G g> min <F# f#>
+=2 qua [D C D C] cro B_ E(2 qua [E)2 E D C]
+|
+=1, smb <G g-fermata> min <G g> 
+=2 qua [B_ rest, rest, B_] [D C D C] [B_ A_ B_ G_]
+/
+2 bars |2b 12 | 12 |
+|
+=1, treble 2b smb <F# f#> min <G g> 
+=2 treble 2b qua [A_ E_ A_ C] [E D E D] [C B_ C B_]
+|
+=1, smb <A a> min <A a>
+=2 qua [A_ rest,, F_# A_] [D C D C] [D C D C]
+/
+3 bars |2b 1 1 1 1 1 1 1 1 1 1.2 1.2 1|1.2 1 1 1 1 1 .9 .9 .85 .85 .85 .85|8 ||
+|
+il0.5                 15
+=1, treble 2b smb <B b> min <A a>
+=2 treble 2b qua [B_ G_ B_ D] [G F G F] [E D En F#]
+|
+=1, smb g min <F# f#>
+=2 qua [G Fn G F] [E D] cro E min D
+|
+=1 smb. <G g-fermata>
+=2 smb. D
+
+7 systems 10 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 15/
+pagenum 
+innerhead Orgelbüchlein, J. S. Bach
+title 7: Der Tag, der ist so Freudenreich
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+3 bars |: 1# 16 | 16 | 16 |
+| 4/4 4.0
+midi pause 3.5
+=1 bass 1# 4/4 qua. [b smq a] qua. [b smq a] qua. [b smq b] qua. [c~ smq g]
+=2' bass 1# 4/4 qua rest [G g f] [e d c B]
+i0.3                 2a volta alla ottava bassa .  .  .
+|
+=1 qua. [c~ smq c~] qua. [b smq b] qua. [a smq b] qua. [c~ smq c~]
+=2 cro A qua [e d,] cro c d'
+|
+=1 qua. [b-fermata smq fn] qua. [e smq f#] qua. [g smq f#] qua. [g smq g]
+=2 min G qua [G A B c]
+/
+3 bars |1# 16 | 4 4 3.8 3.5 :|| 1 1.5 1 1 .9 .9 .9 1 .9 .9 .9 1 .9 .9 .9 1 |
+|
+=1 bass 1# qua. [f smq f] cro g qua. [g smq g] qua. [a smq a]
+=2' bass 1# qua [d B e d] [c B A d]
+|
+il0.5      5
+=1 qua. [g smq g(1] [g)1 g qua f] qua [g a] cro b-fermata
+=2' qua [G e c d] min G
+|
+=1 smq [b dsq d~ c~ smq d~ b] qua. [g smq a] qua. [b smq d~] qua. [b smq b]
+=2 min G qua [g fn e d,]
+/
+2 bars | 1# 4 3 4 4 | 1 1.5 1 1 1 .9 .9 1 .9 .9 .9 1 .9 .9 .9 1 |
+|
+=1 bass 1# qua. [c~ smq b] cro a(1 qua. [a)1 smq g] qua. [f smq e]
+=2' bass 1# cro c d G A
+|
+=1, smq [d-fermata dsq f e smq f d] rest qua [f smq g] \
+ qua. [a smq a] qua. [b smq c~]
+=2 min D qua [d' c B A]
+/
+2 bars | 1# .9 .9 .9 1 .9 .9 .9 1 .9 .9 .9 1.6 .9 .9 .9 1 | 16 |
+|
+=1 bass 1# qua. [d~ smq d~] qua. [g~ smq f~n] qua. [e~ smq e~] qua. [f~# smq e~]
+=2' bass 1# qua [G <Fn fn> <E e> <D d>] cro <C c> <D d>
+|
+il0.6        10
+=1 qua. [d~ smq d~] qua [e~ smq d~ c~] qua. [b-fermata smq b] qua. [g smq a]
+=2 cro g'
+=2 qua [G, B, c, d,] min G
+/
+3 bars |1# .9 .9 .9 1 1 1 1 1 1 1.6 1 1 .9 .9 .9 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1 1.5 1 1 \
+ | .8 .8 .8 .8 .9 .9 .9 1.5 1 1 1 1 1 1 1 1 |
+|
+=1 bass 1# qua. [b smq a] smq [b a b f] [g dsq a g smq a g] qua. [f smq f]
+=2 bass 1# qua [g f e d,] cro c# d#'
+|
+=1 qua. [e' smq B] qua. [e smq g] qua. [f smq d,(1] [d')1 d' qua c#]
+=1 qua e
+=2' qua rest [E G A] [B F G A]
+|
+=1 cro d-fermata qua. [d smq e] qua. [fn smq f] qua. [e smq d]
+=2 min D qua [B G c B]
+/
+3 bars |1# 4 4 4 3.5 | .9 .9 .9 1 .9 .9 .9 1.5 .9 .9 .9 1 .95 .95 .95 .95| 16 |
+|
+=1 bass 1# qua. [e smq f#] qua. [g smq g] qua. [a smq g] cro f
+=2 bass 1# cro A qua [e d,] [c A d' D]
+|
+il0.5        15
+=1 qua. [g-fermata smq f] qua. [e smq e] qua. [fn smq e] qua [d g]
+=2 min G qua [d' cn B G]
+|
+=1 qua. [g smq g] qua. [a smq a] qua. [b smq b] qua. [a smq g]
+=2 qua [c B A d'] [G E] cro A
+/
+3 bars |1# 16 | 16 | 16 ||
+|
+=1 bass 1# qua. [f-fermata smq f] qua. [g smq g] qua. [a smq a] qua. [g smq b]
+=2 bass 1# min D(2 qua [D)2 <D d'> <B_ B> <G_ G>]
+|
+=1 qua. [g smq g] qua. [e smq fn] qua. [g smq g] qua. [a smq a]
+=2' qua [<C c> <D d> E <D d>] [<C c> <B_ B> <A_ A> <D d>]
+|
+=1 qua. [d smq g(1] [g)1 g qua f] qua. [fn smq e] cro d-fermata
+=2 qua [<B_ B> <G_ G> <C_ C> <D_ D>] min <G_ G>
+
+7 systems 10 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 15/
+pagenum 
+innerhead Orgelbüchlein, J. S. Bach
+title 7: Der Tag, der ist so Freudenreich
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+3 bars |: 1# 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 |
+| 4/4 4.0
+=1, treble 1# 4/4 min <G g> cro <G g> <G g>
+=2' treble 1# 4/4 smq rest dsq [D C qua D(2] smq [D)2 C qua D] \
+ smq rest dsq [E D qua E] smq rest [E qua D]
+|
+=1, cro <A a> <B b> qua [<c c~> <B b>] cro <A a>
+=2' smq rest dsq [F E qua F(2] smq [F)2 F qua G] \
+ smq rest dsq [G F qua G(2] smq [G)2 G qua F]
+|
+=1, min <G g-fermata> <B b>
+=2' smq rest dsq [D C qua D(2] smq [D)2 D qua C] \
+ smq rest dsq [C B_ qua C] smq rest [D qua E]
+/
+2 bars |1# 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .9 .9 .9 .9 1 1 1.8 1.1 1.8 1.1 1.1 1.8 1.1 1.1 :||
+|
+=1, treble 1# cro <A a> qua. [<G g> smq <Fn fn>] cro <E e> <F# f#>
+=2  treble 1# smq rest dsq [D C qua D] smq rest [C qua B_] \
+ smq rest dsq [C B_ qua C] smq rest [B_ qua C]
+|
+il0.5        5
+=1 cro <G, g> <A, a> min g'-fermata
+=1 min blank cro G, rest,
+=2 smq rest dsq [B_ A_ qua B_] [E smq D C] \
+ dsq [B_ C smq D dsq C D smq E] smq [D dsq G F smq G D]
+/
+3 bars | 1# .7 .7 .7 .7 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | .8 .8 .8 .8 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 |
+|
+=1, treble 1# min <G g> cro <d d~> <d d~>
+=2  treble 1# cro rest smq rest [B_ qua D] \
+ smq rest dsq [G F qua G(2] smq [G)2 D qua G]
+|
+=1, cro <e e~> qua. [<d d~> smq <c c~>] cro <B b> <c# c~#>
+=2' smq rest dsq [G F qua G] smq rest [G qua F] \
+ smq rest dsq [D C# qua D] smq rest [A_ qua G_]
+|
+=1 min <d d~-fermata> d~'
+=1, min blank smq rest dsq [f e qua f] smq rest [g qua a]
+=2 cro rest qua [A_ smq D E] min d'
+=2, min blank smq rest, dsq [F E qua F] smq rest, [G qua A]
+/
+3 bars | 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .9 .9 .8 .8 .8 .8 .8 .8 .8 .8 1 1 .9 .9 |
+|
+=1' treble 1# cro d~ d~ e~ qua [d~ c~]
+=1, 1# smq rest dsq [b a qua b] smq rest [a qua b] \
+ smq rest dsq [a g qua a] smq rest [g qua a]
+=2' treble 1# cro d d e qua [d c]
+=2, 1# smq rest, dsq [B A qua B] smq rest, [A qua B] \
+ smq rest, dsq [A G qua A] smq rest, [G qua A]
+|
+il0.6         10
+=1' cro b a min g-fermata
+=1, smq rest dsq [g f qua g(2] smq [gr)2 gr qua fr] \
+ smq rest dsq [d c qua d] cro rest
+=2' cro B A min G-fermata
+=2, smq rest, dsq [G F qua G(2] smq [Gr)2 Gr qua Fr] \
+ smq rest,, dsq [D C qua D] smq rest, [B_ qua D]
+|
+=1 min <G, g> cro <E e'> <F, f>
+=2' smq rest dsq [D C qua D] cro rest rest smq rest [A_ qua B_]
+/
+3 bars | 1 1.8 .9 .9 1 1.9 .9 .9 1 1.8 .9 .9 .9 .9 1 1 \
+ | 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .9 .9 1 1 .9 .9 1 1.8 .9 .9 1 1 .9 .9 |
+|
+=1 treble 1# cro <G, g> <E e'> <D d'> <E e'>
+=2' treble 1# smq rest, dsq [B_ A_ qua B_] smq rest, [B_ qua C#] \
+ smq rest, dsq [A_ G_ qua A_] [B_ smq A_ G_]
+|
+=1' min <D d-fermata> cro g g
+=1, min blank smq rest dsq [d c qua d(2] smq [d)2 rest qua c]
+=2 smq [F_ dsq A_ G_ smq A_ F_] rest, [F_ qua A_] cro G G
+=2, min blank smq rest,, dsq [D C qua D(2] smq [D)2 G_ qua C]
+|
+=1' cro a b c~ a
+=1, smq rest dsq [c B qua c] qua rest e \
+ smq rest dsq [e d qua e(2] smq [e)2 e d c]
+=2' cro A B c A
+=2, smq rest,, dsq [C B_ qua C] smq rest,, [B_ qua E] \
+ smq rest, dsq [E D qua E(2] smq [E)2 E D C]
+/
+3 bars | 1 1.8 .9 .9 1 1.9 .8 .8 1 1.8 .9 .9 1 1 .9 .9 \
+ | 1 1.8 .8 .8 1 1 .8 .8 1 2.6 .8 .8 1 1 .8 .8 \
+ | 1 1.8 .8 .8 1 1.8 .9 .9 1 2.6 .9 .9 1 1 .8 .8 |
+|
+il0.5                    15
+=1' treble 1# min g-fermata blank
+=1, 1# smq rest dsq [B A qua B] cro rest cro <A, a> qua. [<G, g> smq <Fn, fn>]
+=2' treble 1# min G-fermata smq rest dsq [D C qua D] smq rest [Cn qua B_]
+=2, 1# smq rest,, dsq [B_ A_ qua B_] smq rest, [D qua C#] min blank
+|
+=1, cro <E e> <F# f#> <G g> <E e>
+=2' smq rest dsq [C B_ qua C(2] smq [C)2 B_ qua C] \
+ smq rest dsq [D C# qua D(2] smq [D)2 D qua C]
+|
+=1' min <D d-fermata> fn
+=1, min blank smq rest dsq [d c# qua d] smq rest [B qua d]
+=2' smq rest, dsq [A_ G_ qua A_] smq rest, [B_ qua C#] min Fn
+=2, min blank smq rest,, dsq [D C qua D] smq rest, [B_ qua D]
+/
+2 bars | 1 1.8 .9 .9 1 1.9 .9 .9 1 1.8 .9 .9 .9 .9 1 1 \
+ | 1 1.8 .9 .9 .9 .9 1 1 1 1.8 .9 .9 1 1 .9 .9 ||
+|
+=1' treble 1# cro e qua. [c smq d] cro e f#
+=1, 1# smq rest, dsq [c B qua c] cro rest, \
+ smq rest, dsq [c B qua c(2] smq [c)2 B qua c]
+=2' treble 1# cro E qua [C smq rest D] cro E F#
+=2, 1# smq rest,, dsq [C B_ qua C] smq rest,, [G_ qua C] \
+ smq rest,, dsq [C B_ qua C(2] smq [C)2 B_ qua C]
+|
+=1' cro g a min g-fermata
+=1, smq rest, dsq [B A qua B] qua [e smq d c] min B
+=2' cro G A min G-fermata
+=2, smq rest,, dsq [B_ A_ qua B_] qua [E smq D C] \
+ smq [B_ dsq C B_ qua C(2] smq [C)2 C qua B_]
+
+
+7 systems 7 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 9/
+pagenum 
+innerhead Orgelbüchlein, J. S. Bach
+title 10: In Dulci Jubilo
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+6 bars |3# 5 | 9 | 9 | 7 | 9 | 9 |
+| 3/2 1.6
+midi pause 3.5
+=1 bass 3# 3/2 smb. rest
+=2 bass 3# 3/2 smb. rest
+|
+=1 qua3 [a g-I3 f] [e f-I3 d] [c d'-I3 B]
+=2 min A A A
+|
+=1 qua3 rest [b a] [g a f] [e f d]
+=2 smb c cro d' rest
+|
+=1 cro a-. a-. a-. a-. a-. a-.
+=2 smb e min f
+|
+=1 qua3 [c~ e~ d~] [c~ d~ b] [a b g]
+il0.3    5
+=2 smb e min rest
+|
+=1 qua3 [a g f] [e f d,] [c d' B]
+=2 min A A A
+/
+5 bars |3# 9 | 7 | 9 | 9 | 9 |
+|
+=1 bass 3# qua3 rest [b a] [g a f] [e f d]
+=2 bass 3# smb c cro d' rest
+|
+=1 cro a a a a a a
+=2 smb e min f
+|
+=1 qua3 [c~ e~ d~] [c~ d~ b] [a b g]
+=2 smb e min rest
+|
+=1 qua3 [a c~ b] [a b c~] [d~ c~ d~]
+il0.4    10
+=2 smb e min f
+|
+=1 qua3 [a e~ d~] [c~ d~ b] [a b g]
+=2 smb e min d
+/
+5 bars |3# 9 | 9 | 9 | 9 | 9 |
+|
+=1 bass 3# qua3 [a g f] [e' f' d'] cro blank
+=1      3# min blank cro3 blank blank d, cro e' e#'
+=2 bass 3# min. c cro rest c B
+|
+=1 qua3 [f b a] [g a f] [e f d]
+=2 smb A min rest
+|
+=1 cro c c smb blank
+=1 cro blank qua3 [d' c d'] [e d, e]
+=2 min A B B
+|
+il0.4    15
+=1 qua3 rest [e a(1] [a)1 b a] [g f g]
+=2 smb c min B
+|
+=1 qua3 [a b g] [f g f] [e f d]
+=2 smb A min B
+/
+5 bars |3# 7 | 9 | 9 | 9 | 9 |
+|
+=1 bass 3# cro rest e A min a cro g
+=2 bass 3# smb c min rest
+|
+=1 qua3 [a rest' g] [a b c~] [d~ c~ d~]
+=2 min e e f
+|
+=1 qua3 [a e~ d~] [c~ d~ b] [a b g]
+=2 smb e min d'
+|
+il0.4    20
+=1 qua3 [a g f] [e' f' d'] cro blank
+=1 min blank cro3 blank blank d, cro e' e#'
+=2 min. c cro rest c B
+|
+=1 qua3 [f b a] [g a f] [e f d]
+=2 min A smb rest
+/
+5 bars |3# 9 | 9 | 1 1 1 1 1 1 1 1.5 1 | 1 1 1.5 1 1 1 1 1.5 1 | 9 |
+|
+=1 bass 3# cro c c smb blank
+=1      3# cro blank qua3 [d' c d'] [e d, e]
+=2 bass 3# min A B B
+|
+=1 qua3 rest [e a(1] [a)1 b a] [g f g]
+=2 smb c min B
+|
+=1 qua3 [a b g] [f g f] [e f d#]
+=2 smb A min B
+|
+il0.4    25
+=1 qua3 [e f e] [dn e c,] [B c An]
+=2 min c smb rest
+|
+=1 qua3 [E e' d'] [c d' B] [A B G]
+=2 smb. rest
+/
+5 bars |3# 9 | 9 | 7 | 9 | 1 1 1 1 1.5 1 .9 .9 .9 |
+|
+=1 bass 3# qua3 rest [f e] [d' e' c] [B c A]
+=2 bass 3# smb <F_ F> min <F_ F>
+|
+=1 qua3 rest [g f] [e f d] [c d' B]
+=2 smb <G_ G> min <G_ G>
+|
+=1 min rest e a(1
+=2 min. <A_ A> cro <B_ B> <C c> <D d'>
+|
+il0.6        30
+=1 qua3 [a)1 b a] [g a f] cro blank
+=1 smb blank min g(1
+=2 smb. <E e>
+|
+=1 qua3 [g)1 a g] [f g e#] cro blank
+=1 smb blank min f(1
+=2 smb <C c> min <C c>
+/
+6 bars |3# 1 1 1.5 1 1.5 1 .9 .9 .9 | 1 1.5 1 1 1 1 1 1 1 | 6 | 9 | 7 | 5 ||
+|
+=1 bass 3# qua3 [f)1 g f] [e# f d#] cro blank
+=1 smb blank cro e c
+=2 bass 3# smb <B_ B> min <B_ B>
+|
+=1 qua3 [f a gn] [f g e] [d, e c,]
+=2 smb. <A_ A(1>
+|
+=1 smb. d,(1
+=2 smb. <A_ A)1(1>
+|
+=1 qua3 [d,)1 e d,] [c d' B] [A B G]
+=2 smb A)1 min rest
+=2 smb. A_
+|
+=1 min. rest cro f' e' d'
+=1 smb. A(2
+=2 min. rest cro F E D
+=2 smb. A_
+|
+=1 smb. e-fermata
+=1 smb. A)2
+=2 smb. E-fermata
+=2 smb. A_
+
+7 systems 9 /18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18/18-24-18 9/
+pagenum
+innerhead Orgelbüchlein, J. S. Bach
+title 10: In Dulci Jubilo
+leftfoot Arranged for Piano Four Hands by Peter J Billam.
+/
+5 bars |3# 9 | 9 | 7 | 9 | 9 |
+| 3/2 1.6
+=1 treble 3# 3/2 min <A, a> <A, a> <A, a>
+=2 treble 3# 3/2 qua3 rest [G-I3 F] [E F-I3 D] [C D-I3 B_]
+|
+=1 smb <c c~> min <d d~>
+=2 qua3 rest [B' A'] [G A F] [E F D]
+|
+=1 smb <e e~> min <f f~>
+=2 cro A-., A-., A-., A-., A-., A-., 
+|
+=1 smb e~ min rest
+=1 qua3 rest blank cro3 e(1 blank min e)1 blank
+=2 qua3 [c rest' d] [c d B,] [A B' G] 
+|
+il0.5 .17 5
+=1 min a <A, a> <A, a>
+=2 qua3 [A G F] [E F D] [C D B_]
+/
+5 bars |3# 9 | 7 | 9 | 9 | 9 |
+|
+=1 treble 3# smb <c c~> min <d d~>
+=2 treble 3# qua3 rest [B' A'] [G A F] [E F D]
+|
+=1 smb <e e~> min <f f~>
+=2 cro A A A A A A 
+|
+=1 smb e~ min rest
+=1 qua3 rest blank cro3 e(1 blank min e)1 blank
+=2 qua3 [c rest' d] [c d B,] [A B' G] 
+|
+=1 smb <e e~> min <f f~>
+=2 qua3 [A c' B'] [A B' c'] [d c d] 
+|
+=1 smb e~ min <d d~>
+=1 qua3 rest blank cro3 e(1 blank min e)1 blank
+il0.4    10
+=2 qua3 [c rest' d] [c d B,] [A B' G]
+/
+5 bars |3# 9 | 9 | 9 | 9 | 9 |
+|
+=1 treble 3# min. <c c~> cro <d d~> <c c~> <B, b>
+=2 treble 3# qua3 [A G F] [E F D] cro blank 
+=2        3# smb blank cro E E# 
+|
+=1 min a' smb rest
+=1 cro A, rest smb blank
+=2 qua3 [F B' A] [G A F] [E F D] 
+|
+=1 min <A, a> <B, b> <B, b>
+=2 cro C C smb blank 
+=2 cro blank qua3 [D C D] [E D E] 
+|
+=1 min <c c~> smb b
+=1 min blank qua3 rest blank cro3 B,(1 blank min B)1
+=2 qua3 [A_ E A(2] [A)2 rest A] [G F G] 
+|
+il0.4       15
+=1 smb <A a> min <B, b>
+=2 qua3 rest [B' G] [F G F] [E F D] 
+/
+5 bars |3# 7 | 9 | 9 | 9 | 9 |
+|
+=1 treble 3# smb <c c~> min rest
+=2 treble 3# cro C E A_ min A cro G
+|
+=1 min <e e~> <e e~> <f f~>
+=2 qua3 [A E G] [A B' c'] [d c d] 
+|
+=1 smb e~ min <d d~>
+=1 qua3 rest blank cro3 e(1 blank min e)1 blank
+=2 qua3 [c rest' d] [c d B,] [A B' G]
+|
+=1 min. <c c~> cro <d d~> <c c~> <B, b>
+=2 qua3 [A G F] [E F D] cro blank 
+=2 smb blank cro E E# 
+|
+il0.4       20
+=1 min a' smb rest
+=1 cro A, rest smb blank
+=2 qua3 [F B' A] [G A F] [E F D] 
+/
+5 bars |3# 9 | 9 | 9 | 9 | 9 |
+|
+=1 treble 3# min <A, a> <B b> <B b>
+=2 treble 3# cro C C smb blank 
+=2        3# cro blank qua3 [D C D] [E D E] 
+|
+=1 smb <c c~> min <B, b>
+=2 qua3 [A_ E A(2] [A)2 B' A] [G F G] 
+|
+=1 smb <A a> min <B, b>
+=2 qua3 rest [B' G] [F G F] [E F D] 
+|
+=1 min <c c~> smb rest
+=2 qua3 [C D E] [F E F] [G F G] 
+|
+il0.5       25
+=1 smb <F f> min <F, f> 
+=2 cro3 A_# qua3 A_ cro3 B_ qua3 C [D E C] 
+/
+6 bars |3# 9 | 4.1 4.5 | 3 3 2.6 | 9 | 9 | .9 .9 .9 1 1 1 1.5 1 1 |
+|
+=1 treble 3# smb <G g> min <G, g> 
+=2 treble 3# cro3 D qua3 B_ [E F D] [C D B_]
+|
+=1 min. <A, a> cro <B, b> <c c~> <d d~>
+=2 cro C C F G A B'(2
+|
+=1 smb. <e e~>
+=2 cro3 B')2 qua3 A [G A F] cro blank
+=2 smb blank min E(2
+|
+=1 smb c~ min <c c~>
+=1 qua3 rest blank cro3 c(1 blank min c)1 blank
+=2 qua3 [E)2 rest B'] [A B' G] [F G E]
+|
+il0.4       30
+=1 smb <B b> min <B, b>
+=2 cro3 D qua3 B_ [E F D] [C D B_]
+|
+=1 min <A,(1 a> smb blank
+=1 cro blank qua3 [A,)1 B, c] [d en f]
+=2 cro E E# F G min A
+/
+6 bars |3# .9 .9 1 1 1 1 1.5 1.5 1| .9 .9 .9 1 1.5 1 1 1 1 \
+ | 1 1.5 1 1 1 1 1 1 1| 5| 10| 5||
+|
+=1 treble 3# min G(2 smb blank
+=1        3# cro blank qua3 [G)2 A B'] [c d# e#]
+=2 treble 3# min D C G
+|
+=1 min f smb rest
+=2 min F smb blank
+=2 cro blank qua3 rest [A Gn] [F G E]
+|
+=1 qua3 rest [a gn] [f g e] [d e c]
+=2 cro F rest rest Gn F E
+|
+=1 smb. d(1
+=2 smb. F(2
+|
+=1 qua3 [d)1 <e e~> <d d~>] [<c c~> <d d~> <B, b>] [<A, a> <B, b> <G, g>]
+=2 cro F)2 F E D C B_
+|
+=1 smb. <A a-fermata>
+=2 smb. C-fermata

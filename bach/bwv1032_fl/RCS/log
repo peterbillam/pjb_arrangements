@@ -1,0 +1,13 @@
+20000928 210057 score pjb Roughly transposed down from Recorder, back to Amaj
+20000929 093526 score pjb stems now OK in first movement of score
+20000929 151734 score pjb stems of Largo score
+20000929 203357 score pjb most accidentals fixed in first 2 mvts
+20000930 095907 score pjb first 2 pages of Allegro more or less OK
+20001002 142217 score pjb stems and notes roughly OK to end of score
+20001002 193513 score pjb roughly OK to end of part too
+20010427 125834 Makefile pjb Makefile for bwv1032_fl
+20010427 143633 bwv1032_fl pjb score renamed; minor misprint fixes
+20010427 144546 Makefile pjb go dist: all now default target
+20050609 194814 bwv1032_fl pjb missing a# in 53, some spacing
+20060623 214944 bwv1032_fl pjb fixed three misprints
+20081109 221012 bwv1032_fl pjb bring muscript syntax up to date

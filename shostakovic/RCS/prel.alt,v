@@ -1,0 +1,260 @@
+head	1.3;
+access;
+symbols;
+locks
+	peter:1.3;
+comment	@# @;
+
+
+1.3
+date	95.06.04.11.50.38;	author peter;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	95.06.04.11.13.18;	author peter;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	95.06.04.10.31.45;	author peter;	state Exp;
+branches;
+next	;
+
+
+desc
+@Shostakovic op87 prelude 1: alto recorder
+@
+
+
+1.3
+log
+@centered title better
+@
+text
+@11 systems / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 /
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 3 |
+|
+is1.2 Shostakovic Preludes and Fugues op87
+b0.45 Moderato
+rs0.45                            (mm 92)
+=1 treble 3/4 cro g cro. g qua g
+I0.05     p
+i0.05          dolce
+|
+=1 cro g min g
+|
+bl0.9         Prelude 1
+=1 cro g cro. g qua g
+|
+=1 cro g min g
+|
+b1.1                         Alto Recorders
+il0.2 5
+=1 cro g cro. g qua g
+i0.05          cresc . . .
+|
+=1 cro g min g
+/
+6 bars | 4.4 | 3.4 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro eb cro. f qua f#
+i0.05     dim . . .
+|
+=1 cro fn min f
+|
+=1 cro e cro. g qua g
+|
+il0.35 10
+=1 cro g min g
+|
+=1 cro g cro. g qua g
+|
+=1 cro g min g
+i0.05  cresc . . .
+/
+6 bars | 4.4 | 3 | 2.5 | 1.15 1.35 1.15 1.35 | 0.5 0.5 1 1 | 0.33 0.33 0.33 1 1 |
+|
+=1 treble cro g cro. g qua g
+I0.05     pp
+|
+=1 cro g min g
+i0.05  dim . . .
+|
+il0.2 15
+=1 min. rest
+|
+=1 cro. db rest
+|
+=1 cro rest c B
+| 
+=1 cro rest min B
+/
+6 bars | 4 | 3 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro (B, d') cro. (B, d') qua (B, d')
+|
+il0.2 20
+=1 cro A min A
+|
+=1 qua A rest  cro. (A, c') qua (A, c')
+|
+=1 cro (B, d') min (B, d')
+|
+=1 cro A B G
+|
+=1 cro G min G
+/
+6 bars | 4 | 3 | 4 | 3 | 4 | 3 |
+|
+il0.4    25
+=1 treble min rest cro c
+|
+=1 cro db min db
+|
+=1 cro db cro. db qua c
+I0.05  pp
+i0.05       subito
+|
+=1 cro db min Bb
+|
+=1 cro Bb cro. Bb qua Bb
+|
+il0.2 30
+=1 cro A min A
+/
+6 bars | 2.5 | 2.2 | 4 | 4 | 4.1 | 3.2 |
+|
+=1 treble min. rest
+|
+=1 min. rest
+|
+=1 cro rest cro. d~b qua c~
+|
+=1 cro d~b min g
+|
+il0.3 35
+=1 cro g cro. g qua g
+|
+=1 cro g min g
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro g cro. g qua g
+|
+=1 cro g min g
+|
+=1 cro g cro. g qua g
+|
+il0.3 40
+=1 cro g min g
+i0.05  cresc . . .
+|
+=1 cro eb cro. f qua f#
+i0.05    dim . . .
+|
+=1 cro f min f
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro e cro. e qua e
+I0.01      pp
+|
+=1 cro f min f
+|
+il0.4 45
+=1 cro g cro. a qua bb
+i0.05     cresc . . .
+|
+=1 cro b min b
+|
+=1 cro bb cro. bb qua bb
+I0.05    mf
+|
+=1 cro a min a
+i0.05     cresc . . .
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 4 |
+|
+=1 treble cro a min a
+|
+il0.5 50
+=1 cro gn min g
+|
+=1 cro d~ min d~
+|
+=1 min. c~
+I0.05    f
+|
+=1 cro b bb a
+|
+=1 cro a cro. a qua a
+i0.05            dim . . .
+/
+6 bars | 3.5 | 4 | 3 | 1.4 1.1 1 | 3 | 3 |
+|
+il0.4 55
+=1 treble cro ab min ab
+|
+=1 cro ab cro. ab qua ab
+|
+=1 cro g min g
+|
+=1 qua rest Bn e g cro rest
+|
+=1 cro rest min f
+|
+il0.3 60
+=1 cro rest min g
+/
+7 bars | 4.4 | 3 | 4 | 3 | 4 | 4 | 3 ||
+|
+=1 treble cro e cro. e qua e
+I0.05     pp
+is1.0 Arranged by Peter Billam, 1995
+|
+=1 cro e min e
+|
+=1 cro e cro. e qua e
+|
+=1 cro e min e
+|
+il0.2 65
+=1 cro e min e
+|
+=1 cro e min e
+|
+=1 min. e
+i0.05        attacca
+@
+
+
+1.2
+log
+@pp in 43
+@
+text
+@d14 1
+a14 1
+bl0.9      Prelude 1
+@
+
+
+1.1
+log
+@spacing in 58, line in 33, 10 upwards
+@
+text
+@d6 2
+a7 2
+b0.5 Moderato
+rs0.3                            (mm 92)
+d14 1
+a14 1
+bl0.9    Prelude 1
+d19 1
+a19 1
+b1.1                      Alto Recorders
+d128 1
+@

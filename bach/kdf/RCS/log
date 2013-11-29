@@ -1,0 +1,185 @@
+19980826 173143 tovey pjb D.F.Tovey completion of final Contrapunctus
+19980826 173254 Makefile pjb makefile for Die Kunst der Fuge
+19980826 174414 tovey pjb add bars 296,296
+19980827 142350 tovey pjb add bars through to 307
+19980828 083458 tovey pjb add to end (317) and shift to 4 bars/line
+19980828 112854 tovey pjb add back to 276
+19980828 160539 tovey pjb back to 268
+19980831 135742 tovey pjb add back to bar 260
+19980901 153224 tovey pjb add back to 248
+19980902 131508 tovey pjb added back to 244, in 1.7 format
+19980903 134624 tovey pjb add back to 239, ie all of Toveys bit
+19980904 145247 tovey pjb fix bugs, add back to 232
+19980909 135548 tovey pjb add back to 222
+19980914 162208 tovey pjb add back to 214
+19980922 145000 tovey pjb added back to 194, the BACH theme entry
+19980923 142421 tovey pjb add back to 178
+19980924 102010 Makefile pjb 1.7 is now the default version of muscript
+19980924 105500 tovey pjb added back to 154
+19980925 090015 tovey pjb add bars 1 to 33, first page
+19980925 113837 tovey pjb added forward to bar 63, i.e. 2nd page
+19980926 085127 tovey pjb added up to bar 93, 3rd page
+19980928 113051 tovey pjb added up to bar 121, 4th page, 2nd fugue subject
+19980928 145719 tovey pjb all bars typed in up to 153 ! needs pagination
+19980929 102625 tovey pjb about 30 note misprints fixed
+19980929 144356 tovey pjb shift bars among lines
+19980929 170304 tovey pjb shift systems between pages
+19980930 120241 tovey pjb mostly spacing adjustments
+19980930 125837 Makefile pjb added SATB recorder parts
+19980930 141413 c14_bass pjb Bass part of c14; notes OK, needs much spacing
+19981001 134921 c14_bass pjb squeezed to 6 or 7 bars per line
+19981001 182436 c14_bass pjb more shifting - but still 12 bars too many
+19981002 083908 c14_bass pjb on 4 pages now; still needs some spacing
+19981002 092528 c14_soprano pjb Soprano part, Contrapunctus 14
+19981002 153804 Makefile pjb add p2.c14_kbd
+19981002 154310 title.c14_kbd pjb Title page of Cont-14 for Kbd
+19981002 155728 p2.c14_kbd pjb page 2 blurb for c14 on Kbd
+19981002 161042 Makefile pjb add a4 or us to BLURB
+19981002 162244 Makefile pjb genericise p2 and add p3
+19981002 162326 p2 pjb generic page 2 blurb for kbd, str4tet etc
+19981002 162735 p3 pjb page 3 blurb
+19981003 152053 p3 pjb add judgement of Tovey v Bach
+19981003 152125 p2 pjb first para moved to next page
+19981003 152231 Makefile pjb add p3 to conditions for all
+19981003 152409 Makefile pjb add p3.a4 and p3.us to final cat, too
+19981005 131808 p2 pjb smoothed
+19981005 131827 p3 pjb smoothed, correct bar numbers
+19981005 133700 c14_kbd pjb used to be tovey; keyboard of Contrapunctus 14
+19981005 140158 title.c14_kbd pjb add url
+19981005 145022 p3 pjb polishing
+19981007 092616 p2 pjb filled out, detailed bar 239 as left by bach
+19981007 092731 p3 pjb spacing
+19981007 121516 p2 pjb use OF the notes
+19981007 122529 title.c14_kbd pjb Art of Fugue -> Kunst Der Fuge
+19981008 094333 c14_soprano pjb squeezed 239 bars onto first 3 pages
+19981008 115546 c14_kbd pjb tie bar 260 min A to next bar
+19981008 123205 c14_soprano pjb squeezed to 4 pages; needs spacing adjustment
+19981012 080947 c14_kbd pjb terminate tie in alto bars 28-29
+19981012 083550 c14_alto pjb Alto part of Contrapunctus14
+19981012 125905 c14_alto pjb squeeze up to bar 125
+19981012 161154 c14_alto pjb having trouble squeezing last page enough
+19981012 161507 c14_kbd pjb resqueeze bars 254,258
+19981014 054728 c14_alto pjb squeezed onto four pages
+19981014 092711 c14_tenor pjb Tenor part of Contrapunctus 14
+19981014 130822 c14_kbd pjb tenor bar 276 last qua c~ not c
+19981014 132112 c14_tenor pjb almost squeezed onto last page ...
+19981014 180358 c14_tenor pjb squeezed to four pages
+19981015 082600 c14_soprano pjb lots of resqueezing; still to tight around 290
+19981015 093914 c14_soprano pjb relieve bars 290-293
+19981015 094336 c14_tenor pjb bar 264 is smb rest
+19981015 145202 c14_tenor pjb 8vab and moved to treble clef
+19981015 151708 c14_tenor pjb restored quaver beams to sanity after the 8vab
+19981016 134815 c14_kbd pjb bass tie bar 137 a to bar 138
+19981016 160754 c14_bass pjb much resqueezing
+19981019 145138 c14_soprano pjb squeezed one bar from page 4 to page 2
+19981019 153908 c14_alto pjb spacing adjustments
+19981019 161517 c14_tenor pjb lots of spacing adjustments
+19981019 165838 c14_bass pjb resqueezed 2 bars from last page to first
+19981022 081811 c14_soprano pjb one bar shifted on p4, minor spacing
+19981022 082940 c14_alto pjb minor spacing
+19981022 085436 c14_tenor pjb minor spacing adjustments
+19981022 091701 c14_bass pjb one bar shift on p4, minor spacing adjustments
+19990702 224346 c14_bass pjb 2 spurious bars 66-67 cut out
+19990702 224634 c14_soprano pjb bar 182 cro. f not g
+19990702 224839 c14_bass pjb bar 151 smb g not rest
+19990702 225217 c14_kbd pjb bar 151 bass g, bar 182 sop cro. f
+19990703 101522 c14_alto pjb 8va, for alto recorder
+20010124 073915 c14_rec pjb Combined SATB parts of c14
+20010124 173324 Makefile pjb added c14_rec and c14_str
+20010124 173412 c14_str pjb Parts for Vln, Vla, 2 Cellos
+20010218 152736 Makefile pjb uses a42us etc, does free offerings
+20051106 063605 p2 pjb incorrect "next day" claim removed
+20051106 191721 c14_kbd pjb one tie in bar 175
+20051106 191815 c14_rec pjb tie in bar 175, slurs repositioned
+20051106 191828 c14_str pjb tie in bar 175, slurs repositioned
+20080915 100756 c14_kbd pjb update muscript syntax
+20080915 100807 c14_rec pjb update muscript syntax
+20080915 100818 c14_str pjb update muscript syntax
+20081216 211709 c1_kbd pjb Contrapunctus 1 for keyboard
+20081217 210233 c4_kbd pjb Contrapunctus IV for keyboard
+20081228 180329 c4_kbd pjb squeezed onto 6 pages of 5 systems
+20081231 202125 c4_kbd pjb fingered to bar 58
+20081231 202256 Makefile pjb use title_cNNN_kbd for titles of Contrapuncti <=13
+20090103 170049 c4_kbd pjb put in fingering up to bar 80
+20090107 185039 c4_kbd pjb fingered up to end; needs spacing
+20090107 214827 c4_kbd pjb complete horizopntal spacing
+20090110 132552 c9_kbd pjb Contrapunctus 9, for keyboard
+20090111 121059 c9_kbd pjb typed in up to bar 112
+20090112 204527 c3_kbd pjb Contrapunctus 3, for Keyboard
+20090113 111923 c3_kbd pjb spread out onto 4 pages
+20090113 151219 c3_kbd pjb horizontal spacing ok; just needs fingering
+20090114 090120 c5_kbd pjb Contrapunctus 5, for keyboard
+20090114 142017 c5_kbd pjb added up to bar 70
+20090114 160919 c5_kbd pjb typed notes in up to end
+20090116 130010 c7_kbd pjb Contrapunctus 7, for keyboard
+20090116 165033 c7_kbd pjb typed in up to bar 45, 3/4 distance
+20090116 185559 c7_kbd pjb up to bar 55
+20090118 113956 c4_kbd pjb several fingerings per page, 1 wrong note in 53
+20090118 120211 c8_kbd pjb Contrapunctus 8, for keyboard
+20090118 155113 c8_kbd pjb up to bar 83
+20090118 184603 c8_kbd pjb up to bar 93
+20090120 210251 c8_kbd pjb up to bar 120
+20090122 210651 c8_kbd pjb up to bar 141
+20090123 213152 c8_kbd pjb up to bar 158
+20090124 080139 c8_kbd pjb typed in up to bar 188, the end :-)
+20090124 083042 c8_kbd pjb some missing leg90's
+20090124 170431 c10_kbd pjb Contrapunctus 10 alla Decima, for keyboard
+20090124 173002 c10_kbd pjb up to bar 16
+20090124 190348 c10_kbd pjb up to bar 31
+20090124 203820 c10_kbd pjb up to bar 48
+20090125 201510 c10_kbd pjb up to bar 60, half-way
+20090126 113336 c10_kbd pjb up to bar 72
+20090126 131643 c10_kbd pjb up to bar 80, 2/3 of the way
+20090126 204220 c10_kbd pjb up to bar 98
+20090127 132137 c10_kbd pjb up to bar 120, the end
+20090716 210925 c11_kbd pjb Contrapunctus 11 for kbd, up to bar 52
+20090717 085742 c11_kbd pjb up to 60 bars
+20090717 105626 c11_kbd pjb up to bar 71
+20090717 120004 c11_kbd pjb up to bar 81
+20090718 135052 c11_kbd pjb up to bar 93
+20090718 160222 c11_kbd pjb up to bar 100
+20090718 194049 c11_kbd pjb up to bar 113
+20090719 111246 c11_kbd pjb up to bar 121
+20090719 130916 c11_kbd pjb up to bar 135
+20090719 153412 c11_kbd pjb up to bar 141
+20090719 174959 c11_kbd pjb up to bar 152
+20090720 105015 c11_kbd pjb up to 162 bars
+20090720 131251 c11_kbd pjb up to bar 173
+20090720 143529 c11_kbd pjb typed in up to bar 184, the end :-)
+20090915 195644 c4_kbd pjb Fayre's fingering suggestions rolled in
+20090916 101326 c4_kbd pjb more fingering changes fron Fayre
+20090921 212222 c4_kbd pjb clarify fingering in 132
+20090921 212341 c4_kbd pjb clarify fingering in 132
+20090924 211023 c1_kbd pjb bar 36-37 tie fixed; some fingering fixes
+20090928 114100 c1_kbd pjb tiny fingering adjustments in 75,15,57
+20091009 112345 c9_kbd pjb fingered most of page one
+20091111 132519 c9_kbd pjb more fingering, mostly to 2nd page
+20091117 163904 c9_kbd pjb fingered and spaced first two pages
+20091117 204348 c9_kbd pjb spacing up to end
+20091118 214521 c9_kbd pjb finger up to 103
+20091119 173800 c9_kbd pjb fingered up to end ?
+20091205 174654 c9_kbd pjb lots of fingering changes, esp bar 80
+20091211 204131 c11_kbd pjb layed out on 9 pages, spaced to 110
+20091212 143123 c11_kbd pjb spaced through to end
+20100101 120810 c11_kbd pjb fingered up to bar 43, end of 2nd page
+20100102 201417 c11_kbd pjb fingered to bar 55
+20100103 115749 c11_kbd pjb fingered up to bar 63, end of 3rd page
+20100103 155336 c11_kbd pjb introduce 1 systems-line per page
+20100327 035816 kdf_canons pjb The Canons of the KDF
+20100327 094036 kdf_canons pjb two pages, 52 bars
+20100327 133525 kdf_canons pjb three pages, 78 bars
+20100327 140431 kdf_canons pjb finished canon in hypodiapason
+20100328 113527 kdf_canons pjb 24 bars of Canon alla Decima
+20100407 183538 c11_kbd pjb fingered up to about bar 86
+20100408 203911 Makefile pjb uses upload for c11_kbd
+20100408 204013 c11_kbd pjb fingered up to 89 and proofread
+20100410 201401 c11_kbd pjb sketched fingering up to about 100
+20100411 202957 c11_kbd pjb filled out more fingering to 104
+20100504 212141 c11_kbd pjb finger a few more bars
+20100506 085801 c11_kbd pjb fingered to about 116
+20100506 193456 c11_kbd pjb fingered up to about 136
+20100507 200823 c11_kbd pjb up to about 150
+20100509 060720 c11_kbd pjb fingered to bar 159
+20100509 201816 c11_kbd pjb partial last page also
+20100510 210715 c11_kbd pjb proofread, many small changes
+20100511 110135 c11_kbd pjb published

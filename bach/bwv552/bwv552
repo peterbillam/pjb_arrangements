@@ -1,0 +1,952 @@
+5 systems 10/18-30-18-20-18 /18-30-18-20-18 \
+ /18-30-18-20-18 / 18-27-18-30-18 / 18-20-18-30-18 5/
+pagenum 3
+innerhead J. S. Bach,  BWV 552
+title Fuga a 5 pro Organo pleno
+leftfoot Typeset 2013 by Peter J Billam.
+# good: Jeux 0, 6, 17, 20, 22, 26, 38, 42, 45, 48, 49
+#midi channel 0 bank 6,6 patch 49 pan 90 # Prin.(pos.)8+2
+#midi channel 1 bank 6,6 patch 48 pan 10 # Prin.(pos.)8+4+1
+#midi channel 0 bank 6,6 patch 20 pan 90 # Gamba8 Flute4
+#midi channel 1 bank 6,6 patch 22 pan 10 # Gamba8 Prestant4
+# for 4-handed piano...
+midi channel 0 bank 0,0 patch 82 pan 80
+midi channel 1 bank 0,0 patch 82 pan 20
+/
+4 bars | 3b 4/2 32 | 32 | 32 | 32 |
+| 2/2 .52 .49 .50 .49 .52 .49 .50 .49
+=1' treble    3b 4/2 cha0 vol100  leg98 2 blank 1 rest
+=1, treble    3b 4/2 cha0 vol100 leg98 1 B_ 2 G_ C
+=2' bass      3b 4/2 cha1 vol100 leg98 2 blank 1 rest
+=2, bass      3b 4/2 cha1 leg98 2 blank 1 rest
+=3  bass8vab  3b 4/2 cha1 leg98 2 blank 1 rest
+|
+=1' 2 blank 1 rest
+=1, 2 leg80 B_ leg98 1 E 2 D
+=2' 2 blank 1 rest
+=3, 2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 4 E F G A leg80 B leg98 B_ E F
+=2' 2 blank 1 rest'
+=2, 1 e 2 d g
+=3  2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 4 G F E D leg80 E C leg98 F E
+=2' 2 blank
+=2, 2 leg80 e leg98 1 b 2 an
+=3  2 blank 1 rest
+/
+4 bars | 3b 32 | 32 | 32 | 32 |
+|
+il0.7 .03 5
+=1' 2 blank 1 rest'
+=1, 2 D 1 B 2 A(2
+=2' 2 blank
+=2, 4 b c~ d~ e~ leg80 f~ leg98 f c~ d~
+=3  2 blank 1 rest
+|
+=1' 2 blank 1 rest
+=1, 2 A)2 G(2 4 leg80 G)2 C leg98 F E
+=2' 2 blank
+=2, 4 leg80 e~ leg98 e f g 1 a(2
+=3  2 blank 1 rest
+|
+=1' 1 B 2 G c
+=1, 4 D B_ C D 2 E A
+=2' 2 blank
+=2, 4 a)2 g a b c~ b c~ d~]
+=3 2 blank rest
+|
+=1' 2 leg80 B leg98 1 e 2 d
+=1, 1 G F
+=2' 2 blank
+=2, 4 e~ d~ c~ b leg80 a f leg98 b a
+=3 2 blank rest
+/
+4 bars | 3b 32 | 32 | 32 | 32 |
+|
+=1' 2 e B(1 4 B)1 A G A
+=1, 1 E 2 D Gr
+#P =2' 4 b a b c~ 2 d~ b(1
+#M =2' 4 b a b c~ 2 blank b(1
+=2, 4 g f g a leg80 b B leg98 e f
+=3 2 blank rest
+|
+il0.7 .03 10
+=1' 4 B c 2 d 1 c
+=1, 2 leg80 E leg98 1 B 2 An
+=2' 4 b)1 a g f 2 g fr(1
+#P =2, 4 g f e d leg80 e c leg98 f e
+#M =2, 4 g f e d leg80 e c leg98 blank e
+=3 2 blank rest
+|
+=1' 4 B c d e 2 f 4 c d
+=1, 1 Br(2 2 B)2 Ab(2
+=2' 1 f)1(1 4 f)1 g a b
+=2, 4 d c B c d e 2 f
+=3 2 blank rest
+|
+=1' 4 e f 2 g(1 2. g)1 4 f
+=1, 2 A)2 4 G A B c 2 d
+=2' 2 c~ b e~ d~
+=2, 4 c d e f g a 2 b(2
+=3 2 blank rest
+/
+4 bars | 3b 32 | 32 | 32 | 32 |
+|
+=1' 4 e c f e leg80 d B leg98 2 e(1
+=1, 2 G F(2 F)2 G
+=2' 1 c~ b(1
+=2, 2 br)2 a(2 ar)2 4 g e
+=3 2 blank 1 rest
+|
+=1' 2 e)1 d 1 e
+=1, 4 F E 2 F G 4 F E
+=2' 1 b)1(1 2 b)1 c~
+=2, 2. f 4 B e f g an
+=3' leg105 vol120 1 B 2 G c
+|
+il0.7 15
+=1' 4 rest' b a g leg80 a f leg98 b a
+=1, 2 D E 1 F
+=2' 1 b 2 c~ b(1
+=2, 2 f rest 1 rest,
+=3 2 leg98 B 1 leg105 e 2 d
+|
+=1' 2 g 1 a 2 g(1
+=1, 4 leg80 E leg98 e d c leg80 d B leg98 e d
+=2' 1 b)1 1 rest treble
+=3 2 leg80 e leg90 f leg98 B c
+/
+4 bars | 3b 32 | 32 | 32 | 32 |
+|
+=1' 2 g)1 f(1 4 f)1 a g f
+=1, 1 c d(2
+=2' 4 rest B A G leg80 A F leg98 B A
+=3 1 A B
+|
+=1' 1 e(1 2 e)1 d(1
+=1, 2 dr)2 4 c B 1 c
+=2' 1 G F
+=3 4 vol100 leg90 c leg105 b an g leg98 a  leg105 f b a
+|
+=1' 2 d)1 e 1 f(1
+=1, 2 B c(2 4 c)2 e d c
+=2' 1 G 2 F An
+=2, 4 rest,, F E D Er C F E
+=3 2 g c~ an f
+| 1.0 1.05 1.09 1.14
+il0.9 .63 20
+=1' 4 f)1 an leg80 b leg98 e 2 d c
+=1, 2. d 2 c B 4 An
+=2' 4 B An 2 G 1 F(1
+=2, 2. leg80 D leg98 4 G_ A_n B_ 2 C
+=3 4 leg80 b leg99 f vol105 g e 2 vol110 f F
+
+5 systems 5/18-20-18-28-18 /18-35-18-25-18 \
+ /18-30-18-20-18 / 18-23-18-34-18 / 18-30-18-20-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+4 bars | 3b 32 | 32 | 32 | 32 |
+| 1.09 1.06 1.03 1.0
+=1' 2 B rest' rest' e
+#P =1, 2 B B G c
+#M =1, 2 blank B G c
+=2' 4 F)1 B_ C D E D E F
+=2, 2 D blank 1 rest,,,
+=3 2 B rest 1 rest
+| 4.0
+=1' 2 d  g f b(1
+=1, 2 B e(2 er)2 d
+=2' 4 G F G A leg80 B leg98 2 F 4 D
+=2, 1 rest,,, B_
+=3 2 blank 1 rest
+|
+=1' 2 b)1 1 a 2 g
+=1, 4 e g f e f d 2 e
+=2' 2 B_ E D 4 rest' B
+=2, 2 G_ C leg80 B_ leg98 E(2
+=3 2 blank 1 rest
+|
+=1' 1 f(1 4 f)1 e d c
+=1, 2 c 1 B 2 A(2
+=2' 4 A G leg80 A leg98 F 2 G F(1
+#P =2, 2 E)2 D E F
+#M =2, 2 E)2 D E blank
+=3 2 blank 1 rest
+/
+4 bars | 3b 32 | 32 | 32 | 32 |
+|
+il0.7 .03 25
+=1' 4 leg80 d B leg98 e d 1 c
+=1, 2 A)2 G(2 4 G)2 G F E
+=2' 2 F)1 E(1 4 E)1 E D C
+=2, 2 B_ 4 C B_ 1 A_(2 bass
+=3 2 blank 1 rest
+
+|
+=1' 1 B A
+=1, 4 F D G F 2 E F(2
+=2' 4 d~ b e~ d~ 2 c~ d~(1
+=2, 2 a)2 g(2 4 g)2 f e d
+=3 2 blank 1 rest
+|
+=1' 2 G c leg80 B leg98 e(1
+=1, 2 Fr)2 E D G
+=2' 4 d~)1 f g a b a b c~
+=2, 2. e 4 f 2. g 4 a
+=3 2 blank 1 rest
+|
+=1' 2 e)1 d en f(1
+=1, 2 leg80 F leg98 B(2 B)2 A
+=2' 4 d~ e~ 2 f~ 4 g~ g a b
+=2, 2. b 4 a 2 g f
+=3 2 blank 1 rest
+/
+4 bars | 3b 6 6 6 7 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 2 f)1 1 eb 2 d
+=1, 1 G F(2
+=2' 4 c~ g c~ b 2 an b(1
+=2, 1 c 4 d c d e
+=3 2 blank 1 rest
+|
+il0.7 .03 30
+=1' 1 c B(1
+=1, 1 F)2(2 4 F)2 D E F
+=2' 2 b)1 a(1 a)1 4 g a
+=2, 4 leg80 f c leg98 f e leg80 d B 2 e(2
+=3 2 blank 1 rest
+|
+=1' 4 B)1 B c d e d e f
+=1, 2 G F 4 E F G A
+=2' 1 b(1 2 b)1 e~
+=2, 4 e)2 d e f 2 g e treble
+=3 leg105 1 B 2 G c
+|
+=1' 4 g f g a b c~ b a
+=1, 4 B A B c d e 2 f
+=2' 2 leg80 D leg98 G F B(1
+=2, 1 B_(2 B_)2
+=3 2 leg90 B 1 leg105 e 2 db(1
+/
+4 bars | 3b 4 5 4 4 4 4 4 3 | 4 4 5 4 4 4 4 3 \
+          | 4 5 4 4 4 4 4 3 | 4 4 4 4 4 4 4 6 ||
+|
+=1' 4 leg80 g e leg98 2 a(1 a)1 g(1
+=1, 1 e 2 f e(2
+=2' 2 B)1 c 1 B
+=2, 2. leg80 E 4 A_ leg98 2 F_ G_
+=3 4 d)1 e db c leg90 d' B leg105 e d
+| 2.0 2.02
+=1' 2 g)1 f(1 f)1 e(1
+#P =1, 2 leg80 e)2 B(2 4 B)2 leg98 d er B
+#M =1, 2 leg80 e)2 B(2 4 B)2 leg98 d blank B
+=2' 1 A G
+=2, 2 C 4 rest,, F_ G_ A_ B_ E
+=3 4 c B c dn e f g e
+| 2.03 2.05
+il0.7 .15 35
+=1' 2 e)1 1 db leg80 4 c f leg98
+=1, 2 c 1 B leg80 4 A c leg98
+=2' 1 F 2. leg80 E 4 leg98 A
+=2, 4 C A_ Db C B_ G_ C A_
+=3 4 leg90 a f leg105 b a leg90 g e leg105 2 a(1
+| 1.03 1.09 1.15 1.23
+=1' leg80 4 d B 2 leg98 e(1 e)1 d
+=1, 2 leg80 B B leg98 1 B
+=2' 2 F G 1 F
+=2, 1 B_(2 4 B_)2 C B_ A_ bass
+=3 2 a)1 4 leg90 g e leg110 2 b B
+/
+3 bars | 3b 6/4 48 | 48 | 4 4 5 4 5 4 4 4 4 4 4 3 |
+| .36 .33 .33 .34 .33 .33
+=1' 6/4 leg115 2. e rest'
+=1, 6/4 leg115 2. B rest
+=2' 6/4 leg115 2. e~ rest''
+=2, 6/4 leg95 4 g 8 [e d e f] leg99 [g leg95 f g a g a]
+=3  6/4 leg115 2. E rest
+|
+=1' 2. blank 1 rest
+=1, 2. blank 1 rest,
+=2' 2. blank 1 rest''
+=2, leg99 8 [f leg95 e f g f g] leg99 [a leg95 g a b a b]
+=3  2. blank 1 rest
+|
+=1' 2. blank 1 rest
+=1, 2. blank 1 rest,
+=2' 4 rest'' 8 leg99 [b leg95 an b c~] leg99 [d~ leg95 c~ d~ e~ d~ e~]
+=2, 8 leg99 [g leg95 f e f g an] 4 leg70 b f leg95 b
+=3  2. blank 1 rest
+
+5 systems 5/18-38-18-15-18 /18-38-18-15-18 \
+ /18-38-18-15-18 / 18-38-18-15-18 / 18-38-18-15-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+3 bars | 3b 4 5 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 5 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+il0.7 .03 40
+=1' 2. blank 1 rest
+=1, 2. blank 1 rest,
+=2' leg95 8 leg99 [c~ leg95 b c~ d~ c~ d~] leg99 [e~ leg95 d~ e~ f~ e~ f~]
+=2, 4 rest 8 leg99 [an leg95 g a b] 4 leg65 c~ leg85 g a
+=3  2. blank 1 rest
+|
+=1' 2. blank 1 rest
+=1, 2. blank 1 rest,
+=2' leg99 8 [d~ leg95 e~ d~ c~ d~ b] leg99 [c~ leg95 b c~ d~ c~ d~]
+=2, 4 leg65 b 8 leg99 [f leg95 e f g] 4 leg65 ab leg85 e f
+=3  2. blank 1 rest
+|
+=1' 2. blank 1 rest
+=1, 2. blank 1 rest,
+=2' leg95 8 [b c~ b a  b g] leg99 [a leg95 g a b a b]
+=2, leg65 4 g 8 leg99 [d leg95 c d e] 4 leg65 f leg95 c d
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 5 4 5 4 4 4 4 4 4 3 |
+|
+=1' 4. blank 1 rest'
+=1, 4 rest, leg95 8 [E D E F] leg99 [G leg95 F G A G A]
+=2' leg99 8 [g leg95 f g a g f] leg65 4 e 2 e~
+=2, leg95 2 e 4 d leg65 c leg95 c~ b
+=3  2. blank 1 rest
+|
+=1' 4. blank 1 rest'
+=1, leg99 8 [F rest, leg95 F G F G] leg99 [A leg95 G A B A B]
+=2' leg95 8 rest'' e~(1 2 e~)1(1 4 e~)1 2 d~
+=2, leg95 4 a g leg85 a leg65 f b leg85 B
+=3  2. blank 1 rest
+|
+il0.7 .03 45
+=1' 4 rest' 8 leg95 [B An B c] leg99 [d leg95 c d e d e]
+=1, leg85 4 G leg95 2 G leg65 4 F leg85 B An
+=2' leg85 4 e~ leg95 2 e~ leg65 4 d~ leg85 g~ f~
+=2, leg99 8 [e leg95 d e f g an] 2. b(2
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 5 4 4 5 4 4 4 4 4 3 |
+|
+=1' leg99 8 [c leg95 B c d c d] leg99 [e leg95 d e f e f]
+=1, leg95 2. G(2 4 G)2 2 F(2
+=2' leg99 8 [e~ leg95 d~ e~ f~ e~ d~] 2. c~
+=2, leg95 2. b)2(2 4 br)2 2 an
+=3  2. blank 1 rest
+|
+=1' leg99 8 [d leg95 c d e f d] leg70 4 e b leg95 db(1
+=1, leg65 4 F)2 leg95 8 [B c B A] leg99 [G leg95 A G F G E]
+=2' leg95 4 b rest'' rest'' 2. rest''
+=2, leg95 4 b rest   rest   2. rest
+=3  2. blank 1 rest
+|
+=1' leg95 4 d)1 leg95 8 [c Bn c e] leg65 4 dn a leg85 c(1
+=1, leg99 8 [A leg95 B A G A G] leg99 [F leg95 G F E F D]
+=2' 2. blank 1 rest
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 5 4 5 3 \
+ | 4 4 4 4 4 5 4 4 5 4 4 3 | 4 4 5 4 4 4 4 4 4 4 4 3 |
+|
+=1' leg85 4 c)1 leg95 8 [B d c B] leg85 2. e(1
+=1, leg95 8 [G A] 2 G(2 4 leg65 G)2 leg95 A G
+=2' 4 rest' leg95 8 [e~ f~ e~ d~] [c~ d~ c~ bn c~ an]
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+|
+il0.7 .10 50
+=1' leg85 4 e)1 leg95 f e 2. d(1
+=1, leg85 2. F(2 4 F)2 leg95 G F
+=2' leg95 8 [d~ e~ d~ c~ d~ c~] [bn c~ b an b g]
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+|
+=1' leg85 8 [d)1 G] leg95 4 c Bn c d c
+=1, leg95 4 E F G 2. A
+=2' 4 leg95 c~ d~ leg85 e~ leg65 a leg95 2 f~(1
+=2, 4 rest leg95 8 [ab bb a g] [f g f e f d]
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 5 4 4 4 4 4 3 \
+ | 4 4 5 4 4 4 4 4 4 4 4 3 | 5 4 5 4 4 4 4 4 4 4 4 3 |
+|
+=1' leg85 2. B(1 leg65 4 B)1 leg95 c B
+=1, leg95 2. G(2 G)2
+=2' leg95 4 f~)1 e~ d~ 2. c~(1
+=2, leg95 8 [g a g f g f] [en f e d e c]
+=3  2. blank 1 rest
+|
+=1' leg85 2 A 4 B 2 c leg95 4 dn
+=1, leg95 8 rest,, [G F En F G] [A G A B A B]
+=2' leg85 2 c~)1 leg95 4 d~b leg65 c~ leg95 2 f~
+=2, leg85 2. f(2 2 f)2 leg95 4 f
+=3  2. blank 1 rest
+|
+=1' leg95 2. e leg65 4 d leg95 2 g
+=1, leg95 8 [G F G An G A] leg75 2 B 4 e(2
+=2' leg95 8 [b an b c~ b c~] [d~ c~ d~ e~ d~ e~]
+=2, leg85 2. g(2 g)2
+=3  2. blank 1 rest
+
+5 systems 5/18-38-18-15-18 /18-38-18-15-18 \
+ /18-38-18-15-18 / 18-38-18-15-18 / 18-38-18-15-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 5 4 4 4 4 4 4 4 4 3 |
+|
+il0.7 .03 55
+=1' leg95 2. f(1 f)1(1
+=1, leg75 4 er)2 F An leg95 8 [c B c d c d]
+=2' leg95 8 [c~ b c~ d~ c~ f~] [e~ d~ e~ f~ e~ f~]
+=2, leg95 2. an(2 a)2
+=3  2. blank 1 rest
+|
+=1' leg99 8 [f)1 e leg95 f g f g] [a g a b a b]
+=1, leg95 2 B 4 rest rest 2 f
+=2' leg99 8 [d~ leg95 c~ d~ e~ d~ e~] leg65 4 f~ leg85 2 b(1
+=2, leg95 2. b 4 rest d B
+=3  2. blank 1 rest
+|
+=1' leg99 8 [g f leg95 g an g a] [b a b c~ b c~]
+=1, leg95 4 e rest rest rest 2 g(2
+=2' leg85 4 b)1 leg95 8 [e~ f~ e~ f~] leg65 4 g~ leg85 2 c~(1
+=2, leg95 4 e rest rest rest en c
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 5 4 4 3 \
+ | 4 4 5 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' leg95 2 an b a-tr
+=1, leg75 8 [gr)2 leg95 g f e d c] [d leg85 e] 2 c
+=2' leg95 2 c~)1 leg75 4 b g 8 rest'' [an c~ f~(1]
+=2, leg80 4 f d g e 2 f
+=3  2. blank 1 rest
+|
+=1' leg95 2. b rest'
+=1, leg95 2. d rest
+=2' leg95 4 f~)1 rest' rest' rest'' 2 b
+=2, leg80 4 bb leg95 8 [B An B c] [d c d e c d]
+=3  2. blank 1 rest
+|
+il0.4 .03 60
+=1' leg95 2. blank 1 rest
+=1, leg95 2. blank 1 rest,
+=2' leg65 4 g leg95 2 c~ leg65 4 b leg95 2 e~(1
+=2, leg95 8 [e d e f e f] [g f g a g a]
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 5 4 5 3 \
+ | 4 4 5 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' leg95 2. blank 1 rest
+=1, leg95 2. blank 1 rest,
+=2' leg95 4 e~)1 2 d~-tr leg85 4 e~ leg95 8 [er d er f]
+=2, leg95 8 [b a b c~ b a] [g a] leg75 4 b g
+=3  2. blank 1 rest
+|
+=1' leg95 2 blank 1 rest'
+=1, leg95 4 rest, 2 E leg75 4 D leg95 2 G
+=2' leg95 8 [g f g an g a] [b a b c~ b c~]
+=2, leg85 4 e rest, c g rest, e
+=3  2. blank 1 rest
+|
+=1' leg95 2 blank 1 rest'
+=1, leg75 4 F leg95 2 B(2 4 B)2 2 An
+=2' leg95 8 [d~ c~ d~ e~ d~ e~] [f~ e~ f~ g~ f~ e~]
+=2, leg95 4 b rest leg85 g leg95 d e f
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 4 4 5 3 \
+ | 4 4 5 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 5 4 4 4 4 4 3 |
+|
+=1' leg95 4 blank 1 rest'
+=1, leg95 2 B 4 rest 2 B 4 A
+=2' leg95 8 [d~ c~ d~ e~] 4 f~(1 f~)1 e~ d~
+=2, leg75 4 B leg95 8 [b c~ b a] [g a g f e d]
+=3  2. blank 1 rest
+|
+il0.4 .03 65
+=1' leg95 4 blank 1 rest'
+=1, leg95 2 G 4 rest 2 c 4 B(2
+=2' leg95 8 [e~ d~ e~ f~] 4 g~(1 g~)1 f~ e~n
+=2, leg75 8 [e g leg95 c~ d~b c~ b] [a b a g a g]
+=3  2. blank 1 rest
+|
+=1' leg95 4 blank 1 rest'
+=1, leg95 4 B)2 A G 2. F(2
+=2' leg75 4 f~ leg95 2 c~(1 4 c~)1 b a
+=2, leg95 8 [f g f e f e] [db e d c d c]
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 5 4 4 4 4 4 5 4 4 3 \
+ | 4 4 4 4 4 4 4 4 5 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' leg95 2. rest' 4 rest' 8 [F En F G]
+=1, leg95 4 F)2 leg85 En leg75 G leg95 2 C 4 B_
+=2' leg95 2. g(1 4 g)1 2 f
+=2, leg95 8 [B A B db c B] leg75 4 A leg95 2 db
+=3  2. blank 1 rest
+|
+=1' leg95 8 [A G A B A B] [c B c db c B]
+=1, leg85 2 C 4 F leg95 2. G
+#P=2' leg95 4 en f leg75 d~b 2 g 4 leg95 c~(1
+#M=2' leg95 4 en blank leg75 d~b 2 g 4 leg95 c~(1
+=2, leg75 4 c leg95 2 fr(2 4 fr)2 2 en
+=3  2. blank 1 rest
+|
+=1' leg95 8 [A G A B A B] [c B c d c d]
+=1, leg95 4 rest,, 2 F leg75 4 E leg95 2 A
+=2' leg95 4 c~)1 rest'' rest'' 2. rest''
+=2, leg95 2 f 4 g a rest f
+=3  2. blank 1 rest
+
+5 systems 5/18-33-18-15-18 /18-43-18-15-18 \
+ /18-38-18-15-18 / 18-38-18-15-18 / 18-38-18-15-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 5 4 4 4 4 4 4 4 4 3 |
+|
+il0.7 .01 70
+=1' leg95 8 [e d e f e f] [g f g a g f]
+=1, leg75 4 G leg95 2 c(2 4 c)2 2 Bn
+=2' 2. blank 1 rest''
+=2, leg95 4 c~ rest leg85 a leg95 e f g
+=3  2. blank 1 rest
+|
+=1' leg95 8 [e d e f] 4 g(1 g)1 f e(1
+=1, leg75 4 c leg95 8 [c d c B] [A B A G A G]
+=2' 2. blank 1 rest'
+=2, leg95 4 c rest rest 2. rest,
+=3  2. blank 1 rest
+|
+=1' leg75 8 [e)1 leg95 c d e] 4 f(1 f)1 e a(1
+=1, leg75 4 F leg95 8 [B c B A] [G A G F G F]
+=2' 2. blank 1 rest'
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 5 4 4 4 4 3 \
+ | 4 4 4 4 4 5 4 4 4 4 4 3 | 5 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' leg95 4 a)1 g f# 8 [g fn g a g f]
+=1, leg95 8 [E F E D E C] 4 D rest, leg75 G
+=2' leg95 4 rest' 2 c~ leg75 4 bn leg95 2 e~
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+|
+=1' leg95 8 [e f e d e d] [c B c e d c]
+=1, leg95 2 c 4 B 2. An(2
+=2' leg75 4 c~ leg95 2 g~(1 4 g~)1 2 f~#
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+|
+il0.6 .15 75
+=1' leg95 2 B leg75 4 B leg95 2 e 4 en
+=1, leg95 4 Ar)2 leg75 2 G(2 4 G)2 leg95 2 c(2
+=2' leg95 8 [g~ f~n e~ f~ e~ d~] [c~ d~ c~ b c~ b]
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 5 4 4 4 4 4 5 5 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' leg95 2 f leg75 4 c leg95 2 f 4 f#
+=1, leg95 4 c)2 leg75 2 An(2 4 A)2 leg95 2 d(2
+=2' leg75 8 [an c~ leg95 f~ g~ f~ e~] [d~ e~ d~ c~ d~ c~]
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+|
+=1' leg75 2. g(1 4 g)1 leg95 2 c~
+=1, leg95 8 [d)2 c d e c d] [e d e f e f]
+=2' leg95 8 [bn an b c~ a b] [c~ bn c~ d~ c~ d~]
+=2, leg75 4 rest 2 g 4 e 2 ab
+=3  2. blank 1 rest
+|
+=1' leg95 4 b 2 a(1 4 a)1 2 g(1
+=1, leg75 4. g 8 [c leg95 f e] leg75 4. d leg95 8 [f e d]
+=2' leg95 8 [e~ d~ e~ f~ e~ f~] [g~ f~ g~ a~ g~ f~]
+=2, leg75 4 g leg95 2 c~(2 4 c~)2 2 bn
+=3  2. blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 5 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 5 4 4 3 ||
+| .35 .33 .33 .34 .33 .34
+=1' leg95 4 g)1 a g(1 g)1 f e(1
+=1, leg95 2. c(2 c)2(2
+=2' leg95 8 [e~ f~ e~ d~ e~ d~] [c~ d~b c~ b c~ b]
+=2, leg95 2 c~ 4 b 2 a 4 g
+=3  2. blank 1 rest
+| .36 .34 .34 .35 .34 .35
+il0.8 .10 80
+#P=1' leg95 4 e)1 d leg75 c 2. f(1
+#M=1' leg95 4 e)1 d leg75 blank 2. f(1
+=1, leg95 4 c)2 Bn c(2 c)2 B leg75 d
+=2' leg95 8 [a b a g a g] [f g f e f e]
+=2, leg95 2 f 4 e 2 d 4 c
+=3  2. blank 1 rest
+| .37 .36 .37 .39 .38 .39
+=1' leg75 8 [f)1 leg95 f e d] leg75 4. e  8 f 4. d 8 c
+=1, leg75 4 G leg95 Bn 2 c B
+=2' leg75 4 d leg95 2 g 4 a 8 rest'' leg75 [bn d~ f~]
+=2, leg75 4 Bn G c leg95 f 2 g
+=3  2. blank 1 rest
+/
+2 bars | 3b 12/8 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+| .33 .29 .31 .32 .29 .31 .32 .29 .31 .32 .29 .31
+=1' 12/8 leg95 4. c rest  2. rest
+=1, 12/8 leg95 4. G rest, 2. rest,
+=2' 12/8 leg95 4. e~ rest''' 2. rest'''
+=2, 12/8 leg75 8 [c e g] leg85 [c~ b leg75 c~] \
+ [f leg85 16 a g a leg75 f] leg85 8 [b a leg75 b]
+=3  12/8 2. blank 1 rest
+|
+=1' 2. blank 1 rest
+=1, 2. blank 1 rest,
+=2' leg75 4. rest''' leg85 8 [g~ f~ leg75 g~] \
+ [c~ leg85 16 e~ d~ e~ leg75 c~] leg85 8 [f~ e~ leg75 f~]
+=2, leg75 8 [e leg85 16 g f g leg75 e] leg95 2. b 4. a(2
+=3  2. blank 1 rest
+
+5 systems 5/18-33-18-15-18 /18-43-18-15-18 \
+ /18-38-18-15-18 / 18-38-18-15-18 / 18-38-18-15-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+|
+=1' 2. blank 1 rest
+=1, 2. blank 1 rest,
+=2' leg85 8 [b leg85 16 d~ c~ d~ leg75 b] 8 e~ rest'' rest'' \
+ leg95 16 [d~ c~ leg75 b c~ d~ e~] leg95 8 f~ rest'' rest''
+=2, leg95 4. ar)2 16 leg95 [g leg80 f e f g a] \
+ 8 b rest, rest, 16 leg95 [a leg80 g f g a b]
+=3  2. blank 1 rest
+|
+il0.8 .10 85
+=1' 2. blank 1 rest'
+=1, 4. rest leg85 8 [c B c] leg75 [F leg85 16 A G A F] leg85 8 [B A B]
+=2' leg85 16 [e~ f~ g~ f~ e~ d~] leg95 8 [c~ d~b e~] 4. d~(1 8 [d~)1 c~ b]
+=2, leg95 4 c~ 8 b 4. a(2 8 [a)2 g f] 4. g(2
+=3  2. blank 1 rest
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
+ | 4 4 4 4 4 6  4 3 4 3 4 4  4 3 4 3 4 3  4 3 4 3 4 3 |
+|
+=1' 2. blank 1 rest'
+=1, leg85 8 [E 16 G F G E] leg95 4. A(2 A)2 G(2
+=2' leg85 4. c~(1 4 c~)1 8 c~ [d~ 16 f~ e~ f~ d~] 4. b
+=2, leg95 8 [g)2 f e] [f e f] [B 16 d c d B] 8 [e d e]
+=3  2. blank 1 rest
+|
+=1' 2. rest' 4. rest' leg95 8 [g leg85 f g]
+=1, leg95 4. G)2 F# leg85 G rest,
+=2' leg85 8 [c~ 16 e~ d~ e~ c~] 4 an leg95 8 c~(1 [c~)1 b a] 4. b(1
+=2, leg85 8 [An 16 leg95 c leg85 B c A] 8 [d c d] 4. G rest,
+=3  2. blank 1 rest
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 3 4 3  4 3 4 4 4 4  4 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+|
+=1' leg85 8 [c 16 en d e c] leg95 8 [f leg85 eb f] [B 16 d c d B] 4. e(1
+=1, 2. blank 1 rest,
+=2' leg95 8 [b)1 ab g] 4. a(1 8 [a)1 g leg85 f] 16 leg95 [g leg85 f e f g a]
+=2, 2. blank 1 rest,
+=3  2. blank 1 rest
+|
+=1' leg95 4. e)1 leg80 d 2. leg95 g
+=1, 2. rest, 16 rest leg85 [G A B c d] 4. e(2
+=2' leg95 16 [b leg80 a b c~ d~ e~] leg95 [f~ leg80 e~ f~ g~ a~ b~] \
+ 4. e~ rest'''
+=2, 2. rest, 4. rest 16 rest leg85 [f~ e~ d~ c~ b]
+=3  2. blank 1 rest
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  6 4 4 4 4 4  4 3 4 3 4 3 \
+ | 4 4 6 4 4 4  4 4 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 |
+|
+il0.8 .15 90
+=1' leg80 4. f leg95 2. b 4. an
+=1, leg95 4. er)2 8 leg80 [d leg95 e leg80 d(2] \
+ [d)2 e leg95 c(2] [c)2 leg80 B c]
+=2' 2. rest''' 4. rest'''' e~(1
+=2, leg85 16 [an f g a b c~] [d~ b c~ d~ e~ f~] \
+ leg95 [g~ a~b leg85 g~ f~ e~ d~] leg95 4. c~
+=3  2. blank 1 rest
+|
+=1' leg85 8 b rest' rest' [b ab b] [e 16 g f g e] 8 [a g a]
+=1, leg85 8 [F 16 G An B c] leg95 4. d 2. c
+=2' leg95 4. e~)1 leg80 d~ leg95 2. g~
+=2, leg95 2. b(2 4. b)2 a(2
+=3  2. blank 1 rest
+/
+2 bars | 3b 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 \
+ | 4 4 4 4 4 4  4 4 4 4 4 6  4 4 4 4 4 4  4 6 4 4 6 3 |
+|
+=1' leg85 8 [d 16 f e f d] 4. leg95 g(1 g)1 4 f 8 e
+=1, leg80 4. B e(2 e)2 leg95 c
+=2' leg95 4. f~ leg95 b~(1 b~)1 a~(1
+=2, leg85 4. a)2 8 [g a b] 4 c~ 8 g [a g a]
+#M=3 leg85 vol120 4. rest 8 [g~ f~ g~] [c~, leg95 16 e~ d~ leg85 e~ c~,] 8 [f~ e~ f~]
+=3  leg85 vol120 4. rest 8 [g f g] [c, leg95 16 e d leg85 e c,] 8 [f e f]
+|
+=1' leg95 4. d rest'' 2. f
+=1, leg80 4. B leg95 16 [c d e d c B] [An B c B c A] [B c db c B Ab]
+=2' leg85 4. a~)1 leg85 8 [g~ f~ g~] [c~ 16 e~ d~ e~ c~] 8 [f~ e~ f~]
+=2, leg95 4. b rest 2. rest
+#M=3 leg85 8 [b 16 leg95 d~' c~ leg85 d~' b] 2. e~ 4. d~b(3
+=3  leg85 8 [B 16 leg95 d' c leg85 d' B] 2. e 4. db(1
+
+5 systems 5/18-33-18-15-18 /18-43-18-15-18 \
+ /18-38-18-15-18 / 18-38-18-15-18 / 18-38-18-15-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  6 4 4 4 4 3 \
+ | 4 6 4 4 4 4  5 4 4 4 4 4  5 4 4 4 4 4  4 3 4 3 4 3 |
+|
+=1' leg95 4. e(1 8 [e)1 db leg80 e] leg85 [A 16 c B c A] leg85 8 [d c d]
+=1, leg85 16 [G A B A B G] leg95 8 A rest, rest, 2. rest,
+=2' leg85 4. b 16 [e~ e f g a b] 4. c~(1 16 [c~)1 db e f g a]
+=2, leg95 1 blank 4 blank 1 rest,
+#M=3 leg95 4. d~)3 leg80 c~ 2. f~
+=3  leg95 4. d)1 leg80 c 2. f
+|
+il0.8 .10 95
+=1' leg85 8 [G 16 B A B G] 8 [cr B c] [Fr 16 A G A F] 8 [B A B]
+=1, leg95 4. rest,, e 2. db('1
+=2' leg85 16 [b c~ d~b c~ d~ b] [c~ d~ e~ d~ e~ c~] leg95 2. b
+=2, leg95 1 blank 4 blank 1 rest,
+#M=3 leg85 4. e~ leg95 2. a~ 4. g~
+=3  leg85 4. e leg95 2. a 4. g
+/
+2 bars | 3b 5 4 5 4 4 4  4 4 4 6 6 4  4 4 4 4 4 4  4 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 |
+|
+=1' leg85 8 [Er 16 Fr G A B] [c A B c dn en] \
+ leg95 [f e leg85 f g a f] leg95 [b c~ leg85 b a g f]
+=1, leg95 8 [d)1 c] rest,, 4. rest,, rest, leg95 B(2
+=2' leg85 2. a(1 8 [a)1 c~ leg95 f~(1] [f~)1 leg85 e~n f~]
+=2, leg95 1 blank 4 blank 1 rest,
+#M=3 leg85 4. a~ f~ 2. d~b
+=3  leg85 4. a f 2. db
+|
+=1' leg85 16 [en g f e d c] leg95 4. f(1 f)1 leg85 e
+=1, leg95 4. B)2 leg85 A leg95 c leg85 B
+=2' leg95 4. g~ leg85 f~ 2. leg99 g~
+=2, leg85 4. rest 8 [d~ c~ d~] [g 16 b a b g] 8 [c~ b c~]
+#M=3' leg85 4. c~(2 4 c~)2 8 bn 4. c~ c
+=3' leg85 4. c(2 4 c)2 8 Bn 4. c C
+/
+2 bars | 3b 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 \
+ | 4 4 4 4 6 4  4 4 6 4 4 4  4 4 4 4 4 4  4 4 4 4 6 3 |
+|
+=1' leg85 4. f rest'' rest'' e(1
+=1, leg80 4. F leg99 db(2 d)2 4. c(2
+=2' leg95 2. a~ g~
+=2, leg85 8 [f 16 a g a f] 8 [b a b] [e 16 g f g e] 8 [a g a]
+#M=3' leg99 4. f blank 2. blank
+=3' leg99 4. F rest 2. rest
+|
+=1' leg95 4. e)1 db(1 d)1 c
+=1, leg95 4. c)2 B(2 B)2 A(2
+=2' leg95 2. f~ 4. e~ rest'''
+=2, leg85 8 [db 16 e f g an] leg99 [b c~ leg85 b ab g f] \
+ [g e f g a b] leg99 [c~ leg85 b a b c~ d~b]
+=3' 2. blank 1 rest
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
+ | 4 4 4 6 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 |
+|
+il0.8 .01 100
+=1' leg85 8 [B 16 c d e f] leg99 [g a leg85 g f e d] \
+ 8 [c 16 d e f g] leg99 [a g leg85 f e d c]
+=1, leg95 4. Ar)2 G(2 G)2 F(2
+=2' leg85 2 blank 1 rest''
+=2, leg95 2. e~ a
+=3' 2. blank 1 rest
+|
+=1' leg85 16 [Bn d c B An G] leg95 4. e 2. d(1
+=1, leg95 4. F)2 E leg85 8 [F 16 Ab G A F] 8 D 4 leg95 G(2
+=2' 2 blank 1 rest''
+=2, leg85 4. g 8 [a g a] [d 16 f e f d] 8 [g f g]
+=3' 4. rest leg95 2. c 4. leg85 Bn
+/
+2 bars | 3b 4 6 6 4 4 4  4 6 6 4 4 4  6 4 4 4 4 4  4 4 6 6 4 3 \
+ | 4 4 4 4 4 6  5 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+|
+=1' leg95 4. d)1(1 16 leg85 [d)1 G An Bn c d] 4. e(1 8 [e)1 d e]
+=1, leg95 4. G)2 rest,' 2. rest,
+=2' leg85 16 rest'' [g a b c~ d~] leg99 [e~ d~ leg85 c~ d~ e~ f~] \
+ leg99 [g~ a~b leg85 g~ f~ e~ d~] leg99 [c~ d~ leg85 c~ bb an b]
+=2, leg95 8 c rest, rest, 4. rest, 2. rest,
+=3  leg85 2. e 4. c leg95 g(1
+|
+=1' leg85 8 [An 16 c B c A] leg99 [d leg85 c d e d c] 4. B 16 rest' [B c d e f]
+=1, leg95 4. rest,, An(2 Ar)2 leg85 G
+=2' leg85 8 [c~ d~ e~] 4. an 16 [b g a b c~ d~] 4. e~(1
+=2, 2 blank 1 rest
+=3  leg95 4. g)1 f# g rest
+
+5 systems 5/18-33-18-15-18 /18-43-18-15-18 \
+ /18-38-18-15-18 / 18-38-18-15-18 / 18-38-18-15-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+2 bars | 3b 4 4 4 4 4 6  4 4 4 4 4 4  4 4 4 4 4 4  5 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 |
+|
+#M=1' leg85 4. g(1 16 [g)1 b a g f e] \
+ leg99 [d c leg85 d f e d] leg99 rest [d leg85 e g f e] 
+#P=1' leg85 4. g(1 16 [g)1 b a g f e] \
+ leg99 [d c leg85 d f e d] leg99 [e d leg85 e g f e] 
+=1, 2. leg95 c 4. B e(2
+=2' leg85 16 [e~)1 c~ d~ e~ f~ g~] 4. leg95 a~b(1 a~)1 g~
+=2, 2 blank 1 rest
+#M=3  2. rest 4. rest leg85 8 [c~~ b~ c~~]
+=3  2. rest 4. rest leg85 8 [c~ b c~]
+|
+il0.8 .10 105
+=1' 2. leg85 a 16 [g a b a b g] 4. c~(1
+=1, leg95 4. e)2 leg85 d e(2 16 [e)2 d e f d e]
+=2' 2. leg95 f~ e~
+=2, 2. rest 4. rest leg85 8 [c~ b c~]
+#M=3, leg85 8 [f~ 16 a~ g~ a~ f~] 8 [b~ a~ b~] [e~ 16 g~ f~ g~ e~] 8 [a~ g~ a~]
+=3, leg85 8 [f 16 a g a f] 8 [b a b] [e 16 g f g e] 8 [a g a]
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 |
+|
+=1' 4. leg95 c~)1 2. b 4. a(1
+=1, 4. leg99 f(2 16 [f)2 e leg85 f g f g] 4. leg99 e(2 16 [e)2 d leg85 e f e f]
+=2' 2. leg95 d~ c~
+=2, 8 leg85 [f 16 a g a f] 8 [b a b] [e 16 g f g e] 8 [a g a]
+#M=3, leg85 8 [d~ 16 f~ e~ f~ d~] 8 [g~ f~ g~] [c~ 16 e~ d~ e~ c~] 8 [f~ e~ f~]
+=3, leg85 8 [d 16 f e f d] 8 [g f g] [c 16 e d e c] 8 [f e f]
+|
+=1' leg85 4. a)1 8 [g f g] [c 16 e d e c] 8 [f e f]
+=1, leg95 16 [d e leg85 f e d c] 8 [B A B] 4. G 8 [A G A]
+=2' leg85 4 b 8 c~ leg95 4. d~ leg85 e~ leg95 c~
+=2, leg85 8 [f g a] leg95 4. b(2 b)2 a(2
+#M=3 leg110 4. b rest 2. rest
+=3 leg110 4. B rest 2. rest
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  6 4 4 4 4 4  6 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 4 4 4 4 4  5 4 6 4 4 4  4 4 4 4 4 3 |
+|
+=1' leg85 8 [B 16 d c d B] 8 leg95 e rest' rest' 4. rest'' leg85 e(1
+=1, leg85 4. F  B(2 16 [B)2 db c B A G] 4. A(2
+=2' leg85 4. d~  g~(1 g~)1(1 g~)1
+=2, leg85 4. a)2 16 [g e f g a b] 4. leg95 c~(2 16 [c~)2 d~b leg85 c~ b a g]
+#M=3 leg90 4. rest 2. e~ 4. c~
+=3 leg90 4. rest 2. e 4. c
+|
+=1' 4. leg95 e)1 leg85 d leg95 2. g
+=1, 2. leg85 A)2 16 rest [f e db c B] 4. leg95 c
+=2' 2. leg85 f~ 4. b 16 rest'' [b~ a~ g~ f~ e~]
+=2, 16 leg99 [a b leg85 a g f e] leg99 [f a leg85 g f e d] 4. e rest
+#M=3 leg95 2. f~ leg85 4. e~ 4. a~(3
+=3 leg95 2. f leg85 4. e 4. a(1
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 6 4 4  4 4 4 4 4 3 \
+ | 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 |
+|
+il0.8 .14 110
+=1' 4. leg85 f 2. leg99 b 4. an
+=1, 4. leg95 dn 16 rest [a g f e d] 2. leg95 e
+=2' 4. leg95 b~ rest''' 16 rest''' [d~~ c~~ b~ a~n g~] 4. c~~
+=2, leg95 16 rest [g~ f~ e~ d~ c~] 4. b rest 16 rest [g~ f~ e~ d~ c~]
+#M=3 leg95 4. a~)3 leg85 g~ 2. c~~
+=3 leg95 4. a)1 leg85 g 2. leg100 c~
+|
+=1' 2. leg99 b(1 4. b)1 a(1
+=1, 16 leg85 [d B c d e f] 8 [g f g] [c 16 e d e c] 8 [f e f]
+=2' 8 leg99 f~ rest' rest' 4. rest' 2. rest'
+=2, 8 leg99 d~ rest, rest, 4. rest, 2. rest,
+#M=3 4. leg110 b~ blank 2. blank
+=3 4. leg110 b rest 2. rest
+/
+2 bars | 3b 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 3 4 3 4 3 \
+ | 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+|
+=1' 4. leg99 a)1 g 2. a
+=1, 8 leg85 [B 16 d c d B] leg99 2. e 4. d
+=2' 4. leg85 rest' 8 [c~~ b~ c~~] [f~ 16 a~ g~ a~ f~] 8 [b~ a~ b~]
+=2, 2 blank 1 rest,
+=3, 2 blank 1 rest
+|
+=1' 4. leg80 g(1 16 [g)1 b a g f e] \
+ leg99 [d e leg80 f e f d] leg99 [g a leg80 g f e d]
+=1, 4. leg99  16 [e f leg80 e d e g] 4. leg99 c B(2 B)2
+=2' leg85 8 [e~ 16 g~ f~ g~ e~] 2. leg99 a~ 4. g~(1
+=2, leg85 4. rest, 8 [f~ e~ f~] [b 16 d~ c~ d~ b] 8 [e~ d~ e~]
+=3, 2 blank 1 rest
+
+5 systems 5/18-33-18-15-18 /18-43-18-15-18 \
+ /18-38-18-15-18 / 18-38-18-15-18 / 18-38-18-15-18 5/
+pagenum
+innerhead Fuga a 5 pro Organo pleno, J. S. Bach,  BWV 552
+leftfoot Typeset 2013 by Peter J Billam.
+
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 3 4 3 4 3 \
+ | 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 4 4 4 4 3 |
+|
+=1' leg85 16 [c d e d e c] leg99 [f g leg85 f e d c] [B c d c d B] 4. e(1
+=1, 2. leg85  2. cr 8 leg99 F rest, rest, leg85 4. B(2
+=2' leg95 4. g~r)1 4 f~ 8 e~ leg85 16 [d~ e~ f~ e~ f~ d~] 4. g~(1
+=2, leg85 2. ar 4. b 8 [b a b]
+#M=3' leg105 vol126 4. rest 2. a leg85 4. g
+=3' leg105 vol126 4. rest 2. A leg85 4. G
+| .33 .31 .32 .33 .31 .32 .33 .32 .33 .34 .33 .34
+il0.8 .14 115
+=1' leg85 2. e)1 4. f e
+=1, leg85 4. B)2  4 F 8 E 2. B
+=2' 4. leg99 g~)1 2. a~ 4. g~
+=2, leg85 8 [e 16 g f g e] 8 [a g a] 16 [d B c d e f] [g e f g a b]
+#M=3 leg105 2. c~ leg85 4. b e~(3
+=3 leg105 2. c leg85 4. B e(1
+/
+2 bars | 3b 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 3 4 3 4 3 \
+ | 4 4 4 4 4 4  4 3 4 3 4 3  4 4 4 4 4 4  4 4 4 4 4 3 ||
+| .34 .34 .35 .36 .37 .38 .39 .41 .42 .43 .44 .45
+=1' leg99 2. a(1 8 [a)1 g f(1] [f)1 leg85 e f]
+=1, leg99 2. f(2 8 [f)2 e d(2] [d)2 leg85 e c]
+=2' leg85 4. a~ b~(1 16 [b~)1 d~ e~ f~ g~ a~] 4 b~ 8 a~
+=2, 16 leg85 [c~ a b c~ d~ e~] leg105 [f~ g~ leg95 f~ e~ d~ c~] \
+ leg85 4. b(2 8 b)2 4 e~(2
+#M=3 leg105 4. e~)3 d~ leg95 4 e~ 8 f~ 4 g~ 8 a~
+=3 leg105 4. e)1 d leg95 4 e 8 f 4 g 8 a
+| .46 .47 .48 .49 .50 .51 .90 .90 .90 .90 .90 .90
+=1' leg95 4. B-tr d-tr 2. e-fermata
+=1, leg95 4. B A 2. G
+=2' leg95 4. g~ f~ 2. e~-fermata
+=2, leg70 8 [e~)2 leg99 g a] 4. leg85 b 2. leg95 b
+#M=3 leg95 4. b~ b 2. e-fermata
+=3 leg95 4. b B 2. E-fermata

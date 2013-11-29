@@ -1,0 +1,11 @@
+boundingbox 380 80
+midi channel 1 patch 44 pan30 reverb 90
+midi channel 1 patch 44 pan70 reverb 90
+1 system /27/
+/
+2 bars | 3/4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 3 |
+| 3/4 2.0
+=1, treble 3/4 cha1 leg75 vol45 83 \
+ [<B d> <G e-I3> <B d>] [<G e> <B d-I3> <G e>] [<B d> <G e-I3> <B d>]
+|
+=1, 83 [<G e> <B d-I3> <G e>] [<B d> <G e-I3> <B d>] [<G e> <B d-I3> <G e>]

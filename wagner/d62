@@ -1,0 +1,49 @@
+boundingbox 400 125
+midi channel 1 patch 56 pan40 reverb 95  # trp
+midi channel 2 patch 57 pan55 reverb 95  # trb
+midi channel 3 patch 47 pan10 reverb 95  # tym
+midi channel 4 patch 44 pan75 reverb 95  # str
+midi channel 5 patch 44 pan90 reverb 95  # str
+midi channel 6 patch 71 pan65 reverb 95  # clr
+midi channel 7 patch 60 pan25 reverb 95  # hrn
+1 system /27-30-27 3/
+/
+1 bars | 3b 4 4 4 4 4 3 3 3 3  3 3 3 3 3 3 4 4 4 \
+ 4 4 4 3 3 3 3 3 3  6 6 6 10 6 6 6 6 6 :||
+| 4/4 6.0
+midi off
+=1, bass   3b \
+ 16 [<e g c~> <e g c~>] 8 rest 8. rest 16 <e g c~> 8 <e g c~> rest 4 blank
+=1, 3b 2. blank 4. blank 163 [c d e f f#-I9 g b a g]
+=2' bass   3b \
+ 16 [<C G c> <C c>] 8 rest 8. rest 16 <C c> 8 <C c> rest 4 blank
+=2' 3b 2. blank 4. blank 163 [C D E F F#-I9 G B A G]
+midi on
+#=1, bass   3b cha1 vol125 \
+#  16 [c~ c~] 8 rest 8. rest 16 vol120 c~ c~ 8. rest 4 blank
+#=2, bass   3b cha2 vol125 \
+#  16 [<C G c e g> <C c e g>] 8 rest \
+#  8. rest 16 vol120 <C c e g> <C c e g~> 8. rest 4 blank
+#=3, bass   3b cha3 vol126 \
+#  16 [c c] 8 rest 8. rest 16 vol126 c 8 c rest 4 blank
+#=4, bass  3b cha4 2. blank 4. blank leg99 163 \
+#  vol100 [c d vol+10 e f f#-I9 vol+10 g b vol-15 a leg130 g]
+#=5' bass  3b cha5 2. blank 4. blank leg99 163 \
+#  vol100 [C D vol+10 E F F#-I9 vol+10 G B vol-15 A leg130 G]
+#=7  bass  3b cha6 1 vol90  <G g c~-dim60>
+#=6  bass  3b cha7 1 vol110 <C G e c~-dim60>
+#| 1.5 1.5 1.5 1.6
+#=1, bass   3b cha1 vol110 \
+#  16 [c~ c~] 8 rest 8. rest 16 vol100 c~ c~ 8. rest 4 blank
+#=2, bass   3b cha2 vol110 \
+#  16 [<C G c e g> <C c e g>] 8 rest \
+#  8. rest 16 vol100 <C c e g> <C c e g~> 8. rest 4 blank
+#=3, bass   3b cha3 vol115 \
+#  16 [c c] 8 rest 8. rest 16 vol105 c 8 c rest 4 blank
+#=4, bass  3b cha4 2. blank 4. blank leg99 163 \
+#  vol90 [c d vol+5 e f f#-I9 vol+2 g b vol-10 a leg130 g]
+#=5' bass  3b cha5 2. blank 4. blank leg99 163 \
+#  vol90 [C D vol+5 E F F#-I9 vol+2 G B vol-10 A leg130 G]
+#=7  bass  3b cha6 1 vol50  <G g-dim60>
+#=6  bass  3b cha7 1 vol70 <C G e-dim60>
+

@@ -1,0 +1,184 @@
+6 systems 15 / 19-30-19/
+pagenum 1
+innerhead Book 1, Well-Tempered Clavier, J. S. Bach
+title Prelude I in C major
+midi channel 0 patch 0 pan 80
+midi channel 1 patch 0 pan 20
+midi off
+/
+2 bars | 4/4 16 | 16 |
+|
+=1, treble 4/4 qua rest smq [G c] [e G c e] qua rest smq [G c] [e G c e]
+=2' bass   4/4 smq rest''' cro.. e~ smq rest''' cro.. e~
+=2         4/4 min c~ c~
+|
+=1, qua rest smq [A d] [f A d f] qua rest smq [A d] [f A d f]
+=2' smq rest''' cro.. d~ smq rest''' cro.. d~
+=2  min c~ c~
+/
+3 bars | 16 | 16 | 16 |
+|
+=1, treble qua rest smq [G d] [f G d f] qua rest smq [G d] [f G d f]
+=2' bass   smq rest''' cro.. d~ smq rest''' cro.. d~
+=2         min b b
+|
+=1, qua rest smq [G c] [e G c e] qua rest smq [G c] [e G c e]
+=2' smq rest''' cro.. e~ smq rest''' cro.. e~
+=2  min c~ c~
+|
+il0.6 .03 5
+=1, qua rest smq [A e] [a A e a] qua rest smq [A e] [a A e a]
+=2' smq rest''' cro.. e~ smq rest''' cro.. e~
+=2  min c~ c~
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' treble qua rest smq [F# A] [d F A d] qua rest smq [F A] [d F A d]
+=2' bass   smq rest''' cro.. d~ smq rest''' cro.. d~
+=2         min c~ c~
+|
+=1, qua rest smq [G d] [g G d g] qua rest smq [G d] [g G d g]
+=2' smq rest''' cro.. d~ smq rest''' cro.. d~
+=2  min b b
+|
+=1' qua rest smq [E G] [c E G c] qua rest smq [E G] [c E G c]
+=2' smq rest''' cro.. c~ smq rest''' cro.. c~
+=2  min b b
+/
+3 bars | 16 | 1 1 1.5 1  1 1 1 1  1 1 1 1  1 1 1 1 | 16 |
+|
+=1' treble qua rest smq [E G] [c E G c] qua rest smq [E G] [c E G c]
+=2' bass   smq rest'' cro.. c~ smq rest'' cro.. c~
+=2         min a a
+|
+il0.6 .03 10
+=1' qua rest smq [D F#] [c D F c] qua rest smq [D F] [c D F c]
+=2' smq rest'' cro.. a smq rest'' cro.. a
+=2  min d d
+|
+=1' qua rest smq [D G] [B D G B] qua rest smq [D G] [B D G B]
+=2' smq rest'' cro.. b smq rest'' cro.. b
+=2  min g g
+/
+3 bars | 1.5 1 1 1.65  1 1 1 1  1 1 1 1  1 1 1 1 | 16 \
+ | 1.4 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 |
+|
+=1' treble qua rest smq [E G] [c# E G c] qua rest smq [E G] [c E G c]
+=2' bass   smq rest'' cro.. bb smq rest'' cro.. b
+=2         min g g
+|
+=1' qua rest smq [D A] [d D A d] qua rest smq [D A] [d D A d]
+=2' smq rest'' cro.. a smq rest'' cro.. a
+=2  min fn f
+|
+=1' qua rest smq [D F] [B D F B] qua rest smq [D F] [B D F B]
+=2' smq rest'' cro.. ab smq rest'' cro.. a
+=2  min f f
+/
+3 bars | 16 | 16 | 16 |
+|
+il0.6 .03 15
+=1' treble qua rest smq [C G] [c C G c] qua rest smq [C G] [c C G c]
+=2' bass   smq rest'' cro.. g smq rest'' cro.. g
+=2         min e e
+|
+=1' qua rest smq [A_ C] [F A_ C F] qua rest smq [A_ C] [F A_ C F]
+=2' smq rest'' cro.. f smq rest'' cro.. f
+=2  min e e
+|
+=1' qua rest smq [A_ C] [F A_ C F] qua rest smq [A_ C] [F A_ C F]
+=2' smq rest'' cro.. f smq rest'' cro.. f
+=2  min d d
+
+6 systems 15 / 19-30-19/
+pagenum
+innerhead Prelude I in C, Book 1, Well-Tempered Clavier, J. S. Bach
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' treble qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
+=2' bass   smq rest' cro.. d smq rest' cro.. d
+=2,        min G G
+|
+=1' qua rest smq [G_ C] [E G_ C E] qua rest smq [G_ C] [E G_ C E]
+=2' smq rest' cro.. e smq rest' cro.. e
+=2, min c c
+|
+il0.5 .03 20
+=1' qua rest smq [B_b C] [E B_ C E] qua rest smq [B_ C] [E B_ C E]
+=2' smq rest' cro.. g smq rest' cro.. g
+=2, min c c
+/
+3 bars | 16 | 1 1 1 1.5  1 1 1 1  1 1 1 1  1 1 1 1 | 16 |
+|
+=1' treble qua rest smq [A_ C] [E A_ C E] qua rest smq [A_ C] [E A_ C E]
+=2' bass   smq rest' cro.. f smq rest' cro.. f
+=2,        min F F
+|
+=1' qua rest smq [A_ C] [Eb A_ C E] qua rest smq [A_ C] [E A_ C E]
+=2' smq rest' cro.. c smq rest' cro.. c
+=2, min F# F
+|
+=1' qua rest smq [B_ C] [D B_ C D] qua rest smq [B_ C] [D B_ C D]
+=2' smq rest' cro.. f smq rest' cro.. f
+=2, min Ab A
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' treble qua rest smq [G_ B_] [D G_ B_ D] qua rest smq [G_ B_] [D G_ B_ D]
+=2' bass   smq rest' cro.. f smq rest' cro.. f
+=2,        min G G
+|
+il0.5 .03 25
+=1' qua rest smq [G_ C] [E G_ C E] qua rest smq [G_ C] [E G_ C E]
+=2' smq rest' cro.. e smq rest' cro.. e
+=2, min G G
+|
+=1' qua rest smq [G_ C] [F G_ C F] qua rest smq [G_ C] [F G_ C F]
+=2' smq rest' cro.. d smq rest' cro.. d
+=2, min G G
+/
+3 bars | 16 | 1.5 1 1 1.6  1 1 1 1  1 1 1 1  1 1 1 1 \
+ | 1.5 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 |
+|
+=1' treble qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
+=2' bass   smq rest' cro.. d smq rest' cro.. d
+=2,        min G G
+|
+=1' qua rest smq [A_ C] [F# A_ C F] qua rest smq [A_ C] [F A_ C F]
+=2' smq rest' cro.. eb smq rest' cro.. e
+=2, min G G
+|
+=1' qua rest smq [G_ C] [G G_ C G] qua rest smq [G_ C] [G G_ C G]
+=2' smq rest' cro.. en smq rest' cro.. e
+=2, min G G
+/
+3 bars | 16 | 16 | 1 1 1.5 1  1 1 1 1  1 1 1 1  1 1 1 1 |
+|
+il0.5 .03 30
+=1' treble qua rest smq [G_ C] [F G_ C F] qua rest smq [G_ C] [F G_ C F]
+=2' bass   smq rest' cro.. d smq rest' cro.. d
+=2,        min G G
+|
+=1' qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
+=2' smq rest' cro.. d smq rest' cro.. d
+=2, min G G
+|
+=1' qua rest smq [G_ B_b] [E G_ B_ E] qua rest smq [G_ B_] [E G_ B_ E]
+=2' smq rest' cro.. c smq rest' cro.. c
+=2, min C C
+/
+3 bars | 16 | 16 | 10 ||
+|
+=1' treble qua rest,, blank smq [C F C A_] min blank
+=2' bass   qua blank smq [f a] cro blank smq [c~ a f a-s5] [f d f d]
+=2         smq rest cro.. c'(2 min c,)2
+=2,        min C(4 C)4
+|
+=1 qua rest smq [G B'] [d f d B,] [d B, G, B,-s5] [D F E D]
+=2' smq rest cro.. B(1 min B)1
+=2, min C(2 C)2
+|
+=1 smb <E G c-fermata>
+=2 smb <C c-fermata>
+

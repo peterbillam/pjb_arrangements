@@ -1,0 +1,373 @@
+4 systems 10 /19-25-19-25-19-25-19/
+title A Nightingale Sang in Berkeley Square
+midi channel 1 patch 40 pan 10 reverb 90
+midi channel 2 patch 40 pan 37 reverb 90
+midi channel 3 patch 41 pan 63 reverb 90
+midi channel 4 patch 42 pan 90 reverb 90
+lefthead Manning Sherwin
+righthead words by Eric Maschwitz
+leftfoot Arranged for Manhattan Transfer by Janis Siegel and transcribed by Carl Crossin
+/
+6 bars | 3/4 12 | 12 | 12 | 12 | 12 | 12 |
+| 3/4 84
+=1 treble 3/4 cha1 leg98 cro c A c
+=2 treble 3/4 cha2 leg98 cro A E A
+=3 alto   3/4 cha3 leg98 cro e c e
+=4 bass   3/4 cha3 leg98 min f(1
+|
+=1 min Bb qua [c B]
+=2 min G cro Gb
+=3 min d cro d
+=4 min f)1 cro f(1
+|
+=1 cro. A qua F cro A
+=2 cro Gn F En
+=3 min c cro c
+=4 min. f)1(1
+|
+=1 min G qua [A G]
+=2 min Eb cro rest
+=3 min Bb cro rest
+=4 min f)1 cro rest
+|
+il0.4 .03 5
+=1 cro F G F
+=2 min. D
+=3 cro Ab G An
+=4 min. Bb
+|
+=1 cro E{2 F}2 E
+=2 cro C{2 Db}2 C
+=3 cro G{2 Ab}2 G
+=4 cro d{1 eb}1 d
+/
+5 bars | 12 || 4/4 16 | 16 | 3/4 12 | 3 3 2 2 2.5 2 |
+|
+=1 min. G
+=2 min. Eb
+=3 min. Bb
+=4 min. f
+| 4/4 72
+=1 4/4 min. A qua rest G_
+=2 4/4 min. F qua rest G_
+=3 4/4 min. c qua rest G
+=4 4/4 min. g qua rest G
+|
+=1 qua [E E] cro C qua rest C [G G]
+=2 qua [E E] cro C qua rest C [G G]
+=3 qua [E E] cro C qua rest C [G G]
+=4 qua [e e] cro c qua rest c [g g]
+| 3/4 72
+il0.6 .03 10
+=1 3/4 cro. E qua rest [C C]
+=2 3/4 cro. E qua rest [C C]
+=3 3/4 cro. E qua rest [c c]
+=4 3/4 cro. e qua rest [c~ c~]
+|
+=1 qua3 [A A-I3 A] cro B qua [B B]
+=2 qua3 [F F-I3 F] cro A qua [A G#]
+=3 qua3 [e d-I3 e] cro e qua [e eb]
+=4 qua3 [c~ c~-I3 c~] cro f qua [e c,]
+/
+5 bars | 1.6 1.6 1.6 1.6 2.5 2 | 4/4 3 3 3 4 | 2 2.5 1.8 1.8 1.8 1.8 2 2 \
+ | 16 | 14 |
+| 3/4 72 72 108
+=1 min c qua [c c]
+=2 min A qua [A Ab]
+=3 min e  qua [e eb]
+=4 min a  qua [e c,]
+| 4/4 108
+=1' 4/4 cro B G A F
+=2 4/4 cro G E E C
+=3' 4/4 cro d B c# A
+=4 4/4 cro e e f# g
+|
+=1 qua [G C] cro G rest qua [G F]
+=2 qua [E C] cro Eb min rest
+=3 qua [B B] cro Bb min rest
+=4 qua [c, g] cro f min rest
+|
+il0.6 .03 15
+=1 qua [E F] cro G cro. C qua C
+=2 qua [C D] [D{2 C}2] cro. C qua C
+=3 qua [Bn' A] cro G cro. F# qua F#
+=4 qua [g f] cro e cro. eb qua eb
+|
+=1 min C D
+=2 min A_ B_'
+=3 min Fn Ab
+=4 min d f
+/
+5 bars | 3 3 3 4 | 15 | 2 2 2 2 2 2 2 3 | 2.5 2 2 2 2.5 2 2 2 | 3 3 3 4 |
+| 4/4 75 75 75 108
+=1 min. C-fermata qua rest G_
+=2 min. A_-fermata qua rest G_
+=3 min. G-fermata cro rest
+=4 min. e-fermata cro rest
+| 4/4 108
+=1 cro E E min C(2
+=2 cro E E min C(2
+=3 min rest cro. rest qua E
+=4 min rest cro. rest qua g
+|
+=1 min. C)2 qua rest smq [C C]
+=2 min. C)2 qua rest smq [C C]
+=3' cro G B cro. Bb qua rest
+=4  cro g b cro. bb qua rest
+|
+il0.6 .03 20
+=1 qua [A A] cro A qua Bb cro Bn qua e
+=2 qua [E F] cro G qua G# cro G# qua B
+=3 qua [c c#] cro d qua d  cro e  qua d
+=4 qua [f f]  cro f qua f  cro f  qua ab
+|
+=1 min. c qua rest c
+=2 min. A qua rest A
+=3 min. e qua rest A
+=4 min. an qua rest d
+
+4 systems /19-25-19-25-19-25-19/
+righthead A Nightingale Sang in Berkeley Square
+lefthead Manning Sherwin
+leftfoot Arranged for Manhattan Transfer by Janis Siegel and transcribed by Carl Crossin
+/
+5 bars | 16 | 2 2.6 1.8 1.8 1.8 1.8 2.6 2 | 5.4 4 4 4 \
+ | 14 | 1.8 1.8 1.8 2.6 2.6 2.6 2.6 2 |
+|
+=1 cro B G cro. A qua F
+=2 cro G E cro. F qua C
+=3 cro G B cro. A qua A
+=4 cro e g cro. f qua g
+|
+=1 qua [G C] min G(2 qua [G)2 F]
+=2 qua [E C] min Eb(2 qua [Eb)2 F]
+=3, qua [Bn c] min c(1 qua [c)1 Ab]
+=4 qua [c~ c~] min ab(1 qua [ab)1 ab]
+|
+=1 qua [E F] cro G cro. C qua C
+=2 qua [En F] cro G cro. C qua C
+=3 qua [G An] cro Bn cro. c qua c
+=4 qua [g an] cro bn cro. c~ qua c~
+|
+il0.6 .03 25
+=1 min C D
+=2 min C D
+=3 min c d
+=4 min c~ d~
+|
+=1 cro. C qua B_ [B_ B_ B_ B_]
+=2 cro. C qua B_ [C Eb En Gn]
+=3 cro. c qua B [c c# d d#]
+=4 cro. c~ qua b [bb a g# a]
+/
+4 bars | 0.8 0.8 0.8 2.8  1 1 1 1.3  1.1 1.1 1 1 1 1 1.3 1.3 \
+ | 1 1 1 1  1.7  1 1 1.3 1.3  1 1 1 1  1 1 2.3 1.3 \
+ | 1 1 1.5 2.2 1 1 1 1 1 1 1 1  1 1 1 1 \
+ | 1 1 1 1.5 1 1 1 1 1 1 1 1 1  1 1 2.0 1.4 |
+|
+=1 qua. rest smq B_ qua. [C# smq D#] qua [E qua. F# smq G# A]
+=2 min G#{2 E}2(1
+=3 min e{1 B}1
+=4 min e{1 c#}1(2
+|
+=1' qua [B B] smq-s B' min G#(2 qua [G)2 smq G Gn{2]
+=2 cro. E)1 qua E{2 min D#}2
+=3 cro. A qua A min A
+=4 cro. c#)2 qua c#{2 min cn}2
+|
+=1 qua [F#}2 smq F F] cro D#(2 cro. D)2 qua Dn
+=2 min D# Cn
+=3 min G# Gn
+=4 smb B
+|
+il0.6 .03 30
+=1 qua. [C# smq C] cro B_(2 cro. B_)2 smq rest E
+=2 min.. A_ smq rest C#
+=3 min E cro. C# smq rest A
+=4 min.. B smq rest f#
+/
+5 bars | 3 2 2 3.7 3 3 3 2 \
+ | 2.3 2.3 2.3 2.3 1.8 1.8 1.8 2 \
+ | 3 3 1.8 1.8 1.8 1.8 2 2 | 3 3 1.8 1.8 1.8 1.8 3 2 | 3 2 2 3 3 2 2 2 |
+|
+=1 qua F# cro F# qua E [D# E F G#]
+=2 qua D# cro D# qua C# [B_ C# D# E]
+=3' qua B cro B qua B [c# B B dn]
+=4 qua g# cro g# qua g# [gn g g f#]
+|
+=1' cro3 B B-I3 G#(2 cro. G)2 qua B_
+=2 cro3 G# G#-I3 Fn(2 cro. F)2 qua rest
+=3' cro3 c# c#-I3 B(2 cro. B)2 qua rest
+=4 cro3 e e-I3 d#(1 cro. d)1 qua rest
+|
+=1 qua [F# F#] min E(2 qua [E)2 E]
+=2 qua [D# Cn] min C#(2 qua [C)2 C]
+=3 qua [G# G] min G(2 qua [G)2 G]
+=4 qua [B B] min B(2 qua [B)2 B]
+|
+=1 qua [A A] min G# qua rest A_b
+=2 qua [C# E] min D# qua rest A_b
+=3 qua [F# A] min A# cro rest
+=4 qua [e fn] min f# cro rest
+|
+il0.6 .03 35
+=1 cro F F cro. Db qua F
+=2 qua [Eb{2 Db}2 E{2 D}2] [C{2 B_b C}2 D]
+=3' qua [c{2 Bb}2 c{2 B}2] [Ab{2 Gb A}2 B']
+=4 qua [ab{1 gb}1 a{1 g}1] [f{1 eb f}1 g]
+/
+5 bars | 3 2 2 3.6 2 2 3 3 \
+ | 1 1 1 1  1 1 2.8 2.8  1.2 1.2 1.2 1.2  1.2 1.2 1 1 \
+ | 1.7 1.7 1.7 1.7 1.7 1.7 3 2 | 16 | 3 3 2 2 2 2 2.5 2 |
+|
+=1 cro. Ab qua A cro F qua rest smq [Db D]
+=2 qua Eb{2 cro Db}2 qua Db cro Eb qua rest smq [E D]
+=3 cro Ab{2 qua [Gb}2 G] cro cb qua rest smq [cb c]
+=4 cro f{1 qua [eb}1 e] cro db qua rest smq [d d]
+|
+=1 cro. Bb smq [B B] cro3 B c-I3 f
+=2 cro. F smq [Eb Db] cro3 Ab Gb-I3 cn
+=3 cro. db smq [gb f]  cro3 f  eb-I3 gb
+=4 cro. gb smq [g g]   cro3 g  g-I3  a
+|
+=1 min. db cro d
+=2 min. Bb cro A_b
+=3 min. f qua [e{1 eb}1]
+=4 min. bb cro gb
+|
+=1 cro c Ab cro. Bb qua Gb
+=2 cro Ab Eb cro. F qua Db
+=3 cro eb c  cro. db qua db
+=4 cro f  f  cro. gb qua bb
+|
+il0.6 .03 40
+=1 qua [Ab Db] cro A(2 cro A)2 qua rest Gb
+=2 qua [Eb C] cro Db(2 cro. D)2 qua rest
+=3 qua [c' Ab] cro An(2 cro. A)2 qua rest
+=4 qua [eb f]  cro en(1 cro. e)1 qua rest
+
+/
+5 bars | 6 4 4 4 | 14 | 15 | 6 4 4 4 | 12 8 |
+|
+=1 qua [F Gb] cro Ab cro. Db qua D
+=2 qua [C Db] cro Eb cro. A qua Gn
+=3 qua [Ab An] cro Bb cro. f  qua en
+=4 qua [eb en] cro f  cro. c~ qua bn
+|
+=1 min Db Eb
+=2 min Gb F#
+=3 min eb cn
+=4 min bb an
+|
+=1 min. Db cro D
+=2 cro En{2 min Dn}2 cro C#
+=3 min. An cro c#
+=4 min. f# cro c~#
+|
+=1 qua [db Bb] cro cn cro. An qua A
+=2 qua [An F#] cro G# cro. Fn qua F
+=3 qua [en c#]  cro d#  cro. cn qua c
+=4 qua [bb g]   cro an  cro. f# qua f
+|
+il0.6 .03 45
+=1' qua [Bb G] cro Ab min F(1
+=2 qua [E Eb] [D{2 Db}2] min C
+=3 qua [Bn B] [Bb'{2 An}2] min A
+=4 qua [fn f] [e{1   eb}1] min dn
+/
+5 bars | 3 3 3 4 | 2 3 1.7 1.7 1.7 1.7 1.7 2 \
+ | 1.8 1.8 1.8 1.8 1.8 1.8 1.8 3 | 1 1 1 1 1 1 2 2.6 1 1 1 1 1 1 1 1 \
+ | 2 2 2 2 2 2 3 2 |
+|
+=1 min.. F)1 qua rest
+=2 min.. Eb qua rest
+=3 min.. Bb  qua rest
+=4 min.  db qua rest d
+|
+=1 min rest cro. rest qua F#
+=2 smb rest
+=3 smb rest
+=4 qua [bb b] min. gb
+|
+=1 cro A A cro. F# smq [D D]
+=2 min rest cro. rest smq [D D]
+=3 smb rest
+=4 smb rest
+|
+=1 cro. B smq [B B] cro3 c# c-I3 c
+=2 cro. A smq [G G] cro3 A A-I3 A#
+=3 cro. f# smq [d e] cro3 e   f#-I3 e
+=4 cro. g  smq [g g] cro3 f#  f-I3 f
+|
+il0.6 .03 50
+=1 min. d qua rest d
+=2 cro c#{1 B cro. cn}1 qua Bn
+=3 min. f# qua rest f#
+=4 min b{1 cro. a}1 qua g#
+/
+5 bars | 5 4 4 4 | 2 2.5 2 2 2 2 2 2 | 2.5 2 2 2 2 2.5 2.5 2 | 13 | 10 ||
+|
+=1 cro c# A# cro. B qua G
+=2 qua [F#{2 E#}2] [G#{2 F}2] cro. F qua D
+=3 cro G# c# cro. d qua B
+=4 cro c# f# cro. g qua a
+| 4/4 108 108 75 108
+=1 qua A rest cro c# cn-fermata Dn
+=2 qua F# rest cro An Ab-fermata Dn
+=3 qua c# rest cro e   eb-fermata dn
+=4 qua d  rest cro f#  an-fermata d~n
+| 4/4 108
+=1 qua [B_ C#] cro D E D
+=2 qua [B_ C#] cro D qua [E{2 D}2] [C#{2 Cn}2]
+=3 qua [B' A] cro B' A Ab
+=4 qua [b a] cro g f# fn
+|
+=1 min D D
+=2 min B_ B_b
+=3 min G Fn
+=4 min e e
+| 4/4 80
+il0.6 .40 55
+=1 smb D-fermata
+=2 smb A_-fermata
+=3 smb F#-fermata
+=4 smb e-fermata
+/
+6 bars | 3/4 12 | 1.7 1.7 1.7 1.7 2.3 2 \
+ | 2 2 2 2.6 2 2 | 4/4 16 | 2 3 2 2 2 2 2 2 | 14 | 10 ||
+| 3/4 84
+=1 3/4 cro A F# A
+=2 3/4 cro F# C# F
+=3' 3/4 cro c# A c
+=4 3/4 min. d(1
+|
+=1 min G qua [A G]
+=2 min E cro Eb
+=3 min B cro B
+=4 min d)1 cro d(1
+|
+=1 cro. F# qua D cro F
+=2 cro En D C#
+=3 min A cro A
+=4 min. d)1(1
+| 4/4 84
+=1 4/4 min. E-fermata cro D
+=2 4/4 min. Cn-fermata cro D
+=3 4/4 min. G-fermata cro d
+=4 4/4 min. d)1-fermata cro d~
+|
+il0.4 .03 60
+=1 qua [B B] cro c# d d
+=2 qua [F# F] cro A G# G
+=3 qua [e d] cro e Bb B
+=4 qua [g g] cro f# fn f
+|
+=1 min d d
+=2 min Gn G
+=3 min e Bn
+=4 min b a
+| 4/4 60
+=1 smb d-fermata
+=2 smb F#-fermata
+=3 smb A-fermata
+=4 smb d-fermata

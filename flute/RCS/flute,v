@@ -1,0 +1,903 @@
+head	1.6;
+access;
+symbols;
+locks
+	pjb:1.6;
+comment	@# @;
+
+
+1.6
+date	2004.01.24.19.52.41;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2004.01.17.09.18.58;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2004.01.17.03.37.17;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2003.12.07.08.43.26;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2003.11.07.04.03.48;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2003.11.01.01.00.43;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Easy pieces for Flute and Piano
+@
+
+
+1.6
+log
+@tiny adjustments to La Volta
+@
+text
+@11 systems 10 /19/
+title Original Rags
+rightheader Scott Joplin
+/
+5 bars | 2# 2/4 5 | 5 | 5 | 3 4 | 8 |
+|
+=1  treble 2# 2/4 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 cro rest smq rest [A, d f]
+I0.2 .40 mf
+|
+=1 smq [a d f a(1] [a)1 f a f]
+/
+5 bars | 2# 8 | 8 | 3 4 | 8 | 8 |
+|
+=1 smq [a d f a(1] [a)1 f a f]
+|
+=1 smq [b qua b smq d] [e d qua e]
+|
+=1 cro f smq rest [A, d f]
+|
+=1 smq [a d f a(1] [a)1 f a f]
+|
+=1 smq [a d f a(1] [a)1 f a f]
+/
+5 bars | 2# 3 4 | 4 3 | 8 | 8 | 8 |
+|
+=1 qua [f e(1] [e)1 smq d# e]
+|
+=1 smq [f qua e smq c] qua [B'-emph A-emph]
+I0.2 .01 f
+|
+=1 smq [a d f a(1] [a)1 f a f]
+I0.2 .01 mf
+|
+=1 smq [a d f a(1] [a)1 f a f]
+|
+=1 smq [b qua b smq d] [e d qua e]
+/
+5 bars | 2# 2.5 3 | 4 3 | 4 3 | 8 | 3 2.5 ||
+|
+=1 cro f qua rest f
+I0.2 .65 f
+|
+=1 smq [b qua a smq f] qua [g f]
+|
+=1 smq [f qua e smq B,] qua [f e]
+|
+=1 smq [f qua e smq f] [g f qua e]
+|
+=1 qua d rest cro d~-emph
+/
+5 bars | 1# 8 | 8 | 4 3 | 8 | 4 3 |
+|
+=1, treble 1# smq [d e d B] [c qua A smq B]
+I0.4 .01 mf
+|
+=1, smq [c d e B] [c qua A smq B]
+|
+=1, smq [G B d e(1] cro e)1
+|
+=1, smq rest [G B d] [e d B G]
+|
+=1, smq [F A c e(1] cro e)1
+/
+5 bars | 1# 8 | 4 3 | 8 | 8 | 8 |
+|
+=1 smq rest [F A c'] [e c A, F,]
+|
+=1 smq [G, B, d g] qua [f e]
+|
+=1 qua d smq [D(2 E] [F G A B')2]
+|
+=1, smq [d e d B] [c qua A smq B]
+|
+=1, smq [c d e B] [c qua A smq B]
+/
+5 bars | 4 3 | 6.5 | 1.3 1 1 1.3 .8 .8 .8 .8 | 4 3 | 1 1.3 1 1 .8 .8 .8 .8 |
+|
+=1, smq [G B d e(1] cro e)1
+|
+=1 qua rest g-emph [f-emph fn-emph]
+|
+=1 smq [E G# B' e'] qua [fn-emph e-emph]
+|
+=1 smq [A, c e a] qua [b-emph a-emph]
+|
+=1, smq [gn B A# B] qua [e d]
+/
+6 bars | 3 2.5 || 2# 4 | 4 | 4 | 3 4 | 8 |
+|
+=1 qua [G, d] cro g-emph
+|
+=1 2# cro blank min rest
+|
+=1 cro blank min rest
+|
+=1 cro blank min rest
+|
+=1 cro rest smq rest [A, d f]
+I0.2 .30 mf 
+|
+=1 smq [a d f a(1] [a)1 f a f]
+/
+5 bars | 2# 8 | 8 | 3 4 | 8 | 8 |
+|
+=1 smq [a d f a(1] [a)1 f a f]
+|
+=1 smq [b qua b smq d] [e d qua e]
+|
+=1 cro f smq rest [A, d f]
+|
+=1 smq [a d f a(1] [a)1 f a f]
+|
+=1 smq [a d f a(1] [a)1 f a f]
+/
+5 bars | 2# 3 4 | 4 3 | 8 | 8 | 8 |
+|
+=1 qua [f e(1] [e)1 smq d# e]
+|
+=1 smq [f qua e smq c] qua [B'-emph A-emph]
+I0.2 .01 f
+|
+=1 smq [a d f a(1] [a)1 f a f]
+I0.2 .01 mf
+|
+=1 smq [a d f a(1] [a)1 f a f]
+|
+=1 smq [b qua b smq d] [e d qua e]
+/
+5 bars | 2# 2.5 3 | 4 3 | 4 3 | 8 | 3 2.5 ||
+|
+=1 cro f qua rest f
+I0.2 .65 f
+|
+=1 smq [b qua a smq f] qua [g f]
+|
+=1 smq [f qua e smq B,] qua [f e]
+|
+=1 smq [f qua e smq f] [g f qua e]
+|
+=1 qua d rest cro d~-emph
+
+
+11 systems 10 /19/
+title Magnetic Rag
+rightheader Scott Joplin
+/
+4 bars | 2b 4/4 8 | 8 | 8 | 8 |
+|
+=1  treble 2b 4/4 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 qua [d b g f] e cro c~ qua c~#
+|
+=1 qua [d~ f b d] g cro f qua rest
+|
+=1 qua f cro f qua f(1 [f)1 g] cro f
+|
+=1 qua f cro f qua f(1 [f)1 g] cro f
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 qua [d b g f] e cro c~ qua c~#
+|
+=1 qua [d~ f b d~] g cro b qua rest
+|
+=1 qua [a c~ d~ e~(1] [e~)1 d~] cro a
+|
+=1 qua [c~ b a b(1] cro b)1 qua rest b-blank-emph(1
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 cro b)1 g qua B cro f qua F
+|
+=1 cro e qua [e d(1] [d')1 F] cro f
+|
+=1 cro b g qua B cro f qua F
+|
+=1 cro e qua [e d(1] cro d')1 qua rest b-blank-emph(1
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 cro b)1 g qua B cro f qua F
+|
+=1 cro e qua [e d(1] [d')1 F] cro f
+|
+=1 cro b g qua B cro f qua F
+|
+=1 cro e qua [e d(1] d)1 [g f e]
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 qua [d b g f] e cro c~ qua c~#
+|
+=1 qua [d~ f b d] g cro f qua rest
+|
+=1 qua f cro f qua f(1 [f)1 g] cro f
+|
+=1 qua f cro f qua f(1 [f)1 g] cro f
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 qua [d b g f] e cro c~ qua c~#
+|
+=1 qua [d~ f b d~] g cro b qua rest
+|
+=1 qua [a c~ d~ e~(1] [e~)1 d~] cro a
+|
+=1 qua [c~ b a b(1] cro b)1 qua rest b-blank-emph(1
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 cro b)1 g qua B cro f qua F
+|
+=1 cro e qua [e d(1] [d')1 F] cro f
+|
+=1 cro b g qua B cro f qua F
+|
+=1 cro e qua [e d(1] cro d)1 qua rest b-blank-emph(1
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 cro b)1 g qua B cro f qua F
+|
+=1 cro e qua [e d(1] [d')1 F] cro f
+|
+=1 cro b g qua B cro f qua F
+|
+=1 cro e qua [e d(1] cro d)1 qua [d e]
+/
+4 bars | 2b 8 | 8 | 8 | 8 |
+|
+=1 cro f-. min g-emph cro gb
+|
+=1 qua [gb f b d~(1] [d~)1 b] cro c~
+|
+=1 cro b rest min rest
+|
+=1 min. rest qua [D E]
+/
+4 bars | 2b 8 | 8 | 8 | 8 ||
+|
+=1 cro F-. min G-emph cro Gb
+|
+=1 qua [Gb F B' d'(1] [d)1 B,] cro c
+|
+=1 cro rest f(1 en eb)1
+|
+=1 cro d rest b-emph rest
+
+
+
+4 systems 20 /19 30 19-30-19/19 30 19-30-19/19 30 19-30-19/19 30 19-30-19 20 /
+title La Volta
+rightheader William Byrd
+/
+4 bars ||: 1# 6/4 12 | 12 | 12 | 12 |
+|
+=1  treble 1# 6/4 cro B'-. A-. G-. min. B'
+=2' treble 1# 6/4 min. G cro. D qua G cro D
+=2, 1# 6/4 min. B_ B_
+=3  bass   1# 6/4 min. G g
+|
+Il0.1 .95 '
+=1 cro B'-. A-. G-. min. d
+=2' cro G-s2-s5 F-blank-s3 G-s1-s4 min. <F A>
+=2, min D cro B_ cro. rest,, D
+=3  cro G d-s2, e min. d
+|
+=1 cro B'-. A-. G-. cro. d qua c cro B
+=2' cro G F G-s5 min F-s1-s4 cro G
+=2, min D cro blank min A_  cro blank
+=3' min blank cro g min blank cro g
+=3, cro g-s1, d-s3, e-s1,-s2, min d cro e-s1,-s2,
+|
+Il0.1 .95 '
+=1 cro c-. min A min. G
+=2' cro E-s4 cro. D qua C min. B_
+=3' min g cro f-s1, cro. d qua g cro d
+=3, cro c-s1,-s4, min d-s3, min. G
+/
+4 bars | 1# 12 | 12 | 12 | 12 ||
+|
+=1  treble 1# cro B'-. A-. G-. min. B'
+=2' treble 1# cro rest D G cro. D qua G cro D
+=2, 1# min. blank B_
+=3  bass   1# min. G g
+|
+Il0.1 .95 '
+=1 cro B'-. A-. G-. min. d
+=2' cro G-s2-s5 F-blank-s3 G-s1-s4 min. <F A>
+=2, min D cro B_ cro. rest,, D
+=3  cro G d-s2, e min. d
+|
+=1 cro B'-. A-. G-. cro. d qua c cro B
+=2' cro G F G-s5 min F-s1-s4 cro G
+=2, min D cro blank min A_  cro blank
+=3' min blank cro g min blank cro g
+=3, cro g-s1, d-s3, e-s1,-s2, min d cro e-s1,-s2,
+|
+Il0.1 .95 '
+=1 cro c-. min A min. G
+=2' cro E-s4 cro. D qua C min. B_
+=3' min g cro f-s1, cro. d qua g cro d
+=3, cro c-s1,-s4, min d-s3, min. G
+/
+4 bars | 1# 12 | 12 | 12 | 12 |
+|
+=1  treble 1# cro G B c d qua [c d] cro e
+=2' treble 1# min. <B_ D> cro <B_ D> G-s4 <E G>
+=3' bass   1# min. <G g> min G cro c
+|
+=1 cro c qua [B, c] cro d cro. B' qua A cro G(2
+=2' min <E A> cro <F A> min. <B_ G>
+=3  min A cro d' min. G
+|
+Il0.1 .11 '
+=1 cro G)2 B c cro. d qua c cro B
+=2' min. <D B> <B_ G>
+=3' min. G G
+|
+Il0.1 .95 '
+=1 cro c-. min A min. G
+=2' min G cro F min. G
+=2, cro E min D min. B_
+=3' cro c min d min. <G g'>
+/
+4 bars | 1# 12 | 12 | 12 | 12 :||
+| 
+=1  treble 1# cro. G qua A [B c] cro d qua [c d] cro e
+=2' treble 1# min. <B_ D> cro <B_ D> G-s4 <E G>
+=3' bass   1# min. <G g> min G cro c
+|
+Il0.1 .95 ' 
+=1 cro c qua [B, c] cro d cro B' qua [A B'] cro G
+=2' min <E A> cro <F A> min. <B_ G>
+=3  min A cro d' min. G
+|
+=1 cro D qua [G A B' c'] cro. d qua c cro B
+=2' min. <D B> <B_ G>
+=3' min. G G
+|
+Il0.1 .95 '
+=1 cro c-. min A min. G
+=2' min G cro F min. G
+=2, cro E min D min. B_
+=3' cro c min d min. <G g'>
+
+4 systems 20 /19 30 19-30-19/19 30 19-30-19/19 30 19-30-19/19 30 19-30-19 20 /
+rightheader La Volta, William Byrd
+/
+4 bars ||: 1# 12 | 12 | 12 | 12 |
+|
+=1  treble 1# cro B' qua [A B'] cro G min. B
+=2' treble 1# min. G cro. D qua G cro D
+=2, 1# min. B_ B_
+=3  bass   1# min. G g
+|
+Il0.1 .95 '
+=1  cro B' qua [A B'] cro G min. d
+=2' cro G-s2-s5 F-blank-s3 G-s1-s4 min. <F A>
+=2, min D cro B_ cro. rest,, D
+=3  cro G d-s2, e min. d
+|
+=1 cro B' qua [A B'] cro G cro. d qua c cro B
+=2' cro G F G-s5 min F-s1-s4 cro G
+=2, min D cro blank min A_  cro blank
+=3' min blank cro g min blank cro g
+=3, cro g-s1, d-s3, e-s1,-s2, min d cro e-s1,-s2,
+|
+Il0.1 .95 '
+=1' qua [c(2 B)2 A G] cro A min. G
+=2' cro E-s4 cro. D qua C min. B_
+=3' min g cro f-s1, cro. d qua g cro d
+=3, cro c-s1,-s4, min d-s3, min. G
+/
+4 bars | 1# 12 | 12 | 12 | 12 |
+|
+=1 cro B' qua [A B' G A] [B,(1 c)1] min B
+=2' min. G cro D G D
+=2, min. B_ B_
+=3  min. G g
+|
+Il0.1 .95 '
+=1 cro B' qua [G A B' c'] [d(1 e)1] min d
+=2' min G cro G min. F
+=2, min D cro B_ min D cro A_
+=3  min G cro e min. d
+|
+=1' qua [B G(2 A B)2 A G] [F(2 E)2 D d c B]
+=2' cro G F E min F cro G
+=2, min D cro blank min. D
+=3, cro g d e min d cro e
+|
+Il0.1 .95 '
+=1' qua [A(2 G)2 F e d c] [B(2 A)2] min G
+=2' cro <C E> min <A_ D> min. <B_ D>
+=3 cro c min d min G cro g
+/
+4 bars | 1# .8 .8 .8 1.15 1 1 1 1 1 1 .8 .8 | 2 2 1.6 2 2 1.6 \
+ | .8 .8 1 1 1.5 1  1 1 1 1 1 1 | 1 1 .8 .8 .8 .8 .8 .8 1 1 1 1 |
+|
+=1 cro. G qua A [B, c] [d(1 B,)1 c d] cro e
+=2 min. <B_ G-s1-s4> min <B_ G> cro <E G>
+=3 min. G min G cro c
+|
+Il0.1 .95 '
+=1 qua [c#(1 A,)1 B, c] cro d qua [B'(2 G)2 A B'] cro G
+=2 min <E A> cro <F A> min. <D G>
+=3 min A cro d' min. G
+|
+=1 cro D qua [G A B' cn'] [d B,(1 c d)1 c A,]
+=2' min. <B_ G> min <D B> cro E(2-s3
+=3 min. G min G cro <c,-s1,-s4,(2 g(1>
+|
+Il0.1 .95 '
+=1 qua [c(1 B,)1] min A min. G
+=2  cro E)2 min D min. <B_ D>
+=3' min g)1 cro f-blank,-s1, cro. d qua g cro d
+=3, cro c)2 min d min. G
+/
+4 bars | 1# 12 | 12 | 12 | 1.1 1.1 1.1 1.1 1 1 1 1 1 1.3 1 1 :||
+|
+=1 min B, cro c min d cro e
+=2 min. G-s4 G
+=3' cro <G d> qua [c-s3, d e d] [B c d B c B]
+|
+=1 min c cro d B qua [A B' G A]
+=2 min A cro F min. <D G>
+=3' qua [A B c A] cro d min. G
+|
+=1 qua [B,(1 c)1] min d min A cro B'
+=2 min. G min F cro D
+=3 cro. <G d'> qua A [B c] [d, e-s3, f d g f]
+|
+=1 cro c min A-tr min. G
+=2 min G cro F min. <B_ G>
+=3' min. blank cro. g qua d cro g
+=3, qua [e c-s5, d-s3, e-s1,] cro d min. G
+
+
+
+3 systems 60 /19 30 19-35-19/19 30 19-35-19/19 35 19-40-19 50 /
+title What is a Day ?
+rightheader Ayre by Philip Rosseter
+/
+4 bars | 1b 4/4 8 | 1 1 1 1 1 1 1.3 1.1 | 8 | 1 1 1 1.2 .9 .9 .9 .9 |
+|
+Il0.1 .95 '
+=1  treble 1b 4/4 cro G qua [G A] min B
+=2' treble 1b 4/4 cro G_ qua [B_ C] min D
+=2, 1b 4/4 min blank cro G_ qua [B_-s1 C]
+=3  bass   1b 4/4 min rest cro G qua [G A]
+|
+=1 cro F qua [F G] cro. A qua B'
+=2' cro D qua [D E] cro F(1 smq [F)1 E qua D]
+=2, min B_ cro. C qua B_
+=3' min <B f> cro <F f> qua [F G]
+|
+=1 cro c qua [B'(2 A)2] cro G B'
+=2' cro <A_ C> D qua [Eb-s1-s3 F] cro G
+=2, min blank cro C qua [D C]
+=3' cro A-s5, qua [g f] cro c-s1, G
+=3, cro blank B min blank
+|
+Il0.1 .92 '
+=1 min A G
+=2' cro G F# min <D G>
+=2, cro. D qua C min B_n
+=3 min <d a> G
+/
+4 bars | 1b 1 1 1 1 .8 1.2 1 1 | 8 | 8 | 1.2 1 1.1 1 .9 .9 .9 .9 ||
+|
+=1 cro A qua [A B'] cro c d
+=2' cro <D Fn> qua [F G] qua. [A smq G] cro F-s2-s3
+=2, min blank cro <C E> D
+=3' min d-s1, cro A B
+|
+=1' cro G B min A
+=2' qua [Eb-s1-s3 F] cro G min F#
+=2, cro C qua [D C] min D
+=3 cro c G min <d, a>
+|
+=1 cro d qua [d e] cro f qua [eb(1 d)1]
+=2 min <D Fn A> cro <D d'> qua [c B,(1]
+=3 min. d-s3, cro eb
+|
+Il0.1 .92 '
+=1 cro. c qua c min d
+=2' smq [B)1 A-s4 qua G] cro A min <F B>
+=2, cro C qua [F Eb] min D
+=3 min f B
+/
+4 bars ||: 1b 8 | 1 1 1 1.2 1 1 1 1 \
+ | .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 1.0 .6 .5 .5 \
+ | 1.2 1.4 1 1.2 .9 .9 .9 .9 :||
+|
+=1 cro d(1 qua [c B,)1] cro A B'
+Il0.1 .69 ,
+=2' cro B-s2-s5 qua [A G] cro F G-s4
+=2, cro F Eb min D
+Il0.1 .27 ,
+=3' cro B-s3, c d(2-emph qua [c B]
+|
+Il0.1 .64 '
+=1 cro c(2 qua [B' A)2] cro G A
+Il0.1 .68 ,
+=2' cro A-emph qua [G-s1-s4 F] cro En F-s3-s4
+=2, cro C D blank qua [D C]
+Il0.1 .20 ,
+=3' cro A)2 B c-emph(2 qua [B A]
+|
+=1' cro B(2 qua [A G)2] cro F G
+Il0.1 .67 ,
+=2' cro G-emph qua [F-s1-s4 E] cro D smq [E F# qua G(1]
+=2, cro B_ C blank qua [C B_]
+Il0.1 .20 ,
+=3' cro G)2 A B-emph(2 qua [A G)2]
+|
+=1 min A G
+=2' qua [G)1 smq F# E] cro F min <D G>
+=2, cro A_ qua [D C] min B_n
+=3' min d <G d g>
+
+5 systems 20 /18 25 16-20-16/18 25 16-20-16/18 25 16-20-16/18 25 16-20-16 10/
+title The Streets of London
+rightheader Ralph McTell
+/
+6 bars | 4/4 8 | 8 | 8 | 8 | 8 | 8 |
+|
+=1  treble 2# 4/4 cro f f f f
+=2  treble 2# 4/4 
+=3  bass   2# 4/4 smb d
+|
+=1 cro a a f e
+=2 
+=3 smb A
+|
+=1 cro d B d e
+=2 
+=3 smb B
+|
+=1 cro. f qua g cro f c
+=2 
+=3 smb F
+|
+=1 cro rest B B c
+=3 smb G
+|
+=1 cro d d rest qua [d d]
+=3 smb B
+/
+7 bars | 2# 8 | 8 | 8 | 8 | 8 | 8 | 2 3 2 2 |
+|
+=1 treble 2# cro e e cro. e qua f
+=3 bass   2# smb E
+|
+=1 min e rest
+=3 smb A
+|
+=1 cro f f f g
+=3 smb d
+|
+=1 cro a a cro. f qua e
+=3 smb A
+|
+=1 cro d B d e
+=3 smb B
+|
+=1 cro f g f c
+=3 smb F
+|
+=1 cro rest qua [B B] cro B c
+=3 smb G
+/
+6 bars | 2# 8 | 8 | 8 | 8 | 8 | 8 |
+|
+=1 treble 2# cro d d qua rest [A A A]
+=3 bass   2# smb d
+|
+=1 cro A(2 min B')2 cro c
+=3 smb A
+|
+=1 min d cro rest d
+=3 smb D
+|
+=1 min. g qua [g g]
+=3 smb G
+|
+=1 cro f f cro. a qua a
+=3 smb D
+|
+=1 min a(1 cro g)1 f(1
+=3 smb A
+/
+7 bars | 2# 7 | 1 1 1 1.4 1 1 1 1.4 | 8 | 6 | 6 | 8 | 2 3 2 2 |
+|
+=1 treble 3# min f)1 rest
+=3 bass   2# smb B
+|
+=1 cro rest e cro. e qua e
+=3 smb E
+|
+=1 cro e B d c
+=3 smb E
+|
+=1 smb e
+=3 smb A
+|
+=1 smb rest
+=3 smb A
+|
+=1 cro f f f g
+=3 smb d
+|
+=1 cro a qua [a f(1] cro f)1 e
+=3 smb A
+/
+6 bars | 2# 8 | 8 | 8 | 8 | 8 | 8 ||
+|
+=1 treble 3# cro d B d e
+=3 bass   2# smb B
+|
+=1 cro. f qua g cro f c
+=3 smb F
+|
+=1 cro. rest qua B cro B d
+=3 smb G
+|
+=1 cro d d qua rest [A A A]
+=3 smb D
+|
+=1 cro A(2 min B')2 cro c
+=3 smb A
+|
+=1 min d rest
+=3 smb D
+
+4 systems 20 /19 35 19-30-19/19 35 19-30-19/19 35 19-30-19/19 35 19-30-19 15/
+title The Water is Wide
+/
+5 bars | 4/4 8 ||: 8 | 8 | 8 | 8 | 
+|
+=1  treble 2# 4/4 smb rest
+=2  treble 2# 4/4 cro. rest cro D F qua D
+I0.5     pp
+=3  bass   2# 4/4 cro d a d a
+|
+=1 cro rest A d qua [e e]
+=2 cro. F cro D G qua D
+=3 cro d a d b
+|
+=1 smb f
+=2 cro. A cro D A qua D
+=3 cro d a d a
+|
+=1 cro rest qua [e e] cro d B
+=2 cro. A cro D G qua E
+=3 cro d a d b
+|
+=1 smb A
+=2 cro. F cro D F qua D
+=3 cro d a d a
+/
+4 bars | 2# 8 | 8 | 8 | 8 |
+|
+=1  treble 2# cro rest A d c
+=2  treble 2# cro. A cro D F qua D
+=3  bass   2# cro d a c a
+|
+=1 smb d(1
+=2 cro. F cro D F qua D
+=3 cro B f B b
+|
+=1 cro d)1 e f qua [g(1 f)1]
+=2 cro. F cro B_ D qua B_
+=3 cro B f B f
+|
+=1 smb e
+=2 cro. E cro A_ C qua A_
+=3 cro A e A e
+/
+4 bars | 2# 8 | 8 | 8 | 8 |
+|
+=1 treble 2# cro rest e f g
+=2 treble 2# cro. E cro C A qua E
+=3 bass   2# cro A e A e
+|
+=1  smb a(1
+=2  cro. c cro C F qua C
+=3  cro F f F f
+|
+=1 cro a)1 qua [f f] cro e d
+=2  cro. A cro A_ C qua A_
+=3  cro F c F c
+|
+=1 smb f
+=2 cro. F cro B_ D qua B_
+=3 cro B f B f
+/
+5 bars | 2# 8 | 8 | 8 | 1 1 1 1 1 1 1 1.5 :|| 5 ||
+|
+=1 treble 2# cro rest e d B
+=2  treble 2# cro. D cro B_ D qua B_
+=3  bass   2# cro B f B f
+|
+=1 min A A
+=2  cro. E cro C A qua E(2
+=3  cro A e A a
+|
+=1  cro rest A B d
+=2  min E)2 A(2
+=3  min. A cro a
+|
+=1 smb d
+=2 cro. A)2 cro D F qua D
+=3 cro d a d a(1
+|
+=1 smb rest
+=2 smb F
+=3 smb <d a)1>
+@
+
+
+1.5
+log
+@add remainder of La Volta
+@
+text
+@d283 1
+a283 1
+=2' cro G F G-blank-s5 min F-s1-s4 cro G
+d308 1
+a308 1
+=2' cro G F G-blank-s5 min F-s1-s4 cro G
+d322 1
+a322 1
+=2' treble 1# min. <B_ D> cro <B_ D> G <E G>
+d343 1
+a343 1
+=2' treble 1# min. <B_ D> cro <B_ D> G <E G>
+d378 1
+a378 1
+=2' cro G F G-blank-s5 min F-s1-s4 cro G
+d416 1
+a416 1
+=2 min. <B_ G> min <B_ G> cro <E G>
+d426 1
+a426 1
+=3 min. G min G cro <c,(2 g(1>
+d430 1
+a430 1
+=2  cro E)2 min D min. <B_ G>
+d434 1
+a434 1
+4 bars | 1# 12 | 12 | 12 | 12 :||
+d437 1
+a437 1
+=2 min. G G
+@
+
+
+1.4
+log
+@add 1st page of La Volta
+@
+text
+@d373 80
+@
+
+
+1.3
+log
+@add Joplin's Original Rags
+@
+text
+@d265 110
+@
+
+
+1.2
+log
+@minor tweaks to piano part of What is a Day
+@
+text
+@d1 264
+@
+
+
+1.1
+log
+@add Rosseter's "What is a Day?"
+@
+text
+@d1 1
+a1 1
+3 systems 60 /19 30 19-35-19/19 30 19-35-19/19 30 19-35-19 50 /
+d10 2
+a11 2
+=2, 1b 4/4 min blank cro G_ qua [B_ C]
+=3  bass   1b 4/4 min rest cro G qua [B c]
+d18 2
+a19 2
+=1 cro c qua [B'(2 A)2] cro G B
+=2' cro <A_ C> D qua [Eb F] cro G
+d21 1
+a21 1
+=3' cro A qua [g f] cro c G
+d33 1
+a33 1
+=2' cro <D Fn> qua [F G] qua. [A smq G] cro F
+d35 1
+a35 1
+=3' min d cro A B
+d38 1
+a38 1
+=2' qua [Eb F] cro G min F#
+d44 1
+a44 1
+=3 min. d cro eb
+d48 1
+a48 1
+=2' smq [B)1 A qua G] cro A min <F B>
+d57 2
+a58 1
+=2' cro B qua [A G] cro F G
+d60 2
+a61 1
+=3' cro B c d qua [c B]
+d65 2
+a66 1
+=2' cro A qua [G F] cro En F
+d68 2
+a69 1
+=3' cro A B c qua [B A]
+d72 2
+a73 1
+=2' cro G qua [F E] cro D smq [E F# qua G(1]
+d75 2
+a76 1
+=3' cro G A B qua [A G]
+@

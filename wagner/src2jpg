@@ -1,0 +1,32 @@
+#! /bin/bash
+D=/home/pjb/www/mus/wagner
+DIST=pjb3265@loki.webcity.com.au:public_html/mus/wagner
+EPS2JPG=/home/pbin/eps2jpg
+MUSCRIPT=/home/pbin/muscript
+SCP='scp -P 2223'
+TIMIDITY=/usr/bin/timidity
+NORMALISE=/usr/bin/normalize-audio
+LAME=/usr/local/bin/lame
+DISPLAY=/usr/bin/display
+PLAY=/usr/bin/play
+MPLAYER=/usr/bin/mplayer
+
+#echo $1
+#echo $2
+#exit
+
+${MUSCRIPT} $1 > $1.eps
+${EPS2JPG} $1.eps > $2
+rm $1.eps
+# ${DISPLAY} $2
+exit
+
+#${MUSCRIPT} -midi $1 > $1.mid
+#${TIMIDITY} -Ow -o $1.wav $1.mid
+#rm $1.mid
+#${NORMALISE} $1.wav
+#${PLAY} $1.wav
+#${LAME} -h $1.wav $2
+#rm $1.wav
+#${MPLAYER} $2
+

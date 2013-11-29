@@ -1,0 +1,59 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+.LP
+\&
+.sp 2.8c
+.ce 2
+\f3\s+9Passacaglia and Fugue in c minor\s-9\fP
+.sp 2.4c
+.Lp
+The \f2Passacaglia et Thema Fugatum\fP in c minor, BWV 582,
+is one of the first fruits of Bach's early mastery.
+Probably written at Arnstadt, where Bach was from 1703 to 1708,
+it sythesises its models, Buxtehude, Reinken, and the French style,
+but far surpasses them in dramatic intensity, in vigour,
+in its ability to affect and excite.
+
+.Lp
+Johann Sebastian Bach was appointed in 1703 as organist
+of the new Wender organ in the \f2Neue\ Kirche\fP
+(now called the \f2Bachkirche\fP),
+giving him for the first time in his life
+free access to a fine modern organ.
+It would have been tuned at about A\ =\ 465,
+a semitone above modern concert pitch,
+probably in Werckmeister temperament.
+
+.Lp
+The passacaglia owes debts to Buxtehude's ostinato works,
+notably to his Passacaglia in d\ minor BuxWV\ 161.
+In mid-October\ 1705 Bach walked the 400 kilometers from Arnstadt to Lübeck
+to visit Buxtehude, then 68 years old;
+he only had permission to be absent for four weeks,
+but he stayed sixteen weeks, probably returning during January\ 1706.
+Probably Bach wrote his Passacaglia and Fugue afterwards,
+as he absorbed his experience.
+The Passacaglia has twenty variations.
+The cantus firmus moves to the soprano voice in bar\ 88, becomes florid
+at bar\ 104, dissolves at bar\ 112 and returns in triumph at bar\ 128.
+
+.Lp
+For the fugue, the passacaglia theme is divided into two halves,
+the first half of which enters in the alto,
+and the second of which, set in quavers, is its contersubject in the tenor.
+The fugue borrows Reinken's "permutation fugue" idea, in which
+each voice enters with the same series of subjects and countersubjects.
+So when the soprano enters in g minor in bar 174,
+the alto moves to the first countersubject in quavers
+and the tenor to a second countersubject in semiquavers;
+when the bass enters in c minor in bar 181,
+the tenor becomes free counterpoint.
+The voices rotate themes again at bar 186 in g\ minor and bar 192 in c\ minor.
+
+

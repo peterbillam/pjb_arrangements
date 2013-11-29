@@ -1,0 +1,26 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 4.3c
+.ce 100
+\f3\s+9\s+9Daily Recorder Exercises\s-9\s-9\fP
+.sp 4.2c
+\f2\s+9by Peter Billam\s0\fP
+.sp 1.8c
+\f3\s+2for Recorder (written in C)\s0\fP
+.sp 2.9c
+\(co Peter J Billam, 1995
+.sp 0.7c
+\s-1This score is licensed in electronic form to the purchaser,
+who may generate printed copies or photocopies, for their own use,
+or for the use of any musicians with whom they are playing the piece.
+All other rights, such as those of performance, recording and
+broadcast, remain reserved by the composer, Peter Billam,
+GPO Box 669, Hobart \s-2TAS\s0 7001, Australia.\s0
+.sp 0.7c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.5c
+\f2\s+1http://www.pjb.com.au\s0\fP

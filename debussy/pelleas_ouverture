@@ -1,0 +1,64 @@
+5 systems 25 /19-30-19/19-35-19/19-45-19/19-35-19/19-35-19/
+midi channel 1 patch 0 pan 70
+midi channel 2 patch 0 pan 30
+pagenum 3
+innerhead Claude Debussy
+title Pelléas et Mélisande,  Overture
+leftfoot Arranged for piano 2011 by Peter J Billam.
+/
+5 bars | 4/4 36 | 40 | 18 22 | 36 | 20 18 24 22 |
+| 4/4 5.6
+r1.7 La forêt
+b1.1 Très modéré
+=1' bass   4/4 cha1 8 leg105 vol70 2 d-s1 vol-10 a-s1-s5 vol+10
+I0.5 .02 pp
+=2' bass   4/4 cha2 8 leg105 vol70 2 A vol-10 A vol+10
+=2, bass   4/4 1 D-s1,-s4,-P
+|
+=1' 2 g-s1-s4 vol-10 a vol+10
+=1, 1 <c e>
+=2' 2 G vol-10 A vol+10
+=2,  1 C-s2,-s5,
+|
+=1'  2 d-s1 vol-10 4 a-s5 a vol+10
+=2' 2 A vol-10 4 A A vol+10
+=2, 1 D-s1,-s4,
+|
+=1' 2 g-s1-s4 vol-10 a vol+10
+=1, 1 <c e> treble
+=2' 2 G vol-10 A vol+10
+=2,  1 C
+|
+il1.0 .50 5
+=1, vol-10 4 <d-ten-s1-s1-s3-s4 F#rrxl G#l cx> <Fx(2 G(4 Bb(3 e(1-ten-s1-s1-s2-s5> \
+ 83 [<Fx)2 G)4 B)3 e)1> <Fx G cx d-I3> <Fx G B e>] \
+ 8 [<Fx G cx d> <Fx G B e>]
+=2' vol-10 4 rest' 8 rest D 4 A_b rest
+=2, 1 <A_b-P Ab>
+
+/
+6 bars | 8 8 8 10 6 6 6 6 7 7 7 7 5 5 5 5 | 30 | 36 | 36 | 18 22 | 36 |
+|
+=1, 8. [<d-s1-s1-s3-s4 F#rrxl G#l cx> 16 <d Fx G cx>] \
+ 4 <Fx(2 G(4 Bb(3 e(1-ten-s1-s1-s2-s5> \
+ 83 [<Fx)2 G)4 B)3 e)1> <Fx G cx d-I3> <Fx G B e>] \
+ 4 <Fx G cx d-ten>
+=2' 83 rest, [D-I3, A_b] 8 rest, D 4 A_b rest,
+|
+=1 2 vol70 blank 1 rest
+I0.4 .02 p
+=2 1 vol75 Ab vol70
+|
+=1  2 <A_ D> vol-5 <A_ E A> vol+5
+I0.4 .02 pp
+=2' 2 <D-P An d> vol-5 <F c> vol+5
+|
+=1  2 <G_ D G> <A_ C A>
+=2' 2 <A e> <F c>
+|
+il0.8 .01 10
+=1  2 <A_ D> vol-5 4 <A_ E A-ten> <A_ A-ten> vol+5
+=2' 2 <D A d> vol-5 <F c> vol+5
+|
+=1  2 <G_ D G> <A_ C A>
+=2' 2 <A e> <F c>

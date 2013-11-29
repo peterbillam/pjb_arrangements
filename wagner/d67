@@ -1,0 +1,59 @@
+boundingbox 420 129
+midi channel 1  patch 73 reverb 80 pan 40 # flu
+midi channel 2  patch 68 reverb 80 pan 60 # obo
+midi channel 3  patch 71 reverb 80 pan 80 # clr
+midi channel 4  patch 60 reverb 80 pan 20 # hrn
+midi channel 5  patch 70 reverb 80 pan 70 # bsn
+midi channel 6  patch 56 reverb 80 pan 30 # trp
+midi channel 7  patch 57 reverb 80 pan 50 # trb
+midi channel 8  patch 44 reverb 80 pan 10 # vln
+midi channel 10 patch 44 reverb 80 pan 90 # vlc
+1 system 2 /27-45-27/
+/
+3 bars | 2# 3/4 2 2 3 4  2 2 2 6 2 2 2 3 \
+ | 2 2 2 6 3 3 3 3 3 3 3 2 | 6
+| 3/4 1.9
+midi off
+=1' treble 2# 3/4 \
+ 8. [<A_# F> 16 <B_ D> 8. <A_ F> 16 <C G#> 8. <F A#> 16 <G B>]
+=2  bass   2# 3/4 \
+ 8. [<F f'> 16 <B d'> 8. <F f'> 16 <c g#'>] 8. [<f a#> 16 <g b>]
+midi on
+#=1  treble 2# 3/4 cha1 vol80 2. rest
+#=2  treble 2# 3/4 cha2 vol80 2. rest
+#=3  treble 2# 3/4 cha3 vol80 2. rest
+#=4  treble 2# 3/4 cha4 vol120 2 rest 4 leg50 F_
+#=5  bass   2# 3/4 cha5 2 rest 4 leg50 F
+#=6' treble 2# 3/4 cha6 leg70 vol115 \
+# 8. [<A_# F> 16 <B_ D> 8. <A_ F> 16 <C G#> 8. <F A#> 16 <G B>]
+#=7  bass   2# 3/4 cha7 leg70 vol125 \
+# 8. [<F f'> 16 <B d'> 8. <F f'> 16 <c g#'>] 8. [<f a#> 16 <g b>]
+#=7  2# 3/4 2 rest 4 leg50 F
+#=8  treble 2# 3/4 cha8  2. rest
+#=10 bass   2# 3/4 cha10 vol110 2. rest
+|
+midi off
+=1, 8. [<A# c> 16 <c f>] 8 leg99 [<f a#> <c g#> leg50 <B d#-.> <G# e#-.>]
+=2  8. [<f c~> 16 a#] 2 c~(2
+midi on
+#=1, 8. [<A# c> 16 <c f>] 8 leg99 [<f a#> <c g#> leg50 <B d#-.> <G# e#-.>]
+#=2, 8. [<A# c> 16 <c f>] 8 leg99 [<f a#> <c g#> leg50 <B d#-.> <G# e#-.>]
+#=3, 8. [<A# c> 16 <c f>] 8 leg99 [<f a#> <c g#> leg50 <B d#-.> <G# e#-.>]
+#=4, 8. [<A_# C> 16 <C F>] 8 leg99 [<F A#> <C G#> leg50 <B_ D#> <G_# E#>]
+#=4  8. leg70 [F_ 16 A_#] 2 C(2
+#=5  8. leg70 [f 16 a#] 2 c~(2
+#=6  8. vol100 <A# c#> 16 <F# A#> 2 <C# c#-dim40>
+#=7  8 <a# c~#> rest 2 rest
+#=8  4 rest 8 c rest C rest
+#=10 4 rest 8 c~ rest c rest
+| .8
+midi off
+=1, 4 leg85 <A# f-dim40>
+=2  4 c~)2-dim40
+midi on
+#=1, 4 leg85 <A# f-dim40>
+#=2, 4 leg85 <A# f-dim40>
+#=3, 4 leg85 <A# f-dim40>
+#=4  4 C)2-dim40
+#=5  4 c~)2-dim40
+#=10 8 f rest

@@ -1,0 +1,73 @@
+boundingbox 425 66
+midi channel  1 patch 73 reverb 70 pan 35 # flu
+midi channel  2 patch 68 reverb 70 pan 45 # oboe
+midi channel  3 patch 68 reverb 70 pan 45 # cora
+midi channel  4 patch 71 reverb 70 pan 55 # clr
+midi channel  5 patch 71 reverb 70 pan 65 # bclr
+midi channel  6 patch 60 reverb 70 pan 40 # hrn1
+midi channel  7 patch 60 reverb 70 pan 60 # hrn2
+midi channel  8 patch 70 reverb 70 pan 80 # bsn
+midi channel 10 patch 24 reverb 90 pan 20 # harp
+midi channel 11 patch 44 reverb 70 pan 10 # vln1
+midi channel 12 patch 44 reverb 70 pan 20 # vln2
+midi channel 13 patch 44 reverb 70 pan 50 # vla
+midi channel 14 patch 44 reverb 70 pan 70 # vlc
+1 systems 7 /27/
+/
+4 bars | 3# 3 2 3 6 2 2 2 2 2 2 2 2 2 2 2 2 | 17 8 8 11 | 18 8 8 11 | 10 |
+| 3/4 .345 .405 .375 .375 .375 .375 .375 .375
+=1  treble    3# cha1  vol75 leg99 8. [a 16 B] 2 g 4 f
+#=2, treble   3# cha2  vol60 leg99 8. [a 16 B] 2 g 4 f
+#=3  treble   3# cha3  vol60 leg99 1 F#
+#=4  treble   3# cha4  vol60 leg99 8. [a 16 B] 2 g 4 f
+#=5  bass     3# cha5  vol60 leg85 
+#=6  treble   3# cha6  vol50 leg90 1 <D(2 F#>
+#=7  bass     3# cha7  vol50 leg90 1 <B(2 e(4 g(3 b(1>
+#=8  treble   3# cha8  vol50 leg85 
+#=10 treble   3# cha10 vol70 leg300 83 [B__ E_ G_] [B_ D F] [D F B'] [F, B d]
+#=11 treble   3# cha11 vol60 leg99 8. [a 16 B] 2 g 4 f
+#=12 treble   3# cha12 vol70 leg85 8 B_ 4 D F B 8 D(2
+#=13 treble   3# cha13 vol60 leg99 323 blank 8. [a 16 B] 2 g 4 f
+#=14 tenor    3# cha14 vol70 leg99 8 d 4 B d f 8 G(2
+| .85 .75 .75 .80
+=1   83 leg75 [e d-I3 c] 2 leg99 e(1 8 [e)1 leg75 d]
+#=2  83 leg75 [e d-I3 c] 2 leg99 e(1 8 [e)1 leg75 d]
+#=3  2.. G 8 rest
+#=4  83 leg75 [e d-I3 c] 2 leg99 e(1 8 [e)1 leg75 d]
+#=5 
+#=6  1 <D)2 G>
+#=7  1 <B)2(2 e)4(4 g)3 b)1>
+#=8 
+#=10 83 [B__ E_ G_] [B_ D G] [D G B'] [G, B, e]
+#=11 83 leg75 [e d-I3 c] 2 leg99 e(1 8 [e)1 leg75 d]
+#=12 8 D)2 4 G D B_ 8 G_
+#=13 323 blank 83 leg75 [e d-I3 c] 2 leg99 e(1 8 [e)1 leg75 d]
+#=14 8 G)2 4 B f G 8 B
+|
+=1'   83 [B A-I3 leg75 G] 2 leg99 B 8 vol-5 [A leg75 vol-5 G]
+#=2'  83 leg75 [B A-I3 G] 2 leg99 B 8 vol-5 [A leg75 vol-5 G]
+#=3'  
+#=4   83 leg75 [B A-I3 G] 2 leg99 B 8 vol-5 [A leg75 vol-5 G] 
+#=5  
+#=6  
+#=7  1 <B)2 e)4>
+#=8  
+#=10' 83 [B__ E_ A_] [B_ D F] [D G B] leg200 [B_ leg150 D leg99 G]
+#=11  83 leg75 [B A-I3 G] 2 leg99 B 8 vol-5 [A leg75 vol-5 G]
+#=12' 2 A_ B_
+#=13  83 leg75 [B A-I3 G] 2 leg99 B 8 vol-5 [A leg75 vol-5 G]
+#=14  2. d 4 E
+| 2.0
+=1   1 leg99 vol-5 F-dim30
+#=2  1 leg99 vol-5 F-dim30
+#=3  
+#=4  1 leg99 vol-5 F-dim30
+#=5  
+#=6  
+#=7  
+#=8  
+#=10 bass 83 leg200 [E B d#'] 4 f
+#=11 1 leg99 vol-5 F-dim30
+#=12 1 B_#-dim30
+#=13 1 leg99 vol-5 F-dim30
+#=14 1 D#-dim30

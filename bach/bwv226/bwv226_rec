@@ -1,0 +1,5361 @@
+2 systems 60 /17-18-17-18-17-18-17 25 17-22-17-18-17-18-17 \
+ / 17-22-17-18-17-18-17 22 17-18-17-18-17-18-17 45/
+pagenum 3
+title Motet: Der Geist hilft unser Schwacheit auf
+innerhead J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+midi channel 1 patch 74 pan 0
+midi channel 2 patch 74 pan 30
+midi channel 3 patch 71 pan 70
+midi channel 4 patch 71 pan 100
+/
+8 bars | 2b 3/8 8.5 | 24 | 24 | 4 4 5 4 4 4 | 24 | 22 | 22 | 5 4 4 4 4 4 |
+| 1/8 .34
+il1.2    1. Der Geist hilft unser Schwacheit auf
+=1  treble8va 2b 3/8 cha1 leg90 qua vol-10 F vol+10
+=2  treble    2b 3/8 cha1 leg90 qua vol-10 d vol+10
+=3  treble    2b 3/8 cha2 leg90 qua vol-10 B vol+10
+=4  bass8va   2b 3/8 cha2 leg85 qua vol-10 B vol+10
+r0.5 .40 Der
+=5  treble8va 2b 3/8 cha3 leg90 tra-12 qua rest
+=6  treble    2b 3/8 cha3 leg90 tra-12 qua rest
+=7  treble    2b 3/8 cha4 leg90 tra-12 qua rest
+=8  bass8va   2b 3/8 cha4 leg85 tra-12 qua rest
+| 3/8 .35 .35 .33
+=1, smq leg100 [B A leg85 B d c e]
+=2  smq leg100 [f e leg85 f b a c~]
+=3  smq leg100 [d c leg85 d f e g]
+=4  cro. b(1
+r0.5 .02 Geist
+=5  cro. rest
+=6  cro. rest
+=7  cro. rest
+=8  cro. rest
+|
+=1, smq leg100 [d c leg85 B c d e]
+=2  qua b f rest
+=3  qua f d rest
+=4  qua b)1 B rest
+r0.5 .33 hilft,
+=5  cro rest qua F
+=6  cro rest qua d
+=7  cro rest qua B
+=8  cro rest qua B
+|
+=1, smq leg100 [d c leg85 d f e g]
+=2  cro. rest
+=3  cro. rest
+=4  cro. rest
+=5, smq leg100 [B A B leg85 d c e]
+=6  smq leg100 [f e f ab leg85 g e]
+=7  smq leg100 [d e leg85 d B e c]
+=8  cro. b(2
+|
+=1, smq leg100 [f e leg85 d e f g]
+=2  cro rest qua b
+=3  cro rest qua d
+=4  cro rest qua B
+r0.5 .65 Der
+=5, smq leg100 [d c leg85 B c d e]
+bl0.2 .53 ,
+=6, qua b d B
+bl0.2 .53 ,
+=7  qua f f f
+bl0.2 .58 ,
+=8  qua b)2 B B
+|
+il0.3 .03 5
+=1  qua f leg100 qua3-s e'{2 cro3 d}2
+=2  cro b qua b
+=3  cro d qua f
+=4  leg100 cro b qua ab
+r0.5 .01 Geist .63 hilft
+=5, qua d leg100 qua3-s c'{2 cro3 B}2
+=6  cro f qua f
+=7  cro B qua B
+=8  leg100 cro b qua ab
+|
+=1  leg75  cro e qua f
+=2  leg100 cro b qua ab
+=3, leg100 qua [e{1 B}1] leg85 f
+=4  cro g qua f
+r0.5 .16 unser
+=5, leg100 qua [B{1 c}1] leg85 d
+=6 cro g qua ab
+=7  cro B qua B
+=8  cro g qua f
+
+|
+=1  qua g cro e-tr
+=2  smq [g{1 ab qua b}1] b
+=3  qua [B e] g
+=4  smq [e{1 f qua g}1] e
+r0.5 .10 Schwachheit
+=5, qua leg100 [e B] leg85 e
+=6 qua b cro g-tr
+=7  cro e qua B
+=8  smq [e{1 f qua g}1] e
+/
+8 bars | 2b 24 | 24 | 24 | 4 4 5 4 4 4 | 24 | 22 | 22 | 5.2 4 4 4 4 4 |
+| 3/8 .37 .38 .33
+bl0.4 .52 ,
+=1  leg75  cro f qua f
+bl0.4 .45 ,
+=2  leg75 cro b qua d~
+bl0.2 .52 ,
+=3, leg75 cro d qua B
+bl0.2 .52 ,
+=4  cro b qua b
+r0.6 .07 auf,
+bl0.2 .52 ,
+=5  cro d qua F
+bl0.2 .52 ,
+=6  cro f qua d
+bl0.2 .52 ,
+=7  cro B qua B
+bl0.2 .52 ,
+=8  cro b qua B
+| 3/8 .35 .35 .33
+=1  qua d B rest
+=2  qua b f rest
+=3  qua f d rest
+=4  qua b B rest
+=5, smq leg100 [B A leg85 B d c e]
+=6  smq leg100 [f e leg85 f b a c~]
+=7  smq leg100 [d c leg85 d f e g]
+=8  cro. b(1
+|
+il0.3 .03 10
+=1  cro rest qua F
+=2  cro rest qua d
+=3  cro rest qua B
+=4  cro rest qua B
+=5, smq leg100 [d c leg85 B c d e]
+=6  qua b f rest
+=7  qua f d rest
+=8  qua b)1 B rest
+|
+=1, smq leg100 [B A B leg85 d c e]
+=2  smq leg100 [f e f ab leg85 g e]
+=3  smq leg100 [d e leg85 d B e c]
+=4  cro. b(2
+=5, smq leg100 [d c leg85 d f e g]
+=6  cro. rest
+=7  cro. rest
+=8  cro. rest
+|
+=1, smq leg100 [d c leg85 B c d e]
+bl0.2 .54 ,
+=2, qua b d B
+bl0.2 .54 ,
+=3  qua f f f
+bl0.2 .55 ,
+=4  qua b)2 B B
+=5, smq leg100 [f e leg85 d e f g]
+=6  cro rest qua b
+=7  cro rest qua d
+=8  cro rest qua B
+|
+=1, qua d leg100 qua3-s c'{2 cro3 B}2
+=2  cro f qua f
+=3  cro B qua B
+=4  leg100 cro b qua ab
+=5  qua f leg100 qua3-s e'{2 cro3 d}2
+=6  cro b qua b
+=7  cro d qua f
+=8  leg100 cro b qua ab
+
+|
+=1, leg100 qua [B{1 c}1] leg85 d
+=2  cro g qua ab
+=3  cro B qua B
+=4  cro g qua f
+=5  leg75  cro e qua f
+=6  leg100 cro b qua ab
+=7, leg100 qua [e{1 B}1] leg85 f
+=8  cro g qua f
+|
+il0.3 .03 15
+=1, qua leg100 [e B] leg85 e
+=2  qua b cro g-tr
+=3  cro e qua B
+=4  smq [e{1 f qua g}1] e
+=5  qua g cro e-tr
+=6  smq [g{1 ab qua b}1] b
+=7  qua [B e] g
+=8  smq [e{1 f qua g}1] e
+
+2 systems 40 /17-18-17-18-17-18-17 25 17-22-17-18-17-18-17 \
+ / 17-22-17-18-17-18-17 22 17-18-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 22 | 5 4 4 4 4 4 | 24 | 5 4 4 4 4 4 | 24 | 24 | 22 | 24 |
+| 3/8 .37 .38 .33
+bl0.4 .52 ,
+=1  cro d qua d
+bl0.2 .52 ,
+=2  cro f qua B
+bl0.2 .52 ,
+=3  cro B qua f
+bl0.2 .52 ,
+=4  cro b qua b
+=5  leg75  cro f qua rest
+=6  leg75 cro b qua rest
+=7, leg75 cro d qua rest
+=8  cro b qua rest
+| 3/8 .35 .35 .33
+=1  qua leg100 [c{1 leg70 f}1] en
+=2  smq leg100 [f en leg80 f a g b]
+=3  qua f c rest
+=4  qua a f rest
+=5  cro rest qua c
+=6  cro rest qua g
+=7  cro rest qua c
+=8  cro rest qua c
+|
+=1  qua leg100 [f{1 leg70 c}1] A
+=2  smq leg100 [a g leg80 f g a b]
+=3  cro rest qua f
+=4  cro rest qua F
+=5  qua c A c
+=6  qua f f c
+=7  qua c c rest
+=8  qua f F rest
+|
+=1  cro. F(1
+=2  smq leg100 [a g leg80 a c~ b d~]
+=3  qua f c rest
+=4  qua f F rest
+=5  qua leg100 [c{1 leg70 f}1] en
+=6  smq leg100 [f en leg80 f a g b]
+=7  cro rest qua B
+=8  cro rest qua f
+|
+il0.3 .05 20
+=1  cro. F)1(1
+=2  smq leg100 [c~ b leg80 a b c~ d~]
+=3  cro rest qua f
+=4  cro rest qua F
+=5  qua leg100 [f{1 leg70 c}1] A
+=6  smq leg100 [a g leg80 f g a b]
+=7  qua f A F
+=8  qua f F f
+|
+=1  cro. F)1(1
+=2  qua c~ leg100 qua3-s b'{2 cro3 a}2
+=3, smq [A{1 B qua c}1] c
+=4  cro f qua eb
+=5  cro. F(1
+=6  qua a leg100 qua3-s g'{2 cro3 f}2
+=7  cro c qua c
+=8  cro f qua eb
+|
+=1  cro. F)1(1
+=2  cro b qua c~
+=3  cro d qua e
+=4  cro d qua c
+=5  cro. F)1(1
+=6  qua leg100 [f{1 leg70 g}1] a
+=7  cro f qua eb
+=8  cro d qua c
+|
+=1  qua [F)1 leg70 f'] f
+=2  qua d~ cro b-tr
+=3  smq [f{1 e qua d}1] d
+=4' smq [B{2 c qua d}2] B
+=5  qua [F)1 B'] d
+=6  qua [b f] b
+=7  smq [d{1 e qua f}1] f
+=8' smq [B{2 c qua d}2] B
+/
+7 bars | 2b 24 | 5 4 4 4 4 4 | 24 | 5 4 4 4 4 4 | 24 | 8 7 7 | 21 |
+| 3/8 .37 .38 .33
+=1  cro f qua rest
+=2  cro c~ qua rest
+=3, smq [A{1 B qua c}1] rest
+=4  cro f qua rest
+bl0.2 .52 ,
+=5  cro c qua c
+bl0.2 .52 ,
+=6  cro a qua c
+bl0.2 .52 ,
+=7  cro f qua en
+=8  smq [f{1 g a b}1] qua c~
+| 3/8 .35 .35 .33
+il0.3 .05 25
+=1  cro rest qua c
+=2  cro rest qua g
+=3  cro rest qua c
+=4  cro rest qua c
+=5  qua leg100 [c{1 leg70 f}1] en
+=6  smq leg100 [f en leg80 f a g b]
+=7  qua f c rest
+=8  qua a f rest
+|
+bl0.3 .52 ,
+=1  qua c A c
+bl0.2 .52 ,
+=2  qua f f c
+=3  qua c c rest
+=4  qua f F rest
+=5  qua leg100 [f{1 leg70 c}1] A
+=6  smq leg100 [a g leg80 f g a b]
+=7  cro rest qua f
+=8  cro rest qua f
+|
+=1  qua leg100 [c{1 leg70 f}1] en
+=2  smq leg100 [f en leg80 f a g b]
+=3  cro rest qua B
+=4  cro rest qua f
+=5  cro. F(1
+=6  smq leg100 [a g leg80 a c~ b d~]
+=7  qua f c rest
+=8  qua f F rest
+|
+=1  qua leg100 [f{1 leg70 c}1] A
+=2  smq leg100 [a g leg80 f g a b]
+bl0.2 .52 ,
+=3  qua f A F
+bl0.2 .52 ,
+=4  qua f F f
+=5  cro. F)1(1
+=6  smq leg100 [c~ b leg80 a b c~ d~]
+=7  cro rest qua f
+=8  cro rest qua F
+|
+=1  cro. F(1
+=2  qua a leg100 qua3-s g'{2 cro3 f}2
+=3  cro c qua c
+=4  cro f qua eb
+=5  cro. F)1(1
+=6  qua c~ leg100 qua3-s b'{2 cro3 a}2
+=7, smq [A{1 B qua c}1] c
+=8  cro f qua eb
+|
+il0.3 .05 30
+=1  cro. F)1(1
+=2  qua leg100 [f{1 leg70 g}1] a
+=3  cro f qua eb
+=4  cro d qua c
+=5  cro. F)1(1
+=6  cro b qua c~
+=7  cro d qua e
+=8  cro d qua c
+
+2 systems 40 /17-18-17-18-17-18-17 25 17-22-17-18-17-18-17 \
+ / 17-22-17-22-17-18-17 22 17-22-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 8 7 7 | 4 3.5 3.5 3.5 4 6 | 24 | 24 | 24 | 24 | 24 | 21 |
+|
+=1  qua [F)1 B'] d
+=2  qua [b f] b
+=3  smq [d{1 e qua f}1] f
+=4' smq [B{2 c qua d}2] B
+=5  qua [F)1 leg70 f'] f
+=6  qua d~ cro b-tr
+=7  smq [f{1 e qua d}1] d
+=8' smq [B{2 c qua d}2] B
+| 3/8 .38 .39 .33
+=1  cro c smq [c{1 dsq d e}1]
+=2  cro a qua a
+=3  cro f qua f
+=4  smq [f{1 g qua a}1] f
+=5  cro f qua rest
+=6  cro c~ qua rest
+=7, smq [A{1 B qua c}1] rest
+=8  cro f qua f
+| 3/8 .35 .35 .33
+=1  qua leg90 d leg50 g rest
+=2  qua leg90 b leg50 g rest
+=3  qua leg90 f leg50 d rest
+=4  smq leg100 [b a leg75 b c~ b c~]
+=5  cro rest qua leg75 d
+=6  cro rest qua leg75 g
+=7  cro rest qua leg75 B
+=8  smq leg100 [b a leg75 b c~ b c~]
+|
+=1  cro rest qua leg75 c
+=2  cro rest qua leg75 f
+=3  cro rest qua leg75 c
+=4  smq leg100 [a g leg75 a b a b]
+=5  qua leg90 c leg50 f rest
+=6  qua leg90 g leg50 f rest
+=7  qua leg90 c leg50 c rest
+=8  smq leg100 [a g leg75 a b a b]
+|
+il0.3 .05 35
+=1  qua leg90 B leg50 e rest
+=2  qua leg90 f leg50 e rest
+=3  qua leg90 d leg50 B rest
+=4  smq leg100 [g f leg75 g a g a]
+=5  cro rest qua leg75 B
+=6  cro rest qua leg75 e
+=7  cro rest qua leg75 B
+=8  smq leg100 [g f leg75 g a g a]
+|
+=1  cro rest qua leg75 A
+=2  cro rest qua leg75 d
+=3  cro rest qua leg75 A
+=4  smq leg100 [f e leg75 f g f g]
+=5  qua leg90 A leg50 d rest
+=6  qua leg90 e leg50 d rest
+=7  qua leg90 c leg50 A rest
+=8  smq leg100 [f e leg75 f g f g]
+|
+=1  qua leg90 [G{2 c'}2] qua leg75 e
+=2  qua leg90 [d{1 c}1] qua leg75 c
+=3  qua leg90 [B'{2 G}2] qua leg75 G
+=4  smq leg100 [e d leg75 e f e f]
+=5  cro rest qua leg75 G
+=6  cro rest qua leg75 c
+=7  cro rest qua leg75 G
+=8  smq leg100 [e d qua leg75 e] leg85 e(1
+|
+=1, qua leg90 [A f] qua leg75 B
+=2  cro f qua f
+=3  cro c qua d
+=4  qua e e~ d~
+=5  qua F A B'
+=6  qua c c B
+=7  qua A F F
+=8  qua e)1 e d
+| 3/8 .36 .37 .35
+=1  qua e cro leg95 d-tr
+=2  qua f cro f
+=3' qua leg90 [A{2 B}2] qua leg95 F
+=4  qua c~ d~ leg75 b
+=5  qua c smq [B'{2 A}2] qua leg95 B'
+=6  qua A smq [f{1 e}1] [d{1 e}1]
+=7  qua E F leg95 B'
+=8' qua leg90 [c{2 d}2] qua leg75 B
+| 3/8 .38 .39 .37
+il0.3 .05 40
+=1  cro c qua rest
+=2  cro f qua rest
+=3  cro A qua rest
+=4  cro f qua rest
+=5  cro A qua rest
+=6  cro f qua rest
+=7  cro c qua rest
+=8  cro f qua rest
+| 3/8 .36 .36 .35
+=1 vol-10 leg80 qua c rest c
+=2 vol-10 leg80 qua c rest en
+r0.5 .01 denn .64 wir
+=3 vol-10 leg80 qua G rest c
+=4 vol-10 leg80 qua en rest c
+=5 vol-10 leg80 qua rest c-. rest
+=6 vol-10 leg80 qua rest G-. rest
+=7 vol-10 leg80 qua rest c-. rest
+=8 vol-10 leg80 qua rest en-. rest
+|
+=1 qua leg100 [A{2 leg90 B'}2] c
+=2 qua leg100 [f{1 leg90 g}1] a
+r0.5 .01 wis .35 - .64 sen
+=3 cro c qua c
+=4 qua f F rest
+=5 cro rest qua c
+=6 cro rest qua a
+=7 cro rest qua F
+=8 cro rest qua f
+|
+=1 qua c d c
+=2 qua a b a
+r0.5 .01 nicht,  was   wir
+=3 cro f qua f
+=4 cro. rest
+=5 qua leg100 A leg65 F rest
+=6 qua leg100 f leg65 f rest
+=7 qua leg100 c leg65 f rest
+=8 qua leg100 f leg65 F rest
+|
+=1 qua leg100 [e{1 d}1] leg75 c
+=2 qua leg100 [c~{1 b}1] leg75 a
+r0.5 .01 be .35 - .63 ten
+=3 cro f# qua f
+=4 cro rest qua d
+=5 cro. rest
+=6 cro. rest
+=7 cro. rest
+=8 cro. rest
+|
+il0.3 .05 45
+=1 qua leg100 B leg65 G rest
+=2 qua leg100 g leg65 d rest
+r0.5 .13 sollen
+=3 cro g qua rest
+=4 qua leg100 g leg65 G rest
+=5 leg80 qua d rest d
+=6 leg80 qua g rest a
+=7 leg80 qua d rest d
+=8 leg80 qua b rest f#
+|
+=1 cro rest qua d
+=2 cro rest qua b
+=3 cro rest qua G
+=4 cro rest qua g
+=5 qua leg100 [B{1 c}1] leg75 d
+=6 qua leg100 [g{1 a}1] leg75 b
+=7 cro d qua G
+=8 qua g G rest
+
+2 systems 40 /17-18-17-18-17-18-17 25 17-22-17-18-17-18-17 \
+ / 17-22-17-22-17-22-17 22 17-22-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 22 | 22 | 22 | 22 | 22 | 22 | 22 | 5 4 4 4 3.6 3.6 |
+|
+=1' qua leg100 B leg65 G rest
+=2 qua leg100 g leg65 g rest
+=3 qua leg100 d leg65 g rest
+=4 qua leg100 g leg65 G rest
+=5 qua d e d
+=6 qua b c~ b
+=7 cro g qua g
+=8 cro. rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+=5 qua leg100 [f{1 e}1] leg75 d
+=6 qua leg100 [ab{1 g}1] leg75 f
+=7 cro Bn qua B
+=8 cro rest qua g
+|
+=1 leg80 qua e rest e
+=2 leg80 qua g rest g
+=3 leg80 qua c rest c
+=4 leg80 qua c~ rest b
+=5 qua leg95 c leg65 c rest
+=6 qua leg95 e leg65 e rest
+=7 cro c qua rest
+=8 qua leg100 c~ leg65 c rest
+|
+il0.3 .05 50
+=1 qua leg100 [e leg95 d] e
+=2 qua leg100 [f leg95 g] a
+=3 qua leg100 [c{1 leg95 d}1] c
+=4 qua leg100 [a{1 leg95 b}1] c~
+=5 cro. rest
+=6 cro. rest
+=7 cro. rest
+=8 cro. rest
+|
+=1 qua leg85 e leg95 d c
+=2 qua leg85 a leg95 b c~
+=3 qua leg85 c leg95 B A
+=4 qua leg85 f leg95 g a
+=5 leg80 qua f rest f
+=6 leg80 qua a rest a
+=7 leg80 qua c rest c
+=8 leg80 qua f rest e
+|
+=1 cro. f(1
+=2 cro. b(1
+=3 cro. d(1
+=4 cro. b(1
+=5 qua leg100 [Ab leg95 G] A
+=6 qua leg100 [f leg95 e] d
+=7 qua leg100 [d{1 leg95 B}1] d
+=8 qua leg100 [d{1 leg95 e}1] f
+|
+=1 cro. f)1(1
+=2 cro. b)1(1
+=3 smq [d)1 c qua leg75 B,] B
+=4 cro b)1 qua ab
+=5 qua leg85 Ab leg95 G F
+=6 qua leg85 d leg95 e f
+=7 qua leg85 f leg95 e d
+=8 qua leg85 B leg95 c d'
+|
+=1 qua [f)1 e] d
+=2 smq [b)1 ab qua leg75 g] g
+bl0.2 .90 ,
+=3 cro B qua B
+bl0.2 .90 ,
+=4 qua. leg100 [g{1 smq ab}1] qua leg95 b
+=5 cro. B(1
+=6 cro. e(1
+=7 qua leg100 [G{2 leg95 B'}2] leg75 e
+=8 qua leg75 e smq leg100 [e{1 f qua g}1]
+/
+8 bars | 2b 21 | 5.3 4 4 4 3.6 3.6 | 21 | 21 | 21 | 7 8 8 | 21 | 21 |
+|
+il0.4 .09 55
+bl0.3 .56 ,
+=1 qua c leg70 Bn c
+bl0.2 .56 ,
+=2 qua e leg70 e ab
+=3 qua c leg85 g leg95 e
+r0.5 .05 wie  sich's  ge  -
+=4 qua ab leg85 g leg95 a
+=5 qua leg100 [B)1 leg95 e] c
+=6 qua leg100 [e)1 leg95 g] c~
+bl0.2 .90 ,
+=7 cro e qua leg70 e
+bl0.2 .90 ,
+=8 qua leg100 [ab{1 leg95 g}1] leg70 a
+|
+=1 smq leg100 [c Bn qua leg70 c] leg95 c
+=2 qua leg100 [ab leg70 g] leg95 f
+bl0.2 .90 ,
+=3 cro leg95 f qua leg60 f
+r0.5 .01 büh  - .60 ret,
+bl0.2 .90 ,
+=4 qua leg100 [ab leg90 g] leg60 f
+bl0.2 .90 ,
+=5 cro leg95 f qua leg60 f
+bl0.4 .52 ,
+=6 qua leg95 f g ab
+=7 cro leg80 d qua d(1
+=8 qua leg95 d e f
+|
+bl0.2 .56 ,
+=1' qua leg100 [Bn leg70 G] leg95 B
+bl0.2 .52 ,
+=2 qua leg100 [f leg70 d] leg85 g
+=3 qua leg60 d rest leg95 d
+=4 qua leg60 g rest leg95 g
+=5 qua leg95 d g f
+=6 cro leg85 g qua g
+=7 qua d)1 cro leg95 Bn
+=8 qua g f g
+|
+=1, qua leg100 [c leg95 Bn] c
+=2 qua leg100 [g leg95 ab] g
+=3 qua leg100 [e leg95 f] e
+=4 cro c~ qua b
+=5 qua leg100 [e leg95 d] c
+=6 qua leg100 [g leg95 f] g
+=7 qua leg100 [c leg95 d] e
+=8 cro c qua c
+|
+=1 qua c cro rest
+=2 qua f# cro rest
+=3 qua e cro rest
+=4 qua an cro rest
+=5 cro rest qua leg80 c
+=6 cro rest qua leg95 g
+=7 cro rest qua leg95 e
+=8 cro rest qua leg95 g
+|
+il0.3 .05 60
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+=5, qua leg100 [c{1 leg95 Bb}1] leg80 c
+=6 qua leg100 [an{1 leg95 g}1] f#
+=7 qua leg100 [d smq leg95 e leg75 d] leg95 [c leg75 B]
+=8 qua leg100 [f# leg95 g] a
+|
+=1 qua rest leg80 B' A
+=2 qua rest leg80 g f#
+=3 qua rest leg80 d d
+=4 qua rest leg80 d~ c~
+=5 qua c cro rest
+=6 qua f# cro rest
+=7 qua A cro rest
+=8 qua d cro rest
+|
+=1, qua leg100 [A{1 leg95 d}1] leg80 c
+=2, qua leg100 [f#{1 leg95 g}1] leg80 a
+=3, cro leg95 d qua leg80 f#
+=4, cro leg95 b qua leg80 a
+=5 cro. rest
+=6 cro. rest
+=7 cro. rest
+=8 cro. rest
+
+2 systems 40 /17-20-17-21-17-18-17 25 17-18-17-18-17-18-17 \
+ / 17-18-17-18-17-18-17 24 17-24-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 21 | 21 | 3.6 3.6 3.6 3.6 5 4 | 21 | 21 | 21 | 24 |
+|
+=1 qua leg95 B' leg80 G rest
+=2 qua leg95 d  leg80 B rest
+=3 qua leg95 g  leg80 g rest
+=4 qua leg95 g  leg80 G rest
+=5 qua rest leg80 d d
+=6 qua rest leg80 g g
+=7 qua rest leg80 B Bn
+=8 qua rest leg80 g f
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+=5, qua leg100 [g{1 leg95 f}1] leg80 en
+=6, qua leg95 b cro leg80 a
+=7, cro leg95 c#-tr qua leg80 c
+=8  qua leg100 [en{1 leg95 a}1] leg80 A
+|
+il0.3 .05 65
+=1 cro rest qua leg95 B'
+=2 cro rest qua leg80 f
+=3 cro rest smq leg100 [d leg90 en]
+=4 cro rest qua leg80 d~
+=5, qua leg100 [f leg80 d] rest
+=6, qua leg100 [a leg80 f] rest
+=7, qua leg100 [d leg80 d] rest
+=8, qua leg100 [d leg80 d] rest
+|
+=1 qua leg100 [A{2 leg95 G}2] leg80 c
+=2 cro leg95 f qua leg80 en
+=3 qua leg95 f cro leg80 c
+=4 qua leg100 [b{1 leg95 c~}1] leg80 c
+=5 cro. rest
+=6 cro. rest
+=7 cro. rest
+=8 cro. rest
+|
+=1 qua leg100 [A leg80 F] rest
+=2, qua leg100 [f leg80 c] rest
+=3' qua leg100 [c leg80 A] rest
+=4' qua leg100 [f leg80 F] rest
+=5 cro rest qua leg80 B'
+=6 cro rest qua leg95 eb
+=7 cro rest qua leg95 B'
+=8 cro rest qua leg95 g
+|
+=1 cro rest qua leg95 vol+10 c
+=2 cro rest qua leg80 vol+10 f
+r0.5 .64 der
+=3 cro rest qua leg95 vol+10 c
+=4 cro rest qua leg80 vol+10 f
+=5' cro leg95 B qua leg80 A-tr
+=6 qua leg100 [d{1 leg95 c}1] leg80 f
+=7' qua leg100 [G{2 leg95 c}2] leg80 F
+=8 qua leg100 [e{1 leg95 f}1] leg80 F
+
+| 3/8 .35 .35 .33
+=1  smq leg100 [d c leg85 d f e g]
+=2  qua leg100 [f{1 leg95 b}1] leg80 a
+r0.5 .01 Geist .64 hilft
+=3, smq leg100 [B A leg85 B d c e]
+=4  cro. b(2
+=5' qua leg80 B leg70 B leg90 vol+10 F
+=6  qua leg80 d leg70 B rest
+=7  qua leg80 F leg70 F rest
+=8  qua leg80 B leg70 B rest
+|
+il0.6 .05 70
+=1  cro. f(1
+=2  qua leg100 [b{1 leg95 f}1] leg80 d
+r0.5 .01 un .35 - .64 ser
+=3  smq leg100 [d c leg85 B c d e]
+=4  qua leg75 b)2 B rest
+=5  smq leg100 [B c leg85 d e f g]
+=6  cro rest qua vol+10 leg80 f
+=7  cro rest qua vol+10 leg80 F
+=8  cro rest qua vol+10 leg80 B
+/
+7 bars | 2b 24 | 24 | 8 8 7 | 3.6 3.6 4 4 5 4 | 5 4 3.6 3.6 4 4 \
+ | 3.6 3.6 3.6 3.6 4 6 | 4 4 4 4 4.7 4 |
+|
+=1  qua leg75 f)1 F rest
+=2' cro. B(2
+=3  smq leg100 [d c leg85 d f e g]
+=4  cro. rest 
+=5  cro. f(1
+=6  qua leg100 [f{1 leg95 b}1] leg80 a
+=7, smq leg100 [B A leg85 B d c e]
+=8  cro. b(2
+|
+=1  qua rest rest leg85 F
+=2' cro. B)2(2
+=3  smq leg100 [f e leg85 d e f g]
+=4  qua rest rest leg85 B
+=5  qua leg75 f)1 F F
+=6  qua leg100 [b{1 leg95 f}1] leg80 d
+=7, smq leg100 [d c leg85 B c d e]
+=8  qua leg75 b)2 b B
+|
+=1  smq leg100 [B c leg85 d e qua f]
+=2' cro. B)2(2
+=3  qua f leg100 qua3-s e'{2 cro3 d}2
+=4  cro b qua leg80 ab
+=5  smq leg100 [B c leg85 d e qua f]
+=6' cro. B(2
+=7  qua f leg100 qua3-s e'{2 cro3 d}2
+=8  cro b qua leg80 ab
+|
+=1  qua e smq leg100 [d leg75 c] leg100 [B' leg75 Ab]
+=2' cro. B)2(2
+=3 cro e qua f
+=4 cro g qua f
+=5  qua e smq leg100 [d leg75 c] leg100 [B' leg75 Ab]
+=6' cro. B)2(2
+=7 qua leg100 [B, leg75 c] d
+=8 cro g qua f
+|
+il0.6 .05 75
+=1' smq leg100 [G leg75 Ab qua B] smq leg100 [A leg90 G]
+=2, qua leg90 [B)2 leg85 b] leg70 b
+=3 qua g cro e-tr
+=4  smq leg100 [e{1 leg75 f qua g}1] e
+=5' smq leg100 [G leg75 Ab qua B] smq leg100 [A leg90 G]
+=6, qua leg90 [B)2 leg85 e] leg70 B
+=7  qua leg100 [e leg75 B,] e
+=8  smq leg100 [e{1 leg75 f qua g}1] e
+| 3/8 .38 .35 .33
+=1 cro F qua rest
+=2 cro b qua rest
+=3 cro f qua rest
+=4 cro b qua B
+=5 qua leg75 F qua. leg100 [d dsq c d]
+=6  qua leg75 b f b(1
+=7  qua leg75 d d g(1
+=8  qua leg75 b B B
+| 3/8 .35 .35 .33
+=1 cro rest qua B
+=2 qua rest e b(1
+=3 cro rest leg80 f
+=4 smq leg100 [e d leg85 e g f ab]
+=5 qua leg70 e E rest
+=6 qua b)1 leg75 ab rest
+=7 qua leg90 g)1 leg70 c leg80 B
+=8 cro leg90 c qua leg75 d'
+
+2 systems 40 /17-18-17-18-17-18-17 25 17-18-17-18-17-18-17 \
+ / 17-22-17-18-17-18-17 25 17-20-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+7 bars | 2b 4 4 4 4 5 4 | 4 4 4 5 5 4 | 5 4 5 4 5 4 \
+ | 8 8 7.2 | 7.6 8 7.2 | 3.6 3.6 4 5 3.6 3.6 | 24 |
+|
+=1 qua e E rest
+=2 qua b)1 g rest
+=3 qua B leg60 B leg80 B
+=4 smq leg100 [g f leg85 e f g ab]
+=5 cro. rest
+=6 cro. rest
+=7, qua leg90 [B{1 leg75 e}1] leg80 d
+=8 cro e qua B
+|
+=1 cro. rest
+=2 cro. rest
+=3 qua leg90 [B{1 leg75 e}1] leg80 d
+=4 smq leg100 [g f leg85 g b ab c~]
+=5 cro rest qua B
+=6 cro. rest
+=7 qua leg100 [e smq B, leg60 G,] leg100 [Ab leg70 F]
+=8 smq leg100 [e d leg85 e g f ab]
+|
+il0.3 .05 80
+=1 cro rest qua B
+=2 cro. rest
+=3 qua leg100 [e smq B, leg60 Ab,] leg100 [G leg70 F]
+=4 smq leg100 [b ab leg85 g a b c~]
+=5 qua leg90 [B{1 leg75 e}1] leg80 db(1
+=6 cro. rest
+=7 qua. leg100 [G smq F E D]
+=8 smq leg100 [g f leg85 e f g ab]
+|
+=1 qua leg90 [B{1 leg65 e}1] leg80 e(1
+=2 cro rest qua b
+=3 smq leg100 [G leg75 F] cro E(1
+=4 qua b leg100 qua3-s ab'{2 cro3 g}2
+=5 qua d)1 smq leg100 [c leg70 B,] cro c
+=6 cro rest qua g
+=7 cro. E(1
+=8 qua g leg100 qua3-s f'{2 cro3 e}2
+|
+=1 qua e)1 smq leg100 [db leg75 c] qua d
+=2 cro leg90 ab qua e
+=3 cro. E)1(1
+=4 cro leg90 ab qua b
+=5 cro leg90 c qua B
+=6 qua leg100 [g{1 leg70 f}1] B
+=7 cro. E)1(1
+=8 cro leg90 f qua g
+|
+=1 qua leg80 c smq leg100 [dn e qua leg80 f]
+=2 qua leg80 e smq leg100 [f g qua leg80 ab]
+=3 cro leg70 E)1 qua E
+=4 qua leg70 c~ cro ab-tr
+=5' qua Ab rest B
+=6 qua leg100 [e smq d leg80 c] qua d
+=7 cro leg70 E)1 qua E
+=8 qua leg70 ab cro f-tr
+| 3/8 .37 .37 .33
+=1 cro B qua rest
+=2 cro g qua rest
+=3 cro e qua rest
+=4 cro b qua rest
+=5 smq leg100 [e d leg85 e f e f]
+=6 cro leg65 e qua f
+=7 cro leg65 e qua c
+=8 cro leg65 g qua ab
+/
+8 bars | 2b 24 | 24 | 5.5 4 4 4 4 4 | 24 | 5.5 4 4 4 4 4 | 24 | 8 8 7 | 21 |
+| 3/8 .35 .35 .33
+il0.3 .05 85
+=1  cro rest qua leg90 B
+=2  cro rest qua leg75 e
+=3  cro rest qua leg75 B
+=4  cro rest qua leg75 g
+=5  smq leg100 [d c leg75 d e d e]
+=6  qua leg90 f leg50 ab rest
+=7  qua leg90 d leg50 f rest
+=8  qua leg90 b leg50 f rest
+|
+=1  smq leg100 [e d leg85 e f e f]
+=2  qua leg90 e leg50 g rest
+=3  qua leg90 c leg50 G rest
+=4  qua leg90 ab leg50 e rest
+=5, smq leg100 [c B leg75 c d c d]
+=6  cro rest qua leg75 ab
+=7  cro rest qua leg75 Ab
+=8  cro rest qua leg75 f
+|
+=1  smq leg100 [d c leg75 d e d e]
+=2  cro rest qua leg75 g
+=3  cro rest qua leg75 B
+=4  cro rest qua leg75 e
+=5, smq leg100 [B Ab leg75 B c B c]
+=6  qua leg90 d leg50 f rest
+=7  qua leg90 B leg50 F rest
+=8  qua leg90 g leg50 d rest
+|
+=1, smq leg100 [c B leg75 c d c d]
+=2  qua leg90 [ab{1 f}1] qua leg75 c
+=3  qua leg90 [f{1 ab}1] qua leg75 f
+=4, qua leg90 [f{1 c}1] qua leg75 e
+=5' smq leg100 [Ab G leg75 A B A B]
+=6  cro rest qua leg75 f
+=7  cro rest qua leg75 c
+=8  cro rest qua leg75 e
+|
+=1, smq leg100 [B Ab leg75 B c B c]
+=2  qua leg90 [f{1 d}1] qua leg75 f
+=3  cro leg75 B qua B
+=4, qua leg90 [d{1 f}1] qua leg75 d
+=5  cro. Ab(2
+=6  smq leg100 [f e leg75 f g f e]
+=7  qua leg90 [d{1 B}1] qua leg75 F
+=8, smq leg100 [d c leg75 d e d e]
+|
+il0.3 .05 90
+=1  smq leg100 [d c leg75 d e d e]
+=2  cro. b(2
+=3  cro leg100 F qua leg70 G
+=4  cro. B(2
+=5' qua A)2 leg70 F leg90 B
+=6  qua d leg70 f leg90 e
+=7  qua leg90 [f{1 d}1] qua leg75 B
+=8  qua f leg70 ab leg90 g
+| 3/8 .36 .37 .36
+=1  qua [f smq e d qua e(1]
+=2  cro leg75 b)2 qua b
+=3  qua leg90 [Ab{2 F}2] qua leg75 G
+=4  cro leg75 B)2 qua B
+=5  qua leg70 D leg90 Ab G
+=6  qua leg70 B leg90 f e
+=7  cro leg75 f qua B
+=8  qua leg70 f leg90 b B
+| 3/8 .39 .40 .39
+=1  qua e)1 d rest
+=2  cro b qua rest
+=3  cro B qua rest
+=4  cro b qua rest
+=5  cro F qua rest
+=6  cro f qua rest
+=7  cro B qua rest
+=8  cro b qua rest
+
+2 systems 40 /17-18-17-18-17-18-17 25 17-18-17-22-17-18-17 \
+ / 17-18-17-18-17-18-17 25 17-18-17-18-17-22-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 24 | 24 |
+| 3/8 .36 .36 .35
+=1 vol-10 leg80 qua rest d-. rest
+=2 vol-10 leg80 qua rest a-. rest
+=3 vol-10 leg80 qua rest d-. rest
+=4 vol-10 leg80 qua rest f#-. rest
+=5 vol-10 leg80 qua d rest d
+=6 vol-10 leg80 qua d rest f#
+r0.5 .06 denn .64 wir
+=7 vol-10 leg80 qua A rest d
+=8 vol-10 leg80 qua f# rest d
+|
+=1 cro rest qua d
+=2 cro rest qua a
+=3 cro rest qua f#
+=4 cro rest qua d
+=5' qua leg100 [B{2 leg90 G}2] A
+=6 cro g qua f#
+r0.5 .01 wis .35 - .64 sen
+=7 cro d qua d
+=8 qua leg100 [g{1 leg90 b}1] d~
+|
+il0.5 .15 95
+=1' qua leg100 B leg65 G rest
+=2 qua leg100 g leg65 d rest
+=3 qua leg100 d leg65 d rest
+=4 qua leg100 g leg65 G rest
+=5 qua leg65 B leg90 d g
+=6 qua leg65 g leg90 bn c~
+r0.5 .01 nicht,  was   wir
+=7 qua leg65 d leg90 g c
+=8 qua leg65 g leg90 fn e
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+=5 qua leg100 [f{1 e}1] leg75 d
+=6 qua leg100 [ab{1 leg75 g}1] g
+r0.5 .01 be .35 - .63 ten
+=7 cro c qua Bn
+=8 qua leg100 [d{1 leg85 g}1] G
+|
+=1 leg80 qua c rest c
+=2 leg80 qua g rest g
+=3 leg80 qua e rest en
+=4 leg80 qua c~ rest c
+=5 leg80 qua leg100 e leg65 c rest
+=6 leg80 qua leg100 g leg65 e rest
+r0.5 .13 sollen
+=7 leg80 qua leg100 c leg65 c rest
+=8 leg80 qua leg100 c leg65 c rest
+|
+=1 qua leg100 [A{2 leg90 F}2] G
+=2 cro f qua en
+=3 cro c qua c
+=4 qua leg100 [f{1 leg90 a}1] c~
+=5 cro rest qua c
+=6 cro rest qua g
+=7 cro rest qua en
+=8 cro rest qua c
+|
+=1 qua leg75 A leg90 c f
+=2 qua leg75 f leg90 a b
+=3 qua leg75 c leg90 f B
+=4 qua leg75 f leg90 eb d
+=5 qua leg90 A leg65 F rest
+=6 qua leg90 f leg65 c rest
+=7 qua leg90 c leg65 A rest
+=8 qua leg90 f leg65 F rest
+|
+il0.7 .15 100
+=1 qua leg100 [e{1 leg75 d}1] c
+=2 qua leg100 [g{1 leg75 f}1] f
+=3 cro B' qua A
+=4 qua leg100 [c,{1 leg75 f}1] F
+=5 cro. rest
+=6 cro. rest
+=7 cro. rest
+=8 cro. rest
+/
+8 bars | 2b 21 | 7 8 8 | 21 | 21 \
+ | 21 | 5.3 4 4 4 3.5 3.5 | 21 | 5.3 4 3.5 3.5 3.5 3.5 |
+|
+=1 qua leg100 d leg65 B rest
+=2 qua leg100 f leg65 d rest
+=3' qua leg100 B leg65 F rest
+=4 qua leg100 B leg65 B rest
+=5 leg80 qua B rest B
+=6 leg80 qua f rest f
+=7 leg80 qua d rest d
+=8 leg80 qua b rest g
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+=5' qua leg100 [B{2 leg75 A}2] B
+=6 qua leg100 [g{1 leg75 f}1] en
+=7 qua leg100 [d smq d leg70 c] leg100 [B' leg70 A]
+=8 qua leg100 [en{1 leg75 f}1] g
+|
+=1 leg80 qua c rest c
+=2 leg80 qua en rest e
+=3 leg80 qua G rest G
+=4 leg80 qua c rest c
+=5' qua leg70 B leg95 A G
+=6 qua leg70 en leg95 f g
+=7 qua leg70 G leg95 F En
+=8 qua leg70 c leg95 d en
+|
+=1 qua leg100 [Eb{2 D}2] leg75 E
+=2 qua leg100 [c{1 B,}1] leg75 A
+=3 qua leg100 [A{2 F}2] leg75 A
+=4 qua leg100 [A{2 B}2] leg75 c
+=5 cro. c(1
+=6 cro. f(1
+=7 cro. A(1
+=8 cro. f(1
+|
+il0.5 .05 105
+=1 qua leg70 E leg95 D C
+=2 qua leg70 A leg95 B c
+=3 qua leg70 c leg95 B A
+=4 qua leg70 F leg95 G A
+=5 cro. c)1(1
+=6 cro. f)1(1
+=7 cro A)1 qua leg70 A
+=8 cro f)1 qua leg70 eb
+|
+=1 cro. F(2
+=2 cro. B(1
+=3' qua leg100 [D{2 F}2] leg75 B
+=4' qua leg70 B smq leg100 [B{2 c qua leg80 d}2]
+=5 qua leg100 [c)1 B] leg75 A
+=6 smq leg100 [f)1 eb qua leg75 d] d
+bl0.2 .90 ,
+=7 cro leg90 F qua leg70 F
+bl0.2 .90 ,
+=8 qua. leg100 [d{1 smq e}1] leg75 qua f
+|
+=1' qua leg100 [F)2 B] leg75 G
+=2, qua leg100 [B)1 d] leg75 g
+bl0.2 .90 ,
+=3 cro leg90 B qua leg70 B
+bl0.2 .90 ,
+=4 qua leg100 [e{1 d}1] leg75 e
+bl0.2 .53 ,
+=5 qua leg90 G leg70 F# leg85 G
+bl0.2 .53 ,
+=6 qua leg90 B leg70 B leg85 e
+=7 qua leg80 G d B
+r0.5 .01 wie sich's  ge  -
+=8 qua leg80 e d e
+|
+bl0.3 .90 ,
+=1 cro leg90 c qua leg70 c
+bl0.2 .53 ,
+=2 qua leg90 c leg70 d leg85 e
+=3 cro leg90 A qua leg70 A(2
+=4 qua leg85 A B c
+=5 smq leg100 [G F# qua leg75 G] G
+=6 qua leg100 [e leg75 d] c
+=7 cro leg90 c qua leg70 c
+r0.5 .01 büh .33 - .66 ret,
+=8 qua leg100 [c{2 B A]
+
+2 systems 40 /17-18-17-18-17-18-17 25 17-18-17-18-17-18-17 \
+ / 17-18-17-18-17-18-17 25 17-18-17-18-17-22-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 22 | 22 | 11 12 | 11 12 | 24 | 22 | 24 | 4 4 4 5.1 4 4 |
+|
+=1 qua leg85 A d c
+=2 cro leg70 d qua leg80 d
+=3 qua leg70 A)2 leg90 cro F#-tr
+bl0.2 .62 ,
+=4' qua leg90 d leg70 c leg90 d
+bl0.2 .62 ,
+=5 qua leg90 F# leg70 D leg90 A
+=6 qua leg90 c leg70 A leg90 d
+=7 qua leg85 A D F#
+bl0.2 .60 ,
+=8 qua leg90 d'}2 leg70 f# leg90 d
+|
+il0.7 .05 110
+=1' qua leg100 [B{2 leg85 A}2] leg75 G
+=2, qua leg100 [d{1 leg85 c}1] leg75 B
+=3 cro leg80 D qua leg70 D
+=4 cro leg80 G qua leg70 G
+=5, qua leg100 [B leg85 c] leg75 d
+=6 cro leg70 D qua leg90 D
+=7 cro leg90 G qua leg100 g(1
+=8 qua leg100 [g{1 leg85 a}1] leg75 b
+|
+=1 cro rest qua leg80 G
+=2 cro rest qua leg80 g
+=3 cro rest qua leg80 c
+=4 cro rest qua leg80 c
+=5 cro. e(1
+=6 qua leg100 [c d e]
+=7 qua. [g)1 smq f e c]
+=8 cro leg90 c~ qua b
+|
+=1 qua leg100 [A{2 leg80 B'}2] c
+=2 cro leg80 f qua f
+=3 cro leg80 c qua F
+=4 qua leg100 [f leg80 g] a
+=5 cro. e)1
+=6 qua. [f smq e d c]
+=7' qua [c B A]
+bl0.2 .90 ,
+=8 qua leg100 [a leg80 g] leg60 f
+|
+=1 cro. d(1
+=2, smq leg100 [f e d c leg70 B d]
+=3 cro. B(1
+=4 cro leg100 b qua a
+=5 qua d rest leg75 F#
+=6 qua leg75 B B rest
+=7 qua. [f smq e d c]
+=8' qua leg75 B c d
+|
+=1 cro. leg95 d)1
+=2 cro. g(1
+=3 cro. B)1
+bl0.2 .90 ,
+=4 qua [g leg85 f#] leg60 en
+=5' qua leg100 [G{2 leg75 A}2] leg85 B
+=6 cro. rest
+=7' qua [B A G]
+=8 qua leg100 [en f# g]
+|
+il0.7 .05 115
+=1 qua c rest leg75 En
+=2, smq leg100 [g)1 f e d c B]
+=3 cro. A(2
+=4 qua leg75 A B c
+=5 cro. c(1
+=6 qua rest cro a(1
+=7' smq [c d c B qua A]
+=8 cro a qua g
+|
+=1 qua leg100 [F# leg75 G] leg85 A
+=2 qua leg75 A A rest
+=3 cro. A)2
+=4, qua leg100 [d en f#]
+=5 cro. c)1
+=6 smq [a)1 leg50 b] leg100 [a leg50 g] leg100 [f# leg50 a]
+=7 cro. d(1
+bl0.2 .90 ,
+=8 qua [f# leg80 en] leg60 d
+/
+7 bars | 2b 3.6 3.6 5 4 3.6 3.6 | 21.6 | 4 5 4 5 4 4 \
+ | 3.6 3.6 5 4 3.6 3.6 | 3.6 3.6 4 5 3.6 3.6 | 3.6 3.6 5 4 4 4 | 10 8 8 |
+|
+=1 cro. B(1
+=2 cro rest qua d
+=3 cro. G(2
+=4 leg100 cro g qua fn
+=5 qua leg85 B rest d
+=6 qua leg100 [d smq g fn qua g(1]
+=7 qua leg100 [d)1 c# d(1]
+=8 qua leg80 g a b
+|
+=1 cro. B)1(1
+=2 qua leg100 [g leg75 a] leg85 b
+bl0.2 .90 ,
+=3 leg85 cro G)2 qua leg60 G
+bl0.2 .90 ,
+=4 leg85 cro en qua leg60 d
+=5 qua leg100 [en leg75 f] leg85 g
+=6 qua [g)1 f en(1]
+=7 qua leg100 [d)1 c# d]
+=8 qua leg100 [b a g]
+|
+bl0.4 .53 ,
+=1 qua B')1 leg60 A leg90 c#
+bl0.2 .53 ,
+=2 qua en leg60 e leg85 a
+=3 qua leg85 g c# leg90 en
+=4 qua leg85 c# a leg90 g
+=5 cro. g(1
+=6 qua leg100 [e)1 a en]
+=7, smq [G f en d c# e]
+bl0.4 .57 ,
+=8 qua leg85 c~# leg60 c~ leg85 a
+|
+il0.5 .05 120
+=1 qua leg100 [d leg75 en] leg85 f
+=2 cro a qua a
+=3 cro. d(1
+=4, qua leg100 [f en d]
+=5 cro g)1 qua f(1
+=6 qua leg100 [f{1 leg75 g}1] leg85 a
+=7, qua leg100 [A smq d c# qua d(1]
+bl0.2 .90 ,
+=8 cro d~ qua leg60 d
+|
+=1 cro. g(1
+=2 cro. leg90 g
+=3 qua leg100 [d)1 smq c# d qua en(1]
+=4 cro leg85 b qua leg60 en
+bl0.2 .54 ,
+=5 qua leg100 [f)1 leg75 en] leg85 d
+=6 cro. b
+=7' qua leg100 [d)1 smq G F qua G]
+=8 qua leg85 G A B
+| 3/8 .37 .37 .37
+=1 qua leg80 g)1 smq leg40 f en qua f(1
+bl0.3 .20 ,
+=2 qua leg60 c# leg80 a a
+=3 qua leg80 e)1 leg40 smq A leg80 G [F E]
+=4 cro leg85 a qua d
+=5 qua c# A d(1
+bl0.2 .24 ,
+=6 qua leg60 en leg80 e d(1
+bl0.2 .24 ,
+=7 qua leg60 A leg80 A A
+bl0.2 .90 ,
+=8' qua leg100 [A{2 leg80 c#}2] leg60 d
+| 3/8 .39 .40 .40
+=1 smq f)1 leg80 g cro en
+=2 qua leg80 b smq leg100 [a b a leg80 g]
+=3 qua leg85 D cro A
+=4 qua leg85 g cro a
+=5 smq [d)1 leg80 en] cro c#
+=6 smq d)1 leg80 g qua leg100 [g leg80 en]
+=7' smq [G leg80 B] qua leg100 [En leg80 A]
+=8 qua leg85 G cro A
+
+2 systems 40 /17-18-17-18-17-22-17 27 17-18-17-18-17-18-17 \
+ / 17-18-17-18-17-22-17 27 17-18-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+3 bars | 2b 4/4 4 4 4 4 4 4 5 6 4 4 4 4 4 4 4 4 \
+ | 8 10 8 8 8 8 8 8 | 8 10 8 8 8 8 8 8 |
+| 4/4 .52 .52 .41 .41 .44 .41 .41 .41
+bl0.4 .27 ,
+=1 treble8va 2b 4/4 cha1 cro leg80 d cro. leg95 f cro leg75 eb qua leg90 d
+bl0.2 .27 ,
+=2 treble    2b 4/4 cha1 cro leg80 f cro leg90 a qua [g bn] [c~ d~]
+bl0.2 .27 ,
+=3 treble    2b 4/4 cha2 cro leg80 A cro. leg95 d cro leg75 g qua leg90 f
+=4 bass8va   2b 4/4 cha2 cro leg80 d \
+ qua rest smq leg100 [d~ c~ qua leg90 bn] leg75 g leg100 [a leg90 b]
+r0.5 .41 son  -  dern .80 der
+=5 treble8va 2b 4/4 cha3 tra-12 cro leg80 d rest min rest
+=6 treble    2b 4/4 cha3 tra-12 cro leg80 f rest min rest
+=7 treble    2b 4/4 cha4 tra-12 cro leg80 A rest min rest
+=8 bass8va   2b 4/4 cha4 tra-12 cro leg80 d rest min rest
+| 4/4 .44 .41 .41 .41 .43 .41 .41 .41
+il0.4 .05 125
+=1 qua leg90 e cro c qua e e cro d qua c
+=2 qua g smq leg100 [e{1 f qua leg90 g}1] c min f
+=3 qua e smq leg100 [g{1 f qua leg90 e}1] g qua leg100 [c{1 leg90 A,}1] B c
+=4 qua c~ smq leg100 [e~{1 d~ qua leg90 c~}1] bb \
+ qua a leg100 [f{1 leg90 g}1] a
+r0.5 .01 Geist  selbst .38 vertritt .64 uns .86 aufs
+=5 smb rest
+=6 smb rest
+=7 smb rest
+=8 smb rest
+|
+bl0.4 .30 ,
+=1 qua leg90 d cro B qua c cro d en
+=2 cro f rest min rest
+=3 qua B smq leg100 [f{1 e qua leg90 d}1] f cro B c
+=4 qua b smq leg100 [d~{1 c~ qua leg90 b}1] a cro g c
+r0.5 .04 beste .36 mit .53 un .64 - .75 aus .90 -
+=5' cro rest cro. leg95 B cro leg90 Ab qua G
+=6 smb rest
+=7 smb rest
+=8 smb rest
+/
+4 bars | 2b 8 10 8 8 8 8 8 8 | 8 8 8 8 8 10 8 8 \
+ | 8 10 8 8 8 8 8 8 | 8 10 8 8 8 8 8 8 |
+|
+=1 cro f qua f f leg100 f cro eb qua d(1
+=2 smb rest
+=3, qua c smq leg100 [c{1 B qua leg90 c}1] c leg100 [c{1 d] cro B}1(1
+bl0.2 .86 ,
+=4 qua f smq leg100 [ab{1 g qua leg90 a}1] f cro b qua B B
+r0.5 .01 -  .09 sprechlichen .58 Seufzen,
+=5 qua leg90 Ab cro F qua A A cro G qua F
+=6 smb rest
+=7 smb rest
+=8 smb rest
+|
+=1 qua d)1 cro c qua Bn [c smq f e qua d c]
+=2 cro rest leg90 cro. g cro f qua e
+=3, qua [B)1 f e d] cro c qua [Bn c]
+=4 qua leg100 [e leg90 f] leg100 [g leg90 e] cro ab qua a a
+=5 qua leg100 [G{2 leg90 Ab}2] G G cro c qua leg100 [d{1 leg90 e}1]
+=6 smb rest
+=7 smb rest
+=8 smb rest
+|
+bl0.4 .55 ,
+=1 cro g leg90 cro. G qua G g f
+=2 qua f cro d qua f f cro e qua d
+=3 qua d smq leg100 [f e qua leg90 d] Bn \
+ leg100 [G{2 leg90 c'}2] leg100 [A,{1 leg90 d}1]
+=4 cro. Bn qua G min c(2
+=5 cro d qua d d leg100 d cro c qua Bn
+=6 smb rest
+=7 smb rest
+=8 smb rest
+|
+il0.4 .05 130
+=1 qua leg100 [e leg90 d] c G cro leg100 A qua rest e
+=2 qua leg100 [e{1 leg90 f}1] g e A d cro rest
+=3, qua leg100 [G{1 leg90 f}1] e e leg100 e{1 cro d qua leg90 c}1
+=4  qua [c)2 d' e' c] [f# d, en f]
+=5 qua c smq leg100 [Bn'{2 A qua leg90 G}2] e \
+ leg100 [A{2 leg90 F#}2] leg100 [G{2 leg90 A}2]
+=6 smb rest
+=7 cro rest cro. leg90 c cro Bb qua A
+=8 smb rest
+
+2 systems 40 /17-22-17-18-17-18-17 25 17-18-17-18-17-18-17 \
+ / 17-22-17-18-17-18-17 25 17-22-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+3 bars | 2b 8 10 8 8 8 8 8 8 | 64 | 8 10 10 8 8 8 8 10 |
+|
+=1 qua d rest rest f en rest rest g
+=2 qua rest d g g leg100 [g leg90 c~] b b
+=3 cro B rest qua rest c d en
+=4 qua [g smq b a qua b g] cro c~{1 leg90 c}1
+=5 qua D smq leg100 [d c qua leg90 d] d min c-tr
+=6 smb rest
+=7' qua B cro G qua B B cro A qua G
+=8 smb rest
+|
+=1 qua [f eb d c] Bn cro c qua d(1
+=2 qua leg100 a rest rest ab g rest rest a
+=3, qua leg100 [f{1 leg90 g}1] f e leg100 [d{1 e f}1 F]
+bl0.2 .20 ,
+=4 cro f cro. f cro e qua d
+=5 cro c rest qua rest c f f
+=6 smb rest
+=7' qua A cro F qua F cro G qua leg100 [A leg90 Bn]
+=8 cro rest cro. leg90 f cro e qua d
+|
+=1 qua [d)1 smq c d e f qua g] c cro Bb smq [A G]
+=2 qua g rest rest g f rest rest an(1
+=3 cro G rest min rest
+=4 qua e cro c qua e e cro d qua c
+=5 qua f smq leg100 [eb f qua leg90 g] e f rest rest c(1
+=6 smb rest
+=7, qua c smq leg100 [e leg90 d] qua c B leg100 [A f{1] cro leg90 e}1--tr
+=8 qua e cro c qua e e cro d qua c
+/
+4 bars | 2b 7.1 5 4 4  5 5 4 4  4 4 4 4  4 4 4 4 | 8 8 8.6 8 8 8 8 8 | 64 | 64 |
+|
+=1 smq [F# En qua D(2 D)2 A] [B, c d eb]
+=2 qua [a)1 g] cro a qua leg80 g leg90 a d g
+=3 cro rest cro. leg90 d cro c qua B
+=4 qua leg100 [d,{1 leg90 en}1] f# d cro g g
+=5 qua [c)1 B,] leg80 A leg90 f# cro g G
+=6 smb rest
+bl0.2 .20 ,
+=7 cro leg80 d leg90 cro. d cro c qua B
+=8 qua leg100 [d,{1 leg90 en}1] leg80 f# leg90 d cro g g
+|
+il0.4 .05 135
+=1 cro leg90 A rest min rest
+=2 qua c~ cro c~ qua g leg100 [a f# g a(1]
+=3 qua c cro A qua c c cro B qua A
+=4 cro g qua f# en leg100 [f d, e f]
+=5 cro e qua d c min d(1
+=6 smb rest
+=7 qua c cro A qua c c cro B qua A
+=8 cro g qua f# en leg100 [f d, e f]
+|
+=1 smb rest
+=2 qua leg90 a)1 g cro. g cro fn qua e
+=3 qua leg100 [B{1 leg90 e}1] d G leg100 [c{1 leg90 Bn,}1] cro c
+=4 cro g qua rest eb cro ab qua rest fn
+=5 qua d)1 cro c qua Bn leg100 [c leg90 d] cro e
+=6 cro rest cro. g cro f qua e
+=7 qua leg100 [B{1 leg90 e}1] d G leg100 [c{1 leg90 Bn,}1] cro c
+=8 cro g qua rest eb cro ab qua rest fn
+|
+=1 smb rest
+=2 qua f cro d qua f f cro e qua d
+=3 qua rest f ab g leg100 [g{1 leg90 G,}1] An Bn'
+=4 cro bn qua rest g min c~(2
+=5 qua leg80 d leg90 G d d leg100 [d leg90 c] f f
+=6 qua f cro d qua f f cro e qua d
+=7 qua rest f ab g leg100 [g{1 leg90 G,}1] An Bn'
+=8 cro bn qua rest g min c~(2
+
+2 systems 40 /17-18-17-18-17-20-17 25 17-18-17-18-17-20-17 \
+ / 17-22-17-18-17-18-17 25 17-22-17-18-17-18-17 30/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+4 bars | 2b 8 10 8 8 8 8 8 8 | 4 4 5 6.6 4 4 4 4 4 4 4 4 4 4 4 4 | 64 | 64 |
+|
+=1 cro rest leg90 cro. g cro f qua e
+=2 qua e smq leg100 [c d qua leg90 e] g c~ cro g qua c~
+=3 qua leg100 c rest rest d e rest rest e
+=4 qua c~)2 smq leg100 [e~ d~ qua c~ b] [an bn] cro c~(1
+=5 min leg100 e(1 qua e)1 cro d qua c
+=6 qua e smq leg100 [c d qua leg90 e] g c~ cro g qua c~
+=7 qua leg100 c rest rest d e rest rest e
+=8 qua c~)2 smq leg100 [e~ d~ qua c~ b] [an bn] cro c~(1
+|
+=1 qua f cro d qua f f cro e qua d
+=2 qua leg100 [ab leg90 f] leg100 [d leg90 a] leg100 [g leg90 bn] c~ g
+=3 qua d rest rest d g rest rest g
+=4 qua c~)1 smq leg100 [d~ c~ qua bn d~] cro g qua [a b]
+=5 qua [d f ab c] leg90 Bn G cro rest
+=6 qua leg100 [ab leg90 f] leg100 [d leg90 a] leg100 [g leg90 bn] c~ g
+=7 qua d rest rest d g rest rest g
+=8 qua c~)1 smq leg100 [d~ c~ qua bn d~] cro g qua [a b]
+|
+il0.4 .05 140
+=1 qua leg100 [e leg90 d] c d leg100 [e leg90 db] leg100 [d leg90 c]
+=2 qua leg100 g rest rest bb an rest rest c~
+=3 qua e rest rest g leg90 c f f e
+=4 qua [c~ bb ab g] min f(1
+=5 cro rest cro. c cro Bb qua An
+=6 qua leg100 g rest rest bb an rest rest c~
+=7 qua e rest rest g leg90 c f f e
+=8 qua [c~ bb ab g] min f(1
+|
+=1 cro db qua c B min leg100 c(1
+=2 qua f cro en qua f [g e f g]
+=3 leg100 [db leg90 B] g f leg100 c rest rest B
+=4, qua [f)1 b c~ d~b] [en c dn e]
+=5' qua B cro G qua B B cro Ab qua G
+=6 qua f cro en qua f [g e f g]
+=7 leg100 [db leg90 B] g f leg100 c rest rest B
+=8, qua [f)1 b c~ d~b] [en c dn e]
+/
+4 bars | 2b 64 | 64 | 8 9 8 8 8 8 8 8 \
+ | 4 4 6 5 4 4 4 4 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 ||
+|
+=1 qua c)1 cro db qua c Bn cro dn qua f(1
+=2 qua [c f] rest g [ab f] rest a
+=3 qua [Ab F] G rest rest [d f] rest
+bl0.2 .20 ,
+=4 cro leg90 f eb dn c
+=5 cro Ab qua G G leg100 [F{2 leg90 A}2] leg100 [A{2 leg90 F}2]
+=6 qua [c f] rest g [ab f] rest a
+=7 qua [Ab F] G rest rest [d f] rest
+bl0.2 .20 ,
+=8 cro leg90 f eb dn c
+|
+bl0.4 .83 ,
+=1 qua f)1 cro ab qua g [f leg90 en] leg70 e leg90 g
+bl0.2 .83 ,
+=2 qua d rest rest g [c~ g] leg70 c leg90 g
+=3 rest [f d] rest rest [en g] rest
+=4 cro Bn qua B B cro c qua rest c
+=5, cro dn qua d d leg100 [g c Bb en]
+bl0.2 .83 ,
+=6 qua d rest rest g [c~ g] leg70 c leg90 g
+=7 rest [f d] rest rest [en g] rest
+=8 cro Bn qua B B cro c qua rest c
+| 4/4 .44 .42 .43 .44 .46 .47 .48 .49
+=1 qua B' An cro. leg100 eb{1 qua leg90 db}1 En F
+=2 cro f f f qua d~b f
+=3 rest [f c] rest rest [F B' dn']
+=4 cro f qua rest f cro b qua rest bn
+=5, qua [f c An c(1] [c)1 B] [g ab]
+=6 cro f f f qua d~b f
+=7 rest [f c] rest rest [F B' dn']
+=8 cro f qua rest f cro b qua rest bn
+| 4/4 .53 .52 .54 .56 .74 .74 .75 .76
+il0.4 .05 145
+=1 cro leg100 Ab{2 leg90 G}2 min leg95 F
+=2 qua leg100 [f smq g ab] cro leg90 b min leg95 an
+=3 min leg95 c c
+=4 cro c~ leg90 c min leg95 f
+=5 cro f en-tr min leg95 f
+=6 qua leg100 [f smq g ab] cro leg90 b min leg95 an
+=7 min leg95 c c
+=8 cro c~ leg90 c min leg95 F
+midi pause 1.5
+
+% end_satbsatb
+4 systems 15 /17-18-17-18-17-18-17/17-18-17-18-17-18-17 \
+ /17-22-17-18-17-18-17/17-18-17-18-17-18-17 10/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+7 bars | 2b 28 | 14 16 | 32 | 32 | 32 | 8 10 8 8 | 8 10 8 8 |
+| 2/2 .16 .14 .14 .14 .16 .14 .14 .14
+midi channel 5 patch 74 pan 35
+midi channel 6 patch 74 pan 95
+midi channel 7 patch 74 pan 5
+midi channel 8 patch 74 pan 65
+il1.2    2. Allabreve: Der aber die Herzen forschet
+=1  treble8va 2b 2/2 cha5 leg90 smb rest
+=2  treble    2b 2/2 cha6 leg90 smb rest
+=3  treble    2b 2/2 cha7 leg90 smb rest
+=4  bass8va   2b 2/2 cha8 leg90 min rest vol-10 f vol+10
+r0.2 .54 Der
+|
+=1 smb rest
+=2 smb rest
+=3 min rest vol-10 B vol+10
+=4 min b cro leg80 b leg90 b
+r0.2 .01 a .26 - .49 ber .75 die
+|
+=1 smb rest
+=2 smb rest
+=3 min f cro leg80 f leg90 f
+=4 cro leg100 a{1 leg80 g}1 leg100 a{1 leg80 f}1
+r0.2 .01 Her .29 -  .50 zen
+|
+=1 smb rest
+=2 smb rest
+=3 cro leg100 e{1 leg80 d}1 leg100 e{1 leg80 c}1
+bl0.2 .67 ,
+=4 cro leg100 g{1 leg80 f}1 leg70 g leg90 a
+r0.2 .01 for  -  schet, .76 der
+|
+il0.3 .05 150
+=1 smb rest
+=2 smb rest
+bl0.2 .67 ,
+=3 cro leg100 d{1 leg80 c}1 leg70 d leg90 e
+=4 cro leg100 b{1 leg80 f}1 min leg90 b(1
+r0.2 .03 weiß, .50 was
+|
+=1 smb rest
+=2 min rest vol-10 f vol+10
+=3 cro leg100 f{1 leg80 c}1 min leg90 f(1
+=4 cro b)1 qua leg100 [a{1 leg90 g}1] cro a f
+r0.2 .25 des .52 Geistes
+|
+=1 min rest vol-10 B vol+10
+=2 min b cro leg80 b leg90 b
+=3 cro f)1 qua leg100 [e leg90 d] cro e B
+=4 smb g-tr
+r0.2 .01 Sinn
+/
+6 bars | 2b 32 | 32 | 32 | 8 10 8 8 | 4 4 6 5 4 4 4 4 | 8 10 8 8 |
+|
+=1 min f cro leg80 f leg90 f
+=2 cro leg100 a{1 leg80 g}1 leg100 a{1 leg80 f}1
+=3 smb c-tr
+bl0.2 .40 ,
+=4 min leg70 f leg90 d
+r0.2 .09 sei,
+|
+=1 cro leg100 e{1 leg80 d}1 leg100 e{1 leg80 c}1
+bl0.4 .63 ,
+=2 cro leg100 g{1 leg80 f}1 leg70 g leg90 a
+bl0.2 .40 ,
+=3' min leg70 B cro leg90 B A
+=4 min leg70 g leg90 g(1
+|
+il0.6 .15 155
+bl0.2 .67 ,
+=1 cro leg100 d{1 leg80 c}1 leg70 d leg90 e
+=2 cro leg100 b{1 leg80 f}1 min leg90 b(1
+=3 cro G leg80 d leg90 min g
+=4 cro g)1 a b c~
+|
+=1 cro leg100 f{1 leg80 c}1 min leg90 f(1
+=2 cro b)1 qua leg100 [a leg90 g] cro a f
+bl0.4 .52 ,
+=3 min. leg80 f cro leg90 ab
+=4 cro leg80 d~ leg90 e~ d~ c~
+|
+=1 cro f)1 qua leg100 [e{1 leg90 d}1] cro e c
+=2 smb g-tr
+=3 cro leg80 d qua leg100 [c{1 Bn] cro leg90 c}1 e
+bl0.3 .18 ,
+=4 cro leg70 bn leg90 g min c~(1
+|
+=1 smb d-tr
+bl0.3 .18 ,
+=2 cro leg70 f# leg90 d min g(1
+=3 cro leg100 A{1 qua [d c] cro leg90 d}1 Bb
+=4 cro c~)1 leg100 qua [bb{1 a] cro leg80 b}1 leg90 g
+/
+6 bars | 2b 4 4 6 5 4 4 4 4 | 8 10 8 8 | 14 16 | 8 10 8 8 | 8 10 8 8 | 32 |
+|
+bl0.3 .23 ,
+=1 cro leg70 c leg90 c leg85 f leg90 f
+=2 cro g)1 qua leg100 [fn{1 leg90 en] cro f}1 g
+bl0.2 .23 ,
+=3 cro leg80 c leg90 B c d
+=4 cro leg100 a{1 leg80 g}1 leg100 a{1 leg80 b}1
+|
+il0.8 .05 160
+=1 min leg100 f{1 leg90 en}1-tr
+=2 cro leg100 a{1 qua leg100 [g a] cro leg90 b}1 b
+=3 smb c-tr
+bl0.2 .69 ,
+=4 min c~ cro leg70 c leg90 c
+| 2/2 .17 .17 .14 .14 .16 .14 .14 .14
+=1 smb f(1
+=2 min leg100 b{1 leg90 a}1-tr
+bl0.2 .33 ,
+=3 min leg70 c leg90 F
+=4 min f cro f f
+| 2/2 .16 .14 .14 .14 .16 .14 .14 .14
+bl0.4 .19 ,
+=1 cro leg70 f)1 leg100 qua [f{1 e] cro leg90 f}1 d
+=2 min b rest
+=3' min B cro B B
+=4' cro leg100 d{2 leg80 c}2 leg100 d{2 leg80 B}2
+|
+=1 cro leg100 e{1 qua [g f] cro leg90 e}1 f
+=2 smb rest
+=3 cro leg100 Ab{2 leg80 G}2 leg100 Ab{2 leg80 F}2
+bl0.2 .69 ,
+=4' cro leg100 c{2 leg80 B}2 leg70 c leg90 d
+|
+=1 min leg100 B{1 leg90 c}1
+=2 smb rest
+bl0.2 .69 ,
+=3 cro leg100 G{2 leg90 F}2 leg70 G leg90 An
+bl0.2 .41 ,
+=4 cro leg100 e{2 leg70 B}2 leg90  min e(1
+/
+7 bars | 2b 8 10 8 8 | 20 16 | 32 | 32 | 8 8 8 10 | 8 10 8 8 | 8 10 8 8 |
+|
+il0.8 .05 165
+bl0.3 .29 ,
+=1 cro leg70 F leg90 B f d
+=2 min rest B
+bl0.2 .49 ,
+=3' cro leg100 B{2 leg70 F}2 leg90  min B(2
+=4 cro e)1 qua leg100 [d' leg90 c] cro d' B
+|
+bl0.4 .69 ,
+=1 qua leg100 [e{1 d] cro leg90 e}1 leg70 c leg90 F
+=2 min e cro e e
+=3' cro B)2 qua leg100 [A leg90 G] cro A F
+bl0.3 .22 ,
+=4 cro leg70 c leg100 c min f(1
+|
+=1' min B cro B B
+=2, cro leg100 d{1 leg80 c}1 leg100 d{1 leg80 B}1
+=3 smb G-tr
+=4 min f)1{1 e}1(1
+|
+=1 cro leg100 Ab{2 leg80 G}2 leg100 Ab{2 leg80 F}2
+bl0.2 .66 ,
+=2, cro leg100 c{1 leg80 B}1 leg70 c leg90 d
+bl0.2 .38 ,
+=3 min leg70 F leg90 f
+=4 min e)1{1 d}1(1
+|
+bl0.4 .69 ,
+=1 cro leg100 G{2 leg80 F}2 leg70 G leg90 An
+=2 cro leg100 e{1 leg80 B}1 leg90 min e(1
+=3' cro leg70 B min leg90 B qua leg100 [A{2 leg90 G}2]
+=4' min leg90 d)1 c
+|
+il0.6 .05 170
+=1' cro leg100 B{2 leg80 F}2 leg90 min B(2
+=2 cro e)1 qua leg100 [d leg90 leg90 c] cro d B
+=3 min F F
+bl0.2 .66 ,
+=4' min d cro leg70 B leg90 B
+|
+=1' cro B)2 qua leg100 [A leg90 G] cro A F
+bl0.2 .19 ,
+=2 cro leg70 c leg90 c min f(1
+=3 cro leg70 F leg90 A min c(1
+=4 min f cro rest f
+
+4 systems 10 /17-18-17-18-17-18-17/17-18-17-18-17-22-17 \
+ /17-18-17-18-17-22-17/17-18-17-18-17-18-17 10/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 8 10 8 8 | 32 | 8 10 8 8 | 32 | 4 4 6 5 4 4 4 4 | 32 |
+|
+bl0.4 .25 ,
+=1 cro leg70 G leg90 G min c(1
+=2 min leg100 f)1 leg90 e
+=3 cro c)1 qua leg100 [Bn' leg90 A] min G
+=4 cro leg100 c{2 leg70 d'}2 leg90 e c
+|
+=1 min c)1 Bb
+bl0.2 .19 ,
+=2 cro leg70 d leg90 d min g(1
+=3 min G cro rest d(1
+=4 cro leg100 g{1 leg70 a}1 leg100 bb{1 leg70 g}1
+|
+bl0.2 .19 ,
+=1 cro leg70 A leg90 A min d(1
+=2 min g)1 f
+=3 cro d)1 qua leg100 [c leg90 B] cro A F
+bl0.2 .69 ,
+=4, cro leg100 d{1 leg70 en}1 leg90 f d
+|
+il0.6 .05 175
+=1 min leg100 d)1{1 c}1(1
+=2 smb e-tr
+bl0.2 .19 ,
+=3 cro leg70 B' leg90 G leg100 c{1 B
+=4 cro leg100 g{1 leg70 b}1 leg90 a g
+|
+=1 min leg90 c)1 B
+bl0.2 .19 ,
+=2 cro leg70 d min leg90 d cro g
+=3 cro leg90 A}1 qua leg100 [G leg90 F#] min leg100 G(2
+bl0.2 .69 ,
+=4 cro leg100 f#{1 leg70 d}1 leg70 g leg90 e
+|
+=1 smb A-tr
+=2 cro e c leg100 A{1 leg90 d}1
+=3 min G)2 leg90 F#-tr
+=4 cro c A min d
+/
+6 bars | 2b 32 | 32 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 |
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+=1 min G rest
+bl0.2 .42 ,
+=2 min leg60 B leg90 g
+bl0.2 .28 ,
+=3 cro leg60 G leg87 G G G
+r0.5 .28 denn .56 er .75 ver  -
+=4 min G rest
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 smb rest
+=2 min c f
+=3' cro leg100 A{2 leg90 G}2 leg100 A{2 leg90 B}2
+r0.5 .04 tritt .51 die
+=4 smb rest
+|
+il0.3 .05 180
+=1 min rest leg90 c
+bl0.2 .19 ,
+=2 cro leg70 en leg87 c c c
+=3 cro leg100 c qua [B, c] cro A qua [G A]
+r0.5 .01 Hei .70 -
+=4 smb rest
+|
+=1 min F B'
+=2 cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 en}1
+=3' cro B qua [A B] cro G qua [F G]
+r0.5 .65 -
+=4 smb rest
+|
+bl0.3 .19 ,
+=1 cro leg70 A leg87 F F F
+=2 cro leg100 f qua [eb f] cro d qua [c d]
+=3' cro leg100 A qua [G A] min B(2
+r0.5 .60 -
+=4 min rest leg90 b
+|
+=1 cro leg100 G{2 leg90 F}2 leg100 G{2 leg90 A}2
+=2 cro e qua [d e] cro c qua [B c]
+=3' min B)2 A(2
+r0.5 .55 -
+=4 min e f
+/
+6 bars | 2b 8 10 8 10 | 4 4 5 6 4 4 5 5 | 8 10 8 10 \
+ | 8 10 8 10 | 8 10 8 8 | 9 8 8 10 |
+|
+=1' cro leg100 B qua [A B] cro G qua [F# G]
+=2 min. d qua [c d]
+=3' cro A)2 D G qua [A B]
+r0.5 .63 -
+bl0.3 .26 ,
+=4  cro leg70 B leg87 B B B
+|
+il0.6 .05 185
+=1 cro A qua [G A] cro F# qua [En F]
+bl0.3 .68 ,
+=2 cro leg90 e c leg70 A leg90 d
+bl0.2 .68 ,
+=3 cro leg90 E e leg70 d leg90 B
+r0.5 .26 li - gen,
+=4' cro leg100 c{2 leg90 B}2 leg100 c{2 leg90 d}2
+|
+=1' cro leg100 G{2 leg90 B}2 leg100 A{2 leg90 G}2
+=2 min B e
+=3 min G c
+=4 cro leg100 e qua [d, e] cro c qua [B c]
+|
+bl0.3 .40 ,
+=1 min leg70 F# leg90 d
+=2 min d d
+bl0.2 .41 ,
+=3 min A G(2
+=4' cro d qua [c d] cro B qua [A B]
+|
+=1 min G c
+=2 min en f#
+=3 cro G)2 min c cro A
+=4' cro c qua [B c] cro A leg90 d
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+bl0.3 .21 ,
+=1' cro leg70 B leg87 G G G
+bl0.2 .39 ,
+=2 min leg70 g leg90 g
+=3 cro G F leg100 Eb qua [D E]
+=4 cro G rest min rest
+/
+6 bars | 2b 8 10 8 8 | 8 10 8 10 | 8 10 8 10 \
+ | 6 5 5 5 4 4 5 5 | 8 10 8 8 | 8 10 8 10 |
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+il0.5 .08 190
+=1' cro leg100 A{2 leg90 G}2 leg100 A{2 leg90 Bn}2
+=2 min c f
+=3 cro F qua [E F] cro leg90 D G
+=4 smb rest
+|
+=1 cro leg100 c qua [Bb, c] cro leg100 A qua [G A]
+bl0.2 .19 ,
+=2 cro leg70 en leg87 c c c
+=3 min leg70 C leg90 c
+=4 cro rest leg90 c f en
+|
+=1' cro leg100 B qua [A B] cro leg100 G qua [F G]
+=2 cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 en}1
+=3' min F B
+=4 cro d f B c
+|
+=1 cro A min f cro eb(1
+=2 qua leg100 [f en f g] cro a qua [g a]
+bl0.2 .19 ,
+=3 cro leg70 A leg87 F F F
+bl0.2 .39 ,
+=4 min leg70 F leg90 f
+|
+bl0.3 .68 ,
+=1 cro leg90 e)1 d leg70 c leg90 F
+=2 cro b qua [a b] cro leg90 c~ c~
+=3 cro leg100 G{2 leg90 F}2 leg100 G{2 leg90 A}2
+=4 min B e
+|
+il0.4 .05 195
+=1 cro B c leg100 d{1 qua [e d]
+bl0.3 .36 ,
+=2 min leg70 f leg90 b
+=3' cro leg100 B qua [Ab B] cro leg100 G qua [F G]
+bl0.2 .21 ,
+=4' cro leg70 d leg87 B B B
+
+4 systems 10 /17-23-17-18-17-18-17/17-22-17-18-17-22-17 \
+ /17-22-17-18-17-18-17/17-22-17-18-17-18-17 10/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 8 10 8 10 | 4 4 6 5 4 4 6 5 | 8 10 8 8 | 15 16 | 32 | 32 |
+|
+=1 cro leg90 c}1 d e f
+=2 min e ab
+=3' cro leg100 Ab qua [G A] cro leg100 F qua [E F]
+=4' cro leg100 c{2 leg90 B}2 leg100 c{2 leg90 d}2
+|
+bl0.3 .18 ,
+=1 cro leg70 B leg90 B min e(1
+=2 cro leg100 g{1 qua [b ab] cro leg90 b}1 c~
+=3 cro leg90 G F E rest
+=4 cro leg100 e qua [g f] cro leg100 g qua [b ab]
+|
+=1 min e)1 d-tr
+=2 cro leg100 f{1 qua [ab g] cro leg90 a}1 a
+=3 min rest B
+=4 min leg90 b b
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+=1 min e rest
+bl0.4 .34 ,
+=2 min leg70 g leg90 c~
+=3 min leg70 e cro leg87 e e
+=4 min e rest
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+il0.4 .05 200
+=1 smb rest
+=2 min min f b
+=3, cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 B}1
+=4 smb rest
+|
+=1 smb rest
+=2 cro leg87 e leg90 e min ab(1
+bl0.2 .68 ,
+=3, cro leg100 c{1 leg90 B}1 leg75 c leg90 d
+=4 min rest leg90 f
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 32 | 8 8 8 10 | 8 10 8 10 |
+|
+=1 min rest leg90 G
+=2 cro leg100 a)1 qua [g f] cro g qua [ab g]
+=3 cro leg100 e{1 leg75 B}1 min e(1
+=4 min g c~
+|
+=1 min An d
+=2 min. f qua [g f]
+=3 cro leg90 e)1 qua leg100 [d leg90 c] cro d B
+=4 cro leg90 f f min b(1
+|
+=1 min G rest
+bl0.3 .66 ,
+=2 cro leg90 en c leg70 f leg90 f
+bl0.2 .66 ,
+=3 min. c cro d
+=4 cro leg100 b)1 qua [a g] cro a qua [b a]
+|
+il0.4 .05 205
+=1 min rest g
+=2 min b cro leg85 b leg90 b
+=3 cro en f leg100 f{1 leg90 e}1
+=4 min. g-tr cro leg90 g
+|
+=1 min c f
+=2 cro leg100 a{1 leg90 g}1 cro leg100 ab{1 leg90 f}1 
+=3 min f cro rest d
+=4 cro leg70 f leg90 eb leg100 d' qua [c d']
+|
+=1 cro leg87 B leg90 B min leg100 e(1
+bl0.5 .63 ,
+=2 cro leg100 g{1 leg90 f}1 cro g an
+=3 min G c
+=4 cro e qua [d e] cro c qua [B c]
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 4 4 6 5 4 4 4 4 | 8 10 8 10 | 32 | 32 |
+|
+=1 cro e)1 qua [d c] cro d qua [e d]
+=2 cro leg100 b{1 leg90 f}1 min b(1
+bl0.2 .24 ,
+=3 cro leg70 F leg90 f d B
+bl0.2 .68 ,
+=4 cro leg85 d leg90 d leg70 g leg90 f
+|
+=1 min. c qua [d c]
+=2 cro leg90 b)1 qua leg100 [ab leg90 g] cro a f
+=3 cro leg100 G{1 leg90 en}1 leg100 f{1 leg90 ab}1 
+=4 cro en c min leg100 f(1
+|
+il0.6 .15 210
+bl0.4 .68 ,
+=1 cro leg90 Bn' G leg70 g leg90 f
+bl0.4 .60 ,
+=2 min. g cro ab
+=3 cro leg100 d qua [c Bn] min c(1
+=4 cro f)1 qua [eb d] cro leg90 e f
+|
+=1 min e d-tr
+=2 cro leg100 g qua [f e] cro f qua [g f]
+=3 min leg90 c)1 Bn
+=4 min g G
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+bl0.3 .19 ,
+=1 cro leg70 c leg87 G G G
+=2 cro leg90 e d min e(1
+=3 min c rest
+bl0.4 .35 ,
+=4 min leg70 c leg90 c~
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1' cro leg100 A{2 leg90 G}2 leg100 A{2 leg90 B}2
+=2 min e)1 d-tr
+=3 smb rest
+=4 min f b
+/
+6 bars | 2b 8 10 8 10 | 32 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 |
+|
+=1, cro leg100 c qua [B c] cro d qua [c d]
+bl0.3 .23 ,
+=2 cro leg70 c leg87 a a leg90 a
+=3 min rest f
+bl0.2 .24 ,
+=4 cro leg70 a leg87 f f f
+|
+il0.6 .15 215
+=1 cro e min d cro c
+=2 cro b a b c~
+=3 min B e
+=4 cro leg100 g{1 leg90 f}1 leg100 g{1 leg90 a}1
+|
+=1 cro B qua [c d] min e(1
+bl0.4 .39 ,
+=2 min leg70 f leg90 b
+bl0.2 .19 ,
+=3 cro leg70 d leg87 B B leg90 B
+=4 cro leg100 b qua [ab b] cro g qua [f g]
+|
+=1 cro e)1 c leg87 f leg90 f
+=2 min e ab
+=3 cro leg100 c{1 leg90 B}1 leg100 c{1 leg90 d}1
+=4 cro leg100 ab qua [g a] cro f qua [e f]
+|
+bl0.4 .36 ,
+=1 min leg70 B leg90 g
+bl0.4 .19 ,
+=2 cro leg70 g leg87 g g leg90 g
+=3 cro leg100 e qua [d e] min c(1
+=4 cro leg100 g qua [f g] cro e qua [d e]
+|
+=1 min c f
+=2 cro leg100 an{1 leg90 g}1 leg100 a{1 leg90 bn}1
+=3 min. c)1 cro F
+=4 cro leg100 f qua [e f] cro leg87 d leg90 d 
+
+4 systems 10 /17-22-17-18-17-18-17/17-18-17-18-17-18-17 \
+ /17-22-17-18-17-22-17/17-28-17-18-17-18-17 10/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 8 10 8 10 \
+ | 8 10 8 10 | 8 10 8 10 | 4 4 6 5 5 5 4 4 |
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+il0.5 .36 220
+bl0.3 .24 ,
+=1 cro leg70 en leg87 c c leg90 c
+=2 cro leg100 c~ qua [bb c~] cro a qua [g a]
+bl0.4 .24 ,
+=3 cro leg70 G leg90 en leg87 f leg90 f
+=4 min c rest
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 en}1
+=2 cro leg100 b qua [a b] cro g qua [f g]
+=3 cro leg87 B leg90 B leg87 c leg90 c
+=4 smb rest
+|
+=1 cro leg100 f qua [eb f] cro d qua [c d]
+=2 min. a qua [g a]
+bl0.2 .19 ,
+=3 cro leg70 F leg87 F leg100 F qua [E F]
+=4 smb rest
+|
+=1, cro leg100 e qua [d e] cro c qua [B c]
+=2 cro b qua [a b] cro leg90 c~ f
+=3 cro leg100 G qua [F G] cro A qua [G A]
+=4 min rest leg90 f
+|
+=1 cro d qua [c d] cro B' qua [A B']
+bl0.3 .19 ,
+=2 cro leg70 f leg90 g min leg100 g(1
+bl0.4 .64 ,
+=3 cro leg90 B c leg70 d leg90 g
+=4 min b cro b b
+|
+il0.5 .06 225
+=1 cro leg100 c{1 leg90 B}1 leg100 c{1 leg90 d}1
+=2 cro g)1 qua [f en] [f g] cro a
+=3 min c f
+=4 cro leg100 a{1 leg90 g}1 leg100 a{1 leg90 f}1
+/
+6 bars | 2b 32 | 8 10 8 10 | 4 4 5 5 4 4 6 5 \
+ | 8 10 8 10 | 4 4 6 5 4 4 5 5 | 8 10 8 10 |
+|
+bl0.4 .24 ,
+=1 cro leg70 e min leg90 d cro c(1
+=2 min. leg90 b cro f
+=3 cro leg87 B leg90 B min e(1
+=4 cro leg100 g{1 leg90 f}1 leg70 g leg90 a
+|
+=1 cro leg100 c)1 qua [B' A] cro leg90 B' qua leg100 [c leg90 d]
+bl0.3 .39 ,
+=2 min leg70 f leg90 g
+=3 cro leg100 e)1 qua [d c] cro d qua [e d]
+=4 cro leg100 b{1 leg70 f}1 min leg90 b(1
+|
+bl0.5 .16 ,
+=1 cro leg70 G leg90 en min f(1
+=2 cro en c c~ a
+=3 min. c qua [f en]
+=4 cro leg90 b)1 qua leg100 [a leg90 g] cro a f
+|
+=1 min f)1 en
+=2 cro leg100 b qua [a b] cro g qua [f g]
+=3 cro leg100 d qua [c d] cro B' qua [A B']
+=4 smb g-tr
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+il0.6 .33 230
+bl0.4 .19 ,
+=1 cro leg70 f leg90 c min f(1
+bl0.3 .69 ,
+=2 cro leg90 a g leg70 a leg90 f
+=3 cro leg100 c qua [d eb] cro f qua [e f]
+bl0.3 .36 ,
+=4 min leg70 f leg90 d~
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 cro f)1 e min e(1
+=2 min leg87 b cro b leg90 b
+=3 cro leg100 f qua [e f] cro g qua [f g]
+=4 min g c~
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 8 | 32 \
+ | 4 4 6 5 5 5 6 5 | 8 10 8 10 | 4 4 6 5 4 4 5 5 |
+|
+=1 cro leg87 e)1 leg90 e min leg100 d(1
+=2 cro leg100 a{1 leg90 g}1 leg100 ab{1 leg90 f}1
+=3, cro leg100 c qua [B c] cro d qua [c d]
+=4 cro leg87 f leg90 f min b(1
+|
+=1 cro d)1 qua [e d] cro leg87 c leg90 c
+bl0.5 .63 ,
+=2 cro leg100 g{1 leg90 f}1 leg70 g leg90 an
+bl0.5 .63 ,
+=3 cro leg100 e leg90 d leg70 en leg90 f#
+=4 min b)1 a-tr
+|
+=1 min B cro rest d
+=2 cro leg100 b{1 leg70 f}1 min leg90 b(1
+=3 cro leg100 g{1 leg90 fn}1 leg100 en{1 leg90 d}1
+bl0.2 .19 ,
+=4 cro leg70 g leg90 d g f
+|
+il0.8 .04 235
+=1 cro leg100 g{1 qua [f en] [f g f eb]
+=2 cro leg90 b)1 leg100 qua [a leg90 g] cro a f
+=3 min. c cro d
+=4 cro en c min leg100 f(1
+|
+=1 cro leg90 d}1 Bn min G
+=2 smb g-tr
+=3 cro leg100 Bn' G min c(1
+=4 cro f)1 qua [eb d] cro e qua [f e]
+|
+=1 cro rest leg87 d d leg90 d
+=2 min f# cro rest leg87 g
+=3 min c)1 Bb(1
+=4 cro d qua [en f#] cro g qua [f g]
+/
+7 bars | 2b 8 12 8 8 | 32 | 32 | 32 | 8 10 8 10 | 20 16 | 20 ||
+| 2/2 .17 .15 .15 .15 .17 .15 .15 .15
+=1 cro leg100 e{1 leg90 d}1 leg100 e{1 leg90 f}1
+=2 leg90 g fn
+=3 min leg90 B)1 A
+=4 cro c qua [d eb] cro leg87 fn leg90 f
+|
+=1 cro leg100 d{1 leg90 c}1 leg100 B'{2 leg90 Ab}2
+=2 min. leg87 f cro leg90 f
+=3 min B cro rest d
+bl0.2 .21 ,
+=4' cro B c d B
+| 2/2 .18 .15 .15 .15 .18 .15 .15 .15
+il0.5 .05 240
+=1 min G cro rest B'
+r0.6 .75 nach
+=2 cro leg100 g{1 leg90 ab}1 leg100 g{1 leg90 f}1
+=3 cro leg70 B leg90 B c d
+=4 cro e f e d
+|
+=1 min. e cro c
+r0.6 dem, .72 das
+=2 cro e c~ min an
+bl0.2 .69 ,
+=3 min G cro leg70 F leg90 A
+bl0.2 .21 ,
+=4 cro leg87 c leg90 c f e
+| 2/2 .18 .16 .16 .16 .18 .16 .16 .16
+=1 min. f cro g
+r0.6 Gott .75 ge .90 -
+=2 cro rest f min b(2
+=3 cro leg70 B leg90 d f qua leg100 [B,{1 c}1]
+=4 cro leg100 d'{'1 qua [B c] cro leg90 d'}'1  e
+| 2/2 .19 .16 .16 .16 .19 .16 .16 .16
+=1 min. leg100 d{1 leg90 c}1
+r0.6 fäl .60 -
+=2 cro b)2 qua leg100 [a leg90 g] min a
+=3 qua leg100 [d{1 e] min f cro leg90 e}1
+=4' smb f
+=4, min fr{2 F}2
+| 2/2 .95 .95
+=1 smb B-fermata
+r0.6 .01 let.
+=2 smb f-fermata
+=3 smb d-fermata
+=4 smb B-fermata
+midi pause 2.0
+
+4 systems 10 /17-22-17-28-17-18-17/17-22-17-30-17-18-17\
+ /17-22-17-30-17-18-17/17-20-17-28-17-22-17 10/
+pagenum
+innerhead Motet: Der Geist hilft unser Schwacheit auf, J. S. Bach,  BWV226
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 4/4 8 | 8 10 10 10 | 14 16 | 14 16 | 32 | 16 14 |
+| 1/4 .8
+midi channel 5 patch 74 pan 35
+midi channel 6 patch 74 pan 95
+midi channel 7 patch 74 pan 5
+midi channel 8 patch 74 pan 65
+il1.2    3. Choral: Du heilige Brunst
+=1  treble8va 2b 4/4 cha5 tra-12 leg95 cro vol-15 f vol+10
+=2  treble    2b 4/4 cha6 tra-12 leg95 cro vol-15 b vol+10
+r0.6 .50 Du
+=3  treble    2b 4/4 cha7 tra-12 leg95 cro vol-15 d vol+10
+=4  bass8va   2b 4/4 cha8 tra-12 leg95 cro vol-15 b vol+10
+| 4/4 .87 .80 .85 .80
+=1 cro leg100 g{1 qua [f leg95 e}1] leg100 [d leg95 e] cro f
+=2 cro leg100 b{1 a}1 leg90 b qua leg100 [f leg90 g]
+r0.6 .01 hei .29 - .50 li  - .74 ge
+=3 qua leg100 [e{1 d] cro c}1 leg90 B B
+=4 cro e f leg100 g{1 qua [d leg90 e}1]
+| 4/4 1.0 0.9 .85 .80
+=1 min c-fermata cro d en
+=2 min a-fermata cro b b
+r0.6 .01 Brunst, .50 sü  - .74 ßer
+=3 min f-fermata cro f B
+=4 min f-fermata qua leg100 [b leg90 a] cro g
+|
+=1 min f-fermata cro rest vol-10 f vol+10
+=2 min a-fermata cro rest vol-10 b vol+10
+r0.6 .01 Trost, .75 nun
+=3 min c-fermata cro rest vol-10 B vol+10
+=4 min f-fermata cro rest vol-10 d vol+10
+| 4/4 .87 .80 .85 .80
+=1 cro g f qua leg100 [c leg95 d] cro e
+=2 cro b qua leg100 [a leg90 g] cro f qua leg100 [g leg90 a]
+r0.6 .01 hilf .25 uns, .52 fröhlich
+=3 qua leg100 [e leg90 d] leg100 [c leg90 B] leg100 [A leg90 B'] cro E
+=4 cro e f qua leg100 [e leg90 d] cro c
+| 4/4 .87 .80 1.0 .80
+=1 cro d c leg87 B-fermata leg95 vol-10 B vol+10
+=2 cro b a leg87 f-fermata leg90 vol-10 f vol+10
+r0.6 .01 und .27 getrost, .75 in
+=3 cro F qua leg100 [f leg90 e] cro leg87 d-fermata leg90 vol-10 d vol+10
+=4 qua leg100 [d leg90 e] cro f leg87 B-fermata leg90 vol-10 b vol+10
+/
+6 bars | 2b 40 | 5 5 6.5 5 5 6 5 5 | 3.5 3.5 3.5 3.5 4 4 6.5 5 \
+ | 5 5 5 5 5 5 6.5 5 | 40 | 7 7 8 10 |
+| 4/4 .87 .80 .85 .80
+il0.5 .05 250
+=1 qua leg100 [c leg95 d] cro e qua leg100 [d leg95 e] cro f(1
+=2 cro f g qua leg100 [f leg90 g] cro a(1
+r0.6 .08 deinem .49 Dienst  be  -
+=3 cro c qua leg100 [B leg90 c] cro d qua leg100 [c leg90 B]
+=4 cro a qua leg100 [g leg90 a] cro b qua leg100 [a leg90 g]
+| 4/4 .87 .80 .85 .80
+=1 cro f)1 c qua leg100 [B' leg95 A] cro G
+=2 qua leg100 [a)1 leg90 b] leg100 [a leg90 g] leg100 [f leg90 d] cro en
+r0.6 .01 stän - dig .50 blei .78 -
+=3 cro c f leg100 f{1 qua [c B}1]
+=4 qua leg100 [a leg90 g] leg100 [f leg90 en] leg100 [d' leg90 B] cro c
+| 4/4 1.0 0.9 .85 .80
+=1 min F-fermata cro rest vol-10 F vol+10
+=2 min c-fermata cro rest vol-10 c vol+10
+r0.6 .01 ben, .72 die
+=3 min A-fermata cro rest vol-10 A vol+10
+=4 min f-fermata cro rest qua leg100 vol-10 [f leg90 eb] vol+10
+| 4/4 .87 .84 .85 .80
+=1 cro B c qua leg100 [d leg95 e] cro f(1
+=2 qua leg100 [f leg90 g] cro a cro. b qua c~
+r0.6 .02 Trübsal .50 uns .75 nicht
+=3 cro B e qua leg100 [f leg90 e] leg100 [d leg90 c]
+=4 qua leg100 [d leg90 e] leg100 [d' leg90 c] cro B qua leg100 [b leg90 ab]
+| 4/4 .87 .80 .85 .80
+=1 cro f)1 e leg100 d{1 leg95 c}1
+=2 cro. d~ qua leg100 c~{1 [b a] cro leg90 g}1
+r0.6 .01 ab  - .25 trei .67 -
+=3' qua leg100 [Bn leg90 A] cro leg100 G F# leg90 G
+=4 cro g leg100 c{1 d e}1
+| 4/4 1.0 0.9 .85 .80
+il0.7 .18 255
+=1 min d-fermata cro rest qua leg100 vol-10 [d leg95 e] vol+10
+=2 min f#-fermata cro rest vol-10 b vol+10
+r0.6 .01 ben, .75 O
+=3 min A-fermata cro rest qua leg100 vol-10 [Bb leg90 c] vol+10
+=4 min d-fermata cro rest vol-10 g vol+10
+/
+7 bars | 2b 8.2 5 8.0 5 7.9 5 7.9 5 | 10 8 8 10 | 40 | 10 10 9 10 | 40 \
+ | 7.9 5 5 5 5 5 7.9 5 | 4 3 4 3 4 4 7.9 5 |
+| 4/4 .85 .81 .85 .81
+=1 cro leg80 f leg95 g f c
+=2 qua leg100 [a leg70 bn] leg90 cro c~ \
+ qua leg100 [c~ leg90 bb] leg100 [a leg90 g]
+r0.6 .01 Herr, .25 durch  dein .75 Kraft,
+=3 cro leg80 d leg90 en f qua leg100 [f leg90 eb]
+=4 leg90 cro d~ qua leg100 [c~ leg90 bb] leg100 [a leg90 g] cro f
+| 4/4 .87 .80 .95 .80
+=1 cro d en f-fermata f
+=2 cro f g a-fermata qua leg100 [b leg90 a]
+r0.6 .01 uns .27 bereit .75 und
+=3 qua leg100 [d leg90 c] cro B c-fermata d
+=4 qua leg100 [b leg90 a] cro g f-fermata b
+| 4/4 .87 .80 .85 .80
+=1 cro g f qua leg100 [c leg95 d] cro e
+=2 qua leg100 [g leg90 a] cro b a g
+r0.6 .01 stärk des .52 Fleisches
+=3 cro e f f qua leg100 [B leg90 c]
+=4 cro e qua leg100 [d leg90 e] cro f qua leg100 [g leg90 a]
+| 4/4 .87 .80 1.0 .80
+=1 cro d c B-fermata vol-10 B vol+10
+=2 qua leg100 [f leg90 g] cro a f-fermata vol-10 g vol+10
+r0.6 .01 Blödigkeit, .75 daß
+=3 qua leg100 [d leg90 B] leg100 [f leg90 e] cro d-fermata vol-10 e vol+10
+=4 qua leg100 [b leg90 e] cro f B-fermata qua leg100 vol-10 [e leg90 d] vol+10
+| 4/4 .87 .80 .85 .80
+il0.5 .05 260
+=1 qua leg100 [c leg95 d] cro e qua leg100 [d leg95 e] cro f(1
+=2 cro g qua leg100 [g leg90 a] min b(1
+r0.6 .01 wir .25 hir .50 rit .82 -
+=3 qua leg100 [e leg90 d] cro c qua leg100 [d leg90 c] leg100 [B{1 leg90 c]
+=4 cro c c~ g qua leg100 [d{1 leg90 e]
+| 4/4 .87 .81 .85 .80
+=1 cro f)1 c qua leg100 [B'{2 A] cro leg95 G}2
+=2 cro b)1 a qua leg100 [b leg80 f] leg100 [f leg90 en]
+r0.6 .25 ter - lich .75 rin  -
+=3 qua leg100 [d leg90 en}1] cro f leg100 f{1 qua [c leg90 B}1]
+=4 qua leg100 [f leg90 g}1] leg100 [a leg90 f] leg100 [d~ leg90 b] cro c~
+| 4/4 .90 .90 .85 .80
+=1 min F-fermata cro rest vol-10 F vol+10
+=2 min c-fermata cro rest qua leg100 vol-10 [f leg90 eb] vol+10
+r0.6 .01 gen, .64 durch
+=3 min A-fermata cro rest vol-10 A vol+10
+=4 min f-fermata cro rest vol-10 d vol+10
+/
+6 bars | 2b 5 5 5 5 6 5 5 7 | 40 | 10 8 9 8 \
+ | 10 8 10 10  | 4 4 5 7 5 5 5 5 | 5 5 7.4 5 5 5 ||
+| 4/4 .85 .80 .85 .80
+=1 cro B c qua leg100 [d leg90 eb] cro f(1
+=2 qua leg100 [d leg90 g] leg100 [f leg90 e] cro. leg100 d{1 smq [e f]
+r0.6 .05 Tod .28 und .53 Le .82 -
+=3 qua leg100 [B leg90 e] leg100 [d leg90 c] cro. leg100 B{1 qua c}1
+=4 cro g a qua leg100 [b leg90 c~] qua leg100 [d~ leg90 c~]
+|
+=1 cro f)1 e d c
+=2 cro g g g qua leg100 [g{1 leg90 f]
+r0.6 .01 ben .25 zu .50 dir .75 drin
+=3 cro. d qua c qua leg100 [B' leg90 A] cro leg100 G{1
+=4 qua leg100 [bn leg90 g] cro c~ qua leg100 [g{1 leg90 f] leg100 [e leg90 d]
+| 4/4 .85 .90 1.0 1.0
+il0.5 .05 265
+=1 cro leg100 G{2 leg95 A}2 leg90 leg80 B-fermata leg95 c
+=2 min e}1 cro leg80 d-fermata leg95 f
+r0.6 .05 - .47 gen, .75 Hal  -
+=3 min c}1 cro leg80 B-fermata leg95 A
+=4 qua leg100 [e leg90 c,] cro f}1 leg80 B-fermata leg95 f
+| 4/4 1.0 .9 1.0 1.0
+=1 cro leg100 d{1 leg95 B}1 min G
+=2 min leg100 f(1 qua leg100 [f)1 leg95 d] cro e
+r0.6 .01 le .27 - .50 lu .77 -
+=3' min. B qua leg100 [B leg95 A]
+=4 qua leg100 [B{2 c] cro leg95 d'}2 min e
+| 4/4 1.4 1.0 1.0 1.0
+=1 cro leg80 F-fermata qua leg100 [c{1 smq d leg97 e}1] min d
+=2 cro leg80 d-fermata min leg95 f cro g(1
+r0.6 .01 ja, .25 Hal  - .60 le .85 -
+=3 cro leg80 B-fermata min leg95 c cro B(1
+=4 cro leg80 b-fermata leg95 a qua leg100 [b{1 a g f]
+| 3/4 .60 .60 .65 .70 1.0 1.0
+=1 min c cro B-fermata
+=2 cro g)1 qua leg100 [f leg95 e] cro d-fermata
+r0.6 .04 lu .37 - .65 ja.
+=3 cro B)1 smq leg100 [A G qua leg95 A] cro F-fermata
+=4 qua leg100 [e c,}1] cro f B-fermata
+
+midi off
+
+4 systems 25 /17-18-17-18-17-18-17/17-18-17-18-17-18-17 \
+ /17-22-17-18-17-18-17/17-18-17-18-17-18-17 10/
+pagenum
+title  Choir 1 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+midi channel 1 patch 74 pan 0
+midi channel 2 patch 74 pan 30
+midi channel 3 patch 71 pan 70
+midi channel 4 patch 71 pan 100
+/
+8 bars | 2b 3/8 8.5 | 24 | 24 | 4 4 5 4 4 4 | 24 | 22 | 22 | 5 4 4 4 4 4 |
+| 1/8 .34
+il1.2    1. Der Geist hilft unser Schwacheit auf
+=1  treble8va 2b 3/8 cha1 leg90 qua vol-10 F vol+10
+=2  treble    2b 3/8 cha1 leg90 qua vol-10 d vol+10
+=3  treble    2b 3/8 cha2 leg90 qua vol-10 B vol+10
+=4  bass8va   2b 3/8 cha2 leg85 qua vol-10 B vol+10
+r0.3 .40 Der
+| 3/8 .35 .35 .33
+=1, smq leg100 [B A leg85 B d c e]
+=2  smq leg100 [f e leg85 f b a c~]
+=3  smq leg100 [d c leg85 d f e g]
+=4  cro. b(1
+r0.3 .02 Geist
+|
+=1, smq leg100 [d c leg85 B c d e]
+=2  qua b f rest
+=3  qua f d rest
+=4  qua b)1 B rest
+r0.3 .33 hilft,
+|
+=1, smq leg100 [d c leg85 d f e g]
+=2  cro. rest
+=3  cro. rest
+=4  cro. rest
+|
+=1, smq leg100 [f e leg85 d e f g]
+=2  cro rest qua b
+=3  cro rest qua d
+=4  cro rest qua B
+r0.3 .65 Der
+|
+il0.3 .03 5
+=1  qua f leg100 qua3-s e'{2 cro3 d}2
+=2  cro b qua b
+=3  cro d qua f
+=4  leg100 cro b qua ab
+r0.3 .01 Geist .63 hilft
+|
+=1  leg75  cro e qua f
+=2  leg100 cro b qua ab
+=3, leg100 qua [e{1 B}1] leg85 f
+=4  cro g qua f
+r0.3 .16 unser
+|
+=1  qua g cro e-tr
+=2  smq [g{1 ab qua b}1] b
+=3  qua [B e] g
+=4  smq [e{1 f qua g}1] e
+r0.3 .10 Schwachheit
+/
+8 bars | 2b 24 | 24 | 24 | 4 4 5 4 4 4 | 24 | 22 | 22 | 5.2 4 4 4 4 4 |
+| 3/8 .37 .38 .33
+bl0.4 .52 ,
+=1  leg75  cro f qua f
+bl0.4 .45 ,
+=2  leg75 cro b qua d~
+bl0.2 .52 ,
+=3, leg75 cro d qua B
+bl0.2 .52 ,
+=4  cro b qua b
+r0.3 .07 auf,
+| 3/8 .35 .35 .33
+=1  qua d B rest
+=2  qua b f rest
+=3  qua f d rest
+=4  qua b B rest
+|
+il0.3 .03 10
+=1  cro rest qua F
+=2  cro rest qua d
+=3  cro rest qua B
+=4  cro rest qua B
+|
+=1, smq leg100 [B A B leg85 d c e]
+=2  smq leg100 [f e f ab leg85 g e]
+=3  smq leg100 [d e leg85 d B e c]
+=4  cro. b(2
+|
+=1, smq leg100 [d c leg85 B c d e]
+bl0.2 .54 ,
+=2, qua b d B
+bl0.2 .54 ,
+=3  qua f f f
+bl0.2 .55 ,
+=4  qua b)2 B B
+|
+=1, qua d leg100 qua3-s c'{2 cro3 B}2
+=2  cro f qua f
+=3  cro B qua B
+=4  leg100 cro b qua ab
+|
+=1, leg100 qua [B{1 c}1] leg85 d
+=2  cro g qua ab
+=3  cro B qua B
+=4  cro g qua f
+|
+il0.3 .03 15
+=1, qua leg100 [e B] leg85 e
+=2  qua b cro g-tr
+=3  cro e qua B
+=4  smq [e{1 f qua g}1] e
+/
+8 bars | 2b 22 | 5 4 4 4 4 4 | 24 | 5 4 4 4 4 4 | 24 | 24 | 22 | 24 |
+| 3/8 .37 .38 .33
+bl0.4 .52 ,
+=1  cro d qua d
+bl0.2 .52 ,
+=2  cro f qua B
+bl0.2 .52 ,
+=3  cro B qua f
+bl0.2 .52 ,
+=4  cro b qua b
+| 3/8 .35 .35 .33
+=1  qua leg100 [c{1 leg70 f}1] en
+=2  smq leg100 [f en leg80 f a g b]
+=3  qua f c rest
+=4  qua a f rest
+|
+=1  qua leg100 [f{1 leg70 c}1] A
+=2  smq leg100 [a g leg80 f g a b]
+=3  cro rest qua f
+=4  cro rest qua F
+|
+=1  cro. F(1
+=2  smq leg100 [a g leg80 a c~ b d~]
+=3  qua f c rest
+=4  qua f F rest
+|
+il0.3 .05 20
+=1  cro. F)1(1
+=2  smq leg100 [c~ b leg80 a b c~ d~]
+=3  cro rest qua f
+=4  cro rest qua F
+|
+=1  cro. F)1(1
+=2  qua c~ leg100 qua3-s b'{2 cro3 a}2
+=3, smq [A{1 B qua c}1] c
+=4  cro f qua eb
+|
+=1  cro. F)1(1
+=2  cro b qua c~
+=3  cro d qua e
+=4  cro d qua c
+|
+=1  qua [F)1 leg70 f'] f
+=2  qua d~ cro b-tr
+=3  smq [f{1 e qua d}1] d
+=4' smq [B{2 c qua d}2] B
+/
+7 bars | 2b 24 | 5 4 4 4 4 4 | 24 | 5 4 4 4 4 4 | 24 | 8 7 7 | 21 |
+| 3/8 .37 .38 .33
+=1  cro f qua rest
+=2  cro c~ qua rest
+=3, smq [A{1 B qua c}1] rest
+=4  cro f qua rest
+| 3/8 .35 .35 .33
+il0.3 .05 25
+=1  cro rest qua c
+=2  cro rest qua g
+=3  cro rest qua c
+=4  cro rest qua c
+|
+bl0.3 .58 ,
+=1  qua c A c
+bl0.2 .57 ,
+=2  qua f f c
+=3  qua c c rest
+=4  qua f F rest
+|
+=1  qua leg100 [c{1 leg70 f}1] en
+=2  smq leg100 [f en leg80 f a g b]
+=3  cro rest qua B
+=4  cro rest qua f
+|
+=1  qua leg100 [f{1 leg70 c}1] A
+=2  smq leg100 [a g leg80 f g a b]
+bl0.2 .58 ,
+=3  qua f A F
+bl0.2 .57 ,
+=4  qua f F f
+|
+=1  cro. F(1
+=2  qua a leg100 qua3-s g'{2 cro3 f}2
+=3  cro c qua c
+=4  cro f qua eb
+|
+il0.3 .05 30
+=1  cro. F)1(1
+=2  qua leg100 [f{1 leg70 g}1] a
+=3  cro f qua eb
+=4  cro d qua c
+
+4 systems 15 /17-18-17-18-17-18-17/17-20-17-23-17-18-17 \
+ /17-22-17-18-17-18-17/17-22-17-18-17-18-17 10/
+pagenum
+innerhead Choir 1 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 8 7 7 | 4 3.5 3.5 3.5 4 6 | 24 | 24 | 24 | 24 | 24 | 21 |
+|
+=1  qua [F)1 B'] d
+=2  qua [b f] b
+=3  smq [d{1 e qua f}1] f
+=4' smq [B{2 c qua d}2] B
+| 3/8 .38 .39 .33
+=1  cro c smq [c{1 dsq d e}1]
+=2  cro a qua a
+=3  cro f qua f
+=4  smq [f{1 g qua a}1] f
+| 3/8 .35 .35 .33
+=1  qua leg90 d leg50 g rest
+=2  qua leg90 b leg50 g rest
+=3  qua leg90 f leg50 d rest
+=4  smq leg100 [b a leg75 b c~ b c~]
+|
+=1  cro rest qua leg75 c
+=2  cro rest qua leg75 f
+=3  cro rest qua leg75 c
+=4  smq leg100 [a g leg75 a b a b]
+|
+il0.3 .05 35
+=1  qua leg90 B leg50 e rest
+=2  qua leg90 f leg50 e rest
+=3  qua leg90 d leg50 B rest
+=4  smq leg100 [g f leg75 g a g a]
+|
+=1  cro rest qua leg75 A
+=2  cro rest qua leg75 d
+=3  cro rest qua leg75 A
+=4  smq leg100 [f e leg75 f g f g]
+|
+=1  qua leg90 [G{2 c'}2] qua leg75 e
+=2  qua leg90 [d{1 c}1] qua leg75 c
+=3  qua leg90 [B'{2 G}2] qua leg75 G
+=4  smq leg100 [e d leg75 e f e f]
+|
+=1, qua leg90 [A f] qua leg75 B
+=2  cro f qua f
+=3  cro c qua d
+=4  qua e e~ d~
+| 3/8 .36 .37 .35
+=1  qua e cro leg95 d-tr
+=2  qua f cro f
+=3' qua leg90 [A{2 B}2] qua leg95 F
+=4  qua c~ d~ leg75 b
+| 3/8 .38 .39 .37
+il0.3 .05 40
+=1  cro c qua rest
+=2  cro f qua rest
+=3  cro A qua rest
+=4  cro f qua rest
+| 3/8 .36 .36 .35
+=1 vol-10 leg80 qua c rest c
+=2 vol-10 leg80 qua c rest en
+r0.5 .01 denn .64 wir
+=3 vol-10 leg80 qua G rest c
+=4 vol-10 leg80 qua en rest c
+|
+=1 qua leg100 [A{2 leg90 B'}2] c
+=2 qua leg100 [f{1 leg90 g}1] a
+r0.5 .01 wis .35 - .64 sen
+=3 cro c qua c
+=4 qua f F rest
+|
+=1 qua c d c
+=2 qua a b a
+r0.5 .01 nicht,  was   wir
+=3 cro f qua f
+=4 cro. rest
+|
+=1 qua leg100 [e{1 d}1] leg75 c
+=2 qua leg100 [c~{1 b}1] leg75 a
+r0.5 .01 be .35 - .63 ten
+=3 cro f# qua f
+=4 cro rest qua d
+|
+il0.3 .05 45
+=1 qua leg100 B leg65 G rest
+=2 qua leg100 g leg65 d rest
+r0.5 .13 sollen
+=3 cro g qua rest
+=4 qua leg100 g leg65 G rest
+|
+=1 cro rest qua d
+=2 cro rest qua b
+=3 cro rest qua G
+=4 cro rest qua g
+/
+8 bars | 2b 22 | 22 | 22 | 22 | 22 | 22 | 22 | 5 4 4 4 3.6 3.6 |
+|
+=1' qua leg100 B leg65 G rest
+=2 qua leg100 g leg65 g rest
+=3 qua leg100 d leg65 g rest
+=4 qua leg100 g leg65 G rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+=1 leg80 qua e rest e
+=2 leg80 qua g rest g
+=3 leg80 qua c rest c
+=4 leg80 qua c~ rest b
+|
+il0.3 .05 50
+=1 qua leg100 [e leg95 d] e
+=2 qua leg100 [f leg95 g] a
+=3 qua leg100 [c{1 leg95 d}1] c
+=4 qua leg100 [a{1 leg95 b}1] c~
+|
+=1 qua leg85 e leg95 d c
+=2 qua leg85 a leg95 b c~
+=3 qua leg85 c leg95 B A
+=4 qua leg85 f leg95 g a
+|
+=1 cro. f(1
+=2 cro. b(1
+=3 cro. d(1
+=4 cro. b(1
+|
+=1 cro. f)1(1
+=2 cro. b)1(1
+=3 smq [d)1 c qua leg75 B,] B
+=4 cro b)1 qua ab
+|
+=1 qua [f)1 e] d
+=2 smq [b)1 ab qua leg75 g] g
+bl0.2 .90 ,
+=3 cro B qua B
+bl0.2 .93 ,
+=4 qua. leg100 [g{1 smq ab}1] qua leg95 b
+/
+8 bars | 2b 21 | 5.3 4 4 4 3.6 3.6 | 21 | 21 | 21 | 7 8 8 | 21 | 21 |
+|
+il0.4 .09 55
+bl0.3 .59 ,
+=1 qua c leg70 Bn c
+bl0.3 .56 ,
+=2 qua e leg70 e ab
+=3 qua c leg85 g leg95 e
+r0.5 .05 wie  sich's  ge  -
+=4 qua ab leg85 g leg95 a
+|
+=1 smq leg100 [c Bn qua leg70 c] leg95 c
+=2 qua leg100 [ab leg70 g] leg95 f
+bl0.2 .90 ,
+=3 cro leg95 f qua leg60 f
+r0.5 .01 büh  - .60 ret,
+bl0.2 .90 ,
+=4 qua leg100 [ab leg90 g] leg60 f
+|
+bl0.2 .59 ,
+=1' qua leg100 [Bn leg70 G] leg95 B
+bl0.3 .52 ,
+=2 qua leg100 [f leg70 d] leg85 g
+=3 qua leg60 d rest leg95 d
+=4 qua leg60 g rest leg95 g
+|
+=1, qua leg100 [c leg95 Bn] c
+=2 qua leg100 [g leg95 ab] g
+=3 qua leg100 [e leg95 f] e
+=4 cro c~ qua b
+|
+=1 qua c cro rest
+=2 qua f# cro rest
+=3 qua e cro rest
+=4 qua an cro rest
+|
+il0.3 .05 60
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+=1 qua rest leg80 B' A
+=2 qua rest leg80 g f#
+=3 qua rest leg80 d d
+=4 qua rest leg80 d~ c~
+|
+=1, qua leg100 [A{1 leg95 d}1] leg80 c
+=2, qua leg100 [f#{1 leg95 g}1] leg80 a
+=3, cro leg95 d qua leg80 f#
+=4, cro leg95 b qua leg80 a
+
+4 systems 15 /17-18-17-22-17-18-17/17-18-17-18-17-18-17 \
+ /17-18-17-18-17-18-17/17-22-17-18-17-18-17 10/
+pagenum
+innerhead Choir 1 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 21 | 21 | 3.6 3.6 3.6 3.6 5 4 | 21 | 21 | 21 | 24 |
+|
+=1 qua leg95 B' leg80 G rest
+=2 qua leg95 d  leg80 B rest
+=3 qua leg95 g  leg80 g rest
+=4 qua leg95 g  leg80 G rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+il0.3 .05 65
+=1 cro rest qua leg95 B'
+=2 cro rest qua leg80 f
+=3 cro rest smq leg100 [d leg90 en]
+=4 cro rest qua leg80 d~
+|
+=1 qua leg100 [A{2 leg95 G}2] leg80 c
+=2 cro leg95 f qua leg80 en
+=3 qua leg95 f cro leg80 c
+=4 qua leg100 [b{1 leg95 c~}1] leg80 c
+|
+=1 qua leg100 [A leg80 F] rest
+=2, qua leg100 [f leg80 c] rest
+=3' qua leg100 [c leg80 A] rest
+=4' qua leg100 [f leg80 F] rest
+|
+=1 cro rest qua leg95 vol+10 c
+=2 cro rest qua leg80 vol+10 f
+r0.5 .64 der
+=3 cro rest qua leg95 vol+10 c
+=4 cro rest qua leg80 vol+10 f
+| 3/8 .35 .35 .33
+=1  smq leg100 [d c leg85 d f e g]
+=2  qua leg100 [f{1 leg95 b}1] leg80 a
+r0.5 .01 Geist .64 hilft
+=3, smq leg100 [B A leg85 B d c e]
+=4  cro. b(2
+|
+il0.6 .05 70
+=1  cro. f(1
+=2  qua leg100 [b{1 leg95 f}1] leg80 d
+r0.5 .01 un .35 - .64 ser
+=3  smq leg100 [d c leg85 B c d e]
+=4  qua leg75 b)2 B rest
+/
+7 bars | 2b 24 | 24 | 8 8 7 | 3.6 3.6 4 4 5 4 | 5 4 3.6 3.6 4 4   | 3.6 3.6 3.6 3.6 4 6 | 4 4 4 4 4.7 4 |
+|
+=1  qua leg75 f)1 F rest
+=2' cro. B(2
+=3  smq leg100 [d c leg85 d f e g]
+=4  cro. rest 
+|
+=1  qua rest rest leg85 F
+=2' cro. B)2(2
+=3  smq leg100 [f e leg85 d e f g]
+=4  qua rest rest leg85 B
+|
+=1  smq leg100 [B c leg85 d e qua f]
+=2' cro. B)2(2
+=3  qua f leg100 qua3-s e'{2 cro3 d}2
+=4  cro b qua leg80 ab
+|
+=1  qua e smq leg100 [d leg75 c] leg100 [B' leg75 Ab]
+=2' cro. B)2(2
+=3 cro e qua f
+=4 cro g qua f
+|
+il0.6 .05 75
+=1' smq leg100 [G leg75 Ab qua B] smq leg100 [A leg90 G]
+=2, qua leg90 [B)2 leg85 b] leg70 b
+=3 qua g cro e-tr
+=4  smq leg100 [e{1 leg75 f qua g}1] e
+| 3/8 .38 .35 .33
+=1 cro F qua rest
+=2 cro b qua rest
+=3 cro f qua rest
+=4 cro b qua B
+| 3/8 .35 .35 .33
+=1 cro rest qua B
+=2 qua rest e b(1
+=3 cro rest leg80 f
+=4 smq leg100 [e d leg85 e g f ab]
+/
+7 bars | 2b 4 4 4 4 5 4 | 4 4 4 5 5 4 | 5 4 5 4 5 4   | 8 8 7.2 | 7.6 8 7.2 | 3.6 3.6 4 5 3.6 3.6 | 24 |
+|
+=1 qua e E rest
+=2 qua b)1 g rest
+=3 qua B leg60 B leg80 B
+=4 smq leg100 [g f leg85 e f g ab]
+|
+=1 cro. rest
+=2 cro. rest
+=3 qua leg90 [B{1 leg75 e}1] leg80 d
+=4 smq leg100 [g f leg85 g b ab c~]
+|
+il0.3 .05 80
+=1 cro rest qua B
+=2 cro. rest
+=3 qua leg100 [e smq B, leg60 Ab,] leg100 [G leg70 F]
+=4 smq leg100 [b ab leg85 g a b c~]
+|
+=1 qua leg90 [B{1 leg65 e}1] leg80 e(1
+=2 cro rest qua b
+=3 smq leg100 [G leg75 F] cro E(1
+=4 qua b leg100 qua3-s ab'{2 cro3 g}2
+|
+=1 qua e)1 smq leg100 [db leg75 c] qua d
+=2 cro leg90 ab qua e
+=3 cro. E)1(1
+=4 cro leg90 ab qua b
+|
+=1 qua leg80 c smq leg100 [dn e qua leg80 f]
+=2 qua leg80 e smq leg100 [f g qua leg80 ab]
+=3 cro leg70 E)1 qua E
+=4 qua leg70 c~ cro ab-tr
+| 3/8 .37 .37 .33
+=1 cro B qua rest
+=2 cro g qua rest
+=3 cro e qua rest
+=4 cro b qua rest
+/
+8 bars | 2b 24 | 24 | 5.5 4 4 4 4 4 | 24 | 5.5 4 4 4 4 4 | 24 | 8 8 7 | 21 |
+| 3/8 .35 .35 .33
+il0.3 .05 85
+=1  cro rest qua leg90 B
+=2  cro rest qua leg75 e
+=3  cro rest qua leg75 B
+=4  cro rest qua leg75 g
+|
+=1  smq leg100 [e d leg85 e f e f]
+=2  qua leg90 e leg50 g rest
+=3  qua leg90 c leg50 G rest
+=4  qua leg90 ab leg50 e rest
+|
+=1  smq leg100 [d c leg75 d e d e]
+=2  cro rest qua leg75 g
+=3  cro rest qua leg75 B
+=4  cro rest qua leg75 e
+|
+=1, smq leg100 [c B leg75 c d c d]
+=2  qua leg90 [ab{1 f}1] qua leg75 c
+=3  qua leg90 [f{1 ab}1] qua leg75 f
+=4, qua leg90 [f{1 c}1] qua leg75 e
+|
+=1, smq leg100 [B Ab leg75 B c B c]
+=2  qua leg90 [f{1 d}1] qua leg75 f
+=3  cro leg75 B qua B
+=4, qua leg90 [d{1 f}1] qua leg75 d
+|
+il0.3 .05 90
+=1  smq leg100 [d c leg75 d e d e]
+=2  cro. b(2
+=3  cro leg100 F qua leg70 G
+=4  cro. B(2
+| 3/8 .36 .37 .36
+=1  qua [f smq e d qua e(1]
+=2  cro leg75 b)2 qua b
+=3  qua leg90 [Ab{2 F}2] qua leg75 G
+=4  cro leg75 B)2 qua B
+| 3/8 .39 .40 .39
+=1  qua e)1 d rest
+=2  cro b qua rest
+=3  cro B qua rest
+=4  cro b qua rest
+
+4 systems 15 /17-18-17-18-17-18-17/17-18-17-18-17-18-17 \
+ /17-18-17-18-17-18-17/17-18-17-18-17-18-17 10/
+pagenum
+innerhead Choir 1 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 24 | 24 |
+| 3/8 .36 .36 .35
+=1 vol-10 leg80 qua rest d-. rest
+=2 vol-10 leg80 qua rest a-. rest
+=3 vol-10 leg80 qua rest d-. rest
+=4 vol-10 leg80 qua rest f#-. rest
+|
+=1 cro rest qua d
+=2 cro rest qua a
+=3 cro rest qua f#
+=4 cro rest qua d
+|
+il0.5 .15 95
+=1' qua leg100 B leg65 G rest
+=2 qua leg100 g leg65 d rest
+=3 qua leg100 d leg65 d rest
+=4 qua leg100 g leg65 G rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+=1 leg80 qua c rest c
+=2 leg80 qua g rest g
+=3 leg80 qua e rest en
+=4 leg80 qua c~ rest c
+|
+=1 qua leg100 [A{2 leg90 F}2] G
+=2 cro f qua en
+=3 cro c qua c
+=4 qua leg100 [f{1 leg90 a}1] c~
+|
+=1 qua leg75 A leg90 c f
+=2 qua leg75 f leg90 a b
+=3 qua leg75 c leg90 f B
+=4 qua leg75 f leg90 eb d
+|
+il0.7 .15 100
+=1 qua leg100 [e{1 leg75 d}1] c
+=2 qua leg100 [g{1 leg75 f}1] f
+=3 cro B' qua A
+=4 qua leg100 [c,{1 leg75 f}1] F
+/
+8 bars | 2b 21 | 7 8 8 | 21 | 21   | 21 | 5.3 4 4 4 3.5 3.5 | 21 | 5.3 4 3.5 3.5 3.5 3.5 |
+|
+=1 qua leg100 d leg65 B rest
+=2 qua leg100 f leg65 d rest
+=3' qua leg100 B leg65 F rest
+=4 qua leg100 B leg65 B rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+=1 leg80 qua c rest c
+=2 leg80 qua en rest e
+=3 leg80 qua G rest G
+=4 leg80 qua c rest c
+|
+=1 qua leg100 [Eb{2 D}2] leg75 E
+=2 qua leg100 [c{1 B,}1] leg75 A
+=3 qua leg100 [A{2 F}2] leg75 A
+=4 qua leg100 [A{2 B}2] leg75 c
+|
+il0.5 .05 105
+=1 qua leg70 E leg95 D C
+=2 qua leg70 A leg95 B c
+=3 qua leg70 c leg95 B A
+=4 qua leg70 F leg95 G A
+|
+=1 cro. F(2
+=2 cro. B(1
+=3' qua leg100 [D{2 F}2] leg75 B
+=4' qua leg70 B smq leg100 [B{2 c qua leg80 d}2]
+|
+=1' qua leg100 [F)2 B] leg75 G
+=2, qua leg100 [B)1 d] leg75 g
+bl0.2 .90 ,
+=3 cro leg90 B qua leg70 B
+bl0.2 .90 ,
+=4 qua leg100 [e{1 d}1] leg75 e
+|
+bl0.3 .90 ,
+=1 cro leg90 c qua leg70 c
+bl0.2 .53 ,
+=2 qua leg90 c leg70 d leg85 e
+=3 cro leg90 A qua leg70 A(2
+=4 qua leg85 A B c
+/
+8 bars | 2b 22 | 22 | 11 12 | 11 12 | 24 | 22 | 24 | 4 4 4 5.1 4 4 |
+|
+=1 qua leg85 A d c
+=2 cro leg70 d qua leg80 d
+=3 qua leg70 A)2 leg90 cro F#-tr
+bl0.2 .66 ,
+=4' qua leg90 d leg70 c leg90 d
+|
+il0.7 .05 110
+=1' qua leg100 [B{2 leg85 A}2] leg75 G
+=2, qua leg100 [d{1 leg85 c}1] leg75 B
+=3 cro leg80 D qua leg70 D
+=4 cro leg80 G qua leg70 G
+|
+=1 cro rest qua leg80 G
+=2 cro rest qua leg80 g
+=3 cro rest qua leg80 c
+=4 cro rest qua leg80 c
+|
+=1 qua leg100 [A{2 leg80 B'}2] c
+=2 cro leg80 f qua f
+=3 cro leg80 c qua F
+=4 qua leg100 [f leg80 g] a
+|
+=1 cro. d(1
+=2, smq leg100 [f e d c leg70 B d]
+=3 cro. B(1
+=4 cro leg100 b qua a
+|
+=1 cro. leg95 d)1
+=2 cro. g(1
+=3 cro. B)1
+bl0.2 .90 ,
+=4 qua [g leg85 f#] leg60 en
+|
+il0.7 .05 115
+=1 qua c rest leg75 En
+=2, smq leg100 [g)1 f e d c B]
+=3 cro. A(2
+=4 qua leg75 A B c
+|
+=1 qua leg100 [F# leg75 G] leg85 A
+=2 qua leg75 A A rest
+=3 cro. A)2
+=4, qua leg100 [d en f#]
+/
+7 bars | 2b 3.6 3.6 5 4 3.6 3.6 | 21.6 | 4 5 4 5 4 4   | 3.6 3.6 5 4 3.6 3.6 | 3.6 3.6 4 5 3.6 3.6 | 3.6 3.6 5 4 4 4 | 10 8 8 |
+|
+=1 cro. B(1
+=2 cro rest qua d
+=3 cro. G(2
+=4 leg100 cro g qua fn
+|
+=1 cro. B)1(1
+=2 qua leg100 [g leg75 a] leg85 b
+bl0.2 .90 ,
+=3 leg85 cro G)2 qua leg60 G
+bl0.2 .90 ,
+=4 leg85 cro en qua leg60 d
+|
+bl0.4 .57 ,
+=1 qua B')1 leg60 A leg90 c#
+bl0.3 .54 ,
+=2 qua en leg60 e leg85 a
+=3 qua leg85 g c# leg90 en
+=4 qua leg85 c# a leg90 g
+|
+il0.5 .05 120
+=1 qua leg100 [d leg75 en] leg85 f
+=2 cro a qua a
+=3 cro. d(1
+=4, qua leg100 [f en d]
+|
+=1 cro. g(1
+=2 cro. leg90 g
+=3 qua leg100 [d)1 smq c# d qua en(1]
+=4 cro leg85 b qua leg60 en
+| 3/8 .37 .37 .37
+=1 qua leg80 g)1 smq leg40 f en qua f(1
+bl0.3 .20 ,
+=2 qua leg60 c# leg80 a a
+=3 qua leg80 e)1 leg40 smq A leg80 G [F E]
+=4 cro leg85 a qua d
+| 3/8 .39 .40 .40
+=1 smq f)1 leg80 g cro en
+=2 qua leg80 b smq leg100 [a b a leg80 g]
+=3 qua leg85 D cro A
+=4 qua leg85 g cro a
+
+3 systems 15 /17-24-17-24-17-24-17 \
+ /17-24-17-24-17-24-17/17-24-17-24-17-24-17 10/
+pagenum
+innerhead Choir 1 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+3 bars | 2b 4/4 4 4 4 4 4 4 5 6 4 4 4 4 4 4 4 4   | 8 10 8 8 8 8 8 8 | 8 10 8 8 8 8 8 8 |
+| 4/4 .52 .52 .41 .41 .44 .41 .41 .41
+bl0.4 .27 ,
+=1 treble8va 2b 4/4 cha1 cro leg80 d cro. leg95 f cro leg75 eb qua leg90 d
+bl0.2 .27 ,
+=2 treble    2b 4/4 cha1 cro leg80 f cro leg90 a qua [g bn] [c~ d~]
+bl0.2 .27 ,
+=3 treble    2b 4/4 cha2 cro leg80 A cro. leg95 d cro leg75 g qua leg90 f
+=4 bass8va   2b 4/4 cha2 cro leg80 d   qua rest smq leg100 [d~ c~ qua leg90 bn] leg75 g leg100 [a leg90 b]
+r0.5 .41 son  -  dern .80 der
+| 4/4 .44 .41 .41 .41 .43 .41 .41 .41
+il0.4 .05 125
+=1 qua leg90 e cro c qua e e cro d qua c
+=2 qua g smq leg100 [e{1 f qua leg90 g}1] c min f
+=3 qua e smq leg100 [g{1 f qua leg90 e}1] g qua leg100 [c{1 leg90 A,}1] B c
+=4 qua c~ smq leg100 [e~{1 d~ qua leg90 c~}1] bb   qua a leg100 [f{1 leg90 g}1] a
+r0.5 .01 Geist  selbst .38 vertritt .64 uns .86 aufs
+|
+bl0.4 .30 ,
+=1 qua leg90 d cro B qua c cro d en
+=2 cro f rest min rest
+=3 qua B smq leg100 [f{1 e qua leg90 d}1] f cro B c
+=4 qua b smq leg100 [d~{1 c~ qua leg90 b}1] a cro g c
+r0.5 .04 beste .36 mit .53 un .64 - .75 aus .90 -
+/
+4 bars | 2b 8 10 8 8 8 8 8 8 | 8 8 8 8 8 10 8 8   | 8 10 8 8 8 8 8 8 | 8 10 8 8 8 8 8 8 |
+|
+=1 cro f qua f f leg100 f cro eb qua d(1
+=2 smb rest
+=3, qua c smq leg100 [c{1 B qua leg90 c}1] c leg100 [c{1 d] cro B}1(1
+bl0.2 .88 ,
+=4 qua f smq leg100 [ab{1 g qua leg90 a}1] f cro b qua B B
+r0.5 .01 -  .09 sprechlichen .58 Seufzen,
+|
+=1 qua d)1 cro c qua Bn [c smq f e qua d c]
+=2 cro rest leg90 cro. g cro f qua e
+=3, qua [B)1 f e d] cro c qua [Bn c]
+=4 qua leg100 [e leg90 f] leg100 [g leg90 e] cro ab qua a a
+|
+bl0.4 .55 ,
+=1 cro g leg90 cro. G qua G g f
+=2 qua f cro d qua f f cro e qua d
+=3 qua d smq leg100 [f e qua leg90 d] Bn   leg100 [G{2 leg90 c'}2] leg100 [A,{1 leg90 d}1]
+=4 cro. Bn qua G min c(2
+|
+il0.4 .05 130
+=1 qua leg100 [e leg90 d] c G cro leg100 A qua rest e
+=2 qua leg100 [e{1 leg90 f}1] g e A d cro rest
+=3, qua leg100 [G{1 leg90 f}1] e e leg100 e{1 cro d qua leg90 c}1
+=4  qua [c)2 d' e' c] [f# d, en f]
+/
+3 bars | 2b 8 10 8 8 8 8 8 8 | 64 | 8 10 10 8 8 8 8 10 |
+|
+=1 qua d rest rest f en rest rest g
+=2 qua rest d g g leg100 [g leg90 c~] b b
+=3 cro B rest qua rest c d en
+=4 qua [g smq b a qua b g] cro c~{1 leg90 c}1
+|
+=1 qua [f eb d c] Bn cro c qua d(1
+=2 qua leg100 a rest rest ab g rest rest a
+=3, qua leg100 [f{1 leg90 g}1] f e leg100 [d{1 e f}1 F]
+bl0.2 .20 ,
+=4 cro f cro. f cro e qua d
+|
+=1 qua [d)1 smq c d e f qua g] c cro Bb smq [A G]
+=2 qua g rest rest g f rest rest an(1
+=3 cro G rest min rest
+=4 qua e cro c qua e e cro d qua c
+
+3 systems 15 /17-24-17-24-17-24-17 \
+ /17-24-17-24-17-24-17/17-24-17-24-17-24-17 10/
+pagenum
+innerhead Choir 1 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+4 bars | 2b 7.1 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 | 8 8 8.6 8 8 8 8 8 | 64 | 64 |
+|
+=1 smq [F# En qua D(2 D)2 A] [B, c d eb]
+=2 qua [a)1 g] cro a qua leg80 g leg90 a d g
+=3 cro rest cro. leg90 d cro c qua B
+=4 qua leg100 [d,{1 leg90 en}1] f# d cro g g
+|
+il0.4 .05 135
+=1 cro leg90 A rest min rest
+=2 qua c~ cro c~ qua g leg100 [a f# g a(1]
+=3 qua c cro A qua c c cro B qua A
+=4 cro g qua f# en leg100 [f d, e f]
+|
+=1 smb rest
+=2 qua leg90 a)1 g cro. g cro fn qua e
+=3 qua leg100 [B{1 leg90 e}1] d G leg100 [c{1 leg90 Bn,}1] cro c
+=4 cro g qua rest eb cro ab qua rest fn
+|
+=1 smb rest
+=2 qua f cro d qua f f cro e qua d
+=3 qua rest f ab g leg100 [g{1 leg90 G,}1] An Bn'
+=4 cro bn qua rest g min c~(2
+/
+4 bars | 2b 8 10 8 8 8 8 8 8 | 4 4 5 6.6 4 4 4 4 4 4 4 4 4 4 4 4 | 64 | 64 |
+|
+=1 cro rest leg90 cro. g cro f qua e
+=2 qua e smq leg100 [c d qua leg90 e] g c~ cro g qua c~
+=3 qua leg100 c rest rest d e rest rest e
+=4 qua c~)2 smq leg100 [e~ d~ qua c~ b] [an bn] cro c~(1
+|
+=1 qua f cro d qua f f cro e qua d
+=2 qua leg100 [ab leg90 f] leg100 [d leg90 a] leg100 [g leg90 bn] c~ g
+=3 qua d rest rest d g rest rest g
+=4 qua c~)1 smq leg100 [d~ c~ qua bn d~] cro g qua [a b]
+|
+il0.4 .05 140
+=1 qua leg100 [e leg90 d] c d leg100 [e leg90 db] leg100 [d leg90 c]
+=2 qua leg100 g rest rest bb an rest rest c~
+=3 qua e rest rest g leg90 c f f e
+=4 qua [c~ bb ab g] min f(1
+|
+=1 cro db qua c B min leg100 c(1
+=2 qua f cro en qua f [g e f g]
+=3 leg100 [db leg90 B] g f leg100 c rest rest B
+=4, qua [f)1 b c~ d~b] [en c dn e]
+/
+4 bars | 2b 64 | 64 | 8 9 8 8 8 8 8 8   | 4 4 6 5 4 4 4 4 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 ||
+|
+=1 qua c)1 cro db qua c Bn cro dn qua f(1
+=2 qua [c f] rest g [ab f] rest a
+=3 qua [Ab F] G rest rest [d f] rest
+bl0.2 .20 ,
+=4 cro leg90 f eb dn c
+|
+bl0.4 .83 ,
+=1 qua f)1 cro ab qua g [f leg90 en] leg70 e leg90 g
+bl0.2 .83 ,
+=2 qua d rest rest g [c~ g] leg70 c leg90 g
+=3 rest [f d] rest rest [en g] rest
+=4 cro Bn qua B B cro c qua rest c
+| 4/4 .44 .42 .43 .44 .46 .47 .48 .49
+=1 qua B' An cro. leg100 eb{1 qua leg90 db}1 En F
+=2 cro f f f qua d~b f
+=3 rest [f c] rest rest [F B' dn']
+=4 cro f qua rest f cro b qua rest bn
+| 4/4 .53 .52 .54 .56 .74 .74 .75 .76
+il0.4 .05 145
+=1 cro leg100 Ab{2 leg90 G}2 min leg95 F
+=2 qua leg100 [f smq g ab] cro leg90 b min leg95 an
+=3 min leg95 c c
+=4 cro c~ leg90 c min leg95 f
+
+7 systems 25 /17-20-17/17-20-17/17-20-17/17-20-17/17-20-17/17-20-17 10/
+pagenum
+title Soprano and Alto part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+7 bars | 2b 28 | 14 16 | 32 | 32 | 32 | 8 10 8 8 | 8 10 8 8 |
+| 2/2 .16 .14 .14 .14 .16 .14 .14 .14
+midi channel 5 patch 74 pan 35
+midi channel 6 patch 74 pan 95
+midi channel 7 patch 74 pan 5
+midi channel 8 patch 74 pan 65
+il1.2    2. Allabreve: Der aber die Herzen forschet
+=1  treble8va 2b 2/2 cha5 leg90 smb rest
+=2  treble    2b 2/2 cha6 leg90 smb rest
+r0.2 .54 Der
+|
+=1 smb rest
+=2 smb rest
+r0.2 .01 a .26 - .49 ber .75 die
+|
+=1 smb rest
+=2 smb rest
+r0.2 .01 Her .29 -  .50 zen
+|
+=1 smb rest
+=2 smb rest
+r0.2 .01 for  -  schet, .76 der
+|
+il0.3 .05 150
+=1 smb rest
+=2 smb rest
+r0.2 .03 weiß, .50 was
+|
+=1 smb rest
+=2 min rest vol-10 f vol+10
+r0.2 .25 des .52 Geistes
+|
+=1 min rest vol-10 B vol+10
+=2 min b cro leg80 b leg90 b
+r0.2 .01 Sinn
+/
+6 bars | 2b 32 | 32 | 32 | 8 10 8 8 | 4 4 6 5 4 4 4 4 | 8 10 8 8 |
+|
+=1 min f cro leg80 f leg90 f
+=2 cro leg100 a{1 leg80 g}1 leg100 a{1 leg80 f}1
+r0.2 .09 sei,
+|
+=1 cro leg100 e{1 leg80 d}1 leg100 e{1 leg80 c}1
+bl0.4 .63 ,
+=2 cro leg100 g{1 leg80 f}1 leg70 g leg90 a
+|
+il0.6 .15 155
+bl0.2 .67 ,
+=1 cro leg100 d{1 leg80 c}1 leg70 d leg90 e
+=2 cro leg100 b{1 leg80 f}1 min leg90 b(1
+|
+=1 cro leg100 f{1 leg80 c}1 min leg90 f(1
+=2 cro b)1 qua leg100 [a leg90 g] cro a f
+|
+=1 cro f)1 qua leg100 [e{1 leg90 d}1] cro e c
+=2 smb g-tr
+|
+=1 smb d-tr
+bl0.3 .18 ,
+=2 cro leg70 f# leg90 d min g(1
+/
+6 bars | 2b 4 4 6 5 4 4 4 4 | 8 10 8 8 | 14 16 | 8 10 8 8 | 8 10 8 8 | 32 |
+|
+bl0.3 .23 ,
+=1 cro leg70 c leg90 c leg85 f leg90 f
+=2 cro g)1 qua leg100 [fn{1 leg90 en] cro f}1 g
+|
+il0.8 .05 160
+=1 min leg100 f{1 leg90 en}1-tr
+=2 cro leg100 a{1 qua leg100 [g a] cro leg90 b}1 b
+| 2/2 .17 .17 .14 .14 .16 .14 .14 .14
+=1 smb f(1
+=2 min leg100 b{1 leg90 a}1-tr
+| 2/2 .16 .14 .14 .14 .16 .14 .14 .14
+bl0.4 .19 ,
+=1 cro leg70 f)1 leg100 qua [f{1 e] cro leg90 f}1 d
+=2 min b rest
+|
+=1 cro leg100 e{1 qua [g f] cro leg90 e}1 f
+=2 smb rest
+|
+=1 min leg100 B{1 leg90 c}1
+=2 smb rest
+/
+7 bars | 2b 8 10 8 8 | 20 16 | 32 | 32 | 8 8 8 10 | 8 10 8 8 | 8 10 8 8 |
+|
+il0.8 .05 165
+bl0.3 .29 ,
+=1 cro leg70 F leg90 B f d
+=2 min rest B
+|
+bl0.2 .73 ,
+=1 qua leg100 [e{1 d] cro leg90 e}1 leg70 c leg90 F
+=2 min e cro e e
+|
+=1' min B cro B B
+=2, cro leg100 d{1 leg80 c}1 leg100 d{1 leg80 B}1
+|
+=1 cro leg100 Ab{2 leg80 G}2 leg100 Ab{2 leg80 F}2
+bl0.2 .66 ,
+=2, cro leg100 c{1 leg80 B}1 leg70 c leg90 d
+|
+bl0.4 .70 ,
+=1 cro leg100 G{2 leg80 F}2 leg70 G leg90 An
+=2 cro leg100 e{1 leg80 B}1 leg90 min e(1
+|
+il0.6 .05 170
+=1' cro leg100 B{2 leg80 F}2 leg90 min B(2
+=2 cro e)1 qua leg100 [d leg90 leg90 c] cro d B
+|
+=1' cro B)2 qua leg100 [A leg90 G] cro A F
+bl0.2 .19 ,
+=2 cro leg70 c leg90 c min f(1
+/
+6 bars | 2b 8 10 8 8 | 32 | 8 10 8 8 | 32 | 4 4 6 5 4 4 4 4 | 32 |
+|
+bl0.4 .25 ,
+=1 cro leg70 G leg90 G min c(1
+=2 min leg100 f)1 leg90 e
+|
+=1 min c)1 Bb
+bl0.2 .19 ,
+=2 cro leg70 d leg90 d min g(1
+|
+bl0.2 .19 ,
+=1 cro leg70 A leg90 A min d(1
+=2 min g)1 f
+|
+il0.6 .05 175
+=1 min leg100 d)1{1 c}1(1
+=2 smb e-tr
+|
+=1 min leg90 c)1 B
+bl0.2 .19 ,
+=2 cro leg70 d min leg90 d cro g
+|
+=1 smb A-tr
+=2 cro e c leg100 A{1 leg90 d}1
+/
+6 bars | 2b 32 | 32 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 |
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+=1 min G rest
+bl0.2 .42 ,
+=2 min leg60 B leg90 g
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 smb rest
+=2 min c f
+|
+il0.3 .05 180
+=1 min rest leg90 c
+bl0.2 .19 ,
+=2 cro leg70 en leg87 c c c
+|
+=1 min F B'
+=2 cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 en}1
+|
+bl0.3 .19 ,
+=1 cro leg70 A leg87 F F F
+=2 cro leg100 f qua [eb f] cro d qua [c d]
+|
+=1 cro leg100 G{2 leg90 F}2 leg100 G{2 leg90 A}2
+=2 cro e qua [d e] cro c qua [B c]
+/
+6 bars | 2b 8 10 8 10 | 4 4 5 6 4 4 5 5 | 36 | 32 | 32 | 9 9 9 8 |
+|
+=1' cro leg100 B qua [A B] cro G qua [F# G]
+=2 min. d qua [c d]
+|
+il0.6 .05 185
+=1 cro A qua [G A] cro F# qua [En F]
+bl0.3 .68 ,
+=2 cro leg90 e c leg70 A leg90 d
+|
+=1' cro leg100 G{2 leg90 B}2 leg100 A{2 leg90 G}2
+=2 min B e
+|
+bl0.3 .40 ,
+=1 min leg70 F# leg90 d
+=2 min d d
+|
+=1 min G c
+=2 min en f#
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+bl0.3 .25 ,
+=1' cro leg70 B leg87 G G G
+bl0.2 .39 ,
+=2 min leg70 g leg90 g
+
+7 systems 15 /17-20-17/17-20-17/17-20-17/17-20-17/17-20-17/17-20-17 10/
+pagenum
+innerhead Soprano and Alto part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 8 10 8 8 | 8 10 8 10 | 8 10 8 10   | 6 5 5 5 4 4 5 5 | 8 10 8 8 | 8 10 8 10 |
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+il0.5 .08 190
+=1' cro leg100 A{2 leg90 G}2 leg100 A{2 leg90 Bn}2
+=2 min c f
+|
+=1 cro leg100 c qua [Bb, c] cro leg100 A qua [G A]
+bl0.2 .19 ,
+=2 cro leg70 en leg87 c c c
+|
+=1' cro leg100 B qua [A B] cro leg100 G qua [F G]
+=2 cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 en}1
+|
+=1 cro A min f cro eb(1
+=2 qua leg100 [f en f g] cro a qua [g a]
+|
+bl0.3 .71 ,
+=1 cro leg90 e)1 d leg70 c leg90 F
+=2 cro b qua [a b] cro leg90 c~ c~
+|
+il0.4 .05 195
+=1 cro B c leg100 d{1 qua [e d]
+bl0.3 .36 ,
+=2 min leg70 f leg90 b
+/
+6 bars | 2b 8 10 8 10 | 4 4 6 5 4 4 6 5 | 8 10 8 8 | 15 16 | 32 | 32 |
+|
+=1 cro leg90 c}1 d e f
+=2 min e ab
+|
+bl0.3 .18 ,
+=1 cro leg70 B leg90 B min e(1
+=2 cro leg100 g{1 qua [b ab] cro leg90 b}1 c~
+|
+=1 min e)1 d-tr
+=2 cro leg100 f{1 qua [ab g] cro leg90 a}1 a
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+=1 min e rest
+bl0.4 .34 ,
+=2 min leg70 g leg90 c~
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+il0.4 .05 200
+=1 smb rest
+=2 min min f b
+|
+=1 smb rest
+=2 cro leg87 e leg90 e min ab(1
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 32 | 8 8 8 10 | 8 10 8 10 |
+|
+=1 min rest leg90 G
+=2 cro leg100 a)1 qua [g f] cro g qua [ab g]
+|
+=1 min An d
+=2 min. f qua [g f]
+|
+=1 min G rest
+bl0.3 .66 ,
+=2 cro leg90 en c leg70 f leg90 f
+|
+il0.4 .05 205
+=1 min rest g
+=2 min b cro leg85 b leg90 b
+|
+=1 min c f
+=2 cro leg100 a{1 leg90 g}1 cro leg100 ab{1 leg90 f}1 
+|
+=1 cro leg87 B leg90 B min leg100 e(1
+bl0.5 .63 ,
+=2 cro leg100 g{1 leg90 f}1 cro g an
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 4 4 6 5 4 4 4 4 | 8 10 8 10 | 32 | 32 |
+|
+=1 cro e)1 qua [d c] cro d qua [e d]
+=2 cro leg100 b{1 leg90 f}1 min b(1
+|
+=1 min. c qua [d c]
+=2 cro leg90 b)1 qua leg100 [ab leg90 g] cro a f
+|
+il0.6 .15 210
+bl0.4 .69 ,
+=1 cro leg90 Bn' G leg70 g leg90 f
+bl0.4 .60 ,
+=2 min. g cro ab
+|
+=1 min e d-tr
+=2 cro leg100 g qua [f e] cro f qua [g f]
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+bl0.3 .19 ,
+=1 cro leg70 c leg87 G G G
+=2 cro leg90 e d min e(1
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1' cro leg100 A{2 leg90 G}2 leg100 A{2 leg90 B}2
+=2 min e)1 d-tr
+/
+6 bars | 2b 8 10 8 10 | 32 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 |
+|
+=1, cro leg100 c qua [B c] cro d qua [c d]
+bl0.3 .23 ,
+=2 cro leg70 c leg87 a a leg90 a
+|
+il0.6 .15 215
+=1 cro e min d cro c
+=2 cro b a b c~
+|
+=1 cro B qua [c d] min e(1
+bl0.4 .39 ,
+=2 min leg70 f leg90 b
+|
+=1 cro e)1 c leg87 f leg90 f
+=2 min e ab
+|
+bl0.4 .36 ,
+=1 min leg70 B leg90 g
+bl0.4 .19 ,
+=2 cro leg70 g leg87 g g leg90 g
+|
+=1 min c f
+=2 cro leg100 an{1 leg90 g}1 leg100 a{1 leg90 bn}1
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 8 10 8 10   | 8 10 8 10 | 8 10 8 10 | 4 4 6 5 5 5 4 4 |
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+il0.5 .36 220
+bl0.3 .28 ,
+=1 cro leg70 en leg87 c c leg90 c
+=2 cro leg100 c~ qua [bb c~] cro a qua [g a]
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 en}1
+=2 cro leg100 b qua [a b] cro g qua [f g]
+|
+=1 cro leg100 f qua [eb f] cro d qua [c d]
+=2 min. a qua [g a]
+|
+=1, cro leg100 e qua [d e] cro c qua [B c]
+=2 cro b qua [a b] cro leg90 c~ f
+|
+=1 cro d qua [c d] cro B' qua [A B']
+bl0.4 .19 ,
+=2 cro leg70 f leg90 g min leg100 g(1
+|
+il0.5 .06 225
+=1 cro leg100 c{1 leg90 B}1 leg100 c{1 leg90 d}1
+=2 cro g)1 qua [f en] [f g] cro a
+/
+6 bars | 2b 9 9 9 8 | 8 10 8 10 | 10 9 9 8 | 8 10 8 10 | 9 9 9 8 | 9 9 9 8 |
+|
+bl0.4 .28 ,
+=1 cro leg70 e min leg90 d cro c(1
+=2 min. leg90 b cro f
+|
+=1 cro leg100 c)1 qua [B' A] cro leg90 B' qua leg100 [c leg90 d]
+bl0.3 .39 ,
+=2 min leg70 f leg90 g
+|
+bl0.5 .16 ,
+=1 cro leg70 G leg90 en min f(1
+=2 cro en c c~ a
+|
+=1 min f)1 en
+=2 cro leg100 b qua [a b] cro g qua [f g]
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+il0.6 .33 230
+bl0.4 .19 ,
+=1 cro leg70 f leg90 c min f(1
+bl0.3 .69 ,
+=2 cro leg90 a g leg70 a leg90 f
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 cro f)1 e min e(1
+=2 min leg87 b cro b leg90 b
+
+7 systems 10 /17-21-17/17-26-17 10\
+ /17-21-17/17-20-17/17-20-17/17-19-17 9/
+pagenum
+innerhead Soprano and Alto part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 8 | 32   | 4 4 6 5 5 5 6 5 | 8 10 8 10 | 4 4 6 5 4 4 5 5 |
+|
+=1 cro leg87 e)1 leg90 e min leg100 d(1
+=2 cro leg100 a{1 leg90 g}1 leg100 ab{1 leg90 f}1
+|
+=1 cro d)1 qua [e d] cro leg87 c leg90 c
+bl0.5 .63 ,
+=2 cro leg100 g{1 leg90 f}1 leg70 g leg90 an
+|
+=1 min B cro rest d
+=2 cro leg100 b{1 leg70 f}1 min leg90 b(1
+|
+il0.8 .04 235
+=1 cro leg100 g{1 qua [f en] [f g f eb]
+=2 cro leg90 b)1 leg100 qua [a leg90 g] cro a f
+|
+=1 cro leg90 d}1 Bn min G
+=2 smb g-tr
+|
+=1 cro rest leg87 d d leg90 d
+=2 min f# cro rest leg87 g
+/
+7 bars | 2b 8 12 8 8 | 32 | 32 | 32 | 8 10 8 10 | 20 16 | 20 ||
+| 2/2 .17 .15 .15 .15 .17 .15 .15 .15
+=1 cro leg100 e{1 leg90 d}1 leg100 e{1 leg90 f}1
+=2 leg90 g fn
+|
+=1 cro leg100 d{1 leg90 c}1 leg100 B'{2 leg90 Ab}2
+=2 min. leg87 f cro leg90 f
+| 2/2 .18 .15 .15 .15 .18 .15 .15 .15
+il0.5 .05 240
+=1 min G cro rest B'
+r0.6 .75 nach
+=2 cro leg100 g{1 leg90 ab}1 leg100 g{1 leg90 f}1
+|
+=1 min. e cro c
+r0.6 dem, .72 das
+=2 cro e c~ min an
+| 2/2 .18 .16 .16 .16 .18 .16 .16 .16
+=1 min. f cro g
+r0.6 Gott .75 ge .90 -
+=2 cro rest f min b(2
+| 2/2 .19 .16 .16 .16 .19 .16 .16 .16
+=1 2 leg100 d{1 leg90 c}1
+r0.6 fäl .60 -
+=2 cro b)2 qua leg100 [a leg90 g] min a
+| 2/2 .95 .95
+=1 smb B-fermata
+r0.6 .01 let.
+=2 smb f-fermata
+/
+5 bars | 2b 4/4 8 | 8 10 10 10 | 14 16 | 14 16 | 32 |
+| 1/4 .8
+midi channel 5 patch 74 pan 35
+midi channel 6 patch 74 pan 95
+midi channel 7 patch 74 pan 5
+midi channel 8 patch 74 pan 65
+il1.2    3. Choral: Du heilige Brunst
+=1  treble8va 2b 4/4 cha5 tra-12 leg95 cro vol-15 f vol+10
+=2  treble    2b 4/4 cha6 tra-12 leg95 cro vol-15 b vol+10
+r0.2 .50 Du
+| 4/4 .87 .80 .85 .80
+=1 cro leg100 g{1 qua [f leg95 e}1] leg100 [d leg95 e] cro f
+=2 cro leg100 b{1 a}1 leg90 b qua leg100 [f leg90 g]
+r0.2 .01 hei .29 - .50 li  - .74 ge
+| 4/4 1.0 0.9 .85 .80
+=1 min c-fermata cro d en
+=2 min a-fermata cro b b
+r0.2 .01 Brunst, .50 sü  - .74 ßer
+|
+=1 min f-fermata cro rest vol-10 f vol+10
+=2 min a-fermata cro rest vol-10 b vol+10
+r0.2 .01 Trost, .75 nun
+| 4/4 .87 .80 .85 .80
+=1 cro g f qua leg100 [c leg95 d] cro e
+=2 cro b qua leg100 [a leg90 g] cro f qua leg100 [g leg90 a]
+r0.2 .01 hilf .25 uns, .52 fröhlich
+/
+5 bars | 2b 16 14 | 40 | 5 5 6.5 5 5 6 5 5 | 3.5 3.5 3.5 3.5 4 4 6.5 5   | 5 5 5 5 5 5 6.5 5 |
+| 4/4 .87 .80 1.0 .80
+=1 cro d c leg87 B-fermata leg95 vol-10 B vol+10
+=2 cro b a leg87 f-fermata leg90 vol-10 f vol+10
+r0.2 .01 und .27 getrost, .75 in
+|
+il0.5 .05 250
+=1 qua leg100 [c leg95 d] cro e qua leg100 [d leg95 e] cro f(1
+=2 cro f g qua leg100 [f leg90 g] cro a(1
+r0.2 .08 deinem .49 Dienst  be  -
+| 4/4 .87 .80 .85 .80
+=1 cro f)1 c qua leg100 [B' leg95 A] cro G
+=2 qua leg100 [a)1 leg90 b] leg100 [a leg90 g] leg100 [f leg90 d] cro en
+r0.2 .01 stän - dig .50 blei .78 -
+| 4/4 1.0 0.9 .85 .80
+=1 min F-fermata cro rest vol-10 F vol+10
+=2 min c-fermata cro rest vol-10 c vol+10
+r0.2 .01 ben, .72 die
+| 4/4 .87 .84 .85 .80
+=1 cro B c qua leg100 [d leg95 e] cro f(1
+=2 qua leg100 [f leg90 g] cro a cro. b qua c~
+r0.2 .02 Trübsal .50 uns .75 nicht
+/
+5 bars | 2b 40 | 7 7 8 10 | 8.2 5 8.0 5 7.9 5 7.9 5 | 10 8 8 10 | 40 |
+| 4/4 .87 .80 .85 .80
+=1 cro f)1 e leg100 d{1 leg95 c}1
+=2 cro. d~ qua leg100 c~{1 [b a] cro leg90 g}1
+r0.2 .01 ab  - .25 trei .67 -
+| 4/4 1.0 0.9 .85 .80
+il0.7 .18 255
+=1 min d-fermata cro rest qua leg100 vol-10 [d leg95 e] vol+10
+=2 min f#-fermata cro rest vol-10 b vol+10
+r0.2 .01 ben, .75 O
+| 4/4 .85 .81 .85 .81
+=1 cro leg80 f leg95 g f c
+=2 qua leg100 [a leg70 bn] leg90 cro c~ qua leg100 [c~ leg90 bb] leg100 [a leg90 g]
+r0.2 .01 Herr, .25 durch  dein .75 Kraft,
+| 4/4 .87 .80 .95 .80
+=1 cro d en f-fermata f
+=2 cro f g a-fermata qua leg100 [b leg90 a]
+r0.2 .01 uns .27 bereit .75 und
+| 4/4 .87 .80 .85 .80
+=1 cro g f qua leg100 [c leg95 d] cro e
+=2 qua leg100 [g leg90 a] cro b a g
+r0.2 .01 stärk des .52 Fleisches
+/
+5 bars | 2b 10 10 9 10 | 40 | 7.9 5 5 5 5 5 7.9 5 | 4 3 4 3 4 4 7.9 5 | 5 5 5 5 6 5 5 7 |
+| 4/4 .87 .80 1.0 .80
+=1 cro d c B-fermata vol-10 B vol+10
+=2 qua leg100 [f leg90 g] cro a f-fermata vol-10 g vol+10
+r0.2 .01 Blödigkeit, .75 daß
+| 4/4 .87 .80 .85 .80
+il0.5 .05 260
+=1 qua leg100 [c leg95 d] cro e qua leg100 [d leg95 e] cro f(1
+=2 cro g qua leg100 [g leg90 a] min b(1
+r0.2 .01 wir .25 hir .50 rit .82 -
+| 4/4 .87 .81 .85 .80
+=1 cro f)1 c qua leg100 [B'{2 A] cro leg95 G}2
+=2 cro b)1 a qua leg100 [b leg80 f] leg100 [f leg90 en]
+r0.2 .25 ter - lich .75 rin  -
+| 4/4 .90 .90 .85 .80
+=1 min F-fermata cro rest vol-10 F vol+10
+=2 min c-fermata cro rest qua leg100 vol-10 [f leg90 eb] vol+10
+r0.2 .01 gen, .64 durch
+| 4/4 .85 .80 .85 .80
+=1 cro B c qua leg100 [d leg90 eb] cro f(1
+=2 qua leg100 [d leg90 g] leg100 [f leg90 e] cro. leg100 d{1 smq [e f]
+r0.2 .05 Tod .28 und .53 Le .82 -
+/
+5 bars | 2b 40 | 10 8 9 8 | 10 8 10 10 | 4 4 5 7 5 5 5 5 | 5 5 7.4 5 5 5 ||
+|
+=1 cro f)1 e d c
+=2 cro g g g qua leg100 [g{1 leg90 f]
+r0.2 .01 ben .25 zu .50 dir .75 drin
+| 4/4 .85 .90 1.0 1.0
+il0.5 .05 265
+=1 cro leg100 G{2 leg95 A}2 leg90 leg80 B-fermata leg95 c
+=2 min e}1 cro leg80 d-fermata leg95 f
+r0.2 .05 - .47 gen, .75 Hal  -
+| 4/4 1.0 .9 1.0 1.0
+=1 cro leg100 d{1 leg95 B}1 min G
+=2 min leg100 f(1 qua leg100 [f)1 leg95 d] cro e
+r0.2 .01 le .27 - .50 lu .77 -
+| 4/4 1.4 1.0 1.0 1.0
+=1 cro leg80 F-fermata qua leg100 [c{1 smq d leg97 e}1] min d
+=2 cro leg80 d-fermata min leg95 f cro g(1
+r0.2 .01 ja, .25 Hal  - .60 le .85 -
+| 3/4 .60 .60 .65 .70 1.0 1.0
+=1 min c cro B-fermata
+=2 cro g)1 qua leg100 [f leg95 e] cro d-fermata
+r0.2 .04 lu .37 - .65 ja.
+
+
+4 systems 25 /17-23-17-18-17-18-17/17-23-17-18-17-18-17 \
+ /17-22-17-18-17-18-17/17-23-17-18-17-18-17 10/
+pagenum
+title Choir 2 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+midi channel 1 patch 74 pan 0
+midi channel 2 patch 74 pan 30
+midi channel 3 patch 71 pan 70
+midi channel 4 patch 71 pan 100
+/
+8 bars | 2b 3/8 8.5 | 24 | 24 | 4 4 5 4 4 4 | 24 | 22 | 22 | 5 4 4 4 4 4 |
+| 1/8 .34
+il1.2    1. Der Geist hilft unser Schwacheit auf
+=1  treble8va 2b 3/8 cha3 leg90 tra-12 qua rest
+=2  treble    2b 3/8 cha3 leg90 tra-12 qua rest
+=3  treble    2b 3/8 cha4 leg90 tra-12 qua rest
+=4  bass8va   2b 3/8 cha4 leg85 tra-12 qua rest
+| 3/8 .35 .35 .33
+=1  cro. rest
+=2  cro. rest
+=3  cro. rest
+=4  cro. rest
+|
+=1  cro rest qua F
+=2  cro rest qua d
+=3  cro rest qua B
+=4  cro rest qua B
+r0.2 .60 Der
+|
+=1, smq leg100 [B A B leg85 d c e]
+=2  smq leg100 [f e f ab leg85 g e]
+=3  smq leg100 [d e leg85 d B e c]
+=4  cro. b(2
+r0.2 .02 Geist
+|
+=1, smq leg100 [d c leg85 B c d e]
+bl0.2 .53 ,
+=2, qua b d B
+bl0.2 .53 ,
+=3  qua f f f
+bl0.2 .58 ,
+=4  qua b)2 B B
+r0.2 .33 hilft,
+r0.2 .65 Der
+|
+il0.3 .03 5
+=1, qua d leg100 qua3-s c'{2 cro3 B}2
+=2  cro f qua f
+=3  cro B qua B
+=4  leg100 cro b qua ab
+r0.2 .01 Geist .63 hilft
+|
+=1, leg100 qua [B{1 c}1] leg85 d
+=2 cro g qua ab
+=3  cro B qua B
+=4  cro g qua f
+r0.2 .16 unser
+|
+=1, qua leg100 [e B] leg85 e
+=2 qua b cro g-tr
+=3  cro e qua B
+=4  smq [e{1 f qua g}1] e
+r0.2 .10 Schwachheit
+/
+8 bars | 2b 24 | 24 | 24 | 4 4 5 4 4 4 | 24 | 22 | 22 | 5.2 4 4 4 4 4 |
+| 3/8 .37 .38 .33
+bl0.4 .52 ,
+bl0.2 .52 ,
+=1  cro d qua F
+bl0.2 .52 ,
+=2  cro f qua d
+bl0.2 .52 ,
+=3  cro B qua B
+bl0.2 .52 ,
+=4  cro b qua B
+r0.2 .09 auf,
+| 3/8 .35 .35 .33
+=1, smq leg100 [B A leg85 B d c e]
+=2  smq leg100 [f e leg85 f b a c~]
+=3  smq leg100 [d c leg85 d f e g]
+=4  cro. b(1
+|
+il0.3 .03 10
+=1, smq leg100 [d c leg85 B c d e]
+=2  qua b f rest
+=3  qua f d rest
+=4  qua b)1 B rest
+|
+=1, smq leg100 [d c leg85 d f e g]
+=2  cro. rest
+=3  cro. rest
+=4  cro. rest
+|
+=1, smq leg100 [f e leg85 d e f g]
+=2  cro rest qua b
+=3  cro rest qua d
+=4  cro rest qua B
+|
+=1  qua f leg100 qua3-s e'{2 cro3 d}2
+=2  cro b qua b
+=3  cro d qua f
+=4  leg100 cro b qua ab
+|
+=1  leg75  cro e qua f
+=2  leg100 cro b qua ab
+=3, leg100 qua [e{1 B}1] leg85 f
+=4  cro g qua f
+|
+il0.6 .03 15
+=1  qua g cro e-tr
+=2  smq [g{1 ab qua b}1] b
+=3  qua [B e] g
+=4  smq [e{1 f qua g}1] e
+/
+8 bars | 2b 22 | 5 4 4 4 4 4 | 24 | 5 4 4 4 4 4 | 24 | 24 | 22 | 24 |
+| 3/8 .37 .38 .33
+bl0.4 .52 ,
+=1  leg75  cro f qua rest
+=2  leg75 cro b qua rest
+=3, leg75 cro d qua rest
+=4  cro b qua rest
+| 3/8 .35 .35 .33
+=1  cro rest qua c
+=2  cro rest qua g
+=3  cro rest qua c
+=4  cro rest qua c
+|
+=1  qua c A c
+=2  qua f f c
+=3  qua c c rest
+=4  qua f F rest
+|
+=1  qua leg100 [c{1 leg70 f}1] en
+=2  smq leg100 [f en leg80 f a g b]
+=3  cro rest qua B
+=4  cro rest qua f
+|
+il0.7 .15 20
+=1  qua leg100 [f{1 leg70 c}1] A
+=2  smq leg100 [a g leg80 f g a b]
+=3  qua f A F
+=4  qua f F f
+|
+=1  cro. F(1
+=2  qua a leg100 qua3-s g'{2 cro3 f}2
+=3  cro c qua c
+=4  cro f qua eb
+|
+=1  cro. F)1(1
+=2  qua leg100 [f{1 leg70 g}1] a
+=3  cro f qua eb
+=4  cro d qua c
+|
+=1  qua [F)1 B'] d
+=2  qua [b f] b
+=3  smq [d{1 e qua f}1] f
+=4' smq [B{2 c qua d}2] B
+/
+7 bars | 2b 24 | 5 4 4 4 4 4 | 24 | 5 4 4 4 4 4 | 24 | 8 7 7 | 21 |
+| 3/8 .37 .38 .33
+bl0.2 .52 ,
+=1  cro c qua c
+bl0.2 .52 ,
+=2  cro a qua c
+bl0.2 .52 ,
+=3  cro f qua en
+=4  smq [f{1 g a b}1] qua c~
+| 3/8 .35 .35 .33
+il0.6 .05 25
+=1  qua leg100 [c{1 leg70 f}1] en
+=2  smq leg100 [f en leg80 f a g b]
+=3  qua f c rest
+=4  qua a f rest
+|
+bl0.3 .52 ,
+=1  qua leg100 [f{1 leg70 c}1] A
+=2  smq leg100 [a g leg80 f g a b]
+=3  cro rest qua f
+=4  cro rest qua f
+|
+=1  cro. F(1
+=2  smq leg100 [a g leg80 a c~ b d~]
+=3  qua f c rest
+=4  qua f F rest
+|
+=1  cro. F)1(1
+=2  smq leg100 [c~ b leg80 a b c~ d~]
+=3  cro rest qua f
+=4  cro rest qua F
+|
+=1  cro. F)1(1
+=2  qua c~ leg100 qua3-s b'{2 cro3 a}2
+=3, smq [A{1 B qua c}1] c
+=4  cro f qua eb
+|
+il0.3 .05 30
+=1  cro. F)1(1
+=2  cro b qua c~
+=3  cro d qua e
+=4  cro d qua c
+
+4 systems 15 /17-22-17-18-17-18-17/17-28-17-18-17-18-17 \
+ /17-27-17-18-17-18-17/17-22-17-18-17-18-17 10/
+pagenum
+innerhead Choir 2 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 8 7 7 | 4 3.5 3.5 3.5 4 6 | 24 | 24 | 24 | 24 | 24 | 21 |
+|
+=1  qua [F)1 leg70 f'] f
+=2  qua d~ cro b-tr
+=3  smq [f{1 e qua d}1] d
+=4' smq [B{2 c qua d}2] B
+| 3/8 .38 .39 .33
+=1  cro f qua rest
+=2  cro c~ qua rest
+=3, smq [A{1 B qua c}1] rest
+=4  cro f qua f
+| 3/8 .35 .35 .33
+=1  cro rest qua leg75 d
+=2  cro rest qua leg75 g
+=3  cro rest qua leg75 B
+=4  smq leg100 [b a leg75 b c~ b c~]
+|
+=1  qua leg90 c leg50 f rest
+=2  qua leg90 g leg50 f rest
+=3  qua leg90 c leg50 c rest
+=4  smq leg100 [a g leg75 a b a b]
+|
+il0.3 .05 35
+=1  cro rest qua leg75 B
+=2  cro rest qua leg75 e
+=3  cro rest qua leg75 B
+=4  smq leg100 [g f leg75 g a g a]
+|
+=1  qua leg90 A leg50 d rest
+=2  qua leg90 e leg50 d rest
+=3  qua leg90 c leg50 A rest
+=4  smq leg100 [f e leg75 f g f g]
+|
+=1  cro rest qua leg75 G
+=2  cro rest qua leg75 c
+=3  cro rest qua leg75 G
+=4  smq leg100 [e d qua leg75 e] leg85 e(1
+|
+=1  qua F A B'
+=2  qua c c B
+=3  qua A F F
+=4  qua e)1 e d
+| 3/8 .36 .37 .35
+=1  qua c smq [B'{2 A}2] qua leg95 B'
+=2  qua A smq [f{1 e}1] [d{1 e}1]
+=3  qua E F leg95 B'
+=4' qua leg90 [c{2 d}2] qua leg75 B
+| 3/8 .38 .39 .37
+il0.6 .05 40
+=1  cro A qua rest
+=2  cro f qua rest
+=3  cro c qua rest
+=4  cro f qua rest
+| 3/8 .36 .36 .35
+=1 vol-10 leg80 qua rest c-. rest
+r0.6 .30 denn
+=2 vol-10 leg80 qua rest G-. rest
+=3 vol-10 leg80 qua rest c-. rest
+=4 vol-10 leg80 qua rest en-. rest
+|
+=1 cro rest qua c
+=2 cro rest qua a
+=3 cro rest qua F
+=4 cro rest qua f
+|
+=1 qua leg100 A leg65 F rest
+=2 qua leg100 f leg65 f rest
+=3 qua leg100 c leg65 f rest
+=4 qua leg100 f leg65 F rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+il0.3 .05 45
+=1 leg80 qua d rest d
+r0.6 .01 denn .64 wir
+=2 leg80 qua g rest a
+=3 leg80 qua d rest d
+=4 leg80 qua b rest f#
+|
+=1 qua leg100 [B{1 c}1] leg75 d
+r0.6 .01 wis .35 - .64 sen
+=2 qua leg100 [g{1 a}1] leg75 b
+=3 cro d qua G
+=4 qua g G rest
+/
+8 bars | 2b 22 | 22 | 22 | 22 | 22 | 22 | 22 | 5 4 4 4 3.6 3.6 |
+|
+=1 qua d e d
+r0.6 .06 nicht, was wir
+=2 qua b c~ b
+=3 cro g qua g
+=4 cro. rest
+|
+=1 qua leg100 [f{1 e}1] leg75 d
+r0.6 .01 be .35 - .63 ten
+=2 qua leg100 [ab{1 g}1] leg75 f
+=3 cro Bn qua B
+=4 cro rest qua g
+|
+=1 qua leg95 c leg65 c rest
+r0.6 .06 sollen
+=2 qua leg95 e leg65 e rest
+=3 cro c qua rest
+=4 qua leg100 c~ leg65 c rest
+|
+il0.3 .05 50
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+=1 leg80 qua f rest f
+=2 leg80 qua a rest a
+=3 leg80 qua c rest c
+=4 leg80 qua f rest e
+|
+=1 qua leg100 [Ab leg95 G] A
+=2 qua leg100 [f leg95 e] d
+=3 qua leg100 [d{1 leg95 B}1] d
+=4 qua leg100 [d{1 leg95 e}1] f
+|
+=1 qua leg85 Ab leg95 G F
+=2 qua leg85 d leg95 e f
+=3 qua leg85 f leg95 e d
+=4 qua leg85 B leg95 c d'
+|
+=1 cro. B(1
+=2 cro. e(1
+=3 qua leg100 [G{2 leg95 B'}2] leg75 e
+=4 qua leg75 e smq leg100 [e{1 f qua g}1]
+/
+8 bars | 2b 21 | 5.3 4 4 4 3.6 3.6 | 21 | 21 | 21 | 7 8 8 | 21 | 21 |
+|
+il0.4 .09 55
+bl0.3 .56 ,
+=1 qua leg100 [B)1 leg95 e] c
+=2 qua leg100 [e)1 leg95 g] c~
+bl0.2 .90 ,
+=3 cro e qua leg70 e
+bl0.2 .90 ,
+=4 qua leg100 [ab{1 leg95 g}1] leg70 a
+|
+bl0.2 .90 ,
+=1 cro leg95 f qua leg60 f
+bl0.4 .52 ,
+=2 qua leg95 f g ab
+=3 cro leg80 d qua d(1
+=4 qua leg95 d e f
+|
+bl0.2 .56 ,
+=1 qua leg95 d g f
+=2 cro leg85 g qua g
+=3 qua d)1 cro leg95 Bn
+=4 qua g f g
+|
+=1 qua leg100 [e leg95 d] c
+=2 qua leg100 [g leg95 f] g
+=3 qua leg100 [c leg95 d] e
+=4 cro c qua c
+|
+=1 cro rest qua leg80 c
+=2 cro rest qua leg95 g
+=3 cro rest qua leg95 e
+=4 cro rest qua leg95 g
+|
+il0.6 .05 60
+=1, qua leg100 [c{1 leg95 Bb}1] leg80 c
+=2 qua leg100 [an{1 leg95 g}1] f#
+=3 qua leg100 [d smq leg95 e leg75 d] leg95 [c leg75 B]
+=4 qua leg100 [f# leg95 g] a
+|
+=1 qua c cro rest
+=2 qua f# cro rest
+=3 qua A cro rest
+=4 qua d cro rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+
+4 systems 15 /17-18-17-22-17-18-17/17-25-17-18-17-18-17 \
+ /17-18-17-18-17-18-17/17-22-17-18-17-18-17 10/
+pagenum
+innerhead Choir 2 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 21 | 21 | 3.6 3.6 3.6 3.6 5 4 | 21 | 21 | 21 | 24 |
+|
+=1 qua rest leg80 d d
+=2 qua rest leg80 g g
+=3 qua rest leg80 B Bn
+=4 qua rest leg80 g f
+|
+=1, qua leg100 [g{1 leg95 f}1] leg80 en
+=2, qua leg95 b cro leg80 a
+=3, cro leg95 c#-tr qua leg80 c
+=4  qua leg100 [en{1 leg95 a}1] leg80 A
+|
+il0.6 .05 65
+=1, qua leg100 [f leg80 d] rest
+=2, qua leg100 [a leg80 f] rest
+=3, qua leg100 [d leg80 d] rest
+=4, qua leg100 [d leg80 d] rest
+|
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+|
+=1 cro rest qua leg80 B'
+=2 cro rest qua leg95 eb
+=3 cro rest qua leg95 B'
+=4 cro rest qua leg95 g
+|
+=1' cro leg95 B qua leg80 A-tr
+=2 qua leg100 [d{1 leg95 c}1] leg80 f
+=3' qua leg100 [G{2 leg95 c}2] leg80 F
+=4 qua leg100 [e{1 leg95 f}1] leg80 F
+| 3/8 .35 .35 .33
+=1' qua leg80 B leg70 B leg90 vol+10 F
+=2  qua leg80 d leg70 B rest
+=3  qua leg80 F leg70 F rest
+=4  qua leg80 B leg70 B rest
+|
+il0.4 .05 70
+=1  smq leg100 [B c leg85 d e f g]
+=2  cro rest qua vol+10 leg80 f
+=3  cro rest qua vol+10 leg80 F
+=4  cro rest qua vol+10 leg80 B
+/
+7 bars | 2b 24 | 24 | 8 8 7 | 3.6 3.6 4 4 5 4 | 5 4 3.6 3.6 4 4   | 3.6 3.6 3.6 3.6 4 6 | 4 4 4 4 4.7 4 |
+|
+=1  cro. f(1
+=2  qua leg100 [f{1 leg95 b}1] leg80 a
+=3, smq leg100 [B A leg85 B d c e]
+=4  cro. b(2
+|
+=1  qua leg75 f)1 F F
+=2  qua leg100 [b{1 leg95 f}1] leg80 d
+=3, smq leg100 [d c leg85 B c d e]
+=4  qua leg75 b)2 b B
+|
+=1  smq leg100 [B c leg85 d e qua f]
+=2' cro. B(2
+=3  qua f leg100 qua3-s e'{2 cro3 d}2
+=4  cro b qua leg80 ab
+|
+=1  qua e smq leg100 [d leg75 c] leg100 [B' leg75 Ab]
+=2' cro. B)2(2
+=3 qua leg100 [B, leg75 c] d
+=4 cro g qua f
+|
+il0.6 .05 75
+=1' smq leg100 [G leg75 Ab qua B] smq leg100 [A leg90 G]
+=2, qua leg90 [B)2 leg85 e] leg70 B
+=3  qua leg100 [e leg75 B,] e
+=4  smq leg100 [e{1 leg75 f qua g}1] e
+| 3/8 .38 .35 .33
+=1 qua leg75 F qua. leg100 [d dsq c d]
+=2  qua leg75 b f b(1
+=3  qua leg75 d d g(1
+=4  qua leg75 b B B
+| 3/8 .35 .35 .33
+=1 qua leg70 e E rest
+=2 qua b)1 leg75 ab rest
+=3 qua leg90 g)1 leg70 c leg80 B
+=4 cro leg90 c qua leg75 d'
+/
+7 bars | 2b 4 4 4 4 5 4 | 4 4 4 5 5 4 | 5 4 5 4 5 4   | 8 8 7.2 | 7.6 8 7.2 | 3.6 3.6 4 5 3.6 3.6 | 24 |
+|
+=1 cro. rest
+=2 cro. rest
+=3, qua leg90 [B{1 leg75 e}1] leg80 d
+=4 cro e qua B
+|
+=1 cro rest qua B
+=2 cro. rest
+=3 qua leg100 [e smq B, leg60 G,] leg100 [Ab leg70 F]
+=4 smq leg100 [e d leg85 e g f ab]
+|
+il0.5 .05 80
+=1 qua leg90 [B{1 leg75 e}1] leg80 db(1
+=2 cro. rest
+=3 qua. leg100 [G smq F E D]
+=4 smq leg100 [g f leg85 e f g ab]
+|
+=1 qua d)1 smq leg100 [c leg70 B,] cro c
+=2 cro rest qua g
+=3 cro. E(1
+=4 qua g leg100 qua3-s f'{2 cro3 e}2
+|
+=1 cro leg90 c qua B
+=2 qua leg100 [g{1 leg70 f}1] B
+=3 cro. E)1(1
+=4 cro leg90 f qua g
+|
+=1' qua Ab rest B
+=2 qua leg100 [e smq d leg80 c] qua d
+=3 cro leg70 E)1 qua E
+=4 qua leg70 ab cro f-tr
+| 3/8 .37 .37 .33
+=1 smq leg100 [e d leg85 e f e f]
+=2 cro leg65 e qua f
+=3 cro leg65 e qua c
+=4 cro leg65 g qua ab
+/
+8 bars | 2b 24 | 24 | 5.5 4 4 4 4 4 | 24 | 5.5 4 4 4 4 4 | 24 | 8 8 7 | 21 |
+| 3/8 .35 .35 .33
+il0.5 .05 85
+=1  smq leg100 [d c leg75 d e d e]
+=2  qua leg90 f leg50 ab rest
+=3  qua leg90 d leg50 f rest
+=4  qua leg90 b leg50 f rest
+|
+=1, smq leg100 [c B leg75 c d c d]
+=2  cro rest qua leg75 ab
+=3  cro rest qua leg75 Ab
+=4  cro rest qua leg75 f
+|
+=1, smq leg100 [B Ab leg75 B c B c]
+=2  qua leg90 d leg50 f rest
+=3  qua leg90 B leg50 F rest
+=4  qua leg90 g leg50 d rest
+|
+=1' smq leg100 [Ab G leg75 A B A B]
+=2  cro rest qua leg75 f
+=3  cro rest qua leg75 c
+=4  cro rest qua leg75 e
+|
+=1  cro. Ab(2
+=2  smq leg100 [f e leg75 f g f e]
+=3  qua leg90 [d{1 B}1] qua leg75 F
+=4, smq leg100 [d c leg75 d e d e]
+|
+il0.6 .05 90
+=1' qua A)2 leg70 F leg90 B
+=2  qua d leg70 f leg90 e
+=3  qua leg90 [f{1 d}1] qua leg75 B
+=4  qua f leg70 ab leg90 g
+| 3/8 .36 .37 .36
+=1  qua leg70 D leg90 Ab G
+=2  qua leg70 B leg90 f e
+=3  cro leg75 f qua B
+=4  qua leg70 f leg90 b B
+| 3/8 .39 .40 .39
+=1  cro F qua rest
+=2  cro f qua rest
+=3  cro B qua rest
+=4  cro b qua rest
+
+4 systems 15 /17-18-17-23-17-18-17/17-18-17-18-17-23-17 \
+ /17-20-17-18-17-18-17/17-20-17-18-17-25-17 10/
+pagenum
+innerhead Choir 2 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+8 bars | 2b 24 | 24 |
+| 3/8 .36 .36 .35
+=1 vol-10 leg80 qua d rest d
+=2 vol-10 leg80 qua d rest f#
+r0.5 .07 denn .64 wir
+=3 vol-10 leg80 qua A rest d
+=4 vol-10 leg80 qua f# rest d
+|
+=1' qua leg100 [B{2 leg90 G}2] A
+=2 cro g qua f#
+r0.5 .01 wis .35 - .64 sen
+=3 cro d qua d
+=4 qua leg100 [g{1 leg90 b}1] d~
+|
+il0.5 .15 95
+=1 qua leg65 B leg90 d g
+=2 qua leg65 g leg90 bn c~
+r0.5 .01 nicht, was  wir
+=3 qua leg65 d leg90 g c
+=4 qua leg65 g leg90 fn e
+|
+=1 qua leg100 [f{1 e}1] leg75 d
+=2 qua leg100 [ab{1 leg75 g}1] g
+r0.5 .02 be   -   ten
+=3 cro c qua Bn
+=4 qua leg100 [d{1 leg85 g}1] G
+|
+=1 leg80 qua leg100 e leg65 c rest
+=2 leg80 qua leg100 g leg65 e rest
+r0.5 .13 sollen
+=3 leg80 qua leg100 c leg65 c rest
+=4 leg80 qua leg100 c leg65 c rest
+|
+=1 cro rest qua c
+=2 cro rest qua g
+=3 cro rest qua en
+=4 cro rest qua c
+|
+=1 qua leg90 A leg65 F rest
+=2 qua leg90 f leg65 c rest
+=3 qua leg90 c leg65 A rest
+=4 qua leg90 f leg65 F rest
+|
+il0.3 .15 100
+=1 cro. rest
+=2 cro. rest
+=3 cro. rest
+=4 cro. rest
+/
+8 bars | 2b 21 | 7 8 8 | 21 | 21   | 21 | 5.3 4 4 4 3.5 3.5 | 21 | 5.3 4 3.5 3.5 3.5 3.5 |
+|
+=1 leg80 qua B rest B
+=2 leg80 qua f rest f
+=3 leg80 qua d rest d
+=4 leg80 qua b rest g
+|
+=1' qua leg100 [B{2 leg75 A}2] B
+=2 qua leg100 [g{1 leg75 f}1] en
+=3 qua leg100 [d smq d leg70 c] leg100 [B' leg70 A]
+=4 qua leg100 [en{1 leg75 f}1] g
+|
+=1' qua leg70 B leg95 A G
+=2 qua leg70 en leg95 f g
+=3 qua leg70 G leg95 F En
+=4 qua leg70 c leg95 d en
+|
+=1 cro. c(1
+=2 cro. f(1
+=3 cro. A(1
+=4 cro. f(1
+|
+il0.5 .05 105
+=1 cro. c)1(1
+=2 cro. f)1(1
+=3 cro A)1 qua leg70 A
+=4 cro f)1 qua leg70 eb
+|
+=1 qua leg100 [c)1 B] leg75 A
+=2 smq leg100 [f)1 eb qua leg75 d] d
+bl0.2 .90 ,
+=3 cro leg90 F qua leg70 F
+bl0.2 .90 ,
+=4 qua. leg100 [d{1 smq e}1] leg75 qua f
+|
+bl0.2 .59 ,
+=1 qua leg90 G leg70 F# leg85 G
+bl0.2 .55 ,
+=2 qua leg90 B leg70 B leg85 e
+=3 qua leg80 G d B
+r0.5 .01 wie sich's ge -
+=4 qua leg80 e d e
+|
+bl0.3 .90 ,
+=1 smq leg100 [G F# qua leg75 G] G
+=2 qua leg100 [e leg75 d] c
+=3 cro leg90 c qua leg70 c
+r0.5 .01 büh .33 - .66 ret,
+=4 qua leg100 [c{2 B A]
+/
+8 bars | 2b 8 8 7 | 22 | 11 12 | 11 12 | 24 | 22 | 24 | 4 4 4 5.1 4 4 |
+|
+bl0.2 .62 ,
+=1 qua leg90 F# leg70 D leg90 A
+=2 qua leg90 c leg70 A leg90 d
+=3 qua leg85 A D F#
+bl0.2 .60 ,
+=4 qua leg90 d'}2 leg70 f# leg90 d
+|
+il0.5 .05 110
+=1, qua leg100 [B leg85 c] leg75 d
+=2 cro leg70 D qua leg90 D
+=3 cro leg90 G qua leg100 g(1
+=4 qua leg100 [g{1 leg85 a}1] leg75 b
+|
+=1 cro. e(1
+=2 qua leg100 [c d e]
+=3 qua. [g)1 smq f e c]
+=4 cro leg90 c~ qua b
+|
+=1 cro. e)1
+=2 qua. [f smq e d c]
+=3' qua [c B A]
+bl0.2 .90 ,
+=4 qua leg100 [a leg80 g] leg60 f
+|
+=1 qua d rest leg75 F#
+=2 qua leg75 B B rest
+=3 qua. [f smq e d c]
+=4' qua leg75 B c d
+|
+=1' qua leg100 [G{2 leg75 A}2] leg85 B
+=2 cro. rest
+=3' qua [B A G]
+=4 qua leg100 [en f# g]
+|
+il0.7 .05 115
+=1 cro. c(1
+=2 qua rest cro a(1
+=3' smq [c d c B qua A]
+=4 cro a qua g
+|
+=1 cro. c)1
+=2 smq [a)1 leg50 b] leg100 [a leg50 g] leg100 [f# leg50 a]
+=3 cro. d(1
+bl0.2 .90 ,
+=4 qua [f# leg80 en] leg60 d
+/
+7 bars | 2b 3.6 3.6 5 4 3.6 3.6 | 21.6 | 4 5 4 5 4 4   | 3.6 3.6 5 4 3.6 3.6 | 3.6 3.6 4 5 3.6 3.6 | 3.6 3.6 5 4 4 4 | 10 8 8 |
+|
+=1 qua leg85 B rest d
+=2 qua leg100 [d smq g fn qua g(1]
+=3 qua leg100 [d)1 c# d(1]
+=4 qua leg80 g a b
+|
+=1 qua leg100 [en leg75 f] leg85 g
+=2 qua [g)1 f en(1]
+=3 qua leg100 [d)1 c# d]
+=4 qua leg100 [b a g]
+|
+=1 cro. g(1
+=2 qua leg100 [e)1 a en]
+=3, smq [G f en d c# e]
+bl0.4 .57 ,
+=4 qua leg85 c~# leg60 c~ leg85 a
+|
+il0.8 .05 120
+=1 cro g)1 qua f(1
+=2 qua leg100 [f{1 leg75 g}1] leg85 a
+=3, qua leg100 [A smq d c# qua d(1]
+bl0.1 .90 ,
+=4 cro d~ qua leg60 d
+|
+bl0.2 .54 ,
+=1 qua leg100 [f)1 leg75 en] leg85 d
+=2 cro. b
+=3' qua leg100 [d)1 smq G F qua G]
+=4 qua leg85 G A B
+| 3/8 .37 .37 .37
+=1 qua c# A d(1
+bl0.2 .24 ,
+=2 qua leg60 en leg80 e d(1
+bl0.2 .24 ,
+=3 qua leg60 A leg80 A A
+bl0.2 .90 ,
+=4' qua leg100 [A{2 leg80 c#}2] leg60 d
+| 3/8 .39 .40 .40
+=1 smq [d)1 leg80 en] cro c#
+=2 smq d)1 leg80 g qua leg100 [g leg80 en]
+=3' smq [G leg80 B] qua leg100 [En leg80 A]
+=4 qua leg85 G cro A
+
+3 systems 15 /17-24-17-24-17-24-17 \
+ /17-24-17-24-17-24-17/17-24-17-24-17-24-17 10/
+pagenum
+innerhead Choir 2 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+3 bars | 2b 4/4 64 | 64 | 64 |
+| 4/4 .52 .52 .41 .41 .44 .41 .41 .41
+=1 treble8va 2b 4/4 cha3 tra-12 cro leg80 d rest min rest
+=2 treble    2b 4/4 cha3 tra-12 cro leg80 f rest min rest
+=3 treble    2b 4/4 cha4 tra-12 cro leg80 A rest min rest
+=4 bass8va   2b 4/4 cha4 tra-12 cro leg80 d rest min rest
+| 4/4 .44 .41 .41 .41 .43 .41 .41 .41
+il0.4 .05 125
+=1 smb rest
+=2 smb rest
+=3 smb rest
+=4 smb rest
+|
+=1' cro rest cro. leg95 B cro leg90 Ab qua G
+r0.5 .25 son .46 - .62 dern .80 der
+=2 smb rest
+=3 smb rest
+=4 smb rest
+/
+4 bars | 2b 8 10 8 8 8 8 8 8 | 8 8 8 8 8 10 8 8   | 8 10 8 8 8 8 8 8 | 8 10 8 8 8 8 8 8 |
+|
+=1 qua leg90 Ab cro F qua A A cro G qua F
+r0.5 .04 Geist selbst  vertritt uns .86 aufs
+=2 smb rest
+=3 smb rest
+=4 smb rest
+|
+=1 qua leg100 [G{2 leg90 Ab}2] G G cro c qua leg100 [d{1 leg90 e}1]
+r0.5 .04 beste .36 mit .53 un .64 - .75 aus .90 -
+=2 smb rest
+=3 smb rest
+=4 smb rest
+|
+bl0.4 .80 ,
+=1 cro d qua d d leg100 d cro c qua Bn
+r0.5 .03 sprechlichen .50 Seufzen,
+=2 smb rest
+=3 smb rest
+=4 smb rest
+|
+il0.6 .05 130
+=1 qua c smq leg100 [Bn'{2 A qua leg90 G}2] e   leg100 [A{2 leg90 F#}2] leg100 [G{2 leg90 A}2]
+=2 smb rest
+=3 cro rest cro. leg90 c cro Bb qua A
+=4 smb rest
+/
+3 bars | 2b 8 10 8 8 8 8 8 8 | 64 | 8 10 10 8 8 8 8 10 |
+|
+=1 qua D smq leg100 [d c qua leg90 d] d min c-tr
+=2 smb rest
+=3' qua B cro G qua B B cro A qua G
+=4 smb rest
+|
+=1 cro c rest qua rest c f f
+=2 smb rest
+=3' qua A cro F qua F cro G qua leg100 [A leg90 Bn]
+=4 cro rest cro. leg90 f cro e qua d
+|
+=1 qua f smq leg100 [eb f qua leg90 g] e f rest rest c(1
+=2 smb rest
+=3, qua c smq leg100 [e leg90 d] qua c B leg100 [A f{1] cro leg90 e}1--tr
+=4 qua e cro c qua e e cro d qua c
+
+3 systems 15 /17-24-17-24-17-24-17 \
+ /17-24-17-24-17-24-17/17-24-17-24-17-24-17 10/
+pagenum
+innerhead Choir 2 part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+4 bars | 2b 5 4 5 4 5 5 4 4 4 4 4 4 4 4 4 4 | 8 8 8.6 8 8 8 8 8 | 64 | 64 |
+|
+=1 qua [c)1 B,] leg80 A leg90 f# cro g G
+=2 smb rest
+bl0.2 .27 ,
+=3 cro leg80 d leg90 cro. d cro c qua B
+=4 qua leg100 [d,{1 leg90 en}1] leg80 f# leg90 d cro g g
+|
+il0.4 .05 135
+=1 cro e qua d c min d(1
+=2 smb rest
+=3 qua c cro A qua c c cro B qua A
+=4 cro g qua f# en leg100 [f d, e f]
+|
+=1 qua d)1 cro c qua Bn leg100 [c leg90 d] cro e
+=2 cro rest cro. g cro f qua e
+=3 qua leg100 [B{1 leg90 e}1] d G leg100 [c{1 leg90 Bn,}1] cro c
+=4 cro g qua rest eb cro ab qua rest fn
+|
+=1 qua leg80 d leg90 G d d leg100 [d leg90 c] f f
+=2 qua f cro d qua f f cro e qua d
+=3 qua rest f ab g leg100 [g{1 leg90 G,}1] An Bn'
+=4 cro bn qua rest g min c~(2
+/
+4 bars | 2b 8 10 8 8 8 8 8 8 | 4 4 5 6.6 4 4 4 4 4 4 4 4 4 4 4 4 | 64 | 64 |
+|
+=1 min leg100 e(1 qua e)1 cro d qua c
+=2 qua e smq leg100 [c d qua leg90 e] g c~ cro g qua c~
+=3 qua leg100 c rest rest d e rest rest e
+=4 qua c~)2 smq leg100 [e~ d~ qua c~ b] [an bn] cro c~(1
+|
+=1 qua [d f ab c] leg90 Bn G cro rest
+=2 qua leg100 [ab leg90 f] leg100 [d leg90 a] leg100 [g leg90 bn] c~ g
+=3 qua d rest rest d g rest rest g
+=4 qua c~)1 smq leg100 [d~ c~ qua bn d~] cro g qua [a b]
+|
+il0.4 .05 140
+=1 cro rest cro. c cro Bb qua An
+=2 qua leg100 g rest rest bb an rest rest c~
+=3 qua e rest rest g leg90 c f f e
+=4 qua [c~ bb ab g] min f(1
+|
+=1' qua B cro G qua B B cro Ab qua G
+=2 qua f cro en qua f [g e f g]
+=3 leg100 [db leg90 B] g f leg100 c rest rest B
+=4, qua [f)1 b c~ d~b] [en c dn e]
+/
+4 bars | 2b 64 | 64 | 8 9 8 8 8 8 8 8   | 4 4 6 5 4 4 4 4 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 ||
+|
+=1 cro Ab qua G G leg100 [F{2 leg90 A}2] leg100 [A{2 leg90 F}2]
+=2 qua [c f] rest g [ab f] rest a
+=3 qua [Ab F] G rest rest [d f] rest
+bl0.2 .20 ,
+=4 cro leg90 f eb dn c
+|
+bl0.4 .83 ,
+=1, cro dn qua d d leg100 [g c Bb en]
+bl0.2 .83 ,
+=2 qua d rest rest g [c~ g] leg70 c leg90 g
+=3 rest [f d] rest rest [en g] rest
+=4 cro Bn qua B B cro c qua rest c
+| 4/4 .44 .42 .43 .44 .46 .47 .48 .49
+=1, qua [f c An c(1] [c)1 B] [g ab]
+=2 cro f f f qua d~b f
+=3 rest [f c] rest rest [F B' dn']
+=4 cro f qua rest f cro b qua rest bn
+| 4/4 .53 .52 .54 .56 .74 .74 .75 .76
+il0.6 .05 145
+=1 cro f en-tr min leg95 f
+=2 qua leg100 [f smq g ab] cro leg90 b min leg95 an
+=3 min leg95 c c
+=4 cro c~ leg90 c min leg95 F
+
+7 systems 30 /17-20-17/17-20-17/17-20-17/17-20-17/17-20-17/17-20-17 10/
+pagenum
+title Tenor and Bass part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+7 bars | 2b 28 | 14 16 | 32 | 32 | 32 | 8 10 8 8 | 8 10 8 8 |
+| 2/2 .16 .14 .14 .14 .16 .14 .14 .14
+midi channel 5 patch 74 pan 35
+midi channel 6 patch 74 pan 95
+midi channel 7 patch 74 pan 5
+midi channel 8 patch 74 pan 65
+il1.2    2. Allabreve: Der aber die Herzen forschet
+=1  treble    2b 2/2 cha7 leg90 smb rest
+=2  bass8va   2b 2/2 cha8 leg90 min rest vol-10 f vol+10
+r0.2 .54 Der
+|
+=1 min rest vol-10 B vol+10
+=2 min b cro leg80 b leg90 b
+r0.2 .01 a .26 - .49 ber .75 die
+|
+=1 min f cro leg80 f leg90 f
+=2 cro leg100 a{1 leg80 g}1 leg100 a{1 leg80 f}1
+r0.2 .01 Her .29 -  .50 zen
+|
+=1 cro leg100 e{1 leg80 d}1 leg100 e{1 leg80 c}1
+bl0.2 .67 ,
+=2 cro leg100 g{1 leg80 f}1 leg70 g leg90 a
+r0.2 .01 for  -  schet, .76 der
+|
+il0.6 .05 150
+bl0.2 .67 ,
+=1 cro leg100 d{1 leg80 c}1 leg70 d leg90 e
+=2 cro leg100 b{1 leg80 f}1 min leg90 b(1
+r0.2 .03 weiß, .50 was
+|
+=1 cro leg100 f{1 leg80 c}1 min leg90 f(1
+=2 cro b)1 qua leg100 [a{1 leg90 g}1] cro a f
+r0.2 .25 des .52 Geistes
+|
+=1 cro f)1 qua leg100 [e leg90 d] cro e B
+=2 smb g-tr
+r0.2 .01 Sinn
+/
+6 bars | 2b 32 | 32 | 32 | 8 10 8 8 | 4 4 6 5 4 4 4 4 | 8 10 8 8 |
+|
+=1 smb c-tr
+bl0.2 .40 ,
+=2 min leg70 f leg90 d
+r0.2 .09 sei,
+|
+bl0.2 .40 ,
+=1' min leg70 B cro leg90 B A
+=2 min leg70 g leg90 g(1
+|
+il0.6 .15 155
+bl0.2 .67 ,
+=1 cro G leg80 d leg90 min g
+=2 cro g)1 a b c~
+|
+bl0.4 .52 ,
+=1 min. leg80 f cro leg90 ab
+=2 cro leg80 d~ leg90 e~ d~ c~
+|
+=1 cro leg80 d qua leg100 [c{1 Bn] cro leg90 c}1 e
+bl0.3 .18 ,
+=2 cro leg70 bn leg90 g min c~(1
+|
+=1 cro leg100 A{1 qua [d c] cro leg90 d}1 Bb
+=2 cro c~)1 leg100 qua [bb{1 a] cro leg80 b}1 leg90 g
+/
+6 bars | 2b 4 4 6 5 4 4 4 4 | 8 10 8 8 | 14 16 | 8 10 8 8 | 8 10 8 8 | 32 |
+|
+bl0.3 .23 ,
+bl0.2 .23 ,
+=1 cro leg80 c leg90 B c d
+=2 cro leg100 a{1 leg80 g}1 leg100 a{1 leg80 b}1
+|
+il0.8 .05 160
+=1 smb c-tr
+bl0.2 .69 ,
+=2 min c~ cro leg70 c leg90 c
+| 2/2 .17 .17 .14 .14 .16 .14 .14 .14
+bl0.2 .33 ,
+=1 min leg70 c leg90 F
+=2 min f cro f f
+| 2/2 .16 .14 .14 .14 .16 .14 .14 .14
+bl0.4 .19 ,
+=1' min B cro B B
+=2' cro leg100 d{2 leg80 c}2 leg100 d{2 leg80 B}2
+|
+=1 cro leg100 Ab{2 leg80 G}2 leg100 Ab{2 leg80 F}2
+bl0.2 .69 ,
+=2' cro leg100 c{2 leg80 B}2 leg70 c leg90 d
+|
+bl0.2 .69 ,
+=1 cro leg100 G{2 leg90 F}2 leg70 G leg90 An
+bl0.2 .41 ,
+=2 cro leg100 e{2 leg70 B}2 leg90  min e(1
+/
+7 bars | 2b 8 10 8 8 | 20 16 | 32 | 32 | 8 8 8 10 | 8 10 8 8 | 8 10 8 8 |
+|
+il0.8 .05 165
+bl0.2 .51 ,
+=1' cro leg100 B{2 leg70 F}2 leg90  min B(2
+=2 cro e)1 qua leg100 [d' leg90 c] cro d' B
+|
+bl0.4 .75 ,
+=1' cro B)2 qua leg100 [A leg90 G] cro A F
+bl0.3 .24 ,
+=2 cro leg70 c leg100 c min f(1
+|
+=1 smb G-tr
+=2 min f)1{1 e}1(1
+|
+bl0.3 .38 ,
+=1 min leg70 F leg90 f
+=2 min e)1{1 d}1(1
+|
+bl0.4 .69 ,
+=1' cro leg70 B min leg90 B qua leg100 [A{2 leg90 G}2]
+=2' min leg90 d)1 c
+|
+il0.6 .05 170
+=1 min F F
+bl0.2 .66 ,
+=2' min d cro leg70 B leg90 B
+|
+=1 cro leg70 F leg90 A min c(1
+=2 min f cro rest f
+/
+6 bars | 2b 8 10 8 8 | 32 | 8 10 8 8 | 32 | 4 4 6 5 4 4 4 4 | 32 |
+|
+bl0.4 .25 ,
+=1 cro c)1 qua leg100 [Bn' leg90 A] min G
+=2 cro leg100 c{2 leg70 d'}2 leg90 e c
+|
+=1 min G cro rest d(1
+=2 cro leg100 g{1 leg70 a}1 leg100 bb{1 leg70 g}1
+|
+bl0.2 .19 ,
+=1 cro d)1 qua leg100 [c leg90 B] cro A F
+bl0.2 .71 ,
+=2, cro leg100 d{1 leg70 en}1 leg90 f d
+|
+il0.7 .05 175
+bl0.2 .24 ,
+=1 cro leg70 B' leg90 G leg100 c{1 B
+=2 cro leg100 g{1 leg70 b}1 leg90 a g
+|
+=1 cro leg90 A}1 qua leg100 [G leg90 F#] min leg100 G(2
+bl0.2 .71 ,
+=2 cro leg100 f#{1 leg70 d}1 leg70 g leg90 e
+|
+=1 min G)2 leg90 F#-tr
+=2 cro c A min d
+/
+6 bars | 2b 32 | 32 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 |
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+bl0.2 .31 ,
+=1 cro leg60 G leg87 G G G
+r0.5 .28 denn .56 er .75 ver  -
+=2 min G rest
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1' cro leg100 A{2 leg90 G}2 leg100 A{2 leg90 B}2
+r0.5 .04 tritt .51 die
+=2 smb rest
+|
+il0.5 .05 180
+=1 cro leg100 c qua [B, c] cro A qua [G A]
+r0.5 .01 Hei .70 -
+=2 smb rest
+|
+=1' cro B qua [A B] cro G qua [F G]
+=2 smb rest
+|
+bl0.3 .19 ,
+=1' cro leg100 A qua [G A] min B(2
+=2 min rest leg90 b
+|
+=1' min B)2 A(2
+=2 min e f
+/
+6 bars | 2b 8 10 8 10 | 4 4 5 6 4 4 5 5 | 8 10 8 10   | 8 10 8 10 | 8 10 8 8 | 9 8 8 10 |
+|
+=1' cro A)2 D G qua [A B]
+r0.5 .63 -
+bl0.3 .29 ,
+=2  cro leg70 B leg87 B B B
+|
+il0.6 .05 185
+bl0.2 .68 ,
+=1 cro leg90 E e leg70 d leg90 B
+r0.5 .26 li - gen,
+=2' cro leg100 c{2 leg90 B}2 leg100 c{2 leg90 d}2
+|
+=1 min G c
+=2 cro leg100 e qua [d, e] cro c qua [B c]
+|
+bl0.3 .40 ,
+bl0.2 .41 ,
+=1 min A G(2
+=2' cro d qua [c d] cro B qua [A B]
+|
+=1 cro G)2 min c cro A
+=2' cro c qua [B c] cro A leg90 d
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+bl0.3 .21 ,
+=1 cro G F leg100 Eb qua [D E]
+=2 cro G rest min rest
+
+7 systems 15 /17-20-17/17-20-17/17-20-17/17-20-17/17-20-17/17-20-17 10/
+pagenum
+innerhead Tenor and Bass part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 8 10 8 8 | 8 10 8 10 | 8 10 8 10   | 6 5 5 5 4 4 5 5 | 8 10 8 8 | 8 10 8 10 |
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+il0.5 .08 190
+=1 cro F qua [E F] cro leg90 D G
+=2 smb rest
+|
+=1 min leg70 C leg90 c
+=2 cro rest leg90 c f en
+|
+=1' min F B
+=2 cro d f B c
+|
+bl0.2 .19 ,
+=1 cro leg70 A leg87 F F F
+bl0.2 .39 ,
+=2 min leg70 F leg90 f
+|
+bl0.3 .68 ,
+=1 cro leg100 G{2 leg90 F}2 leg100 G{2 leg90 A}2
+=2 min B e
+|
+il0.7 .05 195
+=1' cro leg100 B qua [Ab B] cro leg100 G qua [F G]
+bl0.2 .21 ,
+=2' cro leg70 d leg87 B B B
+/
+6 bars | 2b 8 10 8 10 | 4 4 6 5 4 4 6 5 | 8 10 8 8 | 15 16 | 32 | 32 |
+|
+=1' cro leg100 Ab qua [G A] cro leg100 F qua [E F]
+=2' cro leg100 c{2 leg90 B}2 leg100 c{2 leg90 d}2
+|
+bl0.3 .18 ,
+=1 cro leg90 G F E rest
+=2 cro leg100 e qua [g f] cro leg100 g qua [b ab]
+|
+=1 min rest B
+=2 min leg90 b b
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+=1 min leg70 e cro leg87 e e
+=2 min e rest
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+il0.6 .05 200
+=1, cro leg100 d{1 leg90 c}1 leg100 d{1 leg90 B}1
+=2 smb rest
+|
+bl0.2 .68 ,
+=1, cro leg100 c{1 leg90 B}1 leg75 c leg90 d
+=2 min rest leg90 f
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 32 | 8 8 8 10 | 8 10 8 10 |
+|
+=1 cro leg100 e{1 leg75 B}1 min e(1
+=2 min g c~
+|
+=1 cro leg90 e)1 qua leg100 [d leg90 c] cro d B
+=2 cro leg90 f f min b(1
+|
+bl0.2 .66 ,
+=1 min. c cro d
+=2 cro leg100 b)1 qua [a g] cro a qua [b a]
+|
+il0.5 .05 205
+=1 cro en f leg100 f{1 leg90 e}1
+=2 min. g-tr cro leg90 g
+|
+=1 min f cro rest d
+=2 cro leg70 f leg90 eb leg100 d' qua [c d']
+|
+=1 min G c
+=2 cro e qua [d e] cro c qua [B c]
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 10 | 4 4 6 5 4 4 4 4 | 8 10 8 10 | 32 | 32 |
+|
+bl0.2 .24 ,
+=1 cro leg70 F leg90 f d B
+bl0.2 .68 ,
+=2 cro leg85 d leg90 d leg70 g leg90 f
+|
+=1 cro leg100 G{1 leg90 en}1 leg100 f{1 leg90 ab}1 
+=2 cro en c min leg100 f(1
+|
+il0.5 .15 210
+bl0.4 .68 ,
+=1 cro leg100 d qua [c Bn] min c(1
+=2 cro f)1 qua [eb d] cro leg90 e f
+|
+=1 min leg90 c)1 Bn
+=2 min g G
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+bl0.3 .19 ,
+=1 min c rest
+bl0.4 .35 ,
+=2 min leg70 c leg90 c~
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 smb rest
+=2 min f b
+/
+6 bars | 2b 8 10 8 10 | 32 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 | 8 10 8 10 |
+|
+=1 min rest f
+bl0.2 .24 ,
+=2 cro leg70 a leg87 f f f
+|
+il0.6 .15 215
+=1 min B e
+=2 cro leg100 g{1 leg90 f}1 leg100 g{1 leg90 a}1
+|
+bl0.2 .19 ,
+=1 cro leg70 d leg87 B B leg90 B
+=2 cro leg100 b qua [ab b] cro g qua [f g]
+|
+=1 cro leg100 c{1 leg90 B}1 leg100 c{1 leg90 d}1
+=2 cro leg100 ab qua [g a] cro f qua [e f]
+|
+bl0.4 .36 ,
+=1 cro leg100 e qua [d e] min c(1
+=2 cro leg100 g qua [f g] cro e qua [d e]
+|
+=1 min. c)1 cro F
+=2 cro leg100 f qua [e f] cro leg87 d leg90 d 
+/
+6 bars | 2b 10 8 8 8 | 8 10 8 10 | 8 10 8 10   | 8 10 8 10 | 8 10 8 10 | 4 4 6 5 5 5 4 4 |
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+il0.7 .36 220
+bl0.3 .28 ,
+=1 cro leg70 G leg90 en leg87 f leg90 f
+=2 min c rest
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 cro leg87 B leg90 B leg87 c leg90 c
+=2 smb rest
+|
+bl0.2 .19 ,
+=1 cro leg70 F leg87 F leg100 F qua [E F]
+=2 smb rest
+|
+=1 cro leg100 G qua [F G] cro A qua [G A]
+=2 min rest leg90 f
+|
+bl0.4 .64 ,
+=1 cro leg90 B c leg70 d leg90 g
+=2 min b cro b b
+|
+il0.5 .06 225
+=1 min c f
+=2 cro leg100 a{1 leg90 g}1 leg100 a{1 leg90 f}1
+/
+6 bars | 2b 32 | 8 10 8 10 | 4 4 5 5 4 4 6 5   | 8 10 8 10 | 4 4 6 5 4 4 5 5 | 8 10 8 10 |
+|
+bl0.2 .28 ,
+=1 cro leg87 B leg90 B min e(1
+=2 cro leg100 g{1 leg90 f}1 leg70 g leg90 a
+|
+=1 cro leg100 e)1 qua [d c] cro d qua [e d]
+=2 cro leg100 b{1 leg70 f}1 min leg90 b(1
+|
+=1 min. c qua [f en]
+=2 cro leg90 b)1 qua leg100 [a leg90 g] cro a f
+|
+=1 cro leg100 d qua [c d] cro B' qua [A B']
+=2 smb g-tr
+| 2/2 .17 .16 .14 .14 .16 .14 .14 .14
+il0.6 .33 230
+bl0.4 .19 ,
+=1 cro leg100 c qua [d eb] cro f qua [e f]
+bl0.3 .36 ,
+=2 min leg70 f leg90 d~
+| 2/2 .17 .14 .14 .14 .16 .14 .14 .14
+=1 cro leg100 f qua [e f] cro g qua [f g]
+=2 min g c~
+
+7 systems 15 /17-24-17/17-20-17 10/17-18-17/17-18-17/17-18-17/17-23-17 10/
+pagenum
+innerhead Tenor and Bass part, Der Geist hilft unser Schwacheit auf
+leftfoot Arranged for SATB-SATB Recorders by Peter Billam
+/
+6 bars | 2b 8 10 8 10 | 8 10 8 8 | 32   | 4 4 6 5 5 5 6 5 | 8 10 8 10 | 4 4 6 5 4 4 5 5 |
+|
+=1, cro leg100 c qua [B c] cro d qua [c d]
+=2 cro leg87 f leg90 f min b(1
+|
+=1 cro leg100 e leg90 d leg70 en leg90 f#
+=2 min b)1 a-tr
+|
+=1 cro leg100 g{1 leg90 fn}1 leg100 en{1 leg90 d}1
+bl0.2 .19 ,
+=2 cro leg70 g leg90 d g f
+|
+il0.8 .04 235
+=1 min. c cro d
+=2 cro en c min leg100 f(1
+|
+=1 cro leg100 Bn' G min c(1
+=2 cro f)1 qua [eb d] cro e qua [f e]
+|
+=1 min c)1 Bb(1
+=2 cro d qua [en f#] cro g qua [f g]
+/
+7 bars | 2b 8 13.5 8 8 | 32 | 32 | 32 | 8 10 8 10 | 10 8 8 8 | 20 ||
+| 2/2 .17 .15 .15 .15 .17 .15 .15 .15
+=1 min leg90 B)1 A
+=2 cro c qua [d eb] cro leg87 fn leg90 f
+|
+=1 min B cro rest d
+bl0.2 .21 ,
+=2' cro B c d B
+| 2/2 .18 .15 .15 .15 .18 .15 .15 .15
+il0.5 .05 240
+=1 cro leg70 B leg90 B c d
+=2 cro e f e d
+|
+bl0.2 .69 ,
+=1 min G cro leg70 F leg90 A
+bl0.2 .21 ,
+=2 cro leg87 c leg90 c f e
+| 2/2 .18 .16 .16 .16 .18 .16 .16 .16
+=1 cro leg70 B leg90 d f qua leg100 [B,{1 c}1]
+=2 cro leg100 d'{2 qua [B c] cro leg90 d'}2  e
+| 2/2 .19 .16 .16 .16 .19 .16 .16 .16
+=1 qua leg100 [d{1 e] min f cro leg90 e}1
+=2' smb f
+| 2/2 .95 .95
+=1 smb d-fermata
+=2 smb B-fermata
+/
+5 bars | 2b 4/4 8 | 8 10 10 10 | 14 16 | 14 16 | 32 |
+| 1/4 .8
+midi channel 5 patch 74 pan 35
+midi channel 6 patch 74 pan 95
+midi channel 7 patch 74 pan 5
+midi channel 8 patch 74 pan 65
+il1.2    3. Choral: Du heilige Brunst
+=1  treble    2b 4/4 cha7 tra-12 leg95 cro vol-15 d vol+10
+=2  bass8va   2b 4/4 cha8 tra-12 leg95 cro vol-15 b vol+10
+r0.3 .50 Du
+| 4/4 .87 .80 .85 .80
+=1 qua leg100 [e{1 d] cro c}1 leg90 B B
+=2 cro e f leg100 g{1 qua [d leg90 e}1]
+r0.3 .01 hei .29 - .50 li  - .74 ge
+| 4/4 1.0 0.9 .85 .80
+=1 min f-fermata cro f B
+=2 min f-fermata qua leg100 [b leg90 a] cro g
+r0.3 .01 Brunst, .50 sü  - .74 ßer
+|
+=1 min c-fermata cro rest vol-10 B vol+10
+=2 min f-fermata cro rest vol-10 d vol+10
+r0.3 .01 Trost, .75 nun
+| 4/4 .87 .80 .85 .80
+=1 qua leg100 [e leg90 d] leg100 [c leg90 B] leg100 [A leg90 B'] cro E
+=2 cro e f qua leg100 [e leg90 d] cro c
+r0.3 .01 hilf .25 uns, .52 fröhlich
+/
+5 bars | 2b 16 14 | 7 8 7 8 | 5 5 6 5 5 5 5 5 \
+ | 4 4 4 4 5 5 6 5 | 5 5 5 5 5 5 6 5 |
+| 4/4 .87 .80 1.0 .80
+=1 cro F qua leg100 [f leg90 e] cro leg87 d-fermata leg90 vol-10 d vol+10
+=2 qua leg100 [d leg90 e] cro f leg87 B-fermata leg90 vol-10 b vol+10
+r0.3 .07 und .33 getrost, .77 in
+| 4/4 .87 .80 .85 .80
+il0.5 .05 250
+=1 cro c qua leg100 [B leg90 c] cro d qua leg100 [c leg90 B]
+=2 cro a qua leg100 [g leg90 a] cro b qua leg100 [a leg90 g]
+r0.3 .08 deinem .49 Dienst  be  -
+| 4/4 .87 .80 .85 .80
+=1 cro c f leg100 f{1 qua [c B}1]
+=2 qua leg100 [a leg90 g] leg100 [f leg90 en] leg100 [d' leg90 B] cro c
+r0.3 .01 stän - dig .50 blei .78 -
+| 4/4 1.0 0.9 .85 .80
+=1 min A-fermata cro rest vol-10 A vol+10
+=2 min f-fermata cro rest qua leg100 vol-10 [f leg90 eb] vol+10
+r0.3 .01 ben, .72 die
+| 4/4 .87 .84 .85 .80
+=1 cro B e qua leg100 [f leg90 e] leg100 [d leg90 c]
+=2 qua leg100 [d leg90 e] leg100 [d' leg90 c] cro B qua leg100 [b leg90 ab]
+r0.3 .02 Trübsal .48 uns .75 nicht
+/
+5 bars | 2b 40 | 7 7 8 10 | 5 5 6 5 5 5 6 5 | 10 8 8 10 | 40 |
+| 4/4 .87 .80 .85 .80
+=1' qua leg100 [Bn leg90 A] cro leg100 G F# leg90 G
+=2 cro g leg100 c{1 d e}1
+r0.3 .07 ab  -  trei .67 -
+| 4/4 1.0 0.9 .85 .80
+il0.7 .18 255
+=1 min A-fermata cro rest qua leg100 vol-10 [Bb leg90 c] vol+10
+=2 min d-fermata cro rest vol-10 g vol+10
+r0.3 .01 ben, .75 O
+| 4/4 .85 .81 .85 .81
+=1 cro leg80 d leg90 en f qua leg100 [f leg90 eb]
+=2 leg90 cro d~ qua leg100 [c~ leg90 bb] leg100 [a leg90 g] cro f
+r0.3 .01 Herr, .25 durch  dein .75 Kraft,
+| 4/4 .87 .80 .95 .80
+=1 qua leg100 [d leg90 c] cro B c-fermata d
+=2 qua leg100 [b leg90 a] cro g f-fermata b
+r0.3 .01 uns .27 bereit .74 und
+| 4/4 .87 .80 .85 .80
+=1 cro e f f qua leg100 [B leg90 c]
+=2 cro e qua leg100 [d leg90 e] cro f qua leg100 [g leg90 a]
+r0.3 .01 stärk   des .52 Fleisches
+/
+5 bars | 2b 10 10 9 10 | 40 | 6 5 5 5 5 5 6 5 | 4 3 4 3 4 4 6 5 | 5 5 5 5 6 5 5 7 |
+| 4/4 .87 .80 1.0 .80
+=1 qua leg100 [d leg90 B] leg100 [f leg90 e] cro d-fermata vol-10 e vol+10
+=2 qua leg100 [b leg90 e] cro f B-fermata qua leg100 vol-10 [e leg90 d] vol+10
+r0.3 .08 Blödigkeit, .75 daß
+| 4/4 .87 .80 .85 .80
+il0.5 .05 260
+=1 qua leg100 [e leg90 d] cro c qua leg100 [d leg90 c] leg100 [B{1 leg90 c]
+=2 cro c c~ g qua leg100 [d{1 leg90 e]
+r0.3 .01 wir .25 hir .50 rit .82 -
+| 4/4 .87 .81 .85 .80
+=1 qua leg100 [d leg90 en}1] cro f leg100 f{1 qua [c leg90 B}1]
+=2 qua leg100 [f leg90 g}1] leg100 [a leg90 f] leg100 [d~ leg90 b] cro c~
+r0.3 .25 ter - .50 lich .75 rin   -
+| 4/4 .90 .90 .85 .80
+=1 min A-fermata cro rest vol-10 A vol+10
+=2 min f-fermata cro rest vol-10 d vol+10
+r0.3 .01 gen, .64 durch
+| 4/4 .85 .80 .85 .80
+=1 qua leg100 [B leg90 e] leg100 [d leg90 c] cro. leg100 B{1 qua c}1
+=2 cro g a qua leg100 [b leg90 c~] qua leg100 [d~ leg90 c~]
+r0.3 .05 Tod .28 und .53 Le .82 -
+/
+5 bars | 2b 40 | 10 8 9 8   | 10 8 10 10  | 4 4 5 7 5 5 5 5 | 5 5 7.4 5 5 5 ||
+|
+=1 cro. d qua c qua leg100 [B' leg90 A] cro leg100 G{1
+=2 qua leg100 [bn leg90 g] cro c~ qua leg100 [g{1 leg90 f] leg100 [e leg90 d]
+r0.3   - .06 ben .29 zu .53 dir .77 drin
+| 4/4 .85 .90 1.0 1.0
+il0.5 .05 265
+=1 min c}1 cro leg80 B-fermata leg95 A
+=2 qua leg100 [e leg90 c,] cro f}1 leg80 B-fermata leg95 f
+r0.3 .05 - .47 gen, .75 Hal  -
+| 4/4 1.0 .9 1.0 1.0
+=1' min. B qua leg100 [B leg95 A]
+=2 qua leg100 [B{2 c] cro leg95 d'}2 min e
+r0.3 .01 le .27 - .50 lu .77 -
+| 4/4 1.4 1.0 1.0 1.0
+=1 cro leg80 B-fermata min leg95 c cro B(1
+=2 cro leg80 b-fermata leg95 a qua leg100 [b{1 a g f]
+r0.3 .01 ja, .25 Hal  - .60 le .85 -
+| 3/4 .60 .60 .65 .70 1.0 1.0
+=1 cro B)1 smq leg100 [A G qua leg95 A] cro F-fermata
+=2 qua leg100 [e c,}1] cro f B-fermata
+r0.3 .04 lu .37 - .65 ja.

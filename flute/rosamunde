@@ -1,0 +1,310 @@
+6 systems / 19 25 19 /
+title 8. Rosamunde
+innerhead Franz Schubert
+midi channel1 patch0
+/
+6 bars | 3# 2/4 8 | 8 |
+| 2/4 .35 .33 .35 .33
+=1 treble 3# 2/4 cha1 vol-15 min rest
+=2, bass   3# 2/4 cha1 vol-15 qua [A-. <e-. a-.>] [A-. <e-. a-.>]
+|
+=1  min rest
+=2, qua [A-. <e-. a-.>] [A-. <e-. a-.>]
+|
+=1  qua [C-. smq C(2 D)2] qua [C-. smq C(2 D)2]
+=2, qua [A-. <e-. a-.>] [A-. <e-. a-.>]
+|
+=1' qua [C-. <E-. A-.>] cro <E B>
+=2, qua [A-. <e-. a-.>] [A <e-. g-.>]
+|
+=1' qua [C-. <E-. A-.>] cro <E B>
+=2, qua [A-. <e-. a-.>] [A <e-. g-.>]
+|
+=1' volu+15 qua [A-. <E-. A-.>] cro <E G>
+=2' vol+15 qua [<A_-. A-.> <C-. c-.>] cro <E e>
+/
+7 bars | 3# 8 | 8 |
+midi pause .05
+|
+=1  vol-10 qua [<D-. F-.> <D-. F-.> <D-. F-.> <D-. F-.>]
+=2, vol-10 qua [B-. <f-. b-.>] [B-. <f-. b-.>]
+|
+=1  qua [<E-. Gn-.> <E-. G-.>] cro <D F>
+=2, qua [B-. <gn-. b-.>] [B <f b>]
+|
+=1  qua [<E-. Gn-.> <E-. G-.>] cro <D F>
+=2, qua [B-. <gn-. b-.>] [B <f b>]
+|
+=1, vol+5 qua [<A#-. e-.> <A#-. e-.>] cro <B d-emph>
+=2, vol+5 qua [B-. <f-. c~-.>] cro <B f b>
+|
+=1, vol-5 qua <B d-.> cro <B d-emph> qua <A d-.>
+=2' vol-5 qua [e~-. e~-. e~-. e~-.]
+=2, qua e rest e rest
+|
+=1, qua [<G d-emph> smq c(1 B)1] cro <A c>
+=2' qua [e~-. e~-. e~-. e~-.]
+=2, qua e rest a rest
+|
+=1, qua <B d-.> cro <B d-emph> qua <A d-.>
+=2' qua [e~-. e~-. e~-. e~-.]
+=2, qua e rest e rest
+/
+7 bars | 3# 8 | 8 |
+|
+=1, qua [<G d-emph> smq c(1 B)1] cro <A c>
+=2' qua [e~-. e~-. e~-. e~-.]
+=2, qua e rest a rest
+|
+=1, vol-5 cro <G d> <A c>
+=2' vol-5 qua [e~-. e~-. f~-. f~-.]
+=2, qua e rest f rest
+|
+=1, vol+5 cro <c e> <d f>
+=2' vol+5 qua [gn~-. g~-. d~-. d~-.]
+=2, qua gn rest f rest
+|
+=1, vol+5 cro <c e> <d f>
+=2' vol+5 qua [gn~-. g~-. d~-. d~-.]
+=2, qua gn rest f rest
+|
+=1 vol+10 qua [<d-. g#-.> <d-. g-.>] cro <c a>
+=2 vol+10 qua [e~-. e~-.] cro e~
+=2 qua e rest cro a
+|
+midi pause .10
+=1 treble vol80 qua [A_-. smq C-. B_-.] qua [A_-. C-.]
+=2 bass   vol80 qua [A-. smq c-. B-.] qua [A-. c-.]
+|
+=1 qua [B_-. E-. A_-. C-.]
+=2' qua [B-. e-. A-. c-.]
+/
+7 bars | 3# 8 | 8 |
+|
+=1 qua [B_-. E-. A_-. C-.]
+=2' qua [B-. e-. A-. c-.]
+|
+=1 vol+10 qua [<A_ D F> vol+10 <G_# B_ E>] cro vol+10 <G_ B_ E>
+=2 vol+10 qua [D vol+10 E] cro vol+10 E
+|
+midi pause .05
+=1 min rest
+=2 vol80 qua [a-. smq c~-. b-.] qua [a-. c~-.]
+|
+=2' qua [b-. e~-. a-. c~-.]
+|
+=1, cro. rest qua vol80 <A d-.>
+=2' qua [b-. e~-. a-. d~-.]
+|
+=1' qua [d-.(1 vol-10 B)1] vol+10 [B(2 vol-10 c)2]
+=1, qua [A(2 vol-10 G)2>] vol+10 cro G
+=2, qua [d~(1 vol-10 <g f~)1>] vol+10 [<g f~(1> vol-10 <c~ e~)1>]
+|
+=1' qua vol+10 [c(1 vol-10 <B d)1>] vol+10 [<B d(1> vol-10 <c e)1>]
+=1, cro G G
+=2, qua vol+10 [<c~ e~(1> vol-10 <g f~)1>] vol+10 [<g f~(1> vol-10 <c~ e~)1>]
+/
+7 bars | 3# 8 | 8 |
+|
+=1' qua vol+10 [<c e>(1 vol-10 <B d)1>] vol+10 [<B d(1> vol-10 c)1>]
+=1, cro G G
+=2, qua vol+10 [<c~ e~(1> vol-10 <g f~)1>] vol+10 [<g f~(1> vol-10 <c~ e~)1>]
+|
+=1' vol70 leg40 qua [E E E <E G>]
+=2, vol70 leg40 qua [<c g c~> <c g c~> <c g c~> <c g c~>]
+|
+=1' qua [<F# A> <F A> <F A> <F A>]
+=2, qua [<c f# a> <c f a> <c f a> <c f a>]
+|
+=1' qua [Fn F F F]
+=2, qua [<c g b> <c g b> <c g b> <c g b>]
+|
+=1' qua [<E G> <E G> <E G> <E G>]
+=2, qua [<c g c~> <c g c~> <c g c~> <c g c~>]
+|
+=1' vol65 qua [E E E vol90 e]
+=2, vol65 qua [<c g> <c g> <c g> <c g>]
+|
+=1' vol65 qua [E vol95 f vol65 E vol90 e]
+=2, vol65 qua [<c g> vol80 <c g> vol65 <c g> vol80 <c g>]
+/
+7 bars | 3# 8 | 8 :|| 8 | 8 |
+|
+=1, vol70 qua [<G eb> <G d> <G c> <G B>]
+=2' vol70 qua [<A g> <B g> <c g> <G g>]
+|
+=1' vol90 leg100 cro <G B(1> leg60 qua <G c)1> rest
+=2' vol90 leg100 cro <G(2 f> leg60 qua <c)2 e> rest
+|
+=1 vol120 leg45 qua [e smq e f] qua [e smq e f]
+=2' vol120 leg45 qua [e e e e]
+=2, qua [E smq E F] qua [E smq E F]
+|
+=1 leg100 cro e vol70 qua [E smq F# G#]
+=2 leg100 cro <E e'> vol70 qua. [e smq d]
+|
+=1' qua [<E A> leg45 <E A c> <D Fn B> <C F# A>]
+=2' qua [c leg45 A d d#]
+|
+=1  leg100 cro vol85 <B_ E G#> leg45 vol75 E
+=2' leg100 cro vol85 e leg45 vol75 <E e>
+|
+=1 vol120 leg45 qua [e smq e f] qua [e smq e f]
+=2' vol120 leg45 qua [e e e e]
+=2, qua [E smq E F] qua [E smq E F]
+/
+7 bars | 3# 8 | 8 | 8 || 8 | 8 |
+|
+=1 leg100 cro e vol70 qua [E smq F# G#]
+=2 leg100 cro <E e'> vol70 qua. [e smq d]
+| 2/4 .37 .36 .39 .38
+=1' qua [<E A> leg65 <E A e> <F# A d> <E A c#>]
+=2' qua [c# leg65 A d d#]
+| 2/4 .38 .36 .38 .36
+=1  leg100 cro <B_ G# B> rest
+=2' leg100 cro e rest
+|
+midi pause .04
+=1' 3# leg180 vol65 cro <C A> leg100 <D G>
+=2' 3# leg100 vol75 qua rest cro e qua e(1
+=2, 3# min A(2
+|
+=1' leg180 cro <C A> leg100 <D G>
+=2' qua e)1 cro e qua e-.
+=2, min A)2
+|
+=1' leg180 cro <C A> leg100 <D G>
+=2' qua rest cro e qua e(1
+=2, min A(2
+|
+=1' leg45 qua [<C A> <C A>] leg100 cro <D G>
+=2' qua e)1 cro e qua e-.
+=2, min A)2
+/
+7 bars | 3# 2/4 8 | 8 |
+|
+=1' leg180 vol65 cro <c a> leg100 <d g>
+=2' leg100 vol75 qua rest cro e qua e(1
+=2, min A(2
+|
+=1' leg180 cro <c a> leg100 <d g>
+=2' qua e)1 cro e qua e-.
+=2, min A)2
+|
+=1' leg180 cro <c a> leg100 <d g>
+=2' qua rest cro e qua e(1
+=2, min A(2
+|
+=1' leg45 qua [<c a> <c a>] leg100 cro <d g>
+=2' qua e)1 cro e qua e-.
+=2, min A)2
+|
+=1' leg180 cro <C A> leg100 <D G>
+=2' qua rest cro e qua e(1
+=2, min A(2
+|
+=1' leg45 qua [<C A> <C A>] leg100 cro <D G>
+=2' qua e)1 cro e qua e-.
+=2, min A)2
+/
+7 bars | 3# 2/4 8 | 8 |
+|
+=1' leg180 cro <C A> leg100 vol-4 <D G>
+=2' qua rest cro e vol-5 qua e-.
+=2, min A
+|
+=1' leg180 cro <C A> leg100 vol-5 <D G>
+=2' qua e)1 cro e vol-5 qua e-.
+=2, min A
+|
+=1' leg180 cro <C A> leg100 vol-5 <D G>
+=2' qua rest cro e vol-5 qua e-.
+=2, min A
+| 2/4 .40 .39 .43 .42
+=1' leg180 cro <C A> leg100 vol-5 <D G>
+=2' qua e)1 cro e vol-5 qua e-.
+=2, min A
+| 2/4 .35 .33 .35 .33
+midi pause .11
+=1  vol85 qua [C-. smq C(2 D)2] qua [C-. smq C(2 D)2]
+=2, vol85 qua [A-. <e-. a-.>] [A-. <e-. a-.>]
+|
+=1' qua [C-. <E-. A-.>] cro <E B>
+=2, qua [A-. <e-. a-.>] [A <e-. g-.>]
+|
+=1' qua [C-. <E-. A-.>] cro <E B>
+=2, qua [A-. <e-. a-.>] [A <e-. g-.>]
+/
+7 bars | 3# 2/4 8 | 8 | 8 | 8 | 8 || 8 | 8 |
+|
+=1' volu+15 qua [A-. <E-. A-.>] cro <E G>
+=2' vol+15 qua [<A_-. A-.> <C-. c-.>] cro <E e>
+|
+midi pause .05
+=1  vol-10 qua [<D-. F-.> <D-. F-.> <D-. F-.> <D-. F-.>]
+=2, vol-10 qua [B-. <f-. b-.>] [B-. <f-. b-.>]
+|
+=1  qua [<E-. Gn-.> <E-. G-.>] cro <D F>
+=2, qua [B-. <gn-. b-.>] [B <f b>]
+|
+=1  qua [<E-. Gn-.> <E-. G-.>] cro <D F>
+=2, qua [B-. <gn-. b-.>] [B <f b>]
+|
+=1, vol+5 qua [<A#-. e-.> <A#-. e-.>] cro <B d-emph>
+=2, vol+5 qua [B-. <f-. c~-.>] cro <B f b>
+| 2/4 .35 .35 .37 .39
+=1, vol120 leg50 qua [E <e g b>] leg100 cro <c e a>
+=2, vol120 leg50 qua [<E e> <e d~>] leg100 cro <A e c~>
+|
+=1, leg50 qua [C <c e# g>] leg100 cro <A c f>
+=2, leg50 qua [<C c> <c b>] leg100 cro <F c a>
+/
+7 bars | 3# 8 | 8 |
+|
+=1, leg50 qua [c <c g b>] leg100 cro <d f a>
+=2, leg50 qua [A <a e>] leg100 cro <d a d~>
+|
+=1, leg50 qua [c <c g b>] leg100 qua. [<d f a> vol75 smq f-.]
+=2, leg50 qua [A <a e>] leg100 cro <d a d~>
+| 2/4 .35 .33 .35 .33
+=1 vol80 leg45 dsq-s f' qua [e-emph d dsq-s d' qua c-emph B#]
+=2, vol80 leg45 qua [e <g b e~> e <g b e~>]
+|
+=1 leg100 cro c(1 qua A,)1 smq rest <A f>
+=2, qua [a <c~ e~> a <c~ e~>]
+|
+=1 vol80 leg45 dsq-s <A' f'> qua [<G, e-emph> <F, d> \
+ dsq-s <F' d'> qua <E, c-emph> <D#, B#,>]
+=2, vol80 leg45 qua [e <g b e~> e <g d~>]
+|
+=1 leg100 cro <E c(1> qua A,-.)1 c-.
+=2, qua [A <e c~> A <e c~>]
+|
+=1, qua3 [d(1 B-I3)1 d-.] [d(1 B-I3)1 d-.]
+=2, qua [e <g b e~> e <g b e~>]
+/
+7 bars | 3# 8 | 8 | 8 | 8 | 8 | 8 | 8 ||
+|
+=1, qua3 [c(1 A-I3)1 c-.] [c(1 A-I3)1 c-.]
+=2, qua [a <c~ e~> a <c~ e~>]
+|
+=1, vol120 leg85 qua. [<B d> smq <B d>] \
+ qua3 [<B d(1> leg60 <d g-I3)1> leg45 <d g b>]
+=2, vol120 leg85 qua. [<e b e~> smq <e b e~>] qua. [<e b e~> smq <e b e~>]
+|
+=1 cro <c e a> rest
+=2, qua [a <c~ e~> vol65 leg40 A <e c~>]
+|
+=1, vol65 qua3 [d(1 B-I3)1 d-.] [d(1 B-I3)1 d-.]
+=2, qua [e <g b e~> e <g b e~>]
+|
+=1, vol75 qua3 [c(1 A-I3)1 c-.] [c(1 A-I3)1 c-.]
+=2, vol75 qua [a <c~ e~> a <c~ e~>]
+| 2/4 .36 .35 .38 .37
+=1, vol120 leg85 qua. [<B d> smq <B d>] \
+ qua3 [<B d(1> leg60 <d g-I3)1> leg45 <d g b>]
+=2, vol120 leg85 qua. [<e b e~> smq <e b e~>] qua. [<e b e~> smq <e b e~>]
+| 2/4 1.6
+=1 cro <c e a> rest
+=2, qua [a <c~ e~> A] rest
+

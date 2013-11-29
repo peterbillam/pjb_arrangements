@@ -1,0 +1,306 @@
+6 systems / 19 25 19 /
+title 17. Scherzando
+innerhead Telemann
+midi channel1 patch0
+/
+6 bars | 1b 2/4 8 | 8 |
+| 2/4 1.4
+=1 treble 1b 2/4 channel1 cro. blank qua c-.
+=2 bass   1b 2/4 channel9 vol-20 qua-s F# F# F# vol+20 channel1 qua f-.
+|
+=1, qua [B(1 A)1 c(1 B)1]
+=2 min f
+|
+=1 smq [A-emph(2 G)2 A-. B'-.] qua [A,-. c-.]
+=2 min F
+|
+=1, qua [B(1 A)1 c(1 B)1]
+=2 min f
+|
+=1 qua [B'(2 A)2] vol-10 rest A-.
+=2 cro F vol-10 qua [<a c~-.> <f c~-.>]
+|
+=1' smq [G(2 A)2] cro B-emph qua A-.
+=2' min c~
+=2, cro e qua [e-. f-.]
+/
+6 bars | 1b 8 | 8 |
+|
+=1 smq [G(2 E D C)2] [G(2 E D C)2]
+=2, qua [c-. d-. e-. f-.]
+|
+=1' smq [G(2 A)2] cro B-emph qua A-.
+=2' min c~
+=2, cro e qua [e-. f-.]
+|
+=1 smq [G(2 E D C)2] [G(2 E D C)2]
+=2, cro c qua rest a-.
+|
+=1 qua3 [D(2 F-I3 E)2] [E(2 G-I3 F)2]
+=2 cro b c~
+|
+=1' smq [F-emph(2 qua. A)2] vol+5 smq [G-emph(2 qua. B)2]
+=2 cro d~ vol+5 <g b>
+|
+=1 vol+5 qua [A(2 smq G F)2] smq [A(2 G F E)2]
+=2, vol+5 qua [<a c~> b-. c~-. c-.]
+/
+5 bars | 1b 8 | 8 |
+|
+=1 cro F(2 smq [F)2 G F C]
+=2 cro f a
+|
+=1 cro F(2 smq [F)2 vol-10 A F C]
+=2 cro b vol-10 qua. c~ smq rest
+|
+=1' cro F(2 smq [F)2 G(2 A B)2]
+=2 cro d~ qua [c~ b]
+|
+=1, vol+10 smq [c f(1 e d] [c B A G)1]
+=2, vol+10 qua [a-. b-. c~-. c-.]
+|
+=1 qua [F smq A(2 B')2] qua [c-. c-.]
+=2 qua [F smq f'(2 g')2] qua [a-. <f a-.>]
+/
+5 bars | 1b 8 | 8 |
+|
+=1 leg100 qua [d smq eb(1 f] [e d c B)1]
+=2 leg100 cro b rest
+|
+=1 qua c-. cro en-emph(1 qua f-.)1
+=2 cro <a c~ f~> rest'
+|
+=1, vol-10 qua [B, smq c(1 d] [c B A G)1]
+=2 vol-10 cro <g b e~> rest
+|
+=1 qua A-. cro en-emph(1 qua f-.)1
+=2 cro <f a f~> rest'
+|
+=1 smq [F(2 G A B')2] [c(1 d e f)1]
+=2 cro <a c~> <a c~ f~>
+/
+5 bars | 1b 8 | 8 |
+|
+=1 leg85 smq [eb(1 d)1 qua e] smq [eb(1 d)1 qua e]
+=2 leg85 cro <a c~ f~> rest'
+|
+=1 smq [F(2 G A B')2] [c(1 d eb f)1]
+=2' cro <A c f> <A c f>
+|
+=1 smq [d(1 eb)1 d c] qua [B,-. d-.]
+=2' cro <B d f> rest
+|
+=1 smq [G(2 A Bn' c')2] [d(1 e f# g)1]
+=2 cro <bn d~> <b d~ g~>
+|
+=1 smq [fn(1 e)1 qua f] smq [f(1 e)1 qua f]
+=2, cro <bn d~ g~> rest'
+/
+6 bars | 1b 8 | 8 |
+|
+=1 smq [G(2 A Bn' c')2] [d(1 e f g)1]
+=2, cro <Bn d g> <B d g>
+|
+=1 smq [e(1 f)1 e d] qua [c'-. vol+10 G-.]
+=2, cro <c e g> qua rest c-.
+|
+=1' qua [F(2 E)2 G(2 F)2]
+=2 min c
+|
+=1 smq [E-emph(2 D)2 E-. F-.] qua [E-. G-.]
+=2 min C
+|
+=1' qua [F(2 E)2 G(2 F)2]
+=2 min c
+|
+=1 qua [F-emph(2 E)2] vol-10 rest e-.
+=2 cro C vol-10 qua [<e g-.> <c, g-.>]
+/
+5 bars | 1b 8 | 8 |
+|
+=1 smq [d(1 e)1] cro f-emph qua e-.
+=2' min g
+=2, cro Bn qua [B-. c-.]
+|
+=1' smq [d(2 Bn A G)2] [d(2 B A G)2]
+=2, qua [g-. a-. bn-. c~-.]
+|
+=1 smq [d(1 e)1] cro f-emph qua e-.
+=2' min g~
+=2, cro bn qua [b-. c~-.]
+|
+=1' smq [d(2 Bn A G)2] [d(2 B A G)2]
+=2, cro g qua rest e-.
+|
+=1, qua3 [A(1 c-I3 Bn)1] [B(1 d-I3 c)1]
+=2 cro f g
+/
+5 bars | 1b 8 | 8 |
+|
+=1, smq [c-emph(1 qua. e)1] vol+5 smq [d-emph(1 qua. f)1]
+=2 cro a vol+5 <d, f bn>>
+|
+=1 vol+5 qua [e(1 smq d c)1] smq [e(1 d c Bn,)1]
+=2, vol+5 qua [<e g c~> f-. g-. G-.]
+|
+=1, cro c(1 smq [c)1 d c G]
+=2 cro c e
+|
+=1, cro c(1 smq [c)1 vol-10 e c G]
+=2 cro f vol-10 g
+|
+=1, cro c(1 smq [c)1 d(2 e f)2]
+=2 cro a qua [g-. f-.]
+
+/
+5 bars | 1b 8 | 8 |
+|
+=1 smq [g(1 c Bn, A,)1] [G(2 F E D)2]
+=2, qua [e-. f-. g-. G-.]
+|
+=1 qua C-. rest rest c-.
+=2, qua [c-. g-. c-. <e c~-.>]
+|
+=1 cro A rest
+=2 cro <f c~> rest
+|
+=1, qua [G-. smq g(1 f)1] [e(1 d)1 e(1 c)1]
+=2 cro <e c~> rest
+|
+=1 min rest
+=2, cro <d fx g bn> rest
+/ 
+5 bars | 1b 8 | 8 |
+|
+=1' qua rest smq [G(2 F)2] [E(2 D)2 E(2 C)2]
+=2, cro <c e g c~> rest
+|
+=1 qua rest smq [c(1 d)1] [e(1 f)1 qua g]
+=2, cro <e g> <e c~>
+|
+=1 qua rest smq [G(2 F)2] [E(2 F)2 qua G]
+=2, cro <e g c~> rest
+|
+=1 qua rest smq [c(1 d)1] [e(1 f)1 qua g(1]
+=2, cro <e g c~> <e g c~>
+|
+=1 qua [g)1 smq f e] qua f-. rest
+=2, cro <f a c~> qua rest g
+/
+5 bars | 1b 8 | 8 |
+|
+=1, qua rest smq [B(1 c] [d eb)1 qua f]
+=2, cro <d f> <d b>
+|
+=1 qua rest smq [F(2 Eb)2] [D(2 E)2 qua F]
+=2, cro <d f b> rest
+|
+=1, qua rest smq [B(1 c] [d eb)1 qua f(1]
+=2, cro <d f b> <d f b>
+|
+=1, qua [f)1 smq eb d] qua [e-. <G c-.>]
+=2, cro <eb g b> qua rest eb
+|
+=1 qua [<F d'> smq c'(2 B')2] [d(1 c B, A,)1]
+=2, qua [<d-. b> <eb-. g> f-. F-.]
+/
+6 bars | 1b 8 | 8 |
+|
+=1 cro B qua rest F-.
+=2 cro B qua rest B-.
+|
+=1' qua [Eb(2 D)2 F(2 E)2]
+=2 min B
+|
+=1 smq [D-emph(2 C)2 D-. Eb-.] qua [D-. F-.]
+=2 min B_
+|
+=1' qua [Eb(2 D)2 F(2 E)2]
+=2 min B
+|
+=1 qua [Eb-emph(2 D)2] [F-. F-.]
+=2 cro B_ qua [d~-. b-.]
+|
+=1, qua [F-.-emph c-. B-. g-.]
+=2  cro a <e c~>
+
+/
+6 bars | 1b 8 | 8 |
+|
+=1 qua rest A-. [F,-. f-.]
+=2 cro <f c~> <b d~>
+|
+=1, vol-20 qua rest [c-. B-. g-.]
+=2  vol-20 cro a <e c~>
+|
+=1 qua rest A-. [F,-. f-.]
+=2 cro <f c~> <b d~>
+|
+=1 vol+5 qua [f-. f-emph(1] [f)1 smq e(1 d)1]
+=2 vol+5 cro <f c~> qua [<f c~-.> <b d~-.>]
+|
+=1 vol+5 qua [g-. g-emph(1] [g)1 smq f(1 e)1]
+=2 vol+5 cro <g b> qua [<g d~-.> <c~ e~-.>]
+|
+=1 vol+5 qua [a-. a-emph(1] [a)1 smq g(1 f)1]
+=2 vol+5 cro <a c~> qua [<a f~-.> <b d~-.>]
+/
+6 bars | 1b 8 | 8 |
+|
+=1 vol+5 smq [f(1 e)1 e(1 d)1] qua [e-. vol100 c-.]
+=2 vol+5 cro c~ qua rest vol100 f-.
+|
+=1, qua [B(1 A)1 c(1 B)1]
+=2 min f
+|
+=1 smq [A-emph(2 G)2 A-. B'-.] qua [A,-. c-.]
+=2 min F
+|
+=1, qua [B(1 A)1 c(1 B)1]
+=2 min f
+|
+=1 qua [B'(2 A)2] rest c~-.
+=2 cro F qua [<a c~-.> <f c~-.>]
+|
+=1, qua [c-. c~-. c~-. c-.]
+=2' min c~
+=2, cro e qua [e-. f-.]
+/
+5 bars | 1b 8 | 8 |
+|
+=1, qua [c~-. c-. c-. c~-.]
+=2, qua [c-. d-. e-. f-.]
+|
+=1, vol-15 qua [c-. c~-. c~-. c-.]
+=2' vol-15 min c~
+=2, vol-15 cro e qua [e-. f-.]
+|
+=1 qua [c~-. c-. c-. c~-.]
+=2, cro c qua rest a-.
+|
+=1 vol+10 qua3 [c~(1 a-I3 b)1] [b(1 g-I3 a)1]
+=2 vol+10 cro b c~
+|
+=1, smq [a-emph(1 qua. f)1] smq [g-emph(1 qua. e)1]
+=2 cro d~ <g b>
+/
+6 bars | 1b 8 | 8 | 8 |8 |8 |6 ||
+|
+=1 vol+5 qua [f(1 smq e d)1] smq [c'(2 B' A G)2]
+=2, vol+5 qua [<a c~> b-. c~-. c-.]
+|
+=1 cro F(2 smq [F)2 G F C]
+=2 cro f a
+|
+=1 cro F(2 smq [F)2 A F C]
+=2 cro b c~
+| 2/4 .35 .35 .36 .37
+=1' cro F(2 smq [F)2 G(2 A B)2]
+=2 cro d~ qua [c~ b]
+| 2/4 .38 .41 .44 .48
+=1, smq [c f(1 e d] [c B A G)1]
+=2, qua [a-. b-. c~-. c-.]
+| 2/4 1.9
+=1 cro. F qua rest
+=2 cro. F qua rest
+

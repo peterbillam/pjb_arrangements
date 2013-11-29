@@ -1,0 +1,773 @@
+5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
+pagenum 2
+title Contrapunctus 9,  alla Duodecima
+innerhead J. S. Bach
+leftfoot typesetting (c) 2009 Peter Billam
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+/
+5 bars | 1b 2/2 11 11 10 10 | 6 6 9 6 6 6 6 5 | 9 6 6 6 6 6 6 5 | 9 6 6 6 6 6 6 5 | 6 5 6 5 6 6 6 5 |
+| 2/2 1.2
+=1' treble  1b 2/2 cha1 leg85 4 blank 1 rest'
+=1,         1b 2/2 cha1 leg50 4 rest, D-s5, leg85 2 d(2
+=2' bass    1b 2/2 cha2 leg85 2. blank 1 rest
+=2,         1b 2/2 cha2 leg85 1 blank
+|
+=1' 2. blank 1 rest'
+=1, 4 d)2 8 [c# Bn] [A-s4, G-s1, F E]
+=2  2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 8 [D C# D E] [F D E F]
+=2  2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 8 [G-s1, F#-s3, G A] [B-s2, G A B]
+=2  2 blank 1 rest
+|
+=1' 2. blank 1 rest'
+=1, 4 B{2-tr A}2-s4, 8 rest, [A G A]
+rs0.7  1323
+=2  2 blank 1 rest
+/
+5 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 9 6 6 6 9 5 | 9 6 9 6 6 9 6 5 |
+|
+=1' 2. blank 1 rest'
+=1, 8 [B d c B] [c-s1, B A G]
+=2  2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 8 [F B A-s1, G] [A, G F E]
+=2  2 blank 1 rest
+|
+=1' 4 rest' leg50 A 2 leg85 a(1
+=1, 8 [D G F-s1,-s1 E] [F, E D C]
+=2  2 blank 1 rest
+|
+=1' 4 a)1 8 [g# f#] [e d c-s3 Bn]
+=1,4 B_n E-s2, G# E
+=2  2 blank 1 rest
+|
+il1.1 .50 10
+=1' 8 [A-s1 G#-s2 A-s1 Bn] [c A B c]
+=1, 8 [C-s4, D-s2, C B_n] 4 A_ Gn
+=2 2 blank 1 rest
+/
+4 bars | 1b 8 7 7 7 7 7 8 6 | 7 6 8 7 7 7 7 6 | 7 7 7 7 7 7 7 6 | 7 7 7 7 7 7 8 7 |
+|
+=1' 8 [d c# d-s1 e] [f d e f]
+=1, 8 [F-s3, G F E] 4 D dr
+=2 2 blank 1 rest
+|
+rs1.5 .03 4232
+=1' 4 f{1-tr e}1-s1 8 rest'' [e-s2 d e]
+=1, 4 G#-s4, 8 [A Bn] 4 c B-s2,
+=2 2 blank 1 rest
+|
+=1' 8 [f a g f] [g f e d]
+=1, 2 A-s1, 4 rest, G#-s2,
+=2 2 blank 1 rest
+|
+=1' 8 [c-s2 f e d] [e d c-s1 Bb-s3]
+=1, 2 A 4 rest, E-s1,
+=2 2 blank 1 rest
+/
+4 bars | 1b 7 7 7 7 7 7 8 6 \
+ | 7 7 8 7 7 7 7 6 | 8 7 7 7 7 7 7 6 | 8 7 7 7 7 7 7 6 |
+|
+=1' 8 [A-s1-s2 d c B] [c-s5 B A-s1-s3 G#--s2]
+=1, 2 F 4 rest, F
+=2' 1 rest''
+=2, 4 rest, leg50 d-s5, 2 leg85 d~(2
+|
+=1' 4 A-s1-s2 e 2 c#-s4
+=1, 2 E 4 rest, G(2--s2
+=2' 1 blank 1 rest''
+=2, 4 d~)2 8 [c~# bn] [a g-s1, f e]
+|
+=1' 2 d-s5 4 rest' cn(1-s4
+=1, 4 G)2 8 [F G] 2 A
+=2' 4 blank 1 rest''
+=2, 8 [d c# d e] [f d e f]
+|
+=1' 4 c)1 8 [B-s2 d-s3] 4 g e-s1-s4
+=1, 2 D 4 rest, G
+=2' 2 blank 1 rest''
+=2, 8 [g-s1, f#-s3, g a] [b-s2, g a b]
+/
+4 bars | 1b 7 6 7 7 7 7 7 6 | 7 7 7 7 9 7 7 6 \
+ | 7 7 7 7 9 7 7 6 | 7 7 7 7 7 7 7 6 |
+|
+=1' 2 c#-s2-s5 4 rest' c-s1-s4
+=1, 4 E 8 [F-s1 G-s3] 4 F--s2 E
+=2' 2 blank 1 rest''
+=2, 4 b{2 a}2-s4, 8 rest [a g a]
+rs0.01 .06 1323
+|
+il0.8 .13 20
+=1' 4 d-s1-s5 f-s4 16 [e{'1 f 8 g}'1] 4 B-s1-s2
+=1, 4 D rest, rest, E
+=2' 2 blank 1 rest''
+=2, 8 [b d~ c~ b] [c~-s1, b a g]
+|
+=1' 4 A-s1-s2 d-s4 16 [c#{'1 d 8 e}'1] 4 G-s1-s3
+=1, 4 F rest, rest, C#
+=2' 2 blank 1 rest''
+=2, 8 [f b a-s1, g] [a g f e]
+|
+=1' 2 F-s1-s2 4 rest'-s3 c-s1-s5
+=1, 2 D 4 rest, E
+=2' 4 rest'' leg50 a 2 leg85 a~(1
+=2, 8 [d g f-s1,-s3, e] [f-s3, e-s1, d c]
+
+5 systems 10 /20-55-20/20-40-20/20-50-20/20-45-20/20-40-20 10/
+pagenum
+innerhead Contrapunctus 9 alla Duodecima, J. S. Bach
+leftfoot typesetting (c) 1998 Peter Billam
+/
+4 bars | 1b 7 7 8 7 7 8 8 6 \
+ | 8 7 8 7 7 7 7 6 | 8 7 7 7 7 8 7 6 | 7 7 7 9 8 8 7 6 |
+|
+=1' 2 Bn-s2-s"( 3 )"-s4 4 rest' G#-s2-s4
+=1, 4 F D-s1-s3 8 rest, [F--s3 E D--s1]
+=2' 4 a~)1 8 [g~# f~#-s2] [e~-s1 d~-s1, c~-s2, bn-,-s1,]
+=2, 4 d Bn 2 e
+|
+=1' 1 A(1-s2-s5
+=1, 8 [C B_n C D-s1-s3] [E-s2-s4 C-s1 D E]
+=2' 8 [a g#-,-s2, a bn] [c~ a-s1, b-s2, c~-s1,]
+=2, 2 A-s1,-s5, rest,
+|
+=1' 1 A)1-s2-s4-s"( 5 )"
+=1, 4 F rest, 2 rest.
+=2' 8 [d~ c~#-s1 d~ e~] [f~ d~-s2 e~-s1 f~]
+=2, 8 rest [g-s1, f e] [d-s1, c Bn A-s1,]
+|
+=1' 8 [Bn-s2-s5 c d-s1-s5 B] 2 c(1-s5
+=1, 4 F{2 E}2 8 rest, [E--s2 D E]
+=2  4. G#-tr 16 [F# G] 8 [A-s1, Gn Fn E]
+rs0.5 .04 1312
+/
+5 bars | 1b 40 | 5 5 5 5 5 7 7 5 | 40 | 40 | 40 |
+|
+=1' 2 c)1-s1 Bb-s3-s4
+=1, 8 [F A G F] [G F E D-s2]
+=2  4 D d-s1, e-s2, c
+|
+=1' 2 A-s1-s5 G-s2-s4
+=1, 8 [C F E D] [E D C#-s2 B_n]
+=2  4 f Bn-s4, c# A
+|
+=1' 8 [F-s3 A G F] [G F E D]
+=1, 2 blank 1 rest,,
+=2' 4 a 8 [bb-,-s2, a-,-s1,] 2 b(1-,-s2,
+=2, 2 d-s1,-s4, 4 rest, d-s5,
+|
+il0.8 .20 30
+=1' 8 [G-s3 B A G] [A G F E]
+=1, 2 blank 1 rest,,
+=2' 4 b)1 8 [c~ b] 2 c~(1
+=2, 2 e 4 rest, c
+|
+=1' 4 A-s2 c 2 f(1
+=1, 2 rest,, 4 rest, A
+=2' 4 c~)1 rest'' 2 rest''
+=2, 8 [f a-s2, g f] [g-s2, f e d]
+/
+5 bars | 1b 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 \
+ | 5 5 5 6 5 5 5 4 | 5 5 5 5 5 5 5 4 | 5 5 7 5 5 5 5 4 |
+|
+=1' 2 f)1 e(1-s3-s5
+=1, 8 [B d c B] [c B A G---s2]
+=2' 2 blank 1 rest''
+=2, 8 [g-s2, b a g] [a g f e]
+|
+=1' 2 e)1 d(1
+=1, 8 [F A-s3 G F] [G F--s1 E--s2 D-s2,]
+=2' 2 blank 1 rest''
+=2, 2 a 4 rest b-s1,-s3,
+|
+=1' 2 d)1 c#-s3-s5
+=1, 8 [E B--s4 A G] [A G F E-s2]
+=2' 2 blank 1 rest''
+=2, 4 g-s1,-s5, e-s4, a A
+|
+=1' 1 d
+=1, 8 [D c B A] [G-s1 F-s2 E-s1, G-s1]
+=2' 4 rest' dr 2 d~(1
+=2, 4 B-s4, f-s1,-s2, 2 b-s2,-s4,
+=2  2. blank 43 blank-s"-",
+#rs0.01 .80 -
+|
+=1' 1 a-s5
+=1, 4 F E rest, c#-s2
+=2' 4 d~)1 8 [c~#-s1,-s2, bn] [a-s4, g-s1, f e]
+=2, 2 a-s1,-s"( 2 )",-s4, rest,
+/
+5 bars | 1b 7 5 5 5 5 5 5 4 | 7 5 5 5 5 5 5 4 \
+ | 5 4 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 |
+|
+=1' 1 f-s3-s4
+=1, 4 d A d cn(2
+=2' 8 [d c# d e] [f d e f]
+=2, 2 blank 1 rest,,
+|
+=1' 1 d-s5
+=1, 4 cr)2 8 [B-s3 A] 4 G F-s2
+=2' 8 [g f#-s3, g a] [b-s2, g a b] 
+=2, 2 blank 1 rest,
+=2, 
+|
+=1' 1 c#-s1-s5
+=1, 4 E 8 [F G] 4 F E
+=2' 4 b{1 a}1 8 rest' [a-s4, g a]
+=2, 2 blank 1 rest,
+|
+il1.0 .22 40
+=1' 2 d-s5 e-s4
+=1, 4 D 2 G--s1 4 B
+=2' 8 [b-s1,-s3, d~-s1, c~ b] [c~-s1, b a g]
+=2, 2 blank 1 rest,
+|
+=1' 1 f(1-s1-s5
+=1, 4 A c F 8 [A---s3 G---s2]
+=2' 8 [f b a-s1, g] [a g f e]
+=2, 2 blank 1 rest,
+/
+4 bars | 1b 6 6 7 6 7 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 4 f)1-s1-s"( 5 )" g-s2-s5 f-s2-s4 e-s2-s5
+=1, 8 [A e---s3 d c#] [d cn---s1 B A]
+=2' 2 d 8 rest' [d e f]
+=2, 2 blank 1 rest,,
+|
+=1' 1 d(1-s2-s4
+=1, 4 B c B--s2 A--s2
+=2' 8 [g a g f] [g-s1, f e d]
+=2, 2 blank 1 rest,,
+|
+=1' 8 [d)1 d-s4 c B] [c B A-s1 G-s2]
+=1, 2 G rest,
+=2' 8 [e f e d] [e c d e]
+=2, 2 blank 1 rest,,
+|
+=1' 8 [A-s1 c~ b a] [b-s1-s4 a-s5 g f]
+=1, 4 rest,, leg50 C-s1, 2 leg85 c(2
+=2' 1 f-s2,
+=2, 2 blank 1 rest,
+
+5 systems 20 /20-40-20/20-45-20/20-45-20/20-35-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 9 alla Duodecima, J. S. Bach
+leftfoot typesetting (c) 1998 Peter Billam
+/
+5 bars | 1b 5 5 5 5 5 5 5 4 | 5.5 5.5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4  | 5 5 5 5 5 5 5 4 |
+|
+=1' 8 [e-s2 f-s3] 4 g-s1-s5 rest' g-s5
+=1, 4 c)2 8 [B A---s1] [G-s1, F-s2, E-s1, D]
+=2' 1 c~
+=2,  2 blank 1 rest,
+|
+=1' 4 g{1 f}1 8 rest' [c-s1 B-s3 c-s4]
+=1, 8 [C B_ C D] [E C D E-s1,]
+=2' 1 a
+=2, 2 blank 1 rest,
+|
+=1' 4 A-s1-s2 d-s1-s5 c-s3-s5 Bn
+=1, 8 [F E-s1, F G] [A F G A]
+=2' 1 f-s4,
+=2,  2 blank 1 rest,
+|
+=1' 4 c-s3-s5 8 [Bb A] 2 B
+=1, 4 A{2 G}2 8 rest, [G-s2 F-s1 G-s2]
+=2' 1 e
+=2,  2 blank 1 rest,
+|
+il1.1 .10 50
+=1' 4 A-s1 f-s2-s5 2 d(1-s3-s5
+=1, 8 [A c B A] [B A G F--s2]
+=2' 2 f g
+=2,  2 blank 1 rest,
+/
+4 bars | 1b 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 \
+ | 5 6 5 5 5 6 6 4 | 5 5 5 5 6 5 6 4 |
+|
+=1' 8 [d)1 c-s3-s5 B A] [B-s2-s4 A-s1-s4 G-s3-s5 F]
+=1, 8 [E A G F] [G F E D]
+=2' 1 a(1
+=2,  2 blank 1 rest,
+|
+=1' 8 [E-s1-s3 F G-s5 A-s4] 2 B(1-s5
+=1, 2 C 8 rest, [C D E--s3]
+=2' 4 a)1 b a g
+=2,  2 blank 1 rest,
+|
+=1' 8 [B)1-s1 A-s2 Bn c] 2 d(1
+=1, 2 F(2 8 [F)2 E-s1 F# G#]
+=2' 4 f d~ c~ bn
+=2,  2 blank 1 rest,
+|
+=1' 8 [d)1-s1 c-s2 d e] 2 f(1
+=1, 2 A(2 8 [A)2 Gn-s1 A Bn]
+=2' 4 a f~ e~-s3, d~
+=2,  2 blank 1 rest,
+/
+4 bars | 1b 5 5 5 5 5 5 6 4 | 5 5 6 5 5 5 5 4  \
+ | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 6 4 |
+|
+=1' 8 [f)1-s1 f-s5 e d] [e-s4 d c Bn-s1]
+=1, 4 c E-s1, F# G#-s1,
+=2' 2 c~-s5, bn-s2,-s4,
+=2,  2 blank 1 rest,
+|
+=1' 8 [c-s2-s4 d c Bb] [c-s5 B A-s2-s5 G]
+=1, 4 A C-s2, D E
+=2' 2 a g-s1,-s4,
+=2,  2 blank 1 rest,
+|
+=1' 4 A-s1-s3 c#-s2-s4 d-s1-s4 e-s5
+=1, 4 F G F C#
+=2' 8 [f b-s1, a g] [a g f-s1,-s4, e]
+=2, 2 blank 1 rest,
+|
+=1' 8 [A-s2 B-s4 A-s1-s3 G] [A G F-s1 E-s2]
+=1, 4 C#{2 D}2 2 rest,,
+=2' 8 [f-s1,-s4, g-s2, f e] [f e d c#]
+=2,  2 blank 1 rest,,
+/
+4 bars | 1b 5 5 5 5 5 5 5 4 | 5 5 6 5 5 5 6 4 \
+ | 6 5 5 5 5 5 5 4 | 6 5 5 5 5 5 5 4 |
+|
+=1' 8 [F-s1-s3 c-s5 B A] [B-s5 A G F]
+=1, 1 D
+=2' 2 d rest'
+=2, 4 rest,, leg50 D 2 leg85 d(2
+|
+il1.1 .45 60
+rs0.6 .05 3  -  2
+=1' 4 Er e-s5 8 rest' [e d c#]
+=1, 1 A-s1
+=2' 2 blank 1 rest'
+=2, 4 d)2 8 [c# Bn] [A-s4, G-s1, F E]
+|
+=1' 4 d-s1-s4 A d-s5 c
+=1, 1 F
+=2' 2 blank 1 rest'
+=2, 8 [D C# D E] [F D-s5, E F]
+|
+=1' 4 B-s1-s3 A-s5 G F
+=1, 1 D
+=2' 2 blank 1 rest'
+=2, 8 [G F# G A] [B-s2, G A B]
+/
+5 bars | 1b 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4  | 5 5 7 5 7 7 6 4 |
+|
+=1' 8 [E-s2-s4 D-s1 E-s3 F] [G E] 4 A(1
+=1, 1 C#
+=2' 2 blank 1 rest'
+=2, 4 B{2 A}2 8 rest, [A G A]
+|
+=1' 8 [A)1-s1 F--s2] 4 B(1-s4 8 [B)1-s2 G-s3 c B]
+=1, 2 D E
+=2' 2 blank 1 rest'
+=2, 8 [B d c B] [c-s1, B A G]
+|
+=1' 8 [A-s1-s3 d c B] [c A] 4 c(1
+=1, 1 F(2
+=2' 2 blank 1 rest'
+=2, 8 [F B A G] [A-s1, G F E]
+|
+=1' 8 [c)1 d c-s2-s4 B] [c-s1-s5 B A-s2-s5 G]
+=1, 4 F)2 G F E
+=2' 2 blank 1 rest'
+=2, 2 D rest,
+|
+=1' 1 F(1-s1-s5
+=1, 8 [D E-s4 D C#] [D Cn B_n-s1 A_-s2]
+=2' 2 blank 1 rest'
+=2, 4 rest, D E-s4, F-s3,
+
+5 systems 10 /20-45-20 7/20-40-20/20-45-20/20-50-20/20-50-20 10/
+pagenum
+innerhead Contrapunctus 9 alla Duodecima, J. S. Bach
+leftfoot typesetting (c) 1998 Peter Billam
+/
+4 bars | 1b 5 5 5 5 5 5 5 4 | 5 5 6 5 5 5 6 4 \
+ | 5 5 5 5 5 5 5 4 | 5 6 5 5 5 6 6 4 |
+|
+=1' 8 [F)1-s1 A G F] [G-s5 F E D]
+=1, 1 B_n(2
+=2' 2. blank 1 rest'
+=2, 4 leg50 G-s5, leg85 g e g
+|
+=1' 1 E(1-s5
+=1, 8 [B_)2 D-s4 C B_n] [C B_ A_-s1 G_#-s2]
+=2' 2 blank 1 rest'
+=2, 4 leg50 c-s2, leg85 C-s5, D E-s3,
+|
+il1.3 .13 70
+=1' 8 [E)1-s1 g f e] [f-s5 e d c]
+=1, 4 A_ rest, 2 rest,
+=2' 2. blank 1 rest'
+=2, 4 leg50 F-s5, leg85 a d-s2, f
+|
+=1' 1 d(1-s5
+=1, 8 rest, [c-s4 Bn A] [B A G#--s1 F#--s2]
+=2' 2 blank 1 rest'
+=2, 4 Bn-s2, d G# B
+/
+4 bars | 1b 5 5 5 5 5 5 6 4 | 5 5 5 5 6 6 5 4 \
+ | 6 5 6 6 5 6 6 4 | 5.5 5 6 6 5 5 5 4 |
+|
+=1' 8 [d)1-s1-s"( 5 )" f e d] [e-s5 d c Bn]
+=1, 4 G# rest, 2 rest,
+=2' 2 blank 1 rest'
+=2, 4 leg50 E leg85 e f#-s4, g#
+|
+=1' 8 [c e d-s4 c] [dr c Bn A]
+=1, 4 rest, leg50 E-s1, 2 leg85 e(,2--s4-s5
+=2' 1 a
+=2, 1 ar(2-s2,
+|
+=1' 4 Bnrl rest'' 2 rest''
+=1, 4 e),2 8 [d c] [Bn A-s1 G#-s4 F#]
+=2' 1 e~
+=2, 8 [a)2 g# a f#] 4 g bn-s2,
+|
+=1' 4 rest' leg50 E 2 leg85 e(1-s2-s5
+=1, 8 [E D E-s2 F#-s1] [G# E F---s2 G---s3]
+=2' 1 c~r
+=2, 4 bn{2-s1,-s2, a}2-s3, rest e-s5,
+/
+4 bars | 1b 6 5 6 5 5 5 5 4 | 5 5.5 6 5 5 5 6 4 \
+ | 6 5 5 5 5 6 5 4 | 5 6 5 5 5 7 6 4 |
+|
+=1' 4 e)1-s1 d#-s1-s4 rest'' d
+=1, 8 [A G#---s2 A Bn] [c A B c]
+=2' 1 a
+=2, 1 f
+|
+=1' 8 [e-s2-s4 f e dn-s3] [e-s5 d-s2-s4 c Bn-s2]
+=1, 4 c{2 Bn}2 8 rest, [B A B]
+=2' 1 g#
+=2, 1 e-s3,-s5,
+|
+=1' 4 Ar a-s2-s5 d-s3 f(1-s1-s5
+=1, 8 [c--s1-s3 e---s4 d c---s1] [d c Bn A---s2]
+=2' 2 a-s3, bn-s2,
+=2, 4. blank 1 rest,
+|
+=1' 8 [f)1-s1 e-s3-s5 d c] [d c Bn-s2-s4 A]
+=1, 8 [G c Bn A] [B A G#l F#]
+=2' 1 c~(1-s1,
+=2, 4. blank 1 rest,
+/
+4 bars | 1b 5 5 6 5 5 5 6 4 | 6 5 6 5 5 5 5 4 \
+ | 6.3 5.3 5.3 6.3 5.3 5.3 5.3 4 | 6 5 5 6 5 5 5 4 |
+|
+il1.1 80
+=1' 2 G#-s2-s4 4 A-s1-s2-s5 Bn-s1-s"( 2 )"-s5
+=1, 4 E{2 Fn}2-s1-s3-s"( 4 )" 2 E(2
+=2' 4 c~)1 d~ c~ bn
+=2, 8 rest, [d-s2, c Bn] [c B A-s5, G#-s4,]
+|
+=1' 1 c(1-s5
+=1, 4 E)2 E--s1 A--s3 G--s2
+=2' 8 [a g#-,-s2, a bn-s2,] [c~ a-s3, b c~-s1,]
+=2, 4 A-s1,-s5, rest, 2 rest,
+|
+=1' 4 c)1 A-s2 d c-s4
+=1, 4 F# rest,, 2 rest,
+=2' 8 [d~-s3, c~# d~ e~] [f~# d~ e~ f~]
+=2, 2 blank 1 rest,
+|
+=1' 1 Bn(1-s5
+=1, 4 rest,, D G-s3 F
+=2' 8 [g-s4, f# g a] [bn g a b]
+=2, 2 blank 1 rest,
+/
+4 bars | 1b 6 5 5 5 5 5 5 4 | 5 5 5 5 5 6 5 4 \
+ | 5 5 5 5 5 6 6 4 | 5 5 5 5 5 5 5 4 |
+|
+=1' 4 B)1 G-s2 c-s4 Bb-s3
+=1, 4 E rest,, 2 rest,
+=2' 8 [c~-s1, bn-s4, c~ d~] [e~ c~ d~ e~]
+=2, 2 blank 1 rest,
+|
+=1' 1 A-s1
+=1, 8 rest,, [e d c] [d-s4 c Bn A]
+=2' 4 f-s4, e f# d
+=2, 2 blank 1 rest,
+|
+=1' 1 e-s2-s5
+=1, 8 [Bn c B A] [B A G#-s2 F#-s1]
+=2' 4 g f# g# e-s5,
+=2, 2 blank 1 rest,
+|
+=1' 8 [c-s2 a-s5 g f] [g f-s3 e-s1 d-s3]
+=1, 1 E
+=2' 4 a-s1,-s3, 8 [bb-s2, a-s4,] 4 b-s3, g(1-s5,
+=2, 2 blank 1 rest,
+
+5 systems 10 /20-50-20 4/20-45-20/20-45-20 4/20-45-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 9 alla Duodecima, J. S. Bach
+leftfoot typesetting (c) 1998 Peter Billam
+/
+4 bars | 1b 5 5 5 5 5 6 6 4 | 5 5 6 5 5 5 6 4 \
+ | 6 5 5 5 5 6 6 4 | 5 5 6 6 5 5 6 4 |
+|
+=1' 8 [c#-s1-s2 e--s5 d c] [d-s5 c Bn A-s2]
+=1, 1 A(2
+=2' 8 [g)1 g~ f~ e~] [f~ e~ d~-s1, c~#-s2,]
+=2, 2 blank 1 rest,
+|
+=1' 4 d-s1-s"( 2 )"-s5 leg50 Ar 2 leg85 a(1-s4-s5
+=1, 4 A)2  8 [d--s1-s2 e] 4 f 8 [e-s2 d]
+=2' 8 [f~ e f g] [a-s1, g-s3, a bn]
+=2, 1 d-s5,
+|
+il1.2 .14 90
+=1' 4 a)1 8 [g f] [e d c#-s4 Bn]
+=1, 4 e rest, 2 rest,
+=2' 8 [c~# bn c~ d~-s1,] [c~-s3, d~] 4 e~(1
+=2, 1 a-s2,-s4,
+|
+=1' 8 [A-s2 G A Bn] [cn A B c#-s1-s4]
+=1, 2 rest,, 8 rest,, [C-s2, D-s1, E]
+=2' 4 e~)1 d~-s2, 2 a(1-s3,
+=2, 1 f-s5,
+/
+4 bars | 1b 6 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 |
+|
+=1' 8 [d-s1-s5 c#-s2 d e] [f d-s1-s4 e-s2-s5 f-s1-s4]
+=1, 4 F rest, 8 rest, [F G A]
+=2' 4 a)1 f b d~
+=2, 1 d-s5,
+|
+=1' 4 f{1-s2-s5 e}1-s2-s5 8 rest' [e-s3 d-s2 e]
+=1, 8 [B A---s1 G B--s3] 2 A(2--s1
+=2' 4 g b 8 [e-s3, g f e]
+=2, 1 c#-s2,-s4,
+|
+=1' 8 [f-s4 a-s5 g-s1-s4 f-s3] [g-s5 f e-s2-s5 d-s1-s3]
+=1, 4 A)2 2 B 8 [c B]
+=2' 4 d-,-s5, rest'' 2 rest''
+=2, 2 dr e
+|
+=1' 8 [c-s1-s2 f--s4 e-s1-s5 d] [e-s2-s5 d c-s1-s5 B-s3]
+=1, 4 A F G E
+=2' 4 rest'' a 2 b
+=2, 1 f(2
+/
+4 bars | 1b 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 \
+ | 6 5 5 5 5 5 6 4 | 5 5 5 5 6 5 5 4 |
+|
+=1' 8 [A-s1-s2 d c B] [c B-s3 A-s4 G]
+=1, 4 F rest,, rest,, C#
+=2' 4 c~ rest'' rest'' g
+=2, 4 f)2 g f e
+|
+=1' 8 [F B A G] [A-s4 G F E]
+=1, 4 D rest,, 2 rest,,
+=2' 4 a e f a
+=2, 1 d(2
+|
+rs0.6 .89 ( 4 )   -
+=1' 1 D(1-s4
+=1, 2 blank 1 rest,,
+=2' 8 [b c~-s3 b a] [b a-s1 g-s2 f#]
+=2, 8 [d)2 eb-s2, d c] [d-s2, c-s3, B A-s2,-s5,]
+|
+=1' 8 [D)1-s1 d c B] [cr B A G]
+=1, 4 rest,,, leg50 D 2 leg85 d(1---s4-s5
+=2' 1 g
+=2, 2 B-s1,-s4, 4 rest, b-s2,
+/
+4 bars | 1b 6 5 5 5 5 6 5 4 | 6 5 5 6 5 5 5 4 \
+ | 6 5 5 6 6 5.5 5 4 | 5 6 5 5 5 5 5 4 |
+|
+il1.0 .02 100
+=1' 4 Ar rest'' 2 rest''
+=1, 4 d)1 8 [c B] [A G F#--s3 E]
+=2' 1 d~
+=2, 4 f# a f d
+|
+=1' 2 rest' B(1-s3-s5
+=1, 8 [D--s1 C#-s2 D--s1 E] [F# D E F]
+=2' 1 b
+=2, 2 g d
+|
+=1' 4 B)1-s1 Bn-s1-s4 c-s3-s5 c#-s2-s4
+=1, 8 [G F#--s2 G A] [Bbrl G A B]
+=2' 1 g
+=2, 4 eb-s2,-s4, f-s1, en-s3, eb-s4,
+|
+=1' 8 rest' [d cn B] 4 c d-s1-s5
+=1, 4 B{2 A}2 8 rest, [A G A--s2]
+=2' 1 f#
+=2, 2 d-s1,-s5, 8 rest, [c-s2, B A]
+/
+4 bars | 1b 5 5 5 5 5 5 6 4 | 5 6 5 5 5 5 6 4 \
+ | 6 5 5 5 5 6 5 4 | 5 5 5 5 5 5 6 4 |
+|
+=1' 4 B-s1 2 g-s1-s5 8 [f-s2-s5 e-s1-s4]
+=1, 8 [B d---s3 c B--s2] [c--s1 B--s2 A G]
+=2' 2 g a-s3,
+=2, 4 G rest, 2 rest
+|
+=1' 4 d-s3 eb-s1-s4 f-s2-s5 rest'
+=1, 8 [F B--s2 Ab G--s1] [A G F---s3 Eb]
+=2' 1 b(1-s1,-s2,
+=2, 4 rest eb-s4, d g
+|
+=1' 4 blank 1 rest
+=1, 2 D-s1 4 Eb-s2-s4 F-s1-s5
+=2' 4 b)1 c~-s3 b ab
+=2, 8 [f ab-s3, g-s4, f-s5,] [g-s1, f eb d]
+|
+=1' 4 blank 1 rest
+=1, 4 B_-s1-s2 B_n-s2 C-s3 D
+=2' 1 g(1
+=2, 8 [eb f-s1, e d] [e d c Bn-s5,]
+
+5 systems 20 /20-45-20/20-45-20/20-45-20/20-45-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 9 alla Duodecima, J. S. Bach
+leftfoot typesetting (c) 1998 Peter Billam
+/
+4 bars | 1b 5 5 6 5 5 5 5 4 | 5 5 6 5 5 6 5 4 \
+ | 6 5 5 5 5 5 5 4 | 5 5 5 5 5 5 6 4 |
+|
+=1' 2 blank 1 rest
+=1, 1 Eb(2-s5
+=2' 4 g)1 g-s1 a b-s3
+=2, 8 [c-s3, d-s1, c Bb] [c B A G-s5,]
+|
+=1' 2 blank 1 rest'
+=1, 8 [E)2 G-s5 F Eb] [F E D C-s1]
+=2' 1 c~(1-s1
+=2, 8 [A-s3, B-s1, A G] [A G F# E]
+|
+il0.6 .20 110
+=1' 1 blank 1 rest'
+=1, 1 A(2-s5
+=2' 8 [c~)1 e~b-s3 d~ c~] [d~-s2 c~-s1 b a-s2,]
+=2, 2 F# 4 rest, f#-s1,-s3,
+|
+=1' 4.. blank 1 rest'
+=1, 8 [A)2 B-s5 A G] [B-s1-s5 A G F#]
+=2' 2 b 4 c~ a
+=2, 4 g-s1,-s3, eb-s4, c-s5, d-s1,-s2,
+/
+4 bars | 1b 5 5 6 5 5 5 5 4 | 5 5 6 5 5 5 5 4 \
+ | 6 5 5 6 5 5 6 4 | 5.5 5 5 5 5 6 6 4 |
+|
+=1' 8 rest'-s1-s5 [D-s2 E-s1-s3 F#] [G F-s2 G A]
+=1, 4 G rest,, 2 rest,,
+=2' 4 b c~ b-s1, a-s2,
+=2, 4 G-s5, rest, 2 rest,
+|
+=1' 8 [B G-s2 A Bn] [c B-s2 c d]
+=1, 1 rest,,
+=2' 2 g 4 a bn
+=2, 4 rest,-s1, f-s3, eb-s2,-s4, d-s1,-s4,
+|
+=1' 4 eb-s5 d-s5 c-s5 Bb-s4
+=1, 8 rest, [B_n-s2, C-s1, D--s1] [Eb-s2, C-s3, D-s2, En-s1,]
+=2' 4 c~ rest' 2 rest'
+=2, 4 c-s1,-s5, rest, 2 rest,
+|
+=1' 8 [A-s1-s3 G A B] [c A-s2 Bn c#]
+=1, 1 F(2
+=2' 2 blank 1 rest''
+=2, 8 rest, [en-s5, f g] [a f-s5, g a]
+/
+5 bars | 1b 6 6 6 6 6 6 6 5 | 7 6 7 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 9 6 6 6 6 5 |
+|
+=1' 4 d-s5 2 G-s4 4 F(1-s3
+=1, 2 F)2 E-s2
+=2' 8 rest''' [c~ b a] [g b a g]
+=2, 4 bb-s2, rest, 2 rest,
+|
+=1' 8 [F)1 E-s4] 2 D 4 G(1-s5
+=1, 4. D 8 C 2 B_-s1
+=2' 4 f rest'' 2 rest''
+=2, 8 rest,-s5, [g-s1, f e] [d f-s2, e d]
+|
+=1' 8 [G)1 B-s4 A-s5 G] [A G F E]
+=1, 4 A_ rest,, 2 rest,,
+=2' 1 rest'
+=2, 4 c#-s1,-s5, e-s2, c-s3, A
+|
+=1' 8 [F E F A-s5] [G-s1-s4 F E D-s1]
+=1, 1 D
+=2' 4 rest' leg50 d 2 leg85 d~(1
+=2, 4 d-s2, cnrl 2 B-s4,
+|
+il0.6 .20 120
+=1' 2 Er 4 rest' c#
+=1, 1 A--s3-s5
+=2' 4 d~)1 8 [c~#-s2 bn-s1] [a-,-s1, g-,-,-s2, f e-,-s2,]
+=2, 2 A 4 rest, A-s1,-s5,
+/
+5 bars | 9 6 6 6 9 6 6 5 | 9 6 6 6 6 9 6 5 | 6 6 6 6 6 6 6 5 | 7 7 6 7 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 2 d(1 8 [d)1 cn B-s3 A-s5]
+=1, 1 F
+=2' 8 [d c#-,-s4, d e] [f d-,-s3, e f-,-s1,]
+=2, 1 B(2-s1,-s5,
+|
+=1' 1 G(1-s2-s4
+=1, 1 D
+=2' 8 [g f#-s3, g a-s1] [b g a b-s1]
+=2, 2 B)2-s2, 8 rest,-s1, [e-s3,-s5, fn-s2,-s4, g-s1,]
+|
+=1' 1 G)1-s1-s2-s"( 4 )"
+=1, 1 C#
+=2' 4 b{1 a}1 8 rest'' [a g a]
+=2, 8 [A e a-s1, g-s2,] 4 f-s3, e-s2,-s4,
+|
+=1' 2 F-s2-s4 4 rest'-s1 B-s4
+=1, 2 D E
+=2' 8 [b d~-s2 c~-s1, b-s2,] [c~ b a g-,-s2,]
+=2, 2 d-s2,-s5, 4 rest,-s1, c#-s1,-s5,
+|
+rs0.7 .05 3
+rs0.3 .05 2  -  1
+=1' 2 A 4 rest' c#-s4
+=1, 1 F(2
+=2' 8 [f b a g] [a g-,-,-s2, f e-,-s2,]
+=2, 2 d-s3,-s5, 4 rest,-s1, A-s1,-s5,
+/
+5 bars | 1b 8 6 6 6 6 8 8 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 5 5 7 6 5 5 6 | 24 ||
+|
+=1' 8 [d cn B-s2-s3 A--s4] [B-s1-s3 A--s5 G-s2-s4 F#]
+=1, 4 F)2 G F Eb
+=2' 2 d 4 rest' a
+=2, 2 B-s3,-s4, 4 rest, c-s1,-s4,
+|
+=1' 1 G(1-s1-s5
+=1, 2 D 4 rest, D-s1-s2-s"( 5 )"
+=2' 2 b 4 rest' b
+=2, 8 [B-s1,-s5, c-s3, B A] [B-s3, A G-s5, F-s4,]
+| 0.6 0.65
+=1' 8 [G)1-s3-s"( 5 )" B A-s1-s4 G--s3] [A-s1-s5 G F E]
+=1, 4 E C# 2 D(2
+=2' 4 c# g f b
+=2, 4 E-s1,-s3, e-s2,-s4, f-s3, g-s1,-s2,
+| 0.35 0.39 0.45 0.52
+rs0.9 .57 4 3 4 3
+=1' 4. F-s3 8 G--s5 4. E-tr-s1 8 D---s2
+=1, 2 D)2 C#
+=2' 2. ar 4 g
+=2, 4 a-s1, g a A-s1,-s5,
+| 2.6
+=1' 1 D-fermata--s1-s2
+=1, 1 A_-fermata,
+=2' 1 f#-fermata
+=2, 1 d-fermata-s2,-s3,

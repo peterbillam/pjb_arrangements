@@ -1,0 +1,95 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.01.05.08.50.04;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Professor Longharis' intro to Big Chief, transcribed
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@6 systems 8 /19-25-19/
+title Professor Longhair's intro to Big Chief
+pagenum
+midi channel 0 patch 3
+midi channel 1 patch 32
+/
+3 bars | 3b 12 12 21 12 12 12 12 10 \
+ | 3 3 3 3  3 3 3 3  4 4 4 4  3 3 3 3  3 3 3 3  3 3 3 3  5 5 5 9 3 3 2 2 \
+ | 4 4 4  9 6 6  4 4 4  4 4 4  4 4 4  4 4 4  4 4 4  4 4 2 |
+| 1.8
+=1 treble 3b 8 rest [G 163 F# G B'] 8 [b b] [B' A F#]
+=2 bass   3b  2 blank 1 rest
+|
+=1, 8 [G e 163 B e B 8 G] [A f 32 B e B G 8 F#]
+=2, 2 blank 1 rest
+|
+=1 8 [G, 163 G, F#, B 8 e] [b b] [B' A F#]
+=2 2 blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 6 6 6 4 4 4 4 4 4 4 4 4 6 6 9 4 3 3 \
+ | 4 4 4 9 6 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 \
+ | 4 4 4 4 4 4 6 6 9 4 4 4 4 4 4 4 4 4 6 6 9 4 4 4 |
+|
+=1, 8 [G e 163 B e B 8 G] [A f 163 B e B 8 F#]
+=2, 2 blank 1 rest
+|
+=1 8 [<G, e> 163 G, F#, B 8 e] [b b] [B' A F#]
+=2 2 blank 1 rest
+|
+=1, 8 [A e 163 c e c 8 F#] [gb gb 163 c e c 8 F#]
+=2 2 blank 1 rest
+/
+3 bars | 3b 4 4 4 7 6 6 4 4 4 4 4 4 9 6 9 4 4 4 4 4 4 4 3 3 \
+ | 3 3 3 3  3 3 3 3  4 4 4 4  3 3 3 3  3 3 3 3  3 3 3 3  5 5 5 9 3 3 2 2 \
+ | 4 4 4  6 6 6  4 4 4  4 4 4  4 4 4  4 4 4  4 4 4  4 4 2 |
+|
+=1, 8 [eb 163 F# Bb c 8 f gb] 163 [c eb c 8 Ab c F#]
+=2  2 blank 1 rest
+|
+=1, 8 [G e 163 B e B 8 G] [A f 32 B e B G 8 F#]
+=2, 2 blank 1 rest
+|
+=1 8 [G, 163 F#, G, B 8 e] [b b] [B' An Ab]
+=2 2 blank 1 rest
+/
+3 bars | 3b 4 4 4 4 4 4 6 6 10 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 \
+ | 4 4 4 6 6 8 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 \
+ | 3 3 3 3 3 3 3 3 4 4 4 4 3 3 3 3 3 3 3 3 3 3 3 3 5 5 5 9 3 3 2 2  |
+|
+=1, 8 [d f 163 d f d 8 Ab,] 8 [b b b] 8 B
+=2 2 blank 1 rest
+|
+=1  8 [A, 163 B d gb] 8 [b b b] [B' A F#]
+=2 2 blank 1 rest
+|
+=1, 8 [G e 163 B e B 8 G] [A f 32 B e B G 8 F#]
+=2, 2 blank 1 rest
+/
+3 bars | 3b 4 4 4 9 6 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 \
+ || 3 3 3 3  3 3 3 3  4 4 4 4  3 3 3 3  3 3 3 3  3 3 3 3  5 5 5 9 3 3 2 2 \
+ | 4 4 4  9 6 6  4 4 4  4 4 4  4 4 4  4 4 4  4 4 4  4 4 2 |
+|
+=1 8 [<G, e> 163 G, F#, B 8 e] [b b] [B' A F#]
+=2 2 blank 1 rest
+|
+=1, 8 [G e 163 B e B 8 G] [A f 32 B e B G 8 F#]
+=2  cha1 4 E 4. E E
+|
+=1 8 [G, 163 G, F#, B 8 e] [b b] [B' A F#]
+=2  4 E 2 E 4 E
+@

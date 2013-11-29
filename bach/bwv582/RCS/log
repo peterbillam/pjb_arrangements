@@ -1,0 +1,42 @@
+20020913 101730 passacaglia pjb Passacaglia & Fugue in c min for 4 hands
+20020914 084716 passacaglia pjb to bar 47
+20020914 090009 p2 pjb Page 2 for the Passacaglia & Fugue
+20020914 205322 passacaglia pjb to bar 71
+20020915 090131 passacaglia pjb to bar 88
+20020916 090550 passacaglia pjb up to 112
+20020916 093438 p2 pjb filling out and shuffling around
+20020916 163229 passacaglia pjb to bar 122
+20020919 154350 passacaglia pjb up to bar 152
+20020920 155322 passacaglia pjb up to 168, end of passacaglia
+20020921 084653 passacaglia pjb squeeze last page of passacaglia
+20020921 092728 Makefile pjb Makefile for Passacaglia and Fugue BWV582
+20020922 081337 passacaglia pjb shuffle bars onto 12 pages
+20020922 200618 passacaglia pjb shuffle bars within each page
+20020923 133930 fugue pjb The Fugue from BWV582
+20020924 190708 fugue pjb up to bar 248
+20020925 153134 fugue pjb up to bar 265
+20020926 140348 fugue pjb up to bar 285
+20020926 191210 fugue pjb up to end
+20020926 192631 fugue pjb fix a system-on-wrong-page bug
+20020927 210532 passacaglia pjb space pages 1&2, to bar 44
+20020928 150246 passacaglia pjb space pages 3&4, to bar 72
+20020928 172604 passacaglia pjb space pages 5&6, to bar 99
+20020929 104335 passacaglia pjb space pages 7&8, to bar 128
+20020929 174236 passacaglia pjb space pages 9&10, to bar 149
+20020929 201112 passacaglia pjb space pages 11&12, to end of passacaglia
+20020930 080922 fugue pjb space pages 1&2, to bar 193
+20020930 094647 fugue pjb space pages 3&4, to bar 218
+20020930 132428 fugue pjb space pages 5&6, to bar 242
+20020930 151421 fugue pjb space pages 7&8, to bar 267
+20020930 195344 fugue pjb space pages 9&10, to end of fugue
+20020930 200046 bwv582 pjb Passacaglia and Fugue rolled into one
+20020930 200159 Makefile pjb roll passacaglia and fugue into bwv582
+20021001 072243 bwv582 pjb fix a couple of misprints
+20021119 143624 bwv582 pjb tiny fixes, bar 49 conflict ok
+20030423 144012 bwv582 pjb some accidentals fixed & conflicts removed
+20030424 170109 Makefile pjb cut out a42us, rely on muscript autodetect
+20030505 082827 bwv582 pjb bar 12 Bn in treble LH
+20030525 070107 bwv582 pjb bar 254 bass 5th smq is E not D
+20030815 163149 bwv582 pjb bar 48 bass fixed, parts reassigned 160
+20031001 123057 bwv582 pjb bugs in 219, 283-4; part swap in 245-6
+20031028 130142 bwv582 pjb last qua in 177 bass is b

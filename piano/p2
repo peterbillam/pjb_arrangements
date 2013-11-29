@@ -1,0 +1,55 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.de Dp
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+
+.sp 2.0c
+.LP
+.ce 1
+\f3\s+7Schubert Dances, for piano four hands\s0\fP
+.sp 1.5c
+
+.Lp
+twelve Ländler and Waltzes, in triple time,
+one in each key signature,
+and twelve Ecossaises, in duple time,
+also one in each key signature.
+
+.Lp
+All in their original keys.
+avoid the dreaded oom-pah-pah.
+with enough lines for four hands.
+
+.Lp
+Useful as very easy pieces for playing with students,
+variety of key signatures,
+short, strong rhythm.
+
+.Lp
+Not just generic anonymous country waltzes,
+but little gems of Schubert.
+Schubert's trademark dominant chord over a continuing
+tonic pedal.
+The Op.9 No.14 Waltz in five flats
+whose second half begins, full of cheek, in D major,
+and returns to Db major through one intermediate chord,
+full of grace.
+
+.Lp
+
+.sp 1.2c
+.Lp
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP
+

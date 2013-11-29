@@ -1,0 +1,513 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	98.05.29.01.50.30;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@2nd mvt of harpsichord/directors part
+@
+
+
+1.1
+log
+@bugs in first page
+@
+text
+@5 systems /13-16-13 31 19/13-16-13-16-13 31 19/19-31-19/13 30 19-31-19/13 30 19-31-19/
+pagenum 4
+title II
+righthead Harpsichord, 2nd Mvt, Op 6 no 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble 4/4 cro rest min A cro G#
+i0.7         Soprani 1 . . .
+=2 treble 4/4 smb rest
+I0.4   Allegro
+=3 bass   4/4 smb rest
+|
+=1 cro A qua d[ B,] c[ A,] cro f
+=2 smb rest
+=3 smb rest
+|
+=1 cro e g# qua a[ e f d]
+=2 smb rest
+=3 smb rest
+|
+=1 qua e[ B, c A,] d[ B, e d]
+=2 smb rest
+=3 smb rest
+|
+il0.5             5
+=1 qua c'[ B' A G] F#[ c' B' A]
+=2 cro rest min E cro D#
+i0.7    Soprani 2 . . .
+=3 smb rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble cro G c B e
+=2 treble cro E qua A[ F#] G[ E] cro c
+=3 bass smb rest
+=4 bass   smb rest
+|
+=1 cro d# qua b[ f#] cro g qua a[ f]
+=2 cro B, d# qua e[ B, c A,]
+=3 smb rest
+=4 smb rest
+|
+=1 cro d# min e cro d
+=2 qua B'[ F# G E] A[ F B' A]
+=3 smb rest
+=4 smb rest
+|
+=1 qua e[ dn] cro c B, b
+=2 qua G#[ E e' A] d[ B, e d]
+=3 cro rest min a cro g#
+i0.7    Tenor . . .
+=4 smb rest
+|
+il0.2      10
+=1 cro e f e d
+=2 qua c'[ B' A G#] A'[ c' B' A]
+=3 cro a qua d~[ b] c~[ a] cro f~
+=4 smb rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble  cro rest <A_ C> <B_ D> <B_ E>
+=2 bass    cro rest min A cro G#
+|
+=1 cro <C E> <B_ F> <A E> <A D>
+=2 cro A qua d'[ B] c[ A] cro f
+|
+=1 cro G# E <C, min A'> cro D,
+=1 min D,
+=2 cro e g# qua a[ e f d,]
+|
+=1 <min E, cro G#'> A <Fn B'> <E G#>
+=2 qua e'[ B c A] d'[ B e' d']
+|
+il0.2      15
+=1 cro <C E A> rest min rest
+=2 qua c[ A] cro rest min rest
+/
+5 bars | 4 | 3.6 | 4 | 4 | 4 |
+|
+=1 treble cro g# min a cro g#
+i0.8       Soprani 2 . . .
+=2 treble  smb rest
+=3 bass    smb rest
+|
+=1 cro a qua rest c B,[ d c B,]
+=2 smb rest
+=3 smb rest
+|
+=1 qua c,[ A,] g'[ e'] f#'[ a' g' f']
+i0.8     Soprani 1 . . .
+=2 cro rest <E G> <F# A> <F# B'>
+=3 cro rest min e cro d#
+|
+=1 qua g'[ e' f#' d#'] e'[ G'] cro A
+=2 cro <G B'> <F# d#'> <B, e> <A, e>
+=3 cro e qua a[ f#] g[ e] cro c~
+|
+il0.2      20
+=1 cro B' qua b[ f#] cro g a(1
+i0.8       Soprani 2 . . .
+=2 <min F#, cro d#'> B' <G B'> <A, e>
+=3 cro b d~# qua e~[ b c~ a]
+/
+5 bars | 1.3 1.1 1.1 1.1 | 1.4 1 1 1 | 4 | 3 | 3 |
+|
+=1 treble qua a)1[ d#] min e cro d
+=2 treble cro <F# d#'> <G, B, e> <min F#, B, cro e'> d#'
+=3 bass   qua b[ f# g e] a[ f b a]
+|
+=1 cro e min E cro D#
+i0.8     Soprani 1 . . .
+=2 min e' cro e' d#'
+=2 min <E, B,> <F#, B,>
+=3 qua g[ f# g e] a[ f b B,]
+|
+=1 cro E qua A[ F#] G[ E] cro c
+=2 min. e' cro rest
+=2 cro B, A, G, rest
+=2 min. Er
+=3 qua c[ B c A] cro e rest
+|
+=1 cro B, d# qua e[ b c~ a]
+=2 smb rest
+=3 smb rest
+|
+il0.2      25
+=1 b[ f# g e] a[ f b a]
+=2 smb rest
+=3 smb rest
+
+5 systems /13-16-13 31 19/19-31-19/19-31-19/13-16-13 31 19-31-19/13 31 19-31-19/
+pagenum 5
+innerhead 2nd Mvt, Harpsichord, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 treble  qua g#[ e] min a cro gn(1
+i0.8           Soprani 1 . . .
+=2 bass
+=3 bass    smb rest
+|
+=1 cro g)1 min f cro e
+=2 
+=3 smb rest
+|
+=1 cro. d qua e c[ e d c]
+=2 cro rest min g cro f#
+i0.8     Tenor
+=3 smb rest
+|
+=1 cro B' A qua D[ B'] cro c#
+=2 cro g qua c~[ a] b[ g] cro e~
+=3 smb rest
+|
+il0.2   30
+=1 cro d qua d~[ a] cro b c~(1
+=2 cro d~ f~# qua g~[ d~ e~ c~]
+=3 smb rest
+|
+=1 cro c~)1 b min a
+=2 qua d~[ a b g] c~[ a d~ c~]
+=3 smb rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble  cro rest <C E> <D F> <D G>
+=2 bass    cro rest min c cro B
+|
+=1 cro <E G> <D A> <E G> <D F# A>
+=2 cro c qua f[ d,] e[ c,] cro a
+|
+=1 <min D, cro B'> G' <E G> <F A>
+=2 cro g b qua c~[ g a f]
+|
+il0.3     35
+=1 cro <F B'> <E c'> <min D, cro c'> Bb'
+=2 qua g[ d, e c,] f[ d, g G,]
+|
+=1 cro <E, Bb'> <min F, cro A'> G' <E, G'>
+=2 min. c cro c#
+/
+5 bars | 1.1 1.4 1.1 1.1 | 4 | 1.3 1.2 1 1 | 2.7 | 4 |
+|
+=1 treble  min. A' cro Bb'
+=1 treble  cro E, qua D,[ C#,] cro D, E,
+=2 bass    cro. d, qua e cro f g
+|
+=1 cro <c#' E> <F A d'> <E Bb' d'> <E A c#'>
+=2 cro a f g a
+|
+=1 min. d'
+=1 cro A, G, <F, A,> rest
+=2 qua bb[ a bb g] cro d~ rest
+|
+il0.3   40
+=1 smb rest
+=2 smb rest
+|
+=1 cro rest <D F> <E G> <E A>
+=2 cro rest min d cro c#
+/
+5 bars | 4.4 | 4 | 2 1.7 | 4 | 3 |
+|
+=1 treble qua f[ A,] min d cro c#
+=2 treble cro A qua f[ d] g[ e a g]
+i0.7                   Solo . . .
+=3 treble cro <F A> rest min rest
+=4 bass   cro d rest min rest
+|
+=1 cro d min d~ cro c~#
+=2 qua f[ d] cro a cro. e qua e
+i0.7         Tutti . . .
+=3 cro rest <F, A, d> <G, Bb, d> <E, A, c#>
+=4 cro rest qua f[ d,] e[ g a g]
+|
+=1 cro d~ qua F[ D] G[ E A G]
+=2 cro A min D cro C#
+i0.7          Solo . . .
+=3 cro <F, A, d>  rest min rest
+=4 qua f[ d,] cro rest min rest
+|
+il0.3   45
+=1 qua F[ D] cro A cro. B qua B
+=2 cro D qua c[ A,] d[ B, e d]
+i0.7           Tutti . . .
+=3 cro rest <c A,> <B, d> <B, e>
+=4 cro rest min a cro g#
+|
+=1 cro E qua c'[ A'] d[ B, e d]
+=2 cro c min a cro g#
+i0.7            Solo . . .
+=3 cro <c e> rest min rest
+=4 cro a rest min rest
+/
+5 bars | 4.4 | 4 | 4 | 2 1.5 | 3 |
+|
+=1 treble qua c[ A,] min a cro g#
+=2 treble cro rest <C A> <min B_, cro A'> G#'
+=3 bass   cro rest qua c[ A] d'[ B e' d']
+|
+=1 cro a qua d[ B,] c[ A,] cro f
+=2 cro <C E A> rest min rest
+=3 qua c[ A] cro rest min rest
+|
+=1 min. a cro d
+=2 cro rest <E G#> <E A> <D A>
+=3 cro rest qua d'[ B] c[ A] cro f
+|
+il0.3 50
+=1 cro e qua b[ g#] a[ e f d]
+=2 cro <E G#> rest min rest
+=3 cro e rest min rest
+|
+=1 qua e[ B, c A,] d[ B, e d]
+=2 smb rest
+=3 smb rest
+
+5 systems / 19-31-19 / 19-31-19 / 13 31 19-31-19 / 19-31-19 / 13 31 19-31-19 /
+pagenum 6
+innerhead 2nd Mvt, Harpsichord, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+5 bars | 1.1 1.3 1.1 1.1 | 4 | 4 | 4 | 4 |
+|
+=1 treble cro rest <B, d> <A, c> <A, d>
+=2 bass   cro rest qua b[ g#] a[ e f d,]
+|
+=1 cro <G# d'> <A c'> <A Bx'> <G#' B'>
+=2 qua e'[ B c A] d'[ B e' d']
+|
+=1 cro <E A> <E c'> <F# c'> <G B'>
+=2 qua c[ A] cro a d e
+|
+il0.4      55
+=1 cro <G c#'> <F# d'> <G#, e> <A, c e>
+=2 cro A d e A
+|
+=1 cro <A, Bx, f#> <B, e g> <c fn> <F# d#'>
+=2 cro D# E A B
+/
+6 bars | 4.4 | 2 1.5 | 4 | 4 | 3.5 |
+|
+=1 treble cro <E A e'> <E A#> <min B' cro F#,> G,
+=2 bass   cro c c# d# e
+|
+=1 cro rest <F# B'> rest <G B'>
+=2 cro rest d# rest e
+|
+=1 cro rest <d#' F#> rest <A c#'>
+=2 cro rest B rest f#
+|
+il0.4     60
+=1 cro <A Bx'> <G B'> <G Ax> <F# B'>
+=2 cro d# e c# d
+|
+=1 cro <E G B'> rest min rest
+=2 cro e rest min rest
+|
+=1 cro rest <E G> <F# A> <F# B'>
+=2 cro rest min e cro d#
+/
+6 bars | 4.4 | 1 1.3 1 1 | 3 | 3.2 | 1 1.3 1 1 | 3.2 |
+|
+=1 treble cro e qua a[ f#] g[ e] cro c~
+=2 treble cro <E G B'> rest min rest
+=3 bass   cro e rest min rest
+|
+=1 min. b cro a
+=2 cro rest <Ax, B, d#> <G, B, e> <A, e>
+=3 cro rest qua a[ f#] g[ e] cro c~
+|
+il0.6      65
+=1 cro b qua f#[ d#] e[ B, c A,]
+=2 cro <F#, d#> rest min rest
+=3 cro b rest min rest
+|
+=1 cro b qua f#[ d#] e[ B, c A,]
+=2 smb rest
+=3 smb rest
+|
+=1 cro B, rest rest <e c>
+=2 cro rest <D# B'> <E B'> <E A>
+=3 cro rest qua b[ f#] g[ e c~ a]
+|
+=1 cro <B, d#> qua b[ f#] g[ e] cro a(1
+=2 cro <D# F# B'> rest min rest
+=3 cro b rest min rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble cro rest <E G c'> <Ex F# B'> <D# F# B'>
+=2 bass   cro rest qua c~[ g] a[ f# b a]
+|
+il0.4     70
+=1 min <E G B'> cro <E A> <D# B'>
+=2 qua g[ e] cro E F F#
+|
+=1 min <E' B'> cro <E c'> <E G# d'>
+=2 cro G G# A B
+|
+=1 min <E A e'> cro <A, f#> <B, f#>
+=2 cro c c# d d#
+|
+=1 cro <G, B, e> <A, c e> <G, B, e> <F#, B, d#>
+=2 cro e A B B
+/
+6 bars | 4.4 | 3 | 4 | 4 | 4 | 4 |
+|
+=1 treble cro E g qua f[ e f g]
+=2 treble cro <G, B, e> rest min rest
+=3 bass   cro E rest min rest
+|
+il0.2     75
+=1 cro e min c~ cro b
+=2 smb rest
+=3 smb rest
+|
+=1 cro c~ g min e
+=2 min rest cro rest <C E G>
+=3 min rest cro rest c
+|
+=1 min <A, c> <d f>
+=2 cro rest <C F A'> rest <D F A'>
+=3 cro rest f rest d
+|
+=1 min <B, d> <e g>
+=2 cro rest <D G B'> rest <E G B'>
+=3 cro rest g rest e
+|
+=1 min <c e> <f a>
+=2 cro rest <E A c'> rest <F A c'>
+=3 cro rest a rest f
+
+6 systems / 19-31-19 / 19-31-19 / 19-31-19 / 19-31-19 / 19-31-19 / 19-31-19 /
+pagenum 7
+innerhead 2nd Mvt, Harpsichord, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.2     80
+=1 treble cro rest <c e> <d f> <d g>
+=2 bass   cro rest min c~ cro b
+|
+=1 cro <e g> <A, d f> <G, c e> <F A c'>
+=2 cro cro c~ qua f[ d,] e[ c,] cro a
+|
+=1 cro <F Gx B'> <E G c'> <D G c'> <D G B'>
+=2 cro g c g G
+|
+=1 cro <E G c'> rest min rest
+=2 cro c rest min rest
+|
+=1 smb rest
+=2 smb rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.2     85
+=1 treble cro rest <F A> <min E, cro A'> G#'
+=2 bass   cro rest d' c B
+|
+=1 cro <C E A> <B_ E> <min A_, cro E> D
+=2 cro A G min F
+|
+=1 cro <G_# B_ E> rest min rest
+=2 cro E rest min rest
+|
+=1 cro rest <G, g> <A, g> <A, f#>
+=2 cro rest b c~ d~
+|
+=1 cro <B, g> <c e> <c fn> <B, d>
+=2 cro g a d, g
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.2      90
+=1 treble min <c e> cro rest <B, f#>
+=2 bass   min c cro rest d
+|
+=1 cro rest <G#, c e> rest <A, d>
+=2 cro rest e rest f
+|
+=1 cro <E Bb' d'> <E A c#'> min <F A d'>
+=2 cro g a min d,
+|
+=1 cro rest <c# e a> <d f a> <d g#>
+=2 cro rest A Bb Bn
+|
+=1 cro <A, e a> <A, e> <A, fn> <G, e>
+=2 cro c c# d' e
+/
+5 bars | 4 | 3.6 | 4 | 3.6 | 3.6 |
+|
+il0.2      95
+=1 treble <min A, d> cro <B, d> <B, e>
+=2 bass   cro f f# g g#
+|
+=1 cro <A, c e> <A, d f> <A, Bx, e> <G#, B, e>
+=2 cro a d, e E
+|
+=1 cro <A, c e> rest rest <F A d'>
+=2 cro A rest rest d,
+|
+=1 cro <E A c'> rest rest <f d A,>
+=2 cro a rest rest d,
+|
+=1 cro <G#, B e> rest rest <c e a>
+=2 cro e rest rest A
+/
+5 bars | 4 | 3.6 | 4 | 3.6 | 3.6 |
+|
+il0.6         100
+=1 treble cro <e b> <e g#> <e a> <d a>
+=2 bass   cro G# qua d'[ B] c[ A] cro f
+|
+=1 cro <e g#> rest rest <A, c e>
+=2 cro e rest rest a
+|
+=1 cro <B, e> <c e> <B, f#> <B, f#>
+=2 cro g# a d, d#
+|
+=1 cro <G#, B, e> <A, c e> <A, Bx, f> <G#, B, e>
+=2 cro e qua c[ A] d'[ B e' d']
+|
+=1 cro <A, c e> <A, d f> <A, c e> <A, d f>
+=2 qua c[ A f' d'] cro a d~
+/
+5 bars | 4.4 | 4.4 | 4 | 4 | 3 ||
+|
+=1 treble cro <G#, B, e> <B, e g#> <c e a> <A, d f>
+=2 bass   cro g# e c d'
+|
+=1 cro <G#, B, e> <A, c e> <A, Bx, e> <G#, B, e>
+=2 cro G# A e E
+|
+=1 min <E Fx A e'> cro rest <F#' A' d'>
+=2 min F cro rest F#
+|
+=1 cro <E B' d'> <E A c'> <E Ax B'> <E G# B'>
+=2 cro G# A min E
+|
+=1 smb <C E A>
+=2 smb A
+@

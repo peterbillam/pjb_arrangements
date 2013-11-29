@@ -1,0 +1,267 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4;
+comment	@# @;
+
+
+1.4
+date	96.09.07.14.27.54;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	96.07.28.09.40.32;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	96.07.28.09.33.45;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.07.28.09.27.04;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Brahms Ab minor Fugue; Gamba part
+@
+
+
+1.4
+log
+@added copyright notice
+@
+text
+@10 systems /24/24/24/24/24/24/24/24/24/24/
+/
+4 bars | 2 2.5 | .8 1.2 1.2 .8 | .8 1.2 .9 1.1 | .7 .5 .45 .45 .85 .6 .55 .5 |
+|
+b1.1 Johannes Brahms
+=1 bass   8/4 smb rest rest
+|
+bl1.1            Fugue in Ab minor
+=1 smb rest rest
+|
+=1 smb rest rest
+|
+b1.1                 Viola de Gamba
+=1 smb rest rest
+/
+3 bars | .5 .5 .5 .5 .75 .55 .5 .5 | .75 .55 .5 .5 .6 .5 .5 .5 | .6 .6 .5 .5 .75 .6 .5 .5 |
+|
+il0.25       5
+=1 bass   min rest cro rest c~ b e rest bb
+|
+=1 cro a d rest g# a gn min f
+|
+=1 min e min. g cro f# min a
+/
+3 bars | .55 .5 .5 .5 .85 .65 .5 .5 | .45 .45 .45 .45 .8 .5 .45 .45 | .8 .5 .6 .6 .5 .5 .4 .4 |
+|
+=1 bass   cro a g# min d~ qua d~ c~# cro d~ min e
+|
+=1 cro A c min e qua e d# cro e min dn
+|
+il0.35     10
+=1 qua d' c# cro d qua f e cro d cn e min f
+/
+3 bars | 5 | 4 | .7 .45 .55 .55 .5 .45 .5 .45 |
+|
+=1 bass   cro d, f min g cro g a b c~
+|
+=1 cro b a min b cro a c~ min d#
+|
+=1 min e cro rest g f# B rest fn
+/
+3 bars | 2.6 2.3 | 1.8 1.7 | .4 .4 .6 .4 .4 .4 .6 .4 |
+|
+=1 bass   cro e A rest d#, e dn min c
+|
+il0.3  15
+=1 min B a g f
+|
+=1 smb e e
+/
+4 bars | 5 7 5 5 7 7 5 5 | 5 7 5 5 5 5 7 5 | 5 5 7 5 7 7 7 5 | 5 7 5 7 5 7 5 5 |
+|
+=1 bass   smb e e
+|
+=1 smb e e
+|
+=1 smb e e
+|
+il0.3    20
+=1 smb. d min d#
+/
+3 bars | 4.5 | 4 | 4 |
+|
+=1 bass   smb e cro e e f# g
+|
+=1 cro f# fn e d min. c cro c~
+|
+=1 cro b bb a g min. f cro e
+/
+3 bars | 5 | 4 | 4 |
+|
+=1 bass   min A rest smb rest
+|
+il0.25   25
+=1 min rest min. d cro c# min e
+|
+=1 cro e d# smb a min g#
+/
+3 bars | 42 | 37 | 37 |
+|
+=1 bass   smb a cro a g min f#
+|
+=1 smb g g
+|
+=1 smb g g
+/
+3 bars | 2.5 2 | 3.6 | 3.6 |
+|
+il0.25     30
+=1 bass   cro g f eb c smb G
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                             This page may be freely photocopied and redistributed.
+|
+=1 smb G G
+|
+=1 cro G rest min rest smb rest
+
+10 systems /24/24/24/24/24/24/24/24/24/24/
+/
+4 bars | 3 | 2.5 | 2.5 | 4 |
+|
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+=1 bass smb rest rest
+|
+=1 smb rest rest
+|
+b1.1                                                         Viola de Gamba
+il0.25  35
+=1 smb rest rest
+|
+=1 cro rest B c g rest c# d a
+/
+2 bars | 4.3 | 3.5 |
+|
+=1 bass   cro rest eb d' c B Bb min A
+|
+=1 min d g f# fn
+/
+3 bars | 35 | 30 | 15 20 |
+|
+=1 bass   min e eb d c
+|
+il0.25      40
+=1 min d d# e rest
+|
+=1 smb rest cro rest e d# B
+/
+2 bars | 4.3 | .5 .5 .6 .5 .5 .5 .5 .5 |
+|
+=1 bass   min e cro rest d# e b rest f
+|
+=1 cro f# c~# rest g f# g# min a
+/
+2 bars | 10 13 12 10 | 7 5 6 7 5 5 4 4 |
+|
+=1 bass   min b qua c~# e f# g f' A B c min B
+|
+il0.25      45
+=1 qua rest e f# g f' F# G# A cro G F min E
+/
+2 bars | 45 | 40 |
+|
+=1 bass   cro E F# G d rest G# A e
+|
+=1 cro rest Bb A Bn min c# d#
+/
+2 bars | 10 12 15 10 | 8 13 13 8 |
+|
+=1 bass   min e cro rest g qua f#' c B A min G#
+|
+=1 min A qua A c B A G# B cro d min c#
+/
+3 bars | 4.5 | 4 | 4 |
+|
+il0.25    50
+=1 bass   min d a rest d#
+|
+=1 min e b rest f
+|
+=1 min e rest rest cro rest c~
+/
+3 bars | 4.5 | 4 | 4 |
+|
+=1 bass   cro b e rest bb a d, rest g#
+|
+=1 cro a g f# fn min e B
+|
+il0.25 55
+=1 min c c# d d#
+/
+3 bars | 45 | 40 | 40 ||
+|
+=1 bass   min e f f# g
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                             This page may be freely photocopied and redistributed.
+|
+=1 min g# a d d#
+|
+=1 smb e A
+@
+
+
+1.3
+log
+@spacing
+@
+text
+@d13 1
+a13 1
+b1.1                  Viola de Gamba
+d91 1
+d106 1
+a106 1
+b1.1                                                     Viola de Gamba
+d173 1
+@
+
+
+1.2
+log
+@spacing around bar 10
+@
+text
+@d31 1
+a31 1
+il0.3  10
+d74 1
+a74 1
+il0.25          25
+d132 1
+a132 1
+2 bars | 45 | 6 5 6 5 5 5 5 5 |
+@
+
+
+1.1
+log
+@spacing
+@
+text
+@d25 1
+a25 1
+3 bars | .55 .5 .5 .5 .85 .65 .5 .5 | .5 .5 .5 .5 .8 .5 .6 .45 | .8 .5 .5 .5 .5 .5 .4 .5 |
+a102 1
+b1.1                                                  Viola de Gamba
+d105 1
+d121 1
+a121 1
+il0.25     40
+@

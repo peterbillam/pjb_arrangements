@@ -1,0 +1,396 @@
+8 systems 15/19 22 19/ 19 22 19/ 19 22 19/ 19 22 19 10/ 19/19/19/19/
+innerhead From the playing of Mary Bergin
+leftfoot  Transcribed by Peter J Billam, 2004
+% start
+midi channel 1 patch 78
+midi channel 2 patch 25
+% stop
+/
+5 bars ||: 1# 2 | 8 | 8 | 8 | 8 |
+| 1/4 .19 .130
+ .125 .115 .125 .115 .125 .115 .125 .115
+rl1.2 .05 The Blackberry Blossom
+=1 treble 1# cha1 qua [g-fermata e]
+=2 treble 1# cha2 cro blank
+| 2/2 .135 .115 .135 .115 .135 .115 .135 .115
+=1 qua [d B] [A, d] [B' G] cro G-turn
+=2 cro <D G> G G_ G
+|
+r1.2 .04 ( Reel, minim=120 )
+=1 qua [d B] [B'-turn A] B'-. rest [g e]
+=2 qua [G_ B_] cro G D G
+|
+=1 qua [d B] [A, d] [B' G] cro G-turn
+=2 qua [B_ D] cro G D G
+|
+=1 qua [e a] cro a-turn qua [a b] [g e]
+=2 qua [C D] cro G D F
+/
+4 bars | 8 |
+|
+=1 qua [d B] [A, d] [B' G] cro G-turn
+=2 qua [B_ D] [D D] [B' G] [G G]
+|
+=1 qua [d B] [B'-turn A] B'-. rest [g e]
+=2 qua [G_ B_] cro G D G
+|
+=1 qua [d B] [A, d] [B' G] cro G-turn
+=2 qua [B_ D] cro G D G
+|
+=1 qua [e a] cro a-turn qua [a g] [e f]
+=2 cro E B_ C D
+/
+4 bars | 8 |
+|
+=1 cro. g-turn qua d [g a] [b a]
+=2 smb G_
+|
+=1 cro. g-turn qua b [a g] [e f]
+=2 cro G_ G_ min blank
+|
+=1 qua g-. rest' [g f] [g a] qua3 [b a-I3 g]
+|
+=1 qua [e a] cro a-turn [a g] [e f]
+/
+5 bars | 8 | 8 | 8 | 6 :|| 2 |
+|
+=1 cro g rest qua [g a] [b a]
+=2 smb g
+|
+=1 cro. g-turn qua b a rest [g a]
+|
+=1 qua3 [b a-I3 g] [a g-I3 f] qua [g f] [e d]
+=2 smb G_
+|
+=1 qua [e a] [a b] cro a
+|
+=1 cro rest
+
+/
+4 bars | 1# 8 | 8 |
+|
+rl1.2 .05 Maud Miller
+=1 treble 1# qua [e d] [B' A] [G B'] [D E]
+|
+=1 cro G-turn qua [A G] [d G, B d]
+|
+=1 qua [e B d B] qua3 [A B'-I3 A qua G A]
+|
+=1 qua [B e] cro e-turn qua e rest [g f]
+|
+=1 qua [e d] [B' A] [G B'] [D E]
+|
+=1 cro G-turn qua [A G] [d G, B d]
+|
+=1 qua [e B d B] qua3 [A B'-I3 A qua G A]
+|
+=1 qua [B e e-turn d] cro e-turn qua rest c
+|
+=1 qua [d e g a] [b g] cro g-turn
+|
+=1 qua [a g e f] cro g-turn qua [g-. e]
+|
+=1 qua d-. rest [g a] [b g] cro g-turn
+|
+=1 qua [a g e f] cro g-turn qua [g e]
+/
+4 bars | 1# 8 | 8 | 8 | 8 ||
+|
+=1 qua d-. rest [g a] [b g] cro g-turn
+|
+=1 qua [a g e f] cro g-turn qua [g a]
+|
+=1 qua b-. rest [a f] smq [g a g f qua e d]
+|
+=1 qua [B e smq-s f' qua e d] smq-s f' cro e qua rest g
+
+8 systems 50 /19/19/19/19 50 /19/19/19/19 50/
+/
+4 bars | 1# 8 | 8 |
+|
+rl1.2 .05 I Wish I Never Saw You
+=1 treble 1# qua [e d B A,] cro. G-turn qua A
+|
+=1 cro B-turn qua [A, d] B cro. E-turn
+|
+=1 cro. G-turn qua E [D E G A]
+|
+=1 smq-s B' qua [A G d' B'] cro A-turn qua3 [A, B-I3 d]
+|
+=1 qua [e d B A,] cro. G-turn qua A
+|
+=1 qua B-. rest [A, d] B cro. E-turn
+|
+=1 cro. G-turn qua E [D E qua3 G A-I3 B']
+|
+=1 qua [d B A, d] B cro G-turn
+|
+=1 qua [d e d c#] [B G, qua3 B c-I3 d]
+|
+=1 qua e rest smq-s b' qua [a f] smq-s a qua [g f e f]
+|
+=1 qua [d e d c#] [B G, qua3 B c-I3 d]
+|
+=1 qua [e A, f A,] smq-s f' cro. g-turn qua rest
+/
+4 bars | 1# 8 | 8 | 8 | 8 :||
+|
+=1 qua [d e d c#] [B G, qua3 B c-I3 d]
+|
+=1 qua e rest qua [a f] smq-s a qua [g f e f]
+|
+=1 qua d rest [d f] cro. e-turn qua g
+|
+=1 qua [f g a f] cro. g-turn qua rest
+
+/
+4 bars |: 1# 8 | 8 |
+|
+rl1.2 .05 Up to Your Knees In Sand
+=1 treble 1# cro. G-turn qua F [G A B' c']
+|
+i1.2 .65 ( no repeats 2nd time through )
+=1 qua [d B e B] [d' B' A G]
+|
+=1 qua [D F A F] [B' F A F]
+|
+=1 qua [D F smq-s B qua A F] smq-s A qua [G F E D]
+/
+4 bars | 1# 8 | 8 | 8 | 8 :||
+|
+=1 cro. G-turn qua F [G A B' c']
+|
+=1 qua d rest [e B] [d' B' A] rest
+|
+=1 qua B cro. e-turn qua [d' B' A G]
+|
+=1 qua [D E F D] cro. E-turn qua F
+/
+4 bars |: 1# 8 | 8 |
+|
+=1 qua G cro. B'-turn qua [g B e G,]
+|
+=1 qua F cro. A-turn qua [F A smq-s c qua d' A]
+|
+=1 qua G cro. B'-turn qua [d B d B]
+|
+=1 qua [A G F G] cro. E-turn qua F
+/
+4 bars | 1# 8 | 8 | 8 | 8 :||
+|
+=1 qua G cro. B'-turn qua [g B e G,]
+|
+=1 qua F cro. A-turn qua [F A d'-.] rest
+|
+=1 cro. G-turn qua F [G B' d' B']
+|
+=1 qua [A G F G] cro. E-turn qua F
+
+midi pause 2.0
+
+8 systems / 19 22 14 / 19 22 14 / 19 22 14 / 19 22 14 10 / 19 22 14 /
+/
+5 bars | 1# 12 | 48 | 48 | 48 |
+| 1/4 0.2029 0.1629
+rl1.2 .05 Garrai na Bhfeilog
+=1 treble 1# qua [G{2 A-I3 B'}2]
+=2 treble 1# cha2 tra-12 leg180 cro blank
+| 4/4 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629
+r1.2 .95 ( Hornpipe, minim=82 )
+=1 qua [c A,] smq-s B qua [A G] smq-s B cro A-. qua3 [A B' c']
+=2 cro A_ A A_ A
+|
+=1 qua3 [d-. c B] [A{2 G}2 F] smq-s [G B'] cro G qua3 [B{1 c#}1 d]
+=2 cro D G B_ G
+|
+=1 qua [e d] [c# A,] [d c#-.] smq-s c, qua [A G]
+=2 cro A_ qua [A A] cro A_ qua [A A]
+|
+=1 cro A-turn qua [A G] smq-s c qua A-. rest [d e]
+=2 cro A_ A A_ A
+/
+5 bars | 1# 48 | 48 | 48 | 36 :|| 12 |
+|
+=1 qua [f{,2 smq-s a' qua f] smq-s e' qua [f},2-. d] \
+ [e smq-s f' qua e] smq-s d' qua [e-. c#]
+=2 cro D A A_ A
+|
+=1 smq [c#{1 qua. d}1] smq [A,{1 B c d}1] qua [e-. f] smq-s e' qua [g-. e]
+=2 cro D A A_ A
+|
+=1 smq-s [f g] qua [a-. g] [e d] smq-s [B' c'] qua [B' A] [G-. B']
+=2 qua [A_ C#] cro A D A
+| 3/4 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629
+=1 cro A-turn qua [A G] qua A-. rest
+=2 cro A_ A A_
+| 1/4 0.2029 0.1629
+=1 qua [e f]
+=2 cro A
+/
+4 bars | 1# 48 | 48 | 48 | 48 |
+| 4/4 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629
+=1 qua [g{,2 smq-s a' qua g] smq-s f' qua [g},2-. f] \
+  smq-s [g' a'] qua [g f] [e-. f]
+=2 qua [F{2 G}2] [A_ A_] [G{2 F}2] [E{2 F}2]
+|
+=1 smq-s f' qua g-. rest smq-s a' qua [g f] smq-s a qua [g e] [d g]
+=2 cro <A_ G> qua [A_ A_] [G E] [D B_]
+|
+=1 qua [e-. a] smq-s b' qua [a g] [a{,2 smq-s b' a] smq-s g' qua [a},2-. g]
+=2 qua [A_ A_] cro c# B c#
+|
+=1 qua [e-. a] smq-s b' qua [a g] a-. rest' smq-s g' qua [a g]
+=2 qua [A_ A_] cro c# c# A
+/
+5 bars | 1# 48 | 48 | 48 | 36 :|| 12 |
+|
+=1 qua [f{,2 smq-s a' qua f] smq-s e' qua [f},2-. d] \
+ [e smq-s f' qua e] smq-s d' qua [e-. c#]
+=2 cro D A A_ A
+|
+=1 smq [c#{1 qua. d}1] smq [A,{1 B c d}1] qua [e-. f] smq-s e' qua [g-. e]
+=2 cro D A A_ A
+|
+=1 smq-s [f g] qua [a-. g] [e d] smq-s [B' c'] qua [B' A] [G-. B']
+=2 qua [A_ C#] cro A D A
+| 3/4 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629
+=1 cro A-turn qua [A G] qua A-. rest
+=2 cro A_ A A_
+| 1/4 0.2029 0.1629
+=1 smq-s [f' g'] qua [f e]
+=2 cro A
+/
+4 bars | 2# 48 | 48 | 48 | 48 |
+| 4/4 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629 0.2029 0.1629
+rl0.7 .05 Miss Galvin
+=1 2# qua d-. rest [c-emph A,] [G E] smq-s G qua [F E]
+=2 2# qua [D A] [d A,] [G A] cro d
+|
+=1 qua3 [D F-I3 D] qua [F A] [D-. A] [F A]
+=2 smq [D qua. F] qua [d d] smq [D qua. F] qua [d d] 
+|
+=1 smq-s [c' d'] qua [c d] [c A,] qua G cro. E-turn
+=2 smq [D qua. F] qua [d d] [G, d] qua [B d] 
+|
+=1 qua3 [B{,2 c-I3 d},2] qua [e-. g] smq-s e qua [f d] [e c]
+=2, qua [A e] [c e] [A d] [G d]
+|
+=1 smq [c{1 qua. d}1] qua [c-emph A,] [G E] smq-s G qua [F E]
+=2 smq [D qua. F] qua [d d] [G, d] [A, d]
+|
+=1 qua3 [D F-I3 D] qua [F A] [D-. A] [F A]
+=2 qua3 [D{2 F}2-I3 d'] qua [A, d] qua3 [D{2 F}2-I3 d'] qua [A, d]
+|
+=1 qua d-. rest [c A,] qua G cro. E-turn
+=2 qua D rest [d d] [G d'] [G d']
+|
+=1 qua3 [B{,2 c-I3 d},2] qua [e-. c] smq-s c' cro d qua rest e
+=2, qua [A d] [c e] min d
+
+|
+=1 qua3 [e{,2 f-I3 g},2] qua [a-. f] d-. rest [d e]
+=2 qua [D E] [F A] cro d D
+|
+=1 qua3 [e{,2 f-I3 g},2] qua [a-emph f] [g b] smq-s b' qua [a-emph g]
+=2 qua [D F] [A, d] [G, d] [B d]
+|
+=1 qua [f g] smq-s b'-emph qua [a f] [d c] smq-s B qua [A smq-s G, qua A]
+=2 qua [D d'] [A, d] [D d'] [A, d]
+|
+=1 qua3 [B{,2 c-I3 d},2] qua [e f] cro. g-turn qua e(1
+=2 qua [G, d] [B d] [A, e] [c e]
+/
+4 bars | 2# 48 | 48 | 48 | 48 ||
+|
+=1 qua3 [e)1{,2 f-I3 g},2] qua [a-. f] d-. rest [d e]
+=2 qua [D E] [F A] cro d D
+|
+=1 qua3 [e{,2 f-I3 g] qua [a},2-emph f] [g b] smq-s b' qua [a-emph g]
+=2 qua [D F] [A, d] [G, d] [B d]
+|
+=1 qua [f A,] [e A,] [d c] cro A-turn
+=2 qua [D d'] [A, d] [D d'] [A, d]
+|
+=1 qua3 [B{,2 c-I3 d},2] qua [e f] g-. rest smq-s [f' g'] qua [f e]
+=2 qua [G, d] [B d] [A, e] [c e]
+
+% start
+
+8 systems 60 / 19 / 19 / 19 / 19 70 / 19 / 19 / 19 / 19 70 /
+/
+4 bars ||: 2# 9 | 1.2 1 1 1 1 1 1 1 | 1.5 1 1 1 .8 .8 .8 1 | 8 |
+| 2/2 .135 .115 .135 .115 .135 .115 .135 .115
+rl1.0 .05 The Lady On The Island
+=1' treble 2# cha1  smq-s c'{2 qua [B A F}2 B] smq-s B'{2 qua [A F E}2 F]
+|
+r1.0 .34 ( Reel, minim=120 )
+=1 smq [D{2 F qua D}2 F A] smq-s c' qua [B{1 A, d}1-. B{2]
+|
+=1' smq3 [B c-I3 B qua A F}2 B{2] cro. A-turn qua B
+|
+=1 qua d},2-. rest [f{1 d}1] [e{1 f d B}1]
+/
+4 bars | 2# 9 | 8 | 1.5 1 1 1 .8 .8 .8 1 | 8 |
+|
+=1' smq-s c'{2 qua [B A F}2 B] smq-s B'{2 qua [A F E}2 F]
+|
+=1 qua [D-. A{'1 F A}'1] [G B' d' B']
+|
+=1' smq3 [B c-I3 B qua A F B{2] cro. A-turn qua B
+|
+=1 qua [d},2-. e f{1 d}1] [e A, B, c]
+/
+4 bars | 2# 1.5 1 1 1 1 1 1 1 | 9.5 | 1.5 1 1 1 .8 .8 .8 1 | 9.5 |
+|
+=1 smq [d e qua d f d] [e-. rest' g e]
+|
+=1 qua [a-. f d f] smq-s f' qua [e d smq-s [B' c'] qua B, A,]
+|
+=1 smq [d e qua d f d] [e f smq g f qua e]
+|
+=1 qua [a-. f d f] smq-s [e' f'] cro e smq rest [A B' c']
+/
+4 bars | 2# 8 | 8 | 8 | 8 :||
+|
+=1 qua [d-. rest' f d] [e f g e]
+|
+=1 qua [a-. f d f] [e d smq c B, qua A,]
+|
+=1 qua [d e f g] cro. a-turn qua b
+|
+=1 qua [a-. f d f] cro e-turn qua [d B]
+
+/
+4 bars ||: 1# 8 | 8.5 | 8 | 8 |
+| 2/2 .135 .115 .135 .115 .135 .115 .135 .115
+rl1.5 .05 The Concert Reel
+=1' treble 1# cha1  qua [B{'1 A] [G B}'1] [A E] cro E-turn
+|
+=1 qua [G{2 A}2] smq-s c' qua [B'{2 G}2] cro. A-turn qua B
+|
+=1 qua [d{1 B}1] [A{2 B'}2] cro. G-turn qua B
+|
+=1 qua d-. rest [e B] [d B] [A B']
+/
+4 bars | 1# 1 1 1 1 1 .8 .8 .8 .8 | 1 1 1 1 1.3 1 1 1 \
+ | 1 1 1 1 1.6 1 1 1 | 1 1 1 1 1 .8 .8 .8 :||
+|
+=1' smq [B{'1 c B A] qua [G B}'1] A cro. E-turn
+|
+=1 qua [G{2 A}2] [B'{2 G}2] smq [A B' qua A] qua3 [B c-I3 d]
+|
+=1 qua e-. rest [a{1 b}1] smq3 [a{1 b--I3 a qua e] [d B}'1]
+|
+=1' qua [G B] [d G] B cro. A
+/
+4 bars | 1# 8 | 8 | 8 | 8 |
+|
+=1 qua e{1 cro. a}1-turn qua e{1 cro. a}1-turn
+|
+=1 cro. e{1-turn qua f}1 [g e d B]
+|
+=1 qua d{1 cro. g}1-turn min blank
+/
+4 bars | 1# 8 | 8 | 8 | 8 :||
+|
+=1 smb blank

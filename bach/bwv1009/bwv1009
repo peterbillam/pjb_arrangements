@@ -1,0 +1,1153 @@
+11 systems 19 /19/19/19/19/19/19/19/19/19/19/19 15/
+pagenum 2
+title Cello Suite III in C major
+innerhead J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi channel 1 patch 74
+/
+4 bars | 3/4 60 | 15 20 20 | 60 | 60 |
+| 3/4 .24 .2 .2 .2 .21 .2 .2 .2 .22 .2 .2 .2
+il1.2    Prelude
+=1 treble 3/4 cha1 leg80 \
+ qua [c~{1 smq b a}1] [g f e d,] [c' G <E e'> G]
+| 3/4 .23 .2 .2 .2 .20 .2 .2 .2 .21 .2 .2 .2
+Il0.3 .34 ,
+=1' cro <C(2 c(1> smq [<C)2 c)1> <D c> <E B> <F A>] [G A B' c']
+|
+=1 smq [d{1 c}1 B, A,] [G A B' c'] [d e f d]
+|
+=1 smq [e{1 f e}1 d] [c d e f] [g a b c~]
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+il0.8 .32 5
+=1 smq [d~{1 c~}1 b a] [g a b c~] [d~ e~ f~ d~]
+|
+=1 smq [e~ f~{1 e~ d~] [c~}1 c~{1 b a] [g}1 f{1 e d]
+|
+=1 smq [c}1 b c~ d~] [e~{1 d~ c~ b}1] [a c~ g c~]
+|
+=1 smq [f# e f g] [a{1 g f e}1] [d f c f]
+/
+4 bars | 5 6 6 6 6 6 6 5 5 9 5 5 | 5 5 9 5 5 5 5 5 5 5 5 5 \
+ | 5 5 6 6  6 6 5 9 5 5 5 5 | 5 5 5 8 5 5 5 5 5 5 5 5 |
+|
+=1, smq [B a b c~] [d~{1 c~ b a}1] [g b f# b]
+|
+il0.6 .09 10
+=1, smq [e d e f#] [g{1 f e d}1] [c e B e]
+|
+=1, smq [A g a b] [c~{1 b a g}1] [f# a e a]
+|
+=1, smq [d c d e] [f#{1 e d c}1] [B d A d]
+/
+4 bars | 5 5 9 5 5 6 6 6 6 6 6 5 | 6 6 6 5 5 5 5 5 6 6 9 5 \
+ | 5 5 9 5  5 5 5 5  5 5 5 5 | 5 6 5 5 5 5 5 5 6 6 6 5 |
+|
+=1, smq [G d e f#] [g a b c~] [d~{1 c~ b}1 a]
+|
+=1 smq [b c~ d~{1 c~}1] [b a g a] [b{1 a}1 g fn]
+|
+il0.8 .23 15
+Il0.6 .10 ,
+Il0.2 .45 ,
+=1, smq [e g{1 e}1 c#] [A B c d] [e f g e]
+|
+Il0.5 .42 ,
+=1, smq [f d~{1 a}1 f] [d e f g] [a b c~ a]
+/
+4 bars | 6 6 9 5  9 5 5 6  6 6 6 5 | 6 6 6 6 9 5 5 5 5 5 5 5 \
+ | 5 5 9 5 5 5 5 5 9 5 5 5 | 6 5 5 9 6 5 5 5 6 6 5 5 |
+|
+Il1.0 .09 ,
+Il0.6 .43 ,
+=1, smq [b d~{1 b}1 g#] [e f# g a] [b c~ d~ b]
+|
+=1 smq [c~ d~{1 c~ b] [a}1 fn{1 e d] [c'}1 B'{2 A G]
+|
+=1 smq [F}2 A B' c#'] [d e f d] [b{1 g#}1 a d]
+|
+il0.6 .08 20
+=1, smq [<E e{1> B}1 e a] [g#{1 b}1 e g] [b d~{1 c~}1 g]
+/
+4 bars | 9 5 6 6  5 5 6 6  6 5 6 5 | 5 5 6 6  5 5 6 6  5 5 6 5 \
+ | 5 5 6 6 5 5 6 6 6 9 9 5 | 5 6 9 6 6 6 9 6  6 6 9 5 |
+|
+=1 smq [a{1 d#}1 a{1 b] [a}1 d a{1 b] [a}1 d a b]
+|
+=1 smq [c~{1 e}1 a{1 b] [c~}1 e a{1 b] [c~}1 e b c~]
+|
+=1 smq [d~{1 e}1 b{1 c~}1] [d~ e b c~] [d~{1 b g# f#}1]
+|
+=1 smq [e c~ a{1 g#] [a}1 c~ a{1 g#] [a}1 c~ a f#]
+/
+4 bars | 6 6 9 6 6 6 9 6 6 6 9 5 | 5 9 9 5  5 9 5 5 5 5 5 5 \
+ | 5 5 5 5 5 5 6 6 6 6 5 5 | 5 5 5 5 5 5 6 6 6 6 5 5 |
+|
+il0.8 .04 25
+=1 smq [d# c~ a{1 g#] [a}1 c~ a{1 g#] [a}1 c~ a fn]
+|
+=1 smq [dn b g#{1 f#] [g}1 b fn{1 e] [f}1 b e d]
+|
+=1, smq [c{1 A}1 c e] [c A c-. e--.] [a{1 c~}1 a e]
+|
+=1, smq [c{1 A}1 c e] [c A c-. e--.] [a c~{1 a}1 f]
+/
+4 bars | 5 5 5 5 5 5 5 5 6 6 5 5 | 5 5 5 5 5 5 5 5 5 6 5 5 \
+ | 5 5 5 5 5 5 5 8 6 5 5 5 | 5 5 5 5  5 5 5 6  9 6 5 5 |
+|
+=1, smq [d{1 B}1 d g] [d B d-. g-.] [b{1 d~}1 b g]
+|
+il0.7 .07 30
+=1, smq [f{1 B}1 f g] [f <B rest''> f-. g-.] [f d~{1 b}1 g]
+|
+=1, smq [e{1 c}1 e g] [e c e-. g-.] [bb{1 d~}1 b g]
+|
+=1, smq [e{1 c}1 e g] [e c e-. g-.] [c~{1 bb}1 a g]
+/
+4 bars | 5 5 5 5 5 8 6 6 6 5 5 5 | 5 5 5 5 5 5 8 5 5 5 5 5 | 60 | 60 |
+|
+=1 smq [a f{1 e f}1] [g a bn c~] [d~{1 a}1 f d]
+|
+=1 smq [g e{1 d e}1] [f g a bn] [c~{1 g}1 e c]
+| 3/4 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2 .2
+il0.8 .04 35
+=1 smq [f d f{1 g] [f}1 d f{1 g] [f}1 c f{1 g]
+| 3/4 .22 .22 .2 .2 .2 .23 .2 .2 .2 .23 .2 .2
+=1, smq [f}1 B f{1 g] [f}1 A f{1 g] [f}1 G f{1 g}1]
+/
+4 bars | 5 5 5 5 5 5 5 6 5 5 5 5 | 60 \
+ | 5 5 5 5 5 5 5 6 5 5 5 5 | 6 5 5 5  5 5 5 5  5 5 5 5 |
+| 3/4 .24 .2 .2 .2 .22 .2 .2 .2 .22 .2 .2 .2
+=1 smq [e' G <C c'> G] [e' G <C c'> G] [e{1 d c}1 B,]
+|
+=1, smq [A e c~ e] [A e c~ e] [A g{1 f}1 e]
+|
+=1 smq [f' A <D d'> A] [f' A <D d'> A] [f{1 e d}1 c]
+|
+il0.8 .04 40
+=1 smq [B f# d~ f] [B f d~ f] [B a{1 g}1 f]
+/
+4 bars | 5 5 5 5 5 5 5 5 8 5 5 5 | 5 5 5 5 5 5 5 5 6 5 5 5 \
+ | 60 | 5 6 6 5 5 6 6 5 5 6 6 6 5 |
+|
+=1, smq [g B <E e> B] [g B <E e> B] [g{1 fn e}1 d]
+|
+=1 smq [c g e~ g] [c g e~ g] [c bb{1 a}1 g]
+|
+=1, smq [a c F c] [a c F c] [a{1 g f}1 e]
+|
+=1 smq [d a f~ a] [d a f~ a] [d a b{1 c~}1]
+
+
+11 systems 10 /19/19/19/19/19/19/19/19/19/19/19 15/
+pagenum
+innerhead Cello Suite III in C major,  J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi channel 1 patch 74
+/
+4 bars | 6 7 7 4 6 7 7 4 6 7 7 4 | 6 7 7 4 6 7 7 4 6 7 7 4 \
+ | 6 7 7 4 6 7 7 4 6 7 7 4 | 6 7 7 4 6 7 7 4 6 7 7 4 |
+|
+il0.9 .02 45
+=1, smq [G b f~ b] [G b f~ b] [G b f~ b]
+|
+=1, smq [G c~ e~ c~] [G c~ e~ c~] [G c~ e~ c~]
+| 3/4 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2 .2
+=1, smq [G c~ d~ c~] [G b d~ b] [G a d~ a]
+| 3/4 .2 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+=1, smq [G b d~ b] [G b g~ b] [G b d~ b]
+/
+4 bars | 5 7 7 4 6 7 7 4 6 7 7 4 | 5 7 7 4 6 7 7 4 6 7 7 4 \
+ | 5 7 7 4 5 6 6 4 5 6 6 4 | 5 6 6 4 5 6 6 4 5 6 6 4 |
+| 3/4 .2 .22 .22 .2 .2 .22 .2 .2 .2 .22 .2 .2
+=1, smq [G b c~ b] [G a c~ a] [G g c~ g]
+| 3/4 .2 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+il0.8 .04 50
+=1, smq [G a c~ a] [G a f~ a] [G a c~ a]
+| 3/4 .2 .22 .22 .2 .2 .22 .2 .2 .2 .22 .2 .2
+=1, smq [G a b a] [G g b g] [G f b f]
+| 3/4 .2 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+=1, smq [G g b g] [G g e~ g] [G g b g]
+/
+4 bars | 60 | 60 | 60 | 60 |
+| 3/4 .2 .22 .22 .2 .2 .22 .2 .2 .2 .22 .2 .2
+=1, smq [<G rest''> g a g] [G f a f] [G e a e]
+| 3/4 .2 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+=1, smq [G f a f] [G f d~ f] [G f a f]
+| 3/4 .22 .2 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+il0.8 .04 55
+=1, smq [G f b f] [G f d~ f] [G f b f]
+| 3/4 .2 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+=1, smq [G e c~ e] [G e e~ e] [G e c~ e]
+/
+4 bars | 60 | 6 5 5 5  5 6 5 5 5 5 5 5 \
+ | 6 5 5 5 5 5 5 5 6 5 5 5 | 6 5 5 5 5 5 5 5 5 5 5 5 |
+| 3/4 .22 .2 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+=1, smq [G f b f] [G f d~ f] [G f b f]
+| 3/4 .2 .22 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2
+=1, smq [G eb c~ e] [G e e~b e] [G e c~ e]
+| 3/4 .2 .22 .2 .2 .2 .22 .2 .2 .2 .22 .2 .2
+=1, smq [G f# c~ f] [G d c~ d] [G en c~ e]
+|
+il0.8 .04 60
+=1, smq [G f# c~ f] [G e c~ e] [G f c~ f]
+/
+4 bars | 5 6 7 5 8 5 5 5 5 5 5 4 \
+ | 6 5 5 6 6 5 5 6 6 5 5 4 \
+ | 5 5 6 5 5 5 8 5 5 5 5 4 | 60 |
+| 3/4 .25 .2 .22 .2 .2 .2 .2 .2 .2 .2 .2 .2
+=1, smq [G g b{1 a}1] [g fn e d] [g e g d]
+| 3/4 .25 .22 .2 .2 .2 .2 .2 .2 .2 .2 .2 .2
+=1, smq [g c# g{1 a] [g}1 c g{1 a] [g}1 c g{1 a}1]
+| 3/4 .25 .2 .22 .2 .2 .2 .2 .2 .2 .2 .2 .2
+=1, smq [f d a{1 g}1] [f e d cn] [f d f c]
+| 3/4 .25 .22 .2 .2 .2 .2 .2 .2 .2 .2 .2 .2
+=1, smq [f B f{1 g] [f}1 B f{1 g] [f}1 B f{1 g}1]
+/
+4 bars | 60 | 8 5 5 5 5 5 5 5 5 5 5 5 | 60 | 60 |
+| 3/4 .24 .2 .2 .2 .22 .2 .2 .2 .22 .2 .2 .2
+il0.7 .02 65
+=1 smq [e c g{1 f}1] [e d c B,] [c' A c' G]
+|
+=1' smq [c F# c{2 d] [c}2 F c{2 d] [c}2 F c{2 d}2]
+|
+=1, smq [B G B d] [B G B d] [B <F f> B d]
+|
+=1' smq [Bb <E e> B{2 c] [B}2 <E e> B{2 c] [B}2 <E e> B{2 c}2]
+/
+4 bars | 60 | 60 | 60 | 5 5 5 5 5 5 5 8 6 6 5 5 |
+|
+=1, smq [A <F f> A c] [A <F f> A c] [A <E e> A c]
+|
+il0.8 .04 70
+=1' smq [Bn <D d> B f] [B <D d> B f] [B <D d> B f]
+|
+=1 smq [e' <C c'> <D d'> <E e'>] [<F f'> G A B'] [c d e f]
+|
+=1 smq [g e c d] [e f g a] [bb{1 a}1 b g]
+/
+4 bars | 5 5 5 5  5 5 8 6  6 6 6 5 | 5 5 5 5 5 6 6 6 6 6 6 5 \
+ | 6 5 5 5 6 6 6 6 6 6 6 5 | 6 6 5 5 5 5 5 5 5 5 5 5 |
+|
+=1 smq [a f d e] [f g a bn] [c~{1 b}1 c~ a]
+|
+=1 smq [b g e f] [g a b c~] [d~{1 c~}1 d~ b]
+|
+il0.7 .20 75
+=1 smq [c~ a f g] [a b c~ d~] [e~{1 d~ e~}1 c~]
+|
+=1 smq [b{1 a b}1 g] [f{1 e f}1 d] [B'{2 A B'}2 G]
+/
+4 bars | 60 | 60 | 60 | 60 |
+|
+=1 smq-s [F G d'] cro b rest rest
+|
+=1 smq [<E, e> c~{1 b a}1] [g f e d] [c' G <E e'> G]
+|
+=1 smq-s [c eb g] cro a rest rest
+|
+il0.7 .40 80
+=1 smq-s [G, d f] cro b rest rest
+/
+4 bars | 4 4 5 3 3 3 3 4 5 3 3 3 3 4 5 3 3 3 3 \
+ | 4 4 5 3 3 3 3 5 5 6 6 5 5 6 5 \
+ | 4 4 8 3 3 3 3  5 5 6 6 5 5 6 5 \
+ | 4 4 4 3 3 3 3 5 5 5 5 5 5 5 5 |
+|
+=1 smq-s [c e g] cro c~ smq-s [G, d] cro c~ smq-s [G, d] cro b
+| 3/4 .2 .15 .15 .23 .2 .2 .2 .20 .2 .2 .2 .21 .2 .2 .2
+=1 smq-s [c e g] cro c~(1 smq [c~)1 e c~{1 d~] [c~}1 e c~ d~]
+|
+=1 smq-s [c e g] cro bb(1 smq [b)1 e b{1 c~] [b}1 e b c~]
+|
+=1 smq-s [c e f] cro a(1 smq [a)1 f{1 e f}1] [a f{1 e f}1]
+/
+4 bars | 4 6 8 4 4 4 4 6 6 6 6 6 6 6 6 | 8 8 8 8 8 8 9 \
+ | 60 | 4 4 6 4 4 4 4 4 4 4 4 4 4 4 4 ||
+|
+il0.7 .02 85
+=1 smq-s [c d ab] cro bn(1 smq [b)1 c~ b c~] [b c~ b c~]
+| 3/4 .23 .2 .2 .2 .20 .2 .2 .2 .21 .2 .2 .2
+=1 min. b-tr smq-s [a b]
+|
+=1 qua [c~{1 smq b a}1] [g f e d,] [c' G <E e'> G]
+|
+=1 smq-s [<C c'> <G e'> <e' g'>] cro c~ rest rest
+midi pause 3.0
+
+12 systems 15 /19/19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum
+innerhead Cello Suite III in C major,  J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi channel 1 patch 74
+/
+3 bars | 4/4 15 | 5 7 5 5 5 7 5 5 5 7 5 5 5 5 5 5 \
+ | 5 6 5 5  5 6 5 5  5 4 5 5  6 6 5 5 |
+| 3/16 .75
+il1.2    Allemande
+=1 treble 4/4 cha1 leg75 smq [g a b]
+| 4/4 4.0
+=1 smq [c~{1 dsq b a}1 smq g f] [e dsq g{1 f}1 smq e d] \
+ [c' dsq <G{2 g'> <F}2 f'> smq <E e'> <D d'>] [<C c'> c' d' e']
+|
+=1 smq [f{1 dsq e d smq e}1 g] [d{1 dsq c B smq c}1 g] \
+ qua [B'-tr smq A{2 G}2] dsq [g{1 f e f smq g}1 e]
+/
+2 bars | 10 10 14 10 10 10 14 10 | 14 10 10 10 9 9 14 10 |
+|
+=1 smq [A, g c~ e] dsq [f{1 e d e smq f}1 d] \
+ smq [G, f b d] dsq [e{1 d c d smq e}1 c]
+|
+=1 min blank qua blank rest'' cro blank
+=1 dsq [F,{'1 A, B, c smq d}1 f] [e{1 c}1 G, B] qua [c' C] \
+ dsq [e{1 d c B smq c}1 e]
+/
+2 bars | 5 5 5 5 5 5 5 5 5 5 4 5 7 7 7 5 5 | 5 7 5 6 5 5 5 5 5 6 5 5 5 5 5 5 |
+| 4/4 4.25
+il0.7 .02 5
+=1 smq [f# a d~ f{1] [g}1 B, A,{1-tr G,}1] \
+ dsq-s [F#, d] qua. [a dsq d{1 e}1] [f{1 g a b smq c~}1 a]
+| 4/4 4.0
+=1 smq [b dsq d{1 c smq d}1 e] [fn A,{1 B,}1 f] \
+ [e c f# c] [g c a G,]
+/
+2 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  4 4 4 5 3 3 3 3  4 4 4 4 3 3 3 3 \
+ | 6 7 6 6 8 8 6 7  6 6 6 6 6 8 8 6 6 |
+|
+=1, smq [b G c~ G] [d~ G e~ G] dsq [f~#{1 c~ d c~}1 smq f~# c~] \
+ dsq [b{'1 d~ e~ f~ smq g~}1 b]
+|
+=1 smq [a g~{1 f~#}1 d] dsq [g{'1 b c~ d~ smq e~}1 g{1] \
+ smq [f#}1 e~{1 d~}1 B] dsq [e{'1 g a b smq c~}1 e]
+/
+2 bars | 6 6 6 6 8 6 6 6 6 8 6 8 6 8 6 8 \
+ | 3 3 4 4 3 3 3 3  4 4 6 4 3 3 3 3  3 3 4 4 3 3 3 3 4 4 4 4 3 3 3 3 |
+|
+=1 smq [d c~{1 b}1 G,] dsq [c{1 B smq c}1 e B{1] \
+ smq [c}1 dsq f#{1 e smq f}1 dsq c{1 B] smq [c}1 dsq g{1 f smq g}1 dsq c{1 B]
+|
+il0.7 .02 10
+=1 smq [c}1 dsq a{1 g smq a}1 c] dsq [B{1 d e f# smq g}1 d~{1] \
+ smq [c~}1 dsq f{1 e smq f}1 A,] dsq [G,{'1 B c d smq e}1 b{1]
+/
+3 bars | 5 7 6 5 7 7 5 6 7 7 5 5 5 5 5 5 \
+ | 5 7 5 7 5 5 6 5 3 3 3 3 5 :||: 5 6 4 |
+|
+=1 smq [a}1 dsq d{1 c smq d}1 F#,] dsq [<E,{'1 G,> G, A, B smq c}1 g] \
+ dsq [f#{1 a b c~ smq d~}1 c{1] [B}1 g A, f{1]
+| 25/16 3.25
+=1  smq [g}1 dsq b{1 c~ smq d~}1 dsq g{1 a] smq [b}1 g d f#] cro g smq rest'
+| 3/16 .75
+=1 smq [d~ e~ f~#]
+/
+2 bars | 6 7 5 5 5 7 5 5 5 7 5 5 5 5 5 5 | 7 7 5 5 5 7 5 5 6 5 5 5 7 7 5 5 |
+| 4/4 4.0
+=1 smq [g~{1 dsq f~# e~}1 smq d~ c~] [b dsq d~{1 c~}1 smq b a] \
+ [g dsq d{1 c}1 smq B, A,] [G, b c~ d~]
+|
+=1 dsq [e~{1 d~ c~ b smq c~}1 a] [f dsq d{1 e}1 smq f b] \
+ smq [g#{1 f#}1 e d] dsq [c{1 B c d smq e}1 c]
+/
+2 bars | 5 5 5 5 5 5 5 5 7 7 7 12 5 5 6 6  5 5 5 5 5 5 5 5 7 7 7 7 5 5 5 5 \
+ | 7 7 7 7 5 5 5 5  7 12 7 7 5 5 5 5  5 4 5 4 5 4 12 12 7 7 7 7 5 5 5 5 |
+|
+il0.5 .02 15
+=1 smq [Fn,{1 A,}1 c e] dsq [d{1 c d e smq fn}1 d] \
+ smq [g#{1 d}1 <E, G#,> b] dsq [c~{1 b a b smq c~}1 a]
+|
+=1 dsq [f{1 e d e smq f}1 d] dsq [B'{2 A G# A smq B'}2 d'] \
+ qua. <E B'> dsq [e{1 f#}1] dsq [g#{1 a b c~ smq d~}1 b]
+/
+2 bars | 7 7 12 7 5 5 5 5  5 5 5 5 6 6 5 5  6 6 4 4 4 4 4 4 7 7 \
+ 5 5 7 7 5 5 7 7 | 11 14 10 10 10 10 10 10 10 14 10 12 14 14 10 10 |
+| 4/4 4.25
+=1 dsq [c~{1 b a g# smq a}1 c{1] smq [d}1 b e g#] \
+ dsq-s [A, e] qua. [a dsq c~{1 d~] smq [e~}1 dsq a{1 b smq c~}1 dsq e{1 f]
+| 4/4 4.0
+=1 smq [gn}1 dsq bb{1 a smq b}1 c] [E, b{1 a}1--tr g] \
+ smq [a dsq f{1 e smq f}1 a] dsq [c#{1 d e f smq g}1 A,]
+/
+2 bars | 10 14 10 14 10 14 10 10 14 14 10 10 14 14 10 10 \
+ | 20 20 28 20 20 20 28 20 |
+|
+=1 smq [D, dsq d{1 e smq f}1 dsq f{1 g}1] smq [a{1 dsq b c~ smq d~}1 c~] \
+ dsq [b{1 f G, f smq b}1 f] dsq [e{1 g a b smq c~}1 e]
+|
+il0.7 20
+=1 smq [d c~{1 b}1 G,] dsq [c{1 e f g smq a}1 c{1] \
+ smq [B}1 a{1 g}1 E,] dsq [A,{1 c d e smq f}1 A,{1]
+/
+2 bars | 5 5 5 5 5 7 5 7 5 7 5 7 5 7 5 5 | 5 4 7 7 7 5 5 5 5 7 5 7 5 7 5 7 |
+|
+=1 smq [G}1 f' e' C] [F, dsq a{1 g smq f}1 dsq f{1 e] \
+ smq [d}1 dsq c~{1 b}1 smq c~{1 dsq b a] smq [g}1 dsq f{1 e smq d}1 b]
+|
+=1 qua [c~ dsq A, bb{1 a g}1] [f{1 e}1 smq f a e{1] \
+ [f}1 dsq bn{1 a smq b}1 dsq f{1 e] smq [f}1 dsq c~{1 b smq c~}1 dsq f{1 e]
+/
+2 bars | 10 14 10 10 14 14 10 10 10 14 10 10 10 10 10 10 \
+ | 5 5 7 7 5 5 7 7 5 5 7 7 5 5 5 5 5 5 6 4 4 4 4 4 4 4 4 5 5 :||
+|
+=1 smq [f}1 dsq d~{1 c~ smq d~}1 f] dsq [e{1 d c d smq e}1 g] \
+ [c~{1 dsq b a smq g}1 f] [e{1 c}1 G, B,]
+|
+=1 smq [c dsq c~{1 b smq c~}1 dsq g{1 f] smq [g}1 dsq e{1 d smq e}1 c] \
+ dsq-s [C G e'] cro c~ smq rest'
+midi pause 3.0
+
+11 systems 15 /19/19/19/19/19/19/19/19/19/19/19 10/
+pagenum
+innerhead Cello Suite III in C major,  J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi channel 1 patch 74
+/
+7 bars | 3/4 10 | 60 | 60 | 60 | 60 | 60 | 60 |
+| 1/8 .18
+il1.2    Courante
+=1 treble 3/4 cha1 leg75 qua c~
+| 3/4 .18 .17 .17 .17 .17 .17 .17
+=1, qua [c~{1 g}1 e c G <E e>]
+|
+=1, qua [<C c> c~{1 d~ c~ b c~}1]
+|
+=1, qua [d~ b g d B G]
+|
+=1, qua [F d~ c~{1 b}1 a g]
+|
+il0.7 .48 5
+=1, qua [c~{1 b}1 a g f e]
+|
+=1, qua [f d G a{1 g}1 f]
+/
+6 bars | 60 | 9 9 9 13 13 10 | 60 | 60 | 10 10 14 10 10 10 | 60 |
+|
+=1, qua [e{1 d}1 c B c G]
+|
+=1 cro. <C c'> smq [c d qua e f#]
+|
+=1, qua [B d g{1 a}1 b c~]
+|
+il0.7 .01 10
+=1, qua [g# d~ e d~{1 c~}1 b]
+|
+=1, qua [c~{1 b}1 a g# a e]
+|
+=1, qua [c{1 d}1 e c A G]
+/
+6 bars | 10 10 10 14 10 10 | 14 10 10 10 10 10 | 10 10 14 10 10 10 \
+ | 10 10 10 10 14 10 | 10 10 10 14 10 10 | 60 |
+|
+=1, qua [F# A d e f# g]
+|
+=1, qua [a{1 f#}1 d c~{1 b}1 a]
+|
+il0.7 .45 15
+=1, qua [b{1 a}1 g f# g d]
+|
+=1, qua [B{1 c}1 d B G <Fn fn>]
+|
+=1, qua [<E e> g{1 a g f# g}1]
+|
+=1, qua [c{1 d}1 c B A G]
+/
+6 bars | 60 | 60 | 60 | 10 12 12 14 12 10 | 10 12 12 12 12 10 | 60 |
+|
+=1, qua [F# a{1 b a g a}1]
+|
+il0.7 .01 20
+=1, qua [c{1 e}1 d c B A]
+|
+=1, qua [G b{1 c~ b}1 e b]
+|
+=1, qua [A c~{1 d~ c~}1 f# c~]
+|
+=1, qua [B d~ e~{1 d~}1 c~ b]
+|
+=1, qua [a{1 g}1 f{1 e f}1 d]
+/
+6 bars | 60 | 10 10 10 14 10 10 | 10 10 14 10 10 10 \
+ | 10 14 10 10 10 10 | 10 12 12 14 12 10 | 9 9 12 12 14 10 |
+|
+il0.5 .01 25
+=1, qua [c f{1 e d}1 e c]
+|
+=1, qua [B c{1 d e}1 f# g]
+|
+=1, qua [A d{1 e f#}1 g a]
+|
+=1, qua [G e{1 f# g}1 a b]
+|
+=1, qua [<D d> c~ a c~ f# c~]
+|
+il0.7 .01 30
+=1, qua [d vol-12 c~ a c~ f# c~]
+/
+6 bars | 9 10 10 15 10 10 | 9 10 10 15 10 10 | 9 10 10 15 10 10 \
+ | 9 10 10 15 10 10 | 9 14 10 10 14 10 | 9 9 9 14 10 10 |
+|
+=1, qua [<D d> vol+12 bb g b f# b]
+|
+=1, qua [d vol-12 bb g b f# b]
+|
+=1, qua [<Eb eb> vol+12 a g a f# a]
+|
+=1, qua [eb vol-12 a g a f# a]
+|
+il0.7 .45 35
+=1, qua [c~{1 a}1 f# d A <F# f#>]
+|
+=1  cro. <D d'> qua [d f# a]
+/
+7 bars | 10 12 12 12 10 10 | 12 12 10 10 14 10 | 10 10 10 10 14 10 \
+ | 8 8 8 8 10 :||: 10 | 12 10 10 10 10 10 | 60 |
+|
+=1, qua [b{1 c~}1 d~ a b g]
+|
+=1, qua [a{1 b}1 c~ g{1 a}1 f#{1]
+|
+=1, qua [g}1 d{1 e}1 c{1 A}1 f#]
+|
+il0.7 .01 40
+=1, min <G, g> qua rest
+| 1/8 .18
+=1 qua d~
+| 3/4 .18 .17 .17 .17 .17 .17 .17
+=1, qua [d~{1 b}1 g d B d]
+|
+=1, qua [f d B{1 A B}1 G]
+/
+6 bars | 18 20 20 | 12 12 12 12 12 10 | 60 \
+ | 10 10 12 12 12 10 | 14 10 10 12 10 10 | 10 14 10 10 10 10 |
+|
+=1' qua [<C c> f{2 e}2 d e g]
+|
+=1, qua [c~{1 d~ e~}1 b{1 c~}1 a]
+|
+il0.7 .45 45
+=1, qua [f{1 g a}1 e{1 f}1 d]
+|
+=1, qua [B a b c~ d~{1 b}1]
+|
+=1, qua [g#{1 f# g}1 a b g]
+|
+=1, qua [e b g# e e~ d{1]
+/
+6 bars | 60 | 60 | 60 \
+ | 10 12 12 12 12 10 | 10 12 12 12 14 10 | 10 12 12 12 14 10 |
+|
+=1, qua [c}1 a e c{1 B}1 gn]
+|
+il0.6 .05 50
+=1, qua [A f c A{1 G}1 e]
+|
+=1, qua [F d A <F f>{1 <E e>}1 c]
+|
+=1, qua [<D d> c~{1 b c~ d~}1 b]
+|
+=1, qua [c e~{1 d~}1 c~ b a]
+|
+=1, qua [e d~{1 c~}1 b a g#]
+/
+6 bars | 60 | 27 45 | 10 10 10 10 14 10 | 10 12 14 12 10 10 | 60 | 60 |
+|
+il0.6 .05 55
+=1, qua [a e{1 d c}1 d e]
+|
+=1 cro. A smq [a b c~ b c~ a]
+|
+=1, qua [g e c e g bb]
+|
+=1, qua [e d~{1 c~ bb}1 a g]
+|
+=1, qua [a f{1 e f}1 c f]
+|
+il0.6 .05 60
+=1, qua [A c F a{1 g a}1]
+/
+6 bars | 60 | 10 10 14 10 10 10 | 60 | 60 | 60 | 60 |
+|
+=1, qua [bb{1 a}1 g f e g]
+|
+=1, qua [c# e G Bb{1 A}1 G]
+|
+=1  qua [F{2 <E G> F}2 G A F]
+|
+=1, qua [<D d> F A d e f]
+|
+il0.6 .05 65
+=1, qua [G# f{1 e d}1 c B]
+|
+=1, qua [A c f a f d]
+
+11 systems 8 /19/19/19 45/19/19/19/19/19/19/19/19 10/
+pagenum
+innerhead Courante, Cello Suite III in C major,  J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+/
+6 bars | 10 14 10 10 10 10 | 10 10 12 12 10 10 | 10 12 12 10 10 10 \
+ | 10 10 12 12 12 10 | 10 12 12 12 12 10 | 12 12 10 10 10 10 |
+|
+=1, qua [B a{1 gn f}1 e d]
+|
+=1, qua [c e a c~ a f]
+|
+=1, qua [d c~{1 b a}1 g f]
+|
+il0.5 .01 70
+=1, qua [e g c~ e~ c~ a]
+|
+=1, qua [f e~{1 d~ c~}1 b a]
+|
+=1, qua [b d~ b g d B]
+/
+6 bars | 60 | 60 | 60 | 60 | 60 | 60 |
+|
+=1, qua [G f d f B f]
+|
+=1, qua [G vol-13 f d f B f]
+|
+il0.6 .05 75
+=1, qua [G vol+13 eb c e B e]
+|
+=1, qua [G vol-13 eb c e B e]
+|
+=1, qua [Ab vol+13 d c d B d]
+|
+=1, qua [Ab vol-13 d c d B d]
+/
+6 bars | 60 | 9 9 9 12 12 10 | 60 | 60 | 60 | 8 12 9 9 9 9 10 :||
+|
+=1, qua vol+13 [f G B d f b]
+|
+il0.8 .25 80
+=1, cro. d~ qua [c~ b a]
+|
+=1, qua [g{1 f}1 e g f{1 d}1]
+|
+=1, qua [e{1 d}1 c e d{1 B}1]
+|
+=1, qua [c g a f{1 d}1 b]
+|
+=1 qua-s [c smq-s e g] min c~ qua rest
+midi pause 3.0
+
+/
+3 bars | 3/4 3 3 4 3 3 3 3  4 3 4 4 4  3 3 3 3 \
+ | 3 3 5 3 3 3 3  4 3 4 4 4  3 3 3 3 | 4 3 4 4 4  3 4 3 4 4 4  3 4 3 4 |
+| 3/4 .31 .31 .35 .35 .35 .35 .22 .22 .35 .35 .35 .35 .35 .35 .35 .35
+il1.2    Sarabande
+=1, treble 3/4 cha1 leg85 smq-s [c e g] cro c~ \
+ smq-s [d g] qua. [c~{1 smq a] cro b}1
+|
+=1, smq-s [c e g] cro bb smq-s [c f] qua. [b{1 smq g] cro a}1
+| 3/4 .22 .35 .35 .35 .35 .25 .25 .35 .35 .35 .35 .35 .35 .35 .35
+=1, smq-s Bn qua [d smq e{1 f}1] smq-s [G c] qua. [f{1 smq d qua e}1 f]
+/
+3 bars | 12 10 10 | 3 3 4 3 3 3 3  4 3 4 4 6  4 4 4 4 \
+ | 3 3 4 3 3 3 3  3 4 3 4 4 4  4 4 4 4 |
+| 3/4 4.2 
+=1 smq [c{1 B, c}1 A,] qua [B' d' G F]
+| 3/4 .34 .34 .35 .35 .35 .35 .23 .35 .35 .35 .35 .35 .35 .35 .35
+il0.6 .04 5
+=1, smq-s [<E G> c e] cro g smq-s A qua. [g{1 smq e] [f#}1 d{1 f}1 a]
+| 3/4 .31 .31 .35 .35 .35 .35 .22 .22 .35 .35 .35 .35 .35 .35 .35 .35
+=1, smq-s [<D A> <A d> f#] cro c~ smq-s [G d] \
+ qua. [c~{1 smq a}1] [c~{1 b}1 a g]
+/
+3 bars | 3 4 4 4 6 4  3 3 4 4 6 4 4 4 3 \
+ | 11 9 9 | 3 5 3 4 4 4 3 4 3 4 4 4 4 6 4 4 |
+| 3/4 .21 .21 .35 .35 .35 .35 .18 .35 .35 .35 .35 .35 .35 .35 .35
+=1 smq-s [c# g] qua [a smq bb c~n] smq-s d \
+ qua [b smq a c~-i(bb?),] qua [e~b f#]
+| 3/4 4.2
+=1 cro g min G
+| 3/4 .4 .7 .7 .4 .7 .7 .7 .7
+=1, smq-s [G d] qua [bn smq f{1 e}1] \
+ smq-s [G f] qua. [b smq e] [d{1 c Bn}1 A]
+/
+3 bars | 3 4 3 4 4 4 3 4 3 4 4 4 4 4 4 4 \
+ | 4 6 4 4  3 4 4 7  4 3 4 3 | 4 4 3 4 6 6 4 4 4 4 4 4 |
+|
+il0.6 .04 10
+=1, smq-s [G# d] qua [b smq f{1 e}1] \
+ smq-s [G f] qua. [b smq e] [d{1 c d}1 B]
+| 3/4 4.2
+=1 smq [c{1 e}1 g# b] qua. [a{1 dsq b c~}1] qua [d b]
+| 3/4 .7 .7 .7 .7 .9 .5
+=1 qua [a f#] smq [a{1 g# f#}1 e] qua [d-tr smq c#{1 d}1]
+/
+3 bars | 6 6 6 8 6 6 | 3 4 3 3 3 3 4 4 4 4 4.5 4 | 3 3 3 3 3 3 3 3 5 4 5 4 |
+| 3/4 4.2
+=1 qua [c# a e~ smq g~{1 f~] qua [g~}1 e~]
+|
+=1 leg65 qua c~# leg85 cro bb smq [a g] [f{1 e}1 g c#{1]
+| 3/4 .85 .75 .75 .75 .75 .75
+il0.6 .02 15
+=1 qua leg65 [d}1 f~ g e~] smq leg85 [a{1 bn}1 d~{1 c~#}1]
+/
+3 bars | 10.5 9 9 | 3 4 3 3 4 6  4 4 4 4  4 4 4 4 \
+ | 3 4 3 3 4 6 4 5 4 4 4 4 4 4 |
+| 3/4 .75 .75 .75 .75 .75 .75
+=1 cro d~ min d
+| 3/4 .47 .7 .7 .7 .7 .7 .7
+=1, smq-s [A c] qua. [f#{1 dsq g a] smq [g{1 f}1 e f] [g e{1 f}1 a]
+|
+=1, smq-s [A f#] qua. [c~{1 dsq d~ e~] smq [d~{1 c~}1 bn c~] [d~ b{1 c~}1 e~]
+/
+3 bars | 39 | 3 4 3 3 3 3  3 3 3 3  3 3 3 3 | 3 3 4 4 3.5 4 4 4 4 3 4 3 3 |
+| 3/4 .35 .35 .35 .35 .35 .35 .35 .35 .23 .35 .35 .35 .35
+=1, qua leg65 [d~ B{1] [c}1 leg85 a] smq-s d qua [b c~]
+| 3/4 .4 .7 .7 .7 .7 .8 .7
+il0.6 .04 20
+=1, smq-s [G d] qua [c~{1 b}1 a b leg75 g leg85 A{1]
+| 3/4 .35 .35 .35 .35 .22 .35 .35 .35 .35 .35 .35 .35 .35
+=1 qua [Bb}1 smq e{1 f}1] smq-s A smq [g{1 f}1 e g] qua leg75 [f leg85 Bn{1]
+/
+3 bars | 3 4 4 4  3.5 4 4 4 4 4 4 5 4 \
+ | 6 6 6 6 6 8 | 3 3 3 3 3 3 4 3 3 3 2 3 3 3 2 ||
+|
+=1 qua [c}1 smq f#{1 g}1] smq-s B \
+ smq [a{1 g}1 f a] leg75 [g leg85 d~ g{1 fn}1]
+| 3/4 4.2
+=1 qua leg70 [e leg90 c leg75 F, leg85 d] qua [G smq c'{2 B'}2]
+| 3/4 .7 .7 .5 .7 .7 .7 .7
+=1 cro c smq3-s [c e g] min c~
+midi pause 3.0
+
+% start
+
+13 systems 12 /19/19/19/19/19/19/19 20/19/19/19/19/19/19 8/
+pagenum
+innerhead Cello Suite III in C major,  J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi channel 1 patch 74
+/
+5 bars | 4/4 8 | 6 8 6 6 | 6 8 6 8 | 6 8 6 6 | 8 8 6 8 |
+| 1/4 .23 .21
+il0.8    Bourrée I
+=1, treble 4/4 cha1 leg80 qua [e f]
+| 4/4 .20 .20 .20 .20 .24 .24 .20 .20
+=1, cro g qua [c{1 B] cro c}1 c~
+|
+=1 cro b-tr qua [a b] cro g qua [d e]
+|
+=1, cro f qua [B{1 A] cro B}1 g
+|
+=1 qua [f{1 e}1 d e] cro c qua [c~{1 b}1]
+/
+4 bars | 4 4 4 5 4 4 4 4 | 4 4 4 4 4 5 4 4 | 6 8 6 6 | 18 :||
+| 4/4 1.6
+il0.7 .05 5
+=1 qua [a b{1 c~}1 g{1] [f#}1 b{1 c~}1 e{1]
+|
+=1 qua [d b{1 c~}1 c] [B d f# a]
+|
+=1 cro leg90 d~ qua leg80 [b g] cro d f#
+| 3/4 .4 .4 .45
+=1 cro g d G
+/
+5 bars | 4/4 8 | 3 3 4 5 3 3 3 3 | 4 4 4 4 3 3 5 4 \
+ | 6 8 8 8 | 4 5 5 4 3 3 4 4 |
+| 1/4 .42
+=1 qua [b c~]
+| 4/4 .20 .20 .20 .20 .24 .24 .20 .20
+il0.8 .12 10
+=1, cro d~ qua [b{1 g] cro fn}1 b
+|
+=1 qua [e{1 g}1 c~ d~] cro e~ qua [c~ g#{1]
+| 4/4 .2 .2 .2 .2 .24 .2 .2 .2
+=1 cro a}1 qua [f a] [d c~{1 b}1 a]
+|
+=1 qua [e a{1 g#}1 f#] cro e qua [b e]
+/
+4 bars | 4 5 4 4 4 4 4 4 | 32 | 4 4 4 4 3 3 5 4 | 6 6 6 8 |
+| 4/4 .24 .19 .19 .19 .22 .19 .22 .19
+=1 qua [c~ a{1 g# a}1] [b e c~ e]
+|
+=1 qua [d~ b{1 a b}1] [c~ e d~ d{1]
+| 4/4 .25 .2 .2 .2 .23 .22 .2 .22
+il0.7 15
+=1 qua [c}1 e~ b{1 c~}1] cro e qua [a{1 g#}1]
+| 4/4 .4 .4 .45 .4
+=1 cro a e A qua [a b]
+/
+4 bars | 3 4 4 5 3 3 3 3 | 8 8 6 8 | 32 | 8 8 6 8 |
+| 4/4 .22 .2 .2 .2 .2 .2 .2 .2
+=1 cro c~ qua [f#{1 e}1] cro f# d
+| 4/4 .22 .2 .2 .2 .24 .2 .2 .2
+=1, qua [G d c~ a{1] cro b}1 qua [g{1 f}1]
+|
+=1 qua [e g{1 c~}1 e{1] [d}1 f~{1 e~}1 c~]
+|
+il0.7 .45 20
+=1 qua [d~{1 c~}1 b a] cro g qua [b{1 c~}1]
+/
+4 bars | 32 | 32 | 32 | 32 |
+| 4/4 .23 .2 .2 .2 .22 .2 .2 .2
+=1 qua [d~ b g{1 a}1] [b g d{1 e}1]
+| 4/4 .23 .2 .2 .2 .2 .2 .23 .2
+=1, qua [f d B{1 c}1] [d{1 B G}1 f]
+| 4/4 .2 .2 .23 .2 .2 .2 .23 .2
+=1, qua [e{1 c}1 G g] [e{1 c}1 G c~]
+| 4/4 .21 .2 .21 .2 .2 .2 .23 .2
+=1, qua [g{1 e}1 f{1 d}1] [e{1 c}1 G e]
+/
+4 bars | 32 | 4 4 4 4 4 5 4 4 | 6 8 6 6 | 16 :||
+|
+il0.6 .02 25
+=1, qua [d e{1 f}1 c{1] [B}1 e{1 f}1 A{1]
+|
+=1 qua [G,}1 e{1 f}1 F,{2] [<E}2 G> <G Ax> B' d']
+|
+=1 cro g qua [e c] cro G B
+| 3/4 1.2
+=1 min. c
+midi pause .25
+/
+5 bars | 2b 4/4 8 | 3 3 4 5 3 3 3 3 | 4 5 4 4 4 4 4 4 | 32 | 5 4 4 4 4 4 5 4 |
+| 1/4 .45
+il1.2    Bourrée II
+=1, treble 2b 4/4 cha1 leg95 qua [c~ d~]
+| 4/4 1.7
+=1, cro e~{1 qua [d~ c~}1] cro bn c~
+|
+=1 qua leg90 [d~{1 c~}1 bn a] [g{1 f}1 e d]
+|
+=1 qua [e g{1 f}1 e] [d f{1 e}1 d]
+|
+=1 qua [c{1 Bn c}1 d] [e f g ab]
+/
+4 bars | 2b 7 8 6 6 | 4 4 4 5 4 4 4 4 | 3 3 4 4 5 4 4 4 | 18 :||
+|
+il0.7 .20 5
+=1 cro bb qua [ab{1 g}1] cro f e
+|
+=1 qua [d{1 e}1 f g] [ab b c~ d~]
+|
+=1 cro e~{1 qua [d~ c~}1] [b{1 ab}1 g f]
+| 3/4 1.38
+=1 min. e
+/
+5 bars | 2b 8 | 6 8 6 6 | 32 | 6 8 6 8 |
+| 1/4 .45
+=1, qua [e f]
+| 4/4 1.7
+=1, cro g qua [g{1 f] cro g}1 an
+|
+il0.9 .28 10
+=1 qua [b{1 a b}1 c~{1] [b c~}1 d~ b]
+|
+=1 qua [g b{1 a b}1] [c~{1 b}1 a g]
+|
+=1 cro f# qua [en f] cro d qua [d~{1 c~]
+/
+4 bars | 2b 6 8 6 6 | 5 4 4 4 3 3 3 3 | 5 4 4 4 4 4 5 4 | 3 3 3 3 3 3 5 4 |
+|
+=1 cro d~}1 qua [eb{1 d] cro e}1 g
+|
+=1 qua [c~{1 bn}1 c~ d~] cro e~{1 d~}1
+|
+il0.7 .28 15
+=1 qua [c~{1 bb}1 a g] [b{1 a}1 g f#]
+| 4/4 .44 .44 .48 .44
+=1 cro leg75 g d G qua leg90 [g{1 ab}1]
+/
+4 bars | 3 4 4 4 5 4 4 4 | 5 4 4 4 3 3 3 2 \
+ | 5 4 4 4 4 4 4 4 | 4 5 5 4 4 4 4 4 |
+| 4/4 1.7
+=1 cro b qua [ab g] [f{1 en f}1 g]
+|
+=1 qua [b{1 ab}1 g f] min d~(1
+|
+=1 qua [d~)1 bn c~ d~] [e~{1 d~}1 c~{1 e~}1]
+|
+il0.7 .49 20
+=1 qua [d~{1 c~ bn an}1] [g{1 f e d}1]
+/
+4 bars | 4 4 4 4 4 5 4 4 | 10 8 8 8 | 4 4 4 4 4 4 5 4 | 18 :||
+|
+=1 qua [e{1 d}1 f{1 e}1] [g{1 f}1 ab{1 g}1]
+| 4/4 .25 .22 .22 .22 .22 .22 .25 .22
+=1 qua [G{2 An}2 Bn' c'] [d e f d]
+| 4/4 1.8
+=1 qua [f{1 e}1 d c] [e{1 d}1 c Bn]
+|
+=1 min. c
+
+% stop
+
+13 systems 10 /19/19/19 4/19 8/19/19/19/19 4/19/19/19 4/19/19 3/
+pagenum
+innerhead Cello Suite III in C major,  J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi channel 1 patch 74
+/
+10 bars | 3/8 6 | 6 8 8 | 18  | 18 | 19 | 10 10 6 | 18 | 18 | 18 | 18 |
+| 1/8 .24
+il1.2    Gigue
+=1, treble 3/8 cha1 leg75 qua g
+| 3/8 .72
+=1, qua [c~ smq c{1 d}1 e f]
+|
+=1, qua [g a b]
+|
+=1, qua [c~{1 g}1 vol-15 e~]
+|
+=1, qua [c~{1 g}1 vol+15 e~]
+|
+il1.2 .35 5
+=1, smq [d~{1 c~}1 d~ e~ qua f~]
+|
+=1, qua [b{1 c~}1 e]
+|
+=1, qua leg90 [G leg75 d c~]
+| 3/8 .24 .30 .24
+=1, qua [b{1 g}1 d~]
+| 3/8 .27 .24 .24
+=1, qua [d~ f#{1 g}1]
+/
+8 bars | 6 10 10 | 6 8 8 | 18 | 18 | 6 10 10 | 6 8 8 | 18 | 18 |
+|
+il0.7   10
+=1, qua [e smq e~{1 d~}1 c~ b]
+|
+=1, qua [c~ smq A{1 B}1 c d]
+|
+=1, qua leg90 [e leg75 A c~]
+|
+=1, qua [c~ e{1 f#}1]
+|
+=1, qua [d smq d~{1 c~}1 b a]
+|
+il0.5 .30 15
+=1, qua [b smq G{1 A}1 B c]
+|
+=1, qua leg90 [d leg75 G b]
+|
+=1, qua [b d{1 e}1]
+/
+8 bars | 6 10 8 | 6 9 8 | 5 5 6 | 24 | 24 | 24 | 24 | 24 |
+|
+=1, qua [c smq c~{1 b}1 a g]
+|
+=1, qua [f# smq a{1 g}1 f e]
+|
+il0.4 .04 20
+=1, cro d qua d
+| 3/8 .13 .11 .13 .11 .13 .11
+=1, smq [c d B d A d]
+|
+=1, smq [B d A d B d]
+|
+=1, smq [c d B d A d]
+|
+=1 cro blank smq blank rest''
+=1, smq [B d A d G d]
+|
+=1, smq [fn G e G d G]
+/
+8 bars | 24 | 24 | 4 5 4 4 4 4 | 24 | 24 | 8 8 6 | 5 5 6 | 5 6 3 3 3 3 |
+|
+=1, smq [e G d G e G]
+|
+=1, smq [f G e G d G]
+|
+=1, smq [e G f# G g G]
+|
+=1, smq [f# G g G a G]
+|
+il0.6 .04 30
+=1, smq [g G a g b g]
+|
+=1, smq [a g b g qua leg60 c~] leg75
+|
+=1 cro d qua a
+| 3/8 .72
+=1 smq [c~ d~ qua e~b d~]
+/
+8 bars | 7 6 6 | 18 | 18 | 5 6 3 3 3 3 \
+ | 7 6 6 | 18 | 18 | 6 4 3 3 3 3 | 8 7 6 |
+|
+=1 qua [c~ bb a]
+| 3/8 .24 .27 .24
+=1 qua [f~#{1 g~}1 a]
+|
+=1 qua [f~#{1 g~}1 a]
+| 3/8 .72
+=1 smq [c~ d~ qua e~b d~]
+|
+=1 qua [c~ bb a]
+|
+=1 qua [c~#{1 d~}1 a]
+| 3/8 .24 .27 .28
+il1.1 .01 40
+=1 qua [c~#{1 d~}1 d]
+| 3/8 .25 .24 .27
+=1, smq [G Bn qua d leg90 e] leg75
+|
+=1, smq [A c qua e leg90 f#] leg75
+/
+8 bars |4 4 4 6 4 4|24|5 6 4 4 4 4|4 4 4 4 5 4|18|12 :||: 5 3 | 15 12 |
+| 3/8 .75
+=1 smq [B d g{1 e}1 fn d]
+|
+=1 smq [c{1 e}1 a b c~ a]
+|
+il0.7 .40 45
+=1 smq [d~{1 a}1 f# e d c]
+|
+=1, smq [B d g B{1 A}1 f#{1]
+|
+=1 qua leg60 [g}1 d B]
+| 2/8 .27 .28
+=1 cro leg75 G
+| 1/8 .25
+=1 smq [d~ c~]
+| 3/8 .75
+il0.9 .64 50
+=1 smq [b{1 c~}1 a{1 b}1 g{1 a}1]
+/
+8 bars |24 |12 15 |18 |12 15 |6 6 5 5 5 5 |6 4 4 4 4 4 |5 5 6| 18 |
+|
+=1 smq [fn{1 g}1 e{1 f}1 d{1 e}1]
+|
+=1 smq [c g a b c~ d~]
+| 3/8 .24 .30 .24
+=1 qua leg65 [e~ c leg75 e~]
+| 3/8 .19 .12 .12 .12 .12 .12
+=1 smq [f a{1 b c~}1 d~{1 c~}1]
+|
+il0.6 .04 55
+=1 smq [d f#{1 g# a}1 b{1 a}1]
+| 3/8 .24 .24 .27
+=1 smq [g#{1 f#}1 g a b{1 g}1]
+| 3/8 .77
+=1 cro e qua b{1
+| 3/8 .28 .24 .24
+=1 qua [c~}1 e{1 f}1]
+/
+9 bars | 6 10 8 | 6 8 8 | 18 | 18 \
+ | 3 3 7 5 5 4 | 3 3 4 4 6.5 4 | 18 | 7 6 6 |
+|
+=1 qua [d smq d~{1 c~}1 b a]
+|
+il0.5 .30 60
+=1, qua [b smq G{1 A}1 B c]
+| 3/8 .24 .30 .24
+=1, qua leg65 [d{1 G}1 leg90 bb]
+| 3/8 .74
+=1 qua leg75 [bb d{1 e}1]
+|
+=1 qua [c smq c~{1 bb}1 a g]
+|
+=1, qua [a smq F{1 G}1 A Bb]
+| 3/8 .24 .30 .24
+il0.5 .04 65
+=1, qua leg65 [c{1 F}1 leg75 a]
+|
+=1, qua [f c#{1 d}1]
+|
+=1, qua [bb g#{1 a}1]
+/
+8 bars |10 6 6 |5 5 6 |3 3 5 7 5 4 |5 5 5 5 7 5 |18 |5 5 6 |5 7 3 3 3 3 |8 6 6|
+| 3/8 .72
+=1 smq [d~{1 e~}1 qua leg60 f~ g#] leg75
+| 3/8 .28 .28 .24
+=1 cro d qua f~
+| 3/8 .28 .24 .24
+=1 qua [e~ smq d~{1 c~}1 bn a]
+| 3/8 .15 .12 .12 .12 .12 .12
+=1 smq [b{1 d~}1 c~{1 a}1 b{1 g#}1]
+| 3/8 .72
+=1, qua leg60 [a e c]
+| 3/8 .29 .29 .24
+=1 cro A qua leg75 c~
+| 3/8 .72
+=1 smq [c~{1 e}1 qua f# d]
+|
+=1, smq [<D d{1> A}1 qua d c~]
+/
+8 bars | 7 4 3 3 3 3 |7 4 4 7 4 4 |24 |15 12 |24 |5 5 6 | 24 | 24 |
+|
+il0.7 .40 75
+=1 smq [b{1 f#}1 qua g d]
+|
+=1, smq [e{1 fn}1 g a bb{1 g}1]
+| 3/8 .12 .12 .12 .12 .16 .12
+=1 smq [a{1 g f e f}1 d~]
+|
+=1 smq [c~{1 b a g}1 c~ e]
+| 3/8 .16 .12 .12 .12 .12 .12
+=1, smq [G f{1 e d e}1 c]
+| 3/8 .31 .31 .24
+il0.7 .04 80
+=1 cro g qua g
+| 3/8 .14 .12 .13 .12 .13 .12
+=1, smq [f{1 G}1 e{1 G}1 d{1 G}1]
+|
+=1, smq [e{1 G}1 d{1 G}1 e{1 G}1]
+/
+8 bars | 24 | 24 | 24 | 24 | 24 | 24 | 24 |
+|
+=1, smq [f{1 G}1 e{1 G}1 d{1 G}1]
+|
+=1, smq [e{1 G}1 f#{1 G}1 g{1 G}1]
+|
+il0.8 .01 85
+=1, smq [f#{1 a}1 d{1 a}1 e{1 a}1]
+|
+=1, smq [f#{1 a}1 g{1 a}1 e{1 a}1]
+|
+=1, smq [f#{1 c~}1 d{1 c~}1 e{1 c~}1]
+|
+=1, smq [f#{1 c~}1 e{1 c~}1 d{1 c~}1]
+|
+=1, smq [b{1 d}1 a{1 d}1 b{1 d}1]
+|
+=1, smq [c~{1 d}1 b{1 d}1 a{1 d}1]
+/
+9 bars | 8 6 6 | 5 5 6 | 4 6 3 3 3 3 | 18 | 18 | 18 | 4 6 3 3 3 3 | 18 | 18 |
+| 3/8 .25 .27 .29
+=1, smq [b{1 d}1 qua leg60 d~ f~n] leg75
+| 3/8 .30 .30 .25
+=1 cro G qua d
+| 3/8 .72
+=1 smq [fn g qua ab g]
+|
+=1 qua leg60 [f eb d] leg75
+| 3/8 .24 .27 .24
+il1.0 95
+=1 qua [b{1 c~}1 d]
+|
+=1 qua [b{1 c~}1 d]
+
+| 3/8 .72
+=1 smq [fn g qua ab g]
+|
+=1 qua leg60 [f eb d] leg75
+| 3/8 .24 .27 .24
+=1 qua [f#{1 g}1 d]
+/
+9 bars | 3 3 6 4 4 3 | 8 6 6 | 8 6 6 | 4 4 5 6 4 3 \
+ | 24 | 24 | 24 | 18 | 12 :||
+| 3/8 .24 .25 .24
+il0.7 .04 100
+=1 qua [f#{1 smq g}1 fn e d]
+| 3/8 .25 .24 .27
+=1, smq [c e qua g leg90 a] leg75
+|
+=1, smq [d f qua a leg90 b] leg75
+| 3/8 .75
+=1 smq [e g c~{1 a}1 bb g]
+|
+=1 smq [a{1 f}1 d f e{1 d}1]
+|
+il0.7 .04 105
+=1, smq [g d B{1 A G}1 <F f>]
+|
+=1, smq [<E e> G{1 c}1 <E e> <D d{1> B}1]
+|
+=1 qua leg60 [c e g]
+| 3/8 .99
+=1 cro. c~

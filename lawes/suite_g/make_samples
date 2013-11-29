@@ -1,0 +1,28 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                    http://www.pjb.com.au #
+#########################################################################
+
+$sd = '/home/pjb/www/mus/samples';
+$message = 'Sample only.  Order the score and parts at www.pjb.com.au/mus !';
+
+open (I, "draw_on_rec.a4") || die "can't open draw_on_rec.a4: $!\n";
+
+while (<I>) {
+   if (/^pgsave restore/) {
+      print "565 30 /Times-Italic 9 ($message) rightshow\n";
+      print "pgsave restore\nshowpage\n";
+      last;
+   }
+   print;
+}
+close I;
+

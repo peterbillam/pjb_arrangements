@@ -1,0 +1,149 @@
+4 systems 40 /19-30-19 /19-30-19 /19-30-19 /19-30-19 30 /
+title Studies from Elektra
+midi channel 0 patch 0
+/
+4 bars | 24 | 24 | 3 3 3 4 3 3 3 3 | 3 3 3 4 3 3 3 3 |
+| 1.7
+=1' treble cha0 leg100 vol80 1 Bb
+=1, 2 <D G> <Ebl Gb>
+=2 bass   cha0 leg100 vol80 2 G Gb
+|
+=1' 1 Bb
+=1, 2 <D G> <Dbl Gb>
+=2 2 F E
+|
+=1' 2 <C F A> <Db Fbll Abl db>
+=2' 4. <Eb eb> 8 <D d> 2 <Db db>
+|
+=1' 2 <C F A> <Db(4 Fbll(2 Abl(3 db(1>
+=2' 4. <Eb eb> 8 <D d> 2 <Db db>
+/
+3 bars | 2 1 2 2 1 2 3 3 3 2 2 2 \
+ | 3 3 3 2 2 3 2 3 3 3 3 2 \
+ | 3 2 2 2 3 2 3 2 2 2 3 2 |
+|
+=1' 2 <D)4 F)2 A)3 d)1>  vol110 83 rest [Eb-I3 Fb] 4 A_b(2
+=2' 2 abr rest''
+=2, 1 <dbr(2 fbl(4>
+|
+bl0.9 .01 158
+=1 83 [A_b)2 A_n-I3 B_b] [Db F-I3 A'] [Ab, db-I3 eb] [fb db-I3 ab]
+=2' 4 f)4 <fnl an> 2 <fbl ab>
+=2, 2 d)2 db
+|
+=1 83 [g vol100 gb-I3 f] [e vol90 bb-i3 eb] [d vol80 db-I3 c] [B f-I3 Bb]
+=2, 85 [Bb-P c# e-I5] 45 g 85 [Bb c# e-I5] 45 g
+/
+3 bars | 3/2 2.5 3 2 2 3 2 2.5 2 3 3 2 3 2.5 2 3 2 3 2 | 2/2 24 | 3/4 15 |
+| 2.55
+=1 3/2 83 [A, eb-I3 Ab,] [G, db-i3 Gb,] [F c'-I3 E] [Eb Bb'-I3 D] \
+ [Db C-I3 B_] [B_b A_-I3 A_b]
+=2, 3/2 85 [Bb c# e-I5] 45 g 85 [Bb c# e-I5] 45 g 85 [Bb c# e-I5] 45 g(1-*
+| 1.7
+bl0.9 .01 159
+=1' 2/2 2 vol70 <B_ D F#> vol80 <B_ E G B>
+=2' 2/2 8 [g)1 f# g f#] [g f#] 4 g
+=2, 2/2 2. vol100 Bn-P 8 vol80 B(2
+| 1.275
+=1  3/4 2 vol90 <Fn, c f> 4 vol80 <Db G>
+=2, 3/4 2 vol90 <B)2-* ab d~> 4 vol80 <ebl bb>
+/
+3 bars | 2/2 24 | 24 | 3/2 36 |
+| 1.7
+=1  2/2 vol70 4. <D F#> 8 <E B'> 4. <c f> 8 <Db G>
+=2' 2/2 vol70 4. f# 8 g 4. <ab d~> 8 <ebl bb>
+=2, 2/2 1 vol100 B(2
+=2, 2/2 2 blank-,-P blank-,-P
+|
+=1  vol70 4. <c f> 8 <Db G> 4. <c f> 8 <Db G>
+=2' vol70 4. <ab d~> 8 <ebl bb> 4. <ab d~> 8 <ebl bb>
+=2, 1 vol100 8 B)2 vol80 2.. B
+=2, 2 blank-,-,-P blank-,-,-P
+| 2.55
+bl0.9 .01 160
+=1 3/2 4. <c f> 8 <Db G> [<F# B'> vol60 C# F# G_] 4. <F_# B_> bass 8 c#
+=2 3/2 4. <ab-,-* d~> 8 <ebl bb> [<d' g#'> vol60 A Ab <Ebl Bb>] \
+ 4. <D G#> 8 <A_ Gn>
+
+5 systems /19-35-19/ 19-25-19/ 19-30-19/ 19-30-19/ 19-30-19/
+
+/
+3 bars | 3 2 3 4 3 2 3 4 3 2 3 2 \
+ | 2/4 3 2 3 4 3 2 3 5 | 4 4 4 4 4 3 |
+|
+=1 4. <f# b> 8 c# 4. <f# b> 8 c# 4. <f# b> vol-10 8 c#
+=2 4. <D G#> 8 <A_ Gn> 4. <D G#> 8 <A_ Gn> 4. <D G#> vol-10 8 <A_ Gn>
+| 1.7
+=1 2/2 4. <f# b> 8 c# 4. <f# b> vol+5 8 c# treble
+=2 2/2 4. <D G#> 8 <A_ Gn> 4. <D G#> 8 vol+5 <A_ Gn>
+| .30 .28 .26 .25 .23 .21
+i0.9 .01 molto acceler.
+=1' 43 vol+5 <F_# B_> vol+5 <G_# D-I3> vol+5 <Cnl Fn> vol+5 <D G#> vol+5 <F# B-I3> vol+5 <G# d>
+=2  43 vol+5 <D G#> vol+5 <F# B-I3> vol+5 <G# d'> vol+5 <f# B,> vol+5 <d g#-I3> vol+5 <f# b>
+/
+3 bars | 3 4 3 3 2 3 4 3 3 4 4 2 | 7 9 7 9 | 3 3 3 3 2 3 3 4 4 4 3 2  |
+| 1.7
+bl0.9 .01 161
+=1 1 vol110 <Ab(4 cr(2 dx(3 f(1>
+=2 1 vol110 83 rest [G-I3 Ab] 4 C(2 83 [C)2 C#-I3 D] [F An-I3 c#]
+| 1.6 
+=1 4. vol110 <Ab,rl)4 c)2 dx)3 f)1> 8 vol80 G 4. vol95 <c f> 8 vol80 G
+=2 4. vol110 d' \
+ 8 vol80 <eb bbl d~b> 4. vol95 <abl d~n> 8 vol80 <eb bbl d~b>
+|
+=1 1 vol110 <Ar(4 c#l(2 d#lx(3 f#(1>
+=2' 1 vol110 83 rest [G#-I3 A] 4 C#(2 83 [C#)2 D-I3 D#] [F# A#-I3 d]
+/
+4 bars | 3 3 3 5 3 2 3 3 | 4 4 4 5 | 24 | 3 2 3 4 3 2 3 3 |
+| 1.6
+=1 4. vol110 <Arr,)4 c#l)2 d#lx)3 f#l)1> 8 vol80 G# 4. vol95 <c#l f#> 8 vol80 G#
+=2 4. vol110 d#r' \
+ 8 vol80 <e b d~> 4. vol95 <a e~b> 8 vol80 <e b d~>
+| 1.5
+=1' 2. vol100 f#r 4 g
+=1, 1 vol100 c#lr
+=2, 2. vol100 <cr eb a> 4 <B enl a#>
+| 1.4
+=1, 4 vol110 <G# d g#> <A e a> vol70 2 <F_#l B_b>
+=1' 2 blank vol85 4. D{'1 8 C#}'1
+=2' 4 vol110 e <d f> vol70 4. d 8 c#
+=2, 4 vol110 Bb A vol70 2 <D F#l Bb>
+|
+=1' 4. vol90 E{'1 8 Eb}'1 vol95 4. Gb{'1 8 F}'1
+=1, 2  vol75 <G_# C> vol80 2 <B_b D>
+=2' 4. vol75 e 8 eb vol80 4. gb 8 f
+=2, 2  vol75 <E G# c> vol80 <F#l Bb d>
+/
+4 bars | 6 6 6 8 | 3 3 3 4 3 3 3 3 | 24 | 24 |
+| .35 .35 .35 .425
+=1' 4 rest 2 vol85 Ab 16 [Bn vol100 db-emph f-emph d-emph]
+=1, 4 blank vol85 Dbl 2 <Db F>
+=2  4 rest vol85 <c#l, g#>  vol100 4 <E_ E> 8 <D_# D#> rest
+| 1.7
+=1, 4. vol110 gb 8 gn 2 2 <B(4 db(2 f(3 ab(1>
+=2' 4  vol110 <E_ E> 8 <F_ F> rest 4 <E_ E> 8 <D_# D#> rest
+|
+=1, 4 <B)4 db)2 f)3 ab)1> 2 <B db f ab> 4 <B(4 db(2 f(3 ab(1>
+=2' 4 <E_ E> 8 <F_ F> rest 4 <E_ E> 8 <F_# F#> rest
+|
+=1' 4 blank 2 ab vol90 4 ab
+=1, 4 vol90 <B)4 db)2 f)3 ab)1> 2. <B db f>
+=2' 4 vol90 <E_ E> 8 <F_n Fn> rest vol80 4 <E_ E> 8 <F_# F#> rest
+/
+4 bars | 4 3 3 3 2 3 4 3 4 3 3 2 | 6 6 6 9 | 4 3 3 3 2 3 4 3 4 3 3 2 | 11 ||
+| .43 .44 .455 .48
+=1' 83 vol95 [an a#-I3 b] 4 d(1 \
+ 83 [d)1 vol80 d#-I3 vol-5 e] [ab vol-5 c~-I3 vol-5 e~]
+=1, 2. vol80 <Dr F Abx B> 8 vol85 <C E Ab c> rest,
+=2 2 rest vol65 leg100 <G_-P G>
+|
+=1 2 blank 1 rest
+=2' 2. vol60 <G_-* G> 4 vol95 <f(4 ab(2 bx(3 d~(1>
+| .46 .48 .5 .53
+=1' 83 vol80 rest [A#-I3 B] 4 D(2 \
+ 83 [D)2 D#-I3 vol+5 E] vol+5 [Ab vol+5 c-I3 vol+5 e]
+=2' 2. <f)4 ab)2 bx)3 d~)1> 8 <e ab c~> rest'
+=2, 2 rest, vol65 <G_-P G>
+| 3.0
+=1 2 blank 1 rest
+=2 1 vol60 <G_-* G>

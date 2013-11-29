@@ -1,0 +1,63 @@
+boundingbox 330 132
+midi channel 1  patch 73 reverb 60 pan 30 # flu
+midi channel 2  patch 32 reverb 60 pan 80 # pizz
+midi channel 3  patch 71 reverb 60 pan 50 # clr
+midi channel 4  patch 60 reverb 60 pan 20 # hrn
+midi channel 5  patch 70 reverb 60 pan 70 # bsn
+midi channel 6  patch 44 reverb 60 pan 30 # vlc
+midi channel 7  patch 44 reverb 60 pan 20 # vla
+midi channel 8  patch 44 reverb 60 pan 80 # cb
+2 system 10 /27/27/
+/
+5 bars | 4b 4 | 14 | 7 | 14 | 7 |
+| 1/4 0.23
+=1  bass  4b cha3 4 c~
+#=2 bass  4b cha2 4 blank vol70
+#=4 bass  4b cha4 4 blank vol70
+#=5 bass  4b cha5 4 blank vol50
+#=6 bass  4b cha6 4 blank vol90 leg40
+| 0.77
+=1 8-s d~' 4 c~ b a
+#=2 8 blank 4 <F c a c~> 2 rest
+#=5 8 blank 2. leg100 <a c~>
+#=4 2. <F(2 f(1>
+| 0.73
+=1 2. g
+#=2 4 <F c b d~> 2 rest
+#=5 2. leg85 <b d~>
+#=4 2. <F)2(2 f)1(1>
+#=6 8 [c c A B c c]
+| 0.77
+=1 8-s c~' 4 b a g
+#=2 8 blank 4 <F c g b> 2 rest
+#=5 8 blank 2. leg100 <g b>
+#=4 2. <F)2(2 f)1(1>
+| 0.75
+=1 2. f
+#=2 4 <F c a c~> 2 rest
+#=5 2. leg85 <a c~>
+#=4 2. <F)2(2 f)1(1>
+#=6 8 [c c A B c c]
+/
+4 bars | 4b 12 | 12 | 12 | 7 |
+|
+=1 4 gb a b
+#=2 4 <F db gb b> 2 rest
+#=5 2. leg100 <gb b>
+#=4 2. <F)2(2 f)1(1>
+|
+=1 4 c~ f f 
+#=2 4 <F c f a> 2 rest
+#=5 2. <f a>
+#=4 2. <F)2(2 f)1(1>
+#=6 8 [c c A B c c]
+|
+=1 4 gb a b
+#=2 4 <F db gb b> 2 rest
+#=5 2. <gb b>
+#=4 2. <F)2 f)1>
+|
+=1 2. c~
+#=2 4 <C c en gn> 2 rest
+#=5 2. leg85 <en gn>
+#=4 2. <c c~>

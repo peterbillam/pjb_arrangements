@@ -1,0 +1,63 @@
+.\" header = mushead
+.AM
+.nr PS 14
+.nr VS 16
+.nr LL 16.25c
+.pl 29.7c
+.de DP
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+.LP
+\&
+.sp 2.0c
+.LP
+.ce 2
+\f3\s+7Twenty-Four Schubert Dances,\s0
+.sp 0.8c
+\s+5arranged for Piano Four Hands\s0\fP
+.sp 1.5c
+.Lp
+These well-loved pieces are offered here in new arrangements
+for Piano Four Hands, for teaching or social piano playing.
+The originals for piano (two hands) are available from \f2Dover\fP, who
+in 1989 reprinted the editions by \f2Breitkopf & Härtel\fP of 1889 and 1897.
+
+.Lp
+Two dances have been chosen in each of the twelve key signatures,
+one in triple time (a Waltz, Ländler or Deutscher) and one
+in duple time (an Écossaise).
+For four hands, most of these pieces become technically very easy,
+in fact some of the Écossaises could serve as first pieces.
+Musically they remain extremely rewarding, 
+and in a teaching situation offer a solid rhythm,
+a variety of moods and key-signatures,
+and a joy of music-making which are hard to match.
+
+.Lp
+With the Écossaises it was possible to preserve several
+sequences intended by Schubert,
+but the order of these Waltzes is very arbitrary,
+determined largely by the desire to fit two dances onto each page.
+
+.Lp
+Schubert writes the Écossaises in two different ways;
+some move in crochets and quavers and have eight bars per line,
+others in quavers and semiquavers and have four bars per line.
+The former should move at \f2doppio movimiento\fP,
+taking the same time overall; a good Écossaise tempo
+would be about 108 or 112 beats (minims or chrochets) per minute.
+As to the nuances in \f2tempo\fP and expression
+between Waltzes, Ländler and Deutscher,
+I would welcome feedback from people who know these things\ .\ .\ .
+
+.Lp
+.sp 1.0c
+.ce 2
+\f2Peter J Billam
+.sp 0.7c
+www.pjb.com.au\fP

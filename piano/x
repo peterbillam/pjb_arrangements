@@ -1,0 +1,113 @@
+4 systems 40 /19-30-19/19-30-19/19-30-19/19-30-19 40/
+midi channel 1 patch 0
+/
+8 bars ||: 1# 3/4 3 4 4 | 9 | 3 4 4 | 9 | 3 4 4 | 3 4 4 | 3 4 4 | 12 |
+| 3/4 100
+bl0.9 .11 Minuet
+=1 treble 1# 3/4 channel1 cro d-s1 qua [G A B' c']
+=2' bass  1# 3/4 channel1 min <b d~> cro blank
+=2,       1# 3/4 min g cro a
+|
+=1 cro d G G
+=2 min. b
+|
+=1 cro e-s3 qua [c d e f]
+=2 min. c~
+|
+=1 cro g G G
+=2 min. b
+|
+=1 cro c-s4 qua [d c B, A,]
+=2 min. a
+|
+=1' cro B qua [c B A G]
+=2 min. g
+|
+=1 cro F-s2 qua [G-s1 A B' G]
+=2 cro d~ b g
+|
+il0.6 .41 Bach
+=1 qua [B' A(2] min A)2
+=2, cro d~ qua [d c~ b a]
+/
+8 bars | 1# 3 4 4 | 9 | 3 4 4 | 12 | 3 4 4 | 3 4 4 | 3 4 4 | 9 :||
+|
+=1 cro d-s5 qua [G A B' c']
+=2 min b cro a
+|
+=1 cro d G G
+=2 cro g b g
+|
+=1 cro e-s3 qua [c d e f]
+=2 min. c~
+|
+=1 cro g G G
+=2 cro b qua [c~ b a g]
+|
+=1 cro c-s4 qua [d c B, A,]
+=2 min a cro f
+|
+=1 cro B qua [c' B' A G]
+=2 min g cro b
+|
+=1 cro A qua [B' A G F-s2]
+=2, cro c~ d~ d
+|
+=1 min. G-s1
+=2 min g cro G
+/
+8 bars ||: 1# 3 4 4 | 3 4 4 | 3 4 4 | 3 4 3 | 2 3 2 2 2 2| 3 4 3| 4 4 3 | 9 |
+|
+=1 cro b-s5 qua [g a b g]
+=2 min. g
+|
+=1 cro a qua [d e f d]
+=2 min. f
+|
+=1 cro g qua [e f g d]
+=2 cro e g e
+|
+=1 cro c#-s3 qua [B, c] cro A
+=2 min a cro A
+|
+=1 qua [A, B c# d-s1 e f]
+=2 min. a
+|
+=1 cro g f e
+=2 cro b d~ c~#
+|
+=1 qua [f(1 a)1] cro A c#
+=2 cro d~ f a
+|
+=1 min. d
+=2, cro d~ d c~
+/
+8 bars | 1# 3 4 3 | 3 4 3 | 9 | 4 4 3 | 12 | 9 | 4 3 3 | 9 :||
+|
+=1 cro d-s5 qua [G-s1 F] cro G
+=2' cro rest''' min d~
+=2, min b cro b
+|
+=1 cro e qua [G F] cro G
+=2' cro rest''' min e~
+=2, min c~ cro c~
+|
+=1 cro d c B
+=2 cro b a g
+|
+=1 qua [A G F G] cro A
+=2 min d~ cro rest
+|
+=1 qua [D-s1 E F G-s1 A B']
+=2' min rest' cro f
+=2, min. d
+|
+=1 cro c B A
+=2 cro e g f
+|
+=1 qua [B,(1 d)1] cro G F
+=2 cro g B d
+|
+=1 min. G
+=2 cro g d G
+

@@ -1,0 +1,31 @@
+.\" header = mushead
+.AM
+.nr PS 14
+.nr VS 17
+.pl 11.7i
+.LP
+\&
+.sp 4.0c
+.ce 100
+\f3\s+9Ecco Mormorar L'Onde\s-9\fP
+.sp 2.9c
+.ce 0
+.DS B
+Ecco mormorar l'onde e tremolar le fronde
+\ \ \ A l'aura matutina, e gl'arborseli,
+.sp 0.9c
+E sovra i verdi rami vagh'augelli
+\ \ \ Cantar souavemente, e rider l'Oriente.
+.sp 0.9c
+Ecco già l'alb'appare ! e si specchia nel mare
+\ \ \ E rasserena il cielo, e imperla il dolce gielo
+\ \ \ E gl'alti monte indora.
+.sp 0.9c
+O bella vagh' Aurora, l'aura è tua messaggiera,
+\ \ \ e tu de l'aura ch'ogn arso cor ristaura.
+.DE
+.sp 2.5c
+.ce 2
+\f2\s+2From the Second Book of Madrigals,
+by Claudio Monteverdi, 1590\s0\fP
+.sp 1.5c

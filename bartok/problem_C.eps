@@ -1,0 +1,603 @@
+%!PS-Adobe.3.0 EPSF-3.0
+%%BoundingBox 0 0 100 220
+%%Creator: muscript version 3.1s
+%%EndComments
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This music was typeset by muscript version 3.1s. Muscript was written %
+% by Peter Billam, and is available from http://www.pjb.com.au/muscript %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%%BeginProlog
+%%BeginResource: procset muscript
+/blackblob {	% usage: x y staveheight blackblob
+	gsave 3 1 roll translate
+	dup 0.17 mul exch 0.113 mul scale newpath
+	0 0 1 0 360 arc fill grestore
+} bind def
+
+/whiteblob {	% usage: x y staveheight whiteblob
+	gsave 3 1 roll translate 0.14 setlinewidth
+	dup 0.183 mul exch 0.122 mul scale newpath
+	0 0 1 280 30 arc fill  0 0 1 100 210 arc fill
+	0 0 1 0 360 arc stroke  grestore
+} bind def
+
+/breve {   % usage: x y staveheight breve
+	gsave 3 1 roll translate 0.183 mul dup scale newpath
+	0.1 setlinewidth  -1.2 -1 moveto -1.2 1 lineto  1.2 -1 moveto
+	1.2 1 lineto stroke newpath 0.3 setlinewidth
+	-1.2 -0.4 moveto 1.2 -0.4 lineto -1.2 0.4 moveto 1.2 0.4 lineto
+	stroke  grestore
+} bind def
+
+/dot {	% usage: x y staveheight dot
+	gsave 3 1 roll translate dup scale newpath
+	0 0 0.04 0 360 arc fill grestore
+} bind def
+
+/doubledot {	% usage: x y staveheight doubledot
+	gsave 3 1 roll translate dup scale newpath
+	0 0 0.04 0 360 arc fill newpath 0.2 0 0.04 0 360 arc fill grestore
+} bind def
+
+/stave {	% usage: x_left x_right y_topline staveheight stave
+	/staveheight exch def /first exch def /x_right exch def /x_left exch def
+	/second first staveheight 0.25 mul sub def
+	/third  first staveheight 0.5  mul sub def
+	/fourth first staveheight 0.75 mul sub def
+	/fifth  first staveheight sub def
+	.015 staveheight mul setlinewidth newpath
+	x_left first  moveto x_right first  lineto 
+	x_left second moveto x_right second lineto
+	x_left third  moveto x_right third  lineto
+	x_left fourth moveto x_right fourth lineto
+	x_left fifth  moveto x_right fifth  lineto stroke
+} bind def
+
+/ledger {	% usage: x y staveheight ledger
+	/staveheight exch def /y exch def /x exch def
+	/x_left x staveheight 0.28 mul sub def
+	/x_right x staveheight 0.28 mul add def
+	.015 staveheight mul setlinewidth
+	newpath x_left y moveto x_right y lineto stroke % grestore
+} bind def
+
+/barline {	% usage: x y_top y_bot staveheight barline
+	0.02 mul setlinewidth /y_bot exch def /y_top exch def /x exch def
+	newpath x y_bot moveto x y_top lineto stroke
+} bind def
+
+/notestem {	% usage: x y_top y_bot staveheight notestem
+	0.02 mul setlinewidth /y_bot exch def /y_top exch def /x exch def
+	newpath x y_bot moveto x y_top lineto stroke
+} bind def
+
+/quaverstemup { % usage: x y_top y_bot staveheight quaverstemup
+	/staveheight exch def /y_bot exch def /y_top exch def /x exch def
+	staveheight 0.02 mul setlinewidth
+	newpath x y_bot moveto x y_top lineto stroke
+	gsave x y_top translate staveheight dup 0.85 mul scale
+	quavertail grestore
+} bind def
+
+/quaverstemdown { % usage: x y_top y_bot staveheight quaverstemdown
+	/staveheight exch def /y_bot exch def /y_top exch def /x exch def
+	staveheight 0.02 mul setlinewidth
+	newpath x y_bot moveto x y_top lineto stroke
+	gsave x y_bot translate staveheight 1.2 mul -0.8 staveheight mul scale
+	quavertail grestore
+} bind def
+
+/quavertail {
+	newpath 0 0 moveto 0	 -0.10 0	 -0.14 0.17 -0.33 curveto
+	0.27 -0.40 0.25 -0.70 0.15 -0.80 curveto
+	0.23 -0.70 0.24 -0.38 0	 -0.28 curveto closepath fill
+} bind def
+
+/beam { % usage: x_mid_left y_mid_left x_mid_right y_mid_right staveheight beam
+	/staveheight exch def /y_mid_right exch def /x_mid_right exch def
+	/y_mid_left exch def /x_mid_left exch def
+	/halfbeamwidth staveheight 0.13 mul 0.5 mul def
+	newpath
+	x_mid_left  y_mid_left  halfbeamwidth add moveto
+	x_mid_left  y_mid_left  halfbeamwidth sub lineto
+	x_mid_right y_mid_right halfbeamwidth sub lineto
+	x_mid_right y_mid_right halfbeamwidth add lineto
+	closepath fill
+} bind def
+
+/tremolando { % usage: n x_mid y_mid staveheight tremolando
+	/staveheight_t exch def /y_mid exch def /x_mid exch def /n exch def
+   	/dy staveheight_t 0.13 mul def  /dx dy 1.6 mul def
+	n 1 eq {
+    	x_mid dx sub y_mid dy sub x_mid dx add y_mid dy add
+    	staveheight_t 0.85 mul beam
+	} if
+	n 2 eq {
+    	x_mid dx sub y_mid dy 0.0 mul add x_mid dx add y_mid dy 1.4 mul add
+    	staveheight_t 0.75 mul beam
+    	x_mid dx sub y_mid dy 1.4 mul sub x_mid dx add y_mid dy 0.0 mul sub
+    	staveheight_t 0.75 mul beam
+
+	} if
+	n 3 eq {
+		/dy dy 0.7 mul def
+		x_mid dx sub y_mid dy 0.6 mul add x_mid dx add y_mid dy 2.6 mul add
+		staveheight_t 0.5 mul beam
+		x_mid dx sub y_mid dy sub x_mid dx add y_mid dy add
+		staveheight_t 0.5 mul beam
+		x_mid dx sub y_mid dy 2.6 mul sub x_mid dx add y_mid dy 0.6 mul sub
+		staveheight_t 0.5 mul beam
+	} if
+} bind def
+
+/bracket {	% usage: x y_top y_bot staveheight bracket
+	/staveheight exch def /y_bot exch def /y_top exch def /x exch def
+	staveheight .125 mul setlinewidth
+	newpath x y_top moveto x y_bot lineto stroke
+	staveheight .03 mul setlinewidth
+	/radius staveheight .25 mul def
+	newpath x y_top radius add radius 270 350 arc stroke
+	newpath x y_bot radius sub radius 10 90 arc stroke
+} bind def
+
+/repeatmark {	% usage: x y_top staveheight repeatmark
+	/staveheight exch def /y_top exch def /x exch def
+	gsave x y_top staveheight 0.375 mul sub translate
+	staveheight staveheight scale
+	newpath 0 0 0.06 0 360 arc fill grestore
+	gsave x y_top staveheight 0.625 mul sub translate
+	staveheight staveheight scale
+	newpath 0 0 0.06 0 360 arc fill grestore
+} bind def
+
+/bassclef {	% usage: x y_top staveheight bassclef
+	/staveheight exch def /y_top exch def /x exch def
+	/y_f y_top staveheight 0.25 mul sub def x y_f staveheight f_clef
+} bind def
+/bass8vaclef {	% usage: x y_top staveheight bass8vaclef
+	/staveheight exch def /y_top exch def /x exch def
+	/Times-Italic findfont  staveheight 0.58 mul scalefont  setfont
+	x staveheight 0.15 mul sub y_top staveheight 0.05 mul add moveto (8) show
+	/y_f y_top staveheight 0.25 mul sub def x y_f staveheight f_clef
+} bind def
+/bass8vabclef {	% usage: x y_top staveheight bass8vabclef
+	/staveheight exch def /y_top exch def /x exch def
+	/Times-Italic findfont  staveheight 0.58 mul scalefont  setfont
+	x staveheight 0.2 mul sub y_top staveheight 1.18 mul sub moveto (8) show
+	/y_f y_top staveheight 0.25 mul sub def x y_f staveheight f_clef
+} bind def
+
+/f_clef {	% usage: x y_f staveheight f_clef
+	% gsave x y_f translate staveheight staveheight scale
+	gsave 3 1 roll translate dup scale  % 2.4f
+	newpath .27 .15 .04 0 360 arc fill newpath .27 -.10 .04 0 360 arc fill
+	newpath -.214 0 0.086 0 360 arc fill newpath % start at left
+	-.3	0  moveto -.3  .18 -.23 .25 -.07 .25 curveto
+	-.07 .23 lineto -.21 .23 -.26 .16 -.21  0  curveto
+	closepath fill newpath % start at top
+	-.07 .25 moveto .11 .25 .18 .11 .18 -.07 curveto
+	.07 -.07 lineto .07 .11 0 .23 -.07 .23 curveto
+	closepath fill newpath % start at right
+	.18 -.07 moveto .18 -.25 .01 -.49 -.29 -.59 curveto
+	-.3 -.58 lineto -.08 -.51 .07 -.25 .07 -.07 curveto
+	closepath fill newpath -.3 -.58 0.02 0 360 arc fill grestore
+} bind def
+
+/tenorclef {	% usage: x y_top staveheight tenorclef
+	/staveheight exch def /y_top exch def /x exch def
+	/y_2nd y_top staveheight 0.25 mul sub def x y_2nd staveheight c_clef
+} bind def
+
+/altoclef {	% usage: x y_top staveheight altoclef
+	/staveheight exch def /y_top exch def /x exch def
+	/y_mid y_top staveheight 0.5 mul sub def x y_mid staveheight c_clef
+} bind def
+
+/c_clef {	% usage: x y_middle_c staveheight c_clef
+	/staveheight exch def /y_middle_c exch def /x exch def
+	gsave x y_middle_c translate staveheight staveheight scale
+	newpath .09  setlinewidth -.18  .5 moveto -.18  -.5 lineto stroke
+	newpath .024 setlinewidth -.075 .5 moveto -.075 -.5 lineto stroke
+	newpath -.07 0 moveto .07 .24 lineto .03 0 lineto .07 -.24 lineto
+	closepath fill tophalf 1 -1 scale tophalf grestore
+} bind def
+/tophalf {
+	newpath .028 setlinewidth .07 .24 moveto .07 .08 .13 .08 .16 .08 curveto
+	stroke newpath .07  .39 .055 0 360 arc fill newpath .015 .39 moveto
+	.015 .46 .05 .49 .19 .49 curveto .12 .469 lineto
+	.07 .469 .05 .43 .05 .39 curveto closepath fill newpath .19 .49 moveto
+	.23 .49 .30 .43 .30 .28 curveto .30 .14 .21 .066 .16 .066 curveto
+	.16 .094 lineto .21 .094 .21 .28 .21 .28 curveto
+	.21 .43 .19 .469 .12 .469 curveto closepath fill
+} bind def
+
+/trebleclef {	% usage: x y_top staveheight trebleclef
+	/staveheight exch def /y_top exch def /x exch def
+	/y_g y_top staveheight 0.75 mul sub def x y_g staveheight g_clef
+} bind def
+/treble8vaclef {	% usage: x y_top staveheight treble8vaclef
+	/staveheight exch def /y_top exch def /x exch def
+	/Times-Italic findfont  staveheight 0.58 mul scalefont  setfont
+	x staveheight 0.15 mul add y_top staveheight 0.3 mul add moveto (8) show
+	/y_g y_top staveheight 0.75 mul sub def x y_g staveheight g_clef
+} bind def
+/treble8vabclef {	% usage: x y_top staveheight treble8vabclef
+	/staveheight exch def /y_top exch def /x exch def
+	/Times-Italic findfont  staveheight 0.58 mul scalefont  setfont
+	x staveheight 0.05 mul add y_top staveheight 1.5 mul sub moveto (8) show
+	/y_g y_top staveheight 0.75 mul sub def x y_g staveheight g_clef
+} bind def
+
+/g_clef {	% usage: x y_g staveheight g_clef
+	% gsave x y_g translate staveheight staveheight scale
+	gsave 3 1 roll translate dup scale  % 2.4f
+	% start at bottom left blob ...
+	newpath -.17 -.479 .086 0 360 arc fill
+	newpath
+	-.256 -.479 moveto -.256 -.58  -.17 -.643 -.12 -.643 curveto
+	-.12  -.617 lineto -.21  -.622 -.13 -.58  -.21 -.479 curveto
+	closepath fill
+	newpath .026 setlinewidth
+	-.12 -.63 moveto .07 -.63 .11 -.48 .10 -.4 curveto -.05 .75 lineto stroke
+	newpath % from left of top loop
+	-.062 .751 moveto -.1 1.1	.06  1.18  .10 1.19  curveto % top
+	.125 1.12  lineto .06 1.09 -.084 1.05 -.038 .749 curveto
+	closepath fill
+	newpath  % start at top
+	.10 1.19 moveto  .36 .55 -.27 .45 -.27 .10 curveto % inside of left extreme
+	-.3  .16 lineto -.3  .6  .25 .65 .125 1.12 curveto
+	closepath fill
+	newpath % start at left
+	-.3  .16 moveto -.3  -.15 -.15 -.23 .02 -.23 curveto
+	.02 -.21 lineto -.15 -.21 -.27 -.15 -.27 .10 curveto
+	closepath fill
+	newpath  % start at bottom
+	.02 -.23 moveto .2 -.23 .30 -.12 .30 .04 curveto % right extreme
+	.265 .04 lineto .27 -.11 .2 -.21 .02 -.21 curveto
+	closepath fill
+	newpath
+	.30 .04 moveto .30 .16 .17 .28 .07 .28 curveto % top of body
+	.07 .19 lineto .17 .19 .26 .16 .265 .04 curveto
+	closepath fill
+	newpath % start at top of body
+	.07 .28 moveto -.15 .28 -.15 .05 -.05 -.05 curveto % end
+	-.10 .05 -.08 .19 .07 .19 curveto
+	closepath fill
+	grestore
+} bind def
+
+/oldtrebleclef {	% usage: x y_top staveheight trebleclef
+	/staveheight exch def /y_top exch def /x exch def
+	gsave x y_top staveheight 0.75 mul sub translate
+	staveheight staveheight scale
+	newpath 0.05 setlinewidth -0.3 -0.5 moveto
+	0 -0.75 0.3 -0.6 -0.25 1.05 curveto 0.3 1.07 lineto
+	-0.6 0 -0.4 -0.25 0 -0.3 curveto
+	0 -0.05 0.25 270 90 arc 0 0.1 0.1 90 270 arc stroke grestore
+} bind def
+
+/timesig {	% usage (eg. for 6/8): x y_top staveheight (6) (8) timesig
+	/botnum exch def /topnum exch def
+	/staveheight exch def /y_top exch def /x exch def
+	gsave /Times-Bold findfont  staveheight 0.6 mul scalefont  setfont
+	x topnum stringwidth pop 0.5 mul sub y_top staveheight 0.45 mul sub moveto
+	topnum show
+	x botnum stringwidth pop 0.5 mul sub y_top staveheight 0.95 mul sub moveto
+	botnum show grestore
+} bind def
+
+/sharp {	% usage: x y staveheight sharp
+	gsave 3 1 roll translate dup scale newpath
+	0.07 setlinewidth -0.13 0.02 moveto 0.13 0.12 lineto
+	-0.13 -0.12 moveto 0.13 -0.02 lineto stroke newpath
+	0.03 setlinewidth -0.065  -0.3 moveto  -0.065  0.24 lineto
+	0.065  -0.24 moveto  0.065  0.28 lineto stroke grestore
+} bind def
+
+/natural {	% usage: x y staveheight natural
+	gsave 3 1 roll translate dup scale newpath
+	0.07 setlinewidth -0.09 0.04 moveto 0.09 0.15 lineto
+	-0.09 -0.15 moveto 0.09 -0.04 lineto stroke
+	newpath 0.03 setlinewidth -0.09  -0.15 moveto  -0.09  0.3 lineto
+	0.09  -0.3 moveto  0.09  0.15 lineto stroke grestore
+} bind def
+
+/flat {	% usage: x y staveheight flat
+	gsave 3 1 roll translate dup scale newpath
+	0.03 setlinewidth  -0.07  0.45 moveto  -0.07  -0.15 lineto stroke
+	newpath 0.05 setlinewidth
+	-0.07 -0.15 moveto 0.15 0 0.3 0.2 -0.07 0.08 curveto stroke grestore
+} bind def
+
+/doublesharp { % usage: x y staveheight doublesharp
+	gsave 3 1 roll translate dup scale newpath
+	-.13 -.13 moveto -.11 -.03 lineto -.03 -.02 lineto
+	-.03  .02 lineto -.11  .03 lineto
+	-.13  .13 lineto -.03  .11 lineto -.02  .03 lineto
+	 .02  .03 lineto  .03  .11 lineto
+	 .13  .13 lineto  .11  .03 lineto  .03  .02 lineto
+	 .03 -.02 lineto  .11 -.03 lineto
+	 .13 -.13 lineto  .03 -.11 lineto  .02 -.03 lineto
+	-.02 -.03 lineto -.03 -.11 lineto
+	closepath fill grestore
+} bind def
+
+/demisemiquaverrest {	% usage: x y staveheight demisemiquaverrest
+	gsave 3 1 roll translate dup scale 0.03 setlinewidth
+	newpath -0.125 0.1425 0.048 0 360 arc fill
+	newpath  0 0.33 0.22  245 295 arc -0.05 -0.23 lineto stroke
+	newpath -0.135 0.017 0.048 0 360 arc fill
+	newpath -0.04 0.22 0.22 245 295 arc stroke
+	newpath -0.145 -0.10 0.048 0 360 arc fill
+	newpath -0.08 0.11 0.22 245 295 arc stroke grestore
+} bind def
+
+/semiquaverrest {	% usage: x y staveheight semiquaverrest
+	gsave 3 1 roll translate dup scale 0.03 setlinewidth
+	newpath -0.125 0.0625 0.05 0 360 arc fill
+	newpath 0 0.25 0.22 245 295 arc -0.05 -0.22 lineto stroke
+	newpath -0.135 -0.07 0.05 0 360 arc fill
+	newpath -0.04 0.14 0.22 245 295 arc stroke grestore
+} bind def
+
+/quaverrest {	% usage: x y staveheight quaverrest
+	gsave 3 1 roll translate dup scale newpath
+	-0.125 0.0625 0.05 0 360 arc fill newpath 0.04 setlinewidth
+	0 0.25 0.22 245 295 arc -0.05 -0.2 lineto stroke grestore
+} bind def
+
+/crochetrest {	% usage: x y staveheight crochetrest
+	gsave 3 1 roll translate dup scale newpath
+	newpath 0.04 setlinewidth -0.1 0.3 moveto 0.1 0.1 lineto stroke
+	newpath 0.08 setlinewidth 0.03 0.17 moveto -0.07 0.07 lineto stroke
+	newpath 0.04 setlinewidth -0.098 0.098 moveto 0.08 -0.08 lineto
+	-0.1 -0.05 -0.2 -0.24 0.08 -0.3 curveto stroke grestore
+} bind def
+
+/minimrest {	% usage: x y staveheight minimrest
+	gsave 3 1 roll translate dup scale newpath
+	0.07 setlinewidth -0.1 0.035 moveto 0.1 0.035 lineto stroke grestore
+} bind def
+
+/smbrest {	% usage: x y staveheight smbrest
+	gsave 3 1 roll translate dup scale newpath
+	0.09 setlinewidth -0.13 -0.045 moveto 0.13 -0.045 lineto stroke grestore
+} bind def
+
+/breverest {	% usage: x y staveheight breverest
+	gsave 3 1 roll translate dup scale newpath
+	0.25 setlinewidth -0.07 0.125 moveto 0.07 0.125 lineto stroke grestore
+} bind def
+
+/rightshow {	% usage: x y font fontsize (string) rightshow
+	/s exch def /fontsize exch def /font exch def /y exch def /x exch def
+	gsave font findfont  fontsize scalefont  setfont
+	x s stringwidth pop sub  y moveto s show grestore
+} bind def
+
+/leftshow {	% usage: x y font fontsize (string) leftshow
+	/s exch def /fontsize exch def /font exch def /y exch def /x exch def
+	gsave font findfont  fontsize scalefont  setfont
+	x y moveto s show grestore
+} bind def
+
+/centreshow { % usage: x y font fontsize (string) centreshow
+	/s exch def /fontsize exch def /font exch def 
+	gsave moveto font findfont fontsize scalefont setfont
+	gsave s false charpath flattenpath pathbbox grestore
+	exch 4 -1 roll pop pop s stringwidth pop -0.5 mul  % dx/2
+	3 1 roll sub 0.5 mul % dy/2
+	rmoveto s show grestore
+} bind def
+
+/centrexshow {  % usage: x y font fontsize (string) centrexshow
+	/s exch def /fontsize exch def /font exch def /y exch def /x exch def
+	gsave font findfont  fontsize scalefont  setfont
+	x s stringwidth pop 0.5 mul sub  y moveto s show grestore
+} bind def
+
+/barnumber {	% usage: x y staveheight (string) barnumber
+	/s exch def /staveheight exch def /y exch def /x exch def
+	gsave Helvetica-Bold findfont  staveheight 0.6 mul scalefont setfont
+	0.8 setgray x s stringwidth pop 0.5 mul sub  y moveto
+	s show grestore
+} bind def
+
+/crescendo {	% usage: x_left y_left x_right y_right staveheight crescendo
+	/staveheight exch def /y_right exch def /x_right exch def
+	/y_left exch def /x_left exch def
+	.015 staveheight mul setlinewidth newpath
+	x_right y_right staveheight 0.13 mul add moveto x_left y_left lineto 
+	x_right y_right staveheight 0.13 mul sub lineto stroke
+} bind def
+
+/diminuendo {	% usage: x_left y_left x_right y_right staveheight diminuendo
+	/staveheight exch def /y_right exch def /x_right exch def
+	/y_left exch def /x_left exch def
+	.015 staveheight mul setlinewidth newpath
+	x_left y_left staveheight 0.13 mul add moveto x_right y_right lineto 
+	x_left y_left staveheight 0.13 mul sub lineto stroke
+} bind def
+
+/slur {	% usage: x_l y_l x_r y_r updown staveheight slur
+	/staveheight exch def /updown exch def   % updown = +1 or -1
+	/y_r exch def /x_r exch def /y_l exch def /x_l exch def
+	/dx x_r x_l sub def /dy y_r y_l sub def
+	dx staveheight 2.0 mul lt {	% short round tie
+		/x_lmid x_l x_l add x_r add 0.3333 mul def
+		/y_lmid y_l y_l add y_r add 0.3333 mul def
+		/x_rmid x_l x_r add x_r add 0.3333 mul def
+		/y_rmid y_l y_r add y_r add 0.3333 mul def
+		/dy_top staveheight 0.37 mul updown mul def
+		/dy_bot staveheight 0.30 mul updown mul def
+	} {	% longer flatter tie
+		/x_lmid x_l staveheight add def
+		/y_lmid y_l dy staveheight mul dx div add def
+		/x_rmid x_r staveheight sub def
+		/y_rmid y_r dy staveheight mul dx div sub def
+		/dy_top staveheight 0.52 mul updown mul def
+		/dy_bot staveheight 0.46 mul updown mul def
+	} ifelse
+	newpath x_l y_l moveto
+	x_lmid y_lmid dy_top add  x_rmid y_rmid dy_top add  x_r y_r curveto
+	x_rmid y_rmid dy_bot add  x_lmid y_lmid dy_bot add  x_l y_l curveto
+	closepath fill
+} bind def
+
+/fermata {	% usage: x y staveheight fermata
+	gsave 3 1 roll translate dup scale
+	0 -0.11 translate
+	newpath 0 0 .07 0 360 arc fill
+	newpath -.33 -.06 moveto -.33 .41 .33 .41 .33 -.06 curveto
+	.31 -.06 lineto .31 .31 -.31 .31 -.31 -.06 curveto -.33 -.06 lineto fill
+	grestore
+} bind def
+/mordent {	% usage: x y staveheight mordent
+	gsave 3 1 roll translate 0.035 mul dup scale
+	0.5 setlinewidth newpath -8 -2 moveto -4 2 lineto -2 -2 moveto 2 2 lineto
+	4 -2 moveto 8 2 lineto 0 -4 moveto 0 4 lineto stroke
+	newpath 1 1 moveto 2 2 lineto 5 -1 lineto 4 -2 lineto closepath fill
+	newpath -1 -1 moveto -2 -2 lineto -5 1 lineto -4 2 lineto closepath fill
+	grestore
+} bind def
+/trill {	% usage: x y staveheight trill
+	/staveheight exch def gsave translate 1.2 1 scale
+	0 0 /Times-BoldItalic-ISO staveheight 0.5 mul (tr) centreshow grestore
+} bind def
+/trsharp {	% usage: x y staveheight trsharp
+	/staveheight_sh exch def /y_sh exch def /x_sh exch def
+	x_sh y_sh staveheight_sh trill
+	x_sh staveheight_sh .28 mul add y_sh staveheight_sh .11 mul add
+	staveheight_sh 0.7 mul sharp
+} bind def
+/trflat {	% usage: x y staveheight trflat
+	/staveheight_trf exch def /y_trf exch def /x_trf exch def
+	x_trf y_trf staveheight_trf trill
+	x_trf staveheight_trf .28 mul add y_trf staveheight_trf .11 mul add
+	staveheight_trf 0.7 mul flat
+} bind def
+/trnat {	% usage: x y staveheight trnat
+	/staveheight_trn exch def /y_trn exch def /x_trn exch def
+	x_trn y_trn staveheight_trn trill
+	x_trn staveheight_trn .28 mul add y_trn staveheight_trn .11 mul add
+	staveheight_trn 0.7 mul natural
+} bind def
+/turn {	% usage: x y staveheight turn
+	gsave 3 1 roll translate 0.8 mul dup scale
+	newpath .2 .09 .06 0 360 arc fill newpath .25 .15 moveto
+	.33 .06 .33 -.06 .23 -.13 curveto 0.1 -.13 .05 -.1 0 -.05 curveto
+	0 .05 lineto .05 .01 .1 -.09 .23 -.09 curveto
+	.28 -.05 .29 .05 .25 .13 curveto closepath fill
+	newpath -.2 -.09 .06 0 360 arc fill newpath -.25 -.15 moveto
+	-.33 -.06 -.33 .06 -.23 .13 curveto -0.1 .13 -.05 .1 0 .05 curveto
+	0 -.05 lineto -.05 -.01 -.1 .09 -.23 .09 curveto
+	-.28 .05 -.29 -.05 -.25 -.13 curveto closepath fill grestore
+} bind def
+/tenuto {  % usage: x y staveheight tenuto
+	gsave 3 1 roll translate dup scale newpath 0.05 setlinewidth
+	-0.13 0 moveto 0.13 0 lineto stroke grestore
+} bind def
+/emphasis {  % usage: x y staveheight emphasis
+	gsave 3 1 roll translate dup scale newpath 0.03 setlinewidth
+	-0.18 0.08 moveto 0.18 0 lineto -0.18 -0.08 lineto stroke grestore
+} bind def
+/segno {  % usage: x y staveheight segno
+	gsave 3 1 roll translate 1.3 mul dup -1 mul scale 80 rotate 0 0 1 turn
+	newpath .03 setlinewidth 0.1 0.2 moveto -0.1 -0.2 lineto stroke
+	newpath -.05 0.16 .035 0 360 arc fill
+	newpath .05 -0.16 .035 0 360 arc fill grestore
+} bind def
+/upbow {  % usage: x y staveheight upbow
+	gsave 3 1 roll translate dup scale newpath 0.03 setlinewidth
+	0.08 0.17 moveto 0.0 -0.19 lineto -0.08 0.17 lineto stroke grestore
+} bind def
+/downbow {  % usage: x y staveheight downbow
+	gsave 3 1 roll translate dup scale newpath 0.03 setlinewidth
+	-0.12 -0.15 moveto -0.12 0.15 lineto stroke
+	0.12 -0.15 moveto 0.12 0.15 lineto stroke
+	newpath .10 setlinewidth -0.12 0.12 moveto 0.12 0.12 lineto stroke
+	grestore
+} bind def
+/guitar_string {   % usage: n x y staveheight guitar_string
+	/staveheight exch def gsave translate staveheight dup scale
+	/n exch (    ) cvs def
+	0 0 (Helvetica-Bold) 0.36 n centreshow
+	newpath 0 0 0.22 0 360 arc .042 setlinewidth stroke grestore
+} bind def
+%%EndResource
+
+/Times-Roman findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-Roman-ISO exch definefont pop
+
+/Times-Bold findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall 
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-Bold-ISO exch definefont pop
+	
+/Times-BoldItalic findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall 
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-BoldItalic-ISO exch definefont pop
+	
+/Times-Italic findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall 
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-Italic-ISO exch definefont pop
+
+%%EndProlog
+
+%%Page: 1 1
+%%BeginPageSetup
+/pgsave save def
+%%EndPageSetup
+% system 1 staves, initial barline, and brackets:
+6.71958 94.914 175.384 28 stave
+6.71958 94.914 107.384 28 stave
+6.71958 94.914 44.3837 28 stave
+6.71958 175.384 16.3837 28 barline
+0.419577 175.384 16.3837 28 bracket
+% system 1
+95.754 175.384 16.3837 56 barline
+92.954 175.384 16.3837 28 barline
+% page , sys 1, bar 1:
+11.8436 200.584 /Times-Bold-ISO 21.7822 (C) leftshow
+% page , sys 1, bar 1, stave 1
+17.9196 175.384 28 trebleclef
+44.5185 171.884 28 flat
+55.7185 171.884 28 whiteblob
+44.5185 196.384 28 natural
+55.7185 196.384 28 whiteblob
+55.7185 182.384 28 ledger
+55.7185 189.384 28 ledger
+55.7185 196.384 28 ledger
+11.8436 127.226 /Times-BoldItalic-ISO 15.4 (  ff) leftshow
+% page , sys 1, bar 1, stave 2
+17.9196 107.384 28 trebleclef
+39.1985 72.3837 28 flat
+55.7185 72.3837 28 whiteblob
+55.7185 72.3837 28 ledger
+44.5185 79.3837 28 flat
+55.7185 79.3837 28 whiteblob
+39.1985 100.384 28 flat
+55.7185 100.384 28 whiteblob
+44.5185 121.384 28 natural
+55.7185 121.384 28 whiteblob
+55.7185 114.384 28 ledger
+55.7185 121.384 28 ledger
+11.8436 55.3457 /Times-BoldItalic-ISO 15.4 (  ff) leftshow
+% page , sys 1, bar 1, stave 3
+17.9196 44.3837 28 bassclef
+44.5185 5.88374 28 flat
+55.7185 5.88374 28 whiteblob
+55.7185 9.38374 28 ledger
+39.1985 19.8837 28 flat
+55.7185 19.8837 28 whiteblob
+44.5185 37.3837 28 natural
+55.7185 37.3837 28 whiteblob
+pgsave restore
+showpage
+%%EOF

@@ -1,0 +1,39 @@
+boundingbox 350 145
+midi channel 1  patch 73 reverb 70 pan 30 # flu
+midi channel 2  patch 68 reverb 70 pan 60 # obo
+midi channel 3  patch 71 reverb 70 pan 80 # clr
+midi channel 4  patch 60 reverb 70 pan 20 # hrn
+midi channel 5  patch 70 reverb 70 pan 70 # bsn
+midi channel 6  patch 44 reverb 80 pan 50 # vln
+midi channel 7  patch 44 reverb 70 pan 10 # vla
+midi channel 8  patch 44 reverb 70 pan 90 # cb
+1 system 5 /27-35-27/
+/
+2 bars | 1# 3 3 3 3  3 3 3 5  3 3 3 3  3 3 3 4 \
+ | 3 3 3 3  3 3 3 5  3 3 3 3  3 3 3 4 |
+| 4/4 2.5
+midi off
+=1  treble 1# 4 c~ 8. [b 16 f] 4 a 8. [g 16 d#]
+=2' bass   1# 1// <B e g>
+midi on
+#=6  treble 1# cha6 vol126 leg99 4 c~ 8. [b 16 f] 4 vol-6 a 8. vol+5 [g 16 d#]
+#=1  treble 1# cha1 vol65 leg99 4 rest <e g> rest vol-3 <e g>
+#=2  treble 1# cha2 vol65 leg99 4 rest <e g> rest vol-3 <e g>
+#=3  treble 1# cha3 vol65 leg99 4 rest <e g> rest vol-3 <e g>
+#=4  treble 1# cha4 vol65 leg99 4 rest <B__ B_ E G> rest vol-3 <B__ B_ E G>
+#=5  treble 1# cha5 vol60 leg99 4 rest <B__ E G> rest vol-3 <B__ E G>
+#=7  bass   1# cha7 leg60 vol100 1 <B e g e~>
+#=8  bass   1# cha8 leg60 vol125 4 B_ 2. rest
+|
+midi off
+=1  4 f 8. [e 16 B] 4 d 8. [c' 16 G]
+=2' 1// <B e g>
+midi on
+#=6  cha6 vol121 leg99 4 f 8. vol+5 [e 16 B] 4 vol-6 d 8. vol+5 [c' 16 G]
+#=1  cha1 vol60 leg99 4 rest <e g> rest vol-3 <c e>
+#=2  cha2 vol60 leg99 4 rest <e g> rest vol-3 <c e>
+#=3  cha3 vol60 leg99 4 rest <e g> rest vol-3 <c e>
+#=4  cha4 vol60 leg99 4 rest <B__ E G> rest vol-3 <B__ E G>
+#=5  cha5 vol55 leg99 4 rest <B__ E G> rest vol-3 <B__ E G>
+#=7  cha7 vol100 1 <B e g e~>
+#=8  cha8 vol120 4 B_ 2. rest

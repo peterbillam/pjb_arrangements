@@ -1,0 +1,2748 @@
+head	1.12;
+access;
+symbols;
+locks
+	pjb:1.12;
+comment	@# @;
+
+
+1.12
+date	2003.08.13.22.49.24;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2003.08.13.05.07.09;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2003.08.12.03.35.31;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2003.08.11.22.48.11;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2003.08.09.09.10.42;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2003.08.08.03.23.49;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2003.08.07.22.08.22;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2003.08.07.03.10.05;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2003.08.04.10.17.39;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2003.08.04.04.13.22;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2003.08.01.06.42.28;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2003.08.01.04.17.21;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Easy 4-hand Piano Arrangements
+@
+
+
+1.12
+log
+@add Waltz in 6b from p.16
+@
+text
+@6 systems 20 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 5/19-30-19 10/
+pagenum 4
+/
+9 bars | 1# 3/4 7 | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 4 3 3 3 3 3 \
+ | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 11 :||
+|
+bl1.4 .05 Ländler 
+=1  bass 1#  3/4 cro rest
+I0.5 .07 p
+=2  bass 1#  3/4 cro rest
+|
+r1.4 .70 from Hommage aux Belles Viennoises, Op.67 D.734 No. 1,  Franz Schubert
+=1  cro rest qua [<g b> <g b>] cro <g b>
+=2' qua G rest [d d] cro d(2
+|
+=1  cro rest qua [<f c~> <f c~>] cro <f c~>
+=2' qua A)2 rest [d d] cro d
+|
+=1  cro <f a-.> <g b-.> <a c~>
+=2' cro d-. d-. d(2
+|
+=1  cro rest qua [<g b> <g b>] cro <g b>
+=2' qua G)2 rest [d d] cro d(2
+|
+=1  cro rest qua [<g b> <g b>] cro <g b>
+=2' qua B)2 rest [d d] cro d(2
+|
+=1  cro rest qua [<a c~> <a c~>] cro <a c~>
+=2' qua A)2 rest [d d] cro d
+|
+=1  cro <f a-.> <g b-.> <a c~-.>
+=2' cro d-. d-. d-.
+|
+=1 min <g b>
+=2' min <G d>
+/
+9 bars ||: 1# 7 | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 4 3 3 3 3 3 \
+ | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 12 |
+|
+=1  bass 1#  cro rest
+I0.5 .07 f
+=2  bass 1#  cro rest
+|
+=1  cro rest qua [<g# b> <g b>] cro <g b>
+=2  qua E rest [e e] cro e(2
+|
+=1  cro rest qua [<g# b> <g b>] cro <g b>
+=2  qua E)2 rest [e e] cro e
+|
+=1  cro rest <ax b> <ax b>
+=2  cro E e e
+|
+=1  cro rest qua [<g# b> <g b>] cro <g b>
+=2  qua E rest [e e] cro e(2
+|
+=1  cro rest qua [<g# b> <g b>] cro <g b>
+I0.5 .07 ff
+=2  qua E)2 rest [e e] cro e(2
+|
+=1  cro rest qua [<g# b> <g b>] cro <g b>
+=2  qua E)2 rest [e e] cro e
+|
+=1  cro rest <ax b> <ax b>
+=2  cro E e e
+|
+=1 min <g# b> cro rest
+I0.5 .70 p
+=2  min e cro rest
+/
+8 bars | 1# 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 4 3 3 3 3 3 \
+ | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 11 :||
+|
+=1  bass 1# cro rest qua [<g b> <g b>] cro <g b>
+=2' bass 1# qua Gn rest [d d] cro d(2
+|
+=1  cro rest qua [<f c~> <f c~>] cro <f c~>
+=2' qua A)2 rest [d d] cro d
+|
+=1  cro <f a-.> <g b-.> <a c~>
+=2' cro d-. d-. d(2
+|
+=1  cro rest qua [<g b> <g b>] cro <g b>
+=2' qua G)2 rest [d d] cro d(2
+|
+=1  cro rest qua [<g b> <g b>] cro <g b>
+=2' qua B)2 rest [d d] cro d(2
+|
+=1  cro rest qua [<a c~> <a c~>] cro <a c~>
+=2' qua A)2 rest [d d] cro d
+|
+=1  cro <f a-.> <g b-.> <a c~-.>
+=2' cro d-. d-. d-.
+|
+=1 min <g b>
+=2' min <G d>
+
+
+
+/
+6 bars | 3/4 18 | 18 | 18 | 6 6 9 | 18 | 18 |
+|
+bl1.4 .05  Atzenbrugg German Dance No. 6
+=1' treble 3/4 cro <E G> <D#l F#> <E G>
+=1, treble 3/4 min. C(2
+I0.5 .07 p
+=2  bass 3/4 min. rest
+|
+=1  cro <D#rl F#> <E G> rest
+=1, min Crr)2 cro blank
+I0.5 .62 fz
+=2  min rest cro <C c>
+|
+=1  cro <E G> <D#l F#> <E G>
+=1, min. C(2
+=2  min. rest
+|
+r1.4 .30 Op.9 D.365 No. 31,  Franz Schubert
+=1, min Crr)2 cro blank
+=1  cro <D#rl F#> <E G> rest bass
+I0.5 .62 fz
+=2  min rest cro <C c>
+|
+=1  cro rest f A
+=2  cro <A_ A> F A_
+|
+=1  cro f A c
+I0.5 .62 fz
+=2  cro F A_ C
+/
+6 bars | 18 | 18 | 18 | 18 :||: 18 | 18 |
+|
+=1 bass cro d qua [d d] cro d
+I0.5 .10 f
+=2 bass cro D qua [D D] cro D
+|
+=1  cro g b g
+=2  cro G B G
+|
+=1  cro d qua [d d] cro d
+=2  cro D qua [D D] cro D
+|
+=1  min rest cro rest
+=2  min <G_ G> cro rest
+|
+=1  cro rest <g b d~ f~> <g b d~ f~>
+I0.5 .07 p
+=2  cro <G g'> rest rest
+|
+=1  cro rest <g b d~ f~> <g b d~ f~>
+I0.5 .02 fz
+=2  cro <G_ G> rest rest
+/
+6 bars | 18 | 18 | 18 | 18 | 18 | 18 :|| 18 ||
+|
+=1  bass   cro rest <g c~ e~> <g c~ e~>
+=2  bass   cro c rest rest
+|
+=1  cro rest <g c~ e~> <g c~ e~>
+I0.5 .02 fz
+=2  cro <C c> rest rest
+|
+=1  cro rest <g b d~ f~> <g b d~ f~>
+=2  cro <G g'> rest rest
+|
+=1  cro rest <g b d~ f~> <g b d~ f~>
+I0.5 .02 fz
+=2  cro <G_ G> rest rest
+|
+=1  cro rest e g
+I0.5 .02 f
+=2  cro <C c> E G
+|
+rl1.7 .08 ________
+bl1.0 .01 1a
+=1 cro c~ e~ g~
+=2 cro c e rest
+|
+rl1.7 .08 ________
+bl1.0 .01 2a
+rs0.3 .70 Juli 1821
+=1 cro c~ rest rest
+=2 cro c rest rest
+
+6 systems 20 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 10/
+pagenum 5
+/
+9 bars | 1# 3/4 7 | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 4 3 3 3 3 3 \
+ | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 11 :||
+|
+bl1.4 .05 Ländler 
+=1  treble 1#  3/4 cro d(1
+I0.5 .07 p
+=2  treble 1#  3/4 cro rest
+|
+r1.4 .70 from Hommage aux Belles Viennoises, Op.67 D.734 No. 1,  Franz Schubert
+=1, qua g)1 rest qua [B B] cro B(1
+=2' cro rest qua [<D G> <D G>] cro <D G>
+|
+=1  qua d)1 rest qua [c c] cro c
+=2' cro rest qua [<D F> <D F>] cro <D F>
+|
+=1  cro c-. B-. A(1
+=2' cro <D A-.> <D G-.> <D F>
+|
+=1  qua e)1 rest qua [d d] cro d(1
+=2' cro rest qua [<D B> <D B>] cro <D B>
+|
+=1  qua g)1 rest qua [B B] cro B(1
+=2' cro rest qua [<D G> <D G>] cro <D G>
+|
+=1  qua d)1 rest qua [c c] cro c
+=2' cro rest qua [<D F> <D F>] cro <D F>
+|
+=1  cro c-. B-. A-.
+=2' cro <D A-.> <D G-.> <D F-.>
+|
+=1 min G
+=2' min D
+/
+9 bars ||: 1# 7 | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 4 3 3 3 3 3 \
+ | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 12 |
+|
+=1  treble 1#  cro B(1
+I0.5 .07 f
+=2  treble 1#  cro rest
+|
+=1  qua e)1 rest qua [B B] cro B(1
+=2  cro rest qua [<E G#> <E G>] cro <E G>
+|
+=1  qua g#)1 rest qua [B B] cro B
+=2  cro rest qua [<E G#> <E G>] cro <E G>
+|
+=1  cro <f b> <e b> <f b>
+=2  cro d# c# d
+|
+=1  qua <g# b> rest [g g] cro g(1
+=2  qua e rest [<B, e> <B, e>] cro <B, e>
+|
+=1  qua e~)1 rest qua [b b] cro b(1
+I0.5 .07 ff
+=2  cro rest qua [<e g#> <e g>] cro <e g>
+|
+=1  qua g~#)1 rest qua [b b] cro b
+=2  cro rest qua [<e g#> <e g>] cro <e g>
+|
+b1.4 .14 ____________
+b0.8 .01 8va
+=1  cro <f b-.> <e b-.> <f b-.>
+b0.8 .14 _________
+b0.3 .01 8va
+=2  cro d#-. c#-. d-.
+|
+=1 min <e e~> cro rest
+I0.5 .70 p
+=2  min rest cro dn(1
+/
+8 bars | 1# 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 4 3 3 3 3 3 \
+ | 4 3 3 3 3 3 | 4 3 3 3 3 3 | 18 | 11 :||
+|
+=1  treble 1# qua g)1 rest qua [B B] cro B(1
+=2' treble 1# cro rest qua [<D G> <D G>] cro <D G>
+|
+=1  qua d)1 rest qua [c c] cro c
+=2' cro rest qua [<D F> <D F>] cro <D F>
+|
+=1  cro c-. B-. A(1
+=2' cro <D A-.> <D G-.> <D F>
+|
+=1  qua e)1 rest qua [d d] cro d(1
+=2' cro rest qua [<D B> <D B>] cro <D B>
+|
+=1  qua g)1 rest qua [B B] cro B(1
+=2' cro rest qua [<D G> <D G>] cro <D G>
+|
+=1  qua d)1 rest qua [c c] cro c
+=2' cro rest qua [<D F> <D F>] cro <D F>
+|
+=1  cro c-. B-. A-.
+=2' cro <D A-.> <D G-.> <D F-.>
+|
+=1 min G
+=2' min D
+
+/
+6 bars | 3/4 3 4 3 3 3 3 | 18 | 3 4 3 3 3 3 | 18 | 3 3 4 3 3 3 | 18 |
+|
+bl1.4 .05  Atzenbrugg German Dance No. 6
+=1  treble 3/4 cro g qua [f# a] cro g
+I0.5 .15 p
+=2  treble 3/4 qua [e c] cro d# qua [e c]
+|
+=1  qua [f# a] cro g <g c~>
+I0.5 .62 fz
+=2  cro d# qua [e c] cro <c e>
+|
+=1  cro g qua [f# a] cro g
+=2  qua [e c] cro d# qua [e c]
+|
+r1.4 .30 Op 9, D. 365 No. 31,  Franz Schubert
+=1  qua [f# a] cro g <g c~>
+I0.5 .62 fz
+=2  cro d# qua [e c] cro <c e>
+|
+=1  cro e qua [d# fn] cro e
+=2' qua [c A] cro B qua [c A]
+|
+=1  qua [d# f] cro e <e a>
+I0.5 .62 fz
+=2' cro B qua [c A] cro A
+/
+6 bars | 18 | 18 | 18 | 18 :||: 3 4 3 3 3 3 | 18 |
+|
+=1 treble cro <a d~> qua [<a d~> <a d~>] cro <a d~>
+I0.5 .10 f
+=2 treble cro <d f#> qua [<d f> <d f>] cro <d f>
+|
+=1  cro <b d~> <b d~> <b d~>
+=2  cro <d g> <d g> <d g>
+|
+=1  cro <a d~> qua [<a d~> <a d~>] cro <a d~>
+=2  cro <d f#> qua [<d f> <d f>] cro <d f>
+|
+=1  min <b d~ g~> cro rest
+=2  min g cro rest
+|
+=1  cro f qua [e-emph g] cro f-.
+I0.5 .07 p
+=2, qua [d B] cro c#-emph d-.
+|
+=1' min a qua g rest
+=1  min f(2 qua fr)2 rest
+I0.5 .02 fz
+=2, min <B(2 d(1> qua <B)2 d)1> rest
+/
+6 bars | 18 | 18 | 3 4 3 3 3 3 | 18 | 18 | 18 :|| 18 ||
+|
+=1  treble cro e qua [d#-emph f] cro e-.
+=2  treble qua [c' G] cro B,-emph c-.
+|
+=1' min a qua g rest
+=1  min e(2 qua e)2
+I0.5 .02 fz
+=2, min c(1 qua c)1 rest
+|
+=1  cro f qua [e-emph g] cro f-.
+=2, qua [d B] cro c#-emph d-.
+|
+=1' min a qua g rest
+=1  min f(2 qua fr)2 rest
+I0.5 .02 fz
+=2, min <B(2 d(1> qua <B)2 d)1> rest
+|
+=1 cro g <g c~> <g b d~>
+I0.5 .02 f
+=2  cro <c e> <c e> d
+|
+rl1.9 .08 ________
+bl1.2 .01 1a
+=1 cro <g c~ e~> rest' rest'
+=2 cro e rest rest
+|
+rl1.9 .08 ________
+bl1.2 .01 2a
+rs0.3 .70 Juli 1821
+=1 cro <g c~> rest rest
+=2 cro <c e> rest rest
+
+6 systems 20 /19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 8/19-30-19 10/
+pagenum 6
+/
+8 bars | 1b 3/4 3 3 3 4.5 3 3 | 5 5 6 | 3 3 3 4.5 3 3 | 5 5 6 \
+ | 3 3 3 4.5 3 3 | 5 5 6 | 18 | 18 :||
+|
+bl1.4 .05  Waltz
+=1  bass  1b 3/4 cro. c qua Bn cro c
+I0.5 .15 mf
+=2  bass  1b 3/4 min F cro F
+|
+r1.4 .30 Op.9 D.365 No. 36,  Franz Schubert
+=1 min f cro rest
+=2 min F cro F
+|
+=1' cro. c qua db cro c
+=2 min E cro E
+|
+=1 min e cro g
+=2 min E cro E
+|
+=1' cro. a qua g# cro a
+=1, min f cro f
+=2  cro. A qua G# cro A
+|
+=1  min <f b> cro <f a>
+=2  min B cro c
+|
+=1  cro f <f a> <fx g>
+=2 cro d' c Bn
+|
+=1 min <e g> cro rest
+=2 min c cro c
+/
+8 bars ||: 1b 5 5 6 | 5 5 6 | 5 5 6 | 15 | 5 5 6 | 5 5 6 | 18 | 15 :||
+|
+=1  bass   1b min a cro ab
+=2  bass   1b min f cro f
+|
+=1  min ab cro ab
+=2  min db' cro Ab
+|
+=1  min f cro f
+=2  min B cro F
+|
+=1  min. dn
+I0.5 .02 fz
+=2  min. G
+|
+=1  min <d f> cro <db f>
+=2  min Ab cro A
+|
+=1  min <c, f> cro bb(1
+=2  min An cro B
+|
+=1  cro b)1 a g
+=2 min c cro c
+|
+rs0.3 .30 8 März 1821
+=1  min. f
+=2  min. F
+
+/
+7 bars | 5b 3/4 7 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  Waltz
+=1  bass  5b 3/4 cro rest
+I0.5 .15 mf
+=2  bass  5b 3/4 cro rest
+|
+r1.4 .30 from "First Waltzes", Op.9 D.365 No. 14,  Franz Schubert
+=1 cro rest <a d~ f~> <a d~ f~>
+=2 cro d' rest rest
+|
+=1 cro rest <a d~ f~> <a d~ f~>
+=2 cro d' rest rest
+|
+=1 cro rest <a c~> <a c~>
+=2 cro c rest rest
+|
+=1 cro rest <a c~ e~> <a c~ e~>
+=2 cro A rest rest
+|
+=1 cro rest <a d~ f~> <a d~ f~>
+=2 cro d' rest rest
+|
+=1 cro rest <a d~ f~> <a d~ f~>
+=2 cro d' rest rest
+/
+6 bars | 5b 18 | 18 | 18 | 18 | 18 | 18 |
+|
+=1 bass 5b cro rest <gn d~> <g d~>
+=2 bass 5b cro <E e'> e e
+|
+=1 min <a c~> cro rest
+=2 min. rest
+|
+=1 cro rest <a d~ f~> <a d~ f~>
+=2 cro d' rest rest
+|
+=1 cro rest <a d~ f~> <a d~ f~>
+=2 cro d' rest rest
+|
+=1 cro rest <a c~> <a c~>
+=2 cro c rest rest
+|
+=1 cro rest <a c~ e~> <a c~ e~>
+=2 cro A rest rest
+/
+6 bars | 5b 18 | 18 | 18 | 18 ||: 18 | 18 |
+|
+=1 bass 5b cro rest <a d~ f~> <a d~ f~>
+=2 bass 5b cro d' rest rest
+|
+=1 cro rest <anll c~#l e~> <a c~ e~>
+=2 cro An rest rest
+|
+=1 cro rest <g#l d~n> <g d~>
+=2 cro En en e
+|
+=1 min <anrl c~#> cro rest
+=2 min. rest
+|
+=1 cro rest <an d~nl f~#> <a d~ f~>
+=2 cro dn rest rest
+|
+=1 cro rest <an d~nl f~#> <a d~ f~>
+=2 cro dn rest rest
+/
+7 bars | 5b 18 | 18 | 18 | 18 | 18 | 14 :|| 14 ||
+|
+=1 bass 5b cro rest <anll c~#l e~> <a c~ e~>
+=2 bass 5b cro An rest rest
+|
+=1 cro rest <anll c~#l e~> <a c~ e~>
+=2 cro An rest rest
+|
+=1 cro rest <anll c~#l e~> <a c~ e~>
+=2 cro An rest rest
+|
+=1 cro rest <abl d~b f~> <a d~ f~>
+=2 cro Ab rest rest
+|
+=1 cro rest <c~ g~b> <c~ g~>
+=2 cro A a a
+|
+rl1.7 .08 ______
+bl1.0 .01 1a
+=1 min <d~ f~> cro rest
+=2 min. rest
+|
+rl1.7 .08 ______
+bl1.0 .01 2a
+=1 cro <d~ f~> cro rest
+=2 min rest
+
+
+6 systems 20 /19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 7/19-30-19 10/
+pagenum 7
+/
+8 bars | 1b 3/4 3 3 3 4.5 3 3 | 5 5 6 | 3 3 3 4.5 3 3 | 5 5 6 \
+ | 3 3 3 4.5 3 3 | 5 5 6 | 18 | 18 :||
+|
+bl1.4 .05  Waltz
+=1  treble 1b 3/4 cro. A qua G# cro A
+I0.5 .15 mf
+=2  treble 1b 3/4 min <A_ C> cro <A_ C>
+|
+r1.4 .30 Op 9, D. 365 No. 36,  Franz Schubert
+=1 min F cro C
+=2 min <A_ C> cro A_
+|
+=1' cro. B qua A cro B
+=2 min <B_ Cx> cro <B_ Cx>
+|
+=1 min G cro C
+=2 min <B_ Cx> cro B_
+|
+=1  cro. c qua Bn cro c
+=2' min F cro F
+=2, cro. C qua B_n cro C
+|
+=1  min d cro c
+=2  min <D F> cro <C F>
+|
+=1  cro B' A G
+=2  cro <B_ F> <C F> <D F>
+|
+=1 min G cro rest
+=2 min <C E> cro C
+/
+8 bars ||: 1b 3 3 3 4 3 3 | 5 5 6 | 5 5 6 | 15 \
+ | 3 3 3 4 3 3 | 5 5 6 | 18 | 15 :||
+|
+=1  treble 1b cro. c qua Bn cro c
+=2  treble 1b min F cro F
+|
+=1  min db cro c(1
+=2  min F cro Eb
+|
+=1  cro c)1 Bb Ab
+=2  min Db cro C
+|
+=1  min. G
+I0.5 .02 fz
+=2  min. B_n
+|
+=1  cro. F qua En cro F
+=2  min <B_n D> cro <B_ Db>
+|
+=1  min <F A> cro G(2
+=2  min C cro Dn(2
+|
+=1  cro G)2 F E-.
+=2  cro D)2 C B_b
+|
+rs0.3 .30 8 März 1821
+=1  min. F
+=2  min. A_
+
+/
+7 bars | 5b 3/4 7 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  Waltz
+=1  treble  5b 3/4 cro A
+I0.5 .15 p
+=2  treble  5b 3/4 cro rest
+|
+r1.4 .30 from "First Waltzes", Op.9 D.365 No. 14,  Franz Schubert
+=1 min. f
+=2 qua rest [A Gn A G A]
+|
+=1 cro d e f
+=2 qua rest A rest A rest A
+|
+=1 cro a gn gb
+=2 qua rest A rest A rest A
+|
+=1 min. e
+=2 qua rest [A Gn A B' A]
+|
+=1 min. f
+=2 qua rest [A Gn A G A]
+|
+=1 cro d e f
+=2 qua rest A rest A rest A
+/
+6 bars | 5b 18 | 18 | 18 | 18 | 18 | 18 |
+|
+=1 treble 5b cro e d B
+=2 treble 5b qua rest E rest E rest E
+|
+=1 min. rest
+=2 qua [A(2 Gn B' A G A)2]
+|
+=1 min. f
+=2 qua rest [A Gn A G A]
+|
+=1 cro d e f
+=2 qua rest A rest A rest A
+|
+=1 cro a gn gb
+=2 qua rest A rest A rest A
+|
+=1 min. e
+=2 qua rest [A Gn A B' A]
+/
+6 bars | 5b 18 | 18 | 18 | 18 ||: 18 | 18 |
+|
+=1 treble 5b min f(1 cro d)1
+=2 treble 5b qua rest [A Gn A] rest A
+|
+=1 min en(1 cro c#)1
+=2 qua rest [An G# A] rest A
+|
+=1 cro en dn Bn
+=2 qua rest En rest E rest E
+|
+=1 min. rest
+=2 qua [An(2 G# Bn' A G A)2]
+|
+=1 min. f#
+=2 qua rest [An G# A G A]
+|
+=1 cro f# g# an
+=2 qua rest An rest A rest A
+/
+7 bars | 5b 18 | 18 | 18 | 18 | 18 | 14 :|| 14 ||
+|
+=1 treble 5b cro an en e
+=2 treble 5b qua rest An rest A rest A
+|
+=1 min. en
+=2 qua rest [An G# A Bn' A]
+|
+=1 min. gn
+=2, qua rest [c#(1 B# c d# c)1]
+|
+=1 min ab cro f
+=2 qua rest [db cn d] rest A
+|
+=1 cro a gb e
+=2 qua rest A rest A rest A(2
+|
+rl1.3 .08 ______
+bl0.6 .01 1a
+=1 min d cro An
+=2 min A)2 cro rest
+|
+rl1.3 .08 ______
+bl0.6 .01 2a
+=1 cro d rest
+=2 cro A)2
+
+
+6 systems 25 /19-25-19/19-25-19/19-25-19 30/19-25-19/19-25-19/19-25-19 8/
+pagenum 8
+/
+8 bars | 5# 3/4 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 |
+|
+bl1.4 .05  Atzenbrugg German Dance No. 4
+=1' bass   5# 3/4 cro rest f(1 b)1
+=1, bass   5# 3/4 cro blank min fr
+I0.6 .33 p
+=2  bass   5# 3/4 min. B
+|
+=1' cro rest g(1 c~)1
+=1, cro blank min gr
+=2  min. B
+|
+=1' cro rest f(1 c~)1
+=1, cro blank min fr
+=2  min. B
+|
+=1' cro rest f(1 b)1
+=1, cro blank min fr
+=2  min. B
+|
+r1.4 .30 Op.18 D.145 No. 4,  Franz Schubert
+=1' cro rest f(1 b)1
+=1, cro blank min fr
+=2  min. B
+|
+=1' cro rest g(1 b)1
+=1, cro blank min gr
+=2  min. B
+|
+=1' cro rest f(1 c~)1
+=1, cro blank min fr
+=2  min. B
+|
+=1' cro rest f(1 b)1
+=1, cro blank min fr
+=2  min. B
+/
+8 bars | 5# 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 ||
+|
+=1' bass   5# cro rest f(1 b)1
+=1, bass   5# cro blank min fr
+=2  bass   5# min. B
+|
+=1' cro rest g(1 c~)1
+=1, cro blank min gr
+=2  min. B
+|
+=1' cro rest f(1 c~)1
+=1, cro blank min fr
+=2  min. B
+|
+=1' cro rest f(1 b)1
+=1, cro blank min fr
+=2  min. B
+|
+=1' cro rest f(1 b)1
+=1, cro blank min fr
+=2  min. B
+|
+=1' cro rest f(1 a)1
+=1, cro blank min fr
+=2  min. A
+|
+=1' cro rest e#(1 a)1
+=1, cro blank min er
+=2  min. A
+|
+=1' cro rest a(1 d~)1
+=1, cro blank min ar
+=2  min. d'
+/
+9 bars ||: 5# 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 8 5 | 6 7 5 | 6 7 5 \
+ | 6 7 5 :|| 12 ||
+|
+=1' bass   5# cro rest a(1 d~)1
+=1, 5# cro blank min ar
+=2  bass   5# min. d'
+|
+=1' cro rest g(1 d~)1
+=1, cro blank min gr
+=2  cro G-. rest rest
+|
+=1' cro rest g(1 c~)1
+=1, cro blank min gr
+=2  min. c
+|
+=1' cro rest f(1 c~)1
+=1, cro blank min fr
+=2  cro F-. rest rest
+|
+=1' cro rest f(1 an)1
+=1, cro blank min fr
+=2  min. B#
+|
+=1' cro rest g(1 c~)1
+=1, cro blank min gr
+=2  min. c
+|
+=1' cro rest f(1 a)1
+=1, cro blank min fr
+=2  cro F-. rest rest
+|
+rl1.6 .08 _____
+bl0.9 .01 1a
+=1' cro rest f(1 b)1
+=1, cro blank min fr
+=2  min. B
+|
+rl1.6 .08 ____
+bl0.9 .01 2a
+rs0.3 .40 Juli 1821
+=1  min. <f b>
+=2  min. B
+
+/
+5 bars | 6b 3/4 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  Waltzer
+=1 bass 6b 3/4 cro rest <b e~> <b e~>
+I0.6 .32 p
+=2 bass 6b 3/4 cro e rest rest
+|
+r1.4 .30 Op.18 D.145 No. 8,  Franz Schubert
+=1 cro rest <b f~> <b f~>
+=2 cro B rest rest
+|
+=1 cro rest <b e~> <b e~>
+=2 cro e rest rest
+|
+=1 min b cro <b d~n-.>
+I0.6 .03 fp
+=2 min B cro rest
+|
+=1 cro rest <b e~> <b e~>
+=2 cro e rest rest
+/
+6 bars | 6b 18 | 18 | 18 :||: 18 | 18 | 18 |
+|
+=1 bass 6b cro rest <c~ e~> <c~ e~>
+=2 bass 6b cro c rest rest
+|
+=1 cro rest <a c~> <a c~>
+=2' cro <D d> d d
+|
+=1 min <g b> cro rest
+=2 min. rest
+|
+=1 qua. blank treble cro rest <D G> <D G>
+=2 cro g rest rest
+|
+=1 cro rest <Ebb(2 A-.> <D)2 A-.>
+=2' cro d rest rest
+|
+=1 cro rest <D G> <D G>
+=2 cro g rest rest
+/
+6 bars | 6b 18 | 18 | 18 | 18 | 16 :|| 16 ||
+|
+=1  treble 6b cro rest <Ebb(2 A-.> <D)2 A-.>
+=2' bass   6b cro d rest rest
+|
+=1 cro rest <D Fb> <D Fb>
+i0.6 .04 cresc . . .
+=2 min. gn
+|
+=1' cro rest <C E> <E A>
+=1, min blank cro C
+i0.6 .04 dim . . .
+=2 min a cro rest
+|
+=1' cro <D G> B(1 c)1
+=1, cro B_ min D
+=2  min. rest
+|
+rl1.2 .08 ______
+bl0.5 .01 1a
+=1' cro. B rest'
+=1, min G cro rest,
+=2 min. rest
+|
+rl1.2 .08 ______
+bl0.5 .01 2a
+=1  min <G, B'> cro rest
+=2 min. rest
+
+6 systems 25 /19-25-19/19-25-19/19-25-19 30/19-25-19/19-25-19/19-25-19 8/
+pagenum 9
+/
+8 bars | 5# 3/4 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 |
+|
+bl1.4 .05  Atzenbrugg German Dance No. 4
+=1  treble 5# 3/4 cro. d qua d cro d
+I0.6 .33 p
+=2  treble 5# 3/4 cro. <D F> qua <D F> cro <D F>
+|
+=1  min d-emph(1 cro c)1
+=2  min. <E G>
+|
+=1  cro F smq-s A' qua [G F G A]
+=2  min. E
+|
+=1  min c(1 cro B)1
+=2  min. D
+|
+r1.4 .30 Op.18 D.145 No. 4,  Franz Schubert
+=1  cro. <d f> qua <d f> cro <d f>
+=2  cro. F qua F cro F
+|
+=1  min f-emph(1 cro e)1
+=2' min. <G B>
+|
+=1  smq-s f' qua [e d e g f e]
+=2  min. A
+|
+=1  min c##-emph(1 cro d)1
+=2  min. F
+/
+8 bars | 5# 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 ||
+|
+=1  treble 5# cro. d qua d cro d
+=2  treble 5# cro. <D F> qua <D F> cro <D F>
+|
+=1  min d-emph(1 cro c)1
+=2  min. <E G>
+|
+=1  cro F smq-s A' qua [G F G A]
+=2  min. E
+|
+=1  min c(1 cro B)1
+=2  min. D
+|
+=1  cro. <d f> qua <d f> cro <d f>
+i0.5 .03 cresc . . .
+=2  cro. F qua F cro F
+|
+=1  min <d f> cro d
+i0.5 .03 dim . . .
+=2  min A cro F
+|
+=1  cro e# smq-s e' qua [e d e f]
+=2' min. <G c##>
+|
+=1  min. d
+=2  min. F
+/
+9 bars ||: 5# 6 7 5 | 6 7 5 | 6 7 5 | 6 7 5 | 6 8 5 | 6 7 5 | 6 7 5 \
+ | 12 :|| 12 ||
+|
+=1  treble 5# cro. d qua d cro d(1
+=2' treble 5# cro. c qua c cro c(1
+=2, 5# cro. F## qua F cro F
+|
+=1  min d)1 cro g
+=2' min c)1 cro B
+=2, min. G
+|
+=1  cro. c qua c cro c(1
+=2' cro. B qua B cro B(1
+=2, cro. E# qua E cro E
+|
+=1  min c)1 cro f
+=2' min B)1 cro A
+=2, min. F
+|
+=1  cro. d qua d cro d
+=2' cro. An qua A cro A
+=2, cro. F qua F cro F
+|
+=1  min d cro e
+=2' min. Gr
+=2, min F cro E
+|
+=1' cro A# smq-s c' qua [B A B c]
+=2  min. E
+|
+rl1.6 .08 ____
+bl0.9 .01 1a
+=1  min. B
+=2  min. D
+|
+rl1.6 .08 ____
+bl0.9 .01 2a
+rs0.3 .40 Juli 1821
+=1  min. B
+=2  min. D
+
+/
+5 bars | 6b 3/4 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  Waltzer
+=1 treble 6b 3/4 cro g(1 f e)1
+I0.6 .32 p
+=2' treble 6b 3/4 qua [B G B G B G]
+|
+r1.4 .30 Op.18 D.145 No. 8,  Franz Schubert
+=1 cro e(1 d)1 d-.
+=2' qua [B A B A B A]
+|
+=1 cro f(1 e)1 e-.
+=2' qua [B G B G B G]
+|
+=1 min <f b(1> cro f)1
+I0.6 .03 fp
+=2, min. <B dn>
+|
+=1 cro g(1 f e)1
+=2' qua [B G B G B G]
+/
+6 bars | 6b 18 | 18 | 18 :||: 18 | 18 | 18 |
+|
+=1  treble 6b cro dn(1 e)1 e-.
+=2' treble 6b qua [c G c G c G]
+|
+=1 cro e(1 db)1 d-.
+=2' qua [c F c F c F]
+|
+=1 min B cro B
+=2 min G cro rest
+|
+=1 cro b(1 a g)1
+=2' qua rest B rest B rest B
+|
+=1 cro g(1 f)1 f-.
+=2 qua rest c rest c rest c
+|
+=1 cro b(1 a g)1
+=2' qua rest B rest B rest B
+/
+6 bars | 6b 18 | 18 | 18 | 18 | 16 :|| 16 ||
+|
+=1  treble 6b cro g(1 f f)1
+=2  treble 6b qua rest c rest c rest c
+|
+=1 cro d~(1 c~ b)1
+i0.6 .04 cresc . . .
+=2 qua rest fb rest f rest f
+|
+=1 cro d~(1 c~ a)1
+i0.6 .04 dim . . .
+=2 qua rest e rest e rest e
+|
+=1 cro g b a
+=2 qua rest [d g d f d]
+|
+rl1.2 .08 ______
+bl0.5 .01 1a
+=1 min g cro B
+=2 min. rest
+|
+rl1.2 .08 ______
+bl0.5 .01 2a
+=1  min. g
+=2 min. rest
+
+
+6 systems 25 /19-30-19/19-30-19 30/19-25-19/19-25-19/19-25-19/19-25-19 8/
+pagenum 10
+/
+9 bars | 3b 3/4 7 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 11 :||
+|
+bl1.7 .05  Ländler
+=1  bass   3b 3/4 cro <e~ g~(1>
+I0.6 .43 p
+=2  bass   3b 3/4 cro rest'
+|
+r1.7 .30 D.366 "17 Ländler" No. 17,  Franz Schubert
+=1 cro f~ d~-s3 <c~ e~)1>
+i0.6 .03 dim . . .
+=2 cro d~ bn rest'
+|
+=1 min bb cro b
+=2 cro e(1 B, e)1
+|
+=1 min b cro b
+=2 cro f(1 B f)1
+|
+=1 min b-emph cro <e~ g~(1>
+=2 cro e(1 B,)1 rest
+|
+=1 cro f~ d~-s3 <c~ e~)1>
+i0.6 .03 dim . . .
+=2 cro d~ bn rest'
+|
+=1 min bb cro b
+=2 cro e(1 B, e)1
+|
+=1 min b cro b
+=2 cro f(1 B f)1
+|
+=1 min b
+=2 min e
+/
+9 bars ||: 3b 7 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 11 :||
+|
+=1  bass   3b cro <c~ e~>
+I0.6 .43 mf
+=2  bass   3b cro rest
+|
+=1 cro <b d~b> <d~ f~> <c~ e~>
+i0.6 .03 dim . . .
+=2 min e cro rest
+|
+=1 min. <b d~b>
+=2 cro e(1 f g)1
+|
+=1 cro c~(1 <c~ e~> <b d~b)1>
+i0.6 .03 dim . . .
+=2 cro a rest rest
+|
+=1 min. <a c~>
+=2 cro A(2 B c)2
+|
+=1 min b cro b
+I0.6 .10 p
+=2' cro dn(2 B d)2
+|
+rs0.6 .70 Componirt im Juli 1824 in Zeléz, Ungarn
+=1 min b cro b
+i0.6 .10 cresc . . .
+=2, cro e(1 B e)1
+|
+=1 min b cro b
+i0.6 .30 dim . . .
+=2 cro f(1 B f)1
+|
+=1 min b
+=2 min e
+
+/
+6 bars | 3# 3/4 7 | 18 | 6 6 9 | 18 | 18 | 18 |
+|
+bl1.4 .05 German Dance
+=1 treble 3# 3/4 cro rest
+=2 bass   3# 3/4 cro rest
+|
+=1 cro rest <E A> <C G>
+=2 min. a
+|
+r1.4 .30 D.420 "12 German Dances" No. 12,  Franz Schubert
+=1 cro rest <C F> <A_ E> bass
+=2 min. f
+|
+=1 cro rest <a d~> <f c~>
+=2 min. d'
+|
+=1 cro rest <f b> <f b>
+=2 min. B
+|
+=1 cro rest <g d~x e~> <g d~x e~> 
+=2 min. e
+/
+7 bars | 3# 18 | 18 | 9 :|| 7 | 18 | 18 | 18 |
+|
+=1 bass   3# cro rest <a c~ e~> <a c~ e~>
+=2 bass   3# min. e
+|
+=1 cro rest <g d~x e~> <g d~x e~>
+=2 min. e
+|
+=1 min <a c~>
+=2 min rest
+|
+=1 cro <c~ e~>
+=2 cro rest
+|
+=1 cro rest <c~ e~> <c~ e~>
+=2 cro a rest rest
+|
+=1 cro rest <g d~x e~> <g d~x e~>
+=2 cro e rest rest
+|
+=1 cro rest <g d~x e~> <g d~x e~>
+=2 cro e rest rest
+/
+7 bars | 3# 18 | 18 | 18 | 18 | 12 || 6 | 18 |
+|
+=1 bass   3# cro rest <c~ e~> <c~ e~>
+=2 bass   3# cro a rest rest
+|
+=1 cro rest <c~ e~> <c~ e~>
+=2 cro a rest rest
+|
+=1 cro rest <g d~x e~> <g d~x e~>
+=2 cro e rest rest
+|
+=1 cro rest <g d~x e~> <g d~x e~>
+=2 cro e rest rest
+|
+=1 cro rest <c~ e~>
+=2 cro a a
+|
+=1 cro <c~ e~>
+=2 cro rest
+|
+=1 cro rest <c~ e~> <c~ e~>
+=2 cro a rest rest
+/
+7 bars | 3# 18 | 18 | 18 | 18 | 18 | 18 | 11 ||
+|
+=1 bass   3# cro rest <g d~x e~> <g d~x e~>
+=2 bass   3# cro e rest rest
+|
+=1 cro rest <g d~x e~> <g d~x e~>
+=2 cro e rest rest
+|
+=1 cro rest <c~ e~> <c~ e~>
+=2 cro a rest rest
+|
+=1 cro rest <c~ e~> <c~ e~>
+=2 cro a rest rest
+|
+=1 cro rest <g d~x e~> <g d~x e~>
+=2 cro e rest rest
+|
+=1 cro <a c~> qua [<a c~> <b d~>] cro <c~ e~>
+=2 min. rest
+|
+rs0.8 .02 Componirt 1817
+=1 min <a c~>
+=2 min rest
+
+
+
+6 systems 20 /19-30-19/19-30-19 30/19-32-19/19-30-19/19-30-19/19-30-19 10/
+pagenum 11
+/
+9 bars | 3b 3/4 7 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 11 :||
+|
+bl1.4 .05  Ländler
+=1  treble 3b 3/4 cro <e g(1>
+I0.6 .43 p
+=2  treble 3b 3/4 cro rest
+|
+r1.4 .30 D.366 "17 Ländler" No. 17,  Franz Schubert
+=1 cro f d-s3 <c e)1>
+i0.6 .03 dim . . .
+=2 cro d Bn rest
+|
+=1 qua [Bb,(1 c B c] cro B)1
+=2 qua [G A G A G E]
+|
+=1 qua [B,(1 c B c B c)1]
+=2 cro <D A> <D A> <D A>
+|
+=1 cro c-emph(1 B)1 <e g(1>
+=2 min <E G> cro rest
+|
+=1 cro f d-s3 <c e)1>
+i0.6 .03 dim . . .
+=2 cro d Bn rest
+|
+=1 qua [Bb,(1 c B c] cro B)1
+=2 qua [G A G A G E]
+|
+=1 qua [B,(1 c B c B d)1]
+=2 cro <D A> <D A> <D A>
+|
+=1 min e
+=2 min <E G>
+
+/
+9 bars ||: 3b 7 | 18 | 18 | 18 | 5 3 3 3 3 3 | 18 | 18 | 3 5 3 3 3 3 | 11 :||
+|
+=1  treble 3b cro e(1
+I0.4 .43 mf
+=2  treble 3b cro c
+|
+=1 cro db f e)1
+i0.4 .03 dim . . .
+=2 cro B, db c
+|
+=1 qua [db(1 e d e] cro d)1
+=2 cro B B B
+|
+=1 cro c(1 e db)1
+i0.4 .03 dim . . .
+=2 cro A c B
+|
+=1 qua [c(1 db c d] cro c)1
+=2 cro A A A
+|
+=1, qua [B(1 c B c B c)1]
+I0.4 .10 p
+=2' cro <F A> <F A> <F A>
+|
+rs0.9 .70 Componirt im Juli 1824 in Zeléz, Ungarn
+=1 cro c(1 B)1 qua [e(1 c)1]
+i0.4 .10 cresc . . .
+=2 min <E G> cro G
+|
+=1, qua [c B An B ab d]
+i0.4 .30 dim . . .
+=2 min <D Ab> cro Ab
+|
+=1 min e
+=2 min G
+
+/
+6 bars | 3# 3/4 7 | 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05 German Dance
+=1 treble 3# 3/4 cro a-turn
+=2 treble 3# 3/4 cro rest
+|
+=1 qua [e-s2, a c~ e-s2, e#-s1,-blank-Ifp b]
+=2 min. rest
+|
+r1.4 .30 D.420 "12 German Dances" No. 12,  Franz Schubert
+=1, qua [c-s3, f a A-s3, c-s1,-blank-Ifp gn]
+=2 min. rest
+|
+=1, qua [A-s3, d f F-s5, A#-s3,-blank-Ifp e]
+=2 min. rest
+|
+=1, qua [F B d F B-blank-Ifp d]
+=2 min. rest
+|
+=1, qua [G-s3, B-s1, f-blank-Ifp e f e]
+=2 min. rest
+/
+7 bars | 3# 18 | 18 | 9 :|| 7 | 18 | 18 | 18 |
+|
+=1 treble 3# qua [c-s3, e-s1, b-blank-Ifp a b a]
+=2 treble 3# min. rest
+|
+=1 qua [g-s3, b-s1, d~#-blank-Ifp e~ d~ e~]
+=2 min. rest
+|
+=1 min a
+=2 min rest
+|
+=1 qua [e~-s5(1 d~]
+=2 qua [c~-s2,(1 b-s1,]
+|
+=1 qua [c~ b a g f e)1]
+=2 qua [a g f e-s1, d c)1]
+|
+=1 cro d qua [d e] cro f
+=2 cro B qua [B c] cro d
+|
+=1 cro d qua [d e] cro f
+=2 cro B qua [B c] cro d
+/
+7 bars | 3# 18 | 18 | 18 | 18 | 11 || 8 | 18 |
+|
+=1 treble 3# min e qua [e~(1 d~]
+=2 treble 3# min c qua [c~(1 b]
+|
+=1 qua [c~ b a g f e)1]
+=2 qua [a g f e d c)1]
+|
+=1 cro d qua [d e] cro f
+=2 cro B qua [B c] cro d
+|
+=1 cro d qua [d e] cro f
+=2 cro B qua [B c] cro d
+|
+=1 min c
+=2 min A
+|
+=1 qua [e~(1 d~]
+=2 qua [c~(1 b]
+|
+=1 qua [c~ b a g f e)1]
+=2 qua [a g f e d c)1]
+/
+7 bars | 3# 18 | 18 | 18 | 18 | 18 | 18 | 11 ||
+|
+=1 treble 3# cro d qua [d e] cro f
+=2 treble 3# cro B qua [B c] cro d
+|
+=1 cro d qua [d e] cro f
+=2 cro B qua [B c] cro d
+|
+=1 min e qua [e~(1 d~]
+=2 min c qua [c~(1 b]
+|
+=1 qua [c~ b a g f e)1]
+=2 qua [a g f e d c)1]
+|
+=1 cro d qua [d e] cro f
+=2 cro B qua [B c] cro d
+|
+=1 cro c qua [c d] cro e
+=2 cro A qua [A B'] cro c
+|
+rs0.8 .02 Componirt 1817
+=1 min e
+=2 min <A c'>
+
+
+6 systems 10 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 10/
+pagenum 12
+/
+6 bars | 4b 3/4 9 | 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  Trauer-Walzer
+=1  bass   4b 3/4 cro. rest
+I0.6 .23 p
+=2  bass   4b 3/4 cro. rest
+|
+=1' cro a g a
+=1, min. e
+=2 cro A B c
+|
+r1.4 .30 Op.9 D.365 No. 2,  Franz Schubert
+=1  qua rest [a f a f a]
+=2  cro D d d
+|
+=1' cro b an b
+=1, min. f
+=2 cro B c d'
+|
+=1  qua rest [b g b g b]
+=2  cro E e e
+|
+=1  cro rest <b d~x e~> <b d~x e~>
+=2  cro e rest rest
+/
+6 bars | 4b 18 | 18 | 3 3 5 :||: 9 | 18 | 18 |
+|
+=1 bass   4b cro rest <c~ e~> <c~ e~>
+=2 bass   4b cro a rest rest
+|
+=1  cro rest <b d~x e~> <b d~x e~>
+=2  cro e rest rest
+|
+=1 cro <a c~> qua rest
+=2 cro rest qua A
+|
+=1  cro. rest
+=2  cro. rest
+|
+=1  cro rest <b d~x e~> <b d~x e~>
+=2  cro e rest rest
+|
+=1  cro rest <e a> <e a>
+=2  cro A rest rest
+/
+5 bars | 4b 18 | 18 | 18 | 18 | 18 | 3 3 5 :||
+|
+=1  bass   4b cro rest <f#l bn> <f b>
+=2  bass   4b cro Bn rest rest
+|
+=1' cro rest <Bnl en> <B e>
+=2  cro En rest rest
+|
+=1  cro rest fb fb
+=2  min. Fb
+|
+=1  cro rest <e a c~> <e a c~>
+=2  cro Eb rest rest
+|
+=1  cro rest <b d~x e~> <b d~x e~>
+=2  cro e rest rest
+|
+rs0.3 .70 1816
+=1 cro <a c~> qua rest
+=2 cro rest qua A
+
+/
+8 bars | 2# 3/4 8 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  German Dance
+=1 bass   2# 3/4 cro rest
+I0.6 .23 p
+=2 bass   2# 3/4 cro rest
+|
+=1 cro rest <a d~> <a d~>
+=2' min. d
+|
+r1.4 .40 D.420 No. 1,  Franz Schubert
+=1 cro rest <a c~> <a c~>
+=2' min. d
+|
+=1 cro rest <a d~> <a d~>
+=2' min. d
+|
+=1 cro rest <a d~> <a d~>
+=2' min. d
+|
+=1 cro a <a e~> <a e~>
+I0.6 .03 fp
+=2 cro A rest rest
+|
+=1 cro a <a e~> <a e~>
+I0.6 .03 fp
+=2 cro A rest rest
+|
+=1 cro d~ d~ d~
+=2, cro <d f> <d f> <d f>
+/
+9 bars | 2# 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 12 :||
+|
+=1 bass 2# min <a e~> cro rest
+=2 bass 2# min. rest
+|
+=1 cro rest <a d~> <a d~>
+=2' min. d
+|
+=1 cro rest <a c~> <a c~>
+=2' min. d
+|
+=1 cro rest <a d~> <a d~>
+=2' min. d
+|
+=1 cro rest <a d~> <a d~>
+=2' min. d
+|
+=1 cro a <a e~> <a e~>
+I0.6 .03 fp
+=2 cro A rest rest
+|
+=1 cro a <a e~> <a e~>
+I0.6 .03 fp
+=2 cro A rest rest
+|
+=1 cro d~ d~ e~
+=2, cro f f a
+|
+=1 min d~
+=2, min <d f>
+/
+9 bars ||: 2# 9 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 12 :||
+|
+=1 bass 2# qua [f f]
+I0.6 .23 ff
+=2 bass 2# qua [F F]
+|
+=1 cro f f f
+=2 cro F F F
+|
+=1 cro f g# a#
+=2 cro F G# A#
+|
+=1 cro b c~ d~
+=2' cro B c d
+|
+=1 min f cro rest
+I0.6 .63 p
+=2 min F cro rest
+|
+=1 cro rest <a d~> <a d~>
+i0.6 .23 cresc . . .
+=2' min. d
+|
+=1 cro rest <a c~> <a c~>
+=2' min. d
+|
+rs0.8 .70 Componiert 1817
+=1 cro rest <a d~> <a c~>
+i0.6 .03 dim . . .
+=2' min. d
+|
+=1 min <a d~>
+=2' min d
+
+6 systems 10 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 10/
+pagenum 13
+/
+6 bars | 4b 3/4 4 3 3 | 3 4 3 3 3 3 | 3 3 4 3 4 3 | 18 | 3 3 4 3 4 3 | 18 |
+|
+bl1.4 .05  Trauer-Walzer
+=1  treble 4b 3/4 qua [E Dn E]
+I0.6 .23 p
+=2  treble 4b 3/4 cro. rest
+|
+=1  cro c B A
+=2  qua [C E Db E C E]
+|
+r1.4 .30 Op.9 D.365 No. 2,  Franz Schubert
+=1  cro  G   qua F rest F rest
+=2  cro rest qua D rest D rest
+|
+=1' cro d c B
+=2  qua [D F E F D F]
+|
+=1  cro  A   qua G rest G rest
+=2  cro rest qua E rest E rest
+|
+=1  cro f e e
+=2' qua rest [G B G B G]
+/
+6 bars | 4b 18 | 18 | 3 3 5 :||: 4 3 3 | 18 | 18 |
+|
+=1  treble 4b cro a e e
+=2' treble 4b qua rest [A c A c A]
+|
+=1  cro f e e
+=2' qua rest [G B G B G]
+|
+=1  cro A qua rest
+=2  cro. rest
+|
+=1  qua [e(1 dn e)1]
+=2  cro. rest
+|
+=1  cro fb e db
+=2' qua rest [G B G B G]
+|
+=1  cro d qua cb rest c rest
+=2' qua rest [E A E A E]
+/
+6 bars | 4b 4 4 3 3 3 3 | 4 4 3 3 3 3 | 4 4 3 3 3 3 | 18 | 18 | 3 3 5 :||
+|
+=1  treble 4b cro c# Bn An
+=2  treble 4b qua rest [D# F# D F D]
+|
+=1' cro An qua G# rest G rest
+=2  qua rest [B_n En B_ E B_]
+|
+=1' cro Bb Ab A
+=2  qua rest [Cb Dn C D C]
+|
+=1  cro db qua cn rest c rest
+=2  qua rest [E A E A E]
+|
+=1  cro f qua e rest cro e
+=2' qua rest [G B G B G]
+|
+rs0.3 .70 1816
+=1 cro A qua rest
+=2  cro. rest
+
+/
+8 bars | 2# 3/4 8 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  German Dance
+=1 treble 2# 3/4 qua [f f]
+I0.6 .23 p
+=2 treble 2# 3/4 qua [A A]
+|
+=1 cro f f f
+=2 cro A A A
+|
+r1.4 .40 D.420 No. 1,  Franz Schubert
+=1 cro e f e
+=2 cro G A G
+|
+=1 min d qua [A A]
+=2 min min F qua [F F]
+|
+=1 cro A d f
+=2 cro F A d
+|
+=1 cro a(1 g)1 e
+I0.6 .03 fp
+=2' min <A c> cro <A c>
+|
+=1 cro a(1 g)1 e
+I0.6 .03 fp
+=2' min <A c> cro <A c>
+|
+=1 cro d smq-s e' qua [d c d f]
+=2 cro A A A
+/
+9 bars | 2# 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 12 :||
+|
+=1 treble 2# min e qua [f f]
+=2' treble 2# min <A c> qua [A A]
+|
+=1 cro f f f
+=2 cro A A A
+|
+r1.4 .40 D.420 No. 1,  Franz Schubert
+=1 cro e f e
+=2 cro G A G
+|
+=1 min d qua [A A] 
+=2 min min F qua [F F]
+|
+=1 cro A d f
+=2 cro F A d
+|
+=1 cro a(1 g)1 e
+I0.6 .03 fp
+=2' min <A c> cro <A c>
+|
+=1 cro a(1 g)1 e
+I0.6 .03 fp
+=2' min <A c> cro <A c>
+|
+=1 smq-s e' qua [d c d f] [e c]
+=2 smq blank cro A A A
+|
+=1 min d
+=2 min rest
+/
+9 bars ||: 2# 9 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 12 :||
+|
+=1 treble 2# qua [f f]
+I0.6 .23 ff
+=2 treble 2# qua [F F]
+|
+=1 cro f f f
+=2 cro F F F
+|
+=1 cro f g# a#
+=2 cro F G# A#
+|
+=1 cro b c~ d~
+=2' cro B c d
+|
+=1 min f qua [f f]
+I0.6 .63 p
+=2 min F qua [A A]
+|
+=1 cro f f f
+i0.6 .23 cresc . . .
+=2 cro A A A
+|
+=1 cro a(1 g)1 e
+=2 min G cro G
+|
+rs0.6 .70 Componiert 1817
+=1 cro  d f e
+i0.6 .03 dim . . .
+=2 cro F A G
+|
+=1 min d
+=2 min F
+
+6 systems 10 /19-30-19/19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 10/
+pagenum 14
+/
+9 bars | 4# 3/4 9 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+bl1.4 .05  Atzenbrugg German Dance No. 1
+=1  bass   4# 3/4 qua [e e]
+I0.6 .23 ff
+=2  bass   4# 3/4 qua [E E]
+|
+=1  cro e g b
+=2  cro E G B
+|
+=1  cro e g b
+=2  cro E G B
+|
+=1  cro e g b
+=2' cro E G B
+|
+r1.4 .30 Op.18 D.145 No. 1,  Franz Schubert
+=1  min e~ qua [c c]
+=2  min e  qua [C C]
+|
+=1  cro c G(2 qua c)2 rest
+=2  cro C G_(2 qua C)2 rest
+|
+=1  cro G(2 qua c)2 rest cro d
+=2  cro G_(2 qua C)2 rest cro D
+|
+=1, cro e f f
+=2  cro E F F
+|
+=1  min b cro rest
+=2  min B cro rest
+/
+8 bars | 4# 18 | 18 | 18 | 18 | 18 | 18 | 18 | 11 :||
+|
+=1 bass   4# cro rest <f a# e~> <f a e~>
+I0.6 .15 p
+=2 bass   4# cro F rest rest
+|
+=1 cro rest <f b d~> <f b d~>
+=2 cro B rest rest
+|
+=1 cro rest <f a# e~> <f a e~>
+=2 cro F rest rest
+|
+=1 cro rest <f b d~> <f b d~>
+=2 cro B rest rest
+|
+=1 cro rest <f a# e~> <f a e~>
+=2 cro F rest rest
+|
+=1' cro blank qua d~ rest'' cro blank
+=1 cro rest <f b> <f b>
+=2 cro B rest rest
+|
+=1  cro rest <ex f> <ex f>
+=2' cro F rest rest
+|
+=1 min <d f>
+=2 min B
+/
+9 bars | 4# 9 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+=1  bass   4# qua [B B]
+I0.6 .25 ff
+=2  bass   4# qua [B_ B_]
+|
+=1  cro B dn f
+=2  cro B_ Dn F
+|
+=1  cro B dn f
+=2  cro B_ Dn F
+|
+=1  cro B dn f
+=2  cro B_ Dn F
+|
+=1 min b qua [f f]
+=2 min B qua [F F]
+|
+=1 cro f c(2 qua f)2 rest
+=2 cro F C(2 qua F)2 rest
+|
+=1 cro c(2 qua f)2 rest g
+=2 cro C(2 qua F)2 rest G
+|
+=1 cro a b b
+=2 cro A B B
+|
+=1 min e~ cro blank treble
+=2 min e cro rest
+/
+8 bars | 4# 18 | 18 | 18 | 18 | 18 | 18 | 18 | 12 :||
+|
+=1  treble 4# cro rest <B_ D A> <B_ D A>
+I0.6 .15 p
+=2  bass   4# cro <B_ B> rest rest
+|
+=1  cro rest <B_ E G> <B_ E G>
+=2' cro <E e> rest rest
+|
+=1 cro rest <B_ D A> <B_ F A>
+=2 cro <B_ B> rest rest
+|
+=1  cro rest <B_ E G> <B_ E G> 
+=2' cro <E e> rest rest
+|
+=1, bass smq blank cro <B d a> <B d a>
+=2  cro <B_ B> rest rest
+|
+=1 cro e <e g> <e g>
+=2 cro E B B
+|
+=1,  cro rest <B d a> <B d a>
+=2  cro <B_ B> rest rest
+|
+=1 min g
+=2 min e
+
+/
+8 bars | 2b 3/4 18 | 18 | 18 | 18 | 18 | 18 | 18 | 14 :||
+|
+bl1.4 .05  Waltz
+=1  bass   2b 3/4 cro rest <d f b> <d f b>
+I0.6 .13 pp
+=2  bass   2b 3/4 cro B rest rest
+|
+r1.4 .30 Op.127 D.146 "Last Waltzes" No. 18,  Franz Schubert
+=1  cro rest <e g c~> <e g c~>
+=2  cro B rest rest
+|
+=1  cro rest <e g c~> <e gb c~>
+=2  cro B rest rest
+|
+=1, cro rest <d f b> <d f b>
+=2  cro B rest rest
+|
+=1, cro rest <d f b> <d f b>
+=2  cro B rest rest
+|
+=1, cro rest <d a> <d a>
+=2  cro F# rest rest
+|
+=1, cro rest <d g b> <d g>
+=2  cro G rest rest
+|
+=1  min. a
+=2  min. d
+/
+8 bars ||: 2b 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 :||
+|
+=1  bass   2b cro rest <f c~> <f c~>
+=2  bass   2b cro F rest rest
+|
+=1  cro rest <f a> <f a>
+=2  cro F rest rest
+|
+=1  cro rest <f c~> <f c~>
+=2  cro F rest rest
+|
+=1  cro rest <f a> <f a>
+=2  cro F rest rest
+|
+=1, cro rest <d f b> <d f b>
+=2  cro B rest rest
+|
+=1  cro rest <en g b> <e g b>
+=2  cro En rest rest
+|
+=1  cro rest <f b> <f a>
+=2  cro F rest rest
+|
+=1  min. <f b>
+=2  min. B
+
+
+6 systems 10 /19-30-19/19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 10/
+pagenum 15
+/
+9 bars | 4# 3/4 9 | 18 | 18 | 18 | 5 5 7 | 6 6 7 | 6 7 6 | 18 | 5 5 7 |
+|
+bl1.4 .05  Atzenbrugg German Dance No. 1
+=1  treble 4# 3/4 qua [B B]
+I0.6 .23 ff
+=2  treble 4# 3/4 qua [<E G> <E G>]
+|
+=1  cro B e d
+=2  cro <E G> <E G> <D F>
+|
+=1  cro e B d
+=2  cro <E G> <E G> <D F>
+|
+=1  cro e B <d f>
+=2' cro <E G> <E G> <F B>
+|
+r1.4 .30 Op.18 D.145 No. 1,  Franz Schubert
+=1  min <e g> qua [<e g> <e g>]
+=2  min <G B'> qua [c c]
+|
+=1  cro <e g> <f a(1> qua <e g)1> rest
+=2  cro c <B#(2 d> qua c)2 rest
+|
+=1  cro <f a(1> qua <e g)1> rest cro <d f>
+=2  cro <B#(2 d> qua c)2 rest cro F
+|
+=1, cro <c e> <Bn d> <A# c>
+=2  cro G F <E Fx>
+|
+=1  min B qua [b~ b~]
+I0.8 .55 p
+=2  min <D F> qua [b b]
+/
+8 bars | 4# 6 6 7 | 6 7 7 | 3 3 3.6 6 3 3 | 6 7 7 \
+ | 6 7 6 | 6 7 7 | 3 3 3.6 6 3 3 | 11 :||
+|
+=1 treble 4# cro b~-emph qua a~# rest'' cro g~-emph(1
+=2 treble 4# cro b-emph qua a# rest' cro g-emph(1
+|
+=1 cro g~)1 qua f~ rest'' [d~ d~]
+=2 cro g)1 qua f rest' [d d]
+|
+=1 cro d~-emph qua c~ rest' cro a#-emph(1
+=2 cro d-emph qua c rest cro A#-emph(2
+|
+=1  cro a)1 qua b rest' [b b]
+=2' cro A)2 qua B rest [B B]
+|
+=1 cro b-emph qua a# rest' cro g-emph(1
+=2' cro B-emph qua A# rest cro G-emph(2
+|
+=1  cro g)1 qua f rest [d d]
+=2' cro G)2 qua F rest, [D D]
+|
+=1  cro d qua c rest cro A#
+=2' cro D qua C rest, cro A_#
+|
+=1 min B
+=2 min B_
+/
+9 bars | 4# 9 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+=1  treble 4# qua [f f]
+I0.6 .25 ff
+=2, treble 4# qua [<B dn> <B d>]
+|
+=1 cro f b a#
+=2, cro <B dn> <B d> <A# c>
+|
+=1 cro b f a#
+=2, cro <B dn> <B d> <A# c>
+|
+=1 cro b f <a# c~>
+=2, cro <B dn> <B d> <c f>
+|
+=1 min <b d~> qua [<an c~> <a c~>]
+=2 min <dn f> qua [f f]
+|
+=1 cro <a c~> <b d~n(1> qua <a c~)1> rest'
+=2 cro f      <e# g(1> qua f)1 rest'
+|
+=1 cro <b d~n(1> qua <a c~)1> rest' cro <g b>
+=2 cro <e# g(1> qua f)1 rest' cro dn
+|
+=1 cro <f a> <en g> <d# f>
+=2 cro c B, <A Bx'>
+|
+r1.4 .60 .  .  .  .
+I1.0 .30 8va
+=1 min e qua [e~ e~]
+I0.9 .55 p
+r0.5 .65 .  .  .  .
+I0.1 .40 8va
+=2 min <G B'> qua [e e]
+/
+8 bars | 4# 18 | 18 | 18 | 18 | 18 | 18 | 18 | 12 :||
+|
+r1.4 .15 .  .  .  .  .  .  .  .  .
+I1.0 .02 8va
+=1  treble 4# cro e~-emph qua d~ rest' cro c~-emph(1
+r0.7 .15 .  .  .  .  .  .  .  .  .
+I0.3 .02 8va
+=2  treble 4# cro e-emph qua d rest cro c-emph(1
+|
+r1.4 .05 .  .  .  .  .  .  .  .
+=1 cro c~)1 qua b rest' [g g]
+r0.7 .05 .  .  .  .  .  .  .  .
+=2 cro c)1 qua B rest [G G]
+|
+r1.4 .05 .  .  .  .
+r1.0 .60 |
+=1  cro g qua f rest' cro d~(1
+r0.7 .05 .  .  .  .
+r0.5 .60 |
+=2  cro G qua F rest cro d(1
+|
+=1 cro d~)1 qua e~ rest' [e~ e~]
+=2 cro d)1 qua e rest [e e]
+|
+=1 cro e~-emph qua d~ rest' cro c~-emph(1
+=2 cro e-emph  qua d  rest cro c-emph(1
+|
+=1 cro c~)1 qua b rest' [g g]
+=2 cro c)1 qua B rest [G G]
+|
+=1 cro g qua f rest cro d-emph
+=2 cro G qua F rest, cro D-emph
+|
+=1 min e
+=2 min E
+
+
+/
+8 bars | 2b 3/4 18 | 18 | 3 3 3 5 3 3 | 18 | 18 | 18 | 18 | 14 :||
+|
+bl1.4 .05  Waltz
+=1  treble 2b 3/4 cro d c B
+I0.6 .13 pp
+=2  treble 2b 3/4 qua rest [F D F D F]
+|
+r1.4 .30 Op.127 D.146 "Last Waltzes" No. 18,  Franz Schubert
+=1  min. c
+=2  qua rest [G E G E G]
+|
+=1  cro G B' A
+=2  qua rest [E G E Gb E]
+|
+=1' min. B
+=2  qua rest [F D F D F]
+|
+=1, cro d c B
+=2  qua rest [F D F D F]
+|
+=1  min. d
+=2  qua rest [A D A D A]
+|
+=1  cro d B, c
+=2  qua rest [G D G C G]
+|
+=1  min. d
+=2  min. <D F#>
+/
+8 bars ||: 2b 18 | 3 5 3 3 3 3 | 18 | 3 5 3 3 3 3 \
+ | 18 | 2 4 2 4 2 4 | 18 | 14 :||
+|
+=1  treble 2b cro c B A
+=2  treble 2b qua rest [E F E F E]
+|
+=1  min. eb
+=2  qua rest [E Gb E F E]
+|
+=1  cro c B A
+=2  qua rest [E F E F E]
+|
+=1  min. eb
+=2  qua rest [E Gb E F E]
+|
+=1  cro d c B,
+=2  qua rest [D F D F D]
+|
+=1  cro G A B'
+=2  qua rest D rest D rest D
+|
+=1  cro B, d c
+=2  qua rest [F D F E F]
+|
+=1  min. B
+=2  min. D
+
+@
+
+
+1.11
+log
+@add Atzenbrugg no.4 in 5# from p.13
+@
+text
+@d800 70
+d971 68
+@
+
+
+1.10
+log
+@add 2# German Dance from p.93
+@
+text
+@d683 220
+d904 1
+a904 1
+pagenum 8
+d1072 1
+a1072 1
+pagenum 9
+d1240 1
+a1240 1
+pagenum 10
+d1406 1
+a1406 1
+pagenum 11
+d1571 1
+a1571 1
+pagenum 12
+d1748 1
+a1748 1
+pagenum 13
+@
+
+
+1.9
+log
+@add Trauer-Walter p.1
+@
+text
+@d1088 97
+d1251 98
+@
+
+
+1.8
+log
+@rest of Atzenbrugg no1, p13
+@
+text
+@d1019 136
+d1156 1
+a1156 1
+pagenum 10
+d1333 1
+a1333 1
+pagenum 11
+@
+
+
+1.7
+log
+@a bit more
+@
+text
+@d1019 1
+a1019 1
+5 systems 20 /19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 10/
+d1022 118
+d1196 1
+a1196 1
+6 systems 20 /19-30-19/19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 10/
+d1259 1
+a1259 1
+10 bars | 4# 9 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+d1286 1
+a1286 1
+r1.4 .60 .  .  .  .  .  .  .  .  .
+d1289 3
+a1291 2
+r0.7 .65 .  .  .  .  .  .  .  .  .
+I0.3 .40 8va
+d1293 30
+d1324 5
+a1328 4
+=1  cro e~-emph qua d~ rest'' cro c~-emph(1
+=2  cro e-emph qua d rest cro c-emph(1
+
+
+@
+
+
+1.6
+log
+@first little bit of Atzenbrugg no1, p13
+@
+text
+@d1114 2
+a1115 1
+8 bars | 4# 6 6 7 | 6 7 7 | 3 3 3.6 6 3 3 | 18 | 18 | 18 | 18 | 11 :||
+d1117 2
+a1118 2
+=1 treble 4# cro b~-emph(1 qua a~#)1 rest'' cro g~-emph(1
+=2 treble 4# cro b-emph(1 qua a#)1 rest' cro g-emph(1
+d1120 2
+a1121 2
+=1 cro g~)1(1 qua f~)1 rest'' [d~ d~]
+=2 cro g)1(1 qua f)1 rest' [d d]
+d1123 2
+a1124 2
+=1 cro d~-emph(1 qua c~)1 rest' cro a#-emph(1
+=2 cro d-emph(1 qua c)1 rest cro A#-emph(2
+d1126 53
+a1178 2
+=1  cro a)1(1 qua b)1 rest' [b b]
+=2' cro A)2(2 qua B)2 rest [B B]
+@
+
+
+1.5
+log
+@add 3# Deutsche from p97
+@
+text
+@d323 2
+a324 2
+=1  min <d~ g~> cro rest
+=2  min <g b> cro rest
+d330 2
+a331 1
+=1  min <f(2 a> qua <f)2 gx> rest
+d340 2
+a341 1
+=1  min <e(2 a> qua <e)2 g> rest
+d348 2
+a349 1
+=1  min <f(2 a> qua <f)2 gx> rest
+d691 1
+a691 1
+=2  bass   3b 3/4 cro rest
+d816 2
+a817 2
+=1 cro rest <a c~ e~>
+=2 cro a rest
+d851 1
+a851 1
+6 systems 20 /19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19/19-30-19 10/
+d932 1
+a932 1
+=1 qua [e a c~] [e e#-blank-Ifp b]
+d936 1
+a936 1
+=1, qua [c f a] [A c-blank-Ifp gn]
+d939 1
+a939 1
+=1, qua [A d f] [F A#-Ifp e]
+d942 1
+a942 1
+=1, qua [F B d] [F B-Ifp d]
+d945 1
+a945 1
+=1, qua [G B f-blank-Ifp e f e]
+d950 1
+a950 1
+=1 treble 3# qua [c e b-Ifp a b a]
+d953 1
+a953 1
+=1 qua [g b d~#-Ifp e~ d~ e~]
+d959 2
+a960 2
+=1 qua [e~(1 d~]
+=2 qua [c~ b]
+d963 1
+a963 1
+=2 qua [a g f e d c]
+d974 1
+a974 1
+=2 treble 3# min c qua [c~ b]
+d977 1
+a977 1
+=2 qua [a g f e d c]
+d989 1
+a989 1
+=2 qua [c~ b]
+d992 1
+a992 1
+=2 qua [a g f e d c]
+d1003 1
+a1003 1
+=2 min c qua [c~ b]
+d1006 1
+a1006 1
+=2 qua [a g f e d c]
+d1077 3
+d1081 1
+a1081 16
+8 bars | 3b 3/4 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 :||
+|
+bl1.4 .05 Ländler 
+=1  bass   3b 3/4 cro rest <b e~> <b e~>
+I0.6 .13 p
+=2  bass   3b 3/4 cro e rest rest
+|
+r1.4 .30 Op.18 D.145 No. 2,  Franz Schubert
+=1  cro rest <b e~> <b e~>
+=2  cro e rest rest
+|
+=1  cro rest <b d~> <b d~>
+=2  cro B rest rest
+|
+=1  cro rest <b e~> <b e~> 
+=2  cro e rest rest
+d1083 4
+a1086 3
+=1  cro rest <g b e~> <g b e~> 
+I0.6 .13 f
+=2  cro e rest rest
+d1088 2
+a1089 2
+=1  cro rest <g b e~> <g b e~> 
+=2  cro e rest rest
+d1091 2
+a1092 11
+=1  cro rest <a bx d~> <a bx d~>
+=2  cro B rest rest
+|
+=1  cro rest <g b e~> rest
+=2  cro e rest rest
+/
+8 bars ||: 3b 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+=1  bass   3b cro rest <b d~ f~> <b d~ f~>
+I0.6 .13 mf
+=2  bass   3b cro B rest rest
+d1094 2
+a1095 2
+=1  cro rest <c~ e~x f~> <c~ e~x f~> 
+=2  cro An rest rest
+d1097 3
+a1099 5
+=1  cro rest <an e~x f~> <an e~x f~> 
+=2  cro F rest rest
+|
+=1  cro rest <b d~ f~> <b d~ f~>
+=2  cro B rest rest
+d1101 2
+a1102 2
+=1  cro rest <b d~ f~> <b d~ f~>
+=2  cro B rest rest
+d1104 2
+a1105 2
+=1  cro rest <c~ e~x f~> <c~ e~x f~>
+=2  cro An rest rest
+d1107 2
+a1108 2
+=1  cro rest <an e~x f~> <an e~x f~>
+=2  cro F rest rest
+d1110 3
+a1112 2
+=1  cro rest <b d~ f~> rest
+=2  cro B rest rest
+d1114 1
+a1114 11
+8 bars | 3b 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 :||
+|
+=1  bass   3b cro rest <b e~> <b e~>
+I0.6 .13 p
+=2  bass   3b cro e rest rest
+|
+=1  cro rest <b e~> <b e~>
+=2  cro e rest rest
+|
+=1  cro rest <b d~> <b d~>
+=2  cro B rest rest
+d1116 2
+a1117 2
+=1  cro rest <b e~> <b e~>
+=2  cro e rest rest
+d1119 2
+a1120 3
+=1  cro rest <g b e~> <g b e~>
+I0.6 .13 f
+=2  cro e rest rest
+d1122 2
+a1123 2
+=1  cro rest <g b e~> <g b e~>
+=2  cro e rest rest
+d1125 2
+a1126 7
+=1  cro rest <a bx d~> <a bx d~>
+=2  cro B rest rest
+|
+=1  cro rest <g b e~> rest 
+=2  cro e rest rest
+
+
+a1128 3
+
+5 systems 20 /19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 10/
+pagenum 11
+a1184 86
+
+/
+8 bars | 3b 3/4 7 6 6 | 7 6 6 | 18 | 18 | 7 6 6 | 7 6 6 | 18 | 18 :||
+|
+bl1.4 .05 Ländler
+=1' treble 3b 3/4 qua [G A] cro B B
+I0.6 .13 p
+=2  treble 3b 3/4 min rest cro G
+|
+r1.4 .30 Op.18 D.145 No. 2,  Franz Schubert
+=1  qua [c d] cro e e
+=2' min <G B> cro <G B>
+|
+=1  cro f(1 B,)1 B-.
+=2  min A cro A
+|
+=1  min g(1 cro e)1
+=2' min. <G B>
+|
+=1  qua [g a] cro b b
+I0.6 .13 f
+=2' qua [G A] cro B B
+|
+=1  qua [c~ d~] cro e~ e~
+=2  qua [c d] cro e e
+|
+=1  cro f~(1 b,)1 b-.
+=2  cro f(1 B,)1 B-.
+|
+=1  min e~ cro rest
+=2  min e  cro rest
+/
+8 bars ||: 3b 18 | 18 | 18 | 18 | 18 | 18 | 18 | 14 |
+|
+=1  treble 3b qua [d e] cro f f
+I0.6 .13 mf
+=2  treble 3b min rest cro d
+|
+=1  qua [f g f g] cro f
+=2  min. e
+|
+=1  cro c~(1 f)1 f
+=2  min e cro e
+|
+=1  min d~(1 cro b)1
+=2  min. <d f>
+|
+=1  qua [d e] cro f f
+=2  min rest cro d
+|
+=1  qua [f g f g] cro f
+=2  min. e
+|
+=1  cro c~(1 f)1 qua [f d~]
+=2  min e cro e
+|
+=1  min. b
+=2  min. <d f>
+/
+8 bars | 3b 5 3.5 3 3 3 3 | 7 6 6 | 18 | 18 | 7 6 6 | 7 6 6 | 18 | 18 :||
+|
+=1' treble 3b qua [G Ab] cro B B
+I0.6 .13 p
+=2  treble 3b min rest cro G
+|
+=1  qua [c d] cro e e
+=2' min <G B> cro <G B>
+|
+=1  cro f(1 B,)1 B-.
+=2  min A cro A
+|
+=1  min g(1 cro e)1
+=2' min. <G B> 
+| 
+=1  qua [g a] cro b b
+I0.6 .13 f
+=2' qua [G A] cro B B
+|
+=1  qua [c~ d~] cro e~ e~
+=2  qua [c d] cro e e
+|
+=1  cro f~(1 b,)1 b-.
+=2  cro f(1 B,)1 B-.
+|
+=1  min e~ cro rest
+=2  min e  cro rest
+@
+
+
+1.4
+log
+@add waltz in 5b
+@
+text
+@d485 1
+a485 1
+=1 min <an c~#> cro rest
+d640 1
+a640 1
+=1 cro en db Bn
+d669 3
+a671 3
+rl1.7 .08 ______
+bl1.0 .01 1a
+=1 min d cro A
+d674 2
+a675 2
+rl1.7 .08 ______
+bl1.0 .01 2a
+d680 336
+d1017 1
+a1017 1
+pagenum 8
+d1165 1
+a1165 1
+pagenum 9
+@
+
+
+1.3
+log
+@add Hommage aux Belles Viennoises
+@
+text
+@d1 1
+a1 1
+6 systems 20 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 10/
+d34 1
+a34 1
+=1 min g
+d94 1
+a94 1
+=1 min g
+d173 2
+a174 2
+rl1.9 .08 ________
+bl1.2 .01 1a
+d178 2
+a179 2
+rl1.9 .08 ________
+bl1.2 .01 2a
+d218 1
+a218 1
+=2' min <B_ D>
+d237 1
+a237 1
+=2  qua E rest [<B, e> <B, e>] cro <B, e>
+d249 1
+a249 1
+b0.8 .14 ____________
+d282 1
+a282 1
+=2' min <B_ D>
+d365 1
+a365 1
+5 systems 20 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 10/
+d427 96
+a522 1
+5 systems 20 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 10/
+d584 95
+@
+
+
+1.2
+log
+@3 minor bug-fixes
+@
+text
+@d1 98
+a98 2
+5 systems 20 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 10/
+pagenum 3
+d183 36
+d220 6
+a225 2
+8 bars | 1b 3/4 3 3 3 4.5 3 3 | 5 5 6 | 3 3 3 4.5 3 3 | 5 5 6 \
+ | 3 3 3 4.5 3 3 | 5 5 6 | 18 | 18 :||
+d227 2
+a228 4
+bl1.4 .05  Waltz
+=1  bass  1b 3/4 cro. c qua Bn cro c
+I0.5 .15 mf
+=2  bass  1b 3/4 min F cro F
+d230 2
+a231 3
+r1.4 .30 Op.9 D.365 No. 36,  Franz Schubert
+=1 min f cro rest
+=2 min F cro F
+d233 2
+a234 2
+=1' cro. c qua db cro c
+=2 min E cro E
+d236 2
+a237 2
+=1 min e cro g
+=2 min E cro E
+d239 3
+a241 3
+=1' cro. a qua g# cro a
+=1, min f cro f
+=2  cro. A qua G# cro A
+d243 2
+a244 2
+=1  min <f b> cro <f a>
+=2  min B cro c
+d246 6
+a251 2
+=1  cro f <f a> <fx g>
+=2 cro d' c Bn
+d253 3
+a255 2
+=1 min <e g> cro rest
+=2 min c cro c
+d257 2
+a258 1
+8 bars ||: 1b 5 5 6 | 5 5 6 | 5 5 6 | 15 | 5 5 6 | 5 5 6 | 18 | 15 :||
+d260 2
+a261 2
+=1  bass   1b min a cro ab
+=2  bass   1b min f cro f
+d263 2
+a264 2
+=1  min ab cro ab
+=2  min db' cro Ab
+d266 2
+a267 2
+=1  min f cro f
+=2  min B cro F
+d269 2
+a270 3
+=1  min. dn
+I0.5 .02 fz
+=2  min. G
+d272 2
+a273 2
+=1  min <d f> cro <db f>
+=2  min Ab cro A
+d275 2
+a276 2
+=1  min <c, f> cro bb(1
+=2  min An cro B
+d278 2
+a279 2
+=1  cro b)1 a g
+=2 min c cro c
+d281 2
+a282 3
+rs0.3 .30 8 März 1821
+=1  min. f
+=2  min. F
+a283 2
+5 systems 20 /19-30-19/19-30-19/19-30-19 30/19-30-19/19-30-19 10/
+pagenum 4
+d365 64
+d491 1
+a491 1
+pagenum 5
+d639 1
+a639 1
+pagenum 6
+@
+
+
+1.1
+log
+@add waltz and landler in 2b and 3b
+@
+text
+@d297 1
+a297 1
+=1  bass   2b 3/4 cro rest <f c~> <f c~>
+d456 1
+a456 1
+=1' min. Bb
+d478 1
+a478 1
+=2  qua rest [E Gb E G E]
+d484 1
+a484 1
+=2  qua rest [E Gb E G E]
+d504 1
+a504 1
+=2  treble 3b 3/4 min G cro G
+d560 1
+a560 1
+=2  treble 3b min G cro G
+@

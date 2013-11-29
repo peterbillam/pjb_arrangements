@@ -1,0 +1,587 @@
+% start
+5 systems 5 /17 40 17-22-17 / 17 40 17-23-17 \
+ / 17 40 17-25-17 / 17 40 17-25-17 / 17 30 17-25-17 /
+pagenum 1
+title My Baby Just Cares For Me
+innerhead Gus Kahn / Walter Donaldson
+midi channel 1 patch 53
+midi channel 2 patch 0 reverb 50 pan 65
+midi channel 3 patch 0 reverb 50 pan 35
+/
+5 bars | 4/4 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 || 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 |
+| 4/4 126
+% =1 treble 4/4 cha1 vol125 smb rest
+=2' treble 4/4 cha2 vol80 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+I0.7 .08 f
+=3 bass 4/4 cha3 cro c~-. b-. a-.-s1, g-.
+|
+% =1 smb rest
+=2' cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g-s2,
+|
+% =1 smb rest
+=2' vol70 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+I0.9 .03 mf
+=3 cro c~-. b-. a-.-s1, g-.
+|
+% =1 smb rest
+=2' vol60 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g
+|
+% =1 cro rest qua rest C [C C] cro A_
+r0.5 .38 My .55 baby .76 don't
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+I0.9 .01 p
+=3 cro c~-. b-. vol80 a-.-s1, g-.
+/
+5 bars | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 |
+|
+% =1 cro C qua C cro B_ cro. rest
+r0.5 .01 care .25 for .38 shows,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g
+|
+% =1 cro3 rest rest-I3 C qua [C C] cro C
+r0.5 .33 My .55 baby .76 don't
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-. g-.
+|
+% =1 cro C qua A_ leg100 [C{2 E}2] leg85 cro rest
+r0.5 .01 care .25 for .38 clothes,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g-.
+|
+% =1 cro rest qua rest C cro3 C C-I3 A_
+r0.5 .40 My .58 baby .83 just
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-.-s3, g-.-s1,
+|
+% =1 min C cro rest qua [E D(2]
+r0.5 .01 cares .75 for .87 me,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. c-.
+/
+4 bars | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 |
+|
+% =1 cro D)2 min. rest
+=2' vol40 cha2 qua. rest, smq <F A cx d> qua. rest, smq <F A cx d> \
+qua. rest, smq <F A cx d> qua. rest, smq <F A cx d>
+=3 cro d-. f-. a-. f-.
+|
+% =1 smb rest
+=2' vol40 cha2 qua. rest smq <F Ax B d> qua. rest smq <F Ax B d> \
+qua. rest smq <F Ax B d> qua. rest smq <F Ax B d>
+=3 cro g-. G-. f d-s5,
+|
+% =1 cro rest E cro3 F E-I3 E
+r0.5 .25 My .55 baby .81 don't
+=2' vol40 cha2 qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d> \
+qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d>
+=3 cro e-. g#-. b-. g-.
+|
+% =1 cro E B_ min rest
+r0.5 .01 care .25 for
+=2' vol40 cha2 qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d> \
+qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d>
+=3 cro e-.-s1, E-. d' B
+|
+% =1 min rest cro. D qua C
+r0.5 .50 cars .86 and
+=2' vol40 cha2 qua. rest smq <E G Ax c> qua. rest smq <E G Ax c> \
+qua. rest smq <E G Ax c> qua. rest smq <E G Ax c>
+=3 cro A-. c-. e-. c-.
+|
+% =1 leg100 qua D{2 cro. E}2 min rest
+r0.5 .01 races,
+=2' vol40 cha2 qua. rest smq <E G Ax c> qua. rest smq <E G Ax c> \
+qua. rest smq <E G Ax c> qua. rest smq <E G Ax c>
+=3 cro a-. A-. g-. e-.
+|
+% =1 cro rest C cro3 C C-I3 A_
+r0.5 .25 My .55 baby .81 don't
+=2' vol40 cha2 qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c> \
+qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c>
+=3 cro d'-.-s1, D-. F#-. A-.
+|
+% =1 qua E cro. E min rest
+r0.5 .01 care  for
+=2' vol40 cha2 qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c> \
+qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c>
+=3 cro d-. f#-. a-. ab-.
+/
+5 bars | 80 | 80 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 |
+|
+% =1 smb rest
+=2, cro rest vol+125 leg45 <G B d fx g-emph> leg85 rest rest
+=3 cro g-. rest vol100 G_ rest
+|
+% =1 cro G_ G_ G_ A_
+r0.2 .01 high .15 - .25 tone .60 places,
+=2 smb rest
+=3 min. rest cha9 vol120 cro-s E-. cha3
+|
+% =1 cro rest C qua [C C] cro A_
+r0.5 .28 Liz .53 Taylor .75 is
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 vol80 cro c~-. b-. a-. g-.
+|
+% =1 qua [C C] C{'1 cro E}'1 cro. rest
+r0.5 .01 not  his  style,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g-.
+|
+% =1 min rest qua [D# E F F#]
+r0.5 .50 even .75 Lana
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-. g-.
+
+6 systems 5 /17 35 17-22-17 / 17 35 17-23-17 \
+ / 17 35 17-22-17 / 18-25-18 / 18-25-18 / 18-25-18 /
+pagenum 2
+innerhead My Baby Just Cares For Me, Gus Kahn / Walter Donaldson
+/
+4 bars | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 |
+|
+% =1 cro3 G E-I3 G_ min rest
+r0.5 .01 Turner's .33 smile
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g-.
+|
+% =1 smb rest
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-.-s1, g-.
+|
+% =1 cro. rest qua C [E E E E]
+r0.5 .37 is .48 something he don't
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. e-.
+|
+% =1 qua leg100 E{2 cro D}2 qua rest min rest leg85
+r0.5 .06 see ,
+=2' qua. rest smq <F Gx A c> qua. rest smq <F Gx A c> \
+qua. rest smq <F Gx A c> qua. rest smq <F Gx A c>
+=3 cro f-. a-. c~-. a-.
+|
+% =1 smb rest
+=2' qua. rest smq <F Gx A c> qua. rest smq <F Gx A c> \
+qua. rest smq <F Gx A c> qua. rest smq <F Gx A c>
+=3 cro f-.-s1, A-. d-s2, e-s1,
+
+|
+% =1 cro. rest qua F cro3 F G-I3 A
+r0.7 .37 my .50 baby .81 don't
+=2' qua. rest smq <D F A c> qua. rest smq <D F A c> \
+qua. rest smq <D F A c> qua. rest smq <D F A c>
+=3 cro f-.-s2, a-. d-.-s3, c-.
+|
+% =1 smb B(1
+r0.7 .01 care .60 -
+=2' qua. rest smq <D# F#l Ax B> qua. rest smq <D# F#l Ax B> \
+qua. rest smq <D# F#l Ax B> qua. rest smq <D# F#l Ax B>
+=3 cro B-. d#-. f#-. d#-.
+|
+% =1' cro B)1 cro A qua3 [G{'1 E--I3 G}'1(2] cro G)2
+r0.7 .25 who .50 knows ,
+=2' qua. rest smq <E G Ax B> qua. rest smq <E G Ax B> \
+qua. rest smq <E G Ax B> qua. rest smq <E G Ax B>
+=3 cro c-. e-. c-.-s3, B-.
+|
+% =1 smb rest
+=2' qua. rest smq <E Gx A c> qua. rest smq <E Gx A c> \
+qua. rest smq <E Gx A c> qua. rest smq <E Gx A c>
+=3 cro A-. c#-. e-. c#
+|
+% =1 cro. rest qua C cro3 C D-I3 E
+r0.5 .37 my .53 baby .83 just
+=2 qua. rest smq <D F A> qua. rest smq <D F A> \
+qua. rest smq <D F A> qua. rest smq <D F A>
+=3 cro d-. f-. a-. ab-.
+|
+% =1 min G cro. rest qua D
+r0.5 .01 cares .87 for
+=2 qua. rest smq <D F A> qua. rest smq <D F A> \
+qua. rest smq <D F A> qua. rest smq <D F A>
+=3 cro g-. G-. g-. a-.
+|
+% =1 cro C min. rest
+r0.5 .01 me.
+=2' qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. a-. g-.
+|
+=1 treble cha2 vol40 qua. rest smq <F Gx c'> qua. rest smq <F Gx c'> \
+ qua. rest smq c cro vol110 <B, d fx g-emph>
+=2 bass   cha3 vol80 cro f-. e-. d-. g-.
+|
+=1 qua <c e g c~-emph> rest vol40 qua. rest smq <E G c'> \
+qua. rest smq <E G c'> qua. rest smq <E G c'>
+=2 cro c~-. b-. a-. g-.
+|
+=1 cha2 qua. rest smq <F Gx c'> qua. rest smq <F Gx c'> \
+ qua. rest smq c, cro vol110 <B, d fx g-emph>
+=2 cro f-. e-. d-. g-.
+|
+=1 qua <c e g c~-emph> rest vol40 qua. rest smq <E G c'> \
+qua. rest smq <E G c'> qua. rest smq <E G c'>
+=2 cro c~-. b-. a-. g-.
+/
+5 bars | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 | 80 | 80 | 80 |
+|
+=1' cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+ qua. rest smq <F Gx c> cro rest
+=2 cro f-. e-. d-. g-.
+|
+i0.6 .05 Solo . . .
+=1 cro rest qua. vol100 leg75 [E smq F] qua. [G smq A] cro G
+=2 cro vol100 leg75 c rest qua. [e smq f] qua. [e smq d]
+|
+=1 cro E G-. min rest
+=2 cro c e-. min rest
+|
+=1 cro F c-. min rest
+=2 cro d <a d~-.> min rest
+|
+=1 qua. rest smq f qua. [e smq d] qua. [c smq B,] qua. [A-emph smq G]
+=2 min a~ rest'
+/
+4 bars | 80 |
+|
+=1 qua. [A smq B'] qua. [c smq d] qua. [f smq e] qua. [d-. smq c]
+=2 smb rest
+|
+=1 smb e
+=2 qua. rest' smq b-s4, qua. [c~ smq d~] qua. [e~ smq d~] qua. [c~-. smq b]
+|
+=1 qua3 rest [A-s2 B'-s3] [c--s1 e b] qua. [a smq e] qua. [c-. smq B,]
+=2 cro a min. rest
+|
+=1 min A rest
+=2 qua3 rest [a-I3-s5, b] [c~ d~-I3 e~] qua. [d~ smq c~] qua. [b-. smq a]
+
+6 systems 5 /17-25-17 / 17-22-17 \
+ / 17 35 17-22-17 / 17 35 17-22-17 / 17 35 17-22-17 / 17 35 17-22-17 /
+pagenum 3
+innerhead My Baby Just Cares For Me, Gus Kahn / Walter Donaldson
+|
+=1' qua3 rest [D-s2 E-s1] [F# A-s3 B] qua. [cn smq A] qua. [E-. smq e]
+=2 cro d min. rest
+|
+=1' smb d-s4
+=1, qua3 rest,, [F#-s1 G-s1] [A B-I3 c] qua. [B smq A] qua. [G-. smq F#]
+=2, qua3 rest [d-I3 e] [f# g-I3 a] qua. [g smq f#] qua. [e-. smq d]
+|
+=1 qua3 [G A-I3 B'] [c B,-I3 d] [c e-I3 d] [f e-I3 g]
+=2 cro g min. rest
+|
+=1 qua3 [f a-I3 g] [b a-I3 c~] qua b-emph rest cro vol110 <B, d fx g-emph>
+I0.5 .70 f
+=2 min. rest cro g
+/
+4 bars | 4/4 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 \
+ | 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 \
+ | 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 \
+ | 5 5 5 8 5 5 5 8 5 5 5 8 5 5 5 8 ||
+| 4/4 126
+=1 treble cha2 vol110 qua <c e g c~-emph> rest \
+ vol80 qua. rest smq <E G c'> qua. rest smq <E G c'> qua. rest smq <E G c'>
+I0.7 .20 mf
+=2 bass cha3 cro c~- b- a-s1, g-
+|
+=1' cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq c, cro vol110 <B, d fx g-emph>
+I0.5 .70 f
+=2 cro f e d-. g-s2,
+|
+=1 qua <c e g c~-emph> rest vol70 qua. rest smq <E G c'> \
+qua. rest smq <E G c'> qua. rest smq <E G c'>
+I0.7 .20 mf
+=2 cro c~ b a-s1, g
+|
+=1' vol60 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=2 cro f e d-. g
+/
+4 bars | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 |
+|
+% =1  treble cha1 vol125 cro rest qua rest C [C C] cro A_
+r0.5 .38 My .55 baby .76 don't
+=2' treble cha2 vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+I0.8 .11 p
+=3  bass   cha3 cro c~-. b-. vol80 a-.-s1, g-.
+|
+% =1 cro C qua C cro B_ cro. rest
+r0.5 .01 care .25 for .38 shows,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g
+|
+% =1 cro3 rest rest-I3 C qua [C C] cro C
+r0.5 .33 My .55 baby .76 don't
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-. g-.
+|
+% =1 cro C qua A_ leg100 [C{2 E}2] leg85 cro rest
+r0.5 .01 care .25 for .38 clothes,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g-.
+|
+% =1 cro rest qua rest C cro3 C C-I3 A_
+r0.5 .40 My .58 baby .83 just
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-.-s3, g-.-s1,
+|
+% =1 min C cro rest qua [E D(2]
+r0.5 .01 cares .75 for .87 me,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. c-.
+|
+% =1 cro D)2 min. rest
+=2' vol40 cha2 qua. rest smq <F A cx d> qua. rest, smq <F A cx d> \
+qua. rest, smq <F A cx d> qua. rest, smq <F A cx d>
+=3 cro d-. f-. a-. f-.
+|
+% =1 smb rest
+=2' vol40 cha2 qua. rest smq <F Ax B d> qua. rest, smq <F Ax B d> \
+qua. rest, smq <F Ax B d> qua. rest, smq <F Ax B d>
+=3 cro g-. G-. f d-s5,
+|
+% =1 cro rest E cro3 F E-I3 E
+r0.5 .25 My .55 baby .81 don't
+=2' vol40 cha2 qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d> \
+qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d>
+=3 cro e-. g#-. b-. g-.
+|
+% =1 cro E B_ min rest
+r0.5 .01 care .25 for
+=2' vol40 cha2 qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d> \
+qua. rest smq <F#l G#lx B d> qua. rest smq <F#l G#lx B d>
+=3 cro e-.-s1, E-. d' B
+|
+% =1 min rest cro. D qua C
+r0.5 .50 cars .86 and
+=2' vol40 cha2 qua. rest smq <E G Ax c> qua. rest smq <E G Ax c> \
+qua. rest smq <E G Ax c> qua. rest smq <E G Ax c>
+=3 cro A-. c-. e-. c-.
+|
+% =1 leg100 qua D{2 cro. E}2 min rest
+r0.5 .01 races,
+=2' vol40 cha2 qua. rest smq <E G Ax c> qua. rest smq <E G Ax c> \
+qua. rest smq <E G Ax c> qua. rest smq <E G Ax c>
+=3 cro a-. A-. g-. e-.
+/
+4 bars | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 | 80 | 80 |
+|
+% =1 cro rest C cro3 C C-I3 A_
+r0.5 .25 My .55 baby .81 don't
+=2' vol40 cha2 qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c> \
+qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c>
+=3 cro d'-.-s1, D-. F#-. A-.
+|
+% =1 qua E cro. E min rest
+r0.5 .01 care  for
+=2' vol40 cha2 qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c> \
+qua. rest smq <Ex F# A c> qua. rest smq <Ex F# A c>
+=3 cro d-. f#-. a-. ab-.
+|
+% =1 smb blank
+=2, cro rest vol+125 leg45 <G B d fx g-emph> leg85 rest rest
+=3 cro g-. rest vol100 G_ rest
+|
+% =1 cro G_ G_ G_ A_
+r0.2 .01 high .15 - .25 tone .60 places,
+=2 smb rest
+=3 min. rest cha9 vol120 cro-s E-. cha3
+
+5 systems /18 40 18-23-18/
+pagenum 4
+/
+4 bars | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 |
+|
+% =1 cro rest C qua [C C] cro A_
+r0.5 .28 Liz .53 Taylor .75 is
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 vol80 cro c~-. b-. a-. g-.
+|
+% =1 qua [C C] C{'1 cro E}'1 cro. rest
+r0.5 .01 not  his  style,
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g-.
+|
+% =1 min rest qua [D# E F F#]
+r0.5 .50 even .75 Liber  -
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-. g-.
+|
+% =1 cro3 G E-I3 G_ min rest
+r0.5 .01 ache's .33 smile
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. g-.
+|
+% =1 smb rest
+=2' vol60 qua. rest smq <E G c> qua. rest smq <E G c> \
+qua. rest smq <E G c> qua. rest smq <E G c>
+=3 cro c~-. b-. vol80 a-.-s1, g-.
+|
+% =1 cro. rest qua C [E E E E]
+r0.5 .37 is .48 something he don't
+=2' vol40 cha2 qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+qua. rest smq <F Gx c> qua. rest smq <F Gx c>
+=3 cro f-. e-. d-. e-.
+|
+% =1 qua leg100 E{2 cro D}2 qua rest min rest leg85
+r0.5 .06 see ,
+=2' qua. rest smq <F Gx A c> qua. rest smq <F Gx A c> \
+qua. rest smq <F Gx A c> qua. rest smq <F Gx A c>
+=3 cro f-. a-. c~-. a-.
+|
+% =1 smb rest
+=2' qua. rest smq <F Gx A c> qua. rest smq <F Gx A c> \
+qua. rest smq <F Gx A c> qua. rest smq <F Gx A c>
+=3 cro f-.-s1, A-. d-s2, e-s1,
+
+/
+4 bars | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 \
+ | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 | 5 5 5 9 5 5 5 9 5 5 5 9 5 5 5 9 |
+|
+% =1 treble cha1 cro. rest qua F cro3 F G-I3 A
+r0.6 .37 I .50 wonder .81 what's
+=2' treble cha2 qua. rest smq <D F A c> qua. rest smq <D F A c> \
+qua. rest smq <D F A c> qua. rest smq <D F A c>
+=3  bass cha3 cro f-. a-. d-. c-.
+|
+% =1 min. B cro A
+r0.6 .01 wrong .75 with
+=2' qua. rest smq <D# F#l Ax B> qua. rest smq <D# F#l Ax B> \
+qua. rest smq <D# F#l Ax B> qua. rest smq <D# F#l Ax B>
+=3 cro B-. d#-. f#-. d#-.
+|
+% =1 cro. rest cro G{'1 qua E cro G}'1
+r0.6 .37 Ba .80 -
+=2' qua. rest smq <E Gx A c> qua. rest smq <E Gx A c> \
+qua. rest smq <E Gx A c> qua. rest smq <E Gx A c>
+=3 cro c-. e-. c B
+|
+% =1 min A rest
+r0.6 .01 by ?
+=2' qua. rest smq <E Gx A Bx> qua. rest smq <E Gx A Bx> \
+ qua. rest smq <E Gx A Bx> qua. rest smq <E Gx A Bx>
+=3 cro A-. c#-. e-. c#
+|
+% =1 cro. rest qua C cro3 D E-I3 F
+r0.5 .37 my .53 baby .83 just
+=2 qua. rest, smq <D F A> qua. rest, smq <D F A> \
+ qua. rest, smq <D F A> qua. rest, smq <D F A>
+=3 cro d-. f-. a-. ab-.
+|
+% =1 cro. G cro D cro. rest
+r0.5 .01 cares .37 for
+=2' qua. rest, smq <D F Ax B> qua. rest, smq <D F Ax B> \
+ qua. rest, smq <D F Ax B> qua. rest, smq <D F Ax B>
+=3 cro g-. G A B
+|
+% =1 cro. rest qua E cro3 E F-I3 G
+r0.7 .37 my .50 baby .81 just
+=2' qua. rest, smq <E G Ax c> qua. rest, smq <E G Ax c> \
+ qua. rest, smq <E G Ax c> qua. rest, smq <E G Ax c>
+=3 cro c e c B
+|
+% =1 cro. A E cro rest
+r0.5 .01 cares .37 for
+=2' vol70 qua. rest, smq <E G Bx c#> qua. rest, smq <E G Bx c#> \
+ qua. rest, smq <E G Bx c#> qua. rest, smq <E G Bx c#>
+=3 vol90 cro A c# e c#
+/
+4 bars | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 10 \
+ | 5 5 5 10 5 5 5 10 5 5 5 10 5 5 5 7 | 80 | 40 25 ||
+|
+% =1 cro rest c qua [c A,] cro c
+r0.6 .25 my .50 baby .75 just
+=2' vol80 qua. rest smq <F A cx d> qua. rest, smq <F A cx d> \
+ qua. rest, smq <F A cx d> qua. rest, smq <F A cx d>
+=3 vol100 qua. [D smq d'] cro E F qua. [F# smq f#']
+|
+% =1 qua A{2 cro. G}2 cro rest qua3 rest [c{1-I3 A,}1]
+r0.6 .01 cares .82 for
+=2' vol90 qua. rest smq <F A Bx d> qua. rest smq <F A Bx d> \
+ qua. rest smq <F A Bx d> cro rest
+=3 qua. [G smq g'] qua. [A, smq a] cro A# qua. [B, smq b]
+|
+% =1 cro c min. rest
+r0.6 .01 me !
+=2 qua vol110 leg60 rest [c~-s4 b a] [g f-s4 e d]
+=3 qua vol110 leg60 rest [c~ b a] [g-s1, f e d]
+|
+=2 qua [c e g c~-emph] min rest
+=3 qua [c-s1, G E C-emph] min rest
+% stop
+
+6 systems /19-30-19/
+pagenum 5
+|
+=1 cha2 qua. rest smq <F Gx> qua. rest smq <F Gx> \
+ qua. rest smq c, cro vol110 <B, d fx g-emph>
+=1, cro D C E blank
+=2 cro f-. e-. d-. g-.
+|
+=1 qua <c e g c~-emph> rest vol40 qua. rest smq <C E G> \
+qua. rest smq <C E G> qua. rest smq <C E G>
+=2 cro c~-. b-. a-. g-.
+|
+=1' qua. rest smq <F Gx c> qua. rest smq <F Gx c> \
+ qua vol100 rest [G A d']
+=2 cro f-. e-. d-. g-.
+|
+i0.7 .06 1m54
+=1 cro c c c qua. [c smq A,]
+|
+=1 cro c qua. [c smq A,] qua. [c dsq-s d#' smq e(1] cro e)1
+|
+=1 dsq-s c#' cro d qua cn-. rest dsq-s c#' cro d qua cn-. rest
+|
+=1 dsq-s c#' qua. [d smq cn] cro A qua. [A smq B'] qua3 [c f-I3 a]
+
+
+% stop
+
+

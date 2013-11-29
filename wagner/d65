@@ -1,0 +1,46 @@
+boundingbox 390 115
+midi channel 1  patch 56 pan26 reverb 95  # trp
+midi channel 2  patch 57 pan74 reverb 95  # trb
+midi channel 3  patch 58 pan42 reverb 95  # tub
+midi channel 4  patch 60 pan58 reverb 95  # hrn
+midi channel 5  patch 44 pan10 reverb 95  # str
+midi channel 6  patch 44 pan90 reverb 95  # str
+1 system /27-30-27/
+/
+3 bars | 3b 5 5 5 4 5 4 6 5 | 18 20 | 13 8 8
+| 3/4 2.1
+midi off
+=1' treble 3b 4 <G_ B_ E> 2 <E(2 G(3 B(1> 8 [<E)2 G)3 B)1> <B_ E G>]
+=2  bass   3b 2. e 4 d
+midi on
+#=1 treble 3b cha1 vol127 4 leg50 <G_ B_ E> 2 <E(2 G(3 B(1> 8 [<E)2 G)3 B)1> <B_ E G>]
+#=2 bass   3b cha2 vol100 1 <g b e~-dim50>
+#=2 bass   3b cha2 vol120 2. e 4 d
+#=3 bass   3b cha3 vol120 2. E 4 D
+#=4 treble 3b cha4 vol127 4 leg50 <G_ B_ E> 2 <E(2 G(3 B(1> 8 [<E)2 G)3 B)1> <B_ E G>]
+#=5 treble 3b cha5 vol90 leg60 1 <E_ G_ B_ E-dim50>
+#=6 bass   3b cha6 vol110 2. <E e> 4 <D d>
+|
+midi off
+=1 2 <G_ B_ E> 4 <A_ D F> <B_ E G>
+=2 4 c B A G
+midi on
+#=1 2 <G_ B_ E> 4 <B_ D F> <B_ E G>
+#=2 2 rest f <e g>
+#=2 4 c B A G
+#=3 4 C B_ A_ G_
+#=4 2 <G_ B_ E> 4 <B_ D F> <B_ E G>
+#=5 2 <E_ G_ B_ E> 4 <F_ B_ D F> <E_ B_ E G>
+#=6 4 <C c> B A G
+|
+midi off
+=1 8 [<C E A> <B_ E G>] 2 <A_ D F>
+=2 8 [F G] 2 A 
+midi on
+#=1 8 [<C E A> <B_ E G>] 2 <A_ Ex F>
+#=2 8 [<f a> <g b>] 2 <a c~>
+#=2 8 [F G] 2 A
+#=3 8 [F_ G_] 2 A_
+#=4 8 [<C E A> <B_ E G>] 2 <A_ Ex F>
+#=5 8 [<A_ C E A> <B_ E G>] 2 <A_ C Ex F>
+#=6 8 [F G] 2 A 

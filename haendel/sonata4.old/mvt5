@@ -1,0 +1,284 @@
+
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+innerhead Flute Sonata No. 3 in C major, G. F. Haendel
+leftfoot Arrangement (c) 1999 Peter J Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+5 bars | 3/8 6 | 6 |
+| 3/8 .41 .43 .395
+Il0.6        Allegro
+=1  treble 3/8 cha1 smq leg80 [e f leg95 qua. f-tr dsq e f]
+=2' treble 3/8 cha2 qua leg70 [c leg95 c B]
+=2,        3/8 qua leg70 E cro leg95 F
+=3' bass   3/8 cha2 qua leg70 [c~ leg95 d~ g]
+|
+=1 qua leg60 [g c] rest
+=2' qua leg65 <G c> cro rest
+=3, qua leg65 [e~ e] rest
+|
+=1  smq leg80 [a b leg95 qua. b-tr dsq a b]
+=2' qua leg70 <F A> cro leg95 <F B>
+=3' qua leg70 [f leg95 d g]
+|
+=1 qua leg60 [c~ c] rest
+=2' qua leg65 <G c> cro rest
+=3, qua leg65 [e c] rest
+|
+il0.7 .10 5
+=1 qua leg60 [f e] rest
+=2, qua leg60 [<c f> <B e>] rest
+=3, qua leg60 [a g] rest
+|
+=1 smq leg95 [f dsq g a] qua leg110 g rest
+=2, qua leg95 [<A d> leg85 <G c>] rest
+=3, qua leg95 [f leg85 e] rest
+|
+=1, smq leg80 [B c leg95 qua. c-tr dsq B c]
+=2' qua leg70 B cro leg95 c
+=2, qua leg70 [F leg95 G E]
+=3, qua leg70 [d leg95 e c]
+|
+=1, qua leg60 [d G] rest
+=2' cro leg70 <D B> qua rest
+=3, smq leg95 [g leg80 f# g a b g]
+|
+=1   smq leg80 [e f leg95 qua. f-tr dsq e f]
+=2'  qua leg70 [c leg95 c B]
+=2,  qua leg70 E cro leg95 F
+=3,  smq [c~ g leg95 d~ c~ leg80 d~ g]
+|
+il0.7 .10 10
+=1 qua leg60 [g c] rest
+=2' qua leg65 [c smq leg95 E leg80 F qua G]
+=3, smq leg95 [e~ leg80 d~ c~ d~ e~ c~]
+|
+=1  smq leg80 [a b leg95 qua. b-tr dsq a b]
+=2' qua leg70 [A smq leg95 B leg80 A G F]
+=3' smq [f~ d~ leg95 g~ leg80 f~ e~ d~]
+|
+=1 qua leg60 [c~ c] rest
+=2' smq leg95 [G leg80 F E D C B_]
+=3, smq leg95 [e~ leg80 d~ c~ b a g]
+|
+=1, smq leg95 [c~ leg80 b a g f e]
+=2' qua. [C smq G qua c]
+=3, smq leg95 [a leg80 g f e d c]
+|
+=1 qua. [f smq g qua e(1]
+=2' smq leg95 [F A B leg70 d] leg95 [E G]
+=3, qua leg75 [d leg95 g leg75 c~]
+|
+il0.7 .10 15
+=1 smq [e)1 d qua. d-tr smq c]
+=2' smq [A leg70 c] leg95 [B A B leg70 G]
+=3' qua leg95 [f leg75 g leg95 G]
+| 3/8 .41 .43 .43
+=1 cro. c
+=2' smq leg95 [<E c> dsq B A G F E D qua leg80 C]
+=3 cro. leg80 c
+
+| 3/8 .41 .43 .395
+=1, qua leg95 [c leg75 B e]
+=2' dsq leg95 [C D smq leg80 E] cro <B_ E>
+=3, smq [A a leg95 g# leg80 f# g e]
+|
+=1, qua leg95 [c-tr leg65 B e]
+=2' dsq leg80 [C D smq leg60 E] cro <B_ E>
+=3, smq leg60 [A a leg95 g# leg60 f# g e]
+|
+=1, qua leg95 [c-tr leg70 B e]
+=2' dsq leg95 [C D smq leg80 E] cro <B_ E>
+=3, smq leg80 [A a leg95 g# leg70 f# g e]
+|
+=1, smq. [c-tr dsq B qua A] rest
+=2' smq leg95 [C leg70 B_ C D qua E]
+=3, smq leg95 [a leg70 g# a b c~ a]
+|
+=1, qua leg95 [f leg75 e a]
+=2' dsq leg95 [F G smq leg80 A] cro <E A>
+=3, smq [d d~ leg95 c~# leg80 b c~ a]
+|
+=1, qua leg95 [f-tr leg65 e a]
+=2' dsq leg80 [F G smq leg60 A] cro <E A>
+=3, smq leg60 [d d~ leg95 c~# leg60 b c~ a]
+|
+=1, qua leg95 [f-tr leg70 e a]
+=2' dsq leg95 [F G smq leg80 A] cro <E A>
+=3, smq leg80 [d d~ leg95 c~# leg70 b c~ a]
+|
+=1, smq. [f-tr dsq e qua d] rest
+=2' smq leg95 [F leg70 E F A qua d]
+=3, smq [d~  a leg95 d~ leg70 c~ b a]
+|
+=1 qua leg85 [d leg95 g f#]
+=2' cro <G B d> qua rest
+=3 smq leg97 [g leg90 f# g a b g]
+|
+=1 smq. [e-tr dsq d# qua leg80 e] rest
+=2, cro <G c e> qua rest
+=3 smq [c~ g leg97 c~ leg90 b a g]
+|
+=1 qua leg85 [a smq leg97 a leg90 g f# e]
+=2' qua. leg90 [A smq B qua c]
+=3, smq leg97 [f# leg90 e f g a f]
+|
+=1, smq. leg97 [d# dsq c# qua B] rest
+=2' cro. <D# F# B>
+=3 smq [b f# leg97 b leg90 a leg70 g f#]
+|
+=1, qua leg95 [g leg75 f# b]
+=2' dsq leg95 [G A smq leg80 B] cro <F# B>
+=3, smq [e e~ leg95 d~# leg80 c~# d~ b]
+|
+il0.7 .20 30
+=1, qua leg95 [g-tr leg65 f# b]
+=2' dsq leg80 [G A smq leg60 B] cro <F# B>
+=3, smq leg60 [e e~ leg95 d~# leg60 c~# d~ b]
+|
+=1, qua leg95 [g-tr leg70 f# b]
+=2' dsq leg95 [G A smq leg80 B] cro <F# B>
+=3, smq leg80 [e e~ leg95 d~# leg70 c~# d~ b]
+|
+=1, qua  leg95 [g-tr leg80 f#] rest
+=2' qua leg80 [G smq leg95 F# leg80 E qua F#]
+=3, smq [e e~ leg95 d~# leg80 c~# d~ b]
+|
+=1 qua leg70 [g qua. leg85 g smq a]
+=2 qua E rest A
+=3, smq leg120 [e g b e~ c~ a]
+|
+=1 qua leg70 [f# qua. leg85 f# smq g]
+=2 qua <D F#> rest G
+=3, smq leg120 [d f# a d~ b g]
+|
+il0.7 .20 35
+=1 qua leg70 [e qua. leg85 e smq f#]
+=2 qua <C E> rest <C F#>
+=3, smq leg120 [c e g c~ a f#]
+|
+=1 cro leg70 d# qua leg85 e
+=2 cro leg85 <D# F#> qua <E G>
+=3, smq leg120 [B d# f# b g e]
+|
+=1 qua leg70 [f# f# leg85 g-tr]
+=2 cro <D# F#> qua <E G>
+=3, smq leg120 [B d# f# b g e]
+|
+=1 qua. leg70 [a smq f# leg95 g e]
+=2 cro leg85 <B_ F# A> qua leg95 <B_ E G>
+=3, smq leg120 [B d# f# leg80 d# qua leg95 e]
+|
+=1 smq leg75 [f# g qua. d#-tr smq e]
+=2 qua leg80 <Cr E F#x> cro <D#l F#>
+=3, qua leg80 [a leg95 b leg80 B]
+|
+il0.7 .10 40
+=1 cro e leg95 qua f#
+=2 qua E rest dsq leg95 [B, c B, A,]
+=3 smq leg120 [e g b e~ d~# b]
+|
+=1 qua leg70 [g qua. leg85 g smq a]
+=2 qua G rest dsq leg95 [A B' A G]
+=3, smq leg120 [e g b e~ c~ a]
+|
+=1 qua leg70 [f# qua. leg85 f# smq g]
+=2 qua F# rest dsq leg95 [G A G F]
+=3, smq leg120 [d f# a d~ b g]
+|
+=1 qua leg70 [e qua. leg85 e smq f#]
+=2 qua E rest dsq leg95 [F# G F E]
+=3, smq leg120 [c e g c~ a f#]
+|
+=1 cro leg70 d#-tr qua leg85 e
+=2 qua D# rest dsq leg95 [E F# E Dn]
+=3, smq leg120 [B d# f# b g e]
+|
+il0.7 .20 45
+=1 qua leg70 [c qua. leg85 c smq d]
+=2 qua C rest dsq leg95 [D E D C]
+=3' smq leg120 [A c e a f# d]
+|
+=1 qua. leg70 [B smq B leg95 e d#]
+=2 cro leg85 B_ qua leg95 <Ex F# A>
+=3, smq leg120 [g f# g leg80 e qua leg95 c~]
+|
+=1 smq leg75 [e f# qua. f#-tr smq e]
+=2' qua leg80 <E F#x c> cro <Fr B>
+=2, qua blank [E D#]
+=3, qua leg80 [a leg95 b leg80 B]
+| 3/8 .46 .44 .40
+=1 cro. e
+=2' qua <E G B> cro rest
+=3, qua [e smq leg95 g leg80 fn e d]
+| 3/8 .41 .43 .395
+=1  smq leg80 [e f leg95 qua. f-tr dsq e f]
+=2' cha2 qua leg70 [c leg95 c B]
+=2, qua leg70 E cro leg95 F
+=3' cha2 qua leg70 [c~ leg95 d~ g]
+|
+=1 qua leg60 [g c] rest
+=2, qua. leg65 [<G c> smq g e c]
+=3, qua leg65 [e~ e] rest
+|
+=1  smq leg80 [a b leg95 qua. b-tr dsq a b]
+=2' qua leg70 A cro leg95 <F B>
+=3' qua leg70 [f leg95 d g]
+|
+=1 qua leg60 [c~ c] rest
+=2' qua. leg65 [<G c> smq G E C]
+=3, qua leg65 [e c] rest
+|
+=1 qua leg60 [f e] rest
+=2, qua leg60 [<C F> <C E>] rest
+=3, qua leg60 [a g] rest
+|
+=1 smq leg95 [f dsq g a] qua leg110 g rest
+=2, qua leg95 [<C(2 A> leg85 <C)2 G>] rest
+=3, qua leg95 [f leg85 e] rest
+|
+=1, smq leg80 [B c leg95 qua. c-tr dsq B c]
+=2' qua leg70 <F B> cro leg95 <G c>
+=2, qua leg70 [F leg95 G E]
+=3, qua leg70 [d leg95 e c]
+|
+=1, qua leg60 [d G] rest
+=2' cro leg70 <G D B> qua rest
+=3, smq leg95 [g leg80 f# g a b g]
+|
+=1   smq leg80 [e f leg95 qua. f-tr dsq e f]
+=2'  qua leg70 [c leg95 c B]
+=2,  qua leg70 E cro leg95 F
+=3,  smq [c~ g leg95 d~ c~ leg80 d~ g]
+|
+=1 qua leg60 [g c] rest
+=2' qua leg65 [c smq leg95 E leg80 F qua G]
+=3, smq leg95 [e~ leg80 d~ c~ d~ e~ c~]
+|
+=1  smq leg80 [a b leg95 qua. b-tr dsq a b]
+=2' qua leg70 [A smq leg95 B leg80 A G F]
+=3' smq [f~ d~ leg95 g~ leg80 f~ e~ d~]
+|
+=1 qua leg60 [c~ c] rest
+=2' smq leg95 [G leg80 F E D C B_]
+=3, smq leg95 [e~ leg80 d~ c~ b a g]
+|
+=1, smq leg95 [c~ leg80 b a g f e]
+=2' qua. [C smq G qua c]
+=3, smq leg95 [a leg80 g f e d c]
+| 3/8 .43 .45 .43
+=1 qua. [f smq g qua e(1]
+=2' qua leg95 [c leg80 B leg95 <G c(1>]
+=2, leg80 cro F qua E(2
+=3, qua leg95 [d leg80 g leg95 c~]
+| 3/8 .45 .47 .45
+=1 smq [e)1 d qua. d-tr smq c]
+=2' qua leg80 [<A c)1> leg95 c leg80 B]
+=2, qua E)2 cro <D G>
+=3' qua leg70 [f g G]
+| 3/8 .46 .49 .48
+=1 cro. c
+=2' cro. <E G c>
+=3 cro. c
+
+

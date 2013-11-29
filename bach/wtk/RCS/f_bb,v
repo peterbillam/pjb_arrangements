@@ -1,0 +1,763 @@
+head	1.9;
+access;
+symbols;
+locks
+	pjb:1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2012.09.25.00.59.04;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2012.09.24.07.04.32;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2012.09.23.02.06.57;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2012.09.22.06.07.01;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2012.09.22.03.41.36;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2012.09.21.07.32.54;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2012.09.21.05.34.57;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2012.09.20.11.05.14;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.09.20.05.28.55;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Fugue in b-flat minor, up to bar 15
+@
+
+
+1.9
+log
+@added up to end
+@
+text
+@
+midi on
+6 systems 12 /18-32-18/18-34-18/18-38-18 8/18-32-18 8/18-35-18 /18-32-18 2/
+pagenum
+innerhead Book 1, WTC, J. S. Bach
+title Fugue XXII in b-flat minor
+midi channel 0 bank 0 patch 0 pan 80
+midi channel 1 bank 0 patch 0 pan 65
+midi channel 2 bank 0 patch 0 pan 50
+midi channel 3 bank 0 patch 0 pan 35
+midi channel 4 bank 0 patch 0 pan 20
+/
+6 bars | 5b 4/4 7 7 7 6 | 8 8 8 7 | 8 8 8 7 \
+ | 4 5 6 7 4 4 4 3 | 4 4 7 5 4 4 4 3 | 4 4 5 5 4 4 7 4 |
+| 2.4
+b1.0 .01 a 5 Voci
+=1' treble 5b 4/4 cha0 leg99 2 B-s1 F-s1
+=1,        5b 4/4 cha1 leg99 4. blank 1 rest,,
+=2, bass   5b 4/4 cha4 leg99 2 blank 1 rest
+|
+=1' cha0 4  rest' g-s5 f e
+=1, cha1 2 blank 1 rest,
+=2, cha4 2 blank 1 rest
+|
+=1' cha0 4 d c d e
+=1, cha1 2 F-s1, B_-s5,
+=2, cha4 4. blank 1 rest
+|
+=1' cha0 4 f 8 [en-s2 f] 2 gn(1
+=1, cha1 4 rest, dr-s2, c-s1, B
+=2, cha4 2 blank 1 rest
+|
+il1.1 .18 5
+=1' cha0 4 g)1 8 [a gn] 2 f(1
+=1, cha1 4 A Gn A B
+=2, cha4 2 blank 1 rest
+|
+=1' cha0 4 f)1 8 [e d] 4 e f
+=1, cha1 2. c 8 [B An]
+=2, cha4 2 blank 1 rest
+/
+6 bars | 5b 4 4 4 4 4 4 5 4 | 4 4 5 5 4 4 4 3 | 4 5 5 5 4 5 5 4 \
+ | 4 4 4 4 4 4 7 4 | 4 4 5 5 4 4 4 3 | 4 4 7 5 4 4 5 4 |
+|
+=1' cha0 2. gb 8 [f e]
+=1, cha1 4 B c 2 d(2-s2,
+=2, cha4 2 blank 1 rest
+|
+=1' cha0 4 f gn 2 a(1
+=1, cha1 4 d)2 8 [c B] 4 c dn-s1,
+=2, cha4 2 blank 1 rest
+|
+=1' cha0 4 a)1 8 [gn f] 4 g-s4 an-s2-s5
+=1, cha1 2. e-s2, 8 [dbl c--s1]
+=2, cha4 2 blank 1 rest
+|
+il1.1 .38 10
+=1' cha0 2. b-s2-s5 8 [an-s4 gn]
+=1, cha1 4 d e-s3 2 f(2-s1
+=2' cha2 2 b-s2, f-s5,
+=2, cha4 4. blank 1 rest,
+|
+=1' cha0 4 an b-s5 2 c~(1-s2-s5
+=1, cha1 4 f)2 8 [e d] 2 e(2
+=2' cha2 4 rest'' g~ f~-s2, e~-s1,
+=2, cha4 2 blank 1 rest,
+|
+=1' cha0 4 c~)1 8 [b-s1-s5 an-s2-s4] 4 b-s1-s5 ab-s1-s4
+=1, cha1 4 e)2 8 [f e] 4 d c
+=2' cha2 4 d~ c~-,-s1, b 8 [c~-s1, d~-s2,]
+=2, cha3 2 f-s1,-s3, B-s1,-s5,
+=2, cha4 2 blank 1 rest,,
+/
+6 bars | 5b 4 4 4 4 4 4 5 4 | 4 4 5 5 4 4 4 3 | 4 4 7 5 4 4 4 3 \
+ | 9 8 9 7 | 9 8 8 7 | 4 4 7 5 4 4 4 3 |
+|
+=1' cha0 4 g-s1-s3 f-s5 2 e(1-s4
+=1, cha1 2. B 8 [An---s1 B---s2]
+=2' cha2 4 e~-s1, f~ 2 g~
+=2, cha3 4 rest' d~-s2,-s5, c~-s1,-s4, b-s3,
+=2, cha4 4.. blank 1 rest,
+|
+=1' cha0 4 e)1-s3-s4 8 [f-s1-s5 g-s4] 4 f-s2-s5 e-s3-s5
+=1, cha1 4 c An B c(2
+=2' cha2 4 f~ e~ d~ c~
+=2, cha3 4 an-s1,-s4, f-s1,-s5, gn-s1,-s3, a-s1,-s2,
+=2, cha4 4.. blank 1 rest,
+|
+il1.2 .37 15
+=1' cha0 1 d-s1-s4-s5
+=1, cha1 4 cr)2 8 [B-s1-s3 An-s2] 2 B(2-s1-s4
+=1 2. blank 4 blank-s2
+=2' cha2 4 d~ e~ f~ g~
+=2' cha3 4 b c-,-,-s3, d e-,-s1,
+=2, cha4 2 B-s1,-s5, F-s2,-s5,
+|
+=1' cha0 1 c-s(1)-s5
+=1, cha1 2 Br)2 Ab(2-s2-s3
+=2' cha2 2 c~ f~(1
+=2' cha3 4 fr g 2 ar
+=2, cha4 4 rest,-s2, g-s1, f-s2,-s3, e-s4,
+|
+=1' cha0 1 B(1-s3-s4
+=1, cha1 1 Ar)2
+=2' cha2 4 f~)1 d~n-s1 e~-s2 f~(1-s1
+=2' cha3 1 b
+=2, cha4 4 dn-s1,-s5, B-s4, c-s5, d-s4,
+|
+=1' cha0 2. B)1-s3-s4 4 e-s3
+=1, cha1 1 G
+=2' cha2 4 f~)1 8 [e~-s2 d~n-s1] 2 e~(1-s"    2-1"
+=2' cha3 1 b
+=2, cha4 4 e-s3, f-s2, e-s3, db-s4,
+/
+6 bars | 5b 8 8 8 7 | 8 8 8 7 | 8 10 8 7 \
+ | 4 5 4 4 4 5 5 4 | 9 8 8 7 | 9 8 9 7 |
+|
+=1' cha0 1 Ar(1-s1-s2-s3
+=1' cha1 1 G)2
+=1, cha2 1 Er)2
+=2' cha3 4 c~ c d e
+=2, cha4 c-s1,-s5, A-s3,-s5, B-s2,-s4, c-s1,-s3,
+|
+il1.1 .25 20
+=1' cha0 2 <F A)1-s1-s2-s(3)> <B d-s1-s4-s5>
+=1, cha2 2 D F(2
+=2' cha3 4 f e-s3, f g-s1,
+=2, cha4 2 d-s2,-s4, B-s2,-s5,
+|
+=1' cha0 2 <A c-s2-s4> <d(4 f(1-s3-s5>
+=1, cha2 1 F)2
+=2' cha3 4 a 8 [b-s2, c~-s1,] 4 b a-s1,
+=2, cha4 2 f-s3,-s4, d-s2,-s5,
+|
+=1' cha0 2 f)1-s2-s4-s5 4 e-s5 d-s4
+=1' cha1 4 dr)4 c-s1-s3 2 Br
+=1, cha2 4 Br A G F
+=2' cha3 4 g a b 8 [c~-s2, d~-s1,]
+=2, cha4 4 e-s3,-s4, f-s1,-s3, 2 g(2-s2,-s4,
+|
+=1' cha0 2 c-s4 d(1
+=1' cha1 1 Ar(2
+=1, cha2 2 E F
+=2' cha3 1 ar(1-s2,
+=2, cha4 4 g)2 f-s3, e-s4, d-s5,
+|
+=1' cha0 2 d)1 c
+=1' cha1 4 Ar)2 B Ar G
+=1, cha2 1 Er
+=2' cha3 1 ar)1(1
+=2, cha4 2 a-s1, A-s5,
+/
+6 bars | 5b 8 8 8 7 | 9 8 8 7 | 9 8 8 7 | 4 5 7 6 4 4 5 4 | 9 8 10 7 | 8 8 8 7|
+|
+il0.8 .01 25
+=1' cha0 2 d-s1-s2-s5 A-s1-s3
+=1, cha1 4 F E-s2 F G-s2
+=1, cha2 4 D C-s1, D-s4, E-s3,
+=2' cha3 2 a)1 rest'
+=2, cha4 2 d-s"    1-2",-s4, rest,
+|
+=1' cha0 4 rest'' c~b-s5 b a
+=1' cha1 2 A F
+=1, cha2 2 F-s1,-s2, Dn-s2,-s4,
+=2' cha3 2 blank 1 rest
+=2, cha4 2 blank 1 rest,
+|
+=1' cha0 4 g f g a
+=1' cha1 2 Br E-s3,
+=1, cha2 2. E-s1,-s3, 4 F-s1,
+=2' cha3 2 blank 1 rest
+=2, cha4 2 blank 1 rest,
+|
+=1' cha0 4 b 8 [an-s2-s3 b-s4] 2 c~(1-s1-s5
+=1  cha1 4 blank 4 gr f e'--s2
+=1  cha1 83 blank 43 rest 2. blank
+=1, cha2 4 G-s2, E-s3, An-s1, 8 [Gn-s2, F-s3,]
+=2' cha3 2 blank 1 rest
+=2, cha4 2 blank 1 rest,
+|
+=1' cha0 4 c~)1-s1-s(5) 2 b-s3-s5 4 an-s4
+=1' cha1 2 dr cr
+=1, cha2 4 B f 2 e-s"  1"-s"  2"
+=2' cha3 2 b-s1,-s"    5-3", f-s5,
+=2, cha4 4 blank 1 rest,
+|
+il1.1 .10 30
+=1' cha0 1 b(1
+=1, cha1 2 dn e-s"    3-2"
+=1' cha2 1 Br(2
+=2' cha3 4 rest'' g~ f~ e~
+=2, cha4 2 blank 1 rest,
+/
+6 bars | 5b 8 8 8 7 | 4 5 7 5 4 4 4 3 | 9 8 8 7 \
+ | 4 5 7 5 4 4 4 3 | 9 9 9 7 | 7 5 4 5 7 5 5 4 |
+|
+=1' cha0 2 b)1 ab-s"    4-5"
+=1, cha1 1 f(4
+=1' cha2 1 B)2(2
+=2' cha3 4 d~n-s1, b-s4, c~-s3, d~-s2,
+=2, cha4 2 blank 1 rest,
+|
+=1' cha0 1 g---s"  4-5"
+=1' cha1 4 fr)4 8 [e-s3 dn-s2] 2 e(4
+=1' cha2 1 Br)2(2
+=2' cha3 4 e~ f-s3, g a-s1,
+=2, cha4 2 e-s1,-s3, B-s2,-s5,
+|
+=1' cha0 2 f-s"    4-5" fb
+=1, cha1 2 er)4 d(4
+=1' cha2 1 Brr)2(2
+=2' cha3 4 b c~b 2 d~
+=2, cha4 4 rest-s3, c~b-s1, b-s2,-s3, a-,-s4,
+|
+=1' cha0 1 er
+=1' cha1 4 d)4 8 [e-s4 fb] 4 e d
+=1' cha2 1 Br)2
+=2' cha3 4 e~ gn a b
+=2, cha4 4 gn-s1,-s5, e-s3,-s5, fn-s2,-s4, g-s1,-s3,
+|
+il1.1 .26 35
+=1' cha0 2 e a(1-s1-s4-s5
+=1' cha1 2 cb fb(3
+=1, cha2 4 A B 2 cbl
+=2' cha3 4 c~b b a gb
+=2, cha4 4 a-s1,-s2, gb-s1,-s3, fb-s2,-s4, e-s1,-s3,
+|
+=1' cha0 2 ar)1-s4-s5 gn-s5
+=1, cha1 8 [fr)3 e] 4. d-s2 8 [fb e d]
+=1, cha2 1 B
+=2' cha3 2 fb er(1
+=2, cha4 4 d-s2,-s4, B-s3, e-s1, E
+
+
+6 systems 5 /18-32-18 5/18-33-18/18-32-18 6/18-35-18/18-38-18/18-38-18 2/
+pagenum
+innerhead Fugue XXII in b-flat minor Book 1, WTC, J. S. Bach
+/
+7 bars | 5b 8 8 8 6 | 8 8 8 7 | 9 9 8 7 | 8 8 8 7 \
+ | 8 8 8 7 | 4 5 5 5 4 4 5 4 | 4 4 5 5 4 4 4 3 |
+|
+=1' cha0 2 a-s"    1-2"-s2-s5 rest'
+=1' cha1 2 cn rest
+=1, cha2 2 A D--s1
+=2' cha3 4 e)1 a-s1, g f
+=2, cha4 2 A-s4, 4 B-s1,-s3, A-s1,-s4,
+|
+=1' cha0 1 blank
+=1' cha1 1 blank
+=1, cha2 4 rest f e d
+=2' cha3 4 e d 2 b
+=2, cha4 2 G-s2,-s5, g(2-s1,-s"    2-3",
+|
+=1' cha0 1 blank
+=1' cha1 4 blank A-s2-s3 B-s1-s4 c-s2-s5
+=1, cha2 4 c-s1 Gr F E
+=2' cha3 4 a 2. blank
+=2, cha4 4 gr)2-s2,-s3, f g a
+|
+il0.9 .52 40
+=1' cha0 1 blank
+=1' cha1 1 d(1--s1-s"    4-5"
+=1, cha2 4 D 2 G--s3 4 F
+=2' cha3 1 blank
+=2, cha4 2 b g
+|
+=1' cha0 1 blank
+=1' cha1 2 d)1 c
+=1, cha2 1 E
+=2' cha3 1 blank
+=2, cha4 4 a b-s1, a-s2, g-s3,
+|
+=1' cha0 1 blank
+=1' cha1 4 d-s5 8 [cb-s1 B-s4] 2 c(1--s3-s5
+=1, cha2 2 A_ 4 A 8 [G--s2 F--s1]
+=2' cha3 1 blank
+=2, cha4 2. f-s2,-s4, 8 [e-s3, d-s4,]
+rs0.3 .29 - .55 1
+|
+=1' cha0 1 blank
+=1' cha1 4 c)1 8 [B-s1-s4 A-s3] 4 B-s4 cn-s1-s5
+=1, cha2 4 G 2 D 4 E
+=2' cha3 1 blank
+=2, cha4 4 e-s3, f-s1, 2 g(1-s3,
+/
+5 bars | 5b 4 4 5 5 4 4 5 4 | 4 4 4 4 4 4 5 4 | 4 4 5 5 5 5 5 4 \
+ | 5 5 6 6 5 5 5 4 | 5 5 5 5 4 4 4 3 |
+|
+=1' cha0 1 blank
+=1' cha1 2. d-s4 8 [c-s1-s5 B-s3]
+=1, cha2 4 A_ 8 [A-s2 G-s1] 4 A-s2 E(2
+=2' cha3 1 blank
+=2, cha4 4 g)1-s2,-s(3), 8 [f-s4, e-s5,] 4 f-s4, gn-s3,
+|
+il1.1 .03 45
+=1' cha0 1 blank
+=1' cha1 4 c-s4 dn-s1-s5 2 e(1--s4
+=1, cha2 4 E)2 F 2 B_(2-s1,
+=2' cha3 1 blank
+=2, cha4 2. a-s2, 8 [gn-s3, f-s4,]
+|
+=1' cha0 1 blank
+=1' cha1 4 e)1 8 [db-s1-s4 c] [d e d-s3 e-s4]
+=1, cha2 4 B_)2 2 F 4 B_
+=2' cha3 1 blank
+=2, cha4 4 gn-s3, an-s1, 8 [b-s3, c~-s1, b-s2, c~-s1,]
+|
+=1' cha0 1 blank
+=1' cha1 2 f-s5 e(1-s1-s4
+=1, cha2 4 rest, d-s3 c B---s2
+=2' cha3 1 blank
+=2, cha4 8 [d~-s2, c~-s1, b ab] [gb f-s5, g-s2, e-s3,]
+|
+=1' cha0 1 blank
+=1' cha1 4 e)1-s1-s4 e-s3-s5 d-s1-s4 c-s2-s5
+=1, cha2 8 [An B-s2 c A-s2] 4 F Ab
+=2' cha3 1 blank
+=2, cha4 2 f B
+/
+6 bars | 5b 5 5 5 5 4 4 4 3 | 5 5 5 5 4 4 5 4 | 8 8 8 7 \
+ | 8 9 9 7 | 8 8 8 7 | 9 8 8 7 |
+|
+=1' cha0 1 blank
+=1' cha1 8 [B-s1-s5 c--s4 d-s1-s5 B--s4] 2 G-tr-s"    3,2"
+=1, cha2 4 G F 2 E(2
+=2' cha3 1 blank
+=2, cha4 4 rest d~-s2, c~-s1,-s3, b-s4,
+|
+il1.1 .25 50
+=1' cha0 2 f-s1-s5 B-s1-s2
+=1' cha1 2 F Fr
+=1, cha2 4 Er)2 8 [Dn C] 2 D-s1,
+=2' cha3 1 blank
+=2, cha4 4 an 2 ab-s1,-s"    4-3", 8 [g-s4, f-s5,]
+|
+=1' cha0 4 rest'' c~b-s5 b-s4 a-s1-s3
+=1  cha1 2 E 4 rest f
+=1, cha2 2 E Dn
+=2' cha3 1 blank
+=2, cha4 4 g-s1,-s4, a-,-s3, 2 b-s1,-s2,
+|
+=1' cha0 2 g-s4-s5 4 fb-s1-s2-s5 e-s1-s4
+=1  cha1 4 e db 2 cbrll'
+=1, cha2 4 E B A G
+=2' cha3 1 blank
+=2  cha4 2 e-s1,-s"    5-3", A(2-,-s5,
+|
+=1' cha0 2 dn-s1-s2-s5 e(1-s1-s5
+=1  cha1 1 Br(2
+=1, cha2 2 F G
+=2' cha3 2 f B
+=2, cha4 4 A)2-s1,-s5, G-s4, F-s2,-s5, E-s5,
+|
+=1' cha0 2 e)1 dn-s"    5-4"
+=1  cha1 1 B)2
+=1, cha2 1 F
+=2' cha3 4 rest' c~b-s1, b-s1, a-s2,
+=2, cha4 1 B-,-s"    2-5",
+/
+7 bars | 5b 8 8 8 7 | 8 10 8 7 | 9 8 8 7 \
+ | 8 8 8 7 | 8 8 9 7 | 8 8 8 7 | 8 8 8 7 |
+|
+il0.8  55
+=1' cha0 2 e-s5 rest'-s1-s3
+=1' cha1 2 Br E
+=1, cha2 2 E B_
+=2' cha3 4 g f-s1, g-s2, a
+=2, cha4 2. e-s3,-s4, 4 f-s1,-s3,
+|
+=1' cha0 1 blank
+=1' cha1 4 rest' f-s2-s4 e-s1-s3 d-s2-s4
+=1, cha2 4 rest, d c B
+=2' cha3 4 b 8 [c~-s1, d~-s2,] 2 e~(1-s1,
+=2, cha4 1 g(2-s2,-s4,
+|
+=1' cha0 1 blank
+=1' cha1 4 c-s1-s3 B-s1-s2 c-s1-s3 d-s2-s4
+=1, cha2 4 An Gn A B
+=2' cha3 4 e~)1 d~ c~ b
+=2, cha4 4 g)2-s1,-s4, f-s1,-s5, e-s1,-s3, d-s1,-s4,
+|
+=1' cha0 1 blank
+=1' cha1 4 e-s1-s5 g-s3-s5 f e
+=1, cha2 4 c e d c
+=2' cha3 2 an ab(1
+=2, cha4 2 c-s1,-s5, f-s2,-s3,
+|
+=1' cha0 1 blank
+=1' cha1 4 dn-s2-s4 f-s3-s5 e-s1-s4 db-s2-s3
+=1, cha2 4 B dn c B
+=2' cha3 2 a)1 g(1
+=2, cha4 2 B-s2,-s5, e(2-s1,-s3,
+|
+il0.7 .25 60
+=1' cha0 1 blank
+=1' cha1 2 c-s1-s3 d(1-s2-s4
+=1, cha2 2 An B
+=2' cha3 4 g)1 f e d
+=2, cha4 4 e)2-s1,-s2, d-s1,-s3, c-s2,-s4, B-s2,-s5,
+|
+=1' cha0 1 blank
+=1' cha1 4 d)1-s1-s4 2 c-s5 4 B-s3
+=1, cha2 2 E En-s1
+=2' cha3 2. b 4 c~-s1,
+=2, cha4 2 g-s1,-s2, gn-s4,
+/
+7 bars | 5b 9 8 8 7 | 9 8 8 7 | 10.5 8 8 7 \
+ | 8 10.5 9 7 | 9 9 8 7 |8 10 8 7 | 8 8 8 7 |
+|
+=1' cha0 1 blank
+=1' cha1 4 An-s1-s2 g-s1-s5 f-s2-s5 e-s3-s4
+=1, cha2 4 F An B c(2
+=2' cha3 4 d~ c~-s1, d~-s2, e~-s1,
+=2, cha4 1 f(2-s2,-s5,
+|
+=1' cha0 1 blank
+=1' cha1 2 d-s1-s4 c-s4
+=1, cha2 4 cr)2 2 B-s2 4 An-s2
+=2' cha3 1 f~(1
+=2  cha4 2 f)2-s"    5-1", F-s5,
+|
+=1' cha0 1 blank
+=1' cha1 1 B-s5
+=1, cha2 4 Br Ab-s4 G-s2-s3 4 F-s1-s3
+=2' cha3 2 f~)1 4 e~ d~
+=2  cha4 1 G(2-s2,
+|
+il0.9 .35 65
+=1' cha0 1 blank
+=1' cha1 1 A-s1-s2-s5
+=1, cha2 4 E 8 [Dn-s2 E-s3] 2 F(2-s4
+=2' cha3 1 c~b
+=2  cha4 4 G)2 F-s1, E-s3, Dn-s5,
+|
+=1' cha0 1 blank
+=1' cha1 1 G-s1-s5
+=1, cha2 4 Fr)2 F-s2-s4 E-s1-s3 D-s1-s2
+=2' cha3 4 b d~b c~n b
+=2  cha4 2 E-s4, e(2-,-s"    1-3",
+|
+=1' cha0 2 rest B-s5
+=1' cha1 1 F--s2
+=1, cha2 4 C 2 E-s2 4 D-s1
+=2' cha3 2 an b
+=2, cha4 4 e)2-s1,-s3, 8 [d-s4, c-s5,] 4 d-s1,-s4, e-s3,
+|
+=1' cha0 2 F-s1-s3 4 rest' g-s5
+=1  cha1 2 F, B_
+=1, cha2 2 Cr B_
+=2' cha3 2 an rest'
+=2, cha4 4 f-s1,-s3, e-s3, d-s4, c-s5,
+/
+7 bars | 5b 8 8 9 8 | 9 9 9 8 | 7 6 5 4 4 4 4 3 \
+ | 5 5 4 4 7 7.5 5 4 | 8 8 8 7 | 10 9 9 7 | 10 ||
+|
+=1' cha0 4 f-s4 e-s1-s3 d-s2-s4 c-s1-s2-s3
+=1, cha1 4 rest c B An
+=1, cha2 2. blank 4 Gr
+=1, cha2 2 rest,, 4 rest,, 43 blank
+=2' cha3 2 f B
+=2, cha4 4 d-s1,-s2, An-s3, 2 B-s3,
+|
+=1' cha0 4 d-s1-s2-s4 e-s1-s2-s"    5-4" f-s2-s5 e-s3-s5
+=1, cha1 4 B An B c
+=1, cha2 4 Fr Er Dr Cr
+=2' cha3 4 rest' c~-s1, b-s3, an-s1,-s3,-s4,
+=2, cha4 2 F-s5, 4 rest gr
+|
+=1' cha0 4 d-s1-s4-s5 c-s1-s3-s5 2 B(1-s4
+=1, cha1 4 B An 2 B
+=1, cha2 8 [Dr E-s2] 2 Fr 4 G-s1-s2
+=2' cha3 4 b c~ d~ e~
+=2, cha4 4 f-s2,-s5, e-s1,-s4, d-s1,-s"    5-4", c-s5,
+| 2.5
+=1' cha0 4 B)1-s1-s3-s4 c-s1-s2-s5 2 d(1
+=1, cha1 4 Abrl G 2 F
+=1, cha2 4 Fr E 2 D
+=2' cha3 1 b
+=2, cha4 4 dn-s1,-s4, e-s3, 8 [f-s4, gb-s2, en-s3, f-s1,]
+| 2.6
+=1' cha0 4 d)1-s1-s2-s5 d-s5 c-s1-s2-s5 B-s4
+=1, cha1 2 Gn G
+=1, cha2 2 B_ C(2
+=2' cha3 1 rest
+=2, cha4 1 En-s5,
+| 1.4 1.6
+=1' cha0 2 B-s1-s2-s5 An-s3-s5
+=1' cha1 4 Fr Gb-s4 Fr E-s2
+=1, cha2 1 C)2
+=2' cha3 2 c~ f(1-s1,
+=2, cha4 1 F-s"    4-5",
+|
+=1' cha0 1 B-fermata
+=1' cha1 1 Dn
+=1, cha2 1 B_
+=2' cha3 1 f)1-fermata,
+=2, cha4 1 B
+@
+
+
+1.8
+log
+@up to bar 63
+@
+text
+@d331 1
+a331 1
+=1' cha1 2 F F
+d452 46
+@
+
+
+1.7
+log
+@up to bar 54
+@
+text
+@d120 1
+a120 1
+=1, cha2 1 E)2
+d235 1
+a235 1
+6 systems 5 /18-32-18 4/18-33-18/18-35-18/18-35-18/18-42-18 5/18-42-18 2/
+d332 1
+a332 1
+=1, cha2 4 Er)2 8 [Dn C-s2,] 2 D-s1,
+d359 93
+a451 1
+
+@
+
+
+1.6
+log
+@up to bar 49
+@
+text
+@d235 1
+a235 1
+6 systems 5 /18-32-18 4/18-33-18/18-32-18/18-35-18/18-42-18 5/18-42-18 2/
+d310 1
+a310 1
+=1, cha2 4 rest d-s3 c B---s2
+d320 2
+a321 2
+6 bars | 5b 5 5 5 5 4 4 4 3 | 4 4 5 5 4 4 5 4 | 8 8 8 7 \
+ | 8 8 9 7 | 8 8 8 7 | 9 8 8 7 |
+d328 31
+a358 1
+
+@
+
+
+1.5
+log
+@up to bar 43
+@
+text
+@d235 1
+a235 1
+6 systems 10 /18-40-18 4/18-32-18/18-32-18/18-35-18/18-42-18 5/18-42-18 2/
+d275 1
+a275 1
+=1, cha2 2 A_ 4 A 8 [G-s2 F-s1]
+d278 1
+a278 1
+rs0.2 .28 - .53 1
+d285 44
+@
+
+
+1.4
+log
+@up to bar 34
+@
+text
+@d195 1
+a195 1
+ | 4 5 7 5 4 4 4 3 | 9 9 9 7 | 6 5 4 4 7 5 5 4 |
+d200 1
+a200 1
+=2' cha3 4 d~-s1, b-s4, c~-s3, d~-s2,
+d204 1
+a204 1
+=1' cha1 4 fr)4 8 [e-s3 db-s2] 2 e(4
+d220 13
+d239 20
+a258 1
+3 bars | 5b 80 | 80 | 80 |
+d260 26
+@
+
+
+1.3
+log
+@up to bar 30
+@
+text
+@d116 1
+a116 1
+ | 9 10 9 7 | 9 8 8 7 | 9 8 9 7 |
+d138 1
+a138 1
+=2' cha3 4 g 8 [b-s2, c~-s1,] 4 b a-s1,
+d193 27
+@
+
+
+1.2
+log
+@up to bar 24
+@
+text
+@d152 41
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+a3 1
+6 systems 12 /18-28-18/18-34-18 5/18-31-18/18-53-18 8/18-35-18 /18-32-18 2/
+d13 2
+a14 1
+6 bars | 5b 4/4 40 | 40 | 40 | 40 | 40 | 40 |
+d16 1
+a16 1
+b0.7 .10 a 5 Voci
+d18 1
+a18 1
+=1,        5b 4/4 cha1 leg99 2 blank 1 rest,,
+d23 1
+a23 1
+=2, cha5 2 blank 1 rest
+d27 1
+a27 1
+=2, cha5 2 blank 1 rest
+d31 1
+a31 1
+=2, cha5 2 blank 1 rest
+d36 1
+a36 1
+=2, cha5 2 blank 1 rest
+d40 1
+a40 1
+=2, cha5 2 blank 1 rest
+d42 2
+a43 1
+6 bars | 5b 40 | 40 | 40 | 40 | 40 | 40 |
+d47 1
+a47 1
+=2, cha5 2 blank 1 rest
+d51 1
+a51 1
+=2, cha5 2 blank 1 rest
+d54 2
+a55 2
+=1, cha1 2. e-s2, 8 [db c-s1]
+=2, cha5 2 blank 1 rest
+d60 2
+a61 2
+=2' cha3 2 b-s2, f-s5,
+=2, cha5 4. blank 1 rest,
+d65 2
+a66 2
+=2' cha3 4 rest'' g~ f~-s2, e~-s1,
+=2, cha5 2 blank 1 rest,
+d70 3
+a72 3
+=2' cha3 4 d~ c~-,-s1, b 8 [c~-s1, d~-s2,]
+=2, cha4 2 f-s1,-s3, B-s1,-s5,
+=2, cha5 2 blank 1 rest,,
+d74 2
+a75 1
+6 bars | 5b 40 | 40 | 40 | 40 | 40 | 40 |
+d79 3
+a81 3
+=2' cha3 4 e~-s1, f~ 2 g~
+=2, cha4 4 rest' d~-s2,-s5, c~-s1,-s4, b-s3,
+=2, cha5 4.. blank 1 rest,
+d85 3
+a87 3
+=2' cha3 4 f~ e~ d~ c~
+=2, cha4 4 an-s1,-s4, f-s1,-s5, gn-s1,-s3, a-s1,-s2,
+=2, cha5 4.. blank 1 rest,
+d90 2
+a91 2
+=1' cha0 4 1 d-s1-s4-s5
+=1, cha1 4 cr)2 8 [B-s1-s3 An-s2] 2 B(1-s1-s4
+d93 59
+a151 4
+=2' cha3 4 d~ e~ f~ g~
+=2' cha4 4 b c-,-,-s3, d e-,-s1,
+=2, cha5 2 B-s1,-s5, F-s2,-s5,
+
+@

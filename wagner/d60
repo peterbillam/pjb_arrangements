@@ -1,0 +1,31 @@
+boundingbox 470 130
+midi channel 1 patch 60 pan60 reverb 05
+midi channel 2 patch 58 pan20 reverb 65
+midi channel 3 patch 44 pan40 reverb 35
+midi channel 4 patch 44 pan40 reverb 95
+1 system 6 /27-30-27/
+/
+2 bars | 3b 2 2 2 2  2 2 5 5  2 2 2 5  3 3 3 3 \
+ | 1 1 1 1 1 1 2 1  1 1 1 1 2.5 2.5 4.5 2.5  \
+  .5 .5 .5 .5 .5 .5 .5 .5  .5 .5 .5 .5 .5 .5 .5 .5 |
+| 4/4 .4 .4 .45 .35 .35 .45 .4 .4
+midi off
+=1, bass   3b 4 <A c f a c~> <A c f a c~> \
+ 8. rest 32 [<c f a c~> <c f a c~>] 83 [<c f a c~> <c f a--I3> <d a c~ f~>]
+=2 bass   3b 4 rest 8 rest 32 [F G A B] 2 c
+midi on
+#=1' bass   3b cha1 vol120  leg45 4 <f a c~> <f a c~> \
+ 8. rest 32 leg70 [<f a c~> <f a c~>] 83 [<f c~> <f a--I3> <a f~>]
+#=2' bass   3b cha2 vol120  leg45 4 <A c> <A c> \
+ 8. rest 32 leg70 [<A c> <A c>] 83 [<A c> <F c> <D d>]
+#=3' bass   3b cha3 vol90 leg90 4 rest 8 rest 32 [f g a b] 2 c~-dim50
+#=4  bass   3b cha4 vol90 leg90 4 rest 8 rest 32 [F G A B] 2 c-dim50
+| 3.2
+midi off
+=1, 8. [<G g bn d~> 16 <G g b d~>] 4 <G g b d~> 2 rest
+=2 4 rest 8 rest 32 [D E F F#] 2 G
+midi on
+#=1, 8. leg50 [<bn d~> 16 <b d~>] 4 leg90 <b d~> 2 rest
+#=2  8. leg50 [<G g>   16 <G g>]  4 leg90 <G g>  2 rest
+#=3 4 rest 8 rest 32 [d e f f#] 2 g-dim50
+#=4 4 rest 8 rest 32 [D E F F#] 2 G-dim50

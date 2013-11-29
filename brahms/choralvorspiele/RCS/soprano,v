@@ -1,0 +1,224 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	99.07.02.12.40.18;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Soprano part, O wie selig seid ihr doch
+@
+
+
+1.1
+log
+@o welt bar 14 is 4/2
+@
+text
+@9 systems /24/24/24/24/24/24/24/24/24/
+lefthead Soprano Recorder
+title Chorale Preludes  Op 122
+righthead Johannes Brahms
+leftfoot Arranged and Typeset 1996 by Peter J Billam.
+/
+4 bars | 3 | .8 .8 .8 1.5 .9 .9 1.2 1.2 | .8 1.2 .8 1.2 .8 1.2 | 5 |
+|
+I Nr. 3   O Welt, ich muss dich lassen
+=1 treble 1b 4/2 qua rest
+I0.3        f
+i0.3           ma dolce . . .
+|
+=1 min rest cro rest qua rest F min F(2 qua F)2[(2 G)2 G(2 A)2]
+|
+=1 3/2 cro. A(2 qua c)2 cro. c(1 qua B,)1 cro. B'(2 qua A)2
+|
+=1 4/2 smb A min rest cro rest A(2
+/
+4 bars | 1.2 1.5 1.2 1.2 1.2 1.2 | 5 | 2.5 3 | 6 |
+|
+=1 treble 1b 3/2 cro. c)2(1 qua B,)1 min G A
+|
+il0.4    5
+=1 min F E rest
+|
+=1 min rest rest cro rest F
+|
+=1 cro G F min E F
+/
+4 bars | 1 1 1 1 1 1 1 2 | 2 2 2.8 | .9 1.3 .9 1.3 .9 1.3 | 7 |
+|
+=1 treble 1b 4/2 smb G min rest cro. G(2 qua F)2
+|
+=1 smb F(2 qua F)2[(2 G)2 G(2 A)2]
+|
+il0.4   10
+=1 cro. A(2 qua c)2 cro. c(1 qua B,)1 cro. B'(2 qua A)2
+|
+=1 4/2 smb A min rest cro rest A(2
+/
+4 bars | .9 1.2 .9 .9 1.5 1.5 | .9 1.4 .9 .9 .8 .8 | 4 | 6 |
+|
+=1 treble 1b 3/2 cro. c)2(1 qua B)1, min G(2 qua G)2[ G(2 B' A)2]
+|
+=1 cro. F qua D(2 cro F E)2 min rest
+|
+=1 4/2 smb rest rest
+|
+il0.4   15
+=1 3/2 cro rest E(2 F G)2 min A
+/
+4 bars | 9.8 | 1.5 2 1.8 1.5 | 4 | 3.5 ||
+|
+=1 treble 1b 4/2 cro. B'(2 qua A G[ F])2 cro G(2 cro. G)2 qua c(2 B'[ A G F)2]
+|
+=1 min G(2 qua G)2[(2 F G A] cro. G qua A)2 min G
+|
+=1 smb F(2 F)2(2
+|
+=1 smb <F)2 fermata>
+
+/
+3 bars | 14 | 12 | 12 |
+I0.5   Nr. 6   O wie selig seid ihr doch, ihr Frommen
+|
+=1 treble 1b 12/8 min. A d
+i0.2        dolce . . .
+|
+=1 cro. c A B' A
+|
+I0.1          '
+=1 cro. G F G(2 qua B'[ A G)2]
+/
+4 bars | 10 | 10 | 12 | 12 |
+|
+=1 treble 1b smb. <F fermata>
+|
+il0.25       5
+=1 min. A c
+|
+I0.1                               '
+=1 cro. Bn, c# d cro cn qua d
+|
+I0.1         '
+=1 cro. e c Bn,(1 qua d[ c B,)1]
+/
+3 bars | 11 | 12 | 12 |
+|
+=1 treble 1b smb. <A fermata>
+|
+=1 min. A cro. G qua E[(2 A G)2]
+|
+il0.4    10
+=1 cro. F(1 qua F)1[(2 G F)2] min. <E fermata>
+/
+4 bars | 14 | 12 | 12 | 9 ||
+|
+I0.1                                  '
+=1 treble 1b cro. D E F# qua G[(2 c' B')2]
+i0.3        cresc . . .
+|
+I0.1                           '
+=1 cro. A Bn c# qua d[(1 g f)1]
+|
+=1 cro e(1 d c#)1 min. <d(1 fermata>
+i0.2                 . . .
+I0.2                         f
+|
+=1 smb. d)1
+
+10 systems /24/24/24/24/24/24/24/24/24/24/
+lefthead Soprano Recorder
+righthead Chorale Preludes, Johannes Brahms
+leftfoot Arranged and Typeset 1996 by Peter J Billam.
+/
+3 bars | 5 | 12 | 12 |
+|
+I0.5 Es ist ein Ros' entsprungen
+=1 treble 1b 6/4 qua c[ Bn,]
+I0.3        p
+i0.3            dolce . . .
+|
+I0.1                       '                            '
+=1 qua d[ c](1 cro c)1 qua c[ c# e d](1 cro d)1 qua cn[ d]
+|
+I0.1                                                    '
+=1 qua c[ d c d c d] B'[ A](2 cro A)2 qua cn[ B,]
+/
+2 bars | 6.6 | 3 2.5 |
+|
+I0.1                                            '                        '
+=1 treble 1b qua G#[ A F# Gn](2 cro G)2 qua E[ Fn](2 cro F)2 qua D#[ E]
+|
+=1 qua G[ F G F(2 F)2 E] min F cro c(1
+I0.2                                                   pp
+/
+2 bars | 6.6 | 6 |
+|
+il0.3                 5
+=1 treble 1b cro e f)1 A,(1 c B)1 A(2
+|
+I0.1                                                         '
+=1 cro E F G E F)2 qua c[ B,]
+I0.2                                                         p
+/
+2 bars | 6.6 | 3 2.5 |
+|
+I0.1                                          '                        '
+=1 treble 1b qua G#[ A F# Gn](2 cro G)2 qua E[ Fn](2 cro F)2 qua D#[ E]
+|
+I0.1                                                     '
+=1 qua G[ F G F(2 F)2 E] min F qua c[ A,]
+/
+2 bars | 6.6 | 6 |
+|
+I0.1                              '
+=1 treble 1b qua F#[ G](2 cro G)2 qua C[ E G Fn](2 cro F)2 cro rest
+|
+il0.4    10
+=1 min. rest min rest qua c[ Bn,]
+/
+2 bars | 6.6 | 6 |
+|
+I0.1                             '                          '
+=1 treble 1b qua d[ c](1 cro c)1 qua f[ c] c#[ d](1 cro d)1 qua cn[ d]
+|
+I0.1                                                     '
+=1 cro. c qua d[ c d] B'[ A](2 cro A)2 qua c[ B,]
+/
+2 bars | 6.6 | 6 |
+|
+=1 treble 1b qua G#[ A F# Gn(2 G)2 G] E[ Fn(2 F)2 F D# E]
+|
+=1 qua G[ F G F(2 F)2 E] min F cro A
+I0.2                                                    pp
+/
+3 bars | 6 | .7 .7 .7 .7 .7 1.2 | 6 |
+|
+il0.3     15
+I0.1                       '
+=1 treble 1b cro c E A E D rest
+|
+=1 cro rest rest rest min rest qua c[ Bn,]
+I0.2                                      p
+|
+=1 qua d[ c](1 cro c)1 qua f[ c] c#[ d](1 cro d)1 qua cn[ d]
+/
+2 bars | 6.6 | 6 |
+|
+=1 treble 1b qua c[ d c d c d] B'[ A](2 cro A)2 qua c[ B,]
+|
+=1 qua G#[ A F# Gn(2 G)2 G] E[ Fn(2 F)2 F D# E]
+/
+2 bars | 6.6 | 5 ||
+|
+=1 treble 1b qua G[ F G F(2 F)2 E] min F cro F
+|
+=1 min. F cro rest rest
+@

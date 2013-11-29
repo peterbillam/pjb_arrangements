@@ -1,0 +1,12 @@
+boundingbox 350 130
+midi channel 1 patch 60 reverb 90
+midi channel 2 patch 44 reverb 90
+1 system /27-35-27 4/
+/
+2 bars | 2# 4 4 4 5 4 4 4 5 | 4 4 4 5 4 4 
+| 4/4 3.6
+=1, treble 2# cha1 leg99 vol80 4. <d f a> 8 <e g#> 4. vol-5 <d f> 8 <A e>
+=2' bass   2# cha2 leg95 vol70 1// <F(2 f(4>
+| 2.7
+=1' 4. vol-5 <F d> 8 vol-5 <E A> 4 <D-dim40 F-dim40>
+=2' 1// <F)2-dim40 f)4-dim40>

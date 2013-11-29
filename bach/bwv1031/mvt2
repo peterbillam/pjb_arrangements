@@ -1,0 +1,140 @@
+
+5 systems /13 25 20-30-20/13 30 20-30-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/
+pagenum 8
+innerhead J. S. Bach, Flute Sonata BWV 1031, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+midi pause 3.9
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+3 bars |2# 6/8 1 1 1 1.5 1 1 1 1 1 1.5 1 1 |12 |1 1 1.5 1.5 1 1 1 1 1 1 1 1 |
+| 6/8 .29 .27 .27 .27 .27 .27  .28 .27 .27 .27 .27 .27
+Il0.6        Siciliano
+=2' treble 2# 6/8 cha2 vol80 smq [D B d B A# B] D[ B d B A B]
+=3 bass 2#    6/8 cha2 vol90  cro b qua rest cro leg70 b leg85 qua rest
+|
+=2 smq C[ E G E C E] C[ E G E C E]
+=3 cro b qua rest cro leg70 b leg85 qua rest
+|
+=2 smq C[ F c' A# G# A] F,[ c e c F, c]
+=3 cro a# qua rest cro leg70 a leg85 qua rest
+/
+3 bars | 2# 1 1 1.5 1 1 1 1 1 1 1 1 1 | 1 1 1 1.5 1 1 1 1 1 1 1 1 | 12 |
+|
+=2 treble 2# smq rest c'[ B' A# B' F] D[ G F E F D]
+=3 bass 2#   cro b qua rest cro B qua rest
+|
+il0.4      5
+=2 smq B_[ B' d' B' A# B'] E,[ e g e d e]
+=3 cro b qua rest cro c~ qua rest
+|
+=2 smq An,[ e d c d A,] F,[ d f d c d]
+=3 cro d~ qua rest cro leg70 d, leg85 qua rest
+/
+4 bars |2# 1 1 1 1.6 1 1 1 1 1.6 1 1 1 |10 |1 1 1 1 1 1 1 1.6 1 1 1 1 | 12 |
+|
+=2 treble 2# smq B,[ d g d cn d] B,[ d e c# d B,]
+=3 bass 2#   cro g qua rest cro g qua g#
+|
+=2 qua c[ A,] rest cro rest qua rest
+=3 cro a qua b c~[ a c~]
+|
+=2 smq rest A,[ c e d f] e[ d c# B, A, G,]
+=3 qua d~[ a b] c~[ a c~]
+|
+il0.3      10
+=2 smq F,[ d f d c d] F,[ d f d c d]
+=3 cro d~ qua rest cro leg70 d~ leg85 qua rest
+/
+3 bars | 2# 12 | 12 | 12 |
+|
+=2 treble 2# smq E[ G B' G E G] E[ G B' G E G]
+=3 bass 2#   cro d~ qua rest cro leg70 d~ leg85 qua rest
+|
+=2 smq E[ A e' c' B' c'] A,[ e g e A, e]
+=3 cro c~ qua rest cro leg70 c~ leg85 qua rest
+|
+=2 qua d[ smq rest A, B, c] d[ e f d A, d]
+=3 cro d~ qua rest cro d, qua rest
+/
+3 bars | 2# 1 1 1.5 1 1 1 1 1 1 1 1 1 | 1.5 1 1 1 1 1 1 1 1.5 1.5 1 1 | 1 1 1.5 1 1 1 1 1 1 1 1 1 |
+|
+=2 treble 2# smq leg95 d'[ leg85 B' c' G# A B'] c[ d e c F, c](1
+=3 bass 2#   cro a qua rest cro a# qua rest
+|
+il0.3   15
+=2 smq c)1[ A#, B, c d e] f[ f leg95 b leg85 an g# f]
+=3 cro b qua rest cro b qua e~
+|
+=2 smq e[ e leg95 a leg85 g# f e] d[ leg95 e leg85 d c B, A,]
+=3 cro an qua d~ cro. b
+
+5 systems /13 25 20-30-20/13 25 20-30-20/13 25 20-30-20/13 25 20-30-20/13 25 20-30-20/
+pagenum 9
+innerheadhead J. S. Bach, Flute Sonata BWV 1031, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+4 bars | 2# 1.6 1 1 1 1 1.6 .8 .8 .8 .8 .8 .8 | 1.6 1 1 1 1 1.6 .8 .8 .8 .8 .8 .8 | 6 4.8 | 4.5 4.8 |
+|
+=2 treble 2# smq leg70 G#[ leg85 B#' c' G A F] cro E# qua F
+=3 bass 2#   cro c~ qua rest cro leg70 c~ leg85 qua rest
+|
+=2 smq leg70 G#[ leg85 B#' c' G A F] cro E# qua F
+=3 cro c~ qua rest cro leg70 c~ leg85 qua rest
+|
+=2 qua G#[ C] rest cro rest qua rest
+=3 smq c~[ c, c~ b a f] cro b qua rest
+|
+il0.3   20
+=2 smb rest
+=3 cro a qua rest g#[ e# c,]
+/
+3 bars | 2# 1 1 1.5 1 1 1 1 1.5 1 1 1 1 | 1 1.5 1 1 1 1 1 1 1 1 1 1 | 1 1 1 1.5 1 1 1 1 1 1.5 1 1 |
+|
+=2 treble 2# cro rest qua f smq g[ b a# b c~ b]
+=3 bass 2#   smq f[ c~ f~ e~n d~ b] cro e~ qua rest
+|
+=2 smq f[ b a# b c~ b] e[ g f e d c]
+=3 cro d~ qua rest c~[ a# f#]
+|
+=2' smq D[ B d B A# B] D[ B d B A# B]
+=3 cro b qua rest cro leg70 b leg85 qua rest 
+/
+3 bars | 2# 12 | 1 1 1.5 1.5 1 1 1 1 1 1 1 1 | 12 |
+|
+=2 treble 2# smq C[ E G E C E] C[ E G E C E]
+=3 bass 2#   cro b qua rest cro leg70 b leg85 qua rest 
+|
+il0.4  25
+=2 smq C[ F c' A# G# A] F,[ c e c F, c]
+=3 cro a# qua rest cro leg70 a leg85 qua rest
+|
+=2 qua. B'[ smq An G F] qua E[ smq e' d' c' B']
+=3 cro b qua rest cro e qua rest
+/
+3 bars | 2# 1 1 1 1 1 1 1.5 1 1 1 1 1  | 1 1 1 1 1 1 1.5 1 1 1 1 1 | 1.5 1 1 1 1 1 .8 .8 .8 .8 .8 .8 |
+|
+=2 treble 2# cro A# qua B' smq c[ e# f c d B,]
+=3 bass 2#   cro f qua rest cro leg70 f leg85 qua rest
+|
+=2 cro A# qua B' smq c[ e# f c d B,]
+=3 cro f qua rest cro leg70 f leg85 qua rest
+|
+=2 smq A#[ G# A B' c' d'] qua e[ d c]
+=3 cro f qua rest cro A# qua rest
+
+/
+4 bars | 2# 1 1 1 1 1 1 1 1.5 1.6 1 1 1 | 1 1 1 1.5 1 1 1 1 1 1.5 1 1 | 1 1.5 1 1 1 1 1 1.5 1.6 1 1 1 | 7 ||
+|
+il0.4      30
+=2 treble 2# cro. B,(1 smq. B,)1[ dsq c] smq B'[(2 qua. A#)2]
+=3 bass 2#   qua B[ c d'] e'[ f' F']
+| 6/8 1.70 1.85
+=2 smq rest B,[ d B, A#, B,] D[ B' d' B' A B']
+=3 cro b qua rest cro g qua rest
+| 6/8 1.95 2.1
+=2 smq rest B,[ A#, B, d B,] smq. B,[ dsq c] smq B'[(2 qua. A)2]
+=3 cro e# qua rest cro f qua F
+|
+=2 min. B-fermata
+=3 min. B-fermata

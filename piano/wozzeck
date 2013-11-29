@@ -1,0 +1,46 @@
+5 systems 30 / 19-30-19 / 19-40-19 / 19-30-19 /
+title Bruchstuck aus Wozzeck
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+/
+3 bars | 6/4 48 | 48 | 48 |
+| 6/4 4.8
+rl0.9  Act I  bar 139
+=1' treble 6/4 cha1 leg92 \
+ cro <C# G#> <C# G#> <C# G#> <B_ F#{'1> <E B> <Cn A}'1>
+=2  bass   6/4 cha2 leg92 cro <ebxr f a> <ebx f a> <ebx f a> \
+ <dbxl ebl g{'1> <gbxl abl c~> <dnxl enl g#}'1>
+|
+=1' cro <C# G#> <C# G#> <C# G#> <Cn A{'1> <D c#> <Eb cn}'1>
+=2, cro <ebxr f a> <ebx f a> <ebx f a> \
+ <d f#xl g#l{'1> <B fn a> <c gbl bb}'1>
+|
+=1 cro <C# G#> <Cn A{'1> <D c#'> <Eb B'}'1> <cn g> <B(2 f#(1>
+=2, cro <ebxr f a> <d g{1> <B f> <c# g}1> <e d~> <f e~b>
+/
+2 bars | 48 | 48 |
+|
+=1' qua [<B)2 f#)1 > g e fn] [d eb] cro c' min blank
+=1, qua rest,, [<F#l A#> <Fnl An> <E G#>] [<Ebl Gn> <D F#>] \
+ [<Dbl Fn> A F B_b] cro Db
+=2' smb <Eb Bb> min <Eb Bb g>
+|
+=1 qua. [Dn smq D] cro E-emph-. \
+ qua. [D smq D] cro F-emph-.  qua. [D smq D] cro Abr-emph-.
+=2 qua. [<e g#> smq <e g#>] cro <f a>-emph-. \
+ qua. [<f#l a#> smq <f#l a#>] cro <gnr b-emph-.> \
+ qua. [<ab c~> smq <ab c~>] cro <anlr c~#-emph-.> treble
+/
+2 bars | 48 | 16 16 12 ||
+|
+=1 qua. [D smq D] qua [<Abr c'-.> <G(2 B'(1-emph>] [<G)2 B')1> <An c'>] \
+ cro <A#l Bnxl'> qua <c#l g#-.> cro <cn gn-emph> qua <e b>
+=2' qua. [B_b smq B_b] qua [<B_nlr D#> <C(2 E(1-emph>] [<C)2 E)1> <Db F>] \
+ cro <Dnl F#> qua [<Ebl Fnlx A> <Enl F#lx A#l> <Fnl Gnlx B> <Gbl Ablx c>]
+|
+=1 cro <eb(2 a(1> qua3 [<eb)2 a)1> <c# g#{1-I3> <cn a>] \
+ qua [<d c~#}1> <eb b{'1>] qua. [<f c~n g~> smq <f# c~#l f~#}'1>] \
+ min <gnr c~nl f~#>
+=2' cro <G(2 Ax c(1> qua3 [<G)2 Ax c)1> <Eb Fx A{'1-I3> <D F#xl G#l>] \
+ qua [<B_ Fn A}'1> <C Gn Ax{'1>] qua. [<D G#> smq <Eb Bb d}'1>] min <Fr A eb>
+

@@ -1,0 +1,47 @@
+boundingbox 250 145
+midi channel 1  patch 73 reverb 80 pan 30 # flu
+midi channel 2  patch 68 reverb 80 pan 60 # obo
+midi channel 3  patch 71 reverb 80 pan 80 # clr
+midi channel 4  patch 60 reverb 80 pan 20 # hrn
+midi channel 5  patch 70 reverb 80 pan 70 # bsn
+midi channel 6  patch 47 reverb 40 pan 40 # tym
+midi channel 7  patch 57 reverb 40 pan 50 # trb
+midi channel 8  patch 44 reverb 80 pan 10 # vln
+midi channel 10 patch 44 reverb 80 pan 90 # cb
+1 system /27-35-27 20/
+/
+2 bars | 30 | 6 6 6 6 6 6 10 8 :||
+| 4/4 1.3
+midi off
+=1  treble 1 <A_ C G>
+=2' bass   1 <F#(2 d#>
+midi on
+#=2  treble cha2 vol120 leg99 1 <C G>
+#=3  treble cha3 vol110 leg99 1 <A_ C>
+#=4  treble cha4 vol100 leg99 1 <A_ C G>
+#=5  bass   cha5 vol80  leg99 1 <d# a>
+#=7  bass   cha7 leg60 vol125 1 <F#(2 d#>
+|
+midi off
+=1 2.. <A_#r C#l F#> 8 rest
+=2' 2.. e 8 rest'
+=2, 2. F#)2 8 rest, F#
+midi on
+#=2  cha2 vol110 leg99 2.. <C#l F#> 8 rest
+#=3  cha3 vol110 leg99 2.. <A_#r C#l> 8 rest
+#=4  cha4 vol100 leg99 2.. <A_#r C#l F#> 8 rest
+#=5  cha5 vol80 leg99 2.. <e a#> 8 rest'
+#=6  cha5 leg60 vol125 2. rest, 8 rest, F#
+#=7  cha7 leg60 vol125 2. F#)2 8 rest, F#
+#|
+#=2  treble cha2 vol120 leg99 1 <C G>
+#=3  treble cha3 vol110 leg99 1 <A_ C>
+#=4  treble cha4 vol100 leg99 1 <A_ C G>
+#=5  bass   cha5 vol80  leg99 1 <d# a>
+#=7  bass   cha7 leg60 vol125 1 <F#(2 d#>
+#|
+#=2  cha2 vol110 leg99 2.. <C#l F#> 8 rest
+#=3  cha3 vol110 leg99 2.. <A_#r C#l> 8 rest
+#=4  cha4 vol100 leg99 2.. <A_#r C#l F#> 8 rest
+#=5  cha5 vol80 leg99 2.. <e a#> 8 rest'
+#=7  cha7 leg60 vol125 2. F#)2 4 rest,

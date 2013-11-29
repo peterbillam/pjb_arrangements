@@ -1,0 +1,217 @@
+% start
+6 systems / 19 25 19 /
+title Legend
+innerhead Helen Stowasser
+midi channel1 patch0
+/
+4 bars | 1# 2/2 12 | 12 | 12 | 12 |
+| 2/2 56
+=1' treble 1# 2/2 cha1 vol75 leg150 min. e qua [d A]
+=1,        1# 2/2 qua rest [B E F] cro G F
+=2, bass   1# 2/2 cha1 vol75 leg190 qua [E B g a] [b B a B]
+|
+=1' min. B cro d
+=1, qua rest, [G E F] cro G vol80 F
+=2, qua [E B g a] [b B a B]
+|
+=1' vol80 leg150 min. e qua [d A]
+=1, qua rest [B E F] cro G F
+=2, vol80 leg190 qua [E B g a] [b B a B]
+|
+=1' min. B cro d
+=1, qua rest, [G E F] cro G F
+=2, qua [E B g a] [b B a B]
+|
+=1' min. e cro B
+=1, qua rest [B E F] cro G F
+=2, vol80 leg190 qua [E B g a] [b B a B]
+|
+=1 cro E vol-5 D vol-5 C vol+10 D
+=2, qua [g vol-5 B f vol-5 B] [e B vol+10 f A]
+|
+=1' vol95 leg150 min. g qua [fn c]
+=1, qua rest [d G A] cro Bb A
+=2, vol95 leg190 qua [G d bb c~] [d~ d c~ d]
+|
+=1' vol100 min. d cro fn
+=1, qua rest, [Bb G A] cro B A
+=2, vol100 qua [G d bb c~] [d~ d c~ d]
+|
+=1' min. d qua vol-10 [dn vol-10 c]
+=1, cro G vol-5 Fn vol-5 Eb vol-5 <D# A>
+=2, qua [bb d a vol-5 d] [g vol-5 d f# vol-5 Bn]
+|
+=1' min B e
+=1, qua rest [G# E F] cro G vol+10 F
+=2, qua [E B g# a] [b B vol+10 a B]
+|
+=1 vol+10 cro E vol-5 D vol-8 C vol-7 B_
+=2, vol+10 qua [g# B f vol-8 B] [e vol-5 B f vol-7 B]
+|
+=1' cro. A qua c min B
+=1, qua rest, C cro E min D#
+=2' qua [A e] cro a min <B f a>
+
+|
+=1' cro. A qua c vol+10 min d
+=1, qua rest, C cro E vol+10 min F
+=2' qua [A e] cro a vol+10 min <d a>
+|
+=1' vol95 min e A
+=1, qua rest, [G E F] cro Gr F
+=2, vol95 qua [c g c~ d~] [e~ g d~ vol-5 g]
+|
+=1' cro vol-5 E vol-5 D vol-5 <E G> <B_ F>
+=2, qua [c~ vol-5 g b vol-5 g] [c~ vol-5 g d G]
+|
+=1 min <C A> <D F>
+=2, min <A g> <B a>
+|
+=1' cro E vol+10 A vol+10 <E c> <F d>
+=2, qua [c vol+5 a vol+5 e~ vol+5 a] vol+5 min <B a>
+|
+=1, qua [e B E F] cro G# vol-5 <F B>
+=2, qua [E B g# a] [b vol-5 B a vol-5 B]
+|
+=1, qua [e vol-5 B E vol-5 <F c>] min <G# B>
+=2, qua [E vol-5 B g# vol-5 a] min b
+|
+=1 vol70 smb A
+=1, min C D
+=2, vol70 min <A e> <B a>
+|
+=1 smb A
+=1, min E F
+=2' smb a
+=2, min c d
+|
+=1' min <C A> <B_ G>
+=2' min <Fn fn> <G d>
+|
+=1' cro <B_ E> <D G> min <C A>
+=2  qua [E e'] cro b qua [A vol-7 e'] vol-7 cro a
+|
+=1' vol55 smb e
+=1, qua rest, [B E F] min G#
+=2  vol55 qua [E B e' f'] min b
+|
+=1' vol70 min. e qua vol80 [d B]
+=1, vol60 qua rest, [B E F] cro Gn vol80 F
+=2, vol60 qua [E B gn a] [b B vol70 a vol80 B]
+|
+=1' vol95 min. e qua [c d]
+=1, qua rest, [G E F] cro G F
+=2, vol95 qua [C g c~ d~] [e~ g d~ g]
+|
+=1' vol100 min. e qua [A c]
+=1, qua rest, [G E F] cro G F
+=2, vol100 qua [A e c~ d~] [e~ e d~ e]
+
+|
+=1' vol95 min. e cro vol-7 B
+=1, qua rest, [G E F] cro G vol-7 F
+=2, vol95 qua [E B g a] [b vol-7 B a B]
+|
+=1' vol75 cro E D C D
+=2, vol70 [g B f B] [e B f A]
+|
+=1' vol90 min. g qua vol+7 [fn c]
+=1, vol90 qua rest, [d G A] cro Bb vol+7 A
+=2, vol90 qua [G d bb c~] [d~ d c~ vol+7 d]
+|
+=1' vol110 min. g qua [c eb]
+=1, qua rest, [eb G A] cro Bb A
+=2, vol100 qua [c g e~b f~] [g~ g f~ g]
+|
+=1' vol110 min. g cro d
+=1, qua rest, [eb G A] cro Bb A
+=2, vol100 qua [c g bb c~] [d~ d d~ g]
+|
+=1' cro G Fn Eb vol70 <D# A>
+=2, qua [bb d a d] [g c vol70 f# B]
+|
+=1' min B A
+=1, qua rest, [G C# G] rest, [F D F]
+=2, qua [A e a e]  [B f b f]
+|
+=1' min B vol85 cro. d qua f
+=1, vol70 qua rest, [G C# G] rest, [A D# A]
+=2, qua [A e a e]  [B f b f]
+|
+=1' vol85 cro e qua [d B] cro e vol-5 d
+=1, vol70 qua rest, [B E F] cro G vol-5 F
+=2, qua [E B g a] [b vol-5 B a B]
+|
+=1' vol80 smb B
+=1, vol70 cro E vol-5 D C D
+=2, qua [g B f B] [e vol-5 B f B]
+|
+=1' vol80 cro. A qua c min B
+=1, qua rest,, C cro E min D#
+=2, vol80 qua [A e] cro a min <B f a>
+|
+=1' cro. A qua c min d
+=1, qua rest,, C cro E min F
+=2, qua [A e] cro a min <d a>
+|
+=1' min e A
+=1, qua rest, [G E F] vol+5 cro G vol+5 F
+=2, qua [c g c~ d~] [e~ vol+5 g d~ g]
+
+|
+=1' vol+5 E D vol-10 <E G> vol-10 <B_ F>
+=2, qua [c~ vol+5 g b g] [c~ vol-5 g d vol-5 G]
+|
+=1' vol70 min <C A> <D F>
+=2, vol70 <A f> <B a>
+|
+=1' cro E A vol80 <E c> vol87 <F d>
+=2, qua [c a e~ a] vol80 min <B a>
+|
+=1' vol95 qua [e B E F] cro G# <F B>
+=2, vol95 qua [E B g# a] [b B vol85 a B]
+|
+=1' vol-7 qua [e vol-7 B vol-7 E vol-7 <C c>] vol-7 <G# B> cro. rest
+=2, qua [E vol-7 B g# vol-7 a] vol-7 b cro. rest
+|
+=1' vol65 smb A
+=1, min C D
+=2, vol65 min <A e> <B a>
+|
+=1' smb A
+=1, min E F
+=2' smb a
+=2, min c d
+|
+=1' min <C A> <B_ A>
+=2' min <Fn fn> <G d>
+|
+=1' cro vol+8 <B_ E> vol+8 <D G> min <C A>
+=2  vol+8 qua [E e'] vol+8 cro b qua [A vol-8 e'] cro vol-8 c
+|
+=1' vol55 smb e
+=1, qua rest, [B E F] min G#
+=2  vol55 qua [E B g#' a'] min b
+|
+=1' vol70 min. e vol80 qua [B d]
+=1, qua rest, [B E F] cro G F
+=2  vol70 qua [E B g' a'] [b B vol+5 a vol+5 d]
+|
+=1' vol85 min. e vol+7 qua [c d]
+=1, qua rest, [G E F] cro G F
+=2, vol85 qua [c g c~ d~] [e~ g vol+5 d~ vol+5 g]
+| 2/2 .25 .27 .30 .34 .39 .75 .39 .34
+=1' vol100 min. e qua vol90 [A c]
+=1, qua rest, [A E F] cro G vol90 F
+=2, vol100 qua [c g c~ d~] [e~ e vol90 d~ e]
+| 2/2 .33 .32 .31 .30 .29 .29 .29 .29
+=1' min B cro vol-5 e vol-5 B
+=1, qua rest, vol-5 [G# E vol-5 F] cro G vol-5 F
+=2, qua [E vol-5 B g# a] [b vol-5 B a vol-5 B]
+| 2/2 .29 .29 .29 .29 .29 .29 .31 .34
+=1' cro E vol-5 D vol-5 C vol-5 D
+=2, qua [g# vol-5 B f# vol-5 a] [e vol-5 B f vol-5 A]
+|
+=1 vol55 smb <G_# B_>
+=2 vol55 smb <E B>
+

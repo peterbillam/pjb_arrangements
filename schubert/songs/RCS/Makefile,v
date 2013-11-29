@@ -1,0 +1,87 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	98.08.19.05.20.21;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.08.19.01.11.00;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for Schubert songs
+@
+
+
+1.2
+log
+@samples after .us too
+@
+text
+@MUSCRIPT = /home/pbin/muscript
+FD = /home/pjb/www/softgoods
+SD = /home/pjb/www/mus/samples
+BLURB = /home/pjb/mus/blurb/compositions
+
+all : schubertsongs.a4 schubertsongs.us
+
+schubertsongs.a4 : title.a4 p2.a4 songs+gtr.a4 ${BLURB}.a4 samples
+	cat title.a4 p2.a4 songs+gtr.a4 ${BLURB}.a4 >$@@
+	cp $@@ ${FD}/$@@
+schubertsongs.us : title.us p2.us songs+gtr.us ${BLURB}.us samples
+	cat title.us p2.us songs+gtr.us ${BLURB}.us >$@@
+	cp $@@ ${FD}/$@@
+
+songs+gtr.a4 : songs+gtr
+	${MUSCRIPT} songs+gtr > $@@
+songs+gtr.us : songs+gtr
+	${MUSCRIPT} -us songs+gtr > $@@
+
+title.a4 : title
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+	groff -p -t -e -ms title >> $@@
+p2.a4 : p2
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+	groff -p -t -e -ms p2 >> $@@
+title.us : title.a4
+	echo '%!' > title.us
+	echo '8.4 0 translate 1 0.94074 scale' >> title.us
+	cat title.a4 >> title.us
+p2.us : p2.a4
+	echo '%!' > p2.us
+	echo '8.4 0 translate 1 0.94074 scale' >> p2.us
+	cat p2.a4 >> p2.us
+
+samples : $(SD)/schubertsongs.us
+
+$(SD)/schubertsongs.us : songs+gtr.us
+	./make_samples
+@
+
+
+1.1
+log
+@includes title, p2, samples
+@
+text
+@d11 1
+a11 1
+schubertsongs.us : title.us p2.us songs+gtr.us ${BLURB}.us
+d35 1
+a35 1
+samples : $(SD)/schubertsongs.a4
+d37 1
+a37 1
+$(SD)/schubertsongs.a4 : songs+gtr.a4
+a38 1
+
+@

@@ -1,0 +1,143 @@
+12 systems 10 /19/
+title Stormy Weather
+lefthead Harold Arlen
+midi channel 1 patch 53
+/
+4 bars | 4/4 1.5 1.5 1.5  1.5 1.5 1.5  2  1.7 1.7 1.7  3.2 2.5 2.2  | 1.7 1.7 1.7  2.5 3.2 3.2  1.7 1.7 2.2  3.0 2.5 2.2  | 9 12 | 2 2 2  3.2 2.5 3.2  1.7 1.7 1.7  3.2 2.5 2.2 |
+| 4/4 63
+=1 treble 3b 4/4 cha1 leg98 min. blank smb rest
+|
+=1 min. blank smb rest
+|
+=1 min rest cro f# g
+r0.3 .43 Don't .74 know
+|
+=1 min. b qua3 rest [f#-I3 g]
+r0.3 .01 why .73 there's no
+/
+4 bars | 2 2 2  2.8 3.8 3.8  1.7 1.7 1.7  3.5 2.8 2.2  | 24 | 6 8 6 8 | 2.5 2.5 2.5  2.5 2.5 3.5  2.7 2 2.6  3.4 3.4 2.2 |
+|
+=1, treble 3b qua [b g(1] qua3 [g)1 b-I3 an] cro ab qua3 rest [f#-I3 g]
+r0.4 .01 sun up  in the sky . . . .78 stormy
+|
+=1, qua b cro. B min rest
+r0.4 .01 weather . . .
+|
+=1 qua [f f(1] qua3 [f)1 f-I3 f] cro f qua3 rest [e-I3 c]
+r0.4 since my gal and I .76 ain't to -
+|
+=1 smq [e{1 c}1] cro. B(1 cro. B)1 qua rest
+r0.4 .02 gether,
+/
+3 bars | 24 | 1.7 1.7 1.7  2 2 2.3  1.2 1.2 1.2 2 2.6 2.6 2.0  | 2.3 1.8 1.8 2.3  1.8 1.8 2.3 2.3  1.5 1.5 1.5 1.5  1.5 1.5 1.5 1.5 |
+|
+=1 treble 3b qua rest [A, c e] cro. f# qua g
+r0.4 .11 keeps raining all .85 the
+|
+=1 min. b cro rest
+r0.4 .01 time .
+|
+=1 min. rest qua [f# g]
+r0.4 .74 Can't  go
+/
+3 bars | 24 | 2 2 2  2.1 2.4 2.4  2 2 2  2.2 2 2  | 24 |
+|
+=1 treble 3b min. b qua3 rest [f#{1--I3 g}1]
+r0.3 .07 on .81 when
+|
+=1, qua [b g(1] qua3 [g)1 b-I3 an] cro ab qua3 rest [f#-I3 g]
+r0.3 .01 all .13 I .29 have is gone . . .79 stormy
+|
+=1, qua b cro. B min rest
+r0.3 .01 weather . . .
+/
+3 bars | 24 | 2 2 2  2.3 2 2.3  2 2 2  2 2.3 2 | 24 |
+|
+=1 treble 3b qua [f f(1] qua3 [f)1 f-I3 f] cro f qua3 rest [e-I3 c]
+r0.4 .08 since my .35 gal and I .80 ain't to -
+|
+=1 smq [e{1 c}1] cro. B(1 cro. B)1 qua rest
+r0.4 .01 gether,
+|
+=1 qua rest [A, c e] cro. f# qua g
+r0.4 .11 keeps raining all .85 the
+/
+3 bars | 24 | 2 2 2 2 2 2 2 2 2 2.3 2.3 2 | 24 |
+|
+=1 treble 3b qua g{1 cro. e}1 cro rest e
+r0.4 .08 time , .75 the
+|
+=1 qua c{1 cro. B}1 min rest
+r0.4 .01 time
+|
+=1 qua rest [A, c e] cro. f# qua g
+r0.4 .11 keeps raining all .85 the
+/
+3 bars | 1.8 1.8 1.8  2 2 2  1.8 1.8 1.8  2.3 2 2  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.3 2.1  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2    2.3 2.3 2.1 |
+|
+=1 treble 3b qua g{1 cro. e}1 min rest
+r0.5 .08 time .
+|
+=1 qua [c d] qua3 [e f-I3 e(1] qua. [e)1 smq e] qua. [e smq e]
+r0.5  .01 When she went away .68 the blues walked in
+|
+=1 cro. e qua e qua g cro e qua rest
+r0.5 .37 and met  me ,
+/
+3 bars | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.3 2.1  | 2 2 2  2 2 2  2.3 2 2    2.3 2.3 2.1  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.3 2.1 |
+|
+=1 treble 3b qua. [c smq d] qua3 [e f-I3 e(1] qua. [e)1 smq e] qua. [e smq e]
+r0.5 .08 if .21 she stays away, .68  old rockin'
+|
+=1 cro. e qua e qua c cro B qua rest
+r0.5 .01 chair .36 will  get me ,
+|
+=1 qua. [c smq d] qua3 [e f-I3 e(1] qua. [e)1 smq e] qua. [f smq e]
+r0.5  .01 All .20 I do is pray .68 the Lord a -
+/
+3 bars | 1.8 1.8 1.8  2.3 2.3 2.2  2 2 2  2 2 2  | 6 7 6 6.5 | 1.8 1.8 1.8  2.1 2.3 2.1  2 2 2  2 2 2 |
+| 63 60
+i0.5 .35 rall . . .85 slower . . .
+=1 treble 3b cro. g qua g a cro g qua rest
+r0.3 .01 - .08 bove .40 will  let  me
+| 57
+=1 vol110 cro b qua [g f] cro e qua rest c
+r0.3 .01 walk .24 in the .49 sun .85 once
+| 60 63 66
+=1 min f cro rest qua [f# g]
+r0.3 .01 more . .72 Can't go
+/
+3 bars | 2 2 2 2.2 2.1 2.3 1.8 1.8 1.8  2.3 2.1 2.1  | 2 2 2 2.1 2.3 2.3 1.8 1.8 1.8 2.3 2.1 2 | 6 5.5 5.5 5.5 |
+|
+=1 treble 3b min. b qua3 rest [f#{1--I3 g}1]
+r0.3 .08 on .78 when
+|
+=1, qua [b g(1] qua3 [g)1 b-I3 an] cro ab qua3 rest [f#-I3 g]
+r0.3 .01 all .12 I .30 have is gone . . . .78 stormy
+|
+=1, qua b cro. B min rest
+r0.3 .01 weather . . .
+/
+3 bars | 24 | 2 2 2  2.3 2.1 2.3  2 2 2  2.3 2.3 2 | 24 |
+|
+=1 3b qua [f f(1] qua3 [f)1 f-I3 f] cro f qua3 rest [e-I3 c]
+r0.4 .07 since my .35 gal and I .79 ain't to -
+|
+=1 smq [e{1 c}1] cro. B(1 cro. B)1 qua rest
+r0.4  gether,
+|
+=1 qua rest [A, c e] cro. f# qua g
+r0.5 .11 keeps raining all .85 the
+/
+3 bars | 2 2 2  1.9 1.9 1.9  1.9 1.9 1.9 2.1 2.3 2 | 24 | 24 ||
+|
+=1 treble 3b qua g{1 cro. b}1 min rest
+r0.3 .08 time ,
+| 66 63
+=1 qua rest [A, c e] cro. f# qua g
+r0.5 .11 keeps raining all .85 the
+| 60 57
+=1 qua g{1 cro. e}1 min rest
+r0.5 .01 time .
+I0.2 .38 ppp
+I0.2 .18 pp

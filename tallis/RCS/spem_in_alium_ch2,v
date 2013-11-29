@@ -1,0 +1,124 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.05.10.10.08.02;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Spem in Alium, Choir 2, first 11 bars
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@3 systems 10 / 18-22-18-30-18-22-18-22-18 \
+/ 18-22-18-30-18-22-18-22-18 \
+/ 18-22-18-30-18-22-18-22-18 10 /
+pagenum 1
+title Spem in Alium   Choir 2
+innerhead Thomas Tallis
+leftfoot Typeset  (c) Peter Billam  2013
+midi channel 1 patch 87 pan 10
+midi channel 2 patch 87 pan 70
+midi channel 3 patch 87 pan 30
+midi channel 4 patch 87 pan 90
+midi channel 5 patch 87 pan 50
+
+/
+6 bars | 48 | 48 |
+| 2.8
+bl0.3 .37 3
+=1  treble     cha1 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=2  treble     cha2 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=3  treble8vab cha3 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=4  bass       cha4 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=5  bass       cha5 vol90 leg80 1 blank bre rest
+|
+=1  1 blank bre rest
+=2  1 rest G(2
+r0.5 .51 Spem
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+il0.2 .05 5
+=1  1 blank bre rest
+=2 2 G)2 G G G
+r0.5 .26 in .53 a  -  li  -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1  1 blank bre rest
+=2  2 D F F A(2
+r0.5 .01 um .26 nunquam .76 ha  -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1  1 blank bre rest
+=2  4 A)2 leg100 G 2. F 2 E 4 D
+r0.5 .12 ha .65 -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1  2 rest 1 A 2 A
+r0.5 .25 Spem .76 in
+=2  4. C 8 B_ 1 A_ 2 C
+r0.3 .50 -
+=3  1 blank bre rest
+=4  1 rest 2 rest a(1
+r0.5 .72 Spem
+=5  1 blank bre rest
+
+|
+=1 2 A A D F
+r0.5 .04 a - li - um .75 nun -
+=2 2 leg80 A_ D 4 rest 2 A 4 A
+r0.5 .01 - .29 i .62 spem in
+=3 2 rest 1 d 2 d
+r0.5 .25 Spem .75 in
+=4 2 a)1 a a a
+r0.5 .25 in .51 a  -  li  -
+=5 1 rest d(1
+r0.3 .50 Spem
+|
+il0.2 .20 10
+=1 2 F 1 A 2 F
+r0.5 .01 quam  ha .55 - .76 bu -
+=2 2 A 4 A 2 D F 8 [E F]
+r0.5 .01 a  -  lium .57 nunquam
+=3 2 d d A A
+r0.5 .01 a - li - um .75 nun -
+=4 2 d f f a(1
+r0.5 .01 um .25 nunquam .75 nun
+=5 2 d)1 d d d
+r0.3 .25 in .50 a - li -
+|
+=1 2 c 2. c 4 G B' G
+r0.5 .01 i .25 ha - .63 bu -
+=2 2. C 8 leg100 [B_ leg80 A_] 1 G_
+r0.5 .01 ha - .37 bu - i
+=3 2 c 1 e 2 d
+r0.5 .01 quam ha .55 - .75 bu -
+=4 2 a)1 g 2. g 4 d
+r0.5 .01 - .23 quam ha - .82 bu
+=5 2 A 1 c 2 G
+r0.3 .01 um .25 nun - quam
+@

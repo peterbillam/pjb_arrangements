@@ -1,0 +1,137 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2008.02.23.08.39.32;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Easy Money, from Ricky Lee Jones
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@5 systems 10 / 19 / 19 26 19-24-19 /
+title Easy Money
+innerhead Rickie Lee Jones
+% start
+midi channel 1 patch 53
+midi channel 2 patch 0 pan 20
+midi channel 3 patch 0 pan 80
+/
+6 bars | 4/4 2 2 2 2  2 2 2 2  2 2 2 2  2 2 2 5 \
+ | 3 3 3 5 3 3 3 5 3 3 3 5 3 3 3 3 | 32 \
+ | 3 3 3 3 3 3 3 3 3 3 3 5 3 3 3 3 | 32 | 48 | 
+| 4/4 108
+=1 bass 4/4 cha3 min D cro.. A_ smq D'
+|
+=1 qua. [d' smq D qua. c smq D] qua. [B smq D] cro A
+|
+=1 min G D
+|
+=1 cro G_ D' qua. [G smq B] cro F
+|
+=1 min E B_
+|
+=1 cro A_ A_ B_ C#
+/
+4 bars | 2 2 2 2 2 2 2 2 3 3 3 5 3 2 3 2 \
+ | 10 10 10 16 \
+ | 2 2 3 3 2 2 2 2 2 2 2 2  2 2 2 5 \
+ | 3 2 3 5 3 2 3 5 3 2 4 4  3 2 3 2 |
+|
+=1 treble cha1 smb rest
+=2 treble cha2 smb rest
+=3 bass   cha3 min D qua. [B smq D] cro A
+|
+=1 min. rest smq [D E D-I3 F(2]
+r0.4 .65 There was a Joe,
+=2 smb rest
+=3 cro D A min A_
+|
+is0.7 .01 20sec
+=1 cro F)2 min. rest
+=2' qua rest [F F# A(2] [A)2 B A c(2]
+=3 min D cro.. A_ smq D'
+|
+=1 qua5 [E E E-I5 D E{'1] qua [D}'1 smq E{'1 F}'1] cro rest
+r0.4 leanin on the back   door,
+=2 smb c)2
+=3 qua. [d' smq D qua. c smq D] qua. [B smq D] cro A
+/
+4 bars | 48 |
+|
+=1 qua3 rest rest D [F D-I3 F(2] qua [F)2 B_] qua3 [D B_-I3 E{'1]
+r0.4 .05 a couple o Jills that had their eyes
+=3 min G D
+|
+=1 qua3 [F}'1 E-I3 D] [E D-I3 F(2] cro F)2 qua3 [E D-I3 E(2]
+r0.4 on a couple o bills .75 and their eyes
+=3 cro G_ D' qua. [G smq B] cro F
+|
+=1 qua [E)2 B_] qua3 [E B_-I3] rest rest [D-I3 B_] [C A_-I3] rest
+r0.4 were stating .55 they were waiting
+=3 min E B_
+|
+=1 qua rest [C A_ C(2] cro C)2(2 qua3 [C)2 A_-I3 A_]
+r0.4 .12 get their hands .83 on some
+=3 cro A_ A_ B_ C#
+|
+=1 qua rest cro F qua D [E smq F{'1 F#}'1] cro rest
+r0.4 .18 easy .50 money
+=3 min D qua. [B smq D] cro A
+|
+=1 min rest qua rest D [E D]
+r0.4 .60  They flip a
+=3 cro D A min A_
+
+|
+=1 smq [F#{'1 Fn F# A(2] cro A)2}'1 min rest
+r0.4 .01 coin
+=2' 
+=3 min D cro.. A_ smq D'
+|
+=1 
+r0.4 
+=2 
+=3 qua. [d' smq D qua. c smq D] qua. [B smq D] cro A
+/
+4 bars | 48 |
+|
+=1 
+r0.4 
+=3 min G D
+|
+=1 
+r0.4 
+=3 cro G_ D' qua. [G smq B] cro F
+|
+=1 
+r0.4 
+=3 min E B_
+|
+=1 
+r0.4 
+=3 cro A_ A_ B_ C#
+
+4 systems / 19 26 19-24-19 /
+|
+=1 qua rest cro F qua D [E smq F{'1 F#}'1] cro rest
+r0.4 .18 easy .50 money
+=3 min D qua. [B smq D] cro A
+|
+=1 min rest qua rest D qua. [E smq D]
+r0.5 .62  They flip   a
+=3 cro D A min A_
+@

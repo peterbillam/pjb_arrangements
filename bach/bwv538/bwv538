@@ -1,0 +1,2108 @@
+5 systems 15 /19-30-19-17-19/ 19-33-19-17-19 \
+ / 19-30-19-20-19/ 19-33-19-25-19/ 19-42-19-23-19/
+pagenum 3
+innerhead J. S. Bach,  BWV538
+title Toccata and Fugue in d minor ("Dorian")
+leftfoot Typeset 2012 by Peter J Billam
+midi channel 0 bank 6,0 patch 22  # positiv
+midi channel 1 bank 6,0 patch 41  # oberwerk
+midi channel 2 bank 6,0 patch 22  # positiv
+midi channel 3 bank 6,0 patch 41  # oberwerk
+midi channel 4 bank 6,0 patch 118 # ped (reedier)
+midi channel 5 bank 6,0 patch 121 # ped
+# midi off
+/
+2 bars | 4/4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 3 | 4 4 4 4 4 5 4 4 4 4 5 4 4 4 4 3 |
+| 4/4 3.27273
+i0.4 .05 Oberwerk.
+=1' treble  4/4 cha1 cc11=70 2 rest 16 leg95 [d c# leg85 d A] [d A e A]
+=1, treble  4/4 cha3 cc11=70 \
+ 16 leg95 [D C# leg85 D A_] [D A_ E A_] leg95 [F E leg85 F D] [F D G D]
+=2' bass    4/4 cha3 cc11=70 2 blank 1 rest
+=3' bass    4/4 cha5 cc11=110 2 blank 1 rest
+|
+=1' 16 leg95 [f e leg85 f d] [f d g d] leg95 [e d leg85 e cn] [e c f c]
+=1, 16 leg95 [A G leg85 A F] [A F Bb F] leg95 [G F leg85 G E] [G E A E]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+/
+3 bars | 4 4 7 4 4 4 4 7 4 4 7 4 4 4 4 3 \
+ | 4 4 7 4 4 4 4 4 4 4 7 4 4 4 7 3 | 7 4 4 4 4 4 4 5 4 4 4 4 4 4 4 3 |
+|
+=1' 16 leg95 [d c leg85 d Bn] [d B e B] leg95 [c# B leg85 c A] [d A e A]
+=1, 16 leg95 [F E leg85 F D] [F D G D] leg95 [E D leg85 E C#] [A_ F A_ C]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 16 [f A e A] [f A g A] [a c# d Bb] [A d G c#]
+=1, 16 [A_ D A_ C#] [A_ D A_ E] leg95 [F E leg85 F G] [F D E A_]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+il0.3 .18 5
+=1' 4 d rest' d rest'
+=1, 4 F rest, A rest,
+=2' 4 d~ rest'' d~ rest''
+=2, 4 a rest a rest
+=3  16 leg95 [d' c# leg85 d' A] [d' A e' A] leg95 [f e leg85 f d] [f d g d]
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 8 5 5 5 5 4 \
+ | 5 5 5 5 5 7 5 5 8 5 5 6 5 5 5 4 | 5 5 8 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+=1' 16 leg95 [c# B leg85 c A] [c A d A] leg95 [e d leg85 e c#] [e c f d]
+=1, 4 A blank A blank
+=2' 4 e~ rest''' e~ rest'''
+=2, 4 a 8 rest b 16 leg95 [c~# b leg85 c~ a] [c~ a d~ a]
+=3  4 a rest A rest
+|
+=1' leg85 16 leg95 [g f leg85 g e] [g e a e] 4 f 8 rest' leg60 Bb
+=1, leg85 4 <A c#> rest, <A d> 8 rest, leg60 G
+=2' leg85 2 blank 4 d~ 8 rest' leg60 d~
+=2, leg95 16 [e~ d~ leg85 e~ a] [d~ a c~# a(2] 4 a)2 8 rest, leg60 g
+=3  4 A rest 16 leg95 [d' c# leg85 d' A] [f d g d]
+|
+=1' 4 Bb  8 rest  8 A  4 A  8 rest  G
+=1, 4 G   8 rest, 8 F  4 F  8 rest, E
+=2' 4 c~n 8 rest' 8 c~ 4 bn 8 rest' b
+=2, 4 g   8 rest  8 a  4 f  8 rest  g
+=3' 16 leg95 [e d leg85 e cn] [e c f c] leg95 [d c leg85 d B] [d B e B]
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 8 5 5 5 5 5 5 5 4 | 7 7 7 6 6 5 5 5 5 5 5 5 5 5 5 4 |
+|
+=1' 4 G   8 rest  8 F  4 G  8 rest  A
+=1, 4 E   8 rest, 8 D  4 C# 8 rest, F
+=2' 4 a   8 rest' 8 a  4 a  8 rest' d~
+=2, 4 e   8 rest  8 f  4 e  8 rest  a
+=3' 16 leg95 [c# B leg85 c A] [c A d A] leg95 [e d leg85 e A] [e A f A]
+|
+il0.3 .15 10
+=1' 4 Bb  8 rest  8 A  4 G  8 rest  <E G>
+=1, 4 E   8 rest, 8 F  4 E  8 rest, C#
+=2' 4 c~# 8 rest' 8 d~ 2 blank
+=2, 4 g   8 rest  8 a  leg85 16 [bb a b g] [a e a e]
+=3' 16 leg95 [g f leg85 g A] [g A a A] 4 c# 8 rest leg60 c
+|
+=1' 4 <E G> 8 rest F leg95 16 [F E leg85 F D] [G D E D]
+=1, 16 leg95 [C# B_ leg85 C A_] [D A_ D A_] 4 D blank
+=2' 2 blank leg60 4 g 8 rest'' g#
+=2, 4 f 8 rest f  4 d 8 rest d
+=3  4 d 8 rest d 4 Bb 8 rest Bn
+/
+3 bars | 8 5 5 5  5 8 5 5  8 5 5 8  8 5 7 4 \
+ | 5 8 5 5 7 5 8 6 8 8 8 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+| 0.827273 0.836364 0.854545 0.881818
+=1' leg95 4 F 8 rest E(1 16 [E)1 C#] 4. D(1
+=1, leg95 16 [F C# 8 D] rest, C#(2 16 C)2 rest,,, rest,,, A_ 4 B_b(2
+=2' leg90 8. [a 16 g#] [a f gn e(2] 8 e,)2 rest' 16 rest' [f# 8 g(3]
+=2, leg90 4 d 8 rest, g(1 g')1 rest, rest, 16 rest, c#
+=3' leg85 4 A 8 rest A 2 d(2
+| 0.454545 0.463636 0.481818 0.5 0.545455 0.418182 0.409091 0.409091
+i0.3 .58 Positiv.
+=1' 4 D)1 4 blank 16 cha0 rest cc11=90 leg85 [D Cn B_b] 4 blank
+=1, 4 B_)2 2. blank
+=2' 4 g)3 16 rest' [e g c~#] leg150 <fn a d~> rest' leg85 8 cha2 cc11=90 rest' 16 [a g f e]
+=2, cha1 4 d 16 rest, [Bb A G] leg150 <A d> leg85 rest, 8 rest, 4 rest,
+=3' 16 [d)2 A Bb G] 8 [d D(2] 16 leg150 D)2 leg85 rest 8 rest 4 rest
+| 3.27273
+=1' 2 blank 16 leg95 [F E leg85 F D] [A F d A]
+=2' cha2 16 leg95 [f e leg85 f d] [a f d~ a] 2 blank
+=3  2 blank 1 rest
+
+5 systems 15 /19-30-19-17-19/ 19-33-19-17-19 \
+ / 19-30-19-20-19/ 19-33-19-20-19/ 19-35-19-20-19/
+pagenum
+innerhead Toccata and Fugue in d minor, BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+2 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 8 5 5 5 5 8 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 |
+|
+il1.1  15
+=1' leg85 16 leg95 [f e leg85 f d] [f d g d] leg95 [e d leg85 e c] [e c f c]
+=1, leg60 4 rest, 8 rest, G 4 G 8 rest, F
+=2' leg60 4 rest' 8 rest' d~ 4 c~ 8 rest' c~
+=2, leg60 4 rest, 8 rest  bb 4 br 8 rest  a
+=3  2 blank 1 rest
+|
+=1' leg85 16 leg95 [d c leg85 d Bn] [d B e B] leg95 [c# B leg85 c A] [c A d A]
+=1, leg60 4 F 8 rest, E 4 E 8 rest, D
+=2' leg60 4 bn 8 rest' b 4 a 8 rest' a
+=2, leg60 4 ar 8 rest  g 4 gr 8 rest  f
+=3  2 blank 1 rest
+|
+=1' leg85 16 leg95 [e d leg85 e A] [e A f A] leg95 [g f leg85 g A] [g A a d]
+=1, leg60 4 D 8 rest, C# 4 E 8 rest, F
+=2' leg60 4 bb 8 rest' a 4 d~ 8 rest' d~
+=2, leg60 4 g  8 rest  a 4 bb 8 rest  g
+=3  2 blank 1 rest
+/
+3 bars | 5 5 5 5  5 5 5 5  8 5 8 5  5 5 5 4 \
+ | 5 5 5 5 8 5 5 6 5 5 5 5 8 5 5 4 \
+ | 8 5 5 5 5 5 5 6 8 5 5 5 5 5 5 4 |
+|
+=1  16 leg95 [c#' B' leg85 c' A(2] 8 [A,)2 A,] \
+ 16 leg95 [e'r d' leg85 e' c#'] 8 [<d' f'> <d' f'>]
+=1' 4 blank 8 [<e g> <e g>] 2 blank
+=1, 8 E rest, 4 blank 8 <A g> rest, [A A]
+=2' leg85 8 a 2.. blank
+=2, 8 a rest 16 leg95 [c~# b leg85 c~ a] 8 d~ rest 16 leg95 [f e leg85 f d]
+=3  2 blank 1 rest
+|
+=1' 16 leg95 [f e leg85 f d] 8 [e <d ex>] <d ex> rest' [<c# e> <c e>]
+=1, 8 <G d> rest, rest, Bn 16 leg95 [Bb A leg85 B G(2] 8 [G)2 G]
+=2,8 bb rest 16 leg95 [g# f# leg85 g e] 4 a(1 16 [a)1 gn a A]
+=3  2 blank 1 rest
+|
+il0.3 .45 20
+=1' 8 d rest' 4 rest' 2 rest
+=1, 8 <F A> rest, 4 rest, 2 blank
+i0.6 .45 Oberwerk.
+=2, 8 d rest cha3 4 rest 16 leg95 [d~ c~# leg85 d~ a] [d~ a e~ a]
+=3  16 leg95 [d' c# leg85 d' A] [d' A e' A] 4 f 8 rest c#
+/
+3 bars | 8 5 5 5 5 5 5 5 7 5 5 5 5 5 6 4 \
+ | 5 5 5 5 5 5 5 5 8 5 5 5 5 5 6 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+i1.0  Oberwerk.
+=1' cha1 16 leg95 [d c# leg85 d A] [d A e A] [f c# d A(2] 8 [A,)2 A,]
+=1' 2. blank leg60 8 [<d f> <d f>]
+=2, leg60 4 f~ 8 rest c~# 4 d~ leg85 16 rest [a d~ f~]
+=3' leg60 4 d 8 rest A 4 D 8 rest d
+|
+=1' 4 <d f> leg85 16 rest [G d f] [e Bn c G(2] 8 [G,)2 G,]
+=1' 4 G, 2 blank 8 [<c e> <c e>]
+=2' 4 blank leg60 8 [<b d~> <b d~>] leg85 4 <b c~x> blank
+=2, 16 leg95 [bn a leg85 b g(2] 8 [g)2 leg60 g] 4 g 16 leg85 rest [g c~ e~]
+=3  leg60 4 G 8 rest g 4 c 8 rest c
+|
+=1' 4 <c e> leg85 16 rest [F c e] [d A B F(2] 8 [F,)2 F,]
+=1' 4 F, 2 blank 8 [<B d> <B d>]
+=2' 4 blank leg60 8 [<a c~> <a c~>] leg85 4 <a bx> blank
+=2, 16 leg95 [a g leg85 a f(2] 8 [f)2 leg60 f] 4 f 16 leg85 rest [f b d~]
+=3  leg60 4 F 8 rest f 4 B 8 rest B
+/
+3 bars | 8 5 5 8 5 5 5 5 7 5 5 5 5 5 6 4 \
+ | 8 5 5 5 5 5 5 6 8 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 8 5 5 5 5 4 |
+|
+=1' 4 <B d> 16 rest [E B d] [c G# A E] 4 rest
+=1, 4 E 2. blank
+=2' 4 blank 8 [<g# b> <g b>] 4 a 16 [c~ a e~ g#]
+=2, 16 [g# f# g e(2] 8 [e)2 e] 4 <e a> rest,
+=3 4 E 8 rest e 4 A rest
+|
+i0.6 .01 Positiv.
+il0.5 .60 25
+=1 cha0 16 leg95 [A G# leg85 A E] [A E B' E] leg95 [c B leg85 c A,] [c A, d A,]
+i0.1 .50 Positiv.
+=2' 16 [a e c e] 8 A rest 2 blank
+=2, 2 blank cha2 16 leg95 [a g# leg85 a e] [a e b e]
+=3  2 blank 1 rest
+|
+=1, 16 leg95 [e d leg85 e c] [e c f c] leg95 [d c leg85 d B] [d B e B]
+=2, 16 leg95 [c~ b leg85 c~ a] [c~ a d~ a] leg95 [b a leg85 b gn] [b g c~ g]
+=3  2 blank 1 rest
+/
+3 bars | 5 5 8 5 5 5 5 8 5 5 8 5 5 5 5 4 \
+ | 5 5 8 5 5 5 5 5 7 5 5 5 5 5 8 4 | 8 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+=1  16 leg95 [c B leg85 c A,] [c A, d A,] leg95 [B' A leg85 B' G#] [E c' E G]
+=2, 16 leg95 [a g leg85 a f#] [a f b f] leg95 [g# f leg85 g e] [a e b e]
+=3  2 blank 1 rest
+|
+=1  16 [E A E G#] [E A E B'] leg95 [c B c d] leg85 [c' E B' E]
+=2, 16 [c~ e b e] [c~ e d~ e] [e~ leg95 g# a leg85 b] [e a e g#]
+=3  2 blank 1 rest
+|
+i0.8 .15 Oberwerk.
+=1, 4 C rest, 2 rest,
+=1' 4 A rest' cha1 2 e(1-I(tr)
+=2' 4 a rest 2 rest
+=2, 4 e rest 2 rest
+=3' 16 leg95 [A G# leg85 A E] [A E B E] leg95 [c B leg85 c A] [c A d A]
+
+5 systems 5 /19-30-19-17-19/ 19-40-19-17-19 \
+ / 19-43-19-23-19/ 19-33-19-20-19/ 19-30-19-25-19/
+pagenum
+innerhead Toccata and Fugue in d minor, BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars | 8 5 5 5 5 5 5 5 8 5 8 5 5 5 5 4 \
+ | 5 5 7 8 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 8 5 5 5 5 5 5 5 5 5 5 8 5 5 4 |
+|
+il0.7 .10 30
+=1' 1 e)1(1
+=1, 2 rest, 16 leg95 [G# F# leg85 G E] [G E A E]
+i0.2   Oberwerk.
+=2, cha3 16 leg95 [g# f# leg85 g e] [g e a e] leg95 [b a leg85 b g#] [b g c~ a]
+=3 4 leg60 e rest E rest
+|
+i0.7 .88 Positiv.
+=1' cha1 2 e)1(1 8 [e)1 <c e>] 8 <d fn> cha0 8 <Fn A>
+=1, cha1 16 leg95 [B A leg85 B F#] [G# B A G] 8 [A A] A cha0 D
+=2, 16 leg95 [d~ c~ leg85 d~ b] [d~ b e~ b] leg95 [c~ b leg85 c~ a] [c~ a d~ a]
+=3, 4 e rest leg60 8 [A a] 4 d
+|
+i1.0 .12 Oberwerk. .61 Oberwerk.
+i0.5 .40 Positiv. .88 Positiv.
+=1' cha0 8 <Fx G> cha1 leg60 <Gx d> <G e> cha0 <E G> \
+ <Ex F> cha1 <A c> <B d> cha0 <D Fn>
+=1, cha0 D cha1 leg60 F E cha0 C C cha1 E D cha0 B_
+=2, 16 leg95 [b a leg85 b gn] [b g c~ g] leg95 [a g leg85 a f] [a f# b a]
+=3  8 rest g 4 c 8 rest f 4 B
+/
+3 bars | 8 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 8 8 5 5 5 5 5 5 4 | 8 5 8 5 6 6 6 6 5 5 5 5 6 5 5 4 |
+|
+i0.6 .20 Oberwerk.
+=1' cha0 4 <Dx E> 8 rest cha1 <A c> 4 <G# d> 8 rest <A e>
+=1, cha0 4 B_ 8 rest, cha1 E 4 E 8 rest, E
+=2, 16 leg95 [g# f# leg85 g e] [g e a e] leg95 [b a leg85 b e] [b e c~ e]
+=3  8 rest e 4 E 8 rest e 4 E
+|
+=1' 4 <B f> 8 rest <c e> 4 <B d> 8 rest <B d>
+=1, 4 G# 8 rest, A 4 E 8 rest, G#
+=2' 2. 2. blank 8 rest''' e~
+=2, 16 leg95 [d~ c~ leg85 d~ e] [d~ e e~ a] leg95 [g# f# leg85 g e] [b g e~ b]
+=3  8 rest e 4 E 8 rest e 4 E
+| 0.827273 0.836364 0.854545 0.881818
+il0.5 .15 35
+=1' 4 d 8 [c c] 16 leg95 [c B leg85 c A] [B F# B F]
+=1' 4 G#rl 2. blank
+=1, 16 leg95 [B A leg85 B G#] 8 [A A] 4 G 8 rest,, B(1
+=2' 4 e~(1 16 leg95 [e~)1 d~ leg85 e~ c~] 4 f~ 8 rest' b
+=2, 4 c~ 8 rest a 4 d~ 8 rest f#
+=3  8 rest a 4 A 8 rest [d' D d#']
+/
+3 bars | 5 8 5 8 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 8 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 8 5 5 5 5 5 5 4 |
+| 0.454545 0.463636 0.481818 0.5 0.509091 0.481818 0.454545 0.427273
+=1' 8 [B)1 16 A B] 8. [G#-I(tr) 16 A] [A E 8 C] 4 rest
+=1, 16 [G# E 8 F#] [E Dn] C rest,,, 4 rest,,
+=2' 8 [c~ c~] 4 b 8. [a 16 g#] [a e c e]
+=2, 8 [e a] 4 e e rest,
+=3' 8 leg95 [e d# leg85 e E] 4 A rest
+| 3.27273
+i0.8 .01 Positiv.
+=1' 16 cha0 leg95 [c B leg85 c A] [e A a e] 4 f('1 8 blank rest'
+=1' 2 blank 16 rest, [c# 8 d(2] <d)2 f)'1> rest
+=1, 2 blank 8 rest,, 16 rest,, A(2 8 A)2 rest,
+i0.3 .24 Positiv.
+=2  8 A rest cha2 16 leg95 [c~ b leg85 c~ a] 8 d~ rest 16 [f~ d~ a~ a]
+=3  2 blank 1 rest
+|
+i0.5 .01 Oberwerk.
+=1' 16 cha1 leg95 [F E leg85 F D] [A D d A] 4 B('1 8 blank rest'
+=1' 2 blank 16 rest, [F# 8 G(2] <G)2 B)'1> rest
+=1, 2 blank 8 rest,, 16 rest,, D(2 8 D)2 rest,
+i0.1 .24 Oberwerk.
+=2, 8 [d~ d] cha3 16 leg95 [f e leg85 f d] 8 g rest 16 [b g d~ d]
+=3  2 blank 1 rest
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 6 6 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 8 8 5 6 5 4 |
+|
+i0.8 .01 Positif.
+=1' 16 cha0 leg95 [B A leg85 B G] [d G g d] 4 e('1 8 blank rest'
+=1' 2 blank 16 rest, [B 8 c(2] <c)2 e)'1> rest
+=1, 2 blank 8 rest,, 16 rest,, G(2 8 G)2 rest,
+i0.3 .24 Positif.
+=2  8 [g' G] cha2 16 leg95 [b a leg85 b g] 8 c~ rest 16 [e~ c~ g~ g]
+=3  2 blank 1 rest
+|
+il0.8 .52 40
+i0.5 .01 Oberwerk.
+=1' 16 cha1 leg95 [E D leg85 E C] [G C c G] 4 A('1 8 blank rest'
+=1' 2 blank 16 rest, [E 8 F(2] <F)2 A)'1> rest
+=1, 2 blank 8 rest,, 16 rest,, C(2 8 C)2 rest,
+i0.1 .24 Oberwerk.
+=2, 8 [c~ c] cha3 16 leg95 [e d leg85 e c] 8 f rest 16 [a f c~ c]
+=3  2 blank 1 rest
+|
+i0.8 .01 Positif.
+=1' 16 cha0 leg95 [A G leg85 A F] [c F f c] 4 d('1 4 blank
+=1' 2 blank 16 rest, [A 8 B(3] 4 <B)3(3 d)'1(1>
+=1, 2 blank 8 rest,, 16 rest,, F# 4 G#(2
+i0.3 .24 Positif.
+=2  8 [f' F] cha2 16 leg95 [a g leg85 a f] 8 [B d'] 16 [e d~ e~ b]
+=3  2 blank 1 rest
+/
+3 bars | 8 5 5 5 5 5 8 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 8 5 5 8 8 5 5 5 8 4 | 5 8 8 5 5 5 7 5 5 5 8 5 5 5 5 4 |
+|
+=1' 8 [<B)3 d)1> <A c>] rest'' B 4 A('1 8 blank rest'
+=1' 2 blank 16 blank 8. E(3 8 <E)3 A)'1> rest
+=1, 8 [G#)2 E] 4 E 2 blank
+=1, 4 blank 16 rest' 8 [A 16 G#] 16 [A E 8 C(2] C)2 rest,
+=2, 16 [c~ g# a d] 8 leg60 [e leg57 e] leg85 8. [a 16 g#] [a e c e]
+=3  2 blank 1 rest
+|
+i0.5 Oberwerk.
+=1' cha1 4 blank 8 [a g] 4 f rest'
+=1, 16 rest [e f g] [a d g c#] 4 d rest,
+i0.1 .47 Oberwerk.
+=2' 8 A rest cha3 4 rest treble  blank 8 [d c]
+=2, 2 blank 16 rest [A Bb cn] [d G c F#]
+=3  8 leg90 [a g f e] [d' c Bb leg65 A]
+|
+i0.4 Positiv.
+=1' cha0 4 blank 8 [g f] 4 e rest'
+=1, 16 rest [d en fn] [g c f Bn] 4 c rest,
+i0.1 .49 Positiv.
+=2' 4 cha3 Bb rest' cha2 4 blank 8 [c B]
+=2, 4 cha3 G  rest, cha2 16 rest [G A Bb] [c F B E]
+=3  8 leg85 [g f e d] [c Bb A leg65 G]
+
+5 systems 1 /19-30-19-25-19/ 19-25-19-27-19 \
+ / 19-25-19-33-19/ 19-33-19-20-19/ 19-35-19-28-19/
+pagenum
+innerhead Toccata and Fugue in d minor, BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars | 5 5 9 5  8 8 5 6  5 5 5 8 8 5 5 4 \
+ | 8 5 5 9 9 5 5 5 5 9 5 5 9 5 5 4 | 9 5 5 5 5 5 5 9 5 5 5 5 5 9 5 4 |
+|
+il0.7 .65 45
+i0.5 .01 Oberwerk.
+=1' cha1 4 blank 8 [f eb] 2 d(1
+=1, 16 rest [c d eb] [f Bb e A] 8 B rest, 4 rest,
+i0.1 .47 Oberwerk.
+=2' cha2 4 A rest' cha3 blank 8 [Bb A]
+=2, cha2 4 F rest, cha3 16 rest, [F G A] [Bb En A D]
+=3  8 leg90 [f eb d c,] [Bb A G leg65 F]
+|
+=1' 4 d)1 c(1 8 [c)1 Bb] 4 A
+=1, 4 G(2 16 leg95 [G)2 F# leg85 G A] 8 F 4 G 8 F#
+=2' 16 rest, [B_b C D] 4 Eb 16 rest [A_ B_b C] [D B_b C A_]
+=3 4 [eb(1 16 leg95 [e)1 d leg85 e c,] 8 leg60 [d' G] [d' D]
+|
+=1' 16 leg95 [G F# leg85 G D] [G D A D] 2 Bb
+=1, 4 D 2. blank
+=2' 4 B_b rest 16 leg95 [D C leg85 D G_] [D G_ En G_]
+=3 4 G rest g rest
+/
+3 bars | 5 5 5 5 5 8 5 5 5 5 5 5 5 5 5 4 \
+ | 8 5 5 8 5 5 5 5 5 5 5 5 5 5 5 4 | 8 5 5 8 5 5 8 5 5 5 5 5 5 5 5 4 |
+|
+=1' 16 leg95 [A G leg85 A D] [A D Bb D] 2 c
+=2' 2 F#(2 16 leg95 [F)2 E leg85 F A_] [E A_ F A_]
+=3 4 d rest D rest
+|
+=1' 16 leg95 [Bb A leg85 B d] leg95 [A G leg85 A c] \
+ leg95 [B A leg85 B d] leg95 [A G leg85 A c]
+=2' 16 leg95 [G F# leg85 G D] leg95 [F# E leg85 F D] \
+ leg95 [G F leg85 G D] leg95 [F E leg85 F D]
+=3 leg85 1 G
+|
+il0.4 .08 50
+=1, 16 leg95 [Bn A leg85 B d] leg95 [c B leg85 c eb] \
+ leg95 [B A leg85 B d] leg95 [c B leg85 c e]
+=2' 16 leg95 [Fn Eb leg85 F G_] leg95 [Eb D leg85 F C] \
+ leg95 [F E leg85 F G_] leg95 [E D leg85 E C]
+=3 leg85 1 g(1
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 6 5 5 8 8 5 5 5 8 8 6 5 4 | 5 8 5 8 5 4 5 5 5 5 5 8 5 5 5 4 |
+|
+=1 1 <Bn(2 f(1>
+=2 1 <D(2 G(1>
+=3 16 leg95 [g)1 f leg85 g d] [g d a d] leg95 [bn a leg85 b g] [b g d~ f]
+|
+=1' 4 f)1 4 eb(1 16 leg95 [e)1 d leg85 e c] 4 d(1
+=1, 16 leg95 [Bn)2 A leg85 B G] 4 c(2 c)2 Ab(2
+=2' 4 G)1(1 16 leg95 [G)1 F leg85 G Eb] 4 Ab F(1
+=2, 8 [D)2 D] 4 C(2 8 [C)2 C(2] 16 leg95 [C)2 B_n leg85 C D]
+=3  4. leg60 eb 8 e 4. f 8 f
+|
+=1' 8 d)1 4 c 8 Bn 16 leg95 [c B leg85 c G] [eb G c G]
+=1, 8 [A)2 G] 4 F Eb rest,,
+=2' 16 [F)1 F Eb D] 8. [D 16 C] 4 C blank
+=2, 4 G_ 8 [A_b G_] 4 G_ blank
+=2' 2. blank bass 8 rest' leg60 c~
+=2, 2. blank 8 rest, g
+=3  8 [Bn c] [F G] 4 c 8 rest leg60 eb
+/
+3 bars | 5 5 5 5 5 5 5 8 5 5 5 5 5 5 5 4 \
+ | 5 5 8 8 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 8 5 5 5 5 5 5 5 4 |
+|
+=1' 16 leg95 [An G leg85 A F] [c F A F] leg95 [Bb A leg85 B F] [d F B F]
+=2' 4 c~ 8 rest' c~ 4 d~ 8 rest' bb
+=2, 4 f  8 rest, f  4 f  8 rest, f
+=3, 4 f  8 rest  eb  4 d  8 rest  d
+|
+il0.6 .15 55
+=1' 16 leg95 [G F leg85 G Eb] [Bb E G E] leg95 [A G leg85 A F] [c F A F]
+=2' 4 bb 8 rest' b  4 c~ 8 rest' c~
+=2, 4 eb 8 rest, g  4 f  8 rest, f
+=3, 4 eb 8 rest  e  4 e  8 rest  e
+|
+=1' 16 leg95 [Bb A leg85 B F] [d F B F] leg95 [eb d leg85 e B] [g B e B]
+=2' 4 bb 8 rest' ab 4 b  8 rest' g~
+=2, 4 f  8 rest, f  4 g  8 rest, bb
+=3, 4 d  8 rest  d  4 g  8 rest  g
+/
+3 bars | 6 8 5 5 5 8 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 6 8 5 8 5 5 5 5 4 | 8 5 5 5 5 5 5 8 5 5 5 5 5 5 5 4 |
+|
+=1' 16 [f An Bb c] [F B Eb A] leg60 4 B 8 rest' A
+=1, 2 blank 4 D 8 rest, Eb
+=2' leg85 8. [f~ 16 e~b 8 d~ c~] leg60 4 bb 8  rest' c~
+=2, leg85 4. bb 8 f leg60 4 f 8 rest, f
+=3' leg85 8. [d 16 eb 8 f F] leg95 16 [Bb A leg85 B F] [B F c F]
+|
+=1' leg95 16 [Bb A leg85 B F] [B F c F] 2 d,
+=1, 4 D 2. blank
+=2' 4 bb 2. blank
+=2, 4 f  2. blank
+=2' 4 blank treble 8 rest C leg95 16 [F Eb leg85 F B_b] [F B_ G B_]
+=2, 4 blank 8 rest,, leg60 A_ leg85 4 B_b rest,,,
+=3  leg60 4 d 8 rest f 4 Bb rest
+|
+=1' leg95 16 [c Bb leg85 c F] [c F d F] 2 eb,
+=2' 2 A leg95 16 [G F leg85 G C] [G C A C]
+=3  leg85 4 f rest c rest
+
+5 systems 1 /19-25-19-20-19/ 19-45-19-17-19 4 \
+ / 19-43-19-18-19 3/ 19-30-19-18-19/ 19-36-19-31-19/
+pagenum
+innerhead Toccata and Fugue in d minor, BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars | 5 5 5 5 5 6 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 8 5 5 5 5 5 5 4 | 8 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+il0.6 .08 60
+=1, 16 leg95 [d c leg85 d G] [d G en G] leg95 [f e leg85 f d] [g e f g] 
+=2' 2 Bb leg95 16 [A G leg85 A F] [D F E D]
+=3  4 g rest 8 [d' c] 4 Bb
+|
+=1' 2 c#,(1-tr leg95 16 [c)1 Bn leg85 c E] [B E c E]
+=2' leg95 16 [E D leg85 E A_] [E A_ F A_] 2 G
+=3  4 A rest A rest
+|
+=1, 16 leg95 [d c# leg85 d f] leg95 [c B leg85 c e] \
+ leg95 [d c leg85 d f] leg95 [c B c e] 
+=2' 16 leg95 [F E leg85 F A_] leg95 [E D leg85 E A_] \
+ leg95 [F E leg85 F A_] leg95 [E D leg85 E A_] 
+=3  1 D
+/
+3 bars | 8 5 5 5  5 5 5 5  5 5 5 5  5 5 5 4 \
+ | 8 5 5 5 5 5 5 8 5 5 5 5 5 5 5 4 | 5 8 5 5 5 8 5 5 5 5 5 5 10 6 8 4 |
+|
+=1, 16 leg95 [cn Bb leg85 c d] leg95 [B A leg85 B d] \
+ leg95 [c B leg85 c d] leg95 [B A leg85 B d]
+=2' 16 leg95 [F# E leg85 F D] leg95 [G F leg85 G D] \
+ leg95 [F E leg85 F D] leg95 [G F leg85 G D]
+=3  1 d(2
+|
+=1  1 <F#r(2 A(3 c(1>
+=2 bass <a(2 d~(1>
+=3  16 leg95 [d')2 cn leg85 d' A] [d' A e' A] leg95 [f# e leg85 f d] [f d a c,]
+| 0.827273 0.836364 0.854545 0.872727
+il0.4 .36 65
+=1' 4 <A)3 c)1> Bb(1 leg95 16 [B)1 A leg85 B G] 4 A(1
+=1, 16 leg95 [F)2 E leg85 F# D] 4 G(2 G)2(2 leg95 16 [Gr)2 Fn G E]
+=2' 4 d~)1(1 16 [d~)1 e~ c~# d~] 4 e~(1 16 leg95 [e~)1 d~ leg85 e~ c~#]
+=2, 4 a)2 g(2 8 [g fn e a(2]
+=3  4. Bb 8 g 4. c# 8 a
+/
+3 bars | 8 5 5 5 5 8 5 8 8 5 5 5 8 5 5 5 \
+ | 8 5 5 6 6 6 5 5 5 5 5 5 5 5 5 4 | 8 5 5 6 5 5 5 5 5 5 5 5 5 5 5 4 |
+| 0.445455 0.454545 0.472727 0.490909 0.463636 0.445455 0.418182 0.409091
+=1' 8 leg60 [A)1 A] leg85 4 d 16 leg95 [c# Bn leg85 c A] [e A a e]
+=1, 16 leg95 [F E F E] leg85 [F A Bb G] 8 A rest, 4 rest,
+=2' 16 leg95 [d~ c~# d~ c~] leg85 4 d~ 8 e~ rest''' 4 rest'''
+=2, 4 a)2(2 16 [a)2 f g d] 8 a rest 16 leg95 [c~# bn c~ a]
+=3 8 [d f] 4 Bb 8 A rest 4 rest
+| 3.27273
+i0.4 .54 Positiv.
+=1' 4 f('1 8 blank rest' 2 blank
+=1' 16 rest [c# 8 d(3] 8 <d)3 f)'1> rest 2 blank
+=1, 8 rest, 16 rest, A(2 8 A)2 8 rest, 2 blank
+=1' 2 blank cha0 16 leg95 [F E leg85 F D] [A D d A]
+i0.1 .76 Positiv.
+=2, 8 d~ rest' 16 [f~ d~ a~ a] 8 leg60 [d~ d] cha2 16 leg95 [f e leg85 f d]
+=3  2 blank 1 rest
+|
+i0.7 .49 Oberwerk.
+=1' 4 Bn('1 8 blank rest' 2 blank
+=1' 16 rest, [F# 8 G(3] 8 <G)3 B)'1> rest 2 blank
+=1, 8 rest,, 16 rest,, D(2 8 D)2 8 rest, 2 blank
+=1' 2 blank cha1 16 leg95 [B A leg85 B G] [d G g d]
+i0.2 .72 Oberwerk.
+=2  8 g rest' 16 [bn g d~ d] 8 leg60 [g' G] cha3 16 leg95 [b a leg85 b g]
+=3  2 blank 1 rest
+/
+3 bars | 5 5 5 5 6 6 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 5 8 5 5 5 5 5 5 5 5 8 5 5 8 5 4 |
+|
+i0.4 .54 Positiv.
+=1' 4 e('1 8 blank rest' 2 blank
+=1' 16 rest [B 8 c(3] 8 <c)3 e)'1> rest 2 blank
+=1, 8 rest, 16 rest, G(2 8 G)2 8 rest, 2 blank
+=1' 2 blank cha0 16 leg95 [E D leg85 E C] [G C c G]
+i0.1 .76 Positiv.
+=2, 8 c~ rest' 16 [e~ c~ g~ g] 8 leg60 [c~ c] cha2 16 leg95 [e d leg85 e c]
+=3  2 blank 1 rest
+|
+il0.8 .33 70
+i0.6 .49 Oberwerk.
+=1' 4 A('1 8 blank rest' 2 blank
+=1' 16 rest, [E 8 F(3] 8 <F)3 A)'1> rest 2 blank
+=1, 8 rest,, 16 rest,, C(2 8 C)2 8 rest, 2 blank
+=1' 2 blank cha1 16 leg95 [A G leg85 A F] [c F f c]
+i0.2 .72 Oberwerk.
+=2  8 f rest' 16 [a f c~ c,] 8 leg60 [f' F] cha3 16 leg95 [a g leg85 a f]
+=3  2 blank 1 rest
+|
+i0.3 .48 Positiv.
+=1' 4 d('1 8 blank rest' 2 blank
+=1' 16 rest, [A 8 Bb(3] 8 <B)3 d)'1> rest 2 blank
+=1, 8 rest,, 16 rest,, F(2 8 F)2 8 rest, 2 blank
+=1' 2 blank cha0 16 leg95 [D C leg85 D B_b] [F B_ Bb F]
+i0.1 .60 Positiv.
+=2  8 bb rest' 16 [d~ b f~ f] 8 leg60 [b Bb,] cha2 16 leg95 [d' c leg85 d' B]
+=3  2 blank 1 rest
+/
+3 bars | 5 5 8 8 5 5 5 5 8 5 5 5 5 5 8 4 \
+ | 5 5 8 5 5 5 5 5 5 8 8 5 5 5 7 4 | 5 5 8 5 5 5 8 5 5 5 8 5 5 5 5 4 |
+|
+=1' 4 G('1 4 blank 2 blank
+=1' 16 rest,, [D 8 E(3] 4 <E)3(3 G)'1('1> 8 [<E)3 G)'1> <D F>] 8 rest E
+=1, 8 rest,,, 16 rest,,, B_n 4 C#(2 8 [C)2 A_] 16 rest,, 8 [D 16 C#]
+=2' 2. blank 4 a
+=2, 8 [e g] 16 [A leg99 g leg75 a leg99 e] \
+ leg75 [f leg99 c# leg75 d leg99 G] 8 leg60 [A A]
+=3  2 blank 1 rest
+|
+i0.7 .45 Oberwerk.
+=1' 16 [D(1 A_(3 F_(2] 8 <F_)2 A_)3 D)1> rest 2 blank
+=1, 4 D 2. blank
+=1' 2 blank cha1 16 rest [A Bb cn] 8 [d c]
+=1, 2. blank 16 [d G c F#]
+=2' 8. [d 16 c#] [d A F A] 8 D rest 4 rest treble
+=3' 2 rest 8 leg90 [d cn Bb leg60 A]
+|
+i0.5 .48 Positiv.
+=1' 4 Bb rest' cha0 16 rest [G A Bb] 8 [c B]
+=1, 4 G rest, blank 16 [c F Bb E]
+i0.1 .01 Oberwerk.
+=2' 16 cha3 rest [D E Fn] 8 [G F] 4 E rest'
+=2, 4 blank 16 [G C F B_n] 4 C rest,
+=3  8 leg90 [g f e d] 8 [c Bb A leg60 G]
+
+5 systems 1 /19-35-19-32-19/ 19-30-19-25-19 5 \
+ / 19-30-19-18-19/ 19-25-19-38-19/ 19-36-19-31-19/
+pagenum
+innerhead Toccata and Fugue in d minor, BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars | 5 5 8 5 8 5 5 8 5 5 5 8 8 5 5 4 \
+ | 8 8 5 5 5 5 8 5 5 5 8 5 5 5 8 4 | 5 8 8 5 5 5 8 5 5 5 8 5 8 5 8 4 |
+|
+il0.7 .14 75
+i0.5 .48 Oberwerk.
+=1' 4 A rest' cha1 16 rest [F G A] 8 [Bb A]
+=1, 4 F rest, blank 16 [Bb En A D]
+i0.1 .06 Positiv.
+=2' 16 cha2 rest [C D Eb] 8 [F E] 4 D rest'
+=2, 4 blank 16 [F B_b Eb A_] 4 B_ rest, bass
+=3  8 leg90 [f eb d c,] 8 [Bb A G leg60 F]
+|
+i0.4 .48 Positiv.
+=1' 4 G rest' cha0 16 rest [E F Gn] 8 [A G]
+=1, 4 E rest, blank 16 [A D G C#]
+=2' 16 cha3 rest [bn c~# d~] 8 [e~ d~] 4 c~# rest'
+=2, 4 blank 16 [e~ a d~ g#] 4 a rest,
+i0.8 .01 Oberwerk.
+=3' 8 leg90 [en d c# Bn] 8 [A G F leg60 E]
+|
+i0.3 .48 Oberwerk.
+=1' 4 F rest' cha1 16 rest [D E Fn] 8 [G F]
+=1, 4 D rest, blank 16 [G C# D B_n]
+=2' 16 cha2 rest [a bb c~n] 8 [d~ c~] 4 b rest'
+=2, 4 blank 16 [d~ g c~ f#] 4 g rest, treble
+i0.8 .01 Positiv.
+=3' 8 leg90 [d cn Bb A] 8 [G F E leg60 D]
+/
+3 bars | 5 8 5 5 5 5 8 5 5 5 5 5 5 5 8 4 \
+ | 8 5 5 5 5 5 5 5 8 5 5 5 5 5 5 4 | 5 5 8 5 8 5 8 8 5 5 8 5 8 5 5 4 |
+|
+i0.2 .21 Positiv.
+=1, 4 C# 2. blank
+=1' 4 E 16 leg85 cha0 \
+ rest [A_ B_ C#] leg95 [D C leg85 D B_] leg60 [C leg85 A B c#]
+i0.1 .06 Oberwerk.
+=2' 16 cha3 leg85 rest [E_ F_n G_] [A_ F_ G_ E_] \
+ leg60 [F_ leg85 E F G] [A F G E]
+=3  1 leg85 A(2
+|
+=1, 16 leg95 [d c# leg85 d B] leg60 [c leg85 A B c] [d e f g] [a f g e]
+=2, leg60 [F leg85 e f g] [a f g e] leg60 [f leg85 c# d B] [c A B c]
+=3  1 A)2
+|
+il0.3 .17 80
+=1, 16 [f d e c#] 4 d(1 16 [d)1 e f c#] 8. [d 16 c#]
+=2, 4 d(1 16 [d)1 e f c#] 4 d(1 16 [d)1 c# d e]
+=3' 4 d(2 16 leg95 [d)2 c# leg85 d A] 4 Bb(2 16 leg95 [B)2 A leg85 B G]
+/
+3 bars | 5 5 5 8 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 8 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 8 5 5 5 5 5 5 5 4 |
+| 0.454545 0.472727 0.490909 0.445455 0.418182 0.409091 0.409091
+i1.1 .75 Oberwerk.
+=1  16 [d e f g] [a f g e] 8 leg60 [f d] cha1 leg85 16 [f' A d' A]
+=2' 2. blank 8 rest'' blank
+=2, 16 [f g a d] 8. [c# 16 c] leg95 [d c d A] 4 blank
+=2  2.. blank bass leg60 8 <a, d~'>
+=3  8 [A D] 4 A D 8 rest f
+| 3.27273
+=1' 16 leg95 [Bb A leg85 B G] [d G B G] leg95 [c Bn leg85 c G] [e G c G]
+=2' 4 d~ 8 rest' d~ 4 c~n 8 rest' c~
+=2, 4 g  8 rest, g  4 g   8 rest, g
+=3, 4 g  8 rest  f  4 e   8 rest  e
+|
+=1' 16 leg95 [A G leg85 A F] [c F A F] leg95 [Bb A leg85 B F] [d F B F]
+=2' 4 c~ 8 rest' c~ 4 d~ 8 rest' bb
+=2, 4 f  8 rest, f  4 f  8 rest, f
+=3, 4 f  8 rest  e  4 d  8 rest  d
+/
+3 bars | 5 5 5 8 5 5 5 5 5 5 5 8 5 5 8 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 8 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+=1  16 leg95 [G F leg85 G E] [Bb' E G E] leg95 [A G leg85 A E] [c# A, e Bn]
+=2' 4 bb 8 rest' b  4 a rest
+=2, 4 e  8 rest, e  4 e blank treble
+=3, 4 d  8 rest  d  4 c# rest
+|
+il0.5 .10 85
+=1, 16 leg95 [c# B leg85 c A] [e c a c] leg95 [d c leg85 d e] 8. [c-tr 16 d]
+=2' 4 E  8 rest   E  [D F E G]
+=2, 4 A_ 8 rest,, A_ 4 A_ A_
+=3, 4 g  8 rest leg85 g [f d a A]
+|
+=1' 4 blank 8 rest' leg60 d 4 c# 8 rest' c
+=1, 4 d  8 rest,  A  4 G  8 rest,  G
+=2' 4 F  8 rest   F  4 E  8 rest   E
+=2, 4 A_ 8 rest,, A_ 4 A_ 8 rest,, A_
+=3' 16 leg95 [d c# leg85 d A] [c A d A] leg95 [e d leg85 e A] [d A e A]
+/
+3 bars | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 8 5 5 5 5 5 5 5 8 8 5 5 5 5 5 4 | 8 5 5 5 5 5 5 8 8 5 5 8 5 5 8 4 |
+|
+=1' 4 d 8 rest' leg60 d 4 e 8 rest' e
+=1, 4 F  8 rest,  A  4 G  8 rest,  Bb
+=2' 4 D  8 rest   D  4 D  8 rest   G(1
+=2, 4 A_ 8 rest,, A_ 4 B_b 8 rest,, D
+=3, 16 leg95 [f e leg85 f A] [e A f A] leg95 [g f leg85 g A] [f A g A]
+|
+=1' 16 leg85 [e c# d e] [f d e c] [d Bn c# d] [e c d B]
+=1, 4 leg60 A rest, 2 A(2
+=2' 16 leg85 [G)1 E F G] [A F G E] [F D E F] [G E F D]
+=2, 4 leg60 C# rest,, 2 A_(2
+=3  1 a(2
+|
+=1' 16 leg85 [c# A B c] [d B c A] [B G# A B] [c# A B G#]
+=1, 2 A)2 8 G# rest,, A rest,,
+=2' 16 leg85 [E C# D E] [F D E C] [D B_ C D] [E C D B_]
+=2, 1 A_)2(2
+=3  1 a)2(2
+
+5 systems 1 /19-20-19-35-19/ 19-25-19-35-19 5 \
+ / 19-30-19-18-19/ 19-25-19-38-19/ 19-36-19-31-19/
+pagenum
+innerhead Toccata and Fugue in d minor, BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars | 5 8 8 5 5 5 8 5 8 8 8 5 8 5 8 4 \
+ | 8 5 5 8 5 5 5 5 8 5 6 5 8 5 5 4 | 5 5 5 5 5 5 5 5 5 5 6 5 5 5 5 4 |
+|
+il0.7 .01 90
+=1  8 [A 16 c#' e'] [d' f' e' g'] 8 [f 16 d f#] [e g f a]
+=1, 8 E rest, 4 rest, 2 blank
+=2' 8 C# rest' 2. blank
+=2  8 [A_,)2 16 A_, C#,] [B_ D C E] 8 [D 16 F# A] [G Bb' A cn']
+=3  16 leg85 [a)2 f gn e] [f d e c#,] [d' Bb cn A] [B G A F#]
+|
+=1, 16 leg95 [g f# leg85 g a] leg95 [fn e leg85 f g] \
+ leg95 [e d leg85 e f] leg95 [d c# leg85 d e]
+=2' 16 leg95 [Bb A leg85 B D] leg95 [A G leg85 A C] \
+ leg95 [G Fn leg85 G B_b] leg95 [F E leg85 F A_]
+=3  1 G
+| 1.63636 1.64545
+=1, 16 leg95 [c# B leg85 c e] leg95 [d c leg85 d f] \
+ 16 leg95 [c B leg85 c e] leg95 [d c leg85 d f]
+=2' 16 leg95 [E D leg85 E G_] leg95 [F E leg85 F A_] \
+ leg95 [G F leg85 G B_b] leg95 [F E leg85 F A_]
+=3  1 A(2
+/
+3 bars | 8 5 5 5 5 8 5 8 5 5 5 5 5 5 5 4 \
+ | 5 8 5 5 5 8 5 8 8 5 5 8 5 5 7 4 | 5 5 5 5 5 5 5 5 5 5 8 5 5 8 5 4 |
+| 1.64545 1.65455
+=1  1 <A(2 e(3 g(1>
+=2  1 <A_(2 C#(3 E(1>
+=3' 16 leg95 [A)2 G leg85 A E] leg95 [A E leg85 Bn E] \
+ 16 leg95 [c# B leg85 c A] leg95 [c A leg85 e G]
+| 0.418182 0.427273 0.436364 0.445455 0.436364 0.436364 0.445455 0.454545
+=1' 8 [<e)3 g)1> 16 <d f> e] 8 [<d f> <c# e>] \
+ 16 leg95 [d c# leg85 d A] [f# d a cn]
+=1, 16 [A)2 8. A] 16 rest, 8 [A 16 G] 4 F# blank
+=2' 8 <C)3 E)1> 4 D 8 E 4 F# blank
+=2, 4. A_)2 8 A_ 4 A_ blank
+=2' 2. blank bass 8 rest'' leg60 <a d~>
+=2 2. blank 8 rest' blank
+=2, 2. blank 8 rest f#
+=3 8. [F 16 G] 4 A 2 D(2
+| 3.63636
+il0.7 .01 95
+=1' 16 leg95 [Bb A leg85 B G] [d B g B] leg95 [A G leg85 A F#] [d A f# A]
+=2' leg60 4 <bb d~> 8 rest'' <g d~> 4 <a d~> 8 rest'' <a c~>
+=2, leg60 4 g       8 rest   e      4 f#     8 rest   d
+=3  1 D)2(2
+/
+2 bars | 1 | 1 |
+|
+=1' 16 leg95 [G F# leg85 G E] [c# G e G] leg95 [F# E leg85 F# D] [A F# d F#]
+=2' leg60 4 <g bb> 8 rest'' <g b> 4 a     8 rest'' <a c~>
+=2, leg60 4 e       8 rest   c#   4 <d a> 8 rest   d
+=3  1 D)2(2
+|
+=1' 16 leg95 [E D leg85 E d] leg95 [E D leg85 E d] \
+ leg95 [E D leg85 E d] leg95 [E D leg85 E d]
+=2' leg60 8 <g bb> rest'' leg65 <g b> rest'' \
+ leg70 <g b> rest'' leg75 <g b> rest''
+=2, 8 leg60 d rest leg65 d rest leg70 d rest leg75 d rest
+=3  1 D)2(2
+| 0.454545 0.454545 0.454545 0.454545 0.463636 0.481818 0.518182 0.572727
+=1' 16 leg95 [E D E c#] [E D E c] \
+ [E D E c] [E D E c]
+=2' leg80 8 <g bb> rest'' leg85 <g b> rest'' \
+ leg90 <g b> rest'' leg95 <g b> rest''
+=2, 8 leg80 d rest leg85 d rest leg90 d rest leg95 d rest
+=3  1 D)2(2
+| 5.45455
+=1  1 leg95 <D A d-fermata>
+=2  1 leg95 <d f# a-fermata>
+=3  1 leg95 D)2-fermata
+5 systems 5 /19-30-19-17-19/ 19-30-19-17-19 \
+ / 19-32-19-20-19/ 19-36-19-20-19/ 19-35-19-23-19/
+pagenum 3
+innerhead J. S. Bach, Toccata and Fugue in d minor ("Dorian"),  BWV538
+leftfoot Typeset 2012 by Peter J Billam
+#midi channel 0 bank 6,0 patch 22  # positiv
+midi channel 1 bank 6,0 patch 42  # 23 ? 42 ?
+#midi channel 2 bank 6,0 patch 22  # positiv
+midi channel 3 bank 6,0 patch 42  # oberwerk
+midi channel 4 bank 6,0 patch 118 # ped (reedier)
+#midi channel 5 bank 6,0 patch 121 # ped 121 ?
+midi channel 0 bank 5 patch 0 pan 80
+midi channel 2 bank 5 patch 0 pan 20
+midi channel 5 bank 5 patch 0 pan 50
+/
+9 bars | 2/2 48 | 48 |
+| 4/4 .26 .25 .26 .243 .26 .247 .26 .24
+bl0.9 .05 Fuga
+=1' treble  2/2 cha0 cc11=90 2 blank 1 rest'
+=1, treble  2/2 2 leg90 D E
+=2' bass    2/2 cha2 cc11=100 2 blank 1 rest
+=3' bass    2/2 cha5 cc11=105 2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 4 leg70 F D 2 G(2
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 4 G)2 F 2 Bb(2
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 4 B)2 A 2 d(2
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 4 leg80 d)2 2 c 4 Bb(2
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+=1, 4 B)2 2 A 4 G(2
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 2 blank 1 rest'
+#P =1, 4 G)2 F 2 E-tr,
+#M =1, 4 G)2 F 2 blank
+#M =1, 2 blank 8 blank leg105 16 E F E F E F E 16. D E
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 2 A Bn
+=1, 4 leg90 D C D E
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 c A 2 d(1
+#P =1, 4 leg70 A_ leg99 8 [A G] leg70 4 F leg99 8 [E D]
+#M =1, 4 leg70 A_ leg99 8 blank G leg70 4 F leg99 8 [E D]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+
+/
+7 bars | 48 |
+|
+il0.7 .01 10
+=1' 4 leg70 d)1 c 2 f(1
+=1, 4 leg70 E A_ leg90 A 8 leg99 [G F]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 f)1 e 2 a(1
+=1, 4 leg70 G C leg99 c 8 [B A]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 4 leg90 a)1 2 g 4 f(1
+=1, 8 leg99 [B c leg70 B e] leg99 [A B leg70 A d]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' 4 leg90 f)1 2 e 4 d(1
+=1, 8 leg99 [G A leg70 G c] leg90 2 F
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+#P =1' 4 leg90 d)1 c 2 B-tr
+#M =1' 4 d)1 c 2 blank
+#M =1' 2 blank 8 blank leg105 16 B c B c B c B 16. A B
+=1, 4 leg70 E 2 leg95 A 4 G#
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+#P =1' leg70 4 A c 2 leg90 2 f(1
+#M =1' leg70 4 blank c 2 leg90 2 f(1
+=1, leg99 2. Ar 8 [Gn F]
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' leg99 4 f)1 8 [e d] 4 leg70 e A
+=1, leg70 4 G C 2 F(2
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+
+/
+7 bars | 48 |
+|
+=1' leg95 2. d 4 c#
+=1, leg99 4 F)2 8 [E D] 4 leg70 E A_
+=2' 2 blank 1 rest
+=3' 2 blank 1 rest
+|
+=1' leg99 8 [d cn Bb A] 4 G 8 [F E]
+=1, leg95 2. D 4 C#
+=2  leg90 2 d e
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 A leg99 8 [d cn] 4 Bb 8 [A G]
+=1, leg95 2. D 4 E
+=2, 4 leg70 f d 2 g(1
+=3' 2 blank 1 rest
+|
+il0.7 .01 20
+=1' 4 leg70 A D leg99 d 8 [c Bb]
+=1, leg95 2. F 4 G
+=2, 4 leg70 g)1 f 2 bb(1
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 c F leg99 f 8 [e d]
+=1, leg95 2. A 4 Bb
+=2, leg70 4 b)1 a 2 d~(1
+=3' 2 blank 1 rest
+|
+=1' 8 leg99 [e f leg70 e a] leg99 [d e leg70 d g]
+=1, leg70 4 G 8 [A E] 4 F 8 [G D]
+=2, leg70 4 d~)1 2 c~ 4 bb(1
+=3' 2 blank 1 rest
+|
+=1' 8 leg99 [c d leg70 c f] leg99 2 Bb
+=1, leg85 4 E 8 [F C] [D leg99 F leg80 E G]
+=2, leg70 4 b)1 2 a 4 g(1
+=3' 2 blank 1 rest
+
+/
+7 bars | 48 |
+|
+=1' 4 leg70 A leg99 2 d 4 c#
+=1, 4 leg70 C# leg99 A G 8 [F E]
+#P =2, 4 leg99 g)1 f 2 e-tr
+#M =2, 4 leg99 g)1 f 2 blank
+#M =2, 2 blank 8 blank leg105 16 e f e f e f e 16. d e
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 d leg99 2 f 8 [e d]
+=1, leg85 4. F 8 G 4 A Bb
+=2, leg80 2 d d~(1
+=3' 2 blank 1 rest
+|
+=1' leg80 2. e leg99 8 [d c]
+=1, leg80 2. G leg99 8 [F E]
+=2, 4 d~)1 g 2 c~n(1
+=3' 2 blank 1 rest
+|
+=1' leg70 4 d G leg99 2 c(1
+=1, leg99 2 F E(2
+=2, leg99 4 c~)1 8 [bn a] leg80 4 b e
+=3' 2 blank 1 rest
+|
+=1' leg99 4 c)1 8 [B A] leg80 4 B E(1
+=1, leg99 4 E)2 8 [D C] leg80 2 D
+=2, leg99 2. a 4 g#
+=3' 2 blank 1 rest
+|
+=1' 4 E)1 2 leg99 A 4 G#
+=1, 2 C D
+=2, 2 a rest
+=3  2 leg85 A B
+|
+il0.4 .30 30
+=1' 2. A 4 B
+=1, leg80 4 E leg99 2 A 4 G#
+=2, 4 rest leg99 8 [a g] 4 f 8 [e d]
+=3' 4 c A 2 d(2
+
+/
+7 bars | 48 |
+|
+=1' 2. c 4 d
+=1, 2. A 4 B
+=2  4 leg80 e A leg99 a 8 [g f]
+=3  4 leg70 d')2 c 2 f(1
+|
+=1' 2. e 4 f
+=1, 1 cr
+=2  4 leg80 g c leg99 c~ 8 [b a]
+=3  4 leg70 f)1 e 2 a(1
+|
+=1' 4 leg85 d 8 [e B] 4 c 8 [d A]
+=1, 4 leg99 F leg70 G leg99 E leg70 F
+=2  8 leg99 [b c~ leg70 b e~] leg99 [a b leg70 a d~]
+=3  4 a)1 2 g 4 f(1
+|
+=1' 4 leg85 B 8 [c G] 8 [A leg99 c leg85 B d]
+=1, 4 leg99 D leg70 E 2 blank
+=2' 2 blank leg99 4 c~ leg70 d~
+=2  8 leg99 [g a leg70 g c~] leg99 2 f
+=3  4 f)1 2 e 4 d(1
+|
+=1' 4 G# leg99 e d 8 [d c]
+=2' 4 leg85 b c~ 2 d~
+=2, leg70 4 e 2 leg99 a 4 g#
+#P =3' 4 leg90 d)1 c 2 B-tr
+#M =3' 4 d)1 c 2 blank
+#M =3' 2 blank leg105 16 B c B c B 16. A B
+|
+=1' 4 c A 2 rest
+=2' 4 c~ 2 c~r 8 [br ar]
+=2, 8 leg70 [a e~ leg99 a~ g~n] [f~ e~ d~ c~]
+=3 2 leg80 A leg99 a(1
+|
+=1' 4 rest leg70 B 2 e(1
+=1, 2 blank 4 rest,, leg70 E
+=2' 2 e~ blank
+=2, 2. b 8 [a g]
+=3 4 a)1 8 [g f] 4 leg80 g c
+
+5 systems 5 /19-30-19-17-19/ 19-30-19-17-19 \
+ / 19-32-19-20-19/ 19-36-19-20-19/ 19-35-19-23-19/
+pagenum
+innerhead J. S. Bach, Toccata and Fugue in d minor ("Dorian"),  BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg99 e)1 8 [d c] leg70 4 d G
+=1, 2 leg99 A G(2
+=2  2 leg85 a b
+=3  2. leg99 f 8 [e d]
+|
+=1' 2. leg99 c 8 [Bb A]
+=1, 4 leg99 G)2 8 [F E] leg85 2 E
+=2  2 leg85 c~ leg70 d~
+=3  leg80 4 e A leg99 2 d'(2
+|
+il0.6 .20 40
+=1' leg70 4 Bb E leg99 2 A(1
+=1, 2. leg99 E 8 [D C#]
+=2, 2. leg99 g 8 [f e]
+=3' 4 leg99 d)2 8 [c Bb] leg70 4 c F
+|
+=1' 4 leg99 A)1 8 [G F] leg70 4 G C#l
+=1, leg70 2. D leg99 4 B_brl
+=2, 2. leg99 d 8 leg80 [e g]
+=3  2. leg99 Bb 8 [A G]
+|
+=1' 2. leg99 F 8 [E D]
+=1, 2 leg99 A_ leg80 4 G_ 8 [A_ B_b]
+=2, leg85 [c# e d f] [Bn leg99 d c# d]
+=3  4 leg80 A D 2 leg99 G(2
+|
+=1' leg85 4 C# leg70 D leg99 2 G(1
+=1, 2 leg85 A_ B_n
+=2  4 leg99 e 8 [f e] leg70 4 d 8 leg99 [g f]
+=3  4 leg99 G)2 2 F 8 [E D]
+|
+=1' 4 leg99 G)1 8 [F leg85 E] [F G A Bn]
+=1, 4 leg70 C# A_ 2 leg99 D(2
+=2, 4 leg99 e 8 [d leg85 c#] [d e f leg70 d]
+=3' 4 leg80 E A F D
+/
+6 bars | 48 | 48 |
+|
+=1' 2. leg85 cn 4 d
+=1, 4 leg99 D)2 leg70 Cn 2 leg99 F(2
+=2, 8 leg99 [g f e d] leg70 [cn leg99 c~ bn a]
+=3' 4 leg80 E 2 leg90 A 4 F
+|
+=1' 2 leg80 e(1 8 leg70 [e)1 leg99 g f e]
+=1, 4 leg99 F)2 leg70 E 2 leg99 A(2
+=2, 8 leg99 [b a g f] leg70 [e leg99 e~ d~ c~]
+=3' 4 leg80 G 2 leg90 c 4 A
+|
+=1' 2 leg99 d c
+=1, 4 leg99 A)2 2 G 4 F(2
+=2, 2 leg85 b 4 c~ a
+=3' 8 leg99 [B c leg70 B e] leg99 [A B leg70 A d]
+|
+=1' 4 leg70 B e leg88 8 [A leg99 c leg80 B d]
+=1, 4 leg99 F)2 2 E 4 D(2
+=2, 2 leg85 g a
+=3' 8 leg99 [G A leg70 G c] leg99 2 F
+|
+=1' 4 leg85 G# leg70 A leg99 f 8 [e d]
+=1, 4 leg99 D)2 leg85 C D E(2
+=2, 4 leg85 b c~ 2 leg99 b
+=3  4 leg75 E 2 leg99 a 4 gn(1
+|
+il0.6 .50 50
+=1' 4 leg70 c# 2 leg99 a 8 [g f]
+=1, 4 leg99 E)2 8 [D leg70 C#] 2 leg99 A
+=2, 2 leg70 a leg99 d~(1
+=3  4 leg99 g)1 8 [f e] leg80 4 f B
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg70 g cn 2 leg99 f(1
+=1, 2 leg80 G A(2
+=2, 4 leg99 d~)1 8 [c~n b] 4 leg70 c~ f
+=3  2. leg99 e 8 [d' c]
+|
+=1' 4 leg99 f)1 8 [e d] 4 leg70 e A
+=1, 4 leg99 A)2 8 [G F] 2 E
+=2, 2. leg99 b 8 [a g]
+=3' 4 leg80 d G 2 leg99 c(2
+|
+=1' 2. leg99 d 8 [c Bb]
+=1, 2. leg99 F 8 [E D]
+=2, 4 leg70 a d 2 leg99 g(1
+=3' 4 leg99 c)2 8 [Bb A] 4 leg80 B E
+|
+#P =1' 4 leg70 c F 2 leg99 Bb
+#M =1' 4 leg70 c blank 2 leg99 Bb
+=1, 4 leg70 C 2 leg99 Fr 8 [E D]
+=2, 4 leg99 g)1 8 [f e] 4 leg70 d bb
+=3  2. leg99 A 4 G(2
+|
+=1' 8 leg99 [A Bb leg70 A d] leg99 [G A leg70 G e]
+=2' 4 leg85 c~# leg99 8 [d~ c~n] leg85 4 bn c~#
+=2, 4 leg85 e f 2 g
+=3' 4 leg99 G)2 2 F 4 E
+|
+=1' 8 leg99 [F G leg70 F Bb] leg99 [E F leg70 E A]
+=2' 2 leg85 d~ 4 leg99 bb leg80 a
+=2, 4 leg85 a f g e
+=3' 4 leg80 D 2 leg99 d 4 c#
+|
+#P =1' 8 leg90 [F E D E] 2 E-tr
+#M =1' 8 leg90 [F E D E] 2 blank
+#M =1' 2 blank 16 blank leg105 16. D E 16 F E F E D E
+=2' 1 a(1
+=2, 2. leg99 d 4 c#
+=3' 2 leg80 d A
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg70 F Dr 2 leg99 G(1
+=1, 4 blank 2 leg99 F 8 [E D]
+=2' 4 leg70 a)1 2. blank
+=2, leg85 2. d 4 e
+=3' 2 leg80 D leg99 Bb
+|
+=1' 4 leg99 G)1 leg70 F 2 Bb(1
+=1, 2 leg85 C 4 D E
+=2, 2. leg85 f 4 g
+=3' 2. leg99 A 4 G
+|
+il0.6 .10 60
+=1' 4 leg99 B)1 leg70 A 2 leg99 d(1
+=1, 2. leg70 F 4 Bb
+=2, 2 leg85 a(1 8 [a)1 leg99 f e leg70 d]
+=3' 2. leg85 F 4 G
+|
+=1' 4 leg99 d)1 2 c 4 Bb(1
+=1, 8 leg99 [E F leg70 E A] leg99 [D E leg70 D G]
+=2, 4. leg99 a 8 g 4 leg80 f 8 leg99 [g f]
+=3' 2 leg100 A rest
+|
+=1' 4 leg99 B)1 2 A 4 G(1
+=1, 8 leg99 [C D leg70 C F] 2 leg99 B_b
+=2, 4 leg80 e 8 leg99 [f e] 4 leg80 8 [d leg95 f leg80 e g]
+=3' 2 blank 1 rest
+|
+=1' 4 leg99 G)1 F 4. leg85 E 8 F
+=1, 4 leg70 A_ 2 leg99 D 4 Cn(2
+=2  4 leg80 8 [c#, leg95 e leg80 d f] 8 [G leg95 Bb' leg80 A cn']
+=3' 2 blank 1 rest
+|
+=1' 4 leg85 D E 4. leg85 F 8 G
+=1, 4 leg99 Cr)2 leg85 B_b C D(2
+=2' 4 leg80 8 [Bb d G leg99 B] 8 leg80 [A leg95 c leg80 Bn leg99 d]
+=3' 2 blank 1 rest
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg85 E F# 4. leg85 G 8 A
+=1, 4 leg99 Dr)2 leg85 C D E(2
+=2' 4 leg80 8 [c e A leg99 c] 8 leg80 [B leg95 d leg80 c# leg99 e]
+=3' 2 blank 1 rest
+|
+=1' 4 leg85 F# G# 4. leg85 A 8 B
+=1, 4 leg99 Er)2 leg85 D E Fn
+=2, 4 leg80 8 [d f# B leg99 d] 8 leg80 [cn leg95 e leg80 d leg99 fn]
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 G# 2 leg99 e 8 [d c]
+=1, 4 leg99 B_ rest, 2 A(2
+=2, 8 leg99 [e d leg70 e leg80 c] [f a d f]
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 d G leg99 2 c(1
+#P =1, 4 leg99 A)2 8 [G F] 4 leg70 G C
+#M =1, 4 leg99 A)2 8 blank F 4 leg70 G C
+=2' 4 leg70 B 2 leg99 e 8 [d' c]
+=3' 2 blank 1 rest
+|
+=1' 4 leg99 c)1 8 [B A] 4 leg70 B E
+#P =1, 2. leg99 F 8 [E D]
+#M =1, 2. leg99 F 8 blank D
+=2' 4 leg70 d G leg99 2 c(2
+=3' 2 blank 1 rest
+|
+il0.5 .30 70
+=1' 2. leg99 A 4 leg85 G#
+=1, 4 leg70 E blank 2 blank
+=2' 4 blank leg85 a leg99 2 d~(1
+=2, 4 leg99 c)2 8 [B A] 4 leg70 B E
+=3' 2 blank 1 rest
+|
+=1' 2 leg99 A rest
+=2' 8 leg85 [d~)1 b c~ a(1] 4 leg99 a)1 g#
+=2, 2 A B
+=3' 2 blank 1 rest
+
+5 systems 5 /19-30-19-17-19/ 19-30-19-17-19 \
+ / 19-32-19-20-19/ 19-36-19-20-19/ 19-35-19-23-19/
+pagenum
+innerhead J. S. Bach, Toccata and Fugue in d minor ("Dorian"),  BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+8 bars | 48 | 48 |
+|
+=1, 4 rest leg99 8 [a g] 4 f 8 [e d]
+=2' 2. leg85 a 4 b
+=2, 4 leg70 c A leg99 2 d(2
+=3' 2 blank 1 rest
+|
+=1  4 leg70 e A leg99 4 a 8 [g f]
+=2' 2. leg85 c~ 4 d~
+=2, 4 leg70 d)2 c leg99 2 f(2
+=3' 2 blank 1 rest
+|
+=1  4 leg70 g G leg99 4 c' 8 [B' A]
+=2' 2. leg85 e~ 4 f~
+=2, 4 leg70 f)2 e leg99 2 a(2
+=3' 2 blank 1 rest
+|
+=1' 8 leg99 [B c leg70 B e] leg99 [A B leg70 A d]
+=2' 4 leg85 d~ 8 [e~ b] 4 c~ 8 [d~ a]
+=2, 4 leg99 a)2 2 g 4 f(2
+=3' 2 blank 1 rest
+|
+=1' 8 leg99 [G A leg70 G c] leg90 2 F
+=2' 4 leg85 b 8 [c~ g] 8 [a leg99 c~ leg85 b d~]
+=2, 4 leg99 f)2 2 e 4 d(2
+=3' 2 blank 1 rest
+|
+#P =1  4 leg70 4 E e d 8 [c B]
+#M =1  4 leg70 E leg99 163-s [c' d'] 43 e 4 d 8 [c B]
+=2' 4 leg80 g# 2 leg99 a 4 g
+=2, 4 leg99 d)2 c 2 B
+=3' 2 blank 1 rest
+|
+=1' 2 leg85 c leg99 Bb(1
+=2' 4 leg85 a rest'' 2 rest''
+=2, 4 leg70 A 2 2 leg99 a 8 [gn f]
+=3' 2 blank 1 rest
+|
+=1' 4 leg99 B)1 8 [A G] 4 leg70 A D
+#P =1, 2. E 8 [D C]
+#M =1, 2. leg99 E 8 blank C
+=2  4 leg70 g c 2 f(1
+=3' 2 blank 1 rest
+/
+8 bars | 48 | 48 |
+|
+il0.5 .30 80
+=1' 2. leg99 G 8 [F E]
+=1, 4 leg85 B_n 8 leg99 [C# D] 2 C
+=2  4 leg99 f)1 8 [e d] 4 leg70 e A
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 F B_n 2 leg99 E(1
+=1, 2 leg70 D blank
+=2' 2 blank 4 leg85 g 8 [a bb]
+=2, 2. leg99 d 4 c#
+=3  2 leg85 D E
+|
+=1' 4 leg99 E)1 8 [D C#] 2 D(1
+=2' 2 leg99 a 4 bb 8 [a g]
+=2, 2. leg85 d 4 e
+=3' 4 leg80 F D 2 leg99 G(2
+|
+=1' 2. leg85 D)1 4 E
+=1, 2 blank 4 leg99 D 8 [Cn B_b]
+=2' 4 leg70 a d 2 blank
+=2, 2. leg85 f 4 g
+=3' 4 G)2 leg80 F 2 leg99 Bb(2
+|
+#P =1' 1 F
+#P =1, 4 C blank F 8 [E D]
+#M =1' 2 leg99 F leg80 F
+#M =1, 4 leg70 C blank blank 8 leg99 [E D]
+=2' 4 blank leg70 f 2 blank
+=2, 2. leg85 a 4 bb
+=3' 4 B)2 leg80 A 2 leg99 d(2
+|
+=1' 4 leg85 Bb c A Bb
+=1, 8 leg99 [E F leg70 E A] leg99 [D E leg70 D G]
+=2, 4 leg85 g 8 [a e] 4 f 8 [g d]
+=3' 4 d)2 2 c 4 Bb(2
+|
+=1' 4 leg85 G A 8 leg85 [D leg99 F leg85 E G]
+=1, 8 leg99 [C D leg70 C F] 2 leg99 B_b
+=2, 4 leg85 e 2 leg99 f 8 [g f]
+=3' 4 B)2 2 A 4 G(2
+|
+=1' 4 leg70 C# leg99 A G 8 [F E]
+=2' 2 leg85 a 4 leg99 bb a(1
+=2, 4 leg85 e 2 leg99 d 4 c#
+=3' 4 G)2 F leg80 E A
+/
+8 bars | 48 | 48 |
+|
+=1' 4 leg70 F 2 leg99 d 8 [cn Bn]
+=1, 4 blank 2 leg99 F 8 [E D]
+=2' 4 a)1 rest 2 rest
+=2, 4 d 2. blank
+=3  2 leg80 D leg99 a(1
+|
+#P =1' 4 c F 2 Bb(1
+#M =1' 4 leg70 c blank 2 leg99 Bb(1
+=1, 4 leg85 E 2 leg99 Fr 4 E(2
+=2, 2. leg99 a 8 [g f]
+=3, 4 leg99 a)1 8 [g f] 4 leg70 g c
+|
+il0.5 .30 90
+=1' 4 leg99 B)1 8 [A G] 4 leg70 A D
+=1, 4 leg99 E)2 8 [F E] 2 leg70 F
+=2  4 leg70 g c 2 leg99 f(1
+=3, 2. leg70 f leg99 8 [e d]
+|
+=1' 2. leg65 G leg99 8 [F E]
+=1, 4 leg85 B_n 2 leg99 C# 8 [D C]
+=2  4 leg99 f)1 8 [e d] 4 leg70 e A
+=3' 4 leg70 e A 2 leg99 d(2
+|
+=1' 4 leg75 F Bb E A(1
+=1, 2 leg99 D Cn
+=2, 4 leg85 d 2 leg99 g 8 [f e]
+=3' 4 leg99 d)2 8 [c Bb] 4 leg70 c F
+|
+=1' 4 leg99 A)1 8 [G leg70 F] 2 leg99 c(1
+=1, 2 leg85 D E
+=2, 8 leg70 [d f leg99 bb a] leg70 [g c leg99 c~ b]
+=3' 2. leg99 Bb 4 leg80 A
+|
+=1' 4 leg99 c)1 8 [Bn leg70 A] 2 leg99 f(1
+=1, 2. leg85 F 4 G
+=2, 8 leg70 [a d leg99 d~ c~] 2 leg85 bn
+=3' 2. leg80 d 4 leg80 G
+|
+=1' 4 leg99 f)1 2 e 8 [d c]
+=1, 4 leg99 A 2 G 8 [F E]
+=2, 4. leg99 c~ 8 bb 2 leg90 a
+=3 2 leg80 c leg99 f(1
+/
+8 bars | 48 | 48 |
+|
+#P =1' 4 d G 2 c(1
+#M =1' 4 leg70 d blank 2 leg99 c(1
+=1, 4 leg85 D 2 leg99 Gr 8 [F E]
+=2, 2 leg90 bn leg70 c~
+=3  4 leg99 f)1 8 [e d] 4 leg70 e A
+|
+#P =1' 4 leg99 c)1 8 [Bb A] 4 leg70 B E
+#P =1, 4 leg70 F B_b 2 leg99 E(2
+#M =1' 4 leg99 c)1 8 [Bb A] 4 leg70 B E(2
+#M =1, 4 leg70 F B_b 4 leg99 E blank
+=2, 2 leg90 f g
+=3' 2. leg65 d leg99 8 [c Bb]
+|
+=1' 2. leg99 A 8 [G F]
+=1, 4 leg99 E)2 8 [D C] 4 leg70 D G_
+=2, 2 leg70 a leg90 d
+=3' 4 leg70 c F 2 leg99 Bb(2
+|
+=1' 4 leg70 G C 2 leg99 F(2
+=1, 2. leg99 C 4 blank
+=2' 2. blank 8 leg99 [bb a]
+=2, 2 leg90 e f
+=3  4 leg99 B)2 8 [A G] 4 leg70 A D
+|
+il0.4 .15 100
+=1' 4 leg99 F)2 8 [E D] 2 leg85 E
+=2' 2. leg99 bb 8 [a g]
+=2, 2 leg99 d c(2
+=3' 2 leg80 G C
+|
+=1' 2 leg85 F G
+=2' 2 a rest''
+=2, 4 leg70 c)2 2 leg99 f 4 e
+=3  2 leg99 F rest
+|
+=1' 4 leg70 A F 2 leg90 Bb(1
+=1, 4 rest,, 2 leg99 Fr 8 [E D]
+=2, 8 leg70 [f c] 2 leg99 a 8 [g f]
+=3' 2 leg85 F G
+|
+=1' 4 leg90 B)1 leg70 A 2 leg99 d(1
+=1, 8 leg70 [C E] 2 leg99 Ar 8 [G F]
+=2, 8 leg70 [e leg99 g f e] leg70 [d f leg99 bb a]
+=3' 4 leg70 A F 2 leg90 Bb(2
+/
+8 bars | 48 | 48 |
+|
+=1' 4 leg90 d)1 leg70 c 2 leg99 f(1
+=1, 8 leg70 [E G] 2 leg99 cr 8 [Bb A]
+=2, 4. leg70 g 8 leg99 g~ [f~ e~ d~ c~]
+=3' 4 leg70 Bb)2 A 2 leg90 d(2
+|
+=1' 4 leg90 f)1 2 leg99 e 4 d(1
+=1, 8 leg99 [G F] 2 G 4 leg79 F
+=2, 4. leg70 bb 8 leg99 b [a b leg70 a d~]
+=3  4 leg70 d')2 c 2 leg90 f(1
+|
+=1' 4 leg90 d)1 2 leg99 c 4 Bb(1
+=1, 2 leg99 Bb A
+=2, 8 leg99 [g a leg70 g c~] leg99 [f g leg70 f bb]
+=3, 4 leg90 f)1 2 e 4 d(1
+|
+=1' 4 leg99 B)1 A 2 G
+=1, 4. leg99 G 4 leg70 F 8 leg99 D 4 C(2
+=2, 8 leg70 [e leg99 g leg70 f a] [d leg99 f leg70 e g]
+=3  4 leg90 d)1 2 c 4 Bb(2
+|
+=1' 2. leg85 F 8 [G A]
+=1, 8 leg85 [C)2 D] 2 Eb 8 [D E]
+=2  4 leg70 c 2 leg99 c~ 8 leg85 [bb c~]
+=3' 4 leg70 B)2 A 2 leg90 d(2
+|
+=1' 2. leg99 Bb 8 [A G]
+=1, 2. leg99 F 8 [F En]
+=2, 2. leg99 d~ 8 [c~ bb]
+=3  4 leg90 d')2 8 [c leg70 Bb] 2 leg90 f(1
+|
+il0.7 .01 110
+=1' 4 leg70 A  2 leg99 d  8 leg85 [c Bn]
+=1, 4 leg70 F  2 leg99 A  8 leg85 [A G#l]
+=2, 4 leg70 c~ 2 leg99 f~ 8 leg85 [e~ d~]
+=3  4 leg90 f)1 8 [e leg70 d] 2 leg90 a(1
+|
+=1' 4 leg70 c 2 leg99 f 4 e(1
+=1, 4 leg70 A d Bn Gn(2
+=2, 4 leg70 e~ a leg99 d~ 8 [c~ bb]
+=3  4 leg90 a)1 8 [g f] 4 leg70 g c
+
+5 systems 5 /19-30-19-17-19/ 19-30-19-17-19 \
+ / 19-32-19-20-19/ 19-36-19-20-19/ 19-35-19-23-19/
+pagenum
+innerhead J. S. Bach, Toccata and Fugue in d minor ("Dorian"),  BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+8 bars | 48 | 48 |
+|
+=1' 4 leg99 e)1 8 [d c] 4 leg70 d G
+=1, 4 leg99 G)2 8 [F E] 4 leg70  F B_n
+=2, 2. leg99 a 8 [g f]
+=3, 2. leg99 f 8 [e d]
+|
+=1' 2. leg99 c 4 B
+=1, 2 leg99 E D
+=2, 4 leg90 g 8 [f e] 4 f 8 [g f]
+=3 4 leg75 e A d G
+|
+#P =1' 8 [c d c d] 2 d-tr
+#M =1' 8 leg99 [c d c d] 2 blank
+#M =1' 2 blank 16 blank leg105 16 e d e d e d 16. c d
+=1, 4 leg70 C leg99 A G F
+=2, 4 leg70 e 2 leg99 c~ 4 b
+=3' 4 leg70 A leg85 F 2 G
+|
+=1' 4 leg70 c 8 leg99 [a g] 4 f 8 [e d]
+=1, 4 leg70 E 2 leg99 c 4 B
+=2  2 leg85 c~ d~ treble
+=3  2 leg105 C rest
+|
+=1' 4 leg99 g 8 [f leg70 e] 2 leg99 a(1
+=1, 2. leg99 c 8 [d c]
+=2  4 leg70 E C 2 F(2
+=3  4 leg70 rest c A leg85 F
+|
+=1' 4 leg99 a)1 2 g 8 [f e]
+=1, 4 leg99 Bn Bb leg70 A leg99 c(2
+=2  4 leg70 F)2 E 2 A(2
+=3  4 leg70 G 2 c 4 leg85 A
+|
+=1' 4 leg70 d 2 leg99 bn 8 [a g]
+=1, 4 leg99 cr)2 leg70 Bn 2 leg99 e
+=2  4 leg70 A)2 G 2 c(1
+=3  4 leg70 Bn 2 e 4 leg85 c
+|
+=1' 4 leg70 f# leg99 fn leg70 e leg99 eb
+=1, 2 leg99 d c
+=2  4 leg80 c)1 2 B 4 A(2
+=3, 8 leg99 [d e leg70 d g] leg99 [c d leg70 c f]
+/
+8 bars | 48 | 48 |
+|
+il0.8  120
+=1' 4 leg70 d g c f
+=1, 2 leg99 B A
+=2  4 leg80 A)2 2 G 4 F(2
+=3' 8 leg99 [B c leg70 B e] leg99 [A B leg70 A d]
+|
+=1' 4 leg99 B c d 8 [e f]
+=1, 2 leg85 G 4 F G(2
+=2  4 leg80 F)2 E 2 D bass
+=3  4 leg70 G 2 leg99 c 4 Bb(2
+|
+=1' 4 leg85 e leg70 f 2 leg99 Bb(1
+=1, 4 leg99 G)2 8 [F E] 4 leg85 D E
+=2  2 leg70 c~ 4 leg85 f g
+=3' 4 B)2 2 A 4 G
+|
+=1' 4 B)1 2 leg99 A 8 [G leg70 F]
+=1, 4. leg99 F 8 Eb 2 leg85 D
+=2  8 leg85 [a bb] 2 leg99 c~ 8 [b a]
+=3  4 leg70 F f 2 leg99 Bb(2
+|
+=1' 2. leg99 c 4 Bb
+=1, 4 leg85 En F# 4. G 8 Fn
+=2, 4 leg85 g a 8 [bb c~] 4 leg99 d~
+=3  4 leg99 B)2 A leg70 G leg99 g(1
+|
+=1' 4 leg70 A  d 2 leg99 g(1
+=1, 4 leg70 Eb F 2 leg99 Bb(2
+=2  4 leg85 c~ 2 leg99 d~ 8 [c~ bb]
+=3  4 leg99 g)1 8 [f leg85 eb] 4 leg70 f Bb
+|
+=1' 4 leg99 g)1 8 [f  leg85 eb] 4 leg70 f Bb
+=1, 4 leg99 B)2 8 [Ab leg85 G] 2 A
+=2, 4 leg70 c~ f 2 leg99 bb(1
+=3 2. leg99 eb 8 [d' leg85 c]
+|
+=1' 2. leg99 eb 8 [d' c]
+=1, 2. leg99 G 8 leg70 [F# A]
+=2, 4 leg99 b)1 8 [an leg85 g] 4 leg70 a d
+=3' 4 leg70 d G 2 leg85 c(2
+/
+8 bars | 48 | 48 |
+|
+=1' 4 leg70 d G 2 leg99 c(1
+=1, 2 leg85 D 4 leg70 En A
+=2, 2. leg99 g 4 leg85 f#
+=3' 4 c)2 2 Bb 4 A
+|
+#P =1' 4 leg90 c)1 8 [Bb A] 2 A-tr
+#M =1' 4 leg99 c)1 8 [Bb A] 2 blank
+#M =1' 2 blank 16 blank leg105 16. Bb A 16 B A B A B A
+=1, 4 leg70 D 2 leg99 G 4 leg85 F#
+=2, 4 leg70 g 2 leg99 e~b 8 [d~ leg85 c~]
+=3  4 leg70 G C 2 leg85 D
+|
+il0.6 130
+#P =1' 4 G 2 g 4 f#
+#M =1' 4 blank 2 leg99 g 4 leg85 f#
+=1, 2 leg85 Gr A
+=2 2 leg85 bb 4 c~ leg70 d~
+=3 2 leg105 G rest
+|
+=1' 2. leg99 g 8 [fn eb]
+=1, 4 leg70 Bb G 2 leg85 c(2
+=2, 2 leg85 g a
+=3' 2 blank 1 rest
+|
+=1' 2 leg70 d('1 8 [dr)'1 leg85 G A leg70 c]
+=1, 4 leg70 cr)2 Bb 2 leg85 eb(,4
+=2, 4 leg70 bb g 2 leg85 c~(1
+=3' 2 blank 1 rest
+|
+=1' 4 leg85 F#r Gr(2 8 [Gr)2 F G A]
+=1, 4 leg70 eb),4 d 2 leg85 g(1
+=2, 4 leg70 c~)1 bb 2 leg85 e~b(1
+=3' 2 blank 1 rest
+|
+#P =1' 8 leg85 [Bbr c leg99 dr c] leg85 [B d eb B]
+#M =1' 8 leg85 [Bbr c leg99 dr c] leg85 [B d blank B]
+=1, 4 leg85 g)1 2 fn 4 eb(1
+=2, 4 leg70 e~)1 d~ 2 leg85 g~(1
+=3' 2 blank 1 rest
+|
+#P =1' 8 leg70 [cr A d leg99 A] leg70 [Bb G c leg99 G]
+#M =1' 8 leg70 [cr A blank leg99 A] leg70 [Bb G blank leg99 G]
+=1, 4 leg85 e)1 2 dr 4 c(1
+=2, 4 leg99 g~)1 2 f~ 4 e~b(1
+=3' 2 blank 1 rest
+/
+8 bars | 48 | 48 |
+|
+#P =1' 8 [Ar F Bb d] [eb d e c]
+#M =1' 8 leg70 [Ar F blank leg99 d] [eb d leg70 e c]
+#P =1, 4 leg99 c)1 2 Br 8 [A G]
+#M =1, 4 leg99 c)1 2 Bb 8 [A G]
+=2, 4 leg99 e~)1 2 d~ 4 c~(1
+=3' 2 blank 1 rest
+|
+=1' 8 leg99 [d eb leg70 d g] leg99 [c Bb leg70 c A]
+=1, 4 leg85 F# 2 leg99 G 4 F#
+=2, 4 leg99 c~)1 bb 2 a
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 Bb 2 leg99 g 8 [fn eb]
+=1, 2 leg105 G rest
+=2, 2 leg70 g leg99 d~(1
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 f Bb 2 leg99 eb(1
+=1, 2. leg99 d 8 [c Bb]
+=2, 4 leg99 d~)1 8 [c~ leg85 bb] 4 leg70 c~ f
+=3' 2 blank 1 rest
+|
+il1.0 140
+=1' 4 leg99 e)1 8 [d leg85 c] 4 leg70 d G
+=1, 4 leg70 c F 2 leg99 Bb(,2
+=2, 2. leg99 bb 8 [a g]
+=3' 2 blank 1 rest
+|
+=1' 2. leg99 c 8 [Bb A]
+=1, 4 leg99 Br),2 8 [A leg85 G] 4 leg70 A D
+=2, 4 leg70 a d 2 leg99 g(1
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 Bb Eb 2 leg99 Ab(1
+=1, 2. leg99 G 8 [F Eb]
+=2  4 leg99 g)1 8 [f leg85 eb] 4 leg70 f Bb
+=3' 2 blank 1 rest
+|
+=1' 4 leg99 A)1 8 [G leg85 F] 4 leg70 G c(1
+=1, 4 leg70 F B_b 2 leg99 Eb(2
+=2  2. leg99 eb 8 [d' c]
+=3' 2 blank 1 rest
+/
+8 bars | 48 | 48 |
+|
+#P =1' 4 c)1 B 2 eb(1
+#M =1' 4 leg85 c)1 blank 2 leg99 eb(1
+=1, 4 leg70 F leg80 Bb(2 8 [B)2 leg99 B An G]
+=2' 4 leg70 d G c F
+=3' 2 blank 1 rest
+|
+=1' 8 leg99 [e)1 d c Bb] 2 leg85 A
+=1, 4 leg85 F G(2 8 [Gr)2 leg99 G F Eb]
+=2' 4 leg70 Bb Eb 2 F
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 Bb 2 leg99 f 4 eb(1
+=1, 4 leg70 D d 8 leg99 [G A leg70 G c]
+=2 2 leg85 Bb c
+=3' 2 blank 1 rest
+|
+=1' 4 leg99 e)1 2 d 8 [c Bb]
+=1, 8 leg99 [F G leg70 F Bb] 2 G
+=2 4 leg70 d Bb, 2 leg99 eb(2
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 A 2 leg99 f 8 [eb d]
+=1, 4 leg99 C 2. blank
+=2' 4 blank 8 leg99 [bb leg85 a] 2 leg70 b
+=2, 4 leg85 e)2 leg70 d 2 leg85 g(2
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 c 2 leg99 a 8 [g f]
+=2' 4 leg99 e~b 8 [d~ leg85 c~] 2 leg99 d~
+=2, 4 leg85 g)2 leg70 f 2 leg85 bb(2
+=3' 2 blank 1 rest
+|
+il1.0 150
+=1' 4 leg85 en 8 leg70 [f leg85 c] 4 d 8 leg70 [eb leg85 Bb]
+=2' 8 leg99 [c~ d~ leg70 c~ f~] [bb c~ leg70 b e~b]
+=2, 4 leg99 br)2 2 ab 4 g(2
+=3' 2 blank 1 rest
+|
+=1' 4 leg85 c 8 leg70 [d leg85 A] 4 Bb 8 leg70 [c leg85 G]
+=2' 8 leg99 [an bb leg70 a d~] [g a leg70 g c~]
+=2, 4 leg99 gr)2 2 f 4 eb(2
+=3' 2 blank 1 rest
+
+5 systems 5 /19-30-19-17-19/ 19-30-19-17-19 \
+ / 19-32-19-20-19/ 19-36-19-20-19/ 19-35-19-23-19/
+pagenum
+innerhead J. S. Bach, Toccata and Fugue in d minor ("Dorian"),  BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg85 A 2 leg99 Bb 8 [Ab leg85 G]
+=1, 2 blank leg70 C(2
+=2' 2 leg70 f blank
+=2, 4 leg99 er)2 leg85 d eb f
+=3' 2 blank 1 rest
+|
+=1' 4 leg85 Ab An Bb Bn
+=1, 8 leg70 [C)2 leg99 G F Eb] 2 blank
+=2' 2 blank 8 leg99 [d~ c~ bn a]
+=2, 1 f(2
+=3' 2 blank 1 rest
+|
+=1' 2. leg99 c 8 [Bb A]
+=1, 2 blank leg70 D(2
+=2' 2 leg70 g blank
+=2, 4 leg99 fr)2 leg85 e f f#
+=3' 2 blank 1 rest
+|
+=1' 4 leg85 Bb Bn cn c#
+=1, 8 leg70 [D)2 leg99 A G Fn] 2 blank
+=2' 2 blank 8 leg99 [e~ d~ c~# bn]
+=2, 1 g(2
+=3' 2 blank 1 rest
+|
+=1' 2. leg99 d 8 [cn Bb]
+=1, 2 blank 4 rest,, leg99 F
+=2' 2 leg85 a blank
+=2, 4 leg85 gr)2 leg70 f 2 bb(2
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 c F 2 leg99 Bb(1
+=1, 4 leg99 E Ebrl 2 leg70 D(2
+=2, 4 leg99 b)2 8 [a leg70 g] 4 leg70 a d
+=3' 2 blank 1 rest
+|
+=1' 4 leg99 B)1 8 [A leg70 G] 4 leg70 A D
+=1, 4 leg70 D)2 leg99 D C# Cnrl
+=2, 2. leg99 g 8 [f# e]
+=3' 2 blank 1 rest
+/
+7 bars | 48 | 48 |
+|
+=1' 2. leg99 G 8 [F E]
+=1, 4 leg85 B_ 8 [C# leg99 D] 2 C
+=2  4 leg70 fn Bn 2 leg99 e(1
+=3' 2 blank 1 rest
+|
+il0.6 .20 160
+=1' 2 leg85 F(1 8 [F)1 F# G A]
+=1, 2 leg105 D rest,,
+=2' 4 leg99 e)1 8 [d c#] leg99 [d cn Bb A]
+=3' 2 blank 1 rest
+|
+#P =1' 8 leg85 [Bb Bn c leg99 d] [c# d] 4 d-tr
+#M =1' 8 leg85 [Bb Bn c leg99 d] [c# d] 4 blank
+#M =1' 2. blank 8. blank 16. leg105 e d 16 c# d
+=1, 2 blank 1 rest,,
+=2, 8 leg70 [G leg99 a g f] leg85 [e leg99 f e d]
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 e A 2 leg99 a(1
+=1, 2 blank 1 rest,,
+=2, 4 leg85 c# 8 [d e] [f g leg70 a f]
+=3' 2 blank 1 rest
+|
+=1' 4 leg99 a)1 8 [g f] 4 leg70 g cn
+=1, 2 blank 1 rest,,
+=2, 2. leg99 bb 8 [a g]
+=3' 2 blank 1 rest
+|
+=1' 2. leg99 f 8 [e d]
+=1, 2. leg99 A 8 [G F]
+=2' 2 rest'' leg99 bb(1
+=2, 4 leg70 a d 2 leg99 g(2
+=3' 2 blank 1 rest
+|
+=1' 4 leg70 e A  2 leg99 d(1
+=1, 4 leg70 G C# 2 leg99 F
+=2' 4 leg99 b)1 8 [a g] 4 leg70 a d~
+=2, 4 leg99 g)2 8 [f e] 4 leg70 f bb
+=3' 2 blank 1 rest
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg99 d)1 8 [c# Bn] 2 leg85 c
+=1, 2. leg85 E 8 [F leg99 G]
+=2' 4 leg70 bb leg85 g 2 ar(1
+#P =2, 4 leg70 g e a A
+#M =2, 4 leg70 g e blank A
+=3' 2 blank 1 rest
+|
+=1' 4 leg85 d 8 leg99 [d cn] 4 Bb 8 [A G]
+=1, 4 leg70 F 2 leg99 D 4 C#
+=2' 4 leg85 a)1 8 leg99 [bb a] 4 g 8 [f e]
+=2, 2 leg105 d rest,
+=3' 2 leg90 D E
+|
+=1' 4 leg85 F 8 leg99 [Bb A] 4 G 8 [F E]
+=1, 2 leg85 D E
+=2, 4 leg85 d 8 leg99 [d~ c~] 4 bb 8 [a g]
+=3' 4 leg80 F D 2 leg90 G(2
+|
+=1' 4 leg70 Dr 2 leg99 f 8 [e d]
+=1, 4 leg70 F D 2 leg99 G(2
+=2, 4 leg70 a a 2 leg85 d~
+=3' 4 leg80 G)2 F 2 leg90 Bb(2
+|
+il0.7 170
+=1' 4 leg70 c# 2 leg99 a 8 [g f]
+=1, 4 leg99 G)2 leg70 F 2 leg99 Bb(2
+=2, 4 leg99 e~ 8 [d~ c~#] 2 leg70 d~ treble
+=3' 4 leg80 B)2 A 2 leg99 d(2
+|
+=1' 2 leg99 e 8 rest'' [a g f]
+=1, 4 leg99 B)2 leg70 A 2 leg99 d(2
+=2' 4 leg99 G 8 [F E] 4 leg70 F 8 leg99 [Bb A]
+=3' 4 leg99 d)2 2 c 4 Bb(2
+|
+=1' 8 leg70 [e leg99 g f e] leg70 [d leg99 f e d]
+=1, 4 leg99 dr)2 2 c 4 Bb(2
+=2' 8 leg70 [G E leg99 A G] leg70 [F D leg99 G F]
+=3' 4 leg99 B)2 2 A 4 G(2
+/
+7 bars | 48 | 48 |
+|
+=1' 8 leg70 [c# leg99 e leg70 d f] [B leg99 d leg70 c# e]
+=1, 4 leg99 Br)2 2 A 4 G(2
+=2' 8 leg70 [E C# F leg99 D] [E D leg70 E leg99 C#]
+=3' 4 leg99 G)2 F 2 E
+|
+=1' 4 leg70 A 2 leg99 d 4 c#
+=1, 4 leg99 Gr)2 F 2 E
+=2  8 leg99 [D C# leg70 D leg85 A_] 4 leg99 B_b bass 8 [a g]
+=3' 4 leg80 D leg90 F G A
+|
+=1' 4 leg105 d rest' 2 rest'
+=1, 8 leg70 [D leg99 F leg70 E leg99 G] [F leg70 G D leg99 F]
+=2, 4 leg85 f leg70 g cn leg85 g(1
+=3' 2 leg99 Bb 4 leg90 A Bn
+|
+=1' 2 blank 1 rest'
+=1, 8 leg70 [E leg99 G leg70 F# leg99 A] [G leg70 A E leg99 G]
+=2, 4 leg85 g)1 leg70 a d leg85 a(1
+=3' 2 leg99 c 4 leg90 B c#
+|
+=1' 2 blank 1 rest'
+=1, 8 leg70 [F# leg99 A leg70 G# leg99 B] [A leg70 B F# leg99 A]
+=2, 4 leg85 a)1 leg70 b e leg85 b(1
+=3' 2 leg99 d 4 leg90 c# d#
+|
+=1' 1 blank 1 rest'
+=1, 4 leg70 G# 2 leg99 e 8 [d c]
+=2 2 leg105 b)1 rest
+=3, 8 leg105 [e f e f] [e f e f]
+|
+=1' 4. blank 1 rest'
+=1, 4 leg70 d G# 2 leg99 c(2
+=2 4 rest 2 leg99 e~ 8 [d~ c~]
+#P =3, 1 e(1-tr
+#M =3, 16 leg105 e f e f e f e  f e f e f e f
+/
+7 bars | 48 | 48 |
+|
+il0.6 .01 180
+=1' 2 blank 1 rest'
+=1, 4 leg99 c)2 8 [B A] 4 leg70 B E
+=2, 4 leg70 d~ g# 2 leg99 c~(1
+#P =3, 1 e)1(1-tr
+#M =3, 16 e f e f e f e  f e f e f e f
+|
+=1' 2 blank 1 rest'
+=1, 2 leg70 A(2 8 [A)2 leg85 F# leg70 G# E]
+=2, 4 leg99 c~)1 8 [b a] 4 leg70 b e
+#P =3, 1 e)1(1-tr
+#M =3, 16 e f e f e f e  f e f e f e f
+|
+=1' 2 blank 1 rest'
+=1, 8 leg99 [c B leg70 c A] 2 leg99 e(2
+=2, 2 leg70 a(1 8 [a)1 leg85 f# leg70 g# e]
+#P =3, 1 e)1(1-tr
+#M =3, 16 e f e f e f e  f e f e f e f
+|
+=1' 4 rest'' 2 leg99 a 8 [g f]
+=1, 8 leg99 [e)2 d leg70 e c] 2 leg99 B(2
+=2, 8 leg99 [c~ b leg70 c~ a] 2 leg99 e~(1
+#P =3, 1 e)1(1-tr
+#M =3, 16 e f e f e f e  f e f e f e f
+|
+=1' 4 leg70 g c 2 leg99 f(1
+=1, 8 leg99 [B)2 A] 4 G 2 A(2
+=2, 4. leg99 e~)1 8 d~ 2 c~(1
+#P =3  2. leg99 e)1 8 [d' c]
+#M =3  2. leg99 e 8 [d' c]
+|
+=1' 4 leg99 f)1 8 [e d] 4 leg70 e A
+=1, 4 leg99 A)2 4. G 8 F 4 E
+=2, 4 leg99 c~)1 b 4. c~ 8 b
+=3' 4 leg80 d G 2 leg99 c(2
+|
+=1' 2. leg99 d 8 [c B]
+=1, 2. leg99 F 4 E(2
+=2, 2. leg99 a 4 g#
+=3' 4 leg99 c)2 8 [B A] 4 leg80 B E
+
+5 systems 5 /19-30-19-17-19/ 19-30-19-17-19 \
+ / 19-32-19-20-19/ 19-36-19-20-19/ 19-35-19-23-19/
+pagenum
+innerhead J. S. Bach, Toccata and Fugue in d minor ("Dorian"),  BWV538
+leftfoot Typeset 2012 by Peter J Billam
+/
+7 bars | 48 | 48 |
+|
+#P =1' 8 [c B A B] 2 B-tr
+#M =1' 8 leg99 [c B leg85 blank B] 2 blank
+#M =1' 2 blank 8 blank leg105 16. c B 16 c B c B 16. A B
+=1, 4 leg70 E)2 leg99 A(2 Ar)2 G#
+=2, 4 leg70 a leg85 e~ leg99 f~ 8 [e~ d~]
+=3  4 leg70 A c d e
+|
+=1' 2 leg85 A B
+#P =1, 8 [Ar Gn F E] [D F E D]
+#M =1, 8 blank leg99 [Gn F E] leg70 [D leg99 F E D]
+=2, 8 leg99 [c~ b] 2 a 4 g#
+=3  2 A rest
+|
+=1' 4 leg70 c A 2 leg85 d(1
+=1, 8 leg85 [C leg99 D C B_] leg70 [A_ leg99 A G leg85 F]
+=2, 4 leg70 a 8 leg99 [a gn] 4 f 8 [e d]
+=3  2 blank 1 rest
+|
+il0.7 .20 190
+=1' 4 leg85 d)1 leg70 c 2 leg99 f(1
+=1, 8 leg70 [G leg99 Bb A G] leg70 [F leg99 c Bn leg85 A]
+=2  4 leg70 e A leg99 a 8 [g f]
+=3  2 blank 1 rest
+|
+=1' 4 leg85 f)1 leg70 e 2 leg99 a(1
+=1, 8 leg70 [B leg99 d c B] leg70 [A leg99 e d leg85 c]
+=2  4 leg70 g c leg99 c~ 8 [b a]
+=3  2 blank 1 rest
+|
+=1' 4 leg99 a)1 2 g 4 f(1
+=1, 8 leg99 [d c  leg70 d G] leg99 [c B leg70 c F]
+=2, 8 leg99 [b c~ leg70 b e~] leg99 [a b leg70 a d~]
+=3  2 blank 1 rest
+|
+=1' 4 leg99 f)1 2 e 4 d(1
+=1, 8 leg99 [B A leg70 B E] leg99 [A G# leg85 A B]
+=2, 8 leg99 [g a leg70 g c~] 2 leg99 f
+=3  2 blank 1 rest
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg99 d)1 c B Bb
+=1, 4 leg70 G# 2 leg99 A 4 leg70 Gnl(2
+=2, 4 leg85 e 8 leg99 [f e] leg70 [d leg99 f e d]
+=3  2 blank 1 rest
+|
+=1' 2. leg99 A 4 leg70 G(1
+=1, 8 leg70 [Gr)2 leg99 G F E] leg70 [D leg99 F E D]
+=2' 4 leg99 c# cn B Bb
+=3  2 blank 1 rest
+|
+=1' 8 leg70 [G)1 leg99 g f e] leg70 [d leg99 f e d]
+=1, 4 leg99 C# Cn B_ B_b
+=2  4 leg70 A 2 leg99 a 4 g(2
+=3  2 blank 1 rest
+|
+=1' 2 leg99 c# 8 rest' leg85 [c d e]
+=1, 8 leg70 [A_ leg85 E F G] 2 leg70 A(2
+=2, 8 leg70 [g)2 leg99 bb a g] [f g f e]
+=3  2 blank 1 rest
+|
+=1' 2 leg99 f 8 rest' leg85 [A Bb cn]
+=1, 8 leg70 [A)2 leg85 C# D E] 2 leg70 F(2
+=2, 8 leg70 [d leg99 g f e] [d eb d c]
+=3  2 blank 1 rest
+|
+=1' 2 leg99 d 8 rest' leg85 [F# G A]
+=1, 8 leg70 [F)2 leg85 A_ B_b C] 2 leg70 D(2
+=2, 8 leg70 [Bb leg99 eb d c] [B c B A]
+=3  2 blank 1 rest
+|
+il0.7 .50 200
+=1' 8 leg99 Bb rest'' 4 rest'' 2 rest'
+=1, 8 leg70 D)2 leg105 [c Bb A] [G Fn En D]
+=2  8 blank leg85 [f#' g' a'] [bb bn c~# d~]
+=2, 8 G 8 rest, 4 rest, 2 rest,
+=3  2 blank 1 rest
+/
+7 bars | 48 | 48 |
+|
+=1' 8 rest' leg85 [A Bn c#] [d e f f#]
+=1, 2 leg85 D A
+=2, 8 leg99 [c~# bn a g] [f e d cn]
+=3  2 blank 1 rest
+|
+#P =1' 8 leg70 [g leg85 c# d e] 2 c#-tr
+#M =1' 8 leg70 [g leg85 c# d e] 2 blank
+#M =1' 2 blank 8 blank leg105 16. d c# 16 d c d c 16. B c
+=1, 4 leg99 G F 2 E
+=2  8 leg70 [Bb, leg99 bb a g] 4 leg70 a A
+=3  2 blank 1 rest
+|
+#P =1' 4 leg85 d 8 [D E] 2 E-tr
+#M =1' 4 leg85 d 8 [D E] 2 blank
+#M =1' 2 blank 8 blank leg105 16. F E 16 F E F E 16. D E
+=1, 4 leg70 D 2 leg99 Dr 4 C#
+=2, 4 leg85 d f g leg70 a
+=3  2 blank 1 rest
+|
+=1' 4 leg80 F D 2 leg99 G(1
+=2' 8 leg99 [d~ c~n bb a] 4 leg85 g 8 [a b]
+=2, 4 leg70 d 2 leg99 d 4 c#
+=3' 2 leg90 D E
+|
+=1' 4 leg99 G)1 leg80 F 2 leg99 Bb(1
+=1, 8 leg80 [A_ C#] 2 leg99 Fr 8 [E D]
+=2, 8 leg80 [d a leg99 d~ c~n] [bb a g f]
+=3' 4 leg80 F D 2 leg99 G(2
+|
+=1' 4 leg99 B)1 leg80 A 2 leg99 d(1
+=1, 4 leg90 C# 8 [D E] [F G A leg80 Bb]
+=2, 4 leg90 e 8 leg99 [f e] leg90 [d e leg80 f d]
+=3' 4 leg99 G)2 leg80 F 2 leg99 Bb(2
+|
+=1' 4 leg99 d)1 2 cn 4 Bb(1
+#P =1, 4 leg80 E 2 leg99 A 8 [B F]
+#M =1, 4 leg80 E 2 leg99 A 8 blank leg90 F
+=2, 4. leg80 g 8 leg99 g [f g leg80 f bb]
+=3' 4 leg99 B)2 leg80 A 2 leg99 d(2
+/
+7 bars | 48 | 48 |
+|
+=1' 4 leg99 B)1 2 A 4 G(1
+#P =1, 4 leg90 G 8 leg80 [Ar leg90 E] 4 F 8 [G D]
+#M =1, 4 leg90 G 8 leg80 [Ar leg90 E] 4 F 8 blank D
+=2, 8 leg99 [e f leg80 e a] 8 leg99 [d e leg80 d g]
+=3' 4 leg99 d)2 2 c 4 Bb(2
+|
+=1' 4 leg99 G)1 leg80 F 2 leg99 Bb
+#P =1, 8 leg80 [E C F leg90 C] leg80 [D leg99 F leg80 E G]
+#M =1, 8 leg80 [E C blank leg90 C] leg80 [D leg99 F leg80 E G]
+=2, 2 leg80 c 4 leg99 f 8 [g f]
+=3' 4 leg99 B)2 2 A 4 G(2
+|
+il0.7  210
+=1' 4 leg80 A 2 leg99 d 4 c#
+=1, 4 leg80 C# leg99 A G 8 [F E]
+=2, 4 leg90 e f g leg80 a(1
+=3' 4 leg99 G)2 F leg80 E A
+|
+=1' 2 d rest'
+=1, 2 F rest,
+=2, 4 leg70 a)1 2 leg99 d~ 8 [c~n bb]
+=3  2 leg80 D leg99 a(1
+|
+=1' 2. leg99 f 8 [e d]
+=1, 2. leg99 A 8 [G F]
+=2, 4 leg80 c~ f 2 leg99 bb(1
+=3  4 leg99 a)1 8 [g f] 4 leg80 g c
+|
+=1' 4 leg80 e  A 2 leg99 d(1
+=1, 4 leg80 G C# 2 leg99 F(2
+=2, 4 leg99 b)1 8 [a g] 4 leg80 a d
+=3, 2. leg99 f 8 [e d]
+|
+=1' 4 leg99 d)1 8 [cn Bb] 4 leg80 c F
+=1, 4 leg99 F)2 8 [E  D]  4 leg80 E blank
+=2' 2. blank 4 leg80 a
+=2, 2. leg99 g 8 [f e]
+=3  4 leg80 e  A 2 leg99 d'(2
+/
+8 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 | 18 ||
+|
+=1' 2. leg99 Bb 8 [A G]
+=1, 2. leg99 D 8 [C B_b]
+=2  4 leg80 f Bb 2 leg99 eb(1
+=3' 4 leg99 d)2 8 [c Bb] 4 leg80 c F
+|
+=1' 4 leg80 A  D 2 leg99 G(1
+=1, 4 leg80 C blank 2 leg99 B_b(2
+=2' 4 blank leg80 f# 2 blank
+=2, 4 leg99 e)1 8 [d c#] [d c leg90 d en]
+=3' 2. leg99 Bb 8 [A G]
+|
+=1' 4 leg99 G)1 8 [F E] 4 F 8 [E D]
+=1, 4 leg99 B_)2
+=2' 4 blank 8 leg99 [a g] 4 a 8 [gr f]
+=2, 4 leg99 c# cn leg80 Bn leg99 bb
+=3' 4 leg80 A  D 2 leg99 G(2
+|
+=1' 4 leg80 C# 2 leg99 A 4 G(1
+=1, 2 blank leg99 D
+=2' 4 leg99 er leg80 d 2 blank
+=2, 4. leg99 a 8 g 4 f 8 [e d]
+=3' 4 leg99 G)2 F 2 leg99 Bb
+|
+=1' 4 rest' leg90 <Bn d a> <c# e g> rest'
+=1, 4 leg99 <C# G)1> <D F> <C# E> rest,
+=2' 2. blank 4 leg90 <g c~#>
+=2, 2. leg99 a 4 leg90 e
+=3' 1 A(2
+|
+il0.7 220
+=1' 4 rest' leg90 <d f> <c# e> rest'
+=1, 4 rest, leg90 A G rest,
+=2' 4 leg90 <a d~> rest'' rest'' <c~# e~>
+=2, 4 leg90 f rest rest g
+=3' 1 A)2(2
+|
+=1' 4 rest' leg90 <A d> rest' <Gx A c#>
+=1, 4 rest, leg90 F rest, E
+=2' 4 leg90 <d~ f~> rest' 2 <e a>
+=2, 4 leg90 a rest, 2 A
+=3' 1 leg90 A)2
+|
+=1  1 <D F# A d-fermata>
+=2  1 <d f# a-fermata>
+=3  1 D-fermata

@@ -1,0 +1,163 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	98.11.29.22.37.51;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.11.25.04.02.27;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.11.24.23.59.48;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@second half of p2
+@
+
+
+1.3
+log
+@king -> King
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 1.6c
+.LP
+A six-voice fugue is an almost unheard-of technical challenge
+\- there is none in the Well-Tempered Clavier, for example \-
+and the King's theme, which does not fit in stretto with itself,
+is particularly unfavourable to treatment in many voices.
+On the other hand, because of its great eloquence,
+it is a wonderful subject for a three-voice fugue,
+and presumably Johann Sebastian pointed this out.
+
+.LP
+Arnold Schoenberg even suggested that the royal theme had been devised
+by Carl Philipp Emmanuel as a practical joke,
+because he knew a six-voice treatment would be impossible.
+I do think it was written by Carl Philipp Emmanuel,
+because it shows a superb understanding of Johann Sebastian's style,
+and is simply too good for the King to have invented.
+However, I do not think Carl Philipp Emmanuel,
+at the peak of a brilliant career,
+and well aware of his father's extraordinary powers,
+would have felt any need to ridicule him.
+
+.LP
+The King also desired to hear Johann Sebastian perform on the organ,
+so the next day he was taken round all the organs in Potsdam.
+The following day he returned to Leipzig.
+
+.LP
+The voyage to Potsdam is a defining event in the western musical tradition,
+because it is the only time Johann Sebastian was accorded public honour,
+the only time he played the fortepiano,
+and because it brings him, and all his contrapuntal powers,
+into contact with the best of the next generation,
+who were to develop the style which became that of Haydn and Mozart.
+
+.LP
+Six months later, Johann Sebastian sent to Potsdam a
+\f2Musical Offering\fP which he had had engraved at his own expense.
+The opening piece is a three voice fugue (\f2Ricercare a 3\fP)
+on the King's theme;
+this I see as Johann saying to Frederick
+"When I mentioned that the best setting for this theme was in three voices,
+this is what I had in mind ..." .
+The centrepiece is a six voice fugue (\f2Ricercare a 6\fP) on the King's theme;
+this I see as Johann saying to Carl Philipp
+"You see ? My art is adequate to your test ..." .
+The finale is a trio sonata, for flute, violin and continuo,
+largely based on the King's theme, a delight to play,
+perhaps the greatest and certainly the grandest trio sonata ever written.
+Between these three pieces are eight smaller ones, all on the King's theme.
+They include a number of puzzle canons,
+and the \f2Fuga Canonica in Epidiapente\fP for flute and keyboard.
+
+.LP
+Then Johann Sebastian Bach turned his attention to the \f2Art of Fugue\fP.
+.LP
+.sp 0.8c
+.ce 2
+Peter Billam
+.sp 0.4c
+\s+1\f2http://www.pjb.com.au/mus/\fP\s0
+@
+
+
+1.2
+log
+@Philipp Emmanuel spelling
+@
+text
+@d11 1
+a11 1
+and the king's theme, which does not fit in stretto with itself,
+d15 1
+a15 1
+and presumably Johann Sebastian pointed that out.
+d23 1
+a23 1
+and is simply too good for the king to have invented.
+d30 1
+a30 1
+The king also desired to hear Johann Sebastian perform on the organ,
+d46 1
+a46 1
+on the king's theme;
+d50 1
+a50 1
+The centrepiece is a six voice fugue (\f2Ricercare a 6\fP) on the king's theme;
+d54 1
+a54 1
+largely based on the king's theme, a delight to play,
+d56 1
+a56 1
+Between these three pieces are eight smaller ones, all on the king's theme.
+d58 1
+a58 1
+and the delightful \f2Fuga Canonica in Epidiapente\fP for flute and keyboard.
+d65 1
+a65 1
+Peter Billam, \s-1GPO B\s0ox 669, Hobart \s-1TAS\s0 7001, Australia
+@
+
+
+1.1
+log
+@tightened
+@
+text
+@d19 1
+a19 1
+by Carl Philip Emmanuel as a practical joke,
+d21 1
+a21 1
+I do think it was written by Carl Philip Emmanuel,
+d24 1
+a24 1
+However, I do not think Carl Philip Emmanuel,
+d51 1
+a51 1
+this I see as Johann saying to Carl Phillip
+d61 1
+a61 1
+Then Johann Sebastian Bach turned his attentions to the \f2Art of Fugue\fP.
+@

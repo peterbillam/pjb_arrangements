@@ -1,0 +1,29 @@
+boundingbox 400 135
+midi channel 1 patch 73 reverb 90 pan 20
+midi channel 2 patch 71 reverb 90 pan 80
+midi channel 3 patch 60 reverb 90 pan 60
+midi channel 4 patch 44 reverb 90 pan 40
+1 system /27-25-27 5/
+/
+2 bars | 9/8 8 8 10 | 8 8 10 | 3 3 3 4 3 3 3 2 3 2
+| 6/8 1.8
+#=3, treble 9/8 cha1 vol110 leg90 2. <f~ a~> 4. vol95 <c~ g~>
+=1, treble 9/8 cha2 vol110 leg90 2. <B f a> 4. vol95 <c e g>
+=2' bass   9/8 cha3 vol105 leg90 2. c(2 4. c)2-dim50
+#=4 treble 9/8 cha3 vol95 leg90 2. <D F> 4. <E G>
+##=5 treble 9/8 cha4 vol85 leg90 \
+ 163 [a d~ f~] 16 [e~ d~ c~ b] [a g f e f f#] [g a g f g g#]
+|
+#=3, cha1 vol110 leg90 2. <f~ a~> 4. vol95 <c~ g~>
+=1, cha2 vol110 leg90 2. <B f a> 4. vol95 <c e g>
+=2' cha3 vol105 leg90 2. c(2 4. c)2-dim50
+#=4 cha3 vol95 leg90 2. <D F> 4. <E G>
+##=5 cha4 vol85 leg90 \
+ 163 [a d~ f~] 16 [e~ d~ c~ b] [a g f e f f#] [g a g f g g#]
+| .23 .23 .23 .35 .35
+##=3, 8. leg55 vol110 [<e~ g~> 16 vol-10 <d~ f~> 8 vol-10 <c~ e~>] 4 vol110 <g d~>
+#=3, 8. leg55 vol110 [e~ 16 vol-10 d~ 8 vol-10 c~] 4 vol110 d~
+=1, 8. leg55 vol110 [<G e g> 16 vol-10 <G d f> 8 vol-10 <G c e>] 4 vol110 <G d>
+=2, 2. vol100 <G g-dim50>
+##=5 cha4 vol85 leg90 \
+ 163 [g c~ e~] 16 [d~ c~ b a] vol-10 [g vol-10 f vol-10 e vol-10 d vol-10 c vol-10 b]

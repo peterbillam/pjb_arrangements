@@ -1,0 +1,9 @@
+boundingbox 320 75
+midi channel 1 patch 44 reverb 60
+1 system /27 7/
+/
+1 bars | 3# 5 5 4 5 3 5 5 3 |
+| 2/4 1.1
+=1' treble 3/4 cha1 vol90 16 \
+ [<G_ B_ E> <A_ Cnl Fn> <A_# C#l F#> <B_ D Gn>] \
+ [<B_# D#l G#> <C E A> <Dn Fnl Bb> <D# F#l Bn>]

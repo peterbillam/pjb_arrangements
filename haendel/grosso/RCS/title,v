@@ -1,0 +1,56 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2009.04.10.10.28.51;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Title for Concerto Grosso op6no4
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 4.5c
+.ce 100
+\f3\s+9\s+9Concerto Grosso in A minor\s-9\s-9\fP
+.sp 2.2c
+\f2\s+9Georg Friederich Händel\s0\fP
+.sp 1.2c
+\f3\s-1Number 4 from the 12 Concerti Grossi, op 6\s0\fP
+.sp 2.4c
+\f2\s+9Arranged by Peter Billam\s0\fP
+.sp 1.2c
+\f3\s+2For Recorders and Harpsichord\s0\fP
+.sp 1.7c
+\(co Peter J Billam, 1997
+.sp 0.7c
+\s-1This score may be freely photocopied, and redistributed
+in paper form.  It may be freely performed to live audiences;
+performing rights are waived.  It may not be redistributed in
+electronic form, and all other rights, such as those of recording
+and broadcast, remain reserved by the composer, Peter Billam,
+GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
+.sp 0.7c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.7c
+\f2http:\fP//\f2www.pjb.com.au\fP
+@

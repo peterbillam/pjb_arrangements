@@ -1,0 +1,37 @@
+boundingbox 490 68
+## rhi_2 [1119-1123]
+midi channel 1  patch 59 reverb 60 pan 30 # cor_anglais
+midi channel 2  patch 70 reverb 60 pan 10 # bassoon1
+midi channel 3  patch 70 reverb 60 pan 90 # bassoon2
+midi channel 4  patch 70 reverb 60 pan 50 # bassoon3
+midi channel 5  patch 47 reverb 60 pan 70 # tympani
+1 systems 3 /27/
+/
+5 bars | 4 3 4 4 4 5  4 3 4 6 10 5 | 4 3 4 4 4 5  4 3 4 6 10 5 | 25 | 25 | 10
+| 3.0
+=1, bass   cha1 vol95 leg98 4. bb 8 g 4 vol+10 f(2 83 [f)2 vol-10 g-I3 ab]
+#=2 bass   cha2 vol95 leg98 4. g 8 eb 4 vol+10 d(2 83 [d)2 vol-10 e f]
+#=3 bass   cha3 vol75 leg98 2 Bb vol+10 cb vol-10
+#=4 bass   cha4 vol75 leg98 2 G vol+10 Ab vol-10
+#=5 bass   cha5 vol70 leg90 2 rest 163 d d 4 d rest
+| 3.0
+=1   4. bb 8 g 4 vol+10 f(2 83 [f)2 vol-10 g-I3 ab]
+#=2  4. g 8 eb 4 vol+10 d(2 83 [d)2 vol-10 e f]
+#=3  2 Bb vol+10 cb vol-10
+#=4  2 G vol+10 Ab vol-10
+#=5  2 rest 163 d d 4 d rest
+|
+=1 2 bb a
+#=2 2 eb c
+#=3 2 Bb eb
+#=4 4 G Gb 2 Fn
+|
+=1 2 ab g
+#=2 4 F Fb 2 Eb
+#=3 2 db Bb
+#=4 2 Ab db
+|
+=1 1 ab-dim40
+#=2 1 eb-dim30
+#=3 1 Eb-dim30
+#=4 1 cb-dim30

@@ -1,0 +1,61 @@
+10 systems 20 /19/19/19 35/ 19/19 35/ 19 35 19 35/19/19/19/19 15/
+pagenum 3
+innerhead Peter Billam
+title Five Rounds
+leftfoot (c) 1986 Peter J Billam
+midi channel 1 patch 52 pan 05
+midi channel 2 patch 52 pan 35
+midi channel 3 patch 52 pan 65
+midi channel 4 patch 52 pan 95
+/
+5 bars ||: 4/4 4 | 6 | 6 | 6 | 6 |
+| 2/4 152
+bl1.2 .01 A.B.C.
+il0.2 .18 1
+=1 treble 4/4 cha2 qua [A B'] [c d]
+r0.2 .28 A .46 B .64 C .82 D
+| 4/4 152
+=1 cro e A e A
+r0.2 .04 E .28 A .52 E .76 A
+|
+il0.2 .45 2
+=1 cro d A d A
+r0.2 .04 D .28 A .52 D .76 A
+|
+=1 cro c A c A
+r0.2 .04 C .28 A .52 C .76 A
+|
+=1 cro B' rest B' d
+r0.2 .04 B .52 B .76 D
+/
+4 bars | 24 | 3 3 3 4 3 3 4 4 | 24 | 24 |
+|
+=1 cro e c e c
+r0.2 .06 E .30 C .53 E .76 C
+|
+=1 cro. g qua rest cro d qua [e f]
+r0.2 .04 G .52 D .76 E  F
+|
+=1 cro g c g c
+r0.2 .04 G .28 C .52 G .76 C
+|
+=1 cro f c f c
+r0.2 .04 F .28 C .52 F .76 C
+/
+5 bars | 24 | 24 | 24 | 12 16 | 10 :||
+|
+=1 cro e c e c
+r0.2 .06 E .30 C .53 E .76 C
+|
+=1 cro d rest d f
+r0.2 .04 D .52 D .76 F
+|
+=1 cro g e g e
+r0.2 .04 G .28 E .52 G .76 E
+|
+=1 min g(1 qua [g)1 e] [d c]
+r0.2 .04 G .60 E .74 D .85 C
+|
+=1 min B
+r0.2 .04 B
+

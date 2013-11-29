@@ -1,0 +1,92 @@
+boundingbox 360 125
+midi channel 1  patch 60 reverb 70 pan 40 # horn
+midi channel 2  patch 56 reverb 70 pan 20 # trpr
+midi channel 3  patch 57 reverb 70 pan 60 # trbn
+midi channel 4  patch 58 reverb 70 pan 80 # tuba
+midi channel 5  patch 44 reverb 70 pan 10 # vln1
+midi channel 6  patch 44 reverb 70 pan 30 # vln2
+midi channel 7  patch 44 reverb 70 pan 50 # vla
+midi channel 8  patch 44 reverb 70 pan 70 # vlc
+midi channel 0  patch 44 reverb 60 pan 90 # bass
+2 systems /27 10/27 1/
+/
+4 bars | 4 4 4 4 4 4 4 6 | 28 | 16 22 | 16 20 |
+| 4/4 1.6
+=1,  treble8vab cha1 vol125 leg80 2.. B 8 B
+r0.1 .25 Helle
+#=2  treble     cha2 vol70  leg99 1 rest
+#=3  bass       cha3 vol70  leg99 1 rest
+#=4  bass       cha4 vol70  leg99 1 rest
+#=5  treble     cha5 vol40  leg99 1 D#
+#=6  treble     cha6 vol40  leg99 1 D#
+#=7  alto       cha7 vol40  leg99 1 D#
+#=8  bass       cha8 vol60  leg80 1 rest
+#=10 bass8vab   cha0 vol70  leg99 1 rest
+|
+=1'  1 f#
+r0.1 .05 Wehr,
+#=5' 1 D#
+#=6' 1 D#
+#=7' 1 D#
+| .8 .87
+=1   2 leg99 c(1 43 c)1 B-I3 leg80 A
+r0.20 .27 heilige
+#=5  1 vol+10 E
+#=6  1 vol+10 C
+#=7  1 vol+10 A
+#=8  1 en
+| 1.6
+=1  2 e 4 A rest
+r0.1 .05 Waffe:
+#=3' 4 leg45 c leg80 2. F#
+#=4' 4 leg45 C leg80 2. F_#
+#=5  1 vol+10 E
+#=6  1 vol+10 C
+#=7  1 vol+10 A
+#=8  1 en
+#=10 4 leg45 <c c~> 2. leg99 <F# f#>
+
+/
+4 bars | 10 8 8 8 | 6 5 5 9.0 7.3 7.3 | 28 | 12
+|
+=1   leg80 2 g-. leg99 c(1
+r0.01 .10 hilf .73 meinem
+#=2' 2 rest 4 leg60 G leg99 C(2
+#=3'  1 <E e g c~>
+#=4  
+#=5  1 <C A>
+#=6  1 E
+#=7  1 <E G>
+#=8  1 <E c>
+#=10 2 <E(2 e(1> 8 <E)2 e)1> 4. rest
+| .8 .95
+=1   4 c)1 d 43 f eb-I3 leg80 d
+r0.01 .45 ewigen
+#=2  1 C)2
+#=3'  1 <Fn f ab d~>
+#=5  1 D
+#=6  1 <F Ab>
+#=7  1 <C Ab>
+#=8  1 <F c>
+| 1.6
+=1   1 leg90 c
+r0.01 .07 Ei .70 -
+#=2' 1 G_(2
+#=3' 1 leg99 <G(2 g c~x d~>
+#=5' 1 D(2
+#=6' 1 leg99 C
+#=7' 1 G(2
+#=8  1 G(2
+#=10 1 vol-5 G(2
+|
+=1   4 G
+r0.01 .01 de!
+#=2' 4 G_)2-dim40
+#=3' 4 <G)2 g bn d~-dim40>
+#=4' 
+#=5  4 D)2-dim40
+#=6  4 B_n-dim40
+#=7  4 G)2-dim40
+#=8  4 G)2-dim40
+#=10 4 G)2-dim40
+

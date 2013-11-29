@@ -1,0 +1,1405 @@
+6 systems 15 /19-30-19/19-30-19/19-30-19/19-35-19/19-30-19/19-30-19/
+pagenum 3
+innerhead J. S. Bach,  Four Duets,  BWV802
+title Duetto I.
+leftfoot Typeset 2012 by Peter J Billam
+midi channel 1 bank 6,0 patch 22 pan 20
+midi channel 2 bank 6,0 patch 22 pan 80
+# midi off
+/
+3 bars |1# 3/8 5 5 5 5 6 6 5 5 5 5 5 4 \
+ | 5 5 4 4 4 4 4 4 4 5 4 4 | 5 5 4 4 4 4 4 4 4 4 |
+| 3/8 2.0
+=1' treble  1# 3/8 cha1 32 [E F G A B c# d# e d c B A]
+=2' bass    1# 3/8 cha2 cro. rest
+|
+=1' 32 [G F 16 E] rest [c B A#]
+=2' 8 rest [E e]
+|
+=1' 32 [A# B 16 B_] rest [Bb An G#]
+=2' 8 [d# Dn dn]
+/
+3 bars |1# 5 5 4 4 5 5 5 5 5 5 5 4 | 5 5 4 4 5 5 4 4 6 5 5 4 \
+ | 5 5 5 5  6 5 5 5  5 5 5 4 |
+|
+=1  32 [G# A 16 A_] 32 rest [A, c e a g f e]
+=2' 8 [c# Cn cn]
+|
+il0.6 .03 5
+=1, 32 [d# f 16 g(1] 32 [g)1 e 16 A#(1] 32 [A)1 An f A]
+=2' 8 [B c# d#]
+|
+=1  32 [A F G c'] [c A#, B f] [e d e A,]
+=2, 8 [e dn c#]
+/
+3 bars |1# 6 5 5 5 6 6 5 5 5 5 5 4 \
+ | 6 5 4 4 4 4 4 4 4 4 4 4 | 5 5 4 4 4 4 4 4 4 4 4 4 |
+|
+=1  32 [d c# 16 B] 8 rest rest
+=2, 32 [B c# d e f g# a# b a g f e]
+|
+=1, 8 rest [B b]
+=2  32 [d' c# 16 B] rest [g f e#]
+|
+=1, 8 [a# An an]
+=2  32 [e#' f' 16 F] rest [fn en d#]
+/
+3 bars |1# 5 5 4 4 5 5 5 5 5 6 5 4 \
+ | 6 5 4 4 5 5 4 4 6 5 5 4 | 6 5 5 5 5 5 5 5 6 5 6 4 |
+|
+il0.6 .20 10
+=1, 8 [g# Gn gn]
+=2  32 [d#' e' 16 E] 32 rest [e g b e~ d~ c~# b]
+|
+=1  8 [f g# a#]
+=2  32 [a# c~# 16 d~(1] 32 [d~)1 b 16 e#(1] 32 [e)1 en c~ e]
+|
+=1  8 b rest B(1
+=2, 32 [e c# d g] [g e f e~] [d~ c~# d~ g#]
+/
+3 bars |1# 6 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5  6 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+=1, 32 [B)1 G# A d] [d B c b] [a g a d#]
+=2  8 c~n rest c(2
+|
+=1  8 g rest G(2
+=2  32 [c)2 A B' f'] [f d# e c~] [b a b e]
+|
+il0.6 .03 15
+=1  32 [G)2 E F B'] [B G, A, g] [f e f B]
+=2  8 a rest A(2
+/
+3 bars |1# 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 6 6 5 5 5 5 5 6 6 5 5 4 | 5 5 5 5 6 6 5 5 5 5 5 4 |
+|
+=1  8 e rest E(2
+=2  32 [A)2 F G c] [c A B a'] [g f g c#,]
+
+|
+=1  32 [E)2 C# D# G] [G E F e'] [d# c# d A,]
+=2  8 f rest B
+|
+=1  32 [G F 16 E] 8 rest rest
+=2  32 [e f g a b c~# d~# e~ d~ c~ b a]
+
+6 systems 10 /19-30-19/19-30-19/19-30-19/19-35-19/19-35-19/19-25-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto I,  BWV802
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars |1# 5 5 5 5 6.5 6.5 6.2 6.5 6.5 5 5 4 \
+         | 5 5 5 5 6.5 6.5 6.4 6.5 6.5 5 5 4 \
+         | 5 5 5 5 6.5 6.5 6.2 6.5 6.5 5 5 4 |
+|
+=1' 32 [E F G A B c# d# e d# c# B A]
+=2  32 [g f e f g a b c~n b a g f]
+|
+il1.1 .03 20
+=1' 32 [G F E F G A B cn B A G F]
+=2  32 [e f g a b c~# d~# e~ d~# c~# b a]
+|
+=1' 32 [E F G A B c# d# e d# c# B A]
+=2  32 [g f e f g a b c~n b a g f]
+/
+3 bars |1# 5 5 5 4  4 4 4 4  4 4 4 4 \
+ | 5 5 5 4 4 4 4 4 4 4 4 4 | 5 5 5 4 5 5 5 5 6 5 5 4 |
+|
+=1  32 [G F 16 E] 16 rest [c~ b a#]
+=2  8 [e e~ e]
+|
+=1  32 [a# b 16 B] rest [bb an g#]
+=2  8 [d# d~n dn]
+|
+=1, 32 [g# a 16 A] 32 rest [A, c e a gn f e]
+=2, 8 [c# c~n cn]
+/
+3 bars |1# 5 5 5 4 5 5 5 4 6 5 5 4 \
+ | 5 5 5 4 5 5 5 4 5 5 5 4 | 5 6 5 4 5 5 5 4 6 5 5 4 |
+|
+il0.6 .03 25
+=1, 32 [d# f 16 g(1] 32 [g)1 e 16 A#(1] 32 [A)1 An f A]
+=2' 8 [B c# d#]
+|
+=1' 32 [G# B 16 c(2] 32 [c)2 A 16 D#(2] 32 [D)2 E B d]
+=2  8 [e f g#]
+|
+=1, 32 [c# e 16 fn(1] 32 [f)1 d 16 G#(1] 32 [G)1 Gn e G]
+=2' 8 [A B c#]
+/
+3 bars |1# 5 6 5 4 5 5 5 4 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 4 4 4 4 4 4 4 |
+|
+=1' 32 [F A 16 Bb(2] 32 [B)2 G 16 C#(2] 32 [C)2 D A c]
+=2  8 [d e f]
+|
+=1, 32 [B A G A B c d e f g f e]
+=2' 32 [G A B c d e f g f e d c]
+|
+il0.6 .03 30
+=1, 32 [d c B A] 8 [G g]
+=2  32 [B A 16 G] rest [eb d c#,]
+/
+3 bars |1# 5 5 5 4 4 4 4 4 4 4 4 4 \
+ | 5 5 5 4 5 6 5 5 6 5 5 4 | 5 6 5 4 5 5 5 4 6 5 5 4 |
+|
+=1, 8 [f Fn fn]
+=2' 32 [c# d 16 D] rest [db cn B]
+|
+=1' 8 [e Eb eb]
+=2  32 [B c 16 C] 32 rest [c, eb g c~ bb a g]
+|
+=1, 8 [d en f]
+=2, 32 [f# a 16 bb(1] 32 [b)1 g 16 c#(1] 32 [c)1 cn a c]
+/
+3 bars |1# 5 5 5 5 6 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 6 5 6 5 5 5 4 | 5 5 5 5 5 4 4 4 4 4 4 4 |
+|
+=1  8 [G F E]
+=2  32 [c A B e'] [e c#, d a] [g f g c,]
+|
+il1.0 .03 35
+=1' 32 [D E F G A B c# d c B A G]
+=2  32 [f e d e f g a b c~# d~ c~ b]
+|
+=1' 32 [F E 16 D] rest [Bb A G#]
+=2, 32 [a g f e] 8 [d d~]
+
+6 systems /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto I,  BWV802
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars |1# 5 5 5 4 4 4 4 4 4 4 4 4 \
+ | 5 5 5 4 5 6 5 5 6 5 5 4 | 5 6 5 4 5 5 5 4 6 5 5 4 |
+|
+=1' 32 [G# A 16 A_] rest [Ab Gn F]
+=2, 8 [c~# cn c~n]
+|
+=1  32 [F# G 16 G_] 32 rest [G, Bb d g fn e d]
+=2, 8 [b Bb bb]
+|
+=1, 32 [c# e 16 fn(1] 32 [f)1 d 16 G#(1] 32 [G)1 Gn e G]
+=2, 8 [a b c~#]
+/
+3 bars |1# 5 6 6 5 6 5 5 6 5 5 5 4 \
+ | 5 5 6 5 6 5 5 5 5 5 6 4 | 6 5 5 5 5 6 5 5 5 5 5 4 |
+|
+il1.0 .03 40
+=1  32 [G E Fn Bb'] [B G#, A, g] [fn e f Bn]
+=2  8 d~ rest d(1
+|
+=1  8 e rest E(2
+=2, 32 [d)1 B c fn] [f d# e d~] [c~ b c~ f#]
+|
+=1 32 [E)2 C# D A'] [A, F, G#, e] [d c d G,]
+=2 8 b rest B(2
+/
+3 bars |1# 6 5 5 5 5 5 5 5 5 5 5 4 \
+ | 6 5 5 5 6 5 5 5 6 5 5 4 | 6 5 5 5 6 6 5 5 5 5 5 4 |
+|
+=1 8 c rest C(2
+=2  32 [B)2 G# A d'] [d B, c, b] [a g a d#]
+|
+=1' 32 [C)2 A_# B_ F] [F D# E c] [B' A# B E]
+=2 8 g rest G(2
+|
+il0.6 .23 45
+=1 8 A# rest rest
+=2' 32 [G)2 E# F B] [B G# A# f] [e d e A#]
+/
+3 bars |1# 5 5 4 4 5 5 4 5 5 4 4 3 \
+ | 5 4 4 4 5 5 4 5 5 4 4 3 | 5 4 4 4 5 5 4 5 5 4 4 3 |
+|
+=1, 32 [B c# d# e f g# a# b a# g# f e]
+=2' 32 [d c# 16 B] 8 rest rest
+|
+=1  32 [d c# B c d e f g f e d c]
+=2, 32 [B c# d e f g# a# b a# g# f e]
+|
+=1, 32 [B c# d e f g# a# b a# g# f e]
+=2, 32 [d c# B c d e f g f e d c]
+/
+3 bars |1# 6 5 5 5 6 6 6 6 6 5 5 4 \
+ | 6 5 5 4 4 4 4 4 4 4 4 4 | 5 5 5 4 4 4 4 4 4 4 4 4 |
+|
+=1  32 [d c# B c d e f gn f e d c]
+=2, 32 [B c# d e f g# a# b a# g# f e]
+|
+il0.6 .03 50
+=1 8 [B b B]
+=2, 32 [d c# 16 B] rest [g f e#]
+|
+=1' 8 [A# an An]
+=2' 32 [e# f 16 F] rest [f en d#]
+/
+3 bars |1# 5 5 5 4 5 5 5 5 5 6 5 4 \
+ | 6 5 5 4 5 5 5 4 6 5 5 4 | 5 5 5 4 5 5 5 4 5 5 5 4 |
+|
+=1' 8 [G# gn Gn]
+=2  32 [d#' e' 16 E] 32 rest [e g b e~ d~ c~# b]
+
+|
+=1  8 [F G# A#]
+=2  32 [a# c~# 16 d~(1] 32 [d~)1 b 16 e#(1] 32 [e)1 en c~ e]
+|
+=1  8 [B c# d#]
+=2, 32 [d# f 16 g(1] 32 [g)1 e 16 A#(1] 32 [A)1 B f a]
+
+6 systems /19-30-19/19-30-19/19-30-19/19-35-19/19-30-19/19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto I,  BWV802
+leftfoot Typeset 2012 by Peter J Billam
+/
+3 bars |1# 5 5 5 4 5 5 5 4 6 5 5 4 \
+ | 5 6 5 4 5 5 5 4 5 5 5 4 | 6 5 5 6 6 5 6 5 6 5 6 4 |
+|
+il0.6 .03 55
+=1 8 [E F G#]
+=2 32 [g# b 16 c~(1] 32 [c~)1 a 16 d#(1] 32 [d#)1 dn b d]
+|
+=1' 8 [A B c#]
+=2  32 [c#, e 16 fn(1] 32 [f')1 d' 16 G#(2] 32 [G)2 A e' g']
+|
+=1' 32 [d cn B A G# F# E D# E F# G A]
+=2, 32 [fn e 16 d] 8 rest 32 rest [d e fn]
+/
+3 bars |1# 5 5 5 5 5 6 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 6 4 | 5 5 5 5  6 6 5 5  5 5 5 4 |
+|
+=1, 32 [B c 16 d] 8 rest 32 rest [d c B]
+=2' 32 [e d c B A G# F E F G A B]
+|
+=1, 32 [A B c d e f g a g f e d#]
+=2, 32 [c d 16 e] 8 rest 32 rest [a b c~]
+|
+il0.7 .30 60
+=1  32 [c~ a 16 b] 8 rest 32 rest [A G F]
+=2, 32 [d# f g a b c~# d~# e~ d~ c~ b a]
+/
+3 bars |1# 5 5 5 5 6 6 6 6 5 5 5 4 \
+ | 5 5 5 5 5 4 4 4 4 4 4 4 | 5 5 5 4 4 4 4 4 4 4 4 4 |
+|
+=1' 32 [E F G A B c# d# e d c B A]
+=2  32 [g f e f g a b c~# d~# e~ d~ c~]
+|
+=1' 32 [G F 16 E] rest [c B A#]
+=2, 32 [b a g f] 8 [e e~]
+|
+=1' 32 [A# B 16 B_] rest [Bb An G#]
+=2, 8 [d~# dn d~n]
+/
+3 bars |1# 5 5 5 4 5 5 5 5 5 5 5 4 \
+ | 5 5 5 4 5 5 5 4 6 5 5 4 | 5 5 5 5 6 6 6 6 5 5 5 4 |
+|
+=1  32 [G# A 16 A_] 32 rest [A, c e a g f e]
+=2, 8 [c~# cn c~n]
+|
+il0.7 .03 65
+=1, 32 [d# f 16 g(1] 32 [g)1 e 16 A#(1] 32 [A)1 An f A]
+=2, 8 [b c~# d~#]
+|
+=1' 32 [G F E F G A B c# d# e d c]
+=2, 32 [e f g a b c~# d~# e~ d~ c~ b a]
+/
+3 bars |1# 5 5 5 5 5 4 4 4 4 4 4 4 \
+ | 5 5 5 4 4 4 4 4 4 4 4 4 | 5 5 5 4 5 5 5 5 6 5 5 4 |
+|
+=1' 32 [B A G F] 8 [E e]
+=2, 32 [g f 16 e] rest [c~ b a#]
+|
+=1' 8 [d# Dn dn]
+=2, 32 [a# b 16 B] rest [bb an g#]
+|
+=1' 8 [c# Cn cn]
+=2, 32 [g# a 16 A] 32 rest [A c e a gn f e]
+/
+4 bars | 1#  5 5 5 4 5 5 5 4 6 5 5 4 \
+ | 5 5 5 4 6 5 5 4 5 5 5 4 | 5 5 5 5 4 4 4 4 4 4 4 3 | 14 ||
+|
+il0.6 .03 70
+=1, 8 [B c# d#(1]
+=2  32 [d# f 16 g(1] 32 [g)1 e 16 A#,(1] 32 [A)1 An f' A]
+|
+=1, 32 [d)1 A# 16 B(1] 32 [B)1 d# 16 e(1] 32 [e)1 d 16 a(1]
+=2' 8 [G# Gn F]
+|
+=1, 32 [a)1 g f e] 8 [f d#-turn]
+=2' 16 [E c 8 A B]
+|
+=1, 4. e-fermata
+=2' 4. E-fermata
+midi pause 3.0
+
+6 systems 15 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  BWV803
+title Duetto II.
+leftfoot Typeset 2012 by Peter J Billam
+#midi channel 1 patch 0 pan 20
+#midi channel 2 patch 0 pan 80
+/
+6 bars |1b 2/4 48 | 12 12 12 16 | 56 | 56 || Segno 64 | 16 16 14 16 |
+| 2/4 1.5
+=1' treble 1b 2/4 cha1 4 F A
+=2' bass   1b 2/4 cha2 4 blank 2 rest
+|
+=1, 4. c 16 [B A]
+=2' 4 blank 2 rest
+|
+=1, 8 [B c d e]
+=2' 4 blank 2 rest
+|
+=1, 8 [f c f a]
+=2' 4 blank 2 rest
+|
+=1, 16 [g f e d] [c B A G]
+=2  4 c e
+|
+=1  16 [A c' F A] 4 d(1
+=2, 4. f 16 [f e]
+/
+5 bars |1b 4 3 5 4 4 4 4 3 | 4 4 5 4 4 4 4 3 \
+ | 4 5 4 5 4 4 4 3 | 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 3 |
+|
+=1  8 [d)1 16 c-tr Bn] [c e d f]
+=2  8 [f g a bn]
+|
+=1, 16 [e d c Bn] [A c G c]
+=2  8 [c~ g c~ e~]
+|
+=1, 16 [F e d c] [Bn d G B]
+=2  16 [d~ c~ bn a] [g f e d]
+|
+il0.6 .03 10
+=1, 4 c(1 16 [c)1 e A c]
+=2, 16 [e g c e] 4 a(1
+|
+=1' 4 F(2 16 [F)2 A D F]
+=2, 16 [a)1 c~ f a] 4 d(1
+/
+5 bars | 4 4 4 4 4 4 4 3 |
+|
+=1, 4 B(1 16 [B)1 d G B]
+=2, 16 [d)1 f B d] 4 g(1
+|
+=1' 4 E(2 16 [E)2 G C E]
+=2  16 [g)1 b e g] 4 c(2
+|
+=1' 16 [A c F A] [D F B_ D]
+=2  16 [c)2 e' A c] [f a d f]
+|
+=1' 16 [G B E G] [C E A_ C]
+=2  16 [B d' G B] [e g c, e]
+|
+=1  16 [F A D F] [B d G, B]
+=2  16 [A c F A] [d f B, d]
+/
+5 bars | 4 4 4 4 4 4 4 3 | 4 4 4 4 4 3 4 3 \
+ | 4 3 4 4 5 4 4 3 | 4 4 4 4 4 4 4 3 | 4 4 4 4 5 4 4 3 |
+|
+=1' 4 C E
+=2, 16 [e g c e] [g b e g]
+|
+=1' 4. F 16 [F E]
+=2, 16 [a c~ f a] 4 d~(1
+|
+=1' 8 [F G A B]
+=2, 8 [d~)1 16 c~ b] [c~ e~b d~ f~]
+|
+il0.9 .03 20
+=1' 8 [c F B d]
+=2, 16 [e~b d~ e~ c~] [d~ f~ b d~]
+|
+=1' 16 [c B A G] [F Eb D C]
+=2  16 [eb d~ c~ b] [a c~ f a]
+/
+5 bars | 4 4 4 4 4 4 4 3 |
+|
+=1  16 [D B_ F D] 4 B(1
+=2' 4 B(2 16 [B)2 G d B]
+|
+=1  16 [B)1 d G, B] 4 E(2
+=2, 4 g(1 16 [g)1 b e g]
+|
+=1  16 [E)2 C G E] 4 c(1
+=2' 4 c(2 16 [c)2 A e c]
+|
+=1  16 [c)1 e A, c] 4 F(2
+=2, 4 a(1 16 [a)1 c~ f a]
+|
+=1  16 [F)2 D A F] [d A, f d]
+=2, 4 d(1 16 [d)1 f d f]
+/
+5 bars | 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 5 4 3 | 4 4 4 4 4 4 4 3 | 4 5 4 4 4 4 4 3 |
+|
+=1, 16 [B G d B] [g d b g]
+=2  16 [g b d g] [B d' G B]
+|
+=1, 16 [e c g e] [b g e c~]
+=2' 16 [c e G c] [E G C E]
+|
+=1  16 [a c~ f a] [c f eb d]
+=2  4 F A
+|
+il0.7 .30 30
+=1, 16 [eb g c e] [A e d c]
+=2  4. c 16 [B A]
+|
+=1, 16 [d B en B] [f B g B]
+=2' 8 [B c d e]
+
+6 systems 15 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto II,  BWV803
+leftfoot Typeset 2012 by Peter J Billam
+/
+5 bars |1b  64 | 64 | 64 | 64 | 54 |
+|
+=1, 16 [A g f e] [d f c f]
+=2, 8 [f c f a]
+|
+=1, 16 [B a g f] [e g c e]
+=2  16 [g f e d] [c B A G]
+|
+=1, 16 [f c a f] [c A f c]
+=2' 16 [A c F A] [c f A c]
+|
+=1' 16 [A F c A] [F C A F]
+=2, 16 [f a c f] [a 16-s c~ 16 f a]
+|
+=1  4-s C 4 g-tr
+=2  4 c~ c
+/
+5 bars | 4 4 4 4 4 3 4 3 | 7 7 7 6 \
+ | 5 4 4 4 5 4 5 3 | 4 4 4 4 4 3 4 3 | 7 7 7 6 |
+|
+=1  4 f-fermata 8 rest A{'1
+=2' 16 [f-fermata c A c] 8 F rest
+|
+=1, 8 [Bb c#] 4 d}'1(1
+=2, 8 rest [e{'1 fn g#]
+|
+=1, 16 [d)1 c# d e] 4 f(1
+=2, 4 a}'1(1 16 [a)1 g# a bn]
+|
+il0.6 .03 40
+=1, 8 [f)1 16 eb d 8 e F#]
+=2, 4. c~ 16 [bb a]
+|
+=1' 4 G 8 rest Fn{'1
+=2, 8 [b c#] 4 d
+/
+5 bars | 4 3 4 3 4 3 5.5 3 | 4 3 5 5 4 4 4 3 \
+       | 5 4 4 4 5 4 4 3 | 5 4 4 4 4 4 4 3 | 13 12 |
+|
+=1' 8 [G# A}'1(2] [A)2 16 Gn F#]
+=2, 8 rest [cn{'1 d# e}'1(1]
+|
+=1' 8 [G 16 e G] [Fn E D F]
+=2, 8 [e)1 16 dn c#] 8 [d 16 bn d]
+|
+=1  8 [E A] 16 [d-tr c# 8 d(1]
+=2' 16 [c Bn A c] 8 [B e]
+|
+=1  8 [d)1 16 c# B] [A G F E]
+=2, 16 [a-tr g# 8 a] 4 rest
+|
+=1  4 D F
+=2  4 rest A
+/
+5 bars | 4 3 4 3 4 3 4 3 | 4 3 5 4 4 3 4 3 \
+ | 4 3 4 3 4 3 5 3 | 4 3 4 4 4 3 4 3 | 4 4 4 4 4 3 4 3 |
+|
+=1  4. A 16 [G F]
+=2  4 c# e(1
+|
+=1' 8 [G A B c#]
+=2, 8 [e)1 16 d c#] 8 [d e]
+|
+=1  4. d 16 [c# Bn]
+=2  8 [f g] 4 a(1
+|
+il0.6 .03 50
+=1, 8 [c# d e f]
+=2, 8 [a)1 16 g f] 8 [g a]
+|
+=1, 16-s a' 83 [g 16 f e] 8 [f d]
+=2, 8 [bn c~# d~ bb]
+/
+5 bars | 4 4 4 4 4 3 4 3 | 4 3 4 3 4 3 4 3 \
+ | 5 4 5 4 5 4 5 3 | 4 3 4 4 4 3 4 3 | 7 7 7 6 |
+|
+=1, 4 e-tr c#-tr
+=2, 16-s a' 83 [g 16 f g] 8 [a e{'1]
+|
+=1, 8 [d Bn{'1 cn d#]
+=2, 8 [f g#] 4 a}'1(1
+|
+=1, 4 e}'1(1 16 [e)1 d# e f#]
+=2, 16 [a)1 g# a bn] 4 c~(1
+|
+=1, 4. g 16 [fn e]
+=2, 8 [c~)1 16 bb a 8 b c#]
+|
+=1  8 [f G#,] 4 A
+=2  4 d 8 rest cn{'1
+/
+5 bars | 4 3 4 3 4 3 5.5 3 | 4 3 5 4 5 4 4 3 \
+ | 5 4 4 4 5 4 4 3 | 5 4 5 4 4 4 5 3 | 7 6 7 5 |
+|
+=1' 8 rest [Gn{'1 A# Bn}'1(2]
+=2  8 d# 4 e}'1 16 [dn' c#]
+|
+=1  8 [B')2 16 An G#] 8 [A, 16 f# A,]
+=2  8 [d 16 bn d] [c Bn A c]
+|
+=1' 16 [G F# E G] 8 [F d#]
+=2  8 [Bn e'] 16 [a-tr g# 8 a(1]
+|
+=1, 16 [e-tr d# 8 e] 4 rest
+=2  8 [a)1 16 g# f#] [e' d' c Bn]
+|
+il0.4 .03 60
+=1  4 rest E
+=2' 4 A c
+
+6 systems 15 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto II,  BWV803
+leftfoot Typeset 2012 by Peter J Billam
+/
+5 bars |1b 3 3 3 3 4 3 4 3 | 4 3 5 4 4 3 4 3 \
+ | 4 3 4 3 4 3 5 3 | 4 3 4 4 4 3 4 3 | 4 4 5 4 4 3 4 3 |
+|
+=1' 4 G# Bn(2
+=2  4. e 16 [d' c]
+|
+=1' 8 [B)2 16 A G#] 8 [A Bn]
+=2, [d e f# g#]
+|
+=1, 8 [c d] 4 e(1
+=2, 4. a 16 [g# f#]
+|
+=1, 8 [e)1 16 d c] 8 [d e]
+=2, 8 [g# a bn c~]
+|
+=1, 8 [f# g#] 4 a(1
+=2, 16-s e~' 83 [d~ 16 c~ bn] 8 [c~ f~]
+/
+5 bars | 4 3 5 4 4 4 5 3 | 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 3 3 3 | 4 3 4 3 4 3 4 3 | 4 3 4 3 4 3 3 3 |
+|
+=1, 8 [a)1 16 g# f#] [e d c Bn]
+=2, 8 [d~ bn e~ e]
+|
+=1' 4 A(2 16 [A)2 E c A]
+=2  16 [a c~ e a] [c e' A c]
+|
+=1, 16 [f c a f] 8 [c~ f]
+=2' 4 F A
+|
+=1, 8 [e eb d db(1]
+=2' 4. c 16 [B A]
+|
+il0.6 .03 70
+=1, 8 [d)1 c Bn Bb]
+=2' 8 [B c d e]
+/
+5 bars | 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 3 3 3 | 4 3 4 3 4 3 5 3 | 4 3 4 3 4 3 3 3 |
+|
+=1  16 [A G F G] [A, B c d]
+=2, 8 [f c f a]
+|
+=1, 16 [e d c d] [e f 8 g]
+=2  16 [g f e d] [c B A G]
+|
+=1  4 c Ab
+=2' 16 [Ab c F A] 8 [C c]
+|
+=1' 4. F 16 [G Ab]
+=2, 8 [db dn eb en(1]
+|
+=1' 8 [G F Eb Db]
+=2, [e)1 f gb gn]
+/
+5 bars | 4 4 4 4 4 4 5.5 3 | 5.5 5.5 5.5 5.5 4 5.5 4 3 \
+ | 4 5.5 4 4 5.5 4 4 3 | 4 5.5 4 4 5.5 5.5 5.5 3 | 5.5 4 4 5.5 4 4 4 3 |
+|
+=1' 8 [C F C A_b]
+=2, 16 [ab b c~ b] [a g f eb]
+|
+=1' 16 [B_ C Db Eb] [F G Ab B]
+=2  16 [db eb f e] [d' c 8 B]
+|
+=1' 16 [G F En F] [G Ab B c]
+=2, 16 [en f g f] [e d 8 c,]
+|
+=1  16 [Ab G F G] [A, B c db]
+=2, 16 [f g ab g] [f eb 8 db]
+|
+il1.1 .01 80
+=1' 16 [En db c B] [Ab G F E]
+=2' 8 [c C] rest c{'1
+/
+5 bars | 7 7 7 6 | 4 4 4 5 5 4 4 3 \
+ | 4 3 4 4 4 3 4 3 | 7 7 7 6 | 4 3 4 3 4 3 4 3 |
+|
+=1' 8 [F G{'1 Ab Bn]
+=2, 8 [db en] 4 f}'1(1
+|
+=1, 4 c}'1(1 16 [c)1 Bn c d]
+=2, 16 [f)1 e f g] 4 ab(1
+|
+=1, 4. eb 16 [db c]
+=2' 8 [a)1 16 gb f 8 g An]
+|
+=1' 8 [db En] 4 F
+=2' 4. B 8 Ab{'1
+|
+=1' 8 rest [Eb{'1 F# G}'1(2]
+=2' 8 Bn 4 c}'1 16 [Bb A]
+/
+5 bars | 4 3 4 5 4 4 4 3 | 4 4 4 4 5 4 4 3 \
+ | 5 4 4 4 4 5 4 3 | 13 12 | 4 3 3 3 4 3 5 3 |
+|
+=1' 8 [G)2 16 Fn E] 8 [F 16 d F]
+=2' 8 [B 16 g B] 16 [Ab G F A]
+|
+=1' 16 [Eb D C E] 8 [D Bn]
+=2  8 [G c] 16 [f-tr en 8 f(1]
+|
+=1  16 [c-tr Bn 8 c] 4 rest
+=2  8 [f)1 16 e d] [c B Ab G]
+|
+=1  4 rest C
+=2  4 F Ab
+|
+il0.6 .05 90
+=1' 4 En G(2
+=2' 4. c 16 [B Ab]
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto II,  BWV803
+leftfoot Typeset 2012 by Peter J Billam
+/
+5 bars | 4 3 5 4 4 3 3 3 | 4 3 4 3 4 3 4 3 \
+ | 4 3 5 4 4 3 3 3 | 4 3 4 4 4 3 3 3 | 4 3 4 4 4 5 4 3 |
+|
+=1' 8 [G)2 16 F En] 8 [F G]
+=2' 8 [B c d en]
+|
+=1  8 [Ab B'] 4 c(1
+=2, 4. f 16 [e d]
+|
+=1, 8 [c)1 16 B Ab] 8 [B c]
+=2, 8 [e f g ab]
+|
+=1  8 [d en] 4 f(1
+=2, 8 [b 16 ab g] 8 [a d~b]
+|
+=1  8 [f)1 16 e d] [c' B' Ab G]
+=2, 8 [b g c~ c]
+/
+5 bars | 7 7 7 6 | 5 4 4 5 5 4 4 3 \
+ | 4 3 4 4 4 3 4 3 | 7 7 7 6 | 4 3 4 3 4 3 5 3 |
+|
+=1, 8 [Ab{'1 Bn] 4 c}'1(1
+=2, 8 [f d{'1 eb f#]
+|
+=1, 16 [c)1 Bn c d] 4 eb(1
+=2, 4 g}'1(1 16 [g)1 f# g a]
+|
+=1  8 [e)1 16 db c] 8 [d' En]
+=2, 4. b 16 [ab g]
+|
+=1  4 F 8 rest Eb{'1
+=2  8 [ab Bn,] 4 c
+|
+il0.7 .25 100
+=1' 8 [F# G}'1(2] [G)2 16 Fn En]
+=2' 8 rest [Bb c# d(2]
+/
+5 bars | 4 3 5 5 4 4 4 3 | 5 4 4 4 5 4 3 3 \
+ | 5 4 4 4 4 5 4 3 | 12 11 | 3 3 3 3 4 3 5 3 |
+|
+=1' 8 [F 16 d F] [Eb D C E]
+=2  8 [d')2 16 cn Bn] 8 [c, 16 a c,]
+|
+=1  8 [D G] 16 [c-tr Bn 8 c(1]
+=2' 16 [Bb An G B] 8 [A d']
+|
+=1  8 [c)1 16 Bn A,] [G F Eb D]
+=2, 16 [g-tr f# 8 g] 4 rest
+|
+=1' 4 C Eb
+=2' 4 rest G
+|
+=1' 4. G 16 [F Eb]
+=2' 4 Bn d(2
+/
+5 bars | 4 3 5 4 4 3 3 3 | 4 3 4 3 4 3 4 3 \
+ | 4 3 5 4 4 3 3 3 | 4 4 4 4 4 3 3 3 | 4 5 4 4 4 3 3 3 |
+|
+=1' 8 [F G A Bn]
+=2' 8 [d)2 16 c Bn] 8 [c d]
+|
+=1  4. c 16 [Bn' A]
+=2, 8 [eb f] 4 g(1
+|
+=1, 8 [Bn c d eb]
+=2, 8 [g)1 16 f en] 8 [f g]
+|
+=1, 16-s g' 83 [f 16 eb d] 8 [e c]
+=2, 8 [a bn c~ ab]
+|
+=1, 4 d-tr Bn-turn
+=2  16-s g' 83 [f 16 eb f] 8 [g' G]
+/
+5 bars |1b 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 5 4 4 3 | 4 5 4 4 4 4 4 3 | 7 7 7 6 ||
+|
+=1  4 c rest
+=2, 16 [c a~ g~ f~] [e~ d~ c~ b]
+|
+=1' 4 F A
+=2, 16 [a f~ e~ d~] [c~ b a g]
+|
+=1  4. c 16 [B' A]
+=2, 16 [f b a g] [f eb d c]
+|
+=1, 8 [B c d e]
+=2  16 [d f en d] [c B A G]
+|
+=1, 8 [f c f a]
+=2' 8 [A F] 4 rest
+I0.2 .56 Dal Segno
+midi pause 3.0
+
+6 systems 15 / 19-30-19/ 19-35-19/ 19-30-19/ 19-30-19/ 19-30-19/ 19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  BWV804
+title Duetto III.
+leftfoot Typeset 2012 by Peter J Billam
+#midi channel 1 patch 0 pan 20
+#midi channel 2 patch 0 pan 80
+/
+2 bars |1# 12/8 22 24 22 24 | 22 24 24 24 |
+| 12/8 4.0
+=1' treble 1# 12/8 cha1 4. rest \
+ 16 [G F E D 8 B-.] A-. rest rest 16 [G F E D 8 c-.]
+=2  bass   1# 12/8 cha2 8 [G B d'] [g b g] [d f a] [d~ f d]
+|
+=1 8 B-. rest rest 16 [d B A, G, e c] [d B A, G, c A,] [c' B' A G A F]
+=2 8 [g d B,] [G B c] [B, e f] [g d~ d]
+/
+2 bars |1# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 5 3 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 5  3 3 3 3 5 3 |
+|
+=1 16 [G D E F G A] [B d c B c A,] [B G, A, B c d] [e g f e d c#]
+=2 8 g rest rest 16 [d' B A G 8 e'-.] d'-. rest rest 16 [c B A G 8 g'-.]
+|
+=1 16 [a d e f g a] [b a g f g e] [f a g f e d] [c# d e f 8 g(1]
+=2, 8 f-. rest rest 16 [g f e d b g] [a f e d g e] [g f e d e c#]
+/
+2 bars |1# 3 3 3 5 3 3 5 3 3 3 3 3 3 3 5 3 3 4 3 3 3 3 3 3 \
+ | 72 |
+|
+il0.7 .07 5
+=1 16 [g)1 e f d c# d] 8 G 4 fn(1 16 [f)1 d e cn B c] 8 F# 4 e(1
+=2 8 [d d~ a] 16 [b c~n d~ b g b] 8 [c, c~ g] 16 [a b c~ a f a]
+|
+=1 16 [e)1 c d B A, B] [E B' c' A G A] [D A' B' G F G] [C G A F E F]
+=2, 8 [B b f] [g a e] [f g d] [e f d]
+/
+2 bars |1# 72 | 72 |
+|
+=1 16 [B_ D E F G A] [B d c B A, G,] [F G A B' c' d'] [e a g f e d]
+=2 8 g rest rest 16 [G F E D 8 B-.] A-. rest rest 16 [G F E D 8 c-.]
+|
+=1 16 [g d e f g a] [b g f g c a] [B g f g A, c] [F G A B' 8 c'(1]
+=2' 8 B-. rest rest 16 [d B A G e c] [d B A G c A] [c B A G A F]
+/
+2 bars |1# 3 3 3 3 3 3 3 3 3 3 3 3  3 3 3 3 3 3 3 3 3 3 5 3 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 5  3 3 3 3 5 3 |
+|
+=1 8 [c)1 B] rest 16 [d B A, G, 8 e-.] d-. rest rest 16 [c B A, G, 8 g-.]
+=2 16 [G D E F G A] [B d' c B c A] [B G A B c d'] [e g f e d c#,]
+|
+il0.7 .07 10
+=1 8 f-. rest rest 16 [g f e d b g] [a f e d g e] [g f e d e c#]
+=2, 16 [a d e f g a] [b a g f g e] [f a g f e d] [c# d e f 8 g(1]
+/
+2 bars |1# 3 3 3 5 3 3 3 3 3 3 3 3 3 3 5 3 3 3 3 3 3 5 3 3 \
+ | 3 3 3 5 3 3 3 5 3 3 3 3 3 3 3 3 3 5 3 3 3 3 3 3 |
+|
+=1 4. d(1 16 [d')1 F G E D E] 4. c(1 16 [c')1 E F D C# D]
+=2, 16 [g)1 e f d c# d] 4. b(1 16 [b)1 d e cn B c] 4. a(1
+|
+=1' 4. B(2 16 [B)2 E D# E F G] 8 [A B c(2] 16 [c)2 B A G F E]
+=2, 16 [a)1 f g e d# e] 4. c~(1 16 [c~)1 b a g f e] 8 [d# e c]
+
+6 systems 5 /19-30-19/ 19-30-19/ 19-30-19/ 19-33-19/ 19-30-19/ 19-33-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto III,  BWV804
+leftfoot Typeset 2012 by Peter J Billam
+/
+2 bars |1# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 5 3 3 \
+ | 3 5 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 5 3 3 |
+|
+=1' 16 [D# E F G 8 A(2] 16 [A)2 F G E D E] [B_ E G E D E] [B_ E G E Dn E]
+=2 8 [B, 16 b a g f] 8 [e' E F] [G B A] [G E e']
+|
+=1' 16 [C# D E F 8 G(2] 16 [G)2 E F D C D] [A_ D F D C D] [A_ D F D Cn D]
+=2' 16 [A B c# d e c] 8 [d D E] [F A G] [F D d]
+/
+2 bars |1# 3 3 3 5 3 3  3 5 3 3 3 3  3 5 3 4.4 3 4  5 3 3 3 3 3 \
+ | 3 5 5 3 3 3 5 5 3 3 3 3  3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+il0.6 .06 15
+=1 16 [B_ C D E 8 Fn(2] 16 [F)2 E D# E A E] [c A, G#, A, d# A,] 8 [f# B A,]
+=2 16 [G A B c d' B] 8 [c, c~ f#] [a d# f] 16 [B c# d' e' f' d']
+|
+=1, 16 [G B c# d# e f] [g b a g f e] [d c d e f g] [a f e d c B]
+=2 8 [e' E] rest 16 [e d# c#, B, 8 g-.] f-. rest rest 16 [e d c, B, 8 a-.]
+/
+2 bars |1# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 5  3 3 3 3 5 2 \
+ | 3 5 5 3 3 3  3 3 3 3 3 3  3 3 3 3 3 5  3 5 3 3 5 2 |
+|
+=1, 16 [e g f e a f] [g b a g a f] [g b a g f e] [d# e f B 8 a(1]
+=2, 8 g-. rest rest 16 [b g f e c~ a] [b g f e a f] [a g f e f d#]
+|
+=1 8 [a)1 g] rest 16 [B' G F E 8 c'-.] B-. rest rest 16 [A G F E 8 e'-.]
+=2, 16 [e B c# d# e f] [g b a g a f] [g e f g a b] [c~# e~ d~# c~ b a#]
+/
+2 bars |1# 3 5 5 3 3 3 5 5 5 3 3 3 3 3 3 3 3 3 3 3 3 3 5 2 \
+ | 3 5 5 3 5 3  5 3 3 5 3 3  3 3 3 3 3 4 3 3 3 5 3 2 |
+|
+=1, 8 d#-. rest rest 16 [e dn c# B g e] [f d c B e c] [e d c B c A#]
+=2 16 [f~ b c~# d~# e~ f~] [g~ f~ e~ d~n e~ c~] 8 [d~ d g] [e' f' F]
+|
+il0.6 .04 20
+=1, 4. B(1 16 [B)1 A# B d c# e] 8 [d B c-tr] [d g# b]
+=2, 16 [B f g# a# b c~#] [d~ c~ d~ b a b] [f b d~ b a b] [fn b d~ b an b]
+/
+2 bars |1# 3 3 3 3 3 3 4 3 3 5 3 3 3 3 3 3 3 4 3 3 3 5 3 2 \
+ | 72 |
+|
+=1, 4. d(1 16 [d)1 G# A c B d] 8 [c A B-tr] [c f a]
+=2, 16 [e b e~ d~ c~ b] [a b c~ a g# a] [e a c~ a g a] [eb a c~ a gn a]
+|
+=1 4. c(1 16 [c')1 A B' G F G] [E B' c' A G A] [F c' d' B' A' B']
+=2 16 [d a d~ c~ b a] 8 [g' G B] [c A c] [d' B d']
+/
+2 bars |1# 3 3 3 3 3 3 3 5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 \
+ | 3 3 3 3 5 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 5 3 3 |
+|
+=1, 16 [G d e c B c] [A, e fn d c d] 8 B 4 g(1 16 [g)1 c f e d c]
+=2 8 [e' c e'] [fn' A f'(2] 16 [f')2 e' f' B A B] 8 [e a f]
+|
+=1' 16 [B c B A G Fn] [E G F E D C] [B_ C D E F G] [A d c B A G]
+=2' 8 [g G] rest 16 [c B A G 8 e-.] d-. rest rest 16 [c B A G 8 fn-.]
+
+7 systems 2 /19-28-19/19-30-19/19-30-19/19-27-19/19-33-19/19-30-19/19-28-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto III,  BWV804
+leftfoot Typeset 2012 by Peter J Billam
+/
+2 bars |1# 3 3 3 3 3 3  3 5 3 3 5 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 |
+|
+il0.5 .06 25
+=1, 16 [c G A B c d] [e g fn e f d] [e c~ b c~ a f] [g c B c 8 f(1]
+=2, 8 e-. rest rest 16 [g e d c a fn] [g e d c f d] [f e d c d B]
+|
+=1 16 [f)1 d e c B c] 8 [f# a c~(1] 16 [c~)1 c d B A, B] 8 E 4 d(1
+=2, 8 [c c~ g] 16 [a b c~ a g f] 8 [b B f] 16 [g# a b g f e]
+/
+2 bars |1# 3 3 3 5 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 |
+|
+=1, 16 [d)1 B c A G# A] [e B c A G A] [f c d B A B] [g d e c B c]
+=2, 8 [A a b] [c~ a c~] [d~ b d~] [e~ c~ a]
+|
+=1 16 [a g f e d c] [B' d' c' B' A G] [F e' d' c' B' A] [G F E D 8 B'-.]
+=2, 8 [f d] rest 16 [g f e d 8 b-.] a-. rest rest 16 [b d~ c~ b a g]
+/
+2 bars |1# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 |
+|
+=1 8 A-. rest rest 16 rest [A_ B_ C D E] [F G A B' c' d'] [G F E C 8 c'-.]
+=2, 16 [f e~ d~ c~ b a] [g f e d 8 c~-.] b-. rest rest 16 rest [B c d e f]
+|
+il0.5 .12 30
+=1, 8 B'-. rest rest 4. rest rest 16 [d B A G e c]
+=2, 16 [g a b c~ d~ e~] [d~ b a g e~ c~] [d~ b a g c~ a] [b d~ c~ b c~ a]
+/
+2 bars |1# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 5 3 \
+ | 3 5 3 5 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3 |
+|
+=1' 16 [d B A G c A] [B d c B c A] [B G F E A F] [G B A G A F]
+=2, 16 [b g f e a f] [g b a g a f] [g b a g c~ a] [b g f e f d#]
+|
+=1' 16 [G E D C Fn D] [E G F E F D] [E F G A D F] [E A B c E G]
+=2, 16 [e g fn e a f] [g e d c d B] 8 [c c~ b] [c~ a c~]
+/
+2 bars |1# 72 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3.5  3 3 3 3 3 3  5 3 5 3 3 2 |
+|
+=1' 16 [F# G A B E G] [F B c d F A] [G A B c F A] [G c d e G B]
+=2, 8 [d d~ c~#] [d~ b d~] [e e~ d~#] [e~ c~n e~]
+|
+=1, 16 [A G A B c d] [c B A G 8 fn-.] e-. rest rest 16 [d c# B A 8 g-.]
+=2 8 [f e d] [g' 16 c B A G] [c, g a b c~ d~] 8 [e~ 16 d c#, B, A,]
+/
+2 bars |1# 3 3 5 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 5 3 3 3  3 3 5 3 3 3  3 3 3 3 3 3  5 3 5 3 3 3 |
+|
+il0.5 .13 35
+=1, 8 f-. rest rest 16 [a f e d 8 c~-.] 16 [b g a b e g] [c f g a d f]
+=2 16 [d a b c~# d~ e~] 8 [f~ 16 g f e d] 8 [g e c,] [A d' D]
+|
+=1 16 [B d e fn B d] [G B' c' d' G B'] [D G A B' D G] [B_ D E Fn B_ D]
+=2 8 G rest rest 16 rest [d~ e~ f~n b d~] [g b c~ d~ g b] [d fn g a d f]
+/
+3 bars |1# 4 4 7 4 4 4 4 4 4 7 4 4 4 4 7 4 4 4 7 4 4 4 4 3 | 96 | 12 ||
+|
+=1' 8 G_ rest rest 16 [E D C B_ 8 Fn-.] E-. rest rest 16 [G F# E D 8 c-.]
+=2 16 [B, d e fn B, d] 8 [G A B] 16 [c, d e f# g a] [b d~ c~ b a g]
+| 1.01 1.03 1.09 1.18
+=1 8 c-mordent rest rest 16 [c B A, G, e c] [d B A, G, c A,] [c' B' A G A F]
+=2 16 [f a g f e d] 8 [g e c,] [g B, e] [c d' D]
+|
+=1 1 G-fermata
+=2 1 G-fermata
+midi pause 3.0
+
+6 systems 15 /19-28-19/19-28-19/19-30-19/19-35-19/19-30-19/19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  BWV805
+title Duetto IV.
+leftfoot Typeset 2012 by Peter J Billam
+#midi channel 1 patch 0 pan 20
+#midi channel 2 patch 0 pan 80
+/
+5 bars | 2/2 38 | 38 | 6 6 5 5 5 5 8 5 \
+ | 6 8 5 5 5 5 8 5 | 6 6 6 6 6 6 6 5 |
+| 2/2 2.3
+=1  treble 2/2 cha1 leg100 2 blank 1 rest
+=2  bass   2/2 cha2 leg100 2 rest a
+|
+=1  2 blank 1 rest
+=2  2 c~ e
+|
+=1  2 blank 1 rest
+=2  8 [f e] 2 d 8 [e f#]
+|
+=1  2 blank 1 rest
+=2  8 [g a] 2 bb 8 [a g#]
+|
+=1  2 blank 1 rest
+=2  8 [a e a b] [a e a c~]
+/
+5 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 5 6 5 5 5 | 6 6 6 6 6 6 6 5 |
+|
+=1  2 blank 1 rest
+=2  8 [b e b c~] [b e b d~]
+|
+=1  2 blank 1 rest
+=2  8 [c~ e c~ d~] [c~ e c~ e~]
+|
+=1  2 blank 1 rest
+=2  8 [b e b c~] [b e b d~]
+|
+=1  2 rest e
+=2  8 [c~ b] 2 a 4 vol-5 g#
+|
+il0.6 .13 10
+=1  2 f A
+=2  8 [a c~ b d~] [c~ b c~ a]
+/
+4 bars | 6 6 6 5 6 5 7 5 | 6 7 6 5 6 5 7 5 \
+ | 6 6 7 6 6 6 6 5 | 6 6 7 6 6 6 6 5 |
+|
+=1  8 [c B] 2 A 8 [B c#]
+=2  4 e f# gn 8 [f e]
+|
+=1  8 [d e] 2 fn 8 [e d#]
+=2  4 f# g# 2 a(1
+|
+=1  8 [e B e f#] [e B e g]
+=2  4 a)1 8 [gn f#] 4 g e(1
+|
+=1  8 [f# B f g] [f B f a]
+=2  4 e)1 8 [d#' c#] 2 d'-tr
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 7 6 7 6 6 7 6 5 | 7 6 6 5 6 6 6 5 |
+|
+=1  8 [g B g a] [g B g b]
+=2  4 e b 2 e~(1
+|
+=1  8 [f# B f g] [f B f a]
+=2  2 e~)1 d~#-tr
+|
+=1  8 [g f#] 2 e 4 d-.
+=2  4 e~ 8 [e f#] [g a bb g]
+|
+=1  4 c#-. bb{1 a}1--tr g-.
+=2  8 [e fn] 4. g 8 [f e d]
+/
+5 bars | 6 6 6 5 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 8 6 5 | 6 6 6 5 6 6 6 5 | 6 6 6 5 6 6 6 5 |
+|
+=1  4 Bb-. g{1 f}1--tr e-.
+=2  8 [c# d'] 4. e 8 [d' c B]
+|
+il0.8 .20 20
+=1  4 G-. e{1 d}1--tr c#-.
+=2  8 [c# A c d'] [e f g e]
+|
+=1  8 [d' G F E] 4 D c-.
+=2  8 [f e d e] [f g ab f]
+|
+=1  4 Bn-. ab{1 g}1--tr f-.
+=2  8 [d e] 4. f 8 [e d c,]
+|
+=1  4 Ab-. f{1 en}1--tr d-.
+=2  8 [B c] 4. d' 8 [c B A]
+/
+5 bars | 6 6 6 6 6 6 6 5 |
+|
+=1  4 F-. d{1 c}1--tr B-.
+=2  8 [B G B c] [d e f d]
+|
+=1  8 [c' F E D] 4 C Bb
+=2, 8 [e d c d] [e f g e]
+|
+=1 8 [A, g f e] [f d] 4 A(2
+=2 4 f a d f
+|
+=1 8 [A)2 G A B'] [G, c] 4 e
+=2 4 B 8 [c d'] 4 e c
+|
+=1 8 [F, e d c] [d B] 4 F(2
+=2 4 d f B d'
+
+6 systems 5 /19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto IV,  BWV805
+leftfoot Typeset 2012 by Peter J Billam
+/
+5 bars | 6 6 6 6 6 6 5 5 | 6 6 6 6 8 6 5 5 \
+ | 6 6 8 6 6 6 6 5 | 11 11 11 10 | 6 6 6 5 6 8 8 5 |
+|
+=1 8 [F)2 E F G] [E G] 4 c
+=2 4 G 8 [A B] 4 c A
+|
+il0.6 .03 30
+=1' 8 [D c B A] [B G#] 4 D(2
+=2' 4 B d G# B
+|
+=1 8 [D)2 C D E] [C F E D]
+=2 4 E 8 [F# G#] 4 A B
+|
+=1 4 E 2 A_ 4 G_#
+=2 2 c E
+|
+=1 2 A_ A
+=2 8 [F E] 4. D 8 [E F# G#]
+/
+5 bars | 12 11 11 10 | 6 6 6 5 6 5 8 5 \
+ | 6 8 6 5 6 5 8 5 | 6 6 6 6 6 6 6 5 | 6 6 8 6 6 6 6 5 |
+|
+=1 2 c E
+=2 8 [A E] 2 A 4 G#
+|
+=1 8 [F E] 2 D 8 [E F#]
+=2 4 A B c 8 [B A]
+|
+=1' 8 [G A] 2 Bb 8 [A G#]
+=2' 4 B c# 2 d(2
+|
+=1' 8 [A E A B] [A E A c]
+=2' 4 d)2 8 [cn B] 4 c A(2
+|
+=1' 8 [B E B c] [B E B d]
+=2 4 A)2 8 [G# F#] 2 G-tr
+/
+5 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 5 6 5 5 5 | 6 6 6 6 6 6 6 5 | 6 6 6 5 6 5 8 5 |
+|
+=1' 8 [c E c d] [c E c e]
+=2 4 A e 2 a(1
+|
+il0.8 .03 40
+=1' 8 [B E B c] [B E B d]
+=2  2 a)1 g#-tr
+|
+=1 8 [c B] 2 A 4 G#
+=2 2 a e
+|
+=1, 8 [A c B d] [c B c A]
+=2 2 f A
+|
+=1 4 E F# G 8 [F E]
+=2 8 [c B] 2 A 8 [B c#]
+/
+4 bars | 6 7 6 5 6 5 7 5 | 6 6 7 6 6 6 6 5 \
+ | 6 6 7 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1 4 F# G# 2 A(2
+=2 8 [d e] 2 fn 8 [e d#]
+|
+=1 4 A)2 8 [G F#] 4 G E(2
+=2, 8 [e B e f#] [e B e g]
+|
+=1 4 E)2 8 [D# C#] 2 D-tr
+=2, 8 [f# B f g] [f B f a]
+|
+=1 4 E B 2 e(1
+=2, 8 [g B g a] [g B g b]
+/
+4 bars | 32 | 2.5 2 2 2 2 2 2.5 4.2 2 2 2 2 2 2 2 2 | 32 | 4 4 4 4 4 4 5 4 |
+|
+=1 2 e)1 d#-tr
+=2, 8 [f# B f g] [f B f a]
+|
+=1 4. e 16 [d e] 8 [fn e d c]
+=2 8 [g f#] 2 e 4 f#-.
+|
+il0.5 .04 50
+=1, 8 [B c] 4. d 8 [c B A]
+=2, 4 g#-.  f~{1 e~}1--tr d~-.
+|
+=1' 8 [G# A] 4. B 8 [A G F#]
+=2, 4 fn-.  d~{1 c~}1--tr b-.
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 7 6 5 \
+ | 7 6 6 5 6 6 6 5 | 6 6 6 5 6 6 6 5 |
+|
+=1  8 [G# E G A] [B c d B]
+=2, 4 d-.  b{1 a}1--tr g#-.
+|
+=1, 8 [c B A B] [c d eb c]
+=2  8 [a d c, B,] 4 A g-.
+|
+=1  8 [A Bn'] 4. c 8 [B' A G]
+=2, 4 f#-.  e~b{1 d~}1--tr c~-.
+|
+=1  8 [F# G] 4. A 8 [G F E]
+=2, 4 eb-.  c~{1 b}1--tr a-.
+
+6 systems 5 /19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto IV,  BWV805
+leftfoot Typeset 2012 by Peter J Billam
+/
+4 bars | 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 4 4 | 5 5 6 5 5 5 4 4 |
+|
+=1' 8 [F# D F G] [A B c A]
+=2  4 c-.  a{1 g}1--tr f#-.
+|
+=1  8 [B' A G A] [B c d B]
+=2  8 [g' c B A] 4 G fn
+|
+=1 4 c e A c
+=2, 8 [e d~ c~ b] [c~ a] 4 e(1
+|
+=1' 4 F# 8 [G A] 4 B G
+=2, 8 [e)1 d e f#] [d g] 4 b
+/
+4 bars | 5 5 5 5 6 5 4 4 | 5 5 6 5 5 5 4 4 \
+ | 5 6 5 5 6 5 4 4 | 5 5 6 5 5 5 5 4 |
+|
+il0.5 .20 60
+=1 4 A c F# A
+=2  8 [c, b a g] [a f#] 4 c(2
+|
+=1' 4 D 8 [E F#] 4 G E
+=2  8 [c)2 B c d'] [B d'] 4 g
+|
+=1 4 F# A D# F
+=2  8 [A, g f# e] [f d#] 4 A(2
+|
+=1 4 [B_ 8 [C# D#] 2 E(2
+=2' 8 [A)2 G A B] [G B e g]
+/
+4 bars | 6 6 7.5 6 6 6 6 5 | 6 7.5 7.5 7.5 6 7.5 6 5 \
+ | 6 6 7.5 6 6 6 6 5 | 6 6 7.5 7.5 6 7.5 6 5 |
+|
+=1 4 E)2 8 [Dn C#] 2 D(2
+=2, 8 [f# A# f g] [f B f a]
+|
+=1 4 D)2  8 [E F#] 2 Gn(2
+=2, 8 [g# e g# a#] [b d gn b]
+|
+=1 4 G)2 8 [Fn E] 2 F(2
+=2, 8 [a c# a bb] [a d a c~]
+|
+=1' 4 F)2 8 [G A] 2 Bb(2
+=2, 8 [b g b c~#] [d~ f bb d~]
+/
+5 bars | 6 6 8 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 8 5 | 6 6 6 6 6 6 6 5 | 6 6 6 5 6 5 8 5 |
+|
+=1' 4 B)2 8 [A G#] 2 A(2
+=2, 8 [c~ e c~ d~] [c~ f a c~]
+|
+=1 2 A)2 G#-tr
+=2, 8 [b d b c~] [b e b d~]
+|
+il0.5 .20 70
+=1 2 A e
+=2 8 [c~ a c~ e~] [c~ a b g#]
+|
+=1 2 f A
+=2, 8 [a c~ b d~] [c~ b c~ a]
+|
+=1 8 [c B] 2 A 8 [B c#]
+=2 4 e f# gn 8 [f e]
+/
+4 bars | 5 6 5 4 5 4 6 4 | 5 5 6 5 5 5 5 4 \
+ | 5 5 6 5 5 5 5 4 | 5.5 5.5 5 5 5 5 5 4 |
+|
+=1, 8 [d e] 2 fn 8 [e d#]
+=2 4 f# g# 2 a(1
+|
+=1, 8 [e B e f#] [e B e g]
+=2, 4 a)1 8 [gn f#] 4 g e(1
+|
+=1, 8 [f# B f g] [f B f a]
+=2, 4 e)1 8 [d# c#] 2 d-tr
+|
+=1, 8 [g B g a] [g B g b]
+=2  4 e treble B_ 2 E(2
+/
+4 bars | 6 6 6 6 6 6 6 5 | 6 6 7 6 6 7 6 5 \
+ | 7 6 5 5 6 6 6 5 | 6 6 5 5 6 6 6 5 |
+|
+=1, 8 [f# B f g] [f B f a]
+=2' 2 E)2 D#-tr
+|
+=1, 8 [g B e f#] [g a bb g]
+=2 2 E 4 rest Dn-.
+|
+=1, 8 [e fn] 4. g 8 [f e d]
+=2' 4 C#-.  Bb{2 A}2-tr G-.
+|
+il0.5 .04 80
+=1, 8 [c# d] 4. e 8 [d c B]
+=2' 4 B_b-.  G{2 F}2-tr E-.
+
+6 systems 5 /19-28-19/19-32-19/19-35-19/19-30-19/19-30-19/19-30-19/
+pagenum
+innerhead J. S. Bach,  Four Duets,  Duetto IV,  BWV805
+leftfoot Typeset 2012 by Peter J Billam
+/
+5 bars | 6 6 6 6 6 6 6 5 | 6 6 8 6 6 8 6 5 \
+ | 6 6 6 5 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1, 8 [c# A c d] [e f g e]
+=2' 4 G_-.  E{2 D}2-tr C#-.
+|
+=1, 8 [f e d c#] 4 d cn
+=2' 8 [D A_ D E] [F G Ab F]
+|
+=1, 4 B-.  ab{1 g}1--tr f-.
+=2' 8 [D E] 4. F 8 [E D C]
+|
+=1  4 Ab-.  f{1 e}1--tr d-.
+=2  8 [B_ C] 4. D 8 [C B_ A_]
+|
+=1 4 F-.  d{1 c}1--tr B-.
+=2' 8 [B_ G_ B_ C] [D E F D]
+/
+4 bars | 5.5 5.5 5 5 5 5 5 4 | 5 5 6 5 5 5 5 4 \
+ | 5 5 6 6 5 5 5 4 | 5 5 6 5 5 5 5 4 |
+|
+=1  8 [c G, c d] [c' F# A c']
+=2 4 E bass e 2 a(1
+|
+=1' 8 [B D# B c] [B E B d]
+=2, 4 a)1 8 [g f#] 2 g(1
+|
+=1, 8 [c# A c d#] [e G cn e]
+=2, 4 g)1 8 [a b] 2 c~n(1
+|
+=1, 8 [d F# d eb] [d G d f]
+=2, 4 c~)1 8 [bb a] 2 b(1
+/
+4 bars | 5 5 6 6 5.5 5.5 5 4 | 5 5 6 5 5.5 5 5 4 \
+ | 5.5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 4 |
+|
+il0.6 .10 90
+=1, 8 [en c e f#] [g Bb eb g]
+=2, 4 b)1 8 [c~ d~] 2 e~b(1
+|
+=1, 8 [f A f g] [f Bb d f]
+=2, 4 e~)1 8 [d~ c~#] 2 d~(1
+|
+=1, 8 [e G# e f] [e A e g]
+=2, 2 d~)1 c~#-tr
+|
+=1, 8 [f g f e] [d c B A]
+=2, 4 [d~ e~ f~ d~]
+/
+5 bars | 6 8.5 6 6 6 6 6 5 | 6 6 6 5 6 5 5 5 \
+ | 6 6 8.5 6 6 8.5 8.5 5 | 6 6 6 5 6 5 5 5 | 6 6 6 5 6 5 8.5 5 |
+|
+=1' 8 [G# E F# G] [A G A B]
+=2, 4 e~ d~ c~ b
+|
+=1  2 c E
+=2, 8 [a e] 2 a 4 g#-tr
+|
+=1' 8 [F E D C#] [D E F# G#]
+=2  2 a b
+|
+=1 8 [A E] 2 A 4 G#-tr
+=2  2 c~ e
+|
+=1  4 A B c 8 [B' A]
+=2  8 [f e] 2 d 8 [e f#]
+/
+5 bars | 6 8 6 5 6 5 8 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 8 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1  4 B c# 2 d(1
+=2  8 [g a] 2 bb 8 [a g#]
+|
+il0.6 .10 100
+=1  4 d)1 8 [c B] 4 c A(2
+=2, 8 [a e a b] [a e a c~]
+|
+=1  4 A)2 8 [G# F#] 2 G-tr
+=2, 8 [b e b c~] [b e b d~]
+|
+=1  4 A e 2 a(1
+=2, 8 [c~ e c~ d~] [c~ e c~ e~]
+|
+=1  2 a)1 g#-tr
+=2, 8 [b e b c~] [b e b d~]
+/
+5 bars | 10 8 10 8 8 8 10 6 \
+ | 10 10 10 8 7 10 10 6 | 12 16 12 11 | 12 12 12 11 | 23 ||
+|
+=1  8 [a gn] 4. f 8 [e d c#]
+=2  8 [c~ a b c~#] [d~ e~ f~ g~]
+|
+=1  8 [d cn] 4. Bb 8 [A G# F#]
+=2  8 [f~ e~ d~ c~#] 4 d~ d'(2
+|
+=1  4 G# E e f
+=2' 4 d)2 8 [c B] 4 c d
+|
+=1  8-s d' 23 c 323 blank 2 B-tr
+=2  4 e d e E
+|
+=1 1 A-fermata
+=2 1 A-fermata

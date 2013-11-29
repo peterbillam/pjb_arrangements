@@ -1,0 +1,18 @@
+boundingbox 270 60
+midi channel 1  patch 73 reverb 60 pan 30 # flu
+midi channel 2  patch 32 reverb 60 pan 80 # pizz
+midi channel 3  patch 71 reverb 60 pan 50 # clr
+midi channel 4  patch 60 reverb 60 pan 20 # hrn
+midi channel 5  patch 70 reverb 60 pan 70 # bsn
+midi channel 6  patch 44 reverb 60 pan 20 # vln
+midi channel 7  patch 44 reverb 60 pan 50 # vla
+midi channel 8  patch 44 reverb 60 pan 80 # vlc
+1 system /27/
+/
+3 bars | 31 | 12 16 12 12 | 31 ||
+| 4/4 1.8
+=1  treble cha6 vol90 1 leg99 Bb(2
+|
+=1 4 B')2 A 4. leg85 G# 8 e
+|
+=1 1 Gn-dim40

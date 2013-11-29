@@ -1,0 +1,325 @@
+% start
+4 systems 10 / 19 23 19 23 19 23 19 / 19 23 19 23 19 23 19 \
+ / 19 23 19 23 19 23 19 / 19 23 19 23 19 23 19 10/
+title Now every tree
+innerhead Thomas Weelkes 1597
+midi channel 1 patch 74 pan 10
+midi channel 2 patch 74 pan 37
+midi channel 3 patch 74 pan 63
+midi channel 4 patch 74 pan 90
+leftfoot for SATB recorders
+/
+6 bars | 1# 8 | 8 | 8 | 8 | 8 | 8 |
+| 4/4 118
+=1 treble8va 1# 4/4 cha1 leg75 min blank smb rest
+=2 treble    1# 4/4 cha2 leg75 min blank smb rest
+=3 treble    1# 4/4 cha3 leg75 min rest min B
+=4 bass8va   1# 4/4 cha4 leg75 min e cro. e qua f
+rs0.3 .15 Now .60 every
+|
+=1 min blank smb rest
+=2 min blank smb rest
+=3 cro. B qua c# cro d B
+=4 cro g e d g
+rs0.3 .01 tree .30 renews .75 his
+|
+=1 min blank smb rest
+=2 min rest e
+=3 cro A d cn B
+=4 cro f B min e(1
+rs0.3 .05 summer's .55 green
+|
+=1 min B cro. B qua c#
+=2 cro. e qua f cro g e
+=3 cro. G{2 qua A cro B'}2 G
+bl0.2 .20 ,
+=4 cro e)1 e e e
+|
+=1 cro d B A d
+bl0.2 .20 ,
+=2 cro d f cro. f qua g
+=3 cro F d d B
+=4 min B cro rest B
+|
+=1 min. c# cro F
+=2 cro a f e a
+=3 cro A c# cro. c qua d
+=4 cro. f qua g cro a f
+/
+6 bars | 1# 2 2 2.5 2 | 8 | 8 | 1 1 1 1.3 1 1 1 1 | 1 1 1.25 1.4 1 1 1 1 | 8 |
+|
+bl0.2 .25 ,
+=1 cro B min A cro G{2
+bl0.2 .79 ,
+=2 cro g e cro cro. e qua d{1
+=3 cro e c# qua [B B] cro e(1
+=4 cro. e qua e min e
+|
+=1 smb F}2
+=2 cro c#}1 min B cro A#
+=3 cro e)1 d{1 min c#}1
+=4 smb f
+|
+bl0.2 .18 ,
+=1 cro F leg95 B cro. B qua c#
+bl0.2 .18 ,
+=2 cro B leg95 B f f
+=3 smb d#
+bl0.2 .65 ,
+=4 min. B leg95 cro B
+rs0.2 .75 Why
+|
+=1 cro d B A d
+=2 cro. d qua e cro f rest
+=3 cro rest leg95 F cro. F qua G
+=4 cro. B qua c# cro d' B
+rs0.2 .01 is .37 your heart  in
+|
+bl0.4 .39 ,
+=1 cro c# qua A A cro. c qua d
+=2 min e cro. e qua f
+=3 cro A E A A
+=4 min. A cro A
+rs0.2 .01 win .40 - .75 ter's
+|
+=1 cro e B min d(1
+=2 cro g e f g
+=3 min. B' cro B'
+=4 cro. e qua e cro. B qua c#
+rs0.2 .02 garments .50 clad ?
+/
+6 bars | 1# 8 | 8 | 8 | 8 | 1 1 1 1 1 1.2 1.2 1.2 | 1 1 1 1.6 1.2 1.2 1 1 |
+|
+=1 min d)1 c#
+=2 min f{1 e}1(1
+=3 min. A cro G
+=4 min d' A
+|
+=1 min. B cro A
+=2 min e)1 d#
+=3 cro F E{2 min F}2
+=4 min B B
+|
+bl0.2 .22 ,
+=1 cro G# G cro. B' qua B'
+=2 smb e
+bl0.2 .22 ,
+=3 cro E E cro. G# qua G
+rs0.7 .26 Your .60 beauty
+=4 smb e
+|
+=1 min c# cro rest A(2
+=2 cro rest e cro. e qua e
+=3 min. A cro rest
+rs0.7 .01 says
+=4 cro rest A cro. c# qua c
+|
+=1 cro A)2 cro. d qua c# [B' A]
+=2 min. f cro f
+=3 min A cro. d qua c#
+rs0.7 .01 "my .50 love .87 is
+=4 min d' cro rest B
+|
+=1 cro G# G min A(2
+=2 cro. e qua d qua [c# B] cro c(1
+=3 cro B' B' A rest
+rs0.7 .01 summer's .50 green"
+=4 min e cro f a(1
+/
+5 bars | 1# 1.4 1.1 1.1 1.1 1.4 1.1 1.4 1.1 | 8 | 8 | 8 | 8 |
+|
+=1 cro A)2 A A B
+=2 cro c)1 c# qua [d e f g#]
+=3 cro A qua [A G] [F E] cro D
+=4 qua [a)1{1 gn f e d, c#,}1] cro B
+|
+=1 smb c#
+bl0.2 .90 ,
+=2 smb a
+bl0.2 .20 ,
+=3 cro E leg80 min e-emph cro c#(1
+rs0.7 .25 But .75 your
+bl0.2 .40 ,
+=4 min A leg80 a-emph
+|
+=1 smb rest
+=2 leg80 min a-emph f
+=3 cro c)1 min A cro d(1
+rs0.7 .25 cold .75 love
+=4 min f d
+|
+=1 min rest leg80 e-emph
+=2 cro g# min a cro g
+=3 cro d)1 cn min B'
+rs0.7 .25 like .50 win .75 -
+=4 smb e
+|
+=1 min c# A
+=2 cro a e rest f(1
+bl0.2 .20 ,
+=3 cro A min c# cro A(2
+rs0.7 .01 ter
+=4 min rest f
+
+4 systems 10 / 19 23 19 23 19 23 19 / 19 23 19 23 19 23 19 \
+ / 19 23 19 23 19 23 19 / 19 23 19 23 19 23 19 10/
+innerhead Now every tree, Thomas Weelkes
+leftfoot for SATB recorders
+/
+6 bars | 1# 8 | 8 | 8 | 8 | 8 | 8 |
+|
+=1 min d cro rest B
+=2 cro f)1 min d cro d
+=3 cro A)2 min F cro F
+=4 min d' B
+|
+=1 cro d d min c#(1
+=2 min. f cro g
+=3 min A cro A B'
+bl0.2 .90 ,
+=4 smb f
+|
+=1 min c)1 B(1
+=2 min a f
+=3 leg95 min c# d{1
+rs0.7 .01 makes .50 me
+=4 leg95 smb f(1
+|
+=1 min B)1{1 A#}1
+=2 min. f cro e
+=3 smb c#}1
+=4 smb f)1
+|
+=1 min B leg95 An(2
+bl0.2 .20 ,
+=2 cro d leg95 e min f(1
+bl0.2 .40 ,
+=3 min B' c#
+rs0.7 .01 sad
+bl0.2 .90 ,
+=4 min g a
+|
+=1 min A)2 G{2
+=2 cro f)1 f min e(1
+=3 min d# e
+=4 smb b
+/
+6 bars | 1# 8 | 8 ||: 1 1 1 1.6 1 1 1 1 \
+ | 1.6 1.2 1.2 1.2 1 1 1 1 | 1 1 1 1.2 1.2 1.2 1.6 1.2 | 8 |
+|
+=1 smb F}2
+=2 min e)1 d#
+=3 min f B
+=4 smb b
+| 4/4 126
+bl0.2 .20 ,
+=1 cro G# leg75 B B B
+=2 smb e
+bl0.2 .20 ,
+=3 cro B leg75 G# G G
+rs0.6 .25 Then .60 either
+=4 smb e
+|
+=1 cro. c# qua d cro e c
+=2 cro rest leg75 e e e
+=3 cro. A qua B cro c# A
+rs0.6 .01 spring .33 with .53 buds .75 of
+=4 min blank smb rest
+|
+=1 min d B
+=2 qua [f gn a f] cro g g
+=3 min d e
+rs0.6 .01 love .55 a .85 -
+=4 min blank smb rest
+|
+=1 cro. B qua c#{1 min d}1
+bl0.2 .20 ,
+=2 cro f d qua [d e f g#]
+bl0.2 .20 ,
+=3 cro B' cro. B{1 qua c# [d e]
+rs0.6 .01 gain
+=4 min blank smb rest
+|
+=1 cro c# B{1 min c}1
+=2 cro a# min b{1 cro a}1
+=3 smb f}1
+=4 min blank smb rest
+/
+6 bars | 1# 8 | 1 1 1 1.6 1 1 1 1 | 1.2 1.2 1.2 1.6 1 1 1 1 \
+ | 8 | 1 1 1 1.3 1 1 1 1 | 8 |
+| 4/4 108
+bl0.2 .25 ,
+=1 cro B leg95 F F F
+bl0.3 .26 ,
+=2 cro b leg95 B d# d
+=3 smb B
+=4 cro rest leg95 B B B
+rs0.2 .32 or .53 else .76 con .90 -
+|
+=1 cro. G# qua A cro B' G#
+=2 cro. e qua dn cro B e
+=3 cro rest leg95 B B B
+=4 cro. e qua f cro g# e
+rs0.2 .01 geal .33 my thoughts  with
+|
+=1 min. A cro A
+=2 min e f
+=3 qua [c# d e c] cro d# d
+=4 min a f
+rs0.2 .01 your .50 dis .85 -
+|
+=1 min G# cro rest B
+bl0.2 .20 ,
+=2 cro B e e e
+bl0.2 .20 ,
+=3 cro e B cn G
+=4 min e cro rest e
+rs0.2 .01 dain
+|
+=1 cro B B cro. d qua c#
+=2 cro. g qua a cro b B
+=3 min B cro rest F
+=4 cro e e cro. B qua c#
+|
+rl1.1 .08 __________
+bl0.4 .01 1a
+=1 min A cn
+=2 min f e(1
+=3 cro F F cro. A qua G
+=4 min d' A
+/
+6 bars | 1# 8 | 8 :|| 8 | 8 | 8 | 8 ||
+|
+=1 min. B cro B
+=2 min e)1{1 d#}1
+=3 cro F E F F
+=4 min. B cro B
+|
+bl0.2 .20 ,
+=1 cro G# B B B
+=2 smb e
+bl0.2 .20 ,
+=3 cro E G# G G
+=4 smb e
+|
+rl1.1 .08 _______________
+bl0.4 .01 2a
+=1 min A cn
+=2 min f e
+=3 cro F F cro. A qua G
+=4 min d' A
+|
+=1 smb B
+=2 min d# e(1
+=3 min F G
+=4 smb B
+|
+=1 smb B
+=2 min e)1 d#
+=3 min. F cro F
+=4 smb B
+|
+=1 smb G#-fermata
+=2 smb e-fermata
+=3 smb E-fermata
+=4 smb e-fermata

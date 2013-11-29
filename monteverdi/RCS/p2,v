@@ -1,0 +1,131 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4;
+comment	@# @;
+
+
+1.4
+date	97.03.23.07.35.17;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	97.03.23.04.26.02;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	97.03.23.04.23.35;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.03.23.04.19.15;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@poem, for page 2
+@
+
+
+1.4
+log
+@added "E si specchia" line
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 14
+.nr VS 17
+.pl 11.7i
+.LP
+\&
+.sp 3.0c
+.ce 100
+\f3\s+9Ecco Mormorar L'Onde\s-9\fP
+.sp 2.5c
+.ce 0
+.DS B
+Ecco mormorar l'onde e tremolar le fronde
+\ \ \ A l'aura matutina, e gl'arborseli,
+.sp 0.9c
+E sovra i verdi rami vagh'augelli
+\ \ \ Cantar souavemente, e rider l'Oriente.
+.sp 0.9c
+Ecco gia\*` l'alb'appare ! e si specchia nel mare
+\ \ \ E rasserena il cielo, e imperla il dolce gielo
+\ \ \ E gl'alti monte indora.
+.sp 0.9c
+O bella vagh' Aurora, l'aura e\*` tua messaggiera,
+\ \ \ e tu de l'aura ch'ogn arso cor ristaura.
+.DE
+.sp 1.5c
+.ce 2
+\f2\s+2From the Second Book of Madrigals,
+by Claudio Monteverdi, 1590\s0\fP
+.sp 1.5c
+.QP
+\s-3The music itself is free of copyright.
+This arrangement and typesetting of the music is copyright;
+the terms of that copyright are such that
+the score and parts may be freely photocopied and redistributed,
+provided that they are not resold for profit,
+and that copyright notices are not removed.
+Rights of performance, recording and broadcast
+will remain reserved by the arranger.
+.sp 1.0c
+.LP
+.ce 1
+\f2Peter J Billam\fP
+@
+
+
+1.3
+log
+@squeezed
+@
+text
+@d20 3
+a22 2
+Ecco gia\*` l'alb'appare e rasserena il cielo,
+\ \ \ E imperla il dolce gielo e gl'alti monte indora.
+d29 1
+a29 1
+\f2\s+3From the Second Book of Madrigals,
+d41 1
+a41 1
+.sp 1.5c
+d44 1
+a44 1
+\f2Peter Billam\fP
+@
+
+
+1.2
+log
+@added copyright blurb
+@
+text
+@d8 1
+a8 1
+.sp 1.7i
+d11 1
+a11 1
+.sp 1.0i
+@
+
+
+1.1
+log
+@spelling mistake
+@
+text
+@d26 1
+a26 1
+.sp 1.1i
+d30 14
+@

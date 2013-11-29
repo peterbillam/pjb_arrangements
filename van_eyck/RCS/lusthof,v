@@ -1,0 +1,945 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	2005.11.08.09.52.36;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2004.01.25.02.15.32;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@excerpts from Der Fluiten Lusthof
+@
+
+
+1.2
+log
+@added several more pieces
+@
+text
+@11 systems 15/20/20 20 /20/20/20 20 /20/20/20 20 /20/20/20 15/
+title Wat zal men op den Avond doen
+innerhead Der Fluiten-Lusthof, Jakob van Eyck
+leftfoot  Arranged and typeset Peter J Billam, 2004
+/
+6 bars | 2/2 2 | 8 | 8 | 8 | 6 :|| 7 |
+|
+=1 treble 2/2 cro G
+|
+=1 cro c c d d
+|
+=1 cro e e min d
+|
+=1 cro e c d B,
+|
+I0.8     __________
+I0.4 1.
+=1 min. c
+|
+I0.8      ____________
+I0.4  2.
+=1 smb c
+/
+7 bars ||: 8 | 8 | 8 | 8 | 8 | 7 :|| 6 ||
+|
+=1 cro g g d e
+|
+=1 cro f e min d
+|
+=1 cro g g d e
+|
+=1 cro f e min d
+|
+=1 cro e c d B,
+|
+I0.8     ________
+I0.4 1.
+=1 smb c
+|
+I0.8      ______
+I0.4  2.
+=1 min. c
+/
+4 bars | 2 | 8 | 4 3 | 8 |
+|
+b0.8 .05 Variatie 1
+=1 cro G
+|
+=1 qua [c' G E c'] [d B, G, d]
+|
+=1 qua [e c A, e] min d
+|
+=1, qua [e(1 d)1 c A] [d(1 c)1 B G]
+/
+4 bars | 5 :|| 6 | 9 | 4 3.2 |
+|
+I0.8 .01     __________
+I0.4 .01 1.
+=1 min. c
+|
+I0.8      ____________
+I0.4  2.
+=1 smb c
+|
+=1 qua [g e d c] [d(1 c)1 B, e]
+|
+=1 qua [f g e f] min d
+/
+5 bars | 3.6 4 | 4 3.2 | 8 | 6 :|| 5 ||
+|
+=1 cro g g qua [d c d e]
+|
+=1 qua [f(1 g)1 e f] min d
+|
+=1 qua [g(1 f)1 e c] [d(1 B,)1 G, B,]
+|
+I0.8     __________
+I0.4 1.
+=1 smb c
+|
+I0.8      ________
+I0.4  2.
+=1 min. c
+/
+4 bars | 2 | 8 | 8 | 8 |
+|
+b0.8 .05 Variatie 2
+=1 cro G
+|
+=1' qua [c C c F] [d D d G]
+|
+=1' qua [e C c F] [d D f D]
+|
+=1' qua [e C c F] [d D B G]
+/
+4 bars | 5 :|| 6 ||: 9 | 4 3.2 |
+|
+I0.8 .01     __________
+I0.4 .01 1.
+=1 cro c C c
+|
+I0.8      ____________
+I0.4  2.
+=1 cro c C min c
+|
+=1, qua [g c e g] [d G B d]
+|
+=1, qua [e A c e] [d G B d]
+/
+5 bars | 3.6 4 | 4 3.2 | 8 | 6 :|| 5 ||
+|
+=1, qua [g c g e] [d G d B]
+|
+=1, qua [e A e c] [d G d B]
+|
+=1, qua [e G c e] [d B d G]
+|
+I0.8     __________
+I0.4 1.
+=1 smb c
+|
+I0.8      ________
+I0.4  2.
+=1 min. c
+/
+4 bars | 2 | 8 | 4 3 | 8 |
+|
+b0.8 .05 Variatie 3
+=1 cro G
+|
+=1 qua [c smq B,(1 A,] qua [G)1 c'] [d smq c(1 B,] qua [A,)1 d]
+|
+=1 qua [e smq d(1 c)1] qua [B, e] min d
+|
+=1 qua [e smq d(1 c] qua [B,)1 c] [d smq c(1 B,)1] qua [A B']
+/
+4 bars | 4.5 :|| 5.5 ||: 9 | 4 3.2 |
+|
+I0.8 .01     __________
+I0.4 .01 1.
+=1 min. c
+|
+I0.8      ____________
+I0.4  2.
+=1 smb c
+|
+=1 qua [g smq g(1 f] qua [e)1 g] [d smq c(1 B,] qua [A,)1 e]
+|
+=1 qua [f smq e(1 d)1] qua [c e] min d
+/
+5 bars | 1.3 1.3 1 1 1.3 1 1 1 | 1 1.3 1 1 .8 .8 .8 .8 \
+ | 1 1.3 1 1 1.3 1.3 1 1 | 5.5 :|| 4.5 ||
+|
+=1 smq [g(1 f e d)1] qua [c g] smq [d(1 c qua B,)1] [A, e]
+|
+=1 qua [f(1 smq g f)1] qua [e c] min d
+|
+=1 qua [e(1 smq d e)1] qua [c(1 e)1] smq [d(1 c B, A,)1] qua [G B']
+|
+I0.8     __________
+I0.4 1.
+=1 smb c
+|
+I0.8      ________
+I0.4  2.
+=1 min. c
+
+12 systems 10/20/20/20/20 15 /20/20/20 4/20 4/20/20 4/20 4/20 10/
+title Kits almande
+innerhead Der Fluiten-Lusthof, Jakob van Eyck
+leftfoot  Arranged and typeset Peter J Billam, 2004
+/
+7 bars | 2/2 2| 8| 1 1 1 1.3 1 1 1 1 | 8 | 8 | 8 | 1 1 1 1.8 1.3 1.3 1.3 1.3|
+|
+=1 treble 2/2 cro A
+|
+=1 cro d e f g
+|
+=1 cro. a qua g cro f a
+|
+=1 cro g f e d
+|
+=1 cro c# A A f
+|
+=1 cro e d c# B
+|
+=1 cro. A qua B [c# A, f g]
+/
+6 bars | 8 | 4.5 :||: 2.5 | 8 | 8 | 8 |
+|
+=1 cro a qua [d e] [f g qua. e-tr smq d]
+|
+=1 min. d
+|
+=1 qua [f g]
+|
+=1 cro a a a qua [g f]
+|
+=1 cro. e qua d cro c qua [f e]
+|
+=1 cro. d qua e cro f qua [e d]
+/
+6 bars | 1 1 1 1.3 1 1 1 1 | 8 | 4.5 :||: 2.6 | 8 | 1.6 1.6 1.6 2.6 |
+|
+=1 cro. c# qua B cro A a
+|
+=1 cro g# a b g-tr
+|
+=1 min. a
+|
+=1 qua [f g]
+|
+=1 cro a a a g
+|
+=1 min. f qua [g a]
+/
+6 bars | 8 | .8 .8 .8 .8 .8 .8 1.6 1.3 | 8 | 2.6 2.6 2 2.6 | 8 | 4.5 :||
+|
+=1 cro bb b b a
+|
+=1 min. g qua [a bb]
+|
+=1 cro c~ c~ c~ f
+|
+=1 qua [f e f g] cro a qua [g f]
+|
+=1 cro e d d c#-tr
+|
+=1 min. d
+/
+3 bars | 7 | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 |
+|
+b0.8 .20 Variatie 1
+=1 cro A
+|
+=1 qua. [d smq f qua. e smq g] qua. [f smq a qua. g smq bb]
+|
+Il0.1 .63 '
+=1 qua. [a smq f qua. g smq e] qua. [f smq g qua. a smq bb]
+/
+3 bars | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3 2 2 2 4 2 2 2 3 2 2 2 3 |
+|
+=1 qua. [g smq a qua. f smq g] qua. [e smq f qua. d smq e]
+|
+=1 qua. [c#' smq E qua. A smq A] cro A qua. [f smq g]
+|
+=1 qua. [e smq f qua. d smq e] qua. [c# smq d qua. B, smq c]
+/
+3 bars | 2 2 2 3 2 2 2 3.5 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 | 22 :||
+|
+Il0.05 .63 '
+=1 qua. [A smq G# qua. A smq B'] qua. [c# smq A, qua. f smq g]
+|
+=1 qua. [a smq A, qua. d smq e] qua. [f smq g qua. e smq d]
+|
+=1 min. d
+/
+4 bars ||: 2 2 2 3 | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 |
+|
+=1 qua. [f smq g]
+|
+=1 qua. [a smq g qua. a smq bb] qua. [a smq a qua. g smq f]
+|
+Il0.1 .63 '
+=1, qua. [e smq G qua. A smq B] qua. [c smq d qua. e smq c]
+|
+=1 qua. [d smq c# qua. d smq e] qua. [f smq f qua. e smq d]
+/
+3 bars | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3 2 2 2 4 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3.5 2 2 2 3 2 2 2 1 :||
+|
+Il0.05 .63 '
+=1 qua. [c#' smq E qua. A smq e'] qua. [c smq A, qua. a smq b(1]
+|
+=1 qua. [c~)1 smq c~ qua. b smq a] qua. [g# smq a qua. b smq g#(1]
+|
+=1 qua. [a)1 smq e qua. c#, smq A,] cro a
+/
+3 bars ||: 2 2 2 3 | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 |
+|
+=1 qua. [f smq g]
+|
+=1, qua. [a smq A qua. F smq G] qua. [A smq a qua. g smq e]
+|
+=1, qua. [f smq A qua. G smq E] qua. [F smq f qua. g smq a]
+/
+3 bars | 2 2 2 3 2 2 2 4 2 2 2 3 2 2 2 3 \
+ | 2 2 2 4 2 2 2 3 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 |
+|
+=1, qua. [bb smq F qua. G smq A] qua. [Bb smq f qua. b smq a]
+|
+=1, qua. [g smq G qua. Bb smq A] qua. [G smq g qua. a smq bb]
+|
+=1, qua. [c~ smq G qua. A smq Bb] qua. [c smq g qua. c~ smq a]
+/
+3 bars | 2 2 2 3 2 2 2 3 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3 2 2 2 4 2 2 2 3 2 2 2 3 \
+ | 2 2 2 3.5 2 2 2 3 2 2 2 1 :||
+|
+Il0.05 .63 '
+=1, qua. [f-emph(1 smq e)1 qua. f smq g] qua. [a smq d qua. g smq f]
+|
+=1 qua. [e smq A, qua. d smq F,] qua. [G smq d' qua. E smq c#'(1]
+|
+=1 qua. [d')1 smq A qua. F# smq D] cro d
+
+
+
+
+12 systems 10/20/20/20 15/20/20/20/20/20/20/20/20 4/20 10/
+title Onder de Linde groene
+innerhead Der Fluiten-Lusthof, Jakob van Eyck
+leftfoot  Arranged and typeset Peter J Billam, 2004
+/
+5 bars | 2/2 6.5 | 1 1 1 1.3 .8 .8 .8 .8 | 8 \
+ | 2.1 2 1.6 1.6 | 1 1 1 1.3 1.2 1.2 1 1 |
+|
+=1 treble 2/2 min G c
+|
+=1 cro. E qua F min G
+|
+=1 cro c G A G
+|
+Il0.1 .95 '
+=1 qua [E F] cro G min e
+|
+=1 cro. G qua A [B c] cro d
+/
+6 bars | 1 1 1 1.3 1.2 1.2 1 1 | 6 | 6 :||: 2 2 2.4 2 | 4 3.2 | 4.8 4 |
+|
+=1 cro. F qua G [A B'] cro c
+|
+=1 min E D
+|
+=1 smb C
+|
+=1 cro G G qua [A B'] cro c
+|
+Il0.1 .95 '
+=1 cro c B min c
+|
+=1 qua [d e f d] cro e e
+/
+5 bars | 2.4 2.4 2.4 2 | 1 1 1 1.3 1.2 1.2 1 1 | 1 1 1 1.3 1.2 1.2 1 1 \
+ | 6.4 | 6.4 :||
+|
+Il0.1 .95 '
+=1 qua [d e f d] [e f] cro g
+|
+=1 cro. G qua A [B c] cro d
+|
+=1 cro. F qua G [A B'] cro c
+|
+=1 min E D 
+|
+=1 smb C
+
+/
+4 bars | 4.8 4 | 2.4 2.4 2 2.4 | 2 2 2 2.4 | 2.4 2 1.6 1.6 |
+|
+b0.8 .05 Modo 3
+=1 qua [G A(2 B')2 G] cro c c
+|
+=1 qua [E(2 D E)2 F] cro G qua [A B']
+|
+=1 cro c G A qua [G F]
+|
+=1 qua [E(2 F)2] cro G min e
+/
+4 bars | 2.4 2.4 2.4 2 | 2.4 2.4 2.4 2 | 2 2.4 2.4 2 | 6.4 |
+|
+=1 qua [G(2 F G)2 A] [B, c] cro d
+|
+=1 qua [F(2 E F)2 G] [A B'] cro c
+|
+=1 cro E qua [F E] [D(2 C)2] cro D
+|
+=1 smb C
+/
+3 bars | 8 | 8 | 8 |
+|
+=1 qua [G A(2 B')2 G] qua. [c(1 smq d qua c)1 c]
+|
+=1 qua [E(2 D E)2 F] [G A(2 B')2 G]
+|
+=1' qua [c C(2 G)2 Bb] [A(2 F)2 G(2 F)2]
+/
+4 bars | 4.8 4 | 1.0 1.4 1.2 1.2 1.2 1.2 1.2 1.2 \
+ | 1.0 1.4 1.2 1.2 1.2 1.2 1.2 1.2 | 9.6 |
+|
+=1, qua [E(1 F G)1 g] min e
+|
+=1' qua. [G(2 smq F qua G)2 A] [B c d D]
+|
+=1' qua. [F(2 smq E qua F)2 G] [A B c C]
+|
+=1' qua [E(2 D F)2 E] [D(2 C D)2 B]
+/
+4 bars | 4 3.2 | 9.6 | 4.8 4 | 9.6 |
+|
+=1 cro c C min c
+|
+=1' qua [G A(2 B)2 G] [A B(2 c)2 A]
+|
+=1, qua [B c(1 d)1 B] cro c c
+|
+=1 qua [d e(1 f)1 d] [e c(1 d)1 e]
+/
+3 bars | 2.2 2.2 2.2 2 | 8.8 | 8.8 |
+|
+=1 qua [d e(1 f)1 d] [e f] cro g
+|
+=1' qua [G(2 F G)2 A] [B c d D]
+|
+=1 qua [F(2 E F)2 G] [A, B, c d]
+/
+4 bars | 2 2.4 2.4 2.4 | 4.6 3.2 | 1 1.4 1.2 1.2 1.2 1.2 1.2 1.2 | 4.8 4 |
+|
+=1 cro e qua [f(1 e)1] [d' G(2 A B')2]
+|
+=1 qua [c' G(2 E C)2] min c
+|
+=1' qua. [G smq E(2 qua F)2 G] [A F c A]
+|
+=1, qua [d B(1 G)1 d] cro c c
+/
+3 bars | 8.8 | 2.2 2.2 2.2 2 | 1.1 1.2 1.1 1.1 1.1 1.1 1.1 1.1 |
+|
+=1 qua [d'-ten G(2 F)2 d'] [e-ten A,(1 G,)1 e]
+|
+=1, qua [d B c d] [e f] cro g
+|
+=1 qua [G smq E F] qua [G A] [B, c d e]
+/
+3 bars | 1.1 1.2 1.1 1.1 1.1 1.1 1.3 1.1 | 8.8 | 1.1 1.3 1.1 1.1 .9 .8 .9 .8 ||
+|
+Il0.4 .82 '
+=1 qua [f smq d e] qua [f g] [a b c~ a(1]
+|
+=1 qua [g e d c)1] [B' G(2 A)2 B']
+|
+=1' qua [c-ten smq E-. F-.] qua [G E] min C-ten
+
+9 systems 30/20/20 30/20/20/20 30/20/20/20/20 39/
+title Courante
+innerhead Der Fluiten-Lusthof, Jakob van Eyck
+leftfoot  Arranged and typeset Peter J Billam, 2005
+/
+6 bars ||: 1b 3/4 5 | 4.5 6 4.5 4.5 | 4.5 6 4.5 4.0 \
+ | 5 6 6 | 4.5 6 4.5 4.5 6 | 8 :||
+|
+=1 treble 1b 3/4 cro A
+|
+=1 cro. A qua [G F E] cro F G A
+|
+=1 cro. B qua [c B, c] min A cro G
+|
+=1 min G cro A A D E
+|
+=1 cro. F qua [G A G] cro A cro. G qua F
+|
+=1 min F
+/
+6 bars ||: 1b 5 | 4.5 6 | 18 \
+ | 1.5 1.5 1.4 1.4 1.4 2.2 1.4 1.4 1.4 1.4 1.5 1.5 \
+ | 1.5 1.5  1.5 1.5  1.5 1.5 2 2 1.4 1.4 1.4 1.4 \
+ | 1.5 1.5 1.4 1.4 1.4 2.2 1.4 1.4 1.4 1.4 :||
+|
+=1 cro G
+|
+=1 cro. G qua [F E D]
+|
+=1 cro C D E F F G
+|
+=1' cro A cro. B qua B min A cro D
+|
+=1 cro D E F qua [G A] cro G F
+|
+=1 cro F cro. E qua D min D
+
+/
+7 bars ||: 1b 7 | 24 | 7 8 8 | 24 | 6 6 7 | 24 | 7 8 8 |
+|
+b0.8 .05 Modo 2
+=1 cro A
+|
+=1' qua [A B A G F E]
+|
+=1' cro F qua [G B A c]
+|
+=1, qua [B A B c B c]
+|
+=1 min A cro G
+|
+=1' qua [G A B c A G]
+|
+=1 cro A qua [D F E G]
+/
+7 bars | 1b 24 | 8 7 8 | 15 :||: 8 | 24 | 7 8 8 | 24 |
+|
+=1' qua [F E F G A B]
+|
+=1' qua [c F] cro. G qua F
+|
+=1 min F
+|
+=1 cro G
+|
+=1 qua [G A G F E D]
+|
+=1 cro C qua [D F E G]
+|
+=1' qua [F G F A G B]
+/
+6 bars | 1b  24 | 6 6 8 | 24 | 24 | 8 7 8 | 15 :||
+|
+=1, qua [A c B c B c]
+|
+=1 min A qua [D E]
+|
+=1 qua [D F E G F A]
+|
+=1 qua [G A G A F G]
+|
+=1 qua [F G] cro. E qua D
+|
+=1 min D
+
+/
+5 bars ||: 1b 7 | 4 4 3 3 3 4 | 3 4 3 4 3 4 | 3 4 3 3 3 3 | 6 5.4 5.4 |
+|
+b0.8 .05 Modo 3
+=1 cro A
+|
+=1' smq [A G A B] qua [A G] [F smq D E]
+|
+=1 qua [F smq E F] qua [G smq F G] qua [A smq G A]
+|
+=1 qua [B' smq G A] qua [B, d c B]
+|
+=1 qua [c B,] cro A G
+/
+5 bars | 1b 8 8 5.5 | 2.7 2.7 3 4 3 4 | 24 | 3 3 4 4 3 4 | 13 :||
+|
+=1' smq [G F G A] [G A B c] cro A
+|
+=1 cro A qua [D smq C D] qua [E smq D E]
+|
+=1' smq [F E D C] [D E F G] [A G A B]
+|
+=1 qua [c A,] smq [G F E D] qua [C smq D E]
+|
+=1 min F
+/
+5 bars ||: 1b 7 | 24 | 2.7 2.7 3 4 4 4 | 3 4 4 4 3 4 | 4 4 3 4 4 4 |
+|
+=1 cro G
+|
+=1 smq [G F G A] [G A F G] [E F D E]
+|
+=1 cro C qua [D smq C D] [E C D E]
+|
+=1 qua [F smq D E] [F D E F] qua [G smq F G]
+|
+=1' smq [A F G A] qua [B smq G A] [B G c B]
+/
+5 bars | 1b 2.2 2.2 2.2 2.2 3 4 | 3 4 3 4 4 4 | 3 4 4 4 3 4 \
+ | 2 2 2 2 1.5 1.5 3.6 3.6 2 2 2 2 | 15 :||
+|
+=1 min A qua [D smq F E]
+|
+=1 qua [D smq C D] qua [E smq D E] [F D E F]
+|
+=1 qua [G smq E F] [G E A G] qua [F smq D E]
+|
+=1 smq [F D G F] qua [E smq A Bn'] [c# A, B, c]
+|
+=1 min d d
+
+11 systems 20 /20/20/20 20/20/20/20 20/20/20/20/20/20 30/
+title Rosemont
+innerhead Der Fluiten-Lusthof, Jakob van Eyck
+leftfoot  Arranged and typeset Peter J Billam, 2005
+/
+6 bars | 4/4 4 3 | 4 3 | 8 | 4 3 | 4 3 | 4 3 |
+|
+=1 treble 4/4 cro E C min G
+|
+=1 cro F D min A
+|
+=1 cro E C G c
+|
+=1 cro c B min c
+|
+=1 cro E C min G
+|
+=1 cro F D min A
+/
+5 bars | 16 | 1.8 1.8 1.8 2.5 1.7 1.7 1.7 1.7 \
+ | 1.7 1.7 1.7 2.5 2.5 2.5 2 2 | 1.7 1.7 1.7 2.5 2.5 2.5 2 2 | 4 5 4 4 |
+|
+=1 treble cro E C G E
+|
+=1 cro. D qua C min C
+|
+=1 cro. G qua F [E D] cro C
+|
+=1 cro. A qua G [F E] cro D
+|
+=1 cro G qua [A B'] cro c B
+/
+6 bars | 1.7 1.7 1.7 1.7 1.8 1.8 1.8 2.5 | 2.5 2.5 2 2 1.8 1.8 1.8 2.5 \
+ | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 \
+ | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 \
+ | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 | 12 ||
+|
+=1 treble min A cro. d qua c
+|
+=1 qua [B' A] cro G cro. c qua c
+|
+=1 cro. B qua B cro. A qua A
+|
+=1 cro. G qua G cro. F qua F
+|
+=1 cro. E qua E cro. D qua D
+|
+=1 smb C
+/
+6 bars | 6.8 5 | 6.8 5 | 3.4 3.4 3.4 4 | 8 5 \
+ | 1.5 3 2 2 1.7 1.7 1.7 1.7 | 1.5 3 2 2 1.7 1.7 1.7 1.7 |
+|
+b0.8 .05 Modo 2
+=1 treble cro E C min G
+|
+=1 cro F D min A
+|
+=1 cro E C G qua [c d]
+|
+=1 qua [c' A B' G] min c
+|
+=1 qua. [E smq C] qua [E F] cro G G
+|
+=1 qua. [F smq D] qua [F G] cro A A
+/
+5 bars | 1.5 3 2 2 1.5 3 2 2 | 8 5 | 1.5 3 2 2 2 2 2 2 \
+ | 1.8 3 2 2 2 2 2 2 | 16 |
+|
+=1 treble qua. [E smq C] qua [E F] qua. [G smq F] qua [E C]
+|
+=1 qua [F E D G] min C
+|
+=1 qua. [G smq A] qua [G F] [E D E C]
+|
+=1' qua. [A smq Bb] qua [A G] [F E F D]
+|
+=1 qua [G A B' G] [c d B, G,]
+/
+6 bars | 2 2 2 2 1.5 3 2 2 | 16 | 16 | 16 | 16 | 13 ||
+|
+=1 treble qua [c A, B, c] qua. [d smq e] qua [d c]
+|
+=1' qua [B A B G] [c C E c]
+|
+=1' qua [B D G B] [A C F A]
+|
+=1 qua [G C E G] [F A D F]
+|
+=1' qua [E G C E] [D c D B]
+|
+=1 min c C
+
+/
+4 bars | .8 .8 .8 1 .8 .8 .8 .8 .7 .7 .7 .7 .7 .7 .7 .7 \
+ | .8 .8 .8 1 .8 .8 .8 .8 .7 .7 .7 .7 .7 .7 .7 .7 \
+ | .8 .8 .8 1 .8 .8 .8 .8 .7 .7 .7 .7 .8 .8 1 1 \
+ | 1 1 1 1 .8 .8 1 1 .6 .6 .6 .6 .6 .6 .6 .6 |
+|
+b0.8 .05 Modo 3
+=1 treble qua. [E smq C] qua [E F] cro G G
+|
+=1 qua. [F smq D] qua [F G] cro A A
+|
+=1 qua. [E smq C] qua [E F] cro G qua [c smq B, c]
+|
+=1 smq [d c B, A,] qua [G smq A B'] min c
+/
+3 bars | 4 4 4 3.2 | 1 1 1 1 1 1 1 1 1 1 1.6 1 .8 .8 .8 .8 | 16 |
+|
+=1 treble smq [E F E D] [C D E F] [G F G A] qua [G G]
+|
+=1' smq [F G F E] [D E F G] [A G A Bb] qua [A A]
+|
+=1 smq [E F E D] [C D E F] [G A G F] [E C D E]
+/
+3 bars | 8 5.6 | 1 1 1 1.6 1 1 1 1 1 1 1 1 .8 .8 .8 .8 | 4 4 4 3.2 |
+|
+=1 smq [F G F E] [D C D E] min C
+|
+=1' smq [G F G A] [Bb A G F] [G F E D] qua [E C]
+|
+=1' smq [A G A B] [c B A G] [A G F E] qua [F D]
+/
+3 bars | 2 2 2 2 1.6 2 2 2 | 1.6 2 2 2 2 2 2 2 | 2 2 1.6 1.6 1.6 2 2 2 |
+|
+=1 smq [G F G A] [B' G A B'] qua [c smq d c] [B' A G A']
+|
+=1 qua [c smq B, A,] [G A B' c'] [d c d e] [f e d c]
+|
+=1 smq [d c B, A,] qua [d B,] [c' smq C D] [E F G A]
+/
+4 bars | 1.6 2 2 2 1.6 2 2 2 | 1.6 2 2 2 1.6 2 2 2 | 1.6 2 2 2 2 2 2 2 | 6 ||
+|
+=1' qua [B smq D E] [F G A B] qua [A smq C D] [E F G A]
+|
+=1 qua [G smq C D] [E F G A] qua [F smq D E] [F G A F]
+|
+=1' qua [E smq C D] [E F G E] [D c B A] [G c A B]
+|
+=1 smb c
+
+12 systems 15 /19/19 20 /19/19/19 20/19/19/19 20/19/19/19/19 20/
+title De zoete Zoomertyden
+innerhead Der Fluiten-Lusthof, Jakob van Eyck
+leftfoot  Arranged and typeset Peter J Billam, 2005
+/
+4 bars ||: 4/2 6.4 5.6 | 3.2 3.2 2.8 3.2 \
+ | .8 .8 .8 1 .8 .8 .8 .8 .7 .7 .7 .7 .7 .7 .7 .7 | 6.4 5.2 :||
+|
+=1 treble 4/2 cro c c c B min A G
+|
+=1 cro c c c d min e cro c
+|
+=1 cro. f qua g cro f e min d g
+|
+=1 cro f# g a f smb g
+/
+5 bars ||: .8 .8 .8 1 .8 .8 .8 .8 .7 .7 .7 .7 .8 .8 .8 .8 \
+ | .8 .8 .8 1 .8 .8 .8 .8 .7 .7 .7 .7 .8 .8 .8 .8 \
+ | .7 .7 .7 .7 .7 .7 .8 .8 .7 .7 .7 .7 .8 .8 .8 1 | 2.8 3.2 3.2 3.2 | 6 :||
+|
+=1 cro. g qua a cro g f min e cro c c
+|
+=1 cro. f qua g cro f e min d cro G G
+|
+=1 min. c cro c min d cro. g qua f
+|
+=1 min e cro A A B c d B
+|
+=1 smb c
+
+/
+6 bars | .8 .8 .8 .8 1 1 1 1.4 .8 .8 .8 .8 .8 .8 .8 .8 \
+ | 3.2 4 3.2 4 | 12.8 | 3.2 4 3.2 4 \
+ | .8 .8 .8 .8 1 1 1 1.4 .8 .8 .8 .8 .8 .8 .8 .8 | 2 2.8 2 2 1.4 1.4 1.4 1.4 |
+|
+b0.8 .05 Modo 2
+=1 cro c qua. [c smq d]  cro c B
+|
+=1 cro A qua [E F] cro G qua [A B']
+|
+=1 cro c c c d
+|
+=1 cro e qua [d e] cro c qua [d e]
+|
+=1 cro f qua. [f smq g]  cro f e
+|
+=1 qua [d e f# d] min g
+/
+6 bars | 3.2 4 4 4 | 7 :||: .8 .8 .8 .8 1 1 1 1.5 .8 .8 .8 .8 .8 .8 .8 .8 \
+ | 3.2 4 3.2 4 | .8 .8 .8 .8 1 1 1 1.5 .8 .8 .8 .8 .8 .8 .8 .8 \
+ | 1 1 1 1 1 1 1 1 .8 .8 .8 .8 1 1 1 1.4 |
+|
+=1 cro g qua [f# e] [f g a f]
+|
+=1 smb g
+|
+=1 cro g qua. [g smq a]  cro g f
+|
+=1 cro e qua [d e] cro c qua [d e]
+|
+=1 cro f qua. [f smq g]  cro f e
+|
+=1 qua [d c B, A,] cro G qua. [A smq B']
+/
+5 bars | 1 1 1 1.5 1 1 1 1.5 .8 .8 .8 .8 1 1 1 1.5 \
+ |.8 .8 .8 .8 1 1 1 1.5 .8 .8 .8 .8 .8 .8 .8 .8 \
+ | 8 6.4 | 6.4 8 | 9 :||
+|
+=1 qua. [c smq B] qua. [A smq B'] cro c qua. [B, smq c]
+|
+=1 cro d qua. [e smq f] cro g f
+|
+=1 qua [e d c B,] cro A A
+|
+=1 cro B, c qua [d' G A B']
+|
+=1 smb c
+
+/
+5 bars | 16 | 2 3 2 2 2 2 2 2 | 16 | 16 | 16 |
+|
+b0.8 .05 Modo 3
+=1, qua [c B c d] [c d B c]
+|
+=1' qua [A smq G F] qua [E F] [G E C G]
+|
+=1' qua [c A c F] [c E d D]
+|
+=1' qua [e C e d] [c B A G]
+|
+=1, qua [F c d e] [f g e f]
+/
+6 bars | 16 | 2 3.1 2 2 2 3.3 2 2 | 8 5.2 :||: 16 | 16 | 16 |
+|
+=1, qua [d B G d] [g G c B]
+|
+=1, qua [A g f# e] [d smq c B] qua [A f]
+|
+=1, qua [g d B G] min g
+|
+=1 qua [g d e f] [g a g f]
+|
+=1 qua [e G, A, B,] [c' C D E]
+|
+=1, qua [F c d e] [f g e f]
+/
+6 bars | 16 | 16 | 16 | 16 | 16 | 8 5 :||
+|
+=1 qua [d c B, A,] [G A B' G]
+|
+=1' qua [c F E D] [C c B c]
+|
+=1 qua [d' G F E] [D, a g f]
+|
+=1 qua [e d c B,] [A F D A]
+|
+=1' qua [B G c G] [d A B G]
+|
+=1 qua [c' C E G] min c'
+
+/
+4 bars | 3 3 3 4 3 4 3 4 | 8 6 8 6 | 4 3 3 3 4 3 3 3 | 3 3 4 4 3 4 4 4 |
+|
+b0.8 .05 Modo 4
+=1 qua [c' G] [G smq A B'] qua [c smq d c] qua [B, smq c B,]
+|
+=1 smq [A G F E] qua [D A] smq [G F E D] qua [C c']
+|
+=1' smq [A B qua c] [F c] smq [E F qua G] [D d]
+|
+=1 qua [e c] smq [g f e d] qua [c smq A, B,] [c' B' A G]
+/
+4 bars | 3 4 4 4 3 4 3 4 | 4 4 3 3 3 4 4 4 \
+ | 3 3 3 4 4 4 3 4 | 3 4 3 3 3 4 3 3 :||
+|
+=1 qua [F smq c' d'] [e c d e] qua [f smq g f] qua [e smq f e]
+|
+=1, smq [d c B A] qua [G g] qua [g smq G A] [B c d e]
+|
+=1 qua [f# d] [g smq f g] [a g f e] qua [d smq e f]
+|
+=1, qua [g smq B c] qua [d G] [g smq c d] qua [e c]
+/
+4 bars ||: 3 4 3 3 3 4 3 3 | 3 4 3 3 3 4 3 3 \
+ | 3 4 3 3 3 4 3 4 | 3 4 3 3 3 4 3 4 |
+|
+=1 qua [g' smq C D] qua [E C] [G, smq e f] qua [g f]
+|
+=1 qua [e smq G, A,] qua [B' G] [c' smq C D] qua [E C]
+|
+=1 qua [F smq c' d'] qua [e c] [f smq g f] qua [e smq f e]
+|
+=1 qua [d smq B, c]  qua [d B,] [G smq E F] qua [G smq A B']
+/
+5 bars | 2 3 2 2 2 3 2 2 | 2 3 2 2 2 3 2 2 \
+ | 2 3 2 2 2 3 2 2 | 2 3 2 2 2 3 2 2 | 2 3 3 2 1.5 1.5 1.5 1.5 :||
+|
+=1 qua [c' smq C D] qua [E C] [F smq A B'] qua [c A,]
+|
+=1 qua [d' smq D E] qua [F D] [G smq B' c'] qua [d B,]
+|
+=1 qua [e' smq E F] qua [G E] [A smq F G] qua [A D]
+|
+=1 qua [B' smq G F] qua [E c'] [D smq d' c'] qua [B' G]
+|
+=1 qua [c' smq G F] [E D qua C] min c'
+@
+
+
+1.1
+log
+@add Wat zal men op den Avond doen
+@
+text
+@d114 1
+a114 1
+=1, qua [e A e c] [d G B d]
+d131 1
+a131 1
+=1 qua [c smq B,(1 A,)1] qua [G c'] [d smq c(1 B,)1] qua [A, d]
+d135 1
+a135 1
+=1 qua [e smq d(1 c)1] qua [B, c] [d smq c(1 B,)1] qua [A B']
+d147 1
+a147 1
+=1 qua [g smq g(1 f)1] qua [e g] [d smq c(1 B,)1] qua [A, e]
+d154 1
+a154 1
+=1 smq [g(1 f e d)1] qua [c g] smq [d(1 c)1 qua B,] [A, e]
+d448 444
+@

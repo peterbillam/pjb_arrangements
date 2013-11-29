@@ -1,0 +1,362 @@
+3 systems 10 /17-18-17-23-17-18-17-23-17 \
+ /17-18-17-18-17-23-17-18-17-23-17 \
+ /17-18-17-18-17-23-17-18-17-23-17 /
+title Such A Night
+pagenum 1
+leftfoot arranged 2008 Peter J Billam
+midi channel 1 patch 52 pan 41 reverb 50
+midi channel 2 patch 52 pan 87 reverb 50
+midi channel 3 patch 52 pan  5 reverb 50
+midi channel 4 patch 52 pan 95 reverb 50
+midi channel 5 patch 52 pan 23 reverb 50
+midi channel 6 patch 52 pan 69 reverb 50
+midi channel 9 reverb 90
+
+% dontstop
+/
+5 bars | 4/4 48 | 48 | 48 |
+| 4/4 .27 .24 .27 .24 .27 .24 .27 .24
+=1 treble     4/4 cha2 leg85 vol80  cro rest D-. E-. D-.
+=2 treble     4/4 cha3 leg85 vol80  smb rest
+=3 treble8vab 4/4 cha4 leg85 vol100 smb rest
+=4 bass       4/4 cha5 leg85 vol100 smb rest
+=5 bass       4/4 cha6 leg85 vol80  cro rest d-. e-. f#-.
+|
+=1 cro rest D-. rest D-.
+=2 cro rest B_-. rest B_-.
+=3 smb rest
+=4 min rest cro f# qua [d e(1]
+r0.5 .5 Such .75 a  night ,
+=5 cro g-. rest d-. rest
+|
+=1 cro rest D-. rest D-.
+=2 cro rest B_-. rest B_-.
+=3 qua [d e] [f# e(1] [e)1 d] [B Bb(1]
+=4 min e)1 rest
+=5 cro G-. rest d-. rest
+|
+=1 cro rest D-. rest D-.
+=2 cro rest B_b-. rest B_b-.
+=3 cro Bb)1 min. rest
+=4 min rest  cro fn qua [d e(1]
+r0.5 .5 such .75 a  night ,
+=5 cro g-. rest d-. rest
+|
+=1 cro rest D-. rest D-.
+=2 cro rest B_b-. rest B_b-.
+=3 qua [d e] [f e(1] [e)1 d] [Bb' A(2]
+=4 min e)1 rest
+=5 cro G-. rest d-. rest
+|
+=1' min rest cro B qua [A B(2]
+r0.5 .5 sweet .75 confusion
+=2 cro rest D-. rest D-.
+=3 treble cro A_)2 rest D qua [F F#(2]
+r0.5 .5 sweet .75 confusion
+=4 treble8vab cha4 leg85 vol80 cro rest Bn-. rest B-.
+=5 min rest cro b qua [a b(1]
+r0.5 .5 sweet .75 confusion
+=6 bass cha6 leg85 vol80 cro f#-. rest d-. rest
+|
+=1 cro B')2 qua d rest qua [F# Fn] [F# B'(2]
+r0.5 .5 under the moonlight
+=2 cro rest D-. rest D-.
+=3 cro F#)2 qua A rest qua [E D] [E D(2]
+r0.5 .5 under the moonlight
+=4 cro rest B-. rest B-.
+=5 cro b)1 qua f# rest qua [e d] [e f#(1]
+r0.5 .5 under the moonlight
+=6 cro A-. rest A#-. rest
+|
+=1' cro B)2 F# qua rest cro. F#{2
+=2 cro rest D-. rest D-.
+=3 cro D)2 D qua rest cro. D{2
+=4 cro rest B-. rest B-.
+=5 cro f#)1 B min rest
+=6 cro B-. rest f#-. rest
+|
+=1 min E}2 qua rest cro. F#{2
+=2 cro rest D-. rest D-.
+=3 min C}2 qua rest cro. D{2
+=4 cro rest c-. rest c-.
+=5 smb rest
+=6 cro d-. rest f#-. rest
+|
+=1 cro D}2 min. rest
+=2 cro rest D-. rest D-.
+=3 cro B_}2 min. rest
+=4 cro rest B-. rest B-.
+=5 min rest cro f# qua [d e(1]
+r0.5 .5 Such .75 a  night ,
+=6 cro g-. rest d-. rest
+|
+=1 cro rest min. Bn{1
+=2 cro rest D-. rest D-.
+=3 qua [D E] [F# E(2] [E)2 D] [B_ B_b(2]
+=4 cro rest B-. rest B-.
+=5 min e)1 rest
+=6 cro G-. rest d-. rest
+|
+=1 min. Bb}1 cro rest
+=2 cro rest D-. rest D-.
+=3 cro B_b)2 min. rest
+=4 cro rest Bb-. rest Bb-.
+=5 min rest  cro fn qua [d e(1]
+r0.5 .5 such .75 a  night ,
+=6 cro g-. rest d-. rest
+|
+=1 cro rest min. Bb'{2
+=2 cro rest D-. rest D-.
+=3 qua [D E] [F E(2] [E)2 D] [B_b A_(2]
+=4 cro rest Bb-. rest Bb-.
+=5 min e)1 rest
+=6 cro G-. rest d-. rest
+|
+=1' cro. A}2 qua A cro B A
+r0.5 .37 to  steal .75 a .90 -
+=2 cro rest D-. rest D-.
+=3 cro A_)2 qua rest D cro F# Fn
+r0.5 .37 to  steal .75 a .90 -
+=4 cro rest Bn-. rest B-.
+=5 cro. rest qua a cro b a
+r0.5 .37 to  steal .75 a .90 -
+=6 cro f#-. rest d-. rest
+|
+=1 qua B{1 cro d}1 qua Fn [F#{'1 Fn}'1] [B' F#(1]
+r0.5 .01 way .37 the .5 time .75 is  right
+=2 cro rest D-. rest D-.
+=3 qua F#{2 cro A}2 qua D [E{'1 D}'1] [D D(1]
+r0.5 .01 way .37 the .5 time .75 is  right
+=4 cro rest B-. rest B-.
+=5 qua b{1 cro d~}1 qua d [e{1 d}1] [f#' B(2]
+r0.5 .01 way .37 the .5 time .75 is  right
+=6 cro A-. rest A#-. rest
+
+3 systems 10 /17-18-17-18-17-23-17-18-17-23-17 \
+ /17-18-17-18-17-23-17-18-17-23-17 \
+ /17-18-17-18-17-23-17-18-17-23-17 /
+|
+=1' cro F#)1 F# qua rest cro. F#{2
+=2 cro rest D-. rest D-.
+=3 cro D)1 D qua rest cro. D{2
+=4 cro rest B-. rest B-.
+=5 cro B)2 min rest
+=6 cro B-. rest f#-. rest
+|
+=1 min E}2 qua rest cro. F#{2
+=2 cro rest D-. rest D-.
+=3 min C}2 qua rest cro. D{2
+=4 cro rest c-. rest c-.
+=5 smb rest
+=6 cro d-. rest f#-. rest
+|
+=1 cro D}2 min. rest
+=2 cro rest D-. rest D-.
+=3 cro B_}2 min. rest
+=4 cro rest B-. rest B-.
+=5 cro. rest qua d cro f# qua [d e(1]
+r0.5 .37 Your  eyes .75 caught mine ,
+=6 cro g-. rest d-. rest
+|
+=1 smb rest
+=2 cro rest D-. rest D-.
+=3 qua [D E] [F# E(2] [E)2 D] [B_ B_b(2]
+=4 cro rest B-. rest B-.
+=5 min e)1 rest
+=6 cro G-. rest d-. rest
+|
+=1 smb rest
+=2 cro rest D-. rest D-.
+=3 cro B_b)2 min. rest
+=4 cro rest Bb-. rest Bb-.
+=5 cro rest d qua [fn d] cro e(1
+r0.5 .25 and .50 at  a  glance 
+=6 cro g-. rest d-. rest
+|
+=1 smb rest
+=2 cro rest D-. rest D-.
+=3 qua [D E] [F E(2] [E)2 D] [B_b A_(2]
+=4 cro rest Bb-. rest Bb-.
+=5 min e)1 rest
+=6 cro G-. rest d-. rest
+|
+=1' cro. rest qua F# cro B qua [A B{1]
+r0.5 .5 let .75 me know
+=2 cro rest D-. rest D-.
+=3 cro A_)2 qua rest D cro D qua [F F#{2]
+r0.5 .37 you  let .75 me know
+=4 cro rest Bn-. rest B-.
+=5 cro. rest qua a cro b qua [a b{1]
+r0.5 .37 you  let .75 me know
+=6 cro f#-. rest d-. rest
+|
+=1 cro d}1 qua rest D [F# A] [A# B'(2]
+r0.5 .5 this was my chance
+=2 cro rest D-. rest D-.
+=3 cro A}2 qua rest E qua [D E] [F# D(2]
+r0.5 .5 this was my chance
+=4 cro rest B-. rest B-.
+=5 cro b}1 qua rest d qua [e d] [f#' B(2]
+r0.5 .37 that this was my chance
+=6 cro A-. rest A#-. rest
+|
+=1' cro B)2 rest qua rest cro. F#{2
+=2 cro rest D-. rest D-.
+=3 cro D)2 rest qua rest cro. D{2
+=4 cro rest B-. rest B-.
+=5 cro B)2 min. rest
+=6 cro B-. rest f#-. rest
+|
+=1 min E}2 qua rest cro. F#{2
+=2 cro rest D-. rest D-.
+=3 min C}2 qua rest cro. D{2
+=4 cro rest c-. rest c-.
+=5 cro rest qua f cro e qua [d' d' B]
+r0.5 .25 You came here with my
+=6 cro d-. rest f#-. rest
+|
+=1 cro D}2 min. rest
+=2 cro rest D-. rest D-.
+=3 cro B_}2 min. rest
+=4 cro rest B-. rest B-.
+=5 qua d cro d e rest qua B
+r0.5 .01 best friend Jim, .87 and
+=6 cro g-. rest d-. rest
+|
+=1 cro D min. rest
+=2 cro rest D-. rest D-.
+=3 cro B_ min. rest
+=4 cro rest B-. rest B-.
+=5 cro d d qua e rest [d d]
+r0.5 .01 here .26 I .50 am,  trying to
+=6 cro g-. rest d-. rest
+|
+=1 smb rest
+=2 cro E min. rest
+=3 smb rest
+=4 cro c# min. rest
+=5 cro b qua [a f#] a cro a qua b
+r0.5 .01 steal .26 you away .62 from .87 him
+=6 cro a min. rest
+|
+=1 cro rest min. c#
+r0.5 .25 Ooooh ...
+=2 cro rest min. A
+r0.5 .25 Ooooh ...
+=3 cro rest min. F
+r0.5 .25 Ooooh ...
+=4 smb rest
+=5 min. rest qua rest smq [d' B']
+r0.5 .78 but if
+=6 smb rest
+|
+=1 qua D cro. D smq [D D rest D] qua [D D]
+r0.5 .01 I don't do it, you know some - 
+=2 smb rest
+=3 qua D cro. D smq [D D rest D] qua [D D]
+r0.5 .01 I don't do it, you know some - 
+=4 smb rest
+=5 qua d cro. d smq [fn f# rest d] qua [d' B]
+r0.5 .01 I don't do it, you know some - 
+=6 cro d qua [F F#] cro G qua [A# B]
+|
+=1 qua [D D] cro D smq [E{2 qua. B_}2] cro rest
+r0.5 .01 body else will .90 if
+=2 smb rest
+=3 qua [D D] cro D smq [E{2 qua. B_}2] cro rest
+r0.5 .01 body else will .90 if
+=4 smb rest
+=5 qua [d' B] cro d qua e{1 cro d}1 smq rest d
+r0.5 .01 body else will .90 if
+=6 cro d qua [f f#] cro g qua [A# B]
+|
+=1 qua D cro. D smq [D D rest D] qua [D D]
+r0.5 .01 I don't do it, you know some -
+=2 smb rest
+=3 qua D cro. D smq [D D rest D] qua [D D]
+r0.5 .01 I don't do it, you know some -
+=4' cro D qua [F F#] cro G qua [A# B]
+=5 qua f cro. f# smq [e e rest d] qua [d' B]
+r0.5 .01 I don't do it, you know some -
+=6 cro d qua [F F#] cro G qua [A# B]
+|
+=1 qua [D D] cro D smq [E{2 qua. B_}2] cro rest
+r0.5 .01 body else will
+=2 smb rest
+=3 qua [D D] cro D smq [E{2 qua. B_}2] cro rest
+r0.5 .01 body else will
+=4' cro D qua [F F#] cro G qua [A# B]
+=5 qua [d' B] cro d qua d{1 cro e}1 smq rest d
+r0.5 .01 body else will .90 if
+=6 cro d qua [f f#] cro g qua [A# B]
+|
+=1 qua D cro. D smq [D D rest D] qua [D D]
+r0.5 .01 I don't do it, you know some -
+=2 smb rest
+=3 qua D cro. D smq [D D rest D] qua [D D]
+r0.5 .01 I don't do it, you know some -
+=4' cro D qua [F F#] cro G qua [A# B]
+=5 qua f cro. a smq [b b rest f] qua [d' B]
+r0.5 .01 I don't do it, you know some -
+=6 cro d qua [F F#] cro G qua [A# B]
+|
+=1 qua [D D] cro D smq [E{2 qua. B_}2] cro rest
+r0.5 .01 body else will
+=2 smb rest
+=3 qua [D D] cro D smq [E{2 qua. B_}2] cro rest
+r0.5 .01 body else will
+=4' cro D qua [F F#] cro G qua [A# B]
+=5 qua [d e] cro d qua d{1 cro e}1 smq rest d
+r0.5 .01 body else will .90 if
+=6 cro d qua [f f#] cro g qua [A# B]
+|
+=1 qua D cro. D smq [D D] qua rest cro rest
+r0.5 .01 I don't do it,
+=2 smb rest
+=3 qua D cro. D smq [D D] qua rest cro rest
+r0.5 .01 I don't do it,
+=4' cro D qua [F F#] cro G rest
+=5 qua f cro. a smq [a# b] qua rest rest B
+r0.5 .01 I don't do it, .87 you
+=6 cro d qua [F F#] cro G rest
+|
+=1 smb rest
+=2 smb rest
+=3 smb rest
+=4 smb rest
+=5 qua. [d smq d] qua [d d] smq [f{1 f#}1] qua rest d rest
+r0.5 know somebody else .75 will
+=6 smb rest
+
+
+% stop
+%
+% Such a night, such a night
+% sweet confusion under the moonlight
+% Such a night, such a night
+% To steal away to time is right
+% Your eyes caught mine, and at a glance
+% You let me know that this was my chance
+% You came here with my best friend Jim, and here I am
+% trying to steal you away from him (ooh)
+% but if I don't do it, you know somebody else will
+% if I don't do it, you know somebody else will
+% if I don't do it, you know somebody else will
+% if I don't do it, you know somebody else will
+%
+% Such a night, such a night
+% sweet confusion under the moonlight
+% Such a night, such a night
+% To steal away to time is right
+% Yeah I couldn't believe my ears
+% and my heart just skipped a beat
+% when you told me take you walking down the street
+% oh yeah, you came here with my best friend Jim, and here I am
+% stealin you away from him (ooh)
+% but if I don't do it, you know somebody else will
+% if I don't do it, you know somebody else will
+% if I don't do it, you know somebody else will
+% if I don't do it, you know somebody else will
+%
+% Such a night
+

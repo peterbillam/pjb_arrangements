@@ -1,0 +1,85 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.de Dp
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+
+.sp 1.1c
+.LP
+.ce 1
+\f3\s+5Bach Chorales, for piano and melody instrument\s0\fP
+.sp 1.1c
+
+.Lp
+It is the chorales, not his trademark fugues,
+that lie at the heart of Bach's technique.
+Wolff refers to Bach's \f2collection of 370 four-part
+chorales that charted the course for tonal harmony.\fP
+Donald Francis Tovey observes:
+\f2Counterpoint, the art defined by Sir Frederick Gore Ouseley
+as that of 'combining melodies'\. \. \.
+This definition is not quite complete.
+Classical couterpoint is the conveying of a mass of harmony
+by means of a combination of melodies.
+Thus the three melodies combined by Wagner in the Meistersinger prelude
+do not make classical couterpoint,
+for they require a mass of accompanying harmony to explain them.\fP
+
+.Lp
+Forkel recounts, in Ernest Newman's translation:
+\f2Bach began teaching composition not with dry counterpoint that led nowhere,
+as was the way with other music teachers of his time\ ;\ .\ .\ .
+He went immediately to pure four-part thorough-bass,
+laying much stress on the setting-out of the voices,
+since in this way the conception of the pure progression of the harmony
+was made most intelligible.
+From there he went to the chorale.
+In these exercises he himself set the original bass,
+and made his pupils add only the alto and the tenor.
+Gradually he let them make the bass also.
+Everywhere he insisted not only on the utmost purity of the
+harmony in itself, but also on naturalness of progression
+and a melodic flow of all the separate voices.\fP
+
+.Lp
+Bach, in other words, was exploring the frontier between voice-leading
+and harmony; he worked out how voice-leading should be done
+so as to give the impression of harmony.
+
+.Lp
+The chorales chosen here all use a melody instrument as a descant
+above the SATB voices;
+they come from his cantatas BWV's 12 31 85 136 161 and 172.
+They are offered here for players of flute, oboe, and violin.
+The vocal parts have been arranged for keyboard.
+For ease of sight-reading, and with some regret,
+crossed voices in the keyboard part have been uncrossed.
+
+.Dp
+\f2J. S. Bach, 388 Four-Part Chorales\fP edited by János Dobra,
+Editio Musica Budapest
+.Dp
+\f2Johann Sebastian Bach\fP, Albert Schweizer, Breitkopf and Härtel
+.Dp
+\f2Johann Sebastian Bach\fP, Albert Schweizer,
+translated by Ernest Newmann, Dover
+.Dp
+\f2The Forms of Music\fP, Donald Francis Tovey, Oxford University Press
+.Dp
+\f2Johann Sebastian Bach\fP, Christoph Wolff, Oxford University Press
+
+.sp 0.6c
+.Lp
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP
+

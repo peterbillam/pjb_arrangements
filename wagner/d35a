@@ -1,0 +1,16 @@
+boundingbox 400 110
+midi channel 1 patch 60 reverb 60 pan 30
+midi channel 2 patch 44 reverb 60 pan 70
+1 system 4 /27-20-27/
+/
+3 bars | 1b 3/4 3 3 4.5 7.5 3 3 3 3 3 3 3 3 | 3 3 3 3 3 3 3 4 3 3 3 2 | 6
+| 3/4 3.3
+=1, bass   1b 3/4 cha1 leg40 8. rest \
+ 32 vol100 [<d d~> vol-20 <d d~>] 2 vol-20 <d(2 d~(4>
+=2' bass   1b 3/4 cha2 leg100 vol75 2 d(2 8 [d)2 c]
+|
+=1, cha1 vol75 2. <d)2(2 d~)4(4>
+=2' cha2 8 [B vol+8 A 8. vol+8 G 16 vol+8 F#] 8 [F vol-13 A]
+| 1.4
+=1, 4 <d)2 d~)4-dim50>
+=2' 2. vol-13 c-dim50

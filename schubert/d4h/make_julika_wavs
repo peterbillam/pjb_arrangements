@@ -1,0 +1,60 @@
+SRC=~/mus/arr/schubert/d4h/julika
+muscript -midi $SRC > /tmp/t.mid
+# mkdir ~/wav/julika
+
+cd ~/wav/julika
+#midisox_lua /tmp/t.mid - | timidity -Ow -o 01.wav -
+#normalize-audio 01.wav
+midisox_lua /tmp/t.mid - tempo 1.0116 | timidity -Ow -o /tmp/t.wav -
+sox /tmp/t.wav 02.wav speed .9885
+normalize-audio 02.wav
+#midisox_lua /tmp/t.mid - tempo 1.0233 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 03.wav speed .9772
+#normalize-audio 03.wav
+#midisox_lua /tmp/t.mid - tempo 1.0353 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 04.wav speed .9659
+#normalize-audio 04.wav
+#midisox_lua /tmp/t.mid - tempo 1.0473 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 05.wav speed .9548
+#normalize-audio 05.wav
+#midisox_lua /tmp/t.mid - tempo 1.0595 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 06.wav speed .94387
+#normalize-audio 06.wav
+
+#muscript -midi $SRC| midisox_lua - /tmp/t.mid tempo 1.59
+#midisox_lua /tmp/t.mid - | timidity -Ow -o 07.wav -
+#normalize-audio 07.wav
+#midisox_lua /tmp/t.mid - tempo 1.0116 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 08.wav speed .9885
+#normalize-audio 08.wav
+#midisox_lua /tmp/t.mid - tempo 1.0233 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 09.wav speed .9772
+#normalize-audio 09.wav
+#midisox_lua /tmp/t.mid - tempo 1.0353 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 10.wav speed .9659
+#normalize-audio 10.wav
+#midisox_lua /tmp/t.mid - tempo 1.0473 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 11.wav speed .9548
+#normalize-audio 11.wav
+#midisox_lua /tmp/t.mid - tempo 1.0595 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 12.wav speed .94387
+#normalize-audio 12.wav
+
+muscript -midi $SRC | midisox_lua - /tmp/t.mid tempo 2.53
+#midisox_lua /tmp/t.mid - | timidity -Ow -o 13.wav -
+#normalize-audio 13.wav
+#midisox_lua /tmp/t.mid - tempo 1.0116 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 14.wav speed .9885
+#normalize-audio 14.wav
+#midisox_lua /tmp/t.mid - tempo 1.0233 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 15.wav speed .9772
+#normalize-audio 15.wav
+midisox_lua /tmp/t.mid - tempo 1.0353 | timidity -Ow -o /tmp/t.wav -
+sox /tmp/t.wav 16.wav speed .9659
+normalize-audio 16.wav
+#midisox_lua /tmp/t.mid - tempo 1.0473 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 17.wav speed .9548
+#normalize-audio 17.wav
+#midisox_lua /tmp/t.mid - tempo 1.0595 | timidity -Ow -o /tmp/t.wav -
+#sox /tmp/t.wav 18.wav speed .94387
+#normalize-audio 18.wav

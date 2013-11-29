@@ -1,0 +1,248 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	98.01.26.00.31.42;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.03.23.07.39.03;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Monteverdi, Ecco mormorar londe; Alto recorder
+@
+
+
+1.2
+log
+@added beams to muscript 1.5
+@
+text
+@12 systems /24/24/24/24/24/24/24/24/24/24/24/24/
+lefthead Monteverdi
+title Ecco mormorar l'onde
+righthead Alto
+leftfoot Typeset 1995 by Peter J Billam.
+rightfoot This page may be freely photocopied and redistributed, provided it is not resold for profit.
+/
+6 bars | .12 | 0.12 0.14 | 0.06 0.09 0.06 0.06 | 0.08 | 0.08 | 0.07 0.1 |
+|
+=1 treble 1# 4/4 smb rest
+|
+=1 smb  cro B qua B qua. B smq B qua B cro c
+|
+=1 qua B,[ d] smq B[ A, B, c] cro d cro G
+|
+=1 smb rest
+|
+il0.2   5
+=1 smb rest
+|
+=1 min rest  cro B qua B[ B]
+/
+4 bars | 8 6 6 6 | 7 9 | 9 6 8 | 8 6 6 6 |
+|
+=1 treble 1# smq B[ B] qua B cro c B g
+|
+=1 cro g g d qua d[ d]
+|
+=1 smq d[ d] qua d min e qua d[ d]
+|
+il0.2   10
+=1 smq c[ B c d] cro e d qua rest d
+/
+4 bars | 0.27 | 0.2 | 0.23 | 0.2 |
+|
+=1 treble 1# cro B[ B] qua rest d cro e
+|
+=1 cro d qua e[ e] cro g e
+|
+=1 qua d[ d] cro d min d
+|
+=1 cro rest G g g
+/
+3 bars | 16 20 | 32 | 12 18 |
+|
+il0.3      15
+=1 treble 1# cro g g c qua c[ c]
+|
+=1 qua c[ c] cro c min d
+|
+=1 qua rest d cro g f qua g
+/
+3 bars | 36 | 32 | 32 |
+|
+=1 treble 1# cro G d d qua rest G
+|
+=1 smq d[ c B, A,] qua G[ G] d[ e f g]
+|
+il0.3  20
+=1 qua g[ f] cro g qua d smq d[ d] qua g[ e]
+/
+3 bars | 17 19 | 36 | 28 |
+|
+=1 treble 1# qua d[ d] cro rest qua B' smq B'[ A] qua B,[ c]
+|
+=1 cro d d qua g smq g[ f] qua e[ c]
+|
+=1 min g g
+/
+3 bars | 37 | 9 9 13 | 32 |
+|
+=1 treble 1# cro B, qua B, qua. B smq c qua d cro e
+|
+il0.2  25
+=1 min d qua rest d smq G[ A B' c']
+|
+=1 min d cro e qua rest d
+/
+3 bars | 0.25 | 0.32 | 0.28 |
+|
+=1 treble 1# qua B cro d c qua B cro A
+|
+=1 qua B,[ d] smq G[ A B' c'] qua d'[ G] rest g
+|
+=1 qua g cro e qua g fn[ e] cro d
+/
+4 bars | 27 | 8 12 8 | 18 | 19 |
+|
+il0.2     30
+=1 treble 1# cro c qua rest g e[ c g e]
+|
+=1 qua f qua. g smq f f dsq e[ f] cro g f
+|
+=1 cro rest d min e
+|
+=1 cro f g qua f cro g qua f
+/
+5 bars | 23 16 | 17 | 15 | 15 | 43 |
+|
+=1 treble 1# qua g smq g[ a] qua b[ e] min g
+|
+il0.3      35
+=1 smb g
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 qua. b smq a g[ a b g] qua a smq a[ g] qua a[ a]
+/
+3 bars | 36 | 34 | 30 |
+|
+=1 treble 1# cro g g qua. f smq e d[ e f d]
+|
+il0.2 40
+=1 qua e smq e[ f] qua g[ e] qua. d smq e qua d[ d]
+|
+=1 cro c c rest d
+/
+5 bars | 0.12 0.1 | 0.2 | 0.18 | 0.15 0.12 | 0.13 ||
+|
+=1 treble 1# cro. e qua g min f
+|
+=1 min g cro rest g
+|
+=1 cro g min f cro e
+|
+il0.2  45
+=1 cro d c smb d
+|
+=1 smb d
+@
+
+
+1.1
+log
+@switch one tail (bar 3)
+@
+text
+@d2 5
+a9 1
+b1.1 Monteverdi
+d14 1
+a14 2
+bl1.1  Ecco mormorar l'onde
+=1 qua B, d smq B A, B, c cro d cro G
+d21 1
+a21 2
+b1.1                     Alto
+=1 min rest  cro B qua B B
+d25 1
+a25 1
+=1 treble 1# smq B B qua B cro c B g
+d27 1
+a27 1
+=1 cro g g d qua d d
+d29 1
+a29 1
+=1 smq d d qua d min e qua d d
+d32 1
+a32 1
+=1 smq c B c d cro e d qua rest d
+d36 1
+a36 1
+=1 treble 1# cro B B qua rest d cro e
+d38 1
+a38 1
+=1 cro d qua e e cro g e
+d40 1
+a40 1
+=1 qua d d cro d min d
+d47 1
+a47 1
+=1 treble 1# cro g g c qua c c
+d49 1
+a49 1
+=1 qua c c cro c min d
+d57 1
+a57 1
+=1 smq d c B A, qua G G d e f g
+d60 1
+a60 1
+=1 qua g f cro g qua d smq d d qua g e
+d64 1
+a64 1
+=1 treble 1# qua d d cro rest qua B' smq B' A qua B, c
+d66 1
+a66 1
+=1 cro d d qua g smq g f qua e c
+d75 1
+a75 1
+=1 min d qua rest d smq G A B c'
+d83 1
+a83 1
+=1 qua B, d smq G A B' c' qua d' G rest g
+d85 1
+a85 1
+=1 qua g cro e qua g fn e cro d
+d90 1
+a90 1
+=1 treble 1# cro c qua rest g e c g e
+d92 1
+a92 1
+=1 qua f qua. g smq f f dsq e f cro g f
+d100 1
+a100 1
+=1 treble 1# qua g smq g a qua b e min g
+d109 1
+a109 1
+=1 qua. b smq a g a b g qua a smq a g qua a a
+d113 1
+a113 1
+=1 treble 1# cro g g qua. f smq e d e f d
+d116 1
+a116 1
+=1 qua e smq e f qua g e qua. d smq e qua d d
+a122 1
+is0.9 Typeset 1995 by Peter J Billam.                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+@

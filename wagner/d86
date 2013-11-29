@@ -1,0 +1,49 @@
+boundingbox 350 140
+midi channel 1  patch 60 reverb 60 pan 45 # horn
+midi channel 2  patch 44 reverb 60 pan 25 # vln1
+midi channel 3  patch 44 reverb 60 pan 35 # vln2
+midi channel 4  patch 44 reverb 60 pan 55 # vla
+midi channel 5  patch 44 reverb 60 pan 65 # vlc
+midi channel 6  patch 44 reverb 60 pan 75 # bass
+2 systems 3 /27 9/27/
+/
+2 bars | 2b 9/8 4 4 5 4 4 5 5 5 4 | 4 4 5 4 3 4 5 5 4 |
+| 3/4 0.6 0.6 0.7
+I0.5 .01 Siegmund
+=1   treble8vab 2b 9/8 cha1 vol110 leg99 \
+ 4 B' 8 F 4 F 8 leg80 B leg99 [d leg80 c d]
+r0.2 .01 Winterstürme wichen der
+#=2  treble     2b 9/8 cha2 vol60 \
+ leg99 8 F leg70 D leg99 8 F leg70 D leg99 8 F leg70 D leg99 8 F leg70 D leg99 F
+#=3             2b 9/8 cha3 vol60 leg70 4 B_ B_ B_ D 8 D
+#=4 alto        2b 9/8 cha4 vol50 \
+ leg99 8 F leg70 B leg99 8 F leg70 B leg99 8 F leg70 B leg99 8 F leg70 B leg99 F
+#=5 bass        2b 9/8 cha5 vol60  leg99 2. d 4. B
+|
+=1,  cha1 vol+5 leg99 4 e 8 d 4. c(1 8 c)1 rest vol-5 c
+r0.2 .01 Wonnemond, .85 in
+#=2' cha2 8 leg70 \
+ E leg99 8 F leg70 E leg99 8 F leg70 C leg99 8 F leg70 C leg99 F leg70 C
+#=3' cha3 8 C 4 A_ A_ A_ A_
+#=4' cha4 8 leg70 \
+ A leg99 8 F leg70 A leg99 8 F leg70 A leg99 8 F leg70 A leg99 F leg70 A
+#=5' cha5 2. leg99 F(2
+/
+2 bars | 4 4 5 4 4 5 5 5 4 | 20
+|
+=1   cha1 leg99 4 c 8 leg80 G 4 leg99 B' 8 leg80 A leg99 [B' leg80 A B']
+r0.2 .09 mildem Lichte leuchtet der  Lenz
+#=2' cha2 8 leg99 \
+ E leg70 C leg99 8 E leg70 B_ leg99 8 E leg70 A_ leg99 8 B_ leg70 D leg99 B_
+#=3' cha3 4 C C C B_ 8 B_
+#=4' cha4 8 leg99 \
+ G leg70 E leg99 8 G leg70 E leg99 8 C leg70 E leg99 8 D leg70 F leg99 D
+#=5' cha5 2. leg99 F)2
+|
+=1,  cha1 leg99 4. c(1 4 c)1 8 rest
+#=2' cha2 8 leg70 \
+ C leg99 8 F leg70 C leg99 8 F leg70 C leg99 8 F 4. C-dim50
+#=3' cha3 8 A_ 4 A_ 4. A_
+#=4' cha4 8 leg70 \
+ A leg99 8 F leg70 A leg99 8 F leg70 A leg99 8 F 4. vol-20 A-dim50
+#=5' cha5 2. leg99 F-dim30

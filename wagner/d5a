@@ -1,0 +1,25 @@
+boundingbox 600 160
+midi channel 1 patch 71 reverb 90
+midi channel 2 patch 44 reverb 90
+midi channel 3 patch 44 reverb 90
+1 system 8 /27-55-27 15/
+/
+3 bars | 4 3 3 5  4 3 6 6  4 3 3 5  4 3 6 6 \
+       | 4 3 3 5  4 3 6 7  4 3 4 5  4 3 4 3 | 12
+| 4/4 5.0
+=1' treble cha1 leg99 vol50 \
+  4. <C# E A> 163 [E C-I3 E] 4. <C A> 163 [E C-I3 E]
+=2' bass   cha2 leg95 vol70 \
+  8. [<e g> 16 vol90 E] 8 [A vol60 <g ax>] \
+  8. [<e g> 16 vol90 E] 8 [A vol60 <g ax>]
+=2,        cha3 leg95 vol85 4 blank A blank A
+| 5.0
+=1' 4. <C# E A> 163 vol+8 [C E-I3 C] 4 vol+8 <E A> vol+8 <C E A>
+i0.6 .16 cresc
+I0.5 .70 f
+=2' 8. [<e g> vol90 16 E 8. A 16 vol+8 B] 4 vol+8 g vol+12 g
+=2, 2 blank 8. vol85 [c# 16 vol+8 d 8. vol+8 e 16 vol+8 f#]
+| 1.6
+=1' 4 vol35 <Dbr-dim30 Fnl-dim30 Bb-dim30>
+I0.5 .01 p
+=2' 4 vol45 <Gr-dim30 dbl-dim30 fn-dim30 gx-dim30>

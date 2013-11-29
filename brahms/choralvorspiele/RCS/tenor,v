@@ -1,0 +1,194 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	98.05.30.23.32.57;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.05.30.23.17.17;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.04.13.01.44.15;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@O wie selig seid ihr doch, Tenor part
+@
+
+
+1.3
+log
+@cro. at end of o_wie bar 9
+@
+text
+@7 systems /24/24/24/24/24/24/24/
+lefthead Johannes Brahms
+title O wie selig seid ihr doch, ihr Frommen
+righthead Tenor Recorder
+leftfoot Arranged and Typeset 1998 by Peter J Billam.
+/
+2 bars | 7 5.5 | 12 |
+|
+=1 treble 1b 12/8 qua f[ e d] c[ d c] min. B,
+i0.2        dolce . . .
+|
+=1 cro eb qua d c[ d c] Bb,[ d c(1] cro c)1 qua A
+/
+2 bars | 14 | 10 |
+|
+=1 treble 1b qua Bn,[ d A,(1] cro A)1 qua F(2 cro. F)2 qua E[ F Bn']
+|
+=1 cro. A F min. rest
+/
+2 bars | 14 | 12 |
+|
+il0.25          5
+=1 treble 1b qua A,[ Bn, c] d[ c d] cro G qua c(1 cro c)1 qua f(1
+|
+=1 qua f)1[ e d] c#[ a g] f[ g f] e[ d c]
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b qua Bn,[ c B,] cro. A(2 qua A)2[ G B'] A cro G#
+|
+=1 cro <A fermata> qua A Gn[ F E] cro D qua G F[ E D]
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b qua C#[ D E] F[ G A] Bn,[ cn Bb,] cro. A(2
+|
+il0.4  10
+=1 qua A)2[ cn' Bn'] A[ B' A] <G#[ fermata> F# G] A[ G# A](2
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b qua A)2[ Gn F] E[ c' B'] A[ B' A] cro G qua c(1
+i0.3           cresc . . .
+|
+=1 qua c)1[ d c] Bn,[ g f] e[ f e] cro d qua d(1
+/
+2 bars | 14 | 12 ||
+|
+=1 treble 1b qua d)1[ g f] e[ f e] <min. d'(1 cro d, fermata> qua c, B,[ A, Gn,]
+i0.2                                         . . .
+I0.2                                                 f
+|
+=1 <cro. d')1(1 qua F#,[> G, A,] <cro d')1 qua Bb,[> A, <c#r' Bbl,]> min. <d' A,>
+
+
+7 systems /24/24/24/24/24/24/24/
+lefthead Tenor Recorder
+title Es ist ein Ros' entsprungen
+righthead Johannes Brahms
+leftfoot Arranged and Typeset 1998 by Peter J Billam.
+/
+4 bars | 3 | 2.8 2.5 | .9 .9 1.5 1 1 1 | 5.2 |
+|
+=1 treble 1b 6/4 cro c
+I0.2      p
+i0.2           dolce . . .
+|
+I0.1               '                   '
+=1 cro B A A min F cro E
+|
+I0.1                                     '
+=1 min B'(2 qua B')2[ G] cro c# d E(2
+|
+=1 cro E)2 D E C A G
+/
+3 bars | 1 1 1 1 1 1.5 | 2.7 2.3 | .9 .9 1.4 1 1 1 |
+|
+I0.1                                   '
+=1 treble 1b cro A B G G A qua c[ Bn,]
+|
+il0.4      5
+=1 qua d[ c](1 cro c)1 F(2 min F)2 cro E
+|
+I0.1                                         '
+=1 min B'(2 qua B')2[ G] cro c# d E(2
+/
+3 bars | 6.6 | 5 | 5 |
+|
+I0.1                                         '
+=1 treble 1b cro E)2 D E C qua G#[ A] cro Gn
+|
+I0.1                                         '
+=1 cro A B G G A A
+|
+I0.1                                         '
+=1 cro c E E D A F
+/
+3 bars | 1.1 1 1 1.1 1.1 1.1 | 1 1 .8 .8 1 1 | .9 .9 1.4 1 1 1 |
+|
+il0.3     10
+I0.1                                         '
+=1 treble 1b cro G min A cro F G A(2
+|
+=1 cro A)2 B min f cro f en
+|
+=1 min B,(2 qua B,)2[ e] cro c# d G
+/
+3 bars | .8 1 1.3 1.1 1.2 1 | .7 .7 .7 .7 .7 1 | 1.1 .9 1.1 1.3 .9 1.1 |
+|
+=1 treble 1b cro. Eb qua D[ F En] B'[ A(2 A)2 A F# G]
+|
+I0.1                                 '
+=1 cro A B' G G A qua c'[ A]
+|
+il0.3     15
+I0.1                                             '
+=1 qua F#[ G](2 cro G)2 qua C[ E] G[ Fn](2 cro F)2 qua G[ F]
+/
+3 bars | 6.6 | 1 1 .8 .8 1 1 | .9 .9 1.4 1 1 1 |
+|
+I0.1                                         '
+=1 treble 1b cro E A Ab min G cro An(2
+|
+=1 cro A)2 B min f cro f e
+|
+=1 min B,(2 qua B,)2[ e] cro c# d G
+/
+3 bars | 1 1.3 1.3 1.3 1.3 1.3 | 2.5 3.2 | 3.3 ||
+|
+=1 treble 1b cro. Eb qua D[ F En] B'[ A G# A F# Gn]
+|
+=1 cro A B' G qua F[ E F Eb(2 E)2 D]
+|
+=1 min. C cro rest rest
+@
+
+
+1.2
+log
+@correct rhythm in last bar
+@
+text
+@d35 1
+a35 1
+=1 treble 1b qua C#[ D E] F[ G A] Bn,[ cn Bb,] cro A(2
+@
+
+
+1.1
+log
+@spread out to 2 bars per line
+@
+text
+@d16 1
+a16 1
+=1 treble 1b qua Bn,[ d A,(1] cro A)1 qua F(2 cro. F)2 qua E[ F B']
+d53 82
+a134 1
+=1 <cro. d')1(1 qua F#,[> G, A,] <cro d')1 Bb,[> A, <c#' A#,]> min. <d' A,>
+@

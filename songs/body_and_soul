@@ -1,0 +1,104 @@
+6 systems 10 /19-30-19/
+title Body and Soul
+pagenum 1
+innerhead John Green,  arr. Alan Simon
+midi channel 1 patch 0 pan 20
+midi channel 2 patch 0 pan 80
+/
+3 bars | 5b 48 | 48 | 48 |
+| 4/4 .335 .290 .335 .290 .335 .290 .335 .290
+=1' treble 5b cha1 leg99 8 rest [<B e> <c f> <B e>] 4 f e
+=1, 5b 2 blank cb
+=2, bass 5b cha2 leg99 2 <e a d~ g~> <B a>
+|
+=1 43 <d f b> <e-I3, a c~> <d g b> <c f an> <dn-I3, gnl bn> <c f a>
+=2' 2 <E g> <Dn f#>
+|
+=1' 4 a 8 [b a] 4 b <fb a>
+=1, 2 <B e f> <B e>
+=2 43 D A-I3 f 2 <G fb'>
+|
+=1' 2 blank 4 c~nl 83 rest'' [d~b-I3 b]
+=1, 4 <e b e~> <d b d~> 2 <c#l enxl f#ll an>
+=2  8 [<gnxr a c~> c, f, a] 2 <En c#l gn'>
+|
+=1 4. <B d f a> 8 d~ 43 b g-I3 B
+=2 8 [Eb B] 4 g 2 <d c~bl f~b>
+|
+=1' 2 f 4 d#(1 83 [d)1 ab-I3 f]
+=1, 4 dn c Bnl An
+=2, 8 [c b e~ b] [Bn an d~# a]
+/
+3 bars | 5b 48 | 48 || 48 |
+|
+=1' 43 d e-I3 f 4 a 83 [a b-I3 f]
+=1, 2 <F B> 4 <B d f> <c dnxl enl>
+=2' 4 <a d> gn blank <A g>
+=2, 2 B 4 <e gb b d~> blank
+|
+=1' 4 <F A Bx d> 8 [<B_ E> <A_ D>] [<E Ab> <D G> <B db> <A cb>]
+=1, 2 blank 4 A_n <Dnl F#>
+=2  4 <d c~> <G fb'> <Fn e'> <B, a>
+|
+=1 8. [<Dblr Fn Gx B'> 16 B'] [e f f e] [e f 8 f(1] 16 [f)1 e dn e]
+=2 4 <A_ A> <g b e~x f~> <g b d~n f~> <E e'>
+/
+3 bars | 48 | 48 | 48 |
+|
+=1 16 [b c~ d~ e~] [f~ d~ c~ b] [d~n c~ gn en] 8 [<fnl bn> <c an>]
+=2' 4 <A_ A> blank <gn c~> f#
+=2, 4 blank <g b d~ f~> 2 An
+|
+=1' 4 ab(1 83 [a)1 b-I3 a] 8 [c~ b a fb]
+=1, 2 <c ex f> 4. <e a> 8 blank
+=2, 8 [d{'1 a] 4 e~}1 8 [G{''1 fb] 4 b}1
+|
+=1' 2 blank 4 c(1 83 [c)1 d-I3 B]
+=1, 4. <Gnxr A c e> 8 d 2 <Dnxr Enl G>
+=2  8 [F e'] 4 a blank f'
+=2, 2 blank <B a>
+/
+3 bars | 5b 48 | 48 | 48 |
+|
+=1' 4. A 8 d 43 B G-I3 B_
+=1, 2 <Dx E> blank
+=2' 8 [E{2 B g B}2] [D{2 A d dn}2]
+|
+=1' 4 F 83 rest [A-I3 F] 2 <A_nlr B_nxl E>
+=1, 2 <G_r B_ E> blank
+=2' 2 c 4 <F c e> 83 [g Bn-I3 F]
+|
+=1' 4 D 8 [E F] 4 A 83 [A B-I3 En]
+=1, 4 A_ <G_nr D> <D F> <C Gr>
+=2' 4 B_b A_n <E g> Dn
+/
+3 bars | 5b 48 || 2# 48 | 48 |
+|
+=1' 4. A 8 A_ [<B_nl Dn F#l An> 16 <F c#-s2-s5> <D A-s1-s3>] 8 rest' A
+=1, 2 <F_ B_> 4 blank <B_n C#x F#>
+=2 8 [Db A] 4 e 4 <enl gn> <An g'>
+|
+=1' 2# 4 <A_ B_x D> 83 rest [<C E-I3> F] 8 A 4 A 8 A
+=1, 2# 2 blank <B_ D F>
+=2' 2# 2 <D f> <E B g>
+=2, 2# 4 blank A 2 blank
+|
+=1' 8 [d d] rest F A 4 A 8 A
+=1, 2 <E A> <Cnl Fn>
+=2  2 <F d' b'> <G, d, bb>
+
+6 systems 10 /19-30-19/
+innerhead Body and Soul, John Green,  arr. Alan Simon
+/
+3 bars | 2# 48 | 48 || 2# 48 |
+|
+=1' 2# cha1 leg99 8 8 F 4 F 8 D 4 E 8 [<B_bl C#xl> A_(2]
+=1, 2# 4. <Dx E> 8 blank 4 Cn blank
+=2, 2# cha2 leg99 4 <cn bb> <B d# a> <Bbl dn ab> <Anl eb g>
+|
+=1' 4. A_)2 8 <B_ Cx F A> 16 [Cn Db Fn A] [<A cn> <G Bb> <F A> <Eb G>]
+=2 8 [D A] 4 f 16 [Eb Bb 8 g'] 8 [<g c~nlx d~bl f~n> <E, B, g>]
+|
+=1' 0 8 [<C F> <F_ A_ D> <G_ B_b E> <A_ C F>] A 4 A 8 G
+=1, 0 2 blank 8 [<C F> <C F> <B_n(2 E> <B_)2 Eb>]
+=2  0 8 [<D f'> B c# d'] [g d] 4 G

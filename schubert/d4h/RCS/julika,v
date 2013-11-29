@@ -1,0 +1,129 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.04.05.08.13.03;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@expressionised midi for Op9 D365 No36
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@6 systems 20 /19-30-19/19-30-19 30/19-30-19/19-30-19/19-30-19 7/19-30-19 10/
+pagenum 7
+innerhead Franz Schubert
+leftfoot Arranged for piano four hands by Peter Billam 2003
+midi channel 0 patch 0 pan 95
+midi channel 1 patch 0 pan 05
+$S1 = {
+/
+8 bars | 1b 3/4 3 3 3 4.5 3 3 | 5 5 6 | 3 3 3 4.5 3 3 | 5 5 6 \
+ | 3 3 3 4.5 3 3 | 5 5 6 | 18 | 18 :||
+| .353 .313 .353 .313 .323 .313
+bl1.4 .05  Waltz
+=1'  treble 1b 3/4 cha0 vol110 leg98 cro. A qua G# leg85 cro A
+I0.5 .15 mf
+=1,  treble 1b 3/4 cha0 vol80 leg90 min <A_ C> leg65 cro <A_ C>
+=2'  bass   1b 3/4 cha1 vol80 leg98 cro. c qua Bn leg85 cro c
+=2,  bass   1b 3/4 cha1 vol95 leg90 min F leg65 cro F
+| .353 .313 .353 .313 .333 .333
+r1.4 .30 Op 9, D. 365 No. 36
+=1' vol110 leg98 min F cro leg70 C
+=1, vol80  leg90 min <A_ C> leg65 cro A_
+=2' vol80  leg90 min f cro rest
+=2, vol95  leg70 min F cro leg99 F
+| .353 .313 .353 .313 .323 .323
+=1' vol110 leg99 cro. B qua A cro B
+=1, vol80  leg90 min <B_ Cx> leg65 cro <B_ Cx>
+=2' vol80  leg90 cro. c qua db cro c
+=2, vol95  leg90 min E leg65 cro E
+| .353 .313 .353 .313 .333 .333
+=1' vol110 leg99 min G leg75 cro C
+=1, vol80 leg90 min <B_ Cx> leg65 cro B_
+=2' vol80 leg90 min e leg65 cro g
+=2, min vol95 leg80 E cro leg99 E
+|
+=1'  vol110 leg99 cro. cr qua Bn cro c
+=1, vol85 leg90 min F leg65 cro F
+=1' vol85 cro. Cr qua B_n cro C
+=2' vol85 cro. a qua g# cro a
+=2' vol85 leg90 min f leg65 cro f
+=2,  vol95 leg98 cro. A qua G# cro A
+|
+=1'  vol110 leg85 min d cro leg99 c
+=1,  vol85 leg65 min <D F> leg90 cro <C F>
+=2'  vol85 leg65 min <f b> leg90 cro <f a>
+=2,  vol95 leg65 min B cro leg95 c
+| 2.05
+=1'  vol110 leg95 cro B' A G
+=1'  vol90  leg85 cro <B_ F> <C F> <D F>
+=2'  vol90  leg85 cro f <f a> <f gx>
+=2,  vol100 leg90 cro d c Bn
+|
+=1' vol110 min G cro blank
+=1' vol90  min <C E> cro C
+=2' vol90  min <e g> cro rest'
+=2, vol100 min c cro c
+}
+$S2 = {
+/
+8 bars ||: 1b 3 3 3 4 3 3 | 5 5 6 | 5 5 6 | 15 \
+ | 3 3 3 4 3 3 | 5 5 6 | 18 | 15 :||
+| .353 .313 .353 .313 .333 .333
+=1'  treble 1b vol110 leg98 cro. c qua Bn vol105 cro c
+=1,  treble 1b vol70  leg98 min F vol75 cro F
+=2'  bass   1b vol70  leg98 min a vol75 cro ab
+=2,  bass   1b vol85  leg98 min f vol90 cro f
+| .333 .313 .333 .313 .313 .313
+=1'  vol110 leg75 min db vol110 leg99 cro c(1
+=1,  vol70  leg70 min F leg99 cro Eb
+=2'  vol70  leg70 min ab leg99 cro ab
+=2,  vol85  leg70 min db leg99 cro Ab
+| 2.0
+=1'  vol110 cro c)1 vol100 Bb vol110 leg80 Ab
+=1,  vol70 leg70 min Db vol80 leg99 cro C
+=2'  vol70 leg70 min f vol80 leg99 cro f
+=2,  vol85 leg70 min B vol95 leg99 cro F
+|
+=1'  vol110 leg99 min. G
+=1'  vol80  leg80 min. B_n
+I0.5 .02 fz
+=2'  vol80  leg80 min. dn
+=2,  vol90  leg80 min. G
+| .333 .313 .333 .333 .313 .313
+=1'  vol110 leg99 cro. F qua En cro F
+=1,  vol75  leg95 min <B_n D> leg70 cro <B_ Db>
+=2'  vol75  leg95 min <d f> leg70 cro <db f>
+=2,  vol95  leg90 min Ab leg70 cro A
+| .333 .313 .333 .313 .333 .333
+=1'  vol110 leg80 min <F A> vol110 leg99 cro G(1
+=1'  vol75  leg80 min C vol90 cro Dn(2
+=2'  vol75  leg80 min <c, f> vol90 cro bb(1
+=2,  vol85  leg80 min An vol100 cro B
+| .68 .69 .70
+=1'  vol110 leg99 cro G)1 vol110 F leg75 E
+=1'  vol90  leg99 cro D)2 vol85 leg65 C B_b
+=2'  vol90  leg99 cro b)1 vol85 leg65 a g
+=2,  vol100 leg99 min c vol85 leg55 cro c
+| .71 .71 .71
+rs0.3 .30 8 März 1821
+=1'  vol110 leg99 min. F
+=1'  vol90  leg99 min. A_
+=2'  vol90  leg99 min. f
+=2,  vol95  leg99 min. F
+}
+$S1 $S1 $S2 $S2
+@

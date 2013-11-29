@@ -1,0 +1,483 @@
+% start
+5 systems 5 /17 20 17-22-17 / 17 35 17-23-17 \
+ / 17 40 17-25-17 / 17 40 17-25-17 / 17 30 17-25-17 /
+title Any Place I Hang my Hat is Home
+lefthead Johnny Mercer and Harold Arlen
+midi channel 1 patch 53
+midi channel 2 patch 0 pan 65
+midi channel 3 patch 0 pan 35
+/
+4 bars | 2# 12/8 1 1 1.4 1 1 1 1 1 1 1 1 1 | 1 1 1.4 1 1 1 1 1 1 1 1 1 |
+| 4/4 72
+=1 treble 2# 4/4 cha1 vol125 min blank smb rest
+=2 treble 2# 12/8 cha2 min blank smb. rest
+=3 bass 2# 12/8 cha3 leg100 \
+ qua [D-s1, A'-s2, B'-s1,] [cn B A] [D A' B'] [c B A]
+|
+=1 min blank smb rest
+=2, qua [<cnrl fn-.> rest' <A(2 d(1>] min. <A)2 d)1> cro. rest
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 min blank smb rest
+=2' qua [<G cn-.> rest <E(2 A(1>] min. <E)2 A)1> cro. rest
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 min blank smb rest
+=2' smb. <Cnlr Dx F# Gx>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+/
+3 bars ||: 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 \
+ | 1 1 1.2 1 1 1 1.2 1.2 1.2 1 1.2 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1 cro rest qua [F G] qua F cro. D
+r0.8 .29 Free  and .56 easy
+r0.5 .29 Sweet'nin .56 water ,
+=2 cro <E A> qua <Cn(2 F(1> cro. <C)2(2 F)1(1> min. <C)2 F)1>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 cro rest qua [F F] cro. D qua rest
+r0.8 .25 that's my .50 style ,
+r0.5 .27 cherry .50 wine ,
+=2' min. <Cn E> qua rest [<B_ Fn-s1-s4> <Cn F#-s1-s2>] \
+ [<A cn> <G B-s1-s4> <Gb Bb>]
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 cro rest qua [F G] F cro. D
+r0.7 .28 How d'you do .64 it ?
+r0.4 .28 Thank you  kindly ,
+=2 cro <E A> qua <Cn(2 F(1> cro. <C)2(2 F)1(1> min. <C)2 F)1>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1' cro blank qua-s [Br Br] cro. D qua rest
+=1, cro rest qua [A A] min blank
+r0.7 .25 watch me .52 smile !
+r0.4 .25 suits me .52 fine !
+=2' min. <Cn E> cro. <B_ D Fnxl Gbl> <Cnl F# A>
+=3' qua [D A B] [cn B A] [D A-s1, B-s2,] cro. <Ab d>
+|
+=1 cro rest qua. [Fn smq G] qua A cro. D(2
+r0.7 .22 Fare-thee-well me
+r0.4 .25 Kansas .50 City ,
+=2 cro <B_ D Fn A> qua <A_(2 D F(1> cro. <A_)2 D F)1> \
+ qua [<B_ D A> rest <A(2 Bx' d'(1>] cro. <Ax,)2 B, d)1>
+=3 cro G qua rest, [G_ G Gb] cro Fn qua rest, qua [Gn Gb F-s1,]
+|
+=1' qua D)2 rest qua [A A] A{1 cro. G}1
+r0.6 .27 after .51 while
+r0.3 .30 Caroline ,
+=2' qua [Fn rest G{1] cro. G}1 qua [F rest, D(1] cro. D)1
+=2, qua [<B_b D> blank <B_(2 D>] cro. <B_)2 D> \
+cro. <G_ B_b> qua rest,, cro <G_#l B_n>
+=3 cro. E qua [E-s2, Eb D] cro. Cn cro C qua C#
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1' cro rest qua A_ cro. B_ qua [D B_]
+r0.6 .25 'coz  I .75 gotta
+r0.3 .25 that's  my .75 honey -
+=2' cro <F_# Cnl Fn> qua <F_(2 Cn Dx(1> cro. <F_)2 C Dx)1> \
+qua rest cro <E_(2 G_ C(1> cro. <E_)2 G_ C)1>
+=3 cro. D qua [F#-s2, G G#-s2,] cro A qua A_ [cn A c#-s2,]
+|
+=1' min. E qua rest A_
+r0.6 .01 roam
+r0.3 .01 comb
+r0.5 .86 and
+=2' cro <B_x Cn E-.> min <A_ C E> cro <B_ D A> min <A_ B_x D>
+=3 cro. d qua [A Ab G] cro. F#-s3, Fn
+|
+=1 smq [B_ qua. D] qua [E smq Fn{2 F#}2] qua [A Fn] [E B_]
+r0.6 .08 any .32 place I .54 hang my .77 hat is
+=2' min. <G_r B_ Ex D> <G B>
+=2, min. blank cro. D C#
+=3 cro E G G# cro. A rest
+/
+4 bars | 2# 1 1 1.4  1 1 1  1 1 1  1 1 1 \
+ | 1 1 1.4  1 1 1  1 1 1  1 1 1 :|| 1 1 1  1 1 1  1 1 1  1 1.4 1 \
+ | 1 1 1  1 1 1  1 1 1  1 1.4 1 |
+|
+=1 min. D cro rest
+r0.7 .05 home .
+=2 min. <F_ Cn E> cro. rest <e a>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=2 qua [<cn fn-.> rest <A,(2 d(1>] min <A,)2 d)1> min <G cn'> qua rest
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+/
+3 bars ||: 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 \
+ | 1 1 1.2 1 1 1 1.2 1.2 1.2 1 1.2 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1 cro rest qua [F G] qua F cro. D
+r0.8 .29 Free  and .56 easy
+r0.5 .29 Sweet'nin .56 water ,
+=2 cro <E A> qua <Cn(2 F(1> cro. <C)2(2 F)1(1> min. <C)2 F)1>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 cro rest qua [F F] cro. D qua rest
+r0.8 .25 that's my .50 style ,
+r0.5 .27 cherry .50 wine ,
+=2' min. <Cn E> qua rest [<B_ Fn-s1-s4> <Cn F#-s1-s2>] \
+ [<A cn> <G B-s1-s4> <Gb Bb>]
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 cro rest qua [F G] F cro. D
+r0.7 .28 How d'you do .64 it ?
+r0.4 .28 Thank you  kindly ,
+=2 cro <E A> qua <Cn(2 F(1> cro. <C)2(2 F)1(1> min. <C)2 F)1>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1' cro blank qua-s [Br Br] cro. D qua rest
+=1, cro rest qua [A A] min blank
+r0.7 .25 watch me .52 smile !
+r0.4 .25 suits me .52 fine !
+=2' min. <Cn E> cro. <B_ D Fnxl Gbl> <Cnl F# A>
+=3' qua [D A B] [cn B A] [D A-s1, B-s2,] cro. <Ab d>
+|
+=1 cro rest qua. [Fn smq G] qua A cro. D(2
+r0.7 .22 Fare-thee-well me
+r0.4 .25 Kansas .50 City ,
+=2 cro <B_ D Fn A> qua <A_(2 D F(1> cro. <A_)2 D F)1> \
+ qua [<B_ D A> rest <A(2 Bx' d'(1>] cro. <Ax,)2 B, d)1>
+=3 cro G qua rest, [G_ G Gb] cro Fn qua rest, qua [Gn Gb F-s1,]
+|
+=1' qua D)2 rest qua [A A] A{1 cro. G}1
+r0.6 .27 after .51 while
+r0.3 .30 Caroline ,
+=2' qua [Fn rest G{1] cro. G}1 qua [F rest, D(1] cro. D)1
+=2, qua [<B_b D> blank <B_(2 D>] cro. <B_)2 D> \
+cro. <G_ B_b> qua rest,, cro <G_#l B_n>
+=3 cro. E qua [E-s2, Eb D] cro. Cn cro C qua C#
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1' cro rest qua A_ cro. B_ qua [D B_]
+r0.6 .25 'coz  I .75 gotta
+r0.3 .25 that's  my .75 honey -
+=2' cro <F_# Cnl Fn> qua <F_(2 Cn Dx(1> cro. <F_)2 C Dx)1> \
+qua rest cro <E_(2 G_ C(1> cro. <E_)2 G_ C)1>
+=3 cro. D qua [F#-s2, G G#-s2,] cro A qua A_ [cn A c#-s2,]
+|
+=1' min. E qua rest A_
+r0.6 .01 roam
+r0.3 .01 comb
+r0.5 .86 and
+=2' cro <B_x Cn E-.> min <A_ C E> cro <B_ D A> min <A_ B_x D>
+=3 cro. d qua [A Ab G] cro. F#-s3, Fn
+|
+=1 smq [B_ qua. D] qua [E smq Fn{2 F#}2] qua [A Fn] [E B_]
+r0.6 .08 any .32 place I .54 hang my .77 hat is
+=2' min. <G_r B_ Ex D> <G B>
+=2, min. blank cro. D C#
+=3 cro E G G# cro. A rest
+/
+4 bars | 2# 1 1 1.4  1 1 1  1 1 1  1 1 1 \
+ | 1 1 1.4  1 1 1  1 1 1  1 1 1 :|| 1 1 1  1 1 1  1 1 1  1 1.4 1 \
+ | 1 1 1  1 1 1  1 1 1  1 1.4 1 |
+|
+=1 min. D cro rest
+r0.7 .05 home .
+=2 min. <F_ Cn E> cro. rest <e a>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=2 qua [<cn fn-.> rest <A,(2 d(1>] min <A,)2 d)1> cro. <G cn'> cro <E A>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+
+
+|
+=1 min Fn qua3 rest [G-I3 G(2] qua3 [G)2 G-I3 Fn]
+r0.7 .01 Birds .57 roosting in the
+=2 cro. <A_ Cn Fn> min <A_ C Fx G> qua rest
+=3' cro D qua d cro D qua rest cro D qua d [A-s2, E-s3, Eb]
+|
+=1 min G qua rest [G G Fn]
+r0.7 .04 trees .62 pick up .86 and
+=2 cro. <A_ B_x Fn> min <A_ B_x Fn Gx> qua rest
+=3' cro D qua d cro D qua rest cro D qua d [B-s2, A Ab]
+
+5 systems 5 /17 32 17-23-17 / 17 32 17-23-17 \
+ / 17 32 17-25-17 / 17 32 17-25-17 / 17 32 17-25-17 /
+/
+4 bars | 2# 12 | 1 1 1 1 1.3 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1.3 1 | 12 |
+|
+=1 qua A{2 cro. G}2 qua3 rest [G-I3 G] qua [G Fn]
+r0.7 .07 go .57 and the going
+=2 min <A_ B_x Fn> <A_ B_x F Gx>
+=3' cro G qua c# cro d qua G(2-s2, cro G)2 qua Eb-s4, cro D qua C#-s4,
+|
+=1 min. G cro rest
+r0.7 .01 proves
+=2' min. <B_ E G> qua rest min <E G B> qua rest
+=3 cro Cn qua cn [C-s2, B_ B_b] cro A_ qua A cro E-s3, qua Eb
+|
+=1' cro rest qua A cro B qua [cn B c]
+r0.7 .28 that's how .64 it .75 got  to
+=2' cro. <Fn A cn> min <Cn F Gx A> qua rest
+=3' cro D qua d cro D qua rest cro D qua d [B A Ab]
+|
+=1' min B qua rest [B B A]
+r0.7 .01 be .62 I .75 pick  up
+=2' min <Fn Gx A Bx> <F Gx A Bx>
+=3' cro G qua c# cro d qua G(2-blank,-s2, cro G)2 qua D-s5, cro C-s3, qua Cn
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 \
+ | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 ||
+|
+=1 min B qua3 rest' [B'-I3 A] [B, A,-I3 cn(1]
+r0.6 .04 too .55 when the spirit moves
+=2' min <D F# B> qua rest min. <D F# A> qua rest
+=3 cro B_ qua B cro. B_ cro B_ qua B cro. B_
+|
+=1 min. c)1 c#
+r0.7 .50 me ,
+=2' min. <Dr Fn Abl cn> <E G Bx c#>
+=3' min. blank cro rest' qua b cro bb qua a
+=3' cro B_b-s4, qua Ab cro B_b qua A_(2-blank,-s5, min. A_)2
+|
+=1 smb rest
+=2' vol+25 qua rest' [fn e] cro d qua Bb-s4 cro. A-s5 vol-10 G vol-15
+=2, min G min. E cro A_
+=3, qua rest [E F#] cro G G# qua A B-s2, cro cn qua c#-s2,
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+ 1 1 1.2 1 1 1 1 1 1.2 1 1 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1 qua rest cro A qua B' qua F cro. D
+r0.7 .17  'Cross  .43 the .56 river,
+=2 cro <E A> qua <Cn(2 F(1> cro. <C)2(2 F)1(1> min. <C)2 F)1>
+=3 qua [d' A' B'-s1,] [cn-s2, B-s1, A] [D A' B'] [c B A]
+|
+=1 qua rest cro F qua F cro. D qua rest
+r0.7 .12 round .37 the bend
+=2' min. <Cn E> qua rest [<B_ Fn-s1-s4> <Cn F#-s1-s2>] \
+ [<A cn> <G B> <Gb Bb>]
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 cro rest qua [F G] F cro. D
+r0.7 .27 Hello .50 stranger
+=2 cro <E A> qua <Cn(2 F(1> cro. <C)2(2 F)1(1> min. <C)2 F)1>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1.2 1 1 1 \
+ | 1 1 1.2 1 1 1 1.2 1.2 1.2 1 1.2 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+|
+=1' qua A cro B cro. D cro rest
+r0.7 .09 so  long .40 friend !
+=2' min. <Cn E> cro. <B_ D Fnxl Gbl> <Cnl F# A>
+=3' qua [D A B] [cn B A] [D A-s1, B-s2,] cro. <Ab d>
+|
+=1 cro rest qua. [Fn smq E] cro F qua [F D]
+r0.7 .24 There's .44 a .50 voice .75 in .86 the
+=2 cro <B_ D Fn A> qua <A_(2 D F(1> cro. <A_)2 D F)1> \
+ qua [<B_ D A> rest <A(2 Bx' d'(1>] cro. <Ax,)2 B, d)1>
+=3 cro G qua rest, [G_ G Gb] cro Fn qua rest, qua [Gn Gb F-s1,]
+|
+=1' cro rest qua [Fn F] cro E qua rest F
+r0.7 .25 lonesome .50 wind .82 keeps
+=2' qua [Fn rest G{1] cro. G}1 qua [F rest, D(1] cro. D)1
+=2, qua [<B_b D> blank <B_(2 D>] cro. <B_)2 D> \
+cro. <G_ B_b> qua rest,, cro <G_#l B_n>
+=3 cro. E qua [E-s2, Eb D] cro. Cn cro C qua C#
+|
+=1' qua [Fn E] cro D min F#
+r0.7 .07 whispering .50 " roam " . . .
+=2' cro <F_ Cnl Fn> qua <F_(2 C Dx(1> cro. <F_)2 C Dx)1> \
+ qua rest cro <E_l(2 G_ C(1> cro. <E_)2 G_ C)1>
+=3 cro. D qua [F-s2, G G#-s2,] cro A qua A_ [cn A c#-s2,]
+|
+=1 min. rest cro cn
+r0.6 .75 I'm
+=2' cro <B_x Cn E-.> min <A_ C E> cro <B_ D A> min <A_ B_x D>
+=3 cro. d qua [A-s2, G# Gn] cro. F-s3, qua [F G G#]
+|
+=1, qua [cn A] [c A] [c A G A]
+r0.5 .01 going .25 where the .50 welcome .75 mat  is
+=2' qua rest <C# A cn> rest <C A c> rest <C A c> rest <C A c> rest cro. <C A>
+=3' cro A_ qua A [Cn C# G-s1,] [G#-s4, A eb] [cn-s3, c# E]
+|
+=1' qua rest A qua3 [G A-I3 G] qua A cro A_ qua A_
+r0.5 .17 no .25 matter where that  is, .86 'coz
+=2 cro. <B_ D Fn A'> cro <Cnl Eb Gbl Bb'> \
+ min <C#l En Gnl Bn'> qua [fn d G#,-s4]
+=3 cro G qua E cro G# min A cro. rest
+
+|
+=1 smq [B_ qua. D] qua [E smq Fn{2 F#}2] qua [A Fn] [E E]
+r0.6 .08 any .32 place I .54 hang my .77 hat is
+=2' min. <B_ Ex D G> <G B>
+=2, min. blank cro. D C#
+=3 cro E G G# cro. A rest
+|
+=1 min. D cro rest
+r0.7 .01 home .
+=2 min. <F_ Cn E> cro. rest <e a>
+=3 qua [D A'-s2, B'-s1,] [cn-s2, B-s1, A] [D A' B'] [c B A]
+
+/
+4 bars | 2# 1 1 1.3 1 1 1 1 1 1 1 1 1 | 1 1 1 1 1 1 1 1 1 1 1.3 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1.3 1 | 12 |
+|
+=1 smb rest
+=2 qua [<cn fn-.> rest <A,(2 d(1>] min <A,)2 d)1> min <G cn'> qua <E A>
+=3 qua [D A' B'] [cn B A] [D A' B'] [c B A]
+|
+=1 min Fn qua3 rest [A,-I3 d(1] qua3 [d)1 A,-I3 Ab,]
+r0.5 .01 Birds .57 roosting in the
+=2 cro. <A_ Cn Fn> min <A_ C Fx G> qua rest
+=3' cro D qua d cro D qua rest cro D qua d [A-s2, E-s3, Eb]
+|
+=1 min G qua rest [A A A]
+r0.6 .04 trees .60 pick  up  and
+=2 cro. <A_ B_x Fn> min <A_ B_x Fn Gx> qua rest
+=3' cro D qua d cro D qua rest cro D qua d [B-s2, A Ab]
+|
+=1 qua A{2 cro. G}2 qua3 rest [G-I3 A] qua [G E]
+r0.7 .01 go .56 and the going
+=2 min <A_ B_x Fn> <A_ B_x F Gx>
+=3' cro G qua c# cro d qua G(2-s2, cro G)2 qua Eb-s4, cro D qua C#-s4,
+/
+3 bars | 2# 1 1 1.2 1 1 1 1 1 1 1 1 1 | 1 1 1.2 1 1 1 1 1 1 1 1 1 |
+|
+=1 min. G cro rest
+r0.7 .05 proves
+=2' min. <B_ E G> qua rest min <E G B> qua rest
+=3 cro Cn qua cn [C-s2, B_ B_b] cro A_ qua A cro E-s3, qua Eb
+|
+=1  cro rest qua A cro B' qua [cn d B,]
+r0.7 .28 that's how .64 it .75 got  to
+=2' cro. <Fn A cn> min <Cn F Gx A> qua rest
+=3' cro D qua d cro D qua rest cro D qua d [B A Ab]
+|
+=1' min B qua rest [B B A]
+r0.7 .01 be .62 I .75 pick  up
+=2' min <Fn Gx A Bx> <F Gx A Bx>
+=3' cro G qua c# cro d qua G(2-blank,-s2, cro G)2 qua D-s5, cro C-s3, qua Cn
+/
+3 bars | 2# 1 1 1 1 1 1 1 1 1 1 1.2 1 | 1 1 1 1 1 1 1 1 1.2 1 1 1 \
+ | 1 1 1 1 1 1.3 1 1 1.2 1 1 1 ||
+|
+=1' min B qua3 rest' [B-I3 A] [B A-I3 cn(1]
+r0.6 .05 too .55 when the spirit moves
+=2' min <D F# B> qua rest min. <D F# A> qua rest
+=3 cro B_ qua B cro. B_ cro B_ qua B cro. B_
+|
+=1 min. c)1 c#
+r0.7 .50 me ,
+=2' min. <Dr Fn Abl cn> <E G Bx c#>
+=3' min. blank cro rest' qua b cro bb-s2, qua a-s2,
+=3' cro B_b-s4, qua Ab cro B_b qua A_(2-blank, min. A_)2
+| 4/4 71 67 63 57
+=1 qua [A A] [B' A] cro cn Bn
+r0.7 .01 go  where .27 it .38 behoves .75 me ;
+=2' cro <E A-s1-s4> <E A> qua [B A] cro. <D# F#l cn> <D# F#l B>
+=2, min blank cro E min. blank
+=3' min. blank cro B qua c~# cro c~n qua b-s1,
+=3, cro. <c f b> <cn f a> cro blank qua a-s1,-s3, cro. a-s2,-s3,
+/
+3 bars | 4# 1 1 1.2 1 1 1 1 1 1 1 1 1 | 1 1 1.2 1 1 1 1 1 1 1 1 1 |
+| 4/4 72
+=1  4# qua rest cro G qua A G cro. E
+r0.7 .17  'Cross  .43 the .56 river,
+=2' 4# cro <F# B> qua <Dn(2 G(1> cro. <D)2(2 G)1(1> min. <D)2 G)1>
+=3' 4# qua [E B-s1, c-s2,] [dn-s1, c B] [E B c] [d c B]
+|
+=1 cro rest qua [G G] cro. E qua rest
+r0.7 .25 round the bend
+=2' min. <Dn F> qua rest [<C# Gn-s1-s4> <D G#-s1-s2>] \
+ [<B dn> <A c#-s1-s4> <G# cn>]
+=3' qua [E B c] [dn c B] [E B c] [d c B]
+|
+=1 cro rest qua [G A] G cro. E
+r0.7 .27 Hello .50 stranger
+=2' cro <F# B> qua <Dn(2 G(1> cro. <D)2(2 G)1(1> min. <D)2 G)1>
+=3' qua [E B c] [dn c B] [E B c] [d c B]
+|
+=1 qua c cro e cro. E cro rest
+r0.7 .09 so  long .40 friend !
+=2' min. <Dn F-s1-s3> cro. <C# E Gnl Abxl> <Dn G# B>
+=3' qua [E B c] [dn c B] [E B c] cro. <Bb e>
+|
+=1' qua rest cro Gn qua A qua B cro E qua E
+r0.7 .25 There's .44 a .50 voice in .86 the
+=2 cro <C# E Gn B'> qua <B_(2 E G(1> cro. <B_)2 E G)1> \
+qua [<C# E B'> rest <Bx'(2 c#' e'(1>] cro. <B,)2 cx e)1>
+=3 cro A qua rest, [A_ A G] cro Gn qua rest, qua [A G# Gn-s1,]
+|
+=1' qua rest cro B qua B cro A qua rest B
+r0.7 .12 lonesome .50 wind .86 keeps
+=2' qua [Gn rest A{1] cro. A}1 qua [G rest, E(1] cro. E)1
+=2, qua [<Cn E> blank <C(2 E>] cro. <C)2 E> \
+cro. <A_ C> qua rest,, cro <A_#l C#>
+=3 cro. F# qua [F#-s2, Fn E] cro. Dn cro D qua D#
+|
+=1' qua [G F] cro E min B
+r0.7 .10 whispering .50 " roam " . . .
+=2' cro <G_# Dnl Gn> qua <G_(2 D Ex(1> cro. <G_)2 D Ex)1> \
+ qua rest cro <F_#l(2 A_n D(1> cro. <F_#)2 A_ D)1>
+=3 cro. E qua [G-s2, A A#-s2,] cro B qua B_ [dn, B, d#-s2,]
+|
+=1 min. rest cro dn
+r0.6 .75 I'm
+=2' cro <Cx Dn F-.> min <B_ D F> cro <C E B> min <B_ Cx E>
+=3 cro. e qua [B Bb A] cro. G-s3, qua [G A A#]
+|
+=1, qua [dn B] [d B] [d B A B]
+r0.5 .01 going .25 where the .50 welcome .75 mat  is
+=2' qua rest <D# B dn> rest <D# B dn> rest <D# B dn> \
+ rest <D# B dn> rest cro. <D# B>
+=3' cro B_ qua B [Dn D# A-s1,] [A#-s4, B fn] [dn-s3, d# F]
+|
+=1' qua rest B qua3 [A B-I3 A] qua B cro B_ qua B_
+r0.5 .17 no .25 matter where that  is, .86 and 
+=2 cro. <C E Gn B'> cro <Dnl Fn Abl cn'> \
+ min <D#l F# Anl c#'> qua [gn e Bb,-s4]
+=3 cro A qua F cro A# min B cro. rest
+|
+=1' smq [C qua. E] qua [F smq Gn{2 G#}2] qua [B Gn] [F C]
+r0.5 .02 any .32 place I .54 hang my .77 hat is
+=2' min. <C E Fx A> <A c#>
+=2, min. blank cro. E D#
+=3 cro F A A# cro. B rest
+|
+=1 min. E cro rest
+r0.5 .01 home .
+=2 min. <G_ Dn F#> cro. rest <f# b>
+=3' qua [E B c] [dn c B] [E B c] [d c B]
+|
+=1 min.. rest qua B_
+r0.5 .87 and
+=2, qua [<dn gn-.> rest <B(2 e(1>] min <B)2 e)1> min <A dn> qua rest
+=3' qua [E B c] [dn c B] [E B c] [d c B]
+| 4/4 70 62 31 60
+=1' smq [C qua. E] qua [F smq Gn{2 G#}2] qua [B Gn] [F-fermata C]
+r0.5 .02 any .25 place   I .52 hang my .75 hat .88 is
+=2' min. <C E Fx A> <A c#>
+=2, min. blank cro. E D#-fermata
+=3 cro F A A# cro. B rest
+| 4/4 70
+=1 min. E cro rest
+r0.5 .01 home .
+=2 min. <G_ Dn F#> cro. rest <f# b>
+=3' qua [E B c] [dn c B] [E B c] [d c B]
+/
+3 bars | 4# 12 | 12 | 12 ||
+|
+=1 smb rest
+=2, min. <dn gn> cro. rest <B e>
+=3' qua [E B c] [dn c B] [E B c] [d c B]
+|
+=1 smb rest
+=2  min. <A, dn> cro. rest <F# B'>
+=3' qua [E B c] [dn c B] [E B c] [d-s1, c-s3, B-s5,]
+|
+=1 smb rest
+=2' min. blank qua rest' [B f] cro. b
+=2  smb. <Dn G#>
+=3, qua [f# e dn] cro. b(1 min. b)1
+
+
+% stop

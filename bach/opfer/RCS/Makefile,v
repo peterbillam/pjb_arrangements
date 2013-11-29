@@ -1,0 +1,805 @@
+head	1.10;
+access;
+symbols;
+locks
+	pjb:1.10;
+comment	@# @;
+
+
+1.10
+date	2011.10.25.23.29.07;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2009.04.10.00.37.41;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2001.03.01.09.40.16;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	98.11.25.00.36.33;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	98.11.25.00.16.55;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	98.11.24.23.54.42;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	98.11.20.09.09.28;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.11.20.03.02.24;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.11.19.23.16.39;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.10.28.04.04.12;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for Musikalishes Opfer
+@
+
+
+1.10
+log
+@uses upload; add warning to ric3
+@
+text
+@MUSCRIPT = /home/pbin/muscript
+NORMALIZE = /usr/bin/normalize-audio
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+ARRD = /home/pjb/www/mus/arr
+A4D = ${ARRD}/a4
+USD = ${ARRD}/us
+XMLD = ${ARRD}/xml
+SRCD = ${ARRD}/src
+MP3D = ${ARRD}/mp3
+BACKPAGE = /home/pjb/mus/blurb/freebackpage
+WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+NROF = /home/pbin/nrof
+ADDMESSAGE = /home/pbin/add_free_message
+UTF2ISO = /home/pbin/utf2iso
+DIST = pjb3265@@loki.webcity.com.au:public_html/mus/arr
+PIECE1 = canonica
+PIECE2 = ric3
+PIECE3 = ric6_kbd
+PIECE4 = ric6_rec
+PIECE5 = ric6_str
+TITLE1 = title_${PIECE1}
+TITLE2 = title_${PIECE2}
+TITLE3 = title_${PIECE3}
+TITLE4 = title_${PIECE4}
+TITLE5 = title_${PIECE5}
+
+dev : ${TITLE1}.a4 p2.a4 p3.a4 ${PIECE1}.a4 \
+ ${TITLE2}.a4 ${PIECE2}.a4 \
+ ${TITLE3}.a4 ${PIECE3}.a4 \
+ ${TITLE4}.a4 ${PIECE4}.a4 \
+ ${TITLE5}.a4 ${PIECE5}.a4
+all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
+ ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf \
+ ${A4D}/${PIECE3}.pdf  ${USD}/${PIECE3}.pdf \
+ ${A4D}/${PIECE4}.pdf  ${USD}/${PIECE4}.pdf \
+ ${A4D}/${PIECE5}.pdf  ${USD}/${PIECE5}.pdf
+dist1:
+	upload ${A4D}/${PIECE1}.pdf
+	upload ${USD}/${PIECE1}.pdf
+	scp -P 2223 ${PIECE1} ${DIST}/src/${PIECE1}.txt
+dist2:
+	upload ${A4D}/${PIECE2}.pdf
+	upload ${USD}/${PIECE2}.pdf
+	scp -P 2223 ${PIECE2} ${DIST}/src/${PIECE2}.txt
+dist3:
+	upload ${A4D}/${PIECE3}.pdf
+	upload ${USD}/${PIECE3}.pdf
+	scp -P 2223 ${PIECE3} ${DIST}/src/${PIECE3}.txt
+dist4:
+	upload ${A4D}/${PIECE4}.pdf
+	upload ${USD}/${PIECE4}.pdf
+	scp -P 2223 ${PIECE4} ${DIST}/src/${PIECE4}.txt
+dist5:
+	upload ${A4D}/${PIECE5}.pdf
+	upload ${USD}/${PIECE5}.pdf
+	scp -P 2223 ${PIECE5} ${DIST}/src/${PIECE5}.txt
+
+${FREED}/${PIECE1}.pdf : ${WARNING} p2.a4 p3.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > ${TITLE1}.a4
+	${ADDMESSAGE} ${PIECE1}.a4 \
+	| ${PSCAT} ${TITLE1}.a4 ${WARNING} p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| /home/pbin/a42us -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${A4D}/${PIECE1}.pdf : p2.a4 p3.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > ${TITLE1}.a4
+	${ADDMESSAGE} ${PIECE1}.a4 \
+	| ${PSCAT} ${TITLE1}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE1}.pdf : ${TITLE1}.a4 p2.a4 p3.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE1}.a4 \
+	| ${PSCAT} ${TITLE1}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE1}.xml : ${PIECE1}
+	${MUSCRIPT} -xml ${PIECE1} > $@@
+${XMLD}/${PIECE1}_readme.txt : p2.a4 p3.a4
+	${NROF} p2.a4 p3.a4 > $@@
+${SRCD}/${PIECE1}.txt : ${PIECE1}
+	cp ${PIECE1} $@@
+${MP3D}/${PIECE1}.mp3 : ${PIECE1}
+	${MUSCRIPT} -midi ${PIECE1} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+${A4D}/${PIECE2}.pdf : ${WARNING} p2.a4 p3.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} ${TITLE2} | groff -ms | ${BANNERISE} > ${TITLE2}.a4
+	${ADDMESSAGE} ${PIECE2}.a4 \
+	| ${PSCAT} ${TITLE2}.a4 ${WARNING} p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE2}.pdf : ${TITLE2}.a4 p2.a4 p3.a4 \
+ ${PIECE2}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE2}.a4 \
+	| ${PSCAT} ${TITLE2}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE2}.xml : ${PIECE2}
+	${MUSCRIPT} -xml ${PIECE2} > $@@
+${XMLD}/${PIECE2}_readme.txt : p2 p3
+	${NROF} p2 p3 > $@@
+${SRCD}/${PIECE2}.txt : ${PIECE2}
+	cp ${PIECE2} $@@
+${MP3D}/${PIECE2}.mp3 : ${PIECE2}
+	${MUSCRIPT} -midi ${PIECE2} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+${A4D}/${PIECE3}.pdf : p2.a4 p3.a4 ${PIECE3}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} ${TITLE3} | groff -ms | ${BANNERISE} > ${TITLE3}.a4
+	${ADDMESSAGE} ${PIECE3}.a4 \
+	| ${PSCAT} ${TITLE3}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE3}.pdf : ${TITLE3}.a4 p2.a4 p3.a4 \
+ ${PIECE3}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE3}.a4 \
+	| ${PSCAT} ${TITLE3}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE3}.xml : ${PIECE3}
+	${MUSCRIPT} -xml ${PIECE3} > $@@
+${XMLD}/${PIECE3}_readme.txt : p2 p3
+	${NROF} p2 p3 > $@@
+${SRCD}/${PIECE3}.txt : ${PIECE3}
+	cp ${PIECE3} $@@
+${MP3D}/${PIECE3}.mp3 : ${PIECE3}
+	${MUSCRIPT} -midi ${PIECE3} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+${A4D}/${PIECE4}.pdf : p2.a4 p3.a4 ${PIECE4}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} ${TITLE4} | groff -ms | ${BANNERISE} > ${TITLE4}.a4
+	${ADDMESSAGE} ${PIECE4}.a4 \
+	| ${PSCAT} ${TITLE4}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE4}.pdf : ${TITLE4}.a4 p2.a4 p3.a4 \
+ ${PIECE4}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE4}.a4 \
+	| ${PSCAT} ${TITLE4}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE4}.xml : ${PIECE4}
+	${MUSCRIPT} -xml ${PIECE4} > $@@
+${XMLD}/${PIECE4}_readme.txt : p2 p3
+	${NROF} p2 p3 > $@@
+${SRCD}/${PIECE4}.txt : ${PIECE4}
+	cp ${PIECE4} $@@
+${MP3D}/${PIECE4}.mp3 : ${PIECE4}
+	${MUSCRIPT} -midi ${PIECE4} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+${A4D}/${PIECE5}.pdf : p2.a4 p3.a4 ${PIECE5}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} ${TITLE5} | groff -ms | ${BANNERISE} > ${TITLE5}.a4
+	${ADDMESSAGE} ${PIECE5}.a4 \
+	| ${PSCAT} ${TITLE5}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE5}.pdf : ${TITLE5}.a4 p2.a4 p3.a4 \
+ ${PIECE5}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE5}.a4 \
+	| ${PSCAT} ${TITLE5}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE5}.xml : ${PIECE5}
+	${MUSCRIPT} -xml ${PIECE5} > $@@
+${XMLD}/${PIECE5}_readme.txt : p2 p3
+	${NROF} p2 p3 > $@@
+${SRCD}/${PIECE5}.txt : ${PIECE5}
+	cp ${PIECE5} $@@
+${MP3D}/${PIECE5}.mp3 : ${PIECE5}
+	${MUSCRIPT} -midi ${PIECE5} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+${PIECE1}.a4 : ${PIECE1}
+	${MUSCRIPT} ${PIECE1} > $@@
+${PIECE2}.a4 : ${PIECE2}
+	${MUSCRIPT} ${PIECE2} > $@@
+${PIECE3}.a4 : ${PIECE3}
+	${MUSCRIPT} ${PIECE3} > $@@
+${PIECE4}.a4 : ${PIECE4}
+	${MUSCRIPT} ${PIECE4} > $@@
+${PIECE5}.a4 : ${PIECE5}
+	${MUSCRIPT} ${PIECE5} > $@@
+${TITLE1}.a4 : ${TITLE1}
+	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > $@@
+${TITLE2}.a4 : ${TITLE2}
+	${UTF2ISO} ${TITLE2} | groff -ms | ${BANNERISE} > $@@
+${TITLE3}.a4 : ${TITLE3}
+	${UTF2ISO} ${TITLE3} | groff -ms | ${BANNERISE} > $@@
+${TITLE4}.a4 : ${TITLE4}
+	${UTF2ISO} ${TITLE4} | groff -ms | ${BANNERISE} > $@@
+${TITLE5}.a4 : ${TITLE5}
+	${UTF2ISO} ${TITLE5} | groff -ms | ${BANNERISE} > $@@
+p2.a4 : p2
+	${UTF2ISO} p2 | groff -ms | ${BANNERISE} > $@@
+p3.a4 : p3
+	${UTF2ISO} p3 | groff -t -ms | ${BANNERISE} > $@@
+play1 :
+	${MUSCRIPT} -midi ${PIECE1} | aplaymidi - &
+play2 :
+	${MUSCRIPT} -midi ${PIECE2} | aplaymidi - &
+play3 :
+	${MUSCRIPT} -midi ${PIECE3} | aplaymidi - &
+play4 :
+	${MUSCRIPT} -midi ${PIECE4} | aplaymidi - &
+play5 :
+	${MUSCRIPT} -midi ${PIECE5} | aplaymidi - &
+
+@
+
+
+1.9
+log
+@A4 and US versions, and much regularised
+@
+text
+@d12 1
+d42 2
+a43 2
+	scp -P 2223 ${A4D}/${PIECE1}.pdf  ${DIST}/a4/
+	scp -P 2223 ${USD}/${PIECE1}.pdf  ${DIST}/us/
+d46 2
+a47 2
+	scp -P 2223 ${A4D}/${PIECE2}.pdf  ${DIST}/a4/
+	scp -P 2223 ${USD}/${PIECE2}.pdf  ${DIST}/us/
+d50 2
+a51 2
+	scp -P 2223 ${A4D}/${PIECE3}.pdf  ${DIST}/a4/
+	scp -P 2223 ${USD}/${PIECE3}.pdf  ${DIST}/us/
+d54 2
+a55 2
+	scp -P 2223 ${A4D}/${PIECE4}.pdf  ${DIST}/a4/
+	scp -P 2223 ${USD}/${PIECE4}.pdf  ${DIST}/us/
+d58 2
+a59 2
+	scp -P 2223 ${A4D}/${PIECE5}.pdf  ${DIST}/a4/
+	scp -P 2223 ${USD}/${PIECE5}.pdf  ${DIST}/us/
+d62 6
+d90 1
+a90 1
+${A4D}/${PIECE2}.pdf : p2.a4 p3.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
+d93 1
+a93 1
+	| ${PSCAT} ${TITLE2}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+@
+
+
+1.8
+log
+@add ric6_str
+@
+text
+@a0 2
+SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+d2 1
+d5 7
+a11 1
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+d15 1
+d17 178
+a194 136
+
+all : ${FD}/ric6_kbd.a4 ${SD}/ric6_kbd.a4 ${FREED}/ric6_kbd.pdf \
+ ${FD}/ric6_rec_score.a4 ${SD}/ric6_rec.a4 ${FREED}/ric6_rec_score.pdf \
+ ${FD}/ric6_rec_parts.a4 ${FREED}/ric6_rec_parts.pdf \
+ ${FD}/ric6_str_score.a4 ${SD}/ric6_str.a4 ${FREED}/ric6_str_score.pdf \
+ ${FD}/ric6_str_parts.a4 ${FREED}/ric6_str_parts.pdf \
+ ${FD}/ric3.a4 ${SD}/ric3.a4 ${FREED}/ric3.pdf \
+ ${FD}/canonica.a4 ${SD}/canonica.a4 ${FREED}/canonica.pdf
+
+${FD}/ric6_kbd.a4 : title_6_kbd.a4 p2.a4 p3.a4 ric6_kbd.a4 ${BLURB}.a4
+	${PSCAT} title_6_kbd.a4 p2.a4 p3.a4 ric6_kbd.a4 ${BLURB}.a4 > $@@
+${FD}/ric6_kbd.us : ${FD}/ric6_kbd.a4
+	${A42US} ${FD}/ric6_kbd.a4 > $@@
+${FREED}/ric6_kbd.pdf : title_6_kbd_free.a4 p2.a4 p3.a4 \
+ ric6_kbd.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ric6_kbd.a4 \
+	| ${PSCAT} title_6_kbd_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/ric6_rec_score.a4 : title_6_rec_score.a4 p2.a4 p3.a4 ric6_rec_score.a4 \
+ ${BLURB}.a4
+	${PSCAT} title_6_rec_score.a4 ric6_rec_score.a4 ${BLURB}.a4 > $@@
+${SD}/ric6_rec.a4 : ric6_rec_score.a4
+	./make_samples6 > $@@
+${FREED}/ric6_rec_score.pdf : title_6_rec_score_free.a4 p2.a4 p3.a4 \
+ ric6_rec_score.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ric6_rec_score.a4 \
+	| ${PSCAT} title_6_rec_score_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/ric6_rec_parts.a4 : title_6_rec_parts.a4 p2.a4 p3.a4 ric6_rec_parts.a4 \
+ ${BLURB}.a4
+	${PSCAT} title_6_rec_parts.a4 p2.a4 p3.a4 ric6_rec_parts.a4 ${BLURB}.a4 > $@@
+${FREED}/ric6_rec_parts.pdf : title_6_rec_parts_free.a4 p2.a4 p3.a4 \
+ ric6_rec_parts.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ric6_rec_parts.a4 \
+	| ${PSCAT} title_6_rec_parts_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/ric6_str_score.a4 : title_6_str_score.a4 p2.a4 p3.a4 ric6_str_score.a4 \
+ ${BLURB}.a4
+	${PSCAT} title_6_str_score.a4 ric6_str_score.a4 ${BLURB}.a4 > $@@
+${SD}/ric6_str.a4 : ric6_str_score.a4
+	./make_samples6 > $@@
+${FREED}/ric6_str_score.pdf : title_6_str_score_free.a4 p2.a4 p3.a4 \
+ ric6_str_score.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ric6_str_score.a4 \
+	| ${PSCAT} title_6_str_score_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/ric6_str_parts.a4 : title_6_str_parts.a4 p2.a4 p3.a4 ric6_str_parts.a4 \
+ ${BLURB}.a4
+	${PSCAT} title_6_str_parts.a4 p2.a4 p3.a4 ric6_str_parts.a4 ${BLURB}.a4 > $@@
+${FREED}/ric6_str_parts.pdf : title_6_str_parts_free.a4 p2.a4 p3.a4 \
+ ric6_str_parts.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ric6_str_parts.a4 \
+	| ${PSCAT} title_6_str_parts_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/ric3.a4 : title_3.a4 p2.a4 p3.a4 ric3.a4 ${BLURB}.a4
+	${PSCAT} title_3.a4 p2.a4 p3.a4 ric3.a4 ${BLURB}.a4 > $@@
+${SD}/ric3.a4 : ric3.a4
+	./make_samples3
+${FREED}/ric3.pdf : title_3_free.a4 p2.a4 p3.a4 \
+ ric3.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ric3.a4 \
+	| ${PSCAT} title_3_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${FD}/canonica.a4 : title_canonica.a4 p2.a4 p3.a4 canonica.a4 ${BLURB}.a4
+	${PSCAT} title_canonica.a4 p2.a4 p3.a4 canonica.a4 ${BLURB}.a4 > $@@
+${FD}/canonica.us : ${FD}/canonica.a4
+	${A42US} ${FD}/canonica.a4 > $@@
+${SD}/canonica.a4 : canonica.a4
+	./make_samples_canonica
+${FREED}/canonica.pdf : title_canonica_free.a4 p2.a4 p3.a4 \
+ canonica.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} canonica.a4 \
+	| ${PSCAT} title_canonica_free.a4 p2.a4 p3.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+ric3.a4 : ric3
+	${MUSCRIPT} ric3 > $@@
+ric6_rec_score.a4 : ric6_rec_score
+	${MUSCRIPT} ric6_rec_score > $@@
+ric6_rec_parts.a4 : ric6_rec_parts
+	${MUSCRIPT} ric6_rec_parts > $@@
+ric6_str_score.a4 : ric6_str_score
+	${MUSCRIPT} ric6_str_score > $@@
+ric6_str_parts.a4 : ric6_str_parts
+	${MUSCRIPT} ric6_str_parts > $@@
+ric6_kbd.a4 : ric6_kbd
+	${MUSCRIPT} ric6_kbd > $@@
+canonica.a4 : canonica
+	${MUSCRIPT} canonica > $@@
+
+title_3.a4 : title_3
+	groff -ms title_3 | ${BANNERISE} > $@@
+title_3_free.a4 : title_3_free
+	groff -ms title_3_free | ${BANNERISE} > $@@
+
+title_6_rec_score.a4 : title_6_rec_score
+	groff -ms title_6_rec_score | ${BANNERISE} > $@@
+title_6_rec_score_free.a4 : title_6_rec_score_free
+	groff -ms title_6_rec_score_free | ${BANNERISE} > $@@
+title_6_rec_parts.a4 : title_6_rec_parts
+	groff -ms title_6_rec_parts | ${BANNERISE} > $@@
+title_6_rec_parts_free.a4 : title_6_rec_parts_free
+	groff -ms title_6_rec_parts_free | ${BANNERISE} > $@@
+
+title_6_str_score.a4 : title_6_str_score
+	groff -ms title_6_str_score | ${BANNERISE} > $@@
+title_6_str_score_free.a4 : title_6_str_score_free
+	groff -ms title_6_str_score_free | ${BANNERISE} > $@@
+title_6_str_parts.a4 : title_6_str_parts
+	groff -ms title_6_str_parts | ${BANNERISE} > $@@
+title_6_str_parts_free.a4 : title_6_str_parts_free
+	groff -ms title_6_str_parts_free | ${BANNERISE} > $@@
+
+title_6_kbd.a4 : title_6_kbd
+	groff -ms title_6_kbd | ${BANNERISE} > $@@
+title_6_kbd_free.a4 : title_6_kbd_free
+	groff -ms title_6_kbd_free | ${BANNERISE} > $@@
+
+title_canonica.a4 : title_canonica
+	groff -ms title_canonica | ${BANNERISE} > $@@
+title_canonica_free.a4 : title_canonica_free
+	groff -ms title_canonica_free | ${BANNERISE} > $@@
+
+d196 1
+a196 1
+	groff -ms p2 | ${BANNERISE} > $@@
+d198 12
+a209 1
+	groff -ms p3 | ${BANNERISE} > $@@
+@
+
+
+1.7
+log
+@correct cp syntax
+@
+text
+@d3 1
+d5 107
+a111 48
+BANNER = /home/pjb/mus/blurb/banner.ps
+MUSCRIPT = /home/pbin/muscript
+
+all : a4 us samples ric6_kbd
+a4 : r3+title.a4 ${FD}/canonica.a4 r6.a4
+r6.a4 : ric6_rec.score.a4 ric6_rec.parts.a4 title.6.score.a4 title.6.parts.a4
+ric6_kbd : ric6_kbd1.a4 ric6_kbd2.a4 p2.a4 p3.a4
+
+us : r3+title.us ${FD}/canonica.us r6.us
+r6.us : ric6_rec.score.us ric6_rec.parts.us title.6.score.us title.6.parts.us
+
+r3+title.a4 : title.3.a4 p2.a4 p3.a4 ricercare3.a4 ${BLURB}.a4
+	cat title.3.a4 p2.a4 p3.a4 ricercare3.a4 ${BLURB}.a4 > $@@
+	cp $@@ $(FD)/ricercare3.a4
+ricercare3.a4 : ricercare3 ${MUSCRIPT}
+	${MUSCRIPT} ricercare3 > $@@
+r3+title.us : title.3.us p2.us p3.us ricercare3.us ${BLURB}.us
+	cat title.3.us ricercare3.us ${BLURB}.us > $@@
+	cp $@@ $(FD)/ricercare3.us
+ricercare3.us : ricercare3 ${MUSCRIPT}
+	${MUSCRIPT} -us ricercare3 > $@@
+
+ric6_rec.score.a4 : title.6.score.a4 p2.a4 p3.a4 ric6_rec.a4 $(BLURB).a4
+	cat title.6.score.a4 ric6_rec.a4 $(BLURB).a4 > $@@
+	cp $@@ $(FD)/$@@
+ric6_rec.a4 : ric6_rec ${MUSCRIPT}
+	${MUSCRIPT} ric6_rec > $@@
+ric6_rec.score.us : title.6.score.us p2.us p3.us ric6_rec.us $(BLURB).us
+	cat title.6.score.us p2.us p3.us ric6_rec.us $(BLURB).us > $@@
+	cp $@@ $(FD)/$@@
+ric6_rec.us : ric6_rec ${MUSCRIPT}
+	${MUSCRIPT} -us ric6_rec > $@@
+ric6_rec.parts.a4 : title.6.parts.a4 p2.a4 p3.a4 parts.a4
+	cat title.6.parts.a4 p2.a4 p3.a4 parts.a4 $(BLURB).a4 > $@@
+	cp $@@ $(FD)/$@@
+parts.a4 : parts ${MUSCRIPT}
+	${MUSCRIPT} parts > $@@
+ric6_rec.parts.us : title.6.parts.us p2.us p3.us parts.us $(BLURB).us
+	cat title.6.parts.us p2.us p3.us ric6_rec.us $(BLURB).us > $@@
+	cp $@@ $(FD)/$@@
+parts.us : parts ${MUSCRIPT}
+	${MUSCRIPT} -us parts > $@@
+
+${FD}/canonica.a4 : title.canonica.a4 p2.a4 p3.a4 canonica.a4 ${BLURB}.a4
+	cat title.canonica.a4 p2.a4 p3.a4 canonica.a4 ${BLURB}.a4 > $@@
+${FD}/canonica.us : title.canonica.us p2.us p3.us canonica.us ${BLURB}.us $(SD)/canonica.a4
+	cat title.canonica.us p2.us p3.us canonica.us ${BLURB}.us > $@@
+canonica.a4 : canonica ${MUSCRIPT}
+a112 2
+canonica.us : canonica ${MUSCRIPT}
+	${MUSCRIPT} -us canonica > $@@
+d114 32
+a145 4
+ric6_kbd1.a4 : ric6_kbd1 ${MUSCRIPT}
+	${MUSCRIPT} ric6_kbd1 > $@@
+ric6_kbd2.a4 : ric6_kbd2 ${MUSCRIPT}
+	${MUSCRIPT} ric6_kbd2 > $@@
+d148 1
+a148 6
+	cat ${BANNER} > $@@
+	groff -ms p2 >> $@@
+p2.us : p2.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat p2.a4 >> $@@
+d150 1
+a150 52
+	cat ${BANNER} > $@@
+	groff -ms p3 >> $@@
+p3.us : p3.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat p2.a4 >> $@@
+
+
+title.3.a4 : title.3
+	cat ${BANNER} > $@@
+	groff -p -t -e -ms title.3 >> $@@
+title.3.us : title.3.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.3.a4 >> $@@
+title.6.score.a4 : title.6.score
+	cat ${BANNER} > $@@
+	groff -p -t -e -ms title.6.score >> $@@
+title.6.score.us : title.6.score.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.6.score.a4 >> $@@
+title.6.parts.a4 : title.6.parts
+	cat ${BANNER} > $@@
+	groff -p -t -e -ms title.6.parts >> $@@
+title.6.parts.us : title.6.parts.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.6.parts.a4 >> $@@
+title.6.kbd.a4 : title.6.kbd
+	cat ${BANNER} > $@@
+	groff -p -t -e -ms title.6.score >> $@@
+title.6.kbd.us : title.6.kbd.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.6.kbd.a4 >> $@@
+title.canonica.a4 : title.canonica
+	cat ${BANNER} > $@@
+	groff -p -t -e -ms title.canonica >> $@@
+title.canonica.us : title.canonica.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.canonica.a4 >> $@@
+
+samples : $(SD)/ric6_rec.a4 $(SD)/ricercare3.a4
+
+$(SD)/ric6_rec.a4 : ric6_rec.a4
+	./make_samples6
+$(SD)/ricercare3.a4 : ricercare3.a4
+	./make_samples3
+$(SD)/canonica.a4 : canonica.a4
+	./make_samples_canonica
+@
+
+
+1.6
+log
+@insert p2 and p3 into all scores and parts
+@
+text
+@d28 1
+a28 1
+	cp $@@ > $(FD)/$@@
+d33 1
+a33 1
+	cp $@@ > $(FD)/$@@
+d43 1
+a43 1
+	cp $@@ > $(FD)/$@@
+@
+
+
+1.5
+log
+@add p3
+@
+text
+@d15 2
+a16 2
+r3+title.a4 : ricercare3.a4 title.3.a4
+	cat title.3.a4 ricercare3.a4 ${BLURB}.a4 > $@@
+d20 1
+a20 1
+r3+title.us : ricercare3.us title.3.us
+d23 1
+a23 1
+ricercare3.us : ricercare3 ${MUSCRIPT} $(SD)/ricercare3.a4
+d26 3
+a28 4
+ric6_rec.score.a4 : ric6_rec.a4 title.6.score.a4 ${MUSCRIPT}
+	cat title.6.score.a4 ric6_rec.a4 > ric6_rec.score.a4
+	cat $(BLURB).a4 >> ric6_rec.score.a4
+	cat $(FD)/perlheader ric6_rec.score.a4 > $(FD)/ric6_rec.score.a4
+d31 3
+a33 4
+ric6_rec.score.us : ric6_rec.us title.6.score.us ${MUSCRIPT} $(SD)/ric6_rec.a4
+	cat title.6.score.us ric6_rec.us > ric6_rec.score.us
+	cat $(BLURB).us >> ric6_rec.score.us
+	cat $(FD)/perlheader ric6_rec.score.us > $(FD)/ric6_rec.score.us
+d36 3
+a38 4
+ric6_rec.parts.a4 : parts.a4 title.6.parts.a4
+	cat title.6.parts.a4 parts.a4 > $@@
+	cat $(BLURB).a4 >> $@@
+	cat $(FD)/perlheader $@@ > $(FD)/ric6_rec.parts.a4
+d41 3
+a43 4
+ric6_rec.parts.us : parts.us title.6.parts.us
+	cat title.6.parts.us ric6_rec.us > $@@
+	cat $(BLURB).us >> $@@
+	cat $(FD)/perlheader $@@ > $(FD)/ric6_rec.parts.us
+d47 4
+a50 4
+${FD}/canonica.a4 : title.canonica.a4 canonica.a4 ${BLURB}.a4
+	cat title.canonica.a4 canonica.a4 ${BLURB}.a4 > $@@
+${FD}/canonica.us : title.canonica.us canonica.us ${BLURB}.us $(SD)/canonica.a4
+	cat title.canonica.us canonica.us ${BLURB}.us > $@@
+d60 1
+d78 1
+a78 1
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+d85 1
+a85 1
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+d92 1
+a92 1
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+d98 7
+d106 1
+a106 1
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+@
+
+
+1.4
+log
+@add p2, using html2ps instead of groff
+@
+text
+@d7 4
+a10 4
+all : a4 us samples
+a4 : r3+title.a4 ${FD}/canonica.a4 r6.a4 ric6_kbd.a4
+r6.a4 : ricercare6.score.a4 ricercare6.parts.a4 title.6.score.a4 title.6.parts.a4
+ric6_kbd : ric6_kbd1.a4 ric6_kbd2.a4 p2.a4
+d13 1
+a13 1
+r6.us : ricercare6.score.us ricercare6.parts.us title.6.score.us title.6.parts.us
+d18 2
+a19 2
+ricercare3.a4 : ricercare3 /home/pbin/muscript
+	/home/pbin/muscript ricercare3 > $@@
+d23 2
+a24 2
+ricercare3.us : ricercare3 /home/pbin/muscript $(SD)/ricercare3.a4
+	/home/pbin/muscript -us ricercare3 > $@@
+d26 13
+a38 13
+ricercare6.score.a4 : ricercare6.a4 title.6.score.a4 /home/pbin/muscript
+	cat title.6.score.a4 ricercare6.a4 > ricercare6.score.a4
+	cat $(BLURB).a4 >> ricercare6.score.a4
+	cat $(FD)/perlheader ricercare6.score.a4 > $(FD)/ricercare6.score.a4
+ricercare6.a4 : ricercare6 /home/pbin/muscript
+	/home/pbin/muscript ricercare6 > $@@
+ricercare6.score.us : ricercare6.us title.6.score.us /home/pbin/muscript $(SD)/ricercare6.a4
+	cat title.6.score.us ricercare6.us > ricercare6.score.us
+	cat $(BLURB).us >> ricercare6.score.us
+	cat $(FD)/perlheader ricercare6.score.us > $(FD)/ricercare6.score.us
+ricercare6.us : ricercare6 /home/pbin/muscript
+	/home/pbin/muscript -us ricercare6 > $@@
+ricercare6.parts.a4 : parts.a4 title.6.parts.a4 /home/pbin/muscript
+d41 5
+a45 5
+	cat $(FD)/perlheader $@@ > $(FD)/ricercare6.parts.a4
+parts.a4 : parts /home/pbin/muscript
+	/home/pbin/muscript parts > $@@
+ricercare6.parts.us : parts.us title.6.parts.us /home/pbin/muscript
+	cat title.6.parts.us ricercare6.us > $@@
+d47 3
+a49 3
+	cat $(FD)/perlheader $@@ > $(FD)/ricercare6.parts.us
+parts.us : parts /home/pbin/muscript
+	/home/pbin/muscript -us parts > $@@
+d55 4
+a58 4
+canonica.a4 : canonica /home/pbin/muscript
+	/home/pbin/muscript canonica > $@@
+canonica.us : canonica /home/pbin/muscript
+	/home/pbin/muscript -us canonica > $@@
+d66 13
+a78 1
+	html2ps p2 >> $@@
+d109 1
+a109 9
+p2.a4 : p2
+	cat /home/pjb/mus/blurb/banner.ps > p2.a4
+	groff -p -t -e -ms p2 >> p2.a4
+p2.us : p2.a4
+	echo '%!' > p2.us
+	echo '8.4 0 translate 1 0.94074 scale' >> p2.us
+	cat p2.a4 >> p2.us
+
+samples : $(SD)/ricercare6.a4 $(SD)/ricercare3.a4
+d111 1
+a111 1
+$(SD)/ricercare6.a4 : ricercare6.a4
+@
+
+
+1.3
+log
+@add ric6_kbd2 too
+@
+text
+@d4 1
+d10 1
+a10 1
+ric6_kbd : ric6_kbd1.a4 ric6_kbd2.a4
+d64 3
+@
+
+
+1.2
+log
+@add ric6_kbd1
+@
+text
+@d9 1
+a9 1
+ric6_kbd : ric6_kbd1.a4
+d61 2
+@
+
+
+1.1
+log
+@separate make_samplesX
+@
+text
+@d4 1
+d7 1
+a7 1
+a4 : r3+title.a4 ${FD}/canonica.a4 r6.a4
+d9 1
+d58 3
+@

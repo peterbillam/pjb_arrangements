@@ -1,0 +1,432 @@
+4 systems 40 / 19-40-19 / 19-50-19 / 19-40-19 / 19-50-19 20/
+title Flammes Sombres,  Op. 73 no. 2  (1912-1913)
+pagenum 3
+innerhead Alexander Scriabin
+midi channel 1 patch 0 pan 85 reverb 90
+midi channel 2 patch 0 pan 50 reverb 90
+midi channel 3 patch 0 pan 15 reverb 90
+/
+3 bars |5/8 50 | 50 | 50 |
+| 6/8 .27 .27 .29 .28 .27 .26
+Il1.0 .01 Avec un grâce dolente
+=1' treble cha1 6/8 leg99 vol70 4 Gb 8 db 4. c
+=1, cha2 6/8 vol65 8 [D Db A_] [G# 83 Gn 8 D#] 163 blank
+I0.3 .01 p
+=2, bass   cha3 2/4 vol60 16 rest [a{1 eb F}'1] rest [d~#{1 a B}'1]
+|
+=1' cha1 leg99 vol70 4 Gb 8 db 4. c
+=1, cha2 vol65 8 [D Db A_] [G# 83 Gn 8 D#] 163 blank
+=2, cha3 vol60 16 rest [a{1 eb F}'1] rest [d~#{1 a B}'1]
+|
+=1' cha1 leg99 vol75 4 Gb 8 db 4. en
+=1, cha2 vol70 8 [D Db A_] [B 83 Bb 8 F#] 163 blank
+i0.2 .05 cresc . . .
+=2, cha3 vol65 16 rest [a{1 eb F}'1] rest [f~#{1 c~ dn}'1]
+/
+4 bars | 72 | 72 | 72 | 72 |
+|
+=1' cha1 vol80 4 Bb 8 fb 4. g(1
+=1, cha2 vol75 8 [F Fb C] 4. d(2
+=2, cha3 vol70 16 rest [c~{1 gb Ab}'1] 4 <B(4 f(2 e~b(3 a~(1>
+|
+il0.7 .15 5
+=1' cha1 vol80 4. g)1 4 rest' 8 rest'
+=1, cha2 vol75 8 [d)2 db A] [Ab G Eb]
+=2, cha3 vol70 4 <B)4 f)2 e~b)3 a~)1> <B f e~b>
+|
+=1' cha1 vol80 4. Gb Fn
+=1, cha2 vol75 8 [D Db A_] [Dnl C# A_]
+=2' cha3 vol70 4 <F eb a> <B_ F# d# a>
+| .30 .27 .28 .30 .27 .28
+i1.1 .25 avec accablement
+=1' cha1 vol80 8 rest rest <D(2-ten, d(1> 4. <D)2(2 d)1(1>
+=2' 6/8 cha2 4. rest'' <gb(3 g~b(1-ten>
+=2, 6/8 cha3 8 [B F a] rest, [e~b a]
+/
+4 bars | 72 | 72 | 72 | 72 |
+| .30 .27 .28 .30 .27 .23
+=1' cha1 vol80 4 <D)2 d)1> 8 <D(2 d(1> 4 <D)2 d)1> 8 <C# c#>
+=2' cha2 4. <g)3 g~)1> <gb g~b>
+=2, cha3 8 [B F a] rest, [e~b a]
+| .27 .27 .29 .28 .27 .26
+=1' cha1 4 rest 8 rest 4. g(1
+=1, cha2 4. blank <A(4 d(2>
+=2, 2/4 cha3 16 rest [B(2 f(3 e~b(1] 4 <B)2(2 f)3(3 e~)1(1>
+|
+il0.7 .15 10
+=1' cha1 4. g)1 4 rest' 8 rest'
+=1, cha2 8 [<A)4 d)2> db A] [Ab G Eb]
+=2, cha3 2 <B)2 f)3 e~)1>
+|
+=1' cha1 vol80 4. Gb Fn
+=1, cha2 vol75 8 [D Db A_] [Dnl C# A_]
+=2' cha3 vol70 4 <F eb a> <B_ F# d# a>
+/
+5 bars | 72 | 72 | 72 | 15 11 13 11 11 11 | 15 12 12 15 12 11 |
+| .30 .27 .28 .30 .27 .28
+=1' cha1 vol80 8 rest rest <D(2-ten, d(1> 4. <D)2(2 d)1(1>
+=2' 6/8 cha2 4. rest'' <gb g~b-ten>
+=2, 6/8 cha3 8 [B F a] rest, [e~b a]
+| .30 .27 .28 .30 .26 .21
+=1' cha1 vol80 4 <D)2 d)1> 8 <Ebb(2 ebb(1> [<E)2 e)1> <Eb eb> <En en>]
+=2' cha2 4 rest' 8 rest'' 4. <ab a~b>
+=2, cha3 8 [Gn Db f] rest, [f~ c~b]
+| .27 .27 .29 .28 .27 .26
+=1' cha1 vol85 16 blank 4 rest 8 rest 4. a(1
+=1, cha2 vol80 16 blank 4. blank <B(4 e(2>
+=2, 2/4 cha3 vol75 16 rest [c#(2 g(3 f~(1] 4 <c)2(2 g)3(3 f~)1(1>
+| .27 .26 .27 .27 .26 .25
+il0.7 .20 15
+=1' cha1 4. a)1 4 rest'' 8 rest'
+=1, cha2 8 [<B)4 e)2> eb B] [Bb A F]
+=2, cha3 2 <c#)2 g)3 f~)1>
+|
+=1' cha1 vol80 4. Ab G
+=1, cha2 vol75 8 [E Eb B_] [En Eb B_]
+=2' cha3 vol70 4 <G f b> <C# G#l e# b>
+
+4 systems 40 / 19-50-19 / 19-50-19 / 19-50-19 / 19-45-19 20/
+pagenum
+innerhead Flammes Sombres,  A. Scriabin,  Op. 73 no. 2
+/
+4 bars | 72 | 72 | 72 | 72 |
+| .29 .26 .27 .28 .26 .27
+=1' cha1 vol80 8 rest rest <E(2-ten, e(1> 4. <E)2(2 e)1(1>
+=2' 6/8 cha2 vol75 4. rest'' <ab a~b-ten>
+=2, 6/8 cha3 vol70 8 [c# G b] rest, [f~ b]
+| .29 .26 .27 .28 .25 .23
+=1' cha1 vol80 4 <E)2 e)1> 8 <Fb(2 fb(1> 4 <F)2 f)1> 8 <Fn fn>
+=2' cha2 vol75 4. rest'' 4. <bb b~b>
+=2, cha3 8 [A Eb g] rest, [g~ d~b]
+| .29 .26 .27 .28 .25 .23
+=1' cha1 vol80 8 rest rest <F#(2-ten, f#(1> 4. <F)2(2 f)1(1>
+=2' cha2 vol75 4. rest'' <bb b~b-ten>
+=2, cha3 8 [c# D# g] rest [g~ c~#]
+| .28 .25 .26 .27 .24 .22
+il0.7 .18 20
+=1' cha1 vol85 4 <F#)2 f#)1> 8 <D#(2 d#(1> 4. <D)2(2 d)1(1>
+=2' cha2 vol80 4. rest'' 4. <bb b~b>
+=2, cha3 vol75 8 [g A c~#] rest [g~ c~]
+/
+4 bars | 72 | 72 | 72 | 72 |
+| .27 .24 .26 .27 .25 .26
+=1' cha1 vol90 4 <D)2 d)1> 8 <E(2 e(1> 4 <E)2 e)1> 8 <Fn,(2 fn,(1>
+i0.6 .65 cresc . . .
+=2' cha2 vol85 4. rest'' 4. <bb b~b>
+=2, cha3 vol80 8 [c# D# g] rest, [g~ c~#]
+| .25 .23 .24 .24 .22 .21
+=1, cha1 vol95 4 <F)2 f)1> 8 <F# f#> [<A a> <Ab ab> <G g>]
+=2' cha2 vol90 4. rest'' 4. <d~b d~~b>
+=2, cha3 vol85 8 [g A c~#] 4. <cnlrr f# e~ b~blll>
+| .20 .19 .19 .20 .19 .19
+i0.8 .01 Presto très dansant
+=1, cha1 2/4 8 rest 4. blank
+=1, cha1 vol80 8 blank 4 <F# f#-ten> 8 <F f-.>
+I0.6 .03 p
+=2' cha2 vol75 4. rest'' <bb b~b-ten>
+=2, cha3 vol70 8 [f# A c~#] rest [g~ c~#]
+| 1.15
+=1, cha1 vol80 8 rest 4 <F# f#-ten> 8 <F f-.>
+=2' cha2 vol75 4. rest'' <g g~-ten>
+=2, cha3 vol70 8 [B# F# a#] rest, [e~ a#]
+/
+4 bars | 72 | 72 | 72 | 72 |
+| 1.12
+il0.7 .07 25
+=1, cha1 vol80 8 rest 4 <F# f#-ten> 8 <F f-.>
+=2' cha2 vol75 4. rest'' <bb b~b-ten>
+=2, cha3 vol70 8 [d# A c~#] rest [g~ c~#]
+| 1.09
+=1, cha1 vol80 8 rest <A a> [<Ab ab> <G g>]
+=2' cha2 vol80 4. rest'' <d~b d~~b-ten>
+=2, cha3 vol75 8 [f# cn e~] rest [b~b e~]
+| 1.06
+=1, cha1 vol85 8 rest 4 <F# f#-ten> 8 <F f-.>
+i0.6 .80 accel . . .
+=2' 2/4 cha2 vol85 4 rest'' <bb b~b-ten>
+=2, 2/4 cha3 vol80 16 [d# A c~#] rest rest [g~ c~#] rest
+| 1.03
+=1, cha1 vol90 8 rest 4 <F# f#-ten> 8 <F f-.>
+=2' cha2 vol90 4 rest'' <g g~-ten>
+=2, cha3 vol85 16 [B# F# a#] rest, rest, [e~ a#] rest
+/
+4 bars | 72 | 72 | 72 | 72 |
+| 1.0
+=1, cha1 vol95 8 rest 4 <F# f#-ten> 8 <F f-.>
+=2' 2/4 cha2 vol95 4 rest'' <bb b~b-ten>
+=2, 2/4 cha3 vol90 16 [d# A c~#] rest rest [g~ c~#] rest
+| .99
+il0.7 .07 30
+=1, cha1 vol100 8 rest <F# f#-ten> [f# eb]
+=2' cha2 vol100 4 rest'' <d~b d~~b-ten>
+=2, cha3 vol95 16 [f# cn e~] rest rest [b~b e~] rest
+| .98
+i0.6 .01 tumultueux
+=1' 6/8 cha1 vol105 8 rest' 4 F#-ten 8 rest' 4 F-ten
+=1, 6/8 cha2 vol105 8. <C# G Bb> rest,, <C G B> rest,,
+=2  2/4 cha3 vol100 16 [<d#, bb-ten> A,] 8 rest 16 [<D# Bb> A_] 8 rest
+| .97
+=1' cha1 vol105 8 rest' 4 F#-ten 8 rest' 4 F-ten
+=1, cha2 vol105 8. <A_# E G> rest,, <A_ E G> rest,,
+=2' cha3 vol100 16 [<B# g> F#] 8 rest 16 [<B_# G> F_#] 8 rest
+
+4 systems 40 / 19-50-19 / 19-50-19 / 19-50-19 / 19-45-19 20/
+pagenum
+innerhead Flammes Sombres,  A. Scriabin,  Op. 73 no. 2
+/
+4 bars | 72 | 72 | 72 | 72 |
+| .96
+=1' cha1 vol105 8 rest' 4 F#-ten 8 rest' 4 F-ten
+=1, cha2 vol110 8. <C# G Bb> rest,, <C G B> rest,,
+=2  cha3 vol105 16 [<d#, bb-ten> A,] 8 rest 16 [<D# Bb> A_] 8 rest
+| .95
+=1' cha1 vol105 8 rest'' 4 A-ten 8 [Abrll-ten G] rest'
+=1, cha2 vol110 8. <E Bb db> rest,, <E B d> rest,,
+=2' cha3 vol105 16 [<f# d~b> c] 8 rest 16 [<F# db> C] 8 rest
+| .90
+il1.0 .47 35
+i0.6 .01 désordonné
+=1' cha1 vol110 8 rest' 4 F#-ten 8 rest' 4 F-ten
+=1, cha2 vol110 8. <C# G Bb> rest,, <C G B> rest,,
+=2  cha3 vol110 16 [<d#, bb-ten> A,] 8 rest 16 [<D# Bb> A_] 8 rest
+| .88
+=1' cha1 vol110 8 rest' 4 F#-ten 8 rest' 4 F-ten
+=1, cha2 vol110 8. <A_# E G> rest,, <A_ E G> rest,,
+=2' cha3 vol110 16 [<B# g> F#] 8 rest 16 [<B_# G> F_#] 8 rest
+/
+4 bars | 72 | 72 | 72 | 72 |
+| .86
+=1' cha1 vol110 8 rest' 4 F#-ten 8 rest' 4 F-ten
+=1, cha2 vol110 8. <C# G Bb> rest,, <C G B> rest,,
+=2  cha3 vol110 16 [<d#, bb-ten> A,] 8 rest 16 [<D# Bb> A_] 8 rest
+| .83
+=1' cha1 vol110 8 rest'' 8 [A A] 8 [Abrll-ten A G]
+=1, cha2 vol110 8. <E Bb db> rest,, <E B d> rest,,
+=2' cha3 vol110 16 [<f# d~b> c] 8 rest 16 [<F# db> C] 8 rest
+| .8
+=1' cha1 vol110 8 rest' 4 F#-ten 8 rest' 4 F-ten
+=1, cha2 vol115 8. <C# G Bb> rest,, <C G B> rest,,
+i0.5 .05 prestissimo
+=2  cha3 vol115 16 [<d#, bb-ten> A,] 8 rest 16 [<D# Bb> A_] 8 rest
+|
+il1.0 .10 40
+=1' cha1 vol110 8 rest'' [A A] [Abrll-ten A G]
+=1, cha2 vol115 8. <E Bb db> rest,, <E B d> rest,,
+=2' cha3 vol115 16 [<f# d~b> c] 8 rest 16 [<F# db> C] 8 rest
+/
+4 bars | 72 | 72 | 72 | 72 |
+|
+=1' cha1 vol115 8 rest' [F# F] rest' [F F]
+=1, cha2 vol115 8. <C# G Bb> rest,, <C G B> rest,,
+=2  cha3 vol115 16 [<d#, bb-ten> A,] 8 rest 16 [<D# Bb> A_] 8 rest
+|
+=1' cha1 vol115 8 rest'' [A A] [Abrll-ten A G]
+=1, cha2 vol115 8. <E Bb db> rest,, <E B d> rest,,
+=2' cha3 vol115 16 [<f# d~b> c] 8 rest 16 [<F# db> C] 8 rest
+| .85
+=1' cha1 vol110 8 rest' [F# F] rest' [F F]
+=1, cha2 vol110 8. <C# G Bb> rest,, <C G B> rest,,
+i0.5 .15 ritard . . .
+=2  cha3 vol110 16 [<d#, bb-ten> A,] 8 rest 16 [<D# Bb> A_] 8 rest
+| .90
+=1' cha1 vol105 8 rest' [F# F] rest' [F F]
+=1, cha2 vol105 8. <A_r D Ebx Gb> rest,, <A_r D Ebx Gb> rest,,
+=2' cha3 vol105 16 [<B f#> E#] 8 rest 16 [<B_ F#> E_#] 8 rest
+/
+3 bars | 72 | 72 | 72 ||
+| .95
+il1.0 .10 45
+=1' cha1 vol100 8 rest' [F# F] rest' [F F]
+=1, cha2 vol100 8. <F_#r C Dx Ebl> rest,, <F_ C Dx E> rest,,
+=2' cha3 vol100 16 [<G# eb> D] 8 rest 16 [<G_# Eb> D_] 8 rest
+| .5 .53
+=1' cha1 vol95 8 rest' [F# F] rest' vol90 [F F]
+=1, cha2 vol95 8. <D_# A_ B_x C> rest,, vol90 <D_ A_ B_x C> rest,,
+=2' cha3 vol95 16 [<E# c> B_] 8 rest 16 vol90 [<E_# C> B__] 8 rest
+| .56 .6
+=1' cha1 vol87 8 [F# vol83 F vol79 F] vol75 [F vol71 F vol67 F]
+=1, cha2 vol90 blank
+=2' cha3 vol90 2. blank 1 rest
+
+4 systems 40 / 19-40-19 / 19-50-19 / 19-40-19 / 19-50-19 20/
+pagenum
+innerhead Flammes Sombres,  Op. 73 no. 2  Alexander Scriabin
+/
+4 bars |5/8 72 | 72 | 72 | 36 29 |
+| 6/8 .27 .27 .29 .28 .27 .26
+Il1.0 .01 Tempo I.
+=1' treble cha1 6/8 leg99 vol75 4 Gb 8 db 4. c
+=1, cha2 6/8 vol65 8 [D Db A_] [G# 83 Gn 8 D#] 163 blank
+I0.3 .01 p
+=2, bass   cha3 2/4 vol60 16 rest [a{1 eb F}'1] rest [d~#{1 a B}'1]
+|
+=1' cha1 leg99 vol75 4 Gb 8 db 4. c
+=1, cha2 vol70 8 [D Db A_] [G# 83 Gn 8 D#] 163 blank
+=2, cha3 vol65 16 rest [a{1 eb F}'1] rest [d~#{1 a B}'1]
+|
+il1.0 .10 50
+=1' cha1 leg99 vol80 4 Gb 8 db 4. en
+=1, cha2 vol75 8 [D Db A_] [B 83 Bb 8 F#] 163 blank
+i0.2 .05 cresc . . .
+=2, cha3 vol70 16 rest [a{1 eb F}'1] rest [f~#{1 c~ dn}'1]
+|
+=1' cha1 vol85 4 Bb 8 fb 4. g(1
+=1, cha2 vol80 8 [F Fb C] 4. <A(4 d(2>
+i0.8 .55 poco
+I0.8 .80 sf
+=2, cha3 vol75 16 rest [c~{1 gb Ab}'1] 4 <B(4 f(2 e~b(3>
+/
+4 bars | 72 | 72 | 72 | 72 |
+|
+=1' cha1 vol80 4. g)1 4 rest' 8 rest'
+=1, cha2 vol75 8 [<A)4 d)2> db A] [Ab G Eb]
+=2, cha3 vol70 2 <B)4 f)2 e~b)3>
+|
+=1' cha1 vol80 4. Gb Fn
+=1, cha2 vol75 8 [D Db A_] [Dnl C# A_]
+=2' cha3 vol70 4 <F eb a> <B_ F# d# a>
+| .30 .27 .28 .30 .27 .28
+=1' cha1 vol80 8 rest rest <G_#(2-ten, G#(1> 4. <G_)2(2 G)1(1>
+=2' 6/8 cha2 4. rest'' <c c~>
+=2, 6/8 cha3 8 [E# B_ d#] rest,, [a d#]
+| .30 .27 .28 .30 .27 .23
+il0.7 .10 55
+=1' cha1 vol80 4 <G_)2 G)1> 8 <A_(2 A(1> <A_)2 A)1> 4 <C c>
+=2' cha2 4. rest'' <c c~>
+=2, cha3 8 [E# B_ d#] rest,, [a d#]
+/
+4 bars | 72 | 72 | 72 | 72 |
+| .30 .27 .28 .30 .27 .28
+=1' cha1 vol80 8 rest rest <D(2 d(1> 4. <D)2(2 d)1(1>
+=2' cha2 4. rest'' <gb g~b>
+=2, cha3 8 [A B_ eb] rest,, [e~b a]
+| .30 .27 .28 .30 .27 .23
+=1' cha1 vol80 4 <D)2 d)1> 8 <B_(2 B(1> 4. <B_)2(2 B)1(1> 
+=2' cha2 4. rest'' <gb g~b>
+=2, cha3 8 [eb F a] rest,, [e~b a]
+| .30 .27 .28 .30 .27 .28
+=1' cha1 vol80 4 <B_)2 B)1> 8 <C(2 c(1> 4 <C)2 c)1> 8 <Db(2 db(1>
+=2' cha2 4. rest'' <gb g~b>
+=2, cha3 8 [A B_ eb] rest,, [e~b a]
+| .30 .27 .28 .30 .27 .53
+=1' cha1 vol95 4 <D)2 d)1> 8 <Dn dn> [<F f> <Fb fb> <Eb eb-fermata>]
+=2' cha2 vol90 4. rest'' 4. <bbb b~bb>
+=2, cha3 vol85 8 [eb F a] 4. <Abrr-fermata, d c~ g~blll>
+| .18 .17 .17 .18 .17 .17
+i0.7 .01 Presto
+il0.7 .45 60
+=1, cha1 2/4 8 rest 4. blank
+=1' cha1 vol80 8 blank 4 <D-ten, d> 8 <D-., d>
+=2' cha2 vol75 4. rest'' <gb g~b>
+=2, cha3 vol70 8 [Bn F a] rest, [e~b a]
+| 1.15
+=1' cha1 vol80 8 rest 4 <D-ten, d> 8 <D-., d>
+=2' cha2 vol75 4. rest'' <eb e~b>
+=2, cha3 vol70 8 [G# D f#] rest, [c~ f#]
+| 1.12
+=1' cha1 vol80 8 rest 4 <D-ten, d> 8 <D-., d>
+=2' cha2 vol75 4. rest'' <gb g~b>
+=2, cha3 vol70 8 [Bn F a] rest, [e~b a]
+| 1.09
+=1' cha1 vol80 8 rest <F f{'1> [<Fb fb> <Eb eb>]
+=2' cha2 vol75 4. rest'' <bbb b~bb>
+=2, cha3 vol70 8 [d Ab c~] rest, [g~b c~]
+
+5 systems 10 / 19-50-19 /19-50-19 / 19-45-19 / 19-45-19 / 19-45-19 10/
+pagenum
+innerhead Flammes Sombres,  Op. 73 no. 2  Alexander Scriabin
+/
+4 bars |5/8 9 9 9 9 10 9 9 8 | 72 | 9 9 9 9 10 9 9 8 | 9 9 9 9 10 9 9 8 |
+| 1.06
+=1' cha1 vol85 8 <D d}'1> 4 <D d-ten> 8 <D d-.>
+=2' 2/4 cha2 vol85 4 rest'' <gb g~b-ten>
+=2, 2/4 cha3 vol80 16 [B F a] rest rest [e~b a] rest
+| 1.03
+il0.7 .10 65
+=1' cha1 vol90 8 rest 4 <D d-ten> 8 <D d-.>
+i0.6 .10 accel . . .
+=2' cha2 vol90 4 rest'' <eb e~b-ten>
+=2, cha3 vol85 16 [G# D f#] rest, rest, [c~ f#] rest
+| 1.00
+=1' cha1 vol95 8 rest 4 <D d-ten> 8 <D d-.>
+=2' cha2 vol95 4 rest'' <gb g~b-ten>
+=2, cha3 vol90 16 [B F a] rest rest [e~b a] rest
+| 0.98
+=1' cha1 vol100 8 rest <D d-.> [<D d-.> Bn-ten]
+=2' cha2 vol100 4 rest'' <bbb b~bb-ten>
+=2, cha3 vol95 16 [d Ab c~] rest rest [g~b c~] rest
+/
+4 bars | 6/8 72 | 72 | 72 | 72 |
+| 0.96
+=1' 6/8 cha1 vol105 8 rest' 4 D-ten 8 rest' 4 D-ten
+=1, 6/8 cha2 vol105 8. <A_ Ebl Gb> rest,, <A_ E G> rest,,
+i0.4 .25 poco . . .
+=2' 2/4 cha3 vol100 16 [<B gb> F] 8 rest 16 [<B_ Gb> F_] 8 rest
+| 0.94
+=1' cha1 vol105 8 rest' 4 D-ten 8 rest' 4 D-ten
+=1, cha2 vol105 8. <F_# C Eb> rest,, <F_ C E> rest,,
+=2' cha3 vol100 16 [<G# eb> D] 8 rest 16 [<G_# Eb> D_] 8 rest
+| 0.92
+=1' cha1 vol105 8 rest' 4 D-ten 8 rest' 4 D-ten
+=1, cha2 vol105 8. <A_ Ebl Gb> rest,, <A_ E G> rest,,
+=2' cha3 vol100 16 [<B gb> F] 8 rest 16 [<B_ Gb> F_] 8 rest
+| 0.90
+=1' cha1 vol105 8 rest' 4 F-ten 8 [Fbrl-ten Eb] rest
+=1, cha2 vol105 8. <Cr Gbl Bbb> rest,, <C G B> rest,,
+i0.4 .80 a . . .
+=2' cha3 vol100 16 [<d bbb> Ab] 8 rest 16 [<D Bbb> A_b] 8 rest
+/
+4 bars | 72 | 72 | 72 | 72 |
+| 0.88
+=1' cha1 vol106 8 rest' [D{'1-. D}'1-.] 8 rest' [D{'1-. D}'1-.]
+=1, cha2 vol106 8. <A_ Ebl Gb> rest,, <A_ E G> rest,,
+i0.4 .25 poco . . .
+=2' cha3 vol101 16 [<B gb> F] 8 rest 16 [<B_ Gb> F_] 8 rest
+| 0.86
+=1' cha1 vol107 8 rest' [D{'1-. D}'1-.] 8 rest' [D{'1-. D}'1-.]
+=1, cha2 vol107 8. <F_# C Eb> rest,, <F_ C E> rest,,
+=2' cha3 vol102 16 [<G# eb> D] 8 rest 16 [<G_# Eb> D_] 8 rest
+| 0.84
+=1' cha1 vol108 8 rest' [D{'1-. D}'1-.] 8 rest' [D{'1-. D}'1-.]
+=1, cha2 vol108 8. <A_ Ebl Gb> rest,, <A_ E G> rest,,
+=2' cha3 vol103 16 [<B gb> F] 8 rest 16 [<B_ Gb> F_] 8 rest
+| 0.82
+=1' cha1 vol109 8 rest' [F{'1 F] 8 [Fbrll F Eb}'1]
+=1, cha2 vol109 8. <Cr Gbl Bbb> rest,, <C G B> rest,,
+=2' cha3 vol104 16 [<d bbb> Ab] 8 rest 16 [<D Bbb> A_b] 8 rest
+/
+3 bars | 72 | 72 | 72 |
+| 0.80
+i0.7 .05 prestissimo
+=1' cha1 vol110 8 rest' [D{'1-. D}'1-.] 8 rest' [D{'1-. D}'1-.]
+=1, cha2 vol110 8. <A_ Ebl Gb> rest,, <A_ E G> rest,,
+=2' cha3 vol110 16 [<B gb> F] 8 rest 16 [<B_ Gb> F_] 8 rest
+| 0.78
+=1' cha1 vol112 8 rest' [F{'1 F] 8 [Fbrll F Eb}'1]
+=1, cha2 vol112 8. <Cr Gbl Bbb> rest,, <C G B> rest,,
+=2' cha3 vol112 16 [<d bbb> Ab] 8 rest 16 [<D Bbb> A_b] 8 rest
+| 0.76
+=1' cha1 vol114 8 rest' [D{'1-. D}'1-.] 8 rest' [D{'1-. D}'1-.]
+=1, cha2 vol114 8. <A_ Ebl Gb> rest,, <A_ E G> rest,,
+=2' cha3 vol114 16 [<B gb> F] 8 rest 16 [<B_ Gb> F_] 8 rest
+/
+5 bars | 72 | 20 || 72 | 23 | 25 ||
+| 0.74
+=1' cha1 vol116 8 rest' [F{'1 F] 8 [Fbrll F Eb}'1]
+=1, cha2 vol116 8. <Cr Gbll Bbb> rest,, <C G B> rest,,
+=2' cha3 vol116 16 [<dr bbb> Ab] 8 rest 16 [<D Bbb> A_b] 8 rest
+|
+=1 1 rest
+=2 1 rest
+| 6/8 .36 .37 .40 .38 .39 .42
+i0.7 .01 lento
+=1' cha1 leg99 vol65 4 Gb 8 db 4. c(1
+=1, cha2 vol60 8 [D Db A_] [G# Gn(3 D#(2]
+=2  cha3 vol55 4 <F eb' a'> <B,(2 a(1 d~#>
+| 3.2
+=1' cha1 vol65 2 c)1-fermata
+=1' cha2 vol55 2 <G)3 D#)2>
+=2, cha3 vol55 2 <B)2 a)1-fermata>
+| 5.0
+=1 cha2 vol50 2 <A_r Dnl Gb-fermata>
+=2' cha3 vol45 2 <F_r F eb-fermata>

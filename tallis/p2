@@ -1,0 +1,56 @@
+.\" header = mushead
+.AM
+.nr PS 14
+.nr VS 17
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 1.0c
+.Lp
+.ce 1
+\s+8\f3Spem in alium\fP\s-8
+.sp 1.0c
+
+.Lp
+Thomas Tallis' forty-voice motet \f2Spem in alium\fP
+is not the first attempt at the many-voice extreme of choral music,
+but it is particularly fluent, and beautifully shaped and paced.
+
+.Lp
+Its half-a-dozen comrades include:
+the thirty-six-part \f2Deo gratias\fP believed to be by Ockeghem (1430-1495),
+the twenty-four-part \f2Qui habitat in adiutorio\fP by Josquin (1450-1521),
+the nineteen-part \f2O bone Jesu\fP by Robert Carver (1487-1546)
+then our forty-voice \f2Spem in alium\fP by Thomas Tallis (1505-1585),
+the forty-part \f2Ecce beatum lucem\fP by Alessandro Striggio (1536-1592)
+and also his \f2Missa sopre ecco si beato giorno\fP
+which is mostly for forty voices but includes a sixty-voice \f2Agnus Dei\fP;
+then the relatively modest nineteen-part
+\f2Buccinatae in neomenia\fP by Giovanni Gabrielli (1536-1612),
+and the fifty-four part \f2Missa Salisburgensis\fP
+thought to be by Biber (1644-1704).
+
+.Lp
+Some of these are largely chordal (Striggio, Gabrielli, Biber),
+and the rest are heavily polyphonic (Josquin, Ockeghem, Carver).
+Tallis uses both possibilities,
+beginning with polyphony, using homophony for
+'Domine deus, creator caeli et terrae',
+and finishing again with forty-part counterpoint.
+
+.Lp
+Striggio was in London in 1567,
+and probably had with him the score of his \f2Ecce beatum lucem\fP,
+so Tallis may well have seen this score, and been impressed by it.
+\f2Ecce beatum lucem\fP was first performed in Bavaria in 1568,
+and \f2Spem in alium\fP was probably first performed in 1570 or 1571,
+in the Long Gallery of Arundel House,
+between the Strand and the Thames in London.
+
+
+.Lp

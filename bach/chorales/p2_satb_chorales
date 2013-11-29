@@ -1,0 +1,84 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.de Dp
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+
+.sp 0.8c
+.LP
+.ce 1
+\f3\s+5Forty Bach Chorales\s0\fP
+.sp 0.8c
+
+.Lp
+It is the chorales, not his trademark fugues,
+that lie at the heart of Bach's technique.
+Wolff refers to Bach's \f2collection of 370 four-part
+chorales that charted the course for tonal harmony.\fP
+Donald Francis Tovey observes:
+\f2Counterpoint, the art defined by Sir Frederick Gore Ouseley
+as that of 'combining melodies'\. \. \.
+This definition is not quite complete.
+Classical counterpoint is the conveying of a mass of harmony
+by means of a combination of melodies.
+Thus the three melodies combined by Wagner in the Meistersinger prelude
+do not make classical counterpoint,
+for they require a mass of accompanying harmony to explain them.\fP
+.Lp
+Forkel recounts, in Ernest Newman's translation:
+\f2Bach began teaching composition not with dry counterpoint that led nowhere,
+as was the way with other music teachers of his time\ ;\ .\ .\ .
+He went immediately to pure four-part thorough-bass,
+laying much stress on the setting-out of the voices,
+since in this way the conception of the pure progression of the harmony
+was made most intelligible.
+From there he went to the chorale.
+In these exercises he himself set the original bass,
+and made his pupils add only the alto and the tenor.
+Gradually he let them make the bass also.
+Everywhere he insisted not only on the utmost purity of the
+harmony in itself, but also on naturalness of progression
+and a melodic flow of all the separate voices.\fP
+.Lp
+Bach, in other words, based his technique at the frontier between
+voice-leading and harmony; on how voice-leading should be done so
+as to create harmony.  The importance of this approach is that it
+is not limited to Bach's voice-leading rules, or  harmonic style.
+
+.Lp
+The forty chorales offered here transcribed for keyboard
+are a small selection from the 388 Bach has left us.
+The selection is arbitrary, determined largely by easy page-layout
+when in alphabetical order, and biased towards the grander
+settings and the stand-alone chorales independent of cantatas.
+The words are mostly omitted for space reasons, though they do
+determine many details of melodic gesture or harmonic movement.
+The words can be found at www.uvm.edu/~classics/faculty/bach
+.Lp
+Musically there is so much of interest here;
+the chromaticism of \f2Es ist genug\fP
+will reappear in Berg's violin concerto,
+the extravagant voice-crossings in \f2Christum wir sollen loben schon\fP,
+the two-and-a-half-bar phrases of \f2Schmücke dich, o liebe Seele\fP
+and the five-bar phrases of \f2Uns ist ein Kindlein heut geborn\fP,
+the lovely tune and fluent bass-line of
+\f2Sollt ich meinem Gott nicht singen\fP, and much else.
+.Lp
+These pieces can be used for a variety of musicianship
+exercises, such as keyboard sight-reading practice,
+singing one voice and playing the other three, transposed sight-reading,
+and so on.
+For this reason, apart from the easily-printable \f2pdf\fP format,
+these pieces are also available in \f2muscript\fP format so
+that you can generate, for example, midi versions for dictation,
+or soprano-bass-only versions for voice-leading practice, etc.

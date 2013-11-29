@@ -1,0 +1,960 @@
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2008.12.21.23.59.27;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2008.12.19.10.06.33;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2008.12.15.09.59.05;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2008.09.04.10.56.13;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2008.09.04.10.00.13;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2008.02.17.05.22.48;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.02.11.07.42.17;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@down three semitones for Tara
+@
+
+
+1.7
+log
+@first attempt at 2nd half of solo
+@
+text
+@% start
+4 systems / 19 35 19-30-19 / 19 35 19-30-19  / 19 45 19-30-19 / 19 35 19-30-19 /
+title Lucky To Be Me
+lefthead Gus Kahn / Walter Donaldson
+midi channel 1 patch 53
+midi channel 2 patch 0 pan 70 reverb 90
+midi channel 3 patch 0 pan 30 reverb 90
+
+% stop
+ 
+/
+4 bars | 36 | 12 | 16 |
+| 9/4 110 125 110
+=1  treble cha1 2# leg90 9/4 smb rest
+=2, treble cha2 2# leg98 9/4 \
+ cro rest qua <d b-s1-s4> cro <e c~-s2-s5> qua <c a-s1-s4> \
+ [<d b-s1-s5> <B g-s1-s4> <c a-s2-s5> <A f-s1-s4>] \
+ [<B g-s2-s5> <G e-s1-s4> <A f-s1-s5> <F d-s1-s4>] \
+ [<G e-s2-s5> <D B-s1-s3>] cro <G d-s2-s5>
+=3  bass   cha3 2# leg98 9/4 smb <A d ex g>
+| 4/4 110
+=1 4/4 smb rest
+=2 4/4 smb <E A c>
+=3 4/4 smb g
+| 100
+=1' qua rest A [B F] [A E] [F D]
+r0.4 .13 I used to think it might be fun to be
+=2 smb <B_ D-s2-s4>
+=3 smb <A-s1,-s4, f#>
+|
+=1 cro E qua B_ min B_ qua rest
+=2 smb <A_ B_x D Ex>
+=3 smb <G e>
+/
+4 bars | 5/4 5 4 4 4 4 | 20 | 4/4 16 | 6/4 24 |
+| 5/4 110
+=1 5/4 qua3 [B_ B_-I3 B_] cro B_ qua B_ cro. B_(1 cro B_)1
+r0.4 .09 anyone else .55 but me
+=2 5/4 min <A_ B_x> qua rest min <F_#l G_#lx B_> qua rest
+=3' 5/4 min <F# d> qua rest min <E d> qua rest
+|
+=1' cro. rest qua A [B F] [A E] [F D]
+r0.4 .15 I thought that it might be a 
+=2' qua <Eb Bb-s2-s5> smb <D A> qua rest
+=3 qua <fn c~n> smb <f# b> qua rest'
+=3, cro. rest,, min.. A(2
+| 4/4 110
+=1 4/4 qua E cro B_ cro. B_ qua rest B_
+r0.4 .12 pleasant thrill .87 to
+=2 4/4 smb <A_ B_x E>
+=3 4/4 smb <A)2 d fn>
+| 6/4 110
+=1 6/4 qua [B_ B_ B_ B_] [F B_] min B_ qua rest B_
+r0.4 .01 wake up as some other girl  .90 but
+=2' 6/4 min <A_ B_x> smb F
+=2, 6/4 min blank A_ qua A_ cro. G_#
+=3' 6/4 smb blank qua f cro. e
+=3, 6/4 min <d f#> smb <B d>
+/
+4 bars | 4/4 2 2 2.5 2 2 2 2 2  | 2 2.5 2 2 3.5 3.5 3 2 | 2 2 2 2.5 2.5 2 2.5 2 | 16 |
+| 4/4 90
+=1' 4/4 qua [Cn D] [E G] cro. D qua D
+r0.6 .02 now that I've found you I've
+=2' 4/4 min <Cn G-s1-s3> <D A-s1-s4>
+=3, 4/4 min <e-s2,-s5, a> <f b-s1,-s4,>
+|
+=1 qua [E F] [G B'] cro. A qua cn
+r0.65 .01 changed my point of view .87 and
+=2' min <D Ex B> qua [A-s2 <G cn> <Fn A d> <E G c>]
+=3' min blank qua <c~n d~x> cro. d~
+=3, min <g-s2,-s4, c~n> qua [fn c~r bb a-s4,]
+|
+=1 cro. d qua A qua [cn' G] [A' Fn]
+r0.75 .01 now .35 I  wouldn't give a
+=2' min <Fn A> cro <Cn E G-s1-s3-s5> <B_bl(4 D(2 F>
+=3, min <bb-s1,-s2, d~> cro d-s3, <cn a>
+|
+=1  cro G qua Cn min D qua rest
+r0.70 .01 dime .25 to be
+=2  smb <B_b)4 D)2 G>
+=3  smb <Bb g>
+=3' min blank qua blank cro. d
+/
+4 bars | 16 | 16 || 16 | 16 |
+|
+=1 qua [Fn F F] min F qua F
+r0.5 .09 anyone  else .85 but
+=2 smb <Cnl Dx Fn>
+=3 smb <Bb g>
+|
+=1 min. F# cro B-fermata
+r0.5 .01 me .75 Oh
+=2' cro <B_xr C#l F#> <F# A d> <D G B> <G c#>
+=3' cro blank min e-s3, cro <f-s1,-s2,n b>
+=3, min. <A g> cro rest,
+|
+r0.8 .04 104 cro/min
+=1 qua [A' F] min A_ cro rest
+r0.4 .01 what a day !
+=2' cro <D A> qua. D-s2 cro <C# Dx F#> qua rest qua. <D Fn-s2-s4>
+=3, cro <f#-s1,-s2, b> qua. <c#-s1,-s2,-s4, f b> cro <B a> qua rest qua. <fnl-s1,-s2, ab>
+|
+=1' qua rest B_ D cro. B cro A
+r0.5 Fortune .41 smiled .75 and
+=2' cro <B_ Dx E> qua. <D Ex A-s1-s2-s4> cro <C# Fn Gx B> qua rest qua. <C# A>
+=3  cro <e g> qua. <B, g> cro A qua rest qua. <fn b>
+
+4 systems / 19 35 19-30-19 / 19 35 19-30-19  / 19 45 19-30-19 / 19 35 19-30-19 /
+pagenum 2
+innerhead Lucky To Be Me,  Gus Kahn / Walter Donaldson
+/
+4 bars | 4 4 4 4 4 4 4 4 4 5 6.5 4 | 48 | 48 | 48 |
+|
+=1 cro F qua [D A_] min rest
+r0.4 .01 came .25 my way
+=2' cro <B_ Cx D F> <B_ Cx D-.> A_-. qua3 rest [<B_ E-I3> <B_b Eb>]
+=3 cro <f a> <c, f a> <B' d' f'> qua3 rest [<c, f-I3> <cn, fn>]
+|
+=1 cro rest qua [G_ B_] min F
+r0.4 .25 bringing love
+=2' min D cro. <Cn F> qua <A_#l C# E>
+=2, qua A_ cro G_ qua B_ min blank
+=3' min e cro. <F# c# e> qua blank
+=3, cro B  G cro. blank qua <cn e>
+|
+=1 qua rest E [D F] A cro c qua B
+r0.6 .12 I never thought I'd .87 see
+=2' qua rest <B_b E-s2-s4> [<A_ D> <B_n F>] <D A> cro <F c> qua <F B>
+=3, qua rest <cn-s3,-s4, e> [<B f> <d a>] <f c~> cro <a d~> qua <g# d~>
+|
+=1  min. rest qua [B_ D]
+r0.5 .75 I'm  so
+=2,  qua rest <B b> cro <c c~> qua <Bb bb> cro. <Bn bn>
+=3, qua rest <g# d~ f~#> cro <a d~ f~> qua <g# d~ f~n> cro. <g# d~ f~#>
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 qua E cro. F cro D qua [D D]
+r0.5 .19 lucky .50 to .75 be .87 me
+=2 min <B_b Dx E-s2-s4-s5> cro <B_n D> qua [<B_b D> <A_ Cx D>]
+=3, min <A g> cro <e g> qua [<A e g> <d f>]
+|
+=1 smb rest
+=2' cro rest qua3 rest [c-I3 d] qua [B c] [Bb cn]
+=2, cro blank qua3 blank cro3 <F A> cro G <E G>
+=3' cro rest'' qua3 rest'' [b c~] cro d~ qua [c~ g-s1,]
+=3, qua rest, min.. A
+|
+=1 cro rest smq [A' qua F smq A_] min rest
+r0.5 .25 What a night
+=2 cro3 <C Dx A'> <B_ D F-I3> A_(1 qua A_)1 cro <G_#rl A_#xl> qua <G_nl B_n>
+=3 cro3 f c-I3-s4, <B(2 d' f'(1> qua <B)2 d' f')1> cro Fn qua <E d'>
+|
+=1' qua rest [B_ D] cro. B cro A
+r0.5 .12 sud .35 denly .75 you
+=2' cro rest qua. <D Ex G-s1-s2-s3> cro. <C G B> qua. <C#l D#lx A-emph>
+=3  cro rest qua. B cro. A qua. <fn a>
+/
+4 bars | 4 4 4 4 4 4 4 4 4 5 6.5 4 | 4 4 4 5 6.5 5 4 4 4 4 4 4 | 48 | 48 |
+|
+=1 min F qua D cro A_ qua rest
+r0.5 .08 came .50 in sight
+=2' cro <C Dx F> qua. <B_ D> cro A_ smq rest qua3 rest [<E B-s1-s5> <Eb Bb-s2-s4>]
+=3, cro <f b> qua. <c f> cro <B d f> smq rest qua3 rest [<c-s2,-s3, f> <cn fn>]
+|
+=1 cro rest qua3 [G_ B_-I3 F(2] cro F)2 E
+r0.5 .25 looking just .75 the
+=2' cro <D A> qua3 [G_ B_ <Cn(2 F(1>] cro <C)2 F)1> <B_b E-s2-s4>
+=3' cro blank e e blank
+=3, cro <B e g> qua [c G] cro F <cn-s3,-s4, e>
+|
+=1 cro D F A qua [c B]
+r0.5 .01 way .25 I'd .50 hoped .75 you'd be
+=2 cro <A_ D> qua. <B_ F> cro <D A'> smq rest qua [<F, c> <F, B>]
+=3, cro <B f> qua. <d a> cro <f c~> smq rest qua [<a d~> <g# d~>]
+|
+=1 min. rest qua [B_ D]
+r0.5 .75 I'm  so
+=2, qua rest <F B d-s1-s2-s4> cro <G# c e> qua <E G c#-s1-s3-s5> cro. <D F B>
+=3 min.. E qua A(2
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 qua E cro. F cro D qua [D D]
+r0.5 .08 lucky .56 to .75 be me
+=2 qua E cro. F cro <G_ B_ D> qua [<G_# B_ D> <A_ B_x(2 D(1>]
+=2, min <B_r D> blank
+=3' min <er g> cro e qua [fn f#]
+=3, min A)2 A
+# XXX
+|
+i0.4 .95 1:30
+=1 smb rest
+=2 cro <B_)2 D)1> <A_ B_x> qua3 rest [<C E-I3> <B_ D>] cro <A_ C>
+=3' qua rest cro <A-s1,-s4, f> qua <A f> cro. <G# fn> qua C(2
+|
+=1 qua rest C cro D qua E cro. E
+r0.5 .15 I  am .50 simply
+=2 min <E_ F_x A_ C> qua rest cro. <A_ B_x C E>
+=3' cro. C)2 min F qua B(2
+|
+=1 qua Fn cro F# F cro. rest
+r0.6 .01 thunderstruck
+=2 qua <A_ C Fn> cro <A_ D F#> min <A_ B_x D F> qua <B_b(2 D(4 G(1>
+=3' min B)2 qua3 rest [e-.-I3, B-.] cro F#
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' qua rest G cro G# min G
+r0.6 .12 at this .50 change
+=2  qua <B_b)2 D)4 G)1> cro G# min <B_n D Fnxl G#l> qua <B_x(2 C# E G#(1>
+=3' qua3 rest [d-.-I3, B-.] cro Fn qua3 rest [c'-.,-I3 G-.,] cro E
+|
+=1 qua G# cro A qua A min rest
+r0.6 .01 in my .37 luck
+=2  qua <B_x)2 C# E G#)1> cro A min <C#l E G# Ax> qua rest
+=3 qua3 rest [cn'-.,-I3 Fn-.,] cro B_ qua3 rest [Bb'-.,-I3 E-.,] cro F_#
+|
+=1 min rest qua [A_ B_b B_n Cn]
+r0.4 .50 Knew at once I
+=2  cro <F_# A_> <F_#l A_#> <F_# B_> <G_ Cn>
+=3' cro <c# dx> <G d> <G# d#> <A e>
+|
+=1 qua C# cro D D cro. rest
+r0.5 .05 wanted .39 you
+=2 cro <A_b Db> <Abl, Bbxl fn> <A_nl Dn> <Anl, dnl f#>
+=3' cro <Bb f> rest <Bnl f#> rest
+|
+=1 qua3 rest [D#-I3 E] qua Fn min F# qua rest
+r0.6 .04 never dreamed you'd
+=2' cro <A_r D#> <A_ E> cro3 Fn F#-I3 G
+=2, min blank min3 B_ cro3 Cn
+=3, cro <cnlr f#> <c#l f#> min3 <d a> cro3 <d# a>
+|
+=1 qua G# cro A A cro. rest
+r0.6 .01 want me .37 too
+=2' cro G# A cro. <C# A> qua <d b-emph>
+=2, min Cn cro. blank qua <Fnl Ax B>
+=3  min <d#rl f# a> cro. <e g b> qua rest
+|
+=1 cro rest min A qua [F A_(2]
+r0.5 .35 I'm .65 so proud
+=2' cro <d a-emph> qua. <D A-s2-s5> cro <C Dx F> qua rest qua. <Cnl Dx Fn>
+=2, cro <F#r A c> min. blank
+=3, cro rest qua. <c-s2,-s4, f> cro <B a> qua rest qua. <fnl ab>
+|
+=1' cro A_)2 rest qua rest [B_ D B]
+r0.5 .56 you chose me
+=2' cro <B_ Dx E> qua. <D Ex A> cro <C Fn Gx B> qua rest qua. <C#l D#lx A>
+=3 cro <e g> qua. <B, g> cro A qua rest qua. <fn b>
+/
+4 bars | 4 4 4 4 4 4 4 4 4 5 6.5 4 | 12 14 12 12 | 48 | 48 |
+|
+=1 qua A' cro F qua D cro A_ rest
+r0.5 .01 from all .37 the crowd
+=2' cro <B_ Cx D F> <B_ Cx D-.> <F_ A_-.> qua3 rest [<E B-I3> <Eb Bb>]
+=3 cro <f a> <c, f a> <F B' d'> qua3 rest [<f c~-I3,> <fn c~n>]
+|
+=1 cro rest qua [G_ D] F# cro E qua D(2
+r0.5 .25 there's no other .88 gal
+=2' cro <D A> qua [G_ B_] qua F# cro E qua <A_n B_x D>
+=2, min blank cro. A_# qua blank
+=3' cro blank <c e> cro. <F cn> qua blank
+=3, cro <e b> qua [Br G] cro. blank qua f(1
+|
+=1 cro D)2 qua rest E F cro A qua c(1
+r0.5 .37 I'd rather .88 be
+=2' cro rest <B_ E> qua <A_ D F> cro <B_ D A> qua <D Fx G# c>
+=3' cro blank f qua B' cro F qua E(2
+=3, qua [f)1 c] [d c] min blank
+|
+=1 cro c)1 rest qua rest B cro3 B qua3 A
+r0.5 .62 oh I could
+=2' min blank qua <G#l c#> cro <F# B> qua rest
+=2, qua rest [<B d> <c e>] rest min D
+=3' cro. rest' e smq rest'' qua. <B fnl ab>
+=3 smb E)2
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 qua E cro F D qua rest [B_ D]
+r0.5 .05 laugh out loud .75 I'm so
+=2' qua <B_ Dx E> cro. <C Ex F> cro <B_ D> <B_ D>
+=3' min blank cro g g
+=3, min <A g> e
+|
+=1 qua E cro F cro. D qua. [D smq D(2]
+r0.5 .01 lucky  .38 to .75 be .98 me
+=2' qua E cro. F cro <B_n D> qua [<B_b D> <A_ Cx D>]
+=2, min <B_brl D>
+=3, min <A g> cro <e g> qua [<A e g> <d f>]
+|
+=1 cro D)2 min. rest
+=2 cro. rest qua c# [e c] cro e
+=3 qua rest min. <a bx d~ f~#> qua <g#(2 b d~ f~n(1>
+|
+=1 smb blank
+=2 qua [d B] cro d qua [B c#(1] qua3 [c)1 B-I3 Bb]
+=3 cro. <g#)2 b d~ f~n)1> <gn b d~x e~> cro <fn a e~b>
+
+% start
+
+6 systems / 19-30-19 / 19-30-19  / 19-30-19 / 19-30-19 /
+pagenum
+innerhead Lucky To Be Me,  Gus Kahn / Walter Donaldson
+/
+2 bars | 16 |
+|
+Il0.6 .02 Solo
+=1  treble 2# cha2 smq rest [Fn-s1 F#-s2 A-s3] [B-s1 c# a d-s2] [fn-s4 f#-s5 G#, A,] [e-s5 d A#,-s2 B,-s1]
+=2, bass   2# cha3 cro <c~#x d~> qua. <f# c~#x d~> cro <c#, f# a> qua rest qua. <ab-s1,-s2,-s3,-s5, c~nx d~ f~n>
+|
+=1, smq [c# d-s3 e-s1 fn] [g a c~n b] [a eb c~#-s4 d~-s5] [d~#-s3 e~ f~# f~n]
+=2  cro <g-s1,-s2,-s4,-s5, b d~x e~> qua. <Bb, g> cro <A, g> qua rest qua. <b c~#x f~n>
+|
+=1 smq [e~ d~ g# a] [a# b d e] [fn f# B c#] qua3 [d g#-I3 a]
+=2 cro <c~#x d~ f~#> <f# c~#x d~> <c#, f# a> qua3 rest [<c~# e~-I3> <c~nl e~n>]
+|
+=1  smq rest' [c~# c~n e] [b bb d a] [g# c# e d#] [G# d' c#' F#]
+=2  cro <b d~> <e(2 g> cro. <e)2 f#x a#> qua <e c~n>
+
+|
+=1 smq [Fn G A Bb'] [cn d e fn] [a g f# g] [c~n bb a g]
+=2, qua rest <e bb> [<f# a> <a#l c~#>] <bn d~> cro <anx b d~x e~> qua <g# b d~ f~#>
+|
+=1, qua3 [f# a-I3 <B b>] qua [<c# c~#> <d d~>] [<f# f~#> <e e~>] qua3 [d~ ab-I3 fn]
+% =2, qua rest <G# d> cro <A e> qua <G#l c#> cro. <A d>
+=2, qua rest <g# d~ f~#> cro <a d~ f~> min <g# d~ f~#>
+|
+=1 smq rest' [e d A#,] [B rest' g f#] [c# d rest'' b] [a# fn qua f#]
+=2, min <g bb d~x e~> cro <e g bn d~> qua [<fn ab c~nx d~> <f#l an c~#x d~>]
+# XXX
+|
+=1  smq [a qua. a~] cro <A_ B_x> \
+ qua3 [<c~# e~> <bb d~-I3> <g c~#>] cro rest
+=2, qua rest cro <A f> <A f> qua <G# fn> [f# <e(2 f#x a c~#(1>]
+|
+=1, smq rest [C# D E(2] [E)2 qua. E] 16 [F# G# 8 A] [A 16 e A]
+=2 cro. <e)2 f#x a c~#)1> <c#l e f#x c~#> cro <f# a c~#>
+|
+=1 qua [c# d] 16 [fn f#] 8 rest cro. blank qua <B_b(2 D(4 G(1>
+=2 qua <a bx f~n> cro. <a bx f~#>  qua3 rest [e'-.-I3, B-.] cro F#
+|
+=1  qua <B_b)2 D)4 G)1> cro G# min <B_ D Fnxl G#l> qua <B_nxl(2 C#l E G#(1>
+=2' qua3 rest [d-.-I3, B-.] cro Fn qua3 rest [c'-.,-I3 G-.,] cro E
+|
+=1  qua <B_x)2 C# E G#)1> cro A min <C#l E G# Ax> qua rest
+=2 qua3 rest [cn'-.,-I3 Fn-.,] cro B_ qua3 rest [Bb'-.,-I3 E-.,] cro F_#
+
+5 systems / 19-30-19 / 19-30-19  / 19 30 19-30-19 / 19 30 19-30-19 /
+pagenum
+innerhead Lucky To Be Me,  Gus Kahn / Walter Donaldson
+|
+=1  smq rest [B' A E] [B' A# F# d'] [c# B f# fn] [e b bb a]
+=2 cro <cxr, d f# a> <d f#l a#> <d#l f#xl g#l b> <e gnxl anl c~n>
+|
+# YYY
+=1  83 [d~ c~n-I3 g] 2. blank
+=2, cro. <frr abxl bbl d~bl> min <f#l anxl bnl d~nl> qua rest
+|
+=1' smb blank
+=1, min blank cro3 Fn F#-I3, G
+=2, cro <f# a c~nl e~b> <f# a c~#l e~n> min <a bx d~>
+|
+=1' cro blank blank cro. blank qua <fn d~>
+=1, min.. blank qua <A Bx d>
+=2 min <c~nrr f~#xl g~#l> cro. <b f~n a~> qua rest
+
+/
+4 bars | 16 |
+|
+=1  treble 0 cha1 leg90 cro rest min c qua [A C(2]
+r0.5 .25 I'm .65 so proud
+=2' treble 0 cha2 leg98 \
+ cro <f c~> qua. <F c>  cro <E Fx A> qua rest qua. <Ebl Fx Ab>
+=2, 0 cro <Ar c e> min. blank
+=3  bass   0 cha3 leg98 \
+ cro rest   qua. <e a c~> cro <d c~> qua rest qua. <g# b>
+|
+=1' cro C)2 rest qua rest [D F d]
+r0.5 .56 you chose me
+=2' cro <D Fx G> qua. <F Gx c> cro <E G#l Bb d> qua rest qua. <Ex F# c>
+=3  cro <g bb> qua. <d bb> cro c qua rest qua. ab
+|
+=1 qua c cro A qua F cro C rest
+r0.5 .01 from all .37 the crowd
+=2' cro <D Ex A> <D F-.> C-.  qua3 rest [<G d-I3>  <F# c#>]
+=3  cro <an c~>    <e a c~>  <d f a> qua3 rest [<e a-I3> <d# g#>]
+|
+=1 cro rest qua [B_b F] A cro G qua F(2
+r0.5 .25 there's no other .88 gal
+=2' qua c cro Bb qua D A cro G qua <Cx(2 Dn F(1>
+=2, cro <C F> blank cro. <C#xlr D#l> qua blank
+=3' cro blank <e g> cro. <A e g> qua blank
+=3, cro <d g bb> qua [dr Bb] cro. blank qua a(1
+|
+=1 cro F)2 qua rest G A cro c qua e(1
+r0.5 .37 I'd rather .88 be
+=2' cro <Cx)2 Dn F)1> <D G> qua <C F A> cro <D F c> qua <F A Bx e>
+=3' cro blank a min blank
+=3  qua [a)1 e] [f e] d' cro A qua G(2
+|
+=1 cro e)1 rest qua rest d cro3 d qua3 c
+r0.5 .62 oh I could
+=2' qua rest <D F> <E G> rest rest cro. <F Gx d>
+=3' cro. rest' <f b e~> smq rest qua. <d g# b>
+=3 smb G)2
+|
+=1 qua G cro A F qua rest [D F]
+r0.5 .01 laugh out loud .75 I'm so
+=2' qua <D Fx G> cro. <E Gx A> min F
+=2, min blank cro D D
+=3, min <c bb> <g bb>
+|
+=1 qua G cro A cro. F qua. [F smq F(2]
+r0.5 .01 lucky  .38 to .75 be .89 me
+=2 min <Db Fx G> cro <Dn F> qua [<Db F> <C(2 Ex F(1>]
+=3, min <c bb> cro <g bb> qua [<c g bb> <f(2 a(1>]
+|
+=1 cro F)2 min. rest
+=2, min <C)2 Ex F)1> qua rest <A c> [<c f> <c(2 e(1>]
+=3  min <f)2 a)1> treble qua rest G [<F#l G#xl> <Fnl(2 Gnxl A(1>]
+|
+=2' cro rest''' min. d~
+=2 min. <c)2 e)1> cro rest
+=3 min. <F)2 Gx A)1> cro rest
+@
+
+
+1.6
+log
+@solo with repeats sketched out
+@
+text
+@d212 1
+a212 1
+=2  qua <B_b)2 D)4 G)1> cro G# min <B_ D Fnxl G#l> qua <B_x(2 C# E G#(1>
+d331 1
+a331 1
+=1 smq rest' [e d A#,] B qua. blank min blank
+a332 32
+|
+=1' cro rest qua3 rest [c-I3 d] qua [B c] [Bb cn]
+=1, cro blank qua3 blank cro3 <F A> cro G <E G>
+=2' cro rest'' qua3 rest'' [b c~] cro d~ qua [c~ g]
+=2, qua rest, min.. A
+
+% stop
+
+|
+=1 cro3 <C Dx A'> <B_ D F-I3> <F_(2 A_(1> qua <F_)2 A_)1> cro <G_ B_b> qua <F_x G_l B_n>
+=2 cro3 f c-I3 <B(2 d'(1> qua <B)2 d')1> cro <Fn d'> qua <E B' d'>
+|
+=1' cro rest qua. <D Ex G> cro. <C#l Fn Gx B> qua. <C#l D#lx A>
+=2 cro rest qua. <B, g> cro. A qua. <fn a>
+|
+=1' cro <C Dx F> qua. <B_ Cx D> cro A_ smq rest qua3 rest [<E B-s1-s5> <Eb Bb-s2-s4>]
+=2, cro <f b> qua. <c f a> cro <B d f> smq rest qua3 rest [<c f a> <cn fn g>]
+|
+=1' cro <D A> qua3 [G_ B_ <Cn(2 F(1>] cro <C)2 F)1> <B_b E-s2-s4>
+=2' cro blank <cx e> e blank
+=2, cro <B e g> qua [B G] cro F <cn e>
+
+|
+=1' cro <A_ D> qua. <B_ F> cro <D A> smq rest qua [<F c> <F B>]
+=2, cro <B f> qua. <d a> cro <f c~> smq rest qua [<a d~> <g# d~>]
+|
+=1, qua rest <F B d> cro <G# c e> qua <E G c> cro. <D F B>
+=2 min.. E qua A(2
+|
+=1 qua <B_ Dx E> cro. <B_ D F> cro <B_ D> qua [<G_ B_ D> <A_ B_x(2 D(1>]
+=2' min <e g> cro <e g> qua [fn f#]
+=2, min A)2 A
+d335 3
+a337 2
+=1 cro <B_)2 D)1> <A_ B_x> qua3 rest [<C E-I3> <B_ D>] cro <A_ C>
+=2, qua rest cro <A f> qua <A f> cro. <G# fn> qua C(2
+d339 2
+a340 2
+=1 min <E_ F_x A_ C> qua rest cro. <A_ B_x C E>
+=2' cro. C)2 min F qua B(2
+d342 2
+a343 2
+=1 qua <A_ D Fn> cro <A_ D F#> min <A_ D F> qua rest
+=2 smb B)2
+d345 1
+a345 1
+=1  qua <B_b)2 D)4 G)1> cro G# min <B_ D Fnxl G#l> qua <B_x(2 C# E G#(1>
+d349 5
+a353 1
+=2 qua3 rest [cn'-.,-I3 Fn-.,] cro B_ qua3 rest [Bb'-.,-I3 E-.,] cro A_
+d355 2
+a356 2
+=1  cro <F_# A_> <F_#l A_#> <F_# B_> <G_ Cn>
+=2' cro <c# dx> <G d> <G# d#> <A e>
+d358 11
+a368 12
+=1 cro <A_b Db> <Abl, Bbxl fn> <A_nl Dn> <Anl, dnl f#>
+=2' cro <Bb f> rest <Bnl f#> rest
+|
+=1, min blank min3 B_ cro3 Cn
+=2, cro <cnlr f#> <c#l f#> min3 <d a> cro3 <d# a>
+|
+=1, min Cn cro. blank qua blank
+# qua <Fnl Ax B>
+=2  min <d#rl f# a> cro. <e g b> qua rest
+=1' min.. blank qua <f d~>
+=1, min.. blank qua <A cx d>
+
+a369 3
+5 systems / 19 35 19-30-19 / 19 35 19-30-19  / 19 45 19-30-19 / 19 35 19-30-19 /
+pagenum
+innerhead Lucky To Be Me,  Gus Kahn / Walter Donaldson
+d384 1
+a384 1
+=3  cro <g bb> qua. <d bb> cro c qua rest qua. <ab d~>
+d388 2
+a389 2
+=2' cro <D Ex F A> <D Ex F-.> <A_ C-.>  qua3 rest [<D G-I3>    <C# F#>]
+=3  cro <an c~>    <e an c~>  <A d' f'> qua3 rest [<e a c~-I3> <d# g# b>]
+d393 2
+a394 2
+=2' cro <C F> qua [B_b D] qua A cro G qua <Cx Dn F>
+=2, min blank cro. <C#xlr D#l> qua blank
+d400 1
+a400 1
+=2' cro rest <D G> qua <C F A> cro <D F c> qua <F A Bx e>
+d418 2
+a419 2
+=2 min <Db Fx G> cro <Dn F> qua [<Db F> <C Ex F>]
+=3, min <c bb> cro <g bb> qua [<c g bb> <f a>]
+d422 2
+a423 2
+=2 min rest qua rest c [f e(1]
+=3 smb blank
+d425 3
+a427 1
+=2 min. e)1 cro rest
+@
+
+
+1.5
+log
+@beginnings of Solo
+@
+text
+@d190 1
+d311 2
+a312 2
+=1  treble 2# cha2 smq rest [Fn F# A] [B c# a e] [ab g d d#] [e d A#, B,]
+=2, bass   2# cha3 cro <c~#x d~> qua. <f# c~#x d~> cro <c#, f# a> qua rest qua. <ab-s1,-s2,-s3,-s5, c~ d~x f~n>
+d314 2
+a315 2
+=1, smq [c# d e fn] [c~# e c~n b] [a fn c~# d~] [d~# e~ f~n f~#]
+=2  cro <g-s1,-s2,-s4,-s5, b d~x e~> qua. <Bb, g> cro <A, g> qua rest qua. <b c~#x f~>
+d317 1
+a317 1
+=1 smq [e~ d~ g# a] [a# b an B] [e g# eb gn] [d fn f# g]
+d320 2
+a321 3
+=1' 
+=2' cro blank <c e> cro. <F c e> qua blank
+=2, cro <b d~> qua [Br G] cro. blank qua <cn e>
+d324 2
+a325 2
+=1 qua rest <B_b E-s2-s4> [<A_ D> <B_n F>] <D, A> cro <F, c> qua <F, B>
+=2, qua rest <cn-s3,-s4, e> [<B f> <d a>] <f c~> cro <a d~> qua <g# d~>
+d327 1
+a327 1
+=1, qua rest <B b> cro <c c~> qua <Bb bb> cro. <Bn bn>
+d329 1
+a329 1
+=2, qua rest <g# d~ f~#> cro <a d~ f~> qua <g d~ f~n> cro. <g# d~ f~#>
+d331 2
+a332 2
+=1 min <B_b Dx E> cro <B_n D> qua [<B_b D> <A_ Cx D>]
+=2, min <A g> cro <e g> qua [<A e g> <d f>]
+d365 1
+d376 1
+d379 1
+d382 2
+d385 2
+a386 2
+=1 smb blank
+=2 smb blank
+d388 2
+d391 3
+@
+
+
+1.4
+log
+@fill in some gaps on 3rd page
+@
+text
+@d8 3
+d65 1
+a65 1
+=3, 4/4 min <e-s5,-s1, a> <f b-s2,-s5,>
+d71 1
+a71 1
+=3, min <g c~n> qua [fn c~r bb a]
+d76 1
+a76 1
+=3, min <bb d~> cro d-s3, <cn a>
+d94 1
+a94 1
+=3' cro blank min e cro <fn b>
+d97 1
+d146 1
+a146 1
+=3' cro rest'' qua3 rest'' [b c~] cro d~ qua [c~ g]
+d151 1
+a151 1
+=2 cro3 <C Dx A'> <B_ D F-I3> A_(1 qua A_)1 cro <G_#rl A_#xl> qua <G_ B_n>
+d186 1
+a186 1
+=2 qua E cro. F cro <B_ D> qua [<G_# B_ D> <A_ B_x(2 D(1>]
+d188 1
+a188 1
+=3' min <e g> cro <e g> qua [fn f#]
+d226 1
+a226 1
+=2 cro <A_b Db> <Abl, Bbxl db f> <A_nl Dn> <Anl, Bnxl dnl f#>
+d239 1
+a239 1
+=3  min <e b> cro. <e g b> qua rest
+d242 2
+a243 2
+r0.5 .25 I'm .65 so proud
+=2' cro <d a-emph> qua. <D A> cro <C Dx F> qua rest qua. <Cnl Dx Fn>
+d245 1
+a245 1
+=3, cro rest qua. <c f> cro <B a> qua rest qua. <fnl ab>
+d251 2
+d256 2
+a257 2
+=2' cro <B_ Cx D F> <B_ Cx D-.> <F_ A_-.> qua3 rest [<B_ E-I3> <B_b D#>]
+=3 cro <f a> <c, f a> <F B' d'> qua3 rest [<c, f a-I3> <cn, fn g>]
+d261 1
+a261 1
+=2' cro <A_ D> qua [G_ B_] qua F# cro E qua <A_x B_ D>
+d264 1
+a264 1
+=3, cro <B e g> qua [Br G] cro. blank qua f(1
+d274 3
+a276 2
+=2' qua rest <B_ D> <C E> rest rest cro. <D Ex B>
+=3' cro. rest' <d g#l c~#> smq rest'' qua. <B fn gx>
+d278 2
+d283 3
+a285 3
+=2' qua <B_ Dx E> cro. <C Ex F> min D
+=2, min blank cro B_ B_
+=3, min <A g> <e g>
+d289 2
+a290 1
+=2 min <B_b Dx E> cro <B_n D> qua [<B_b D> <A_ Cx D>]
+d295 1
+a295 1
+=3 smb blank
+d299 3
+a301 1
+=3 smb blank
+d307 1
+a307 1
+4 bars | 16 |
+d309 3
+a311 3
+Il0.6 .20 Solo
+=1' treble 2# cha2 cro <C Dx A> qua. <B_ D F> cro C qua rest qua. <Cnl Dx Fn>
+=2, bass   2# cha3 cro <f b> qua. <c f a> cro <B a> qua rest qua. <fn ab>
+d313 2
+a314 2
+=1' cro <B_ Dx E> qua. <D Ex A> cro <C Fn Gx B> qua rest qua. <C#l D#lx A>
+=2  cro <e g> qua. <B, g> cro A qua rest qua. <fn b>
+d316 2
+a317 2
+=1' cro <B_ Cx D F> <B_ Cx D-.> <F_ A_-.> qua3 rest [<B_ E-I3> <B_b D#>]
+=2 cro <f a> <c, f a> <F B' d'> qua3 rest [<c, f a-I3> <cn, fn ab>]
+d319 1
+a319 1
+=1' cro <A_ D> qua [G_ B_] cro. <B_bl Cnxl F> qua <B_l C# E>
+d321 1
+a321 1
+=2, cro <B e g> qua [Br G] cro. blank qua <cn e>
+d339 2
+@
+
+
+1.3
+log
+@tiny tweaks on first 2 pages
+@
+text
+@d101 1
+a101 1
+=2' cro <B_ Dx E> qua. <D Ex A-s2-s4> cro <C# Fn Gx B> qua rest qua. <C# A>
+d199 1
+a199 1
+=2 qua <A_ C Fn> cro <A_ D F#> min <A_ B_x D F> qua <B_b D G>
+d207 1
+a207 1
+=2  cro. blank min <B_ D Fnxl G#l> qua <B_x C# E G#>
+d212 2
+a213 2
+=2  cro. blank min <C#l E G# Ax> qua rest
+=3 qua3 rest [cn'-.,-I3 Fn-.,] cro B_ qua3 rest [Bb'-.,-I3 E-.,] cro A_
+d217 2
+a218 2
+=2  smb blank
+=3 smb blank
+d220 1
+a220 1
+=1 qua C cro D D cro. rest
+d222 2
+a223 2
+=2 smb blank
+=3 smb blank
+d227 3
+a229 2
+=2 smb blank
+=3 smb blank
+d233 3
+a235 3
+=2' min.. blank qua <d b>
+=2, min.. blank qua <Fn Ax B>
+=3 smb blank
+d239 3
+a241 3
+=2' cro <d a> qua. <D A> cro <C Dx F> qua rest qua. <Cnl Dx Fn>
+=2, cro <Fr A c> min. blank
+=3, cro rest qua. <c f a> cro <B a> qua rest qua. <fnl ab>
+d255 3
+a257 3
+=2' cro <A_ D> qua [G_ B_] qua F cro E qua <A_x B_ D>
+=2, min blank cro. <B_blr Cnlx> qua blank
+=3' cro blank <c e> cro. <F c e> qua blank
+d269 1
+a269 1
+=3' cro. rest' <d ab c~> smq rest qua. <B fn g>
+d273 1
+a273 1
+r0.5 .01 laugh out loud .75 I'm so
+@
+
+
+1.2
+log
+@half of thunderstruck gap filled
+@
+text
+@d17 1
+a17 1
+=3  bass   cha3 2# leg98 smb <A d ex g>
+d24 3
+a26 3
+r0.4 .10 I used to think it might be
+=2 smb <B_ D>
+=3 smb <A f#>
+a28 1
+r0.4 .01 fun .25 to .37 be
+d32 1
+a32 1
+4 bars | 5/4 20 | 20 | 4/4 16 | 6/4 24 |
+d35 1
+a35 1
+r0.4 .01 anyone else .50 but me
+d37 1
+a37 1
+=3' 5/4 min <F d> qua rest min <E d> qua rest
+d40 2
+a41 2
+r0.4 .20 I thought that it might be a 
+=2' qua <Eb Bb> smb <D A> qua rest
+d46 1
+a46 1
+r0.4 .01 pleasant .37 thrill .87 to
+d51 1
+a51 1
+r0.5 .01 wake up as some other girl  .90 but
+d61 2
+a62 2
+=2' 4/4 min <Cn G> <D A-s1-s4>
+=3, 4/4 min <e a> <f b-s2,-s5,>
+d65 3
+a67 3
+r0.6 .01 changed my point of view .87 and now
+=2' min <D Ex B> qua [<D A> <G cn> <Fn A d> <E G c>]
+=3' min blank qua c~n cro. d~
+d71 3
+a73 3
+r0.55 .35 I wouldn't give a
+=2' min <Fn A> cro <Cn E G> <B_bl(4 D(2 F>
+=3, min <bb d~> cro d <cn a>
+d76 1
+a76 1
+r0.55 .01 dime .25 to be
+d84 2
+a85 2
+r0.4 .09 anyone  else .85 but
+=2 smb <Cnlr Dx Fn>
+d89 4
+a92 4
+r0.4 .01 me .75 Oh
+=2' cro <B_xr C#l F#> <F# A d> <D G B> <G Ax B>
+=3' cro blank min e cro fn
+=3, min. <A g> cro rest,,
+d96 2
+a97 2
+=2' cro <D A> qua. <B_ D> cro <C Dx F> qua rest qua. <D Fn>
+=3, cro <f# b> qua. <c f> cro <B a> qua rest qua. <fnl ab>
+d100 2
+a101 2
+r0.4 .09 Fortune smiled .75 and
+=2' cro <B_ Dx E> qua. <D Ex A> cro <C# Fn Gx B> qua rest qua. <C# A>
+d108 1
+a108 1
+4 bars | 16 |
+d112 2
+a113 2
+=2' cro <B_ Cx D F> <B_ Cx D-.> <F_ A_-.> qua3 rest [<B_ E-I3> <B_b Eb>]
+=3 cro <f a> <c, f a> <F B' d'> qua3 rest [<c, f-I3> <cn, fn>]
+d117 4
+a120 3
+=2' cro <A_ D> qua [G_ B_] cro. <B_bl Cnxl F> qua <B_l C# E>
+=3' cro blank e cro. <F c e> qua blank
+=3, cro <B e g> qua [c G] cro. blank qua <cn e>
+d130 3
+a132 1
+=3, qua rest <g# d~ f~#> cro <a d~ f~> qua <gn d~ f~n> cro. <g# d~ f~#>
+d135 2
+a136 2
+r0.5 .01 lucky .50 to .75 be .87 me
+=2 min <B_b Dx E> cro <B_n D> qua [<B_b D> <A_ Cx D>]
+d147 2
+a148 2
+=2 cro3 <C Dx A'> <B_ D F-I3> <F_(2 A_(1> qua <F_)2 A_)1> cro <G_ B_b> qua <F_x G_l B_n>
+=3 cro3 f c-I3 <B(2 d'(1> qua <B)2 d')1> cro <Fn d'> qua <E B' d'>
+d151 5
+a155 3
+r0.5 .12 suddenly .75 you
+=2' cro rest qua. <D Ex G> cro. <C Fn Gx B> qua. <C#l D#lx A>
+=3  cro rest qua. <B, g> cro. A qua. <fn a>
+d158 3
+a160 3
+r0.5 .01 came .50 in sight
+=2' cro <C Dx F> qua. <B_ Cx D> cro A_ smq rest qua3 rest [<E B-s1-s5> <Eb Bb-s2-s4>]
+=3, cro <f b> qua. <c f a> cro <B d f> smq rest qua3 rest [<c f> <cn fn>]
+d166 1
+a166 1
+=3, cro <B e g> qua [c G] cro F <cn e>
+d175 1
+a175 1
+=2, qua rest <F B d> cro <G# c e> qua <E G c> cro. <D F B>
+d177 2
+d181 3
+a183 3
+r0.5 .01 lucky .50 to .75 be me
+=2 qua Er cro. F cro <B_ D> qua [<G_ B_ D> <A_ B_x(2 D(1>]
+=2, min <B_ D> blank
+d190 1
+a190 1
+=3, qua rest cro <A f> qua <A f> cro. <G# fn> qua C(2
+d200 4
+a203 1
+=3 smb B)2
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d68 1
+a68 1
+=3' min blank qua c~ cro. d~
+d73 2
+a74 2
+=2' min <Fn A> cro <E G> <B_bl(4 D(2 F>
+=3, min <bb d~> cro <d c~n> <cn a>
+d102 1
+a102 1
+=2' cro <B_ Dx E> qua. <D Ex A> cro <C# Fn Gx B> qua rest qua. <D# A>
+d113 2
+a114 2
+=2' cro <B_ Cx D F> <B_ Cx D-.> <F_ A_-.> qua3 rest [<B_ E-I3> <B_b D#>]
+=3 cro <f a> <c, f a> <F B' d'> qua3 rest [<c, f a-I3> <cn, fn ab>]
+d156 1
+a156 1
+=3, cro <f b> qua. <c f a> cro <B d f> smq rest qua3 rest [<c f a> <cn fn g>]
+d176 2
+a177 1
+=2 qua <B_ Dx E> cro. <B_ D F> cro <B_ D> qua [<G_ B_ D> <A_ B_x(2 D(1>]
+d193 1
+a193 1
+=2 qua <A_ D Fn> cro <A_ D F#> min <A_ D F> qua rest
+d198 1
+a198 1
+=2  smb blank
+d203 1
+a203 1
+=2  smb blank
+@

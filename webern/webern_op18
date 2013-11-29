@@ -1,0 +1,58 @@
+3 systems  60 / 19 45 19-35-19 /19 45 19-35-19 / 19 50 19-45-19 25 /
+title Erlösung
+innerhead Anton Webern
+midi channel 1 patch 53 pan 80
+midi channel 2 patch 71 pan 20
+midi channel 3 patch 24 pan 50
+/
+3 bars | 2/2 35 | 48 | 48 |
+| 1.2
+=1 treble cha1 1 rest
+=2 treble cha2 16 rest leg95 vol110 [f#' vol50 A_ vol+10 Fn] vol+10 [G#, vol+10 en vol+15 gn vol+15 e~b]
+=3 treble8vab cha3 leg140 rest
+| 2.4
+i0.2 .6 Maria
+=1 2 rest 4 rest 8 rest vol115 g#-ten
+r0.7 .8 Mein
+=2 16 rest 4.. vol100 bb 16 rest 4.. An
+=3 23/// <B_nrl Dn'> 43 c#-. 23/// <Cnl F#> 43 fn-.
+|
+=1 4 g#-ten 8 rest B_b-emph 4 C#{2 An}2
+r0.7 .01 Kind , .37 sieh  an .75 die
+=2 4 rest 16 vol70 [Bn-. vol+10 B-. vol+10 B-. vol+10 B{'1] \
+ 8 c~n}1-. rest 4 g#(1
+=3 43 <Enrl Gn-emph> eb-I3-emph d~-emph 8 rest [f#-emph <Fn, en-emph> g-emph]
+
+/
+3 bars | 48 | 48 | 48 |
+|
+=1 23 bn{1 43 cn}1 8 [eb'{2 Dn}2] rest c~#-emph
+r0.7 .10 Brüste .50 mein, .85 kein
+=2 4 g#)1 8 rest An-.-emph 43 En-.-emph B_b-.-emph-I3 rest
+=3, 8 [<Eb, dn> bb-s4 c# <F#, fn>] [<G# gn> bn b <Cnl F#>]
+|
+=1 23 an{1 43 G#}1 4 rest 8 [Cn{2 f#'}2]
+r0.7 .06 Sünder .74 laß  ver  -
+=2 4 rest 8 rest gn-. [Eb,-. d~n c#-. a-.]
+=3 8 [<C, F#,-emph> f f{1 e~n}1] rest <B_n Bb'> rest <Fnx G# e'-.>
+| .66 .74 .84 .96
+=1 43 Gn bb-I3 An 2 rest
+r0.7 .02 loren .33 sein.
+=2 4 rest 8. rest 16 f~n-. [g#{1 en Gn, Eb,}1] 8 [B_n cn']
+=3' 8 rest [<Eb Bnl dn> <C# F# cn>] rest 43 rest rest-I3 <Dn Bbxl' c#l'>
+
+/
+2 bars | 48 | 48 |
+| 2.4
+i0.2 .01 Christus
+=1, 4 rest 8 [en{1 Fn}1] rest [eb{1 En}1 fn-ten]
+r0.5 .26 Mutter, .62 sieh .75 an .84 die
+i0.3 .02 a tempo...
+=2  4 rest 8 rest A_n-emph 83 [Bb-. B-I3 gn{1] [G#,}'1-. rest-I3 d~n-emph]
+=3 8 rest [F_# <Ebl Gb> g#'] [En <Cn F#l Bn' dn'-ten>] rest <B_bl C#xl An>
+|
+=1 23 Cn{'1 G#--I3 43 gn}1--. rest'
+r0.6 .01 Wun .25 - .40 - .65 den ,
+=2, 8 [bn-emph eb-emph En-emph fn-emph] 83 [d~n bn-I3 eb] 16 [En{1 G# fn d~}1]
+=3 83 rest [f#-I3 Gn,-.] rest rest-I3 <B_bxl C#l A-.>  \
+ 8 rest <f# c~n> 83 rest rest-I3 <B_bxl C#l A-.>

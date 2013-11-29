@@ -1,0 +1,27 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 5.6c
+.ce 100
+\f3\s+9\s+9\s+9Verklärte Nacht\s-9\s-9\s-9\fP
+.sp 2.6c
+\f3\s+9by Arnold Schoenberg\s0\fP
+.sp 3.5c
+\f2\s+7Arranged for piano\s0\fP
+.sp 1.6c
+\f3\s+2by Peter Billam\s0\fP
+.sp 1.6c
+\(co Peter J Billam, 2013
+.sp 0.7c
+\s-1This score may be freely photocopied, and redistributed
+in paper form.  It may be freely performed to live audiences;
+performing rights are waived.  It may not be redistributed in
+electronic form, and all other rights, such as those of recording
+and broadcast, remain reserved by the arranger, Peter Billam.
+.sp 0.6c
+\f2\s-2This edition \*(DY.\s0\fP
+.sp 0.2c
+\f2www.pjb.com.au\fP

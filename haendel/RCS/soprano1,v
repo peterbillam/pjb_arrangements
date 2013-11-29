@@ -1,0 +1,876 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	98.05.30.23.19.59;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Concerto Grosso op6no4, 1st Soprano part
+@
+
+
+1.1
+log
+@added cro rest in 62
+@
+text
+@11 systems /22/22/22/22/22/22/22/22/22/22/22-30-22/
+title Concerto Grosso Op 6 No 4
+lefthead George Frideric Haendel
+righthead 1st Soprano Recorder, 2nd Mvt
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+I0.1      Allegro
+=1 treble   4/4 cro rest min A cro G#
+|
+=1 cro A qua d[ B,] c,[ A,] cro f
+|
+I0.35             tr
+=1 cro e g# qua a[ e f d]
+|
+=1 qua e[ B, c A,] d[ B, e d]
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.4      5
+=1 treble qua c'[ B' A G] F#[ c' B' A']
+|
+=1 cro G c B e
+|
+=1 cro d# qua b[ f#] cro g qua a[ f]
+|
+=1 cro d# min e cro d
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble    qua e[ d] cro c B, b
+|
+il0.2      10
+=1 cro e f e d(1
+|
+=1 qua d)1[ e c d] B,[ f e d]
+|
+=1 qua c'[ B' A' G'] A'[ c' B' A']
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble  cro G# b c~ qua b[ a]
+|
+=1 cro g# min a cro g
+|
+il0.2      15
+=1 cro a e A rest
+|
+=1 cro. rest qua c B,[ d c B,]
+/
+4 bars | 4.4 | 1 1.3 1 1 | 1.3 1.3 1 1 | 2 1.8 |
+|
+=1 treble  qua e[ A,] cro e rest e
+|
+=1 cro rest qua g[ e] f#[ a g f]
+|
+=1 qua g[ e f# d#] e[ G,] cro A
+|
+il0.2      20
+=1 cro B rest min rest
+/
+4 bars | 4.4 | 4 | 1 1.3 1 1 | 4 |
+|
+=1 treble  smb rest
+|
+=1 cro rest min E cro D#
+|
+=1 cro E qua A[ F#] G[ E] cro c
+|
+=1 cro B, d# qua e[ b c~ a]
+/
+4 bars | 1.4 1.1 1.4 1.1 | 4 | 4 | 4 |
+|
+il0.5        25
+=1 treble qua b[ f# g e] a[ f# b a]
+|
+=1 qua g#[ e] min a cro gn(1
+|
+=1 cro g)1 min f cro e
+|
+=1 cro. d qua e c[ e d c]
+/
+4 bars | .55 .55 .55 .55 .55 .7 .55 1.3 | 4 | 2 1.7 | .9 1 1 1 |
+|
+I0.01                                     tr
+=1 treble cro B' A' qua D[ B'] qua. c#[ dsq B, c]
+|
+il0.3   30
+=1 cro d qua d~[ a] cro b c~(1
+|
+=1 cro c~)1 b min a
+|
+=1 cro. g qua a f[ e f g]
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble cro e d qua c[ e d c]
+|
+=1 qua B,[ d c B,] cro G f(1
+|
+il0.3     35
+=1 cro f)1 e min d
+|
+=1 cro e min f cro e
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble cro A rest min rest
+|
+=1 cro rest min d cro c#
+|
+=1 cro d qua g[ e] f[ d] cro bb
+|
+il0.5   40
+I0.7               tr
+=1 cro a c~# qua d~[ a bb g]
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble qua a[ e f d] g[ e a g]
+=2 treble qua a[ e f d] g[ e a g]
+|
+=1 qua f[ A,] min d cro c#
+=2 cro f rest min rest
+|
+=1 cro d min d~ cro c~#
+=2 cro rest min d~ cro c~#
+|
+=1 cro d~ qua F[ D] G[ E A G]
+=2 cro d~ rest min rest
+
+7 systems /22-30-22/22-30-22/22/22/22-30-22/22-30-22/22/
+pagenum 2
+innerhead 1st Soprano Recorder, 2nd Mvt Concerto Grosso in A Minor, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.4    45
+=1 treble   qua F[ D] cro A cro. B' qua B'
+=2 treble   cro rest qua c[ A,] d,[ B e d]
+|
+=1 cro E qua c[ A,] d[ B, e d]
+=2 cro c rest min rest
+|
+=1 qua c[ A,] min a cro g#
+=2 cro rest min a cro g#
+|
+=1 cro a qua d[ B,] c,[ A,] cro f
+=2 cro a rest min rest
+/
+4 bars | 4.4 | 1 1.3 1 1 | 4 | 1 1.3 1 1 |
+| 
+=1 treble min. e cro d
+=2 treble cro rest B, e d
+|
+il0.3  50
+=1 cro e qua b[ g#] a[ e f d]
+=2 cro e rest min rest
+|
+=1 qua e[ B, c A,] d[ B, e d]
+=2 smb rest
+|
+=1 qua c'[ A G# B'] cro E d(1
+=2 cro rest d c d(1
+/
+4 bars | 4.4 | 4 | 4 | 1 1 1 1.3 |
+|
+=1 treble cro d)1 c min B,
+|
+=1 cro A E F# G(2
+|
+il0.4   55
+=1 cro G)2 F# G# A(2
+|
+=1 cro A)2 G F qua E[ D#]
+/
+4 bars | 4.4 | 4 | 1.4 1 1 1 | 4 |
+|
+=1 treble cro. E qua F# cro F rest
+|
+=1 cro B' rest qua G[ E] cro B
+|
+=1 qua D#[ F#] min B' cro A(2
+|
+il0.3     60
+=1 cro A)2 min G cro F#
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble cro E min e cro d#
+=2 treble cro E rest min rest
+|
+=1 min g f#
+=2 cro rest B, c B,
+|
+=1 cro e qua a[ f#] g[ e] cro c~
+=2 cro e rest min rest
+|
+=1 min. b cro a
+=2 cro rest f# cro. e qua f
+/
+4 bars | 1.1 1.4 1.1 1.1 | 1 1.3 1 1 | 4 | 1 1.3 1 1 |
+|
+il0.5          65
+=1 treble cro b qua f#[ d#] e[ B, c A,]
+=2 treble cro d# rest rest qua c'[ A']
+|
+=1 cro B, qua f#[ d#] e[ B, c A,]
+=2 cro B' rest rest qua c'[ A']
+|
+=1 cro B, rest rest e
+=2 cro B' rest rest e
+|
+=1 cro d# qua b[ f#] g[ e] cro a(1
+=2 cro d# qua b[ f#] g[ e] cro a(1
+/
+4 bars | 4.4 | 4 | 1 1 1 1.3 | 4 |
+|
+=1 treble cro a)1 g min f#
+|
+il0.3   70
+=1 cro B, min e cro d#
+|
+=1 cro. e qua dn c'[ B' A G#]
+|
+=1 qua A[ E] cro A(2 qua A)2[ c' B' A]
+
+8 systems /21-30-21/21-30-21/21-30-21/21-30-21/21/21-30-21/21/21/
+pagenum 3
+innerhead 1st Soprano Recorder, 2nd Mvt Concerto Grosso in A Minor, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+4 bars | 1.4 1.1 1.1 1.1 | 4 | 4 | 4 |
+|
+=1 treble   qua G[ F# G A] cro. F qua E
+=2 treble   qua G[ F# G A] cro. F qua E
+|
+=1 cro E g qua f[ e f g]
+=2 cro E rest min rest
+|
+il0.4    75
+=1 cro e min c~ cro b
+=2 smb rest
+|
+=1 cro c~ g min e
+=2 min rest cro rest e
+/
+5 bars | 3.8 | 3.5 | 3.5 | 1.8 2 | 3.7 |
+|
+=1 treble min c f
+=2 treble cro rest c rest f
+|
+=1 min d g
+=2 cro rest d rest g
+|
+=1 min e a
+=2 cro rest e rest a
+|
+il0.3  80
+=1 cro. g qua g f[ e f g]
+=2 cro rest g qua f[ e f g]
+|
+=1 cro e d G c
+=2 cro e d G c
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 treble cro B, min c cro B,
+=2 treble cro B, min c cro B,
+|
+=1 cro c rest min rest
+=2 cro c rest min rest
+|
+=1 cro rest min d cro c#
+=2 smb rest
+|
+il0.4    85
+=1 cro d min A cro G#
+=2 cro rest min A cro G#
+|
+=1 cro A min e cro d
+=2 cro A min e cro d
+| 
+=1 cro e min a cro g#
+=2 cro e rest min rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble cro a min gn cro f#
+=2 treble cro rest min gn cro f#
+|
+=1 cro g e fn d
+=2 cro g e fn d
+|
+il0.4    90
+=1 cro e min A cro B'(2
+=2 cro e A rest B'
+|
+=1 cro B')2  min c cro d(1
+=2 cro rest c rest d(1
+|
+=1 cro d)1 c# min f
+=2 cro d)1 c# min f
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble cro e min a cro g#
+|
+=1 cro. a qua gn f[ e d c#]
+|
+il0.3   95
+=1 qua d[ A,] cro d(1 qua d)1[ f e d]
+|
+=1 qua c[ B, c d] cro. B' qua A
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble cro A qua d[ B,] c[ A,] cro f
+=2 treble cro A rest rest f
+|
+=1 cro e qua f[ d] cro e a
+=2 cro e rest rest a
+|
+=1 cro g# qua b[ g#] a[ e f d]
+=2 cro g# rest rest f
+|
+il0.4    100
+=1 cro e rest rest A
+=2 cro e rest rest A
+/
+4 bars | 1.1 1.4 1.1 1.1 | 1 1 1.3 1 | 3.5 | 4 |
+|
+=1 treble cro G# qua b[ g#] a[ e f d]
+|
+=1 qua e[ B, c A,] B'[ F# G# A]
+|
+=1 cro G# min A cro G#
+|
+=1 cro A qua d[ B,] c[ A,] cro f
+/
+5 bars | 4.4 | 4 | 1 1.4 0.8 1 | 2 1.7 | 2.5 ||
+|
+il0.4    105
+=1 treble cro e g# qua a[ e f d]
+|
+=1 qua e[ B, c d] cro. B' qua A
+|
+=1 cro A qua rest A cro. d qua d
+|
+=1 cro d qua c[ B,] cro. B qua A
+|
+=1 smb A
+
+8 systems /22/22/22/22/22/22/22/22/
+pagenum 4
+title III
+innerhead Soprano Recorders,  Concerto Grosso Op 6 No 4,  Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+5 bars | 4 | 4 | 4 | 4 | 5 |
+|
+=1 treble 3/2 smb. rest
+I0.3      Largo, e piano.
+|
+=1 min rest g c
+|
+=1 min. A cro Bb min c(1
+|
+=1 min c)1 smb Bb(2
+|
+il0.2               5
+=1 cro B')2 Bn' A A A B
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble smb G min rest
+|
+=1 min rest d g
+|
+=1 min. e cro f min g(1
+|
+=1 min g)1 smb f(1
+|
+il0.6    10
+=1 min f)1 e d
+/
+5 bars | 5.4 | 4 | 4 | 4 | 2 2.5 |
+|
+=1 treble cro e f min e cro. d(1 qua c)1
+|
+=1 min c rest rest
+|
+=1 smb. G(2
+|
+=1 min G)2 F E
+|
+il0.6     15
+=1 min D min. d cro e
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 treble min c# rest rest
+|
+=1 min rest e a
+|
+=1 min. f cro g min a(1
+|
+=1 min a)1 g f
+|
+il0.7      20
+=1 min. e cro f min g(1
+/
+4 bars | 4.4 | 4 | 4 | 5 |
+|
+=1 treble min g)1 f eb
+|
+=1 min. d cro e min f
+|
+=1 smb. c(1
+|
+=1 min. c)1 cro Bb' min A
+/
+5 bars | 4.8 | 3.7 | 3 | 3 | 3 |
+|
+il0.5  25
+=1 treble smb Bb' min A
+|
+=1 min Bb smb bb(1
+|
+=1 min b)1 smb a(1
+|
+=1 min a)1 smb g(1
+|
+=1 min g)1 smb f
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.5    30
+=1 treble min e rest rest
+|
+=1 cro C D E F G E
+|
+=1 cro A Bb' c d eb f
+|
+=1 cro d en f g a bb
+/
+5 bars | 4.4 | 4 | 4 | 4 | 3 ||
+|
+=1 treble min bb cro rest g min a
+I0.2       f
+|
+il0.6      35
+=1 cro g f min. e cro f
+|
+=1 smb f min c
+I0.2                    f
+|
+I0.2              tr
+=1 min rest min. B cro c
+I0.2            p
+|
+=1 smb c
+
+9 systems /22/22/22/22-30-22/22-30-22/22-30-22/22-30-22/22/22/
+title IV
+lefthead 1st Soprano Recorder
+righthead Concerto Grosso Op 6 No 4, George Frideric Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+I0.1      Allegro
+=1 treble   3/4 cro rest qua rest c'[ B' A]
+|
+=1 smq G#[(2 A qua B')2] rest d[ c B,]
+|
+=1 smq A[(2 B' qua c')2] rest e[ d c]
+|
+=1 smq B,[(1 c d e)1] qua f[ c B, A,]
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.4    5
+=1 treble cro G# qua rest e[ f(1 e)1]
+|
+=1 qua g[ e] rest e[ a c#]
+|
+=1 smq d[ e qua f] rest d[ e(1 d)1]
+|
+=1 qua f[ d] rest d[ g B,]
+|
+=1 smq c[(1 d qua e)1] rest A[ Bb'(2 A)2]
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.5       10
+=1 treble qua c'[ A] rest A[ Bb'(2 A)2]
+|
+=1 qua e[ A,] rest A[ Bb'(2 A)2]
+|
+=1 qua f[ e] rest c~[ e d#]
+|
+=1 smq e[ f# g# a] qua b[ d c B,]
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble smq A,[ B, c d] qua e[ d c B,]
+=2 treble smq A,[ B, c d] qua e[ d c B,]
+|
+il0.3  15
+=1 cro A qua rest c'[ B' A]
+=2 cro A rest rest
+|
+=1 smq G#[ A qua B'] rest d[ c B,]
+=2 min. rest
+|
+=1 smq A[ B' qua c'] rest e[ d c]
+=2 min. rest
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble smq B,[(1 c d e)1] qua f[ c B, A,]
+=2 treble min. rest
+|
+=1 cro G#   qua rest c'[ B' A]
+=2 cro rest qua rest c'[ B' A]
+|
+il0.4    20
+=1 smq G#[ A qua B'] rest d[ c B,]
+=2 smq G#[ A qua B'] rest d[ c B,]
+|
+=1 smq A[ B' qua c'] rest e[ d c]
+=2 smq A[ B' qua c'] rest e[ d c]
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble smq B,[(1 c d e)1] qua f[ c B, A,]
+=2 treble smq B,[(1 c d e)1] qua f[ c B, A,]
+|
+=1 cro G# qua rest e[ f(1 e)1]
+=2 cro G# rest rest
+|
+=1 qua g[ e] rest e[ a c#]
+=2 min. rest
+|
+il0.4   25
+=1 smq d[ e qua f] rest d[ e(1 d)1]
+=2 min. rest
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 treble qua f[ d] rest d[ g B,]
+=2 treble min. rest
+|
+=1 smq c[(1 d qua e)1] rest e[ f(1 e)1]
+=2 cro rest   qua      rest e[ f(1 e)1]
+|
+=1 qua g[ e] rest e[ a c#]
+=2 qua g[ e] rest e[ a c#]
+|
+=1 smq d[ e qua f] rest d[ e(1 d)1]
+=2 smq d[ e qua f] rest d[ e(1 d)1]
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.4   30
+=1 treble qua f[ d] rest d[ g B,]
+|
+=1 smq c[(1 d qua e)1] rest c[ e c]
+I0.1                    p
+|
+=1 qua g[ c] rest c[ e c]
+|
+=1 qua g[ Bb,] rest B,[ e B,]
+|
+=1 qua g[ Bb,] rest B,[ g B,]
+/
+5 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.4    35
+=1 treble qua A[ A A A] smq A[(2 c' B' A)2]
+|
+=1 qua B[ B B B] smq B[,(1 d c B,)1]
+|
+=1 qua c[ c c c] smq c[(1 e d c)1]
+|
+=1 qua d[ d d d] smq d[(1 f e d)1]
+
+12 systems /22/22/22/22/22/22/22/22/22/22/22/22/22/
+pagenum 6
+innerhead 1st Soprano Recorder, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+4 bars | 6.6 | 6 | 6 | 6 |
+|
+=1 treble qua e[ c g(1 B,)1 c(1 G,)1]
+|
+il0.4   40
+=1 qua A,[ f] cro e qua. d[ smq c]
+|
+=1 cro c qua rest g[ a(1 g)1]
+I0.1                  f
+|
+=1 qua bb[ g] rest g[ c~ e]
+/
+4 bars | 6.6 | 6 | 6 | 6 |
+|
+=1 treble smq f[(1 g qua a)1] rest a[ bn(1 a)1]
+|
+=1 qua c~[ a] rest a[ d~ f#]
+|
+il0.3            45
+=1 smq g[(1 a qua b)1] rest G[ A G]
+|
+=1 qua B'[ G c' G d' G]
+/
+5 bars | 6.6 | 6 | 6 | 6 | 6 |
+|
+=1 treble qua e[ c f c g c]
+|
+=1 qua a[ c g c f c]
+|
+=1 qua e[ c g B, c G,]
+|
+il0.3   50
+=1 qua A,[ f] cro e qua. d[ smq c]
+|
+=1 cro c qua rest c~[ b a]
+/
+4 bars | 4.1 2.2 2.2 | 6 | 3.9 2 2 | 6 |
+|
+=1 treble smq e[(1 f# g# a)1] qua b[ d c B,]
+|
+=1 cro E qua rest c~[ b a]
+|
+=1 smq e[(1 f# g# a)1] qua b[ d c B,]
+|
+il0.4            55
+=1 qua c'[ B' A G F# E]
+/
+4 bars | 3.9 2.2 2.2 | 6 | 1.9 1 1 1 1 1 | 1.9 1 1 1 1 1 |
+|
+=1 treble smq B,[(1 c# d# e)1] qua f#[ A, G, F#,]
+|
+=1 cro G qua rest g[ f# e]
+|
+=1 smq d#[(1 e qua f#)1] rest a[ g f]
+|
+=1 smq e[(1 f# qua g)1] rest G[ F# E]
+/
+4 bars | 3.8 2.2 2.2 | 3.4 2 2 | 2.5 2 2 | 6 |
+|
+il0.4     60
+=1 treble smq D#[(2 E qua F#)2] rest A[ G F]
+|
+=1 smq E[(2 F# qua G)2] rest B'[ A G]
+|
+=1 smq F#[ G A B'] qua c'[ G F E]
+|
+=1 cro D# qua rest B,[ c(1 B,)1]
+/
+5 bars | 6.6 | 1.6 1 1 1 1 1 | 6 | 1.8 1 .9 .9 .9 .9 | 4 |
+|
+=1 treble qua d[ B,] rest B'[ e' G#']
+|
+il0.4            65
+=1 smq A[(2 B' qua c')2] rest A[ B'(2 A)2]
+|
+=1 qua c'[ A] rest A[ d' F#]
+|
+=1 smq G[ A qua B'] min b(1
+|
+=1 min. b)1
+/
+4 bars | 6 | 6 | 3.8 1.8 1.5 | 3.8 2 2 |
+|
+=1 treble cro e min c~(1
+|
+il0.4              70
+=1 qua c~)1[ c~ b a g f#]
+|
+=1 qua g[ f#] cro e rest
+|
+=1 smq e[ f# g a] qua b[ e c~ a]
+/
+5 bars | 6.6 | 6 | 6 | 6 | 6 |
+|
+=1 treble qua b[ e] cro rest rest
+|
+=1 cro rest qua rest e[ f e]
+|
+il0.3   75
+=1 qua g[ e] cro rest rest
+|
+=1 cro rest qua rest e[ f e]
+|
+=1 qua b[ e] cro rest rest
+/
+5 bars | 6.6 | 6 | 6 | 6 | 6 |
+|
+=1 treble cro rest qua rest e[ f e]
+|
+=1 cro. c~ qua b[ b a#]
+|
+il0.4       80
+=1 cro. b qua an[ a g#]
+|
+=1 qua a[ c~ b d~ c~ b]
+|
+=1 qua c~[ b a g f# e]
+/
+4 bars | 6.6 | 6 | 6 | 6 |
+|
+=1 treble cro d# qua rest a cro g
+|
+=1 qua f#[ e] cro. d# qua e
+|
+il0.3    85
+=1 cro e qua rest e[ f(1 e)1]
+|
+=1 qua g[ e] rest e[ a c#]
+/
+4 bars | 6.6 | 6 | 2 1.7 1.7 | 1.7 2 2 |
+|
+=1 treble smq d[ e qua f] rest d[ e(1 d)1]
+|
+=1 qua f[ d] rest d[ g B,]
+|
+=1 smq c[ d qua e] cro rest rest
+|
+il0.3   90
+=1 cro rest qua rest a[ bb a]
+
+8 systems /22/22-30-22/22-30-22/22-30-22/22/22/22/22/
+pagenum 7
+innerhead 1st Soprano Recorder, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+5 bars | 6.6 | 6 | 6 | 5 | 5 |
+|
+=1 treble qua c~[ a] cro rest rest
+|
+=1 cro rest qua rest e[ f e]
+|
+=1 qua a[ e] rest a[ bb a]
+|
+=1 min. c~(1
+|
+il0.2           95
+=1 min. c~)1(1
+/
+4 bars | 7.6 | 6 | 6 | 6 |
+|
+=1 treble smq. c~)1[ smq bb qua. b smq a qua. a smq g#]
+=2 treble smq. c~)1[ smq bb qua. b smq a qua. a smq g#]
+|
+=1 cro. g# qua g# cro a(1
+=2 cro. g# qua g# cro a(1
+|
+=1 qua a)1[ b] cro. g# qua a
+=2 qua a)1[ b] cro. g# qua a
+|
+=1 cro a qua rest c'[ B' A]
+i0.8       Solo . . .
+=2 cro a rest rest
+/
+5 bars | 1.4 1 1 1 1 1 | 1.3 .9 .9 .9 .9 .9 | 1.3 .9 .9 .9 .9 .9 | 1.3 .9 .9 .9 .9 .9 | 1.3 .9 .9 .9 .9 .9 |
+|
+il0.4    100
+=1 treble smq G#[(2 A qua B')2] rest d[ c B,]
+=2 treble min. rest
+|
+=1 smq A,[(1 B, qua c)1] rest e[ d c]
+=2 min. rest
+|
+=1 smq B,[(1 c qua d)1] rest f[ e d]
+=2 min. rest
+|
+=1 smq c#[(1 d qua e)1] rest f[ e d]
+=2 min. A
+I0.1     pp
+|
+=1 smq c#[(1 d qua e)1] rest bb[ a g]
+=2 min. Bb
+/
+5 bars | 1.4 1 1 1 1 1 | 1.3 .9 .9 .9 .9 .9 | 1.3 .9 .9 .9 .9 .9 | 1.3 .9 .9 .9 .9 .9 | 1.3 .9 .9 .9 .9 .9 |
+|
+il0.4   105
+=1 treble smq f[(1 e qua d)1] rest bb[ a g]
+=2 treble min. A(2
+|
+=1 smq f#[(1 g qua a)1] rest a[ g f]
+=2 min. A)2
+|
+=1 smq g[(1 a qua b)1] rest c~[ b a]
+=2 min. d
+|
+=1 smq g#[(1 a qua b)1] rest b[ a g]
+=2 min. Bn
+|
+=1 smq a[ b qua c~] rest A[ Bb'(2 A)2]
+=2 cro c qua rest A[ Bb'(2 A)2]
+/
+4 bars | 6.6 | 6 | 6 | 6 |
+|
+il0.3   110
+=1 treble qua c'[ A] rest  a[ bb(1 a)1]
+|
+=1 qua c~[ a] rest A[ Bb'(2 A)2]
+|
+=1 qua e[ A,] rest e[ f(1 e)1]
+|
+=1 qua a[ e] rest e[ a e]
+I0.1                 f
+/
+4 bars | 6.6 | 6 | 6 | 6 |
+|
+=1 treble qua f[ e d c B, A,]
+|
+il0.3   115
+=1  qua G#,[ e B, d c a]
+|
+=1 qua b[ c~] cro. g# qua a
+|
+=1 cro a qua rest E[ F(2 E)2]
+I0.1              pp
+/
+4 bars | 6.6 | 6 | 6 | 6 |
+|
+=1 treble qua A[ E] rest e[ f(1 e)1]
+|
+=1 qua a[ e] rest A[ Bb'(2 A)2]
+|
+il0.4         120
+=1 qua c'[ A] rest a[ bb a]
+|
+=1 qua c~[ a] rest e[ a g]
+I0.1              f
+/
+4 bars | 6.6 | 6 | 6 | 4.5 ||
+|
+=1 treble qua f[ e d c B, A,]
+|
+=1 cro. G# qua f cro e
+|
+=1 qua d[ c] cro. B' qua A
+|
+il0.3   125
+=1 min. A
+@

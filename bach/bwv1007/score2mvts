@@ -1,0 +1,46 @@
+#! /usr/bin/perl
+$infile = 'bwv1007';
+$mvt1   = 'mvt1';
+$mvt2   = 'mvt2';
+$mvt3   = 'mvt3';
+if (! open (I, $infile)) { die "can't open $infile: $!\n"; }
+
+print STDERR "score: mvt1 ";
+if (! open (M1, "> $mvt1")) { die "can't open $mvt1: $!\n"; }
+while (<I>) {
+	if (/endmvt1/) { last; }
+	# next if /^=1/;
+	print M1 $_;
+}
+close M1;
+
+print STDERR "mvt2 ";
+if (! open (M2, "> $mvt2")) { die "can't open $mvt2: $!\n"; }
+while (<I>) {
+	if (/endmvt2/) { last; }
+	# next if /^=1/;
+	print M2 $_;
+}
+close M2;
+
+print STDERR "mvt3 ";
+if (! open (M3, "> $mvt3")) { die "can't open $mvt3: $!\n"; }
+my $on = 1;
+while (<I>) {
+	if (/endmvt3/) { last; }
+	if (/ 1a /) { $on = 0; }
+	if (/ 2a /) { $on = 1; }
+	# next if /^=1/;
+	if ($on) { print M3 $_; }
+}
+close M3;
+
+close I;
+print STDERR "\n midi: mvt1 ";
+system "/home/pbin/muscript -midi $mvt1 > $mvt1.mid";
+print STDERR "mvt2 ";
+system "/home/pbin/muscript -midi $mvt2 > $mvt2.mid";
+print STDERR "mvt3 ";
+exit;
+system "/home/pbin/muscript -midi $mvt3 > $mvt3.mid";
+print STDERR "\n";

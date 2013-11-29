@@ -1,0 +1,266 @@
+% start
+6 systems / 19 25 19 /
+title Giga
+innerhead John Ranish
+midi channel1 patch0
+/
+4 bars | 2# 6/8 12 | 12 | 12 | 12 |
+% | 6/8 .18 .155 .165 .18 .155 .165
+| 6/8 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377
+=1 treble 2# 6/8 cha1 vol100 min. rest
+=2 bass   2# 6/8 cha9 vol75 cro.-s F# F# cha1 vol100
+
+% | 12/8 .18 .155 .165 .18 .155 .165 .18 .155 .165 .18 .155 .165
+| 12/8 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377
+=1 leg90 cro <F B d> qua rest cro <F c> qua rest cro \
+ <F B d> qua rest cro <D F B> qua rest
+=2 leg90 cro b qua rest cro a# qua rest cro b qua rest cro B qua rest
+|
+=1' leg90 cro <B_ F> qua rest cro <B_ Cx G> qua rest cro \
+ <A_# C F> qua rest [F B A]
+=1, min. blank cro. blank cro. D(2
+=2 leg90 cro d qua rest cro e qua rest cro f qua rest [b g f]
+|
+=1' cro. G(1 qua [G)1 A G] cro. F(1 qua [F)1 G F]
+=1, cro. D)2 C(2 C)2 B_(2
+=2, qua [e f g] [a f e] [d e f] [g e d]
+|
+=1' cro. E(1 cro <E)1 C A_#> qua <C F A#> cro <D F B> qua rest rest [B d]
+=1, cro. B_ blank min. blank
+=2, qua [c, d, e] cro f qua F [B, d, f] [b d~ b]
+|
+=1 cro <A c e> qua rest cro <E G Ax> qua rest \
+ cro <F A> qua rest cro <D A d'> qua rest
+=2, cro a qua rest cro c~ qua rest cro d~ qua rest cro f qua rest
+|
+=1' cro <D G B> qua rest cro <D F A> qua rest min. <C A>
+=2 cro g qua rest cro d qua rest cro A qua c [e vol90 a vol80 g]
+|
+=1' vol50 cro <D A> qua rest vol55 cro <F A> qua rest \
+ vol60 cro <E A> qua rest vol65 cro <E G c> qua rest
+=2 vol50 cro f qua rest vol55 cro d qua rest \
+ vol60 cro c qua rest vol65 cro A qua rest
+|
+=1' vol70 cro. <F(2 A(1> cro <F)2 A)1> vol75 qua <D A> \
+ vol80 cro. <E(2 G A(1> cro <E)2 A)1> vol85 qua <D B>
+=2 vol70 qua [d' c d'] vol75 [d, e f] vol80 [e c, e] vol85 [e f g]
+|
+=1' vol90 cro. <D(2 A(1> cro <D)2 A)1> vol95 qua <C A> \
+ vol100 cro <D F> qua rest cro <E A> qua rest
+=2 vol90 qua [f d' f] vol95 [f g a] \
+ vol100 cro b qua rest cro c~ qua rest
+|
+=1' cro <F A> qua <E B d> cro d qua c cro. <F A d> rest
+=1, cro. blank <E A> min. blank
+=2 cro d~ qua g cro a qua A cro. d rest
+% stop
+midi pause 0.1
+
+% | 12/8 .18 .155 .165 .18 .155 .165 .18 .155 .165 .18 .155 .165
+| 12/8 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377
+=1 leg90 cro <F B d> qua rest cro <F c> qua rest cro \
+ <F B d> qua rest cro <D F B> qua rest
+=2 leg90 cro b qua rest cro a# qua rest cro b qua rest cro B qua rest
+|
+=1' leg90 cro <B_ F> qua rest cro <B_ Cx G> qua rest cro \
+ <A_# C F> qua rest [F B A]
+=1, min. blank cro. blank cro. D(2
+=2 leg90 cro d qua rest cro e qua rest cro f qua rest [b g f]
+|
+=1' cro. G(1 qua [G)1 A G] cro. F(1 qua [F)1 G F]
+=1, cro. D)2 C(2 C)2 B_(2
+=2, qua [e f g] [a f e] [d e f] [g e d]
+|
+=1' cro. E(1 cro <E)1 C A_#> qua <C F A#> cro <D F B> qua rest rest [B d]
+=1, cro. B_ blank min. blank
+=2, qua [c, d, e] cro f qua F [B, d, f] [b d~ b]
+|
+=1 cro <A c e> qua rest cro <E G Ax> qua rest \
+ cro <F A> qua rest cro <D A d'> qua rest
+=2, cro a qua rest cro c~ qua rest cro d~ qua rest cro f qua rest
+|
+=1' cro <D G B> qua rest cro <D F A> qua rest min. <C A>
+=2 cro g qua rest cro d qua rest cro A qua c [e vol90 a vol80 g]
+|
+=1' vol50 cro <D A> qua rest vol55 cro <F A> qua rest \
+ vol60 cro <E A> qua rest vol65 cro <E G c> qua rest
+=2 vol50 cro f qua rest vol55 cro d qua rest \
+ vol60 cro c qua rest vol65 cro A qua rest
+|
+=1' vol70 cro. <F(2 A(1> cro <F)2 A)1> vol75 qua <D A> \
+ vol80 cro. <E(2 G A(1> cro <E)2 A)1> vol85 qua <D B>
+=2 vol70 qua [d' c d'] vol75 [d, e f] vol80 [e c, e] vol85 [e f g]
+|
+=1' vol90 cro. <D(2 A(1> cro <D)2 A)1> vol95 qua <C A> \
+ vol100 cro <D F> qua rest cro <E A> qua rest
+=2 vol90 qua [f d' f] vol95 [f g a] \
+ vol100 cro b qua rest cro c~ qua rest
+|
+=1' cro <F A> qua <E B d> cro d qua c cro. <F A d> rest
+=1, cro. blank <E A> min. blank
+=2 cro d~ qua g cro a qua A cro. d rest
+
+midi pause 0.1
+
+% | 12/8 .18 .155 .165 .18 .155 .165 .18 .155 .165 .18 .155 .165
+| 12/8 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377
+=1, cro <A d f> qua rest cro <A e> qua rest cro <A d f> qua rest cro. rest
+=2, cro d~ qua rest cro c~ qua rest cro d~ qua rest cro d qua rest
+|
+=1' cro <D G B> qua rest cro <D F A> qua rest \
+ cro <C E A> qua <C E> [<C E> <D# F> <E G>]
+=2, cro g qua rest cro d qua rest cro A qua a [g f e]
+|
+=1' cro <B_ F A> qua rest cro <D# F A> qua rest \
+ cro <B_ E G> qua rest cro. rest
+=2, cro d# qua rest cro B qua rest cro e qua rest cro g qua rest
+|
+=1' cro <E A> qua rest cro <E Fr cn> qua rest \
+ cro <D# F B> qua rest [B e d]
+=1, min. blank cro. blank G(2
+=2, cro c~n qua rest cro a qua rest cro b qua rest [e~ c~ b]
+|
+=1' cro. cn qua [c d c] cro. B(1 cro <E B)1> qua <E c>
+=1, cro. G)2 cro. F(2 F)2 blank
+=2, qua [a b c~n] [d~ b a] [g a b] [c~ b a]
+|
+=1' cro <E Fr B> qua rest cro <D# F B> qua rest \
+ cro <E G B> qua <C F A#> vol95 [<Dn F B> vol90 <C# F A> vol85 <B_ F B>]
+=2, cro b qua rest cro B qua rest cro e qua f vol95 [b vol90 f vol85 d]
+|
+=1' vol75 cro <F d> qua rest cro <F c> qua rest cro <F d> qua rest cro. rest
+=2  vol75 cro B qua rest cro A# qua rest cro B qua rest cro b qua rest
+|
+=1' vol75 cro <C G c> qua rest cro <C G B> qua rest \
+ cro <C F A#> qua rest vol50 cro. F
+=1, min. blank cro. blank vol50 qua [A_# B_ C]
+=2  vol75 cro e qua rest cro E qua rest cro F qua rest vol50 cro f qua rest
+|
+=1' vol53 cro <B_ D F> qua rest vol56 cro <D F B> qua rest \
+    vol59 cro <C F A#> qua rest vol62 cro <E Fx> qua rest
+=2  vol53 cro d qua rest vol56 cro B qua rest \
+    vol59 cro f qua rest vol62 cro a# qua rest
+|
+=1' vol65 cro. <D(2 F(1> cro <D)2 F)1> vol70 qua <F B> \
+    vol75 cro. <E(2 Fx A#(1> cro <E)2 A#)1> vol80 qua <G Ax>
+=2, vol65 qua [b a# b] vol70 [b c~ d~] vol75 [c~ a f] vol80 [c~ d~ e~]
+|
+=1' vol85 cro. <F B> cro. blank rest vol95 qua [f e d]
+=1, cro. blank vol90 qua [B c d] cro. blank vol95 B
+=2, vol85 qua [d~ c~ d~] vol90 [d~ c~ b] cro. rest vol95 qua [d~ c~ b]
+|
+=1' vol100 cro. rest cro. c rest d(1
+=1, cro. blank qua [F G# A#] cro. blank qua [F B An]
+=2, vol100 cro. rest qua [a# g# f] cro. rest qua [b gn f]
+|
+=1' cro. d)1 c(1 c)1 B(1
+=1, cro. G(2 qua [G)2 A G] cro. F(2 qua [F)2 G F]
+=2, qua [e f g] [a f e] [d e f] [g e d]
+|
+=1' cro. B)1 cro <C F A#> qua <F A c> cro. <D F B> cro rest qua <F An d>
+=1, cro. E blank blank blank
+=2, qua [c d e] [f e f] [b an g] [f e d]
+|
+=1' cro <G d> qua rest cro <G c> qua rest \
+ cro <F c> qua rest cro <F B> qua rest
+=2, cro e qua rest cro a qua rest cro d qua rest cro g qua rest
+|
+=1' cro <E B> qua rest cro <E A#> qua rest \
+ cro <D F B> qua rest cro <D F> qua rest
+=2, cro c qua rest cro f qua rest cro B qua rest cro b qua rest
+% | 12/8 .18 .155 .165 .18 .155 .165 .18 .155 .165 .185 .160 .170
+| 12/8 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.213453 0.184608 0.196146
+=1' cro <C G> qua rest cro <B_ E> qua rest \
+ cro <C F A#> qua rest cro <C Ex F> qua rest
+=2, cro e qua rest cro g qua rest cro f qua rest cro a# qua rest
+% | 12/8 .19 .165 .175 .20 .175 .185 .20 .175 .185 .20 .175 .185
+| 12/8 0.219222 0.190377 0.201915 0.23076 0.201915 0.213453 0.23076 0.201915 0.213453 0.23076 0.201915 0.213453
+=1' cro <D F> qua rest cro <C F A#> qua rest min <D F B> cro rest
+=2, cro b qua rest cro f qua rest min B cro rest
+
+% start
+
+
+midi pause 0.1
+
+% | 12/8 .18 .155 .165 .18 .155 .165 .18 .155 .165 .18 .155 .165
+| 12/8 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377
+=1, cro <A d f> qua rest cro <A e> qua rest cro <A d f> qua rest cro. rest
+=2, cro d~ qua rest cro c~ qua rest cro d~ qua rest cro d qua rest
+|
+=1' cro <D G B> qua rest cro <D F A> qua rest \
+ cro <C E A> qua <C E> [<C E> <D# F> <E G>]
+=2, cro g qua rest cro d qua rest cro A qua a [g f e]
+|
+=1' cro <B_ F A> qua rest cro <D# F A> qua rest \
+ cro <B_ E G> qua rest cro. rest
+=2, cro d# qua rest cro B qua rest cro e qua rest cro g qua rest
+|
+=1' cro <E A> qua rest cro <E Fr cn> qua rest \
+ cro <D# F B> qua rest [B e d]
+=1, min. blank cro. blank G(2
+=2, cro c~n qua rest cro a qua rest cro b qua rest [e~ c~ b]
+|
+=1' cro. cn qua [c d c] cro. B(1 cro <E B)1> qua <E c>
+=1, cro. G)2 cro. F(2 F)2 blank
+=2, qua [a b c~n] [d~ b a] [g a b] [c~ b a]
+|
+=1' cro <E Fr B> qua rest cro <D# F B> qua rest \
+ cro <E G B> qua <C F A#> vol95 [<Dn F B> vol90 <C# F A> vol85 <B_ F B>]
+=2, cro b qua rest cro B qua rest cro e qua f vol95 [b vol90 f vol85 d]
+|
+=1' vol75 cro <F d> qua rest cro <F c> qua rest cro <F d> qua rest cro. rest
+=2  vol75 cro B qua rest cro A# qua rest cro B qua rest cro b qua rest
+|
+=1' vol75 cro <C G c> qua rest cro <C G B> qua rest \
+ cro <C F A#> qua rest vol50 cro. F
+=1, min. blank cro. blank vol50 qua [A_# B_ C]
+=2  vol75 cro e qua rest cro E qua rest cro F qua rest vol50 cro f qua rest
+|
+=1' vol53 cro <B_ D F> qua rest vol56 cro <D F B> qua rest \
+    vol59 cro <C F A#> qua rest vol62 cro <E Fx> qua rest
+=2  vol53 cro d qua rest vol56 cro B qua rest \
+    vol59 cro f qua rest vol62 cro a# qua rest
+|
+=1' vol65 cro. <D(2 F(1> cro <D)2 F)1> vol70 qua <F B> \
+    vol75 cro. <E(2 Fx A#(1> cro <E)2 A#)1> vol80 qua <G Ax>
+=2, vol65 qua [b a# b] vol70 [b c~ d~] vol75 [c~ a f] vol80 [c~ d~ e~]
+|
+=1' vol85 cro. <F B> cro. blank rest vol95 qua [f e d]
+=1, cro. blank vol90 qua [B c d] cro. blank vol95 B
+=2, vol85 qua [d~ c~ d~] vol90 [d~ c~ b] cro. rest vol95 qua [d~ c~ b]
+|
+=1' vol100 cro. rest cro. c rest d(1
+=1, cro. blank qua [F G# A#] cro. blank qua [F B An]
+=2, vol100 cro. rest qua [a# g# f] cro. rest qua [b gn f]
+|
+=1' cro. d)1 c(1 c)1 B(1
+=1, cro. G(2 qua [G)2 A G] cro. F(2 qua [F)2 G F]
+=2, qua [e f g] [a f e] [d e f] [g e d]
+|
+=1' cro. B)1 cro <C F A#> qua <F A c> cro. <D F B> cro rest qua <F An d>
+=1, cro. E blank blank blank
+=2, qua [c d e] [f e f] [b an g] [f e d]
+|
+=1' cro <G d> qua rest cro <G c> qua rest \
+ cro <F c> qua rest cro <F B> qua rest
+=2, cro e qua rest cro a qua rest cro d qua rest cro g qua rest
+|
+=1' cro <E B> qua rest cro <E A#> qua rest \
+ cro <D F B> qua rest cro <D F> qua rest
+=2, cro c qua rest cro f qua rest cro B qua rest cro b qua rest
+% | 12/8 .18 .155 .165 .18 .155 .165 .18 .155 .165 .185 .160 .170
+| 12/8 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.207684 0.178839 0.190377 0.213453 0.184608 0.196146
+=1' cro <C G> qua rest cro <B_ E> qua rest \
+ cro <C F A#> qua rest cro <C Ex F> qua rest
+=2, cro e qua rest cro g qua rest cro f qua rest cro a# qua rest
+% | 12/8 .19 .165 .175 .20 .175 .185 .20 .175 .185 .20 .175 .185
+| 12/8 0.219222 0.190377 0.201915 0.23076 0.201915 0.213453 0.23076 0.201915 0.213453 0.23076 0.201915 0.213453
+=1' cro <D F> qua rest cro <C F A#> qua rest min <D F B> cro rest
+=2, cro b qua rest cro f qua rest min B cro rest
+
+
+
+% stop
+
+

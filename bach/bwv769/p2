@@ -1,0 +1,87 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.sp 1.1c
+.ce 1
+\f3\s+5Canonische Veränderungen \  \s-2BWV\s+2769, 769a\s-5\fP
+.sp 1.1c
+.LP
+.nh
+Lorentz Christof Mitzler (1711-1788)
+studied keyboard and composition with Johann Sebastian Bach,
+and in 1734 he dedicated to Bach his doctoral dissertation
+\f2Quod musica ars sit pars eruditionis philosophicae\fP
+(Music is part of a philosophical education).
+In 1736 he was appointed to lecture in Mathematics, Music and Philosophy
+at Leipzig University,
+and started publishing his own journal \f2Musikalische Bibliotek\fP.
+.LP
+.nh
+In 1738 he founded the \f2Sozietät der musikalischen Wissenschaften\fP,
+which attracted some impressive associates:
+Telemann joined in 1740, and Haendel was made an honorary member in 1745.
+In June 1747 Bach finally became the Society's fourteenth member,
+submitting two specimen compositions as demonstrations of his 
+learning: the Canonic Variations on \f2Von Himmel hoch da komm' ich her\fP
+(\s-2BWV\s0769), and the \f2Canon triplex a 6 voc\fP.
+After Bach died in 1750, the \f2Musikalische Bibliotek\fP
+devoted an issue to him in 1754,
+containing a Necrology which is Bach's earliest biographical material,
+and a score of the \f2Canon triplex\fP.
+.LP
+.nh
+The score of the \f2Canonische Veränderungen\fP exists in two versions.
+As submitted to Mitzler's Society it is in open score (one voice to each stave)
+and with the canonic parts not written out,
+but with only their entries indicated in the leading voice.
+There is also a version in short score, for organists,
+with the canons written out in full.
+The order of the movements is different in the two scores;
+this edition follows the short-score order.
+In the open-score version Variation V is placed in the centre,
+so that the piece ends with the canon by augmentation
+(here called Variation IV).
+Wilfred Mellers discusses the arguments for each order, and concludes
+"Bach may have considered the two versions equally valid,
+for different reasons."
+.LP
+.nh
+Bach seems to have turned more and more to canons
+as a touchstone for musical technique,
+e.g. in the Musical Offering or the Art of Fugue.
+The systematic writing of canons at different intervals,
+and with inversion and augmentation, seems unique to Bach.
+.TS
+expand, center, tab(/);
+lw8 lw8 lw7 lw40,
+lw8 lw8 lw7 lw40,
+lw8 lw8 lw7 lw40,
+lw8 lw8 lw7 lw40,
+lw8 lw8 s lw40,
+lw8 lw8 lw7 lw40.
+Variation I/3-part/8va/Cantus firmus in bass.
+Variation II/3-part/5th/Cantus firmus in bass.
+Variation III/4-part/7th/Cantus firmus in soprano, one free part.
+Variation IV/4-part/8va/One part augmented, cantus firmus in bass.
+Variation V/Canons by inversion,/the Canonic theme \f3is\fP the Cantus firmus:
+/3-part/6th/Free bass,
+/3-part/3rd/Free bass,
+/4-part/2nd/Free alto and soprano,
+/4-part/9th/Free tenor and alto.
+.TE
+
+.LP
+.nh
+Gerd Zacher, "\f2Canonische Veränderungen\fP",
+in "\f2Johann Sebastian Bach / Das spekulative Spätwerk\fP",
+text+kritik, 1981 (numbers the variations in their short-score order).
+
+.LP
+.nh
+Wilfrid Mellers,
+"\f2Bach and the Dance of God\fP",
+Faber, 1980 (numbers the variations mostly in their open-score order).

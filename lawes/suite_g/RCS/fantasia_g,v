@@ -1,0 +1,574 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	2002.09.02.04.12.44;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2002.09.01.00.52.33;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2002.08.31.07.18.08;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2002.08.31.03.44.06;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2002.08.30.23.40.10;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Fantazia in g min from suite 1, William Lawes
+@
+
+
+1.5
+log
+@add up to end
+@
+text
+@5 systems / 12 14 12 20 18-23-18/
+pagenum 3
+title Fantazia
+innerhead Fantazia, Suite No. 1 in g minor, William Lawes
+leftfoot Typeset (c) 2002 Peter J Billam.
+/
+3 bars | 4/2 16 |
+|
+=1  treble 2b 4/2 smb blank rest
+=2  bass   2b 4/2 smb blank rest
+=3' treble 2b 4/2 min. d qua [d d] min e d(1
+=3, 2b 4/2 smb. blank min G(2
+=4  bass   2b 4/2 smb rest min. g qua [g g]
+|
+=1 smb blank rest
+=2 smb blank rest
+=3' cro d)1 d c d min B cro A B
+=3, cro G)2 qua [G G] min A G D
+=4  min b a cro rest' g' f' g'
+=4, smb.. blank cro G
+|
+=1 smb rest cro rest min d qua [d d]
+=2 smb blank rest
+=3' cro G cro. c qua [B A G] min F f(1
+=3, min E C D rest,
+=4' min. e cro. f qua [e d c] cro d e
+=4, cro. c qua [B A G] min F cro F min B
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b cro d d min e d cro rest d(1
+=2  bass   2b smb blank rest
+=3' treble 2b cro f)1 qua [B B] min e smb d(1
+=3, 2b min blank A B G(2
+=4' bass   2b min f rest' min. g qua [g g]
+=4, 2b cro A G min F# cro G A min B(2
+|
+il0.5    5
+=1 cro d)1 B min d cro rest d F# G
+=2 min. g qua [g g] min b a
+=3' min d)1 cro d d smb d(1
+=3, cro G)2 qua [G G] min B G cro A G
+=4' min b smb g cro f# g
+=4, min B)2 min. B cro c min d(2
+|
+=1 min A rest min. f qua. [en smq d]
+=2 cro rest d min. F# cro G min A(2
+=3' min d)1 cro c B A G min f
+=3, cro F# G min A blank cro Fn G
+=4' smb a
+=4, min d)2 cro F# G min A a(1
+/
+3 bars | 2b 16 |
+|
+=1, treble 2b min. c# cro. cn qua [d B A] min B
+=2  bass   2b cro A)2 a min f# cro rest cro. g qua [fn e d,]
+=3' treble 2b min en cro rest' min c qua [B A] min B
+=3, 2b smb A G
+=4' bass   2b 
+=4, 2b min a)1 f# min. g qua [g g]
+|
+=1 cro rest e A B' F D min C
+=2 min c cro f G A B min F
+=3' min eb d cro c B min c
+=3, min. c cro B A G min A
+=4' min g cro a B c qua [d e] min f
+=4, min c cro f G A B min F
+|
+=1 smb B_ rest
+=2 smb B min rest cro rest qua [b a]
+=3' min <B d> min. f qua [f f] min g
+=3, smb F min. B qua [B B]
+=4' min. f
+=4, min. <B d> min b qua [b a] min g
+/
+3 bars | 2b 16 |
+|
+il0.5      10
+=1, treble 2b smb rest rest
+=2  bass   2b min g cro rest g f# g min d
+=3' treble 2b min. d cro B A B A B
+=3, 2b cro B G smb D min Fn
+=4' bass   2b cro G b a b f# g min a
+=4, 2b cro blank g f# g min. d cro d
+|
+=1 cro rest cro. f qua [g f g] min f cro rest d(1
+=2 cro rest cro. d' qua [c d' e'] [f' B] cro. b qua F# cro G
+=3' cro c A cro. B qua c min d cro c B
+=3, cro E F min F smb blank
+=4' min a cro. d qua e min f cro. B qua c
+=4, cro c f min. B cro B F# G
+|
+=1 qua [d')1 F#] cro B' min A cro rest d min G(2
+=2 min. D qua [d' c] min. Bn cro B
+=3 cro A min d cro F# min G d
+=4' min d smb rest' min bn
+=4, min D d smb Bn
+/
+3 bars | 2b 16 |
+|
+=1, treble 2b cro G)2 G min c qua [c smq d c] qua [B smq c B] qua [A F# G A]
+=2  bass   2b smb en qua [e f#] cro g min d
+=3  treble 2b min. c qua [B' A] [G A] cro B' F# G
+=4' bass   2b smb g min blank d(2
+=4, 2b smb en cro e g min blank
+|
+=1 min d qua rest [d A, B,] min c qua rest smq [f g] qua [f smq c d]
+=2 qua rest [D En F#] min G qua rest [g d, en] min fn
+=3 min A d cro c B, min A(2
+=4' min d)2 g min. a cro b
+=4, min blank G cro f d min f(2
+|
+il0.5      15
+=1 cro. A qua c [En F] cro. G qua [D G F] cro E qua [A G]
+=2 qua rest [f' A B] min c cro Bn G c# A
+=3 cro A)2 f min en d cro G cn
+=4' min c~ min. g cro d min en
+=4, cro f)2 A min c cro Bn G c#l A
+
+5 systems / 12 14 12 20 18-23-18/
+pagenum 4
+innerhead Fantazia, Suite No. 1 in g minor, William Lawes
+leftfoot Typeset (c) 2002 Peter J Billam.
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b cro F# min B qua [c d] [A, B, c d] qua. [e smq f] qua. [d smq e]
+=2  bass   2b cro d' G min F qua [f g a b] [G A] cro B
+=3' treble 2b cro A B cro. F qua G min A B
+=4' bass   2b cro f# B min A c~ cro b g
+=4, 2b cro d G min Fn fn cro g B
+|
+=1 smq [c d qua B,] qua. [c smq B,] cro B' qua [A G] [F# En] cro D min rest
+=2 qua [F d' f' F] cro B c min d' cro d~ qua [c~ b]
+=3 qua [A G] cro A min B' cro A qua [A A] cro B, c
+=4' cro. a qua g min f f# g
+=4, cro f F B c smb d(2
+|
+=1 min rest cro rest qua [B B] cro c qua [d d] cro A c(1
+=2 qua [a g f# en] [d' c] cro B min rest cro rest qua [fn f]
+=3 min. d qua [G G] cro A B' min c(1
+=4' cro a cro. d qua c cro B min. A qua [a a]
+=4, min d)2 G min. F cro f
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b cro c)1 cro. c smq [B' A] cro G F qua [En D] [C# B_n] cro A_
+=2  bass   2b qua [en' c f' F] cro. c qua c qua [d' D f' g'] cro. a qua g
+=3' treble 2b cro c)1 qua [B' A] min G F c(1
+=4' bass   2b cro g qua [a b] cro. c~ qua b min. a cro g
+=4, 2b cro en f min c d A(2
+|
+il0.6   20
+=1 cro. rest qua f qua. [en smq c] qua [d(1 c)1] cro. G(2 qua F)2 min F
+=2 qua [f en] cro d min rest cro rest cro c qua [f smq e f] qua [e c#,]
+=3' cro c)1 d en f min. c cro c
+=3, min rest, cro G A min G A
+=4' min f smb. blank
+=4, cro A)2 d min. c cro c f en
+|
+=1 smb rest min. rest cro En
+=2 qua [d' smq c# d'] qua [c A] [B G d' D] [F f'] [G smq en' d'] min e
+=3 min A smb d min c#(1
+=4' cro f c# B d d g min en(1
+=4, cro d A G D F G min A
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b qua [A smq G A] cro F# qua [G smq Fn G] cro En \
+ qua [G F] cro D qua [E D] cro C#
+=2  bass   2b cro A qua [d' smq c d'] cro Bn qua [c smq Bb c] \
+ cro A qua [B A] cro G A
+=3  treble 2b cro c#)1 A d G cn F B' qua [A G]
+=4' bass   2b cro en)1 f# d e c# d min e
+=4, 2b cro A d Bn c A Bb G A
+|
+=1 min. cn qua [Bn' A] min G# cro. A qua En
+=2 qua [a bn c~ d~] min. e~ cro b qua [c~# a] cro e~(1
+=3' cro A Bn min c G# A(2
+=4' min e~n cro a bn smb c~#(1
+=4, min. a qua [g f] cro en d min c#
+|
+=1 cro F# cro. G qua A cro Fn min Eb qua [F# D] cro rest
+=2 cro e~)1 bn c~# min d~ cro c~ min d~
+=3' cro A)2 G min F En cro F# A
+=3, smb. blank min D
+=4' cro c~)1 d~ e~n f~ min a-tr blank
+=4, cro a bn c~# d~ min a d(1
+/
+3 bars | 2b 16 |
+|
+il0.6      25
+=1  treble 2b smb blank rest
+=2  bass   2b smb blank rest
+=3  treble 2b cro. d qua c cro B min G cro. c qua [B' A G]
+=4 bass   2b cro d)1 d cro. g qua f cro e c cro. f qua e
+|
+=1 smb blank rest
+=2 smb blank rest
+=3 cro F qua [d e] [f c] min e cro d min c
+=4' qua [d' c] cro B A G c qua [d e] min f(1
+=4, smb blank F
+|
+=1 min rest cro rest cro. B' smq [A B'] qua [A G] [F# D] cro d(1
+=2 cro rest cro. b smq [a b] qua [a g] [f# d] min d~ qua [D En]
+=3' min. d qua [c B] smb A
+=3, min. B qua [A G] smb F#
+=4' min f)1 e d D
+=4, min B c smb blank
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b cro d)1 qua [D En] [F# D] min B qua [B, c] [d G,] cro B,(1
+=2  bass   2b qua [F# D] min d qua [d en] [f# d] min g qua [g fn]
+=3  treble 2b cro rest cro. B' smq [A B'] qua [A G] \
+ cro D cro. d smq [c d] qua [B' A]
+=4 bass   2b min. d qua [d en] cro f# g B G
+|
+=1 cro B,)1 qua [c B,] [A G] min F qua. [d smq e] qua. [c smq d qua. B, smq c]
+=2 qua [e d,] cro c cro. f qua e [d' c] cro B qua. [A smq B qua. G smq A]
+=3' min G cro A B c d F G
+=3, smb.. blank cro B_
+=4' cro rest'' cro. c~ qua [b a g] [f e d e] min a
+=4, cro e c min. f cro B A G
+|
+il0.6    30
+=1 smq [A B' qua c'] smq [F G qua A] smq [D E qua F] qua. [E smq D] \
+ qua [C D] cro B_ smq [e f d e] [c d qua B,]
+=2 min F rest qua. [f~ smq g~] [e~ f~ d~ e~] [c~ d~ b c~] qua [a g]
+=3' min A B c cro A B
+=3, cro C D rest, G A B F <E G>
+=4' cro rest c d e min. f cro g
+=4, smb F(2 F)2
+
+5 systems / 12 14 12 20 18-23-18/
+pagenum 5
+innerhead Fantazia, Suite No. 1 in g minor, William Lawes
+leftfoot Typeset (c) 2002 Peter J Billam.
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b qua [c d] [A B'] [c d] [F G] \
+ cro A qua [D B'] [C d'] qua. [c(1 smq B,)1]
+=2  bass   2b cro f qua [F G] [A B] [D E] cro. F qua d, cro f F
+=3' treble 2b cro A min. blank cro c min B cro A
+=3, 2b cro F cro. f qua g smq [e f d e] cro F G C F
+=4' bass   2b smq [f g e f] cro d c B A B min c
+=4, 2b smb F(2 F)2
+|
+=1 smb B rest
+=2 smb B rest
+=3' min B cro F F min F# G
+=3, min <D F> smb. blank
+=4' smb. d cro c B
+=4, smb. B cro A G
+|
+=1 smb rest min rest cro B B
+=2 smb blank rest
+=3' cro A D d c smb B(1
+=3, min blank F# G cro D D
+=4' min A min. B cro c d c
+=4, min F# D B G(2
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b min B Bn cro c G min Ab(2
+=2  bass   2b smb blank rest
+=3' treble 2b min B Bn cro c G min Ab(1
+=3, 2b min E D C Enl
+=4' bass   2b min B cro g f min. en cro c
+=4, 2b min G)2
+|
+il0.6        35
+=1 min A)2 cro Ab A smb G
+=2 smb rest min rest c~
+=3' cro A)1 B min. c cro d min e(1
+=3, smb F min. E cro F
+=4' min f Ab smb c
+|
+=1 min rest min. d cro F# min B'(2
+=2 cro d~ g min. b qua [a g] cro f# d~(1
+=3' min e)1 min. d cro F# min B(1
+=3, min G rest min. D cro En
+=4' min. g cro a min b cro f# g
+=4, min. <Bn d> cro c smb d
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b cro B')2 A A A smb c
+=2  bass   2b cro d~)1 c~ c~ c~ smb a
+=3' treble 2b cro B)1 A A A rest' c c c
+=3, 2b cro F# F F F smb A
+=4' bass   2b smb. <A d> min A
+=4, 2b smb. F# min F
+|
+=1 min E D B cro A G
+=2 cro g a min b B c
+=3' cro B c smb d min c
+=3, cro G A smb B cro A G
+=4 min. G cro F smb E
+|
+=1 smb F# rest
+=2 smb D rest
+=3 cro F#-tr d d A cro. B qua c [d' D] cro G(2
+=4 min. D cro d~ d~ a cro. b qua c~
+/
+3 bars | 2b 16 |
+|
+il0.4         40
+=1  treble 2b smb blank rest
+=2  bass   2b smb rest cro rest g qua [f#' d' g' G]
+=3' treble 2b cro G)2 F# G D min B cro A B(2
+=4 bass   2b min d~ min. G cro G d g(1
+|
+=1 smb blank rest
+=2 qua [B c] cro d' min rest cro rest a qua [b f g f]
+=3 cro B')2 qua [A G] cro F# d min c B'(2
+=4 cro g)1 qua [f en] cro d B eb c min d'
+=4, smb. blank min B(2
+|
+=1 smb blank rest
+=2 cro. d qua e min f cro rest qua [f c,] [A F A B]
+=3 cro B')2 B' A G cro. A qua B' min c(1
+=4, cro B)2 B d e smb f(1
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b smb blank rest
+=2  bass   2b cro c rest rest cro. c smq [B c] qua [En c] [c# A] [a g]
+=3' treble 2b smb. blank min en
+=3, 2b cro c)1 cro. f smq [e f] qua [c d] min e c#l
+=4  bass   2b cro f)1 F cro. A qua B min c A
+|
+=1 smb rest min rest cro rest A_
+=2 qua [f en] cro. d qua [d e f] [g d] [e d] [c# A] [c~# bn]
+=3' min. d cro c min B min A(1
+=3 smb A
+=3, cro. F qua En smb D cro. C# qua D
+=4' cro. d qua c cro B A min G A(2
+|
+il0.6   45
+=1 cro C# En min A cro rest A B' A
+=2 min a rest smb rest
+=3' cro A)1 qua [G A] min En cro D E min F#(2
+=3, min En C#l smb blank
+=4' min A)2 A cro Bn c# min d
+
+5 systems / 12 14 12 20 18-23-18/
+pagenum 6
+innerhead Fantazia, Suite No. 1 in g minor, William Lawes
+leftfoot Typeset (c) 2002 Peter J Billam.
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b min. d cro A min. B' qua [A G]
+=2  bass   2b smb blank rest
+=3' treble 2b cro F#)2 G min A min. B qua [A G]
+=4  bass   2b min D min. f qua [en d] min c#(2
+|
+=1 min. F cro. G qua A cro F En qua [en d]
+=2 smb blank rest
+=3 min. F cro. G qua A cro F min En,(2
+=4 cro c#)2 qua [d' cn] cro. B qua A min G A(2
+|
+=1 qua [c#' Bn' A G] [F# En] cro D rest Bb cn d
+=2 smb blank rest
+=3' cro rest' A B c smb d
+=3, min E)2 min. D cro G A B
+=4' cro A)2 A cro. d qua c [B A] cro G min F(2
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b cro. C qua B min B smb rest
+=2  bass   2b smb rest min rest cro rest B
+=3' treble 2b min c cro. f qua e min d cro. d qua c
+=3, 2b min c smb B min F
+=4  bass   2b cro F)2 F min. B cro B cro. b qua a
+|
+il0.6    50
+=1 smb rest min rest cro rest f(1
+=2 cro. b qua a [g f e d,] [c B A G] min F(2
+=3' min B blank E cro A G
+=3, cro G A min B smb blank
+=4  cro. g qua f [e' d' c B] [A G F E] cro. D qua E
+|
+=1 cro f)1 e d c B' A G F
+=2 cro F)2 min f~ cro e~ d~ c~ b a
+=3' min. d cro c smb B(1
+=3, smb. F min D
+=4' smb <c f> cro f~ e~ d~ c~
+=4, smb F cro d~ c~ b a
+/
+3 bars | 2b 16 |
+|
+=1  treble 2b cro E D C min c cro B A G
+=2  bass   2b cro g f e d, c min f cro e
+=3' treble 2b min B)1 cro c d e d min c
+=3, 2b smb. G cro A G
+=4' bass   2b cro b a g f e min. blank
+=4, 2b cro g f e d c min f cro e
+|
+=1 cro f min B' cro A min G cro A G
+=2 cro d' c B min e cro d min c
+=3' min. f qua [e d] cro c d min e
+=3, min F cro B A min G cro A G
+=4' min. b cro a g f min e
+=4, cro d c B min e cro d min c
+|
+=1 cro F# Fn min En smb D
+=2 cro d' D min A smb D
+=3' min d c# d A
+=3, cro F# Fn min En min. F# cro F
+=4' cro d D min A min. d cro c
+=4, smb blank D
+/
+4 bars | 2b 16 | 16 | 16 | 8 ||
+|
+il0.4         55
+=1  treble 2b smb blank rest
+=2  bass   2b min rest cro d~ f~ e~ c~ min e~(1
+=3' treble 2b smb d min. c cro d
+=3, 2b cro G D min F cro E C min E(2
+=4  bass   2b smb Bn min. c cro Bb
+|
+=1 cro rest A qua [B, c] min d cro d qua. [d' smq F#] qua. [B' smq D]
+=2 cro e~)1 qua [d~ c~] cro b g b qua [a g] cro a qua. [d~ smq f#]
+=3' cro e qua [d c] min B c d
+=3, cro E)2 F smb G cro F E
+=4' min Ab cro. G qua F cro E e d c
+|
+=1 qua. [G smq B_] cro D min rest cro rest qua [f B,] min A
+=2 qua. [b smq d,] qua. [g smq B,] min. d' qua [B G] min d'
+=3' smb d(1 d)1
+=3, min D smb G min F#
+=4' min. B qua [A G] smb d
+|
+=1 smb G-fermata
+=2 smb G-fermata
+=3 smb <D G Bn-fermata>
+=4 smb <G d g-fermata>
+@
+
+
+1.4
+log
+@up to bar 43
+@
+text
+@d291 1
+a291 1
+=3' treble 2b cro B)1 A A A rest c c c
+d333 108
+@
+
+
+1.3
+log
+@up to bar 27
+@
+text
+@d4 1
+a4 1
+innerhead from Suite no. 1 by William Lawes
+d9 2
+a10 2
+=1  treble 2b 4/2 smb rest
+=2  bass   2b 4/2 smb rest
+d15 2
+a16 2
+=1 smb rest
+=2 smb rest
+d23 1
+a23 1
+=2 smb rest
+d32 1
+a32 1
+=2  bass   2b smb rest
+d122 1
+a122 1
+innerhead from Fantazia from Suite no. 1 by William Lawes
+d193 2
+a194 2
+=1  treble 2b smb rest
+=2  bass   2b smb rest
+d198 2
+a199 2
+=1 smb rest
+=2 smb rest
+d204 1
+a204 1
+=1 min rest cro rest cro. B' qua [A B'] qua [A G] [F# D] cro d(1
+d210 123
+@
+
+
+1.2
+log
+@up to bar 21
+@
+text
+@d56 1
+a56 1
+=2  bass   2b cro A)2 a min f# cro rest qua [fn e d,]
+d111 1
+a111 1
+=4, min blank G cro f d min d(2
+d162 1
+a162 1
+=2 qua [d smq c# d] qua [c A] [B G d' D] [F f'] [G smq en' d'] min e
+d166 44
+@
+
+
+1.1
+log
+@up to bar 12
+@
+text
+@d51 1
+a51 1
+=4, min d)2 cro F# G A a(1
+d62 2
+a63 2
+=1 cro e A B' F D min C
+=2 min A cro d E F G min D
+d87 1
+a87 1
+=2 cro rest cro. B' qua [A B' c'] [d' G] cro. g qua D# cro E
+d98 68
+@

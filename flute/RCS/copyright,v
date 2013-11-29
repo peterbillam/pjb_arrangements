@@ -1,0 +1,1207 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3;
+comment	@# @;
+
+
+1.3
+date	2008.10.27.10.22.06;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2003.09.09.11.44.41;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2003.09.01.05.53.04;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@flute version of jazz stuff from ../trumpet
+@
+
+
+1.3
+log
+@tiny fingering & spacing in The Hawk Talks
+@
+text
+@
+% start
+
+5 systems 10 /19 50 19/19 50 19/19 45 19/19 40 19-25-19/19 40 19-25-19/
+title The Girl From Ipanima
+lefthead 
+midi channel 1 patch 74
+midi channel 2 patch 0
+/
+4 bars ||: 1b 4/4 8 | 8 | 8 | 8 |
+| 4/4 112
+I0.5 .08 Ebmaj7
+=1 treble 3b 4/4 cha1 vol105 cro f qua d cro. d cro c
+r0.7 .09 Young and tanned .78 and
+=2' bass 4/4 cha2 vol80 \
+ qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2,        4/4 cro. Eb qua Bb cro. eb qua Bb
+|
+=1 cro f qua d cro d qua d cro c
+r0.7 .01 tall .24 and handsome, the
+=2' qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2, cro. Eb qua Bb cro eb qua [Bb Eb]
+|
+I0.5 .01 F13
+=1 cro f qua d cro. d cro c
+r0.7 .01 girl .23 from  I .62 - .75 pa   -
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro f c
+|
+=1 cro f qua [d d] [d d] rest c
+r0.7 .01 ni  - ma goes walking, and
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro. f qua c
+/
+4 bars | 3b 8 | 8 | 8 | 8 :||
+|
+I0.5 .06 Fm
+=1 cro e qua c cro c qua c cro B
+r0.7 .06 when .29 she .44 passes .75 each
+=2' qua rest' cro. <f ab e~b> qua rest' cro <f ab c~> qua c~#
+=2, cro. F qua Ab cro c B
+|
+I0.5 .01 F#aug
+=1 cro. d qua B [B B] rest A
+r0.7 .01 boy .37 she .50 passes .86 goes
+=2' qua rest'' cro. <gbl abxl d~> qua rest'' cro <a c~> qua d~
+=2, cro. Bb qua e cro f f#
+|
+I0.5 .01 Ebmaj7
+=1' qua [G{2 A] min. B}2
+r0.7 .17 aahhh . . .
+=2' qua rest'' cro. <bbr d~> min <bbl c~x e~b>
+=2, cro. g cro Bb-s5, qua [c d eb]
+|
+=1 smb rest
+=2' qua rest'' cro. <ab c~> min <f ab bx>
+=2, cro f qua c cro B-s1, qua [Bb G-s3, F]
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .01 Emaj7
+=1 smb e(1
+=2' qua rest'' cro. <g#lr b d~#> qua rest'' cro <g bx c~#> qua d~#
+=2, cro. En qua B cro e B
+|
+=1 cro e)1 qua [fb e] cro3 db e-I3 d
+=2' qua rest'' cro. <g#lr b d~#> qua rest'' cro <g bx c~#> qua d~#
+=2, cro. E qua B cro. e qua B
+|
+I0.5 .01 Em6
+=1 cro. Bn qua c#(1 min c)1(1
+=2' qua rest'' cro. <gnlr c~# e~> qua rest'' cro <g b d~#> qua e~
+=2, cro. E qua B cro. e qua B
+|
+=1 cro c#)1 min. rest
+=2' qua rest'' cro. <g c~# e~> qua rest'' cro <g b d~#> qua e~
+=2, cro. E qua B [e B] [E F#]
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+=1 smb f#(1
+I0.1 .01 Gmaj7
+=2' treble qua rest cro. <B_ D F#> qua rest cro <B_ Dx E> qua F#
+=3  bass   cha2 vol80 cro. G qua d' cro g d'
+rs0.1 .05 3-5
+|
+=1 cro f#)1 qua [g f] cro3 en f-I3 e
+=2' qua rest cro. <B_ D F#> qua rest cro <B_ Dx E> qua F#
+=3  cro. G qua d' cro. g qua d'
+|
+=1 cro. d qua en(1 min e)1(1
+I0.1 .01 Gm6
+=2' qua rest cro. <B_b E G> qua rest cro <B_bl D F#> qua G
+=3  cro. G qua d' cro. g qua d'
+|
+=1 cro en)1 min. rest
+=2' qua rest cro. <B_b E G> qua rest cro <B_bl D F#> qua G
+=3  cro. G qua d' cro g qua [d' G]
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+=1 smb g(1
+I0.1 .01 Abmaj7
+=2' qua rest cro. <C Eb G> qua rest cro <C Eb Fx> qua G
+=3  cro. Ab qua eb cro ab eb
+|
+=1 cro g)1 qua [ab g] cro3 f g-I3 f
+=2' qua rest cro. <C Eb G> qua rest cro <C Eb Fx> qua G
+=3  cro. Ab qua eb cro. ab qua eb
+|
+=1 cro. eb qua f(1 min f)1(1
+I0.1 .01 Abm6
+=2' qua rest cro. <B_n F Ab> qua rest cro <B_ Eb G> qua Ab
+=3  cro. Ab qua eb cro. ab qua eb
+|
+=1 min f)1 cro rest qua [g ab]
+r0.6 .72 but each
+=2' qua rest cro. <B_ F Ab> qua rest cro <B_ Eb G> qua Ab
+=3  cro. Ab qua eb cro ab qua [eb' Ab]
+
+4 systems 10 / 19 40 19-30-19/ 19 55 19/ 19 60 19/ 19 40 19-30-19/
+lefthead  The Girl From Ipanima
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+=1 cro b qua [B c] [d e f f#(1]
+r0.6 .06 day .27 when she walks to the sea
+I0.1 .06 Eb6
+=2' qua rest cro. <C Ebl Bb> cro <B_bl Cx Eb> <B_bl Cx Eb>
+=3 cro. G cro G g qua G-is4,
+|
+=1 min f#)1 cro rest g
+r0.6 .75 she
+I0.1 .08 Ebm6
+=2' qua rest cro. <B_blr Cx Eb> cro <B_bl Cx Eb> <B_bl Cx Eb>
+=3 cro. Gb cro Gb gb qua Gb-is4,
+|
+=1 cro a qua [A B'] [c d e en(1]
+r0.6 .01 looks .24 straight ahead not at me . . .
+I0.1 .08 Fm7
+=2 qua rest cro. <C Eblr Ab> cro <C Eb> <C Eb>
+=3' min rest' cro ab ab
+=3, cro. F cro F f qua F-is4,
+|
+=1 min. en)1 cro rest
+=2 qua rest cro. D cro D D
+=3' qua rest cro. <g# b> cro <g# b> <g# b>
+=3, cro. E cro E e qua E-is4,
+/
+4 bars | 1b 8 | 8 | 8 | 8 |
+|
+I0.5 .08 Ebmaj7
+=1 cro f qua d cro. d cro c
+r0.7 .06 Young and tanned .76 and
+=2' bass qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2, cro. Eb qua Bb cro. eb qua Bb
+|
+=1 cro f qua d cro d qua d cro c
+r0.7 .01 tall .24 and handsome, the
+=2' qua rest' cro. <g bb d~> qua rest'' cro <g bb c~x> qua d~
+=2, cro. Eb qua Bb cro eb qua [Bb Eb]
+|
+I0.5 .01 F13
+=1 cro f qua d cro. d cro c
+r0.7 .01 girl .23 from  I .62 - .75 pa   -
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro f c
+|
+=1 cro f qua [d d] [d d] rest c
+r0.7 .01 ni  - ma goes walking, and
+=2' qua rest' cro. <eb a d~> qua rest'' cro <e a c~> qua d~
+=2, cro. F qua c cro. f qua c
+/
+4 bars | 3b 8 | 8 | 8 | 8 |
+|
+I0.5 .06 Fm
+=1 cro e qua c cro c qua c cro B
+r0.7 .06 when .29 she .45 passes .77 I
+=2' qua rest' cro. <f ab e~b> qua rest' cro <f a c~> qua c~#
+=2, cro. F qua Ab cro c B
+|
+I1.2 .01 F#aug
+Il0.2 .34 ,
+=1 cro. b-fermata qua d cro3 d d-I3 c
+r0.7 .01 smile .37 but  she  doesn't
+=2' qua rest' cro. <gblr bb d~-fermata> min rest'
+=2, min Bb rest,
+|
+I0.5 .01 Ebmaj7
+=1 min. d cro rest
+r0.7 .01 see . . .
+=2' qua rest'' cro. <g bb d~> cro <g bb d~> <g bb d~>
+=2, cro. Bb cro Bb Bb qua B_b
+|
+I0.5 .01 Daug
+=1 min rest qua rest [d d c]
+r0.7 .62 she .75 doesn't
+=2' qua rest'' cro. <f#l bb d~> cro <f#l bb d~> <f#l bb d~>
+=2, cro. Bb cro Bb Bb qua B
+/
+4 bars | 3b 8 | 8 | 8 | 6 ||
+|
+I0.5 .01 Ebmaj7
+=1 min. d cro rest
+r0.7 .05 see . . .
+=2 treble smb rest
+=3' bass qua rest'' cro. <g bb d~> cro <g bb d~> <g bb d~>
+=3, cro. Bb cro Bb Bb qua B_b
+|
+I0.5 .01 Daug
+=1 cro. rest qua d cro3 d d-I3 c
+r0.6 .35 she .50 just .67 doesn't
+=2 smb rest
+=3' qua rest'' cro. <f#l bb d~> cro <f#l bb d~> <f#l bb d~>
+=3, cro. Bb cro Bb Bb qua Bb
+|
+I0.5 .01 Ebmaj7
+=1 smb d
+r0.6 .01 see . . .
+=2 min rest qua rest-fermata [G, c f]
+=3' qua rest'' cro. <g bb d~> min <g(4 bb d~(1>
+=3, cro. Bb qua Bb(2 min B)2(2
+|
+=1 smb rest
+=2 smb bb
+=3 smb <g)4 bb d~)1>
+=3 smb Bb)2
+
+% stop
+4 systems 10 /19 40 19-35-19/19 40 19-35-19/19 40 19-40-19/19 40 19-35-19/
+title Stormy Weather
+lefthead Harold Arlen
+/
+4 bars | 4/4 1.5 1.5 1.5  1.5 1.5 1.5  2  1.7 1.7 1.7  3.2 2.5 2.2 \
+ | 1.7 1.7 1.7  2.5 3.2 3.2  1.7 1.7 2.2  3.0 2.5 2.2 \
+ | 9 12 | 2 2 2  3.2 2.5 3.2  1.7 1.7 1.7  3.2 2.5 2.2 |
+|
+=1' treble 4/4 min. blank smb rest
+=2' treble 4/4 min rest smq3-s F# blank cro G qua3 [A Bb-I3 c]
+=3, bass   4/4 smb <g bb d~x e~b>
+|
+=1  min. blank smb rest
+=2  cro db qua3 [A, c-I3 db] qua. [eb smq B,] qua3 [c eb-I3 f]
+=3  min <f#rl a c~#l e~b> <fnl ab c~ e~b>
+|
+=1 min rest cro f# g
+r0.6 .43 Don't .74 know
+=2  smb <Ab d gb>
+=3' qua rest' cro. c~(2 cro3 c~)2 b-I3 bb
+=3, smb Bb
+|
+=1 min. bb qua3 rest [f#-I3 g]
+r0.6 .01 why .73 there's no
+=2' min D <C# E>
+=3' min <g bb> <g bb>
+=3, qua rest, Eb qua3 [G Bb-I3, d] cro c# qua [G Gb]
+/
+4 bars | 2 2 2  3.2 2.5 3.2  1.7 1.7 1.7  3.2 2.5 2.2 \
+ | 24 | 6 8 6 8 | 2.5 2.5 2.5  3.4 2.5 3.4  2.7 2 2.6  2.5 3.4 2.2 |
+|
+=1 treble qua [bb g,(1] qua3 [g,)1 bb-I3 a,] cro ab qua3 rest [f#-I3 g]
+r0.6 .01 sun up  in the sky . . . .78 stormy
+=2, treble cro rest qua3 [c eb-I3 f] cro. gb qua bb
+=3' bass   min <ab c~ e~b> <bb c~x d~>
+=3,        min F cro rest, Bb
+|
+=1 qua bb cro. Bb min rest
+r0.6 .01 weather . . .
+=2 smb Bb
+=2, min. blank cro <C#lx D#l>
+=3  cro <gr bbl d~x e~bl> <g bbl d~x e~bl> <g bbl d~x e~bl> <f# a>
+|
+=1 qua [f f(1] qua3 [f)1 f-I3 f] cro f qua3 rest [eb-I3 c]
+r0.6 since my gal and I .79 ain't to -
+=2 cro <C Eb> <C Eb> <B_ Eb> <C Eb>
+=3' cro <f ab> <f ab> <f ab> <f ab>
+=3, cro rest, c B Bb
+|
+=1 smq [eb(1 c)1] cro. Bb(1 cro. Bb)1 qua rest
+r0.6  -  gether,
+=2 cro <G_ B_b D> <G_ B_bl Eb> min <A_ Dbl Eblx>
+=3 qua rest eb qua3 [c Bb-I3 G] qua [F# eb'] qua3 [Bn A-I3 F#]
+/
+3 bars | 24 | 1.7 1.7 1.7  2 2 2.3  1.2 1.2 1.2 2 2.6 2.6 2.0 \
+ | 1.8 1.8 2.3 2.3  1.8 2.3 1.8 2.3  1.5 1.5 1.5 1.5  1.5 1.5 1.5 1.5 |
+|
+=1, treble qua rest [Ab c eb] cro. f# qua g
+r0.6 .11 keeps raining all .85 the
+=2' treble qua [A_b C Eb F] cro. Gb qua Gn
+=2, min blank cro <A_n Ebl> <A_bl D>
+=3' bass   min eb cro gb f
+=3, cro. F qua c-s3, cro <B ebl> <Bb d>
+|
+=1 min. bb cro rest
+r0.6 .01 time .
+=2' cro rest' qua bb cro. Bb smq3-s Bn blank qua3 [c eb-i3 gb]
+=2, cro <Dr Ebx> <Dr Ebx> <Dblx Ebl> qua3 blank cro <Dblx Ebl>
+=3 cro <g bb> <g bb> <f#l bb> qua3 blank cro <f#l bb>
+|
+=1 min. rest qua [f# g]
+r0.6 .74 Can't go
+=2  smq [f-s4 B,-s1 c-s2 Ab,-s1] [gb-s5 f eb B,-s1] min <Gbrl-s2-s4 Bb'>
+=3' min <abrl c~ e~b> <abr d~>
+=3, cro fr B rest, Bb
+/
+3 bars | 24 | 2 2 2  2.1 2 2.4  2 2 2  2.2 2 2  | 24 |
+|
+=1 treble min. bb qua3 rest [f#-blank-I3(1 g)1]
+r0.6 .01 on .78 when
+=2' treble min D qua rest cro. <C# E>
+=3' bass   min <g bb> qua rest' cro. <g bb>
+=3, qua rest, F# qua3 [G Bb-I3, d] cro c# qua [G Gb]
+|
+=1 qua [bb g,(1] qua3 [g,)1 bb-I3 a,] cro ab qua3 rest [f#-I3 g]
+r0.6 .01 all I   have is gone . . . .78 stormy
+=2, cro rest qua3 [c eb-I3 f] cro. gb qua bb   
+=3' min <ab c~ e~b> <bb c~x d~>
+=3, min F cro rest, Bb
+|
+=1 qua bb cro. Bb min rest
+r0.6 .01 weather . . .
+=2 smb Bb
+=2, min. blank cro <C#lx D#l>
+=3  cro <gr bbl d~x e~bl> <g bbll d~x e~bl> <g bbll d~x e~bl> <f# a>
+
+4 systems 10 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+lefthead Stormy Weather, Harold Arlen
+/
+3 bars | 24 | 2 2 2  2.3 2 2.3  2 2 2  2 2.3 2 | 24 |
+|
+=1 treble qua [f f(1] qua3 [f)1 f-I3 f] cro f qua3 rest [eb-I3 c]
+r0.6 .03 since my .33 gal and I .79 ain't to -
+=2 treble cro <C Eb> <C Eb> <B_ Eb> <C Eb>
+=3' bass   cro <f ab> <f ab> <f ab> <f ab>
+=3, cro rest, c B Bb
+|
+=1 smq [eb(1 c)1] cro. Bb(1 cro. Bb)1 qua rest
+r0.6 .01 gether,
+=2 cro <G_ B_b D> <G_ B_b Eb> min <A_ Dbl Eblx>
+=3 qua rest eb qua3 [c Bb-I3 G] qua [F# eb'] qua3 [Bn A-I3 F#]
+|
+=1, qua rest [Ab c eb] cro. f# qua g
+r0.6 .11 keeps raining all .85 the
+=2' qua [A_b C Eb F] cro. Gb qua Gn
+=2, min blank cro <A_ Ebl> <A_bl Dn>
+=3' min eb cro gb f
+=3, cro. F qua c-s3, cro <B ebl> <Bb d>
+/
+3 bars | 24 | 2 2 2 2 2 2 2 2 2 2 2.3 2 | 24 |
+|
+=1 treble qua g(1 cro. eb)1 cro rest eb
+r0.6 .01 time , .75 the
+=2' treble min <G_ C Eb> <B_b Eb G>
+=3' bass   cro eb d c Bb
+|
+=1 qua c(1 cro. Bb,)1 min rest
+r0.5 .01 time
+=2 min <B_b Cx F> <A_ Dbl Eblx>
+=3 cro Ab G qua [F# eb'] qua3 [Bn A-I3 F#]
+| 
+=1, qua rest [Ab c eb] cro. f# qua g
+r0.6 .11 keeps raining all .85 the
+=2' qua [A_b C Eb F] cro. Gb qua Gn 
+=2, min blank cro <A_n Ebl> <A_bl D>
+=3' min eb cro gb f
+=3, cro. F qua c-s3, cro <B ebl> <Bb d>
+/
+3 bars | 1.8 1.8 1.8  2 2 2  1.8 1.8 1.8  2.3 2 2 \
+ | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.1 2.1 \
+ | 2.3 2 2  2.3 2.3 2.1  2.3 2 2    2.3 2.1 2.1 |
+|
+=1 treble qua g(1 cro. eb)1 min rest
+r0.6 .01 time .
+=2' treble min <G_ B_b Eb> qua rest cro. <B_b Db F>
+=3' bass   cro c qua [Bb Ab] cro G qua3 [Eb F#-I3, G]
+|
+=1 qua [c d] qua3 [eb f-I3 eb(1] qua. [eb)1 smq eb] qua. [eb smq eb]
+r0.6  .01 When she went away .68 the blues walked in
+=2 qua <A_blr B_bxl C Eb> cro. <A_blr B_bxl C Eb> \
+ qua <A_bl B_bxl C Eb> cro. <A_blr B_bxl C Eb>
+=3 cro Ab qua3 [Ab eb'-I3, en'] cro f qua3 [Ab F-I3 E]
+|
+=1 cro. eb qua eb qua g cro eb qua rest
+r0.6 .37 and met  me ,
+=2 qua <G_ B_b Cx Eb> cro. <G_ B_bl Cx Eb> \
+ qua <G_ B_bl Cx Eb> cro. <G_ B_bl Cx Eb>
+=3 cro Eb qua3 [Eb Bb-I3, Bn] cro c qua3 [c Bb-I3 A]
+/
+3 bars | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.1 2.1 \
+ | 2 2 2  2 2 2  2.3 2 2    2.3 2.3 2.1 \
+ | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.1 2.1 |
+|
+=1 treble qua. [c smq d] qua3 [eb f-I3 eb(1] qua. [eb)1 smq eb] qua. [eb smq eb]
+r0.6 .01 if .18 she stays away, .68  old rockin'
+=2 treble qua <A_bl B_bxl C Eb> cro. <A_bl B_bxl C Eb> \
+ qua <A_bl B_bxl C Eb> cro. <A_bl B_bxl C Eb>
+=3 bass   cro Ab qua3 [Ab eb'-I3, en'] cro f qua3 [Ab F-I3 E]
+|
+=1 cro. eb qua eb qua c cro Bb qua rest
+r0.6 .01 chair .36 will get me ,
+=2 cro <G_ B_b Eb> qua [G_ B_b] qua <A_b C> cro. <G_ B_b>
+=3 qua [Eb eb'] cro Eb Eb qua3 [Eb Gb-I3 Gn]
+|
+=1 qua. [c smq d] qua3 [eb f-I3 eb(1] qua. [eb)1 smq eb] qua. [f smq eb]
+r0.6  .01 All .20 I do is pray .68 the Lord a -
+=2 qua <A_blr B_bxl C Eb> cro. <A_blr B_bxl C Eb> \
+ qua <A_bl B_bxl C Eb> cro. <A_blr B_bxl C Eb>
+=3 cro Ab qua3 [Ab eb'-I3, en'] cro f qua3 [Ab F-I3 E]
+
+4 systems 10 /19 40 19-40-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+lefthead Stormy Weather, Harold Arlen
+/
+3 bars | 1.8 1.8 1.8  2.3 2.3 2.2  2 2 2  2 2 2 \
+ | 6 7 6 6.5 | 1.8 1.8 1.8  2.1 2.1 2.3  2 2 2  2 2 2 |
+|
+i0.9 .45 rall . . .95 slower . . .
+=1 treble cro. g qua g ab cro g qua rest
+r0.6 .04 - bove .37 will let  me
+=2 treble cro <G_ B_b Eb> qua [G_ B_b] cro Eb qua [G Eb]
+=2, min blank qua <A_b C> cro. <G_ B_b>
+=3 bass   cro Eb qua3 [Gb Gn-I3, Bb] qua c cro. Bb
+|
+=1 cro bb qua [g f] cro eb qua rest c
+r0.6 .01 walk .24 in the .49 sun .85 once
+=2' cro Bb qua [G F] cro Eb Eb
+=2, cro B_b qua [B_b B_b] cro B_b qua [B_b A_]
+=3' cro g qua [eb eb] cro eb eb
+=3, cro eb qua [Bb Ab] cro G Gb
+|
+=1 min f cro rest qua [f# g]
+r0.6 .01 more . .72 Can't go
+=2 min <A_b C Eb> qua C cro B_ qua B_b
+=2, min blank <F_ A_b>
+=3' cro F qua3 [eb c-I3, B] cro Bb B_b
+/
+3 bars | 2 2 2 2.2 2.1 2.3 1.8 1.8 1.8  2.3 2.1 2.1 \
+ | 2 2 2 2.1 2.1 2.3 1.8 1.8 1.8 2.3 2.1 2 | 6 5.5 5.5 5.5 |
+|
+=1 treble min. bb qua3 rest [f#-blank-I3(1 g)1]
+r0.6 .01 on .78 when
+=2' treble min D <C# E>
+=3' bass   min <g bb> <g bb>
+=3, qua rest, F# qua3 [G Bb-I3, d] cro c# qua [G Gb]
+|
+=1 qua [bb g,(1] qua3 [g,)1 bb-I3 a,] cro ab qua3 rest [f#-I3 g]
+r0.6 .01 all .12 I .30 have is gone . . . .78 stormy
+=2, cro rest qua3 [c eb-I3 f] cro. gb qua bb   
+=3' min <ab c~ e~b> <bb c~x d~>
+=3, min F cro rest, Bb
+|
+=1 qua bb cro. Bb min rest
+r0.6 .01 weather . . .
+=2 smb Bb
+=2, min. blank cro <C#lx D#l>
+=3  cro <gr bbl d~x e~bl> <g bbll d~x e~bl> <g bbll d~x e~bl> <f# a>
+/
+3 bars | 24 | 2 2 2  2.3 2.1 2.3  2 2 2  2.1 2.3 2 | 24 |
+|
+=1 qua [f f(1] qua3 [f)1 f-I3 f] cro f qua3 rest [eb-I3 c]
+r0.6 .03 since my .33 gal and I .79 ain't to -
+=2 cro <C Eb> <C Eb> <B_ Eb> <C Eb>
+=3' cro <f ab> <f ab> <f ab> <f ab>
+=3, cro rest, c B Bb
+|
+=1 smq [eb(1 c)1] cro. Bb(1 cro. Bb)1 qua rest
+r0.6  gether,
+=2 cro <G_ B_b D> <G_ B_b Eb> min <A_ Dbl Eblx>
+=3 qua rest eb qua3 [c Bb-I3 G] qua [F# eb'] qua3 [Bn A-I3 F#]
+|
+=1, qua rest [Ab c eb] cro. f# qua g
+r0.6 .11 keeps raining all .85 the
+=2' qua [A_b C Eb F] cro. Gb qua Gn
+=2, min blank cro <A_ Ebl> <A_bl Dn>
+=3' min eb cro gb f
+=3, cro. F qua c-s3, cro <B ebl> <Bb d>
+/
+3 bars | 2 2 2  1.9 1.9 1.9  1.9 1.9 1.9 2.1 2.3 2 | 24 | 24 ||
+|
+=1 treble qua g(1 cro. bb)1 min rest
+r0.6 .01 time ,
+=2' treble  min <B_b D G> <B_b Eb G>
+=3' bass    cro eb d c qua3 [Bb G-I3, Gb]
+|
+=1, qua rest [Ab c eb] cro. f# qua g
+r0.6 .11 keeps raining all .85 the
+=2' qua [A_b C Eb F] cro. Gb qua Gn 
+=2, min blank cro <A_n Ebl> <A_bl D>
+=3' min eb cro gb f
+=3, cro. F qua c-s3, cro <B ebl> <Bb d>
+|
+=1 qua g(1 cro. eb)1 min rest
+r0.6 .01 time .
+=2' min rest' qua bb cro. Bb
+=2 smb <G_ B_b Eb>
+=3' cro c qua [B Bb(2] min Bb)2
+
+4 systems 15 /19 35 19-30-19/19 35 19-30-19/19 35 19-40-19/19 35 19-30-19 8/
+title Caravan
+righthead Duke Ellington, Irving Mills and Juan Tizol
+/
+6 bars ||: 2/2 8 | 1 1 1 1 1 1 1.6 1 | 8 | 8 | 8 | 1 1 1 1 1 1 1.6 1 |
+|
+=1 treble 2/2 smb c(1
+=2' treble 2/2 cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  bass   2/2 min. <C-s1,-s4, c> qua [B_ C]
+|
+=1 smb c)1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Db qua [C Db]
+|
+=1 cro rest db c G
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Dn qua [C# D]
+|
+=1 cro Bb c e G
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min Db C
+|
+=1 smb Bb(1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. <C-s1,-s4, c> qua [B_ C]
+|
+=1 smb Bb)1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Db qua [C Db]
+/
+6 bars | 8 | 8 | 8 | 1 1 1 1 1 1 1.6 1 | 8 | 8 |
+|
+=1 treble cro rest c db c
+=2  treble cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  bass   smb C(2-s4,
+|
+=1 cro db c B E
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  smb <C)2 c>
+|
+=1 smb Bb(1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. C qua [B_ C]
+|
+=1 smb Bb)1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Db qua [C Db]
+|
+=1 cro rest c B Bb
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Dn qua [C# D]
+|
+=1' cro A G# F# E
+=2  cro <G_ E> <B_b D> <G_ E> B_b
+=3  min Db C
+/
+6 bars | 8 | 1 1 1 1 1 1 1.6 1 | 8 | 8 :|| 8 | 8 |
+|
+=1 treble smb Fn(2
+=2  treble min. D-s4 qua [C# D]
+=3' bass   cro c~-s2 ab-s1 c~ ab
+=3  smb F
+|
+=1 smb F)2(2
+=2 min. Eb qua [D-s3 Eb]
+=3' cro c~ ab c~ ab
+=3 smb F_
+|
+=1 smb F)2(2
+=2 min. En qua [D# E]
+=3' cro c~ ab c~ ab
+=3 smb F
+|
+=1 cro F)2 min. rest
+=2 min Eb D
+=3' cro c~ ab c~ ab
+=3 smb f
+|
+=1 smb f
+i0.5 .01 F7
+=2 cro <A_ G> <C Eb> <A_ G> <C Eb>
+=3 min. F qua [E F]
+|
+=1 min d c
+=2 cro <A_ G> <C Eb> <A_ G> <C Eb>
+=3 min. G qua [F G]
+/
+6 bars | 8 | 8 | 1 1 1 1 1 1 1.5 1 | 8 | 8 | 8 |
+|
+=1 treble smb G(2
+=2 treble cro <A_ G> <C Eb> <A_ G> <C Eb>
+=3 bass   smb A(2
+|
+=1 cro G)2 rest min F
+=2 cro <A_ G> <C Eb> <A_ G> Eb
+=3 min. <A,)2 f'> qua [G A]
+|
+=1 smb c
+i0.5 .01 Bb7
+=2' cro <C Ab> <D F> <C Ab> <D F>
+=3 min. Bb qua [A Bb]
+|
+=1 min G F
+=2' cro <B_b Ab> <D F> <B_b Ab> <D F>
+=3 min. c qua [Bb c]
+|
+=1 smb C(2
+=2' cro <B_b Ab> <C F> <B_b Ab> <C F>
+=3 smb d
+|
+=1 min C)2 rest
+=2' cro <B_b Ab> <C F> <B_b Ab> <C F>
+=3 min. D qua [C D]
+
+4 systems 15 /19 35 19-30-19/19 35 19-30-19/19 35 19-30-19/19 35 19-40-19 8/
+righthead Caravan, Duke Ellington, Irving Mills and Juan Tizol
+/
+6 bars | 1 1 1 1 1 1 1.5 1 | 8 | 8 | 8 | 1 1 1 1 1 1 1.5 1 | 8 |
+|
+=1 treble smb eb
+i0.5 .05 Eb7
+=2' treble cro <B_b G> <Db F> <B_b G> <Db F>
+=3  bass   min. Eb qua [D Eb]
+|
+=1 min c Bb
+=2  cro <B_b G> <Db Ebxl> <B_b G> <Db Ebxl>
+=3  min. F qua [Eb F]
+|
+=1 smb F
+=2  cro <B_b F> <Db Ebxl> <B_b F> <Db Ebxl>
+=3  smb G(2
+|
+=1 cro rest min Eb cro F
+=2  cro <B_b F> <Db Ebxl> <B_b F> Eb
+=3  min. G)2 qua [F G]
+|
+=1 smb Ab
+i0.5 .01 Ab6 
+=2' cro <C Bb> <Eb Fx> <C Bb> <Eb Fx>
+=3  min. Ab qua [G Ab]
+|
+=1 cro rest min Bb cro Ab
+=2' cro <C Ab> <Eb Fx> <B_n Ab> <Eb Fx>
+=3  min Bb Bn
+/
+6 bars | 8 | 8 | 8 | 1 1 1 1 1 1 1.6 1 | 8 | 8 |
+|
+=1 treble smb G(2
+i0.5 .05 C7
+=2 treble cro <B_b G> <D Ex> <B_b G> D
+=3 bass   smb c(2
+|
+=1 cro G)2 rest min c
+=2 cro <B_b E> D <B_b E> D
+=3 cro c)2 min. rest
+|
+=1 smb c(1
+=2' cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. <C-s1,-s4, c> qua [B_ C]
+|
+=1 smb c)1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Db qua [C Db]
+|
+=1 cro rest db c G
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Dn qua [C# D]
+|
+=1 cro Bb c e G
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min Db C
+/
+6 bars | 8 | 1 1 1 1 1 1 1.6 1 | 8 | 8 | 8 | 1 1 1 1 1 1 1.6 1 |
+|
+=1 treble smb Bb(1
+=2  treble cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  bass   min. <C-s1,-s4, c> qua [B_ C]
+|
+=1 smb Bb)1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Db qua [C Db]
+|
+=1 cro rest c db c
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  smb C(2-s4,
+|
+=1 cro db c B E
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  smb <C)2 c>
+|
+=1 smb Bb(1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. C qua [B_ C]
+|
+=1 smb Bb)1
+=2  cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  min. Db qua [C Db]
+/
+6 bars | 8 | 8 | 8 | 1 1 1 1 1 1 1.6 1 | 8 | 8 ||
+|
+=1 treble cro rest c B Bb
+=2  treble cro <G_ E> <B_b D> <G_ E> <B_b D>
+=3  bass   min. Dn qua [C# D]
+|
+=1' cro A G# F# E
+=2  cro <G_ E> <B_b D> <G_ E> B_b
+=3  min Db C
+|
+=1 smb F(2
+=2  min. D-s4 qua [C# D]
+=3' cro c~-s2 ab-s1 c~ ab
+=3  smb F
+|
+=1 smb F)2(2
+=2 min. Eb qua [D Eb]
+=3' cro c~ ab c~ ab
+=3 smb F_
+|
+=1 smb F)2(2
+=2' min blank g(1
+=2 smb D
+=3' cro c~ ab c~ ab
+=3 smb F
+|
+=1 cro F)2 min. rest
+=2' smb g)1
+=2 smb D
+=3' smb c~
+=3 smb F_
+
+
+4 systems 15 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+title The Hawk Talks
+lefthead Louis Bellson
+/
+4 bars | 1b 4/4 4 5 4 5 4 ||: 5 4 5 4 4 5 5 4 | 32 | 32 |
+|
+=1, treble 1b 4/4 qua a [c~ bn c~ d~b]
+=2' treble 1b 4/4 qua rest min rest
+=3  bass   1b 4/4 qua rest cro. rest qua Ab-s4,
+|
+=1, qua [d~ bb a ab] [g an bb bn]
+r0.4 .01 Gm7 .50 C7
+=2  cro rest, qua <G_ D F> rest, rest, <G_ C E> cro rest,
+=3  qua [G A Bb Bn] [c D-s5, Eb En]
+|
+=1 qua [c~ f] cro rest qua rest [f g a]
+r0.4 .01 F .50 Dm7
+=2  cro <A_ C E> rest, rest, qua <C Dx F-s2-s3-s5> rest,
+=3  qua [F G G#-s4, A] cro. rest qua Ab-s4,
+|
+=1 qua [bb e] cro rest qua rest [e f g]
+r0.4 .01 Gm6 .50 C7
+=2  cro <B_b D F> rest, rest, qua <B_b E G> rest,
+=3' qua [G Bb-s3, Bn c] cro. rest qua db-s2,
+/
+3 bars | 1b 24 | 24 | 24 |
+|
+=1 treble 1b qua [a, c~] rest c~(1 [c~)1 bn c~ c~#]
+r0.3 .04 F
+=2 treble 1b cro <A_ E G> rest rest qua <C Ex F-s1-s3-s4> rest
+=3 bass   1b qua [c-s1, B Bb A] cro. rest qua Ab-s4,
+|
+=1, qua [d~ bb a ab] [g an bb bn]
+r0.3 .01 Gm7 .50 C7
+=2  cro rest qua <D Fx G> rest rest <C E G> cro rest
+=3  qua [G A Bb Bn] [c D Eb En]
+|
+=1 qua [c~ f] rest cro e-emph eb-emph qua d(1
+r0.3 .01 F .37 Am7 .62 G#m7 .87 Gm7
+=2  qua <C E A> rest rest <C E G> rest <B_ D#l F#> rest <B_bll(2 Dnl Fn(1>
+=3  qua [F G G#-s4, A] rest Ab rest Gn(2
+/
+3 bars | 1b 36 | 36 :|| 3 3 3 3 3 3 3 4 3 4 3 3  |
+|
+=1 treble 1b qua [d)1 f a d~] [c~ g a f(1]
+r0.4 .50 C7
+=2  treble 1b cro <B_b)2 D F)1> rest qua rest <B_b G> rest <A_(2 F(1>
+=3  bass   1b qua [G)2 A Bb Bn] [c, d#,-s3, e f]
+|
+rl1.4 .08 ____________________
+bl0.7 .01 1a
+=1 cro f)1 qua rest a [c~ bn c~ c~#]
+r0.4 .04 F
+=2 cro <A_)2 F)1> min. rest
+=3 qua [d'-s2, c-s3, Ab-s4, F] cro. rest qua Ab-s4,
+|
+rl1.5 .08 __________
+bl0.7 .01 2a
+=1 cro f)1 cro rest qua3 [bn c~-I3 c~#] [d~ d~#-I3 e~]
+r0.4 .04 F
+=2 cro <A_)2 F)1> min. rest
+=3 qua [d' c Ab F(2] cro F)2 rest
+/
+3 bars | 1b 3 3 3 4 3 3 4 3 4 3 3 3 | 3 3 3 3 4 3 3 4 3 3 3 3 | 36 |
+|
+=1 treble 1b cro. f~ qua c~(1 cro. c~)1 qua d~
+r0.5 .04 F9 .75 E9
+=2 treble 1b cro rest' qua3 [d d#-I3 e] [f f#-I3 g] qua [g# a]
+=3 bass   1b min. <a c~ e~b g~> cro <g# b d~ f~#>
+|
+=1 cro. e~b qua bb(1 cro. bb)1 qua c~
+r0.5 .01 Eb9 .75 A7
+=2 cro bb qua3 [c# d-I3 d#] [e f-I3 f#] qua [g g#]
+=3 min. <gr bbl d~b f~> cro <gx a c~#l e~>
+|
+=1 qua [d~ c~# d~ a(1] a)1 cro d~ qua a
+r0.5 .01 Am7 .50 D7
+=2 cro a A e E
+=3 min <gxr a c~nl e~> <f# a c~>
+
+4 systems 5 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+lefthead The Hawk Talks, Louis Bellson
+/
+3 bars |1b 3 3 3 3 3 3 3 4 3 4 3 3|3 3 3 4 3 3 4 3 4 3 3 3|3 3 3 3 4 3 3 4 3 3 3 3|
+|
+=1, treble 1b cro c~-emph qua c~-emph rest qua3 [bn c~-I3 c~#] [d~ d~#-I3 e~]
+r0.5 .04 F
+=2' treble 1b cro c-emph min. C
+=3' bass   1b smb <g bb>
+=3,        1b min fr e
+|
+=1, cro. f~ qua c~(1 cro. c~)1 qua d~
+r0.5 .01 F9 .75 E9
+=2 cro rest qua3 [d d#-I3 e] [f f#-I3 g] qua [g# a]
+=3 min. <a c~ e~b g~> cro <g# b d~ f~#>
+|
+=1 cro. e~b qua bb(1 cro. bb)1 qua c~
+r0.5 .01 Eb9 .75 A7
+=2 cro bb qua3 [c# d-I3 d#] [e f-I3 f#] qua [g g#]
+=3 min. <gr bbl d~b f~> cro <gx a c~#l e~>
+/ 
+3 bars | 1b 24 | 24 | 24 |
+|
+=1, treble 1b qua [d~ c~# d~ a(1] a)1 cro d~ qua a
+r0.4 .04 Am7 .50 D7
+=2  treble 1b cro a A e E
+=3, bass   1b min <gxr a c~nl e~> <f# a c~>
+|
+=1 cro c~-emph qua rest a [c~ bn c~ c~#]
+r0.4 .04 F
+=2  cro d(1 min c)1 cro rest
+=3' min <g bb>
+=3  cro fr e c, qua rest Ab
+|
+=1, qua [d~ bb a ab] [g an bb bn]
+r0.4 .01 Gm7 .50 C7
+=2  cro rest, qua <G_ D F> rest, rest, <G_ C E> cro rest,
+=3  qua [G A Bb Bn] [c D-s5, Eb En]
+/
+3 bars | 1b 24 | 24 | 24 |
+|
+=1 treble 1b qua [c~ f] cro rest qua rest [f g a]
+r0.4 .04 F .50 Dm7
+=2' treble 1b cro <A_ C E> rest, rest, qua <C Dx F-s2-s3-s5> rest,
+=3  bass   1b qua [F G G#-s4, A] cro. rest qua Ab
+|
+=1 qua [bb e] cro rest qua rest [e f g]
+r0.4 .01 Gm6 .50 C7
+=2  cro <B_b D F> rest, rest, qua <B_b E G> rest,
+=3  qua [G Bb-s3, Bn c] cro. rest qua db'-s2,
+|
+=1 qua [a c~] rest c~(1 [c~)1 bn c~ c~#]
+r0.4 .01 F
+=2 cro <A_ E G> rest rest qua <C Ex F-s1-s3-s4> rest
+=3 qua [c-s1, B Bb A] cro. rest qua Ab-s4,
+/
+4 bars | 1b 24 | 24 | 24 | 12 9 ||
+|
+=1, treble 1b qua [d~ bb a ab] [g an bb bn]
+r0.3 .04 Gm7 .50 C7
+=2' treble 1b cro rest qua <D Fx G> rest rest <C E G> cro rest
+=3  bass   1b qua [G A Bb Bn] [c D Eb En]
+|
+=1 qua [c~ f] rest cro e-emph eb-emph qua d(1
+r0.3 .01 F .37 Am7 .62 G#m7 .87 Gm7
+=2  qua <C E A> rest rest <C E G> rest <B_ D#l F#> rest <B_bll(2 Dnl Fn(1>
+=3  qua [F G G#-s4, A] rest, Ab rest, Gn(2
+|
+=1 qua [d)1 f a d~] [c~ g a f(1]
+r0.3 .50 C7
+=2  cro <B_b)2 D F)1> rest qua rest <C# A-s1-s5> rest <D(2 G-s2-s4(1>
+=3  qua [G)2 A Bb Bn] [c D#-s3, E F]
+|
+=1 cro f)1 min. rest
+r0.3 .01 F
+=2 cro <D)2 G)1> qua rest <A_(2 Cx D(1> min <A_)2 Cx D)1>
+=3 qua [D-s2, C-s3, A_b-s4, F_(2] min F_)2
+
+
+4 systems 15 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+title Lullaby of Birdland
+lefthead George Shearing
+/
+4 bars ||: 1b 4/4 16 | 16 | 16 | 16 |
+|
+=1 treble 1b 4/4 qua. [a smq a] qua. [g smq f] qua e(1 cro. d)1
+r0.2 .08 Dm .65 Dm6
+=2' treble 4/4 cro rest cro <C-s2-s3 Dx> qua rest cro. <B_ D>
+=3  bass   4/4 cro rest cro <f a> qua rest cro. <f a>
+|
+=1 cro Bn qua d(1 cro. c#)1 cro rest
+r0.2 .01 E7 .38 A7+9
+=2  cro. D C# cro rest
+=2, min. B_
+=3' cro. g# gn cro A
+=3, min. e-s1,-s2,
+|
+=1 cro A qua e(1 cro. d)1 cro rest
+r0.2 .01 Dm .38 Bbmaj7
+=2 min. <F_ A_ C> cro rest
+=3 cro. e d cro Bb
+|
+=1 cro Bb qua a(1 cro. g)1 cro rest
+r0.2 .01 Gm7 .38 C7
+=2 cro <F_ B_b D> qua rest cro <G_ B_b Dx E> cro rest
+=3' cro G qua db cro. c cro C
+/
+4 bars | 1b 16 | 16 | 16 | 16 |
+|
+=1 treble 1b qua. [c~ smq c~] qua. [b smq a] qua g(1 cro. f)1
+r0.2 .01 Am7 .50 Dm
+=2  treble min <A_ C E G> qua rest cro. <D F-s2-s4>
+=3  bass   min rest qua rest cro. <a-s1,-s3, c~>
+|
+=1 qua. [d smq a(1 qua g)1 db(1] qua. [d)1 smq a(1 qua g)1 c(1]
+r0.2 .01 Gm7 .38 C7+9
+=2 cro. <D F> min <C# E> qua <Cn(2 E(1>
+=3 cro. <g bb> min <g bb> qua <f(2 a(1>
+|
+=1 min c)1(1 qua. [c)1 smq g(1 qua f)1 B(1]
+r0.2 .01 F .38 Bb9 .87 Gm6
+=2  cro E)1 D(1 cro. D)1 qua <B_b(4 D(1>
+=2, min.. C)2
+=3' min a)1 cro. ab qua g(3
+=3, min.. f)2 qua e(2
+|
+=1, qua. [B)1 smq f(1 qua e)1 A(1] cro A)1 rest
+r0.2 .38 A7
+=2 cro. <B_b)4 D)1> cro. <A_ C#> cro rest
+=3 min. <e)2 g)3>   cro A
+/
+5 bars | 1b 16 | 16 | 16 | 16 | 16 |
+|
+=1 treble 1b qua. [a smq a] qua. [g smq f] qua e(1 cro. d)1
+r0.2 .08 Dm .65 Dm6
+=2' treble cro rest cro <C Dx F A> qua rest cro. <F A>
+=3  bass   cro rest'' cro. rest'' cro. <b d~>
+=3 smb d
+|
+=1 cro Bn qua d(1 cro. c#)1 cro rest
+r0.2 .01 E7 .38 A7+9
+=2  cro. G# Gn cro a
+=3' cro. d~r c~# cro rest'
+=3, min. <b e~> cro blank
+|
+=1 cro A qua e(1 cro. d)1 cro rest
+r0.2 .01 Dm .28 Bbmaj7
+=2  min. F cro bb
+=3' cro. e~ d~ cro rest'
+=3, min. <a c~>
+|
+=1 cro Bb qua a(1 cro. g)1 cro rest
+r0.2 .01 Gm7 .38 C7
+=2 cro. F <C E> cro rest
+=3 cro <g-s1,-s2,-s3, bb d~> qua rest cro. <g bb> cro c
+|
+=1 qua. [c~ smq c~] qua. [b smq a] qua g(1 cro. f)1
+r0.2 .01 Am7 .50 Dm
+=2  min <E G Ax c'> qua rest cro. <A, c>
+=3  min rest qua rest cro. <d~ f~>
+/
+4 bars | 1b 16 | 16 | 16 | 16 |
+|
+=1 treble 1b qua. [d smq a(1 qua g)1 db(1] qua. [d)1 smq a(1 qua g)1 c(1]
+r0.2 .01 Gm7 .38 C7+9
+=2 treble cro. <G Bb'> min <G Bb'> qua <G(2 Ax(1>
+=3 bass   cro. <d~ f~> min <c~# e~> qua <c~n(2 e~(1>
+|
+=1 min c)1(1 qua. [c)1 smq c qua e f(1]
+r0.2 .01 F .50 C7
+=2' min Ar)1 <B_b Dx E G>
+=2, cro G)2 F min blank
+=3 min <c~n)2 e~)1> cro rest c-s2,
+|
+=1 min. f)1 cro rest
+r0.2 .01 F
+=2 smb <A_ Cx D F>
+=3 qua. rest smq d' qua. [c smq A] qua. [G-s1, smq F] qua. [E smq Eb]
+|
+=1 cro a qua. [b smq bn] qua. [c~ smq a qua c~ bb(1]
+r0.2 .01 D9 .50 D7+9
+=2 qua rest <F_# A_ Cx D-s1-s2-s3-s4> cro rest qua rest <F_# A_ C E> cro rest
+=3 qua D rest d' rest D rest d' rest
+
+4 systems 15 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+lefthead Lullaby of Birdland, George Shearing
+/
+5 bars | 1b 16 | 1 1 1 1  1 1 1 1.5 1.1 1.1 1.1 1.5 1 1 1 1 \
+ | 1 1 1 1  1 1 1 1.3  1 1 1 1.3  1.1 1.1 1.1 1.2 \
+ | 1 1 1 1 1.1 1.1 1.1 1.5 1 1 1 1.5 1.2 1.2 1 1 | 16 |
+|
+=1 treble 1b qua b)1 cro. g min rest
+r0.2 .08 Gm .50 Gm7
+=2  treble qua rest <G_ B_b Dx E>  cro rest qua rest <B_b D F> cro rest
+=3  bass   qua G rest d' rest G rest g rest
+|
+=1 cro g qua. [g# smq a] qua. [b smq g qua b a(1]
+r0.2 .01 C9 .50 C7+9
+=2 qua rest <B_b Dx E G>  cro rest qua rest <B_bl Dx E G#> rest <C(2 Dx F A(1>
+=3  qua c rest g rest c-s2, rest [Gb-s4, F(2]
+|
+=1 min a)1 rest
+r0.2 .01 F6
+=2 smb <C)2 Dx F A)1>
+=3 cro F)2 qua. [c smq A] qua. [G-s1, smq F] qua. [E smq Eb]
+|
+=1 cro a qua. [b smq bn] qua. [c~ smq a qua c~ bb(1]
+r0.2 .01 D9 .50 D7+9
+=2 qua rest <F_# A_ Cx D> cro rest qua rest <F_# A_ C E> cro rest
+=3 qua D rest d' rest D rest d' rest
+|
+=1 qua b)1 cro. g min rest
+r0.2 .08 Gm .50 Gm7
+=2  qua rest <G_ B_b Dx E>  cro rest qua rest <B_b D F> cro rest
+=3  qua G rest d' rest G rest g rest
+/
+4 bars | 1b 1 1 1 1 1 1 1 1.2 1 1 1 1.2 1 1 1 1 \
+ | 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 | 16 | 16 |
+|
+=1 treble 1b cro g qua. [g# smq a] qua. [bb smq g qua b a(1]
+r0.2 .01 C9 .50 C7+9
+=2  treble qua rest <B_b Dx E G>  cro rest qua rest <B_bl Dx E G#> cro rest
+=3  bass   qua c rest g rest c-s2, rest cro Gb
+|
+=1 qua. [a)1 smq b qua a g(1] cro g)1 rest
+r0.2 .01 F .38 A7
+=2' cro. A Bb cro A
+=2, cro. <C Ex F> min <C# E G> qua rest,,
+I0.5 .3 f
+=3 qua. [F smq G] qua [G# A(2] min A)2
+|
+=1 qua. [a smq a] qua. [g smq f] qua e(1 cro. d)1
+r0.2 .08 Dm .50 Dm6
+=2' cro rest cro <C Dx F A> qua rest cro. <F A>
+=3 cro rest'' cro. rest'' <b d~>
+=3  smb d
+|
+=1 cro Bn qua d(1 cro. c#)1 cro rest
+r0.2 .01 E7 .38 A7+9
+=2  cro. G# Gn cro a
+=3' cro. d~r c~# cro rest'
+=3, min. <b e~> cro blank
+/
+4 bars | 1b 16 | 16 | 16 | 16 |
+|
+=1 treble 1b cro A qua e(1 cro. d)1 cro rest
+r0.2 .01 Dm .38 Bbmaj7
+=2 treble min. F cro bb
+=3' bass  cro. e~ d~ cro rest'
+=3, min. <a c~>
+|
+=1 cro Bb qua a(1 cro. g)1 cro rest
+r0.2 .01 Gm7 .38 C7
+=2 cro.  F <C E> cro rest
+=3 cro <g-s1,-s2,-s3, bb d~> qua rest cro. <g bb> cro c
+|
+=1 qua. [c~ smq c~] qua. [b smq a] qua g(1 cro. f)1
+r0.2 .01 Am7 .50 Dm
+=2  min <E G Ax c'> qua rest cro. <A, c>
+=3  min rest qua rest cro. <d~ f~>
+|
+=1 qua. [d smq a(1 qua g)1 db(1] qua. [d)1 smq a(1 qua g)1 c(1]
+r0.2 .01 Gm7 .38 C7+9
+=2 cro. <G Bb'> min <G Bb'> qua <G(2 Ax(1>
+=3 cro. <d~ f~> min <c~# e~> qua <c~n(2 e~(1>
+/
+4 bars | 1b 16 | 16 :|| 16 | 1 1 1 1.4 1 1 1 1 .9 .9 .9 .9 .9 .9 .9 .9 ||
+|
+rl1.1 .08 _______________
+bl0.4 .01 1a
+=1 treble 1b min c)1(1 qua. [c)1 smq g(1 qua f)1 B(1]
+r0.2 .01 F .38 Bb9 .87 Gm6
+=2' treble min Ar)1 cro. Ab qua G(1
+=2, cro G)2 min F qua rest,, E(2
+=3' bass   cro e~)1 min d~ qua rest'' bb(1
+=3, min. c~)2 qua [ab g(2]
+|
+=1  qua. [B,)1 smq f(1 qua e)1 A,(2] cro A)2 rest
+r0.2 .38 A7
+=2 min. G)1 cro rest
+=2, cro E)2 qua D cro. C# cro blank
+=3' cro. bb)1 a cro A
+=3, min. g)2 cro blank
+|
+rl1.1 .08 _______________
+bl0.4 .01 2a
+=1 min c(1 qua. [c)1 smq c qua e f(1]
+r0.2 .01 F .38 C7 .87 F
+=2' min Ar)1 <B_b Dx E G>
+=2, cro G)2 F min blank
+=3  min <c~)2 e~)1> cro rest c
+|
+=1 min. f)1 cro rest
+=2 smb <A_ Cx D F>
+=3 qua. rest smq C qua [E F(2] min F)2
+
+@
+
+
+1.2
+log
+@add Stormy Weather
+@
+text
+@d1 229
+d308 1
+a308 1
+=1 treble min. bb qua3 rest [f#-I3(1 g)1]
+d416 1
+a416 1
+i0.8 .45 rall . . .95 slower . . .
+d732 1
+a732 1
+4 bars | 4/4 15 ||: 24 | 24 | 24 |
+d734 1
+a734 1
+=1, treble 1b 4/4 qua a [c~ b c~ db~]
+d736 1
+a736 1
+=3  bass   1b 4/4 qua rest cro. rest qua Ab
+d738 1
+a738 1
+=1, qua [d~ bb a ab] [g a bb bn]
+d753 1
+a753 1
+3 bars | 24 | 24 | 24 |
+d770 1
+a770 1
+3 bars | 24 | 24 :|| 24 |
+d782 1
+a782 1
+=3 qua [d'-s2, c-s3, Ab-s4, F] cro. rest qua Ab
+d784 1
+a784 1
+rl1.4 .08 _____________
+d791 1
+a791 1
+3 bars | 24 | 24 | 24 |
+d798 1
+a798 1
+=1 cro. eb~ qua bb(1 cro. bb)1 qua c~
+d811 1
+a811 1
+3 bars | 24 | 24 | 24 |
+d824 1
+a824 1
+=1 cro. eb~ qua bb(1 cro. bb)1 qua c~
+d829 1
+a829 1
+3 bars | 24 | 24 | 24 |
+d847 1
+a847 1
+3 bars | 24 | 24 | 24 |
+d864 1
+a864 1
+4 bars | 24 | 24 | 24 | 12 9 ||
+@
+
+
+1.1
+log
+@add Caravan, from ../trumpet
+@
+text
+@d1 267
+@

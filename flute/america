@@ -1,0 +1,213 @@
+6 systems / 19 25 19 /
+title America (from West Side Story)
+innerhead Leonard Bernstein
+midi channel1 patch0
+/
+5 bars | 6/8 12 | 12 | 12 | 12 || 12 |
+| 6/8 100
+=1 treble 6/8 cha1 vol95 leg45 qua blank <G_ E> <G_ E> blank <G_ E> <G_ E>
+=2 bass   6/8 cha1 vol110 leg75 qua C rest rest leg55 E rest rest
+|
+=1 qua blank <G_ E> blank <G_ E> blank <G_ E>
+=2 qua leg75 C rest leg55 E rest C rest
+|
+=1 qua blank  vol-15 <G_ E> <G_ E> blank <G_ E> <G_ E>
+=2 qua leg75 C rest vol-15 rest leg55 E rest rest
+|
+=1 qua blank <G_ E> blank <G_ E> blank <G_ E>
+=2 qua leg75 C rest E rest C rest
+|
+=1' vol75 leg55 qua blank  <C E G> <C E G> blank <E G c> <E G c>
+=2 vol80 leg65 qua c rest rest G rest rest
+/
+5 bars | 12 | 12 |
+|
+=1 leg85 cro <C F A> <A_ C F> <F_ A_ C>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol75 leg55 qua blank  <C E G> <C E G> blank <E G c> <E G c>
+=2 vol80 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <G, B, d> <D G B'> <B_ D G>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol75 leg55 qua blank  <Eb G Bb'> <E G B'> blank <G B eb> <G B e>
+=2 vol80 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <F Bb' d'> <D F B'> <B_b D F>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+/
+5 bars | 12 | 12 ||: 12 | 12 | 12 |
+|
+=1' vol75 leg55 qua blank  <A_b C Eb> <A_ C E> blank <C E Ab> <C E A>
+=2 vol80 leg65 qua c rest rest G rest rest
+|
+=1 cro <C En G> qua vol+20 <G, c en> rest vol+10 cro C(2
+=2' qua [c vol+10 g] cro rest qua rest smq3-s vol110 leg100 [G_-emph A_ B_]
+|
+=1 min. C)2
+=1 leg45 qua blank <G_ E> <G_ E> blank <G_ E> <G_ E>
+=2 leg55 qua C rest rest E rest rest
+|
+=1 qua blank <G_ E> blank <G_ E> blank <G_ E>
+=2 qua qua C rest E rest C rest
+|
+=1 qua blank  vol-15 <G_ E> <G_ E> blank <G_ E> <G_ E>
+=2 qua C rest vol-15 rest E rest rest
+/
+5 bars | 12 | 12 |
+|
+=1 qua blank <G_ E> blank <G_ E> blank <G_ E>
+=2 qua C rest E rest C rest
+|
+=1' vol75 leg55 qua blank  <G_ C> <G_ C> blank <C G> <C G>
+=2 vol80 leg65 qua c rest rest G rest rest
+|
+=1 leg95 vol95 qua E rest smq3 [E-emph D Db] cro. C
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol75 leg55 qua blank  <C E> <C E> blank <E G> <E G>
+=2 vol80 leg65 qua c rest rest G rest rest
+|
+=1' leg95 vol95 qua [<G B> rest vol110 <G B>] cro. <F A>
+=2' qua [d vol-10 g vol+10 G vol-10 g vol+10 d vol-10 g]
+/
+5 bars | 12 | 12 |
+|
+=1  qua <g b> vol95 cro <f a> vol110 qua <G B'> vol95 cro <F A>
+=2' vol+10 qua [G vol-10 g vol+10 d vol-10 g vol+10 G vol-10 g]
+|
+=1' vol75 leg55 qua blank  <G_ F> <G_ F> blank <G_ F> <G_ F>
+=2 vol80 leg65 qua d rest rest G rest rest
+|
+=1 leg95 vol95 qua <F A> rest smq3 [A-emph Ab G] cro. F
+=2' qua [d vol-10 g vol+10 G vol-10 g vol+10 d vol-10 g]
+|
+=1 vol+10 cro <C F An> vol-10 min rest
+=2 vol+10 cro D vol-10 min rest
+|
+=1 min rest qua rest leg95 smq3-s vol110 [d~ e~ f~#]
+=2 min. rest
+/
+5 bars | 12 | 12 |
+|
+=1 leg65 qua [g~ leg45 d~ b] [g fn d]
+=2 min. rest
+|
+=1' vol90 leg55 qua blank  <C E G> <C E G> blank <E G c> <E G c>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <C F A> <A_ C F> <F_ A_ C>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol90 leg55 qua blank  <C E G> <C E G> blank <E G c> <E G c>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <G, B, d> <D G B'> <B_ D G>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+/
+4 bars | 12 | 12 | 12 | 12 :||
+|
+=1' vol90 leg55 qua blank  <Eb G Bb'> <E G B'> blank <G B eb> <G B e>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <F Bb' d'> <D F B'> <B_b D F>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol90 leg55 qua blank  <A_b C Eb> <A_ C E> blank <C E Ab> <C E A>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 cro <C En G> qua vol+20 <G, c en> rest vol+10 cro C(2
+=2' qua [c vol+10 g] cro rest qua rest smq3-s vol110 leg100 [G_-emph A_ B_]
+|
+=1 min. C)2
+=1 leg45 qua blank <G_ E> <G_ E> blank <G_ E> <G_ E>
+=2 leg55 qua C rest rest E rest rest
+|
+=1 qua blank <G_ E> blank <G_ E> blank <G_ E>
+=2 qua qua C rest E rest C rest
+|
+=1 qua blank  vol-15 <G_ E> <G_ E> blank <G_ E> <G_ E>
+=2 qua C rest vol-15 rest E rest rest
+/
+5 bars | 12 | 12 |
+|
+=1 qua blank <G_ E> blank <G_ E> blank <G_ E>
+=2 qua C rest E rest C rest
+|
+=1' vol75 leg55 qua blank  <G_ C> <G_ C> blank <C G> <C G>
+=2 vol80 leg65 qua c rest rest G rest rest
+|
+=1 leg95 vol95 qua E rest smq3 [E-emph D Db] cro. C
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol75 leg55 qua blank  <C E> <C E> blank <E G> <E G>
+=2 vol80 leg65 qua c rest rest G rest rest
+|
+=1' leg95 vol95 qua [<G B> rest vol110 <G B>] cro. <F A>
+=2' qua [d vol-10 g vol+10 G vol-10 g vol+10 d vol-10 g]
+/
+5 bars | 12 | 12 |
+|
+=1  qua <g b> vol95 cro <f a> vol110 qua <G B'> vol95 cro <F A>
+=2' vol+10 qua [G vol-10 g vol+10 d vol-10 g vol+10 G vol-10 g]
+|
+=1' vol75 leg55 qua blank  <G_ F> <G_ F> blank <G_ F> <G_ F>
+=2 vol80 leg65 qua d rest rest G rest rest
+|
+=1 leg95 vol95 qua <F A> rest smq3 [A-emph Ab G] cro. F
+=2' qua [d vol-10 g vol+10 G vol-10 g vol+10 d vol-10 g]
+|
+=1 vol+10 cro <C F An> vol-10 min rest
+=2 vol+10 cro D vol-10 min rest
+|
+=1 min rest qua rest leg95 smq3-s vol110 [d~ e~ f~#]
+=2 min. rest
+/
+5 bars | 12 | 12 |
+|
+=1 leg65 qua [g~ leg45 d~ b] [g fn d]
+=2 min. rest
+|
+=1' vol90 leg55 qua blank  <C E G> <C E G> blank <E G c> <E G c>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <C F A> <A_ C F> <F_ A_ C>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol90 leg55 qua blank  <C E G> <C E G> blank <E G c> <E G c>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <G, B, d> <D G B'> <B_ D G>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+/
+4 bars | 12 | 12 | 12 | 12 :||
+|
+=1' vol90 leg55 qua blank  <Eb G Bb'> <E G B'> blank <G B eb> <G B e>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 leg85 cro <F Bb' d'> <D F B'> <B_b D F>
+=2' qua [c vol-10 g vol+10 G vol-10 g vol+10 c vol-10 g]
+|
+=1' vol90 leg55 qua blank  <A_b C Eb> <A_ C E> blank <C E Ab> <C E A>
+=2 vol95 leg65 qua c rest rest G rest rest
+|
+=1 cro <C En G> qua vol+20 <G, c en> rest \
+ vol+100 tra+12 qua leg50 [<E e> <F f>]
+=2' qua [c vol+10 g] cro rest qua vol110 leg50 [e f]
+|
+=1, qua vol+10 [<G g> vol-10 <G g> <G g>] vol+10 [<G g> vol-10 <G g> <G g>]
+=2  qua vol+10 [g vol-10 g g] vol+10 [g vol-10 g g]
+|
+=1, qua vol+10 [<G g> vol-10 <A a>] vol+10 [<Bb bb> vol-10 <c c~>] \
+ vol+10 [<B b> vol-10 <A a>]
+=2, qua vol+10 [g vol-10 a] vol+10 [bb vol-10 c~] \
+ vol+10 [b vol-10 a]
+|
+=1, qua vol+10 [<G g> vol-10 <A a> <Bb bb>] \
+ vol+10 [<c c~> vol-10 <B b> <A a>]
+=2, qua vol+10 [g vol-10 a bb] vol+10 [c~ vol-10 b a]
+|
+=1, cro <G g> transpose0 leg90 vol110 <g c~ e~> rest
+=2 cro g rest leg100 vol120 <C c>
+

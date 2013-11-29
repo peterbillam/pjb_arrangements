@@ -1,0 +1,14 @@
+boundingbox 165 150
+1 systems 14 /28-40-28/
+/
+1 bars | 24 || 30 ||
+|
+bl0.6   A
+bl0.8 .95 B
+=1 treble  8 blank 1 <Cn Bn>
+I0.3   p
+=2 bass    8 blank 1 db
+|
+=1 4 blank 1 <Fnl c# anl e~n>
+I0.8 p
+=2 4 blank 1 <E Bb gbl d~n>

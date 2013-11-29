@@ -1,0 +1,69 @@
+midi channel 1 patch 0 pan 95
+midi channel 2 patch 0 pan 5
+/
+4 bars | 3b 8/8 24 | 24 |
+| 8/8 1.667
+=1 treble 3b 8/8 cha1 \
+ vol90 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 treble 3b 8/8 cha2 smb rest
+|
+=1 vol70 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 vol95 cro rest cro. rest qua <C, G,> cro rest
+|
+=1 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 cro rest cro. rest qua <C, G,> E rest
+|
+=1 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 cro rest cro rest qua <B' e'> <C, G,> E rest
+|
+=1 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 cro rest cro rest qua <B' e'> <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 cro rest qua rest [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 qua <C, G,> rest rest [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [E <B' e'>] <C, F,> [E <B' e'>] <C, G,> <E B'>
+=2 qua <C, G,> rest <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+
+|
+I0.3 .03 8x
+=1 qua <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>] <C, G,> <E B'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 vol95 qua <G_, D,> [E <B' e'>] <F, c,> [E <B' e'>] <C, G,> <E B'>
+=2 vol70 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [E <B' e'>] <F, c,> [B' <B' e'>] <C, G,> <E B'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [E <e' b'>] <F, c,> [B' <B' e'>] <C, G,> <E B'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [E <e' b'>] <F, c,> [B' <e' b'>] <C, G,> <E B'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [B' <e' b'>] <F, c,> [B' <e' b'>] <C, G,> <E B'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <G_, D,> [B' <e' b'>] <F, c,> [B' <e' b'>] <F, c,> <E B'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 qua <C, G,> [B' <e' b'>] <F, c,> [B' <e' b'>] <F, c,> <E B'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+
+|
+I0.3 .03 8x
+=1 qua <C, G,> [B' <e' b'>] <F, c,> [B' <e' b'>] <F, c,> <B' e' b'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <C, G,> [E <B' e'>]
+|
+=1 vol70 qua <C, G,> [B' <e' b'>] <F, c,> [B' <e' b'>] <F, c,> <B' e' b'>
+=2 vol95 qua <C, G,> <E B'> <G_, D,> [E <B' e'>] <F_, C,> [E <B' e'>]
+|
+=1 qua <C, G,> [B' <e' b'>] <F, c,> [B' <e' b'>] <F, c,> <B' e' b'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <A' d'>] <F_, C,> [E <B' e'>]
+|
+=1 qua <C, G,> [B' <e' b'>] <F, c,> [B' <e' b'>] <F, c,> <B' e' b'>
+=2 qua <C, G,> <E B'> <G_, D,> [E <A' d'>] <F_, C,> [E <A' c'>]

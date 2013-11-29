@@ -1,0 +1,87 @@
+6 systems /14 19 14 19 14/
+title I Ain't Got You
+midi channel 1 patch 0
+midi channel 2 patch 18
+midi channel 3 patch 32
+/
+5 bars | 8 |
+| 12/8 1.7
+=1 treble cha1 vol-15 cro. rest rest rest rest
+=2  bass cha1 min. rest rest 
+=3  bass tra-12 cha3 cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1  cro. rest rest rest rest
+=2  min. rest rest
+=3  cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1  cro. rest rest rest rest
+=2  min. <e b> rest
+=3  cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1  cro. rest rest rest rest
+=2  min. <e b> rest
+=3  cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1  cro. rest rest rest rest
+=2  min. <e b> rest
+=3  cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1 smb. rest
+=2 cro. rest rest rest qua [e~ smq g~ g~# qua b~]
+=3 smb. rest
+|
+=1 smb. rest
+=2 smb <a~# b~> min rest
+=3 cro. rest rest rest b
+|
+=1  cro. rest rest rest rest
+=2  min. <e b> rest
+=3  cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1  cro. rest rest rest rest
+=2  min. <e b> rest
+=3  cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1  cro. rest rest rest rest
+=2  min. <e b> rest
+=3  cro. e rest rest e
+|
+=1  cro. <E B e> cro rest min <E B e> cro. rest
+=2  min. rest rest
+=3  cro. e cro rest min e cro. rest
+|
+=1 smb. rest
+=2 cro. rest rest rest qua [e~ smq g~ g~# qua b~]
+=3 smb. rest
+|
+=1 smb. rest
+=2 smb <a~# b~> min rest
+=3 cro. rest rest rest b

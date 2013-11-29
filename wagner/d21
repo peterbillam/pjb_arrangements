@@ -1,0 +1,58 @@
+boundingbox 480 115
+midi channel 0 patch 44 reverb 60 pan 20
+midi channel 1 patch 44 reverb 60 pan 50
+midi channel 2 patch 44 reverb 60 pan 80
+midi channel 3 patch 74 reverb 60 pan 40 # fl
+midi channel 4 patch 68 reverb 60 pan 60 # ob
+midi channel 5 patch 69 reverb 60 pan 65 # coa
+midi channel 6 patch 71 reverb 60 pan 50 # clr
+midi channel 7 patch 70 reverb 60 pan 70 # bsn
+midi channel 8 patch 60 reverb 60 pan 30 # hrn
+##1 system /27-25-27-25-27-25-27-25-27-25-27-25-27-25-27-25-27-25-27-25-27/
+1 system /27-25-27/
+/
+3 bars | 5# 4 4 4 4 4 4 4 7.5 4 4 4 4 4 4 4 6 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 | 8
+| 4/4 2.5
+midi off
+=1, treble 5# 4.. <A c> 16 <B dn> 4.. <A c> 16 <A d#>
+=2' treble 5# 4.. F 16 E# 4.. F 16 D
+midi on
+#=3  treble 5# cha3 vol90 4.. c~ 16 d~n{1 4.. c~}1 16 d~#{1-emph
+#=4  treble cha4 vol90 4.. <Bb gb> 16 <Bn gn{1> 4.. <Bb gb}1> 16 <gb bb{1-emph>
+#=5  treble cha5 vol90 4.. Bb 16 Bn{1 4.. Bb}1 16 Gb{1-emph
+#=6  treble 1# cha6 tra-3 vol90 \
+ 4.. <e a> 16 <fn bb{1> 4.. <e a}1> 16 <f# c~#{1-emph>
+#=7  tenor  cha7 vol90 4.. gb 16 f{1 4.. gb}1 16 eb{1-emph
+#=8  treble cha8 vol90 4.. Gb 16 F{1 4.. Gb}1 16 Eb{1-emph
+#=9   treble 4# cha0 vol90 leg99 \
+ 16 [c~ a# c~ a] 165 [f c f a d~n] 16 [c~ a# c~ a] 165 [f c f a d~#]
+#=10, treble 4# cha1 vol90 leg99 \
+ 16 [f c f c] 165 [A# F A c gn] 16 [f c f c] 165 [A F A c f]
+#=11, alto   4# cha2 vol90 leg99 \
+ 16 [a# f a f] 165 [c A# c f b] 16 [a f a f] 165 [c A c f a]
+|
+midi off
+=1, 4 <A c> <A f> 4.. <An cnll fn> 16 <Bb dbl fb>
+=2' 4 F D 4.. Fn 16 Gn
+midi on
+#=3  4 c~}1 vol+10 f~ 4.. vol+10 e~# 16 vol+10 e~n
+#=4  4 <Bb gb}1> vol+10 <eb bb> 4.. vol+10 <cn an> 16 vol+10 <db b>
+#=5  4 Bb}1 vol+10 eb 4.. vol+10 cn 16 vol+10 db
+#=6  4 <e a}1> vol+10 <a c~#> 4.. vol+10 <g# b#> 16 vol+10 <gn c~#>
+#=7  4 gb}1 vol+10 eb 4.. vol+10 fn 16 vol+10 gn
+#=8  4 Gb}1 vol+10 Eb 4.. vol+10 Fn 16 vol+10 Gn
+#=9  165 [c~ a# f a c~] 16 [f~ d~# a f] [f~n c~n an fn] [f~ c~ a c~]
+#=10, 165 [f c A c f] 16 [a f d# A] [an fn cn An] [a f c bb]
+#=11, 165 [a# f c f a] 16 [d~# a f d#] [c~n an fn a] [c~ a f d~b]
+| 0.7
+midi off
+=1  4 <cnrl eb>
+=2' 4 Ab
+midi on
+#=3  vol90 4 d~-dim50
+#=4  vol90 4 <c ab-dim50>
+#=5  vol90 4 c-dim50
+#=6  vol90 4 <f# bn-dim50>
+#=7  vol90 4 ab-dim50
+#=8  vol90 4 Ab-dim50

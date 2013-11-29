@@ -1,0 +1,47 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.08.15.08.39.41;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@basic riff of ~/midi/let_u_go_drums.mid
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@4 systems 10 /16-20-16-22-16-25-16/ 16-20-16-22-16-25-16 \
+ / 16-20-16-22-16-25-16/ 16-20-16-22-16-25-16/
+title See ~/midi/let_u_go_drums.mid at 7210 mS; Quaver = 222 mS
+/
+2 bars | 96 |
+$B={
+| .125 .097 .125 .097 .125 .097 .125 .097 \
+  .125 .097 .125 .097 .125 .097 .125 .097
+r0.1 .01 Closed Hi-Hat .27 7655 .52 8099 .75 8544
+=1 bass cha9 vol79  8. [F# 16 F] 8. [F 16 F] 8. [F 16 F] 8. [F 16 F]
+
+r0.1 .01 Maracas, Short Guiro
+=2 treble cha9 vol92 8 [Bb 16 db Bb] 8 [Bb 16 db Bb] \
+ 8 [Bb 16 db Bb] 8 [Bb 16 db Bb]
+
+r0.1 .01 Hand Clap, Electric Snare, Open Hi-Hat
+=3 bass   cha9 vol92 8 rest Bb <D# Ex> Bb rest Bb <D# Ex> Bb
+
+r0.1 .01 Acoustic Bass-Drum
+=4 bass   cha9 vol127 leg98 4 B_ B_ B_ B_
+}
+$B $B $B $B $B $B $B $B
+@

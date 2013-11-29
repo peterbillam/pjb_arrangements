@@ -1,0 +1,47 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                    http://www.pjb.com.au #
+#########################################################################
+
+$sd = '/home/pjb/www/mus/samples';
+$message = 'Sample only.  Order the whole sonata (incl. part) at www.pjb.com.au/mus !';
+
+foreach $paper ('a4') {
+   open (I, "bwv1031.$paper") || die "can't open score.$paper: $!\n";
+   open (O,">$sd/bwv1031.$paper") || die "can't open $sd/bwv1031.$paper: $!\n";
+
+   while (<I>) { last if /%%Page: 1 1/; print O; }
+   print O "%%Page: 1 1\n";
+   while (<I>) { last if /^pgsave/; print O; }
+   print O "565 30 /Times-Italic 9 ($message) rightshow\n";
+   print O "pgsave restore\nshowpage\n";
+
+   while (<I>) { last if /%%Page: 6 6/; }
+   print O "%%Page: 2 2\n";
+   while (<I>) { last if /system 3 staves/; print O; }
+   while (<I>) { if (/rightshow$/) { print O; last; } }
+   while (<I>) { if (/leftshow$/) { print O; last; } }
+   while (<I>) { last if /^% system 3/; print O; }
+   print O "565 30 /Times-Italic 9 ($message) rightshow\n";
+
+   print O "0 -390 translate\n";
+   while (<I>) { last if /^%%Page: 8 8/; }
+   while (<I>) { last if /^%%EndPageSetup/; }
+   while (<I>) { last if /system 3 staves/; print O; }
+   while (<I>) { if (/rightshow$/) { print O; last; } }
+   while (<I>) { if (/leftshow$/) { print O; last; } }
+   while (<I>) {
+      if (/^% system 3/) { print O "pgsave restore\nshowpage\n"; last; }
+      print O;
+   }
+   close I;
+   close O;
+}

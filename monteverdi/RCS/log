@@ -1,0 +1,40 @@
+19950628 213953 s1 peter Ecco Mormorar L'"'"'Onde, Monteverdi; Soprano 1
+19950628 214606 s1 peter correct syntax, add title
+19950628 220127 s1 peter tails
+19950628 220741 s1 peter correct gross spacing errors, on octave
+19950629 193541 s2 peter Monteverdi, Ecco mormorar londe, Sop 2
+19950629 194348 s1 peter errors in 8 14, 2 stems in 16
+19950629 195659 s2 peter spacing corrections
+19950629 203036 s2 peter many stems, 3 notes
+19950629 210723 a peter Monteverdi, Ecco mormorar londe; Alto recorder
+19970323 033214 score pjb Score of recorder transcription
+19970323 034704 score pjb spacing, header
+19970323 035500 score pjb minor header spacing
+19970323 041203 p2 pjb poem, for page 2
+19970323 041916 p2 pjb spelling mistake
+19970323 042337 p2 pjb added copyright blurb
+19970323 042604 p2 pjb squeezed
+19970323 042943 title pjb title page of Ecco score
+19970323 043351 score pjb widened staves to 21 point
+19970323 044124 score pjb minor spacing, mainly in footer
+19970323 044206 score pjb tiny spacing re-adjustment to bass 8va
+19970323 073519 p2 pjb added "E si specchia" line
+19970323 073728 score pjb switch four tails
+19970323 073827 t pjb tenor part of recorder transcription
+19970323 073904 a pjb switch one tail (bar 3)
+19970323 073947 s2 pjb switch one tail (bar 32)
+19980126 111751 s1 pjb added beams to muscript 1.5
+19980126 112456 s2 pjb added beams to muscript 1.5
+19980126 113143 a pjb added beams to muscript 1.5
+19980925 164650 Makefile pjb Makefile for Ecco
+19980925 174102 parts pjb Combined Parts of ecco; s1+s2+a+t+b
+19980925 174400 title.parts pjb title page to make parts look posher
+19980925 174519 Makefile pjb add title.parts
+19980925 190657 title pjb added URL
+19981002 104602 Makefile pjb include title in parts softgood
+19981002 105145 Makefile pjb fix bug in ecco.parts.a4
+19981002 222556 parts pjb alto bar 17 rhythm adds up
+19981002 222626 score pjb bar 17 alto rhythm
+19990724 181201 title pjb Postscript -> electronic
+20010227 133747 ecco pjb score and parts together
+20010227 133812 Makefile pjb uses a42us etc, does free version

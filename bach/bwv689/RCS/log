@@ -1,0 +1,13 @@
+20000726 151644 Makefile pjb Makefile for Fugue a 4 BWV689
+20000726 151718 score pjb Score and parts of Fugue a 4 BWV689
+20000726 170633 score pjb add up to bar 26
+20000727 144736 score pjb add up to bar 46
+20000727 165614 score pjb added up to end
+20000801 134437 score pjb spacing, and divisi to support low tenor bits
+20000802 141827 score pjb add chorale bwv363 on page 3
+20000807 202403 p2 pjb Page 2 preface for bwv689
+20000807 204546 score pjb add 4 pages of parts
+20000808 154806 make_samples pjb Extracts sample page from score.*
+20010210 191915 Makefile pjb now uses a42us etc, and does free pdf
+20010421 201328 bwv689 pjb Fugue on Jesus Christus Unser Heiland bwvg689
+20081110 114031 bwv689 pjb bring muscript syntax up to date

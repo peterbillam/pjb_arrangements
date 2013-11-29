@@ -1,0 +1,79 @@
+.\"         This groff source is Copyright (c) 2008, Peter J Billam
+.\" P J B Computing, GPO Box 669, Hobart TAS 7001, Australia; www.pjb.com.au
+.AM
+.nr PS 14
+.nr VS 16
+.nr LL 16.25c
+.pl 29.7c
+.de DP
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+
+.Lp
+.ce 1
+\f3\s+5Grade Six: \  Aural Tests\s0\fP
+.Lp
+Aural tests will be played twice.
+Boys whose voices are at the 'breaking' stage
+may respond to the pitch tests by whistling, instead of humming or singing.
+.Lp
+Candidates are required to name the intervals as
+major second, major third, perfect fourth, etc.
+.Lp
+\f3PITCH:\f1 \  The examiner, having sounded on the piano
+a note to be regarded as the keynote of the scale,
+the candidate will hum or sing and afterwards name
+any interval of the major or harmonic minor scale
+as played by the examiner immediately in succession to the keynote.
+.Lp
+\f3HARMONY:\f1 \  The examiner having sounded any major triad,
+either in root position or an inversion,
+played within the limits of an octave,
+the candidate will recognise the position of the triad.
+.Lp
+\f3PITCH:\f1 \  To hum or sing from memory the higher or lower part
+of a two-part progression of four successive intervals
+within the limits of an octave from middle C.
+.Lp
+\f3HARMONY:\f1 \  To recognise Perfect and Plagal cadences in a major
+key as the occur in a short piece played by the examiner,
+the tonic chord being forst sounded.
+.sp 0.6c
+
+.Lp
+.ce 1
+\f3\s+5Sight-Reading Tests\s0\fP
+.Lp
+A test will be set within the limits of the technical standard of the grade.
+.sp 0.6c
+
+.Lp
+.ce 1
+\f3\s+5General Knowledge Tests\s0\fP
+.Lp
+Candidates can expect to be asked at least one question
+about each piece presented,
+and between six to ten questions in total.
+.Lp
+Questions will be asked from the accompaniment part (not the candidate's part):
+.DP
+Name and/or explain any notes, rests, signs, terms,
+the title, and the key/tonality.
+.DP
+Identify key-changes at obvoius and clear-cut places
+(not in transitory passages).
+.DP
+Explain the form, only if the piece represents one of the following:
+Binary, Ternary, Rondo, Theme and Variations, First-movement (Sonata) form,
+Fugue, Minuet (or Scherzo) and Trio, or Through-Composed.
+.DP
+Name the period from which the piece comes,
+and state the time-frame of that period.
+.DP
+Discuss style by showing how the piece exemplifies
+typical features of its period.

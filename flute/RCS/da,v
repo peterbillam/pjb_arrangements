@@ -1,0 +1,26 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.01.11.31.29;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@The Date
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@Sun Aug  1 21:23:43 EST 2004
+@

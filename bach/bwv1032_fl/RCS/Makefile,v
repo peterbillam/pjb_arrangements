@@ -1,0 +1,61 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2001.04.27.04.45.46;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for bwv1032_fl
+@
+
+
+1.1
+log
+@go dist: all now default target
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+
+all : ${FD}/bwv1032_fl.us ${SD}/bwv1032_fl.us ${FREED}/bwv1032_fl.pdf
+dev : bwv1032_fl.a4 title.a4 p2.a4
+
+${FD}/bwv1032_fl.a4 : title.a4 p2.a4 bwv1032_fl.a4 ${BLURB}.a4
+	${PSCAT} title.a4 p2.a4 bwv1032_fl.a4 ${BLURB}.a4 > $@@
+${FD}/bwv1032_fl.us : ${FD}/bwv1032_fl.a4
+	${A42US} ${FD}/bwv1032_fl.a4 > $@@
+${SD}/bwv1032_fl.a4 : bwv1032_fl.a4
+	./make_samples
+${SD}/bwv1032_fl.us : ${SD}/bwv1032_fl.a4
+	${A42US} ${SD}/bwv1032_fl.a4 > $@@
+${FREED}/bwv1032_fl.pdf : title_free.a4 p2.a4 bwv1032_fl.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} bwv1032_fl.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+bwv1032_fl.a4 : bwv1032_fl
+	${MUSCRIPT} bwv1032_fl > $@@
+@

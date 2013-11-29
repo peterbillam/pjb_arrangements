@@ -1,0 +1,686 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5; strict;
+comment	@# @;
+
+
+1.5
+date	2010.03.28.00.35.27;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.03.27.03.04.31;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.03.27.02.35.25;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.03.26.22.40.36;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.03.26.16.58.16;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@The Canons of the KDF
+@
+
+
+1.5
+log
+@24 bars of Canon alla Decima
+@
+text
+@6 systems 15 /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19 10/
+pagenum 2
+title Canon in Hypodiapason
+innerhead J. S. Bach  BWV 1080,15
+leftfoot typesetting (c) 2010 Peter Billam
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+midi off
+/
+4 bars | 1b 9/16 5 5 5 8 6 6 6 6 6 | 6 6 6 6 6 6 6 6 5 \
+ | 5 5 6 5 5 6 5 5 6 | 54 |
+| 1.2
+=1 treble 1b 9/16 cha1 leg75 8. A 16 [D C# D] [E D E]
+=2 bass   1b 9/16 cha2 tra-12 leg75 1 rest
+|
+=1 16 [F E F] [G F G] [A G A]
+=2 1 rest
+|
+=1' 8 B 16 rest 8 A 16 rest 8 G 16 rest
+=2 1 rest
+|
+=1 83-s G 83. F(2 8 [F)2 16 E] 8 [F 16 G]
+=2 1 rest
+/
+4 bars ||: 1b 5 5 6 8 6 6 6 6 5 | 6 6 6 6 6 8 6 6 5 \
+ | 6 8 6 6 6 6 6 6 5 | 6 6 6 8 8 6 6 6 5 |
+|
+il0.6 .02 5
+=1, 8 [A 16 g] 8 [f 16 A] 8 [G 16 e]
+=2, 8. a 16 [d c# d] [e d e]
+|
+=1' 8 [d 16 F] 8 [E 16 d] 8 [c# 16 E]
+=2, 16 [f e f] [g f g] [a g a]
+|
+=1' 16 [E D C#] [D E F] [G A B]
+=2 8 b 16 rest 8 a 16 rest 8 g 16 rest
+|
+=1 16 [B' A G] [A, Bn, c#] [d e f]
+=2 83-s g 83. f(1 8 [f)1 16 e] 8 [f 16 g]
+/
+4 bars | 1b 6 6 6 8 6 6 8 8 6 | 6 8 6 6 6 6 6 6 5 \
+ | 6 8 6 6 6 6 6 6 5 | 6 6 6 8 8 6 6 6 6 |
+|
+=1, 16 [f d e] [e c# d] [d Bn cn]
+=2  8 [a 16 g~] 8 [f~ 16 a] 8 [g 16 e~]
+|
+il0.6 .02 10
+=1' 16 [c A Bb] [B G A] [A F G]
+=2 8 [d~ 16 f] 8 [e 16 d~] 8 [c~# 16 e]
+|
+=1' 83-s G 83. F(2 16 [F)2 G A] [B A G]
+=2, 16 [e d c#] [d e f] [g a b]
+|
+=1  83-s d 83. c#(1 16 [c)1 d e] [f e d]
+=2 16 [b a g] [a, bn, c~#] [d~ e~ f~]
+/
+4 bars | 1b 6 6 6 8 6 6 8 8 6 | 6 8 6 6 6 6 6 6 5 \
+ | 8 8 6 6 6 6 6 6 6 | 6 6 6 6 8 6 6 6 6 |
+|
+=1 4. g#(1-tr 8. g)1
+=2 16 [f~ d~ e~] [e~ c~# d~] [d~ bn c~n]
+|
+=1 8 a 16 rest 8 rest 16 c# 8 [d 16 e]
+=2 16 [c~ a bb] [b g a] [a f g]
+|
+il0.6 .02 15
+=1 16 [A, Bn, c#] [d e f] 8. G(2
+=2 83-s g 83. f(1 16 [f)1 g a] [b a g]
+|
+=1, 16 [G)2 g f] [e d c#] 8. d(1
+=2 83-s d~ 83. c~#(1 16 [c~)1 d~ e~] [f~ e~ d~]
+/
+4 bars | 1b 8 8 6 6 6 6 6 6 5 | 6 6 6 5 6 6 6 6 6 \
+ | 8 8 6 6 6 6 6 6 5 | 6 6 8 6 8 6 6 6 5 |
+|
+=1 16 [d)1 Bn c#] [d e f] [e f d]
+=2 4. g~#(1-tr 8. g~)1
+|
+=1 16 [c# d e] 8. A(2 16 [A)2 B' G]
+=2 8 a~ 16 rest 8 rest 16 c~# 8 [d~ 16 e~]
+|
+=1' 16 [F G E] [F A d] [c B A]
+=2 16 [a bn c~#] [d~ e~ f~] 8. g(1
+|
+il0.6 .02 20
+=1 16 [B d g] [c# e A,] [B' A G]
+=2 16 [g)1 g~ f~] [e~ d~ c~#] 8. d~(1
+/
+4 bars | 1b 8 8 6 6 6 6 6 6 6 | 6 6 6 6 6 8 6 6 5 \
+ | 6 6 6 6 6 6 6 6 5 | 6 6 8 6 6 6 6 6 5 |
+|
+=1' 16 [F G E] 8 [F 16 d] 8 [G 16 F]
+=2 16 [d~)1 bn c~#] [d~ e~ f~] [e~ f~ d~]
+|
+=1 16 [E A G] [F E D] 8. C#-tr
+=2 16 [c~# d~ e~] 8. a(1 16 [a)1 b g]
+|
+=1 8 D 16 rest 8. rest rest
+=2 16 [f g e] [f a d~] [c~ b a]
+|
+=1 1 rest
+=2 16 [b d~ g~] [c~# e~ a] [b a g]
+
+7 systems 5 /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19 5/
+pagenum
+innerhead Canon in Hypodiapason, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+/
+4 bars | 1b 6 6 6 8 6 8 6 6 5 | 8 8 6 6 6 8 6 6 5 \
+ | 5 5 6 5 5 6 5 5 6 | 6 6 6 6 6 8 6 6 5 |
+|
+il0.6 .02 25
+=1 8. d 16 [A G# A] [Bn' A B']
+=2 16 [f g e] 8 [f 16 d~] 8 [g 16 f]
+|
+=1 16 [c Bn c#] [d c d] [e d e]
+=2 16 [e a g] [f e d] 8. c#-tr
+|
+=1 8 f 16 rest 8 e 16 rest 8 d 16 rest
+=2 8 d' 16 rest 8. rest rest
+|
+=1, 83-s d 83. c#(1 8 [c)1 16 A] 8 [Bn 16 c]
+=2 1 rest
+/
+4 bars | 1b 8 8 6 8 6 8 6 6 5 | 8 8 6 6 6 8 6 6 6 \
+ | 6 6 6 6 6 6 6 6 5 | 6 6 6 8 6 8 6 6 6 |
+|
+=1 16 [d cn Bn] 8 [c 16 a] 8 [g# 16 d]
+=2 8. d~ 16 [a g# a] [bn a b]
+|
+il0.6 .02 30
+=1 8 [e 16 gn] [f e d] 8 [c# 16 b]
+=2 16 [c~ bn c~#] [d~ c~ d~] [e~ d~ e~]
+|
+=1 16 [a f d] [d g c] [c f B]
+=2 8 f~ 16 rest' 8 e~ 16 rest' 8 d~ 16 rest'
+|
+=1 16 [B' A G] [A, c# e] [g f e]
+=2 83-s d~ 83. c~#(1 8 [c~)1 16 a] 8 [bn 16 c~]
+/
+3 bars | 1b 6 6 6 6 6 6 6 7 5 | 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 5 |
+|
+=1 16 [f e d] [e d c] [d c Bn]
+=2 treble 1b 16 [D Cn B_n] 8 [C 16 A] 8 [G# 16 D]
+|
+=1 16 [c d e] [d e f] [e f g]
+=2' 8 [E 16 Gn] [F E D] 8 [C# 16 B]
+|
+il0.6 .02 35
+=1, 16 [f d a] [B e g] [A d f]
+=2 16 [A F D] [D G C] [C F B_]
+/
+4 bars | 1b 8 6 6 8 6 6 6 6 6 | 6 6 7 6 6 6 6 8 6 \
+ | 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 8 6 |
+|
+=1 16 [G, c# e] [F A G] [B' A c']
+=2 16 [B' A G] [A, c# e] [g f e]
+|
+=1 16 [d e f] 4. G#-tr
+=2 16 [F E D] [E D C] [D C B_n]
+|
+=1 8 A 16 rest 8 rest 16 Bn 8 [c 16 A,]
+=2 16 [C D E] [D E F] [E F G]
+|
+=1 8 [d 16 f] [f e d] [c d Bn]
+=2 16 [F D A] [B_ E G] [A_ D F]
+/
+4 bars | 1b 8 6 6 6 6 6 6 6 6 | 6 6 8 6 6 6 6 6 5 \
+ | 6 6 8 6 6 6 6 6 5 | 6 6 6 6 6 6 6 8 5 |
+|
+il0.6 .02 40
+=1, 8. [e A] rest
+=2 bass 1b 16 [g c~# e~] [f a g] [b a c~]
+|
+=1 8. A 16 [e f e] [d e d]
+=2 16 [d~ e~ f~] 4. g#-tr
+|
+=1 16 [c d c] [Bn c B] [A B' A]
+=2 8 a 16 rest 8 rest 16 bn 8 [c~ 16 a]
+|
+=1' 8 G# 16 rest 8 A 16 rest 8 Bn 16 rest
+=2 8 [d~ 16 f~] [f~ e~ d~] [c~ d~ bn]
+/
+4 bars | 1b 54 | 54 | 6 6 8 6 6 6 6 6 5 | 8 6 6 6 6 8 6 6 5 |
+|
+=1  83-s Bn 83. c(1 8 [c)1 16 d] 8 [c 16 Bn]
+=2 8. [e~ a] rest
+|
+il0.6 .02 45
+=1 16 [A E A] [c A, c] 8 [e 16 G#,]
+=2 8. a 16 [e~ f~ e~] [d~ e~ d~]
+|
+=1 8 [A, 16 f] 8 [G, 16 e] 8 [F 16 d']
+=2 16 [c~ d~ c~] [bn c~ b] [a b a]
+|
+=1 16 [E Bn' d'] [c' B' A] [G#, d f]
+=2 8 g# 16 rest 8 a 16 rest 8 bn 16 rest
+/
+4 bars | 1b 6 6 8 6 8 6 6 6 5 | 8 6 6 6 6 6 6 6 5 \
+ | 6 6 6 8 6 6 6 6 6 | 8 8 6 6 6 8 6 6 6 |
+|
+=1 16 [e d c] [Bn' A G#] [A E B']
+=2 8. c~(1 8 [c~)1 16 d~] 8 [c~ 16 bn]
+|
+=1 16 [c Bn A,] 8. e(1 16 [e)1 B d]
+=2 16 [a e a] [c~ a, c~] 8 [e~ 16 g#,]
+|
+il0.6 .02 50
+=1, 16 [d{1 c}1 a] [c{1 Bn}1 g] [B{1 A}1 f]
+=2 8 [a, 16 f~] 8 [g, 16 e~] 8 [f 16 d~]
+|
+=1' 16 [A{2 G#}2 Bn] 8 E 16 rest 8. rest
+=2 16 [e bn d~] [c~ b a] [g# d~ f~]
+
+6 systems 10 /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19 10/
+pagenum
+innerhead Canon in Hypodiapason, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+/
+4 bars | 1b 6 6 8 6 8 6 6 6 5 | 8 6 8 6 6 6 8 8 5 \
+ | 6 6 6 8 8 6 6 6 6 | 8 8 6 6 6 6 6 8 5 |
+|
+=1 8. rest d(1 16 [d)1 c d]
+=2 16 [e~ d~ c~] [bn a g#] [a e b]
+|
+=1 16 [e d c] [Bn c d] [e f# g#]
+=2 16 [c~ bn a,] 8. e~(1 16 [e~)1 b d~]
+|
+=1, 16 [a e c] [d g Bn] [c f A]
+=2 16 [d~{1 c~}1 a~] [c~{1 bn}1 g~] [b{1 a}1 f~]
+|
+il0.6 .02 55
+=1 16 [Bn e d] [c B A,] [B' A G#]
+=2 16 [a{1 g#}1 bn] 8 e 16 rest 8. rest
+/
+4 bars | 8 8 6 6 6 8 6 6 6 | 8 6 8 6 6 6 8 8 6 \
+ | 6 6 6 6 8 6 6 6 5 | 6 6 6 6 6 6 6 8 5 |
+|
+=1 16 [A G# F#] [G E G] [Bn e d]
+=2 8. rest d~(1 16 [d~)1 c~ d~]
+|
+=1, 16 [c Bn A] 8. d(1 16 [d)1 c B]
+=2 16 [e~ d~ c~] [bn c~ d~] [e~ f~# g~#]
+|
+=1 8 c 16 rest 8 f 16 rest 8 e 16 rest
+=2 16 [a~ e~ c~] [d~ g~ bn] [c~ f~ a]
+|
+=1 8 [d' 16 G#] 8 [A 16 c'] 8. F-tr
+=2 16 [bn e~ d~] [c~ b a,] [b a g#]
+/
+5 bars | 8 8 6 6 6 8 6 6 6 | 8 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 5 | 5 5 6 5 5 6 5 5 5 |
+|
+il0.6 .02 60
+=1 8 E 16 rest 8. rest rest
+=2 16 [a g# f#] [g e g] [bn e~ d~]
+|
+=1 16 rest [D E] [F G F] 8. E(2
+=2 16 [c~ bn a] 8. d~(1 16 [d~)1 c~ b]
+|
+=1' 16 [E)2 F G] [A B A] [G A G]
+=2 8 c~ 16 rest 8 f~ 16 rest 8 e~ 16 rest
+|
+=1 16 [F G F] [E F E] [D E D]
+=2 8 [d~ 16 g#] 8 [a 16 c~] 8. f-tr
+|
+=1 8 C# 16 rest 8 D 16 rest 8 E 16 rest
+=2 8 e 16 rest 8. rest rest
+/
+5 bars | 18 18 15 | 6 6 8 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 8 5 | 5 5 6 5 5 6 5 5 5 |
+|
+il0.6 .02 65
+=1 8. F(2 8 [F)2 16 A] 8 [G-tr 16 F]
+=2 16 rest [d e] [f g f] 8. e(1
+|
+=1 16 [G F E] 4. c#-tr
+=2 16 [e)1 f g] [a b a] [g a g]
+|
+=1, 16 [d B g] [c A f] [B G e]
+=2 16 [f g f] [e f e] [d e d]
+|
+=1 16 [A, G, e] [A F d'] [G E c#']
+=2 8 c# 16 rest 8 d 16 rest 8 e 16 rest
+|
+=1' 16 [d A F] [D E F] [E F D]
+=2 8. f(1 8 [f)1 16 a] 8 [g-tr 16 f]
+/
+5 bars | 6 6 8 6 6 6 6 6 5 | 54 \
+ | 6 6 6 6 6 6 6 8 6 | 6 6 6 6 6 8 6 6 5 | 6 6 6 6 6 6 6 6 5 |
+|
+il0.6 .02 70
+=1 8. E(2 16 [E)2 F G] [F G E]
+=2 16 [g f e] 4. c~#-tr
+|
+=1  8 F 16 rest 8 E 16 rest 8 D 16 rest
+=2 16 [d~ b g~] [c~ a f~] [b g e~]
+|
+=1 8 C# 16 rest 8 D 16 rest 8 E 16 rest
+=2 16 [a g e~] [a f d~] [g e c~#]
+|
+=1 16 [F E D] [B' A G] 8 c# 16 rest
+=2 16 [d~ a f] [d e f] [e f d]
+|
+=1 16 rest [G D] [C# D E] [A_ B_n C]
+=2 8. e(1 16 [e)1 f g] [f g e]
+/
+4 bars | 6 8 6 6 6 6 6 6 6 | 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 8 6 8 6 6 5 | 6 6 8 6 6 6 8 6 5 |
+|
+il0.6 .02 75
+=1 16 [D G_ B_b] [C F_ A_] [B_ E_ G_]
+=2 8 f 16 rest 8 e 16 rest 8 d 16 rest
+|
+=1' 16 [A_ A G] [F d c] [B A B]
+=2 8 c# 16 rest 8 d 16 rest 8 e 16 rest
+|
+=1 8. A 16 [D C# D] [E D E]
+=2 16 [f e d] [b a g] 8 c~# 16 rest
+|
+=1 16 [F E F] [G F G] [A G A]
+=2 16 rest [g d] [c#, d e] [A Bn c]
+
+6 systems 10 /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19 10/
+pagenum
+innerhead Canon in Hypodiapason, J. S. Bach
+leftfoot typesetting (c) 2010 Peter Billam
+/
+4 bars | 1b 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 6 \
+ :|| 6 5 6 8 6 6 6 6 6 5 | 6 6 6 6 6 8 6 6 5 |
+|
+=1' 8 B 16 rest 8 A 16 rest 8 G 16 rest
+=2' 16 [d G B] [c F A] [B E G]
+|
+il0.6 .02 80
+=1 83-s G 83. F(2 8 [F)2 16 E] 8 [F 16 G]
+=2, 16 [A a g] [f d~ c~] [b a b]
+|
+=1, 8 [A 16 g] 8 [f 16 A] 8 [G 16 e]
+=2, 8. a 16 [d c# d] [e d e]
+|
+=1' 8 [d 16 F] 8 [E 16 d] 8 [c# 16 E]
+=2 16 [f e f] [g f g] [a g a]
+/
+4 bars | 6 6 8 6 6 6 6 6 5 | 6 6 6 8 8 6 6 6 5 \
+ | 6 6 6 8 6 6 8 8 6 | 6 8 6 6 6 8 6 6 5 |
+|
+=1' 16 [E D C#] [D E F] [G A B]
+=2 8 b 16 rest 8 a 16 rest 8 g 16 rest
+|
+=1 16 [B' A G] [A, Bn, c#] [d e f]
+=2 83-s g 83. f(1 8 [f)1 16 e] 8 [f 16 g]
+|
+il0.6 .02 85
+=1, 16 [f d e] [e c# d] [d Bn cn]
+=2  8 [a 16 g~] 8 [f~ 16 a] 8 [g 16 e~]
+|
+=1' 16 [c A Bb] [B G A] [A F G]
+=2 8 [d~ 16 f] 8 [e 16 d~] 8 [c~# 16 e]
+/
+4 bars | 6 8 6 6 6 6 6 6 5 | 6 6 6 8 8 6 6 6 6 \
+ | 6 6 6 8 6 6 8 8 6 | 6 8 6 6 6 6 6 6 5 |
+|
+=1' 8. F(2 16 [F)2 G A] [B A G]
+=2, 16 [e d c#] [d e f] [g a b]
+|
+=1  83-s d 83. c#(1 16 [c)1 d e] [f e d]
+=2 16 [b a g] [a, bn, c~#] [d~ e~ f~]
+|
+=1 4. g#(1-tr 8. g)1
+=2 16 [f~ d~ e~] [e~ c~# d~] [d~ bn c~n]
+|
+il0.6 .02 90
+=1 8 a 16 rest 8 rest 16 c# 8 [d 16 e]
+=2 16 [c~ a bb] [b g a] [a f g]
+/
+4 bars | 8 8 6 6 6 6 6 6 5 | 6 6 6 6 8 6 6 6 6 \
+ | 8 8 6 6 6 6 6 6 5 | 54 |
+|
+=1 16 [A, Bn, c#] [d e f] 8. G(2
+=2 8. f(1 16 [f)1 g a] [b a g]
+|
+=1, 16 [G)2 g f] [e d c#] 8. d(1
+=2 83-s d~ 83. c~#(1 16 [c~)1 d~ e~] [f~ e~ d~]
+|
+=1 16 [d)1 Bn c#] [d e f] [e f d]
+=2 4. g~#(1-tr 8. g~)1
+|
+=1 16 [c# d e] 8. A(2 16 [A)2 B' G]
+=2 8 a~ 16 rest 8 rest 16 c~# 8 [d~ 16 e~]
+/
+4 bars | 8 8 6 6 6 6 6 6 5 | 6 6 8 6 8 6 6 6 5 \
+ | 8 8 6 6 6 6 6 6 6 | 6 6 6 6 6 8 6 6 5 |
+|
+il0.6 .02 95
+=1' 16 [F G E] [F A d] [c B A]
+=2 16 [a bn c~#] [d~ e~ f~] 8. g(1
+|
+=1 16 [B d g] [c# e A,] [B' A G]
+=2 16 [g)1 g~ f~] [e~ d~ c~#] 8. d~(1
+|
+=1' 16 [F G E] 8 [F 16 d] 8 [G 16 F]
+=2 16 [d~)1 bn c~#] [d~ e~ f~] [e~ f~ d~]
+| .2 .2 .2 .2 .2 .25
+=1 16 [E A G] [F E D] 8. C#-tr
+=2 16 [c~# d~ e~] 8. a(1 16 [a)1 b g]
+/
+5 bars | 6 6 6 6 6 6 6 6 5 | 6 6 8  8 6 6  6 6 5 \
+ | 6 6 6 6 6 6 8 6 5 | 6 8 6 6 6 8 6 6 6 | 11 11 13 ||
+| .18 .16 .15 .14 .14 .14 .14 .14 .14
+=1 8 D-fermata 16 rest 8 rest 16 B 8 [A, 16 f]
+=2 16 [f g e] [f a d~] [c~ b a]
+| 1.25
+il0.6 .02 100
+=1 16 [G A B'] [A, c# e] [g f e]
+=2 16 [b d~ g~] [c~# e~ a] [b a g]
+| 1.3
+=1 8 [a 16 c#] [d e f] [B eb d]
+=2 16 [f g e] 8 [f 16 d~] 8 [g 16 f]
+| 0.7 0.9
+=1 16 [c# d en] 8 A 16 rest bass 8 A 16 rest
+=2 16 [e a g] [f e d] 8. c#-tr
+| 2.0
+=1 4. D-fermata 8. rest
+=2 4. d-fermata 8. rest
+
+6 systems 5 /19-26-19/19-39-19/19-30-19/19-30-19/19-30-19/19-30-19 5/
+pagenum
+title Canon alla Decima
+innerhead J. S. Bach  BWV 1080,16
+leftfoot typesetting (c) 2010 Peter Billam
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+midi on
+/
+5 bars | 1b 4/4 8 7 7 7 | 8 7 7 7 | 8 7 7 7 \
+ | 3 2 3 2  3 2 3 2  3 2 2 4  3 2 2 3 \
+ | 4 4 4 4 4 4 4 4 4 4 6 4 |
+| 4.1
+=1 treble 1b 4/4 cha1 leg90 1 rest
+=2 bass   1b 4/4 cha2 leg90 4 a 2 d 4 f(1
+|
+=1 1 rest
+=2 4 f)1 2 a 4 b(1
+|
+=1 1 rest
+=2 4 b)1 2 a 4 g(1
+|
+=1 1 rest
+=2 4 g)1 f(1 8. [f)1 16 e] 8. [f 16 g]
+|
+il0.6 .02 5
+=1 4 c 2 F 4 A(2
+=2 83 [a g a] [b a g] [f g e] [d e c#,]
+/
+4 bars | 1b 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4  4 4 4  4 4 4  4 6 4 \
+ | 4 4 4 6 4 4 4 4 4 4 4 4 | 6 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 4 A)2 2 c 4 d(1
+=2 83 leg75 [d a leg90 d~] [c~ d~ b] [a b g] [f g e]
+|
+=1 4 d)1 2 c 4 B(1
+=2 83 leg75 [f leg90 d e] [f a g] [a b c~] [d~ e~ c~#]
+|
+=1 4 B)1 A(2 8. [A)2 16 G] 8. [A 16 Bn']
+=2 83 leg60 [d~ d leg90 d~(1] [d~)1 c~# e~] [d~ e~ f~] [e~ f~ d~]
+|
+=1 83 [c Bb c] [d c B] [A B' G] [F G E]
+=2 4 c~ 2 f 4 a(1
+/
+4 bars | 1b 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 9 | 6 4 4 4 4 4 4 4 4 4 4 3 |
+|
+il0.6 .02 10
+=1 83 leg75 [F, c leg90 f] [e f d] [c d B] [A B' G]
+=2 4 a)1 2 c~ 4 d~(1
+|
+=1 83 leg75 [A leg90 F G] [A c' B'] [c d e] [f g e]
+=2 4 d~)1 2 c~ 4 b(1
+|
+=1, 83 leg60 [f F leg90 f(1] [f)1 e g] [f g a] [g a f]
+=2 4 b)1 a(1 8. [a)1 16 g] 8. [a 16 bn] treble
+|
+=1 4 e 2 A 4 c(1
+=2 83 [C B_n C(2] [C)2 D E] [D E F] [E F G]
+/
+4 bars | 1b 4 4 4 4 4 4 4 4 4 4 4 9 | 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1 4 c)1 2 e 4 f(1
+=2' 83 [F G A] [G A B] [A G A(2] [A)2 F D] bass
+|
+il0.6 .02 15
+=1 4 f)1 2 e 4 d(1
+=2 83 [b a b(1] leg70 [b)1 g~ leg90 b] [a g a(1] leg70 [a)1 f~ leg90 a]
+|
+=1 4 d)1 c(1 8. [c)1 16 Bn] 8. [c 16 d]
+=2 83 [g f g(1] leg70 [g)1 e~ leg90 g] [f e f(1] [f)1 e d]
+|
+=1 83 [e d e(1] [e)1 f g] [f g a] [g a b]
+=2 8. [g 16 e] 4 c rest treble C(2
+/
+3 bars | 1b 4 6 6 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 8 6 6 4 |
+|
+=1 83 [a b c~] [b c~ d~] [c~ b c~(1] [c~)1 a f]
+=2 83 [C)2 163 B_ A_ G_ F_] 4 E(2 8. [E)2 16 C] 4 F(2
+|
+=1 83 [d c d(1] leg70 [d)1 b leg90 d] [c B c(1] [c)1 a c]
+=2 4 F)2 E Eb D
+|
+il0.6 .02 20
+=1 83 [B' A B'(1] leg70 [B)1 g leg90 B] [A G A(2] [A)2 G F]
+=2 4 Db C(2 8. [C)2 16 F] 83 [B_n C# Dn(2]
+/
+2 bars | 1b 4 4 6 4 3 2 4 4 4 4 4 4 4 4 4 4 4 6 3 2 3 2 3 2 \
+ | 4 3 6 6 4 4  3 2 3 2 3 2 3 2 3 2 2 3 4 4 4 4 4 4 |
+|
+=1 8. [B' 16 G] 4 E rest e(1
+=2 8 [D)2 16 C# B_n 8 C] 8 rest 16 [B' A G F] [E F G F E D] 8 [C# E G]
+|
+=1, 83 [e)1 163 d c# Bn A] 4 g(1 8. [g)1 16 e] 4 a(1
+=2 83 [A_ C# E] rest [C D] [E F G(2] 163 [G)2 F E F G E]
+/
+2 bars | 1b 4 4 6 4 3 3  3 3 4 3 3 3  4 4 4 6 3 3  3 3 3 3 3 2 \
+ | 4 4 4 6 3 3  3 3 3 4 3 3  3 3 3 3 3 5  3 3 6 3 3 3 |
+|
+=1 4 a)1 g# gn f#
+=2 163 [F E D C# 83 D(2] [D)2 C B_n] 163 [C B_ A_ B_ 83 Cn(2] [C)2 B_ A_]
+|
+=1 4 fn e(1 8. [e)1 16 a] 83 [d e f(1]
+=2 163 [B_n A_ G_ A_ 83 B_b(2] [B_)2 A_ G_#] 4. A_ 16 rest G#
+@
+
+
+1.4
+log
+@finished canon in hypodiapason
+@
+text
+@d1 1
+a1 1
+6 systems 15 /20-35-20/20-35-20/20-35-20/20-35-20/20-35-20/20-35-20 10/
+d4 1
+a4 1
+innerhead J. S. Bach
+d8 1
+d104 1
+a104 1
+7 systems 5 /20-35-20/20-35-20/20-35-20/20-35-20/20-35-20/20-35-20/20-35-20 5/
+d215 1
+a215 1
+6 systems 10 /20-35-20/20-35-20/20-35-20/20-35-20/20-35-20/20-35-20 10/
+d324 1
+a324 1
+6 systems 10 /20-35-20/20-35-20/20-35-20/20-35-20/20-35-20/20-35-20 10/
+d410 1
+a410 1
+| .3 .18 .18 .18 .18 .18 .18 .18 .18
+d413 2
+a414 1
+| 1.6
+d417 1
+a417 1
+|
+d420 1
+a420 1
+| 0.9 1.1
+d426 107
+@
+
+
+1.3
+log
+@three pages, 78 bars
+@
+text
+@d310 2
+a311 2
+il0.6 .02 70
+=1 16 [D A_ B_b] [C F_ A_] [B_ E_ G_]
+d323 101
+@
+
+
+1.2
+log
+@two pages, 52 bars
+@
+text
+@d13 1
+a13 1
+=2 bass   1b 9/16 cha2 leg75 1 rest
+d219 1
+a219 1
+4 bars | 1b 6 6 8 6 8 6 6 6 5 | 8 6 8 6 6 6 8 8 6 \
+d223 100
+a322 1
+=2 16 [e~ d~ c~] [bn' a g#] [a e b']
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d24 1
+a24 1
+4 bars ||: 5 5 6 8 6 6 6 6 5 | 6 6 6 6 6 8 6 6 5 \
+d40 1
+a40 1
+4 bars | 6 6 6 8 6 6 8 8 6 | 6 8 6 6 6 6 6 6 5 \
+d56 1
+a56 1
+4 bars | 6 6 6 8 6 6 8 8 6 | 6 8 6 6 6 6 6 6 5 \
+d72 1
+a72 1
+4 bars | 8 8 6 6 6 6 6 6 5 | 6 6 6 5 6 6 6 6 6 \
+d88 1
+a88 1
+4 bars | 8 8 6 6 6 6 6 6 6 | 6 6 6 6 6 8 6 6 5 \
+d124 1
+a124 1
+4 bars | 8 8 6 8 6 8 6 6 5 | 8 8 6 6 6 8 6 6 6 \
+d131 1
+a131 1
+=1 8 [e 16 gn] [f e d] 8 c# 16 b]
+d140 1
+a140 1
+3 bars | 6 6 6 6 6 6 6 7 5 | 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 5 |
+d146 1
+a146 1
+=2' 8 [E 16 Gn] [F E D] 8 C# 16 B]
+d152 1
+a152 1
+4 bars | 8 6 6 8 6 6 6 6 6 | 6 6 7 6 6 6 6 8 6 \
+d167 1
+a167 1
+4 bars | 8 6 6 6 6 6 6 6 6 | 6 6 8 6 6 6 6 6 5 \
+d176 48
+@

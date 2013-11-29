@@ -1,0 +1,495 @@
+%start
+midi channel 1 patch 53
+midi channel 2 patch 0 pan 80
+midi channel 3 patch 0 pan 20
+5 systems 20 /19 30 19-25-19/
+title It Ain't Necessarily So
+lefthead George Gershwin
+/
+7 bars | 1b 3/4 12 | 12 || Segno 12 | 12 | 12 | 12 | 12 |
+| 3/4 110
+=1 treble 3/4 cha1 leg100 min. rest
+=2' treble 3/4 cha2 leg100 min. rest
+=2, 3/4 cro rest, F D
+I0.5 .01 pp
+=3' bass 3/4 cha3 leg100 min a cro a#
+=3, 3/4 min. d(2
+|
+=1 min. rest
+=2' min. d(1
+=2, cro F D F
+=3' min bn cro a#
+=3, min. d)2
+|
+=1 min. rest
+=2' min. d)1
+=2, cro rest, F D
+=3' min a cro g#
+=3, min. d(2
+|
+I0.1 .58 f
+=1 min rest cro D
+r0.5 .67 It
+=2' min. d(1
+=2, cro F D rest,
+=3' min g cro g#
+=3, min. d)2
+|
+il0.3 .01 Dm
+=1 cro A G# D
+r0.6 .01 ain't  ne - ces  -
+=2' min. d)1
+=2, cro rest, F D
+=3' min a cro <g#l a#xl>
+=3, min. d(2
+|
+il0.3 .01 G
+=1 cro G F# D
+r0.6 .10 a  -  ri  - .67 ly
+=2' min. d(1
+=2, cro F D F
+=3' min <g bn> cro <g#l a#xl>
+=3, min. d)2
+|
+il0.3 .01 Dm
+=1 min F cro rest
+r0.6 .10 so  .    .    .
+=2' min. d)1
+=2, cro D F D
+=3' min a cro g#
+=3, min. d(2
+/
+7 bars | 2b 12 | 12 | 12 | 12 | 12 | 12 | 12 |
+|
+il0.3 .01 G
+=1 min rest cro D
+r0.6 .67 It
+=2' min. d(1
+=2, cro F D rest,
+=3' min g cro g#
+=3, min. d)2
+|
+il0.3 .01 Dm
+=1 cro A G# D
+r0.6 .01 ain't .41 neces  -
+=2' min. d)1
+=2, cro rest, F D
+=3' min a cro a#
+=3, min. d(2
+|
+il0.3 .01 G
+=1 cro G F# D
+r0.6 .10 a - .33 ri  - .67 ly
+=2' min. d(1
+=2, cro F D F
+=3' min b cro a#
+=3, min. d)2
+|
+il0.3 .01 Dm
+=1 cro F min D(1
+r0.6 .04 so  .    .    .
+=2' min d)1 cro d(1
+=2, cro D F D
+=3' min a cro d(1
+=3, min d cro A(2
+|
+=1 cro D)1 rest D
+r0.5 .63 These
+=2' min d)1 cro blank
+=2, cro F D F
+=3' cro d)1 min d
+=3, cro A)2 min Ab
+|
+il0.3 .01 G
+=1 cro A G# D
+r0.5 .01 things  that  you're
+=2' cro A D E
+=2, min. B_n
+=3' min. <G f>
+|
+il0.3 .01 Ab
+=1 cro F D F
+r0.5 .10 liable .67 to
+=2' min F cro D
+=2, min. C
+=3' min. <Ab gb>
+|
+il0.3 .01 G
+=1 cro D F D
+r0.5 .02 read   in .67 the
+=2' cro A G# F
+=2, min. B_n
+=3' min. <G f>
+|
+il0.3 .01 Ab
+=1 cro F D F
+r0.5 .10 bible .67 they
+=2' min Dr cro D
+=2, min. C
+=3' min. <Ab gb>
+|
+il0.3 .01 E7
+=1 cro D F D
+r0.5 .01 ain't .37 neces .90 -
+=2' cro F D Db
+=2, min G_#
+=3' min d
+=3, cro E Bn Bb
+|
+il0.3 .01 A7
+=1 cro C A_ C
+r0.5 .01 sa  - .34 ri  - .67 ly
+=2' min Cn cro A_
+=2, min. G_
+=3  cro A e eb
+|
+il0.3 .01 Dm
+=1 min. D
+r0.5 .01 so   .   .   .
+=2' cro rest, F D
+=3' min a cro <g#l a#xl>
+=3, min. d(2
+|
+il0.3 .30 A11
+=2' min. d(1
+=2, cro F D F
+=3' min b cro <g#l a#xl>
+=3, min. d)2
+|
+=1 min. rest
+=2' min. d)1
+=2, cro D F D
+=3' min a cro g#rl
+=3, min. d(2
+|
+I0.1 .58 f
+=1 min rest cro D
+r0.5 .65 Well
+=2' min. d
+=2, cro F D rest,
+=3' min g cro <g#l a#xl>
+=3, min. d)2
+|
+=1 cro A G# D
+r0.5 .01 Jonah .67 he
+=2, cro <A f a> <Ab f ab> <F d f>
+=3' min. a
+=3, cro d c# cn
+|
+=1 cro G F# D
+r0.5 .01 lived .35 in .67 a
+=2, cro <G d g> <F# d f#> <Fn d>
+=3' min a cro g
+=3, min Bn cro Bb
+|
+i0.4 .02 rit  .  .  .
+=1 cro F{'1 min D}'1
+r0.5 .01 whale,
+=2' min Bn cro Bb
+=2, min <D F> cro blank
+=3' cro d f f#
+=3, min A cro G#
+|
+=1 min rest cro D
+r0.5 .66 yeah
+=2 min <B_n D F A> cro d
+=3' cro g f e
+=3, min. G
+|
+=1 cro A G# D
+r0.5 .01 Jonah .67 he
+=2, cro <A f a> <Ab f ab> <F d f>
+=3' min. a
+=3, cro d c# cn
+|
+=1 cro G F# D
+r0.5 .01 lived .33 in .67 a
+=2, cro <G d g> <F# d f#> <Fn d>
+=3, min <Bn a> cro <Bb g>
+|
+i0.4 .02 rit  .  .  .
+=1 cro F{'1 min D}'1
+r0.5 .01 whale,
+=2' min Bn cro Bb
+=2, min <D F> cro blank
+=3' cro d f f#
+=3, min A cro G#
+|
+=1 min rest cro D
+r0.5 .66 yeah
+=2 min <B_n D F A> cro d
+=3' cro g f e
+=3, min. G
+|
+=1 cro A G# D
+r0.5 .10 He .34 made  his
+=2, min <A f a> cro <Ab e ab>
+=3' cro rest b cro bb
+=3, cro rest d cro c
+|
+=1 cro G F# Fn
+r0.5 .01 home  in .66 that
+=2, cro <G d g> <F# d f#> <Fn d fn>
+=3, min <Bb ab> cro <Ab gb>
+|
+i0.4 .02 rit  .  .  .
+=1 cro D F D
+r0.4 .10 fishes .67 ab  -
+=2' cro <F c#> cn <Fl Bn>
+=3' min <G f> cro <G f>
+|
+=1 cro F D F
+r0.4 .10 domen, .67 yeah
+=2' cro Bb A G#
+=2, min <Cx D> cro D
+=3' min <Ab gb> cro F
+|
+=1 cro D F D
+r0.4 .05 Jonah .67 he
+=2, min <D G# d> cro F
+=3' cro E B Bb
+
+5 systems /19 30 19-25-19/
+righthead It Ain't Necessarily So
+lefthead George Gershwin
+/
+7 bars | 18 | 18 | 18 :|| 18 | 18 | 7 5 6 | 7 5 6 |
+|
+=1 cro C A_ C
+r0.4 .01 lived   in .67 a
+=2' min c cro A
+=2, min. <C E>
+=3 cro A e eb
+|
+Il0.4 .91 (to CODA)
+=1 min. D
+r0.4 .01 whale.
+=2' cro rest, F D
+=3' min a cro a#
+=3, min. d(2
+|
+=1 min. rest
+=2' min. d(1
+=2, cro F D F
+=3' min <g b> cro a#
+=3, min. d)2
+|
+=1 min. rest
+=2' min. d)1
+=2, cro D F D
+=3' min a cro g#
+=3, min. d
+|
+Il0.2 .01 MIDDLE:
+=1 min rest cro d
+r0.6 .67 To
+=2' min. d
+=2, cro F D rest,
+=3' min. <g b>
+=3, min. d
+|
+il0.3 .10 Bb
+=1 cro c Bb Ab
+r0.6 .01 get .43 into
+=2' cro3 <D F c> min3 <D F c-I3> cro <D F Ab>
+=3' cro3 <Bb ab> min3 <Bb ab-I3,> cro <Ab gb>
+|
+il0.3 .01 Eb
+=1 cro G F Eb
+r0.6 .08 heaven .67 don't
+=2' cro3 <B_b Eb G> min3 <B_b Eb G-I3> cro <B_b Cx Ebl>
+=3' cro3 <G f> min3 <G f-I3,> cro Gb
+/
+7 bars | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+|
+il0.3 .01 Bb
+=1 cro D C D
+r0.5 .01 snap .33 for .67 a
+=2' cro3 <G_ B_b D> min3 <G_ B_b D-I3,> cro <G_ B_b D>
+=3' cro3 F min3 F-I3 cro En
+|
+il0.3 .01 Eb
+=1 cro Eb F G
+r0.6 .10 seven, .67 live
+=2 min <G_ B_b Dx Eb> cro <C Eb Fx>
+=3' min Eb cro G
+|
+il0.3 .01 Em7
+=1 min A smq rest qua. A
+r0.7 .01 clean, .74 don't
+=2 cro3 <B_ D G> min3 <B_ D G-I3>  cro <D Ex A>
+=3' cro rest B Bb
+=3, min. E
+|
+il0.3 .01 A7
+=1 min A smq rest qua. A
+r0.7 .01 have .74 no
+=2' min <C# G B> cro <C# G Ax>
+=3' min. g
+=3, cro A e eb
+|
+il0.3 .01 D6
+=1 min. A
+r0.7 .01 fault ;
+=2' min. <F# A>
+=2, cro rest,, min D
+=3' min b cro bb
+=3, min. d
+|
+il0.3 .01 D7
+=1 min rest cro A
+r0.6 .67 Oh
+=2' min blank cro A
+=2, cro rest min <F# c e>
+=3' min. a
+=3, cro rest min <d c~>
+|
+il0.3 .01 G7
+=1 cro G F En
+r0.6 .01 I .33 take .67 that
+=2' cro3 <B_ G> min3 <B_ G> cro <B_ E>
+=3  cro3 <d f> min3 <d f> cro A
+/
+7 bars | 18 | 18 | 18 | 18 | 18 | 18 | 18 ||
+|
+=1 cro D C B_n
+r0.3 .01 gospel .67 where -
+=2' cro3 <A_ D> min3 <A_ D> cro <F_ B_>
+=3' cro3 <G f> min3 <G f> cro D
+|
+il0.3 .01 C
+=1 cro A_ G_ A_
+r0.3 .03 ever .67 it's
+=2' min <E_ A_> cro A_
+=3' cro rest A Ab
+=3, min. C
+|
+il0.3 .01 C6
+=1 cro B_n C D
+r0.3 .01 possible, .67 but
+=2' cro B_ C D
+=2, min A_r cro G_
+=3' min <G e> cro A
+|
+il0.3 .01 E7sus4
+=1 min E smq rest qua. E
+r0.4 .01 with .74 a
+=2 min <A_ B_x D Ex> cro <A_ B_x>
+=3 cro E e eb
+|
+il0.3 .01 E7b5
+=1 min E smq rest qua. E
+r0.5 .01 grain .74 of
+=2' min F# cro F#
+=2, min. <G_# B_>
+=3' cro d B Bb
+|
+il0.3 .01 A7+5
+=1 min. F
+r0.5 .01 salt.
+=2  cro <c# f> <B, d#> <E G>
+=3' min. <A(2 g(1>
+|
+Il0.3 .20 dal Segno
+=1  min. rest
+=2  cro <G B'> <F A> C#
+=3' min. <A)2 g)1>
+/
+7 bars | 18 |
+|
+Il0.2 .05 CODA:
+=1 min rest cro D
+r0.5 .66 I'm
+=2  cro F D B_b
+=3, min <d b> cro rest
+|
+il0.3 .01 Gm6
+=1 cro E F# G
+r0.5 .01 preachin .67 this
+=2  min <B_b E> cro <B_b G>
+=3' min <G e> cro <G e>
+|
+=1 cro E F# G
+r0.5 .01 sermon .67 to
+=2 min <D Ex> cro <D G>
+=3, min <Bb, g> cro <Bb g>
+|
+il0.3 .01 D7
+=1 min. A(2
+r0.5 .04 show
+=2' min. A
+=2, min D cro Eb
+=3' cro f# a ab
+=3, min. c
+|
+il0.3 .01 A7
+=1 cro A)2 rest A_
+r0.3 .69 it
+=2' min. A
+=2, cro En B_ A_
+=3, min. <c# g>
+|
+il0.3 .01 G
+=1 cro B_ C# D
+r0.3 .01 ain't .41 nessa,
+=2' min <G_ B_> cro <B_ D>
+=3 min <dx e> cro <G e'>
+|
+il0.3 .01 F#7
+=1 cro D# F# E
+r0.3 .01 ain't .41 nessa,
+=2' min F# cro E
+=2, cro A_# D C#
+=3' min. <F# e>
+/
+8 bars | 18 | 18 | 18 | 18 | 12 | 18 | 18 | 6 4 4 ||
+|
+il0.3 .01 Bm
+=1 cro D E Fn
+r0.5 .01 ain't .41 nessa,
+=2' cro D E Fn
+=2, min. B_
+=3' cro a f# fn
+=3, min. B
+|
+il0.3 .01 Gm6
+=1 cro F# A G
+r0.5 .01 ain't .41 nessa,
+=2' cro F# G A
+=2, min. <B_b D>
+=3 min. <e g>
+|
+il0.3 .01 D
+=1 cro F# G A
+r0.5 .01 ain't .41 neces  -
+=2' cro B B B
+=2, min. <Dx E>
+=3' min. <A f#>
+|
+il0.3 .01 A9
+=1 cro B B B
+r0.5 .01 sa - .34 ri - .67 ly
+=2' cro B B B
+=2, min. <C# F>
+=3, min. <A g>
+|
+il0.3 .01 D
+=1 min. B
+r0.5 .02 so .
+=2' min. <D F# Ax B>
+=3 min. D(1
+|
+=1 min. rest
+=2' cro <a c~> <g# b> <d f>
+=3 min. D)1(1
+|
+=1 min. rest
+=2' min. <f# a>
+=2, cro <B d> <A c#> <D F>
+=3 min. D)1
+|
+=1 min. rest
+=2' min. <D Ex F# B>
+=3' min a
+=3, cro rest, min D_
+% stop

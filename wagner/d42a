@@ -1,0 +1,13 @@
+boundingbox 330 60
+midi channel 1 patch 44 reverb 60 pan 50
+midi channel 2 patch 44 reverb 60 pan 90
+1 system /27 2/
+/
+3 bars | 2# 4 3 3 3 | 4 3 3 3 | 4 3 3 3 |
+| 4/4 1.8
+=1  treble 2# cha1 \
+ vol100 leg45 4 c 2. leg90 vol110 C-dim40
+|
+=1  cha1 vol100 4 leg45 f 2. leg90 vol110 F-dim40
+|
+=1' cha1 vol100 4 leg45 B 2. leg90 vol110 B_-dim40

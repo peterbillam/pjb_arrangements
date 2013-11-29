@@ -1,0 +1,424 @@
+5 systems 6 /14 25 18-25-18/14 25 18-25-18/14 25 18-25-18/14 30 18-20-18/14 25 18-25-18 8/
+pagenum 3
+innerhead Trio super Herr Jesu Christ, dich zu uns wend, J. S. Bach
+leftfoot Arranged for Flute and Piano by Peter J Billam.
+/
+4 bars |1# 4/4 2 2 3 3  3 3 3 3  3 3 4.5 4.5  4.5 4.5 4.5 4.5 \
+ | 6 6 6 6 6 7 6 6 \
+ | 6 9 9 9 9 9 9 9 | 3 3 7 4.5  3 3 3 3  3 3 3 3  3 3 3 3 |
+|
+rl0.3 .05 Flute
+=1 treble 1# 4/4 qua rest smq [G A] [B, c d c] qua [B, d g f]
+=2  treble 1# 4/4 min rest qua rest smq [G A] [B, c d-s5 c-s3]
+rl0.4 .05 Piano
+=3  bass   1# 4/4 min blank smb rest
+|
+=1, qua [g smq B c] [d e d e] [d c d g] [f e d c]
+=2, qua [B-s1 d g f-s2] [g b a f]
+=3' qua rest [G B d] [B G] d rest
+|
+=1, qua [B d g f] [g b a f]
+=2, qua [g smq B c] [d e d e] [d-s2 c d g] [f e d c]
+=3' qua rest [G B d] [B G] [d D]
+|
+=1 smq [g a b g] [e g f e] [a g f g] [a e f d]
+=2  qua [B, smq e d#] cro e(1 qua [e)1 A,] cro dn(1
+=3  cro G qua rest g cro f qua rest b
+/
+3 bars |1# 3 3 3 5.5  3 3 3 4  3 3 4 3  3 3 3 3 \
+ | 5.5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 | 3 3 4 4 4 4 4 4 3 3 3 3 3 4 3 3 |
+|
+il0.6 .10 5
+=1 smq [g f qua g(1] smq [g)1 b a g] [f e d c#] [B d c e]
+=2, treble 1# qua. [d)1 smq e] qua. [c#-tr smq d] min d(1
+=3, bass   1# cro e qua rest a [d f g a]
+|
+=1 min d(1 smq [d)1 f e d] qua. [c#-tr smq d]
+=2  smq [d)1 cn B, A,] [G B' A c'] [B' A G F-s3] [E A G A]
+=3 cro b qua rest f [g e] [a A,]
+|
+=1 qua d rest cro rest qua rest smq [D E] [F G A G]
+=2' qua F smq [D E] [F G A G-s3] qua [F-s1 A d c#]
+=3  qua [d' D] cro rest min rest
+/
+3 bars |1# 3 3 4 4 4 4 4 4 4 4 4 6 4 4 4 4 | 6 6 7 6 6 6 6 6 | 64 |
+|
+=1 qua [F A d' c#'] [d f e c]
+=2' treble 1# qua [d smq F G] [A B A B] [A-s2 G A d] [c# B A G]
+=3, bass   1# qua rest [d f a] [f d] a rest
+|
+=1 smq [d e f g] [a b a b] [a g a b] [c# b a g]
+=2  qua [F A d' c#'-s2] [d f e c]
+=3, qua rest [d f a] [f d] [a A]
+|
+il0.7 .20 10
+=1 qua [f smq b a] cro b(1 qua [b)1 e] cro a(1
+=2, smq [d e f d] [B d c B] [e-s4 d c d] [e B c A]
+=3  cro d qua rest d cro c# qua rest f
+/
+3 bars |1# 5.5 4 3 4  4 4 4 4  3 3 3 4  3 3 3 3 \
+ | 4 4 4 4 4 4 5.5 4 3 3 4 3 3 3 3 3 | 3 3 3 3  4 3 3 3  3 3 3 3  3 3 3 3 |
+|
+=1, qua. [a)1 smq b] qua. [g# smq a] [a e A B] [c# d e f]
+=2  treble 1# smq [d-s3 c# qua d(1] smq [d)1 f e d] qua [c' E A c'-s5]
+=3  bass   1# cro B qua rest e cro A rest
+|
+=1, qua [g B e g] smq [f d B c#] [d e f g]
+=2  smq [B' G E F] [G-s1 A B' c#'] qua [d' F B' d']
+=3  cro e qua rest cro B qua rest
+|
+=1, smq [a g f e] [d c# B a] [g f e d] [c B A g]
+=2' qua [c# A F d] [B G E c]
+=3  cro f qua rest B cro e qua rest A
+/
+3 bars |1# 3 3 4 3 3 3 3 3 3 3 4 4 3 3 4 4 \
+ | 4 4 4 4 4 4 4 4  3 3 3 3  4 3 3 3 \
+ | 3 3 3 3 3 4 3 3 4 4 5 6 6 4 4 4|
+|
+=1  smq [f e d c#] [B' A G F] [E c' d' e'] qua. [c-tr smq d]
+=2' qua [A F D B] qua. [A smq G] qua [F smq E-tr D]
+=3, cro d qua rest g(1 qua [g)1 smq f g] qua [a A]
+|
+il0.6 .06 15
+=1  qua [d A, d c#] smq [d' A D E] [F G# A B']
+=2' smq [D A_-s1, D-s1 E] [F G A G-s3] qua [F-s1 A d G#]
+=3  cro d rest qua rest [d' cn B]
+|
+=1, smq [cn B A B] [c d e d] qua [c e a d#]
+=2' qua [A E A G#] smq [A E A_ B_] [C# D# E-s1 F-s4]
+=3  cro A rest qua rest [a gn f]
+
+5 systems 6 /14 25 18-25-18/14 30 18-20-18/14 30 18-25-18/14 30 18-20-18/14 25 18-25-18 8/
+pagenum 4
+innerhead Trio super Herr Jesu Christ, dich zu uns wend, J. S. Bach
+leftfoot Arranged for Flute and Piano by Peter J Billam.
+/
+3 bars |1# 6 6 7 6 8 8 8 8 | 6 6 7 6 6 6 6 6 \
+ | 4 4 4 4 4 4 4 4 4 4 4 5.5 5.5 4 4 4 |
+|
+=1, smq [e B e f] [g a b a] qua [g B e d#]
+=2' qua [G B_ E D#] smq [E B_-s1, E-s1 F] [G A B A-s3]
+=3, cro e rest min rest
+|
+=1  smq [e f g a] [b c~ b c~] [b a b c~] [d# c~ b a]
+=2, qua [G-s1 B e d#-s2] [e g f d-s3]
+=3, qua rest [e g b] [g e] b rest
+|
+=1, qua [g B e d#] [e g f d]
+=2  smq [e'-s5 F G A] [B, c B, c] [B,-s2 A, B e] [d# c# B, A,]
+=3, qua rest [e g b] [g e] [b B]
+/
+3 bars |1# 6 6 6 6 6 8 6 6 | 4 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 \
+ | 3 3 3 3 4 4 3 3 3 3 4 4 4 4 4 4 |
+|
+il0.5 .10 20
+=1, smq [e B e f] [g a g a] [c# d c e] [f g f g]
+=2' qua [G E] cro B(2 qua [B)2 smq A-s3 G] cro A(2
+=3, cro e qua rest e cro f qua rest f
+|
+=1, smq [B cn B d#] cro e(1 smq [e)1 g f e] qua. [d smq e]
+=2  qua [A)2 smq G F] [G A G B'] [c A, B, c] [F B' A B']
+=3  cro g qua rest c~ [a f] [b B,]
+|
+=1, qua e smq [g f] [e dn c# B] qua [A e c A]
+=2' qua [G E] cro rest qua rest smq [c#-s4 B] [A G F-s3 E]
+=3  qua [e b g e] [c# A] cro g
+/
+3 bars |1# 3 3 3 3  4 3 3 3  3 3 4 4  4 4 4 4 \
+ | 3 3 3 4  3 4 4 3  3 4 6 4  4 4 4 4 \
+ | 3 3 4 3  4 4 3 3  3 3 3.5 4  4 3.8 3 3 |
+|
+=1  qua rest smq [f e] [d c# B, A,] qua [G d' B' G]
+=2' qua [D A F D] rest smq [B-s3 A] [G F-s4 E D]
+=3  cro f min F cro f
+rs0.1 .05 2-1
+|
+=1  qua rest smq [e d] [c#' B' A# G#] qua [F, c A#, f(1]
+=2  qua [C# G E C] rest smq [A#-s5 G#] [F E D C-s2]
+=3  cro e min E cro e
+rs0.1 .02 2-1
+|
+il0.5 .10 25
+=1  smq [f)1 e d c#] [B, An, Gn, f] [e d c B,] [A# G# F e']
+=2' qua [B_ F D B] [G E C# A#]
+=3  cro d g c# f
+/
+3 bars | 1# 6 6 6 6 6 8 7.5 8.5 \
+ | 3 3 3 3  4 4 3 3 4.5 4.5 7 4.5 4.5 4.5 4.5 4.5 \
+ | 6 6 8 6 6 8 6 6 |
+|
+=1  smq [d c# B, An,] [G F E D] [C# A#' B' c'] qua. [A smq B']
+Is0.2 .86 (tr)
+=2' qua [F D B_ G] qua. [F smq E] qua [D smq C# B_]
+=3  cro B cro. e-s2, smq [d, e] qua [f' F]
+|
+=1, qua B smq [B  c#] [d e f e] qua [d f b a#]
+=2  qua B_ [F B' A#] smq [B' B_-s1, B'-s1 c#'] [d e f e]
+=3  cro B rest min rest
+|
+=1, smq [b B d e] [f g f g] [f e f b] [a# g# f e]
+=2  qua [d' F B'-s3 A#] [B, d c# A,-s3]
+=3  qua rest [B d' f'] [d' B'] f rest
+/
+3 bars | 1# 4.5 4.5 4.5 4.5  4.5 4.5 4.5 4.5  4.5 4.5 4.5 7  7 4.5 4.5 4.5 \
+ | 3 4.5 3 3  4 6 4 4  3 3 3 3  4 4 4 4 \
+ | 3 3 4.5 3  4 6 5 4  3 3 3 4.5  5 6 5 4 |
+|
+=1  qua [d' F B' A#] [B, d c# A#,]
+=2' smq [B-s5 F D E] [F G F G] [F-s2 E F B] [A# G# F E]
+=3' qua rest [B d f] [d B] [f F]
+|
+il0.6 .15 30
+=1, smq [B d c# B] cro f(1 smq [f)1 d c B] cro e(1
+=2  cro D-s3(2 smq [D)2 D C# B_] cro G(2 smq [G)2 E D C]
+=3' cro B qua rest B [e d c# A]
+|
+=1  smq [e)1 A, B, c#] cro d(1 smq [d')1 G F E] cro c#(1
+=2' cro F(2 smq [F)2 B_ C# D] cro E(2 smq [E)2 A_# G_# F_]
+=3, qua [d c# B b] [c~# a# f a]
+
+5 systems 12 /14 25 18-25-18/14 25 18-25-18/14 30 18-25-18/14 25 18-25-18/14 30 18-20-18 15/
+pagenum 5
+innerhead Trio super Herr Jesu Christ, dich zu uns wend, J. S. Bach
+leftfoot Arranged for Flute and Piano by Peter J Billam.
+/
+3 bars |1# 3 3 4 3  3 3 4 3  4 4 4 6  5 5 5 5 \
+ | 3 4 3 3  4 3 3 3  4 4 4 4  4 6 5 4 \
+ | 3 3 3 3  3 3 4 3  6 4 4 4  4 4 4 4 |
+|
+=1  smq [c#)1 e d c#] [B' A G F] cro E e(1
+=2' min D(2 smq [D)2 F-s3 E D] [C#-s4 B_ A_ G_]
+=3  qua [b f d, B,] [c#-s3, B A c]
+|
+=1  smq [e)1 g f e] [d c# B, A,] cro G g(1
+rs0.2 .06 2-1
+=2  cro F_ F-s4(2 smq [F)2 A-s5 G F] [E D C#-s3 B_]
+=3  qua [d' c# B d'] [e d, c, e]
+|
+=1, smq [g)1 b a g] [f e d c#] cro B b(1
+=2' cro A_ A-s5(2 smq [A)2 cn-s4 B A] [G F-s3 E D]
+=3, qua [f-s3, e d f] [g f e g]
+/
+3 bars |1# 3 3 3 3  3 3 3 3  4 4 5.5 4  4 4 4 4 \
+ | 3 3 3 3  3 3 3 4  4.5 4.5 4.5 4.5  4.5 4.5 4.5 4.5 \
+ | 4 3 3 3  3 3 4 3  3 3 3 3  3 3 3 3 |
+|
+il0.6 .15 35
+=1  smq [b)1 e f g] [a b a g] min f(1
+=2  cro C# rest smq rest [A, B, c#] [d e d c]
+=3  qua [a g f e-s1,] [d' c# B-s1, A]
+|
+=1, smq [f)1 d e f] [g f e d] cro c# qua rest c
+=2' min B(2 smq [B)2 E F-s3 G] [A G F E]
+=3' qua [G F E G] [A G F A]
+|
+=1 smq [d c# B, A,] [G B' A cn'] [B' A G F] [E G F A]
+Is0.2 .04 ( tr )
+=2  smb D(2
+=3, qua [B d-s4, e f] [g f-s4, g a]
+/
+3 bars |1# 3 3 3 3  3 4.5 3 3  4.5 4.5 4.5 7 3 3 4 4 \
+ | 7 4.5 4.5 4.5  4.5 4.5 4.5 4.5 3 3 3 3  4 4 3 3 \
+ | 3 3 4 4  4 4.5 4 6  4 4 4 4  4 4 4 4 |
+|
+=1  smq [G B' A c'] [B, d c# e] qua. [F smq G] qua. [E-tr smq D]
+=2' min D)2(2 smq [D)2 B A B] qua. [C#-tr smq D]
+=3, qua [b f g a] [b g] [a A]
+|
+=1  qua D [A, d c#] smq [d c d e] [f g a g]
+=2' smq [D C# D-s1 E] [F G A G-s3] qua [F-s1 A d c#-s4]
+=3  cro d rest min rest
+|
+il0.6 .25 40
+=1, qua [f smq F G] [A B cn d] [e g f g] [a g f e]
+=2  qua [d' smq D E] [F G A B'] [cn B,-s2 A, B,] [c e d c]
+=3  qua rest [d~ c~n b] [a g f d]
+/
+3 bars |1# 16 12 16 16 | 3 3 4.5 4 4 6 4 4 4 4 4 4 4 4 4 4 \
+ | 3 3 4 3 3 3 3 3 4 3 3 3 3 3 3 3 |
+|
+=1 qua d smq [G A] [B, c d c] qua [B d g f]
+=2  smq [B, c B, A,] qua [G F] smq [G F G-s1 A] [B, c d c]
+=3, cro g rest min rest
+|
+=1, qua [g smq G A] [B c d e] [fn e d e] [f a g f]
+=2  qua [B' smq B_ C] [D E Fn-s1 G] [A, c B,-s3 c] [d c B, A,]
+=3  qua rest [g fn e] [d'-s1, c B G]
+|
+=1, smq [e d e fn] [g a g a] [g fn g c~] [b a g f]
+=2  qua [G G c' B'-s2] [c e d B,]
+=3  qua c [c, e g] [e c,] g rest
+/
+3 bars |1# 4 4 5.5 4 4 4 4 4 5.5 4 4 4.5 4.5 4 4 4 \
+ | 3 3 6 4 3 3 3 3 3 3 4 3 3 3 3 3 \
+ | 3 3 3 4  3 3 3 4  4 4.5 4.5 4  4 4 4 4 |
+|
+=1, qua [e G c B] [c e d B]
+=2  smq [c-s1 d e fn-s1] [g a g a] [g fn g c~] [b a g f]
+=3  qua rest [c, e g] [e c,] [g' G]
+|
+il0.6 .05 45
+=1 smq [c d e c] [A c' B' A] [d c B, c] [d' A B' G]
+=2  qua [e smq a g#] cro. a qua d cro gn(1
+=3  cro c qua rest c~ cro b qua rest e
+|
+=1, smq [c B qua c(1] smq [c)1 e d c] qua [B smq e d#] cro e(1
+=2  qua. [g)1 smq a] qua. [f-tr smq g] smq [g a b g] [e g f e]
+=3  cro a qua rest d, cro g qua rest g
+
+5 systems 6 /14 30 18-20-18/14 30 18-35-18/14 25 18-25-18/14 25 18-25-18 5/14 25 18-20-18 12/
+pagenum 6
+innerhead Trio super Herr Jesu Christ, dich zu uns wend, J. S. Bach
+leftfoot Arranged for Flute and Piano by Peter J Billam.
+/
+3 bars |1# 4 4 4 4  4 4 4 4  4 4 3 4  4 4.5 4 4 \
+ | 3 3 3 3  3 3 3 4  3 3 4.5 4.5  4 4 4 4  \
+ | 6 6 6 6 6 8 8 8 |
+|
+=1, qua [e)1 A] cro dn(1 qua. [d)1 smq e] qua. [c#-tr smq d]
+=2  smq [a-s4 g f g] [a e f d] [g-s3 f qua g(1] smq [g)1 b a g]
+=3, cro f qua rest b cro e qua rest a
+|
+=1  qua d smq [D E] [F G A B'] qua [cn' E A c']
+=2  cro f rest qua rest smq [A_ B_] [C-s1 D E F]
+=3  cro d rest A rest
+|
+=1 smq [B' G E F] [G A B' c'] [d c B, A,] [G F E d']
+=2' qua [G B_ E G] [F-s2 smq d c] [B A G F-s2]
+=3  cro e rest B qua rest e
+/
+3 bars |1# 8 8 8 8 7 8 8 7 | 4 6 4.5 6 3 4 3 4.5  3 4 4.5 4.5 4.5 4 4 4 \
+ | 24 32 |
+|
+il0.8 .02 50
+=1' smq [c B A G] [F E D c] [B A] cro B smq [A G]
+=1, min blank qua blank smq-s [G F] [E D qua-s C(2]
+=2' smq [E d c B] [A G F-s3 E] qua D cro-s B smq-s [A G]
+=2, min blank qua blank smq [G F] [E D qua C(2]
+=3  cro a qua rest d cro g c
+|
+=1' qua [F smq G A] qua. [F smq G] qua G rest cro rest
+=1, smq-s [C)2 dsq-s D C smq-s B_ dsq-s C D] \
+ qua.-s [A_ smq-s G_] qua-s G_ cro. blank
+=2' qua-s [F smq-s G A] qua.-s [F smq-s G] qua-s G smq [G_ A_] [B_ C D C-s3]
+=2, smq [C)2 dsq D C smq B_ dsq C D] qua. [A_ smq G_] qua G_ cro. blank
+=3' qua [d G] [d D] G rest cro rest
+|
+=1 qua rest smq [G A] [B, c d c] qua [B, d g f]
+=2  qua [B_-s1 D G F-s2] smq [G F G A-s1] [B, c d e]
+=3  min rest <G_ G>
+/
+3 bars |1# 48 | 24 32 | 3 3 3 3  3 4 3 4  4 4.5 5 5  5 5 4.5 4 |
+|
+=1, smq [g d G A] [B, c d e] [d e d e] [d c d e]
+=2  qua [d' D G F] [G,-s1 d g f]
+=3' cro <B_ B> <D d> cro. <B_ B> qua <A_ A>
+|
+=1, smq [d e f g] [a b a g] qua [f A d c#]
+=2  qua [g d e E,(2] smq [E)2 A D E] [F G A G-s3]
+=3' cro <B_ B> <C# c#> min <D(2 d(1>
+|
+il0.9 .15 55
+=1 smq [d' A D E] [F G A G] qua [F, d g f]
+=2' qua [F-s1 A d cn(2] smq [c)2 D G_ A_] [B_ C D C-s3]
+=3' min <D)2 d)1> rest
+/
+3 bars |1# 24 32 | 6 6 8 8 8 6 6 6 | 3 3 3 3 3 3 3 3 3 3 3 3 5.5 4 4 4 |
+|
+=1  smq [g d G, A,] [B, c d c] [B' G A B'] cro c(1
+=2' qua [B_-s1 D G F-s2] smq [G E F G] [A B A G]
+=3' min rest min <E e>
+|
+=1, smq [c)1 A B c] [d c d e] [f g a f] [d g a b]
+=2  cro F(2 smq [F)2 E F G-s1] [A B'] cro c qua B,
+=3' qua [<D d> <C c>] cro <B_ B> <A_ A> <G_(2 G(1>
+|
+=1 smq [c B, A, B,] [c d e d] [c' B' A G] cro d(1
+=2' qua [A E] cro. A qua D smq [G-s5 Fn E D]
+=3' cro <G_)2 G)1> <F_ F> min <G_(2 G(1>
+/
+3 bars |1# 4 4 4 4  6 4 4 4  4 4 6 4   3 3 3 3 \
+ | 3 3 4 4 4 4 4 4 4 4 6 4 3 3 3 3 | 3 4 4 6 4 4 4 4 3 3 3 3 4 4 3 3 |
+|
+=1  qua [d)1 G, c B,] [c' smq G A] [B, c d c]
+=2' smq [E D C D] [E Fn G F] [E D E F#] qua [G F]
+=3' min <G_)2 G)1> rest
+|
+il0.7 .02 60
+=1, smq [B A B c#] qua [d c] [d smq A B] [cn d e d]
+=2  qua [G smq D-s1 E] [F G A G] [F E F G#] qua [A G]
+=3' min blank smb rest
+|
+=1, smq [c B c# d#] qua [e d] smq [e f g f] [e dn c# B]
+=2' qua [A smq E-s1 F] [Gn A B A] min G(2
+=3' min blank smb rest
+
+4 systems 6 /14 30 18-25-18/14 25 18-25-18/14 30 18-25-18 5/14 30 18-30-18 12/
+pagenum 7
+innerhead Trio super Herr Jesu Christ, dich zu uns wend, J. S. Bach
+leftfoot Arranged for Flute and Piano by Peter J Billam.
+/
+3 bars |1# 4 3 4 4 4 6 4 4 4 4 3 3 3 3 3 3 \
+ | 4 4 4 4 3 3 3 4.5 4 6 4.5 4 3 3 3 3 | 3 3 3 3 3 3 3 3 3 3 3 3 6 4 4 4 |
+|
+=1, smq [A c# d e] [f g a g] [f g f e] qua. [e-tr smq d]
+=2  qua [G)2 smq F G-s1] [A B' c#' A] smq [d A,] cro d qua c
+=3' min rest <A_ A>
+|
+=1  cro d(1 smq [d')1 B' G E'] cro c#(1 smq [c)1 A, d f]
+=2' smq [d A F D] cro G-s5(2 smq [G)2 E C# A_] cro F
+=3' cro <B_ B> <B_ B> <A_ A> <D d>
+|
+=1 smq [g f e f] [g a b a] [g f e d] cro a(1
+=2  cro E cro. e qua A smq [d cn B, A,]
+=3' cro <D d> <C# c#> min <D(2 d(1>
+/
+3 bars |1# 4 4 4 4 4 4 4 4 4 4 6 4 3 3 3 3 \
+ | 3 3 4.5 6  4 4 4 4  4 6 6 4.5  3 3 3 3 \
+ | 3 3 6 6  4 4 4 6  3 3 4 4.5  4 4 4 4 |
+|
+il0.7 .15 65
+=1  qua [a)1 d g f] [g smq d e] [f g a g]
+=2  smq [B' A G A'] [B, c d c] [B, A, B, c#] qua [d c]
+=3' min <D)2 d)1> rest
+|
+=1, smq [f e f g#] qua [a g] [a smq e f] [gn a b a]
+=2, qua [d smq A,-s1 B,] [cn d e d] [c B c# d#] qua [e d]
+=3' min blank smb rest
+|
+=1, smq [g f g a] qua [b a(1] smq [a)1 f g e] qua. [d#-tr smq e]
+=2  qua [e smq B,-s1 c#] [dn e f e] qua d# smq [E F] [G A B' A-s3]
+=3' min rest <B_ B>
+/
+3 bars |1# 50 | 3 3 3 3 3 3 3 3 3 3 3 3 5.5 4 4 4 \
+ | 4 4 4 4 5.5 4 4 4 3 3 3 3  4 3 3 3 |
+|
+=1 smq [e' F G A] [B, c d e] [f g a f] [d g a b]
+=2  qua G-s1 cro e-blank-s4 dn c qua B
+=3' cro <Cn cn> <B_ B> <A_ A> <G_(2 G(1>
+|
+=1  smq [c B, A, B,] [c d e d] [c' B' A G] cro d(1
+=2' qua [A-s3 E] cro. A qua D smq [G-s5 Fn E D]
+=3' cro <G_)2 G)1> <F_ F> min <G_(2 G(1>
+|
+il0.6 .05 70
+=1, qua [d)1 G c B] smq [c B c d] [e fn g f]
+=2' smq [E D C D] [E Fn G F-s3] qua [E-s1 G c B-s2]
+=3' smb <G_)2(2 G)1(1>
+/
+3 bars |1# 4.5 4.5 4 4 5.5 4 4 4 4 4 4 4 4 4 4 4 \
+ | 6 4 4 4.5  4.5 4 4 4  3 3 4.5 3  3 3 3 3 \
+ | 4.5 3 3 3  5 4 4 4  3 3 4 3  2 3 2 3 ||
+|
+=1, qua [e g c~ b] [c~ g] rest B
+=2, smq [c B c-s1 d] [e fn g f] [e d e f-s1] [g a g a]
+=3' qua [<G_)2 G)1> <F_n Fn> <E_ E> <D_ D>] <C_ C> [<C c> <E e> <G g>]
+|
+=1, qua [c e d B] smq [c d e fn] [g a g a]
+=2, smq [g fn g c~] [b a g f] qua [e-s3 c-s1] rest B'-s2
+=3' qua [<E e> <C c>] cro <G g> qua rest [<C c> <E e> <G g>]
+|
+=1 smq [g fn g c~] [b a g f#] min g
+=2' qua [c e] qua. [d smq c] min d
+=2, qua rest, G(2 smq [G)2 c B A] min B
+=3' qua [<E e> <C c>] cro <G g> min <G_ G>

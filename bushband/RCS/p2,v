@@ -1,0 +1,90 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2010.08.14.23.05.11;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Page 2 for the bushband arrangements
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 14
+.nr VS 17
+.pl 11.7i
+.LP
+\&
+.sp 3.0c
+.ce 1
+\f3\s+7Bushband\s0\fP
+.sp 2.5c
+.LP
+.nh
+These were the arrangements I made around 1990
+for the acoustic Australian Bushband
+that I never quite found the other members of.
+They are for Violin, Piano accordeon and Four-string banjo;
+all instruments loud enough to play for small dances
+without any amplification.
+
+.LP
+.nh
+\f3Polkas\fP
+.br
+Heel and Toe Polka,
+Davvy Davvy Knick Knack,
+ The Glen Cottage Polkas,
+Spanish Ladies and
+The Waves of Tory.
+
+.LP
+.nh
+\f3Jigs\fP
+.br
+The Rambling Pitchfork,
+The Blackthorn Stick,
+Whelan's Jig,
+O'Keefe's Jig,
+Scully's Jig,
+Lannigan's and
+Father O'Flynn (or: Top of Cork Road).
+
+.LP
+.nh
+\f3Waltzes\fP
+.br
+Planxty Irwin,
+Give Me Your Hand and
+the First Waltz from The Vienna Woods by Johann Strauss
+
+.LP
+.nh
+\f3Reels\fP
+.br
+The Lady on the Island,
+Lucky in Love,
+Last Night's Fun and
+Drowsy Maggie.
+
+.LP
+.ce 1
+\f2Peter J Billam\fP
+.LP
+.ce 1
+\f2www.pjb.com.au\fP
+@

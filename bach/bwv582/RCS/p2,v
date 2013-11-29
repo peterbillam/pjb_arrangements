@@ -1,0 +1,97 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	2002.09.15.23.34.38;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Page 2 for the Passacaglia & Fugue
+@
+
+
+1.1
+log
+@filling out and shuffling around
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+.LP
+\&
+.sp 1.3c
+.ce 2
+\f3\s+9Passacaglia and Fugue in c minor\s-9\fP
+.sp 0.9c
+.Lp
+The \f2Passacaglia et Thema Fugatum\fP in c minor, BWV 582,
+is one of the first fruits of Bach's early mastery.
+Probably written at Arnstadt, where Bach was from 1703 to 1708,
+it sythensises its models, Buxtehude, Reinken, and the French style,
+but far surpasses them in dramatic intensity,
+in its ability to affect and excite.
+
+.Lp
+Johann Sebastian Bach was appointed in 1703 as organist
+of the new Wender organ in the \f2Neue Kirche\fP
+(now called the \f2Bachkirche\fP),
+giving him for the first time in his life
+free access to a fine modern organ.
+It would have been tuned at about A\ =\ 465,
+a semitone above modern conecrt pitch,
+probably in Werckmeister temperament.
+
+.Lp
+The passacaglia owes debts to Buxtehude's ostinato works,
+notably to his Passacaglia in d minor BuxWV 161.
+In mid-October 1705 Bach walked the 400 kilometers from Arnstadt to Lübeck
+to visit Buxtehude;
+he stayed sixteen weeks, probably returning during January 1706.
+As he only had permission for four weeks,
+the prolonged absence, particularly over the busy season,
+did cause him problems on his return.
+It is not known whether Bach took his Passacaglia to Lübeck
+as part of a portfolio, or wrote it afterwards as he absorbed his experience.
+There are twenty variations.
+The cantus firmus moves to the soprano voice in bar 88, becomes florid
+at bar 104, dissolves at bar 112 and returns in triumph at bar 128.
+
+.Lp
+For the fugue, the passacaglia theme is divided into two halves,
+the first half of which enters in the alto,
+and the second of which, set in quavers, is its contersubject in the tenor.
+The fugue borrows Reinken's "permutation fugue" idea, in which
+each voice enters with the same series of subjects and countersubjects.
+So when the soprano enters in g minor in bar 174,
+the alto moves to the first countersubject in quavers,
+the tenor to a second countersubject in semiquavers;
+when the bass enters in c minor in bar 181,
+the tenor becomes free counterpoint;
+and the voices rotate themes again in bars 186 (g\ minor) and 192 (c\ minor).
+
+.Lp
+The aim of this arrangement for piano four hands
+is to make this music available to piano players.
+The typical four-part texture is shared with two parts to each player;
+this divides the organ manual parts between the two players.
+Some registration decisions, such as adding octaves, have been made,
+and conflicts between parts have been resolved.
+
+.Lp
+.ce 1
+Peter J Billam,\ \ \ \ \f2www.pjb.com.au\fP
+
+@

@@ -1,0 +1,73 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.sp 1.3c
+
+.LP
+.nh
+The \f2Twelve Fantasias for Flute\fP
+are offered here in a new edition for recorder.
+Two versions are available, one written for the recorder in C
+(e.g. soprano or tenor) and the other for the recorder in F (e.g. alto, bass).
+The version for the C recorder can of course be read transposing on the alto
+by using descant fingering, and this may well be the preferred
+approach for alto players as it saves reading a great number of ledger lines.
+All marks of expression are editorial and are suggestions only;
+they may be ignored with a clear conscience.
+
+.LP
+.nh
+Flute music from this era is normally played on alto recorder by
+transposing it up three semitones, so that the bottom D of the flute
+is played as the bottom F of the alto recorder.
+These Fantasias are not all playable using that transposition,
+and several have been given here at original pitch on the C\ recorder
+(or transposed up five semitones on the F\ recorder).
+
+.LP
+.nh
+Two versions are provided of Fantasia 5, originally in C major.
+In the key of Bb on the C\ recorder (or Eb on the F\ recorder)
+every note is within range,
+but the piece does not seem to me to have a Bb or Eb character,
+and the opening fanfare is awkward.
+It sounds brighter in C (or F),
+but bar 23 of the Allegro reaches top E (or A),
+and a top C# (or F#) appears at the start of bar 24.
+So both versions are provided, enabling the reader to choose.
+
+.LP
+.nh
+Fantasias 9, 10 and 12 also involve a top C# (or F#),
+and Fantasia 6 involves a difficult low Eb (or Ab);
+more playable alternatives are provided in small print.
+
+.sp 0.6c
+.TS
+center,box;
+c c c c c
+c c c c l.
+Fantasia	Original	C recorder	F recorder	Changes
+_
+1.	A maj	G maj	C maj	
+2.	a min	a min	d min	Vivace bar 25, c# down one octave
+3.	b min	a min	d min	
+4.	Bb maj	Bb maj	Eb maj	Andante bar 4, e down one octave
+5(a)	C maj	C maj	F maj	Allegro bar 23 rewritten
+5(b)	C maj	Bb maj	Eb maj	
+6.	d min	c min	f min	
+7.	D maj	C maj	F maj	
+8.	e min	d min	g min	
+9.	E maj	D maj	G maj	
+10.	f# min	e min	a min	
+11.	G maj	F maj	Bb maj	
+12.	g min	g min	c min	Allegro bar 31, e down one octave
+.TE
+.sp 0.6c
+.LP
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP

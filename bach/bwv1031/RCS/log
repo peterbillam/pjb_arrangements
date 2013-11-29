@@ -1,0 +1,17 @@
+19991203 161659 score pjb JSB Flute Sonata bwv1031 transposed into G major
+19991206 101250 score pjb add up to end of Siciliano
+19991206 204257 score pjb add first half of final Allegro
+19991207 102349 score pjb add all of Allegro; needs spacing work and  a part
+19991207 204030 score pjb repaginate 1st mvt for easy page turns
+19991220 163511 score pjb add 4 pages of part
+19991220 202345 Makefile pjb Makefile for JSB Flute Sonata bwv1031
+20010223 112140 Makefile pjb uses a42us etc, does free pdf
+20010223 112213 bwv1031 pjb used to be score
+20010223 112241 title pjb Title page for bwv1031
+20010223 112304 title_free pjb Title page for Free version of bwv1031
+20011228 094000 bwv1031 pjb fixed misprint in Allegro 77 LH
+20040202 140450 Bb_part pjb Solo Part in Bb, for tenortuba
+20040202 175900 bwv1031 pjb precautinary gn Allegro bar 76
+20040202 175942 Bb_part pjb pagenums start at 1; 3 bugs fixed
+20040202 180024 Makefile pjb does bwv1031_Bb_part as well
+20081109 203516 bwv1031 pjb bring muscript syntax up to date

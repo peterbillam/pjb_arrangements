@@ -1,0 +1,989 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2009.09.28.01.41.00;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.09.24.11.10.23;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.12.16.10.17.09;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Contrapunctus 1 for keyboard
+@
+
+
+1.3
+log
+@tiny fingering adjustments in 75,15,57
+@
+text
+@5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
+pagenum 2
+title Contrapunctus 1
+innerhead J. S. Bach
+leftfoot typesetting (c) 2009 Peter Billam
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+/
+5 bars | 1b 2/2 24 | 24 | 12 14 | 13 16 | 28 |
+| 2/2 2.6
+=1' treble  1b 2/2 cha1 leg95 smb rest
+=1,         1b 2/2 cha1 leg95 min D-s4, A
+=2' bass    1b 2/2 cha2 leg95 smb rest
+=2,         1b 2/2 cha2 leg95 smb blank
+|
+=1' smb rest
+=1, min F D
+=2  smb rest
+|
+=1' smb rest
+=1, min C# cro D E
+=2  smb rest
+|
+=1' smb rest
+=1, min F(2 qua [F)2 G-s1, F-s3, E]
+=2  smb rest
+|
+=1' min A-s2 d
+=1, cro D E F G
+=2  smb rest
+/
+4 bars | 1b 4 4 5 4 4 4 4 3 | 5 4 4 4 4 4 4 3 | 4 4 4 4 4 4 5 3 | 4 5 4 3 4 4 4 3 |
+|
+=1' min c A
+=1, cro A qua [A_ B_n] [C A_] cro F(2
+=2  smb rest
+|
+=1' min G# cro A Bn
+=1, qua [Fr)2 B_n-s5,] cro E(2-s2, qua [E)2 F E D]
+=2  smb rest
+|
+=1' min c(1-s4 qua [c)1-s2 d c Bb-s3]
+=1, cro E F#--s1 min G(2
+=2  smb rest
+|
+=1' qua [A-s3 D] min d cro c#
+=1, cro Gr)2 Fn min E
+=2' smb rest'
+=2, min d-s5, a-s2,
+/
+4 bars | 1b 4 5 4 4 4 4 4 3.5 | 4 4 4 4 4 4 5 3 | 4.5 4 5 4 4 4 4 3 | 4 4 4 4 4 5 4 3.5 |
+|
+il0.8  10
+=1' qua [d A-s3] cro cn(1 qua [c)1 A-s4] cro B(1
+=1, cro. D qua E--s1 cro. F qua D
+=2' smb rest'
+=2, min f-s1,-s3, d-s5,
+|
+=1' qua [B)1-s4 E] min. A(1
+=1, cro. G qua G [F E D C#-s2]
+=2' smb rest'
+=2, min c#-s4, cro d-s5, e
+|
+=1' qua A)1 cro c-s5 qua Bn min c(1
+=1, cro D--s1 min G--s2 cro C
+=2' smb rest'
+=2, min f(2 qua [f)2 g f-s3, e]
+|
+=1' qua [c)1-s2 D] cro c(1 qua [c)1 A-s4] cro Bn(1
+=1, cro. F qua E--s1 cro. F qua G_#-s2,
+=2' min a d~
+=2, min d-s2,-s5, rest
+/
+4 bars | 1b 4 4 5 4 4 4 4 3 | 5 4 4 4 4 4 4 3 | 5 5 4 4 4 4 5 3 | 4 4 4 4 4 4 4 3 |
+|
+=1' cro Bn)1-s1-s2 qua [A-s4 G#] min A
+=1, min. E qua [D-s2 C-s1]
+#rs0.9 .01 2
+#rs0.3 .01 1
+=2' min c~ a
+=2, cro rest, qua [A Bn] [c-s1,-s3, A-s5,] cro f(2-s3,
+|
+=1' min Bn-s2-s5 cro c-s1-s5 d-s4
+=1, qua [D F--s3 E-s1 D-s2] cro C rest,
+=2' min g# cro a bn
+=2, qua [fr)2-,-s2, Bn-s5,] cro e(2-s"  3-4", qua [e)2-s2, f-s3, e-s1,-s4, d-s5,]
+|
+=1' qua [G Bb] cro A(1 qua [A)1 B-s4 A-s5 G(1]
+=1, smb rest,,
+=2' min c~(1 qua [c~)1 d~--s1, c~ bb]
+=2, qua [e g f# a] min g-s4,
+|
+=1' qua [G)1 E-s2 F D] min B(1
+=1, smb rest,,
+=2' min a(1 qua [a)1 f-s3,] cro g
+=2, min. d-s1,-s5, qua [e d]
+/
+4 bars | 1b 4 4 4 5 4 5 4 3 | 5 4 4 4 5 4 4 3 | 4 4 4 5 5 4 4.5 3 | 5 4 4 4 4 4 4 3.5 |
+|
+=1' qua [B)1 G-s2] cro A min d(1
+=1, smb rest,,
+=2' min c~(1 qua [c~)1 a-,-s3,] cro bn
+=2, cro e-s1,-s4, qua [f-,-s3, e-s5,] cro f#-s4, qua [g-s2,-s4, f]
+|
+=1' qua [d)1 Bn-s2] cro c min f(1
+=1, smb rest,,
+=2' min e~(1 qua [e~)1 c~#-s2,] cro d~
+=2, cro g#-s4, qua [a-s4, g] cro a qua [b-s1,-s3, a-s4,]
+|
+il0.9 .37 20
+=1' qua [f)1-s1 d-s4] cro e A-s3 d(1
+=1, min G(2 qua [Gr)2 E-s1,] cro F
+=2, cro bn-s3, qua [c~ b] cro c~#-s2, qua [d~-s2, g#-s5,]
+|
+=1' qua [d)1 Bn-s4] cro c F Bb-s5
+=1, cro. E qua A cro. D qua E--s2
+=2, min a(2-s1,-s4, qua [a)2 f] cro g(2
+
+5 systems 10 /20-45-20 5/20-50-20 2/20-45-20/20-48-20/20-45-20 10/
+pagenum
+innerhead Contrapunctus 1, J. S. Bach
+leftfoot typesetting (c) 1998 Peter Billam
+/
+4 bars | 1b 4 4 4 5 4 4 4 3.5 | 4 4 4 4 5 5 4 3 | 5 4 4 4 4 3 3 3 | 4 4.5 4 4 4 4 4 3 |
+|
+=1' min A-s1-s4 cro D-s1 G(1-s4
+=2' cro c~# qua [d~-s1 a-s2,] cro. bn qua c~#-s2
+=2, qua [g)2 e-s5,] cro f(2-s4, qua [f)2 d] cro e
+|
+=1' qua [G)1-s1 E-s3 F-s2 d] min Er(2
+=1, min D A-s2-s4
+=2' cro d~ min. a(1
+=2, min d(2 qua [d)2 Bn] cro c#
+|
+=1' qua [Er)2 D] min A cro G-s4
+=1, min F D
+=2' min a)1 b
+=2, cro. d qua cn min B
+|
+=1' min A-s2-s5 rest
+=1, min C# cro D-s4 E-s1-s5
+=2' qua rest' e cro a(1-s1 qua [a)1 b-s2 a g-s2]
+=2, cro. A qua G [F G-s2, F E]
+/
+4 bars | 1b 4 4 4 4 4 4 4 3 | 4 5 4 4 4 4 4 3.5 | 5 4 4 4 5 4 4 3 | 4 4 4 5 4 4 5 3 |
+|
+=1' smb rest
+=1, min F(2-s1-s4 qua [F)2 G-s5 F-s4 E-s5]
+=2' cro a bn-s2 min c~(1-s1
+=2, qua [D F E D] cro. A qua F
+|
+=1' qua. blank smb rest'
+=1' cro D--s3 G(2-s5 qua [G)2 E] cro F
+=2' qua [c~)1 a-s1] cro bb-s2 a-s1 d~(1
+=2, cro. B qua G cro. d-s1, qua f-s2,
+|
+=1' smb rest'
+=1, cro E A(2-s5 qua [A)2 F#-s3] cro G-s4
+=2' qua [d~)1 bn-s1] cro c~-s2 b-s1 e~(1-s"     2-1"
+=2, cro. a-s1, qua A-s3, cro E rest,
+|
+=1' min A-s2-s3 e-s1-s"   4-5"
+=1, cro. F# qua d-s5 min G#
+=2' qua [e~)1 a-s3,] cro d~(1-s1, qua [d~)1 d~ c~ bn]
+=2, min rest, e
+/
+4 bars | 1b 4 4 4 4.3 4 4 4 3 | 4 4 4 4 4 4.5 5 3 | 5 5 4 4 4 4 5 3 | 4 4 4 4 4 4 5 3 |
+|
+il0.8  30
+=1' min c-s2-s4 A-s5
+=1, cro A E(2 qua [E)2 E-s2 D-s1 C-s2]
+=2' qua [c~ d~] rest'' a-s2, cro c~ a
+=2, min a-s2,-s4, f(2
+|
+=1' min G# cro A-s1-s2-s4 Bn-s2-s5
+=1, cro D F-s3 E D
+=2' min bn cro c~ g#
+=2, qua [f)2-s1, f-s2, e d] [c-s3, d-s2, c-s1,-s3, Bn]
+|
+=1' min c(1-s1-s4 qua [c)1 d c Bb]
+=1, cro C min A cro D
+=2' qua [a gn-s1, f#-s2, e-,-s1,] cro f g(1
+=2, min A-s1,-s5, d-s2,-s3,
+|
+=1' cro A-s2-s5 rest' rest' A(1-s1-s4
+=1, cro E A(2--s4 qua [A)2 G--s3 F E--s2]
+=2' qua [g)1 g-s2, f-s1, e-,-s2,] [f e-s2, d-s1, c#-s2,]
+=2, min c#-s4, A-s1,-s5,
+/
+4 bars | 1b 4 4 4 4 4 4 5 3 | 4 4 4 4 5.5 4 4.5 4 | 4 4 4 5 4 4 3 4 | 4 4 4 4 4 4 3 4 |
+|
+=1' qua [A)1 c B A] [B-s5 A G F#]
+=1, smb D(2
+=2' cro d rest' min rest'
+=2, min F#-s1,-s4, cro G-s5, A
+|
+=1' cro. G qua B-s5 cro. Er-s2 qua F#-s4
+=1, qua [D)2 D] cro G(2-s3 qua [G)2 G] cro C(2
+=2' smb rest'
+=2, min B(2 qua [B)2 c-s1, B A]
+|
+=1 cro. G qua E cro. C#-s1-s"  3-2" qua A
+=1, qua [C)2 A_-s1] cro B_-s2 min A_(2
+=2' smb rest'
+=2, min G(2 qua [G)2 E] cro F-s"  4-5",
+|
+=1' cro. D-s2 qua F cro. E-s1-s2 qua c
+=1, qua [A_)2 F_-s2,] cro G_-s1, min C(2
+=2' smb rest'
+=2, min B(2-s4, qua [B)2 G] cro A-s"  4-5",
+/
+4 bars | 1b 4 4 4 4 5 4 4 3.5 | 5 4 4 5 4 4 4 4 | 4 4 4 4 4 4 5 3 | 5 4 4 4 4 4 4 4 |
+|
+=1' cro. F-s2 qua A cro. G-s1-s2 qua e
+=1, qua [C)2 A_-s2,] cro B_ min E(2
+=2' smb rest'
+=2, min d(2-s4, qua [d)2 Bn] cro c-s"  4-5",
+|
+=1' cro. A-s2 qua c cro. Bn-s1-s2 qua g
+=1, qua [E)2 C#-s2,] cro D min G(2
+=2' smb rest'
+=2, min f(2-s4, qua [f)2 d-s5,] cro e-s3,
+|
+il0.7 .30 40
+=1' min c#-s3 cro d e(1
+=1, qua [G)2 A--s1] cro B min A(2
+=2' min e a
+=2, cro. A-s3,-s5, qua g-s2, [f-s1,-s4, e d-s3, c#-s4,]
+|
+=1' qua [e)1 c#] cro d(1-s5 cro. d)1 qua e-s4
+=1, min A)2(2 qua [A)2 F-s2] cro G-s1
+=2' min f d
+=2, cro. d-s1,-s2, qua F min B-s2,-s4,
+/
+4 bars | 1b 4 4 4 4 4 4 4 3 | 4 4 4 4 5 5 4 3 | 4 4 4 4 5 5 4 3 | 4 4 4 4.5 4 4 4 4 |
+|
+=1' qua [f-s5 e-s4] cro g(1-s5 qua [g)1-s1 f e-s1-s3 d-s5]
+=1, cro. A qua B----s2 cro A G(2
+=2' min c# cro d-,-,-s1, e-,-,-s2,
+=2, smb A(2-s3,-s5,
+|
+=1' qua [c#-s4 A--s3] cro d(1-s2-s5 qua [d)1-s3 Bn] cro cn(1
+=1, cro G)2 qua [F D--s1] cro. A qua G-s1
+=2' min f(1 qua [f)1 g f e-s2,]
+=2, cro. A)2-s1, qua B-s3, [A G-s1,-s5,] cro A-s1,-s4,
+|
+=1' cro c)1-s2 Bb-s2-s4 A rest'
+=1, qua [F# D---s1] cro G(2 qua [Gr)2 E] cro Fn(2
+=2' min. d qua [a f]
+=2, cro. B-s1,-s3, qua G min d(2-s3,
+|
+=1' smb rest'
+=1, qua [F)2 D] cro G(2 qua [G)2 E] cro A(2
+=2' cro. b qua g-s3, cro. c~ qua a-s2,
+=2, cro d)2 min e-s5, cro f(2-s4,
+/
+4 bars | 1b 4 4 4 4 4 4 4.5 3.3 | 4 4 4.5 5 4 4 4 3 | 6 5 4 4 5 5 4 3 | 6 5 4 4 4 4 5 3 |
+|
+=1' smb rest'
+=1, qua [A)2 F] cro B(2 qua [B)2 G] cro A(2
+=2' cro d~ g-,-s3, c~ f-,-s3,
+=2, cro. f)2 qua d cro. e qua c#
+|
+=1' smb rest'
+=1, qua [A)2 F] min G qua [F D]
+=2' cro b e-,-s3, min a
+=2, cro. d qua Bn [c# A] cro d(2-s3,
+|
+=1' cro blank smb rest'
+=1, min A-s"  4-1" d(2-s3
+=2' cro e a(1 qua [a)1 g#-,-s2, f#-s3, g-s1,]
+=2, qua [dr)2-s2, cn Bn-s1,-s5, A-s4,] min B-s5,
+|
+=1' min e a-s2-s5
+=1, qua [dr)2 c#-s2 Bn-s1 c-s2] [d A] cro e(2
+=2' cro. a qua gn-s2, [f e d-s5, c#-s4,]
+=2, cro A-s1,-s4, rest, min rest,
+/
+4 bars | 1b 5 4 4 4 4 4 4 3 | 5 4 4 5 4 4 4 3 | 4 4 5 4 4 4 4 3 | 4 4 4 5 4 4 4 3 |
+|
+il0.8 50
+=1' min f-s5 d-s4
+=1, qua [er)2 A] cro d--s4 qua rest, F cro B(2
+=2' cro d-s5, qua [f d] cro b-s1, qua [g-s3, e-s5,]
+=2, qua. blank smb rest,,
+|
+=1' min c#-s3 cro d-s3 e-s4
+=1, qua [Br)2 E] cro A(2 qua [A)2 G-s1, F-s2, E-s1,]
+=2' cro. a-s3, qua f~ cro bn-s5, c~#-s4,
+=2, smb rest,
+|
+=1' min f(1-s5 qua [f)1-s1 g-s4 f-s3-s5 e]
+=1, qua [D A---s1 d---s3 Bn---s2] [G E] cro c(2
+=2' cro d~-s2, qua [bn-s4, g-s5,] cro c~-s2, qua [a-s4, f-s5,]
+=2, smb rest,
+|
+=1' cro. d qua e cro c#-s2 qua [d f]
+=1, cro cr)2 B min A
+=2' qua [b-s3, d~-s2,] cro g~(1 qua [g~)1 e~-s3,] cro f~(1-s2,
+=2, smb rest,
+/
+4 bars | 1b 4 4 4 5 4 4 4 3 | 5 4 5 4 4 4 4 3 | 4 4 4 4 5 5 4 3 | 5 4 5 4 4 4 4 3 |
+|
+=1' min B(1-s3 qua [B)1-s1 B-s5 A-s4 G]
+=1, cro. G-s1, qua F-s2 min E(2
+=2' qua [f~)1 f~-s2, e~-s3, d~-s4,] min c~#-s5,
+=2, smb rest,
+|
+=1' min F B
+=1, cro Er)2 qua [D C#] cro D G(2
+=2' qua [d~-s1, c~n-s2, b-s1,-s3, a-s2,-s4,] [g-s1,-s5, a b c~]
+=2, smb rest,
+|
+=1' min. A cro e(1
+=1, cro. Gr)2 qua F cro. E qua E
+=2' qua [d~ a] cro d~(1 qua [d~)1 bn-s2,] cro c~#(1-s"  1-2",
+=2, min d-s1,-s5, a-s3,
+|
+=1' qua [e)1-s"  2-1" c#-s3 d e] [f-s4 d-s2] cro g(1
+=1, min. A qua [G B]
+=2' qua [c~)1 e~-s1, a-s3, c~#] cro d~ qua [b-s2, g-s1,]
+=2, min f-s5, d-s1,-s5,
+/
+4 bars | 1b 4 4 4 4 4 4 5 3 | 5 4 4 4 4 4.5 4 3 | 4 4 4 4 5 5 4 3 | 5 4 4 4 4 4 4 3 |
+|
+=1' qua [g)1 e a g] [f-s5 e-s1-s4 d-s2-s5 c#-s1-s4]
+=1, min A(2 qua [A)2 G F E]
+=2' min e cro f g
+=2, min c#-s3,-s4, cro d-s1,-s5, e-s2,-s4,
+|
+=1' qua [d-s1-s5 cn B A-s5] min G(1
+=1, min. D cro E
+=2' min a cro bn c~#
+=2, min f(2-s1,-s5, qua [f)2-s2, g-s4, f-s1,-s5, e-s4,]
+|
+il0.8 .40 60
+=1' qua [G)1 E F D] min A(1
+=1, cro D rest,, rest,, Eb
+=2' cro a rest'' rest'' f#
+=2, min d(2-s2,-s5, qua [d)2 eb d c]
+|
+=1' qua [A)1 F#-s2 G-s3 B-s4] min c(1-s5
+=1, min D cro rest, F#--s1-s2
+=2' qua [g a] cro b rest' c~
+=2, min B(2-s2,-s5, qua [B)2 c-s2, B A]
+
+4 systems 20 /20-45-20/20-45-20/20-45-20/20-55-20 20/
+pagenum
+innerhead Contrapunctus 1, J. S. Bach
+leftfoot typesetting (c) 1998 Peter Billam
+/
+4 bars | 1b 5 4 4 5 4 4 4 4 | 5 4 4 5 4 4 5 3 | 5 4 4 4 4 4 4 4 | 5 4 4 4.5 5 4 4 4 |
+|
+=1' qua [c)1-s1-s3 A-s2-s4 B-s2-s3 d-s5] cro eb-s4 d-s1-s3
+=1, qua [G F#] cro G rest, B(2
+=2' min d~ qua rest' cro g-,-s1, qua f-,-s2,
+=2, min. G cro G-s5,
+|
+=1' cro c#-s2 a(1-s3-s5 qua [a)1 d] cro g(1-s3-s5
+=1, qua [Br)2 A--s1 f d] cro Bn qua [e c#]
+=2' cro e rest' min rest'
+=2, smb A(2-s1,-s"  4-5",
+|
+=1' qua [g)1 c#] cro f(1 qua [f)1 d-s4] cro e(1
+=1, cro A qua [d A] cro. B qua G
+=2' cro rest' qua [f d] cro. g qua c#
+=2' smb A)2(2
+|
+=1' qua [e)1 c#-s4] cro d(1 qua [d)1 Bn] cro c(1
+=1, cro. A qua F cro. E qua G
+=2' cro. f qua d min a
+=2, min. A)2 cro A
+/
+4 bars | 1b 4 4 4 4 5 5 4 4 | 4 4 4 4 5 4 4 4 | 4 5 4 4 5 4 4 4 | 4 4 5 4 4 5 4 4  |
+|
+=1' cro c)1 B-s1-s3-s5 cro. A qua A
+=1, qua [F# D] cro G(2 qua [Gr)2 E-s2] cro Fn(2-s1
+=2' cro d min d~ qua [a f]
+=2, cro. B qua G min d(2-s3,
+|
+=1' qua [d-s4 f-s2-s5 e-s1-s3 g] [f e-s3] cro d(1-s4
+=1, qua [F)2 d] cro c(2 cro. c)2 qua c--s1
+=2' min b(1 qua [b)1 g#-,-s2,] cro a-s2,
+=2, qua [d)2 B-s4,] cro c-s5, min f(2-s3,
+|
+=1' qua d)1-s2 cro f-s2-s5 qua e [f-s2-s5 d-s4] cro e(1
+=1, qua [B A] cro G# cro. A qua E
+=2' min d~(1 qua [d~)1 bn-,-s1,] cro c~-s2,
+=2, qua [f)2-s1, d-s4,] cro e-s5, min a(2-s3,
+|
+=1' qua [e)1-s2 d c-s1-s3 Bn] cro. c qua a-s2-s5
+=1, cro A G(2 cro. G)2 qua c
+=2' min f~(1 qua [f~)1 d~-,-s2,] cro e~b-s1,
+=2, qua [a)2-s1, f-s4,] cro g-s5, min c~(2-s3,
+/
+5 bars |1b 5 4 4 4 3 4 3 4 |10 14 |10 11 |3 4 4 4 5 5 4 3 |4 4 5 4 6 4 4 4 |
+|
+il0.8  70
+=1' qua [g f# g b] cro c# rest'
+=1, cro A min G-s1, cro rest,
+=2' min d~-s2, cro e~n rest'
+=2, qua [c~r)2 a-s5,] min b-s4, cro rest,
+|
+=1' min rest' cro d-s2-s5 rest'
+=1, min rest, cro A rest,
+=2' min rest' cro f~ rest'
+=2, min rest, cro a-s1,-s5, rest,
+|
+=1' min rest' d(1-s3-s5
+=1, min rest, Bn
+=2' min rest' f~(1
+=2, min rest, g#-s1,-s4,
+|
+=1' min d)1(1 qua [d)1 Bn] cro c#-s4
+=1, min A(2 cro. A)2 qua G-s1
+=2' cro f~)1 qua [e~ d~] cro e~-s1, rest'
+=2, min. a-s5, cro A
+|
+=1' cro. d-s2-s5 qua cn cro. B qua A-s3
+=1, qua [F# G--s1] cro A(2-s2 qua [Ar)2 G] cro c(3-s5
+=2' min a d~-s1,
+=2, smb d(2-s"    1  -2",-s" 3-5",
+/
+4 bars | 1b 6 4 4 5 4 4 4 3 \
+ | 4 4 5 4 4 5 4 3 | 4 5 4.5 4 4 4 4 3 | 5 4 4 4 3 3 3 3 ||
+|
+=1' min Dr-s1 qua rest' [G-s3 A-s4 c(1-s5]
+=1, qua [c)3 F#-s2 G-s3 B-s5] min Eb--s2
+=2' min b-s2, g-s1,
+=2, smb d)2(2
+|
+=1' qua [c)1-s1 B-s2 c eb(1] [e)1 d-s1 f#-s2 a(1-s4]
+=1, cro D A_-s1, B_ C
+=2' min f#-s3, cro g-s2,-s4, a-s1,-s3,
+=2, smb d)2(2
+|
+=1' qua [a)1 smq g a] qua [b c#] min d(1-s5
+=1, cro D G_(2-s3, qua [G_)2 B--s3 A G(2]
+=2' min b(1-s1,-s2, qua [b)1 d~-s1, c~-s2, b-s3,]
+=2, smb d)2(2
+|
+=1' smb d)1-fermata
+=1, qua [G)2 F#--s2 E G] min F-fermata,
+=2, smb a-fermata
+=2, smb d)2-s1,
+
+@
+
+
+1.2
+log
+@bar 36-37 tie fixed; some fingering fixes
+@
+text
+@d39 1
+a39 1
+=1, qua [Fr)2 B_n] cro E(2-s2, qua [E)2 F E D]
+d43 1
+a43 1
+=1, cro E F# min G(2
+d53 2
+a54 2
+il0.8 .01 10
+=1' qua [d A] cro cn(1-s5 qua [c)1 A-s4] cro B(1
+d59 2
+a60 2
+=1' qua [B)1 E] min. A(1-s5
+=1, cro. G qua G--s4 [F E D C#-s2]
+d69 1
+a69 1
+=1' qua [c)1 D] cro c(1 qua [c)1 A-s4] cro Bn(1
+d86 1
+a86 1
+=2, qua [fr)2-,-s2, Bn-s5,] cro e(2-s4, qua [e)2-s2, f-s3, e-s1,-s4, d-s5,]
+d119 1
+a119 1
+5 systems 10 /20-45-20 5/20-50-20 2/20-45-20/20-45-20/20-45-20 10/
+d182 1
+a182 1
+=2' qua [a gn-s1, f#-s2, e-s1,] cro f g(1
+d187 1
+a187 1
+=2' qua [g)1 g-s2, f-s1, e-s2,] [f e-s2, d-s1, c#-s2,]
+d321 1
+a321 1
+=2' qua [c~)1 e~-s1, a-s3, c~#] cro d~ qua [b-s1, g-s2,]
+d427 1
+a427 1
+=1' min Dr qua rest' [G-s3 A-s4 c(1-s5]
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 2
+a2 2
+6 systems 10 /20-35-20/20-45-20/20-45-20/20-42-20/20-40-20/20-37-20/
+pagenum 4
+d5 1
+a5 1
+leftfoot typesetting (c) 1998 Peter Billam
+d9 1
+a9 1
+6 bars | 1b 2/2 24 | 24 | 12 14 | 13 16 | 28 | 13 16 |
+d12 1
+a12 1
+=1,         1b 2/2 cha1 leg95 min D A
+d25 1
+a25 1
+=1, min F(2 qua [F)2 G F E]
+d28 1
+a28 1
+=1' min A d
+d31 2
+a36 2
+/
+5 bars | 1b 4 | 4 |
+d39 1
+a39 1
+=1, qua [Fr)2 B_n] cro E(2 qua [E)2 F E D]
+d42 1
+a42 1
+=1' min c(1-s4 qua [c)1-s2-s4 d c Bb-s3]
+d49 3
+a51 1
+=2, min d a
+d53 1
+a53 1
+il0.7 10
+d57 1
+a57 1
+=2, min f-s2, d-s4,
+d60 1
+a60 1
+=1, cro. G qua G--s4 [F E D C#]
+d62 1
+a62 1
+=2, min c# cro d e
+d65 1
+a65 1
+=1, cro D min G--s2 cro C
+d70 2
+a71 2
+=1, cro. F qua E cro. F qua G_#
+=2' min a-emph d~
+d73 2
+d78 2
+d81 1
+a81 1
+=2, cro rest, qua [A Bn] [c-s1,-s3, A] cro f(2
+d83 2
+a84 2
+=1' min Bn-s2-s5 cro c d
+=1, qua [D F--s3 E-s1 D] cro C rest,
+d86 1
+a86 1
+=2, qua [fr)2 Bn] cro e(2-s3, qua [e)2 f e d-s5,]
+d88 1
+a88 1
+=1' qua [G Bb] cro A(1 qua [A)1 B A G(1]
+d92 5
+d98 1
+a98 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d100 1
+a100 1
+=1' qua [G)1 E F D] min B(1
+d102 2
+a103 2
+=2' min a(1 qua [a)1 f] cro g
+=2, min. d qua [e d]
+d105 1
+a105 1
+=1' qua [B)1 G] cro A min d(1
+d107 2
+a108 2
+=2' min c~(1 qua [c~)1 a--s3,] cro bn
+=2, cro e-s1,-s4, qua [f-s3, e-s2,] cro f#-s4, qua [g-s2,-s4, f]
+d110 15
+a124 4
+=1' qua [d)1 Bn] cro c min f(1
+=1, smb rest,,
+=2' min e~(1 qua [e~)1 c~#] cro d~
+=2, cro g#-s4, qua [a-s4, g] cro a qua [b a-s5,]
+d126 3
+a128 14
+il0.7 .01 20
+=1' qua [f)1 d] cro e A d(1
+=1, min G(2 qua [Gr)2 E] cro F
+=2, cro bn qua [c~ b] cro c~# qua [d~ g#]
+/
+5 bars | 1b 32 | 32 | 32 | 32 | 32 |
+|
+=1' qua [d)1 Bn] cro c F Bb
+=1, cro. E qua A cro. D qua E
+=2, min a(2 qua [a)2 f] cro g(2
+|
+=1' min A cro D G(1
+=2' cro c~# qua [d~ a] cro. bn qua c~#
+=2, qua [g)2 e] cro f(2 qua [f)2 d] cro e
+d131 1
+a131 1
+=1, min D A-emph-s2-s4
+d136 1
+a136 1
+=1, min F-emph D-emph
+d141 2
+a142 2
+=1, min C# cro D-s4 E
+=2' qua rest' e cro a(1-s1 qua [a)1 b a g]
+d145 1
+a145 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d148 2
+a149 2
+=1, min F(2 qua [F)2 G F E]
+=2' cro a bn min c~(1
+d152 4
+a155 4
+=1' smb rest'
+=1' cro D G(2 qua [G)2 E] cro F
+=2' qua [c~)1 a] cro bb a d~(1
+=2, cro. B qua G cro. d qua f
+d158 16
+a173 16
+=1, cro E A(2-s2-s5 qua [A)2 F#] cro G
+=2' qua [d~)1 bn] cro c~ b e~(1
+=2, cro. a qua A cro E rest,
+|
+=1' min A-emph e
+=1, cro. F# qua d min G#
+=2' qua [e~)1 a] cro d~(1 qua [d~)1 d~ c~ bn]
+=2, min rest e
+/
+4 bars | 1b 32 | 32 | 32 | 32 |
+|
+il0.7 30
+=1' min c A
+=1, cro A E(2 qua [E)2 E D C]
+=2' qua [c~ d~] rest' a cro c~ a
+=2, min a f(2
+d175 2
+a176 2
+=1' min G# cro A Bn
+=1, cro D F E D
+d178 1
+a178 1
+=2, qua [f)2 f e d] [c d c Bn]
+d180 1
+a180 1
+=1' min c(1 qua [c)1 d c Bb]
+d182 2
+a183 2
+=2' qua [a gn f# e] cro f g(1
+=2, min A-emph, d
+d185 4
+a188 4
+=1' cro A rest' rest' A(1
+=1, cro E A(2 qua [A)2 G F E]
+=2' qua [g)1 g f e] [f e d c#]
+=2, min c# A
+d190 1
+a190 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d192 1
+a192 1
+=1' qua [A)1 c B A] [B A G F#]
+d195 1
+a195 1
+=2, min F# cro G A
+d197 2
+a198 2
+=1' cro. G qua B cro. Er qua F#
+=1, qua [D)2 D] cro G(2 qua [G)2 G] cro C(2
+d200 1
+a200 1
+=2, min B(2 qua [B)2 c B A]
+d202 2
+a203 2
+=1 cro. G qua E cro. C# qua A
+=1, qua [C)2 A_] cro B_ min A_(2
+d205 1
+a205 1
+=2, min G(2 qua [G)2 E] cro F
+d207 2
+a208 2
+=1' cro. D qua F cro. E qua c
+=1, qua [A_(2 F_] cro G_ min C(2
+d210 1
+a210 1
+=2, min B(2 qua [B)2 G] cro A
+d212 1
+a212 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d214 2
+a215 2
+=1' cro. F qua A cro. G qua e
+=1, qua [C)2 A_] cro B_ min E(2
+d217 1
+a217 1
+=2, min d(2 qua [d)2 Bn] cro c
+d219 2
+a220 2
+=1' cro. A qua c cro. Bn qua g
+=1, qua [E)2 C#] cro D min G(2
+d222 1
+a222 1
+=2, min f(2 qua [f)2 d] cro e
+d224 5
+a228 5
+il0.7 40
+=1' min c# cro d e(1
+=1, qua [G)2 A] cro B min A(2
+=2' min e-emph a-emph
+=2, cro. A qua g [f e d c#]
+d230 2
+a231 2
+=1' qua [e)1 c#] cro d(1 cro. d)1 qua e
+=1, min A)2(2 qua [A)2 F] cro G
+d233 1
+a233 1
+=2, cro. d qua F min B
+d235 1
+a235 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d237 9
+a245 9
+=1' qua [f e] cro g(1 qua [g)1 f e d]
+=1, cro. A qua B cro A G(2
+=2' min c# cro d e
+=2, smb A(2
+|
+=1' qua [c# A] cro d(1 qua [d)1 Bn] cro cn(1
+=1, cro G)2 qua [F D] cro. A qua G
+=2' min f(1 qua [f)1 g f e]
+=2, cro. A)2 qua B [A G] cro A
+d247 2
+a248 2
+=1' cro c)1 Bb A rest'
+=1, qua [F# D] cro G(2 qua [G)2 E] cro Fn(2
+d250 1
+a250 1
+=2, cro. B qua G min d(2
+d254 2
+a255 2
+=2' cro. b qua g cro. c~ qua a
+=2, cro d)2 min e cro f(2
+d257 1
+a257 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d261 2
+a262 2
+=2' cro d~ g c~ f
+=2, cro. f qua d cro. e qua c#
+d266 2
+a267 2
+=2' cro b e min a
+=2, cro. d qua Bn [c# A] cro d(2
+d269 21
+a289 21
+=1' smb rest'
+=1, min A d(2
+=2' cro e a(1 qua [a)1 g# f# g]
+=2, qua [dr)2 cn Bn A] min B
+|
+=1' min e-emph a
+=1, qua [dr)2 c# Bn c] [d A] cro e(2
+=2' cro. a qua gn [f e d c#]
+=2, cro A rest, min rest,
+/
+4 bars | 1b 32 | 32 | 32 | 32 |
+|
+il0.7 50
+=1' min f d
+=1, qua [er)2 A] cro d qua rest, F cro B(2
+=2' cro d qua [f d] cro b qua [g e]
+=2, smb rest,,
+|
+=1' min c# cro d e
+=1, qua [Br)2 E] cro A(2 qua [A)2 G F E]
+=2' cro. a qua f~ cro bn c~#
+d292 3
+a294 3
+=1' min f(1 qua [f)1 g f e]
+=1, qua [D A d Bn] [G E] cro c(2
+=2' cro d~ qua [bn g] cro c~ qua [a f]
+d297 1
+a297 1
+=1' cro. d qua e cro c# qua [d f]
+d299 1
+a299 1
+=2' qua [b d~] cro g~(1 qua [g~)1 e~] cro f~(1
+d302 1
+a302 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d304 3
+a306 3
+=1' min B(1 qua [B)1 B A G]
+=1, cro. G qua F min E(2
+=2' qua [f~)1 f~ e~ d~] min c~#
+d311 1
+a311 1
+=2' qua [d~ c~n b a] [g a b c~]
+d316 2
+a317 2
+=2' qua [d~ a] cro d~(1 qua [d~)1 bn] cro c~#(1
+=2, min d-emph, a
+d319 1
+a319 1
+=1' qua [e)1 c# d e] [f d] cro g(1
+d321 2
+a322 2
+=2' qua [c~)1 e~ a c~#] cro d~ qua [b g]
+=2, min f d
+d324 1
+a324 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d326 1
+a326 1
+=1' qua [g)1 e a g] [f e d c#]
+d329 1
+a329 1
+=2, min c# cro d e
+d331 1
+a331 1
+=1' qua [d cn B A] min G(1
+d334 1
+a334 1
+=2, min f(2 qua [f)2 g f e]
+d336 1
+a336 1
+il0.7 60
+d338 3
+a340 3
+=1, cro A_ rest,, rest,, Eb
+=2' cro d~ rest'' rest'' f#
+=2, min d(2 qua [d)2 eb d c]
+d342 2
+a343 2
+=1' qua [A)1 F# G B] min c(1
+=1, min D cro rest, F#
+d345 6
+a350 1
+=2, min B(2 qua [B)2 c B A]
+d352 1
+a352 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d354 1
+a354 1
+=1' qua [c)1 A B d] cro eb d
+d356 2
+a357 2
+=2' min d~ qua rest' cro g qua f
+=2, min. G cro G
+d359 2
+a360 2
+=1' cro c# a(1 qua [a)1 d] cro g(1
+=1, qua [Br)2 A f d] cro Bn qua [e c#]
+d362 1
+a362 1
+=2, smb A(2
+d364 1
+a364 1
+=1' qua [g)1 c#] cro f(1 qua [f)1 d] cro e(1
+d369 1
+a369 1
+=1' qua [e)1 c#] cro d(1 qua [d)1 Bn] cro c(1
+d374 1
+a374 1
+4 bars | 1b 32 | 32 | 32 | 32 |
+d376 2
+a377 2
+=1' cro c)1 B cro. A qua A
+=1, qua [F# D] cro G(2 qua [Gr)2 E] cro Fn(2
+d379 1
+a379 1
+=2, cro. B qua G min d(2
+d381 4
+a384 4
+=1' qua [d f e g] [f e] cro d(1
+=1, qua [F)2 d] cro c(2 cro. c)2 qua c
+=2' min b(1 qua [b)1 g#] cro a
+=2, qua [d)2 B] cro c min f(2
+d386 1
+a386 1
+=1' qua d)1 cro f qua e [f d] cro e(1
+d388 2
+a389 2
+=2' min d~(1 qua [d~)1 bn] cro c~
+=2, qua [f)2 d] cro e min a(2
+d391 1
+a391 1
+=1' qua [e)1 d c Bn] cro. c qua a
+d393 2
+a394 2
+=2' min f~(1 qua [f~)1 d~] cro e~b
+=2, qua [a)2 f] cro g min c~(2
+d396 1
+a396 1
+5 bars | 1b 32 | 32 | 32 | 32 | 32 |
+d398 1
+d400 3
+a402 3
+=1, cro A min G cro rest,
+=2' min d~ cro e~n rest'
+=2, qua [c~r)2 a] min b cro rest,
+d404 1
+a404 1
+=1' min rest' cro d rest'
+d407 1
+a407 1
+=2, min rest, cro a rest,
+d409 1
+a409 1
+=1' min rest' d(1
+d412 1
+a412 1
+=2, min rest, g#
+d414 16
+a429 15
+=1' min d)1(1 qua [d)1 Bn] cro c#
+=1, min A(2 cro. A)2 qua G
+=2' cro f~)1 qua [e~ d~] cro e~ rest'
+=2, min. a cro A
+|
+=1' cro. d qua cn cro. B qua A
+=1, qua [F# G] cro A(2 qua [Ar)2 G] cro c(3
+=2' min a-emph d~
+=2, smb d(2-emph,
+/
+4 bars | 1b 32 | 32 | 32 | 16 12 ||
+|
+=1' min Dr qua rest' [G A c(1]
+=1, qua [c)3 F# G B] min Eb
+=2' min b g
+d432 3
+a434 3
+=1' qua [c)1 B c eb(1] [e)1 d f# a(1]
+=1, cro D A_ B_ C
+=2' min f# cro g a
+d437 3
+a439 3
+=1' qua [a)1 smq g a] qua [b c#] min d(1
+=1, cro D G_(2 qua [G_)2 B A G(2]
+=2' min b(1 qua [b)1 d~ c~ b]
+d443 1
+a443 1
+=1, qua [G)2 F# E G] min F-fermata,
+d445 1
+a445 1
+=2, smb d)2-fermata,
+@

@@ -1,0 +1,288 @@
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+innerhead Flute Sonata No. 4 in F major, G. F. Haendel
+leftfoot Arrangement (c) 2005 Peter J Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+4 bars | 1b 4/4 12 | 12 | 12 |
+| 2/4 105
+Il0.6        Allegro
+% =1 treble 1b 4/4 cha1 leg75 qua blank blank blank c
+=2 treble 1b 4/4 cha2 leg70 qua blank blank blank rest
+=3 bass   1b 4/4 cha9 leg70 qua vol80 G# vol70 G# G# rest cha2
+| 4/4 105
+% =1 qua [f c c c] [d-tr c] rest c
+=2 qua rest [<A, c> <A, c> <A, c>] leg90 [<F B' d'> leg70 <F A c'>] rest A
+=3 qua rest [f a f] [b f a f]
+|
+% =1 qua [g c c c] [a-tr g] rest g
+=2 qua [c' <E G> <E G> <E G>] leg90 [<C F A> leg70 <C E G>] rest smq [c B,]
+=3, qua [e c e c] [f c e c]
+|
+% =1 qua [a e f g] smq. [e dsq d qua c] rest g
+=2' qua. [A smq G] qua. [F smq D] cro E qua [F G]
+=2, min blank qua blank B_ cro C
+=3, qua [f leg90 c leg70 d leg90 B] leg70 [c leg90 g leg70 a leg90 e]
+|
+% =1 qua [a e f g] [e smq f g qua leg60 c leg85 b]
+=2' qua [<C A> <E G>] [F smq E D] cro E qua [F G]
+=2, min. blank cro C
+=3, qua leg70 [f leg90 c~ leg70 d~ leg90 b] leg70 [c~ leg90 g leg70 a leg90 e]
+|
+% =1 qua [a smq g f] qua. e smq f] cro f qua rest a
+=2' qua [A smq B A] cro <E G> smq [F c B c] [A c B c]
+=2, qua [C D] min. blank
+=3' qua leg70 [f B c C] [F f a f]
+|
+% =1 smq [g c~ b c~] [g c~ b c~] [f d~ c~ d~] [bn c~ a b]
+=2' min c(1 qua [c)1 smq d c] cro <G Bn>
+=2, qua. [G smq F] qua. [G smq E] qua [F A] cro blank
+=3, qua leg90 [e d leg70 e c] [d f g f]
+|
+% =1 smq [c~ g c~ bn] [a g f e] cro d qua rest d
+=2 cro <G c'> <A, d> qua. [<Bn, d> smq c] [B' A G F]
+=3, qua [e c f d] [g a bn g]
+|
+% =1 smq [e c d e] [f d e f] [g e f g] [c g f g]
+=2' qua. [E smq G] qua. [F smq Bn] min c
+=2, min blank qua leg90 [G F leg70 G E]
+=3, qua [c~ leg90 c leg70 d d~] leg90 [e~ d~ leg70 e~ c~]
+|
+% =1 smq [a f e f] [d a g a] [bn g f g] [e g a b]
+=2' cro <C F A> qua rest leg90 <F A> cro leg70 <G Bn> qua rest leg90 <G B>
+=2, cro. blank qua D(2 cro D)2  qua blank qua E(2
+=3 cro f qua rest leg90 d cro leg70 g qua rest leg90 e
+|
+% =1 smq [c~ a bn g] [a f g e] cro. leg70 f qua leg80 d~
+=2' cro <A c> qua rest leg90 <E A c> cro leg70 <F A d> blank
+=2, cro E)2 min blank smq [G Bn d f]
+=3 cro leg70 a qua rest A [d, d~ bn g]
+|
+% =1 qua [e c~] smq [d c~ bn c~] cro. f qua g
+=2' min blank cro. f qua g
+=2, qua [<G e> <G c> <A d> <Bn d>] [c smq B A] qua [B d]
+=3, qua [c~ leg90 e f g] leg70 [a d~ g leg90 bn]
+|
+% =1 qua [e smq d c] qua [Bn, c] cro. F qua f
+=2' cro blank <D G Bn> cro. F qua G
+=2, qua [<c e> <A d>] cro blank qua [C smq B_n A_] qua [B_ D]
+=3 qua leg70 [c~ leg90 f leg70 g leg90 G,] leg70 [A d' G Bn]
+|
+% =1 qua [e smq d c] qua [Bn bn] [c~ smq b a] qua [g f]
+=2' qua [G smq F E] cro leg60 <B_n D> <C F> <D G>
+=2, qua [E A_] min. blank
+=3 qua [c leg90 f' leg70 g' leg90 G] leg70 [A, leg90 a leg70 bn leg90 Bn,]
+| 7/8 210
+% =1 qua [e smq d c] qua [G Bn'] cro. c 
+=2' qua [<E G> <F A>] cro <B_n D G> cro. <C E G>
+=3  qua leg70 [c leg90 f' leg70 g' G] cro. c
+
+midi pause .04
+| 1/8 210
+% =1 leg75 qua c
+=2 leg70 qua rest
+=3 leg70 qua rest
+| 4/4 105
+% =1 qua [f c c c] [d-tr c] rest c
+=2 qua rest [<A, c> <A, c> <A, c>] leg90 [<F B' d'> leg70 <F A c'>] rest A
+=3 qua rest [f a f] [b f a f]
+|
+% =1 qua [g c c c] [a-tr g] rest g
+=2 qua [c' <E G> <E G> <E G>] leg90 [<C F A> leg70 <C E G>] rest smq [c B,]
+=3, qua [e c e c] [f c e c]
+|
+% =1 qua [a e f g] smq. [e dsq d qua c] rest g
+=2' qua. [A smq G] qua. [F smq D] cro E qua [F G]
+=2, min blank qua blank B_ cro C
+=3, qua [f leg90 c leg70 d leg90 B] leg70 [c leg90 g leg70 a leg90 e]
+|
+% =1 qua [a e f g] [e smq f g qua leg60 c leg85 b]
+=2' qua [<C A> <E G>] [F smq E D] cro E qua [F G]
+=2, min. blank cro C
+=3, qua leg70 [f leg90 c~ leg70 d~ leg90 b] leg70 [c~ leg90 g leg70 a leg90 e]
+|
+% =1 qua [a smq g f] qua. e smq f] cro f qua rest a
+=2' qua [A smq B A] cro <E G> smq [F c B c] [A c B c]
+=2, qua [C D] min. blank
+=3' qua leg70 [f B c C] [F f a f]
+|
+% =1 smq [g c~ b c~] [g c~ b c~] [f d~ c~ d~] [bn c~ a b]
+=2' min c(1 qua [c)1 smq d c] cro <G Bn>
+=2, qua. [G smq F] qua. [G smq E] qua [F A] cro blank
+=3, qua leg90 [e d leg70 e c] [d f g f]
+|
+% =1 smq [c~ g c~ bn] [a g f e] cro d qua rest d
+=2 cro <G c'> <A, d> qua. [<Bn, d> smq c] [B' A G F]
+=3, qua [e c f d] [g a bn g]
+|
+% =1 smq [e c d e] [f d e f] [g e f g] [c g f g]
+=2' qua. [E smq G] qua. [F smq Bn] min c
+=2, min blank qua leg90 [G F leg70 G E]
+=3, qua [c~ leg90 c leg70 d d~] leg90 [e~ d~ leg70 e~ c~]
+|
+% =1 smq [a f e f] [d a g a] [bn g f g] [e g a b]
+=2' cro <C F A> qua rest leg90 <F A> cro leg70 <G Bn> qua rest leg90 <G B>
+=2, cro. blank qua D(2 cro D)2  qua blank qua E(2
+=3 cro f qua rest leg90 d cro leg70 g qua rest leg90 e
+|
+% =1 smq [c~ a bn g] [a f g e] cro. leg70 f qua leg80 d~
+=2' cro <A c> qua rest leg90 <E A c> cro leg70 <F A d> blank
+=2, cro E)2 min blank smq [G Bn d f]
+=3 cro leg70 a qua rest A [d, d~ bn g]
+|
+% =1 qua [e c~] smq [d c~ bn c~] cro. f qua g
+=2' min blank cro. f qua g
+=2, qua [<G e> <G c> <A d> <Bn d>] [c smq B A] qua [B d]
+=3, qua [c~ leg90 e f g] leg70 [a d~ g leg90 bn]
+|
+% =1 qua [e smq d c] qua [Bn, c] cro. F qua f
+=2' cro blank <D G Bn> cro. F qua G
+=2, qua [<c e> <A d>] cro blank qua [C smq B_n A_] qua [B_ D]
+=3 qua leg70 [c~ leg90 f leg70 g leg90 G,] leg70 [A d' G Bn]
+|
+% =1 qua [e smq d c] qua [Bn bn] [c~ smq b a] qua [g f]
+=2' qua [G smq F E] cro leg60 <B_n D> <C F> <D G>
+=2, qua [E A_] min. blank
+=3 qua [c leg90 f' leg70 g' leg90 G] leg70 [A, leg90 a leg70 bn leg90 Bn,]
+| 7/8 210
+% =1 qua [e smq d c] qua [G Bn'] cro. c
+=2' qua [<E G> <F A>] cro <B_n D G> cro. <C E G>
+=3  qua leg70 [c leg90 f' leg70 g' G] cro. c
+
+midi pause .08
+| 1/8 210
+% =1 cha1 leg75 qua g
+=2 cha2 leg70 qua rest
+=3 cha2 qua rest
+| 4/4 105
+% =1 qua [c~ g g g] [a-tr g] rest leg90 a
+=2 qua rest [<E G> <E G> <E G>] leg90 [<C F A> leg70 <C E G>] rest <E A>
+=3' qua rest [c e c] [f c e c]
+|
+% =1 qua [b f# g a] [f d] rest leg95 a
+=2' qua [B A] cro G qua <D F#> rest rest <A c>
+=2, cro. D qua Eb min blank
+=3 qua leg90 [G A B c] leg70 [d, leg90 a leg70 b leg90 f#]
+|
+% =1 qua leg80 [b leg95 f# leg80 g leg95 d] leg80 [eb c~ d a]
+=2 qua <G B'> rest rest smq [g f] [eb d c B,] [A G qua F#]
+=3 qua leg70 [g leg90 d~ leg70 e~b leg90 b] leg70 [c~ a f# d]
+|
+% =1 qua [b smq a g] qua. [f#-tr smq g] cro g smq rest [g a b]
+=2' qua [<D G> <Eb A>] cro <F# A> <B_ D G> qua rest <D B>
+=3, qua [g leg90 c~ leg70 d~ d] [g a b g]
+|
+% =1 smq [c~ e f g] [c g a b] [a c d e] leg95 [f e leg80 f c]
+=2' min. c qua rest <C F>
+=2, qua leg90 [G F leg70 G E] cro A blank
+=3  qua leg90 [e d, leg70 e c,] cro f qua rest A
+|
+% =1 smq [d f g a] [b a g f] [e d qua c] smq rest [f e f]
+=2' min F cro E smq [F G qua A]
+=2, qua [D C B_ D] min blank
+=3  qua [B A G B] [c, c~ a f]
+|
+% =1, smq [d B A B] [G g f g] [e c B c] [A a g a]
+=2' cro <D F> qua rest leg90 <D G> cro leg70 <E G> qua rest leg90 <C E>
+=3 cro b qua rest leg90 B cro leg70 c qua rest leg90 A
+|
+% =1, smq [f d c d] [B b a b] [g e d e] [c c~ b c~]
+=2' cro <D F A> qua rest leg90 <D G B> \
+ cro leg70 <C G c> qua rest leg90 <E G c>
+=3 cro d qua rest leg90 g cro leg70 e qua rest leg90 c
+|
+% =1, smq [a g a f] [d~ c~ d~ f] [g f g e] [c~ b c~ e]
+=2' cro <F A c> qua rest leg90 <F A d> cro leg70 <G d> qua rest leg90 <G c>
+=3 cro f qua rest leg90 d cro leg70 e qua rest a
+|
+% =1 smq [f e f c] qua [d b] leg70 cro. b smq leg80 [a g]
+=2' cro <F c> B(1 qua. [B)1 smq A] [G A B c]
+=2, cro blank D E blank
+=3 qua [d~ a b g] leg90 [c d' leg70 e' c]
+|
+% =1 qua [a smq g f] qua [e f] cro. B qua g
+=2' qua [<C F A> <D G>] cro <E G> cro. B qua B
+=2, min blank qua [F smq E D] qua [E C]
+=3, qua [f leg90 b leg70 c~ leg90 c] leg70 [d g c e]
+|
+% =1, qua [A f G e] cro. b smq [a g]
+=2' qua [<C A> <C F>] [<D G> <E G>] cro. B qua <G B>
+=2, min blank qua [F smq E D] qua [E C]
+=3, qua [f leg90 A B c] leg70 [d g c e]
+|
+% =1 qua [a smq g f] qua [e smq d c] qua [f smq e d] qua [c B,]
+=2' qua [<C F A> <D G>] cro <E G> qua [F A G <E c>]
+=3, qua [f b c~ c] [d f e c]
+| 7/8 209 208 207 206 206 206 206
+% =1, qua [A f G e] cro. f
+=2' qua [<F A c> <C F> <D G> <C E G>] cro. <A_ C F>
+=3' qua [f A B c] cro. F
+
+midi pause .04
+| 1/8 210
+% =1 cha1 leg75 qua g
+=2 cha2 leg70 qua rest
+=3 cha2 qua rest
+| 4/4 105
+% =1 qua [c~ g g g] [a-tr g] rest leg90 a
+=2 qua rest [<E G> <E G> <E G>] leg90 [<C F A> leg70 <C E G>] rest <E A>
+=3' qua rest [c e c] [f c e c]
+|
+% =1 qua [b f# g a] [f d] rest leg95 a
+=2' qua [B A] cro G qua <D F#> rest rest <A c>
+=2, cro. D qua Eb min blank
+=3 qua leg90 [G A B c] leg70 [d, leg90 a leg70 b leg90 f#]
+|
+% =1 qua leg80 [b leg95 f# leg80 g leg95 d] leg80 [eb c~ d a]
+=2 qua <G B'> rest rest smq [g f] [eb d c B,] [A G qua F#]
+=3 qua leg70 [g leg90 d~ leg70 e~b leg90 b] leg70 [c~ a f# d]
+|
+% =1 qua [b smq a g] qua. [f#-tr smq g] cro g smq rest [g a b]
+=2' qua [<D G> <Eb A>] cro <F# A> <B_ D G> qua rest <D B>
+=3, qua [g leg90 c~ leg70 d~ d] [g a b g]
+|
+% =1 smq [c~ e f g] [c g a b] [a c d e] leg95 [f e leg80 f c]
+=2' min. c qua rest <C F>
+=2, qua leg90 [G F leg70 G E] cro A blank
+=3  qua leg90 [e d, leg70 e c,] cro f qua rest A
+|
+% =1 smq [d f g a] [b a g f] [e d qua c] smq rest [f e f]
+=2' min F cro E smq [F G qua A]
+=2, qua [D C B_ D] min blank
+=3  qua [B A G B] [c, c~ a f]
+|
+% =1, smq [d B A B] [G g f g] [e c B c] [A a g a]
+=2' cro <D F> qua rest leg90 <D G> cro leg70 <E G> qua rest leg90 <C E>
+=3 cro b qua rest leg90 B cro leg70 c qua rest leg90 A
+|
+% =1, smq [f d c d] [B b a b] [g e d e] [c c~ b c~]
+=2' cro <D F A> qua rest leg90 <D G B> \
+ cro leg70 <C G c> qua rest leg90 <E G c>
+=3 cro d qua rest leg90 g cro leg70 e qua rest leg90 c
+|
+% =1, smq [a g a f] [d~ c~ d~ f] [g f g e] [c~ b c~ e]
+=2' cro <F A c> qua rest leg90 <F A d> cro leg70 <G d> qua rest leg90 <G c>
+=3 cro f qua rest leg90 d cro leg70 e qua rest a
+|
+% =1 smq [f e f c] qua [d b] leg70 cro. b smq leg80 [a g]
+=2' cro <F c> B(1 qua. [B)1 smq A] [G A B c]
+=2, cro blank D E blank
+=3 qua [d~ a b g] leg90 [c d' leg70 e' c]
+|
+% =1 qua [a smq g f] qua [e f] cro. B qua g
+=2' qua [<C F A> <D G>] cro <E G> cro. B qua B
+=2, min blank qua [F smq E D] qua [E C]
+=3, qua [f leg90 b leg70 c~ leg90 c] leg70 [d g c e]
+|
+% =1, qua [A f G e] cro. b smq [a g]
+=2' qua [<C A> <C F>] [<D G> <E G>] cro. B qua <G B>
+=2, min blank qua [F smq E D] qua [E C]
+=3, qua [f leg90 A B c] leg70 [d g c e]
+|
+% =1 qua [a smq g f] qua [e smq d c] qua [f smq e d] qua [c B,]
+=2' qua [<C F A> <D G>] cro <E G> qua [F A G <E c>]
+=3, qua [f b c~ c] [d f e c]
+| 7/8 207 204 201 198 195 192 189
+% =1, qua [A f G e] cro. f
+=2' qua [<F A c> <C F> <D G> <C E G>] cro. <A_ C F>
+=3' qua [f A B c] cro. F

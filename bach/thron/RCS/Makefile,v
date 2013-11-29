@@ -1,0 +1,138 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2013.04.30.10.58.49;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.09.15.02.07.42;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for thron_kbd
+@
+
+
+1.2
+log
+@much updated, uses upload
+@
+text
+@MUSCRIPT = /home/pbin/muscript
+NORMALIZE = /usr/bin/normalize-audio
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+ARRD = /home/pjb/www/mus/arr
+A4D = ${ARRD}/a4
+USD = ${ARRD}/us
+XMLD = ${ARRD}/xml
+SRCD = ${ARRD}/src
+MP3D = ${ARRD}/mp3
+BACKPAGE = /home/pjb/mus/blurb/freebackpage
+WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+NROF = /home/pbin/nrof
+ADDMESSAGE = /home/pbin/add_free_message
+UTF2ISO = /home/pbin/utf2iso
+DIST = pjb3265@@loki.webcity.com.au:public_html/mus/arr
+PIECE = thron_kbd
+
+dev : title.a4 p2.a4 p3.a4 ${PIECE}.a4
+all : ${FREED}/${PIECE}.pdf \
+ ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf \
+ ${XMLD}/${PIECE}.xml ${XMLD}/${PIECE}_readme.txt \
+ ${SRCD}/${PIECE}.txt
+dist:
+	upload ${A4D}/${PIECE}.pdf
+	upload ${USD}/${PIECE}.pdf
+	upload ${XMLD}/${PIECE}.xml
+	# upload ${XMLD}/${PIECE}_readme.txt ${DIST}/xml/ 
+	upload ${SRCD}/${PIECE}.txt
+
+${FREED}/${PIECE}.pdf : ${WARNING} p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+	${UTF2ISO} title | groff -ms | ${BANNERISE} > title.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 ${WARNING} p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+${A4D}/${PIECE}.pdf : title.a4 p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE}.pdf : title.a4 p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE}.xml : ${PIECE}
+	${MUSCRIPT} -xml ${PIECE} > $@@
+${XMLD}/${PIECE}_readme.txt : p2 p3
+	${NROF} p2 p3 > $@@
+${SRCD}/${PIECE}.txt : ${PIECE}
+	cp ${PIECE} $@@
+${MP3D}/${PIECE}.mp3 : ${PIECE}
+	${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+title.a4 : title
+	${UTF2ISO} title | groff -ms | ${BANNERISE} > $@@
+p2.a4 : p2
+	${UTF2ISO} p2 | groff -ms | ${BANNERISE} > $@@
+p3.a4 : p3
+	${UTF2ISO} p3 | groff -ms | ${BANNERISE} > $@@
+${PIECE}.a4 : ${PIECE}
+	${MUSCRIPT} ${PIECE} > $@@
+	pkill -HUP gv
+play :
+	${MUSCRIPT} -midi ${PIECE} | aplaymidi - &
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 1
+d5 8
+a12 1
+FREEBACKP = /home/pjb/mus/blurb/freebackpage
+d16 1
+d18 3
+d22 11
+a32 2
+dev : title.a4 p2.a4 p3.a4 thron_kbd.a4
+all : ${FREED}/thron_kbd.pdf
+d34 4
+a37 3
+${FREED}/thron_kbd.pdf : title.a4 p2.a4 p3.a4 thron_kbd.a4 ${FREEBACKP}.a4
+	${ADDMESSAGE} thron_kbd.a4 \
+	| ${PSCAT} title.a4 p2.a4 p3.a4 - ${FREEBACKP}.a4 \
+d41 20
+a60 2
+thron_kbd.a4 : thron_kbd ${MUSCRIPT}
+	${MUSCRIPT} thron_kbd > $@@
+d63 1
+a63 1
+	groff -ms title | ${BANNERISE} > $@@
+d65 1
+a65 1
+	groff -ms p2 | ${BANNERISE} > $@@
+d67 6
+a72 1
+	groff -ms p3 | ${BANNERISE} > $@@
+@

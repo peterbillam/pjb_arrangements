@@ -1,0 +1,77 @@
+boundingbox 500 188
+midi channel 1 patch 44 reverb 20 pan 20
+midi channel 2 patch 44 reverb 20 pan 40
+midi channel 3 patch 44 reverb 20 pan 60
+midi channel 4 patch 44 reverb 20 pan 80
+3 systems /27/
+/
+5 bars | 1b 3/4 6 | 10 12 12 | 10 12 12 | 5 5 6 6 9 6 | 10 12 12 |
+| 3/4 .23
+#=3' treble 1b 3/4 cha1 vol50 leg90 8 rest
+#=3,        1b 3/4 cha2 vol50 leg90 8 rest
+#=2' bass   1b 3/4 cha3 vol50 leg90 8 rest
+=1, bass   1b 3/4 cha4 vol70 leg90 8 d
+| 3/4 1.2
+#=3' cha1 vol50 leg90 2. f
+#=3, cha2 vol50 leg90 2. d
+#=2' cha3 vol55 leg90 2. d~
+=1, cha4 vol75 leg90 4 a vol80 8 [g f e d]
+| 1.15
+#=3' cha1 vol50 2. e
+#=3, cha2 vol50 2. c#
+#=2' cha3 vol60 2. e~
+=1, cha4 vol80 4 bb vol85 8 [a g f e]
+| 1.1
+#=3' cha1 vol65 2. eb
+#=3, cha2 vol65 2. A
+#=2' cha3 vol65 2. f~#
+=1, cha4 vol85 4 c~ vol90 8 [b a g f#]
+| 1.05
+#=3' cha1 vol70 2. d
+#=3, cha2 vol70 2. B
+#=2' cha3 vol70 2. g~
+=1, cha4 vol90 4 d~ vol95 8 [c~ b a g]
+/
+4 bars | 1b 4 3 2 3 2 3 3 3 3 3 3 3 3 | 18 12 12 | 10 12 12 | 9 9 12 |
+| 1.1
+=1  treble 1b cha1 vol95 16-s c 4 a 8 [g f e d]
+#=1, cha2 vol70 4 F 2 A(2
+#=2' cha3 vol70 2 a~ 4 f~(1
+#=2, cha4 vol80 2. c~(2
+| 1.15
+=1' cha1 vol95 8 [c Bn Bb A G F(4]
+#=1, cha2 vol90 8 [A)2 D E F] 4 D
+#=2' cha3 vol80 4 f~)1 2 c~(1
+#=2, cha4 vol70 2 c~)2 4 bn
+| 1.2
+=1' cha1 vol95 4 F)4 8 [E G B d]
+#=1, cha2 vol90 4. C 8 [D G B]
+#=2' cha3 vol80 4 leg70 c~)1 b g leg90
+#=2, cha4 vol80 8 [bb a g f e d]
+| 1.25
+=1  cha1 vol90 2 f 8 [e d(1]
+#=1, cha2 vol80 2 d 8 [c B(2]
+#=2' cha3 vol60 2 d 4 g
+#=2, cha4 vol80 8 [c B A G A B]
+/
+4 bars | 1b 36 | 36 | 36 | 8 8 3 3 3 3 3 |
+| 1.3
+=1' cha1 vol80 8 [d)1 c A F C B(4]
+#=1, cha2 vol70 8 [B)2 A F C A_ D(2]
+#=2' cha3 vol60 4 c~ c f(1
+#=2, cha4 vol60 2. c(2
+| .7 .75
+=1' cha1 vol70 8 [B)4 A F C A_ D(4]
+#=1, cha2 vol65 8 [D)2 C] 2 A_
+#=2' cha3 vol55 2 f)1(1 8 [f)1 f#]
+#=2, cha4 vol55 2. c)2(2
+| .27 .28 .29 .30 .40 .33
+=1' cha1 vol65 8 [D)4 B_ D G] 8. vol75 [B 16 A]
+#=1, cha2 vol60 8 [B_ G_ B_ D] 8. [G 16 F]
+#=2' cha3 vol50 2. g
+#=2, cha4 vol50 2. c)2(2
+| 1.8
+=1  cha1 vol70 leg100 16-s [F# G A] 2. vol50 G-dim40
+#=1, cha2 vol70 leg100 16-s [D# E Fn] 2. vol50 E-dim40
+#=2' cha3 vol70 2. blank
+#=2, cha4 vol50 4 c)2 2 rest

@@ -1,0 +1,217 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	96.09.07.14.24.34;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.07.28.08.13.27;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Brahms Ab minor Fugue - Tenor Recorder part
+@
+
+
+1.2
+log
+@added copyright notice
+@
+text
+@10 systems /24/24/24/24/24/24/24/24/24/24/
+/
+3 bars | 2 2.5 | .8 1.2 1.2 .8 | .8 1.2 .9 1.1 |
+|
+b1.1 Johannes Brahms
+=1 treble 8/4 min rest cro rest c B' E rest Bb
+|
+bl1.1  Fugue in Ab minor
+=1 cro A D rest G# A Gn min F
+|
+b1.1                      Tenor Recorder
+=1 min E min. G cro F# min A
+/
+3 bars | 6 6 5 5 9 8 6 6 | 5 5 4.5 4.5 8 6 5 5 | 8 6 4.5 4.5 4.5 4.5 4.5 4.5 |
+|
+=1 treble cro A G# min d qua d c# cro d cn B
+|
+il0.25       5
+=1 cro c A min e qua e d# cro e min dn
+|
+=1 qua d c# cro d min rest smb rest
+/
+4 bars | 45 | 40 | 40 | 5 5 5 5 5 5 5 8 |
+|
+=1 treble smb rest rest
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+|
+il0.3  10
+=1 smb rest min. rest qua rest A
+/
+3 bars | 5 | 4 | .7 .45 .55 .55 .5 .45 .5 .45 |
+|
+=1 treble cro d c cro. B qua d cro g c f A
+|
+=1 cro d c min B cro c A min F#
+|
+=1 min. G qua c# rest cro rest min A cro B
+/
+3 bars | 6 5 5 6 6 6 6 6 | 40 | 10 8 8 9 |
+|
+=1 treble cro rest min G cro G rest B A E
+|
+il0.3  15
+=1 min B, c B A
+|
+=1 min A smb G# min F#
+/
+3 bars | 40 | 10 10 10 13 | 10 10 13 13 |
+|
+=1 treble smb. A min G#
+|
+=1 smb. d cro c# B
+|
+=1 smb A cro A A B, c#
+/
+4 bars | 45 | 35 | 25 | 25 |
+|
+il0.3      20
+=1 treble cro d G# A c# d e f# g#
+|
+=1 min a rest smb rest
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+/
+4 bars | 5 | 4 | 4 | 4 |
+|
+=1 treble smb rest rest
+|
+il0.25 
+=1 smb rest rest
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+/
+3 bars | 35 | 4.5 4.5 4.5 4.5 7 7 8 5  | 12 10 7 7 |
+|
+=1 treble smb rest rest
+|
+=1 smb rest qua rest A, B, c B, A, cro Ab
+|
+il0.25     30
+=1 cro G rest min rest smb rest
+/
+4 bars | 4.3 | 4 | 4 | 4 |
+|
+=1 treble smb rest rest
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                             This page may be freely photocopied and redistributed.
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+
+10 systems /24/24/24/24/24/24/24/24/24/24/
+/
+2 bars | 3.5 | 4 |
+|
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+il0.25          35
+=1 treble smb rest rest
+|
+b1.1                                                    Tenor Recorder
+=1 qua rest B, d f e eb cro d qua e f e bb a g f e
+/
+2 bars | 4.3 | 2.5 |
+|
+=1 treble qua f# g f# c bb a f# a cro d c min rest
+|
+=1 smb rest rest
+/
+2 bars | 10 13 13 11 | 8 8 8 11 |
+|
+=1 treble min rest qua rest G c' A Bb, c cro d qua eb rest cro rest
+|
+il0.25 40
+=1 smb rest min. rest cro g
+/
+2 bars | 43 | 18 23 |
+|
+=1 treble cro f# B rest fn e A rest d#
+|
+=1 cro e d min c qua B c B A#, B, c# cro d
+/
+2 bars | 7 7 6 6 7 7 6 6 | 5 5 5 5 6 5 5 5 |
+|
+=1 treble qua rest d c# cn c# d cro e qua d f# e d cn d cro e
+|
+=1 cro d f e A rest eb d G
+/
+3 bars | 40 | 25 | 10 14 14 13 |
+|
+il0.25      45
+=1 treble cro rest c# d cn B A B d
+|
+=1 cro c rest min rest smb rest
+|
+=1 min rest cro rest qua rest G#, A, e rest A#, B, f# rest c
+/
+2 bars | 13 11 10 12 | 12 12 11 11 |
+|
+=1 treble qua B c# cro d c rest  min B qua B d c B
+|
+=1 qua A, c cro e d# min dn cro G# A gn
+/
+3 bars | 45 | 35 | 35 |
+|
+il0.35       50
+=1 treble cro f# fn e d min c# cn
+|
+=1 smb B B
+|
+=1 min B rest smb B
+/
+3 bars | 40 | 15 20 | 10 13 13 10 |
+|
+=1 treble min B smb d min B
+|
+=1 smb A min. A cro G#
+|
+il0.25 55
+=1 cro A e rest A# B f# rest c
+/
+3 bars | 6 6 6 5 6 6 6 5 | 7 6 7 7 6 8 5 5 | 4.5 4.5 5 5 3.5 3.5 3.5 3.5 ||
+|
+=1 treble cro B c# min d cro d e min f
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                             This page may be freely photocopied and redistributed.
+|
+=1 cro e f# g qua fn e cro a qua g f cro f# B
+|
+=1 min d cro d c min B A
+@
+
+
+1.1
+log
+@spacing
+@
+text
+@d93 1
+d173 1
+@

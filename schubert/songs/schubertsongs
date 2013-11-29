@@ -1,0 +1,1429 @@
+6 systems /20 30 20/20 35 20/20 35 20/20 35 20/20 35 20/20 35 20 10/
+% start
+lefthead Mayerhofer
+title Nachtstück
+righthead Schubert, op 36 no 2
+leftfoot arrangement (c) 1978 Peter J Billam
+midi channel 1 patch 54
+midi channel 2 patch 24
+% stop
+/
+3 bars | 4/4 1 1 1 1.8 1 1 1 1 1 1 1 1.8 1 1 1 1 \
+ | 1 1 1 2.5 1 1 1 1 1 1 1 1.6 1 1 1 1| 1 1 1 1.6 1 1 1 1 1 1 1 1.6 1 1 1 1 |
+| 4/4 4.8
+=1 treble 4/4 cha1 leg99 vol105 smb rest
+=2 treble 4/4 cha2 leg140 vol90 tra-12 \
+ qua. rest smq D#{2 cro E}2 qua. rest smq F{2 cro E}2
+=2 treble 4/4 min A_, G_#,
+|
+=1 smb rest
+=2 qua. rest smq d'{2 cro c#'}2 qua. rest smq e'{2 cro d'}2
+=2 min G_n, F_#,
+|
+=1 smb rest
+=2 qua. rest smq G#{2 cro A}2 qua. rest'' smq F{2 cro E}2
+=2, min F_n <E_ G# d>
+/
+4 bars | .5 .5 .5 1.0 .5 .5 .5 .5 .5 .5 .5 1.5 .5 .5 .5 .5 | 7.5 | 10.7 | 3.0 2.5 2.5 2.5|
+|
+=1 smb rest
+=2 qua. rest'' smq F{2 cro E}2 qua. rest' smq E{2 cro D#}2
+=2 <E_, A, c,> <E_, A,>
+|
+=1 smb rest
+=2 min <E_ E G#> <E_, B_, E, G' B' e'>
+|
+=1 cro E qua E E qua. F smq F qua E E
+r0.7 Wenn .27 über .51 Berge sich der
+=2 qua rest [E <A' c'> E] rest [E <B' e'> E]
+=2 min A_, G_#,
+|
+=1 cro. Bb' qua B' cro A D
+r0.7 .01 Ne .19 - .37 bel .58 breitet,
+=2 qua rest [Bb' <c#' e'> B'] rest [A d' A]
+=2 min G_, F_#,
+/
+4 bars | .9 1.5 .9 .9 .9 1.5 .9 .9 | .8 .8 .8 .8 .8 1.5 .8 1.3 | 5.5 || 6 |
+|
+=1 min.. rest qua G#
+r0.6 .87 und
+=2 qua. rest smq G#{2 cro A}2 qua. rest'' smq F{2 cro E}2
+=2 min F_n, <E_, G#, d,>
+|
+=1 cro A A qua. c smq B' qua. c smq D#
+r0.6 .03 Lu - na .44 mit .64 Gewölken
+=2 qua rest [<E A c'> <E A c'> <E A c']> rest [<D# A c'> <D A c'> <D A]>
+=2 min E_, E_,
+|
+=1 cro E min. rest
+r0.6 .01 kämpft,
+=2 min <E_ E G#> <E_, B_, E, G' B' e'>
+|
+=1 2/2 min. rest cro E
+r0.7 .77 so
+=2 2/2 cro A_ B_ C E
+/
+4 bars |.6 .6 .6 .6 .6 .9 .6 .9 |4 |5 |1 1.3 1.3 1.3 |
+|
+=1 cro. A qua G qua. [F smq E] qua. [D smq G]
+r0.6 .03 nimmt .34 der .51 Alte .76 seiner
+=2 cro F A_ D <G_ F B'>
+|
+=1 cro E C cro. rest qua E
+r0.6 .03 Harfe .86 und
+=2 cro <C E c'> G_# A_ C
+|
+=1 cro A qua F E cro. D qua A
+r0.6 .01 schreitet und singt .83 wald -
+=2 cro F A_ D F_
+|
+=1 min G# cro A rest
+r0.6 .02 ein .27 - .46 wärts,
+=2 cro E_ qua [D F] [C F] [F_ A]
+=2 cro E_ D, C, F_,
+/
+3 bars | 1.3 1 1 1 1 1 1 1 | 1 1 1 1.8 .9 .9 .9 1 | 13 |
+|
+=1 min. rest qua [E E]
+r0.7 .75 und  ge -
+=2' qua rest [Bb F B] rest [A E A]
+=2, min D C
+|
+=1 min F{1 cro E}1 qua rest-fermata E
+r0.7 .01 dämpft: .85 "Du
+=2 qua rest [A D A] cro. <D G#-fermata> qua rest
+=2, min B_ cro. E_ qua blank
+|
+=1 min. A cro A
+r0.7 .01 heil' .29 - .52 - .74 ge
+=2' smq3 [A_ E A c A E] [A_ E A c A E] [F_ F A c A F] [F_ F A c A F]
+=2, cro A_ A_ F_ F_
+/
+2 bars | 24 | 24 |
+|
+=1 min G cro rest c
+r0.7 .02 Nacht, .75 bald
+=2' smq3 [C F A c G E] [C E G c G E] [E_ E G c G E] [E_ E G c G E]
+=2, cro C C E_ E_
+|
+=1 min c(1 qua [c')1 A] [F A]
+r0.7 .01 ist's .75 voll .91 -
+=2' smq3 [F_ F A c A F] [F_ F A c A F] [A_ F A c A F] [A_ F A c A F]
+=2, cro F_ F_ A_ A_
+
+6 systems /20 40 20/20 40 20/20 40 20/20 40 20/20 45 20/20 40 20 15/
+pagenum 4
+innerhead Nachtstück, Schubert, op 36 no 2
+leftfoot arranged for guitar (c) 1978 Peter J Billam
+/
+2 bars | 24 | 24 |
+|
+=1 min. G cro c
+r0.7  - .02 bracht. .74 Bald
+=2' smq3 [C E G c G E] [C E G c G E] [E_ E G c G E] [E_ E G c G E]
+=2, cro C C E_ E_
+|
+=1 cro. A qua F cro D B'
+r0.7 .01 schlaf' .37 ich .50 ihn, .75 den
+=2' smq3 [D A B f B A] [D A B f B A] [D A B f B A] [D A B f B A]
+=2, cro D D D D
+/
+2 bars | 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 min B'(2 qua [B')2{2 G}2] [E G]
+r0.7 .03 lan .30 - .52 - .76 gen
+=2' smq3 [D# A B f# B A] [D A B f B A] [E_ G B e B G] [G_ E G B G E]
+=2, cro D# D E_ G_
+|
+=1 cro. G{1 qua F#}1 cro E qua rest G
+r0.7 .01 Schlum .28 - .50 mer, .87 der
+=2' smq3 [B_ D# A B A D] [B_ D A B A D] [E_ E G B G E] [E_ E G B G E]
+=2, cro B_ B_ E_ E_
+/
+2 bars | 24 | 24 |
+|
+=1 cro. G qua G [G A] rest A
+r0.7 .02 mich .39 er   -   löst .88 von
+=2' smq3 [E_ G B e B G] [E_ G B e B G] [F_ F A c A F] [F_ F A c A F]
+=2, cro E_ E_ F_ F_
+|
+=1' cro. A qua A qua. [A smq B] qua B B
+r0.7 .01 al .21 - .37 lem .50 Kum .64 - .74 mer, .88 der
+=2' smq3 [F_# D A d A D] [F_ D A d A D] [G_ D G d G D] [G_ D G d G D]
+=2, cro F_# F_ G_ G_
+/
+2 bars | 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 24 |
+|
+=1 cro. B' qua B' cro. c qua c
+r0.7 .02 mich .39 er  -  löst .88 von
+=2' smq3 [G_# E B e B E] [G_ E B e B E] [A_ A c e c A] [A_ A c e c A]
+=2 cro G_#, G_, A_, A_,
+|
+=1 cro. c qua G cro G{1 smq [G}1 A G F]
+r0.7 .01 al .21 - .37 lem .50 Kum .77 - 
+=2' smq3 [G_ G c e c G] [G_ G c e c G] [G_ G B f B G] [G_ G B f B G]
+=2, cro G_ G_ G_ G_
+I0.4       f
+i0.4             dim . . .
+/
+2 bars | 24 | 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro E rest rest qua rest c
+r0.7   - .02  mer. .88 Du
+=2' smq3 [C G c e c G] [C G c e c G] [C G c e c G] [C G c e c G]
+=2, cro C C C C
+I0.2              p
+|
+=1 cro. G# qua G cro A qua rest c
+r0.7 .01 heil ' .19 - .35 ge .48 Nacht ! .85 Bald
+I0.2 .01 fp
+=2' smq3 [E_ G# c e c G] [E_ G c e c G] [A_ A c e c A] [A_ A c e c A]
+=2, cro E_ E_ A_ A_
+/
+2 bars | 1.7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 24 |
+|
+=1 cro. G# qua G cro A qua rest c
+r0.7 .02 ist's .37 voll - bracht. .87 Bald
+I0.2 .01 fp
+=2' smq3 [E_ G# c e c G] [E_ G c e c G] [A_ A c e c A] [A_ A c e c A]
+=2, cro E_ E_ A_ A_
+|
+=1 cro. A qua F cro D B'
+r0.7 .01 schlaf' .38 ich .50 ihn, .75 den
+=2' smq3 [D A B f B A] [D A B f B A] [D A B f B A] [D A B f B A]
+=2, cro D D D D
+
+6 systems / 20 40 20/ 20 40 20/ 20 40 20/ 20 40 20/ 20 40 20/ 20 40 20 10 /
+pagenum
+innerhead Nachtstück, Schubert, op 36 no 2
+leftfoot arranged for guitar (c) 1978 Peter J Billam
+/
+2 bars |1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 min B'(2 qua [B')2 G] [E G]
+r0.7 .04 lan .29 - .53 - .76 gen
+=2' smq3 [D# A B f# B A] [D A B f B A] [E_ G B e B G] [G_ E G B G E]
+=2, cro D# D E_ G_
+|
+=1 cro. G{1 qua F#}1 cro E qua rest G
+r0.7 .01 Schlum .28 - .50 mer, .87 der
+=2' smq3 [B_ D# A B A D] [B_ D A B A D] [E_ E G B G E] [E_ E G B G E]
+=2, cro B_ B_ E_ E_
+/
+2 bars | 24 | 24 |
+|
+=1 cro. G qua G [G A] rest A
+r0.7 .02 mich .37 er  - .50 löst .87 von
+=2' smq3 [E_ G B e B G] [E_ G B e B G] [F_ F A c A F] [F_ F A c A F]
+=2, cro E_ E_ F_ F_
+|
+=1' cro. A qua A qua. [A smq B] qua B B
+r0.7 .01 al .21 - .37 lem .50 Kum .64 - .74 mer, .87 der
+=2' smq3 [F_# D A d A D] [F_ D A d A D] [G_ D G d G D] [G_ D G d G D]
+=2, cro F_# F_ G_ G_
+/
+2 bars | 24 | 24 |
+|
+=1 cro. B' qua d [d c] rest c
+r0.7 .02 mich .38 er   - .50 löst .87 von
+=2' smq3 [G_# E B e B E] [G_ E B e B E] [A_ A c e c A] [A_ A c e c A]
+=2, cro G_# G_ A_ A_
+|
+=1 cro. c qua G cro G(1 smq [G)1 A G F]
+r0.7 .01 al .21 - .37 lem .50 Kum .78 -
+=2' smq3 [G_ G c e c G] [G_ G c e c G] [G_ G B f B G] [G_ G B f B G]
+=2, cro G_ G_ G_ G_
+I0.2         f
+i0.2              dim . . .
+/
+2 bars | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro E rest rest rest
+r0.7   - .02 mer. "
+=2' smq3 [C G c e c G] [C G c e c G] [C G c e c G] [C G c e c G]
+=2, cro C C C C
+I0.2 .12 p
+i0.2 .55 decresc.
+|
+=1 min rest cro. rest qua c
+r0.7 .87 Die
+=2 smq3 [C G-I3 E qua c'] smq3 [C G E qua c'] smq3 [C Ab F qua c'] smq3 [C A F qua c']
+=2 cro C, C, C, C,
+I0.2     pp
+i0.2           legato . . .
+/
+2 bars | 1.6 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro. c qua Bb [Ab c'] [A F]
+r0.7 .03 grü .21 - .37 nen .50 Bäu .64 - .75 me
+=2' smq3 [C Bb E qua c] smq3 [C B E qua c] smq3 [C Ab F qua c] smq3 [C A F qua c]
+=2, cro C C C C
+|
+=1 cro. E qua Bb' cro Ab qua rest c
+r0.7 .01 rau .20 - .33 schen    dann: .85 Schlaf'
+=2' smq3 [C G E qua c] smq3 [C G E qua c] smq3 [C Ab F qua c] smq3 [C A F qua c]
+=2, cro C C C C
+/
+2 bars | 1.6 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro. c qua Bb [An c'] [A F]
+r0.7 .02 süss, .37 du .50 gu .64 - .75 ter
+=2' smq3 [C Bb E qua c] smq3 [C B E qua c] smq3 [C An F qua c] smq3 [C A F qua c]
+=2, cro C C C C
+|
+=1 cro. E qua Bb cro A qua rest A
+r0.7 .02 al .21 - .36 ter .50 Mann ; .87 die
+r0.3                                                                   ,
+=2' smq3 [C G E qua c] smq3 [C G E qua c] smq3 [C# A E qua e] smq3 [C A E qua e]
+=2, cro C C C# C
+
+6 systems / 20 40 20 / 20 40 20 / 20 40 20 / 20 40 20 / 20 40 20 / 20 40 20 5/
+pagenum
+innerhead Nachtstück, Schubert, op 36 no 2
+leftfoot arranged for guitar (c) 1978 Peter J Billam
+/
+2 bars | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 24 |
+|
+=1 cro. A qua d qua. [d' smq G] cro G
+r0.7 .02 Grä .21 - .37 ser .50 lis .64 - .74 peln
+=2' smq3 [D d A qua f] smq3 [D d A qua f] smq3 [B_ G D qua d] smq3 [B_ G D qua d]
+=2, cro D D B_ B_
+|
+=1 cro G(1 smq [G)1 A] [B, c] cro c{1 qua F}1 F
+r0.62 .01 wan .21 - .37 kend .50 fort : .87 Wir
+=2' smq3 [C G E qua c] smq3 [C G E qua c] smq3 [A_ A F qua c] smq3 [A_ A F qua c]
+=2, cro C C A_ A_
+/
+2 bars | 24 | 24 |
+|
+=1 cro. d qua G [E G c'] A
+r0.7 .01 de .21 - .37 cken .50 sei .71 - .87 nen
+=2' smq3 [B_ G F qua d] smq3 [B_ G F qua d] smq3 [C G E qua c] smq3 [F_# c A qua e]
+=2, cro B_ B_ C F_#
+|
+=1 cro G(1 smq [G)1 A] [G F] cro E qua rest c
+r0.7 .01 Ru .21 - .38 he  - .50 ort ; .87 die
+=2' smq3 [G_ c G qua e] smq3 [G_ B G qua f] smq3 [C c G qua e] smq3 [C c G qua e]
+=2, cro G_ G_ C C
+/
+2 bars | 1.6 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro. c qua Bb [Ab c'] [A F]
+r0.7 .02 grü .21 - .37 nen .50 Bäu .64 - .75 me
+=2' smq3 [C Bb E qua c] smq3 [C B E qua c] smq3 [C Ab F qua c] smq3 [C A F qua c]
+=2, cro C C C C
+|
+=1 cro. E qua Bb' cro Ab qua rest c
+r0.7 .01 rau .20 - .34 schen .50 dann: .84 Schlaf'
+=2' smq3 [C G E qua c] smq3 [C G E qua c] smq3 [C Ab F qua c] smq3 [C A F qua c]
+=2, cro C C C C
+/
+2 bars | 1.6 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro. c qua Bb [An c'] [A F]
+r0.7 .02 süss, .37 du .50 gu .64 - .75 ter
+=2' smq3 [C Bb E qua c] smq3 [C B E qua c] smq3 [C An F qua c] smq3 [C A F qua c]
+=2, cro C C C C
+|
+=1 cro. E qua Bb' cro A qua rest A
+r0.7 .02 al .21 - .37 ter .50 Mann ; .87 und
+=2' smq3 [C G E qua c] smq3 [C G E qua c] smq3 [C# A E qua e] smq3 [C A E qua e]
+=2, cro C C C# C
+/
+2 bars | 24 | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro. A qua d [d' G] cro G
+r0.7 .02 man .21 - .37 cher .50 lie .64 - .75 be
+=2' smq3 [D d A qua f] smq3 [D d A qua f] smq3 [B_ G D qua d] smq3 [B_ G D qua d]
+=2, cro D D B_ B_
+|
+=1 cro G(1 smq [G)1 A] [B, c] cro c{1 qua F}1 F
+r0.65 .01 Vo .21 - .37 gel .50 ruft : .88 O
+=2' smq3 [C G E qua c] smq3 [C G E qua c] smq3 [A_ A F qua c] smq3 [A_ A F qua c]
+=2, cro C C A_ A_
+/
+2 bars | 24 | 24 |
+|
+=1 cro. d qua G [E G c'] A
+r0.7 .02 lass .37 ihn .50 ruhn .87 in
+=2' smq3 [B_ G F qua d] smq3 [B_ G F qua d] smq3 [C G E qua c] smq3 [F_# c A qua e]
+=2, cro B_ B_ C F_#
+|
+=1 cro G(1 smq [G)1 A] [G F] cro E qua rest c
+r0.7 .01 Ra .21 - .37 sen - gruft , .88 O
+=2' smq3 [G_ c G qua e] smq3 [G_ B G qua f] smq3 [C c G qua e] smq3 [C c G qua e]
+=2, cro G_ G_ C C
+
+6 systems / 20 45 20 / 20 40 20 / 20 40 20 / 20 40 20 / 20 45 20 / 20 40 20 8/
+pagenum
+innerhead Nachtstück, Schubert, op 36 no 2
+leftfoot arranged for guitar (c) 1978 Peter J Billam
+/
+2 bars | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 24 |
+|
+=1 cro. d qua G [E G c'] A
+r0.7 .02 lass .37 ihn .50 ruhn .88 in
+=2' smq3 [B_ G F qua d] smq3 [B_ G F qua d] smq3 [C G E qua c] smq3 [F_# c A qua e]
+=2, cro B_ B_ C F_#
+|
+=1 cro G(1 smq [G)1 A] [G B_] cro C rest
+r0.6 .01 Ra .21 - .37 sen - gruft !
+=2' smq3 [G_ c G qua e] smq3 [G_ B G qua f] smq3 [C c G qua e] smq3 [C c G qua e]
+=2, cro G_ G_ C C
+i0.2 .80 dim . . .
+/
+2 bars | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 min rest cro rest qua rest G
+r0.7 .87 Der
+=2' smq3 [C c G qua e] smq3 [C c G qua e] smq3 [G_ B G qua d] smq3 [G_ B G qua d] 
+=2, cro C C G_ G_
+I0.2              pp
+|
+=1 cro. G qua G min G
+r0.7 .01 Al .21 - .39 te .50 horcht,
+=2' smq3 [C c G qua eb] smq3 [C c G qua e] smq3 [G_ B G qua d] smq3 [G_ B G qua d] 
+=2, cro C C G_ G_
+/
+2 bars | 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1.6 1 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 min rest cro rest qua rest F
+r0.7 .88 Der
+=2' smq3 [B_b Bb F qua d] smq3 [B_ B F qua d] smq3 [F_ A F qua c] smq3 [F_ A F qua c] 
+i0.2                dim . . .
+=2, cro B_b B_ F_ F_
+|
+=1 cro. F qua F min F
+r0.7 .01 Al .23 - .39 te .50 schweigt,
+=2' smq3 [B_b Bb F qua db] smq3 [B_ B F qua d] smq3 [F_ A F qua c] smq3 [F_ A F qua c] 
+=2, cro B_b B_ F_ F_
+/
+2 bars | 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1.6 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 min rest cro rest qua rest E
+r0.7 .87 Der
+=2' smq3 [A_ A E qua c] smq3 [A_ A E qua c] smq3 [E_ G# E qua B] smq3 [E_ G E qua B]
+=2, cro A_ A_ E_ E_
+|
+=1 cro. E qua E cro. E qua E
+r0.7 .01 Tod .38 hat .50 sich .87 zu
+=2' smq3 [A_ A E qua c#] smq3 [A_ A E qua c] smq3 [E_ G# E qua B] smq3 [E_ G E qua B]
+=2, cro A_ A_ E_ E_
+/
+2 bars | 1 1 1 1 1 1 1.6 1.6 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1|1.6 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1|
+|
+=1 cro. F# qua E cro C# qua rest A
+r0.6 .03 ihm .39 ge  -  neigt , .88 der
+=2 smq3 [F_# A D# qua B'] smq3 [E_ G# Dn qua B'] smq3 [A_ A E qua c#'] smq3 [A_ A E qua c']
+=2, cro F_# E_ A_ A_
+|
+=1 cro. G# smq [A B'] cro A qua rest A
+r0.6 .01 Tod .38 hat .51 sich .89 zu
+=2' smq3 [A_ G# Fn qua B] smq3 [A_ G F qua B] smq3 [A_ A E qua c#] smq3 [A_ A E qua c]
+=2, cro A_ A_ A_ A_
+/
+2 bars | 1.6 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1.7 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.1 .8 .8 .8 .8 .8 .8 .8 .8 .8 .8 .8 .8 ||
+|
+=1 cro. B' qua G# min A
+r0.7 .02 ihm .39 ge  -  neigt.
+=2' smq3 [A_ G# F qua B] smq3 [A_ G# F qua B] smq3 [A_ A E qua c#] smq3 [A_ A E qua c]
+=2, cro A_ A_ A_ A_
+i0.3              dim . . .
+|
+=1 smb rest-fermata
+=2' smq3 [A_ A E qua c#] smq3 [A_ A E qua c] min <A c a-fermata>
+=2, cro A_ A_ min A_
+midi pause 3.2
+
+6 systems /14 30 19/14 27 19 3/19 40 19/19 40 19/19 40 19/19 40 19 20/
+lefthead Matthäus von Collin
+title Nacht und Träume
+righthead Schubert, op 43 no 2
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+2 bars | 3# 4/4 16 | 16 |
+| 4/4 46
+i0.3 .09 Sehr langsam.
+=1  treble 3# 4/4 cha1 leg100 vol100 smb rest
+=2' treble 3# 4/4 cha2 leg140 vol80 tra-12 \
+ smq [c-s1 A-s1 c A] [c A c A] [c A c A] [c A] qua e-s0
+=2, treble 3# 4/4 smq [A_ E A_ E] [A_ E A_ E] [A_ E A_ E] [A_ E <A_ c> E]
+I0.2            pp
+|
+=1 smb rest
+=2' cro e d-s4-s2 d c
+=2, smq [<G_-s3, c> E <G_ c> E] [<G_ B> E <G_ B> E] \
+ [<A_ B> E <A_ B> E] [<A_-s0, A> E <A_ A> E]
+/
+2 bars | 3# 1.4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \
+ | 1 1 1 1 1 1 1.1 1 1.4 1 1 1 1 1 1 1 |
+|
+=1 smb rest
+=2' cro c B qua [B-s0 A-s1 G-s1 F-s4]
+=2, smq [<C-s4, A> E#-s3, <C A> E] [<C G> E <C G> E] \
+ [F_-s2, C-s4,] [F_-s2, C-s4,] [F_-s2, C-s3,] [F_-s1, C-s3,]
+|
+=1 smb rest
+=2' qua [F F] [F Fn] [E E] [E E]
+=2, smq [G_ B_ G_ B_] [G_ B_ G_ B_] [G_ Dn G_ D] [G_ D G_ D]
+/
+3 bars | 3# 16 | 16 | 16 |
+|
+=1 min.. c qua G
+r0.7 .08 Hei .30 - .52 - .87 l'ge
+=2' smq [c A c A] [c A c A] [c A c A] [c A c A]
+=2, smq [A_ E A_ E] [A_ E A_ E] [A_ E A_ E] [A_ E A_ E]
+|
+=1 min A(1 qua A)1 A B' c
+r0.7 .01 Nacht .62 du .75 sinkest
+=2' smq [c A c A] [c A c A] [c A c A] [c A c A]
+=2, smq [A_ E A_ E] [A_ E A_ E] [A_ E A_ E] [A_ E A_ E]
+|
+=1 min E cro C rest
+r0.7 .02 nie .29 - .50 der,
+=2' smq [d G d G] [d G d G] [c A c A] [c A c A]
+=2, smq [A_ E A_ E] [A_ E A_ E] [A_ E A_ E] [A_ E A_ E]
+/
+3 bars | 3# 1.6 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1 1 | 16 \
+ | 1.4 1 1 1 1 1 1 1 1.4 1 1 1 1 1 1 1 |
+|
+=1 cro. c qua B' B' A G F
+r0.7 .09 nie .24 - .40 der .56 wallen .76 auch die
+=2' smq [c A c A] [c A c A] [c A c A] [c A c A]
+=2, smq [A_ Fn A_ F] [A_ F A_ F] [A_ F# A_ F] [A_ F A_ F]
+|
+=1 min B' cro G rest
+r0.7 .01 Träu .29 - .50 me,
+=2' smq [d# A d A] [d A d A] [e B e B] [e B e B]
+=2, smq [B_ F B_ F] [B_ F B_ F] [E G E G] [E G E G]
+|
+=1 cro. c qua B' B' A G F
+r0.7 .01 wie .34 dein Mondlicht durch die
+=2' smq [c B c B] [c B c B] [c A c A] [c A c A]
+=2, smq [G_# Fn G_ F] [G_ F G_ F] [A_ F# A_ F] [A_ F A_ F]
+/
+2 bars | 3# 1.4 1 1 1 1 1 1 1 1.4 1 1 1 1 1 1 1 \
+ | 1 1 1 1  1 1 1 1  1 1 1 1  1.4 1 1 1 |
+|
+=1 min B' cro G rest
+r0.7 .08 Räu .31 - .53 me,
+=2' smq [d# A d A] [d A d A] [e B e B] [e B e B]
+=2, smq [B_ F B_ F] [B_ F B_ F] [E G E G] [E G Dn G]
+|
+=1 qua [E A] [B, c] cro d c
+r0.6 .02 durch .27 der .50 Men .63 - .71 schen 
+=2' smq [e A e A] [e A e A] [e d e d] [e c e c]
+=2, smq [C E C E] [C E C E] [B_ G B_ G] [A_# Gn A_ G]
+/
+3 bars | 3# 16 | 16 | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.8 |
+|
+=1 cro c B' A G
+r0.7 .10 stil   - .32 le, .55 stil    - .77 le
+=2' smq [e B e B] [d B d B] [c A c A] [B G B G]
+=2, smq [B_ F B_ F] [B_ F B_ F] [E_ E E_ E] [E_ D E_ D]
+|
+=1 min A rest
+r0.7 .01 Brust.
+=2' smq [A E c A] [c A c A] [c A c A] [c A c A]
+=2, smq [A_ E A_ E] [A_ E A_ E] [A_ E A_ E] [A_ E A_ E]
+|
+=1 min rest cro. rest smq. A dsq A
+r0.7 .83 Die  be -
+=2' smq [cn A c A] [c A c A] [c A c A] [c A c A]
+=2, smq [F_n Fn F_ F] [F_ F F_ F] [F_ F F_ F] [F_ F F_ F]
+
+6 systems /19 35 19/19 40 19/19 40 19/19 40 19/19 45 19/19 40 19 15/
+pagenum 9
+innerhead Nacht und Träume, Schubert, op 43 no 2
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+2 bars | 3# 16 | 1.2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 cro A A qua [A Fn] [A cn']
+r0.7 .01 - .07 lau    - .29 schen .54 sie .77 mit
+=2' smq [cn A c A] [c A c A] [c A c A] [c A c A]
+=2, smq [F_n Fn F_ F] [F_ F F_ F] [F_ F F_ F] [F_ F F_ F]
+|
+=1 min. d qua rest smq. d dsq d
+r0.7 .01 Lust , .87 Die be -
+=2' smq [d Bb d B] [d B d B] [d B d B] [d B d B]
+=2, smq [B_b Fnl B_ F] [B_ F B_ F] [B_ F B_ F] [B_ F B_ F]
+/
+2 bars | 3# 1.2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 16 |
+|
+=1 cro d d qua [d Bb,] [Fn d']
+r0.7 .01 - .07 lau     - .29 schen .54 sie .77 mit
+=2' smq [d Bb d B] [d B d B] [d B d B] [d B d B]
+=2, smq [B_b Fnl B_ F] [B_ F B_ F] [B_ F B_ F] [B_ F B_ F]
+|
+=1 min. cn cro rest
+r0.7 .01 Lust,
+=2' smq [cn A c A] [c A c A] [c A c A] [c A c A]
+=2, smq [F_n Fn F_ F] [F_ F F_ F] [F_ F F_ F] [F_ F F_ F]
+/
+2 bars | 3# 4.4 | 4 |
+|
+=1 cro d qua Bn' smq B' B' qua. d smq c# cro B'
+r0.7 .07 Ru      - .29 fen .40 wenn der Tag .71 erwacht,
+=2' smq [Bn Fn B F] [Bn Fn B F] [Bn Fn B F] [Bn Fn B F]
+=2, smq [G_# D G_ D] [G_ D G_ D] [G_ D G_ D] [G_ D G_ D]
+|
+=1 cro.. c smq B' qua B' A G F
+r0.7 .01 Keh .27 - .44 re .53 wieder, .78 heil'ge
+=2' smq [c B c B] [c B c B] [c A c A] [c A c A]
+=2, smq [G_# Fn G_ F] [G_ F G_ F] [A_ F# A_ F] [A_ F A_ F]
+/
+2 bars | 3# 16 | 1.3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+=1 min. B' qua rest d{1
+r0.7 .07 Nacht ! .87 hol  -
+=2' smq [d# A d A] [d A d A] [e B e B] [e B e B]
+=2, smq [B_ F B_ F] [B_ F B_ F] [E G E G] [E G E G]
+|
+=1 cro.. c}1 smq B' qua B' A G F
+r0.7 .20 -  .44 de .53 Träume, .78 kehret
+=2' smq [c B c B] [c B c B] [c A c A] [c A c A]
+=2, smq [G_# Fn G_ F] [G_ F G_ F] [A_ F# A_ F] [A_ F A_ F]
+/
+3 bars | 3# 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1 | 1 1 1 1 1 1 1 1 1 1 1 1.4 1.1 1 1 1 | 16 |
+|
+=1 min B' cro G rest
+r0.7 .09 wie .33 - .52 der,
+=2' smq [d# A d A] [d A d A] [e B e B] [e B e B]
+=2, smq [B_ F B_ F] [B_ F B_ F] [E G E G] [E G Dn G]
+|
+=1 qua [E A] [B, c] cro d c
+r0.7 .02 hol    - .26 de .51 Träu  - .75 me
+=2' smq [e A e A] [e A e A]  [e d e d] [e c e c]
+=2, smq [C E C E] [C E C E] [B_ G B_ G] [A_# Gn A_ G]
+|
+=1 cro c B' A{1 G}1
+r0.7 .02 keh   - .25 ret .50 wie .79 -
+=2' smq [e B e B] [d B d B] [c A c A] [B G B G]
+=2, smq [B_ F B_ F] [B_ F B_ F] [E_ E E_ E] [E_ E E_ E]
+/
+3 bars | 3# 4.2 | 4 | 1 ||
+|
+=1 min A rest
+r0.7 .01 - .09 der.
+=2' smq [A E c A] [c A c A] [d B d B] [d B d B]
+=2, smq [A_ E A_ E] [A_ E A_ E] [A_ Fn A_ F] [A_ F A_ F]
+|
+=1 smb rest
+=2' smq [c A c A] [c A c A] [d B d B] [d B d B]
+=2, smq [A_ E A_ E] [A_ E A_ E] [A_ Fn A_ F] [A_ F A_ F]
+|
+=1 smb rest
+=2 smb <A_ E c-fermata>
+midi pause 3.2
+
+4 systems /21 50 21/21 60 21/21 60 21/21 80 21 20/
+lefthead Rochlitz
+title An die Laute
+righthead Schubert, op 81 no 2
+leftfoot arranged for guitar (c) 1977 Peter J Billam
+/
+3 bars | 2# 6/8 6 | 1 1.2 1.2 1 1 1 | 6 |
+| 6/8 75
+i0.3              Etwas geschwind.
+=1 treble 2# 6/8 cha1 leg95 vol110 min. rest
+I0.5 .03 p
+is0.31 .08 2
+is0.16 .08 4 .52 2
+is0.01 .08 3 .52 4
+=2' treble 2# 6/8 cha2 tra-12 leg95 vol90 \
+ cro <d f a> qua rest' cro <g ax> qua rest'
+=2, treble 2# 6/8 qua [D-s0, F-s1, A-s3,] [C-s1, E-s3, A-s3,]
+|
+=1 min. rest
+is0.48 2
+is0.32 4
+is0.16 3
+=2' qua [<d f a> smq b-s2 c~-s4 d~-s2 e~-s4] qua [<G a-s2> <G a> a]
+=2, qua [D-s0, F-s3, A-s3,] [C-s1, E-s4, A-s4,]
+|
+=1 min. rest
+=2' cro <d f a> qua rest' cro <g ax> qua rest'
+=2, qua [D F A] [C E A]
+/
+3 bars | 2# 6 | 6 | 6 |
+|
+=1 min. rest
+=2' qua [<d f a> smq b a f d] qua [<G c e> <c e> e]
+=2, qua [D F A] [A_ E A]
+|
+=1 cro A qua A qua. [A smq B'] qua A
+r0.85 .02 Lei    - .33 ser, .51 Lei    - .81 ser,
+r0.60 .02 Nei    - .30 disch .51 sind .81 des
+=2' cro <A d f> qua rest' cro <A e g> qua rest'
+=2, qua [D F A] [C E A]
+|
+=1 cro A qua d cro f qua d
+r0.85 .01 klei    - .33 ne .50 Lau   - .82 te,
+r0.60 .01 Nach   -  bars .50 Sö   - .80 hne,
+=2' cro <A d f> qua rest' [<A f> smq B-s0 c-s2 d-s2 e-s0]
+=2, qua [D F A] [D F A]
+/
+3 bars | 2# 6 | 1 1.2 1.2 1 1.2 1.2 | 1 1 1.2 1 1 1 |
+|
+=1 cro F qua F qua. [F smq G] qua F
+r0.85 .06 flü    - .35 stre, .52 was .82 ich
+r0.60 .06 und .35 im .52 Fen    - .82 ster
+=2' cro <B d f> qua rest' cro <A# ex f> qua rest'
+=2, qua [B_ F B] [C F A#]
+|
+=1 cro F qua B' cro d qua B'
+r0.85 .02 dir .33 ver  -  trau    - .80 te,
+r0.60 .02 je      - .31 ner .50 Schö    - .80 ne,
+=2' cro <B d f> qua rest' smq [<B f> e d-s2 c-s1 B-s0 A-s1]
+=2, qua [D F B] [B_ D-s0, F-s3,]
+|
+=1 cro G# qua G qua [A G] A
+r0.85 .02 dort .33 zu .52 je       - .80 nem
+r0.60 .02 flim   - .31 mert .51 noch .80 ein
+=2' cro <G# dx e> qua rest' cro <A c e> qua rest'
+=2, qua [B_ D, G#] [C E A]
+/
+3 bars | 2# 6 | 1 1.2 1.2 1 1.2 1.2 | 1 1 1.2 1 1 1 |
+|
+=1 cro. c(1 qua [c)1 d] G#
+r0.85 .06 Fen .30 - .55 - .80 ster
+r0.65 .06 ein .30 - .55 - .80 sam
+=2' cro <A c e> qua rest' cro <G# B e> qua rest'
+=2, qua [E_ A_ C] [E_ B_ D]
+|
+=1 cro A qua rest cro. rest
+r0.85 .02 hin.
+r0.65 .01 Licht.
+is0.49 .50 4
+is0.39 .50 1
+is0.29 .50 2
+=2' qua [<e b e~> smq d~-s4 c~-s3 b-s1 a-s3] \
+ qua [<f a e~> smq d~-s4 c~-s3 b-s1 a-s3]
+=2, qua [C-s1, E-s1, A-s1,] [D-s0, F-s2, A-s1,]
+|
+=1 min. rest
+is0.44      .31 1
+is0.34   3 .31 1
+is0.24   4 .31 1
+=2' cro <c a> smq [<e g# c~> b-s4] cro <c a-s3-s2> qua rest'
+=2, qua [E_ C D] [A_ E F]
+is0.91 0
+is0.60 .14 2
+is0.40 .27 0
+
+4 systems /21 60 21/21 67 21/21 85 21/21 60 21 15/
+pagenum 11
+innerhead An die Laute, Schubert, op 81 no 2
+leftfoot arranged for guitar (c) 1977 Peter J Billam
+/
+3 bars | 2# 6 | 1 1 1 1 1.4 1.4 | 6 |
+|
+=1' cro B qua B qua. [B smq cn] qua B
+r0.80 .06 Wie .38 die .53 wel    - .81 len
+r0.55 .06 Drum .36 noch .54 lei      - .81 ser,
+=2' cro <A Bx f> qua rest' cro <G B e> qua rest'
+=2, [D# F B] [E G B]
+|
+=1 cro d qua cn cro B' qua A
+r0.80 .02 san    - .30 fter .50 Lüf    - .80 te
+r0.55 .02 klei    - .32 ne .50 Lau     - .80 te :
+=2' cro <A cn e> qua rest' [<F A d> smq e-s0 d-s3 c#-s3 cn-s1]
+=2, qua [Cn E A] [D-s4, F-s4, A-s2,]
+|
+=1' cro B qua B qua. [B smq cn] qua B
+r0.80 .02 Mon   - .32 denglanz .80 und
+r0.55 .02 dich .34 verneh      - .80 me
+=2' cro <A Bx f> qua rest' cro <G B e> qua rest'
+=2, qua [D# F B] [E G B]
+/
+3 bars | 2# 1 1 1 1 1.4 1.4 | 6 | 6 |
+|
+=1 cro d qua cn cro B' qua A
+r0.80 .06 Blu    - .34 men - dü      - .80 fte,
+r0.55 .06 die .35 Ver - trau     - .81 te,
+=2' cro <A cn e> qua rest' [<F A d> smq e-s0 d-s3 c#-s3 cn-s1]
+=2, qua [Cn E A] [D-s4, F-s4, A-s2,]
+|
+=1 cro B' qua B' [B, e] d
+r0.80 .02 send' .32 es .52 der .81 Ge   -
+r0.55 .02 Nach   - .31 barn .54 a    - .80 ber
+=2' cro <A Bx f> qua rest' cro <G B e> qua rest'
+=2, qua [D# F B] [E G B]
+|
+=1 qua. [c smq B,] qua c cro. d
+r0.80 .02 bie    - .32 ter - in,
+r0.58 .02 Nach  - .30 barn .50 nicht,
+=2' cro [<A c a> qua rest' [<A d a> smq g-s3 f-s2 e-s0 d-s2]
+=2, qua [E_ G_ C] [F_ A_ D]
+/
+3 bars | 2# 6 | 1 1 1 1.2 1.2 1.2 :|| 6 |
+|
+=1 qua [c B,] B, qua. [d smq B,] [B' G]
+r0.80 .06 send' .35 es .53 der .83 Ge   -
+r0.58 .06 Nach   - .34 barn .54 a     - .82 ber
+=2' cro <G B b> qua rest' cro <B dx e> qua rest'
+=2, qua [G_ B_ D] [G_ B_ E]
+rs0.91 .01 1
+rs0.51 .17 3
+rs0.31 .33 1
+|
+=1 cro E qua A cro D qua rest
+r0.80 .02 bie     - .32 ter - in.
+r0.58 .02 Nach   - .29 barn  nicht.
+rs0.40 .52 4
+=2' cro <G c e> qua rest' smq rest'' [f~ e~-s2 d~-s1 c~-s4 b-s2]
+=2, qua [A_ E A] <D F d> cro rest,
+|
+=1 min. rest
+=2' cro <d f a> qua rest' cro <g ax> qua rest'
+=2, qua [D F A] [C E A]
+/
+4 bars | 2# 1 1.4 1.4 1 1 1 | 5 | .9 1 1.1 .9 .9 .9 | 2.3 2.1 ||
+|
+=1 min. rest
+=2' qua [<d f a> smq b c~ d~ e~] qua [<G a> <G a> a]
+=2, qua [D F A] [C E A]
+|
+=1 min. rest
+=2' cro <d f a> qua rest' cro <g ax> qua rest'
+=2, qua [D F A] [C E A]
+|
+=1 min. rest
+=2' qua [<d f a> smq b a f d] qua [<G B b> <G B b> <G B b>]
+=2, qua [D F A] [G_ B_ E]
+|
+=1 min rest
+=2' qua [<e g c~> <e g c~> <e g c~>] cro <d f d~> qua rest'
+=2, qua [A_ E A_] cro D qua rest,
+midi pause 3.2
+
+% start
+4 systems /20 30 20 30 20/20 30 20 30 20/20 40 20 45 20/20 40 20 40 20 15/
+lefthead Franz von Schlechta
+title Fischerweise
+righthead Schubert, op 96 no 4
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+4 bars | 2# 2/2 4 | 4 ||: 4.5 | 4 |
+| 4/4 156
+i0.3              Etwas geschwind.
+=1 treble 2# 2/2 cha1 vol110 leg95 smb rest
+=2, treble 2# 2/2 cha2 vol90 leg95 tra-12 \
+ qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+I0.5           mf
+=3 treble 2# 2/2 cha2 vol90 leg95 tra-12 smb rest
+|
+=1 smb rest
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+=3 min rest cro rest <D_ D>
+|
+=1 smb rest
+=2, qua [<g b> B] [<g b> B] [<g b> B] [<g b> B]
+=3' min D D
+=3, qua [G_ B_ A_ G_] [G_ B_ A_ G_]
+|
+=1 smb rest
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+=3 min <D_ D> cro rest d
+/
+4 bars | 2# 4 | 4 | 5 | 4 |
+|
+=1 smb rest
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3 qua [c e d c] [c e d c]
+|
+=1 smb rest
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+I0.2 .66 pp
+=3 min d cro rest <D_ D>
+|
+=1 smb rest
+=2, qua [<g b> B] [<g b> B] [<g b> B] [<g b> B]
+=3' min D D
+=3, qua [G_ B_ A_ G_] [G_ B_ A_ G_]
+|
+=1 smb rest
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+=3 min <D_ D> cro rest d
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 smb rest
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3 qua [c e d c] [c e d c]
+|
+=1 min rest cro rest qua [F G]
+r0.7 .75 Den
+r0.4 .76 Er
+=2, qua [<f a> A] [<f a> A] [<f a> A] [f g]
+I0.4                      p
+=3 min d cro rest [<D, qua d'> e']
+|
+=1 cro A qua [A G] cro F qua [E F]
+r0.7 .03 Fischer .53 fechten
+r0.4 .01 singt    zu .53 seinem
+=2, qua [a A a g] [f A e f]
+=3' cro f qua [f e] cro d qua [c d]
+=3, min D cro rest,, D
+|
+=1 min G cro E qua [E F]
+r0.7 .01 Sor     - .50 gen .76 und
+r0.4 .01 Wer     - .50 ke .76 aus
+=2, qua [g A g A] cro e qua [e f]
+=3' cro e e qua [c A] cro rest
+=3, min A_ cro rest,, A_
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 cro G qua [G A] cro B' F
+r0.7 .08 Gram  und .54 Leid  nicht
+r0.4 .13 voller .56 frischer
+=2, qua [g B g a] [b B f B]
+=3' cro e qua [e f] cro g d#
+=3, min B_ cro B_ B_
+|
+=1 min G cro rest qua [G A]
+r0.7 .03 an , .76 er
+r0.4 .01 Brust, .75 die
+=2, qua [g B e f] [g B g a]
+=3' cro. e qua d# cro e qua [e f]
+=3, min E cro rest, E
+|
+=1 cro B' A G F
+r0.7 .01 löst    am .53 frühen
+r0.4 .03 Arbeit .50 gibt .75 ihm
+=2, qua [b B] [a B] [g B f B]
+=3' cro <E_ g> <F_ f> <G_ e> <G_# d>
+|
+=1 min F cro E A
+r0.7 .01 Mor .27 - .48 gen .75 mit
+r0.4 .01 Stä .27 - .48 rke, .75 die
+=2, qua [f A f A] [e A a A]
+=3' cro d d c c
+=3, min. A_ cro G_n
+
+4 systems /20 40 20 30 20/20 40 20 30 20/20 50 20 40 20/20 50 20 40 20 10/
+pagenum 13
+innerhead Fischerweise, Schubert, op 96 no 4
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 cro A qua [G F] cro E A
+r0.7 .11 leichtem .54 Sinn .75 den
+r0.4 .13 Stärke .56 Lebens .90 -
+=2, qua [a A d f] [e A] [a A]
+=3' cro d rest' d c
+=3, cro F_ qua [E_ D_] cro A_ A_
+|
+=1 min F cro rest qua [F G]
+r0.7 .01 Kahn , .75 mit
+r0.4 .01 lust , .75 die
+=2, qua [f A f g] [a A f g]
+=3' cro d rest' qua [F A] cro d
+=3, cro D_ qua [D E] cro F qua [D_ E_]
+|
+=1 cro A qua [G F] cro E A
+r0.7 .02 leichtem .50 Sinn .75  den
+r0.4 .04 Stärke .53  Lebens .90 -
+=2, qua [a A d f] [e A] [a A]
+=3' cro d rest' d c
+=3, cro F_ qua [E_ D_] cro A_ A_
+|
+=1 min D rest
+r0.7 .01 Kahn.
+r0.4 .01 lust.
+=2, qua [f A f g] cro a qua [g a]
+=3' cro d rest' qua [F A] cro e
+=3, cro D_ qua [D E] cro F qua [E_ F_]
+/
+4 bars | 2# 8 | 1 1 1 1 1 1.2 1.2 1 | 8 | 1 1 1 1 1 1.2 1 1 |
+|
+=1 smb rest
+=2, cro b qua [a g] [g B] [f B]
+=3' qua [G_ B] cro e e d#
+=3, cro G_ qua [F_ E_] cro B_ B_
+|
+=1 smb rest
+=2, qua [g B g a] cro b qua [f g#]
+=3' cro e e qua [G B] cro dn
+=3, cro E_ qua [E F] cro G qua [D_ E_]
+|
+=1 min rest cro rest cro E
+r0.75 .75 Da
+r0.4 .75 Bald
+=2 cro a qua [g# f] [a e g e]
+I0.4 .70 pp
+=3' qua [F_ A] cro d c d
+=3, cro F_ qua [E_ D_] cro E_ E_
+|
+=1 cro A A A B'
+r0.75 .05 lagert .50 rings  noch
+r0.4 .01 wird   ein .50 bunt .75 Ge  -
+=2 qua [a e <c a> e] [a e g# e]
+=3' cro c A qua A rest d rest
+=3, qua [A_ E C E] C rest, E rest,
+/
+4 bars | 2# 1 1 1 1 1 1.2 1 1 | 1 1 1 1 1 1.2 1 1 | 8 | 8 |
+|
+=1 min c cro A E
+r0.74 .10 Frie     - .54 de .76 auf
+r0.40 .01 - .10 wim      - .53 mel .77 in
+=2 qua [a e <c a> e] [a e g# e]
+=3' cro c A qua A rest d rest
+=3, qua [A_ E C E] C rest, E rest,
+|
+=1 cro A A A qua [c B,]
+r0.74 .01 Wald .25 und .50 Flur .75 und
+r0.40 .05 al - len .53 Tie - fen
+=2 qua [a e <c a> e] [a e g# e]
+=3' cro c A qua A rest d rest
+=3, qua [A_ E C E] C rest, E rest,
+|
+=1 min A cro rest A
+r0.74 .01 Bach , .76 er
+r0.41 .01 laut , .75 und
+=2 qua [a e <c a> e] [a e a e]
+i0.4                            cresc . . .
+=3' cro c A qua A rest cro c
+=3, qua [A_ E C E] C rest, cro G_n
+|
+=1 cro d d d d
+r0.75 .01 ruft    mit .53 seinem
+r0.42 .01 pläschert .50 durch  den
+=2 qua [d~ d] [d~ d] [d~ d d~ a]
+=3' cro a a a qua g rest'
+=3, cro F_ F_ F_ qua [E_ F_]
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 min d cro B' qua [G A]
+r0.7 .10 Lie      - .54 de .76 die
+r0.4 .10 Him      - .54 mel, .76 der
+=2 qua [d~ d] [d~ d] [b d g a]
+=3' cro b b g qua [e f]
+=3, min. G_ cro B_
+|
+=1 cro B' G F A
+r0.7 .03 gold'ne .54 Sonne
+r0.42 .01 sich .26 in .54 Wasser
+=2, qua [b B] [g B] [f B f B]
+=3' cro <B_ g> <B_ e> <B_ e> <B_ d#>
+|
+=1 min G cro rest qua [E F]
+r0.7 .01 wach , .76 er
+r0.44 .01 baut , .75 und
+=2, qua [g B e f] [g B e f]
+I0.5 .80 f
+=3' cro. e qua d# cro. e qua d#
+=3, cro E qua [E B_] cro E rest,
+|
+=1 cro G B' B' e
+r0.7 .01 ruft .25 mit .54 seinem
+r0.45 .01 plätschert  durch .75 den
+=2, qua [g B b B] [b B] [e~ e]
+i0.5                     cresc . . .
+=3' cro <E_ e> <G_ e> <G_ e> <G_ b>
+
+4 systems /20 50 20 45 20/20 45 20 30 20/20 50 20 40 20/20 30 20 40 20 10/
+pagenum
+innerhead Fischerweise, Schubert, op 96 no 4
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 min d cro c d
+r0.7 .10 Lie      - .54 de  .76 die
+r0.4 .10 Him      - .53 mel, .76 der
+=2, qua [d~ e] [d~ e] [c~ e] [d~ d]
+i0.6         dim . . .
+=3' cro b b a a
+=3, min G_# cro A_ qua [F_ G_]
+|
+=1 cro A F E A
+r0.7 .03 gold'ne .55 Sonne
+r0.4 .01 sich .26 in .54 Wasser
+=2, qua [a A f A] [e A e A]
+=3' cro <A_ f> <A_ d> <A_ d> <A_ c>
+|
+=1 min D cro rest d
+r0.7 .01 wach . .75 Da
+r0.4 .01 baut . .75 Bald
+=2, qua [f A] [a A] [a A] [a A]
+I0.6            pp
+=3' cro d f f f
+=3, min <D_ D> cro rest, <D A>
+|
+=1 qua [c e] [d c] [c e] [d c]
+r0.7 .05 lagert .50 rings noch
+r0.4 .01 wird   ein .50 bunt   Ge  -
+=2, qua [a A] [a A] [a A] [a A]
+=3' cro g g g g
+=3, min <D A> cro rest, <D A>
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 min d cro A A
+r0.7 .10 Frie      - .54 de .76 auf
+r0.4 .01 - .10 wim      - .53 mel .77 in
+=2, qua [a A] [a A] [a A] [<f a> A]
+=3' cro f f f blank
+=3, min <D A> cro rest, d~
+|
+=1 cro A A A A
+r0.7 .01 Wald .25 und .50 Flur .75 und
+r0.4 .06 allen .54 Tiefen
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3, qua [c~ e~ d~ c~] [c~ e~ d~ c~]
+|
+=1 min F cro rest d
+r0.7 .01 Bach , .75 er
+r0.4 .01 laut , .75 und
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+=3 min d~ cro rest <D A>
+|
+=1 qua [c e] [d c] [c e] [d c]
+r0.7 .01 ruft .25 mit .53 seinem
+r0.4 .01 plätschert .49 durch  den
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3 min <D A> cro rest <D A>
+/
+4 bars | 2# 4 | 4 | 4 :|| 4 |
+|
+=1 min d cro A A
+r0.7 .10 Lie      - .54 de .76 die
+r0.4 .10 Him      - .53 mel, .76 der
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+=3 min <D A> cro rest d~
+|
+=1 cro A A A A
+r0.7 .03 gold'ne .53 Sonne
+r0.4 .01 sich .25 in .53 Wasser
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3 qua [c~ e~ d~ c~] [c~ e~ d~ c~]
+|
+=1 min D rest
+r0.7 .01 wach.
+r0.4 .01 baut.
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+I0.4               mf
+=3 min d~ cro rest <D_ D>
+|
+=1 smb rest
+=2, qua [<g b> B] [<g b> B] [<g b> B] [<g b> B]
+=3' min D D
+=3, qua [G_ B_ A_ G_] [G_ B_ A_ G_]
+/
+4 bars | 2# 4 | 4 | 5 | 4 |
+|
+=1 smb rest
+=2 qua [<f a> A,] [<f a> A,] [<f a> A,] [<f a> A,]
+=3 min <D_ D> cro rest d
+|
+=1 smb rest
+=2 qua [<gx a> A,] [<gx a> A,] [<gx a> A,] [<gx a> A,]
+=3 qua [c e d c] [c e d c]
+|
+=1 smb rest
+=2 qua [<f a> A,] [<f a> A,] [<f a> A,] [<f a> A,]
+I0.4                  pp
+=3 min d cro rest <D_ D>
+|
+=1 smb rest
+=2 qua [<g b> B,] [<g b> B,] [<g b> B,] [<g b> B,]
+=3 min D D
+=3 qua [G_, B_, A_, G_,] [G_, B_, A_, G_,]
+
+3 systems /20 40 20 40 20/20 40 20 40 20/20 40 20 40 20 20/
+pagenum
+innerhead Fischerweise, Schubert, op 96 no 4
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 smb rest
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+=3 min <D_ D> cro rest d
+|
+=1 smb rest
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3 qua [c e d c] [c e d c]
+|
+=1 min rest cro rest qua [F G]
+r0.7 .75 Doch
+=2, qua [<f a> A] [<f a> A] [<f a> A] [f g]
+I0.4                        p
+=3' min. blank qua [d' e']
+=3, min d cro rest D
+|
+=1 cro A qua [A G] cro F qua [E F]
+r0.7 .01 wer .26 ein .50 Netz .76 will
+=2, qua [a A a g] [f A e f]
+=3' cro f qua [f e] cro d qua [c d]
+=3, min D cro rest,, D
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 min G cro E qua [E F]
+r0.7 .10 stel .32 - .52 len .75 braucht
+=2, qua [g A] [g A] cro e qua [e f]
+=3' cro e e qua [c A] cro rest
+=3, min A_ cro rest,, A_
+|
+=1 cro G qua [G A] cro B F
+r0.7 .07 Augen .50 klar .75 und
+=2, qua [g B g a] [b B] [f B]
+=3' cro e qua [e f] cro g d#
+=3, min B_ cro B_ B_
+|
+=1 min G cro rest qua [G A]
+r0.7 .01 gut, .75 muss
+=2, qua [g B e f] [g B g a]
+=3' cro. e qua d# cro e qua [e f]
+=3, min E cro rest, E
+|
+=1 cro B' A G F
+r0.7 .06 heiter .49 gleich .75 den
+=2, qua [b B] [a B] [g B] [f B]
+=3' cro <E_ g> <F_ f> <G_ e> <G_# d>
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 min F cro E A
+r0.7 .11 Wel       - .54 len, .76 und
+=2 qua [f A,] [f A,] [e A,] [a A,]
+=3' cro d d c c
+=3, min. A_ cro G_n
+|
+=1 cro A qua [G F] cro E A
+r0.7 .01 frei .26 sein .51 wie .75 die
+=2, qua [a A d f] [e A a A]
+=3' cro d rest' d c
+=3, cro F_ qua [E_ D_] cro A_ A_
+|
+=1 min F cro rest A
+r0.7 .01 Flut , .75 und
+=2, qua [f A f g] [a A f g]
+=3' cro d rest' rest' d
+=3, cro D_ qua [D E] cro F qua [D_ E_]
+|
+=1 cro A qua [G F] cro E A
+r0.7 .01 frei .25 sein .51 wie .75 die
+=2, qua [a A d f] [e A] [a A]
+=3' cro d rest' d c
+=3, cro F_ qua [E_ D_] cro A_ A_
+
+4 systems /20 30 20 30 20 /20 40 20 40 20 /20 39 20 37 20 /20 39 20 40 20 8/
+pagenum
+innerhead Fischerweise, Schubert, op 96 no 4
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 min D rest
+r0.5 .10 Flut.
+=2, qua [f A f g] cro a qua [g a]
+=3' cro d rest' qua [F A] cro e
+=3, cro D_ qua [D E] cro F qua [E_ F_]
+|
+=1 smb rest
+=2 cro b qua [a g] [g B,] [f B,]
+=3' qua [G_ B] cro e e d#
+=3, cro G_ qua [F_ E_] cro B_ B_
+|
+=1 smb rest
+=2, qua [g B g a] cro b qua [f g#]
+=3' cro e e qua [G B] cro d
+=3, cro E_ qua [E F] cro G qua [D_ E_]
+|
+=1 smb rest
+=2 cro a qua [g# f] [a e g e]
+I0.6                        pp
+=3' qua [F_ A] cro d c d
+=3, cro F_ qua [E_ D_] cro E_ E_
+/
+4 bars | 2# 8 | 1 1 1 1 1 1.2 1.2 1 | 1 1 1 1 1 1.2 1 1 | 8 |
+|
+=1 min rest cro rest cro B'
+r0.7 .76 Dort
+=2 qua [a e <c a> e] [a e g# e]
+=3' cro c A qua A rest d rest
+=3, qua [A_ E C E] C rest, E rest,
+|
+=1 cro. c qua A cro E qua [F G#]
+r0.7 .02 an  - .35 gelt  auf .75 der
+=2 qua [a e <c a> e] [a e g# e]
+=3' cro c A qua A rest d rest
+=3, qua [A_ E C E] C rest, E rest,
+|
+=1 min A cro A B'
+r0.7 .01 Brü .28 - .50 cke .75 die
+=2 qua [a e <c a> e] [a e g# e]
+=3' cro c A qua A rest d rest
+=3, qua [A_ E C E] C rest, E rest,
+|
+=1 min c' cro A rest
+r0.7 .02 Hir .28 - .50 tin
+=2 qua [a e <c a> e] [a e a e]
+i0.4                            cresc . . .
+=3' cro c A qua A rest cro c
+=3, qua [A_ E C E] C rest, cro G_
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 cro rest min d cro d
+r0.7 .28 schlau       - .76 er
+=2 qua [d~ d] [d~ d] [d~ d d~ a]
+=3' cro a a a qua g rest'
+=3, cro F_ F_ F_ qua [E_ F_]
+|
+=1 min. d cro B'
+r0.7 .01 Wicht ! .75 ent .95 -
+=2 qua [d~ d] [d~ d] [b d g a]
+=3 cro b' b' g' qua [e' f']
+=3 min. G_, cro B_,
+|
+=1 cro B' G F A
+r0.7 .03 sa  -  ge .54 deiner
+=2, qua [b B] [g B] [f B f B]
+=3' cro <B_ g> <B_ e> <B_ e> <B_ d#>
+|
+=1 cro G E rest qua [E F]
+r0.7 .02 Tü  -  cke , .76 ent -
+=2 qua [g B, e f] [g B, e f]
+I0.4                                 f
+=3' cro. e qua d# cro. e qua d#
+=3, cro E qua [E B_] cro E rest,
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 cro G B' B' e
+r0.7 .01 - .12 sa  -  ge .54  dei - ner
+=2, qua [g B b B] [b B] [e~ e]
+i0.5                                cresc . . .
+=3' cro <E_ e> <G_ e> <G_ e> <G_ b>
+|
+=1 min d cro c d
+r0.7 .01 Tü   - .47  cke , .75 den
+=2 qua [d~ e] [d~ e] [c~ e] [d~ d]
+i0.8                                dim . . .
+=3' cro b b a a
+=3, min G_# cro A_ qua [F_ G_n]
+|
+=1 cro A F E A
+r0.7 .01 Fisch .29 betrügst .75 du
+=2, qua [a A] [f A] [e A e A]
+=3' cro <A_ f> <A_ d> <A_ d> <A_ c>
+|
+i0.3             leise . . .
+=1 min D cro rest d
+r0.7 .01 nicht . .74 Dort
+=2, qua [f A] [a A] [a A] [a A]
+I0.4 .17 pp
+=3' cro d f f f
+=3, min <D_ D> cro rest, <D A>
+
+4 systems /20 40 20 35 20 /20 40 20 35 20 /19 30 20 37 20 /19 30 20 29 20 15/
+pagenum
+innerhead Fischerweise, Schubert, op 96 no 4
+leftfoot arranged for guitar (c) 1979 Peter J Billam
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 qua [c e] [d c] [c e] [d c]
+r0.6 .13 an - gelt .54 auf .76 der
+=2 qua [a A,] [a A,] [a A,] [a A,]
+=3' cro g g g g
+=3, min <D A> cro rest, <D A>
+|
+=1 min d cro A A
+r0.63 .01 Brü .29 - .50 cke    die
+=2 qua [a A,] [a A,] [a A,] [<f a> A,]
+=3 cro f' f' f' d~
+=3 min <D, A,> cro rest, d~
+|
+=1 min B' cro A rest
+r0.66 .03 Hir .29 - .50 tin,
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3 qua [c~ e~ d~ c~] [c~ e~ d~ c~]
+|
+=1 cro rest qua F F cro A d
+r0.7 .18 schlauer Wicht! ent   -
+=2, qua [<f a> A] [<f a> A] [<f a> A] [a A]
+=3 min d~ cro rest <D, A, f'>
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 qua [c e] [d c] [c e] [d c]
+r0.6   - .10 sa  - .28 ge .56 dei - ner
+=2, qua [a A] [a A] [a A] [a A]
+=3' cro g g g g
+=3, min <D A> cro rest <D A>
+|
+=1 min d cro A A
+r0.65 .02 Tü .27 - .49 cke , .75 den
+=2, qua [a A] [a A] [a A] [<f a> A]
+=3' cro f f f blank
+=3, min <D A> cro rest d~
+|
+=1 cro A A A A
+r0.7 .01 Fisch .28  be - trügst .75  du
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3, qua [c~ e~ d~ c~] [c~ e~ d~ c~]
+|
+=1 min D rest
+r0.7 .01 nicht.
+=2 qua [<f a> A,] [<f a> A,] [<f a> A,] [<f a> A,]
+I0.4               mf
+=3 min d~ cro rest <D_ D>
+/
+4 bars | 2# 4 | 4 | 4 | 4 |
+|
+=1 smb rest
+=2 qua [<g b> B,] [<g b> B,] [<g b> B,] [<g b> B,]
+=3 min D D
+=3, qua [G_ B_ A_ G_] [G_ B_ A_ G_]
+|
+=1 smb rest
+=2 qua [<f a> A,] [<f a> A,] [<f a> A,] [<f a> A,]
+=3 min <D_ D> cro rest d
+|
+=1 smb rest
+=2 qua [<gx a> A,] [<gx a> A,] [<gx a> A,] [<gx a> A,]
+=3 qua [c e d c] [c e d c]
+|
+=1 smb rest
+=2 qua [<f a> A,] [<f a> A,] [<f a> A,] [<f a> A,]
+I0.4                  pp
+=3 min d cro rest <D_ D>
+/
+4 bars | 2# 4 | 4 | 4 | 2.5 ||
+|
+=1 smb rest
+=2 qua [<g b> B,] [<g b> B,] [<g b> B,] [<g b> B,]
+=3 min D D
+=3 qua [G_, B_, A_, G_,] [G_, B_, A_, G_,]
+|
+=1 smb rest
+=2, qua [<f a> A] [<f a> A] [<f a> A] [<f a> A]
+=3 min <D_ D> cro rest d
+|
+=1 smb rest
+=2, qua [<gx a> A] [<gx a> A] [<gx a> A] [<gx a> A]
+=3 qua [c e d c] [c e d c]
+|
+=1 smb rest
+=2 smb <f a>
+=3 smb d
+% stop

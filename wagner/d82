@@ -1,0 +1,55 @@
+boundingbox 500 62
+midi channel 1  patch 47 reverb 60 pan 30 # tymp
+midi channel 2  patch 32 reverb 60 pan 80 # pizz
+midi channel 3  patch 58 reverb 60 pan 50 # tuba
+midi channel 4  patch 60 reverb 60 pan 70 # hrn
+midi channel 5  patch 44 reverb 60 pan 20 # vln1
+midi channel 6  patch 44 reverb 60 pan 80 # vln2
+midi channel 7  patch 44 reverb 60 pan 65 # bass
+midi channel 8  patch 44 reverb 60 pan 90 # vlc
+1 system /27/
+/
+7 bars | 1# 8 8 8 11 | 20 | 4 4 4 4 4 4 15 6 \
+ | 8 8 8 11 | 8 8 8 11 | 4 4 4 4 5 5 5 10 | 16 |
+| 4/4 2.4
+=1  treble   1# cha5 vol60 leg99 2. E-cre20 4 vol+5 E#
+#=2 treble   1# cha4 vol80 leg85 2. E-cre20 4 vol+5 E#
+#=3 treble   1# cha6 vol30 leg99 1 <G_ C-cre20>
+#=4 bass     1# cha8 vol30 leg99 1 <c e-cre20>
+#=5 bass8vab 1# cha2 vol50 leg99 1 rest
+|
+=1  1 vol+5 F(2
+#=2 1 vol+5 F(2
+#=3 1 vol+10 <E_ A_#>
+#=4 1 vol+10 <F# c#>
+#=5 2 vol+10 f# rest
+|
+=1  2. F)2 8 [E D#]
+#=2 2. F)2 8 [E D#]
+#=3 1 <A_ B_>
+#=4 1 <B d#>
+#=5 2 B rest
+| 0.6 0.6 0.6 0.8
+=1  2. E 4 E
+#=2 2. E 4 E
+#=3 2 A_ 4. G_# 8 G_n
+#=3 1 E_
+#=4 1 c
+#=5 2 c rest
+| 2.5
+=1  2. vol-5 Fn 4 vol-5 E
+#=2 2. vol-5 Fn 4 vol-5 E
+#=3 1 vol-5 <F_n C>
+#=4 1 vol-5 <A c>
+#=5 2 vol-5 A rest
+|
+=1  2 E 4. vol-5 D 8 D
+#=2 2 E 4. vol-5 D 8 D
+#=3 1 vol-5 <F_n B_b>
+#=4 1 vol-5 <Bb d>
+#=5 2 vol-5 Bb rest
+|
+=1  2. E-dim30
+#=2 2. E-dim30
+#=3 2. <G_# Bn-dim30>
+#=4 2. <E d-dim30>

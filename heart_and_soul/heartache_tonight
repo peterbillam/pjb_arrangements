@@ -1,0 +1,148 @@
+% start
+3 systems 10 /17-18-17-18-17-23-17-18-17-18-17 18 7 \
+ /17-18-17-18-17-23-17-18-17-18-17 18 7 \
+ /17-18-17-18-17-23-17-18-17-18-17 18 7 /
+title Gonna Be A Heartache Tonight
+pagenum 1
+leftfoot arranged 2008 Peter J Billam
+midi channel 1 patch 52 pan 41 reverb 50
+midi channel 2 patch 52 pan 87 reverb 50
+midi channel 3 patch 52 pan  5 reverb 50
+midi channel 4 patch 52 pan 95 reverb 50
+midi channel 5 patch 52 pan 23 reverb 50
+midi channel 6 patch 52 pan 69 reverb 50
+midi channel 9 reverb 90
+
+% dontstop
+/
+5 bars | 4/4 48 | 36 | 36 | 36 | 36 |
+| 12/8 117
+=1' treble     12/8 cha1 leg95 vol80 \
+ cro Bb-. qua A cro. rest cro A-. qua G cro rest qua F#{2
+=2  treble     12/8 cha2 leg85 vol80 \
+ cro F-. qua E cro. rest cro E-. qua D cro rest qua C#{2
+=3  treble     12/8 cha3 leg85 vol100 smb. rest
+=4' treble8vab 12/8 cha4 leg85 vol80 \
+ cro Bb-. qua A cro. rest cro A-. qua G cro rest qua F#{2
+=5  bass       12/8 cha5 leg85 vol80  smb. rest
+=6  bass       12/8 cha6 leg85 vol80  smb. rest
+=7' bass       12/8 cha9 cro. rest Eb rest Eb
+=7,            12/8 cha9 cro. C cro blank qua C cro. C blank
+|
+=1  smb. G}2(2
+=2  smb. D}2(2
+=3 smb. rest
+=4  smb. G}2(2
+=5 smb. rest
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1  smb. G)2-dim40
+=2  smb. D)2-dim40
+=3 smb. rest
+=4  smb. G)2-dim40
+=5 smb. rest
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1 smb. rest
+=2 smb. rest
+=3 smb. rest
+=4 smb. rest
+=5 smb. rest
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1 smb. rest
+=2 smb. rest
+=3 smb. rest
+=4 smb. rest
+=5 smb. rest
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+/
+4 bars | 48 | 48 | 48 | 24 18 |
+|
+=1 smb. rest
+r0.6 .25 Somebody's going to
+=2 cro. rest G cro G qua D  cro C  qua B_
+=3 cro. rest smq-s D{2 cro. E}2 cro D qua B_ cro A_ qua G_
+=4 cro. rest e cro d qua B  cro A  qua G
+=5 cro. rest g cro g qua g  cro g  qua e
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1 smb. rest
+r0.6 .01 hurt someone
+=2 cro C  qua B_(2  cro B_)2  qua B_(2  cro. B_)2 rest
+=3 cro A_ qua G_(2 cro G_)2 qua G_(2 cro. G_)2 rest
+=4 cro A  qua G(2  cro G)2  qua G(2  cro. G)2  rest
+=5 cro e  qua e(1  cro e)1  qua e(1  cro. e)1  rest
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1  smb. rest
+r0.6 .25 'fore the night is .91 through
+=2  cro. rest cro D  qua G cro G qua D(2 cro D)2 qua G(2
+=3  cro. rest cro B_ qua D cro D qua D(2 cro D)2 qua E(2
+=4' cro. rest cro G  qua B cro B qua B(2 cro B)2 qua B(2
+=5  cro. rest cro g  qua g cro g qua g(1 cro g)1 qua e(1
+=6  smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1  smb. rest
+=2  cro. G)2 rest min. rest
+=3  cro. E)2 rest min. rest
+=4' cro. B)2 rest min. rest
+=5  cro. e)1 rest min. rest
+=6  smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+
+|
+=1 smb. rest
+r0.6 .25 Somebody's going to
+=2 cro. rest G cro G qua D  cro C  qua B_
+=3 cro. rest E cro D qua B_ cro A_ qua G_
+=4 cro. rest e cro d qua B  cro A  qua G
+=5 cro. rest g cro g qua g  cro g  qua e
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1 smb. rest
+r0.6 .01 come undone
+=2 cro C  qua C(2  cro C)2  qua C(2  cro. C)2 rest
+=3 cro A_ qua G_(2 cro G_)2 qua G_(2 cro. G_)2 rest
+=4 cro A  qua G(2  cro G)2  qua G(2  cro. G)2  rest
+=5 cro e  qua e(1  cro e)1  qua e(1  cro. e)1  rest
+=6 smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1  smb. rest
+r0.6 .25 s'nothing we can .91 do
+=2  cro. rest cro D  qua G cro G qua D(2 cro D)2 qua F#(2
+=3  cro. rest cro B_ qua D cro D qua D(2 cro D)2 smq [F#{2 E] 
+=4  cro. rest cro G  qua B' cro B' qua B'(2 cro B')2 smq [d{1 c]
+=5  cro. rest cro g  qua g cro g qua g(1 cro g)1 qua a(1
+=6  smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+|
+=1  smb. rest
+=2  cro. F#)2 rest min. rest
+=3  cro. D}2 rest min. rest
+=4' cro. A}1 rest min. rest
+=5  cro. a)1 rest min. rest
+=6  smb. rest
+=7' cro. rest Eb rest Eb
+=7, cro. C cro blank qua C cro. C blank
+

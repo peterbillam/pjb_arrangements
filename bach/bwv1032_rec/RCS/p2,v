@@ -1,0 +1,92 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	99.11.24.08.29.27;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@page 2 blurb for Flute Sonata
+@
+
+
+1.1
+log
+@added coverage of vivace
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 16
+.pl 11.7i
+.LP
+\&
+.sp 1.2c
+.ce 1
+\f3\s+5Flute Sonata BWV 1032\s0\fP
+.sp 1.2c
+.LP
+Johann Sebastian Bach has left us
+three flute sonatas with obbligato keyboard parts.
+There are also two or three flute sonatas with continuo accompaniments;
+the authenticity of one of these is contested.
+
+.LP
+.nh
+In writing the Sonata in A, BWV1032, Bach respects the range of the recorder.
+Owners of a Voice Flute,
+which is a recorder between the Tenor and Alto, whose lowest note is D,
+may play the sonata in its original form without changing a single note.
+Owners of the Alto recorder may transpose the sonata up three semitones
+into C major, which is a common procedure;
+for the keyboard player, however, transposing at sight is not so easy.
+Therefore this arrangement makes the sonata available in C major,
+and adds a major work to the recorder repetoire.
+
+.LP
+.nh
+The manuscript of the Sonata in A
+is titled \f2Sonata a 1 Traversa è Cembalo obligato di J. S. Bach\fP
+in Bach's handwriting.
+It was discovered by von Winterfeld in an antique shop in Breslau
+and presented to the \f2Preuß. Staatsbibliotek\fP in Berlin;
+during the second world war it was moved
+to the monastery of Grüssau in central Silesia.
+At the end of the war, it was removed by the Polish government
+to the Jagiellon University in Cracow,
+and in 1977 was presented to the \f2Deutsche Staatsbibliotek\fP in Berlin.
+The manuscript is written on nineteen staves, and apart from
+this sonata it also contains a concerto for two keyboards and string orchestra.
+The concerto occupies the top sixteen staves on each page,
+and, with typical economy, the Sonata fills up the lowest three staves.
+Eight of the manuscript pages are intact,
+but unfortunately, on six of the pages the lowest part has been cut away,
+so that we lack some forty-five bars at the end of the first movement.
+
+.LP
+.nh
+Completions of the first movement have been published by
+Gustav Schreck (Peters),
+Georges Barrère (Boston),
+Alfred Dürr (Baerenreiter),
+William Bennet (?)
+and Bart Kuijken (Breitkopf u. Haertel).
+The copyright status of these completions being unclear,
+this edition provides a new completion by Peter Billam;
+it extends from bar 63 to 88.
+
+.LP
+.ce 1
+\f2Peter J Billam\fP
+.LP
+.ce 1
+\f2www.pjb.com.au/mus\fP
+@

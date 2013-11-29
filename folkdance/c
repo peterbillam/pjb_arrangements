@@ -1,0 +1,140 @@
+7 systems 20 /18 25 18/18 25 18/18 25 18 10 \
+ /18 25 18/18 25 18/18 25 18/18 25 18 7/
+pagenum 1
+title Folk Dance Tunes
+innerhead for tin whistle or recorder and guitar
+leftfoot arrangement (c) 1986 Peter J Billam
+midi channel 0 patch 78
+midi channel 1 patch 25
+/
+6 bars |: 1# 2/2 8 | 8 | 8 | 8 | 8 | 8 |
+| 2/2 .21 .14 .21 .14 .21 .14 .21 .14
+Il0.8         Cronin's Hornpipe
+=1  treble 1# 2/2 channel0 qua [G A B' d'] [d B, d e]
+=2' treble 1# 2/2 channel1 transpose-12 cro G qua [G A] cro. G qua A
+=2,        1# 2/2 channel1 transpose-12 min D D
+|
+=1  qua [g a g e] [d e g a]
+=2' qua [B(2 c)2 B A] cro. B qua c
+=2, min D D
+|
+=1  qua [b a g e] [d' B' G A]
+=2' cro d e d qua [c B]
+=2, min D D
+|
+=1  qua [B' A A G] smq [A B' qua c' B' A]
+=2' cro A B qua [A c(2 B)2 A]
+=2, min D D
+|
+=1  qua [G A B' d'] smq [d d qua B, d e]
+=2' cro G qua [G A] cro. G qua A
+=2, min D D
+|
+=1  qua [g a g e] [d rest g a]
+=2' qua [B(2 c)2 B A] cro. B qua c
+=2, min D D
+/
+5 bars | 8 | 8 | 8 | 8 | 8 |
+|
+=1  qua [b a g e] [d' B' A B']
+=2' cro d e qua [c(2 B)2 A B]
+=2, min D D
+|
+=1  cro G smq-s A qua [G F] cro G qua [f g]
+=2' cro G A G qua [B A]
+=2, min D D
+|
+=1  qua [a d d c] [d f g a]
+=2' cro A qua [A B] min A
+=2, min D D
+|
+=1  qua [b e e d] [e f g a]
+=2' cro B qua [G A] min B
+=2, min E E
+|
+=1  qua [b g a f] [g e d B,]
+=2' cro d e d qua [c(2 B)2]
+=2, min D D
+/
+5 bars | 1# 1 1.6 1 1 1 1 1 1 | 8 | 8 | 8 | 1.7 2 1.7 2 :||
+|
+=1  treble 1# qua [B' smq c' B' qua A G] [A c' B' A]
+=2' treble 1# cro A B qua [A(2 c)2 B A]
+=2,        1# min D D
+|
+=1  qua [G A B' d'] [d B, d e]
+=2' cro G qua [G A] cro. G qua A
+=2, min D D
+|
+=1  qua [g a g e] [d e g a]
+=2' qua [B(2 c)2 B A] cro. B qua c
+=2, min D D
+|
+=1  qua [b a g e] [d' B' A B']
+=2' cro d e qua [c(2 B)2 A B]
+=2, min D D
+|
+=1  cro G qua [G F] cro. G qua rest
+=2' cro G A min G
+=2, min D G_
+
+midi pause 0.8
+/
+4 bars |: 1# 2/2 8 | 8 | 8 | 8 |
+| 2/2 .20 .14 .16 .13 .16 .13 .16 .13
+Il1.0         The Old Grey Gander
+=1 treble 1# 2/2 transpose+12 qua [E A A B'] qua3 [c d-I3  c] qua [B' A]
+=2, treble 1# 2/2 qua [c e] [B e] [A e] [c e]
+| 2/2 .16 .13 .16 .13 .16 .13 .16 .13
+i1.1          ( reel )
+=1 qua [B' G] qua3 [G F-I3 G] qua [B, c d B,]
+=2' qua [G B] [F# B] [E B] [G B]
+|
+=1 qua [A E] qua3 [E D-I3 E] qua [c d e f]
+=2 qua [c e] [B, e] [A, e] [c e]
+|
+=1 qua [g e d B,] cro c qua [B' A]
+=2 qua [E B' G B'] cro A rest
+/
+4 bars | 1# 8 | 8 | 8 | 8 |
+|
+=1 treble 1# qua [E A A B'] qua3 [c d c] qua [B' A]
+=2, treble 1# qua [c e] [B e] [A e] [c e]
+|
+=1  qua [B' G] qua3 [G F G] qua [B, c d B,]
+=2' qua [G B] [F B] [E B] [G B]
+|
+=1 qua [A E] qua3 [E D E] qua [c d e f]
+=2 qua [c e] [B, e] [A, e] [c e]
+|
+=1 qua [g e d B,] [B' A] cro A
+=2 qua [E B' G B'] cro A rest
+midi pause 0.04
+/
+4 bars | 1# 8 | 1 1 1 1 1 1 1.5 1 | 8 | 8 |
+|
+=1 treble 1# cro a qua [e a] cro a qua [g e]
+=2 treble 1# qua [c e G, e] [c e G, e]
+|
+=1 cro d qua [B' G] [B, d] qua3 [d c# d]
+=2 qua [d g G, g] [d g G, g]
+|
+=1 cro a qua [e a] qua [a g b a]
+=2 qua [c e G, e] [c e G, e]
+|
+=1 qua [g e d B,] [B' A] cro A
+=2 qua [d g G, g] [A, g B, g]
+/
+4 bars | 1# 8 | 1 1 1 1 1 1 1.5 1 | 8 | 8 :||
+|
+=1 treble 1# cro a qua [e a] cro a qua [g e]
+=2 treble 1# qua [c e G, e] [c e G, e]
+|
+=1 cro d qua [B' G] [B, d] qua3 [d c# d]
+=2 qua [d g G, g] [d g G, g]
+|
+=1 qua [E A A B'] [c d e f]
+=2 qua [c e B, e] [A, e B, e]
+|
+=1  qua [g e d B,] min A
+=2' qua [E B' G B'] min A

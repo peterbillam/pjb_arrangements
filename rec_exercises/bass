@@ -1,0 +1,44 @@
+12 systems /19/19 8/ 19/19 8/ 19/19 8/ 19 8/ 19/
+midi channel 0 patch 74
+/
+2 bars | 48 |
+| 3.2
+=1, bass cha0 leg98 8 [c d e c] [d e f d] [e f g e] [c d e c]
+|
+=1, 8 [d e f d] [e f g e] [f g a f] [d e f d]
+/
+2 bars | 48 | 48 ||
+|
+=1, 8 [e f g e] [f g a f] [g a b g] [e f g e]
+|
+=1, 8 [c d e c] [d e f d] [e f g e] 4 c' rest
+/
+2 bars | 48 |
+|
+=1, bass 8 [c~ b a c~] [b a g b] [a g f a] [c~ b a c~]
+|
+=1, 8 [b a g b] [a g f a] [g f e g] [b a g b]
+/
+2 bars | 48 | 48 ||
+|
+=1, 8 [a g f a] [g f e g] [f e d f] [a g f a]
+|
+=1, 8 [c~ b a c~] [b a g b] [a g f a] 4 c~ rest
+/
+2 bars | 48 |
+|
+=1, bass 8 [c d e c] [d e f d] [e f g e] [f g a f]
+|
+=1, 8 [g a b g] [a b c~ a] [b c~ d~ b] 4 c~ rest
+/
+2 bars | 48 | 48 ||
+|
+=1, 8 [c~ b a c~] [b a g b] [a g f a] [g f e g]
+|
+=1  8 [f e d f] [e d c, e] [d' c B d'] 4 c rest
+/
+2 bars | 48 | 48 ||
+|
+=1, 8 [c e d f] [e g f a] [g b a c~] [b d~] 4 c~
+|
+=1  8 [c~ a b g] [a f g e] [f d e c,] [d' B] 4 c

@@ -1,0 +1,100 @@
+% start
+4 systems /19 45 19-35-19/
+pagenum 1
+title Can't Get That Stuff No More
+innerhead Tampa Red
+midi channel 1 patch 53
+midi channel 2 patch 0 reverb 50
+/
+3 bars | 2# 3 3 3 3 3 4 3 3 3 3 3 3 | 3 3 3 3 3 4 3 3 3 3 3 3 |
+| 12/8 120
+=1 treble 12/8 cha1 min. rest cro. rest D
+r0.5 .75 Well
+=2' treble 12/8 cha2 cro rest <F_# C Fn> qua rest \
+ cro <A_ D> qua rest min D
+=2, 12/8 min. blank cro blank cro. G_ qua F_n
+=3' bass   12/8 cha2 cro D qua rest cro d qua F cro F# qua A cro B qua A
+|
+=1 cro F cro. F cro F qua rest D cro E qua D
+r0.6 .01 Bootleg .46 Sal .66 she used to
+r0.3 .01 here .16 comes .46 Bill .75 with a
+=2' cro rest <F_# C Fn> qua rest \
+ cro <A_ D> qua rest min D
+=2, min. blank cro blank cro. G_ qua F_n
+=3' cro D qua rest cro d qua F cro F# qua A cro B qua A
+|
+=1 cro. F cro B_ cro. D qua rest cro C qua D
+r0.6 .01 run .25 this .40 town .75 but .90 the
+r0.3 .01 big .25 long .40 knife , .87 and
+=2' cro rest <F_# C Fn> qua rest \
+ cro <A_ D> qua rest min D
+=2, min. blank cro blank cro G_ cro F_n
+=3' cro D qua rest cro d qua F cro F# qua A cro B qua A
+/
+3 bars | 2# 3 3 3 3 3 4 3 3 3 3 3 3 | 36 |
+|
+=1 cro. F cro F cro F rest cro E qua D
+r0.6 .01 Law .25 came .43 round .75 and it
+r0.3 .01 you .25 been .43 messin' .75 round
+=2' cro rest <F_# C Fn> qua rest \
+ cro <A_ D> qua rest min D
+=2, min. blank cro blank cro. G_ qua F_n
+=3' cro D qua rest cro d qua F cro F# qua A cro B qua A
+|
+=1 cro. F E cro D qua rest cro E qua D
+r0.6 .01 closed .25 her .50 down, .75 now   you
+r0.3 .01 with .25 his .50 wife ! .75 Now   you
+=2' cro rest <F_# C Fn> qua rest \
+ cro <G_ D> qua rest min D
+=2, min. blank cro blank cro G_# cro A_
+=3' cro D qua d cro E qua e cro F qua f cro F# qua f#
+|
+=1' cro <F B> qua rest cro <E B> qua <E B> \
+ cro <D B> qua rest cro <B_ B> qua <D(2 B(1>
+r0.6 .01 can't .25 get .42 the stuff .75 no  more
+r0.3 .01 won't .25 get .42 the stuff .75 no  more
+=2 cro. rest cro <A_# B_x F> qua rest cro. rest cro <A_# B_x F> qua rest
+=3 cro G qua rest cro g qua rest cro G qua rest cro g qua rest
+/
+3 bars | 2# 36 | 36 | 3 3 4 3 3 4 3 3 3 3 3 3 |
+|
+=1' cro. <D)2 B)1> rest cro rest qua D cro. E
+r0.6 .65 you can't
+r0.3 .65 you won't
+=2' cro rest min a cro. a rest
+=2, cro rest qua f cro e qua f cro e qua f cro. rest
+=3 cro G qua rest cro g qua rest cro G qua rest cro G# qua A
+|
+=1 cro <F A> qua rest cro <E A> qua rest \
+ cro <D A> qua rest cro <B_ A> qua <D(2 A(1>
+r0.5 .01 get .25 that .50 stuff .75 no   more
+=2 cro. rest cro <F_# C F> qua rest cro. rest cro <F_# C F> qua rest
+=3' cro D qua rest cro d qua rest cro D qua rest cro d qua rest
+|
+=1 cro. <D)2 A)1> rest cro rest qua A_ cro B_ qua D
+r0.5 .69 no matter
+=2' cro rest min a cro. a rest
+=2, cro rest qua f# cro fn qua f# cro fn qua f# cro. rest
+=3' cro D qua rest cro d qua rest cro D qua rest cro d qua rest
+/
+3 bars | 2# 3 3 3 3 3 4 3 3 4 3 3 3 | 3 3 3 3 3 4 3 3 3 3 3 3 | 36 ||
+|
+=1 cro <E A> cro. <E A> qua <A_(1 A(3> cro. <A_)1 A)3> rest
+r0.5 .01 how .17 you .41 try
+=2' cro rest <C# G c> qua rest cro <E A> qua rest min A
+=2, min. blank cro blank cro. D qua Cn
+=3' cro A_ qua rest cro A qua C cro C# qua E cro F# qua E
+|
+=1 cro <E A> cro. <E A> qua <A_(1 G(3> cro <A_)1 G)3> qua B_ cro. D
+r0.6 .01 you .17 can't .41 buy , .66 you  can't
+r0.3 .01 you .17 will .41 find , .66 you  don't
+=2' cro rest <C# G c> qua rest cro <E A> qua rest min A
+=2, min. blank cro blank cro D cro Cn
+=3' cro A_ qua rest cro A qua C cro C# qua E cro F qua F#
+|
+=1' cro <F A> qua rest cro <E B> qua rest \
+ cro <D A> qua rest cro <B_ A> qua <D(2 A(1>
+r0.5 .01 get .25 that .50 stuff .75 no .90 more
+=2 cro <A#xr, B, f> qua rest' cro <A#x, B, e> qua rest \
+ cro <E G d'> qua rest cro <E G B'> qua d
+=3 cro G qua rest cro g qua rest cro A qua rest cro a qua rest

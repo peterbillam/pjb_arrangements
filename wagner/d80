@@ -1,0 +1,41 @@
+boundingbox 475 77
+midi channel 1  patch 71 reverb 70 pan 35 # clr
+midi channel 2  patch 68 reverb 70 pan 55 # oboe
+midi channel 3  patch 58 reverb 60 pan 50 # tuba
+midi channel 4  patch 60 reverb 60 pan 20 # hrn1
+midi channel 5  patch 60 reverb 60 pan 80 # hrn2
+midi channel 6  patch 44 reverb 60 pan 80 # vln2
+midi channel 7  patch 44 reverb 60 pan 65 # bass
+midi channel 8  patch 44 reverb 60 pan 50 # vlc
+1 system /27/
+/
+5 bars | 18 | 5 5 5 4 6 5 6 7 | 18 | 2 2 2 2 2 2 2 2 8 8 3 2 3 2 3 2 3 3 | 14 |
+| 4/4 2.4
+=1  treble cha1 vol100 1 leg99 <ebl(2 gb(1>
+#=2 treble cha2 vol90 1 leg99 <ebl(2 gb(1>
+#=3 treble cha5 vol110 1 rest
+|
+=1  2 <eblr)2 gb)1-dim20 > 4. vol90 <db f-dim10> 8 vol80 <cbl eb-dim10>
+r0.2 .01 Sollt' .45 ich .80 auch
+#=2 2 <eblr)2 gb)1-dim40 > 4 vol70 <db f-dim10> rest
+#=3 2 Gb 4. vol-10 F 8 vol-10 Eb
+|
+midi off
+=1 1 vol70 <cblr(2 eb(1-tr>
+r0.2 .19 ster
+midi on
+#=1 83 vol70 eb 16 f  e 163 f e f e f e f e f e f e f e f 16 e 83 f
+#=1 83 vol70 cb 16 db c 163 d c d c d c d c d c d c d c d 16 c 83 d
+#=3 1 Eb(3
+| .6 .7 .8 0.9
+midi off
+=1 2 vol60 <cblr)2 eb)1-dim20> 16-s [<Bb' d'> <cbl' eb'>] \
+ 4. vol50 <B db-dim30> 8 vol40 <Abl, cb>
+r0.2 .01 - .50 bend .82 vergeh'n!
+midi on
+=1 2 vol60 <cblr eb-dim20> 16-s [<Bb' d'> <cbl' eb'>] \
+ 4. vol50 <B db-dim30> 8 vol40 <Abl, cb>
+#=3 2 Eb)3-dim20 4 vol-10 Db-dim30 8 rest Cb
+| 1.5
+=1 2 Bb-dim20
+#=3 2 B_b-dim20

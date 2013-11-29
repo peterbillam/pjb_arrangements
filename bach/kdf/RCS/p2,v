@@ -1,0 +1,199 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	2005.11.05.19.36.05;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	98.10.07.01.15.16;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.10.06.22.26.15;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.10.05.02.18.08;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.10.03.05.21.24;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@generic page 2 blurb for kbd, str4tet etc
+@
+
+
+1.5
+log
+@incorrect "next day" claim removed
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 16
+.pl 11.7i
+.LP
+\&
+.sp 1.0c
+.ce 1
+\f3\s+7Contrapunctus 14\s0\fP
+.sp 1.0c
+.LP
+.nh
+This great final fugue of \f2Die Kunst Der Fuge\fP
+was the piece that Bach left unfinished when he died.
+Some editions number it as \f2Contrapunctus 19\fP or as \f2Contrapunctus 18\fP.
+It is not actually his last composition;
+that honour belongs to the chorale prelude on
+\f2Vor Deinen Thron Tret' Ich Hiermit\fP
+which he dictated to his pupil Altnikol
+before taking leave of his family.
+
+.LP
+.nh
+As Bach left \f2Contrapunctus 14\fP, it is a triple fugue:
+the first exposition starts at bar 1, the second at bar 114,
+and the third, on the notes B-A-C-H, at bar 193.
+Bach had previously been very sparing in the use of the notes of his own name,
+probably not thinking it appropriate to sign his
+life's work before it was complete.
+The three subjects are combined at bar 234,
+just before Bach's manuscript breaks off in bar 239.
+Bach left bar 239 with
+all eight quavers of the tenor,
+the alto and bass with just their first note,
+and with the soprano blank.
+
+.LP
+.nh
+None of the fugue's three subjects is the theme of \f2Die Kunst Der Fuge\fP,
+and the \f2Gesamtaufgabe\fP even suggested that this fugue should not
+be considered to be part of that work.
+In 1880, Gustav Nottebohm pointed out the solution:
+the theme of \f2Die Kunst Der Fuge\fP, with one small rhythmic adjustment,
+fits in counterpoint with the other three subjects.
+This combination can be seen at bar 306 in the current edition.
+Nottebohm's  discovery made it clear
+that the fugue was intended by Bach as a quadruple fugue
+with the theme of \f2Die Kunst Der Fuge\fP as the fourth subject,
+and there have since been several attempts to complete the fugue on this basis.
+
+.LP
+.nh
+The most spectacular completion is that of Ferruccio Busoni in his
+\f2Fantasia Contrappuntistica\fP of 1912,
+which is published by \f2Dover\fP together with the Elegies and Sonatinas.
+Stylistically it is sometimes pure Bach, sometimes pure Busoni,
+and Busoni moves freely and smoothly between these poles,
+demonstrating the unity of the tradition,
+and blurring the boundaries between composition, editing, and performance.
+After an introduction of 201 bars, followed by Bachs' fugue,
+Busoni adds 473 bars of his own,
+particularly favouring the eloquent second subject.
+@
+
+
+1.4
+log
+@use OF the notes
+@
+text
+@d13 1
+d18 3
+a20 3
+that honour belongs to the choral prelude on
+\f2Vor Deinem Thron Tret' Ich Hiermit\fP
+which he dictated the next day to his pupil Altnikol
+d24 1
+d39 1
+d53 1
+@
+
+
+1.3
+log
+@filled out, detailed bar 239 as left by bach
+@
+text
+@d26 1
+a26 1
+Bach had previously been very sparing of the use the notes of his own name,
+@
+
+
+1.2
+log
+@smoothed
+@
+text
+@d13 1
+a13 1
+This great final fugue of \f2The Art of Fugue\fP
+d15 1
+a15 1
+Some editions number it as \f2Contrapunctus 19\fP.
+d18 2
+a19 2
+\f2Vor Deinem Tron Tret Ich Hiermit\fP
+which he dictated the next day to his pupil Altnicol
+d31 4
+d37 1
+a37 1
+None of these three subjects is the theme of \f2The Art of Fugue\fP,
+d39 1
+a39 1
+be considered as part of \f2The Art of Fugue\fP.
+d41 1
+a41 1
+the theme of \f2The Art of Fugue\fP, with one small rhythmic adjustment,
+d46 1
+a46 1
+with the theme of \f2The Art of Fugue\fP as the fourth subject,
+d58 2
+a59 1
+Busoni adds 473 bars, particularly favouring the fluent second subject.
+@
+
+
+1.1
+log
+@first para moved to next page
+@
+text
+@d9 4
+d16 5
+d23 2
+a24 2
+As Bach left it, it is a triple fugue:
+the first exposition starts at bar 1, the second at bar 115,
+d38 6
+a43 6
+fits in counterpoint with the other three subjects,
+as can be seen at bar 306 in the current edition.
+This made it clear that the fugue was intended by Bach as a quadruple fugue,
+with the theme of \f2The Art of Fugue\fP as the fourth subject.
+Since this discovery,
+there have been several attempts to complete the fugue on this basis.
+d51 4
+a54 5
+demonstrating the unity of classical music.
+After an introduction of 120 bars,
+followed by Bachs' fugue,
+Busoni adds 473 bars,
+particularly favouring the fluent second subject.
+@

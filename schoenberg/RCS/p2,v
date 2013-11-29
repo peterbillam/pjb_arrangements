@@ -1,0 +1,179 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2013.05.20.09.43.31;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.19.06.20.41;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.19.04.10.28;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Richard Dehmel's poem and a translation
+@
+
+
+1.3
+log
+@a few typos fixed
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 13
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 1.5c
+.Lp
+.ce 2
+\s+9\f3Verklärte Nacht\fP\s0
+.sp 0.8c
+\f3Gedicht von Richard Dehmel \  (aus "Weib und Welt")\fP
+.sp 0.9c
+.Lp
+.nf
+.ta 9.4c
+Zwei menschen gehn durch kahlen, kalten Hain;	Two people go through bare cold meadow;
+der Mond läuft mit, sie schaut hinein.	the moon walks with them, and looks in.
+Der Mond läuft über hohe Eichen	The moon walks over tall oak-trees
+kein Wölkchen trübt das Himmelslicht,	no cloud veils the moonlight,
+in das die schwarzen Zacken reichen.	in which the black tree-tops reach up.
+Die Stimme eines Weibes spricht :	A woman's voice speaks :
+.sp 0.5c
+Ich trag ein Kind, und nit von Dir	I carry a child, and not yours
+ich geh in Sünde neben Dir.	I walk in sin beside you.
+Ich hab mich schwer an mir vergangen.	I have done myself great harm.
+Ich glaubte nicht mehr an ein Glück	I no longer thought I could find happiness
+und hatte doch ein schwer Verlangen	and yet I had a heavy need
+nach Lebensinhalt, nach Mutterglück	for the substance of life, for mother's joy
+und Pflicht; da hab ich mich erfrecht,	and duty; then I made myself bold,
+da liess ich schaudernd mein Geschlecht	and, shuddering, let my sex
+von einem fremden Mann umfangen,	be grasped by an unknown man,
+und hab mich noch dafür gesegnet.	and even counted myself as blessed.
+Nun hat das Leben sich gerächt:	Now life has taken its revenge:
+nun bin ich Dir, o Dir begegnet.	now I have found you, o you.
+.sp 0.5c
+Sie geht mit ungelenkten Schritt.	She walks with lost and awkward step.
+Sie schaut empor; der Mond läuft mit.	She glances up; the moon walks with them.
+Ihr dunkler Blick ertrinkt in Licht.	Her sombre face drowns in its light.
+Die Stimme eines Mannes spricht :	A man's voice speaks :
+.sp 0.5c
+Das Kind das Du empfangen hast,	The child that you have conceived,
+sei Deiner Seele keine Last.	may it not burden your mind.
+O sieh, wie klar das Weltall schimmert !	See, how clearly shines the universe!
+Es ist ein Glanz um Alles her,	A brilliance surrounds all.
+Du treibst mit mir auf kaltem Meer,	You voyage with me on a cold sea,
+doch eine eigne Wärme flimmert	and yet some points of warmth glimmer
+von Dir in mich, von mir in Dich.	of you in me, of me in you.
+Die wird das fremde Kind verklären	They will transfigure this stranger's child
+Du wirst es mir, von mir gebären ;	you will bear it for me, from me ;
+Du hast den Glanz in mich gebracht,	You have have brought a brilliance to me,
+Du hast mich selbst zum Kind gemacht.	You have made me too a child.
+.sp 0.5c
+Er fasst sie um die starken Hüften.	He held her by her strong hips.
+Ihr Atem küsst sich in den Lüften.	Their breaths kissed in the breeze.
+Zwei Menschen gehn durch hohe, helle Nacht.	Two people walk through high bright night.
+.fi
+@
+
+
+1.2
+log
+@translation literal but plausible
+@
+text
+@d23 1
+a23 1
+Zwei menschen gehn durch kahlen, kalten Hain:	Two people go through bare cold meadow:
+d28 1
+a28 1
+Die Stimme eines Weibes spricht:	A woman's voice speaks :
+d40 1
+a40 1
+Nun hat das Leben sich gerächt:	Now life has taken its revenge,
+d43 1
+a43 1
+Sie gehn mit ungelenkten Schritt.	They walk with stiff and awkward step.
+d46 1
+a46 1
+Die Stimme eines Mannes spricht:	A man's voice speaks :
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d13 1
+a13 1
+.sp 1.0c
+d17 1
+a17 1
+.sp 0.5c
+d19 1
+a19 1
+.sp 0.6c
+d22 3
+a24 3
+.ta 9.5c
+Zwei menschen gehn durch kahlen, kalten Hain:	Two folk go through a bare cold meadow
+der Mond läuft mit, sie schaut hinein.	the moon walks with them , and looks in.
+d27 1
+a27 1
+in das die schwarzen Zacken reichen.	in which the black twigs reach up.
+d29 1
+a29 1
+.sp 0.3c
+d32 6
+a37 6
+Ich hab mich schwer an mir vergangen.
+Ich glaubte nicht mehr an ein Glück	I no longer thought I would find happiness
+und hatte doch ein schwer Verlangen
+nach Lebensinhalt, nach Mutterglück
+und Pflicht; da hab ich mich erfrecht,
+da liess ich schaudernd mein Geschlecht	and let my sex
+d42 2
+a43 2
+.sp 0.3c
+Sie gehn mit ungelenkten Schritt.	They walk with
+d45 3
+a47 3
+Ihr dunkler Blick ertrinkt in Licht.	Her darkened face drowns in its light.
+Die Stimme eines mannes spricht:	A man's voice speaks :
+.sp 0.3c
+d50 1
+a50 1
+o sieh, wie klar das Weltall schimmert !	See, how clearly shines the universe!
+d55 2
+a56 2
+Die wird das fremde Kind verklären
+Du wirst es mir, von mir gebären;	you will bear it for me, from me.
+d59 1
+a59 1
+.sp 0.3c
+d62 1
+a62 1
+Zwei Menschen gehn durch hohe, helle Nacht.	Two folk go through the high bright night.
+@

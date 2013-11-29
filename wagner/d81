@@ -1,0 +1,63 @@
+boundingbox 400 136
+midi channel 1  patch 71 reverb 70 pan 35 # clr
+midi channel 2  patch 68 reverb 70 pan 55 # oboe
+midi channel 3  patch 58 reverb 60 pan 50 # tuba
+midi channel 4  patch 60 reverb 60 pan 50 # hrn
+midi channel 5  patch 44 reverb 60 pan 20 # vln
+midi channel 6  patch 44 reverb 60 pan 80 # vln2
+midi channel 7  patch 44 reverb 60 pan 65 # bass
+midi channel 8  patch 44 reverb 60 pan 80 # vlc
+2 systems 4 /27 7/27/
+/
+5 bars | 3b 3/4 7 | 8 8 10 | 4 4 4 4 7 6 | 20 | 14 10 10 |
+| 1/8 0.35
+I0.5 .01 Siegmund
+=1  treble8vab 3b 3/4 cha4 vol110 8 A
+r0.2 .50 Nun
+#=2 treble     3b 3/4 cha5 vol40 1 leg99 
+#=3 bass       3b 3/4 cha8 vol40 1 leg99
+| 3/4 1.8
+=1  2 leg95 db 4 leg75 A
+r0.2 .01 weißt .67 du,
+#=2 2. <F_(2 A_b(4 Db(1>
+#=3 2. <Db(2 db(1>
+|
+=1 2 leg95 A 8 [G leg85 A]
+r0.2 .05 fragende
+#=2 2. <F_)2 A_b)4(4 Db)1>
+#=3 2. <Db)2 db)1>
+|
+=1 2. c
+r0.2 .01 Frau,
+#=2 2. <E_ A_b)4 C(1>
+#=3 2 2. <A_b Ab>
+| 1.5
+=1 8 rest leg95 c 4 leg80 c c
+r0.2 .11 warum  ich
+#=2 2. vol50 <D_n B_b C)1-cre40>
+#=3 2. vol50 <G_ G-cre40>
+/
+5 bars | 3b 20 | 20 | 18 | 21 | 20 |
+|
+=1 2. leg99 vol125 e
+r0.1 .31 Friedmund
+#=2 2. <E_b A_b(2 C(1 Eb>
+#=3 2. <F_(2 F(1>
+|
+=1 2. vol-10 d
+#=2 2. <D_ A_b)2 C)1 D-dim40>
+#=3 2. <F_)2 F)1-dim40>
+|
+=1 2. rest
+#=2 4 vol-15 <E_ G_ C> 2 rest
+#=3 4 vol-15 <G_ G> 2 rest
+|
+=1 2. leg80 vol85 Bn'
+r0.1 .01 nicht
+#=2 4 vol-15 <D_ G_ B_n> 2 rest
+#=3 4 vol-15 <G_ G> 2 rest
+| 1.2
+=1 4 d c
+r0.1 .01 heiße!
+#=2 2 <E_ C>
+#=3 2 <C_ C>

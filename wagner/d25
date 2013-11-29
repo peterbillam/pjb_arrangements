@@ -1,0 +1,87 @@
+boundingbox 470 240
+midi channel 0  patch 44 reverb 60 pan 14
+midi channel 1  patch 44 reverb 60 pan 58
+midi channel 2  patch 44 reverb 60 pan 86
+midi channel 3  patch 74 reverb 60 pan 46 # fl
+midi channel 4  patch 68 reverb 60 pan 72 # ob
+midi channel 5  patch 69 reverb 60 pan 78 # coa
+midi channel 6  patch 71 reverb 60 pan 20 # clr
+midi channel 7  patch 70 reverb 60 pan 75 # bsn
+midi channel 8  patch 60 reverb 60 pan 38 # hrn
+midi channel 10 patch 46 reverb 60 pan 06 # hrp
+midi channel 11 patch 56 reverb 60 pan 64 # trp
+midi channel 12 patch 57 reverb 60 pan 94 # trb
+##1 system /27-25-27-25-27-25-27-25-27-25-27-25-27-25-27-25-27-25-27-25-27/
+2 system 15 /27-25-27 25/ 27-27-27/
+/
+3 bars | 40 | 96 | 96 |
+| 4/4 4.0
+midi off
+=1, treble 2. <E G B e g b>
+=2' bass   4 blank 2. rest
+midi on
+#=4  treble cha4 leg100 vol100 2. <e-dim40 b>
+#=6  treble cha6 leg100 vol100 2. <e-dim40 g b>
+#=8  treble cha8 leg100 vol100 2. <E-dim40 G B>
+|
+midi off
+=1  2 blank 163-s [C E G] [c e g]
+=1, 2. <c e g c~(1>
+=2' 2. <C(1 c e g> 
+=2' 4 blank 8 rest' 163-s [c e g] 4 blank
+midi on
+#=3   treble cha3  leg100 vol75 2. <c-cre27  e g c~>
+#=11  treble cha11 leg100 vol65 2. <E_-cre27 G_ C>
+#=12  bass   cha12 leg100 vol65 2. <C-cre27  c>
+#=10  bass   cha10 leg180 vol125 4. blank 32 [C E G c] [e g] treble [C E G c e g]
+|
+midi off
+=1  4 blank 163-s [G c' C E G c'] [e g c e g c~]
+=1, 2. <c e g c~)1>
+=2' 2. <C)1 c e g>   
+=2' 8 blank 163-s [g c~ e~] 2 blank treble
+midi on
+#=3  vol100 2. <c-dim40  e g c~>
+#=4  vol95 2. <c-dim40  e g c~>
+#=5  treble vol95 leg100 2. <c-dim40  e g c~>
+#=7  bass vol100 leg100 2. <c-dim45 e g>
+#=11 vol95 2. <E_-dim45 G_ C>
+#=12 vol95 2. <C-dim45  c> 
+#=10 vol125 163 rest [C_ E_ G_ C E] [G c C E G c] [e g G] 32 [c e g c~]
+
+/
+3 bars | 96 | 50 | 80 |
+|
+midi off
+=1, treble8va 16-s [<G c> <B d> <c e> <B f>] \
+ [<c g> <B d> <c e> <B f>] [<c g> <B d> <c e> <B f>]
+=2, 16-s [<c e> <f a> <e g> <d f>] \
+ [<c e> <f a> <e g> <d f>] [<c e> <f a> <e g> <d f>]
+midi on
+#=3  vol70 2. <c-dim40  e g c~>
+#=8  treble vol60 2. <C-dim40 G c>
+#=10 treble8va vol100 16-s [<G c> <B d> <c e> <B f>] [<c g> vol-20 <B d> <c e> <B f>] [<c g> vol-20 <B d> <c e> <B f>]
+#=10 treble vol100 16-s [<c e> <f a> <e g> <d f>] [<c e> vol-20 <f a> <e g> <d f>] [<c e> vol-20 <f a> <e g> <d f>]
+| 4.6
+midi off
+=1, 2. <c f#-tr> 16-s [e# blank f]
+=2, 2. d#-tr 16-s [c## blank d]
+midi on
+#=1 treble cha0 vol60 32 f~# g~ f~# g~ f~# g~ f~# g~ f~# g~ f~# g~ \
+ f~# g~ f~# g~ f~# g~ f~# g~ f~# g~ f~# g~ \
+ f~# g~ f~# g~ f~# g~ f~# g~ f~# g~ f~# g~ \
+ f~# g~ f~# g~ f~# g~ f~# g~ f~# g~ e~# f~#
+#=1 treble cha1 vol50 32 d# e d# e d# e d# e d# e d# e \
+ d# e d# e d# e d# e d# e d# e \
+ d# e d# e d# e d# e d# e d# e \
+ d# e d# e d# e d# c## d#
+#=2 treble cha2 vol50 2. c~
+#=3  vol40 2. <c e g c~>
+| 1.8 2.2 1.4
+midi off
+=1, 8 [<c g> <e g c~>] rest <g c~ e~> 4 rest-fermata
+=2, 8 <c e> rest <c e g c~> rest <g c~ e~> rest-fermata
+midi on
+#=1  treble8va 8 [<c g> <e g c~>] rest <g c~ e~> 4 rest
+#=2  8 <c e> rest 2
+#=10 vol50 8 rest rest <G c e g c~> vol-10 rest <e g c~ e~> rest

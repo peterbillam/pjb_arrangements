@@ -1,0 +1,215 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2010.06.23.21.48.26;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Samba D'Orphee (Bonfa) transcribed
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@6 systems 30 / 20 / 20 / 20 / 20 / 20 / 20 20/
+pagenum
+title samba d'orphee
+innerhead Luiz Bonfa
+midi channel 0 patch 24 pan 65
+midi channel 1 patch 24 pan 35
+/
+4 bars | 3# 2/4 48 | 48 | 48 | 48 |
+| 2/4 80
+=1' treble8vab 3# 2/4 cha0 8 [<F B e> <F B e>] 16 [<F B e> 8 <F B e> 16 <F B e>]
+=1, treble8vab 3# 2/4 cha1 4 A_ E_
+|
+=1' cha0 16 rest 8 [<F B e> 16 <F(2 B(3 e(1>] 16 [<F)2 B)3 e)1> 8. <F B e>]
+=1, cha1 4 A_ 8. [E_ 16 A_(2]
+|
+=1' cha0 8 [<F B e> <F B e>] 16 [<F B e> 8 <F B e> 16 <F B e>]
+=1, cha1 4 A_)2 E_
+|
+=1' cha0 16 rest 8 [<F B e> 16 <F(2 B(3 e(1>] 16 [<F)2 B)3 e)1> 8. <F B e>]
+=1, cha1 4 A_ 8. [E_ 16 A_(2]
+/
+4 bars | 48 | 48 | 6 6 6 6 8 6 6 6 | 48 |
+|
+=1' cha0 8 [<F B e> <F B e>] 16 [<F B e> 8 <F B e> 16 <F B e>]
+=1, cha1 4 A_)2 E_
+|
+=1' cha0 16 rest 8 [<F B e> 16 <F(2 B(3 e(1>] 16 [<F)2 B)3 e)1> 8. <F B e>]
+=1, cha1 4 A_ 8. [E_ 16 A_(2]
+|
+=1' cha0 8 [<F B e> <F B e>] 16 [<E A d-emph> 8 <E# A# d#-emph> 16 <F B e-emph>]
+=1, cha1 4 A_)2 16 [G_n 8 G_# 16 A_n]
+|
+=1' cha0  8. rest 16 A [c 8 e 16 g(1]
+=1, cha1 1 rest,,
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8 [g)1 <A c>] 16 rest 8 [<A c> 16 <A(2 c(3 g(1>]
+=1, cha1 4 A_ E_
+|
+=1' cha0 16 [<A)2 c)3 g)1> 8 <A c f> 16 <G(2 c(3 e(1>] \
+ 16 [<G)2 c)3 e)1> 8 <G c> 16 <E(2 G(1>]
+=1, cha1 4 A_ E_
+|
+=1' cha0 8 [<E)2 G)1> <E G>] 16 rest 8 [<E G> 16 <E(2 G(1>]
+=1, cha1 4 A_ E_
+|
+=1' cha0 16 [<E)2 G)1> 8 <F A> 16 <G(2 c(1>] 16 [<G)2 c)1> 8. e]
+=1, cha1 4 A_ 8. [E_ 16 A_(2]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8. [<A c g> 16 <A c g>] 16 rest 8 [<A c g> 16 <B(4 e(3 g(1>]
+=1, cha1 4 A_)2 4 A_
+|
+=1' cha0 16 [<B)4 e)3 g)1> 8 <B f> 16 <A#(2 e(1>] 16 [<A)2 e)1> 8. <A c>]
+=1, cha1 4 C 8. [E_ 16 B_(6]
+|
+=1' cha0 8 [<F An e> <D(4 A(2 Bx(1>] \
+ 16 [<D)4 A)2 Bx)1> 8 <D A Bx> 16 <D(4 G#(2 B(1>]
+=1, cha1 4 B_)6 B_
+|
+=1' cha0 16 [<D)4 G#)2 B)1> 8 <D G B> 16 <D(2 G(3 d(1>] \
+ 16 [<D)2 G)3 d)1> 8. <G d f>]
+=1, cha1 4 E_ 8. [E_ 16 B_(6]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8 [<A d a> <A(2 d(1>] 16 [<A)2 d)1> 8 <A d> 16 <A#(4 d(3 a(1>]
+=1, cha1 4 B_)6 B_
+|
+=1' cha0 16 [<A)4 d)3 a)1> 8 <A# d f> 16 <E(4 A(3 d(1>] \
+ 16 [<E)4 A)3 d)1> 8 <E A c> 16 <D(4 An(2 Bx(1>]
+=1, cha1 4 F_ F_
+|
+=1' cha0 8 [<D)4 A)2 Bx)1> <D A>] 16 rest 8 [<D A> 16 <D(4 A(2 Bx(1>]
+=1, cha1 4 B_ B_
+|
+=1' cha0 16 [<D)4 A)2 Bx)1> 8 <D A d> 16 <A(2 Bx(3 f(1>] \
+ 16 [<A)2 Bx)3 f)1> 8. a]
+=1, cha1 4 B_ 8. [B_ 16 E_(6]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8. [<B d g> 16 <B d g>] 16 [<B d g> 8 <B d g> 16 <B(4 d(3 g(1>]
+=1, cha1 4 E_)6 E_
+|
+=1' cha0 16 [<B)4 d)3 g)1> 8 <B d ex> 16 <cn(2 e(3 g(1>] \
+ 16 [<c)2 e)3 g)1> 8. <c e fx>]
+=1, cha1 4 E_ 8. [E_ 16 A_(6]
+|
+=1' cha0 8 [<E g c> <E g c>] 16 rest 8 [<E g c> 16 <D G cn-emph>]
+=1, cha1 4 A_)6 8. [A_ 16 E_-emph,]
+|
+=1' cha0  8. rest 16 A [c 8 e 16 g(1]
+=1, cha1 1 rest,,
+
+6 systems 30 / 20 / 20 / 20 / 20 / 20 / 20 20/
+pagenum
+innerhead samba d'orphee,   Luiz Bonfa
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8 [g)1 <A c>] 16 rest 8 [<A c> 16 <A(2 c(3 g(1>]
+=1, cha1 4 A_ E_
+|
+=1' cha0 16 [<A)2 c)3 g)1> 8 <A c f> 16 <G(2 c(3 e(1>] \
+ 16 [<G)2 c)3 e)1> 8 <G c> 16 <E(2 G(1>]
+=1, cha1 4 A_ E_
+|
+=1' cha0 8 [<E)2 G)1> <E G>] 16 rest 8 [<E G> 16 <E(2 G(1>]
+=1, cha1 4 A_ E_
+|
+=1' cha0 16 [<E)2 G)1> 8 <F A> 16 <G(2 c(1>] 16 [<G)2 c)1> 8. e]
+=1, cha1 4 A_ 8. [E_ 16 A_(2]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8. [<A c g> 16 <A c g>] 16 rest 8 [<A c g> 16 <B(4 e(3 g(1>]
+=1, cha1 4 A_)2 4 A_
+|
+=1' cha0 16 [<B)4 e)3 g)1> 8 <B f> 16 <A#(2 e(1>] 16 [<A)2 e)1> 8. <A c>]
+=1, cha1 4 C 8. [E_ 16 B_(6]
+|
+=1' cha0 8 [<F An e> <D(4 A(2 Bx(1>] \
+ 16 [<D)4 A)2 Bx)1> 8 <D A Bx> 16 <D(4 G#(2 B(1>]
+=1, cha1 4 B_)6 B_
+|
+=1' cha0 16 [<D)4 G#)2 B)1> 8 <D G B> 16 <D(2 G(3 d(1>] \
+ 16 [<D)2 G)3 d)1> 8. <G d f>]
+=1, cha1 4 E_ 8. [E_ 16 B_(6]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8 [<A d a> <A(2 d(1>] 16 [<A)2 d)1> 8 <A d> 16 <A#(4 d(3 a(1>]
+=1, cha1 4 B_)6 B_
+|
+=1' cha0 16 [<A)4 d)3 a)1> 8 <A# d f> 16 <E(4 A(3 d(1>] \
+ 16 [<E)4 A)3 d)1> 8 <E A c> 16 <D(4 An(2 Bx(1>]
+=1, cha1 4 F_ F_
+|
+=1' cha0 8 [<D)4 A)2 Bx)1> <D A>] 16 rest 8 [<D A> 16 <D(4 A(2 Bx(1>]
+=1, cha1 4 B_ B_
+|
+=1' cha0 16 [<D)4 A)2 Bx)1> 8 <D A d> 16 <A(2 Bx(3 f(1>] \
+ 16 [<A)2 Bx)3 f)1> 8. a]
+=1, cha1 4 B_ 8. [B_ 16 E_(6]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8. [<B d g> 16 <B d g>] 16 [<B d g> 8 <B d g> 16 <B(4 d(3 g(1>]
+=1, cha1 4 E_)6 E_
+|
+=1' cha0 16 [<B)4 d)3 g)1> 8. <B d ex>] 8 [<d f c~> <d fn b>]
+=1, cha1 4 E_ 8 [A G]
+|
+=1' cha0 8 [<B e a> <F B e>] 16 rest 8. <F B e>
+=1, cha1 4 A_ 8. [A_ 16 A_]
+|
+=1' cha0 8 <B e a-emph> rest' [<c e a> <cn ebl ab>]
+=1, cha1 8 F-emph, rest, [F Fn]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' cha0 8 [<B d gn> <Gn d>] 16 rest 8 [<E G d> 16 <E G>]
+=1, cha1 4 E E_
+|
+=1' cha0 16 rest 8 [<E Gn c> 16 <E(2 G(3 d(1>] [<E)2 G)3 d)1> 8. <G c e>]
+=1, cha1 4 A_ 8. [A_ 16 D(6]
+|
+=1' cha0 4 <A c f> 8 [A A#]
+=1, cha1 4 D)6 D
+|
+=1' cha0 8. [B 16 <c f>] rest 8 [B 16 <A(2 cnl(3 fn(1>]
+=1, cha1 4 D D
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+=1' cha0 8 [<A)2 cnl)3 fn)1> <A cn>] 16 rest 8 [<A c> 16 <Fn(2 A(4 Bx(1>]
+=1, cha1 4 D D
+|
+=1' cha0 16 [<F)2 A)4 Bx)1> 8 <Fn A Bx> 16 <B(2 d(3 a(1>] \
+ 16 [<B)2 d)3 a)1> 8. <B d gn>]
+=1, cha1 4 G_ 8. [F 16 C#(2]
+|
+=1' cha0 16 [<B e> 8 <B e> 16 <A# c f>] 16 rest 8. <A c f>
+=1, cha1 4 C)2  8. [F_ 16 B_(2]
+|
+=1' cha0 16 [<F An d> 8 <F A d> 16 <Abl cn e>] 16 rest 8. <A c e>
+=1, cha1 4 B_)2  8. [B_b 16 A_(2]
+@

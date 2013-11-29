@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+my $started = 0;
+while (<>) {
+	if ($started) { print; }
+	if (/^%\s*start/) { $started = 1; }
+	if (/^%\s*stop/)  { exit; }
+}

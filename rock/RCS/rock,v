@@ -1,0 +1,964 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2004.11.20.00.46.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Two-Time Org arrangements
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@8 systems 10 / 19 / 19 / 19 / 19-22-19 / 19 / 19-22-19 /
+title Glycerine
+/
+8 bars | 1b 4/4 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 ||
+|
+i0.8 .10 just distorted Gtr
+=1 treble 1b 4/4 qua-s [F F F] [F F F] [F F]
+il0.1 .03 F
+|
+il0.1 .03 C
+=1 smb blank
+|
+il0.1 .03 Dm
+=1 smb blank
+|
+il0.1 .03 Bb
+=1 smb blank
+|
+il0.1 .03 F
+=1 smb blank
+|
+il0.1 .03 C
+=1 smb blank
+|
+il0.1 .03 Dm
+=1 smb blank
+|
+il0.1 .03 Bb
+=1 smb blank
+/
+8 bars | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+il0.1 .03 F
+=1 smb blank
+i0.2 .10 plus Voice
+|
+il0.1 .03 C
+=1 smb blank
+|
+il0.1 .03 Dm
+=1 smb blank
+|
+il0.1 .03 Bb
+=1 smb blank
+|
+il0.1 .03 F
+=1 smb blank
+|
+il0.1 .03 C
+=1 smb blank
+|
+il0.1 .03 Dm
+=1 smb blank
+|
+il0.1 .03 Bb
+=1 smb blank
+/
+8 bars | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+il0.1 .03 F
+=1 smb blank
+|
+il0.1 .03 C
+=1 smb blank
+|
+il0.1 .03 Dm
+=1 smb blank
+|
+i0.8 .60 plus Organ
+il0.1 .03 Bb
+=1 smb blank
+|
+il0.1 .03 F
+=1 smb <C(2 F(1>
+|
+il0.1 .03 C
+=1 smb <C)2(2 F)1(1>
+|
+il0.1 .03 Dm
+=1 smb <C)2(2 F)1(1>
+|
+il0.1 .03 Bb
+=1 smb <C)2 F)1> bass
+/
+8 bars | 1b 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 ||
+|
+i0.2 .10 Celli
+=1 treble 1b smb rest
+=2 bass 1b smb f
+|
+=1' min. c cro B'
+=2, min e c
+|
+=1' smb A
+=2, min d A
+|
+=1' min B c
+=2, smb B
+|
+il0.1 .03 F
+=1 smb rest
+=2 smb rest
+|
+il0.1 .03 C .41 Bb
+=1 smb blank
+|
+il0.1 .03 F
+=1 smb blank
+|
+il0.1 .03 C .41 Bb
+=1 smb blank
+/
+8 bars | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+il0.1 .03 F
+i0.1 .53 1m 20s
+=1 smb blank
+i0.2 .10 plus Bass
+|
+il0.1 .03 C
+=1 smb blank
+|
+il0.1 .03 Dm
+=1 smb blank
+|
+il0.1 .03 Bb
+=1 smb blank
+|
+il0.1 .03 F
+=1 smb blank
+|
+il0.1 .03 C
+=1 smb blank
+|
+il0.1 .03 Dm
+=1 smb blank
+|
+il0.1 .03 Bb
+=1 smb blank
+/
+8 bars | 1b 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+i0.2 .10 Celli
+=1 treble 1b smb blank
+=2 bass 1b  smb F
+|
+=2 smb c
+|
+=2 smb d
+|
+=2 smb B
+|
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+/
+8 bars | 1b 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+=1 smb rest
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+|
+=1 smb rest
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+/
+8 bars | 1b 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+il0.1 .03 F
+=1 smb rest
+=2 smb f
+|
+il0.1 .03 C .41 Bb
+=1 smb rest
+=2 cro e c min d'
+|
+il0.1 .03 F
+=1 smb rest
+=2 smb f
+|
+il0.1 .03 C .41 Bb
+=1 smb rest
+=2 cro e c min d'
+|
+=1 smb rest
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+
+7 systems 10/ 19-22-19/19-22-19/19-29-19/19-22-19/19-22-19/19-22-19/19-29-19/
+/
+8 bars | 1b 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+=1 smb rest
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+|
+=1 smb rest
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+i0.4 .01 Fuzz Gtr
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+/
+8 bars | 1b 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 ||
+|
+=1 smb rest
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+|
+=1 smb rest
+=2 smb f
+|
+=1 min. c cro B
+=2 min e c
+|
+=1 smb A
+=2 min d' A
+|
+=1 min B c
+=2 smb B
+/
+6 bars | 16 | 16 | 16 | 16 | 16 | 16 ||
+|
+i0.8 2m 58s
+=1' qua [f e] min. d(1
+=1, qua [F F F F] [F F F F]
+I0.4   p
+=2 smb d
+i0.3 just Org & Bass; Gtr quavers on D harmonic
+|
+=1' min. d)1 qua [e f]
+=1, qua [F F F F] [F F F F]
+=2, qua [B g f e] [f e d e]
+|
+=1' min. e cro c
+=1, qua [F F F F] [F F F F]
+=2' min d A
+|
+=1' smb d
+=1, qua [F F F F] [F F F F]
+=2 qua [B c B A] [B A B c]
+|
+=1' qua [f e] min. d
+=1, qua [F F F F] [F F] cro blank
+=2' min. blank qua [f~ f~]
+=2 smb d
+|
+=1 qua [a g] min. f
+=2' qua [f~ f~ f~ f~] [f~ f~ f~ f~]
+=2 smb f
+/
+8 bars | 16 |
+|
+i0.5   Org
+=1 qua [f e] min. d(1
+I0.4   p
+=2 smb blank
+i0.3 just distorted Gtr and Voice
+|
+=1 min. d)1 qua [e f]
+|
+=1 min. e cro c
+|
+=1 smb d
+|
+=1 qua [f e] min. d
+|
+=1 qua [a g] min. f
+=2 min. c~ cro b
+|
+=2 smb a
+|
+=2 min. b c~
+/
+8 bars | 16 |
+|
+=1 smb blank
+=2 smb a
+|
+=2 min. c~ cro b
+|
+=2 smb a
+|
+=2 min. b c~
+|
+=1 smb blank
+=2 smb a
+|
+=2 min. c~ cro b
+|
+=2 smb a
+|
+=2 min. b c~
+/
+8 bars | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 ||
+|
+=1 smb blank
+=2 smb f
+|
+=2 cro e c min d'
+|
+=2 smb f
+|
+=2 cro e c min d'
+|
+=2 smb f
+|
+=2 cro e c min d'
+|
+=2 smb f
+|
+=2 cro e c min d'
+/
+6 bars | 16 | 16 | 16 | 16 | 16 | 16 ||
+|
+i0.8 4m 08s
+=1 smb blank
+I0.5 .01 (Big Gliss Down)
+=2 smb blank
+|
+=1 min C B_n
+=2 min f# g
+|
+=1 smb B_n
+=2' min blank ab(1
+=2, min gb f
+|
+=1 min B_b Eb
+=2' min ab)1 gb
+=2, min f ebl
+|
+=1 smb B_n
+=2' smq blank smb abrl(1
+=2, smq blank min gbl f
+|
+=1 min B_b Eb-fermata
+=2' min ab)1 gb-fermata
+=2, min f ebl
+
+
+
+
+
+
+7 systems 10 / 19-25-19 / 
+title Dreams
+/
+4 bars | 4/4 16 | 16 | 16 | 16 |
+|
+=1 treble 4/4 smb blank
+=2, bass 4/4 cro rest' qua <f a c~ e~> rest' \
+ rest' [<f a c~ e~> rest' <g(2 b d~x e~(1>]
+|
+=1 smb blank
+=2 min. <g)2 b d~x e~)1> cro rest'
+|
+
+7 systems 10 / 19-25-19 / 
+title Love The One You're With
+/
+4 bars | 2# 4/4 16 | 16 | 16 | 16 ||
+|
+i0.4 .60 Org
+=1 treble 1# 4/4 min. blank cro d~(1
+=1, 2# 4/4 cro rest qua3 [<G B> qua3. <G B-I3> smq3 <G B>] cro <F A> rest,
+i0.8 .10 Gtr
+=2, bass 2# 4/4 qua [d smq d~ d~] qua [d smq d~ d~] \
+ qua [d smq d~ d~] [d d~ d~ d~]
+|
+=1 min d~)1(1 qua [d~')1 smq b' a'] [a' qua. b']
+=1, cro rest, qua3 [<E G> qua3. <E G-I3,> smq3 <E G>] cro <D F> rest,
+=2 smb// d
+i0.1 .01 simile . . .
+|
+=1' smq-s a qua b cro. a(1 qua [a)1 <e g>] cro <d f#>
+=1, cro rest qua3 [<G B> qua3. <G B-I3,> smq3 <G B>] cro <F A> rest,
+=2 smb// d
+|
+=1 qua rest' min. d~ qua rest
+=1, cro rest, qua3 [<E G> qua3. <E G-I3,> smq3 <E G>] cro <D F> rest,
+=2 smb// d
+/
+4 bars ||: 4 5 4 4 |
+|
+=1' cro rest qua3 [<G B> qua3. <G B-I3> smq3 <G B>] cro <F A> rest
+=2 smb// d
+|
+=1 cro rest qua3 [<E G> qua3. <E G-I3> smq3 <E G>] cro <D F> rest
+=2 smb// d
+|
+=1' cro rest qua3 [<G B> qua3. <G B-I3> smq3 <G B>] cro <F A> rest
+=2 smb// d
+|
+=1 cro rest qua3 [<E G> qua3. <E G-I3> smq3 <E G>] cro <D F> rest
+=2 smb// d
+/
+4 bars | 4 5 4 4 |
+|
+=1' cro rest qua3 [<G B> qua3. <G B-I3> smq3 <G B>] cro <F A> rest
+=2 smb// d
+|
+=1 cro rest qua3 [<E G> qua3. <E G-I3> smq3 <E G>] cro <D F> rest
+=2 smb// d
+|
+=1' cro rest qua3 [<G B> qua3. <G B-I3> smq3 <G B>] cro <F A> rest
+=2 smb// d
+|
+=1 cro rest qua3 [<E G> qua3. <E G-I3> smq3 <E G>] cro <D F> rest
+=2 smb// d
+/
+5 bars | 16 | 16 | 16 | 16 |
+|
+=1 smb blank
+=2' min <b d~> <a c#~>
+=2, min b a
+|
+=1 smb blank
+=2' smb <g b>
+=2, min. g cro a
+|
+=1 smb blank
+=2' min <b d~> <a c#~>
+=2, min b a
+|
+=1 smb blank
+=2' smb <g b>
+=2, min. g cro a
+|
+=1 smb blank
+=2' min <b d~> <a c#~>
+=2, min b a
+/
+4 bars | 16 | 16 | 16 | 16 |
+|
+=1 min rest' qua [<g b> smq <g b>] qua [<g b> smq <g b>] qua <a d~>
+=2' min. <g b> cro rest
+=2, min. g cro blank
+|
+=1 min rest' qua [<g b> smq <g b>] qua [<g b> smq <g b>] qua <a d~>
+|
+=1 min rest' qua [<g b> smq <g b>] qua [<g b> smq <g b>] qua <a d~>
+|
+=1 min rest' qua [<g b> smq <g b>] qua [<g b> smq <g b>] qua <a d~>
+/
+4 bars | 12 :|| 16 | 16 |
+|
+rl1.0 .01 __________
+bl0.2 .01 1
+=1 smb blank
+=2 smb blank
+|
+rl1.0 .01 ____________
+bl0.2 .01 2
+=1' smq [<A cn> <G B> rest <A c>] rest [<G B> rest <A c>] \
+ rest [<G B> rest <A d>] <A d> qua. rest
+|
+=1' smq [<A cn> <G B> rest <A c>] rest [<G B> rest <A c>] \
+ rest [<G B> rest <A d>] <A d> qua. rest
+|
+=1' smq [<A cn> <G B> rest <A c>] rest [<G B> rest <A c>] \
+ rest [<G B> rest <A d>] <A d> qua. rest
+/
+4 bars | 16 | 16 | 16 | 16 |
+|
+=1' min blank qua rest'' cro. d~(1
+=1, smq [<A d> <A d> <A d>] rest qua rest smq [<A d> <A d>] \
+ <A d> qua. rest, cro rest
+|
+=1 min d~)1
+
+
+7 systems 10 / 19-23-19 /
+title Gimme Some Loving
+/
+5 bars | 1# 4/4 8 | 8 |
+|
+i0.1 .75 Tamb
+=1 treble 1# 4/4 min. blank qua-s B' blank
+=2 bass8vab 1# 4/4 qua [g g g g] g rest G rest
+|
+=1 min. blank qua-s B' blank
+=2 qua [g g g g] g rest G rest
+|
+=1 min. blank qua-s B' blank
+=2 qua [g g g g] g rest G rest
+|
+=1 min. blank qua-s B' blank
+=2 qua [g g g g] g rest G rest
+|
+i0.1 .25 Tamb .75 Tamb
+=1 cro blank qua-s B' blank cro blank qua-s B' blank
+i0.4 .03 HiH .25 Tom .50 HiH .75 BigTom
+=2 qua [g g g g] g rest G rest
+/
+5 bars | 8 | 8 | 8 ||: 8 | 8 |
+|
+=1 smb blank
+=2 qua [g g g g] g rest G rest
+|
+=1 smb blank
+=2 qua [g g g g] g rest G rest
+|
+=1 smb blank
+=2 qua [g g g g] g rest G rest
+|
+=1 smb <D(3 F(1>
+I0.7 .02 Org, distorted
+=2 qua [g g g g] g rest G rest
+|
+=1 min <D)3 F)1> cro3 <C E> <D F-I3> <C E>
+=2 qua [g g g g] g rest G rest
+/
+5 bars | 8 |
+|
+=1 smb <B_(3 D(1>
+=2 qua [g g g g] g rest G rest
+|
+=1 min. <B_)3 D)1> cro rest
+=2 qua [g g g g] g rest G rest
+|
+=1 smb <D(3 F(1>
+=2 qua [g g g g] g rest G rest
+|
+=1 min <D)3 F)1> cro3 <C E> <D F-I3> <C E>
+=2 qua [g g g g] g rest G rest
+|
+=1 smb <B_(3 D(1>
+=2 qua [g g g g] g rest G rest
+/
+5 bars | 8 |
+|
+b0.1 .75 Hey !
+=1 min. <B_)3 D)1> cro rest
+=2 qua [g g g g] g rest G rest
+|
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,
+I0.3 .01 p
+=2 qua [g g g g] g rest G rest
+|
+=1 min. blank qua [E G]
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,,
+=2 qua [g g g g] g rest G rest
+|
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,
+=2 qua [g g g g] g rest G rest
+|
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,
+=2 qua [g g g g] g rest G rest
+/
+5 bars | 8 | 8 | 8 | 8 | 6 |
+|
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,
+=2 qua [g g g g] g rest G rest
+|
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,
+=2 qua [g g g g] g rest G rest
+|
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,
+=2 qua [g g g g] g rest G rest
+|
+=1 qua <G_ B_ D> cro rest, cro. <G_ C E> cro rest,
+=2 qua [g g g g] g rest G rest
+|
+=1 smb <G_ B_ D>
+=2 smb/ g
+/
+7 bars | 8 |
+|
+=1 smb <B_b D F>
+=2 smb/ bb
+|
+=1 smb <C E G>
+=2 smb/ c~
+|
+=1 smb <Ebrl G Bb>
+=2 smb/ e~b
+|
+=1' smb <D G B d>
+=2 smb/ g
+|
+=1' smb <E G c e>
+=2 smb/ g
+|
+=1, smb <G B d g>
+=2 smb/ g
+|
+=1, smb/ <G c e g>
+=2 smb/ g
+/
+5 bars | 6 | 6 | 8 | 8 | 8 :||
+|
+=1, smb <G B d g>
+=2 smb/ g
+|
+=1, smb <G c e g>
+=2 smb/ g
+|
+i0.1 .75 Tamb
+=1, qua <G B d g> cro. blank cro blank qua-s B' blank
+=2 qua [g g g g] g rest G rest
+|
+=1, min. blank qua-s B' blank
+=2 qua [g g g g] g rest G rest
+|
+=1, min. blank qua-s B' blank
+=2 qua [g g g g] g rest G rest
+
+
+6 systems 10 / 19-23-19 /
+title Route 66
+/
+4 bars ||: 4/4 8 | 8 |
+|
+=1 treble 4/4 smb rest
+il0.4 .03 A
+=2 bass 4/4 cro A B-s4, c c#
+|
+=1 smb rest
+il0.6 .23 D
+=2' qua [d D] cro F#-s4, G G#
+|
+=1, cro rest qua <d f#> rest [<c e> <A c#>] cro rest
+il0.4 .03 A
+=2 qua [A A] rest A cro rest qua [G# A]
+|
+=1, qua <d f gbx> rest [<c e> <A c#>] min rest
+=2' qua rest A cro rest qua rest [c c# A]
+/
+4 bars | 8 |
+|
+=1 smb rest
+il0.4 .03 D
+=2 cro D F#-s4, G G#
+|
+=1 smb rest
+=2 qua [A D] cro F# G G#
+|
+=1, cro rest qua <d f#> rest [<c e> <A c#>] cro rest
+il0.4 .03 A
+=2 qua [A A] rest A cro rest qua [G# A]
+|
+=1, qua <d f gbx> rest [<c e> <A c#>] min rest
+=2' qua rest A cro rest qua rest [G# A D#-s4,]
+/
+4 bars | 8 | 8 | 8 | 8 :||
+|
+=1 smb rest
+il0.4 .03 E
+=2 qua [E E] rest E cro rest qua [E D#]
+|
+=1 smb rest
+il0.4 .03 D
+=2 qua [D D] rest D cro rest qua [D# E]
+|
+=1, cro rest qua <d f#> rest [<c e> <A c#>] cro rest
+il0.4 .03 A
+=2 qua [A A] rest A cro rest qua [G# A]
+|
+=1, qua <d f gbx> rest [<c e> <A c#>] min rest
+=2' qua rest A cro rest qua rest [E G G#]
+/
+4 bars | 8 |
+|
+=1' qua <C# E A> cro. rest min rest
+il0.1 .13 A
+=2 qua A cro. rest min rest
+|
+=1' qua <C# E A> cro. rest min rest
+=2 qua A cro. rest min rest
+|
+=1' qua <C# E A> cro. rest min rest
+=2 qua A cro. rest min rest
+|
+=1 smb rest
+=2' cro rest B_ C C#
+/
+4 bars | 8 |
+|
+=1' qua [<F# A> <F# A> <F# B> <F# B>] [<F# A> <F# A> <F# B> <F# B>]
+il0.4 .03 D
+=2 qua D rest D rest D rest D rest
+|
+=1' qua [<F# A> <F# A> <F# B>] cro <F# A> cro. rest
+=2 qua D rest D rest qua [D F# G G#]
+|
+=1, cro rest qua <d f#> rest [<c e> <A c#>] cro rest
+il0.4 .03 A
+=2 qua [A A] rest A cro rest qua [G# A]
+|
+=1, qua <d f gbx> rest [<c e> <A c#>] min rest
+=2' qua rest A cro rest qua rest [G# A D#]
+/
+4 bars | 8 | 8 | 8.25 | 8 ||
+|
+il0.2 .03 E
+=1 smb B_
+=2' min <E e> <E e>
+|
+=1 min <B_ Dx E> <B_ Dx E>
+=2' cro <E e> <E e> <E e> <E e>
+|
+=1' smq blank cro <D F#xl G# B> <D F#xl G# B> <D F#xl G# B> <D F#xl G# B>
+=2' smq blank qua [E e] [E e] [E e] [E e]
+|
+=1, min <G# B dx e> rest
+=2' cro E F# G G#
+
+9 systems 10 / 19 / 19 / 19 / 19 / 19 / 19-23-19 /
+title Moondance
+/
+4 bars | 4/4 8 | 8 | 8 | 8 ||
+|
+il0.4 .03 Am7 .52 Bm7
+=1 bass8vab 4/4 cro a a b e
+|
+=1 qua. [a smq a] cro e b qua. [e smq g]
+|
+=1 qua. [a smq a] blank cro a# b b
+|
+=1 cro c~ b b e
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 bass8vab qua a rest qua. rest smq b(1 cro b)1 e
+|
+=1 qua a rest qua. rest smq b(1 cro b)1 qua. [e smq g]
+|
+=1 cro a a# b qua. [e smq g]
+|
+=1 qua. [a smq a] cro g f# e
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 cro a a# b e
+|
+=1 qua. [a smq a] blank cro a# b e
+|
+=1 cro a a b e
+|
+=1 qua. [a smq a] cro g# e d
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 cro a a# b qua. [an smq b]
+|
+=1 cro c~ qua. [b smq a] cro e g
+|
+=1 cro a a b qua. [a smq b]
+|
+=1 cro c~ b e qua. [d smq b]
+/
+4 bars | 8 | 8 | 8 | 8 ||
+|
+=1 cro a a# b qua. [e smq g]
+|
+=1 blank
+|
+=1 cro a a# b e
+|
+=1 cro a a g e
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+=1 treble
+=2 bass cro d f g g#
+|
+=2 cro a A c c#
+|
+=2 d
+/
+4 bars | 8 | 8 | 8 | 8 ||
+|
+=1 blank
+=2 blank
+|
+=1 blank
+=2 blank
+|
+=1 blank
+=2 cro3 rest d-I3-emph, d-emph, d-emph, rest-I3 rest
+|
+=1 blank
+=2 cro3 rest e-I3-emph, e-emph, e-emph, rest-I3 rest
+
+
+
+
+6 systems 10 / 19-23-19 /
+title Route 66
+/
+4 bars ||: 4/4 8 | 8 |
+|
+=1 treble 4/4 smb rest
+il0.4 .03 C
+=2 bass   4/4 cro c d-s4, d# e
+|
+=1 smb rest
+il0.6 .23 F
+=2' qua [f F] cro A-s4, A# B
+|
+=1 cro rest qua <f g#x a> rest [<d# g> <c e>] cro rest
+il0.4 .03 C
+=2 qua [c c] rest c cro rest qua [B c]
+|
+=1 qua <f g#x a> rest [<d# g> <c e>] min rest
+=2' qua rest c cro rest qua rest [d# e c]
+/
+4 bars | 8 |
+|
+=1 smb rest
+il0.4 .03 F
+=2 cro F A-s4, A# B
+|
+=1 smb rest
+=2 qua [c F] cro A A# B
+|
+=1 cro rest qua <f g#x a> rest [<d# g> <c e>] cro rest
+il0.4 .03 C
+=2 qua [c c] rest c cro rest qua [B c]
+|
+=1 qua <f g#x a> rest [<d# g> <c e>] min rest
+=2' qua rest c cro rest qua rest [B c F#-s4,]
+/
+4 bars | 8 | 8 | 8 | 8 :||
+|
+=1 smb rest
+il0.4 .03 G
+=2 qua [G G] rest G cro rest qua [G F#]
+|
+=1 smb rest
+il0.4 .03 F
+=2 qua [F F] rest F cro rest qua [F# G]
+|
+=1 cro rest qua <f g#x a> rest [<d# g> <c e>] cro rest
+il0.4 .03 C
+=2 qua [c c] rest c cro rest qua [B c]
+|
+=1 qua <f g#x a> rest [<d# g> <c e>] min rest
+=2' qua rest c cro rest qua rest [G A# B]
+/
+4 bars | 8 |
+|
+=1' qua <E G c> cro. rest min rest
+il0.4 .03 C
+=2 qua c cro. rest min rest
+|
+=1' qua <E G c> cro. rest min rest
+=2 qua c cro. rest min rest
+|
+=1' qua <E G c> cro. rest min rest
+=2 qua c cro. rest min rest
+|
+=1  smb rest
+=2' cro rest D D# E
+/
+4 bars | 8 |
+|
+=1' qua [<A c> <A c> <A d> <A d>] [<A c> <A c> <A d> <A d>]
+il0.4 .03 F
+=2 qua F rest F rest F rest F rest 
+|
+=1' qua [<A c> <A c> <A d> <A(2 c(1>] <A)2 c)1> cro. rest
+=2 qua F rest F rest qua [F A A# B]
+|
+=1 cro rest qua <f g#x a> rest [<d# g> <c e>] cro rest
+il0.4 .03 C
+=2 qua [c c] rest c cro rest qua [B c]
+|
+=1 qua <f g#x a> rest [<d# g> <c e>] min rest
+=2' qua rest c cro rest qua rest [B c F#]
+/
+4 bars | 8 | 8 | 8 | 8 :||
+|
+il0.2 .03 G
+=1 smb D
+=2' min <G g> <G g>
+|
+=1  min <D Fx G> <D Fx G>
+=2' cro <G g> <G g> <G g> <G g>
+|
+=1' cro <F Ax B d> <F Ax B d> <F Ax B d> <F Ax B d>
+=2' qua [G g] [G g] [G g] [G g]
+|
+=1, min <B d fx g> rest
+=2' cro G A A# B
+
+@

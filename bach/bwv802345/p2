@@ -1,0 +1,72 @@
+.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 15
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 1.6c
+.ce 1
+\f3\s+5Four Duets, from the Clavierübungen Dritter Theil\s0\fP
+.sp 1.4c
+.Lp
+The third book of J. S. Bach's Clavierübungen was published in 1739.
+It contains twenty-seven pieces.
+Just after the Chorale Preludes and before the final Fugue,
+there are four Duets,
+\s-1BWV\s0802, \s-1BWV\s0803, \s-1BWV\s0804 and \s-1BWV\s0805.
+
+.Lp
+They are not necessarily for organ;
+they are just as at home on any keyboard,
+however, they are mostly known to organists.
+They are, basically, two-part inventions;
+but they were written nearly twenty years after the
+\f2Inventions\fP,
+and are bigger and musically more ambitious.
+
+.Lp
+The Four Duets seem oddly placed within the \f2Clavierübungen Dritter Theil\fP,
+where the other pieces are all for organ and have religious themes.
+It would seem unworthy for Bach to have put them in just to make
+up the number of pieces to 27 (i.e. three cubed),
+but no very convincing explanation is known.
+
+.Lp
+They might represent the four daily prayers:
+morning, evening, before the meal, and after the meal.
+But the Duets do not seem convincingly characterised
+as morning, evening and so on.
+Anton Heiller suggested they might represent four elements:
+heaven, air, water, and earth.
+But how this fits in to the \f2Clavierübungen Dritter Theil\fP is not clear,
+and, again, they are not convincingly so characterised;
+for comparison, the variations 2,3,4,5 of the last movement of Beethoven's
+Op 109 are very clearly air, fire, water and earth.
+In any case, the Duets are Bach's addition to his
+output of Two-part Inventions.
+
+.Lp
+In the Bach-Gesellschaft edition,
+the trills are marked with individual symbols
+as described in \f2Clavierbüchlein für Wilhelm Friedeman Bach\fP
+(in the section \f2Explication unterschiedlicher Zeichen\fP),
+but because of limitations of my typesetting-software \f2muscript\fP,
+the trills are all homogenised here to a \f4tr\fP symbol.
+
+.Lp
+Roslyn Tureck has recorded these Duets on the piano.
+They are published here
+because they deserve to become as well known to all keyboard players
+as the earlier Two-part Inventions already are.
+
+.Lp
+.ce 2
+Peter J Billam
+.br
+\f2www.pjb.com.au\fP

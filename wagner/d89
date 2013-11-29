@@ -1,0 +1,69 @@
+boundingbox 520 65
+midi channel  1 patch 68 reverb 70 pan 50 # oboe
+midi channel  2 patch 71 reverb 70 pan 70 # clr
+midi channel  3 patch 69 reverb 70 pan 45 # engl
+midi channel  4 patch 60 reverb 70 pan 30 # hrn
+midi channel  5 patch 70 reverb 70 pan 55 # bsn
+midi channel  6 patch 71 reverb 70 pan 75 # bclr
+midi channel  7 patch 44 reverb 70 pan 20 # vln1
+midi channel  8 patch 44 reverb 70 pan 40 # vln2
+midi channel 10 patch 44 reverb 70 pan 60 # pvla
+midi channel 11 patch 44 reverb 70 pan 80 # pvlc
+midi channel 12 patch 32 reverb 70 pan 50 # pbas
+1 systems 5/27/
+/
+5 bars | 4# 3/4 32 | 8 12 6 6 6 6 | 5 12 6 6 10 10 | 6 5 5 4 4 4 7 | 12
+| 3/4 2.5
+=1  treble    4# 3/4 cha1 vol70 leg80 4 rest g leg99 B'(2
+#=2  treble   4# 3/4 cha2 vol60 leg99 2. rest
+#=3           4# 3/4 cha3 vol60 leg99 2 rest 4 B(1
+#=4  bass     4# 3/4 cha4 vol60 leg80 2. <b e~ g~ b~>
+#=5  bass     4# 3/4 cha5 vol60 leg85 2. <e g-dim30>
+#=6  bass     4# 3/4 cha6 vol60 leg85 2. E
+#=7  treble   4# 3/4 cha7 vol60 leg85 2. rest
+#=8  treble   4# 3/4 cha8 vol60 leg85 2. rest
+#=10 bass     4# 3/4 cha10 vol60 leg85 2. rest
+#=11 bass     4# 3/4 cha11 vol60 leg85 2. rest
+#=12 bass8vab 4# 3/4 cha12 vol60 leg85 2. rest
+| .83 .84 .86
+=1  leg85 8 [B')2 16 G A] 4 B' c
+#=2' 2 E(2 8 [E)2 G]
+#=3  8 [B')1 16 G A] 8 B' 4. rest
+#=4' 4. <c~ e~> 8 [<b g~> <g e~> <e c~>]
+#=4, 2 e~ 4 g~
+#=6  4. c~ 8 [b g e]
+| .85 .85 .95
+=1  leg85 8. [d 16 e] 4 f(1 83 [f)1 e-I3 d]
+#=2' 8. [B 16 c] 4 d(1 83 [d)1 c-I3 B#]
+#=3' 2 B_ 4 A_#
+#=4  2. <B d~(2 f~(1>
+#=5  4 rest b a#
+#=6  2. B
+#=7, 4 rest 83 [F B d] [f e d]
+#=8, 4 rest 83 [D F B] [d c B#]
+#=10 4 b rest a#
+#=11 4 B 2 rest
+| .85 .85 .95
+=1  leg85 4 f 2 e-tr 16-s [d e]
+#=2' 4 d 2 c
+#=3' 2. G_
+#=4' 4 <d~)2 f~)1> 2 <c~ e~>
+#=4, 2. f
+#=5  2. g
+#=6  2. F(2
+#=7, 4 f 16 [e f e f e d# e]
+#=8, 4 d 16 [c d c d c B# c]
+#=10 4 e 2 rest
+#=11 4 F 2 rest
+| 2.2
+=1  leg85 4. g-dim20
+#=2' 4. e-dim30
+#=3' 4. A_#-dim30
+#=4  4. <f c~ e~ g~-dim30>
+#=5  4. a#-dim30
+#=6  4. F)2-dim30
+#=7, 4. g-dim40
+#=8, 4. e-dim40
+#=10 4 <a# c~# e~> rest
+#=11 4 f rest
+#=11 4 f rest

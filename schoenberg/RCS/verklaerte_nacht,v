@@ -1,0 +1,6942 @@
+head	1.94;
+access;
+symbols;
+locks
+	pjb:1.94; strict;
+comment	@# @;
+
+
+1.94
+date	2013.07.11.10.18.43;	author pjb;	state Exp;
+branches;
+next	1.93;
+
+1.93
+date	2013.06.27.10.17.22;	author pjb;	state Exp;
+branches;
+next	1.92;
+
+1.92
+date	2013.06.27.06.18.53;	author pjb;	state Exp;
+branches;
+next	1.91;
+
+1.91
+date	2013.06.27.02.17.34;	author pjb;	state Exp;
+branches;
+next	1.90;
+
+1.90
+date	2013.06.26.07.04.49;	author pjb;	state Exp;
+branches;
+next	1.89;
+
+1.89
+date	2013.06.26.04.23.21;	author pjb;	state Exp;
+branches;
+next	1.88;
+
+1.88
+date	2013.06.25.08.13.49;	author pjb;	state Exp;
+branches;
+next	1.87;
+
+1.87
+date	2013.06.25.06.10.55;	author pjb;	state Exp;
+branches;
+next	1.86;
+
+1.86
+date	2013.06.25.05.29.32;	author pjb;	state Exp;
+branches;
+next	1.85;
+
+1.85
+date	2013.06.25.02.23.26;	author pjb;	state Exp;
+branches;
+next	1.84;
+
+1.84
+date	2013.06.25.01.17.59;	author pjb;	state Exp;
+branches;
+next	1.83;
+
+1.83
+date	2013.06.23.10.31.16;	author pjb;	state Exp;
+branches;
+next	1.82;
+
+1.82
+date	2013.06.23.03.40.13;	author pjb;	state Exp;
+branches;
+next	1.81;
+
+1.81
+date	2013.06.22.10.42.57;	author pjb;	state Exp;
+branches;
+next	1.80;
+
+1.80
+date	2013.06.21.04.05.24;	author pjb;	state Exp;
+branches;
+next	1.79;
+
+1.79
+date	2013.06.21.02.27.08;	author pjb;	state Exp;
+branches;
+next	1.78;
+
+1.78
+date	2013.06.20.03.40.13;	author pjb;	state Exp;
+branches;
+next	1.77;
+
+1.77
+date	2013.06.19.11.13.09;	author pjb;	state Exp;
+branches;
+next	1.76;
+
+1.76
+date	2013.06.18.10.35.29;	author pjb;	state Exp;
+branches;
+next	1.75;
+
+1.75
+date	2013.06.18.10.04.55;	author pjb;	state Exp;
+branches;
+next	1.74;
+
+1.74
+date	2013.06.18.01.07.03;	author pjb;	state Exp;
+branches;
+next	1.73;
+
+1.73
+date	2013.06.17.08.54.37;	author pjb;	state Exp;
+branches;
+next	1.72;
+
+1.72
+date	2013.06.17.01.16.14;	author pjb;	state Exp;
+branches;
+next	1.71;
+
+1.71
+date	2013.06.16.06.49.00;	author pjb;	state Exp;
+branches;
+next	1.70;
+
+1.70
+date	2013.06.16.03.22.05;	author pjb;	state Exp;
+branches;
+next	1.69;
+
+1.69
+date	2013.06.16.00.29.14;	author pjb;	state Exp;
+branches;
+next	1.68;
+
+1.68
+date	2013.06.15.09.36.46;	author pjb;	state Exp;
+branches;
+next	1.67;
+
+1.67
+date	2013.06.15.06.37.57;	author pjb;	state Exp;
+branches;
+next	1.66;
+
+1.66
+date	2013.06.15.01.39.36;	author pjb;	state Exp;
+branches;
+next	1.65;
+
+1.65
+date	2013.06.14.08.49.43;	author pjb;	state Exp;
+branches;
+next	1.64;
+
+1.64
+date	2013.06.14.04.02.04;	author pjb;	state Exp;
+branches;
+next	1.63;
+
+1.63
+date	2013.06.13.11.15.47;	author pjb;	state Exp;
+branches;
+next	1.62;
+
+1.62
+date	2013.06.13.06.20.39;	author pjb;	state Exp;
+branches;
+next	1.61;
+
+1.61
+date	2013.06.13.03.23.03;	author pjb;	state Exp;
+branches;
+next	1.60;
+
+1.60
+date	2013.06.12.06.17.24;	author pjb;	state Exp;
+branches;
+next	1.59;
+
+1.59
+date	2013.06.12.02.57.36;	author pjb;	state Exp;
+branches;
+next	1.58;
+
+1.58
+date	2013.06.11.08.45.39;	author pjb;	state Exp;
+branches;
+next	1.57;
+
+1.57
+date	2013.06.11.06.44.25;	author pjb;	state Exp;
+branches;
+next	1.56;
+
+1.56
+date	2013.06.10.03.33.03;	author pjb;	state Exp;
+branches;
+next	1.55;
+
+1.55
+date	2013.06.09.09.30.20;	author pjb;	state Exp;
+branches;
+next	1.54;
+
+1.54
+date	2013.06.09.00.47.56;	author pjb;	state Exp;
+branches;
+next	1.53;
+
+1.53
+date	2013.06.08.05.33.33;	author pjb;	state Exp;
+branches;
+next	1.52;
+
+1.52
+date	2013.06.08.02.06.04;	author pjb;	state Exp;
+branches;
+next	1.51;
+
+1.51
+date	2013.06.08.00.50.05;	author pjb;	state Exp;
+branches;
+next	1.50;
+
+1.50
+date	2013.06.07.09.27.43;	author pjb;	state Exp;
+branches;
+next	1.49;
+
+1.49
+date	2013.06.07.05.19.03;	author pjb;	state Exp;
+branches;
+next	1.48;
+
+1.48
+date	2013.06.05.09.58.10;	author pjb;	state Exp;
+branches;
+next	1.47;
+
+1.47
+date	2013.06.05.01.17.38;	author pjb;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2013.06.04.08.38.12;	author pjb;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2013.06.04.05.31.26;	author pjb;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2013.06.03.03.22.30;	author pjb;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2013.06.03.00.05.05;	author pjb;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2013.06.02.22.45.31;	author pjb;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2013.06.02.09.21.04;	author pjb;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2013.06.02.08.55.44;	author pjb;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2013.06.02.04.01.07;	author pjb;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2013.06.02.01.16.36;	author pjb;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2013.06.01.09.29.11;	author pjb;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2013.06.01.02.11.45;	author pjb;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2013.05.31.05.30.57;	author pjb;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2013.05.31.01.45.47;	author pjb;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2013.05.30.23.10.40;	author pjb;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2013.05.30.03.07.42;	author pjb;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2013.05.29.06.44.18;	author pjb;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2013.05.29.00.35.47;	author pjb;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2013.05.28.10.28.04;	author pjb;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2013.05.28.01.26.34;	author pjb;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2013.05.27.08.51.30;	author pjb;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2013.05.27.02.01.34;	author pjb;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2013.05.26.05.28.00;	author pjb;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2013.05.26.03.33.43;	author pjb;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2013.05.26.01.50.29;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2013.05.25.05.32.50;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2013.05.25.03.24.57;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2013.05.25.02.01.19;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2013.05.25.00.55.22;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2013.05.24.01.56.55;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2013.05.24.00.04.30;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2013.05.23.05.59.45;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2013.05.23.03.20.00;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2013.05.22.10.25.26;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2013.05.21.05.46.08;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.21.01.02.59;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.20.09.03.48;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.20.06.25.23;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.20.01.38.48;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.19.11.40.49;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.05.19.01.20.55;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.05.18.09.27.03;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.05.18.08.24.52;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.18.02.07.49;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.05.17.08.56.12;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.17.05.15.24;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.16.08.54.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Schoenberg Verklaerte Nacht, for piano
+@
+
+
+1.94
+log
+@minor bug fixes following video  workout
+@
+text
+@6 systems 20 / 19-35-19 /19-35-19 7/19-35-19 8/19-35-19 /19-35-19 /19-35-19 /
+pagenum 1
+title Verklärte Nacht
+innerhead Arnold Schoenberg   Op. 4   1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+midi channel 0 patch 0
+# see: Siegfried Idyll, Cantus in Memoriam Benjamin Britten
+
+/
+4 bars | 1b 4/4 84 | 42 48 | 6 6 5 5 6 6 6 7 6 6 6 5 6 6 6 6 \
+  | 6 6 5 5 6 6 6 7 6 6 6 5 6 6 6 6 |
+| 4/4 6.0
+b0.5 .02 Sehr langsam
+=1, bass 1b  4/4 cha0 vol50 leg99 2 d d
+r0.4 .05 Zwei Menschen gehn durch
+=2, bass 1b  4/4 cha0 vol50 leg99 2 D D
+|
+=1' 2 rest' 4. rest' 8 b
+=1, 2 d d
+r0.4 .01 kahlen, kalten Hain ,
+=2' 2 rest 4. rest 8 B
+=2, 2 D D
+|
+i1.0 .01 immer leise . . .
+=1' 4 a 8. [g 16 f] 4 e 8. [d 16 b]
+=1, 2 d dr
+=2' 4 A 8. [G 16 F] 4 E 8. [D 16 B]
+=2, 2 D Dr
+|
+=1' 4 a 8. [g 16 f] 4 e 8. [d 16 d~]
+=1, 2 d dr
+=2' 4 A 8. [G 16 F] 4 E 8. [D 16 B]
+=2, 2 D Dr
+
+/
+4 bars |1b 5 5 5 5 6 5 6 9 5 5 5 5 6 5 6 7 |5 5 5 5 6 5 6 9 5 5 5 5 7 7 7 7 \
+ | 5 5 5 5 6 5 6 9 5 5 5 5 6 5 6 7 | 5 5 5 5 6 5 6 9 5 5 5 5 6 5 6 7 |
+|
+il0.9 .67 5
+=1' 4 c~ 8. [b 16 a] 4 g 8. [f 16 d~]
+=1, 2 d d
+=2' 4 A 8. [G 16 F] 4 E 8. [D 16 B]
+=2, 2 D Dr
+|
+=1, 2 d d
+=1' 4 c~ 8. [b 16 a] 4 g 8. [f treble 16 <D B d>]
+=2' 4 A 8. [G 16 F] 4 E 8. [D 16 b]
+=2, 2 D Dr
+|
+i0.7 .01 immer leise . . .
+=1' 4 <C A c> 8. [<B_ G B> 16 <A_ F A>] 4 <G_ E G> 8. [<F_ D F> 16 <E_ C E>]
+=2' 4 rest'' 8. [g 16 f] 4 rest'' 8. [d 16 c]
+=2, 2 <D d> <D d>
+|
+=1' 4 <G_ E G> 8. [<F_ D F> 16 <E_ C E>] 4 <B_ D> 8. [<A_ C> 16 <G_ B_>]
+=2' 4 rest'' 8. [d 16 c] 4 Br 8. [<A c> 16 B]
+=2, 2 <D d> <D d>
+
+/
+4 bars |1b 5 5 5 5 6 5 6 15 5 5 5 5 6 6 6 8 |5 5 5 5 6 5 6 15 5 5 5 5 6 5 6 8 \
+ | 5 5 5 5 6 5 6 9 5 5 5 5 6 5 6 7 | 5 5 5 5 6 5 6 9 5 5 5 5 6 5 6 7 |
+|
+=1' 4 vol+7 <B_ D> vol+7 8. [<B_ D B> vol-7 16 <B_ D>] \
+ vol-7 4.. <F_ A_ F> 16 <F_ A_>
+=2' 4.. <D B d> 16 B \
+ vol+7 4 <C# A c#> vol+7 8. [<D d> vol-7 16 <F d>] vol-7
+|
+il0.6 .05 10
+=1' 4 vol+7 <B_ D> vol+7 8. [<B_ D B> vol-7 16 <B_ D>] \
+ vol-7 4.. <F_ A_ F> 16 <D A>
+=2' 4.. <D B d> 16 B \
+ vol+7 4 <C# A c#> vol+7 8. [<D d> vol-7 16 <F d>] vol-7
+| 5.8
+=1 4 <B d> 8. [b 16 f~] 2 e~-tr
+i0.7 .10 immer leise . . .
+=2 2 <D d'> 4 <G g'> 8. [<d, b> 16 <G, a>]
+|
+=1 4 d 8. [b 16 f~] 4. e~-tr 8 <f f~>
+I0.9 .80 pp
+=2 2 <D d'> 4 <G g'> 8. [<d, b> 16 <g bn>]
+/
+3 bars |1b 5 5 5 5 6 6 6 9 5 5 5 5 6 5 6 6 \
+ | 5 5 5 5 6 6 6 9 5 5 5 5 6 5 6 6 | 5 5 5 5 6 6 6 9 5 5 5 5 6 5 6 6 |
+| 5.6
+bl1.0 A
+=1' 4 e~ 8. [d~ 16 c~n] 4 bn 8. [a 16 g#]
+=1, 2 f# 4 fnl d
+=2' 2 c~ 4 d~ bn
+=2 2 d d
+|
+=1 2. c~# 8. [<d bn> 16 <fn f~n>]
+=2' 4 a 8. [g# 16 f#] 4 e# bn
+=2, 2 d dr
+|
+il1.0 .11 15
+=1' 4 e~ 8. [d~ 16 c~n] 4 bn 8. [a 16 g#]
+=1, 2 f# 4 fnl d
+=2' 2 c~ 4 d~ bn
+=2 2 d d 
+/
+3 bars |1b 5 5 5 5 6 6 6 9 5 5 5 5 6 5 6 6 \
+ | 5 5 5 5 6 6 6 7 5 5 5 5 6 5 6 6 | 5 5 5 5 6 6 6 7 5 5 5 5 6 6 8 5 |
+|
+=1 2. c~# 8. [<d bn> 16 <fnl f~n>]
+=2' 4 a 8. [g# 16 f#] 4 e# bn
+=2, 2 d dr
+|
+=1' vol60 4 e~ 8. [d~ 16 c~n] vol70 4 c~ 8. [bn 16 a]
+=1, vol60 2. f# vol70 4 A
+i0.6 .01 cresc . . .
+=2' vol60 2 <D d> vol70 <D# c>
+|
+=1, 4 <A a> 8. [<G# g#> 16 <Gn gn>] 4 <G g> 83 [<F# f#> <G g-I3> <G# g#>]
+i0.4 .01 espress . . .
+=2' 2 <E Bn e> 8 rest'' 4. c~
+=2, 2 blank <A eb>
+/
+3 bars |1b 5 5 5 5 6 5 6 9 5 5 5 5 6 6 8 5 \
+ | 8 8 8 9 8 8 8 8 8 8 8 8 | 20 20 20 24 |
+
+| 5.4
+=1 4 <A, a> rest 8 rest 4 <C c'> 8 <C c'>
+=2' 4 a 8. [g# 16 gn] 4 g 83 [f# g-I3, g#]
+=2, 2 <B e> <A eb>
+| 4.8
+il0.6 .15 20
+=1, 2. <Bb d a> 8. [<G# Bbl g#> 16 <Gn gn>]
+=2 83 [a' En-I3-P B] [d en-I3, bb] [d~ a b] [d~ e~] rest
+|
+=1, 2 <Gx c(2 g> 4. <F# c)2 f#> 8 vol50 f#'
+I0.5 .02 f .82 p
+i0.5 .20 dim . . .
+=2' 2 <A(2-P eb(1> 4. <A)2-,-* e)1> 8 rest vol50
+
+6 systems / 19-38-19 / 19-45-19 /19-35-19 /19-38-19 /19-38-19 /19-48-19/
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars |1b 20 24 20 20 | 20 24 20 24 \
+ | 5 5 5 5 5 5 6 6 5 5 5 5 5 6 5 6 |
+|
+bl0.8 .02 B
+=1' 4 f 16 [e{'1 f g f}'1] 4. Bb 8 Bn
+=1, 4 Ab G Gbl rest,,
+=2' 2 blank gb
+=2, 4 <d bn> <dbl bb> c cb
+|
+=1' 4 c 16 [Bn{'1 c d c}'1] 4. D 8 En
+=1, 4 E Ebl Cr 8 [B_n B_bl]
+=2' 4 g gb 4. f 8 e
+=2, 4 B A Ab 8 [G F#]
+| 5.2
+=1' 2. <B_ D F> 8 rest vol60 B
+i0.5 .04 steigernd . . .
+=2' 4 d 8. [c 16 B] 4 A G
+=2, 2. G 4 blank
+/
+2 bars |1b 96 | 96 |
+| 5.0
+il0.5 .07 25
+=1' vol60 2. E 8 rest vol70 B
+=1, vol50 163-s [B_ E_ B_ E_ B_ E_] [B_ E_ B_ E_ B_ E_(2] \
+ vol70 4 <E_)2 B_> rest,,
+=2' 4 vol60 d 8. [c 16 B] 4 A-,-* G
+=2, 2. G-P 4 blank
+| 2.4 2.2
+=1' 163 [E G B d-I"6  " e g] 4 b 163 [E G B d-I"6  " e g] 4 b
+=1, 4 blank 8 rest, B 4 blank 8 rest, B
+i0.5 .03 accell . . .
+=2' 4 vol70 d 8. [c 16 B] 4 d 8. [c 16 B]
+=2, 2 G-P G-P
+/
+2 bars |1b 12 12 10 14 10 14 10 14 | 96 ||
+| 2.0 1.9
+=1 163 [B_ G_ B_ D-I"6  " E G] 8 [B' 32 D E G B'] \
+ 8 [d' 32 E G B' d'] 8 [g 32 b g d G,]
+=2' 8 8 [d c] [B A] [G F] 83 [E F-I3 G]
+=2, 2 G blank
+| 1.0 1.1 1.25 1.4
+i0.3 .04 molto rit.
+=1 bass 4 rest 2. blank
+=1 4 blank 163-s [a g# a g-I"6  " a g] \
+ [a gn a g-I"6  " a g] [a f a e-I"6  " a e]
+=2' 163-s [a-P A a A-I"6  " a A] [G# A G A-I"6  " G A] \
+ [Gn A G A-I"6  " G A] 8. [F 16 E]
+
+/
+4 bars |1b 5 5 5 7 5 5 5 7 5 5 5 12 5 4 5 4 |5 5 5 7 5 5 5 7 5 5 5 12 5 5 5 6 \
+ | 5 5 5 8 5 5 5 8 5 5 5 7 5 4 5 4 | 5 5 5 7 5 5 5 10 6 6 6 6 6 6 6 5 |
+| 3.6
+b0.5  Etwas bewegter
+=1, bass 1b vol60 8. rest 16 [a 8. g 16 b] 8. [d 16 d] 4 <c# f>
+r0.4 .30 der Mond läuft mit,
+I0.1 .03 pp
+=2 vol45 4 <D-* F> vol+5 <E G> vol+5 <F A> vol-5 <G B>
+|
+il0.3 .01 30
+=1, vol60 8. rest 16 [a 8. g 16 b] 8. [d 16 d] 4 <c# f> treble
+r0.4 .01 sie schaun hinein .
+=2  vol45 4 <D F> vol+5 <E G> vol+5 <F A> vol-5 <G B>
+|
+=1' vol60 8. rest 16 [A_ 8. G_ 16 <D_ B_>] vol+5 8. [<A_ D> 16 C#] 4 vol+5 F(1
+i0.3 .01 steigernd . . .
+=2  vol45 4 <D F> vol+5 <E G> vol+5 <F A> vol-5 <G B>
+|
+=1' 8. [F)1 16 E] 4 vol70 B(1 8 [B)1 D#] 83 [E G-I3 B]
+=1, 2 D rest,,
+=2' 4 <Ab c> 8. [<G B> 16 d] 4 vol70 <An c f> <B d>
+/
+3 bars | 5 5 5 7 6 6 6 7 5 5 5 5 5 6 6 5 \
+ | 5 5 5 7 5 5 5 7 5 6 5 6 5 6 5 5 | 5 6 5 7 5 5 5 5 6 6 6 6 6 6 6 5 |
+|
+=1' 2 vol80 d 4 d 8 [c 16 d B]
+=1, 8. [D 16 D#] 83 [E G-I3, B] 2 G
+=2  4 vol80 <G e'> 8. [<B, e g> 16 d] 4 <G e'> 8. [<B, e g> 16 d]
+
+|
+bl0.8 .05 C
+=1, vol90 8. [<A a> 16 <G# g#>] 4 vol100 <d(2 d~(1> \
+ 8 vol90 [<d)2 d~)1> <c# c~#> vol100 <f f~> <e e~>]
+=2, vol90 4 <e b d~> 8. [<f a d~> 16 ab] vol100 4 <g e~> 8 [<an g~> c~#]
+|
+il0.8 .01 35
+=1, 2 <G(2 g(1> 8 [<G)2 g)1> vol105 <A a>] 83 [<B b> <d d~-I3> <g g~>]
+=2' vol100 8. [f~ 16 e~] 4. d~ vol100 4 c~ 8 bb
+=2, 2 b B
+/
+3 bars | 6 6 6 5 5 5 5 7 6 6 6 6 6 6 6 5 \
+ | 5 5 5 7  5 5 5 5  5 6 5 6  6 6 6 5 | 5 5 5 7 5 5 5 7 6 6 6 6 6 6 6 5 |
+|
+=1  vol110 4 <b b~> 8. [<a a~> 16 <ab a~b>] \
+ 83 [<g g~> <f f~-I3> <e e~>] 8 [<d f d~> <c# e c~#>]
+=2' vol110 8 rest' 4 g# d~ 8 [c~# f~ e~]
+=2, 4 <E d> <F d>  8 [<G e> a] 4 a
+|
+=1 8. [<f f~> 16 <e e~>] 4. <d d~> 4 <c c~> 8 <B b>
+=2' 2 blank 8 rest'''' a 83 [b d~-I3 g~]
+=2, 2 <b d~ g~> <g d~ f~>
+|
+=1, 8. [<A a> 16 <G# g#>] 4 <d(2 d~(1> \
+ 8 [<d)2 d~)1> <c# c~#> <f d~ f~> <e c~ e~>]
+=2' 2 blank 83 [g~ f~-I3 e~] 8 [d~ c~#]
+=2, 4 <e b d~> 8. [<f a d~> 16 ab] 4 g an
+
+6 systems /19-45-19 /19-30-19 /19-30-19 /19-30-19 15 /19-38-19 20 /19-25-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 24 21 24 21 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 7 7 7 5 5 |
+| 0.92 0.96 1.02 1.18
+b0.9 .06 rit  .  .  .
+=1, 8 [<G g> <F# f#> <eb e~b> <d d~>] [<Fn fn> <E en> <c# c~#> <cn c~n>]
+=2' 83 [c~ d~ e~b] 4 bn 83 [bb c~ d~b] 4 a
+=2, 4 <eb a> g <c# g> f
+| 3.6
+il0.7 .20 40
+b0.5 .02 tempo
+=1, 8 [<Eb eb> <D(2 d(1>] 83 [<D)2 d)1> <En en-I3> <F(2 f(1>] \
+ [<F)2 f)1> <G g-I3> <G# g#(1>] 163 [g#)1 a a# bn c~# d~]
+=2' 83 [ab bb bn(1] 8 [b)1 g#] 83 [d~ e~ f~(1] 8 [f~)1 d~]
+=2, 4 <Bn f> d f g#
+
+/
+4 bars | 96 | 96 |
+|
+=1, 4 <d d~> vol80 <F A f> rest <E c# e>
+i0.3 .20 dim . . .
+=2, 4 rest vol80 <A d f an> rest <A g>
+|
+=1' 4 rest 2 vol70 <Eb c eb> 4 <D Bn d>
+=2, 4 rest 2 vol70 <Bb gbxl abl> 4 <Bn f an>
+|
+=1' 2. <Db Ex G db> vol60 4 <C(2 F(3 c(1>
+=2' 8 rest 4. vol60 <e(3 bb(1> 4 <e)3 b)1> <f a>
+=2, 4 vol70 C 2 vol60 c 4 db
+|
+=1' 4 <Cr)2 c)1> 2 <B_n Bn> 4 vol50 <F_ F>
+=1, 2 F)3 D
+=2' 2 blank vol50 4 f d
+=2, 2 vol60 <d g#> vol50 G#
+/
+4 bars | 96 | 14 13 12 12 15 13 12 11 | 12 12 12 12 15 13 12 11 | 96 |
+|
+il0.6 .03 45
+=1  4 <D A> rest <C# A> rest bass
+=2' 4 <A f a> rest <A e a> rest
+|
+I0.7 f
+I0.5 .96 f
+=1' 4 vol100 c~ 2 g vol80 4 f#
+=1, 2 rest, vol50 <c eb>
+I0.4 .03 f .50 p
+=2' 8 vol100 <F# A eb> rest 4 rest vol60 8 [G-., G#-.,] 4 A-.,
+|
+=1' 4 vol100 c~ 2 g vol80 4 f#
+=1, 2 rest, vol50 <c eb>
+I0.4 .50 p
+=2' 2 rest vol60 8 [G-., G#-.,] 4 A
+|
+=1' 4 vol100 c~ 2 g vol80 4 f#(1
+I0.4 .50 p
+=2' 2 rest, vol50 4 <A c eb> rest
+/
+3 bars | 1b 80 | 6 6 6 6 6 6 6 8 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 8 6 6 6 6 6 6 6 5 | 
+| 0.92 0.96 1.02 1.18
+=1 1 f#)1
+=1 2 blank blank-fermata treble
+=2' 4 <B d> rest 2 rest-Una-fermata treble
+| 3.7
+il0.9 .40 50
+b0.3 .02 mit Dämpfer
+=1 vol60 2 blank 8 rest' [<f f~> 8. <ab a~b> 16 <gb g~b>]
+=1 8 [Db C 8. A_n 16 B_] 2 E_b
+I0.4 .01 pp
+=2, vol45 16-s [F-P Bb db f] [F B d f] [Gb-P B d B] [G B d B]
+|
+=1 vol60 8 <f f~> 4. rest' 8 rest' [<f f~> 8. <ab a~b> 16 <gb g~b>]
+=1 8 rest,, [C 8. A_n 16 B_] 2 E_b
+=2, vol45 16-s [F-P Bb db f] [F B d f] [Gb-P B d B] [G B d B]
+/
+2 bars | 1b 96 | 96 |
+|
+=1 vol60 8 <f f~> 4. rest' \
+ 8 rest' <b(2 b~(1> 83 [<b)2 b~)1> <ab a~b> <gb g~b>]
+=1, 8 rest,, [C 8. A_n 16 B_] 4 F Eb(4
+=2, vol45 16-s [F-P Bb db f] [F B d f] [Gb-P B d gb] [G B d B]
+|
+=1, vol60 4 <gb(2 g~b(1> 83 [<gb)2 g~b)1> <f f~-I3> <eb e~b>] \
+ 4 <eb(2 e~b(1> 83 [<eb)2 e~b)1> <B b-I3> <cb c~b>]
+=1, 4 E)4 4 Db 2 rest,,
+=2' vol45 16-s [Gb cb eb gb] [Gb B db G] rest' [Gb cb G] [Eb G E G]
+=2, 2 rest,,-P vol60 Cb(2-P
+/
+2 bars | 1b 96 | 96 |
+|
+bl1.3 .99 D
+=1, 8 [<ab a~b> <eb e~b> <db d~b> <cb(2 c~b(1>] \
+ 83 [<c)2 c~)1> <An an-I3> <B b>] [<dn d~n> <f f~-I3> <b b~>]
+=2' 16-s rest Eb rest E rest [E F] rest rest [D F D] [B D 8-s F]
+=2, 8 [Cb)2 F_ 8. G_b 16 A_b] 2 B_ bass
+|
+il1.0 .60 55
+=1' 8 [a~ g~# 8. e~# 16 f~#] 2 bn
+=1, 8. [c~# 16 bn] 83 [g g#-I3,] rest [gnl e#-I3, f#] [g b-I3, g]
+I0.5 .01 pp
+=2' 2 F#(2-P 8. [F)2 16 c# 8. Bn 16 d]
+
+6 systems 10 / 19-31-19 / 19-38-19 10 / 19-28-19 12 \
+ / 19-35-19 20 / 19-38-19 30 / 19-27-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 1b 96 | 96 |
+|
+=1' 8 [a~ g~# 8. e~# 16 f~#] 2 bn
+=1, 8. [c~# 16 bn] 83 [g g#-I3,] rest [gnl e#-I3, f#] [g b-I3, g]
+=2' 2 F#(2-P 8. [F)2 16 c# 8. Bn 16 d]
+|
+=1' 8 vol70 [a~ g~# vol80 8. e~# 16 f~#] 2 blank
+=1, vol60 8. [c~# 16 vol70 bn] 83 [f## g#-I3,] rest 4 vol80 <c~# c~~#> <bn b~n>
+i0.5 .07 cresc . . .
+=2' 4 rest c~# 83 rest'' rest''-I3 vol70 d~(2 [d~)2 e~ f~#]
+=2, 2 vol60 F#-P vol70 <G# dx e g#>
+/
+3 bars | 1b 8 6 6 7 6 6 7 6 6 5 6 9 6 6 6 5 \
+ | 9 9 8 8 8 8 8 8 8 8 8 7 | 6 6 6 7 6 6 6 6 6 6 5 6 6 6 5 6 |
+|
+=1' 4 <f#rl bn> vol70 a 2 vol60 <c g>
+=1, 83 rest, [e-I3, d] [Bn A F#] 2 G
+i0.5 .03 dim . . .
+I0.5 .50 p
+=2' 4 rest'' vol70 d~ 8. vol60 [c~ 16 d~] 83 vol50 [e~b f~ g~]
+=2, 2 vol70 <Bnrl-P d f#> vol60 <eb-P g>
+|
+=1' vol50 4 bb 2 ab 4 gb
+=1, 83 [eb db-I3, cb(1] [c)1 B-I3, c(1] vol45 [c)1 B-I3, c] [e d-I3, c]
+I0.35 ppp
+=2' 2 vol50 <F-P eb(1> <Ab e)1>
+|
+il0.4 .20 60
+=1' 2 <A en> a
+=1, 4. E 8 rest, d 4 c 8 A
+=2' 8. [c~ 16 bn] 83 [c~ d~ e~(1] 2 e~)1
+=2, 1 <c-P en a>
+/
+3 bars | 1b 84 | 84 | 5 5 5 5 5 5 5 5 6 7 4 4 4 4 4 6 6 9 6 5 |
+|
+=1 vol50 4 <g g~> 2 <f f~> 4 <e e~>
+I0.60 .01 pp
+=2 vol50 2 <g#lr-P bn d~> <b d~ g~#>
+|
+bl0.9 .99 E
+=1 vol50 4 <g g~> 2 <f f~> 4 <e e~> bass
+I0.60 .01 pp
+=2 vol50 2 <g#lr-Tre bn d~> <b d~ g~#>
+|
+=1' vol60 4 f~ e~ e~b 165 [d~ e~ d~-I5 c~# d~]
+=1, vol50 8 <ab c~> 4 <a c~> 8 <anl c~b> 2 bb
+I0.10 .01 p
+=2 vol55 4. d'-P 16 [e f] 4. gb-P 16 [f-* eb]
+/
+3 bars | 1b 5 5 5 4 5 5 5 5 6 10 4 4 4 4 4 7 6 11 7 5 \
+ | 5 4 5 4 5 11 6 6 6 6 5 4 5 4 5 11 6 6 6 5 \
+ | 5 4 5 4 5  6 6 12 6 12  5 4 5 4 5  11 6 11 6 5 |
+|
+=1' vol60 4 f~ e~ e~b 165 [d~ e~ d~-I5 c~# d~]
+=1, vol50 8 <ab c~> 4 <a c~> 8 <anl c~b> 2 bbl
+I0.10 .03 p
+=2' vol55 4. <D-P d> 16 [<E e> <F f>] 4. <Gb-,-P gb> 16 [<F-,-* f> <Eb eb>]
+|
+il0.9 .11 65
+=1' vol50 4 f~{'1 e~n}'1 e~b{'1 d~}'1
+=1, vol60 8 [ab a(2] 165 [a)2 bb a-I5, g a] vol50 8 b 4 b 8 b
+=2' 8 d 4 d 8 d vol60 [gb g(2] 165 [g)2 ab g-I5 f g]
+=2, 2 D-emph, c-emph,
+|
+=1' 4 d~b{'1 c~}'1 c~b{'1 b}'1
+=1, 8 ab 4 a 8 a gbl 4 g 8 g
+=2' 8 [e e(2] 165 [e)2 f e-I5 d# e] 8 [dn d(2] 165 [d)2 eb d-I5 c# d]
+=2, 2 B-emph, Abl-emph,
+/
+3 bars | 6 6 6 6 6 6 6 9 6 6 6 6 6 6 6 7 \
+ | 6 6 6 6 6 6 6 9 6 6 6 6 6 6 6 7 \
+ | 6 6 9 6 9 6 6 9 6 6 6 6 6 6 6 7 |
+| 1.8 1.7
+i0.6 .01 steigernd
+=1' 2 blank 2 A
+=1, vol70 2 <f# a> treble vol80 8 [<C Fn> Eb 8. B_n 16 C]
+i0.6 .01 cresc e accel
+=2' vol70 8 [<c f> eb 8. Bn vol80 16 c] 2 e
+=2, vol70 2 Eb-P Gb-P
+| 1.6 1.5
+=1' vol90 2 a  vol100 8 [f eb 8. Bn 16 c]
+=1, vol90 8 [<c f> eb 8. Bn vol100 16 c] 2 Gb
+=2, vol90 2 <ebrl-P gb> vol100 <gb-P e~b>
+| 2.8
+=1' 8 [a~b g~ 8. e~ 16 f~] 2 b
+=1, 8. rest' 16 d~b 4 b 16 rest, 8 [db f 16 e 8 c]
+r0.8 .01 der Mond läuft über hohe Eichen
+b0.35 Lebhafter
+=2' 8 rest 4. f 8 [ab g 8. e 16 f]
+=2, 4 F-* 16 [Gb Ab F G] 4 Gn-P Gb-P
+/
+3 bars | 6 5 9 7 9 6 6 10 6 6 6 6 6 6 6 5 \
+ | 6 5 9 7  9 6 6 10  6 6 6 6 6 6 6 5 \
+ | 6 5 6 6  9 6 10 6  6 10 9 6 9 9 5 4 |
+|
+il0.6 70
+=1' 8 [a~b g~ 8. e~ 16 f~] 2 b
+=1, 8. rest 16 d~b 4 b 16 rest, 8 [db f 16 e 8 c]
+=2' 8 rest' 4. f 8 [ab g 8. e 16 f]
+=2, 4 F-* 16 [Gb Ab F G] 4 Gn-P Gb-P
+|
+=1' 8 [a~b g~ 8. e~ 16 f~] 4 c~ b(1
+=1, 8. rest 16 d~b 4 b 8 [db f 8. d 16 B]
+=2' 8 rest' 4. f 16 rest' [B c d] rest'' 8 [eb 16 f]
+=2, 4 F-* 16 [Gb Ab F G] 4. Gn-P 8 B
+|
+=1' 4 b)1 ab 2 f#
+=1, 8 [c en db f] [F# Bn F# B]
+=2, 8 [c-P 16 g e]  16 [f eb c c#] \
+ [d-P d~ bn f#] [d Bn 8 F#]
+
+6 systems / 19-38-19 /19-38-19 /19-38-19 \
+ /19-38-19 7 /19-38-19 7 /19-43-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 1b 6 6 6 9 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 8 9 9 6 6 6 6 6 6 6 6 9 9 9 6 5 | 3/4 6 5 6 5 6 6 6 6 9 6 9 5 |
+|
+=1' 4 a 2 g 4 f
+=1, 8 rest [B d B] [e c#] [d G]
+=2' 16 rest' [e g a]  [bb c~ g b] rest' [d e g] 4 rest'
+=2, 4. E-P 8 rest, 4 An-P 16 vol90 [B-* c A B]
+| 0.7 0.74 0.79 0.85
+=1' 2 eb ab
+=1, 4 blank 16 vol80 [Ab B A G] 16 vol70 [A G A B] vol60 [cb db eb A]
+i0.9 .02 rit . . .
+=2' 16 rest''' vol80 [c~b ab eb] 4 a vol70 f~b vol60 e~b
+=2 1 cb-P
+| 3/4 1.7
+il0.5 75
+b1.2 .09 Etwas belebter
+=1' 3/4 vol70 4 rest' 4. g 8 f#
+=1, 3/4 vol50 8 rest, Eb(1 83 [E)1 C-I3, G_] 16 rest,, [Db E Gb]
+I0.6 .02 p
+=2' 3/4 vol60 2 An-P 4 B-P
+/
+3 bars | 1b 6 5 6 5 6 6 6 6 7 6 7 5 \
+ | 6 5 6 5 6 6 6 6 7 6 7 5 | 6 5 6 6 6 6 6 6 6 8 7 5 |
+|
+=1' vol75 8. [c 16 eb] 4. e 8 dn
+=1, vol50 8 rest, Eb(1 83 [E)1 C-I3, A_] 16 rest,, [Cb F Ab]
+=2' vol60 2 An-P 4 G#-P
+|
+=1' vol75 4 rest' 4. g 8 f#
+=1, vol50 8 rest, Eb(1 83 [E)1 C-I3, G_] 16 rest,, [Db E Gb]
+=2' vol60 2 A-P 4 B-P
+|
+=1' vol75 8. [c 16 vol80 b] 4. b 8 a
+=1, vol50 8 rest, Gb(1 83 [G)1 Eb-I3, C] 16 vol55 rest,, [E Gn c#]
+=2, vol60 2 eb-P vol65 4 en-P
+/
+3 bars | 1b 3 3 3 2 3 3 3 2 3 3 3 2 3 3 3 2 3 3 3 2 4 7 4 3 \
+ | 22 22 18 | 6 5 6 5 6 5 5 7 6 5 5 5 |
+| 2.4
+b1.2  Etwas zurückhaltend
+=1 8 rest [ab <f f~> <e e~>] [<eb e~b> 32 a g f# g]
+i0.9 .11 warm
+I0.6 .01 pp
+=2 vol50 4 <fr-* abl d~b> <f#l b d~n> <g bnl e~b>
+|
+il0.8 .51 80
+=1, 8 [<eb e~b> <d d~> vol70 <db d~b> vol65 <Gb gb>] 4 <A a(1>
+=2, 4 <g# c~ f~> <a-P d~bl g~b> rest
+|
+=1' 4 a)1 2 a
+=1, 8 [e d 8. A# 16 Bn] 4 F
+=2' 2 rest'' 8 [e~ d~]
+=2, 2. <F(2-P d(4>
+/
+3 bars | 1b 6 5 6 7 6 5 6 5 6 5 6 6 \
+ | 6 5 6 5 6 6 6 6 6 7 6 5 | 6 5 6 6 6 6 6 6 6 6 7 5 |
+| .8 .75 .7
+b1.1 .95 Wieder belebter
+=1' 2. <D A>
+=1, 8. [A_# 16 B_n] 2 F_
+=2' 4 rest' 8 [e d 8. A# 16 Bn]
+=2, 2. <F)2 d)4>
+| 1.7
+=1' vol70 4 rest' 4. bb 8 a
+=1, vol50 8 rest, Gb(1 83 [G)1 Eb-I3, B_b] 16 rest,, [En Gb A]
+I0.6 .02 p
+=2' vol60 2 c-P 4 db-P
+|
+=1' vol75 8. [eb 16 gb] 4. g 8 f
+=1, vol50 8 rest, Gb(1 83 [G)1 Eb-I3, C] 16 rest,, [D Ab Bb]
+=2' vol60 2 c-P 4 Bn-P
+/
+3 bars | 1b 6 5 6 5 6 6 6 6 6 7 7 5 \
+ | 6 5 6 5 6 6 6 6 6 7 7 5 | 3 3 3 2 3 3 3 2 3 3 3 2 3 3 3 2 3 3 3 3 7 5 5 4 |
+|
+il0.7 .11 85
+=1' vol75 4 rest' 4. bb 8 a
+=1, vol50 8 rest, Gb(1 83 [G)1 Eb-I3, B_b] 16 rest,, [En Gb A]
+=2' vol60 2 c-P 4 db-P
+| .6 .65 .70
+b1.4 .01 .90 Etwas zurückhaltend
+=1' vol75 8. [eb 16 vol80 d~b] 4. d~ 8 c~
+=1, vol50 8 rest, A(1 83 [A)1 Gb-I3, Eb] 16 vol55 rest,, [Gb Bb en]
+=2, vol60 2 f#-P vol65 4 g-P
+| 2.4
+=1, vol60 8 [e <Bn bn> <g# g~#> <gn g~n>] [<f# f~#> 32 b bb a b]
+i0.6 .12 warm
+I0.5 .01 pp
+=2, vol50 4 <g#rl-P bn e~> <a c~# f~> <a# d~ f~#>
+/
+3 bars | 1b 11 11 11 11 10 9 \
+ | 6 5 6 5 6 5 6 7 6 5 5 5 | 6 5 6 6 6 5 6 5 6 5 6 5 ||
+|
+=1, 8 [<f# f~#> <fn f~n> vol70 <e e~> vol65 <A a>] 4 <c c~(1>
+=2, 4 <g#r bnl d~#> <a-P c~ e~> rest
+|
+b0.7 .55 dim e rit.
+=1' 4 c~)1 2 c~
+=1, 8 [g f 8. c# 16 d] 4 Ab
+=2' 2 rest'' 8 [g~ f~]
+=2, 2. <Ab(2-P f(4>
+| .8 .75 .7
+il0.5 .18 90
+=1' 2. <F c>
+=1, 8. [C# 16 D] 2 G_#
+=2' 4 rest'' 8 [g f 8. c# 16 d]
+=2, 2. <Ab)2 f)4>
+
+6 systems 3 / 19-38-19 1 / 19-40-19 / 19-38-19 18 \
+ / 19-27-19 11 / 19-30-19 / 19-48-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 1b 4/4 3 3 3 2 3 2 3 2 3 3 3 2 3 3 3 2 \
+ 3 3 3 2 3 3 4 3 3 3 3 2 5 6 10 5 \
+ | 7 7 10 10 7 7 6 7 8 7 7 7 7 7 7 5 \
+ | 3 3 3 2 3 2 3 2 3 3 3 2 3 3 3 2 3 3 3 2 3 3 4 3 3 3 3 2 5 10 10 5 |
+| 3.0
+b0.7 .03 Lebhafter
+=1' 4/4 vol70 2 rest' 4 rest' 8 rest' 32 rest' [d f ab]
+=1, 4/4 8 rest 4 c 8 Bn 8. [F 16 Ab] 8 [A G]
+=2' 4/4 vol60 4 gb f <g#l bn> <bn d~>
+=2, 4/4 2 Ab-* 4 d f
+| 2.95
+=1' vol80 8 rest'' 4 c~ 8 bn 8. [f 16 ab] 8 [a g]
+=1, 4 eb d 4 Bn 8 [d G]
+=2' vol70 16 rest'' [f# g ab] [bn 8 c~ 16 d~] \
+ rest'' [bn c~ d~] rest'' 8 [d~ 16 b]
+=2, 2 Ab 4 d f
+| 2.9
+=1' vol90 2 rest' 4 rest' 8 rest'' 32 rest'' [f ab bn]
+=1, 8 rest 4 c 8 Bn 8. [F 16 eb] 8 [e d]
+=2' vol80 4 gb f <g#l bn> <d~ a~b>
+=2, 2 Ab-* 4 d bn
+/
+2 bars | 1b 3 3 3 3 4 4 4 4 3 3 3 3 3 3 3 3 4 3 3 3 3 3 4 4 3 3 4 4 3 3 3 2 \
+ | 3 3 3 3 4 4 3 3  4 3 3 3 7 5 8 5 \
+   4 3 4 4 3 3 4 4  3 3 3 3 5 7 8 5 |
+| 2.8
+=1' 8 rest'' 4 c~ 8 bn 8. [f 16 e~b] 8 [e~ d~]
+=1, 4 eb d 4 Bn 8. [ab 16 d]
+=2' 16 rest'' [f# g ab] [bn 8 c~ 16 d~] \
+ rest'' [bn c~ d~] rest'' [f~ 8 a~b]
+=2, 2 Ab 4 d bn
+|
+il0.7 .15 95
+=1' vol100 4. rest' 32 rest' [Bn d f#] 4. rest'' 32 rest'' [f ab bn]
+=1, 8. [F 16 Ab] 8 [A G] 8. [F 16 eb] 8 [e d]
+=2' vol90 16 rest'' [f g ab] rest'' [bn c~ d~] \
+ rest'' [bb bn d~] rest''' [f~ g~ a~b]
+=2, 4 d f ab bn
+/
+2 bars | 1b 3 3 3 3 4 4 3 3  4 3 3 3 7 5 5 5 \
+ 4 4 4 4 3 3 4 4  3 3 3 3 5 7 8 5 \
+ | 3 3 3 3 3 3 4 4  4 3 3 3 7 8 8 5 \
+   3 3 3 3 3 3 4 4  3 3 3 3 5 8 8 5 |
+| 2.75
+=1' 8. [f 16 ab] 8 [a g] 8. [f 16 e~b] 8 [e~ d~]
+=1, 4. rest, 32 rest, [Bn d e] 4. rest, 32 rest [f ab bn]
+=2' 16 rest'' [f g ab] rest'' [bn c~ d~] \
+ rest'' [bb bn d~] rest''' [f~ g~ a~b]
+=2, 4 d f ab bn treble
+| 2.7
+=1' vol110 8. [f 16 e~b] 8 [e~ d~] 8. [f 16 e~b] 8 [e~ d~]
+=1, 4 rest, <f ab> rest, <f ab>
+=2' vol100 8. rest' 16 eb 8 [e d] 8. rest' 16 eb 8 [e d]
+=2, 4 F-P 8 rest, 32 rest, [F Ab Bn] 4 F-P 8 rest, 32 rest, [F Ab Bn]
+/
+3 bars | 1b 6 6 7 6 6 5 6 10 6 6 6 6 6 5 6 6 \
+ | 12 13 12 13 12 13 12 11 || 4# 18 18 20 20 |
+|
+=1, 8 [<ab a~b> <g g~> 8. <en e~n> 16 <f f~>] \
+ 8 [<ab a~b> <g g~> 8. <en e~n> 16 <f f~>]
+=2 4 <Bb-P e> db <Bb-P e> db
+| 2.8
+=1 vol120 8 [<ab a~b-emph> <g g~>] [<ab a~b-emph> <g g~>] \
+ [<ab a~b-emph> <g g~>] [<ab a~b-emph> <g g~>]
+=2 vol110 4 <A_#-P E> <A#, e> <A_# E> <A#, e> bass
+# thicken ?
+| 3.8
+il0.8 .30 100
+=1 4# 2 <g e~ g~#> 4 vol110 <f# f~#> vol100 <e g# e~>
+b0.7 .25 Breiter
+#P =2 4# 1 <B(2-P e b e~ b~>
+#M =2 4# 8 B(2-P vol-5 e 83 b vol-5 e~ 1 vol-5 b~
+i0.5 .01 arpeggiando
+/
+3 bars | 4# 7 7 7 8 9 8 7 7 7 7 6 6 \
+ | 7 7 7 7 7 7 7 7 7 8 8 8 | 8 8 8 8 9 8 8 8 8 8 8 7 |
+|
+=1, vol90 4 <gnrl d~#> 83 [e~ c~-I3 g#] 2 vol80 <c a(2 c~(1>
+=2' 8 vol90 rest' 4 e~ 4 vol80 e~# 4. f~(3
+=2, 2 vol90 B)2-P vol80 <B(2-P f(1>
+|
+=1' 2 <a)2 c~)1(1> 8 [c~)1 vol70 e~(1] 83 [e~)1 c~-I3 g]
+=1, 8 c 4 g 8 f 4. A 8 e
+I0.7 .42 p
+i0.7 .55 dolce
+=2, 2. <B)2 f)1 f~)3> vol60 4 B(2
+|
+=1' 8 [a vol60 c~(1] 83 [c~)1 a-I3 e#] 8 [f a(1] 83 [a)1 f-I3 c]
+=1, 83 [c A-I3, e#] 43 f 83 c [A F-I3, c(1] 43 c)1 83 A(2
+=2, 4 B)2 2 B 4 B(2
+/
+3 bars | 4# 8 8 9 8 8 8 7 6 7 7 6 7 \
+ || 9/8 8 9 8 8 8 9 9 9 9 | 8 9 8 8 8 9 9 8 9 |
+|
+=1' 4 e 2 F 4 vol50 B
+=1, 83 [A)2 F-I3, C] [D# E C] 4 E <B_ D#>
+=2' 4 rest' 2 vol50 <f a> 4 <f-,-,-* a>
+=2, 2 vol60 B)2 vol50 B-P
+| 9/8 3.6
+il0.6 105
+b0.6 .20 Etwas Ruhiger
+=1' 9/8 vol65 4. A# E 8 rest' [A 16 c B]
+=1, 9/8 vol45 4. <C E> <A_# C> E
+I0.7 .02 pp
+r0.4 .07 die Stimme  eines Weibes spricht :
+=2' 9/8 vol40 8 rest' [f gn] [e f g] [g# f## g#]
+=2, 9/8 vol50 2. <E(2-P B> 4. <E)2-P B(4> 
+| 1.2 1.16 1.12
+=1' vol65 4. A# E 8 rest' [A 16 c B]
+=1, vol45 4. <C E> <A_# C> E
+=2' vol40 8 rest' [f gn] [e f g] [g#-,-P f## g]
+=2, vol50 4. <E(2-P B)4> 2. <E)2 B>
+
+6 systems / 19-40-19 / 19-37-19 / 19-41-19 \
+ / 19-35-19 8 / 19-42-19 / 19-42-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 4# 8 9 9 9 8 8 9 8 7 | 8 9 8 8 8 8 8 8 7 | 8 8 8 7 7 8 9 8 7 |
+| 1.06 1.03 1.00
+=1' vol65 4. A# vol70 B vol75 g
+=1, vol45 4. <C E> B_ 8 vol55 [G An B]
+=2' vol40 8 rest' [f gn] vol45 [g#-,-P f# g] vol50 4. e~
+=2, vol50 2. <E-P B> vol55 4. e(2
+| 1.05 1.09 1.13
+=1' vol80 vol75 g vol65 f vol75 e
+=1, vol60 vol60 4. B# 8 [c vol55 e c(2] [c)2 vol50 F vol45 c]
+=2' vol45 8 [e~ d~ d~n] rest' 4 c~ vol45 4. a
+=2, vol55 4. e)2-,-* vol50 A(2-P 8 A)2 rest,-,-* rest,
+| 3.4
+=1' vol65 4. d(1 4 d)1 8 e(1 [e)1 c G]
+=1, vol45 8 [Gn F E] 4. G(2 8 [G)2 G# E#]
+I0.4 .05 p
+i0.4 .55 dolce
+=2, vol50  4. a#(1 a)1-P b-,-*
+/
+2 bars | 4# 8 8 9 8 9 9 8 8 7 \
+ | 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4.5 3 3 3 |
+| 1.13 1.16 1.20
+il0.3 .15 110
+=1' vol65 4 A 8 c(1 [c)1 A E#] [F 8. c 16 B]
+=1, vol45 4 F 8 En 4 E# 8 C 4. D#
+i0.8 .12 rit . . .
+=2' vol50 8 [b# c~ f] 4. bn(1 8 b)1 4 f
+=2, 4. rest, rest,-P A-P
+| 3.5 
+I0.3 .12 2
+I1.3 .42 2
+I0.9 .83 2
+=1' vol70 8 rest' B [g gn] [f 32 B A# G A]
+=1, vol45 4. <B_ En> 8 rest, rest, c dn  rest, rest,
+i0.5 .05 warm
+=2' vol50 4 e 8 rest'' [<c~ e~#> d~# e~] [f~ e~n d~n]
+=2, 4 G-P 8 g 4. a-P a#-P
+/
+3 bars | 4# 9 8 9 8 8 8 8 8 7 | 9 7 10 8 8 9 8 7 8 | 8 7 8 8 9 8 9 8 7 |
+| 3.3
+I1.2 .23 2
+I0.8 .54 2
+=1' vol75 8 [f fn e An] 4 blank
+=1' 4. blank blank cn(1
+=1, vol45 4. rest, 4 rest, 8 F 4. E(2
+=2' vol50 8 [d~# g~# d~] 4. e~ 8 [f g a]
+=2, 4. b-* 4 c~n-P 8 rest 4. B(2-P
+|
+I0.9 .81 2
+=1' vol75 4. c)1(1 4 c)1 vol65 8 c# 4. blank
+=1' 4 blank blank 8 [d# c]
+=1, vol60 8 [E)2 8. D# 16 Cn] 4. C A_(2
+=2' vol50 4 f 8 a(1 [a)1 g f(1] 4. f)1
+=2, 2. B)2(2 4. B)2(2-P
+=2 8 blank 4 blank-,-P 2. blank
+| 1.1 1.17 1.26
+=1' vol65 8 [B# c] 2 blank
+=1' 4. blank D# Bn
+=1, vol55 4. A_)2 8 rest,, [B_ C#] [Ar G F]
+i0.5 .12 rit . . .
+=2' vol50 4. f(1 8 [f)1 g a] [c~ b a]
+=2, 2. B)2 4. B
+=2 8 blank 4 blank-,-P 2. blank
+/
+3 bars | 4# 8 9 8 8 8 9 9 8 9 | 8 9 8 8 8 9 9 8 9 | 8 9 8 9 8 8 9 8 7 |
+| 3.6
+bl0.5 .06 F
+il0.5 .26 115
+=1' vol75 4. A# E 8 rest' [A 16 c B]
+=1, vol55 4. <C E> <A_# C> E
+=2' vol50 8 rest' [f gn] [e f g] [g# f## g]
+=2, vol60 2. <E(2-P B> 4. <E)2-P B(4>
+| 1.2 1.16 1.12
+=1' vol75 4. A# E 8 rest' [A 16 c B]
+=1, vol55 4. <C E> <A_# C> E
+=2' vol50 8 rest' [f gn] [e f g] [g#-,-P f## g]
+=2, vol60 4. <E(2-P B)4> 2. <E)2 B>
+| 1.06 1.03 1.00
+=1' vol75 4. A# B vol80 g
+=1, vol55 4. <C E> B_ 8 vol55 [G An B]
+=2' vol50 8 rest' [f gn] vol45 [g#-,-P f# g] vol50 4. e~
+=2, vol60 2. <E-P B> vol55 4. e(2
+/
+3 bars | 4# 8 9 8 9 8 8 8 9 7 | 8 9 8 9 8 8 8 8 7 | 8 9 9 8 9 9 9 9 7 |
+| 1.0 1.0 1.1
+=1' vol80 g vol70 f vol75 e
+=1, vol70 4. B# 8 [c vol65 Bn A(2] 4. A)2
+=2' vol55 8 [e~ d~ d~n] rest' 4 c~ 8 [a vol50 g vol45 gn]
+=2, vol65 4. e)2-,-* vol50 A(2-P 8 A)2 rest,-,-* rest,
+| 1.0 1.0 0.9
+=1' vol75 4. dn(1 4 d)1 8 fn(1 [f)1 d B]
+=1, vol65 4. A 8 [Fn Gn A] 4 B 8 F
+=2' vol50 8 [d~n e~ f~n] [d~ e~ f~] [d~ e~ d~]
+=2, vol60 4. fn-P dn gn-*
+|
+il0.5 .10 120
+=1' vol75 4 cn 8 e(1 [e)1 c A#] [B An Gn(1]
+=1, vol65 4 E 8 A 4 A# 8 E Gn 4 Dn
+=2' vol50 4. c~n(1 8 [c~)1 e~ c~#] rest'' 4 b
+=2, vol60 8 [g# a f#] 4. gn-P fn-P
+/
+2 bars | 4# 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 7 4 3 | 8 8 9 9 9 9 8 9 7 |
+|
+I0.5 .17 2
+I1.1 .44 2
+I0.7 .81 2
+=1' vol75 8 [G)1 Gn] [e eb] [dn 32 Gn F E# F]
+=1, vol50 8 Cn rest,, rest,, rest, [Fn A] [Bbl F# Dnl]
+=2' vol50 8 rest'' [fn gn] [a b c~#] [d~n c~n bb]
+=2, vol60 4. e fn-P f#-P
+|
+I0.8 .11 2
+I0.9 .44 2
+I1.3 .77 2
+=1' vol75 8 [dn c#] [cn <Fn c>] [a ab]
+=1, vol55 4. blank blank 8 rest, [Bb dn]
+=2' vol55 8 [b e~ b] [c~n bb c~n] [d~n e~ f~#]
+=2, vol60 4. gn-P 4 g#l-* 8 a 4. bbl-P
+
+6 systems / 19-38-19 / 19-37-19 / 19-41-19 8 \
+ / 19-32-19 9 / 19-35-19 / 19-35-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars \
+ | 5 5 5 5 5 5 6 6 9 6 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 4 \
+ || 4# 4 2 4 2 4 4 2 4 2 4 4 4 4 4 4  \
+ 4 4 4 4 4 5 4 5 4 6 6 5 4 5 4 4 4 4 4 4 4 4 4 4 4 4 4 3 4 3 4 |
+| .95 .95 .90
+I1.1 .23 2
+I1.3 .51 2
+I0.9 .80 2
+b0.8 .95 Drängend, etwas unruhiger
+=1' vol75 8 [gn 32 cn B A# B] 8 [g f# fn Bb]
+=2' vol55 8 [g~n f~n e~b] [e~n a~n e~] rest''' [f~n bb]
+=2, vol55 4. bn c~ blank
+=2, vol65 4 blank-P blank-P 8 [d~b-P db]
+| .90 .90 .85
+I0.9 .78 2
+=1, 0 vol60 4 db 8 c [Gb vol80 165 g# a g-I5 f## g] 4. blank
+=1, 0 4 blank blank 8 [e~ e~b]
+=2' 0 vol60 4 a 8 bb 8 [a c~ d~] [c~# bn c~#]
+=2, 0 vol70 4 eb-* 8 en 4 eb 8 en 4. f
+/
+2 bars | \
+ 3 2 3 2 3  3 3 3 3 3  3 3 3 3 3 \
+ 3 3 3 3 3  5 4 4 3 5  4 4 3 4 3 \
+ 3 3 3 3 3  3 3 3 3 3  3 3 3 2 2 | \
+ 3 3 3 3 3  5 4 4 3 5  4 4 3 4 3 \
+ 3 3 3 3 3  3 3 3 3 3  3 3 3 3 3 \
+ 3 3 3 3 3  5 4 4 3 4  3 4 3 3 3 |
+| .89 .89 .84
+il0.7 .13 125
+# =1' 8 d~ rest' rest' 4 rest' 8 f~#(1 [f~)1 d~n bb]
+I0.3 .78 2
+=1  vol85 8 d~ rest' rest' rest' 165 [A Bb' A-I5 G# A] 4. blank
+=1  4 blank blank 8 [f e]
+=2' vol65 4 d~ 8 bn [<a# d~> g b] [bb c~ d~]
+=2, vol75 4 f# 8 fnl 4 e 8 f 4. f#l
+| .88 .88 .84
+I1.1 .44 2
+=1, vol90 4 blank 8 [e~b d~n] 4 blank
+=1  8 [bn 165 f# g f-I5 e# f] 4. blank 8 <fn d~b> 165 [Ab Bb' A-I5 G A]
+i0.8 .05 steigernd
+=2' vol70 4 d~b 8 c~ [<b e~b> ab bb] 4 e~b 8 d~n
+=2, vol80 4 g 8 f# 4 fn 8 f#l 4 an 8 g#l
+/
+2 bars | \
+ 3 3 3 3 3  3 3 4 3 3  3 3 3 3 4 \
+ 3 3 3 3 3  4 3 4 3 5  4 4 3 4 3 \
+ 3 3 3 3 3  3 3 3 3 3  3 3 3 2 2 || \
+ 3/4 6 5 6 5 6 5 6 7  5 5 5 5 8.5 8.5 7 7 6 6 6 6 6 6 6 4 |
+| .87 .87 .84
+I1.1 .17 2
+I1.3 .78 2
+=1' vol95 8 [f en] 2 blank 
+=1, 2 blank 8 [g~ f~#]
+=1, vol75 8 [Bb 8. db 16 c] 8 g 165 [a# b a-I5 g## a] 4. blank
+=2' vol75 8 [d~b bb c~] 8 [f~ f~# e~] [e~b c~ d~n]
+=2, vol85 4 g 8 ab 4 b 8 a# 4 an 8 bbl
+| .84 .84 .82
+b0.9 .02 rascher werdend
+=1, 3/4 vol100 8 [a g#] [e# 32 gn f# e# f] 8 [<f f~#> <fn f~n>]
+i0.8 .02 steigernd
+#=2, 3/4 vol90  4 <e d~> <a# e~> <b d~# g~>
+=2, 3/4 vol90  163-s [e-P d~ e d~ e d~] \
+ 16 [a# 8. e~n] 165-s [b-P d~# g~-I5 d~ b]
+/
+2 bars | \
+ 6 5 6 5 6 5 6 7  5 5 5 5 8.5 8.5 7 7 6 6 6 6 6 6 6 9 | \
+ 6 5 6 5 6 5 6 7  5 5 5 5 8.5 8.5 7 7 6 6 6 6 6 6 6 4 |
+| .83 .83 .81
+=1, vol105 8 [<b e~> a#] [f## 32 an g# f## g] 8 [<g g~#> <gn g~n>]
+=2, vol95  163-s [f#-P c~ f c~ f c~] \
+ 16 [f~# 8. c~] 163-s [c~#-P e~# c~ e~ c~ e~] treble
+| .82 .82 .80
+il0.9 .20 130
+=1, vol110 8 [<d~bl g~b> c~] [a 32 c~ bb a b] 8 [<b b~b> <a a~>]
+=2' vol100 163-s [A_b-P Gb A_ G A_ G] \
+ 16 [D 8. Ab] 163-s [Eb-P Gn E G E G]
+/
+2 bars | 6 6 6 9 6 6 6 9 6 6 6 6 || 4/4 80 |
+| .81 .81 .81
+=1, vol115 16 [<ab a~b> <g g~> 16. <d d~> 32 <eb e~b>] \
+ 16 [<a a~> <g g~> 16. <d d~> 32 <e e~>] \
+ 16 [<a a~> <g g~> 16. <d d~> 32 <e e~>]
+I0.5 .02 ff
+=2' vol110 8 [B G] [B G] [B G]
+=2, 4 Eb-P E E
+| 4/4 3.0
+=1 4/4 vol115 8 <d bb d~> 32-s [d' D d' D] \
+ [d' D d' D d' D d' D] [d' D d' D d' D d' D] [d' D d' D d' D d' D]
+I0.5 .02 ff
+b0.4 .12 Lebhaft bewegt
+=2' 4/4 8 vol110 <En-P G Bb> rest 4 rest 2 rest bass
+/
+2 bars | 96 | 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 8 |
+|
+=1' 8 <D d> rest 4 rest 2 rest
+=2' 163-s [E e E vol-5 e E e] [E e vol-5 E e E e] \
+ [E e vol-5 E e vol-5 E e] [E e vol-5 E e vol-5 E e]
+|
+=1' 2 blank 1 rest
+i0.6 .03 dim . . .
+=2' 163-s [E e vol-5 E e vol-5 E e] [E e vol-5 E e vol-5 E e] vol-5 \
+ [E e vol-5 E e vol-5 E e] vol-5 [E e E-Una e E e] treble
+
+6 systems / 19-38-19 / 19-37-19 / 19-41-19 8 \
+ / 19-32-19 9 / 19-35-19 / 19-35-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 4 4 4 4 4 6  5 4 4 4 4 4 4 4 4 4 4 6 5 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+il0.7 .06 135
+=1, vol45 163-s [a d Bb d a B] [g# d# Bn d g b] \
+ [d~ a# e a d~ e] [c~# f Bn f c~ b]
+r0.5 .05 Ich trag ein Kind, und nit von dir
+I0.2 .01 ppp
+=2' vol65 163 [A-*  vol45 163-s F E-P F E F] \
+    vol65 163 [Ab-* vol45 163-s Gb F-P G F G] \
+    vol65 163 [d-*  vol45 163-s Gn F#-P G F G] \
+    vol65 163 [c#-* vol45 163-s Ab G-P A G A(1]
+|
+=1, vol45 163-s [f~ c~ f c~ f~ f] [e~ c~# g c~ e~ g] \
+  83 [dn <Bbl eb>-I3 Bn] [<Ebl Ab> En-I3 B_b]
+=2 16 <F-* Ab)1> 8. rest-P 16 <E An> 8. rest-P 4 rest-Tre bass vol110 d-emph
+I0.2 .65 ff
+/
+2 bars | 5 5 5 5 6 5 6 6 5 5 5 5 5 5 5 5 \
+ | 4 6 4 4 5 4 4 4 4 4 4 6 4 4 4 6 4 6 4 3 4 3 4 3 |
+|
+i0.7 .24 wild, leidenschaflich
+I0.6 .67 ff
+=1, vol120 2 rest' 4 rest' 4 f~(1
+=1, 4 vol110 <B_bxr C Gb> vol80 <A_ C F> vol110 <B_bx C Gb> vol80 <A_ C F>
+I0.4     f
+I0.7 .21 p .42 f .70 p
+=2' 4 Eb(2-P 16 [E)2 db c dn] 2 Eb-P treble
+|
+=1, vol120 163 [f~)1 e~ e~b-I"   6" d~ g d~b] 83 [c~ 83. bn-I3 163 f] 2 ab(1
+=2  vol80 8 [<B_br Dbl Gb> vol+7 <B_n E Gn>] vol+7 [<Dn F Ab> 16 D_-.-* F_-.] \
+ vol+7 163 [A_b-. C-. D-.-I"   6" vol+7 F-. Ab-. d'-.] \
+ vol+7 83 [eb-. 83. e 163 e]
+/
+2 bars | 4 6 4 5 5 6  4 4 4 4 4 6  6 6 4 6.4 6 4  4 3 4 3 4 9 \
+ | 3 3 3 3 3 3  6.3 6.3 6.3 4 6.3 6  4 3 4 3 3 6  3 3 2 3 3 2 |
+|
+=1, vol120 163 [a)1 g gb-I"   6" f Bb fb] 83 [eb 83. d-I3 163 Ab] 2 cb(1
+=2  vol80 8 [<E-P A c#'> vol+7 <D G Bb'>] vol+7 [<F Abl cb'> 16 D_-.-* F_-.] \
+ vol+7 163 [A_b-. Cb-. Eb-.-I"   6" vol+7 F-. Ab-. cb'-.] \
+ vol+7 83 [d-. 83. d 163 d] bass
+I0.3 .96 ff
+| .75 .77 .80 .84
+il0.5 .09 140
+i0.4 .40 rit . . .
+=1' 4 c)1 vol80 <A_b B_x F> vol100 <A_n C Gb> vol80 <A_b B_x F>
+=1, vol100 4 <D G> 2. blank
+=2' 4 dn(2-P 163 [d)2-* c# cn-I"   6" Bn F Ab] \
+ 83 [Eb 83. Gb-. 163 C] 4 Eb treble
+/
+2 bars | 6 8 6 8 8 6 8  3 3 3 3 3 3 3  3 3 3 3 3 3 3  8 8 8 8 8 8 4 \
+ | 3 3 3 3 3 3 3  3 3 3 3 3 3 3  8 8 8 8 6 8 8  3 3 3 3 2 3 2 |
+| .80 .77 .75 .73
+=1, vol110 32 [G# A A# B-I7 c c# d] 4.. blank 32 [F# Gn G# An-I7 A# B cn]
+=1, vol120 4 blank 8 [<eb d~b> c~] 8. [<db a> 16 bb] 4 blank
+=2' vol110 32 [B_ C C# D-I7 D# E F] 4.. blank 32 [A_ A_# B_ Cn-I7 C# Dn D#]
+=2' vol120 4 blank <F# A> rest blank
+| .73 .72 .71 .70
+=1, vol120 8 [<db c~b> bb] 8. [<cb g> 16 ab] 4 blank 8 [<B an> g#]
+=1' 4.. blank 32 [E F F# G-I7 G# A A#] 8.. blank
+=2' vol120 4 <E G> rest 4 blank <D F>
+=2' 4.. blank 32 [G_ G_# A_ A_#-I7 B_ C C#] 8.. blank bass
+/
+2 bars | 4 4 4 4 4 4  5 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 9 \
+ | 4 5 4 5 4 5.5  5 4 5 4 5 4  4 5 4 5 4 5.5  5 4 5 4 5 3|
+| .7 .75 .75 .75
+=1, 8. [<A f> 16 f#] 4 rest 2 rest
+=2' 4 rest 163-s vol120 [F#-P f# vol-9 F f vol-9 F f] \
+ vol-9 [F f vol-9 F f vol-9 F f] vol-9 [F f vol-9 F-Una f vol-9 F f] treble
+i0.3 .51 dim . . .
+|
+bl0.8 .02 G
+=1, vol45 163-s [b e c e b c] [bb f c# f bb c#] \
+ [e~ c~ f# c~ e~ f#] [e~b g c# g e~b c~#]
+I0.8 .01 ppp
+=2' vol65 163 [B-*-emph vol45 163-s G F#-P G F# G] \
+ vol65 163 [Bb-*-emph vol45 163-s Ab G-P Ab G Ab] \
+ vol65 163 [e-*-emph vol45 163-s An G#-P A G# A] \
+ vol65 163 [eb-*-emph vol45 163-s Bb A-P Bb A Bb(1]
+/
+2 bars | 4 4 4 4 4 4 5 4 4 5 4 4 3.5 3.5 3.5 3.5 3.5 3.5 3.5 3.5 3.5 3.5 3.5 3\
+ | 5 4 5 4 6 5 6 5 5 4 5 4 5 4 5 4 |
+|
+=1, vol45 163-s [g~ d~ g d~ g~ g] [f~# e~b a e~b f~# a] \
+ 83 [e <c f-I3> c#] [<F Bb> F#-I3 C]
+il0.6 .01 145
+=2 16 <G-* Bb')1> 8. rest-P 16 <F#l Bn'> 8. rest-P 4 rest-Tre bass vol110 e-emph
+I0.2 .71 ff
+|
+i0.5 .52 wild
+I0.4 .65 ff
+=1, vol120 2 rest' 4 rest' 4 g~(1
+=1, 4 vol110 <Cxr D G#> vol80 <B_ D Gn> vol110 <Cx D G#> vol80 <B_ D Gn>
+I0.3 .01 f
+I0.8 .18 p .43 f .70 p
+=2' 4 F(2-P 16 [F)2 eb d en] 2 F-P treble
+
+6 systems / 19-35-19 / 19-35-19 / 19-40-19 \
+ / 19-35-19 9 / 19-38-19 / 19-35-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 6 4 4 4 4 4  4 4 3 4 4 6  4 4 4 6.5 4 4  4 3 4 4 3 3 \
+ | 4 6.5 4 4 4 4  4 3 4 3 4 6  7 6.5 4 6.5 7 6.5  4 3 4 3 4 9 |
+|
+=1, vol120 163 [g~)1 g~b f~-I"   6" e~ a e~b] 83 [d~ 83. c~#-I3 163 g] 2 bb(1
+=2 vol80 8 [<Cr Ebl G#> vol+7 <C#l F# A>] vol+7 [<En Gnl Bb'> 16 E_-.-* G_-.] \
+ vol+7 163 [B_b-. D-. E-.-I"   6" vol+7 G-. Bb'-. e'-.] \
+ vol+7 83 [f-. 83. f 163 f]
+|
+=1, vol120 163 [b)1 a ab-I"   6" g c gb] 83 [f 83. e-I3 163 Bb] 2 db(1
+=2 vol80 8 [<F#-P B' eb'> vol+7 <E A c'>] vol+7 [<G Bbl' db'> 16 E_-.-* G_-.] \
+ vol+7 163 [B_b-. C#-. Fn-.-I"   6" vol+7 G-. Bb'-. c#'-.] \
+ vol+7 83 [en-. 83. e 163 e] bass
+/
+2 bars | \
+ 3 3 3 3 3 3 3  7.3 5 7 7 4 8 6  5 3 3 3 3 3 5  3 3 3 3 3 3 3 | \
+ 8 8 8 8 6 8 8  3 3 3 3 3 3 3  3 3 3 3 3 3 3  8 8 8 8 8 6 5  |
+| .75 .77 .80 .84
+i0.4 .40 rit . . .
+=1' 4 d)1 vol80 <B_bll C#llx G> vol100 <B_n D Ab> vol80 <B_bll C#llx G>
+=1, vol100 4 <E A> 2. blank
+=2' 4 e(2-P 163 [e)2-* eb d-I"   6" c# G Bb] 83 [F 83. G#-. 163 D] 4 F treble
+I0.3  ff
+| .80 .79 .78 .77
+il0.7 .02 150
+=1, vol110 32 [Bb Bn c c#-I7 d eb en] 4.. blank 32 [G# A Bb Bn-I7 cn c# d]
+=1, vol120 4 blank 8 [<f e~b> d~] 8. [<eb b> 16 c~] 4 blank
+=2' vol110 32 [C# D Eb En-I7 F F G] 4.. blank 32 [B_ Cn C# D-I7 Eb En F]
+=2' vol120 4 blank <G# B> rest blank
+/
+2 bars | \
+ 3 3 3 3 3 3 3  3 3 3 3 3 3 3  7 7 6 7 6 7 7  3 3 3 3 3 2 2 | \
+ 3 3 3 3 3 3 3  3 4 3 3 4 3 4  3 4 3 3 4 3 4  3 4 3 3 4 3 3 ||
+| .76 .75 .74 .73
+=1, vol120 8 [<eb d~b> c~] 8. [<db a> 16 bb] 4 blank 8 [<db bn> bb]
+=1' 4.. blank 32 [F# G G# A-I7 A# B c] 8.. blank
+=2' vol120 4 <F# A> rest 4 blank <E G>
+=2' 4.. blank 32 [A_ A_# B_ C-I7 C# D D#] 8.. blank bass
+| .73 .74 .76 .78
+=1' 4 blank 83 [a' vol100 f'-I3 db'] [Bb' vol-14 Gb-I3 Cn] 4 rest
+=1, vol120 8. [<B g> 16 g#] 83 vol100 [c vol-14 Ab-I3, E] 2 blank
+i0.5 .47 dim . . .
+=2, 4 rest rest 83 vol100 [c~# vol-14 a-I3 d#] [B vol-14 G Eb]
+=2' 2. blank 83 [g# e-I3 c]
+/
+2 bars | 3/4 \
+ 3 2 2 2 3 2 2 2  2 3 3 3 3 2 3 3  3 2 3 2 4 4 4 3 | \
+ 3 2 2 2 3 2 2 2  3 2 3 3 3 3 3 3  3 3 3 3 3 4 4.4 3 |
+| 2.2
+b0.7 .01 Noch bewegter
+=1' 3/4 vol100 4 <A_b Ab(1> 163 [A)1 G Gb-I"   6" F B_b E] \
+ 8 rest' 32 vol70 [F vol+7 Gb vol+7 Ab vol+7 Bb]
+=1, 3/4 vol100 2 blank 83 [Eb 83. D 163 A_b]
+I0.4 .01 f
+=2  3/4 vol80 8 [C-., <c-., eb'>] [<c#l,-. en> <d-. f>] 4 <f ab>
+I0.1 .01 p
+|
+=1' vol110 4 <B_ Bn(1> 163 [B)1 Bb A-I"   6" G# C# Gn] \
+ 8 rest' 32 vol70 [G# vol+7 A vol+7 Bn vol+7 c#]
+=1, vol110 2 blank 83 [F# 83. Fn 163 B_]
+I0.3   f
+=2 vol90 8 [D#-., <d#l'-., f#'>] [<e-. g> <fnl-. ab>] 4 <g# b>
+/
+2 bars | 4 4 4 4 4 4  5 5 4 4 4 4  4 4 4 4 4 4 \
+ | 3 2 3 2 3 2 3 2   3 2 3 2 3 2 3 2  3 3 3 3.5 4.5 4.5 4.5 3 |
+|
+il1.3  155
+=1, vol120 4 <d d~(1> 163 [d~)1 c~# c~n-I" 6" b e bb] 83 [a 83. g# 163 d]
+I0.7 .01 f
+=2' 2 blank 4 <b d~>
+=2, vol100 165-s [f#-P a f-I5 a f] 8 [<g-* bb> <g#l-. bn>] \
+ 16 rest [e d fn]
+|
+=1  vol120 8 ab rest vol70 [Db vol+10 <E_ C>] vol+10 16. [E 32 Eb F vol+10 Gb Ab Bb']
+=2' vol70 8 [<D#-. A> vol+5 <E-. Bb> vol+5 <F-. A> vol+5 <F#l-. A#> vol+5 <G-. Bn> vol+5 <Ab-. c>]
+/
+2 bars | \
+ 3 2 2 2 3 2 2 2  3 2 3 3 3 3 3 3  3 2 3 4 3 4 4 2 | \
+ 3 2 2 2 3 2 2 2  3 3 3 2 2 3 3 3  3 3 3 3 3 3 3 3 |
+|
+=1' vol110 4 <B_ B(1> 163 [B)1 Bb A-I"   6" G# C# Gn] 8 rest' 32 vol80 [G# vol+7 A vol+7 Bn vol+7 c#]
+=1, vol110 2 blank 83 [F# 83. Fn 163 B_]
+I0.6    f
+=2 vol90 8 [D#-., <d#l'-., f#'>] [<e,-. g> <fnl-. ab>] 4 <g# b>
+I0.4    p
+|
+=1' vol120 4 <D d(1> 163 [d)1 c# cn-I"   6" B E Bb] 8 rest' 32 vol80 [Bn vol+7 c vol+7 d vol+7 e]
+=1, vol120 2 blank 83 [A 83. G# 163 D]
+I0.6   f
+=2 vol100 8 [F#-., <f#'-., a'>] [<g-. bb> <g#l-. bn>] 4 <b d~>
+
+6 systems 8 / 19-35-19 / 19-38-19 / 19-35-19 8 \
+ / 19-32-19 6 / 19-35-19 9 / 19-40-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 4 4 4 4 4 5  4 5 4 4 4 5  4 4 4 4 4 3 | 70 |
+|
+=1, vol125 4 <f f~(1> 163 [f~)1 e~ e~b-I" 6" d~ g d~b] 83 [c~n 83. b 163 f]
+I0.8   f
+=2' 2 blank 4 <d~ f~>
+=2, vol110 165-s [a-P c~ a-I5 c~ a] 8 [<a#l-* c~#> <bnl-. d~>] 16 rest [g f g#]
+|
+il0.7 .15 160
+=1 8 b rest vol80 [E-. vol+7 D#-.] vol+7 [G-. vol+7 F#]
+I0.5 .05 p
+i0.5 .17 cresc . . .
+=2' vol75 8 [<F#-.,-Una c> vol+7 <G-., db> vol+7 <G#-., c> \
+ vol+7 <A-., c#> vol+7 <A#l-., dn> vol+7 <B d#>]
+/
+2 bars | 6 6 6 6 6 6 9 8 8 8 8 8 7 7 7 7 7 7 \
+ | 9 8 8 8 8 9 7 7 7 7 7 7 6 6 6 6 6 6
+|
+bl0.9 H
+=1, vol55 4 d~(1 163 [d~)1 d~b c~-I"  6" b e bb] 83 [a 83. g# 163 d]
+=1, 
+I0.7 .02 pp
+=2, vol65 8 [<f-P d~> <ab c~>] [g ab] 83 [bb e~-I3 f~]
+|
+=1' 8 f blank 4 blank blank
+=1, 163 [d db c-I"  6" B F B] 8 [eb Eb] 4 F
+I0.3 .02 ppp
+=2 83. [d-P 163 f e d] 83 [db'-P Bn-I3 c] 8 [db-P dn]
+/
+2 bars | 6 6 6 6 6 6 8 9 8 8 8 9 7 7 7 7 7 5 \
+ | 8 9 8 8 8 9 7 7 7 7 7 7 6 6 6 6 6 5 |
+|
+=1, vol55 4 f~(1 163 [f~)1 e~ e~b-I"  6" d~ g c~#] 83 [c~n 83. b 163 f]
+I0.7 .02 pp
+=2, vol65 8 [<g#-P f~> <b e~b>] [bb bn] 83 [c~# g~-I3 g~#]
+|
+=1' 8 ab blank 4 blank blank
+=1, 163 [f e eb-I"  6" d G# d] 8 [f# F#] 4 G#
+I0.3 .02 ppp
+=2, 83. [f-P 163 ab g f] 83 [e-P d-I3 d#] 8 [e-P f]
+/
+2 bars | 6 6 6 6 6 6 8 9 8 9 8 9 7 7 7 7 7 5 \
+ | 6 6 6 6 6 6 9 8 9 9 8 8 9 9 8 8 8 6 |
+|
+il0.7 .12 165
+=1 vol100 4 <ab a~b(1> 163 [a~b)1 g~ g~b-I"  6" f~ bb e~] 83 [e~b 83. d~ 163 g#]
+I0.9 .03 f
+=2, vol100 8 [<b-Tre g~#> <d~ f~#>] [c~# d~] 83 [d~# e~-I3, f~]
+|
+=1 vol110 4 <B(2 b> 163 [B')2 Bb' A-I"   6" Ab Db G] [e Gb, eb-I"   6" d 83 f]
+=2, 8 [<d-P b> f] [e f] 83 [f# <g-I3, f~> 163 g# d~]
+/
+2 bars | 6 6 6 6 6 6 8 9 8 9 8 9 7 7 7 7 7 5 \
+ | 6 6 6 6 6 6 9 8 9 9 8 8 9 9 8 8 8 6 ||
+|
+=1 vol115 4 <ab a~b(1> 163 [a~b)1 g~ g~b-I" 6" f~ bb e~] 83 [e~b 83. d~ 163 g#]
+I0.9 .01 ff
+=2, vol115 8 [<b g~#> <d~ f~#>] [c~# d~] 83 [d~# e~-I3, f~]
+|
+=1 vol110 4 <B(2 b> 163 [B')2 Bb' A-I"   6" Ab Db G] [e Gb, eb-I"   6" d 83 f]
+=2, 8 [<d b> f] [e f] 83 [f# <g-I3, f~> 163 g# b]
+/
+3 bars | 2b 4/4 8 9 8 9 8 8 8 8 9 9 8 7 \
+ | 8 8 8 8 8 8 9 8 9 8 8 7 | 8 9 8 9 8 8 8 8 9 9 8 7 |
+| 4/4 2.6
+=1' 2b 4/4 vol120 4 <g g~> 8 [<f f~> e~b] \
+ 8. [<d d~> 16 <e(3 e~(1>] 83 [<e)3 e~)1> c~-I3 g-.]
+=1, 2b 4/4 vol105 83 rest, [G-I3, Bn] [G Eb-I3, G] \
+ rest, [F-I3, c] rest, An-I3, rest,
+I0.6 .01 ff
+=2, 2b 4/4 vol120 2 eb-P 4 ab-P c~
+| 2.5
+il0.9  170
+=1' vol75 83 rest' [<B d> e] vol+10 rest' [B-I3 B] \
+ vol+10 rest' [Bn-I3 c] vol+10 rest' [<d g-I3> e]
+=1, vol105 4 G 8 [F Eb] 8. [D 16 E(2] 83 E)2 rest, rest,
+I0.2 .02 p
+i0.2 .20 cresc . . .
+=2' vol70 2 Eb-P 4 vol+15 Ab-P vol+15  83 rest' [c~ g]
+=2, 2. blank 4 c
+|
+=1' vol120 4 <g g~> 8 [<f f~> e~b] \
+ 8. [<d d~> 16 <e(3 e~(1>] 83 [<e)3 e~)1> c~-I3 g-.]
+=1, vol105 83 rest, [G-I3, Bn] [G Eb-I3, G] \
+ rest, [F-I3, c] rest, An-I3, rest,
+I0.6 .01 ff
+=2, vol120 2 eb-P 4 ab-P c~
+
+6 systems 12 / 19-35-19 10 / 19-25-19 5 / 19-40-19 8 \
+ / 19-30-19 6 / 19-45-19 9 / 19-35-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 2b 6 6 6 6  6 6 6 6  6 6 6 7  6 6 6 5 \
+ | 6 6 6 7  6 6 6 8  6 7 6 7  6 6 6 5 \
+ | 6 6 6 7  6 6 6 6  6 7 6 7  6 6 6 5 |
+| 2.5
+=1' vol75 83 rest' [<B d-I3> e>] vol+10 rest' [B-I3 B] \
+ vol+10 rest' [Bn-I3 c] vol+10 rest' [<d g-I3> e]
+=1, vol105 4 G 8 [F Eb] 8. [D 16 E(2] 83 E)2 rest, rest,
+I0.2 .02 p
+i0.2 .20 cresc . . .
+=2' vol70 2 Eb-P 4 vol+15 Ab-P vol+15  83 rest' [c~ g-P]
+=2, 2. blank 4 c
+| 2.4
+=1' vol85 8. [<D d> 16 <E(2 e(1>] 83 [<E)2 e)1> c-I3 G] \
+ vol95 8. [<F# f#> 16 <G(2 g(1>] 83 [<G)2 g)1> e-I3 c]
+i0.6 .01 molto cresc . . .
+=2' vol70 83 rest' [e g] rest' [e-I3 c~] \
+ vol80 rest' [g-I3 bn] rest'' [g-I3 c~]
+=2, vol70 4 E G vol80 Bn-Ped e-Ped
+| 1.15 1.10
+=1' vol105 8. [<Bn bn> 16 <c(2 c~(1>] 83 [<c)2 c~)1> g-I3 e] \
+ vol115 8. [<d d~> 16 <eb(2 e~b(1>] 83 [<e)2 e~)1> c~-I3 <A g>]
+=1, vol90 83 rest,, [C-I3, E] rest,, [E-I3, G] vol100 rest, [G-I3, Bn] 4 rest,
+# rest, [B-I3, c]
+=2 vol90 4 g-Ped treble C vol100 Eb vol110 8 [A-,-Ped A_]
+/
+3 bars | 2b 6 6 5 5 6 6 6 5 | 6 6 5 5 6 6 6 5 \
+ | 6 6 5 5 5 6 6 7 |
+| 1.08 1.05
+il0.9 175
+=1 vol125 8 [<eb e~b> <d d~>] 4. <ab a~b> 8 [<g g~> <c~b c~~b> <b b~>]
+I0.6 .01 fff
+b0.5 .12 Schneller werdend
+=2' vol110 4 <B_br Fbl Ab> <Cbl-P Eb A> <Db Fbl Bb> <Eb-P G db> bass
+| 1.00 0.95
+b1.3 .96 Sehr breit
+=1 vol125 8 [<eb e~b> <d d~>] 4. <ab a~b> 8 [<g g~> <c~b c~~b> <b b~>]
+=2, 4 <Br fbl ab> <cbl-P eb a> <dbl f bb> <eb-P d~b> treble
+| 3.0
+=1  vol125 8 [<eb e~b> <d d~>] 4. <ab a~b> 8 [<g g~> <c~b c~~b> <b b~>]
+I0.5 .01 fff
+i0.6 .20 molto rit . . .
+=2' vol125 8 [Eb D-P] 4. Ab 8 [G cb-P B] bass
+/
+3 bars | 2b 11 12 12 13 12 11 12 9 \
+ | 8 9 9 8 9 9.5 9 8 9.5 9.5 9 7 | 8 9 9 8 8 8 9.5 9 8 8 8 7 |
+|
+=1, 8 <db bbl d~b> [<c c~> <a f~ a~-emph,> <ab a~b-emph,>] \
+ <Bn f#l bn> [<Bb bb> <g e~b g~-emph,> <f# f~#-emph,>]
+=2, 8 <enrl d~b> rest-,-P 4 <c# bn> 8 [b bb-P] 4 <Bn a>
+| .75 .76 .78 .80
+=1  83 [<f f~> <d-I3, d~> <Bn bn>] [<Ab ab'> <D-I3, d'> <B_n  Bn'>] \
+ [<G_# G#> <F_n Fn-I3> <D_ D>] [<F_n Fn> <G_# G#-I3> <B_n  Bn'>]
+#=2' 8 blank Bn(1 83 [B)1 d-I3 B] [G# F-I3 D] [F G#-I3 B]
+=2' 8 blank Bn(1 4 B)1 83 [G# F-I3 D] [F G#-I3 B(1]
+=2, 8 [ab D(2-P] 2. D)2
+| .83 .86 .90 .95
+il0.6 .01 180
+=1, 83 [<D d> <F f> <G# g#>] [<Bn bn> <B_n B-I3> <D d>] \
+ [<F f> <G# g#-I3> <B b>] [<d d~> <G g-I3> <f f~>]
+i0.7 .45 cresc . . .
+=2 4 Bn)1(1 83 [B)1 B d'] vol125 [f g#-I3 bn] [d~ g-I3 f~]
+=2, 4 D 2. D
+/
+3 bars | 2b 6 6 6 7 6 6 6 6 6 5 5 5 6 6 5 5 \
+ | 6 6 6 9 6 6 6 6 6 5 5 5 6 6 5 5 \
+ | 6 6 6 9 6 6 6 8 6 5 5 5 6 6 5 5 |
+| 4.0
+b0.8 Sehr langsam
+=1' 4 rest' 2 f~ 4 <en e~n>
+=1, 8. rest, 16 [a 8. g 16 bb] 4. d 8 c#
+I0.6 .02 fff
+=2' 8. rest' 16 [a 8. g 16 bb] 4 d <c# g>
+=2, 4 rest,-,-* 2 <Ar(2-P f> 4 A)2-P
+|
+=1' 4 rest' 2 e~b 4 <f d~>
+=1, 8. rest, 16 [gb 8. f 16 ab] 4. c 8 Bn
+=2' 8. rest' 16 [gb 8. <f ab> 16 ab] 4 c <anl bnlx>
+=2, 4 rest,-,-* 2 Bb-P 4 Bn-P
+|
+=1' 2. <enr bbl d~b> 4 <c(2 f(3 c~(1>
+=1, 8. rest, 16 [F 8. En 16 G] 4. B_b 8 A_n
+=2' 8. rest' 16 [f 8. en 16 g] 4 Bb A
+=2, 2. <C-P c> 4 Db-*
+/
+3 bars | 2b 6 6 6 7 6 6 6 6 6 5 5 5 6 6 5 5 \
+ | 6 6 6 8 6 6 6 8 6 5 5 5 6 6 5 5 \
+ | 6 5 5 5 6 5 5 5 6 5 5 7 6 6 6 5 |
+|
+=1' 4 <c)2 f)3 c~)1> 2 <Bn f bn> 4 <F f>
+=1, 8. rest, 16 [E 8. D 16 F] 4. D 8 B_n
+=2' 8. rest' 16 [e 8. d 16 f] 4 d Bn
+=2, 2 Dn-P G#-P
+|
+il0.5 .09 185
+=1' 4 rest' vol-10  2 c 4 Bn(1
+=1, 8. rest, 16 [Eb 8. Db 16 F] 4. A_b 8 F_
+i0.2 .10 dim . . .
+=2' 4 rest' vol-10 2. f
+=2, 2 Db-P vol-10 Dn
+=2  2. blank 4 blank-,-P
+| 1.01 1.03 1.05 1.07
+=1' 4 <F Bn)1> vol-10 <B_n F> 8. rest' vol-10 16 [G 8. F  16 An]
+=1, 2. blank 8 [A_n C(2]
+i0.5 .02 dim e rit . . .
+=2, 2 vol-10 G# vol-10 <Db-P db>
+=2' 2 d 8. rest'' 16 [g 8. f 16 an]
+/
+4 bars | 2b 6 6 6 7 6 6 6 8 6 6 6 7 6 6 6 6 | 64 | 64 | 64 |
+| 1.10 1.13 1.16 1.19
+=1, 2 C)2 vol-10 <B_n D>
+=1' 8. rest' vol-10 16 [G 8. F 16 Ab] 8. rest' vol-10 16 [G 8. F 16 Ab]
+=2, 2 Dn-P vol-10 G#-P
+=2' 8. rest' vol-10 16 [g 8. f 16 ab] 8. rest' vol-10 16 [g 8. f 16 ab]
+| 4.8
+bl0.3 .02 K
+=1 4 rest vol75 F-emph vol+8 F-emph vol+8 F-emph
+i0.7 .08 sehr ausdrücksvoll . . .
+=2 2 blank 1 rest-,-P
+| 1.35 1.25 1.2 1.2
+=1' 4 vol100 Gb 2 F vol-10 4 Fb
+=1, 1 vol90 A_b(2
+=2' 1 vol80 d
+=2, 2 vol90 Bb-P vol-10 Bn-P
+| 4.8
+il0.3 .01 190
+=1' 4 vol80 E E-emph vol+10 E-emph vol+10 E-emph
+=1, 4 vol90 A_b)2 4 rest,,, 2 rest,,,
+=2' 4 vol60 e 4 rest 2 rest
+=2, 4 vol70 c-P 8 blank blank-,-P 2 blank
+
+6 systems / 19-35-19 / 19-30-19 / 19-45-19 16 \
+ / 19-35-19 20 / 19-28-19 9 / 19-40-19 12 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+5 bars | 2b 24 21 21 21 | 25 25 25 22 \
+ | 24 21 21 21 | 24 21 21 21 | 24 21 21 21 |
+| 1.35 1.25 1.2 1.2
+=1' 4 vol110 Fb vol-10 2 Eb vol-10 4 D
+=1, 1 vol90 G_b(2
+=2' 1 vol80 c
+=2, 2 vol90 Ab-P vol-10 An-P
+| 4.8
+=1' 4 vol80 Db C#-emph vol+10 C#-emph vol+10 C#-emph
+=1, 4 vol90 G_b)2 4 rest,,, 2 rest,,,
+=2' 4 vol60 db 4 rest 2 rest
+=2, 4 vol70 B-P 8 blank blank-,-P 2 blank
+
+| 1.35 1.25 1.2 1.2
+=1' 4 vol110 D vol-10 2 C# vol-10 4 D(2
+I0.1 .02 p
+=2' 1 vol80 <F(2-P A(4 c#(1>
+| 1.35 1.25 1.2 1.2
+=1' 4 vol110 D)2 vol-10 2 C# vol-10 4 D(2
+=2' 4 vol80 <F)2 A)4 c#)1> 4 rest 2 rest-*
+| 4.6
+il0.5 .04 195
+=1' 4 D)2 vol-10 2 C# vol-18 4 Cn(2
+=2' 2 blank 1 rest
+/
+5 bars | 2b 24 24 24 21 | 84 | 24 24 24 21 | 24 22 22 21 | 24 22 22 21 |
+| 4.5
+=1' 4 C)2 rest 2 rest
+i0.7 .30 espress . . .
+I0.2 .19 p
+i0.2 .60 dim . . .
+=2  4 rest vol80 c~ eb vol-5 f
+| 4.4
+=1 2 blank 1 rest
+=2 vol-5 2. gb 4 f(1
+| 4.3
+=1' 4 vol70 rest C vol-5 Db vol-5 Eb
+=2  4 vol70 f)1 vol-5 c vol-5 db vol-5 eb
+| 4.2
+=1 4 rest vol-5 2 C vol-5 4 Db(2
+i0.4 .65 dim . . .
+=2 4 rest vol-5 2 c vol-5 4 db(1
+| 4.1
+il0.5 .03 200
+=1 4 D)2 vol-5 2 E 4 rest
+=2 4 d)1 vol-5 2 e 4 rest
+/
+4 bars | 2b 10 10 10 10 10 10 13 10 \
+ | 6 5 5 5 6 6 6 10 5 5 5 5 5 5 6 5 \
+ | 6 5 5 5 6 6 6 10 5 5 5 5 5 5 6 5 \
+ | 6 5 5 5 6 6 6 10 7 6 6 6 7 6 5 5 |
+|
+b0.7 .95 Schwer betont
+=1' 4 rest' vol105 Fr-emph vol+5 F-emph vol+5 F-emph
+=1, 2.. rest,, vol110 8 Eb
+I0.4 .14 ff
+=2' 4 rest' vol105 f-emph-P vol+5 f-emph vol+5 f-emph
+=2, 2 rest, 4. rest, vol110 8 eb
+|
+=1' 2 F-emph Db-emph
+=1, 4 4 <B_brl Db> 8. [C 16 B_] 4. A_ 8 E
+r0.2 .02 nun bin ich Dir, o Dir begegnet
+=2' 4 4 db 8. [c 16 B] 4. A 8 e
+=2, 2 G-emph, A-emph,-P
+|
+=1' 2 Fr-emph Db-emph
+=1, 4 4 <B_brl Db> 8. [C 16 B_] 4. A_ 8 E
+=2' 4 4 db 8. [c 16 B] 4. A 8 e
+=2, 2 G-emph,-P A-emph,-P
+| 4.0
+=1' 2 Fr-emph Db-emph
+=1, 4 4 <B_brl Db> 8. [C 16 B_] 8 [A_ Db F An]
+=2' 4 4 db 8. [c 16 B] 8 rest' [db f an]
+=2, 2 G-emph,-P A-emph,-P
+/
+4 bars | 2b 6 5 5 5 6 6 6 10 5 5 5 5 5 5 6 5 \
+ | 6 5 5 5 6 6 6 10 5 5 5 5 5 5 5 5 \
+ | 6 5 5 5 6 6 6 10 5 5 5 5 5 5 6 5 \
+ | 6 5 5 5 6 6 6 12 6 6 7 6 7 6 5 5 |
+|
+il0.9 .18 205
+=1' 4 4 <db F Db> 8. [<C c> 16 <B_ B>] 4. <D F> 8 <Eb eb>
+=2' 2 <G-emph-P f> <A-emph-P f>
+| 3.9
+=1' 4 <db F Db> 8. [<C c> 16 <B_ B>] 8 [<A_ D A> <D d> <F f> <A a>]
+=2' 2 <G-emph,-P f> <A-emph,-P f>
+|
+=1' 2 blank f
+=1, 4 <db d~b> 8. [<c c~> 16 <B b>] 4. F 8 Eb
+=2' 2 <db f> 4. db 8 eb
+=2, 2 G-emph,-P A-emph,-P
+| 3.8
+=1' 2 F#r-emph D-emph
+=1, 4 <B_nlr D> 8. [C# 16 B_n] 8 [A_# D F# A#]
+=2' 4 d 8. [c# 16 Bn] 8 [A# d f# a#]
+=2, 2 G#-emph,-P A#-emph,-P
+/
+3 bars | 2b 6 5 5 5 6 6 6 10 5 5 5 5 5 5 6 5 \
+ | 6 5 5 5 6 6 6 10 6 6 7 6 7 6 5 5 \
+ | 6 5 5 5 6 6 6  9 5 5 4 5 4 5 6 5 |
+|
+=1' 4 4 <d F# D> 8. [<C# c#> 16 <B_n Bn>] 4. <D F#> 8 <En en>
+=2' 2 <G#-emph,-P f#> <A#-emph,-P f#>
+| 3.7
+il0.8 .10 210
+=1' 4 <eb G Eb> 8. [<D d> 16 <C c>] 8 [<B_n E Bn> <E e> <G g> <Bn bn>]
+=2' 2 <A-emph,-P g> <Bn-emph,-P g>
+|
+=1' 2 blank g
+=1, 4 <eb e~b> 8. [<d d~> 16 <c c~>] 4. G 8 vol60 f
+I0.8 .80 pp
+=2' 2 <eb g> eb
+=2, 2 A-emph,-P Bnl-emph,-P
+=2 2.. blank 8 blank-,-* treble
+/
+3 bars | 2b 11 10 12 12 11 10 11 9 \
+ | 6 5 5 5 6 6 6 8 6 5 5 5 6 6 6 12 \
+ | 11 10 12 12 11 10 11 9 |
+| .92 .99 .92 .92
+bl0.7 .01 L
+=1' vol60 4 f vol+5 16 [en f g f] 4. vol+5 B 8 vol-5 Bn
+=1, vol60 4 Bn Bbl 2 Gb
+=2' vol60 4 Ab G 2 Eb
+=2, vol60 4 D Db C Cb bass
+| .95 .91 .95 .91
+=1' vol110 2. cr(1 8. [c)1 vol60 16 f]
+=1, vol100 2. <Enrr G Bbl> 4 rest,
+I0.7 sff  .85 pp
+=2' vol110 4 d~br 8. [c~ 16 b] 4 db 8. [c 16 vol80 B-,-*]
+=2, vol110 2 cr-P  C-P treble
+| .93 1.00 .93 .92
+=1' vol60 4 f vol+5 16 [en f g f] 4. vol+5 B 8 vol-5 Bn
+=1, vol60 4 Bn Bbl 2 Gb
+=2' vol60 4 Ab G 2 Eb
+=2, vol60 4 D Db C Cb bass
+
+6 systems 10 / 19-35-19 8 / 19-25-19 8 / 19-30-19 \
+ / 19-40-19 / 19-35-19 15 / 19-40-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 2b 96 \
+ | 96 \
+ | 96 |
+| .95 .91 .95 .96
+b0.4 .12 Etwas zurückhaltend
+il0.9 215
+=1' vol110 2. c 8 rest vol60 <G g>
+=1, vol100 2. <Enr G Bbl> 4 blank
+i0.9 .77 zehr zart
+I0.6 .02 sff  .85 pp
+=2' vol110 4 d~b 8. [c~ 16 b] 4 db 8. [c 16 vol70 B-*]
+=2, vol110 2 c-P  C-P
+=2 2. blank 16 blank 8. blank-,-,-Una
+| .93 .96 .93 .97
+=1' vol70 2. c~ 8. [b 16 f~]
+=1, vol60 8 [c Ab] 8. [<G B> 16 <F Ab>] 4 <En G> 8. [<G B> 16 <B db>]
+=2, vol65 1 db-P
+| .93 .96 .93 .97
+=1' vol70 4 c~  rest' rest' 8 rest' g
+=1, vol60 8 [c Ab] 8. [<G B> 16 <F Ab>] 4 <En G> 8. [<G B> 16 <dbl f>]
+=2, vol60 1 db-P
+/
+3 bars | 2b 7 7 7 7  7 7 7 10  6 5 5 5  6 5 5 5 \
+ | 3 3 3 3 3 3 3  3 3 3 3 3 3 3  8 4 4 4 8 4 4  4 5 4 4 5 4 3 \
+ | 3 3 3 3 3 3 3  3 3 3 3 3 3 3  8 4 4 4 8 4 4  4 5 4 4 5 4 3 |
+| .93 1.01 .95 1.00
+=1' vol60 2. <c c~> vol-10 4 <B b>
+=1, vol55 8 rest, Ab 8. [<G B> 16 <F Ab>] 2 <En G>
+=2, vol50 1 <Db-P db> treble
+| 4.0
+=1  4 rest vol60 a'(1 2 blank
+=1, 4... blank 32-s [a)1 vol50 gb e c-I7 A Gb E] 8.. blank
+=1, 2. blank 32-s vol45 [C E Gb A c e gb a]
+=1, 4 rest  <c eb> 2 blank
+=2 4 rest-,-* 2. <C-P Eb A>
+| 4.4
+il0.6 220
+=1  4 rest vol60 a'(1 2 blank
+=1, 4... blank 32-s [a)1 vol50 gb e c-I7 A Gb E] 8.. blank
+=1, 2. blank 32-s vol45 [C E Gb A c e gb a]
+=1, 4 rest  <c eb> 2 blank
+=2 4 rest-,-* 2. <C-P Eb A>
+/
+5 bars | 2b 1/2 48 | 4/4 96 | 1/2 48 | 4/4 96 | 96 |
+| 1/2 2.4
+=1 1/2 4 blank 2 rest
+=2 1/2 8 blank blank-,-* 2 rest
+| 4/4 4.5
+=1 4/4 vol45 2. <gb b> vol35 4 <gb b>
+=2 4/4 vol40 4 e-P 2 vol45 dn 4 eb
+| 1/2 2.4
+=1 1/2 4 blank 2 rest
+=2 1/2 8 blank blank-,-* 2 rest
+| 4/4 4.8
+=1 4/4 vol45 2. <g~b b~> vol35 4 <g~b b~>
+=2 4/4 vol40 4 e~-P 2 vol45 d~n 4 e~b bass
+|
+il0.6 .04 225
+=1' vol50 2 rest <G_b(4 B_(2 E(3 Gb(1>
+=2' vol45 2 rest <E(4 B(2 e(1>
+/
+5 bars | 2b 24 22 22 22 | 24 22 22 22 | 80 || 2# 90 | 40 48 |
+|
+=1' vol50 4 <G_b)4 B_)2 E)3 Gb)1> 2. <G_b(4 B_(2 E(3 Gb(1>
+=2' vol45 4 <E)4 B)2 e)1> 2. <E(4 B(2 e(1>
+|
+=1' vol50 4 <G_b)4 B_)2 E)3 Gb)1> 4 rest 2 rest
+=2' vol45 4 <E)4 B)2 e)1> 2. B(2
+|
+=1' vol50 2 blank 1 rest
+I0.2 .93 f
+=2' vol45 1 B)2
+=2 2 blank blank-Tre
+
+|
+b0.6 Sehr breit und langsam
+=1' 2# vol100 1 <F_#(5 A_(1 D(3>
+r0.2 .01 Sie geht mit ungelenkten Schritt
+#M =2 2# 8 blank 16 vol70 D vol-7 A vol-7 d vol-7 f# a vol-7 2 d~
+=2' 2# vol95  1 <D(5-P A(3 d(1>
+i0.2 .30 ( arpeggiando )
+|
+il0.5 .13 230
+=1' 2 <F_#)5 A_)1 D)3> 4 rest vol100 D
+=2' 2 <D)5 A)3 d)1> 2 rest-*
+/
+5 bars | 2# 24 24 24 21 | 11 10 10 10 12 12 13 12 \
+ | 84 | 24 24 24 21 | 11 10 11 10 11 10 15 11 |
+|
+=1' vol100 4 F 2 D 4 F
+I0.4 .01 mf .95 f
+i0.4 .17 cresc . . .
+=2, vol80 2 <d-P f a> <B-P f b>
+|
+=1' vol100 2 A 4. D 8 vol-10 E
+=1, vol85 2 D 4 B_ vol-10 B_b
+i0.4 .13 dim . . .
+=2' vol80 2 <A-P d f> vol-10 <G-P d g>
+|
+=1' vol80 2. F 4 vol90 F
+=1, vol70 2. A_ 4 
+I0.4 .70 p
+=2  vol60 2. <D-P A> 4 rest-,-*
+|
+=1' vol85 4 A G# vol-5 F vol-5 E#
+=1, vol65 2 D vol-5 G_#
+=2' vol80 4 a g# vol-5 f vol-5 e#
+=2, vol65 2 <B f> vol+5 <C-P B>
+=2 2.. blank 8 blank-,-*
+|
+il0.5 .09 235
+=1' vol70 2. F 4 rest
+=1, vol55 2. <A_# C>
+I0.5 .83 pp
+=2' vol60 2. <F(2-,-P c f> 8 [F)2-,-* vol-5 Fn]
+
+/
+3 bars | 2# 5 5 5 7 6 5 5 6 7 6 6 6 6 6 6 5 \
+ | 5 5 5 7 6 5 5 9 7 6 6 6 8 6 6 5 \
+ | 5 5 5 6 5 5 6 7 6 5 6 5 6 9 9 5 |
+| 4.4
+=1' 4. B 8 B# 8 [c b(2] 16 [b)2 f a g]
+=1, 4.. <D G> 16 D 4 C 83 [G B-I3, C]
+=2' 8. rest'' 16 [c~ 8. b] 16 rest'' 83 rest'' [a#-I3 b] 4 rest''
+=2, 2 E-P 4 <A-P f> e
+| 4.2
+=1' vol+5 4. c 8 d 8 [d# c~n(2] 16 [c~)2 g# b a]
+=1, 4.. <E A> 16 E 4 D# 83 [A cn-I3, D#]
+=2' vol+5 8. rest'' 16 [d~ 8. c~] 16 rest'' 83 rest'' [a#-I3 b] 4 rest''
+=2, 2 F-P 4 <B-P g> f
+| 4.0
+=1' vol95 4. e vol80 8 eb 8 [d d~(2] 16 [d~)2 b g# e#(1]
+=1, 8. [B 16 F 8. E 16 G] 4 <D cx> vol75 B(2
+=2' vol+5 2 <G-P e> 2 <G#l-P fn>
+
+6 systems 6 / 19-35-19 23 / 19-43-19 15 / 19-30-19 5 \
+ / 19-40-19 5 / 19-30-19 / 19-30-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+/
+2 bars | 2# 6 6 6 6 6 6 6 6 6 7 7 6 6 6 6 5 | 8 8 8 8 8 8 8 8 8 8 8 7 |
+| .95 .95 1.05 1.15
+=1' vol65 16 [e#)1 f vol+5 a vol-5 c~] rest'' vol-5 [f vol+5 c~ vol-5 b] \
+ rest'' vol-5 [d# vol+5 an vol-5 gn] rest'' vol-5 [A vol+5 b vol-5 g]
+=1, vol80 4 B)2 2 A vol-1 4 <G e>
+=2' vol75 16 rest''' 4.. d~# 16 rest''' 8. d~# 16 rest'' 8. e~
+=2, vol75 2 <A-P f#> vol-10 4 <Bb-P g> vol-10 <c#-P a>
+| 4.0 
+bl0.9 M
+il0.9 .09 240
+=1' vol80 8. rest'' 16 [g 8. f 16 a] 8. [cn vol70 16 A 8. G 16 B]
+=1, 2 <A cn> blank
+=2' vol60 16 rest' 8. cn(2 83 [c)2 c#-I3 d#(1] [d)1 e-I3 f] [g b-I3 dn(1]
+=2, 2 D#-P G-P
+/
+3 bars | 2# 6 6 6 10  7 7 8 7  6 6 8 8 8 6 6 5 \
+ | 6 5 6 10 8 8 8 8 6 6 6 6 5 8 8 4 | 8 8 8 8 7 8 8 9 8 8 8 7 |
+| 3.8
+=1' vol80 8. rest'' 16 [a 8. g# 16 b] 8. [d vol70 16 B 8. A 16 c(1]
+=1, 2 <B d> blank
+=2' vol60 4 d)1(1 83 [d)1 d#-I3 e] [e# f-I3 g#] [a c~#-I3 en(1]
+=2, 2 E-P A-P
+| 3.6
+=1' vol80 8. rest'' 16 [b vol90 8. a# 16 c~] 2 blank
+=1, vol80 4. <E c)1> 8 c vol100 8 [<g g~> <f f~> <e e~> <d d~>]
+=2' vol60 4 e)1(1 83 [e)1 e#-I3 f#] 8 [d# vol70 en] 83 [f g-I3 g#]
+=2, vol65 2 F-P vol80 B-P
+| 3.5
+=1' vol100 4 d~ vol-10 2 c~ vol-10 4 <B b>
+=1, vol100 8 [<d g#> f] [<c e> d(1] \
+ vol-10 83 [d)1 B-I3, G#(2] vol-10 [G)2 A-I3, B]
+i0.7 .30 dim . . .
+=2' vol80 83 rest' [c~-I3 d~] 4 b 83 [g# a b(2] vol70 [b)2 a g]
+=2, vol90 2 G#-P vol80 c-P
+/
+2 bars | 2# 96 | 6 6 6 7 6 6 6 5 5 6 6 6 6 6 6 5 |
+| 3.4
+=1' vol80 4. a vol55 8 c~(1 83 [c~)1 a-I3 e#] 8. [f 16 a(1]
+=1, vol70 4 A vol50 8 rest, c(2 8. [c)2 16 <G# B>] 4 <A(2 c>
+I0.7 .25 pp
+=2 vol60 4 <f-* bx c~> treble vol50 8 rest <D Fn> \
+ 8. [<D#l-P F#> 16 C##] 83 [D F-I3 A_#]
+| 3.3
+il0.7 .47 245
+=1' 83 [a)1 gn-I3 d#] [f e-I3 Gn] rest [F-I3 G] [f e-I3 G(4]
+=1, 8. [A)2 16 A] 4 Bb 4 blank Bb
+=2' 8. [<B_ D#> 16 <B_# F>] 4 <C#-* G> rest 43 <C G> 83 <B_n E(1>
+/
+3 bars | 2# 8 8 9 10 8 10 8 8 8 9 8 7 | 8 8 10 9 8 9 8 8 8 8 8 7 | 96 ||
+| 1.6 1.65
+=1' 83 [d c-I3 E] rest' [D#-I3 E] [B A-I3 G] rest' [D#-I3 E]
+=1, 8 G)4 rest,, 4 B_b 43 Cn 83 C# 4 B_
+=2  4 <B_b E)1> bass 4 <c#, g> \
+ 43 <A d#'> 83 <Bb(2 e'(1> 43 <B)2 e')1> 83 <c#, g>
+| 1.72 1.82
+=1' 83 [Bn A-I3 G] rest [D#-I3 E] [B A-I3 G(1] [G)1 F-I3 E(1]
+=1, 43 Cn 83 C# 4 B_b 43 Cn 83 C#(2 43 C)2 83 B_b(2
+i0.3 .12 rit . . .
+=2' 43 <A d#> 83 <Bb e> 4 <c g> \
+ 43 <A d#> 83 <Bb(2 e(1> 43 <B)2 e)1> 83 <c(2 g(1>
+| .32 .33 .34 .37 .37 .36  .37 .38 .39 .40 .39 1.3
+=1' 83 [E)1 D-I3 C] 83 rest [B_#-I3 C(2] [C)2 D-I3 E(2] [E)2 F-I3 G-fermata]
+=2' 4 g)1 2. blank
+=2, 43 c)2 83 e-Una 4 rest <g bb> <c a-fermata>
+
+/
+2 bars | 6# 96 | 96 |
+| 3.8
+=1 6# 2 rest blank
+=1 6# 4.. blank vol40 32-s \
+ [<A_ C> <B_ D> <C E> <D F-I7> <E G> <F A> <G B'>] \
+ [<A, c> <B d> <c e> <d f-I7> <e g> <f a> <g b>]
+=1 6# 1 <a c~>
+I0.7 .08 pp .45 ppp
+r0.1 .14 Sie schaut empor
+=2 6# 2 blank 1 rest
+|
+Il0.6 .14 250
+=1 1 <a c~>
+=1 1 <A c>
+=1, 4.. blank 8.. blank 32-s \
+ [<A_ C> <B_ D> <C E> <D F-I7> <E G> <F A> <G B>]
+I0.6 .01 pp .40 ppp
+=2 2 rest blank
+=2' 4.. blank vol40 32-s \
+ [c <B d> <c e> <d f-I7> <e g> <f a> <g b>] 8.. blank
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 4 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  4 3 4 3 3 2 |
+| 3.9
+=1' 16-s [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<F A> D <F A> Dn B F]
+r0.6 .07 Der Mond läuft mit.
+=2 2 rest-P treble vol+5 a vol-5 bass 
+|
+=1' 16-s [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<F A> D# <F A> Dn B F]
+=2 4 F-P rest treble 2 vol+5 a vol-5 bass
+
+6 systems / 19-30-19 2 / 19-30-19 / 19-38-19 9 \
+ / 19-34-19 14 / 19-38-19 14/ 19-36-19 14 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 4  3 3 3 3 3 3  4 3 3 3 3 2 |
+| 1.0 1.03 1.06 1.01
+=1, 16-s [<A c> F <A c> d <F A> d] \
+ [f B <d f> g <d f> g] \
+ [b B b g <B d> g] \
+ [d B d G D B]
+=2  4 F-P rest <f d~> rest
+| 3.9
+=1, 16-s [<d f> B <d f> F <d f> F] \
+ [B D <F B> B_ F B] \
+ [<dn f> B <d f> B d F] \
+ [B Dn <F B> B_ <D F> B]
+=2  4 F rest f rest
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 4 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 4 3 2 |
+|
+bl0.8 .01 N
+il0.9 .18 255
+=1' 16-s [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<F A> D <F A> Dn B F]
+I0.6 .20 p
+=2 4 F-P treble vol50 a~ vol54 e~ vol57 f~
+|
+=1' 16-s [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<A c> F <A c> d <F A> d] \
+ [<F A> D <F A> Dn B F]
+I0.4 .75 p
+=2 vol60 4 d~# vol55 a bass vol40 F treble vol60 4 b
+I0.1 .40 ppp
+/
+2 bars | 6# 4 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 4 3 3 2 |
+| 1.0 1.01 1.03 1.06
+=1, 16-s [<G c> E# <G c> d <E G> d] \
+ [<G c> E <G c> d <E G> d] \
+ [<c e> G <c e> f <G d> f] \
+ [<c e> G <c e> f <G d> f]
+I0.3 .58 p
+=2  4 c~ bass vol40 4. F-P treble 8 vol60 [g c~ d~]
+I0.02 .15 ppp
+| 3.9
+=1, 16-s [<e g> c <e g> a <c e> a] \
+ [<e g> c <e g> a <c e> a] \
+ [<e g> c <e g> a c e] \
+ [d E <G d> dn <E G> d]
+I0.4 .65 p
+=2  4 e~  8 g~ bass vol40 8 F 4 b treble 4 vol55 b bass
+=2 2.. blank 8 blank-Tre
+I0.02 .29 ppp
+
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 4  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 4  3 3 3 3 3 3  3 3 3 3 3 2 |
+| 4.0
+=1' vol65 8  [b# c~ f a] vol50 \
+ 163-s rest'' [a f] rest'' [f d] rest'' [f c] rest'' [a f]
+=1, vol50 163-s rest, [a f] rest, [f c] rest, [c A] rest, [c f] \
+ vol65 8 [B# c F A]
+=2' vol45 8 rest F(2-,-P 16 [F)2 c f a] 8 rest F(2-,-P 16 [F)2 c f a]
+| 3.95
+il1.2 .45 260
+=1' vol65 8  [c~## d~ f a] vol50 \
+ 163-s rest'' [a f] rest'' [f d] rest'' [f d] rest'' [a f]
+=1, vol50 163-s rest, [a f] rest, [f d] rest, [d A] rest, [d f] \
+ vol65 8 [c## d F A]
+=2' vol55 8 rest F(2-,-P 16 [F)2 d f a] 8 rest F(2-,-P 16 [F)2 d f a]
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 4 3 3  3 3 3 3 3 3  3 3 3 3 3 2 |
+| 3.90
+=1' vol65 8  [d~ e~ g b] \
+ vol50 163-s rest'' [b g] rest'' [b g] rest'' [g d] rest'' [b g]
+=1, vol55 163-s rest, [b g] rest, [g e] rest, [d B] rest, [d g] \
+ vol65 8 [d e G B]
+=2' vol60 8 rest-* G(2-,-P 16 [G)2 d g d~] 8 rest G(2-,-P 16 [G)2 d g d~]
+| 3.85
+=1' vol70 8 [e~ f~ b~ a~] 4. d~ 8 e~n
+=1, vol55 163-s rest [c~ a] rest [a c~] rest [e~ a] rest [c~## a] \
+ rest [a f 83-s d 163-s f] rest [a 83-s f 163-s f a]
+=2' vol55 83-s rest'' 163-s c~ [f~ c~ a] 83-s rest'' 163-s a [c~## a e] \
+ vol70 83 rest'' [e~ f~] 8 [b~ a~]
+=2, 4 a-P c## d-P c~# treble
+/
+2 bars | 6# 3 3 3 3 3 3  3 4 4.5 3 4 3  3 3 3 3 3 3  3 3 3 3 3 5 \
+ | 3 4 3 3 3 3  3 4 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 |
+| 3.8
+=1' vol80 8 [e~# f~ b~ a~] 4. d~ 8 e~n
+=1, vol65 163-s rest [d~ a] rest [a d~] rest [g~ c~##] rest [a c~##] \
+ rest [f 83-s d 163-s d f] rest [bn 83-s e 163-s e b]
+=2' vol65 83-s rest'' 163-s An [d A F] 83-s rest'' 163-s G [c## G E#] \
+ vol80 8 [D F] 83 rest [c#-I3 B]
+=2, 4 <B_#-P D> <A_# C##> A_n-P G_# bass
+| 1.9 1.95
+=1' vol90 8 [e~# f~ b~ a~] vol100 8 [a~ g~ f~ e~]
+=1, vol75 163-s rest [d~ a#] rest [a# d~] rest [g~ c~##] rest [c~## g~] \
+ vol80 rest [d~ a] rest [d~ a] rest [d~ a] rest [a f]
+=2' vol75 2 blank vol90 8 [d~ f~] 83 rest'' [a~ d~]
+=2, 4 <f-P d~> <e#l c~##> d-P c#
+
+5 systems 10 / 19-50-19 / 19-35-19 \
+ / 19-40-19 / 19-40-19 / 19-40-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  4 4 4 3 3 3  3 3 4 3 3 2 \
+ || 5b 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  4 3 4 3 3 2 |
+| 2.05 2.2
+il0.7 .70 265
+=1' vol90 8 [e~ vol-4 d~ vol-4 c~ vol-4 b] 2 bb
+=1, vol75 163-s rest [b g] rest [b g] vol-7 rest [g d] rest [g d] \
+ vol-7 rest [fn dn vol-7 Bb d f] vol-7 [d B Fn vol-7 Dn F B]
+=2' vol80 8 [g d~] vol70 83 rest' [g~-I3 d~] vol60 2 <fnl bb>
+=2, vol80 4 B-P vol-10 E# vol-10 2 Bb-P
+=2 2.. blank 8 blank-Una
+
+| 4.8
+b0.7 .04 Etwas gedehnt
+=1' 5b 4. rest' vol60 8 a 4 vol+10 g 8. vol+5 [f 16 vol+10 e]
+=1, 5b vol40 163-s [G E G(1 83-s G)1 163-s E] 8.-s [G 16-s G] \
+ 163-s rest, [E G(1 83-s G)1 163-s E] 83 blank 163-s [E G 83-s B]
+r0.5 .04 Die Stimme eines Mannes spricht :
+I0.2 .01 pp
+=2' 5b vol40 4 rest' 16 rest'' 8.-s e~ \
+ 4 rest' 163-s [g b] rest' 83.-s rest'
+=2, 5b vol50 8 [G-P B vol+7 8. dn vol+7 16 e] vol-5 8 [An-P B] 4 rest,
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 |
+|
+=1' 4. rest' vol60 8 a 4 vol+10 g 8. vol+10 [f 16 vol+5 e]
+=1, vol40 163-s [G E G(1 83-s G)1 163-s E] 8.-s [G 16-s G] \
+ 163-s rest, [E G(1 83-s G)1 163-s E] 83 blank 163-s [E G 83-s vol+5 B]
+=2' vol40 4 rest' 16 rest'' 8.-s e~ \
+ 4 rest' 163-s [g b] rest' 83.-s rest'
+=2, vol50 8 [G-P B vol+7 8. dn 16 vol+7 e] vol-5 8 [An-P vol+5 B] 4 rest,
+|
+=1' 4. rest' vol60 8 a 4 vol+10 g 8. vol+10 [f 16 vol+5 e]
+=1, vol40 163-s [G E G(1 83-s G)1 163-s E] 8.-s [G 16-s G] \
+ 163-s rest, [E G(1 83-s G)1 163-s E] 83-s rest, 163-s [G B] 83-s rest,
+i0.3 .50 cresc . . .
+=2' vol40 4 rest' 16 rest'' 8.-s e~ 2 blank
+=2, vol50 8 [G-P B vol+5 8. dn 16 vol+5 e] \
+ vol+5 8 [g e] vol+7 83 [g b-I3, e~]
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 4  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 4 3 3 3 3 3  3 3 3 3 3 3  3 4 3 3 3 3  3 3 3 3 3 2 |
+| 1.2 1.3 1.4 1.5
+=1 1 blank 16 blank-fermata
+=1' vol85 8 [dn vol+5 e vol+5 g vol+5 b] vol60 2 b
+=1, vol55 163-s rest, [G E(1 83-s E)1 163-s G] [B G B(1 83-s B)1 163-s e] \
+ vol45 [dn B d(1 83-s d)1 163-s B(1] [B)1 vol40 G B(1 83-s B)1 163-s B]
+=2, vol75 8 [b g] 83 [b vol80 e~-I3, g~] vol50 2 d~n-P
+=2 1 blank 8 blank-fermata-Tre
+midi pause 0.2
+
+| 3.8
+b1.4 .20 Wieder wie früher
+il0.9 .60 270
+=1' vol65 83 [b bbb-I3 a] [gb f e] [B Bbb A] [G F E]
+=1, vol50 163-s rest 83-s [c c 163-s c] rest, 83-s [c c 163-s G] \
+ 163-s rest, 83-s G rest, 163-s rest, 4 blank
+I0.9 .01 p
+=2' vol70 8 [d~n e~ g b] [e~n f~ a c~]
+=2, vol55 16 rest,-P 8. A 16 rest, 8. A 4 rest, 16 rest, 8. A
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 |
+| 3.75
+=1' vol68 83 [d~ c~-I3 bb] [a g f] [d c B] [A G F]
+=1, vol53 163-s rest, 83-s [d d 163-s d] rest, 83-s [d d 163-s A] \
+ 163-s rest, 83-s A rest, 163-s rest, 4 blank
+=2' vol73 8 [e~n f~ a d~] [e~n f~ a d~]
+=2, vol58 4 rest-P 16 rest, 8. A 4 rest, 16 rest, 8. A
+| 3.7
+=1' vol71 83 [e~ d~-I3 c~] [b a g] [e d c] [B A G]
+=1, vol56 163-s rest, 83-s [e e 163-s e] rest, 83-s [e e 163-s c] \
+ 163-s rest, 83-s G rest, 163-s rest, 4 blank
+=2' vol76 8 [f~ g~ c~ e~] [f~ g~ c~ e~]
+=2, vol61 4 rest-P 16 rest, 8. A 4 rest, 16 rest, 8. A
+/
+2 bars | 6# 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 \
+ | 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 2 |
+| 3.65
+=1' vol75 83 [f~ e~-I3 d~] [c~ b a] [f e d] [c B A]
+=1, vol60 163-s rest, 83-s [f f 163-s f] rest, 83-s [f f 163-s d] \
+ 163-s rest, 83-s A rest, 163-s rest, 4 blank
+=2' vol80 8 [g~n a~ d~ f~] [g~n a~ d~ f~]
+=2, vol65 4 rest-P 16 rest, 8. A 4 rest, 16 rest, 8. A
+| 3.60
+=1' vol80 8 [Gn A f e] 83 [db Bn-I3 A#] [F# En-I3 Dn]
+=1, vol80 4 D 2. blank
+=2' vol80 83 rest' [c~-I3 b] [ab g-I3 f] 8 f# 4 c~# 8 bn
+=2, vol70 4 A An-* A#-P Bn-P
+
+5 systems 18 / 19-45-19 / 19-45-19 \
+ / 19-35-19 / 19-43-19 / 19-40-19 15 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 5b 9 9 9 9 9 9 8 9 9 9 9 7 \
+ | 2/4 10 9 9 8 8 7 || 6/8 4 4 4 4 4 4 4 4 5 4 5 4 |
+| 3.55
+il0.9 .02 275
+=1' vol85 8 [G#r An g# f#] 8 g# 4 <en e~n> 8 <dn d~n>
+=1, vol85 4 Enlr 2. blank
+=2' vol85 83 rest' [d~n-I3 c~#] [a# an-I3 g#] rest'' [a~n g~#] [f~# e~n d~n]
+=2, vol75 4 c#r d#l-* en-P f#-P
+| .43 .46 .50 .55
+=1, 2/4 vol90 8 [<cnr c~n> <db d~b> vol100 <c~ g~nl c~~n> vol85 <bb b~b>]
+I0.7 .05 f
+I0.8 .52 ff
+i0.9 .74 dim . . .
+=2' 2/4 vol90 83 [bbr vol+5 an-I3 vol+5 gn] rest'' vol-8 [an-I3 vol-8 b]
+=2, 2/4 vol85 4 gnrl-P vol95 <En db>
+
+| 2.2
+i1.6 .10 die punktierte Viertel gleich
+i1.1 .27 den Viertel von früher
+=1, 6/8 vol70 2. <a a~>
+# =1, 6/8 vol65 8 rest, [c B] vol-4 [A vol-4 Gn vol-4 Gb]
+=1, 6/8 vol65 8 rest, 16-s [c G B G] [A vol-5 C Gn vol-5 B_ Gb vol-5 Eb]
+I0.5 .07 p
+=2' 6/8 vol55 16-s rest' [e g e g e] [g vol-5 e b  vol-5 fb a vol-5 gb]
+=2, 6/8 vol80 2. Ab(2-P
+/
+3 bars | 5b 4 4 4 5 5 5  4 4 5 4 5 3 \
+ | 4 4.5 4.5 4.5 4.5 4.5 4 4 3.5 3.5 3 3 \
+ | 4 4 3.5 3.5 3 3 4 4.5 4.5 4.5 4.5 4.5 |
+| .75 .78 .83
+i1.0 .50 innig und warm
+I0.3 .60 mf
+=1' vol75 4. blank 8 rest' [d c]
+=1, vol60 16-s [B C A C Gn B_] 8-s [Gb 16-s F Fb E Fb]
+=2' vol50 16-s [b g a e gn fb] [ab e 8-s a(4 a)4]
+=2, vol80 2 A)2-P 4 blank-P
+| 2.7
+=1' vol80 8 e(2 163 [e)2 d-I3 A] [F D-I3 A_] 8 [B 8. A 16 A_n]
+=2' vol50 16 rest' <f d~> 4 <f d~> 16 rest' <f(4 d~(1> 8 [<f)4 d~)1> f]
+=2, vol70 2. A-P
+=2 4 blank 8 blank-* 4 blank-P 8 blank-*
+|
+il0.8 .02 280
+=1' 8 [B_ 8. G 16 F] 8 E 163 rest [B-I3 A] [G F-I3 E]
+=2' vol50 16 rest' <d(4 g> 8 [<d)4 b> dn] 16 rest' <g b> 4 <g b>
+=2, vol60 2. A-P
+=2 4. blank blank-P
+/
+3 bars | 5b 4 4 4 4 4 4 4 4 7  4 4 4 4 4 4 4 4 3 \
+ | 4 4 6 4 4 4 4 7 4  4 4 6 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 5  4 4 4 4 4 4 4 4 3 |
+|
+=1' 8 Dn 163 rest [B-I3 A] [G F-I3 E] 8 Dn 163 rest [B-I3 A] [G F-I3 E]
+=2' vol50 16 rest' <a c~b> 8 [<a c~> <g c~n>] \
+ 16 rest' <a c~b> 8 [<a c~> <g c~n>]
+=2, vol70 2. A-P
+=2 4. blank 8 blank-,-* 4. blank-,-P 8 blank-,-*
+|
+i0.8 .65 espress.
+=1  8 Dn 16 [a~ g~] 163 [f~ e~-I3 d~n] 8 rest [f en]
+=2' vol50 16 rest' <a c~b> 8 [<a c~n> <a c~b>] \
+ 16 rest' <a c~b> 8. [<a c~n> 16 <a c~b>]
+=2, 2. vol60 A-P
+=2 4. blank 8 blank 4. blank-,-P 8 blank-,-*
+|
+bl1.1 .05 O
+=1  vol80 8 g(1 163 [g)1 f-I3 d] [A F-I3 D] 8 [e' 8. d' 16 Dn]
+=2' vol50 16 rest' <f a> 8 [<f a> <f a>] \
+ 16 rest' <f a> 8 [<f a> <f a>]
+=2, vol70 4. D-P F
+/
+3 bars | 5b 6 4 4 4 4 4 4 4 4  4 4 4 8 5 5 5 5 4 \
+ | 8 4 4 10 5 10 10 5 10  9 4 4 9 5 10 10 5 4 \
+ | 6 4 9 5 9 6 10 6 6  7 4 4 4 4 4 7 4 4 |
+|
+=1' 8 [E 8. cb 16 B] 8 A 163 rest [cb-I3 B] [A G-I3 F]
+=2' vol50 16 rest' 8 <e(4 c~b> 8. <e)4 d~b> 16 rest' <e c~> 4 <e c~>
+=2, 4 G-P 8 Gn 4. A-P
+|
+il0.7 .03 285
+=1' 8 En 163 rest [cb-I3 B] [Ab Gb-I3 F] 8 En 163 rest [cb-I3 B] [Ab Gb-I3 F]
+=1, vol50 16 rest,, Db 8 [D Dnl] 16 rest,, Db 8 [D Dnl]
+=2' vol50 16 rest'  b 8 b rest' 16 rest'  b 8 b rest'
+=2, 4 Gn-P 8 A-*  4 Gn-P 8 A-*
+| 2.67
+=1  vol80 8 En 16 [b~ a~b] 163 [g~n d~b-I3 b] 8 a [g~b' f~']
+=1, 4. blank 8 blank 8. [c~bl 16 d~n]
+=2' vol50 16 rest' db 8 [dn en] \
+ 16 rest' gb 8 [f a]
+=2, 8 [Gn-* A B] [cb F-P B]
+/
+2 bars | 6 6 6 6 6 6  6 6 6 6 6 5 | 7 6 6 6 6 6  6 7 6 6 6 5 |
+| 2.64
+=1, vol90 8 a~(1 163 [a~)1 g~-I3 e~] [b g-I3 e] 8 [c~b 8. b 16 e]
+=2' vol60 16 rest'' [b e~ b g~ b] rest'' [b e~ b g~n b]
+=2, vol80 4. e-P d
+=2 2. blank 4 blank-,-P
+| 2.61
+=1' vol94 8 blank 163 [cb A E] 8 blank 163 rest' [fn e] 4 blank
+=1, vol94 163 [<b e~> fb e] 8 blank e Gb 8 [d~b 16 c~n f]
+=2' vol64 16 rest'' [e ab e] 163 [c~b a-I3 e] vol84 16 rest'' [e an e f cn]
+=2, vol84 4. cb-P vol94 An-P
+
+5 systems 5 / 19-45-19 / 19-35-19 \
+ / 19-38-19 / 19-38-19 / 19-45-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 5b 4 4 4 5 4 4 4 4 4  4 4 4 4 4 4 4 4 3 \
+       | 5 4 5 5 5 4 4 4 4  5 4 4 4 4 4 4 4 3 ||
+| 2.58
+=1, vol98 8 e~(1 163 [e~)1 d~b-I3 b] [f B-I3 G] 8 [gb 8. f 16 B]
+=2' vol68 16 rest' [f b f f~ f] rest' [f b f f~ f]
+=2, vol88 4. B-P Ab
+=2 2. blank 4 blank-,-P
+| 2.54
+il1.0 .14 290
+=1' vol102 8 blank 163 [Ab Gb-I3 Eb] 8 e 163 rest' [cn B] 8 [f <c en>]
+=1, vol102 163 [<f b> cb-I3 B] 8 blank blank Gb 4 blank
+=2' vol72 16 rest'' [e b e] 163 [ab f-I3 c] vol82 16 rest'' [en c gn c Gn]
+=2, vol92 4. Gb-P vol102 Cn-P
+/
+2 bars | 1b 4 4 4 4 4 4 4 4 4  4 4 4 4 4 5 4 5 3 \
+ | 4 4 4 4 4 4 4 4  4 4 4 4 4 4 4 4 3 |
+| 2.50
+b1.2 .15 steigernd, beschleunigend
+=1, 1b vol106 8 g(1 163 [g)1 f-I3 c] [A F-I3 c] \
+ 8 a(1 163 [a)1 g-I3 f] [c# A-I3 c#]
+=2' 1b vol76 16 rest' <a c~x d~> 4 <a c~x d~> \
+ 16 rest'' <a c~# e~> 4 <a c~ e~>
+=2, 1b vol96 4. F-P 4 f-P 8 f
+| 2.46
+=1, vol110 8 a(1 163 [a)1 g-I3 f] [d A-I3 d] \
+ 8 a(1 163 [a)1 g-I3 f] [d A-I3 d]
+=2' vol80 16 rest' <a d~ f~> 4 <a d~ f~> 16 rest'' <bn d~ f~> 4 <b d~ f~>
+=2, vol100 4. F-P 4 d-P 8 d
+
+/
+3 bars | 1b 30 30 30 36 || 4/4 6 6 6 9  6 6 6 9  6 8 8 6 6 6 6 5 \
+ | 6 6 6 7 6 6 6 9 6 6 6 6 6 6 6 5 |
+| .625 .665 .72 .95
+=1, vol114 8 <a(2 a~(1> 163 [<a)2 a~)1> g~-I3 f~] [d~ a-I3 d~] \
+ 163 [a~ g~-I3 f~] [d~ a-I3 f] 323-s [d f a d~ f~ a~]
+=2' vol84 16 rest'' <bn d~> 4 <g b d~> 16 rest'' <b d~> 8. [<f b d~> 16 g]
+=2, vol104 4. <G-P g> vol114 4 <G f> 8 G
+
+| 2.2
+i1.4 .25 die Viertel langsamer
+i0.8 .25 als die frühern Ächtel
+=1, 4/4 vol100 8 c~~
+=1' 4/4 vol95 8. rest, 16 B_n vol80 4 F(2 8 [F)2 vol+7 E A vol-7 G]
+I0.5 .02 fp
+=2' 4/4 vol55 83 rest' [f(2-I3 f)2(2] 4 f)2 83 rest' [c-I3 Bb] 4 rest'
+=2, 4/4 vol60 4 A-P 83 [G#-* d-I3, G] 4 Gn 83 [c-P C-I3 Bb]
+I0.2 .02 p
+|
+il0.7 .13 295
+=1' vol90 8. [C vol+7 16 B_n] vol83 4 F(2 8 [F)2 vol+7 E A vol-7 G]
+=2' vol55 83 rest' [f(2-I3 f)2(2] 4 f)2 83 rest' [c-I3 B] 4 rest'
+=2, vol60 4 A-P 83 [G#-* d G] 4 Gn-P 83 [c-* d c]
+/
+3 bars | 1b 6 6 6 7  6 6 6 7  7 6 6 7  6 5 6 4 \
+ | 6 6 6 5  6 5 6 6  6 5 6 7  4 7 7 4 \
+ | 4 4 4 4 4 4  5 8.6 5 5 5 6  4 4 4 4 4 6  4 4 4 4 4 4 |
+|
+=1' vol90 8. [D 16 C#] vol+4 8. [G 16 F#] vol+4 8. [B 16 A] vol+4 4 <d(3 a(1>
+#=1, vol70 4 blank 8 rest,, Cn 4 blank 8 rest, Fn
+=2' vol65 83 rest' [d-I3 g(1] 8 [g)1 c~n] \
+ vol+10 83 rest' [f#-I3 d~(1] 8 [d~)1 fn]
+=2, vol70 4 B A-* vol+10 c Bn
+|
+=1' vol102 8 a)1 4 gn 8 f 8. [e 16 f(2] 83 [f)2 d-I3 Bn]
+=1, vol102 8 d)3 4 B 8 A 2 G#
+=2' vol85 83 rest' [f a] 4 c~ vol+10 2 bn-P
+=2, vol102 1 c-P
+| 0.6 0.75 0.70 0.70
+=1, 4 <d d~(1> 163 [d~)1 vol90 c~ bb g e B] \
+ 83 [a vol-7 83. g 163 B] 83 [f vol-7 83. e 163 G]
+i0.8 .15 rit . . .
+I0.5 .02 p
+=2' 8 rest' vol75 4. <g bb> 8 rest' e~ 4 c~
+=2, vol90 2 <C-P c> vol70 4. c 8 B
+/
+3 bars | 1b  6 6 6 7 6 6 6 7 5 7 7 5 5 7 7 4 \
+ | 6 6 6 9 6 6 6 9 6 6 6 7 6 6 6 4 \
+ | 6 6 6 7  6 6 6 7  6 7 7 9  5 7 7 4 |
+| 2.2
+bl0.8   P
+i0.2 .06 a tempo
+=1' vol85 8. [C 16 vol85 16 B_n] vol80 4 F(2 8 [F)2 vol+7 E A vol-7 G]
+I0.5 .02 p
+=2' vol55 83 rest' [f(2-I3 f)2(2] 4 f)2 83 rest' [c-I3 Bb] 4 rest''
+=2, vol60 4 A-P 83 [G#-* d G] 4 Gn 83 [c-P c~ bb]
+|
+il1.0 .03 300
+=1  vol85 8. [c' 16 vol85 16 Bn'] vol80 4 f(1 8 [f)1 vol+7 e <ebl bb> vol-7 a]
+=2' vol55 83 [c~ f~-I3 d~] [bn f~-I3 d~] 83 [bb c~-I3 b] 8 [f# c~]
+=2, vol60 4 a-P g#l-* gnl c
+|
+=1' vol80 8. [D 16 C#] vol+4 8. [G 16 F#] \
+ vol+4 8. [B 16 A] vol+4 4 <eb(3 bb(1-emph>
+=2' vol65 83 rest' [d-I3 g(1] 8 [g)1 c~n] \
+ vol+10 83 rest' [gb-I3 eb] 83 rest' [gb-I3 bb]
+=2, vol70 4 B A vol+10 c Gb-emph,
+
+5 systems 10 / 19-45-19 / 19-40-19 \
+ / 19-40-19 / 19-50-19 / 19-30-19 8 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 1b  6 6 6 6 6 6 6 6 6 6 6 7 8 6 6 4 \
+ | 6 6 9 12  7 7 7 7 6 6 6 6 7 7 7 4 \
+ | 6 6 9 6  5 7 7 5  6 6 6 6  5 7 7 4 |
+|
+=1' vol85 8 b)1 4 ab 8 gb 8. [f 16 gb(2] 83 [g)2 eb-I3 c]
+=1, vol85 8 eb)3 4 Ab 8 Gb 2 F
+=2' vol75 83 rest' [<gb(2 c~(1-I3> <g)2(2 c~)1(1>] 4 <g)2 c~)1> \
+ 83 rest' [<c~(2 e~b(1-I3> <c~)2(2 e~)1(1>] 4 <c~)2 e~)1>
+=2, vol90 2 Ab-P An-P
+|
+=1  vol80 8 [<db ab> 16 gb db] 83 [Bbb' Gb-I3 Eb] \
+ 8 Db <gb g~b(1> 83 [g~)1 e~b-I3 c~]
+=2' 8 rest' 8 gb(1 83 [g)1 eb-I3 c~] 4 rest' 83 rest' [ab-I3 gb(1]
+=2, vol80 4 B-P An-* B-P A-*
+| 1.1 1.05
+=1  vol85 8 [<f# c~#> 16 e c#] 83 [A G-I3 E] \
+ 8 D <gn g~n(1> 83 [g~)1 e~-I3 c~#]
+=2' 8 gb)1 8 gn(1 83 [g)1 e-I3 c~#] 4 rest' 83 rest' [a-I3 g(1]
+=2, vol85 4 B An-P B-* A-P
+/
+3 bars | 1b 6 6 6 9  7 7 6 8  6 6 6 6  5 7 7 4 \
+ | 6 6 8 6  7 7 7 6  6 6 6 6  7.5 7.5 7 4 \
+ | 6 6 6 9  7 7 6 6  6 6 6 6  7 7 7 4 |
+| 1.05 1.00
+il0.8 .13 305
+=1  vol90 8 [<g d~> 16 f d] 83 [Bn' Ab-I3 F] \
+ 8 Eb <ab a~b(1> 83 [a~)1 f~-I3 d~]
+i0.7 .05 steigernd
+=2' 8 g)1 8 ab(1 83 [a)1 f-I3 d~] 4 rest' 83 rest' [b-I3 ab(1]
+=2, vol90 4 B-P Bn-* c-P B-*
+| 1.00 0.95
+=1 vol95 8 [<g# d~#> 16 f# d#] 83 [c' A-I3 F#] 8 E <a a~(1> 83 [a~)1 f~#-I3 d~#]
+i0.7 .55 cresc . . .
+=2' 8 a)1 8 an(1 83 [a)1 f#-I3 d~#] 4 rest' 83 rest' [a-I3 g]
+=2, vol95 4 c Bn-P c-* B-P
+| 0.95 0.92
+=1 vol100 8 [<a e~> 16 g e] 83 [c#' Bb'-I3 G] 8 F <bb b~b(1> 83 [b~)1 g~-I3 e~]
+=2' 8 [a bb(1] 83 [b)1 g-I3 e~] 4 rest' 83 rest' [c~#-I3 b(1]
+=2, vol100 4 c-P c#-* d-P c#-*
+/
+3 bars | 1b 6 6 6 9  6 6 6 6  6 6 6 6  6 6 6 4 \
+ | 6 6 6 6  6 6 6 6  6 6 6 6  7 7 7 5 \
+ || 5 7 7 5  6 6 9 6  6 6 6 6  5 7 7 4 |
+| 0.92 .89
+=1, vol104 8 [<c~n f~> 16 bb f] 83 [en g-I3 b] \
+ 8 rest' <b b~(1> 83 [b~)1 g~-I3 e~]
+=2' 8 [b)1 b(1] 83 [b)1 g-I3 e~] rest'' [d~-I3 b] rest' [g-I3 e~]
+=2, vol104 4 d-* c#-P d-* c-P
+| 0.445 .465 .49 .575
+I1.4 .98 f
+=1, vol108 83 [<b b~> g~-I3 e~] [<b b~> g~-I3 e~] \
+ 16 rest' [b g e] 163-s [B e g b e~ g~]
+=2' vol108 8 rest' bb [c# cn] 83 [c#-P d-I3 c] [C# D C]
+=2, vol108 4 d-* 2. blank
+
+| .52 .56 .52 .53
+il1.3 .11 310
+b.95 .29 Etwas bewegter
+I0.5 .15 pp
+=1, vol110 4 <b b~> 16 vol75 [ab g f db] 4 B 4 Abl
+=1' vol60 2 blank 4 f 8. [en vol-8 16 Bb]
+i0.9 .27 dolce
+I0.3 .06 p
+=2' vol55 83 rest' [f-I3 d~b] [b f g] rest' [f-I3 c~] [d~ e~ gb]
+=2, vol60 2 G-* c-P
+/
+3 bars | 1b 5 8 7 10  5 8 7 10  6 8 7 10  5 8 7 4 \
+ | 6 6 6 6  9 9 6 9  5 7 7 6  6 6 6 4 \
+ | 6 6 6 10  6 6 6 7  6 6 6 7  7 8 7 4 |
+| 2.05
+I0.5 .96 f
+=1' vol75 8. [db 16 c] vol+8 8. [fb 16 eb] vol+8 8. [ab 16 gn] vol+8 4 bn
+=1, vol70 8 rest, F vol+8 rest, Ab vol+8 rest, c vol+8 rest, f
+i0.7   cresc . . .
+=2' 83 vol60 rest' [f-I3 ab] vol+8 rest' [a-I3 c~b] \
+ vol+8 rest'' [c~n-I3 e~b] vol+8 rest'' [f~-I3 g~n]
+=2, vol60 4 Ab-emph,-* vol+8 cb-emph, vol+8 eb-emph, vol+8 gn-emph,
+| .51 .55 .51 .52
+I0.5 .18 pp
+=1, vol115 4 bn 16 vol80 [a g# f# d] 4 Bn 4 Al
+=1' vol65 2 blank 4 f# 8. [fn vol-8 16 Bn]
+i0.9 .29 dolce
+I0.3 .05 p
+=2' vol60 83 rest' [f#-I3 d~] [c~ f# g#] rest' [f#-I3 c~#] [d~ f~ gn]
+=2, vol65 2 G#-* c#-P
+| 2.01
+=1' vol80 8. [d 16 c#] vol+8 8. [fn 16 e] vol+8 8. [a 16 g#] vol+8 4 c~
+=1, vol75 8 rest, F# vol+8 rest, A vol+8 rest, c# vol+8 rest, f#
+i0.8 .18 cresc . . .
+=2' 83 vol65 rest' [f#-I3 a] vol+8 rest' [a-I3 c~] \
+ vol+8 rest'' [c~#-I3 e~] vol+8 rest'' [f~#-I3 g~#]
+=2, vol65 4 An-emph,-* vol+8 c-emph, vol+8 e-emph, vol+8 g#-emph,
+/
+2 bars | 6 7 6 6 7 7 7 7 7 6 7 6 7 7 6 5 \
+ | 7 6 7 6 7 7 7 6 7 6 7 6 7 7 6 5 |
+| 2.1
+=1, vol115 8 [c gb] 16 vol80 [bb ab gb eb] 8 [c Gb] 16 [Bbl Ab 8 Gb]
+=1' vol70 4 c~ blank ab gb
+=2, vol70 16 [B-P c eb f] vol+10 8 [b-* vol-10 16 gb B-P] \
+ [c eb f gb] vol+10 8 [b-*  vol-10 16 gb B-P]
+|
+=1, vol120 8 [c~ g~b] 16 vol80 [b~b a~b g~b e~b] 8 [c~ gb] 16 [bbl ab 8 gb]
+=1' vol75 4 c~~ blank b~b g~b
+il0.6 .01 315
+=2, vol75 16 [c eb f gb] vol+10 8. [b vol-10 16 B-P] \
+ [c eb f gb] vol+10 8. [b vol-10 16 B-P]
+
+5 systems 10 / 19-30-19 / 19-35-19 \
+ / 19-45-19 / 19-50-19 / 19-45-19 15 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 1b 7 6 7 7 6 6 6 7 6 7 6 6 6 6 6 5 | 6 7 6 7 6 6 6 7 6 7 6 6 6 6 6 5 |
+| 2.1
+bl1.0 Q
+=1, vol125 8 [c# g] 16 vol80 [bn a g e] 8 [c# G] 16 [Bn A 8 G]
+=1' vol80 4 c~# blank a g
+I0.4 .01 ff
+=2, vol80 16 [Bn-P c# e f#] vol+10 8 [bn vol-10 16 g B-P] [c# e f# g] vol+10 8 [b vol-10 16 g B-P]
+|
+=1, vol125 8 [c~# g~] 16 vol80 [b~n a~ g~ e~] 8 [c~# g] 16 [bn a 8 g]
+=1' vol85 4 c~~# blank a~ g~
+=2, vol85 16 [c# e f# g] vol+10 8. [bn vol-10 16 Bn-P] [c# e f# g] vol+10 8. [b vol-10 16 Bn]
+/
+2 bars | 1b 3 3 3 3 3 3  6 4 4 6 4 5  4 4 4 4 4 4  4 4 4 4 4 3 \
+ | 6 6 6 6 6 6 6 6 6 6 6 6 6 7 6 5 ||
+| .55 .59 .64 .70
+=1, 2 <c~# c~~#(1> 83 [c~~)1 <bn-I3, b~n> <a a~>] [<g g~> <e-I3, e~> <c# c~#>]
+i0.4 .73 rit . . .
+=2  vol95 4 <A-P g'> 163 [Bn, c#, d-I"  6" e f# g] 8 <a-* c~# e~> rest 4 rest
+| .75 .81 .88 1.0
+=1  83 [bn vol-5 g-I3 en] [c#' vol-5 Bn'-I3, G(2] \
+ 16 [G)2 vol-10 E G B'] [c e f# g]
+i0.7 .10 dim . . .
+=2  vol60 4. <A e' a'> 8 rest 4 rest vol40 <e-P a c~#>
+midi pause 0.4
+
+/
+3 bars | 5b 7 6 9.5 6 7 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 6  6 6 6 4 \
+ | 6 6 6 9.5  7 6 6 6  7 6 6 6  7 6 6 5 |
+| 3.2
+bl1.0 R
+il1.0 .07 320
+b1.1 .25 Etwas bewegt
+=1' 5b vol70 4 rest'' f 2 b(1
+=1, 5b vol40 16 rest, [Ab c db] rest, [Gb c d] rest, [f c d] rest, [f A B]
+I0.6 .01 pp 
+i0.6 .10 zart
+=2' 5b vol45 8 rest'' 4 <f a> 8 <f a> vol+10 8. [e 16 d] 4 f-,-,-P
+=2, 5b vol55 2 d-P  G(2-*
+|
+=1' vol70 4 b)1 d 2 gb
+=1, vol40 16 rest, [f c B] rest, [A F G] rest, [B d e] rest, [B F G]
+=2' vol45 8 rest' 4 <d g> 8 g vol+10 rest' g(1 83 [g)1 e-I3 B]
+=2, vol60 4 G)2 F-* 2 E-P
+| 1.6 1.55
+=1' vol70 4 f en rest'' f
+=1, vol40 16 rest,, [c A c] rest,, [Gn db G] rest,, [Ab c d] rest,, [Gb c d]
+=2' vol45 8 rest' g 4 gn 8 rest'' 4 <f a> 8 <f a>
+=2, vol60 4 A-* An 2 db-P
+/
+3 bars | 5b 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 7 6 9.5 7 6 6 5 \
+ | 7 6 9.5 6 7 6 6 6 6 6 6 6 6 6 6 5 |
+| 3.1
+=1' vol75 2. b 4 vol70 d
+=1, vol40 16 rest, [f c d] rest, [f A B] rest, [f c B] rest, [A F G]
+=2' vol55 8. [e 16 d] 4 f-,-,-P vol45  8 rest' 4 <d g> 8 g
+=2, vol60 2. G-P 4 F-*
+|
+=1' vol75 4 a g f en
+=1, vol40 16 rest, [B d e] rest, [B F G] rest,, [c A c] rest,, [Gn db G]
+=2' vol55 8 rest' g(1 83 [g)1 e-I3 B] vol45 8 rest' g 4 gn
+=2, vol60 2 E-P 4 A-* An
+| 3.0
+il0.8 .01 325
+I0.4 .24 mf
+=1' vol80 4 rest'' f 2 b(1
+=1, vol50 16 rest, [Ab c db] rest, [Gb c d] rest, [f c d] rest, [f A B]
+i0.5 .10 steigernd . . .
+=2' vol55 8 rest'' f(1 83 [f)1 f-I3 f] \
+ vol+10 8. [e 16 d-,-,-P] 4 f
+=2, vol65 2 d-P  G(2-*
+/
+3 bars | 5b 6 6 6 6 6 6 6 6 6 9.5 6 6 6 6 6 5 \
+ | 9.5 6 6 6 6 6 6 6 6 7 6 6 8 6 6 5 \
+ | 6 9.5 9.5 6 6 6 6 6 6 9.5 9.5 6 6 9.5 6 5 |
+| 2.95
+=1' vol85 4 b)1 d a g
+=1, vol55 16 rest, [f c B] rest, [A F G] rest, [B dn e] rest, [B F G]
+=2' vol60 8 rest' 4 <d g> 8 g vol+10 rest' g(1 83 [g)1 e-I3 B]
+=2, vol75 4 G)2 F-* 2 E-P
+| 2.90
+=1' vol90 4 c~ b b an
+=1, vol60 16 rest, [gb c d] rest, [c g c] rest, [f Bn c] rest, [An f A]
+=2' vol65 8 rest' gb(1 83 [g)1 d-I3 c] 8 rest' en 83 [f an-I3 c]
+=2, vol80 2 En-P F-*
+| 2.85
+=1' vol95 8 rest'' [en f gb] 4 ab g
+=1, vol65 16 rest, [c Gn An] rest, [c A c] rest, [f dn eb] rest, [B Gb B]
+=2' vol70 8 rest' f(1 83 [f)1 f-I3 f] 8 rest' eb(1 83 [e)1 c-I3 B]
+=2, vol85 2 En-P Eb-*
+
+5 systems 10 / 19-45-19 10 / 19-45-19 \
+ / 19-50-19 / 19-40-19 / 19-45-19 15 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 5b 10 6 6 6 6 6 6 6 6 7 6 6 8 6 6 5 \
+ | 6 7 6 6 8 8 8 6 6 7 6 6 8 8 8 5 \
+ | 6 8 6 6 6 8 6 6 6 6 6 6 6 8 8 6 5 |
+| 2.80
+bl1.0 .98 S
+=1' vol100 4 c~ b b an
+=1, vol70 16 rest, [gb c d] rest, [c g c] rest, [f Bn c] rest, [An f A]
+=2' vol75 8 rest' gb(1 83 [g)1 d-I3 c] 8 rest' en 83 [f an-I3 c]
+=2, vol90 2 En-P F-*
+| 2.75
+il1.1 .35 330
+=1' vol105 4 e~ d~b d~ c~
+=1, vol75 16 rest, [b dn e] rest, [gn b g] rest, [f Bn c] rest, [e gb e]
+b0.7 .01 beschleunigend
+=2' vol80 8 rest' b(1 83 [b)1 f eb] 8 rest' eb(1 83 [e)1 ab-I3 gb]
+=2, vol95 2 Gn-P An-*
+| 2.71
+=1' vol110 4 g~b f~ f~ e~n
+=1, vol80 16 rest, [d~ gn a] rest, [f a f] rest, [d~ g a] rest, [a d~n a]
+=2' vol85 8 rest' ab(1 83 [a)1 c~b-I3 b] 8 rest' ab(1 83 [a)1 c~n-I3 bn]
+=2, vol100 2 Bb-P Bn-*
+/
+2 bars | 5b 6 6 6 7 6 6 6 6 6 6 6 7 6 6 6 5 \
+ | 6 6 6 7 6 6 6 6 6 6 6 6 6 6 6 5 |
+| 2.67
+=1' vol115 4 b~b a~n a~b g~b
+=1, vol85 16 rest, [b e~ f~] rest, [e~ g e~] rest, [b e~ f~] rest, [e~ g e~]
+I0.8 .52 ff
+=2' vol90 8 rest' bb(1 83 [b)1 f-I3 fb] 8 rest'' b(1 83 [b)1 e~-I3 b]
+=2, vol105 2 cn-P 4 eb-* gb-P
+| 2.63
+=1' vol120 4 f~ e~n e~ f~
+=1, vol90 16 rest, [f a c~] rest, [gn d~b g] rest, [en ab d~] rest, [a d~n a]
+=2' vol95 83 rest'' [c~-I3 f~] rest'' [c~#-I3 g~n] \
+ rest''' [f~-I3 a~] rest''' [d~n-I3 f~]
+=2, vol110 4 ab-P an d~-P b
+/
+3 bars | 5b 6 6 6 9 7 6 6 7 6 6 6 9 7 6 6 5 \
+ | 6 7 6 6 6 7 6 6 6 6 6 9 6 6 6 5 | 2/4 6 6 6 9 7 7 6 5 ||
+| 2.59
+=1' vol123 4 a~b g~b f~ e~n
+=1, vol95 16 rest, [b e~ f~] rest, [e~ g e~] rest, [f a c~] rest, [gn d~b g]
+=2' vol100 83 rest'' [b-I3 e~] rest'' [b-I3 e~] \
+ rest'' [c~-I3 f~] rest'' [c~#-I3 g~n]
+=2, vol115 4 eb-P gb ab an
+| 2.56
+il1.3 .11 335
+=1' vol125 4 e~n f~ a~b g~b
+=1, vol98 16 rest, [en ab d~] rest, [a d~n a] \
+ 16 rest, [b e~ f~] rest, [e~ g e~]
+=2' vol103 83 rest''' [f~-I3 a~] 8 rest''' dn \
+  83 rest'' [B-I3 e] rest'' [B-I3 e]
+=2, vol117 4 d~b-P b E G
+| .635 .655
+=1' 2/4 vol128 4 f~ e~n
+=1, 2/4 vol102 16 rest, [f a c~] rest, [gn d~b g]
+=2' 2/4 vol105 83 rest'' [c-I3 f] rest'' [c#-I3 gn]
+=2, 2/4 vol119 4 Ab-P An
+/
+2 bars | 2# 4/4 4 4 4 4 4 5  4 4 4 4 4 5  5 4 4 4 4 5 5 4 4 4 4 3 \
+ | 3 2 2 2 3 2 2 2 3 3 4 4 4 4 4 6 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 1 |
+| .68 .73 .79 .86
+=1' 2# 4/4 vol128 4 a~n g~n f~# f~n(1
+#=1, 2# 4/4 vol102 16 rest, [b e~ f~] rest, [e~ g e~] \
+# rest, [f a c~] rest, [gn d~b g]
+=1, 2# 4/4 vol102 163-s rest, [bn a~ b a~ b] rest, [b g~ b g~ b] \
+ rest, [bn f~ b f~ b] rest, [a# f~n a f~ a]
+I0.6 .02 fff
+i0.8 .19 molto rit . . .
+=2' 2# 4/4 vol105 83 rest'' [Bn-I3 en] rest'' [B-I3 e] \
+ rest'' [f#-I3 d~] rest'' [g#-I3 d~(1]
+=2, 2# 4/4 vol120 4 En-P Gn An Bb(2-P
+| .225 .225 .225 .225 .35 .255 .255 .255  .23 .23 .23 .23 .23 .23 .23 .23
+=1' 4 f~n)1 vol127 4 f~# 2 b(1
+=1, vol120 4 d~ 16 [d~ 32-s c~ b a g f e] \
+ vol90 83 [d# <F#-I3, B> vol-5 <F B>] [<F B> <E-I3, B e> <F B f>]
+=2' vol120 4 d~)1(1 8 [d~)1 32-s c~ b a g] 2 f#
+=2, 4 Bb)2 vol127 An 2 G(2-P
+/
+3 bars | 2# 8 8 9 8 8 8 8 8 8 8 8 6 | 84 | 82 |
+| 3.7
+=1' vol127 4 b)1 <dn b d~n> 2 <g b g~>
+=1, vol85 83 [<B e g> <B-I3, e a> <e b>] 4 blank \
+ 83 vol-5 rest, [a g] vol-5 [e B g]
+=2' vol85 4 rest' 83 rest' [<g d~-I3> <g d~>] \
+ vol-5 rest' [<b e~-I3> <b g~>] vol-5 [e~ b-I3, g]
+=2, vol120 4 G)2 F 2 E-P
+|
+il1.2 .11 340
+=1' vol127 4 <f f~> vol-10 2 <e e~> vol-10 4 <d(2 d~(1>
+=1, vol90 8 rest, 4. A 8 rest, 4. G
+I0.9 .95 ff
+I0.4 .70 ff
+=2' vol90 8 rest'' 4. d~ 4 rest'' vol117 4 d~-emph
+=2, vol125 2 <A-P a> vol-15 <Bb g>
+|
+=1' 4 <d)2 d~)1> rest 2 rest
+=1, vol127 4 F#-emph, 2 D-emph, 4 F-emph,
+i0.8 .08 gross .40 espress . . .
+=2' vol85 2 blank g#
+=2, vol95 2 <Bn-* g#> <E-P B>
+
+5 systems 10 / 19-45-19 10 / 19-45-19 \
+ / 19-40-19 / 19-50-19 20 / 19-50-19 15 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+4 bars | 24 35 20 24 | 64 | 64 \
+ | 6 6 6 7 8 8 8 6 6 5 5 5 6 5 5 5 |
+| .225 .225 .225 .225 .35 .255 .255 .255  .23 .23 .23 .23 .23 .23 .23 .23
+i1.0   sehr zart
+I0.5 .03 pp
+=1' vol85 8 rest' e~(1 163 [e~)1 vol-5 d~ a vol-5 f d A] 2 rest
+=1, vol127 2 A-emph, 4. D 8 vol-10 E
+=2' 2 blank vol75 4 b bb
+=2, vol85 2 <A d f> vol-10 <G-P d g>
+| 3.8
+i0.5 .01 pp
+=1' vol65 83 blank 1 a(1
+=1' vol55 83 blank 16 blank 1 d(3
+=1' vol60 83 blank 8 blank 1 A(5
+=1, vol110 1 F(4-emph,
+i0.7 .01 mf
+i0.6 .15 arpeggiando
+i0.1 .03 pp
+=2, vol55 4 blank 16 blank 1 d~(1
+=2, vol55 4 blank 1 a(8
+=2, vol55 8. blank 1 d(6
+=2, vol55 8 blank 1 A(4
+=2, vol60 1 D(2-P
+|
+=1' vol55 4 <A)5 d)3 a)1> rest rest vol75 D
+=1, vol100 4 F)4 2. blank
+I0.90 .55 mp
+i0.60 .35 ausdrucksvoll
+=2' vol55 4 <D)2 A)4 d)6 a)8 d~)1> 4 rest-,-* 2 rest
+=2 2. blank 4 blank-,-P
+| 4.0
+il0.3 345
+i0.40 .70 espress . . .
+=1  vol75 8. [C 16 D(2] 83 [D)2 B_n-I3 G_#] 4. A_ 8 d
+=2' vol55 4. <e#lr g#> 8 e# 4. vol45 <d f> 8 rest
+=2, vol55 2 <Dr(2 B> 4. <D)2-P A> 8 blank-,-*
+/
+3 bars | 2# 6 6 6 7 7 7 7 6 6 6 6 6 7 7 7 5 \
+ | 6 6 6 7  6 11 12 7  6 6 6 7  5 7 11 3 \
+ | 8 7 9 10 8 8 8 10 8 10 8 7 |
+|
+=1' vol50 2 blank 83 rest' [F-I3 A] 16 [d vol+5 f a d~]
+=1, vol75 8. [c 16 d(1] 83 [d)1 Bn-I3 G#] 4. A 8 rest,
+=2' vol55 4. <e~#lr g~#> 8 e~# 4. vol45 <d~ f~> 8 rest''
+=2, vol55 2 <dr(2-P b> 4. <d)2-P a> 8 blank-,-* treble
+|
+=1' vol70 8. [c~r 16 d~(2] 83 [d~)2 b-I3 g#] 8. [a# 16 b(2] 83 [b)2 g-I3 fn] 
+=1, vol55 4. <e#rl g#> 8 <d(4 fn(2> 4. <d)4 f)2> 8 d(4
+=2' vol55 2 B 4. G# 8 B
+=2, vol55 4. D 8 D(2 4. D)2 8 D(2
+|
+=1' vol70 8. [f## 16 g#(2] 83 [g)2 vol-5 e#-I3 d(2] \
+ [d)2 vol-5 B-I3 G#(2] [G)2 vol-5 E#-I3 D] 
+=1, vol55 4. d)4 8 blank 2 blank
+=2' vol55 2 <Fnlr(4 G#xl B> 8 F)4 4. rest
+=2, vol55 2 Dr)2(2 8 D)2 4. blank bass
+/
+4 bars | 2# 6 6 6 6 6 6 6 7 6 6 6 6 6 6 6 6 \
+ | 7 7 7 8 8 8 8 8 8 8 8 7 \
+ | 6 6 6 6 6 6 6 8 6 6 6 6 6 6 6 6 \
+ | 7 7 7 8 8 8 8 8 8 8 8 7 |
+|
+=1' vol75 2 A vol75 4. D 8 E
+=1, vol70 8 rest,, D 8. [C 16 D] 4 B_ 8. [B_b 16 G_]
+=2' vol55 2 <A f#> <G-P d g>
+|
+il0.6 .10 350
+=1' vol50 4 rest' 83 rest' [A_-I3 D] [F A-I3 d] [f d-I3 f]
+=1, vol55 2. <A_ D vol75 F> 4 rest,
+=2' vol55 2. <D-P A d> 4 rest
+|
+=1' vol70 2 a 4. d 8 e
+=1, vol50 2 d 4 <G B> Bb
+=2' vol60 8 rest'''' d~ 8. [c~-* 16 d~(1] 4 d~)1 8. [bb 16 g]
+=2, vol50 2 <a f~> 4. g-P 8 rest,
+|
+=1' vol45 4 rest''' 83 rest, [F_-I3 A_] [D vol+5 A_-I3 D] [F vol+5 D-I3 F]
+=1, vol50 2. <A d vol75 f> 4 rest,,,
+=2' vol60 2. a 4 rest
+=2, vol50 2. d-P 4 blank-*
+/
+3 bars | 2# 8 8 8 8 10 8 10 8 8 8 10 7 \
+ | 8 8 8 10 8 8 10 8 8 10 8 7 \
+ | 8 10 8 10 8 10 8 10 8 10 8 7 |
+|
+bl0.5 .01 T
+=1' vol75 2 A vol+5 4. D 8 D#
+=1, vol50 83  rest,, [F-I3, E] [D C-I3, Cn] vol+5 [B_ A_#-I3, B_(2] 8 [B_)2 A_]
+=2' vol50 8 rest' 4. f(1 83 [f)1 vol+5 f e] [d c-I3 cn]
+=2, vol55 2 D-P vol+5 4 G-* F-P
+| 3.95
+=1' vol85 2 B vol+5 4. E 8 Fn
+=1, vol55 83 rest,, [G-I3, F] [E Eb-I3, D] vol+5 [C B_#-I3, C(2] 8 [C)2 Cnl]
+=2' vol55 8 B 4. g(1 83 [g)1 vol+5 g f] [e eb-I3 d]
+=2, vol65 2 E-P vol+5 4 A-* G-P
+| 3.9
+il0.4 .16 355
+=1' vol90 2 c vol+5 4. F# 8 Gn
+=1, vol60 83 rest,, [A-I3, G#] [F Fn-I3, E] vol+5 [D C-I3, D(2] 8 [D)2 C]
+=2' vol60 8 c 4. a(1 83 [a)1 vol+5 a g#] [f fn-I3 e]
+=2, vol70 2 F-P vol+5 4 B-* Bb-P
+/
+3 bars | 2# 9 6 6 6 6 7 7 6 6 6 6 6 8 6 6 5 \
+ | 6 6 7 8 6 6 6 8 6 6 6 6 6 6 6 4 \
+ | 9 10 6 8 6 6 6 6 6 6 6 6 5 7 7 4 |
+| 3.85
+=1' vol105 2 <g# b d~ f~(1> 83 [f~)1 e~-I3 d~] [b g#-I3 e]
+=1, vol75 83 rest, [d-I3, c] [B A-I3 G#] 2 d
+I0.7 .02 ff
+=2' vol75 16 rest' [g# b c~] [d~ b d~ e~] 4 f~ g
+=2, vol90 2 E(2-P 8 [E)2 B] 83 [d e-I3, b]
+| 3.8
+=1' vol110 2 <bx c~# g~(1> 83 [g~)1 f~-I3 e~] [b g-I3 e]
+=1, vol85 83 rest, [e-I3, d] [c B-I3 A] 2 e
+=2' vol85 16 rest' [a c~ d~] [e~ c~ e~ f~] 4 g~ 8 c~ blank
+=2, vol100 2 A(2-P 8 [A)2 e] 83 [g a-I3, c~]
+| 3.75
+=1' vol115 2 <c~n e~ a~(1> 83 [a~)1 g~-I3 f~] [e~ d~-I3 c~#]
+=1, vol95 83 rest [f-I3, e] [cn B-I3 A] 2 f
+=2' vol95 16 rest' [c~n d~# e~] [f~ e~ f~ g~] 2 a
+=2, vol105 2 D(2-P 8 [D)2 A] 83 [d D-I3, d]
+
+5 systems 10 / 19-50-19 / 19-50-19 \
+ / 19-38-19 5 / 19-38-19 / 19-38-19 15/
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 2# 8 6 6 8 6 6 6 7 6 6 6 7 6 6 6 5 \
+ | 8 8 8 8 8 9 8 8 8 8 8 7 \
+ | 8 8 8 8 8 9 8 8 8 8 8 7 |
+| 3.8
+=1' vol105 83 [<f c~n> d#-I3 e] [b a-I3 vol-5 cn] \
+ [g f-I3 vol-5 F] [e d-I3 c]
+i0.7 .03 dim . . .
+=2' vol90 8. rest'' 16 e~ 8. [f~ 16 e~n] \
+ vol-20 8. rest' 16 <a c~> 8 [<g b> <f a>]
+=2, vol100 2 d vol-5 D
+| 3.6
+il0.8 .01 360
+=1' vol95 4 B 4 b(1 83 [b)1 a-I3 g] [f g-I3 e]
+=1, vol60 83 [D# E-I3, F] rest, [G-I3, E] 4. D 8 E
+I0.2 .01 fp
+=2' vol50 83 rest' [b b] 8. [b 16 b(2] 83 [b)2 b b] 4 b
+=2, vol90 1 G-P
+| 3.5
+=1' vol95 4 B 4 b(1 83 [b)1 a-I3 g] [f g-I3 e]
+=1, vol60 83 [D# E-I3, F] rest, [G-I3, E] 4. D 8 E
+I0.2 .01 fp
+=2' vol50 83 rest' [b b] 8. [b 16 b(2] 83 [b)2 b b] 4 b
+=2, vol90 1 G
+/
+3 bars | 2# 8 8 8 8 7 9 8 8 8 8 8 7 \
+ | 8 8 8 8 7 9 8 10 8 8 7 7 \
+ | 10 10 8 8 7 9 8 10 8 8 7 7 |
+| 1.7 1.8
+=1' vol95 4 B 4 b(1 83 [b)1 vol+5 d~-I3 c~] [b c~-I3 d~]
+=1, vol60 83 [D# E-I3, F] rest, [G F] 8 dn 4 e 8 e#
+I0.2 .01 fp
+i0.6 .30 cresc . . .
+=2' vol50 83 rest' [b b] 8. [b 16 b(2] 83 [b)2 b b] 4 b
+=2, vol90 2 G vol+5 G#-P
+| 3.8
+=1  vol100 4 <f a> 8. [en 16 vol+7 G,] vol-12 4 d 8. [c' 16 vol+6 E]
+I0.5 p
+=2' vol50 83 [en f-I3 g(2] 8 g)2 rest' 83 [g a-I3 bb(2] 8 b)2 rest' 
+=2, vol80  2 A-P vol-5 Bb-P
+| 1.91 1.95
+i0.7 .09 poco rit . , .
+=1' vol90 4 B 8. [A 16 vol+7 B_] vol-12 4 G 8. [F 16 vol+7 A_]
+=2' vol45 83 [bn c~#-I3 d~#(2] 8 d~)2 rest' 83 [a b-I3 c~n(2] 8 c~)2 rest'
+=2, vol70  2 Bn-P vol-5 cn-P
+
+/
+5 bars | 2# 24 24 24 22 | 24 24 24 22 \
+ | 12 12 12 12 12 14 12 11 | 42 40 | 24 24 24 22 ||
+| 2.0 2.05
+il0.6 .05 365
+=1' vol80 2. F 4 E
+=1, vol50 1 C#
+=2' vol50 4 a vol+5 g# vol+5 2 gn
+=2, vol60 2 c# A-P treble
+midi pause 0.3
+| 2.1 2.15
+=1' vol80 2. f 4 e
+=1, vol50 1 c
+=2' vol50 4 A vol+5 G# vol+5 2 Gn
+=2, vol60 2 C A_
+=2 2... blank 16 blank-,-Una
+| 2.2 2.3
+b0.3 .03 molto rit.
+=1 2 blank 1 rest
+I0.2 .10 p
+i0.2 .22 dolce
+=2 4 rest vol50 4. F_-* 8 E_ 4 C(2-,-,-P
+|
+=1' vol45 1 <c~(3 f~(1>
+=1, vol45 2 a g#
+I0.5 .05 pp
+=2' vol45 1 c(1
+=2' vol45 2 Ar G#
+=2, vol45 1 C)2
+|
+=1' vol45 2 f~)1 vol-5 e~
+=1  vol45 1 c~)3
+=1, vol45 1 gn
+=1 2. blank 4 blank-,-,-Tre
+=2' vol45 1 c)1
+=2' vol45 1 Gn
+=2, vol44 4 A_ 2 B_b vol-5 4 A_ bass
+midi pause 0.4
+
+/
+2 bars | 2# 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4 4 5 4 4 5 4 4 3 |
+| 4.2
+bl1.2  U
+il1.0 .13 370
+=1' vol50 4 e~ 8. [d~ 16 c~] 4 b 8. [a 16 ab]
+=1, vol40 163-s rest [a f d f a] rest [a f d f a] \
+ rest [f d A d f] rest [f d A d f]
+I0.7 .01 pp
+b0.7 .10 Sehr ruhig
+I0.2 .18 mp
+=2' vol55 4 rest' f~ c~ d~
+=2, vol55 1 D(2-P
+|
+=1' vol50 83 [g f-I3 b] 8. [f~ 16 e~] 4 d~ 8. [c~n 16 bb]
+=1, vol40 163-s rest d rest B rest d rest [b f d f b] \
+ rest [bb f d f b] rest [f d Bb d f]
+=2' vol50 4 b 2 f 4 g
+=2, vol45 2 rest Bb
+=2, vol55 8 D)2 2.. D
+/
+2 bars | 2# 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 4.15
+=1' vol50 2 a(1 83 [a)1 b-I3 c~] [e~ f~-I3 e~]
+=1, vol40 163-s rest [e A G A e] rest [e A G A e] \
+ [c e] rest c rest e rest g rest a rest g
+I0.2 .10 pp
+=2' vol45 4 rest 8. [d~ 16 c~] 4 b 8. [a 16 ab]
+=2, vol55 1 D(2-,-P
+|
+=1' vol50 4 g~(1 83 [g~)1 f~-I3 e~] [d~ c~-I3 g] [b 83. a 163 e]
+=1, vol40 163-s rest [a b a c~ a] [e~ a] rest c~ rest g \
+ rest e rest c rest e rest c rest [A c] rest,
+=2' vol45 4 g 8. [d~ 16 c~] 4 b 8. [a 16 g]
+=2, vol55 8 D)2 2.. D(2-P
+
+5 systems 15 / 19-38-19 5 / 19-45-19 \
+ / 19-40-19 / 19-38-19 / 19-45-19 10 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 2# 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4 4 5 4 4 5 4 4 3 |
+| 4.10
+=1' vol50 4 e~ 8. [d~ 16 c~] 4 b 8. [a 16 ab]
+=1, vol40 163-s rest [a f d f a] rest [a f d f a] \
+ rest [f d A d f] rest [f d A d f]
+I0.7 .01 pp
+I0.2 .15 mp
+=2' vol55 4 f f~ c~ d~
+=2, vol55 8 D)2 2.. D(2-P
+| 4.05
+il1.0 .60 375
+=1' vol50 83 [g f-I3 b] 8. [f~ 16 e~] 4 d~ 8. [c~n 16 bb]
+=1, vol40 163-s rest d rest B rest d rest [b f d f b] \
+ rest [bb f d f b] rest [f d Bb d f]
+=2' vol50 4 b 2 f 4 g
+=2, vol45 2 rest Bb
+=2, vol55 8 D)2 2.. D
+/
+2 bars | 2# 4 5 5 4 4 4 4 6 4 4 4 4 4 4 5 4 4 4 4 4 5 4 4 3 \
+ | 4 4 4 4 4 4  4 4 4 4 4 5  4 4 4 4 5 4  4 5 4 5 4 3 |
+| 4.0
+=1' vol60 4 bb(1 83 [b)1 cn-I3 g] [c~n e~-I3 f~n] [g~ a~-I3 g~]
+=1, vol40 163-s rest [g cn Bb c g] rest, B rest, G rest, Bb \
+ rest g rest bb rest g rest b rest c~n rest b
+I0.5 .02 fp
+i0.6 .13 weich
+=2' vol50 4 rest' 8. [f~n 16 e~] 4 d~n 8. [c~n 16 bn]
+=2, vol70 1 <Cn(2-P cn>
+| 3.95
+=1' vol65 4 b~b(1 83 [b~)1 a~-I3 g~] [f~n e~-I3 g] [d~ 83. c~n-I3 163 g]
+=1, vol45 163-s rest [d~ e~ d~ g~ d~] rest c~n rest e~ rest c~ \
+ rest g rest e rest Bb rest g rest [e cn] rest
+=2' vol50 4 <bb g~> 8. [f~n 16 e~] 4 d~ 8. [c~n 16 bb]
+=2, vol70 8 C)2 vol50 2.. Cn
+
+/
+2 bars | 2# 4 5 4 4 5 5 4 5 4 4 4 4 4 5 4 4 5 5 4 5 4 4 4 3 \
+ | 4 5 4 4 4 5 5 4 4 4 4 4 4 5 4 4 4 5 5 4 4 4 4 3 |
+| 3.9
+bl0.7 .01 V
+=1' vol70 8 [Bn cn Fn A] [bn c~n fn a]
+=1, vol50 163-s rest, [G Fn] rest, [E Cn] rest,, [A_ B_n] rest, [F cn] \
+ 163-s rest, [g fn] rest [e cn] rest,, [A Bn] rest [c F]
+i0.5 .02 espress . . .
+=2 vol60 2 <Fnlr(2-P cn(1> 83 [<F,)2 c,)1> fn-I3, a] [c~n f~n-I3 c~]
+| 3.85
+=1' vol73 8 [c# d  Fn A] [c~# d~ fn a]
+=1, vol53 163-s rest, [G Fn] rest, [E D] rest,, [C# D] rest, [F d] \
+ 163-s rest, [g fn] rest [e d] rest,, [c# d] rest [d F]
+=2 vol63 2 <Fn(2-P d'(1> 83 [<F,)2 d)1> fn-I3, a] [d~ f~n-I3 d~]
+/
+2 bars | 2# 5 4 4 5 4 4  4 4 4 4 4 4  5 4 4 4 4 4  4 4 4 4 4 3 \
+          | 5 5 4 4 4 4  4 4 4 4 5 4  4 4 4 4 4 4  4 5 4 4 4 3 |
+| 3.80
+il1.0 .20 380
+=1' vol76 8 [d e G Bb] [d~ e~ g bb]
+=1, vol56 163-s rest, [Bb A] rest, [F# D] rest,, [C# D] rest, [G d] \
+ 163-s rest, [bb a] rest, [f# d] rest, [c# d] rest, [d G]
+=2 vol66 2 <G(2-P d'(1> 83 [<G,)2 d)1> g-I3, bb] [d~ g~n-I3, d~]
+| 3.75
+=1' vol79 8 [e fn bb a] 4. d 8 <d# d~#>
+=1, vol59 163-s rest, [cn Fn] rest, [G c] rest, [c# e] rest, [e c#] \
+ 163-s rest, [A F D F A] 4 rest,
+=2' vol59 2. blank 163-s rest'' [a c~n] rest'' [c~ a]
+=2, vol69 4 a-P g fn-P eb
+/
+2 bars | 2# 5 4 4 4 4 4  5 5 4 4 4 4  4 4 4 4 4 6  5 4 4 4 4 3 \
+ | 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4 4 3 |
+| 3.70
+=1' vol82 2 blank d~
+=1, vol82 8 [<e e~> <fn f~n> <bb b~b> <a a~>] 8 [d d(2] 16 [d)2 d# e e#]
+=2' vol62 163-s rest'' [g# b] rest' [b g] rest'' [gn bb] rest'' [b g] \
+ rest'' [f b] rest'' [d~ f~] rest'' [f~n a~b] rest'' [a~ f~]
+=2, vol72 4 d-P c#-P cn-P bn
+| 3.65
+=1' vol79 8 [f# g c~n b] 4. vol+8 e 8 vol-8 <e# e~#>
+=1, vol59 163-s rest, [c# G] rest, [G c] rest,, [f a] rest, [f c] \
+ 163-s rest, [B G E G B] 4 rest,
+=2' vol59 2. blank 163-s rest'' [bn d~] rest'' [d~ b]
+=2, vol69 4 bb-P a g-P fn
+
+6 systems 5 / 19-38-19 / 19-35-19 / 19-40-19 15 \
+ / 19-38-19 15 / 19-35-19 / 19-35-19 6 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+2 bars | 2# 5 5 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 6 4 5 6 4 5 3 \
+ | 4 5 4 4 4 4 5 5 6 5 5 4 5 4 4 4 4 4 5 5 4 4 4 3 |
+| 3.60
+=1' 2 vol90 blank e~
+=1  vol82 8 [<f# f~#> <g g~> <c~n c~~n> <b b~>] vol+8 8 e vol-8 4 e 8 e#'
+=1, vol62 2. blank 163-s rest, [G c#] rest, [G c#]
+=2' vol62 163-s rest'' [a# c~#] rest' [c~ a] rest'' [an c~n] rest'' [c~ a] \
+ rest'' [g# c~] rest''' [e~ g~#] 4 blank
+=2, vol72 4 e-P d#-P dn-P c~#
+| 3.55
+il0.6 .60 385
+=1' vol60 8 [f# g d~ c~#] 4. vol+8 f 8 vol-8 gn
+=1, vol45 163-s rest, [e Bb] rest, [B e] rest,, [g# bn] rest, [g# Bn] \
+ 163-s rest, [c# A F A c] 4 rest,
+I0.5 .02 pp
+=2' vol45 2. blank 163-s rest'' [c~# e~] rest'' [e~ c~]
+=2, vol60 4 c~n-P bn a-P gn
+/
+2 bars | 2# 5 5 4 5 5 6 5 5 4 4 4 5 5 4 4 4 5 4 5 4 4 5 4 3 \
+ | 5 4 4 4 4 4 4 4 4 5 4 6 5 4 4 4 4 4 4 5 4 4 5 3 |
+| 3.50
+i0.8 .98 steigernd . . .
+=1  vol65 8 [g# a d~n c~#] vol+8 8 f' vol-8 4 f' 8 gn'
+=1, vol50 2 blank 8 blank 163-s rest, [F A#] rest, [G# d] rest, [G# d]
+=2' vol50 163-s rest'' [b# d~#] rest' [d~# b#] rest'' [bn d~n] rest'' [d~ b] \
+ rest'' [a# d~] 4. blank
+=2, vol65 4 f-P e#-P en-P d~
+| 3.45
+=1, vol75 8 [g# a d~n c~#] vol85 8 [<G# g#> <A a> <d d~> <c c~>]
+=2' vol60 163-s rest''' [d~# f~] rest''' [f~ d~] \
+ rest''' [d~ f~] rest''' [e~# g#] \
+ 163-s vol70 rest' [d# f] rest' [f d] rest'' [e# g#] rest'' [g# e~#]
+=2, vol75 4 c~n-P b-P vol85 cn-P B-P
+/
+2 bars | 2# 5 5 4 4 4 6  4 4 4 5 5 4 5 5 4 4 4 5 5 5 4 4 4 3 \
+ | 5 4 4 4 5 6  5 5 4 5 5 6  4 4 4 4 4 4  4 4 4 4 4 2 |
+| .85 .84 .84 .87
+=1, vol95 8 [a# b e~ d~#] vol105 8 [<A# a#> <B b> <e e~> <d# d~#>]
+=2' vol80 163-s rest''' [f~n g~#] rest''' [g~ f~] \
+ rest''' [f~ g~] rest''' [g~n bb] \
+ 163-s vol85 rest'' [fn g#] rest'' [g f] rest'' [gn bb] rest'' [g Bb]
+=2, vol95 4 d~-P c~#-P vol105 d-P c#-P
+| .91 .96 1.02 1.09
+=1 vol115 8 [<gn g~n> vol-8 <f f~> vol+8 <e e~> vol-8 <eb e~b>] \
+ vol+8 [<d d~> vol-8 <c c~> vol+8 <cn c~n> vol-8 <B(2 b(1>]
+I0.8 .02 ff
+i0.8 .12 molto rit . . .
+=2' 163-s vol90  rest'' [eb g c~ a eb] rest'' [gb bb c~ bb gb] \
+ 16 rest'' [a g~ a] rest'' [d~b f~ d~]
+=2, vol115 4 A-P cn eb-P g
+/
+3 bars | 2# 2/4 9 8 8 8 8 7 || 4/4 7 6 7 7 6 7 8 8 8 8 8 6 \
+ | 8 8 8 7 6 7 8 8 8 8 8 6 |
+| .58 .60  .77 .67
+il0.9  390
+b1.0 .99 Sehr gross
+=1, 2/4 83 [<B)2 b)1> <A# a#-I3> <B b>] 8 [<g d~ g~-fermata> <fn f~n>]
+=2 2/4 4 <g#-P d~> <b g~#-fermata>
+
+| 4.5
+=1  4/4 vol126 4 rest <a d~ f~#> 2 <b(2 f~# b~(1>
+=1, 4/4 vol90 2 blank 83 rest,, 43 D#-I3, 83 [E F-I3 G]
+I0.6 .03 ff
+=2' 4/4 vol90 2. blank 83 [e f g(4]
+=2, 4/4 vol126 4 rest-* <a-P d~> 2 <G(2-P d# g>
+| 4.6
+=1  vol126 4 <b)2 b~)1> <d g b d~> 2 <g b d~(3 g~(5>
+=1, vol90 83 [B e-I3 g] 4 blank 83 rest,, [a-I3 g] [e vol-10 B-I3 G]
+=2' vol90 83 [b e~ g~] 4 blank 83 rest''' [a~ g~] [e~ vol-10 b g]
+=2, vol126 4 <G)2 g)4> <f#-P d~> 2 <e(2-P b e~>
+/
+4 bars | 2# 27 18 18 18 | 20 18 18 18 \
+ | 18 18 18 18 | 20 20 20 18 |
+| 1.4 1.2 1.2 1.2
+=1  vol126 4 <d~)3 g~)5> vol-15 2 <f# a d~ f~#> vol-15 4 <e g c~# e~>
+=1, vol85 83 [f e B] 2. blank
+i0.5 .40 dim . . .
+=2' vol85 83 [f~ e~ b] 2. blank
+=2, vol126 4 e)2 vol-15 2 <A-P d a> vol-15 4 <A c# g>
+| 4.9
+=1  vol85 4 rest 2 <ebl gb c~ e~b> vol-15 4 <d fn b d~>
+i0.7 .24 dim . . .
+=2' vol85 4 rest-* 2 <Bb-P ab> vol-15 4 <Bn an>
+| 4.8
+il0.7 .35 395
+=1 vol90 2. <dbxlrr enl bbl d~b> vol-20 4 <cnll fnl a c~n(1>
+I0.5 .02 sfp
+i0.5 .18 dim . . .
+=2 vol85 2. <Cr-P Bb> vol-20 4 <dbl a c~n>
+|
+=1' vol60 4 c~n)1 vol-8 2 <Bn bn> vol-8 4 <Fn fn>
+=1, vol55 2 <f abl> vol-2 d
+i0.5 .04 dim . . .
+=2, vol60 2 <dn-P ab> vol-12 <G# fn>
+/
+4 bars | 2# 6 6 6 6 6 6 8 8 8 8 8 7 \
+ | 9 9 9  8 8 8  9 14 9 8 7 7 \
+ | 24 24 24 21 | 12 12 12 12 14 14 12 11 |
+| 4.9
+=1' 2 vol75 e(1 83 [e)1 vol45 d-I3, A] [F vol-5 D-I3, A_]
+=1, vol40 1 <F# A>
+I0.5 .02 pp
+i0.5 .14 dolciss . . .
+=2 vol40 1 <A(2-P f# a>
+|
+=1' vol50 4 B 2 A 4 B_
+=1, vol40 83 [D E-I3 F(2] 2 F)2 4 blank
+=2' vol40 83 [f g a(1-,-P] 4 a)1 83 [b c~ d~#] 4 blank
+=2, vol40 2 A)2 <B-P f>
+|
+=1' vol50 4 Gr 2 F 4 A_
+=1, vol40 2 D#r C#
+=2, vol40 2 <B#rl-P d#> <c# f>
+| 1.23 1.25 1.28 1.5
+il0.4 .13 400
+=1' vol50 2. F(1 8 [F)1 E]
+=1, vol40 4 D# Dn 2 C
+=2' vol40 2 <f a(1> 8 [a)1 g#] [gn e]
+=2, vol40 2 B#-P 4 c A-P
+midi pause 0.3
+
+6 systems 5 / 19-38-19 10 / 19-38-19 5 / 19-38-19 \
+ / 19-38-19 / 19-38-19 / 19-38-19 5 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+3 bars | 2# 6 5 6 5 6 6 6 8 6 5 6 5 6 6 6 6 \
+ | 6 5 6 5 6 6 6 7 6 5 6 5 6 6 6 6 \
+ | 6 6 6 5 6 6 6 7 6 5 6 5 6 6 6 6 |
+| 1.2 1.2 1.2 1.3
+bl0.7  W
+=1' vol50 4 e 8. [d 16 c] 4 B 8. [A 16 G#]
+=1, vol40 4 F <E G> <D G#> D#
+i0.3 .03 dolciss . . .
+=2' vol35 4 A A# B cn
+=2, vol45 1 D(2-P
+=2 2 blank 4 blank-* blank-P
+|
+=1' vol50 4 c 8. [B 16 A] 4 G 8. [F 16 f~n]
+=1, vol40 4 <E Gn> <D#l F> <A_ D#> 8 [B_b A_]
+=2' vol35 4 A# B cn c#
+=2, vol45 1 D)2-P
+=2 4 blank blank-* 4. blank 8 blank-P
+|
+=1' vol50 4 e~ 8. [d~ 16 c~] 4 b 8. [a 16 g#]
+=1, vol40 4 rest e d d#
+i0.9 .02 zart . . .
+=2' vol35 8 rest' <a f~> 4 <a# g~> <b g~#> <c~n a~>
+=2, vol45 1 <D(2-P A(1>
+/
+3 bars | 2# 6 6 6 5 6 6 6 7 6 5 6 5 6 6 6 6 \
+ | 6 5 6 7 6 6 6 7 6 5 6 6 6 6 6 6 \
+ | 6 5 6 5 6 6 6 10 6 5 6 5 6 6 6 13 |
+|
+=1' vol50 4 c~ 8. [b 16 a] 4 g 8. [f 16 f~n]
+=1, vol40 4 <e gn> <d#l f> <A d#> 8 [Bb A]
+=2' vol35 4 a# b c~n c~#
+=2, vol45 8 <D)2 A)1> 2.. D-P
+|
+il1.0 .60 405
+=1' vol50 4 e~ 8. [d~ 16 c~] 4 b 8. [a 16 g#]
+=1, vol40 4 rest e d d#
+i0.8 .03 dim . . .
+=2' vol35 8 rest' <a f~> 4. <a# g~> 8 <b a~> 4 an
+=2, vol45 2 D-P 4 F Bn-P
+| 1.3 1.4 1.5 1.7
+=1' vol50 4 g 8. [fn 16 eb] 4 db 8. [cn 16 Bb]
+=1, vol40 4 cn Bb E Fnl treble8va
+i0.5 .75 rit . . .
+=2' vol45 2 c~n blank
+=2, vol44 4 <eb-P g> <f#l-* a#> <g b> <g#-P d~>
+=2 2.. blank 8 blank-,-,-Una
+midi pause 0.3
+/
+1 bars | 2# 5 6 5 4 4 5  4 4 4 4 4 5  4 4 4 4 4 5  4 4 4 5 5 6 \
+            5 5 6 4 4 5  4 4 4 4 4 5  4 4 4 5 5 6  6 5 5 5 4 3 |
+| 5.5
+bl0.7 .01 X
+=1, vol40 323-s [a d F# rest d a] [b d F rest d b] \
+ [a d F rest d a] [b d F rest d b] \
+ [a d F rest d a] [b d F rest d b] \
+ [f B D rest B f] [g Bb D rest Bb g]
+I0.5 .06 ppp
+=2' vol40 16 <D-P A> treble A rest Bn rest A rest-P B \
+ bass <D-P A> treble A rest Bn rest-P F  bass <D-P Bb> treble G bass
+/
+1 bars | 2# 5 5 6 4 4 5  4 4 4 4 4 5  4 4 4 4 4 5  4 4 4 5 5 6 \
+            5 5 6 4 4 5  4 4 4 4 4 5  4 4 4 5 5 6  6 5 5 5 4 3 |
+|
+=1, 323-s [a d F rest d a] [b d F rest d b] \
+ [a d F rest d a] [b d F rest d b] \
+ [a d F rest d a] [b d F rest d b] \
+ [f B D rest B f] [g Bb D rest Bb g]
+=2' 16 <D-P A> treble A rest Bn rest A rest-P B \
+ bass <D-P A> treble A rest Bn rest-P F bass <D-P Bb> treble G bass
+/
+1 bars | 2# 5 5 6 4 4 5  4 4 4 4 4 5  4 4 4 5 5 6  5 6 5 6 5 5 \
+            5 5 6 4 4 5  4 4 4 4 4 5  4 5 4 5 5 6  5 6 5 5 4 3 |
+|
+=1, 323-s [b d F rest d f] [b d F rest d b] \
+ [a d B rest B d] [a d Bb rest Bb g] \
+ [b d F rest d f] [bn d F rest d b] \
+ [a d Bn rest B d] [a d Bb rest Bb g]
+=2' 16 <D-P A> treble A rest Bn rest-P F  bass <D-P Bb> treble G \
+  bass <D-P A> treble A rest Bn rest-P F  bass <D-P Bb> treble G bass
+/
+1 bars | 2# 5 5 6 4 4 5  4 4 4 4 4 5  4 4 4 5 5 6  5 5 6 5 5 6 \
+            5 5 6 4 4 5  4 4 4 4 4 5  5 4 4 6 5 5  6 5 5 5 4 3 |
+|
+il0.5 .08 410
+=1, 323-s [a f d rest' d f] [a f d rest' d f] \
+ [a d B rest' B d] [a d F rest' B d] \
+ [a d F rest d f] [a d F rest F A] \
+ [d Bb G rest Bb d] [e Bb G rest Bb e]
+=2  16 <D-P A> treble A rest Bn' rest-P A  bass <D-P A> treble B' \
+  bass <D-P A> treble A rest B'  rest-P d  bass <D-P Bb'> treble e bass
+
+6 systems / 19-35-19 5 / 19-35-19 5 / 19-38-19 10 \
+ / 19-38-19 / 19-38-19 / 19-35-19 5 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+/
+1 bars | 2# 6 6 5 5 4 5  5 4 4 4 5 5  4 5 4 5 5 5  5 5 5 6 5 5 \
+            5 5 5 4 4 5  4 4 4 4 4 5  4 4 4 5 5 5  5 5 5 5 4 3 |
+|
+=1' 323-s [g eb Bb rest Bb g] [eb Bb G rest G eb] \
+ [Bb G Eb rest Eb Bb] [G Eb B_b rest Eb G] \
+ [f d A rest A f] [d A F rest F d] \
+ [A F D rest, D A] [F D A_ rest, D F]
+=2  16 <D-P Bb> treble g rest eb rest-P Bb  bass <A-P eb'> treble G \
+  bass <A-P d'>  treble f rest d  rest-P A   bass <A-P d'>  treble F bass
+/
+1 bars | 2# 5 6 5 5 4 5  5 4 4 4 5 5  4 5 4 5 5 5  5 5 4 6 5 5 \
+            5 5 5 4 4 5  4 4 4 4 4 5  4 4 5 6 5 5  6 5 5 5 4 11 |
+|
+=1' 323-s [g eb Bb rest Bb g] [eb Bb G rest G eb] \
+ [Bb G Eb rest Eb Bb] [G Eb B_b rest Eb G] \
+ [f d A rest A f] [d A F rest F d] \
+ [A F D rest, D A] [F D A_ rest, D F] treble
+=2  16 <D-P Bb> treble g rest eb rest-P Bb  bass <A-P eb'> treble G \
+  bass <A-P d'>  treble f rest d  rest-P A   bass <A-P d'>  treble F bass
+/
+1 bars | 2# 5 5 4 5 4 5  5 4 4 4 5 5  4 5 4 5 5 4 5  5 4 5 5 5 4 \
+            5 5 4 5 4 5  5 4 4 4 5 5  4 5 4 5 5 4 5  5 5 4 5 4 3 |
+| 1.4 1.42 1.45 1.49
+=1' vol-5 323-s [g eb Bb rest' Bb g] [eb Bb G rest G eb] \
+ [Bb G Eb rest Eb Bb] [G Eb B_b rest Eb G] \
+ [g eb Bb rest' Bb g] [eb Bb G rest G eb] \
+ [Bb G Eb rest Eb Bb] [G Eb B_b rest Eb G]
+=2  vol-5 16 [<D-P Bb> g~'] rest e~b rest-P bb  [<A-P eb'> g'] \
+ 16 [<D-P Bb> g~'] rest e~b rest-P bb  [<A-P eb'> g']
+/
+2 bars | 2# 96 | 96 |
+| 4.7
+=1  treble8va 2# vol35 4 rest 2. <a(2 f~#(4 a~(1>
+=2  treble    2# vol35 4 rest 2. <d(2 f#(4 d~(1>
+=2 2# 43 blank 83 blank-* 2. blank-P
+|
+il0.9 .10 415
+=1  vol35 4 <a)2 f~#)4 a~)1> rest 2 <a f~# a~> treble
+=2  vol35 4 <d)2 f#)4 d~)1> rest 2 <d f# d~>
+=2 4. blank 8 blank-* 2 blank-P bass
+midi pause 0.2
+/
+1 bars | 2# 96 |
+|
+=1, vol30 323-s [F# A d A d A] [F A d A d A] [F A d A d A] [F A d A d A] \
+ [F A d A d A] [F A d A d A] [F A d A d A] [F A d A 163-s d]
+I0.4 .02 pppp
+=2' vol30 32-s [D A d A] [D A d A] [D A d A] [D A d A] \
+ [D A d A] [D A d A] [D A d A] [D A d A]
+/
+2 bars | 2# 96 | 96 ||
+|
+=1  vol30 163 blank 643 blank 1 d~(1
+=1  vol30 163 blank 1 f#(2
+=1  vol30 32 blank 1 A(4
+i0.5 .02 arpegg.
+=2  vol30 323 blank 1 f#(1
+=2  vol30 643 blank 1 A(4
+=2  vol30 1 D(2
+|
+=1 2 blank 4. blank-fermata 32 blank
+=1  vol30 1 <A)4 f)2 d~)1> 4 rest
+=2  vol30 1 <D)2 A)4 f)1> 4 rest
+=2 2 blank 4. blank-fermata 32 blank-*
+@
+
+
+1.93
+log
+@nearing completion ?
+@
+text
+@d124 1
+a124 1
+=2, 2 <Bb e> <A eb>
+d164 2
+a165 1
+=1, vol50 163-s [B_ E_ B_ E_ B_ E_] [B_ E_ B_ E_ B_ E_] vol70 4 <E_ B_> rest,,
+d867 1
+a867 1
+I1.3 .84 2
+d1432 1
+a1432 1
+=1' 4 rest' vol105 F-emph vol+5 F-emph vol+5 F-emph
+d2586 1
+a2586 1
+=2, vol55 2. <D-P A d> 4 rest
+d2834 1
+a2834 1
+=2 vol66 2 <G(2-P d'(1> 83 [<G,)2 d)1> g-I3, bb] [d~ g~n-I3 d~]
+d3122 3
+a3124 3
+=1  treble8va vol35 4 rest 2. <a(2 f~#(4 a~(1>
+=2  treble    vol35 4 rest 2. <d(2 f#(4 d~(1>
+=2 43 blank 83 blank-* 2. blank-P
+@
+
+
+1.92
+log
+@spaced 24 pages
+@
+text
+@d60 1
+a60 1
+4 bars |1b 5 5 5 5 6 5 6 15 5 5 5 5 6 6 6 7 |5 5 5 5 6 5 6 15 5 5 5 5 6 5 6 7 \
+d123 1
+a123 1
+=2' 4 a 8. [g# 16 gn] 4 g 83 [f# g-I3 g#]
+d126 2
+a127 2
+il0.8 .15 20
+=1, 2. <Bb d a> 8. [<G#l Bb g#> 16 <Gn gn>]
+d174 1
+a174 2
+2 bars |1b 12 12 10 14 10 14 10 14 \
+ | 96 |
+d200 1
+a200 1
+r0.4 .01 sie schaut hinein .
+d444 1
+a444 1
+r0.7 .09 der Mond läuft über hohe Eichen
+d567 1
+a567 1
+ | 6 5 6 5 6 5 6 7 6 5 5 5 | 6 5 6 6 6 5 6 5 6 5 6 5 |
+d584 2
+a585 2
+6 systems 4 / 19-38-19 1 / 19-40-19 / 19-38-19 18 \
+ / 19-27-19 11 / 19-30-19 / 19-46-19 10 /
+d624 1
+a624 1
+=1' vol100 4. rest' 32 rest'' [Bn d f#] 4. rest'' 32 rest'' [f ab bn]
+d627 1
+a627 1
+ rest'' [bb bn d~] rest'' [f~ g~ a~b]
+d638 1
+a638 1
+ rest'' [bb bn d~] rest'' [f~ g~ a~b]
+d647 1
+a647 1
+ | 12 13 12 13 12 13 12 11 | 4# 18 18 20 20 |
+d668 1
+a668 1
+=1, vol90 4 <gn d~#> 83 [e~ c~-I3 g#] 2 vol80 <c a(2 c~(1>
+d683 1
+a683 1
+ | 9/8 8 9 8 8 8 9 9 9 9 | 8 9 8 8 8 9 9 8 9 |
+d695 1
+a695 1
+r0.4 .05 die Stimme eines Weibes spricht :
+d838 2
+a839 1
+ | 4# 4 2 4 2 4 4 2 4 2 4 4 4 4 4 4  4 4 4 4 4 5 4 5 4 6 6 5 4 5 4 4 4 4 4 4 4 4 4 4 4 4 4 3 4 3 4 |
+d864 1
+a864 1
+il0.8 .12 125
+d882 1
+a882 1
+ 3 3 3 3 3  3 3 3 3 3  3 3 3 2 2 | \
+d913 1
+a913 1
+2 bars | 6 6 6 9.5 6 6 6 9.5 6 6 6 6 | 4/4 80 |
+d916 2
+a917 2
+ 16 [<ab a~b> <g g~> 16. <d d~> 32 <eb e~b>] \
+ 16 [<ab a~b> <g g~> 16. <d d~> 32 <eb e~b>]
+d967 2
+a968 2
+i1.1 .23 wild, leidenschaflich
+I0.4 .66 ff
+d971 2
+a972 2
+I0.3 .01 f
+I0.7 .21 p .44 f .70 p
+d981 1
+a981 1
+ | 3 3 3 3 3 3  6.3 6.3 6.3 4 6.3 6  4 3 4 3 3 6  3 3 3 3 3 3 |
+d996 2
+a997 2
+2 bars | 8 8 8 8 8 8 8  3 3 3 3 3 3 3  3 3 3 3 3 3 3  8 8 8 8 8 8 4 \
+ | 3 3 3 3 3 3 3  3 3 3 3 3 3 3  8 8 8 8 6 8 8  3 3 3 3 3 3 3 |
+d999 1
+a999 1
+=1, vol110 32 [Ab An Bb Bn-I7 c db dn] 4.. blank 32 [Gb Gn Ab An-I7 Bb Bn c]
+d1001 1
+a1001 1
+=2' vol110 32 [B_ C Db Dn-I7 Eb En F] 4.. blank 32 [A_ B_b B_n C-I7 C# D Eb]
+d1020 1
+a1020 1
+I0.7 .01 ppp
+d1024 1
+a1024 1
+ vol65 163 [eb-*-emph vol45 163-s Bb A-P Bb A Bb]
+d1027 1
+a1027 1
+ | 18 24 18 18 |
+d1032 1
+a1032 1
+=2 16 <G-* Bb'> 8. rest-P 16 <F#l Bn'> 8. rest-P 4 rest-Tre bass vol110 e-emph
+d1040 1
+a1040 1
+I0.8 .22 p .43 f .70 p
+d1081 1
+a1081 1
+ 3 3 3 3 3 3 3  3 4 3 3 4 3 4  3 4 3 3 4 3 4  3 4 3 3 4 3 3 |
+d1199 1
+a1199 1
+ | 6 6 6 6 6 6 9 8 9 9 8 8 9 9 8 8 8 6 |
+d1582 1
+a1582 1
+5 bars | 2# 24 22 22 22 | 24 22 22 22 | 80 | 2# 90 | 40 48 |
+d1710 1
+a1710 1
+3 bars | 2# 8 8 9 10 8 10 8 8 8 9 8 7 | 8 8 10 9 8 9 8 8 8 8 8 7 | 96 |
+d1735 2
+a1736 1
+I0.5 .01 pp .45 ppp
+d1744 1
+a1744 1
+I0.5 .01 pp .40 ppp
+d1756 1
+a1756 1
+r0.6 .07 Der Mond läuft mit, sie schaut hinein
+d1884 1
+a1884 1
+ | 5b 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  4 3 4 3 3 2 |
+d1981 1
+a1981 1
+ | 2/4 10 9 9 8 8 7 | 6/8 4 4 4 4 4 4 4 4 5 4 5 4 |
+d2236 1
+a2236 1
+ | 5 7 7 5  6 6 9 6  6 6 6 6  5 7 7 4 |
+d2692 1
+a2692 1
+ | 12 12 12 12 12 14 12 11 | 42 40 | 24 24 24 22 |
+d2763 1
+a2763 1
+ rest e rest c rest e rest c rest [A c] rest
+d2767 2
+a2768 1
+5 systems / 19-38-19 /
+d2774 2
+a2775 1
+2 bars | 96 | 96 |
+d2793 2
+a2794 1
+2 bars | 96 | 96 |
+d2811 2
+a2812 1
+2 bars | 96 | 96 |
+d2826 2
+a2827 1
+2 bars | 96 | 96 |
+d2832 1
+a2832 1
+ 163-s rest, [bb a] rest [f# d] rest,, [c# d] rest [d G]
+d2836 1
+a2836 1
+=1, vol59 163-s rest, [cn Fn] rest, [G c] rest,, [c# e] rest, [e c#] \
+d2841 2
+a2842 1
+2 bars | 96 | 96 |
+d2856 2
+a2857 1
+6 systems / 19-38-19 /
+d2863 2
+a2864 1
+2 bars | 96 | 96 |
+d2873 1
+a2873 1
+il1.0 .02 385
+d2881 2
+a2882 1
+2 bars | 96 | 96 |
+d2884 1
+a2890 1
+i1.0 .03 steigernd . . .
+d2897 2
+a2898 1
+2 bars | 96 | 96 |
+d2901 3
+a2903 2
+=2' vol80 163-s rest'' [f~n g~#] rest'' [g~ f~] rest'' [f~ g~] rest'' [g~n bb] \
+ 163-s vol85 rest'' [fn g#] rest' [g f] rest'' [gn bb] rest'' [g Bb]
+d2910 2
+a2911 3
+#=2, vol115 4 <A-P eb> <cn bb> <eb-P a> <g-P c~#>
+=2' 163-s vol90  rest' [eb g c~ a eb] rest'' [gb bb c~ bb gb] \
+ 16 rest'' [a g~ a] rest'' [d~b f~ d~b]
+d2914 2
+a2915 1
+3 bars | 96 | 96 | 96 |
+d2917 2
+a2918 1
+il0.7 .03 390
+a2922 1
+b1.0 Sehr gross
+d2924 1
+a2924 1
+=1, 4/4 vol90 2 blank 83 rest,, 43 D#-I3, 83 [E F-I3, G]
+d2926 1
+a2926 1
+=2' 4/4 vol90 2. blank 83 [e f-I3 g(4]
+d2930 2
+a2931 2
+=1, vol90 83 [B e-I3, g] 4 blank 83 rest,, [a-I3, g] [e vol-10 B-I3 G]
+=2' vol90 83 [b e~-I3 g~] 4 blank 83 rest''' [a~ g~] [e~ vol-10 b g]
+d2934 2
+a2935 1
+4 bars | 96 | 96 | 96 | 96 |
+d2938 3
+a2940 3
+=1, vol85 83 [f e-I3, B] 2. blank
+i0.5 .34 dim . . .
+=2' vol85 83 [f~ e~-I3 b] 2. blank
+d2944 1
+a2944 1
+i0.5 .34 dim . . .
+d2947 1
+a2947 1
+il0.7 .23 395
+d2950 1
+a2950 1
+i0.5 .16 dim . . .
+d2954 1
+a2954 1
+=1, vol55 2 <f ab> vol-2 d
+d2958 3
+a2960 1
+4 bars | 96 | 96 | 96 | 96 |
+d2962 1
+a2962 1
+=1' 2 vol75 e(1 83 [e)1 vol45 d-I3 A] [F vol-5 D-I3 A_]
+d2970 1
+a2970 1
+=2' vol40 83 [f g-I3 a(1-,-P] 4 a)1 83 [b c~ d~#] 4 blank
+d2977 1
+a2977 1
+il0.6 .13 400
+d2984 2
+a2985 1
+6 systems / 19-38-19 /
+d2991 3
+a2993 1
+3 bars | 96 | 96 | 96 |
+d2995 1
+a2995 1
+bl0.7 .07 W
+d2998 1
+a2998 1
+i0.6 .03 dolciss . . .
+d3011 1
+a3011 1
+i0.7 .03 zart . . .
+d3015 3
+a3017 1
+3 bars | 96 | 96 | 96 |
+d3024 1
+a3024 1
+il1.0 .58 405
+d3039 2
+a3040 1
+1 bars | 96 |
+d3042 1
+a3042 1
+bl0.7 .07 X
+d3050 3
+d3060 3
+d3070 3
+d3074 3
+a3076 3
+il0.5 .06 410
+=1, 323-s [a f d rest d f] [a f d rest d f] \
+ [a d B rest B d] [a d F rest B d] \
+d3082 2
+a3083 1
+6 systems / 19-38-19 /
+d3088 3
+d3098 3
+d3108 3
+d3112 1
+a3112 1
+=1' vol-5 323-s [g eb Bb rest Bb g] [eb Bb G rest G eb] \
+d3114 1
+a3114 1
+ [g eb Bb rest Bb g] [eb Bb G rest G eb] \
+d3119 1
+a3119 1
+2 bars | 96 | 96 |
+d3129 1
+d3131 1
+a3131 1
+1 bars | 96 |
+d3139 1
+a3139 1
+2 bars | 96 | 96 ||
+@
+
+
+1.91
+log
+@spaced 20 pages
+@
+text
+@d2187 1
+a2187 1
+ / 19-40-19 / 19-50-19 / 19-35-19 5 /
+d2300 2
+a2301 2
+5 systems 10 / 19-45-19 / 19-40-19 \
+ / 19-40-19 / 19-45-19 / 19-35-19 5 /
+d2307 1
+a2307 1
+2 bars | 96 | 96 |
+d2312 1
+a2312 1
+I0.6 .02 ff
+d2319 2
+a2320 1
+2 bars | 96 | 96 |
+d2323 1
+a2323 1
+i0.2 .73 rit . . .
+d2328 1
+a2328 1
+i0.7 .07 dim . . .
+d2333 3
+a2335 1
+3 bars | 96 | 96 | 96 |
+d2337 3
+a2339 3
+il1.1 .20 320
+b0.7 .10 Etwas bewegt
+bl0.7 .01 R
+d2342 2
+a2343 2
+I0.5 .01 pp 
+i0.5 .10 zart
+d2357 3
+a2359 1
+3 bars | 96 | 96 | 96 |
+d2380 3
+a2382 1
+3 bars | 96 | 96 | 96 |
+d2399 2
+a2400 2
+5 systems 10 / 19-38-19 / 19-38-19 \
+ / 19-45-19 / 19-45-19 / 19-30-19 /
+d2406 3
+a2408 1
+3 bars | 96 | 96 | 96 |
+d2410 1
+d2416 1
+a2416 2
+il1.0 .35 330
+bl1.0 .13 S
+d2420 1
+a2420 1
+=2' vol80 8 rest' b(1 83 [b)1 f-I3 eb] 8 rest' eb(1 83 [e)1 ab-I3 gb]
+d2428 2
+a2429 1
+2 bars | 96 | 96 |
+d2443 2
+a2444 1
+3 bars | 96 | 96 | 48 |
+d2452 1
+a2452 1
+il1.1 .11 335
+d2465 2
+a2466 1
+2 bars | 96 | 96 |
+d2485 1
+a2485 1
+3 bars | 96 | 96 | 96 |
+d2494 1
+a2494 1
+il1.0 340
+d2504 1
+a2504 2
+i0.9 .43 espress . . .
+i0.8 .08 gross
+d2508 2
+a2509 1
+5 systems / 19-38-19 /
+d2515 2
+a2516 1
+4 bars | 24 30 20 24 | 64 | 64 | 96|
+d2518 2
+a2519 2
+I1.0 zart
+I0.6 .02 pp
+d2525 1
+a2525 1
+i0.3 .04 pp
+d2530 3
+a2532 3
+i0.9 .01 mf
+i0.5 .05 arpeggiando
+i0.1 .09 pp
+d2541 2
+a2542 2
+I0.85 .65 mp
+i0.45 .65 ausdrucksvoll
+d2547 1
+a2548 1
+i0.80 .75 espress . . .
+d2552 3
+a2554 1
+3 bars | 96 | 96 | 96 |
+d2558 1
+a2558 1
+=2' vol55 4. <e~#lr g~#> 8 e~# 4. vol45 <d~ f~> 8 rest
+d2572 4
+a2575 1
+4 bars | 96 | 96 | 96 | 96|
+d2581 1
+a2581 1
+il0.4 .10 350
+d2596 3
+a2598 1
+3 bars | 96 | 96 | 96 |
+d2600 1
+a2600 1
+bl0.4 .10 T
+d2603 1
+a2603 1
+=2' vol50 8 rest' 4. f(1 83 [f)1 vol+5 f-I3 e] [d c-I3 cn]
+d2608 1
+a2608 1
+=2' vol55 8 B 4. g(1 83 [g)1 vol+5 g-I3 f] [e eb-I3 d]
+d2614 1
+a2614 1
+=2' vol60 8 c 4. a(1 83 [a)1 vol+5 a-I3 g#] [f fn-I3 e]
+d2616 4
+d2622 1
+a2622 1
+=1, vol75 83 rest, [d-I3, c] [B A-I3, G#] 2 d
+d2628 1
+a2628 1
+=1, vol85 83 rest, [e-I3, d] [c B-I3, A] 2 e
+d2633 1
+a2633 1
+=1, vol95 83 rest [f-I3, e] [cn B-I3, A] 2 f
+d2637 2
+a2638 1
+5 systems / 19-38-19 /
+d2643 4
+d2667 4
+d2673 1
+a2673 1
+=1, vol60 83 [D# E-I3, F] rest, [G-I3, F] 8 dn 4 e 8 e#
+d2681 1
+a2681 1
+=2' vol50 83 [en f-I3 g(1] 8 g)1 rest' 83 [g a-I3 bb(1] 8 bb)1 rest' 
+d2684 1
+a2684 1
+i0.4 .04 poco rit . , .
+d2686 1
+a2686 1
+=2' vol45 83 [bn c~#-I3 d~#(1] 8 d~)1 rest' 83 [a b-I3 c~n(1] 8 c~)1 rest'
+d2690 2
+a2691 1
+5 bars | 96 | 96 | 96 | 96 | 96 |
+d2693 1
+a2693 1
+il0.7 .03 365
+d2704 1
+d2706 1
+a2706 1
+b0.2 .03 molto rit.
+d2708 3
+a2710 3
+I0.4 .15 p
+i0.4 .22 dolce
+=2 4 rest-Una vol50 4. F_-* 8 E_ 4 C(2-,-P
+d2722 1
+a2722 1
+=1 2. blank 43 blank-,-Tre
+d2729 2
+a2730 1
+2 bars | 96 | 96 |
+d2732 2
+a2733 2
+bl1.0 .01 U
+il1.0 .12 370
+d2738 2
+a2739 2
+b0.7 .20 Sehr ruhig
+I0.2 .15 mp
+d2750 2
+a2751 1
+2 bars | 96 | 96 |
+@
+
+
+1.90
+log
+@spaced 19 pages
+@
+text
+@d2142 1
+a2142 1
+3 bars | 1b 6 6 6 7 6 6 6 7 6 6 6 7 6 5 6 4 \
+d2185 11
+d2212 4
+d2225 1
+a2225 1
+i0.7 .60 cresc . . .
+d2229 2
+a2230 2
+=1 vol100 8 [<a e~> 16 g e] 83 [c#' Bb'-I3 G] 8 F <bb b~b(1> 83 [b~b)1 g~-I3 e~]
+=2' 8 [a bb(1] 83 [bb)1 g-I3 e~] 4 rest' 83 rest' [c~#-I3 bb(1]
+d2232 4
+d2242 1
+d2249 1
+a2249 1
+il1.0 310
+d2251 1
+a2251 1
+I0.5     f .18 pp
+d2254 2
+a2255 2
+i0.9 .29 dolce
+I0.3 .09 p
+d2258 4
+d2266 1
+a2266 1
+i0.4 .01 cresc . . .
+d2281 1
+a2281 1
+i0.4 .01 cresc . . .
+d2286 2
+a2287 1
+2 bars | 96 | 96 |
+d2289 1
+a2289 1
+=1, vol115 8 [c gb] 16 vol80 [bb ab gb eb] 8 [c Gb] 16 [Bb Ab 8 Gb]
+d2291 1
+a2291 1
+=2, vol70 16 [Bb-P c eb f] vol+10 8 [b-* vol-10 16 gb B-P] \
+d2294 1
+a2294 1
+=1, vol120 8 [c~ g~b] 16 vol80 [b~b a~b g~b e~b] 8 [c~ gb] 16 [bb ab 8 gb]
+d2299 7
+d2392 2
+a2393 1
+5 systems / 19-38-19 /
+@
+
+
+1.89
+log
+@spaced up to 18 pages
+@
+text
+@d2082 2
+a2083 2
+5 systems / 19-35-19 / 19-35-19 \
+ / 19-35-19 / 19-35-19 / 19-35-19 10 /
+d2089 2
+a2090 1
+2 bars | 96 | 96 |
+d2097 3
+a2099 3
+il0.7 .13 290
+=1' vol102 8 blank 163 [Ab Gb Eb] 8 e 163 rest' [cn B] 8 [f <c en>]
+=1, vol102 163 [<f b> cb B] 8 blank blank Gb 4 blank
+d2103 2
+a2104 1
+2 bars | 96 | 96 |
+d2106 1
+a2106 1
+b1.2 .30 steigernd, beschleunigend
+d2119 2
+a2120 1
+3 bars | 96 | 96 | 96 |
+d2128 2
+a2129 1
+i1.1 die Viertel langsamer als die frühern Ächtel
+d2134 1
+a2134 1
+=2, 4/4 vol60 4 A-P 83 [G#-* d-I3, G] 4 Gn 83 [c-P C-I3, Bb]
+d2137 1
+a2137 1
+il0.4 .13 295
+d2141 4
+d2163 4
+d2168 2
+a2169 2
+bl0.6 .01 P
+i0.2 .05 a tempo
+d2172 1
+a2172 1
+=2' vol55 83 rest' [f(2-I3 f)2(2] 4 f)2 83 rest' [c-I3 Bb] 4 rest'
+d2175 1
+a2175 1
+il0.7 .13 300
+@
+
+
+1.88
+log
+@spaced 14 pages
+@
+text
+@a1513 1
+
+d1655 6
+d1662 1
+a1662 1
+2 bars | 96 | 96 |
+d1670 2
+a1671 2
+bl0.7 .01 M
+il0.5 .09 240
+d1674 1
+a1674 1
+=2' vol60 16 rest' 8. cn(1 83 [c)1 c#-I3 d#(1] [d)1 e-I3 f] [g b-I3 dn(1]
+d1677 2
+a1678 1
+3 bars | 96 | 96 | 96 |
+d1691 2
+a1692 2
+=1, vol100 8 [<d g#> f] [<c e> d(2] \
+ vol-10 83 [d)2 B-I3, G#(2] vol-10 [G)2 A-I3, B]
+d1694 1
+a1694 1
+=2' vol80 83 rest' [c~-I3 d~] 4 b 83 [g# a-I3 b(1] vol70 [b)1 a-I3 g]
+d1697 1
+a1697 1
+2 bars | 96 | 96 |
+d1710 1
+a1710 1
+3 bars | 96 | 96 | 96 |
+d1715 1
+a1715 1
+ 43 <A d#'> 83 <Bb(2 e'(1> 43 <Bb)2 e')1> 83 <c, g>
+d1720 1
+a1720 1
+=2' 43 <An d#> 83 <Bb e> 4 <c g> \
+d1728 1
+a1728 1
+2 bars | 96 | 96 |
+d1735 1
+a1735 1
+I0.5 .01 pp .40 ppp
+d1738 4
+a1741 4
+Il0.7 .04 250
+=1 6# 1 <a c~>
+=1 6# 1 <A c>
+=1, 6# 4.. blank 8.. blank 32-s \
+d1744 2
+a1745 2
+=2 6# 2 rest blank
+=2' 6# 4.. blank vol40 32-s \
+d1747 3
+a1749 1
+
+d1755 1
+a1755 1
+r0.6 Der Mond läuft mit, sie schaut hinein
+d1764 2
+a1765 3
+
+6 systems / 19-30-19 / 19-32-19 / 19-36-19 \
+ / 19-34-19 11 / 19-38-19 11 / 19-38-19 16 /
+d1770 3
+d1785 3
+d1790 1
+a1790 1
+il0.9 .28 255
+d1805 3
+d1826 3
+d1836 1
+a1836 1
+il1.2 .48 260
+d1842 3
+d1856 1
+a1856 1
+ vol70 83 rest'' [e~-I3 f~] 8 [b~ a~]
+d1858 3
+d1872 12
+a1883 4
+# =2' vol75 83-s rest'' 163-s An [d A F] 83-s rest'' 163-s G [c## G E#]
+=2' vol75 2 blank \
+ vol90 8 [d~ f~] 83 rest'' [a~-I3 d~]
+=2, 4 <f-P d~> <e# c~##> d-P c#
+d1903 3
+d1921 3
+d1930 1
+a1930 1
+=2 1 blank 16 blank-fermata,-,-,-Tre
+d1934 1
+a1934 1
+b0.8 .01 Wieder wie früher
+d1937 1
+a1937 1
+=1, vol50 163-s rest, 83-s [c c 163-s c] rest, 83-s [c c 163-s G] \
+d1939 1
+a1939 1
+I0.9 .03 p
+d1941 4
+a1944 1
+=2, vol55 16 rest,-,-P 8. A 16 rest, 8. A 4 rest, 16 rest, 8. A
+d1950 1
+a1950 1
+=2, vol58 4 rest,-,-P 16 rest, 8. A 4 rest, 16 rest, 8. A
+d1956 4
+a1959 1
+=2, vol61 4 rest,-,-P 16 rest, 8. A 4 rest, 16 rest, 8. A
+d1965 1
+a1965 1
+=2, vol65 4 rest,-,-P 16 rest, 8. A 4 rest, 16 rest, 8. A
+d1971 7
+d1979 2
+a1980 1
+3 bars | 96 | 96 | 96 |
+d1983 2
+a1984 2
+=1' vol85 8 [G# An g# f#] 8 g# 4 <en e~n> 8 <dn d~n>
+=1, vol85 4 En 2. blank
+d1986 1
+a1986 1
+=2, vol75 4 c# d#-* en-P f#-P
+d1988 2
+a1989 2
+=1, 2/4 vol90 8 [<cn c~n> <db d~b> vol100 <c~ g~nl c~~n> vol85 <bb b~b>]
+I0.6 .05 f
+d1991 1
+a1991 1
+i0.9 .77 dim . . .
+d1996 2
+a1997 1
+i1.1 die punktierte Viertel gleich den Viertel von früher
+d2004 4
+d2012 1
+a2012 1
+=1, vol60 16-s [B C A C Gn B_] 8-s [Gb 16-s F Fb E En]
+d2021 1
+a2021 1
+il0.9 .02 280
+d2026 4
+d2037 1
+a2037 1
+i1.0 .60 espress.
+d2044 2
+a2045 2
+bl0.8 .10 O
+=1' vol80 8 g(2 163 [g)2 f-I3 d] [A F-I3 D] 8 [e 8. d 16 Dn]
+d2049 4
+d2058 1
+a2058 1
+il0.5 .03 285
+d2060 1
+a2060 1
+=1, vol50 16 rest,, Db 8 [D Dn] 16 rest,, Db 8 [D Dn]
+d2065 1
+a2065 1
+=1, 4. blank 8 blank 8. [c~b 16 d~n]
+d2070 1
+a2070 1
+2 bars | 96 | 96 |
+d2081 7
+d2111 1
+a2111 1
+=1, 1b vol110 8 a(1 163 [a)1 g-I3 f] [d A-I3 d] \
+d2113 3
+a2115 2
+=2' 1b vol80 16 rest' <a d~ f~> 4 <a d~ f~> 16 rest'' <bn d~ f~> 4 <b d~ f~>
+=2, 1b vol100 4. F-P 4 d-P 8 d
+d2309 2
+d2330 2
+a2331 6
+
+5 systems / 19-38-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+d2347 8
+a2426 6
+
+6 systems / 19-38-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+d2451 6
+@
+
+
+1.87
+log
+@spaced thirteen pages
+@
+text
+@d1513 12
+d1543 4
+d1553 2
+a1554 2
+=1, 4... blank 32-s [a)1 vol50 gb eb c-I7 A Gb Eb] 8.. blank
+=1, 2. blank 32-s vol45 [C Eb Gb A c e gb a]
+d1560 2
+a1561 2
+=1, 4... blank 32-s [a)1 vol50 gb eb c-I7 A Gb Eb] 8.. blank
+=1, 2. blank 32-s vol45 [C Eb Gb A c e gb a]
+d1565 1
+a1565 1
+5 bars | 48 | 96 | 48 | 96 | 96 | 96 |
+d1576 2
+a1577 2
+=1 vol45 2. <g~b b~> vol35 4 <g~b b~>
+=2 vol40 4 e~-P 2 vol45 d~n 4 e~b bass
+d1579 1
+a1579 1
+il0.7 .02 225
+d1583 1
+a1583 1
+5 bars | 96 | 96 | 96 | 96 | 96 |
+d1592 1
+d1599 1
+a1599 2
+r0.3 .14 Sie geht mit ungelenkten Schritt
+I0.2 .01 f
+d1602 1
+a1602 1
+i0.2 .23 ( arpeggiando )
+d1604 1
+a1604 1
+il0.5 .09 230
+d1607 3
+d1612 2
+a1613 2
+I0.4 .01 mf
+i0.4 .13 cresc . . .
+a1617 1
+I0.4 .01 f
+d1635 1
+a1635 1
+I0.5 .95 pp
+d1639 3
+a1641 1
+3 bars | 96 | 96 | 96 |
+@
+
+
+1.86
+log
+@spaced twelve pages
+@
+text
+@d1370 7
+d1378 2
+a1379 1
+5 bars | 96 | 96 | 96 | 96 | 96 |
+d1402 2
+d1408 1
+a1408 1
+i0.2 .40 dim . . .
+d1418 1
+a1418 1
+i0.4 .70 dim . . .
+d1425 4
+a1428 1
+4 bars | 96 | 96 | 96 | 96 |
+d1430 1
+d1433 1
+a1433 1
+I0.3 .14 ff
+a1436 1
+b0.6 .02 Schwer betont
+d1438 2
+a1439 2
+=1, 4 4 <B_bl Db> 8. [C 16 B_] 4. A_ 8 E
+r0.1 .02 nun bin ich Dir, o Dir begegnet
+d1452 5
+d1458 2
+a1459 2
+il0.8 .16 205
+=1' 4 4 <db F Db> 8. [<C c> 16 <B_ B>] 4. <Db F> 8 <Eb eb>
+d1475 3
+a1477 1
+3 bars | 96 | 96 | 96 |
+d1482 2
+a1483 2
+il0.8 .16 210
+=1' 4 <eb G Eb> 8. [<D d> 16 <C c>] 8 [<B_n Eb Bn> <Eb eb> <G g> <Bn bn>]
+a1485 1
+bl0.7 .98 L
+d1492 4
+d1497 1
+d1503 5
+a1507 5
+=1' vol110 2. c(1 8. [c)1 vol60 16 f]
+=1, vol100 2. <Enr G Bbl> 4 rest,
+I0.6 .02 sff  .85 pp
+=2' vol110 4 d~b 8. [c~ 16 b] 4 db 8. [c 16 vol80 B-,-*]
+=2, vol110 2 c-P  C-P treble
+@
+
+
+1.85
+log
+@spaced eleven pages
+@
+text
+@d1233 11
+d1250 1
+a1250 1
+=2' vol70 2 Eb-P 4 vol+15 Ab-P vol+15  83 rest' [c~ g]
+d1256 1
+a1256 1
+=2' vol70 83 rest' [e-I3 g] rest' [e-I3 c~] \
+d1258 1
+a1258 1
+=2, vol70 4 E-Ped G vol80 Bn-Ped e-Ped
+d1261 1
+a1261 1
+ vol115 8. [<d d~> 16 <eb(2 e~b(1>] 83 [<eb)2 e~b)1> c~-I3 <A g>]
+d1264 4
+a1267 1
+=2 vol90 4 g-Ped treble C vol100 Eb vol110 8 [An-,-,-Ped A_n]
+d1269 1
+a1269 2
+il0.9  175
+b0.8 .06 Schneller werdend
+d1271 2
+a1272 1
+I0.7 .01 fff
+d1275 1
+d1277 1
+a1277 1
+=2, 4 <Br fbl ab> <cbl-P eb a> <dbl f bb> <ebll-P d~b> treble
+a1278 1
+b0.8 .06 Sehr breit
+d1280 2
+a1281 2
+I0.7 .01 fff
+i0.7 .20 molto rit . . .
+d1283 3
+d1287 2
+a1288 2
+=1, 8 <db bbl d~b> [<c c~> <a f~ a~-emph> <ab a~b-emph>] \
+ <Bn f#l bn> [<Bb bb> <g e~b g~-emph> <f# f~#-emph>]
+d1291 1
+a1291 1
+=1  83 [<f f~> <d d~-I3> <Bn bn>] [<Ab ab'> <D d'-I3> <B_n  Bn'>] \
+d1297 2
+a1298 2
+il0.8 .01 180
+=1, 83 [<D d> <F f-I3> <G# g#>] [<Bn bn> <B_n B-I3> <D d>] \
+d1301 1
+a1301 1
+=2 4 Bn)1(1 83 [B)1 B-I3 d'] vol125 [f g#-I3 bn] [d~ g-I3 f~]
+d1303 4
+d1324 4
+d1334 1
+a1334 1
+il0.7 .02 185
+d1348 1
+a1348 1
+4 bars | 96 | 64 | 64 | 64 |
+d1355 1
+a1355 1
+bl0.7 .01 K
+d1365 1
+a1365 1
+il0.7 .02 190
+@
+
+
+1.84
+log
+@spaced ten pages
+@
+text
+@d1132 1
+a1132 1
+=2 vol90 8 [D#-., <d#l'-., f#'>] [<e,-. g> <fn-. ab>] 4 <g# b>
+d1138 1
+a1138 1
+=2 vol100 8 [F#-., <f#l'-., a'>] [<g-. bb> <g#l-. bn>] 4 <b d~>
+d1140 2
+a1141 2
+6 systems / 19-38-19 / 19-37-19 / 19-41-19 8 \
+ / 19-32-19 9 / 19-35-19 / 19-35-19 /
+d1147 1
+a1147 1
+2 bars | 96 | 96 |
+d1161 2
+a1162 1
+2 bars | 96 | 96 |
+d1165 1
+a1165 1
+=1, vol55 4 d~(1 163 [d~)1 d~b c~-I" 6" b e bb] 83 [a 83. g# 163 d]
+d1171 1
+a1171 1
+=1, 163 [d db c-I" 6" B F B] 8 [eb Eb] 4 F
+d1175 2
+a1176 1
+2 bars | 96 | 96 |
+d1178 1
+a1178 1
+=1, vol55 4 f~(1 163 [f~)1 e~ e~b-I" 6" d~ g c~#] 83 [c~n 83. b 163 f]
+d1183 1
+a1183 1
+=1, 163 [f e eb-I" 6" d G# d] 8 [f# F#] 4 G#
+d1187 2
+a1188 1
+2 bars | 96 | 96 |
+d1191 2
+a1192 2
+=1 vol100 4 <ab a~b(1> 163 [a~b)1 g~ g~b-I" 6" f~ bb e~] 83 [e~b 83. d~ 163 g#]
+I0.9 .01 f
+d1198 2
+a1199 1
+2 bars | 96 | 96 |
+d1208 2
+a1209 1
+3 bars | 96 | 96 | 96 |
+d1219 1
+a1219 1
+=1' vol75 83 rest' [<B d-I3> e>] vol+10 rest' [B-I3 B] \
+@
+
+
+1.83
+log
+@spaced up to bar 126
+@
+text
+@d879 5
+a883 1
+2 bars | 96 | 96 |
+d891 1
+a891 1
+=2, vol85 4 g 8 ab 4 b 8 a# 4 an 8 bb
+d894 1
+a894 1
+=1, 3/4 vol100 8 [a g#] [e# 32 gn f# e# f#] 8 [<f# f~#> <fn f~n>]
+d898 1
+a898 1
+ 16 [a# 8. e~] 165-s [b-P d~# g~-I5 d~ b]
+d900 3
+a902 1
+2 bars | 96 | 96 |
+d904 1
+a904 2
+=1, vol105 8 [<b e~> a#] [f## 32 an g# f## g#] 8 [<g# g~#> <gn g~n>]
+#=2, vol95  4 <f# c~> <c~ f~#> <c~#l e~#> treble
+d908 2
+a909 3
+il0.8 .15 130
+=1, vol110 8 [<d~b g~b> c~] [a 32 c~ bb a b] 8 [<bb b~b> <a a~>]
+# =2' vol100 4 <A_b Gb> <D Ab> <Ebl Gn>
+d913 1
+a913 1
+2 bars | 96 | 96 |
+d928 1
+a928 1
+2 bars | 96 | 96 |
+d939 9
+d949 3
+a951 3
+il0.7 .03 135
+=1, vol45 163-s [a d Bb d a B] [g# d# Bn d g B] \
+ [d~ a# e a d~ e] [c~# f Bn f c~ B]
+d957 1
+a957 1
+    vol65 163 [c#-* vol45 163-s Ab G-P A G A]
+d960 2
+a961 2
+  83 [dn <Bb eb>-I3 Bn] [<Eb Ab> En-I3 B_b]
+=2 16 <F-* Ab> 8. rest-P 16 <E An> 8. rest-P 4 rest-Tre bass vol110 d-emph
+d963 3
+d968 1
+a968 1
+I0.4 .65 ff
+d971 2
+a972 1
+I0.5 .01 f .22 p .45 f .70 p
+d979 3
+d987 1
+a987 1
+I0.6 .98 ff
+d989 1
+a989 1
+il0.7 .02 140
+d995 3
+d1000 2
+a1001 2
+=1, vol120 4 blank 8 [<eb d~b> c~ 8. <db a> 16 bb] 4 blank
+=2' vol110 32 [B_ C Db Dn-I7 Eb Eb F] 4.. blank 32 [A_ B_b B_n C-I7 C# D Eb]
+d1004 1
+a1004 1
+=1, vol120 8 [<db c~b> bb 8. <cb g> 16 ab] 4 blank 8 [<B an> g#]
+d1008 3
+d1014 1
+a1014 1
+ vol-9 [F f vol-9 F f vol-9 F f] vol-9 [F f vol-9 F-Una f vol-9 F f]
+a1015 1
+
+d1018 10
+a1027 3
+=1, vol45 163-s [b e c e b c] [bb f c# f bb c#] [e~ c~ f# c~ e~ f#] [e~b g c# g e~b c#]
+I0.2 .01 ppp
+=2' vol65 163 [B-* vol45 163-s G F#-P G F# G] vol65 163 [Bb-* vol45 163-s G# Gn-P G# Gn G#] vol65 163 [e-* vol45 163-s A G#-P A G# A] vol65 163 [eb-* vol45 163-s Bb A-P Bb A Bb]
+d1029 5
+a1033 4
+il0.7 .03 145
+=1, vol45 163-s [g~ d~ g d~ g~ g] [f~# e~b a e~b f~# a] 83 [e <c f-I3> c#] [<F Bb> F#-I3 C]
+=2 16 <G-* Bb> 8. rest-P 16 <F# Bn> 8. rest-P 4 rest-Tre bass vol110 e-emph
+I0.2 .65 ff
+d1035 1
+a1035 1
+i1.1 .23 wild
+d1039 2
+a1040 1
+I0.5 .01 f .22 p .45 f .70 p
+d1042 10
+d1054 3
+a1056 1
+=2 vol80 8 [<Cr Ebl G#> vol+7 <C# F# A>] vol+7 [<En Gnl Bb'> 16 E_-.-* G_-.] vol+7 163 [B_b-. D-. E-.-I"   6" vol+7 G-. Bb'-. e'-.] vol+7 83 [f-. 83. f 163 f]
+d1059 7
+a1065 2
+=2 vol80 8 [<F#-P B' eb'> vol+7 <E A c'>] vol+7 [<G Bbl' db'> 16 E_-.-* G_-.] vol+7 163 [B_b-. C#-. Fn-.-I"   6" vol+7 G-. Bb'-. c#'-.] vol+7 83 [en-. 83. e 163 e] bass
+I0.6 .98 ff
+d1068 1
+a1068 1
+=1' 4 d)1 vol80 <B_b C#x G> vol100 <B_n D G#> vol80 <B_b C#x Gn>
+d1071 1
+d1075 1
+a1075 1
+=1, vol120 4 blank 8 [<f e~b> d~ 8. <eb b> 16 c~] 4 blank
+d1078 4
+d1083 1
+a1083 1
+=1, vol120 8 [<eb d~b> c~ 8. <db a> 16 bb] 4 blank 8 [<db bn> bb]
+d1091 1
+a1091 1
+=2, 4 rest rest 83 vol100 [c~# vol-14 a-I3 d#] [B vol-14 G-I3, Eb]
+d1093 4
+d1102 1
+a1102 1
+I0.8 .01 f
+d1106 1
+a1106 1
+=1' vol110 4 <B_ B(1> 163 [B)1 Bb A-I"   6" G# C# Gn] \
+d1109 1
+a1109 1
+I0.8   f
+d1111 3
+d1115 1
+a1115 1
+il1.3 .01 155
+d1117 1
+a1117 1
+I0.8   f
+d1124 4
+d1139 9
+d1160 2
+d1173 2
+d1184 2
+d1194 2
+@
+
+
+1.82
+log
+@spaced six pages
+@
+text
+@d705 2
+a706 2
+6 systems / 19-38-19 / 19-40-19 / 19-38-19 \
+ / 19-30-19 / 19-32-19 / 19-45-19 /
+d712 1
+a712 1
+3 bars | 1b 96 | 96 | 96 |
+d726 2
+a727 2
+I0.5 .05 p
+i0.5 .55 dolce
+d730 2
+a731 1
+2 bars | 1b 96 | 96 |
+d733 1
+a733 1
+il0.5  110
+d736 1
+a736 1
+i0.7 .05 rit . . .
+d741 2
+a742 2
+I1.3 .47 2
+I0.9 .84 2
+d745 1
+a745 1
+i0.5 .03 warm
+d749 1
+a749 1
+3 bars | 96 | 96 | 96 |
+d751 2
+a752 2
+I1.2 .15 2
+I0.7 .47 2
+d759 1
+a759 1
+I0.8 .84 2
+d762 1
+a762 1
+=1, vol60 8 [E)2 D# 16 rest, Cn] 4. C A_(2
+a766 1
+i0.7 .01 rit . . .
+d770 1
+d774 2
+d777 1
+a777 1
+bl0.5 F
+d781 1
+a781 1
+=2' vol50 8 rest' [f gn] [e f g] [g# f## g#]
+d793 2
+d806 1
+a806 1
+il0.7 .02 120
+d812 1
+a812 1
+2 bars | 96 | 96 |
+d814 3
+a816 3
+I0.8 .21 2
+I1.3 .47 2
+I0.9 .84 2
+d818 1
+a818 1
+=1, vol50 8 Cn rest, rest, rest, [Fn A] [Bb F# Dn]
+d822 3
+a824 3
+I0.8 .21 2
+I1.1 .47 2
+I1.3 .84 2
+d828 8
+a835 1
+=2, vol60 4. gn-P 4 g#-* 8 a 4. bb-P
+d837 3
+a839 1
+2 bars | 96 | 96 |
+d841 4
+a844 3
+I0.8 .21 2
+I1.1 .47 2
+I1.3 .84 2
+d850 1
+a850 3
+b1.0 .01 Drängend, etwas unruhiger
+I1.1 .47 2
+I1.3 .84 2
+d855 8
+d870 1
+a870 1
+=2, vol75 4 f# 8 fn 4 e 8 f 4. f#
+d872 1
+a872 1
+I1.1 .47 2
+d875 1
+a875 1
+i0.8 .02 steigernd
+d877 3
+a879 1
+=2, vol80 4 g 8 f# 4 fn 8 f# 4 an 8 g#
+d895 2
+d908 2
+a917 1
+b1.2 .06 Lebhaft bewegt
+d921 1
+d923 2
+@
+
+
+1.81
+log
+@spaced four pages
+@
+text
+@d1 1
+a1 1
+6 systems 20 / 19-35-19 /
+d36 2
+a37 1
+4 bars | 1b 96 | 96 | 96 |
+d60 2
+a61 1
+4 bars | 96 | 96 | 96 |
+d82 2
+a83 1
+3 bars | 96 | 96 | 96 |
+a89 1
+
+d95 1
+a95 1
+il1.0 .13 15
+d100 3
+d117 3
+d131 3
+a133 3
+I0.6 .02 f .82 p
+i0.6 .20 dim . . .
+=2' 2 <An(2-P eb(1> 4. <A)2-,-* e)1> 8 rest vol50
+d141 1
+a141 1
+3 bars | 20 24 20 20 | 20 24 20 24 \
+d160 1
+a160 1
+2 bars | 96 | 96 |
+d174 1
+a174 1
+2 bars | 12 12 10 14 10 14 10 14 \
+d190 1
+a190 1
+4 bars | 5 5 5 7 5 5 5 7 5 5 5 12 5 4 5 4 | 5 5 5 7 5 5 5 7 5 5 5 12 5 5 5 6 \
+d371 2
+a372 1
+3 bars | 1b 96 | 96 | 96 |
+d374 1
+a374 1
+=1' 4 <f# bn> vol70 a 2 vol60 <c g>
+d379 1
+a379 1
+=2, 2 vol70 <Bn-P d f#> vol60 <eb-P g>
+d408 3
+a410 3
+3 bars | 1b 5 5 5 4 5 5 5 5 6 10 4 4 4 4 4 6 6 12 7 5 \
+ | 5 4 5 4 5 12 6 6 6 6 5 4 5 4 5 11 6 6 6 5 \
+ | 5 4 5 4 5  6 6 12 6 12  5 4 5 4 5  11 6 12 6 5 |
+d413 1
+a413 1
+=1, vol50 8 <ab c~> 4 <a c~> 8 <anl c~b> 2 bb
+d450 3
+a452 3
+3 bars | 6 5 9 7 9 6 6 9 6 6 6 6 6 6 6 5 \
+ | 6 5 9 7 9 6 6 9 6 6 6 6 6 6 6 5 \
+ | 6 5 6 6 9 6 9 6 6 9 9 6 9 9 5 5 |
+d470 2
+a471 1
+6 systems / 19-38-19 /
+d476 3
+d482 1
+a482 1
+=2' 16 rest [e g a]  [bb c~ g b] rest [d e g] 4 rest'
+d491 2
+a492 2
+il0.3 75
+b1.1 Etwas belebter
+d497 3
+d512 3
+d516 5
+a520 5
+b1.3 .01 Etwas zurückhaltend
+=1 8 rest [ab <f f~> <e e~>] [<b e~b> 32 a g f# g]
+i0.9 .09 warm
+I0.5 .02 pp
+=2 vol50 4 <f-* ab d~b> <f#l b d~n> <g bnl e~b>
+d522 1
+a522 1
+il0.7 .50 80
+d530 3
+d534 1
+a539 1
+b1.1 Wieder belebter
+d548 3
+d552 1
+a552 1
+il0.5 .02 85
+d557 1
+a561 1
+b1.4 .01 Etwas zurückhaltend
+d566 3
+d573 1
+a573 1
+b0.9 .55 dim e rit.
+d585 2
+a586 1
+6 systems / 19-38-19 /
+d591 5
+d597 1
+a597 1
+b0.9 .01 Lebhafter
+d609 1
+a609 1
+=1' vol90 2 rest' 4 rest' 8 rest' 32 rest' [f ab bn]
+d614 3
+a616 1
+2 bars | 96 | 96 |
+d625 1
+a625 1
+=1' vol100 4. rest' 32 rest'' [Bn d f#] 4. rest' 32 rest'' [f ab bn]
+d631 4
+a634 1
+2 bars | 96 | 96 |
+d637 1
+a637 1
+=1, 4. rest, 32 rest,, [Bn d e] 4. rest, 32 rest,, [f ab bn]
+d647 2
+a648 1
+3 bars | 96 | 96 | 96 |
+a658 1
+b1.3 .01 Breiter
+d661 1
+d664 4
+a667 1
+i0.6 .05 arpeggiando
+d675 1
+a675 1
+I0.7 .45 p
+d682 3
+d691 2
+a692 2
+il0.8  105
+b0.6 .14 Etwas Ruhiger
+d704 9
+d730 1
+a730 1
+2 bars | 96 | 96 |
+@
+
+
+1.80
+log
+@possible bars2systems ? 27pp...
+@
+text
+@d10 2
+a11 1
+4 bars | 96 | 96 | 96 | 96 |
+d36 1
+a36 1
+4 bars | 96 | 96 | 96 |
+d127 1
+a127 1
+6 systems / 19-38-19 /
+d132 3
+d136 1
+a136 1
+bl1.0 B
+d143 1
+a143 1
+=1, 4 E Ebl Cr 8 [B_n B_b]
+d154 1
+a154 1
+il0.7 .07 25
+d160 1
+a160 1
+=1' 163 [E G B d-I6 e g] 4 b 163 [E G B d-I6 e g] 4 b
+d166 2
+a167 1
+2 bars | 96 | 96 |
+d169 1
+a169 1
+=1 163 [B_ G_ B_ D-I6 E G] 8 [B' 32 D E G B'] \
+d174 1
+a174 1
+i0.7 .01 molto rit.
+d176 4
+a179 2
+=1 4 blank 163-s [a g# a g-I6 a g] [a gn a g-I6 a g] [a f a e-I6 a e]
+=2' 163-s [a-P A a A-I6 a A] [G# A G A-I6 G A] [Gn A G A-I6 G A] 8. [F 16 E]
+d182 2
+a183 1
+4 bars | 96 | 96 | 96 | 96 |
+d204 2
+a205 1
+3 bars | 96 | 96 | 96 |
+d212 1
+a212 1
+bl1.0 C
+d217 1
+a217 1
+il1.0 .01 35
+d221 3
+d231 1
+a231 1
+=2' 2 blank 8 rest'''' a 83 [b d~ g~]
+d239 1
+a239 1
+6 systems / 19-38-19 /
+d245 1
+a245 1
+2 bars | 96 | 96 |
+d247 1
+a247 1
+b0.9 .06 rit .52 . . .
+d249 1
+a249 1
+=2' 83 [c~ d~-I3 e~b] 4 bn 83 [bb c~-I3 d~b] 4 a
+d252 2
+a253 2
+il0.7 .45 40
+b0.9 .02 tempo
+d277 2
+a282 1
+
+d300 1
+a300 1
+3 bars | 96 | 96 |
+d302 1
+a302 1
+=1 1 f)1
+d306 1
+a306 1
+il1.0 .43 50
+d317 1
+a317 1
+2 bars | 96 | 96 |
+d329 2
+d332 1
+d338 1
+a338 2
+il1.0 .70 55
+bl1.0 D
+d340 1
+a340 1
+=1, 8. [c~# 16 bn] 83 [g g#-I3,] rest [gn e#-I3, f#] [g b-I3, g]
+d344 2
+a345 1
+6 systems / 19-38-19 /
+d351 1
+a351 1
+2 bars | 96 | 96 |
+d354 1
+a354 1
+=1, 8. [c~# 16 bn] 83 [g g#-I3,] rest [gn e#-I3, f#] [g b-I3, g]
+d357 1
+a357 1
+=1' 8 vol70 [a~ g~# vol80 e~# 16 f~#] 2 blank
+d360 1
+a360 1
+=2' 4 rest c~# 83 rest'' rest''-I3 vol70 d~(2 [d~)2 e~-I3 f~#]
+d363 1
+a363 1
+3 bars | 96 | 96 | 96 |
+d366 1
+a366 1
+=1, 83 rest, [e-I3, d] [Bn A-I3, F#] 2 G
+d369 1
+a369 1
+=2' 4 rest'' vol70 d~ 8. vol60 [c~ 16 d~] 83 vol50 [e~b f~-I3 g~]
+d377 1
+a377 1
+il0.6 .20 60
+d382 2
+d389 1
+a393 1
+bl0.9 E
+d397 5
+a401 1
+=2, vol55 4. d-P 16 [e f] 4. gb-P 16 [f-* eb]
+d405 2
+a406 2
+I0.10 .01 p
+=2' vol55 4. <D-P d> 16 [<E e> <F f>] 4. <Gb-P gb> 16 [<F-* f> <Eb eb>]
+d408 1
+a408 1
+il0.9  65
+d415 1
+a415 1
+=1, 8 ab 4 a 8 a gb 4 g 8 g
+d417 5
+a421 1
+=2, 2 B-emph, Ab-emph,
+d424 1
+a425 1
+=1' 2 blank 2 A
+a433 1
+b1.0 .03 Lebhafter
+d435 3
+a437 2
+=1, 8. rest 16 d~b 4 b 16 rest, 8 [db f 16 e 8 c]
+r0.7 .05 der Mond läuft über hohe Eichen
+a438 1
+#=2' 8 rest 4. f 16 rest' 8 [ab 16 g 8. e 16 f]
+d440 4
+d445 1
+a445 1
+il1.0 .03 70
+a446 1
+#=1, 8. rest 16 d~b 4 b 8 [db f e c]
+d448 1
+a448 4
+#=1, 8. rest 16 d~b 4 b 8. [db 8 f 16 en 8 c]
+#=1, 8. rest 16 d~b 4 b 8 rest 16 [db 8 f 16 en 8 c]
+=2' 8 rest 4. f 8 [ab g 8. e 16 f]
+# =2' 8 rest 4. f 16 rest' 8 [ab 16 g 8. e 16 f]
+d453 1
+a453 1
+=2' 8 rest 4. f 16 rest' [B c d] rest' 8 [eb 16 f]
+d457 1
+a457 1
+=1, 8 [c en db f] [F# B F# B]
+d1513 8
+d1549 1
+a1549 1
+I0.2 .45 ppp
+d1555 1
+a1555 1
+I0.3 .61 p
+d1557 1
+a1557 1
+I0.2 .12 ppp
+d1563 1
+a1563 1
+I0.4 .69 p
+d1566 1
+a1566 1
+I0.2 .29 ppp
+@
+
+
+1.79
+log
+@divided into systems, roughly 1-275,365-end
+@
+text
+@d208 1
+d226 6
+d328 8
+d435 6
+d531 6
+d1728 2
+d1740 2
+d1753 2
+d1767 2
+d1900 2
+d1913 2
+d1925 2
+d1938 2
+d1973 2
+a1974 2
+=1' 5b vol80 4 rest'' f 2 b(1
+=1, 5b vol50 16 rest, [Ab c db] rest, [Gb c d] rest, [f c d] rest, [f A B]
+d1976 1
+a1976 1
+=2' 5b vol55 8 rest'' f(1 83 [f)1 f-I3 f] \
+d1978 7
+a1984 1
+=2, 5b vol65 2 d-P  G(2-*
+d2018 2
+d2032 2
+d2053 2
+d2072 8
+d2102 2
+d2138 2
+d2156 2
+d2177 2
+d2212 6
+d2255 1
+d2328 6
+d2411 6
+d2531 6
+d2614 6
+@
+
+
+1.78
+log
+@up to end :-) needs spacing :-(
+@
+text
+@d10 1
+a10 1
+3 bars | 48 | 48 | 48 |
+d34 2
+d57 2
+d78 2
+a111 5
+6 systems / 19-38-19 /
+pagenum
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+d125 6
+d147 2
+a148 1
+
+d161 2
+d174 2
+d195 2
+d225 2
+d240 2
+d279 2
+d296 2
+d331 2
+d527 2
+d542 2
+d555 2
+d622 2
+d640 2
+d699 2
+d717 2
+d983 2
+d1097 2
+d1120 2
+d1164 2
+d1206 2
+d1274 2
+d1292 2
+d1346 2
+d1362 2
+d1377 2
+d1396 2
+d1409 2
+d1427 2
+d1624 2
+d2178 2
+d2215 2
+d2235 2
+d2250 2
+d2268 2
+d2285 2
+d2299 2
+d2313 2
+d2327 2
+d2344 2
+d2359 2
+d2375 2
+d2394 2
+d2417 2
+d2441 2
+d2463 2
+d2479 1
+a2479 1
+=1, vol40 4 cn Bb E Fn treble8va
+a2495 1
+i0.9 .01 arpegg. .48 simile . . .
+d2539 2
+d2550 2
+d2558 2
+@
+
+
+1.77
+log
+@up to bar 415
+@
+text
+@d2444 1
+a2444 1
+=2  treble    vol35 4 rest 2. <d(2 f#(4 a(1>
+d2448 22
+a2469 4
+=1  vol35 4 <a)2 f~#)4 a~)1> rest 2 <a f~# a~>
+=2  vol35 4 <d)2 f#)4 a)1> rest 2 <d f# a>
+=2 4. blank 8 blank-* 2 blank-P
+
+@
+
+
+1.76
+log
+@up to bar 400 = 23min10sec
+@
+text
+@d2332 1
+a2332 1
+=1' vol45 4 B 2 A 4 B_
+d2334 1
+a2334 1
+=2' vol40 83 [f g-I3 a(1] 4 a)1 83 [b c~ d~#] 4 blank
+d2337 1
+a2337 1
+=1' vol45 4 Gr 2 F 4 A_
+d2342 1
+a2342 1
+=1' vol45 2. F(1 8 [F)1 E]
+d2346 106
+@
+
+
+1.75
+log
+@up to bar 396
+@
+text
+@d2325 21
+@
+
+
+1.74
+log
+@up to 389
+@
+text
+@d2248 1
+a2248 1
+=1, vol62 2. blank 163-s rest, [G c#] rest, [c# G]
+d2262 1
+a2262 1
+=1, vol50 2 blank 8 blank 163-s rest, [F A#] rest, [B d#] rest, [d# B]
+d2269 3
+a2271 2
+=2' vol60 163-s rest'' [d~# f~] rest'' [f~ d~] rest'' [d~ f~] rest'' [e~# g#] \
+ 163-s vol70 rest'' [d# f] rest' [f d] rest'' [d f] rest'' [fn g#]
+d2276 1
+a2276 1
+ 163-s vol85 rest'' [fn g#] rest' [g f] rest'' [f g] rest'' [bb gn]
+d2281 6
+a2286 2
+i0.6 .02 molto rit . . .
+=2, vol115 4 <A-P eb> <cn bb> <eb-P a> <g-P d~b>
+d2290 35
+a2324 1
+=2 2/4 4 <g# d~> <b g~#-fermata>
+@
+
+
+1.73
+log
+@up to bar 384 = 22min5sec
+@
+text
+@d2246 1
+d2248 3
+a2250 3
+=1, vol62 2.. blank 163-s rest, [c# G]
+=2' vol62 163-s rest'' [a# c~#] rest' [a c~] rest'' [an c~n] rest'' [a c~] \
+ rest'' [g# c~] rest''' [e~ g~#] rest''' [e~ g~n] 8 blank
+d2252 34
+a2285 1
+
+@
+
+
+1.72
+log
+@up to bar 377
+@
+text
+@d2209 43
+@
+
+
+1.71
+log
+@up to bar 373
+@
+text
+@d2141 1
+d2165 1
+a2165 1
+|
+d2177 31
+a2207 1
+=2, vol55 8 D)2 2.. D-P
+@
+
+
+1.70
+log
+@up to bar 369 = 13min6sec
+@
+text
+@d2103 1
+a2103 1
+=1  vol100 4 <f a> 8. [en 16 vol+10 G,] vol-15 4 d 8. [c' 16 vol+10 E]
+d2106 1
+a2106 1
+=2, vol80  2 A-P vol-5 A#-P
+d2109 1
+a2109 1
+=1' vol90 4 B 8. [A 16 vol+10 B_] vol-15 4 G 8. [F 16 vol+10 A_]
+d2111 1
+a2111 1
+=2, vol70  2 Bn-P vol-5 B#-P
+d2117 1
+a2117 1
+=2, vol60 2 c A-P treble
+d2125 1
+a2125 1
+b0.7 .01 molto rit.
+d2133 1
+d2139 1
+a2139 1
+=1  vol45 c~)3
+d2141 3
+a2143 4
+I0.5 .05 pp
+=2' vol45 c)1
+=2' vol45 Gn
+=2, vol44 4 A_ 2 B_b vol-5 4 A_
+d2145 33
+@
+
+
+1.69
+log
+@up to bar 362
+@
+text
+@d2103 1
+a2103 1
+=1' vol100 4 a
+d2105 40
+a2144 1
+=2, vol80  2 A-P
+@
+
+
+1.68
+log
+@up to bar 358
+@
+text
+@d2072 2
+a2073 2
+=1, vol95 83 rest, [f-I3, e] [cn B-I3, A] 2 f
+=2' vol95 16 rest' [c~n d~# e~] [f~ e~ f~ g~] 2 a~
+d2075 31
+@
+
+
+1.67
+log
+@up to bar 352 = 20min
+@
+text
+@d1892 1
+a1892 1
+bl1.0 .13 R
+d2038 1
+a2038 1
+=1' vol45 4 rest,'' 83 rest, [F_-I3 A_] [D vol+5 A_-I3 D] [F vol+5 D-I3 F]
+d2042 33
+@
+
+
+1.66
+log
+@up to bar 342
+@
+text
+@d1964 1
+a1964 1
+=2' vol90 8 rest'' 4. d~ 4 rest'' vol127 4 d~
+d1968 3
+a1970 3
+=1, vol127 4 F# 2 D 4 F
+i0.9 .45 gross . . .
+i0.5 .01 espress . . .
+d1977 1
+a1977 1
+=1, vol127 2 A 4. D 8 E
+d1979 63
+a2041 1
+=2, vol85 2 <A d f> <G-P d g>
+@
+
+
+1.65
+log
+@up to bar 337 = 19min2sec
+@
+text
+@d1935 5
+a1939 3
+=1' 2# 4/4 vol128 4 a~n g~n f~# e~#
+=1, 2# 4/4 vol102 16 rest, [b e~ f~] rest, [e~ g e~] \
+ rest, [f a c~] rest, [gn d~b g]
+d1943 37
+a1979 2
+ rest'' [d-I3 f#] rest'' [d-I3 g#]
+=2, 2# 4/4 vol120 4 En-P Gn An Bb
+@
+
+
+1.64
+log
+@up to bar 330
+@
+text
+@d1877 1
+a1877 1
+=1, vol60 16 rest, [gb c d] rest, [c g c] rest, [f Bn c] rest, [An F A]
+d1887 1
+a1887 1
+=1, vol70 16 rest, [gb c d] rest, [c g c] rest, [f Bn c] rest, [An F A]
+d1891 2
+a1892 1
+il1.0 .10 330
+d1898 45
+a1942 1
+
+@
+
+
+1.63
+log
+@up to bar 324
+@
+text
+@d1835 1
+a1835 1
+=1' 5b vol70 4 rest' f 2 b(1
+d1847 1
+a1847 1
+=1' vol70 4 f en rest' f
+d1861 37
+@
+
+
+1.62
+log
+@up to bar 319
+@
+text
+@d1828 33
+a1860 1
+=2  vol60 4. <A e' a'> 8 rest 4 rest vol40 <e a c~#>
+@
+
+
+1.61
+log
+@up to bar 317 = 18min6sec
+@
+text
+@d1753 1
+a1753 1
+=2' 8 a 8 bb(1 83 [bb)1 g-I3 e~] 4 rest' 83 rest' [c~#-I3 bb(1]
+d1773 1
+a1775 1
+I0.6 p
+d1777 1
+a1777 1
+I0.5 .95 f
+a1783 1
+I0.6 .95 p
+d1789 1
+d1811 1
+d1818 11
+a1828 3
+=1' vol85 4 c~~# blank b~n g~
+bl0.6 .01 Q
+=2, vol85 16 [c# e f# g] vol+10 8. [bn vol-10 16 Bn-P] [c# e f# g] vol+10 8. [b vol-10 16 Bn-P]
+@
+
+
+1.60
+log
+@up to bar 313
+@
+text
+@d1799 21
+@
+
+
+1.59
+log
+@up to bar 309
+@
+text
+@d1760 1
+a1760 1
+| 0.435 .445 .46 .55
+d1766 33
+@
+
+
+1.58
+log
+@up to bar 300
+@
+text
+@d1708 1
+a1708 1
+=1' vol95 8. [C 16 vol85 16 B_n] vol80 4 F(2 8 [F)2 vol+7 E A vol-7 G]
+d1711 1
+a1711 1
+=2, vol60 4 A-P 83 [G#-* d G] 4 Gn 83 [c-P C Bb]
+d1714 1
+a1714 1
+=1  vol95 8. [c' 16 vol85 16 Bn'] vol80 4 f(1 8 [f)1 vol+7 e <ebl bb> vol-7 a]
+d1717 48
+a1764 1
+
+@
+
+
+1.57
+log
+@up to bar 198
+@
+text
+@d1694 1
+a1694 1
+=1' vol102 8 a)1 4 gn 8 f 8. [e 16 f(1] 83 [f)1 d-I3 Bn]
+d1705 14
+@
+
+
+1.56
+log
+@up to bar 293
+@
+text
+@d1575 1
+a1575 1
+i1.1 die punktierte viertel gleich den viertel von früher
+d1668 1
+a1668 1
+| .625 .665 .72 .85
+d1673 32
+@
+
+
+1.55
+log
+@up to bar 287 = 17min
+@
+text
+@d1629 1
+a1629 1
+|
+d1635 1
+a1635 1
+|
+d1640 33
+@
+
+
+1.54
+log
+@up to 276 bars = 16min30sec
+@
+text
+@d1410 1
+a1410 1
+bl0.8 .01 M
+d1550 5
+a1554 4
+=1' vol75 8 [Gn A f e] 83 [db Bn-I3 A#] [F# En-I3 Dn]
+=1, vol75 4 D 2. blank
+=2' vol75 83 rest' [c~-I3 b] [ab g-I3 f] 8 f# 4 c~# 8 bn
+=2, vol64 4 A An-* A#-P Bn-P
+d1556 5
+d1562 11
+a1572 10
+=1' vol80 8 [G# An g# f#] 8 <enl g#> 4 <e e~n> 8 <dn d~n>
+=1, vol80 4 En 2. blank
+=2' vol80 83 rest' [d~n-I3 c~#] [a# an-I3 g#] rest'' [a~n g~#] [f~# e~n d~n]
+=2, vol70 4 c# d#-* en-P f#-P
+| .46 .48 .51 .55
+=1' 2/4 vol90
+=1, 2/4 vol90 8 [<cn c~n> <db d~b> vol100 <c~ c~~n> <bb b~b>]
+I0.5 .05 f .55 ff
+=2' 2/4 vol90
+=2, 2/4 vol80 4 gn-P vol95 <En db>
+d1574 66
+@
+
+
+1.53
+log
+@up to bar 273; hard bit coming up
+@
+text
+@d1554 12
+@
+
+
+1.52
+log
+@up to bar 270
+@
+text
+@d1525 1
+a1525 1
+=2 1 blank 16 blank-fermata,
+d1532 2
+d1537 18
+@
+
+
+1.51
+log
+@to bar 268 = 16min3sec
+@
+text
+@d1258 1
+a1258 1
+#M =2 2# 8 blank 16 vol60 D vol-5 A vol-5 d vol-5 f# a vol-5 2 d~
+d1260 1
+a1260 1
+i0.2 .23 arpeggiando
+d1515 2
+a1516 2
+=2' vol40 4 rest' 16 rest'' 8.-s e~ \
+ 4 rest'' blank
+d1519 16
+@
+
+
+1.50
+log
+@up to bar 266 almost
+@
+text
+@d1496 1
+a1496 1
+=1' 5b 4. rest' vol60 8 a 4 vol+10 g 8. vol-10 [f 16 vol-10 e]
+d1498 1
+a1498 1
+ 4 blank 83 blank 163-s [E G 83-s B]
+d1502 17
+a1518 2
+ 163-s rest' [e g(2 83-s g)2 163-s e] [g b] 43 blank
+=2, 5b vol55 8 [G-P B 8. dn 16 e] 8 [An-* B-P] 4 rest,
+@
+
+
+1.49
+log
+@up to bar 265
+@
+text
+@d1441 1
+d1487 1
+a1487 1
+=1' vol90 8 [e~ vol-7 d~ vol-7 c~ vol-7 b] 2 bb
+d1492 1
+d1494 10
+@
+
+
+1.48
+log
+@up to bar 258 = 923sec
+@
+text
+@d1230 1
+a1230 1
+=1 4/4 vol45 2. <gb b> 4 <gb b>
+d1236 1
+a1236 1
+=1 vol45 2. <g~b b~> 4 <g~b b~>
+d1258 3
+a1260 1
+=2' 2# vol95  1 <D(2-P A(4 d(1>
+d1264 1
+a1264 1
+=2' 2 <D)2 A)4 d)1> 2 rest-*
+d1431 1
+d1433 1
+a1434 1
+
+d1439 53
+a1491 1
+=2  4 e~  8 g~ bass vol40 8 F-P 4 b treble 4 vol55 b
+@
+
+
+1.47
+log
+@up to bar 253 = 903sec = 15min3sec!
+@
+text
+@d1313 1
+a1313 1
+bl0.7 .01 L
+d1388 1
+a1388 1
+=2 2 rest-P treble a bass 
+d1394 2
+a1395 2
+=2 4 F-P rest treble 2 a bass
+| 1.0 1.05 1.1 1.05
+d1400 31
+a1430 1
+=2  4 F-P rest <d b> rest
+d1432 5
+@
+
+
+1.46
+log
+@up to bar 249
+@
+text
+@d1141 1
+a1141 1
+=2' 4 4 db 8. [c 16 B] 8 [A db f an]
+d1343 3
+a1345 2
+=1' 83 [a)1 gn-I3 d#] [f e-I3 Gn] rest' [F-I3 G] [f e-I3 G(4]
+=1, 8. [A)2 16 A] 4 Bb 4 rest,, B
+d1355 1
+d1358 1
+a1358 1
+| .32 .33 .34 .37 .37 .36  .37 .38 .39 .40 .39 .59
+d1361 41
+a1401 1
+=2, 43 c)2 83 e-Una 4 rest <g bb> <c a>
+@
+
+
+1.45
+log
+@up to bar 243
+@
+text
+@d1329 1
+a1329 1
+|
+d1333 1
+d1336 24
+@
+
+
+1.44
+log
+@up to bar 238 = 14min7sec
+@
+text
+@d1292 1
+a1292 1
+| 4.7
+d1297 1
+a1297 1
+| 4.6
+d1302 33
+a1334 5
+| 4.5
+=1' vol+5 4. <B e> 8 eb 8 [d d~(2] 16 [d~)2 b g# e#]
+=1, 8. rest, 16 [F 8. E 16 G] 4 <D cx> B
+=2, vol+5 2 <G-P e> 2 <G#l-P fn>
+
+@
+
+
+1.43
+log
+@up to bar 235, the end of the easy bit :-)
+@
+text
+@d1284 1
+d1289 1
+d1291 16
+@
+
+
+1.42
+log
+@up to bar 230
+@
+text
+@d1256 2
+a1257 1
+r0.3 .12 Sie geht mit ungelenkten Schritt
+d1263 26
+@
+
+
+1.41
+log
+@up to bar 228 = 880sec and new section
+@
+text
+@d1198 1
+a1198 1
+=2' vol110 4 d~b 8. [c~ 16 b] 4 db 8. [c 16 vol70 B-,-*]
+d1200 1
+d1228 1
+a1228 1
+=2 1/2 4 blank 2 rest-,-*
+d1234 1
+a1234 1
+=2 1/2 4 blank 2 rest-,-*
+d1251 11
+@
+
+
+1.40
+log
+@up to 224 bars = 781sec = 14 min
+@
+text
+@d1236 14
+a1249 1
+=2 vol40 4 e~-P 2 vol45 d~n 4 e~b
+@
+
+
+1.39
+log
+@up to bar 211 = 732sec
+@
+text
+@d1149 1
+a1149 1
+=2' 2 <G-emph-P f> <A-emph-P f>
+d1154 1
+a1154 1
+=2, 2 G-emph-P A-emph-P
+d1162 1
+a1162 1
+=2' 2 <G#-emph-P f#> <A#-emph-P f#>
+d1166 1
+a1166 1
+=2' 2 <A-emph-P g> <Bn-emph-P g>
+d1168 1
+d1173 64
+a1236 3
+=2, 2 A-emph-P Bn-emph-P
+=2 2.. blank 8 blank-*
+
+@
+
+
+1.38
+log
+@up to bar 200 = 690sec
+@
+text
+@d1114 1
+d1120 55
+@
+
+
+1.37
+log
+@up to bar 188
+@
+text
+@d1062 38
+d1101 18
+a1118 4
+bl0.7 .01 K
+=1 4 rest F-emph F-emph F-emph
+i0.4 .08 sehr ausdrücksvoll
+=2 2 blank 1 rest
+@
+
+
+1.36
+log
+@up to bar 180 = 600sec = 10min
+@
+text
+@d991 1
+a991 1
+r0.8 .06 Schneller werdend
+d999 1
+a999 1
+r0.8 .06 Sehr breit
+d1016 3
+a1018 2
+=1, 83 [<D d> <F f-I3> <G# g#>] [<Bn bn> <B_n Bn-I3> <D d>] \
+ [<F f> <G# g#-I3> <B b>] [<d d~> <G# g#-I3> <f f~>]
+d1021 46
+@
+
+
+1.35
+log
+@up to bar 177
+@
+text
+@d994 1
+a994 1
+=2' vol110 4 <B_br Fbl Ab> <Cbl-P Eb A> <Db F Bb> <Eb-P Gnl db> bass
+d1003 17
+a1019 1
+=2' vol125 8 [Eb D-P] 4. Ab 8 [G cb-P B]
+@
+
+
+1.34
+log
+@up to bar 172
+@
+text
+@d976 28
+@
+
+
+1.33
+log
+@up to bar 165
+@
+text
+@d931 3
+a933 3
+il0.7 .02 165
+=1 vol100 4 a~b(1 163 [a~b)1 g~ g~b-I" 6" f~ bb e~] 83 [e~b 83. d~ 163 ab]
+I0.7 .01 f
+d935 41
+@
+
+
+1.32
+log
+@up to bar 159
+@
+text
+@d888 5
+a892 5
+=1' vol100 4 <B_ B(1> 163 [B)1 Bb A-I"   6" G# C# Gn] 8 rest' 32 vol70 [G# vol+7 A vol+7 Bn vol+7 c#]
+=1, vol100 2 blank 83 [F# 83. Fn 163 B_]
+I0.8 .01 f
+=2 vol80 8 [Eb-., <eb-., f#'>] [<enl,-. g> <fn-. g#>] 4 <g# b>
+I0.1 .01 p
+d894 4
+a897 4
+=1' vol110 4 <D d(1> 163 [d)1 c# cn-I"   6" B E Bb] 8 rest' 32 vol70 [Bn vol+7 c vol+7 d vol+7 e]
+=1, vol110 2 blank 83 [A 83. G# 163 D]
+I0.8   f
+=2 vol90 8 [F#-., <f#l'-., a'>] [<g-. bb> <g#l-. bn>] 4 <b d~>
+d899 1
+a899 1
+=1, vol120 4 <f f~(1> 163 [f~)1 e~ e~b-I" 6" d~ g c~#] 83 [c~n 83. b 163 f]
+d902 33
+a934 3
+=2, vol100 165-s [a-P c~ a-I5 c~ a] 8 [<bb-* c~#> <bnl-. d~>] 16 rest [g f g#]
+
+
+@
+
+
+1.31
+log
+@up to bar 152 = 535sec
+@
+text
+@d835 2
+a836 2
+=1, vol120 163 [g~)1 f~# f~n-I"   6" e~ a e~b] 83 [d~ 83. c~#-I3 163 g] 2 bb(1
+=2 vol80 8 [<Cr Ebl G#> vol+7 <C# F# A>] vol+7 [<En Gn Bb'> 16 E_-.-* G_-.] vol+7 163 [B_b-. D-. E-.-I"   6" vol+7 G-. Bb'-. e'-.] vol+7 83 [f-. 83. f 163 f]
+d838 2
+a839 2
+=1, vol120 163 [b)1 a g#-I"   6" gn c f#] 83 [fn 83. e-I3 163 Bb] 2 db(1
+=2 vol80 8 [<F#-P B' eb'> vol+7 <E A c'>] vol+7 [<G Bbl' c#'> 16 E_-.-* G_-.] vol+7 163 [B_b-. C#-. Fn-.-I"   6" vol+7 G-. Bb'-. c#'-.] vol+7 83 [en-. 83. e 163 e] bass
+d846 1
+a846 1
+| .80 .77 .75 .73
+d852 3
+a854 3
+| .73 .72 .71 .70
+=1, vol120 8 [<eb c~#> c~n 8. <c# a> 16 bb] 4 blank 8 [<c# bn> bb]
+=1' 4.. blank 32 [F# G G# A-I7 Bb Bn c] 8.. blank
+d856 49
+a904 5
+=2' 4.. blank 32 [A_ B_b B_n C-I7 C# D Eb] 8.. blank bass
+| .7 .75 .75 .75
+=1, 8. [<B g> 16 g#] 4 rest 2 rest
+=2' 4 rest 163-s vol120 [G#-P g# vol-9 G# g# vol-9 G# g#] vol-9 [G# g# vol-9 G# g# vol-9 G# g#] vol-9 [G# g# vol-9 G#-Una g# vol-9 G# g#]
+i0.3 .51 dim . . .
+@
+
+
+1.30
+log
+@up to bar 144
+@
+text
+@d803 1
+a803 1
+=1, vol120 4 blank 8 [<eb d~b> c~ 8. <db an> 16 bb] 4 blank
+d811 1
+a811 1
+| 2.8
+d813 48
+a860 2
+=2' 4 rest 163-s vol120 [F#-P f# vol-7 F f vol-7 F f] \
+ vol-7 [F f vol-7 F f vol-7 F f] vol-7 [F f vol-7 F-Una f vol-7 F f]
+@
+
+
+1.29
+log
+@up to bar 140
+@
+text
+@d774 1
+a774 1
+=2 16 <F-* Ab> 8. rest-P 16 <E An> 8. rest-P 4 rest bass vol110 d-emph
+d778 1
+d793 1
+a793 1
+I0.1 .95 ff
+d799 16
+a814 1
+=2' 4 dn(2-P 163 [d)2-* c# cn-I"   6" Bn F Ab] 83 [Eb 83. Gb-. 163 C] 4 Eb
+@
+
+
+1.28
+log
+@up to bar 136, start of new section
+@
+text
+@d10 1
+a10 1
+4 bars | 48 | 48 | 48 | 48 |
+d105 6
+a140 6
+6 systems / 19-38-19 /
+pagenum
+
+innerhead Verklärte Nacht,  Arnold Schoenberg,  Op. 4  1899
+leftfoot Arranged for piano  (c) Peter Billam  2013
+
+d753 1
+a753 1
+=2' 163-s [E e E e E e] [E e vol-5 E e E e] \
+d759 1
+a759 1
+ [E e vol-5 E e vol-5 E e] vol-5 [E vol-5 e E-Una e E e] treble
+d765 1
+a765 1
+r0.7 .05 Ich trag ein Kind, und nit von dir
+d774 25
+a798 1
+=2 16 <F-* Ab> 8. rest 16 <E An> 8. rest-P 4 rest bass vol110 d
+@
+
+
+1.27
+log
+@up to bar 134 = 482sec
+@
+text
+@d724 3
+a726 1
+=2, 3/4 vol90  4 <e d~> <a# e~> <b d~# g~>
+d729 3
+a731 1
+=2, vol95  4 <f# c~> <c~ f~#> <c~#l e~#> treble
+d733 1
+a733 1
+il0.8 .12 130
+d735 3
+a737 1
+=2' vol100 4 <A_b Gb> <D Ab> <Ebl Gn>
+d746 2
+a747 2
+b0.9 .06 Lebhaft bewegt
+=1 vol115 8 <d bb d~> 32-s [d' D d' D] \
+d750 1
+a750 1
+=2' 8 vol110 <En G Bb> rest 4 rest 2 rest bass
+d753 2
+a754 2
+=2' 32-s [E e E e E e E e] [E e vol-5 E e E e E e] \
+ [E e vol-5 E e E e E e] [E e vol-5 E e E e E e]
+d758 2
+a759 2
+=2' 32-s [E e vol-5 E e E e vol-5 E e] [E e vol-5 E e vol-5 E e vol-5 E e] \
+ [E e vol-5 E e vol-5 E e vol-5 E e] [E e vol-5 E e vol-5 E e vol-5 E e]
+d761 14
+@
+
+
+1.26
+log
+@up to bar 125
+@
+text
+@d697 1
+a697 1
+|
+d701 1
+a701 1
+=1  8 d~ rest' rest' rest' 165 [A Bb' A-I5 G# A] 4. blank
+d703 51
+a753 2
+=2' 4 d~ 8 bn [<a# d~> g b] [bb c~ d~]
+=2, 4 f# 8 fn 4 e 8 f 4. f#
+@
+
+
+1.25
+log
+@up to bar 120
+@
+text
+@d665 40
+@
+
+
+1.24
+log
+@up to bar 118 = 436 sec
+@
+text
+@d570 1
+a570 1
+=2, 9/8 vol50 2. <E(2-P B> 4. <E)2 B(4> 
+d574 1
+a574 1
+=2' vol40 8 rest' [f gn] [e f g] [g# f## g#]
+d579 2
+a580 2
+=2' vol40 8 rest' [f gn] vol45 [g# f# g] vol50 4. e~
+=2, vol50 2. <E-P B> vol55 4. e(2-,-P
+d638 1
+a638 1
+=2, vol60 2. <E(2-P B> 4. <E)2 B(4>
+d642 1
+a642 1
+=2' vol50 8 rest' [f gn] [e f g] [g# f## g#]
+d645 1
+a645 1
+=1' vol75 4. A# vol70 B vol80 g
+d647 4
+a650 4
+=2' vol50 8 rest' [f gn] vol45 [g# f# g] vol50 4. e~
+=2, vol60 2. <E-P B> vol55 4. e(2-,-P
+| 1.05 1.09 1.13
+=1' vol80 vol75 g vol75 f vol75 e
+d652 1
+a652 1
+=2' vol55 8 [e~ d~ d~n] rest' 4 c~ 8 [a g gn]
+d654 11
+@
+
+
+1.23
+log
+@up to bar 112
+@
+text
+@d591 1
+a591 1
+=2, vol50  4. a#(1-P a)1 b-,-*
+d603 1
+a603 1
+=1' vol65 8 rest' B [g gn] [f 32 B A# G A]
+d611 1
+a611 1
+=1' vol65 8 [f fn e An] 4 blank
+d616 39
+@
+
+
+1.22
+log
+@up to bar 107; 401 sec
+@
+text
+@d413 1
+a413 1
+=2' 3/4 vol60 2 An-P 4 B
+d417 1
+a417 1
+=2' vol60 2 An-P 4 G#-*
+d421 1
+a421 1
+=2' vol60 2 A-P 4 B-*
+d425 1
+a425 1
+=2, vol60 2 eb-P vol65 4 en-*
+d431 1
+a431 1
+=2 vol50 4 <f ab d~b> <f#l b d~n> <g bnl e~b>
+d451 1
+a451 1
+=2' vol60 2 c-P 4 db
+d455 1
+a455 1
+=2' vol60 2 c-P 4 Bn-*
+d460 1
+a460 1
+=2' vol60 2 c-P 4 db-*
+d464 1
+a464 1
+=2, vol60 2 f#-P vol65 4 g-*
+d470 1
+a470 1
+=2, vol50 4 <g#rl bn e~> <a c~# f~> <a# d~ f~#>
+d540 2
+a541 1
+=2 4# 1 <B(2-P e b e~ b~>
+d568 1
+d571 1
+a571 1
+|
+d576 40
+a615 5
+| 1.16 1.11 1.05
+=1' vol65 4. A# vol70 B vol75 g(1
+=1, vol45 4. <C E> B_ 8 vol55 [G A B]
+=2' vol40 8 rest' [f gn] vol45 [g# f# e] vol50 4. e~
+=2, vol50 2. <E-P B> vol55 4. e
+@
+
+
+1.21
+log
+@up to bar 104, 390 sec
+@
+text
+@d535 1
+d551 1
+a551 1
+=2, 2. <B)2 f)1 f~)3> vol60 4 B(2-P
+d561 18
+@
+
+
+1.20
+log
+@up to 100
+@
+text
+@d525 1
+a525 1
+=2' 8. rest' 16 eb 8 [e d] 8. rest' 16 eb 8 [e d]
+d534 1
+a534 1
+=2 4 <A_#-P E> <A#, e> <A_# E> <A#, e> bass
+d539 21
+a559 2
+=2 4# 1 <B e b e~ b~>
+i0.1 .01 arpeggiando
+@
+
+
+1.19
+log
+@up to bar 95
+@
+text
+@d514 1
+a514 1
+ rest'' [b bn d~] rest'' [f~ g~ a~b]
+d516 25
+@
+
+
+1.18
+log
+@up to bar 90, 347 sec
+@
+text
+@d486 30
+@
+
+
+1.17
+log
+@up to bar 86
+@
+text
+@d405 1
+a405 1
+=2' 16 rest''' vol80 [c~b ab eb] 4 ab vol70 f~b vol60 e~b
+d408 1
+a408 1
+il0.3 .10 75
+d413 1
+a413 1
+=2, 3/4 vol60 2 An-P 4 B
+d417 1
+a417 1
+=2, vol60 2 An-P 4 G#-*
+d421 1
+a421 1
+=2, vol60 2 A-P 4 B-*
+d427 1
+a427 1
+b0.7 .01 Etwas zurückhaltend
+d431 1
+a431 1
+=2 vol50 4 <f ab d~b> <f# bb d~n> <g bn e~b>
+d449 1
+a449 1
+=1, vol50 8 rest, F#(1 83 [F#)1 Eb-I3, B_b] 16 rest,, [En F# A]
+d451 1
+a451 1
+=2, vol60 2 c-P 4 db
+d454 2
+a455 2
+=1, vol50 8 rest, Gb(1 83 [G)1 Eb-I3, C] 16 rest,, [D G# B]
+=2, vol60 2 c-P 4 Bn-*
+d457 1
+a457 1
+il0.7 .50 85
+d459 3
+a461 3
+=1, vol50 8 rest, F#(1 83 [F#)1 Eb-I3, B_b] 16 rest,, [En F# A]
+=2, vol60 2 c-P 4 db-*
+|
+d463 1
+a463 1
+=1, vol50 8 rest, A(1 83 [A)1 F#-I3, Eb] 16 vol55 rest,, [F# Bb e]
+d465 21
+@
+
+
+1.16
+log
+@up to 82
+@
+text
+@d410 2
+a411 1
+=1' 3/4 vol70 4 rest 4. g 8 f#
+a412 1
+=2' 3/4 vol50 8 rest'' e~b(1 83 [e~)1 c~-I3 g] 16 rest''' [d~b e~ g~b]
+d416 1
+a416 1
+=2' vol50 8 rest'' e~b(1 83 [e~)1 c~-I3 a] 16 rest''' [c~b f~ a~b]
+d438 2
+a439 2
+=1, 8 [e d 8. A# 16 Bn] 4 Fn
+=2' 2 rest' 8 [e~ d~]
+d441 1
+a441 1
+|
+d446 19
+@
+
+
+1.15
+log
+@up to 79
+@
+text
+@d408 1
+a408 1
+il0.3 .20 75
+d432 14
+a445 1
+=2
+@
+
+
+1.14
+log
+@up to 72
+@
+text
+@d10 1
+a10 1
+4 bars | 3 3 2 3  3 3 3 4  3 3 2 3  3 3 3 4 |
+d371 1
+a371 2
+#=1, 8. rest 16 d~b 4 b 8 [db f en c]
+=1, 8. rest 16 d~b 4 b 16 rest, 8 [db f 16 en 8 c]
+d381 2
+d396 37
+@
+
+
+1.13
+log
+@up to bar 68
+@
+text
+@d336 1
+a336 1
+bl0.4 .01 E
+d347 1
+a347 1
+il0.7 .04 65
+d350 1
+a350 1
+=2' 8 d 4 d 8 d vol60 [gb g(1] 165 [g)1 ab g-I5 f g]
+d355 1
+a355 1
+=2' 8 [e e(1] 165 [e)1 f e-I5 d# e] 8 [dn d(1] 165 [d)1 eb d-I5 c# d]
+d363 1
+a363 1
+=2, vol70 2 Eb Gb
+d367 28
+a394 2
+=2, vol90 2 <ebrl gb> vol100 <gb e~b>
+
+@
+
+
+1.12
+log
+@up to 64
+@
+text
+@d332 1
+a332 1
+=1 vol50 4 <g g~> 2 <f f~> 4 <e e~>
+d337 3
+a339 3
+=1' vol60 4 F E Eb 165 [D E D-I5 C# D]
+=1, vol50 8 <A_b C> 4 <A_ C> 8 <A_nl Cb> 2 B_b
+I0.20 .01 p
+d342 3
+a344 3
+=1' vol60 4 F E Eb 165 [D E D-I5 C# D]
+=1, vol50 8 <A_b C> 4 <A_ C> 8 <A_nl Cb> 2 B_b
+I0.20 .01 p
+d346 23
+@
+
+
+1.11
+log
+@up to bar 60
+@
+text
+@d294 1
+d306 1
+a306 1
+i0.5 .10 cresc . . .
+d323 1
+a323 1
+=1' 2 <A e> a
+d326 20
+a345 1
+=2, 1 <cn-P e a>
+@
+
+
+1.10
+log
+@u[p to 59
+@
+text
+@d297 1
+a297 1
+=2, 2 F#(2-P 8. [F)2 16 c# 8. Bn 16 d]
+d301 1
+a301 1
+=2, 2 F#(2-P 8. [F)2 16 c# 8. Bn 16 d]
+d314 1
+a314 1
+=2, 2 vol70 <B-P d f#> vol60 <eb-P g>
+d317 9
+a325 3
+=1, 83 [eb db cb(1] [c)1 B c(1] vol45 [c)1 B c] [e d c]
+I0.5 .03 ppp
+=2' 2 vol50 <F eb(1> <Ab e)1>
+@
+
+
+1.9
+log
+@up to bar 57, but with some gaps
+@
+text
+@d293 1
+a293 1
+il1.0 .75 55
+d295 2
+a296 1
+=1, 8. [c~# 16 bn] 83 [f## g#-I3,] rest [gn e#-I3, f#] 8 g#  rest
+d300 1
+a300 1
+=1, 8. [c~# 16 bn] 83 [f## g#-I3,] rest [gn e#-I3, f#] 8 g#  rest
+d303 17
+a319 4
+=1' 8 [a~ g~# vol70 e~# 16 f~#] 2 blank
+=1, vol60 8. [c~# 16 bn] 83 [f## vol70 g#-I3,] rest 4 vol80 <c~# c~~#> <bn b~n>
+=2' 4 rest c~# 83 rest'' rest''-I3 d~(2 [d~)2 e~-I3 f~#]
+=2, 2 vol60 F#-P vol80 <G# dx e g#>
+@
+
+
+1.8
+log
+@up to bar 52
+@
+text
+@d117 1
+a117 1
+=2' 2 <An(2-P eb(1> 4. <A)2-* e)1> 8 rest vol50
+d246 2
+a247 1
+I0.5 .02 f .96 f
+d279 1
+a279 1
+=1, 8 rest,, [C 8. A_n 16 B_] 4 F Eb
+d281 25
+@
+
+
+1.7
+log
+@up to bar 49
+@
+text
+@d166 1
+a166 1
+=1, bass 1b vol60 8. rest 16 [a 8. g 16 b] 8 [d d] 4 <c# f>
+d172 1
+a172 1
+=1, vol60 8. rest 16 [a 8. g 16 b] 8 [d d] 4 <c# f> treble
+d181 1
+a181 1
+=1, 2 D rest,
+d191 1
+a191 1
+ 8 [<d)2 d~)1> <c# c~#> <f f~> <e e~>]
+d194 4
+d261 19
+a279 4
+=1 1 f)1 treble
+=1 2 blank blank-fermata
+=2' 4 <Bb d> rest 2 rest-fermata
+
+@
+
+
+1.6
+log
+@up to bar 45, some dynamics missing
+@
+text
+@d180 1
+a180 1
+=1' 8. [F)1 16 E] 4 vol+5 B(1 8 [B)1 D#] 83 [E G-I3 B]
+d182 1
+a182 1
+=2' 4 <Ab c> 8. [<G B> 16 d] 4 <An c f> <B d>
+d184 1
+a184 1
+=1' 2 vol+5 d 4 d 8 [c 16 d B]
+d186 1
+a186 1
+=2  4 <G e'> 8. [<B, e g> 16 d] 4 <G e'> 8. [<B, e g> 16 d]
+d190 1
+a190 1
+=1, 8. [<A a> 16 <G# g#>] 4 <d(2 d~(1> \
+d192 1
+a192 1
+=2, 4 <e b d~> 8. [<f a d~> 16 ab] 4 <g e~> 8 [<an g~> c~#]
+d194 1
+a194 1
+=1  4 <b b~> 8. [<a a~> 16 <ab a~b>] \
+d196 1
+a196 1
+=2' 8 rest' 4 g# d~ 8 [c~# f~ e~]
+d208 1
+d214 1
+a214 1
+b0.4 .06 tempo
+d221 1
+a221 1
+=1, 4 <d d~> <F A f> rest <E c# e>
+d223 1
+a223 1
+=2, 4 rest <A d f an> rest <A g>
+d225 2
+a226 2
+=1' 4 rest 2 <Eb c eb> 4 <D Bn d>
+=2, 4 rest 2 <Bb gbxl abl> 4 <Bn f an>
+d228 3
+a230 3
+=1' 2. <Db Ex G db> 4 <C(2 F(3 c(1>
+=2' 8 rest 4. <e(3 bb(1> 4 <e)3 b)1> <f a>
+=2, 4 C 2 c 4 db
+d232 1
+a232 1
+=1' 4 <Cr)2 c)1> 2 <B_n Bn> 4 <F_ F>
+d234 2
+a235 2
+=2' 2 blank 4 f d
+=2, 2 <d g#> G#
+d238 1
+a238 1
+=1  4 <D A> rest <C# A> rest
+d240 21
+@
+
+
+1.5
+log
+@up to bar 38
+@
+text
+@d207 1
+a207 1
+|
+d210 29
+a238 1
+=2, eb g c# f
+@
+
+
+1.4
+log
+@up to bar 34
+@
+text
+@d193 18
+@
+
+
+1.3
+log
+@up to bar 28, first section
+@
+text
+@d160 2
+a161 2
+=1 4 rest 163-s [A_ G_# A_ G_-I6 A_ G_] \
+ [A_ G_n A_ G_-I6 A_ G_] [A_ F_ A_ E_-I6 A_ E_]
+d165 28
+a192 4
+b0.7 .01 Etwas bewegter
+=1 1 blank
+r0.5 .01 der Mond läuft mit. sie schaut hinein .
+=2 vol50 4 D E F G
+@
+
+
+1.2
+log
+@up to bar 22, mark B
+@
+text
+@d14 1
+a14 1
+i0.4 .05 Zwei Menschen gehn durch
+d19 1
+a19 1
+i0.4 .01 kahlen, kalten Hain ,
+d114 1
+a114 1
+=1, 2 <Gx c(2 g> 4. <F# c)2 f#> 8 vol50 f#
+d120 1
+a120 1
+=1' 4 f 16 [e f g f] 4. Bb 8 Bn
+d124 45
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+6 systems 10 / 19-35-19 /
+d3 3
+a5 3
+title Verklaerte Nacht
+innerhead Arnold Schoenberg
+leftfoot Typeset  (c) Peter Billam  2013
+d7 1
+d14 1
+d19 1
+a19 1
+i0.5 .02 Zwei Menschen gehn durch kahlen, kalten Hain ,
+d23 1
+d33 1
+a39 1
+
+d46 1
+d48 5
+a52 1
+=2' 4 rest' 8. [g 16 f] 4 rest' 8. [d 16 c]
+d54 70
+@

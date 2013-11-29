@@ -1,0 +1,363 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2007.05.04.23.16.15;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@The Man I Love, Tara's version
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@% start
+4 systems 10 /19 45 19-30-19/19 45 19-30-19/19 47 19-30-19/19 45 19-30-19/
+title The Man I Love
+lefthead words by Ira Gershwin, music by George Gershwin
+midi channel 1 patch 53
+midi channel 2 patch 0 reverb 99
+/
+4 bars | 2b 4/4 16 | 1 1 1 1.5  1 1 1 1.5  1 1 1 1  1 1 1 1 \
+ | 16 | 1 1 1 1.5  1 1 1 1.5  1 1 1 1  1 1 1 1 |
+| 4/4 104
+=1' treble 2b 4/4 cha1 leg100 cro B_b B_b B_b B_b
+r0.4 .14 When .38 the .62 mellow
+=2' treble 2b 4/4 cha2 leg100 cro <D Bb> <D Bb> <D Bb> <D Bb>
+=3' bass   2b 4/4 cha2 leg100 cro <Bb f> <Bb f> <Bb f> <Bb f>
+|
+=1 qua. A_ smq B_b qua. C smq D min Eb
+r0.4 .01 moon begins to beam,
+=2' min <Eb A> cro rest <Eb A>
+=3' min <c f> cro rest <c f>
+|
+=1 cro D D D D
+r0.4 .06 every .48 night .76 I
+=2' cro <F d> <F d> <F# d> <F d>
+=3' cro <d bb> <d bb> <d bb> <d bb>
+|
+=1 qua. C smq D qua. Eb smq F' min G
+r0.4 .01 dream a little dream,
+=2, min <G  c>  cro rest A-s1
+=3, min <eb bb> cro rest c~-s2,
+/
+4 bars | 2b 16 | 1 1 1 1.5 1 1 1 1.5 1 1 1 1 1 1 1 1 | 16 | 16 | 
+|
+=1' cro F F F F
+r0.6 .08 and .30 of .52 course .76 Prince
+=2' cro <Bb f> <Bb f> <Bn f> <Bb f>
+=3 cro <f d~> <f d~> <g d~> <g d~>
+|
+=1 qua. Eb smq F' qua. G smq A cro Bb A
+r0.6 .01 Charming is the theme,  the
+=2, min <Bb eb> cro rest <c# f a>
+=3, min <c~ g~> cro rest <f eb~>
+|
+=1 min. F cro G
+r0.6 .01 He .74 for
+=2, min. <F Bb f> cro <Bn eb g>
+=3 cro d d~ G g
+|
+=1' min. D cro F
+r0.6 .01 Me. .74 Al  -
+=2, min. <En Bb d> cro <Eb A f>
+=3  cro c c~ F f
+/
+4 bars | 2b 16 | 1 1 1 1.5 1 1 1 1.5 1 1 1 1 1 1 1 1 \
+ | 16 | 1 1 1 1.5 1 1 1 1.5 1 1 1 1 1 1 1 1 |
+|
+=1' cro B_b B_b B_b B_b
+r0.4 .01 - though .37 I .56 re  - .78 a  -
+=2' cro <D Bb> <D Bb> <D Bb> <D Bb>
+=3' cro <Bb f> <Bb f> <Bb f> <Bb f>
+|
+=1 qua. A_ smq B_b qua. C smq D min Eb
+r0.4 .01 lise .18 as well .44 as you,
+=2' min <Eb A> cro rest <Eb A>
+=3, min <c  f> cro rest <c f>
+|
+=1 cro D D D D
+r0.45 .02 it .24 is .53 seldom
+=2' cro <F d> <F d> <F d> <F d>
+=3, cro <d a> <d a> <a d~> <a d~>
+|
+=1 qua. En smq F qua. G smq A min Bb
+r0.5 .01 that a dream comes true,
+=2, min. <Bb en> cro <Bb e>
+=3' min. <g d~> cro c#~
+/
+4 bars | 2b 16 | 1 1 1 1.3 1 1 1 1.3 1 1 1 1.3 1 1 1 1.3 \
+ | 16 | 1 1 1 1.3 1 1 1 1.3 1 1 1 1.3 1 1 1 1.3 | 
+|
+=1 cro rest A G F
+r0.6 .30 To .52 me .76 it's
+=2, cro rest <c f a> <A c g> <A c f>
+=3' smq-s bn{2 blank smb c~}2
+=3, cro rest, min c cro c
+|
+=1 smb G
+r0.6 .01 clear
+=2, qua. rest' smq [a qua. bb smq a] qua. [c~ smq bb qua. a smq g]
+=3' smq-s bn{2 blank smb c~}2
+=3, cro rest, min c cro c
+|
+=1' cro rest F Eb D
+r0.6 .24 that .48 he'll .74 ap  -
+=2, cro rest <A c f> <F Bn eb> <F Bb d>
+=3' smq-s g# blank min a ab
+=3, smb cr
+|
+=1 min. Eb cro rest
+r0.6 .01 pear .
+=2' qua. rest'' smq [F-s3 qua. G smq F] qua. [A smq G qua. F smq Eb]
+=2, min <Eb Bb eb> <A_ Eb>
+=3' min <c g> <F c>
+
+4 systems 10 /19 45 19-35-19/19 45 19-35-19/19 40 19-40-19/19 40 19-35-19/
+lefthead The Man I Love, by Ira and George Gershwin
+/
+4 bars ||: 2b 2 2 2 2 2 3 2 2 | 2 2 2 3 1.8 1.8 1.8 1.8 \
+ | 2 2 2 2 2 3 2 2 | 8 7.2 |
+|
+=1 qua rest F G F G F cro Ab
+r0.6 .14 Some day he'll come along,
+=2' min. d cro d
+=2, cro D D D D
+=3' cro <f b> <f b> <f b> <f b>
+=3, min. Bb cro Bb
+|
+=1' qua rest F G F min Ab
+r0.6 .10 the man I love,
+=2' min. db cro db
+=2, cro Db Db Db Db
+=3' cro <f b> <f b> <f b> <f b>
+=3, min. Bb cro Bb
+|
+=1' qua rest F G F G F cro Ab
+r0.6 .04 and he'll be big and strong,
+=2' min. c cro c
+=2, cro C C C C
+=3' cro <f ab> <f ab> <f ab> <f ab>
+=3, min. Ab cro Ab
+|
+=1 qua rest Eb F' Eb min G
+r0.6 .10 the man I love,
+=2' min. Bn cro B
+=2, cro B_n <B_ Eb> <B_ Eb> <B_ Eb>
+=3' cro <f gx> <f gx> <f gx> <f gx>
+=3, min. G cro G
+/
+4 bars | 2b 2 2 2 2 2 2.6 2 2 | 16 | 16 | 16 |
+|
+=1 qua rest Eb F Eb F Eb cro F#
+r0.6 .06 And when he comes my way,
+=2' min. Bb cro Bb
+=2, cro <B_b Eb> <B_b Eb> <B_b Eb> <B_b Eb>
+=3' cro f# f# f# f#
+=3, min. c cro c
+|
+=1' qua rest D Eb D cro F Eb
+r0.6 .12 I'll do my best .75 to
+=2' min A cro F Eb
+=2, cro <A_ Eb> <A_ Eb> A_ G_
+=3' smb <F eb>
+|
+=1 min D D
+r0.6 .01 make .49 him
+=2' min D D
+=3' cro <f bb> <f bb> <f# bb> <g bb>
+=3, min Bb Eb
+|
+=1 smb D
+r0.6 .01 stay .
+=2' min D D
+=3' cro <f a> <f a> g a
+=3, min d eb
+/
+3 bars | 2b 1 1 1 1  1 1 1 1  1 1 1 1  1.6 1.6 1.3 1.3 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1.3 1.6 1.3 \
+ | 1 1 1 1 1 1 1 1 1 1 1 1 1.6 1.6 1.3 1.3 |
+|
+=1' qua rest F G F G F cro Ab
+r0.6 .14 He'll look at me and smile,
+=2' qua rest cro F qua G min Ab
+=2, 2b min. D smq [F E Eb D]
+=3' cro <Bb f> <Bb f> <Bb f> <Bb f>
+|
+=1' qua rest F G F min Ab
+r0.6 .10 I'll understand ;
+=2' qua rest [F G] cro F qua G cro Ab
+=2, min. C# smq [E Eb D Db]
+=3' cro <Bb f> <Bb f> <Bb f> <Bb f>
+|
+=1' qua rest F G F G F cro Ab
+r0.6 .10 and .24 in   a .45 little .67 while
+=2' qua rest cro F qua G min Ab
+=2, min. C smq [Eb D Db C]
+=3' cro <Ab f> <Ab f> <Ab f> <Ab f>
+/
+4 bars | 2b .87 .88 .87 .88 .87 .88 .87 .88 .87 .88 .87 .88 1.8 1.3 1.8 1.3 \
+ | 1 1 1 1  1 1 1 1  1 1 1.2 1.2 1.3 2.0 1.9 1.3 | 7 6 | 7 6 |
+|
+=1 qua rest Eb F' Eb min G
+r0.4 .10 he'll take my hand ;
+=2' qua rest' [Eb F] cro Eb qua F cro G
+=2, 2b min. B_n smq [D Db C B_]
+=3' min. <G f> cro <G f>
+|
+=1 qua rest Eb F' Eb F' Eb cro Gb
+r0.4 .08 And though it seems asurd,
+=2' qua rest' cro Eb qua F min Gb
+=2, min. B_b smq [Db C B_ B_b]
+=3' smb <c f#>
+|
+=1' qua rest D Eb D cro F D
+r0.4 .09 I know we both won't
+=2' qua rest' [D Eb D] cro F F
+=2, min A_ cro B_b D
+=3 min <F eb'> cro <c g'> <f, a>
+|
+=1 min B_b B_b
+r0.4 .01 say .55 a
+=2' min F Bb
+=2, qua rest,, [D Eb D] cro F Eb
+=3' qua rest' [f g f] cro a g
+=3, smb Bb
+
+4 systems 10 /19 50 19-30-19/19 50 19-30-19/19 40 19-40-19/19 40 19-35-19/
+lefthead The Man I Love, by Ira and George Gershwin
+/
+5 bars | 2b 14.5 | 1 1 1 1.6 1 1 1 1.6 .9 .9 .9 .9 .9 .9 .9 .9 \
+ | 14.5 | 14.5 | 14.5 |
+|
+=1 min. B_b cro rest
+r0.5 .10 word .
+=2' min. Bb cro rest'
+=2, 2b cro D min <C# G> cro <Cl F#>
+=3' cro f e eb d
+|
+=1 qua. B_b smq C qua. D smq C# cro D Bb
+r0.5 .01 Maybe I shall meet him
+=2' qua. [<G Bb-s1-s2> smq <A c> qua. <Bb d'> smq <A c#>] cro <Bb d'> bb,
+=3' min rest' f~
+=3, cro G d rest g
+|
+=1' cro Bb A F F#
+r0.5 .04 Sunday, .51 maybe
+=2' cro rest'' a rest'' f#
+=2, min db c
+=3' min e~ eb~
+=3, cro rest g rest g
+|
+=1 cro A G D En
+r0.5 .04 Monday, .51 maybe
+=2' cro rest'' g rest'' en
+=2, min Bb cro G Bbl
+=3' min d~ d~
+=3, cro rest g bb g
+|
+=1' min. F# cro rest
+r0.5 .01 not ;
+=2' smb <d f#>
+=2, cro rest, A smq-s c' cro Bb A
+=3 smb <d c~>
+/
+4 bars | 2b 1 1 1 1.6 1 1 1 1.6 .9 .9 .9 .9 .9 .9 .9 .9 \
+ | 14.5 | 1.8 1.8 1.8 2.2 1.8 1.8 1.8 1.8 | 14.5 |
+|
+=1 qua. B_b smq C qua. D smq C# cro D Bb
+r0.5 .08 Still I'm sure to meet .76 him
+=2' qua. [<G Bb> smq <A c> qua. <Bb d'> smq <A c#>] cro <Bb d'> bb,
+=3' min rest' f~
+=3, 2b cro G d rest g
+|
+=1' cro Bb A F F#
+r0.5 .01 one .24 day, .51 maybe
+=2' cro rest'' a rest'' f#
+=2, min c# c
+=3' min e~ eb~
+=3, cro rest g rest g
+|
+=1 cro A G F Eb
+r0.5 .04 Tuesday .49 will .75 be
+=2' cro rest'' g rest'' eb
+=2, min Bb Abl
+=3' cro. d~ qua bb min bn
+=3, min.. g qua d
+|
+=1 cro D C D Eb
+r0.5 .01 my .24 good-news-day.
+=2' cro d c smq-s eb cro d c
+=2, min G smq blank min A
+=3 min <eb, bb> <f, eb~>
+/
+4 bars | 2b 2 2 2 2 2 3 1.8 1.8 | 2 2 2 3 1.8 1.8 1.8 1.8 \
+ | 2 2 2 2 2 3 1.8 1.8 | 8 7.2 |
+|
+=1' qua rest F G F G F cro Ab
+r0.6 .14 He'll build a little home,
+=2' qua rest' [F G F] [G F] cro Ab
+=2, 2b smb <D d>
+=3' smb <Bb f>
+|
+=1' qua rest F G F min Ab
+r0.6 .07 just meant for two,
+=2' qua rest' [F G F] min Ab
+=2, min. <C# c#> cro <C# c#>
+=3' min. <Bb f> cro <Bb f>
+|
+=1' qua rest F G F G F cro Ab
+r0.6 .03 from which I'll never roam,
+=2' qua rest' [F G F] [G F] cro Ab
+=2, smb <C c>
+=3' min. <Ab f>
+|
+=1 qua rest Eb F' Eb min G
+r0.6 .10 who would ? would you ?
+=2' dsq blank qua rest' [Eb F Eb] min G
+=2, min. <B_n Bn> cro <B_ B>
+=3' min. <G f> cro <G f>
+/
+5 bars | 2b 2 2 2 2 2 3.0 2 2 | 8 7 | 14 \
+ | 1 1 1 1  1 1 1 1  1 1 1 1.6  1 1 1 1.6  :|| 14 ||
+|
+=1 qua rest Eb F Eb F Eb cro F#
+r0.4 .10 And so all else above,
+=2' qua rest' [Eb F Eb] [F Eb] cro F#
+=2, 2b smb <B_b Bb>
+=3' smb <c f#>
+|
+=1' qua rest D Eb D cro F D
+r0.4 .12 I'm waiting for the
+=2' qua rest' [D Eb D] cro F D
+=2, min <A_ A> cro B_b A_
+=3' min <F eb> cro <c g> <F eb>
+|
+=1 min B_b B_b
+r0.4 .01 man .50 I
+=2' min B_b B_b
+=3' cro <d f> <d f> <c g> <c g>
+=3, min Bb Eb
+|
+=1 smb B_b
+r0.4 .01 love .
+=2' cro. B_b qua B_b [C B_b C B_b]
+=3' cro <d f> g f# <eb g>
+=3, cro Bb Bb Eb F
+|
+=1 min. blank smb rest
+=2' cro <F_ D> <F_ D> min <F_ D>
+=3 cro Bb F min B_b
+
+@

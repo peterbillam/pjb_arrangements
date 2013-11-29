@@ -1,0 +1,598 @@
+5 systems 30 / 19-40-19 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 /
+title Sonata
+pagenum 1
+innerhead Béla Bartók, 1926
+midi channel 1 patch 0 pan 70
+midi channel 2 patch 0 pan 30
+midi off
+/
+6 bars | 2/4 40 | 40 | 40 | 40 | 6 6 7 7 7 7 9 6 | 6 6 9 9 7 7 6 5 |
+| 2/4 0.98
+Il0.8  Allegro moderato
+=1' bass   cha1 2/4 vol85 8. [G#{2 16 A# 8 B}2 B]
+I0.5 .01 f
+i0.5 .20 cresc . . .
+=2 bass cha2 2/4 vol85 8. [G_#{2 16 A_# 8 B_}2 B_]
+|
+i1.0 .55 ( cro = 120-126 )
+=1 8 rest B-emph rest B-emph
+=2' 8 [B blank B] blank
+=2, 8 <E G#> rest, <D A#rl> rest,
+|
+=1 8 rest B-emph rest B-emph
+=2' 8 [B blank B] blank
+=2, 8 <E G#> rest, <D A#rl> rest,
+|
+I0.1 .45 sf
+=1  4 rest tra-12 vol+15 B_ vol-15
+b0.3 .40 8vab
+=2' 8 [B B-emph B B-emph]
+=2, 8 <E G#> rest, <D A#rl> rest,
+|
+I0.1 .45 sf
+=1  4 rest 8 rest vol+15 B_ vol-15
+b0.3 .40 8vab
+=2' 8 [B B-emph B B-emph]
+=2, 8 <E G#> rest, <D A#rl> rest,
+
+5 systems 30 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 /
+pagenum
+innerhead Sonata,  Béla Bartók, 1926
+
+midi pause 1.0
+
+5 systems 30 / 19-40-19 / 19-40-19 / 19-50-19 / 19-40-19 / 19-40-19 /
+title II.
+pagenum
+innerhead Sonata,  Béla Bartók, 1926
+#midi channel 1 patch 0 pan 80
+#midi channel 2 patch 0 pan 20
+/
+5 bars | 6/4 72 | 72 | 72 | 72 | 72 |
+| 4.3
+Il0.8  Sostenuto e pesante
+i0.8 .85 ( cro = 84 )
+=1, treble cha1 6/4 vol100 leg90 2. blank 1 rest
+I0.5 .10 f
+=2' bass   cha2 6/4 vol100 leg90 2 <Ab eb fx> <Ab eb fx> <Ab eb fx>
+|
+=1  4 rest En-ten, E-ten, 2 E-ten, 4 E-ten,
+=2' 1 <Ab eb fx> 2 <Ab(4 eb(2 fx(1>
+|
+=1  2 En-ten, 4 E-ten, E-ten, E-ten, E-ten,
+=2' 4 <Ab)4 eb)2 fx)1> 2 <Ab(4 eb(2 fx(1> 2. <Ab)4 eb)2 fx)1>
+|
+=1  4 rest rest vol70 E-ten, E-ten, E-ten, E(2-ten,
+I0.5 .04 p
+=2' 4 rest 2 vol70 <Ab(4 eb(2 fx(1> 2. <Ab)4 eb)2 fx)1>
+|
+il0.5 .10 5
+=1  4 E)2 En-ten, E-ten, 2 E-ten, 4 E-ten,
+=2' 1 <Ab eb fx> 2 <Ab(4 eb(2 fx(1>
+/
+4 bars | 72 | 5/4 60 | 60 | 9/4 108 |
+|
+=1  4 E-ten, En-ten, E-ten, D-ten, rest rest
+=2' 1 <Ab)4  eb)2 fx)1> 4 rest rest
+| 3.58
+=1 5/4 2 vol90 <C G e'> <F, Bn g> 4 vol100 c~'(1{'3
+=1, 5/4 1 blank 4 <B(4 g(2>
+I0.6 .02 mf .65 f
+=2 5/4 2 vol90 f~# 2. bb
+|
+=1' 4 c~)1 d~ e~n}'3 4 rest'' rest''
+=1, 2 <B)4 g)2>  4 vol110 <B g> rest vol100 C(2
+I0.6 .35 sf
+I0.2 .70 f
+=2' 1 vol100 blank 4 g(1
+=2, 2. eb 4 rest Bn(2
+| 6.95
+=1, 9/4 4 C)2  D E 1 Fn 4 rest, rest,,
+=1' 9/4 2 Bb B B{1 4 A}1 rest' vol70 B(1
+I0.2 .85 p
+=2' 9/4  2. g)1 1 f# 4 rest rest
+=2, 9/4  2. B)2 1 G 4 blank blank
+/
+3 bars | 6/4 72 | 9/4 108 | 108 |
+| 4.3
+il0.5 .20 10
+=1' 6/4 2 Bb)1 B 4 A{1 Bn}1
+=1, 6/4 4 C{,4 D E 4. Fn 8 E 4 D(2
+=2' 6/4  2. vol70 g f#
+=2, 6/4  2. vol70 Bn G
+| 6.95
+=1' 9/4 4 c{'1 d e 2 fn 4 e d}'1 2 eb(1
+=1, 9/4 4 D)2},4 2. C B_ 4 C{,4 8 [D En]
+=2' 9/4  1. g(1 4 g)1 2 g
+=2, 9/4  2 F#{,4 4 B 2. f#(2 4 fr)2},4  fr{2 B}2
+|
+=1' 4 e)1 fn{'1 8 [e d}'1] 2 eb 2. vol85 e 4 vol110 e-ten
+=1, 4 vol70 Fn 8 [E D] 2 C},4 4 B_{,2 vol80 C vol90 D vol100 En vol110 Fn},2
+i0.2 .45 cresc . . .
+I0.2 .85 sf
+=2' 1. g 2 g 4 vol110 g
+=2, 2 vol70 F#{,2 4 B 2. f#},2 2 vol90 fr{2 4 vol110 F#}2
+/
+4 bars | 6/4 72 | 9/4 108 | 6/4 72 | 5/4 60 |
+| 4.3
+=1  6/4 4 rest vol70 2 <F_n-., Eb> <E_b-., Eb> 4 <E_b-., Eb>
+I0.4 .15 p
+=2' 6/4  4 rest' vol70 2 g-. g-. 4 g-.
+=2, 6/4  4 rest, 2 F#{,2-. 4 rest, F-ten, rest,
+| 6.95
+=1  9/4 4 rest 2 <F_-., Eb> 4 rest 2 <F_-., Eb> <F_-., Eb> 4 vol90 D-ten,
+I0.4 .85 mf
+=2' 9/4 4 rest' 2 g-. 4 rest' 2 g-. g-. 4 rest'
+=2, 9/4 4 En-ten, rest, rest, D-ten, rest, C},2-ten, 2 rest,, 4 rest,,
+| 4.3
+il0.5 .10 15
+=1  6/4 2. vol70 En-ten, 4 E-ten, E-ten, E(2-ten,
+I0.4 .05 p
+=2' 6/4 4 rest 2 <Ab(4 eb(2 fx(1> 2. <Ab)4 eb)2 fx)1>
+| 3.58
+=1  5/4 4 vol70 E)2 4 E-ten, 2 E-ten, 4 E-ten,
+=2  5/4 2. <abr e~bx f~> 2 <Ab(4 eb'(2 fx'(1>
+/
+4 bars | 60 | 17 12 12 12 12 | 9/4 108 | 6/4 22 12 12 12 12 12 |
+|
+=1 4 vol+5 E{'1 vol+5 A_ vol+5 G_ vol+5 D vol+5 G
+i0.4 .08 cresc .50 - .80 -
+=2  1 <Ab)4 eb')2 fx')1> treble 4 vol95 <A_b Eb Fx>
+|
+=1 4 vol+5 A}'1 rest rest rest vol70 G_{'1
+I0.4 .02 f .72 p
+=2' 4 vol100 <Ebrl Bb cx> rest rest 2 rest bass
+| 6.95
+=1 9/4 4 A_ D E}'1 rest vol90 A_{'1 D G}'1 rest vol100 E{'1
+I0.4 .37 mf .85 f
+=2 9/4 vol70 2. <ebrl, bbx c~> 2. rest 4 vol90 <Ab eb' fx'> 2 rest treble
+| 4.3
+il0.9 .05 20
+=1 6/4 4 A bass d~ <e e~> g <A, a}'1> <a a~{1>
+=2' 6/4 2. <Ebr Bb cx> <A_bl Eb Fx> bass
+
+5 systems 20 / 19-45-19 / 19-45-19 / 19-45-19 / 19-50-19 / 19-45-19 /
+pagenum
+innerhead II.,  Sonata,  Béla Bartók, 1926
+/
+4 bars | 12 12 12 12 12 18 | 7/4 84 | 6/4 72 | 5/4 60 |
+|
+=1  4 d~ <e e~> g <A, a> d~ <e e~}1> treble
+=2' 2. <Abr eb fx> treble <Ebl Bb cx>
+| 5.02
+=1' 7/4 2 <B_ B{'1> 4 <A_ A> <C c> <B_ B> <A_ A> <B_b Bb}'1>
+=2  7/4 4 blank 1 Enrrr 2 blank
+=2  7/4 4 rest 1 <B_bxl Ebl> 2 <A_bl Eb Fx>
+| 4.3
+=1' 6/4 4 <Bn bn{'1> <A a> <c~ c~~> <B b> <A a> <Bb bb}'1>
+=1, 6/4 4 B_n{,2 A_ C B_ A_ B_b},2
+=2' 6/4 4 rest 2. <B_b Ebll Enxl> 2 <A_bl Eb Fx>
+| 3.58
+=1' 5/4 1 blank 4 c~(1{'3-ten
+=1  5/4 vol+5 2 <C G d'> <Fn, B g> 4 <Bn(4 g(2>
+i0.4 .07 più
+I0.4 .26 f
+=2  5/4 4 rest 2 vol+5 A# bass bb
+/
+5 bars | 60 | 4/4 48 | 5/4 12 15 12 12 12 | 4/4 48 | 7/4 84 |
+|
+il1.2 25
+=1, 2 <B)4 g)2>  4 vol110 <g c~> 2 blank
+=1' 4 c~)1 d~ e~n}'3 4 rest <B_b(4 F(2 c(1>
+=2 2 eb vol+5 4 Eb{2 F Gb}2
+| 2.87
+=1 4/4 4 <B_b)4 F)2 c')1> 2 vol+5 <Eb, A, f> 4 <An,(4 f(2 bb'(1{'3>
+=2 4/4 2 e~n vol+5 ab
+| 3.58
+=1, 5/4 2 <A)4 f)2>  4 <f bbl> 2 blank
+=1' 5/4 4 b)1 c~ d~n}'3 4 rest <A_b(4 Ebl(2 Bb(1>
+=2  5/4 2 db 4 Db{2 Eb Fb}2
+| 2.87
+=1 4/4 4 vol+5 <A_)4 E)2 B')1> 2 <Db G eb'> 4 vol100 <G,(4 ebl(2 ab'(1{'3>
+=2 4/4 2 vol+5 d~ f#
+| 5.02
+=1, 7/4 2 <G)4 e)2>  4 vol110 <ebl ab> 1 blank
+=1' 7/4 4 a)1 bb c~}'3 4 rest'' bass An Bn c#
+=2  7/4 2 An 4 vol110 A_{2 B_ C#}2 rest D(2
+I0.6 .82 sf
+/
+4 bars | 6/4 72 | 72 | 5/4 60 | 60 |
+| 4.3
+il0.6 .05 30
+=1' treble 6/4 vol65 2 <F_#{2 C#l G#> <A_# G Anxl> 4 <F_ C G> <A_# G Anxl>
+I0.3 .03 p
+=2, 6/4 2. D)2  vol65 D(2
+=2' 6/4 vol65 4 rest 1 e-emph 4 e(1-emph
+I0.7 .01 p
+i0.6 .15 subito
+|
+=1' 4 <F_# C#l G#> <B_b A_x F#> 2 <F_ C G> 4 <A_# G Anxl> 4 <F_}2 C G>
+=2' 2. e)1 e-emph
+=2, 4 D)2 1 D 4 D(2
+| 3.58
+=1' 5/4 4 rest <B_b{2 A_x F#> <A_# G#l Anxl> <F_#}2 C#l G#> rest 
+=2' 5/4 1 fn-emph  4 gn(1-emph
+=2, 5/4 2 D)2 2. D
+|
+=1' 2 <F_# C#l G#> <A_#(2 G Anxl> 4 <A_)2 Fn B>
+=2' 2 g)1 4 rest' 2 gn(1-emph
+=2, 4 rest, 2. D  4 rest,
+/
+4 bars | 7/4 84 | 6/4 72 | 5/4 60 | 60 |
+| 5.02
+I0.5 .06 mf
+=1' 7/4 4 rest 2 vol90 <A_{2 E B> <C# B cnxl> 4 <A_ E B> <C# B cnxl>
+I0.3 .18 mf
+=2' 7/4 4 g)1 rest' 2. vol90 g#-emph 4 rest' 4 g#(1-emph
+=2, 7/4 2. D 4 rest, 2. D
+I0.6  mf
+| 4.3
+il0.6 .05 35
+=1' 6/4 4 <A_ E B> <B_ Gx Ab> 2 <A_n E B> 4 <C# Bx cn> <A_ E B>
+=2' 6/4 2 g)1 4 rest' 2. a#-emph
+=2, 6/4 4 rest, 2. D 4 rest, 4 D(2
+| 3.58
+=1' 5/4 2 <B_ Gx Ab> <A_ E B> 4 <B_n}2 Ax Bb>
+=2' 5/4 4 rest' 2. b#-emph 4 rest'
+=2, 5/4 2 D)2 4 rest, 2 D(2
+|
+=1' 4 rest <B_n{2 Ax Bb> <A_ E Bn> 2 <C# Bx cn>
+=2' 2. c~#-emph 4 rest' 4 d~#(1-emph
+=2, 4 D)2 4 rest, 2. D
+/
+4 bars | 60 | 3/4 36 | 3/2 72 | 3/4 36 |
+|
+=1' 4 <B_# A#l c#> <C# Bnl cnxl> 2 <B_# A c#> 4 <C#}2 Bnl cnxl>
+=2' 2 d~# 4 rest' 2 e~#-emph
+=2, 4 rest, 2. Dn 4 rest,
+| 2.15
+=1' 3/4 4 rest vol+5 <B_#{2 A#l c#> <C#}2 Bx cn>
+i0.6 .18 cresc .80 -
+=2  3/4 4 B_n vol+5 d~#{1 e~n}1
+| 4.3
+il0.6 .05 40
+=1 3/2 4 rest <B_# A#l c#'> <B# a#l c~#-ten> \
+ <B_ A c'> <C#{2 Bnl' cnxl'> <B_}2 A c#'>
+=2 3/2 4 D_ <d# d~n> rest 2 <d d~{1> 4 <e e~}1>
+| 2.15
+=1' 3/4 4 rest vol+5 <B_#{2 A#l c#> <C#}2 Bx cn>
+i0.6 .18 - .80 -
+=2  3/4 4 D_n vol+5 <e e~{1> <e# e~#}1>
+
+5 systems 20 / 19-40-19 / 19-45-19 / 19-45-19 / 19-40-19 / 19-45-19 /
+pagenum
+innerhead II.,  Sonata,  Béla Bartók, 1926
+/
+4 bars | 5/4 50 | 7/4 84 | 9/4 108 | 8/4 23 12 12 12 12 12 12 11 |
+| 3.58
+=1' 5/4 vol110 2 <C G d> <C G d> 4 <C G d>
+I0.6 .03 f
+=2, 5/4 vol110 2 f~# f~# 4 f~#
+| 5.02
+=1' 7/4 vol70 4 rest En-ten, E-ten, E-ten, E-ten, E-ten, D-ten,
+I0.6 .03 p
+=2' 7/4 vol70 2 <Ab(4 eb(2 fx(1> 2. <A)4(4 e)2(2 fx)1(1> 2 <A)4 e)2 fx)1> \
+ treble
+| 6.45
+=1, 9/4 vol55 4 rest <f#x g d~{1-.> <fx g d~}1-.> \
+ <fx g d~{1-.-emph> 2 <fx g d~-.> <fx g d~-.> 4 <fx g d~}1-.>
+I0.6 .09 pp
+=2' 9/4 vol55 rest <C{2-., F# Gx c> <C}2-., F Gx c> \
+ <C{2-.,-emph, F Gx c> 2 <C-., F Gx c> <C-., F Gx c> 4 <C}2-., F Gx c>
+| 5.74
+il0.6 .05 45
+=1' 8/4 vol70 2. rest <A_bl(4 Eb(2 Fx(1> 2 <A_)4 E)2 Fx)1>
+I0.6 .09 p
+=2  8/4 vol70 4 rest bass e-ten e-ten e-ten e-ten e-ten rest e-ten
+/
+4 bars | 5/4 12 12 10 10 10 | 4/4 48 | 8/4 20 12 12 12 12 12 12 12 | 5/4 60 |
+| 3.58
+=1, 5/4 vol120 2 <cxr d f#x g c~x d~> <cx d fx g c~x d~> 4 rest
+I0.6 .09 ff
+=2, 5/4 vol120 2 <cr f#x g c~x d~> <c fx g c~x d~> treble 4 rest
+| 2.87
+=1 4/4 vol100 2. <C G d'> 4 vol+7 <Fn,(2 B(3 g(1>
+I0.6 .03 f
+=2 4/4 vol100 4 rest f#-ten F#-ten, vol+7 F_#-ten,
+I0.4 .10 f
+| 5.74
+I0.4 .85 p
+=1, 8/4 4 <Fn,)2 B)3 g)1> 2 vol+7 <Bn g> <Br g b> 4 rest, rest, <G_#(4 En(2>
+=1' 8/4 4 blank 2 <cr c~> 4 vol+7 <c c~{'1> <d d~> <en e~n}'1> \
+ rest'' vol70 A(1{'1
+i0.6 .01 cresc .18 - 
+I0.9 .40 ff
+I0.3 .66 f
+i0.5 .71 cresc
+=2  8/4 4 db-ten bass vol+7 Bb-ten e~b-ten \
+ vol+7 Eb-ten, g~-ten 2 <B_n, G,> 4 rest,,
+=2' 8/4 1 blank 4 blank c{'1 d eb}'1
+| 3.58
+I0.4 .80 p
+=1' 5/4 4 A)1 B c#}'1--ten rest' A(1{'1
+=1, 5/4 2 <G_)4 E)2> 4 <E A> rest,, <G_#l(4 En(2>
+I0.3 .46 f
+i0.1 .61 cresc
+=2' 5/4 2 rest' 4 vol100 cn{'1 vol+5 d vol+5 eb}'1
+=2, 5/4 4 vol70 <G_# E> rest,, 2 vol100 <B_ Gnl> 4 rest,,
+r1.2 .02 8 _ _ |
+I0.1 p
+/
+4 bars | 60 | 12 12 12 16 12 | 60 | 60 |
+|
+il1.0  50
+I0.4 .80 p
+=1' 4 A)1 B c#}'1--ten rest' Gb(1{'1
+=1, 2 <G_#)4 E)2> 4 <E A> rest,, <F_(4 Dbl(2>
+I0.3 .46 f
+i0.2 .60 cresc
+=2' 2 rest' 4 vol100 cn{'1 vol+5 d vol+5 eb}'1
+=2, 4 vol70 <G_# E> rest,, 2 vol100 <B_ Gnl> 4 rest,,
+r1.2  8 _ _ | .95 8 _ _ |
+I0.1 p .95 p
+|
+I0.4 .80 p
+=1' 4 G)1 Ab Bb}'1--ten rest' blank
+=1, 2 <F_)4 D)2> 4 blank rest,, bass vol70 <d(4 bbl(2>
+=1' 1 blank 4 e~b{'1
+I0.3 .43 f
+i0.2 .59 cresc
+=2' 2 rest' 4 vol100 cn{'1 vol+5 d vol+5 en}'1
+=2, 4 vol70 <G_# E> rest,, 2 vol100 <B_n Gnl> 4 rest,,
+|
+=1' 4 d~ e~b}'1-. rest'' 2 rest'
+=1, 4 <d)4 b)2> rest rest 2 rest treble
+I0.3 .13 f
+i0.65 .38 cresc
+=2' 4 rest' vol100 <c c~{'1> <d d~> <e e~}'1> rest'
+=2, 2 rest,, 4 rest,, vol70 B_n{,2 C#
+I0.9 .55 p
+|
+I0.5 p
+=1' 4 vol70 <Eb eb> rest G_b-ten, rest rest
+I0.1 .02 pp
+=2, 4 D{,2 1 blank
+=2' 4 D vol60 leg99 En F E D(2
+/
+5 bars | 12 19 12 12 12 | 60 | 4/4 12 19 12 18 | 5/4 60 | 4/4 48 |
+|
+=1' 4 Eb-ten, rest bass Bb-ten, 2 rest treble
+=2' 4 D)2 C B_n C D(2
+|
+il0.9 .25 55
+=1  4 <eb e~b-ten> rest Gb-ten, rest rest
+=2' 4 eb-ten rest' gb-ten rest' rest'
+=2, 4 D)2 En F E D(2
+| 2.87
+=1  4/4 4 <eb e~b-ten> rest bass Bb-ten, rest treble
+=2' 4/4 4 eb-ten rest' 2 rest'
+=2, 4/4 4 D)2 C B_n C
+| 3.58
+=1' 5/4 4 <Eb eb> rest B_b 2 rest bass
+=2 5/4 4 D C B_n C D},,2
+| 2.87
+=1  4/4 4 rest Bb 2 rest treble
+=2' 4/4 4 rest Bn{2 c d}2
+/
+4 bars | 9/4 108 | 8/4 96 | 3/2 72 | 20 14 14 ||
+| 6.45
+=1' 9/4 2 rest 4 rest 1. <A_bl Eb Fx>
+=2' 9/4 4 vol90 rest E-ten, E-ten, E-ten, E-ten, E-ten, E{2 D A_}2
+I0.9 .10 mf
+| 5.8
+il0.9 .25 60
+I0.5 .03 p
+=1  8/4  4 vol70 En-ten, E-ten, En-ten, E-ten, En-ten, E{2 D A
+=2' 8/4  2 rest 1. vol70 <Abl eb fx>
+I0.1 .20 p
+| 2.25 2.45
+=1 3/2 4 G A_}2 D{2 2 En 4 vol+5 D
+=2 3/2 1 <ab e~b f~x> 2 vol+5 <eb bbx c~{1>
+|
+=1  4 vol+5 Eb},2-.,-ten, rest 2 rest rest
+=2' 4 vol+5 <C-ten, en},1-ten,> rest 2 rest rest
+
+
+midi pause 1.0
+
+midi on
+
+5 systems 15 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 /
+title III.
+pagenum
+innerhead Sonata,  Béla Bartók, 1926
+#midi channel 1 patch 0 pan 80
+#midi channel 2 patch 0 pan 20
+/
+5 bars | 3/8 18 | 2/4 24 | 24 | 1/4 12 | 3/8 18 | 2/4 24 |
+| 0.53
+Il1.1  Allegro molto
+=1, treble cha1 3/8 vol100 leg80 8 [<F# f#> <F f> <F f>]
+I0.3 .10 f
+=2  bass   cha2 3/8 vol100 leg80 4. rest
+| .706
+i1.1 .15 ( cro = 170 )
+=1' 2/4 8 [<E e> <C# c#>] 4 <B_ B-ten>
+=1, 2/4 4. blank 8 <E A>
+=2, 2/4 4 rest 8 rest 8 <A dx e a>
+|
+=1' 8 [<C# c#> <B_ B> <C c-s3> <D# d#>]
+=2 2 rest
+| .353
+=1' 1/4 4 <E e-ten>
+=1, 1/4 8 blank <A d>
+=2' 1/4 8 rest 8 <G Ax d g>
+| .53
+=1, 3/8 [<F# f#> <F f> <F f>]
+=2  3/8 4. rest
+| .706
+=1' 2/4 8 [<E e> <C# c#>] 4 <B_ B-ten>
+=1, 2/4 4. blank 8 <E A>
+=2' 2/4 4 rest 8 rest 8 <F# ex f#>
+/
+6 bars | 3/8 18 | 2/4 24 | 3/8 18 | 2/4 24 | 24 | 1/4 12 |
+| .53
+=1' 3/8 [<A_ A> <B_ B> <A_ A>]
+=2  4. rest
+| .706
+=1' 2/4 4 <B_ B-ten> <B_ B-ten>
+=1, 2/4 8 blank <E A> blank <E A>
+=2' 2/4 8 rest <E B f#> rest <E B f>
+| 0.53
+=1, 3/8 vol100 leg80 8 [<f# f~#> <f# f~#> <f# f~#>]
+=2  3/8 vol100 leg80 8 [f~#-s1, f~ f~]
+| .706
+=1' 2/4 8 [<e e~> <c# c~#>] 4 <B b-ten>
+=1, 2/4 4. blank 8 <e a>
+=2' 2/4 8 [e~ c~#] 4 b-ten
+=2, 2/4 4 blank 8 blank 8 <A dx e a>
+|
+=1, 8 [<c# c~#> <B b> <c c~-s3> <d# d~#>]
+=2, 8 [c~# b c~ d~#]
+| .353
+=1' 1/4 4 <e e~-ten>
+=1, 1/4 8 blank <G Ax d-s2-s3-s5>
+=2' 1/4 4 e~-ten
+=2, 1/4 8 rest 8 <G Ax d g>
+/
+7 bars | 3/8 18 | 2/4 24 | 3/8 18 | 2/4 24 | 9 6 6 6 | 24 | 24 |
+| 0.53
+=1, 3/8 vol100 leg80 8 [<f# f~#> <f f~> <f f~>]
+=2  3/8 vol100 leg80 8 [f~#-s1, f~ f~]
+| .706
+=1' 2/4 8 [<e e~> <c# c~#>] 4 <B b-ten>
+=1, 2/4 4. blank 8 <e a>
+=2' 2/4 8 [e~ c~#] 4 b-ten
+=2, 2/4 4 blank 8 blank 8 <F# e f#x>
+| 0.53
+=1, 3/8 8 [<A a> <B b> <A a>]
+=2, 3/8 8 [a b a]
+| .706
+=1' 2/4 4 <B b-ten> <B(3 b(1>
+=1, 2/4 8 blank <e a> 4 blank
+=2' 2/4 4 b-ten b(1
+=2, 2/4 4 8 blank <E B f#> 4 blank
+|
+=1' 2 <B)3 b)1>
+=1, 8 <A_r E B> 4 vol+5 <A_ E B> 8 <A_ E B>
+=2' 2 b)1
+=2, 8 <E B f#> 4 vol+5 <E B f> 8 <E B f>
+|
+=1, 4 <A_-emph E B> 8 vol+5 [<A_ E B> <A_(4 E(2 B(1>]
+=2, 8 rest 4. vol+5 <E B f#>
+|
+=1, 8 [<A_)4 E)2 B)1> vol+5 <A_ E B>] 4 <A_x B_ E Ax B-emph>
+=2, 8 <E B f#> rest 4 vol+5 <E Ax B f#-emph>
+/
+5 bars | 6/8 36 | 2/4 24 | 5/8 30 | 1/4 12 | 6/8 36 |
+| 1.06
+=1 6/8 2. rest bass vol90 
+i0.4 .06 meno
+I0.4 .30 f
+=2 6/8 vol90 8 [D{2-s4, E D] [E F# G]
+| .706
+=1, 2/4 8 rest <fx g c~x d~> rest <fx g c~x d~>
+=2' 2/4 cro A}2-ten, A-ten,
+| .883
+=1 5/8 1 rest
+=2 5/8 8 [G{2 A B c G]
+| .353
+=1 1/4 8 rest <fx g c~x d~>
+=2 1/4 4 A}2-ten,
+| 1.06
+=1 6/8 2. rest treble
+=2' 6/8 vol90 8 [<D{2 d> <E e> <D d>] [<E e> <F# f#> <G g>]
+/
+6 bars | 2/4 24 | 5/8 30 | 1/4 12 | 5/8 30 | 30 | 3/8 18 |
+| .706
+=1, 2/4 8 rest <fx g c~x d~> rest <fx g c~x d~>
+=2' 2/4 cro <A}2-ten, a> <A-ten, a>
+| .883
+=1  5/8 1 rest
+=2, 5/8 8 [<G g{1> <A a> <B b> <c c~> <d d~>]
+| .353
+=1  1/4 8 rest <fx g c~x d~>
+=2, 1/4 4 <A a}'1-ten>
+| .883
+=1' 5/8 8 vol120 [<f# f~#> <e e~> <d d~> <c c~> <B b>]
+=1, 5/8 8 vol120 [F# E D C B_]
+I0.3 .03 ff
+=2  5/8 1 blank
+I0.3 .96 mf
+|
+I0.6 .43 mf
+=1' 4 rest 8 rest vol90 [<F# f#> <E e>]
+=2, 8 vol90 [<G g> <A a> <B b> <c c~> <d d~>]
+| 0.53
+=1' 3/8 8 [<D d> <C c> <B_ B>]
+=2, 3/8 4 <A a> 8 rest
+
+/
+6 bars | 5/8 30 | 3/8 18 | 5/8 30 | 3/8 18 | 5/8 30 | 6 6 6 6 8 |
+| .883
+=1' 5/8 4 <A_ A> 8 rest [<c# c~#> <B b>]
+=2, 5/8 8 [<d d~> <e e~> <f# f~#> <g g~> <a a~>]
+| 0.53
+=1' 3/8 8 [<A a> <G g> <F# f#>]
+=2, 3/8 4 <e e~> treble 8 rest
+| .883
+i1.2 .90 poco a poco
+=1  5/8 4 <E e'> 8 rest [<g# g~#> <f# f~#>]
+=2' 5/8 8 [<A_ A> <B_ B> <C# c#> <D d> <E e>]
+| 0.53
+i1.1 .80 -
+=1, 3/8 8 [<e e~> <d d~> <c# c~#>]
+=2' 3/8 4 <B_ B> 8 rest
+| .883
+i1.0 .20 - .80 -
+=1  5/8 8 vol+3 [g#-s3 f# vol+3 e d-s4 c#]
+=2' 5/8 8 [B vol+3 A G# vol+3 F# E]
+| .870
+i1.0 .06 stringendo .90 -
+=1, 8 vol+3 [<B g#-s5> <A f#> <G# e> vol+3 <F# d> <E c#>]
+=2' 8 vol+3 [D C# vol+3 B_ A_ G_#] bass
+/
+5 bars | 30 | 2/4 24 | 24 | 24 | 24 |
+| .860
+=1, 8 [<g# b g~#> vol+3 <f# a f~#> <e g e~> vol+3 <d f d~> <c# e c~#>]
+=2, 8 [<f# d~> vol+3 <e c~#> <d b> vol+3 <c# a> <B g#>]
+| .706
+r1.6 .43 ____
+r1.2 .40 8      |
+=1, 2/4 4 vol110 <B e g#l a#lx b{1> 8 vol125 <f# d~ e~x f~#l}1> \
+ vol110 8 <B(4 e(2 g#l(5 a#lx(3 b(1{1>
+I0.4 .06 f .50 sff
+=2  2/4 4 vol110 <A{2 cnl dx' f#' a'> 8 vol125 <D}2 Ex d' ex'> \
+ vol110 8 <A,(4 cx,(2 d(5 f(3 a(1{1>
+|
+r1.5 .33 ____
+r1.1 .30 8      |
+=1, 2/4 8 <B)4 e)2 g#l)5 a#lx)3 b)1> vol125 <f# d~ e~x f~#l}1> \
+ 4 vol110 <B e g#l a#lx b-ten>
+I0.4 .22 sff
+=2  2/4 8 <A,)4 cx,)2 d,)5 f)3 a)1> vol125 <D Ex d' ex'}1> \
+ 4 vol110 <A-ten, cnl dx' f#' a'>
+| .679
+=1, 4 vol75 <cx d c~x d~> 8 [<cx d c~x d~> <cx d c~x d~>]
+I0.4 .04 mp
+=2' 8 rest 4. vol75 <G_(2 A(1>
+|
+=1, 8 [<e~bx f~-emph> <cx d c~x d~> <cx d c~x d~> <cx d c~x d~>]
+=2  8 <G_)2 A)1> 4 <G a'> 8 <g a~>
+/
+5 bars | 5/8 30 | 2/4 24 | 24 | 24 | 24 |
+| .863
+r1.6 .38 ____
+r1.2 .35 8       |
+=1, 5/8 4 vol110 <B e g#l a#lx b{1> 8 vol125 <f# d~ e~x f~#l}1> \
+ vol110 4 <B e g#l a#lx b-ten>
+I0.6 .06 f .45 sff
+=2  5/8 4 vol110 <A{2 cnl dx' f#' a'> 8 vol125 <D}2 Ex d' ex'> \
+ vol110 4 <A, cx, d f a-ten>
+| .670
+=1, 2/4 4 vol75 <cx d c~x d~> 8 [<e~bx f~-emph> <cx d c~x d~>]
+I0.4 .04 mp
+=2' 2/4 8 rest vol75 4. <B_b(2 c(1>
+| .660
+=1, 8 [<cx d c~x d~> <e~bx f~-emph> <cx d c~x d~> <cx d c~x d~>]
+=2  8 <B_b)2 c)1> 4 <Bb, c~> treble 8 B_b

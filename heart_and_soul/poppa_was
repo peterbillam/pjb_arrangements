@@ -1,0 +1,55 @@
+% start
+3 systems 10 /17-18-17-18-17-23-17-18-17-18-17 18 7 \
+ /17-18-17-18-17-23-17-18-17-18-17 18 7 \
+ /17-18-17-18-17-23-17-18-17-18-17 18 7 /
+title Poppa Was A Rolling Stone
+pagenum 1
+leftfoot arranged 2008 Peter J Billam
+midi channel 1 patch 52 pan 41 reverb 50
+midi channel 2 patch 52 pan 87 reverb 50
+midi channel 3 patch 52 pan  5 reverb 50
+midi channel 4 patch 52 pan 95 reverb 50
+midi channel 5 patch 52 pan 23 reverb 50
+midi channel 6 patch 52 pan 69 reverb 50
+midi channel 9 reverb 90
+
+% dontstop
+/
+5 bars | 4/4 8 | 48 | 48 | 48 |
+| 1/16 .23
+=1 treble     4/4 cha1 leg95 vol80  smq A#
+r0.60 .12 Da
+=2 treble     4/4 cha2 leg85 vol80  smq rest
+=3 treble     4/4 cha3 leg85 vol100 smq rest
+=4 treble8vab 4/4 cha4 leg85 vol80  smq rest
+=5 bass       4/4 cha5 leg85 vol80  smq rest
+=6 bass       4/4 cha6 leg85 vol80  smq Ab
+r0.1 .40 Da
+=7 bass       4/4 cha9 smq rest
+| 4/4 123
+=1' smb rest
+=2' smb rest
+=3 smb rest
+=4 smb rest
+=5 smb rest
+=6 cro Bb min. rest
+r0.6 .01  doom
+=7 smb rest
+|
+=1' smb rest
+=2' smb rest
+=3 smb rest
+=4 smb rest
+=5 smb rest
+=6 cro rest qua [db d] rest Ab cro rest
+r0.6 .25 Di Di .63 De
+=7 smb rest
+|
+=1' smb rest
+=2' smb rest
+=3 smb rest
+=4 smb rest
+=5 smb rest
+=6 cro Bb min. rest
+r0.6 .01  doom
+=7 smb rest

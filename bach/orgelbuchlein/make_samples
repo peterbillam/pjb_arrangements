@@ -1,0 +1,52 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                    http://www.pjb.com.au #
+#########################################################################
+
+$sd = '/home/pjb/www/mus/samples';
+@papers = ('a4');
+
+# three ...
+$message = 'Sample only.  Purchase the score and parts at www.pjb.com.au/mus !';
+foreach $paper (@papers) {
+   open (I, "xmas.$paper") || die "can't open xmas.$paper: $!\n";
+   open (O, "> $sd/xmas.$paper")
+   || die "can't open $sd/xmas.$paper: $!\n";
+
+	# output first system of xmas
+   print O "0 -35 translate\n";   # about 1/3 page downwards
+   while (<I>) { last if /% system 2 staves/; print O; }
+   while (<I>) { if (/rightshow$/) { print O; last; } }
+   while (<I>) {
+		last if /^% system 2$/;
+		if (/^(\d+) (\d+) (.*Arranged for.*)$/) {
+			# translate the leftfoot back up onto the page
+			my $y = $2 + 45;
+			print O "$1 $y $3\n";
+		} else {
+			print O;
+		}
+	}
+   print O "565 75 /Times-Italic 9 ($message) rightshow\n";
+
+	# skip to start of xmas
+   print O "0 -281 translate\n";   # about 1/3 page downwards
+	while (<I>) { last if /^%%Page: 2 2/; }
+   while (<I>) { last if /^% system 1 staves/; }
+	# output first 2 systems of xmas ...
+   while (<I>) { last if /^% system 3 staves/; print O; }
+   while (<I>) { if (/leftshow$/) { print O; last; } }
+   while (<I>) { last if /^% system 3$/;   print O; }
+
+   print O "pgsave restore\nshowpage\n";
+   close I;
+   close O;
+}

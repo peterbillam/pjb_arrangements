@@ -1,0 +1,83 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	2004.02.02.07.00.23;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.02.23.00.20.47;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for JSB Flute Sonata bwv1031
+@
+
+
+1.2
+log
+@does bwv1031_Bb_part as well
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+
+all : ${FREED}/bwv1031.pdf ${FREED}/bwv1031_Bb_part.pdf
+
+${FD}/bwv1031.a4 : title.a4 p2.a4 bwv1031.a4 ${BLURB}.a4
+	${PSCAT} title.a4 p2.a4 bwv1031.a4 ${BLURB}.a4 > $@@
+${FD}/bwv1031.us : ${FD}/bwv1031.a4
+	${A42US} ${FD}/bwv1031.a4 > $@@
+${SD}/bwv1031.a4 : bwv1031.a4
+	./make_samples
+${SD}/bwv1031.us : ${SD}/bwv1031.a4
+	${A42US} ${SD}/bwv1031.a4 > $@@
+${FREED}/bwv1031.pdf : title_free.a4 p2.a4 bwv1031.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} bwv1031.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${FREED}/bwv1031_Bb_part.pdf : Bb_part.a4
+	${ADDMESSAGE} Bb_part.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+bwv1031.a4 : bwv1031
+	${MUSCRIPT} bwv1031 > $@@
+Bb_part.a4 : Bb_part
+	${MUSCRIPT} Bb_part > $@@
+@
+
+
+1.1
+log
+@uses \s-1This score may be freely photocopied, and redistributed
+@
+text
+@d12 1
+a12 1
+all : ${FD}/bwv1031.us ${SD}/bwv1031.us ${FREED}/bwv1031.pdf
+d27 3
+d39 2
+@

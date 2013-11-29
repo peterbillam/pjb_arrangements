@@ -1,0 +1,106 @@
+6 systems / 19 25 19 /
+title Gavotte (from the Holberg Suite)
+innerhead Edvard Grieg
+midi channel1 patch0
+/
+5 bars | 2/2 12 | 12 | 12 | 12 | 12 |
+| 2/2 .48 .50 .48 .50
+=1' treble 2/2 cha1 vol80 leg100 min blank cro. c qua rest
+=1, 2/2 min blank vol90 cro E vol70 qua F rest
+=2  bass   2/2 cha9 vol75 cro F# vol70 F# cha1 vol90 leg100 min c~(1
+|
+=1' cro. c qua rest vol90 cro c vol70 qua f rest
+=1, vol90 cro F vol70 qua A rest vol90 cro A vol70 qua <B d> rest
+=2, min c~)1 c~(1
+|
+=1' vol90 min f vol80 cro e c(1
+=1, vol90 min <B d> vol80 cro c A(2
+=2  min. c~)1 cro rest
+|
+=1' cro c)1 B min c
+=1, cro A)2 G min G
+=2  min <d~ f~> cro c~(1 qua e~)1 rest
+|
+=1' min blank cro. vol85 c-emph qua rest
+=1, min B cro vol95 G qua vol75 A rest
+=2, cro g~ g-. cro. <c-emph c~> qua <B b>
+/
+5 bars | 12 | 12 | 12 | 12 | 12 |
+|
+=1' cro. c-emph qua rest cro c-emph qua f rest
+=1, cro vol95 F qua vol75 A rest vol85 cro A qua B rest
+=2 cro. <A,-emph a> qua <G g'> cro. <F-emph f'> qua <E e'>
+|
+=1, min vol+10 <B d f> vol-10 cro <G c> <A c>
+=2 min <D-emph d'> leg85 cro e a
+|
+=1' cro <F c> leg80 <G B> leg100 <G c> leg80 A
+=2  cro d leg80 g leg85 c leg80 f
+|
+=1' min leg100 G G(1
+=1, min leg100 D E(2
+=2  cro leg85 G leg80 g leg95 c-emph G-emph
+|
+=1' cro G)1 rest G vol-15 B-.
+=1, cro E)2 rest min D
+=2  leg120 cro C leg100 rest cro b vol-15 g
+/
+5 bars | 12 | 12 | 12 | 12 | 12 |
+|
+=1' cro. vol+15 G qua rest cro G vol-15 leg75 B
+=1, cro. vol+15 D qua rest min D
+=2  cro  vol+15 c~ qua vol-15 b rest cro vol+15 b vol-15 g
+|
+=1' cro. vol+15 G qua rest min G
+=1, cro. vol+15 D qua rest min <B_ D>
+=2  cro  vol+15 c~ qua vol-15 b rest cro rest G
+|
+=1' vol-25 min <E G c> <D F# Gx B>
+=2 cro rest G rest G
+| 2/2 .48 .50 .49 .51
+=1' min <C E Gx A> <B_ D G>
+=2 cro rest G rest G
+| 2/2 .49 .51 .50 .52
+=1' vol-5 min <A_ C Dx G> vol-10 <G_ B_ D G>
+=2 cro rest vol-5 d rest vol-10 G
+/
+5 bars | 12 | 12 | 12 | 12 | 12 |
+|
+=1' vol80 leg100 min rest cro. c qua rest
+=1, min blank vol90 cro E vol70 qua F rest
+=2  leg40 vol+8 qua [g~ vol-2 f~ vol-2 e~ vol-2 d~] vol90 leg100 min c~(1
+|
+=1' cro. c qua rest vol90 cro c vol70 qua f rest
+=1, vol90 cro F vol70 qua A rest vol90 cro A vol70 qua <B d> rest
+=2, min c~)1 c~(1
+|
+=1' vol90 min f vol80 cro e c(1
+=1, vol90 min <B d> vol80 cro c A(2
+=2  min. c~)1 cro rest
+|
+=1' cro c)1 B min c
+=1, cro A)2 G min G
+=2  min <d~ f~> cro c~(1 qua e~)1 rest
+| 2/2 .48 .50 .53 .53
+=1' min blank cro vol105 c d
+=1, min B cro vol105 <E G> G
+=2, cro g~ g-. vol105 cro <c c~> <B b>
+/
+5 bars | 12 | 12 | 12 | 12 | 12 |
+| 2/2 .53 .53 .54 .55
+=1, cro <G d> <F c f> <F c f> <c f a>
+=2, cro <B b> <A a> <A a> <F f>
+| 2/2 .56 .57 .50 .50
+=1 min <B f a> vol80 cro <G c> <A c>
+=2' min <D d> vol85 leg85 cro e a
+| 2/2 .48 .50 .49 .51
+=1' cro <F c> leg80 <G B> leg100 <G c> leg80 A
+=2  cro d leg80 g leg85 c leg80 f
+| 2/2 .51 .53 .54 .56
+=1' min leg100 G G(1
+=1, min leg100 D <C E(2>
+=2  cro leg85 G leg80 g leg95 c-emph G-emph
+| 1/2 .60 .60
+=1' cro G)1 rest
+=1, cro E)2 rest
+=2 cro C-emph rest

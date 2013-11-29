@@ -1,0 +1,345 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	98.09.16.03.30.50;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.07.28.05.28.22;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Fugue in Ab minor: Soprano Recorder part
+@
+
+
+1.2
+log
+@remove freely copied notice
+@
+text
+@11 systems /24/24/24/24/24/24/24/24/24/24/24/
+lefthead Johannes Brahms
+title Fugue in Ab minor
+righthead Soprano Recorder
+leftfoot Arranged and Typeset 1996 by Peter J Billam.
+/
+4 bars | 2 2.5 | .8 1.2 1.2 .8 | .8 1.2 .9 1.1 | .7 .5 .45 .45 .85 .6 .55 .5 |
+|
+=1 treble 8/4 smb rest rest
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+/
+3 bars | 4 | 3.5 | .6 .6 .5 .5 .75 .6 .5 .5 |
+|
+il0.25     5
+=1 treble smb rest rest
+|
+=1 smb rest rest
+|
+=1 min rest cro rest c# d a rest d#
+/
+3 bars | .55 .5 .5 .5 .85 .65 .5 .5 | .5 .5 .5 .5 .8 .5 .6 .45 | .8 .5 .5 .5 .5 .5 .4 .5 |
+|
+=1 treble cro e b rest f e f# min g#(1
+|
+=1 cro g#)1 a gn min f# cro g fn e(1
+|
+il0.3  10
+=1 cro e)1 f min B qua B,[ c] cro B c# d(1
+/
+2 bars | 5 | 4 |
+|
+=1 treble qua d)1[ e] cro d e f(1 qua f)1[ g] cro f(1 qua f)1[ g] cro f(1
+|
+=1 qua f)1[ g f e](1 cro e)1 d# qua rest f#[ e c] cro B' A(1
+/
+3 bars | .7 .45 .55 .65 .5 .45 .5 .45 | 2.2 2 | 1.6 1.5 |
+|
+=1 treble qua A)1[ F#] cro G B' qua A# rest cro rest c B G#
+|
+=1  cro rest Bb' A F# rest min G# cro A(1
+|
+il0.3  15
+=1 cro A)1 min G F cro E min rest
+/
+3 bars | 4 4 6 4 4 4 6 4 | 4.5 4.5 6 5 5 5 6 5 | 5 7 5 5 7 7 5 5 |
+|
+=1 treble cro rest d e f# e B min d(1
+|
+=1 cro d)1 d e f# d F# min B(1
+|
+=1 cro B)1 A G# A B, c# min d(1
+/
+3 bars | 5 7 5 5 5 5 7 5 | 5 5 7 5 7 7 7 5 | 5 7 5 7 5 7 5 5 |
+|
+=1 treble cro d)1 B c# e g b a g
+|
+il0.3    20
+=1 min f# e cro d min c# cro cn(1
+|
+=1 cro c)1 min B cro A G# cro rest min rest
+/
+3 bars | 4.5 | 4 | 4 |
+|
+=1 treble smb rest rest
+|
+=1 min rest cro rest bb a d rest g#
+|
+=1 cro gn c# rest e f d min c
+/
+3 bars | 5 | 1.1 1 1.1 .9 | .8 .8 .9 1.3 |
+|
+il0.25          25
+=1 treble min B cro rest G# A e rest A#
+|
+=1 cro B f# rest c B c# min d
+|
+=1 smb cn min rest qua rest c[ B, A,]
+/
+2 bars | 42 | 4 4 4 4 6 6 4 4 6 4 |
+|
+=1 treble qua B,[ c] cro d qua rest d[ c B,] c[ d] cro e qua rest f[ g a]
+|
+=1 qua g[ d] cro f(1 cro. f)1 qua e cro. eb qua d cro. d qua c
+/
+3 bars | 17 13 10 10 | 35 | 5 5 5 5 5 5 5 5 |
+|
+il0.25     30
+=1 treble qua B,[ c d Ab,] cro G c~ min b bb
+|
+=1  min a ab g f
+|
+=1 cro g rest rest B c g rest c#
+
+11 systems /24/24/24/24/24/24/24/24/24/24/24/
+lefthead Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+righthead Soprano Recorder
+leftfoot Arranged and Typeset 1996 by Peter J Billam.
+/
+3 bars | 4.3 | 4 | 3.3 |
+|
+=1 treble cro d a rest eb d en min f#
+|
+=1 cro g fn eb c min B Bb
+|
+il0.25        35
+=1  min A Ab G F
+/
+3 bars | 4.3 | 4 | 2 2.5 |
+|
+=1 treble cro G rest rest B, c g rest c#
+|
+=1  cro d a rest eb d en f# c~
+|
+=1 cro bb a d rest qua rest c#[ d e] d[ cn] cro B
+/
+2 bars | 11 11 11 10 | 5 5 7 5 5 5 5 4 |
+|
+=1 treble qua rest B,[ c d] c[ Bb] cro A qua rest B'b[ A G] A,[ d c g](1
+|
+il0.25     40
+=1 cro g)1 qua f#[ g] cro a f qua g[ f g a] g[ f] cro e
+/
+2 bars | 2.4 1.9 | .5 .5 .6 .5 .4 .4 .4 .4 |
+|
+=1 treble qua rest d[ e f#] e[ eb] cro dn qua rest d[ c A,] B,[ f] cro a(1
+|
+=1 qua a)1[ g f# g] a smq b[ c~] qua b[ a] cro g e d B
+/
+2 bars | 45 | 6 5 6 5 5 5 5 5 |
+|
+=1 treble cro A f# e c# qua B[ d e f] e[ B c F#,](2
+|
+=1 qua F#)2[ A G# B'] cro A c# d a rest d#
+/
+2 bars | 41 | 10 14 10 10 |
+|
+il0.25      45
+=1 treble cro e bb rest f e f# min g#
+|
+=1 cro a c qua B'[ Bb' A G] cro F qua rest d'[ c' E] rest B
+/
+2 bars | 24 21 | 5 5 5 5 6 5 6 5 |
+|
+=1 treble qua A[ D] rest G#[ A Gn] cro F E g f# B
+|
+=1 cro rest f e A rest d# e dn
+/
+2 bars | 7.5 5.5 5.5 8.5 5.5 5.5 5.5 | 5 5 5 6 5 7 5 5 |
+|
+=1 treble min c B qua B,[ d c B,] A, cro e qua bb
+|
+il0.25          50
+=1 qua rest a rest d cro rest qua rest g# rest gn rest c# cro rest f#(1
+/
+3 bars | 5 5 4.5 4.5 4.5 4.5 7 4.5 | 12 11 7.5 7 | 7 9 9 8 |
+|
+=1 treble qua f#)1 rest cro. g qua rest cro. gn qua rest cro. d qua rest cro d#
+|
+=1 qua d# rest cro. e qua rest cro rest smb G(1
+|
+=1 min G)1 G# A B
+/
+3 bars | 7.5 7.5 7.5 7.5 | 5 8.5 8.5 5 9 9 9 5 | 6 6 6 5 6 6 5 5 |
+|
+=1 treble min c# d# e f
+|
+il0.25 55
+=1 qua rest f[ e d#] e[ f#] cro g qua rest g[ f fn] f#[ g#] cro a
+|
+=1 qua rest g#[ a b] a[ d] cro A qua rest a[ b c~] b[ f] cro B
+/
+2 bars | 8 7 8 6 6 8 8 8 | 4.5 8 4.5 6 3.5 3.5 3.5 3.5 ||
+|
+=1 treble qua rest b[ c~# d~] c~[ bb a g](1 g[)1 f e d(1] d)1[ c B A,](1
+|
+=1 cro A)1 qua G#[ F#] cro. G qua A smb A
+@
+
+
+1.1
+log
+@spacing in bars 13 & 26
+@
+text
+@d2 4
+a8 1
+b1.1 Johannes Brahms
+a10 1
+bl1.1            Fugue in Ab minor
+a14 1
+b1.1              Soprano Recorder
+d28 1
+a28 1
+=1 treble cro e b rest f e f# min g#
+d30 1
+a30 1
+=1 cro g# a gn min f# cro g fn e
+d33 1
+a33 1
+=1 cro e f min B qua B c cro B c# d
+d37 1
+a37 1
+=1 treble qua d e cro d e f qua f g cro f qua f g cro f
+d39 1
+a39 1
+=1 qua f g f e cro e d# qua rest f# e c cro B' A
+d41 1
+a41 1
+3 bars | .7 .45 .55 .55 .5 .45 .5 .45 | 2.3 2 | 1.6 1.5 |
+d43 1
+a43 1
+=1 treble qua A F# cro G B qua A# rest cro rest c B G#
+d45 1
+a45 1
+=1  cro rest Bb A F# rest min G# cro A
+d48 1
+a48 1
+=1 cro A min G F cro E min rest
+d52 1
+a52 1
+=1 treble cro rest d e f# e B min d
+d54 1
+a54 1
+=1 cro d d e f# d F# min B
+d56 1
+a56 1
+=1  cro B A G# A B, c# min d
+d60 1
+a60 1
+=1 treble cro d B c# e g b a g
+d63 1
+a63 1
+=1 min f# e cro d min c# cro cn
+d65 1
+a65 1
+=1 cro c min B cro A G# cro rest min rest
+d82 1
+a82 1
+=1 smb cn min rest qua rest c B, A,
+d86 1
+a86 1
+=1 treble qua B, c cro d qua rest d c B, c d cro e qua rest f g a
+d88 1
+a88 1
+=1 qua g d cro f cro. f qua e cro. eb qua d cro. d qua c
+d93 1
+a93 1
+=1 treble qua B, c d Ab, cro G c~ min b bb
+d100 3
+a105 1
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+a109 1
+b1.1              Soprano Recorder
+d119 1
+a119 1
+=1 cro bb a d rest qua rest c# d e d cn cro B
+d123 1
+a123 1
+=1 treble qua rest B, c d c Bb cro A qua rest Bb A G A, d c g
+d126 1
+a126 1
+=1 cro g qua f# g cro a f qua g f g a g f cro e
+d128 1
+a128 1
+2 bars | 4.3 | .5 .5 .6 .5 .5 .5 .5 .5 |
+d130 1
+a130 1
+=1 treble qua rest d# e f# e eb cro dn qua rest d c A, B, f cro a
+d132 1
+a132 1
+=1 qua a g f# g a smq b c~ qua b a cro g e d B
+d136 1
+a136 1
+=1 treble cro A f# e c# qua B d e f e B c F#,
+d138 1
+a138 1
+=1 qua F# A G# B cro A c# d a rest d#
+d145 1
+a145 1
+=1 cro a c qua B' Bb' A G cro F qua rest d' c' E rest B
+d149 1
+a149 1
+=1 treble qua A D rest G# A Gn cro F E g f# B
+d155 1
+a155 1
+=1 treble min c B qua B d c B A cro e qua bb
+d158 1
+a158 1
+=1 qua rest a rest d cro rest qua rest g# rest gn rest c# cro rest f#
+d162 1
+a162 1
+=1 treble qua f# rest cro. g qua rest cro. gn qua rest cro. d qua rest cro d#
+d164 1
+a164 1
+=1  qua d# rest cro. e qua rest cro rest smb G
+d166 1
+a166 1
+=1 min G G# A B
+d173 1
+a173 1
+=1 qua rest f e d# e f# cro g qua rest g f fn f# g# cro a
+d175 1
+a175 1
+=1  qua rest g# a b a d cro A qua rest a b c~ b f cro B
+d179 1
+a179 1
+=1 treble qua rest b c~# d~ c~ bb a g g f e d d c B A,
+d181 1
+a181 1
+=1 cro A qua G# F# cro. G qua A smb A
+@

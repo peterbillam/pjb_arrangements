@@ -1,0 +1,155 @@
+3 systems 10 / 18-22-18-30-18-22-18-22-18 \
+/ 18-22-18-30-18-22-18-22-18 \
+/ 18-22-18-30-18-22-18-22-18 10 /
+pagenum 1
+title Spem in Alium   Choir 2
+innerhead Thomas Tallis
+leftfoot Typeset  (c) Peter Billam  2013
+midi channel 1 patch 87 pan 10
+midi channel 2 patch 87 pan 70
+midi channel 3 patch 87 pan 30
+midi channel 4 patch 87 pan 90
+midi channel 5 patch 87 pan 50
+
+/
+6 bars | 48 | 48 |
+| 2.8
+bl0.3 .37 3
+=1  treble     cha1 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=2  treble     cha2 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=3  treble8vab cha3 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=4  bass       cha4 vol90 leg80 1 blank bre rest
+bl0.2 .37 3
+=5  bass       cha5 vol90 leg80 1 blank bre rest
+|
+=1  1 blank bre rest
+=2  1 rest G(2
+r0.5 .51 Spem
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+il0.2 .05 5
+=1  1 blank bre rest
+=2 2 G)2 G G G
+r0.5 .26 in .53 a  -  li  -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1  1 blank bre rest
+=2  2 D F F A(2
+r0.5 .01 um .26 nunquam .76 ha  -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1  1 blank bre rest
+=2  4 A)2 leg100 G 2. F 2 E 4 D
+r0.5 .12 ha .65 -
+=3  1 blank bre rest
+=4  1 blank bre rest
+=5  1 blank bre rest
+|
+=1  2 rest 1 A 2 A
+r0.5 .25 Spem .76 in
+=2  4. C 8 B_ 1 A_ 2 C
+r0.3 .50 -
+=3  1 blank bre rest
+=4  1 rest 2 rest a(1
+r0.5 .72 Spem
+=5  1 blank bre rest
+
+|
+=1 2 A A D F
+r0.5 .04 a - li - um .75 nun -
+=2 2 leg80 A_ D 4 rest 2 A 4 A
+r0.5 .01 - .29 i .62 spem in
+=3 2 rest 1 d 2 d
+r0.5 .25 Spem .75 in
+=4 2 a)1 a a a
+r0.5 .25 in .51 a  -  li  -
+=5 1 rest d(1
+r0.3 .50 Spem
+|
+il0.2 .20 10
+=1 2 F 1 A 2 F
+r0.5 .01 quam  ha .55 - .76 bu -
+=2 2 A 4 A 2 D F 8 [E F]
+r0.5 .01 a  -  lium .57 nunquam
+=3 2 d d A A
+r0.5 .01 a - li - um .75 nun -
+=4 2 d f f a(1
+r0.5 .01 um .25 nunquam .75 nun
+=5 2 d)1 d d d
+r0.3 .25 in .50 a - li -
+|
+=1 2 c 2. c 4 G B' G
+r0.5 .01 i .25 ha - .63 bu -
+=2 2. C 8 leg100 [B_ leg80 A_] 1 G_
+r0.5 .01 ha - .37 bu - i
+=3 2 c 1 e 2 leg100 d(1
+r0.5 .01 quam ha .55 - .75 bu -
+=4 2 a)1 g 2. g 4 leg100 d
+r0.5 .01 - .23 quam ha - .82 bu
+=5 2 A 1 c 2 G
+r0.3 .01 um .25 nun - quam
+|
+=1 1 A 2 rest d
+r0.5 .03 i .75 nun -
+=2 1 rest 2. leg100 D 4 B_(2
+r0.5 .50 nun .80 -
+=3 4 d)1 c 2 A 4 B' 2 G 4 leg80 d
+r0.5 .20 - .80 -
+=4 2. f 4 leg80 e 1 d(1
+r0.5 .25 - .53 i
+=5 2 d leg100 d 1 leg80 G
+r0.2 .01 ha  - bu .80 -
+|
+=1 4 d 2 B B 4. d 8 c 4 B(1
+r0.5 quam nunquam habu  -
+=2 4 leg80 B_)2 G_ 4. D 8 C 1 B_
+r0.5 - .25 quam ha - bu-i
+=3 2 leg100 d leg80 B rest g(1
+r0.5 .03 i .77 in
+=4 1 d)1 2 rest d~(1
+r0.5 .75 spem
+=5 bre G
+r0.2 .01 i
+|
+=1 4 B')1 G 2 A 4 rest 2 f 4 d
+r0.5 .07 - .25 i .61 nunquam
+=2 4 rest 2 D A 4 F 2 F(2
+r0.5 .12 nunquam .64 ha .90 -
+=3 4 g)1 2 leg100 d A leg80 d 8 [c B]
+r0.5 .13 a .55 - .83 li
+=4 4 d~)1 d~ 2 d~ 4 d~ 2 a 4 leg100 d~(1
+r0.5 .12 in  .28 a - li - um .82 nun -
+=5 2 rest d f 4. f 8 g
+r0.2 .25 in .50 a - li - um
+|
+il0.5 .10 15
+=1 4. f 8 f 2 f 4 rest c G c
+r0.5 .01 habui .63 in ali -
+=2 4 F)2 F 2 D rest C
+r0.5 .12 bui .76 in
+=3 2 A d rest g
+r0.5 .10 - .26 um .76 in
+=4 4 d~)1 leg80 a 2 a rest c~(1
+r0.5 .10 - .24 quam .75 ha  -
+=5 2 a d rest e
+r0.2 .01 nunquam .76 in
+|
+=1 2 c rest 2. d 4 A(2
+r0.5 .01 um .51 spem .82 in
+=2 2 G D A rest
+r0.5 .01 a - li - um
+=3 4 e c 2 f rest e
+r0.5 .01 alium .75 in
+=4 2 c~)1 f a 4 rest a(1
+r0.5 .01 - .25 bu - i .78 nun -
+=5 2 e 1 a 2 e
+r0.2 .01 a - li .52 - .75 um

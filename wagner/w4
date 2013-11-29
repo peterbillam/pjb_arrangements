@@ -1,0 +1,24 @@
+boundingbox 340 75
+midi channel 1  patch 73 reverb 60 pan 50 # flute
+midi channel 2  patch 68 reverb 60 pan 10 # oboe
+midi channel 3  patch 71 reverb 60 pan 90 # clr
+midi channel 4  patch 59 reverb 60 pan 70 # cor_anglais
+midi channel 5  patch 60 reverb 60 pan 30 # horn
+midi channel 6  patch 43 reverb 60 pan 50 # bass, standin for tympani
+1 systems /27/
+/
+2 bars | 1 1 1 1 1 1 2 2 2 3 2 2 2 2 2 2 2 2 | 2 1.6 1.6 1 1 1 1 1 1 |
+| 0.2 0.6 0.7
+=1, treble cha2 vol80 leg70 4. rest 8. [<G Bb e> 16 <G B e> 8 <G B e>] [<B db g-.> <G B e-.> <B d g-.>]
+#=2   treble     cha1 vol70 leg70 4. rest 8. [<g bb e~> 16 <g b e~> 8 <g b e~>] [<b d~b g~-.> <g b e~-.> <b d~b g~-.>]
+#=3 treble cha3 vol80 leg70 4. rest 8. [<G Bb e> 16 <G B e> 8 <G B e>] [<B db g-.> <G B e-.> <B db g-.>]
+#=4 treble      cha4 vol100 leg70 4. rest 8. [C# 16 C# 8 C#] [E-. C#-. E-.]
+#=5 treble      cha5 vol100 leg70 4. rest 8. [C# 16 C# 8 C#] [E-. C#-. E-.]
+#=6 bass8vab    cha6 vol60 leg90 4. rest 2. G(2
+| 0.7 0.6 0.2
+=1   8 <c# e bb> rest rest 4. rest rest
+#=2  8 <c~# e~ b~b> rest rest 4. rest rest
+#=3  8 <c# e bb> rest rest 4. rest rest
+#=4  8 G rest rest 4. rest rest
+#=5  8 G rest rest 4. rest rest
+#=6  4. G)2 2. rest

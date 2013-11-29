@@ -1,0 +1,163 @@
+13 systems 10 /19/19 10/ 19 7/ 19/19/19/19/19/19 11/ 19/19/19 7/19/
+title Syrinx
+righthead Claude Debussy (1913)
+lefhead Flûte seule
+midi channel 1 patch 73 reverb 99
+/
+2 bars | 5b 3/4 3 3 3 3 3 3 5 5 3 3 3 3 3 3 5 5 3 3 3 3 3 3 3 3 \
+ | 3 3 3 3 3 3 5 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 |
+| 3/4 3.7
+b1.1 .02 Très modéré
+=1 treble 5b 3/4 cha1 leg97 qua. [b{1-ten dsq an bn}1] \
+ qua. [ab{1-ten dsq gn an}1] smq [gb{1 f en d}1]
+I0.1 .07 mf
+|
+bl0.02 .97 '
+=1 qua. [b{1-ten dsq c~ c~b] min b}1
+=1 smb blank qua. blank-fermata
+/
+2 bars | 5b 3 3 3 3 3 3 6 6  3 3 3 3 3 3 6 6  3 3 4 3 3 3 3 3 \
+ | 3 3 3 7 7 7 4 4 4 5 4 4  4 4 4 4 5 4 4 |
+|
+=1 qua. [b{1-ten dsq an bn}1] \
+ qua. [ab{1-ten dsq gn an}1] smq [gb{1 f en d}1]
+|
+=1' qua. [B{2-ten dsq F# Gn}2] qua [Bn(2-ten-Ip, smq3 B)2{,2 F#-I3 G] \
+ [c F-I3 G d smq3-s f,{1 smq3 en}1-I3 d},2] 
+/
+4 bars | 5b 2 2 2 7 7 7 3 2 3 3 2 3  4 5 4 5 4 4 \
+ | 2 2 2 4 2 1 2 2 2 1 2 2 | 20 | 20 ||
+|
+=1 qua. [Bb'{2-ten-Ip, dsq F# Gn}2] cro Bn' \
+ smq3 rest, [A,{'1-I3 cb d fb-I3, a}1] 
+|
+=1 qua. rest smq a min c~b(1
+|
+b1.2 .88 Retenu
+=1 min c~)1{1 cro d~}1
+|
+bl0.2 .97 '
+=1 min e~{1 cro b}1
+I0.1 .02 p
+/
+2 bars | 5b 5 4 5 10 5 4 5 10 6 6 6 6 | 5 4 5 10 5 4 5 10 6 6 6 6 |
+|
+b0.7 .02 Un peu mouvementé
+r0.7 .42 (mais très peu)
+=1' qua. [B{2-Ip, dsq An Bn}2] \
+ qua. [Ab{2 dsq Gn An}2] smq [Gb{2 F En Db}2]
+|
+=1' qua. [B{2 dsq An Bn}2] \
+ qua. [Ab{2 dsq Gn An}2] smq [Gb{4 Ab Bb db]
+/
+2 bars | 5b 5 3 6 6 6 5 5 5 5 6 6 6 6 | 72 |
+|
+bl0.6 .76 ,
+=1 smq [e smq-s g'{2 smq f}2 e d},4] cro B'(2 smq [B')2 A{'1 D E]
+|
+bl0.3 .77 ,
+=1, dsq [G A B d e dsq-s g'{2 dsq f}2 e d] \
+ cro B}'1(1 qua [B)1 smq3 d{1 e-I3, g}1]
+/
+2 bars | 5b 9 15 9 15 9 15 | 16 11 14 |
+|
+=1 qua [an(1{'1 dsq a)1 ab gn gb}'1] \
+ qua [e(1{'1 dsq e)1 dn db c}'1] \
+ qua [An(2{,2 dsq A)2 Ab Gn Gb},2]
+I0.1 .05 mf
+|
+bl0.3 .60 ,
+=1 qua3 [E{2 smq3-s G,{1 qua3 F}1-I3 Fb},2] cro E qua [Fn{2 Fb}2]
+I0.1  p
+/
+3 bars | 5b 72 | 12 12 7 7 8 6 | 24 13 13 |
+|
+b0.6 .67 Cédez
+=1 qua3 [E{2 smq3-s G,{1 qua3 F}1-I3 Fb},2] \
+ [E{2 smq-s G,{1 qua3 Fn}1-I3 Fb},2] \
+ [E{2 smq-s Fn,{1 qua3 Fb}1-I3 E},2]
+I0.2 .38 p .68 p
+|
+b0.5 .01 Rubato
+=1 qua3 [Dn{,4 smq-s F,{1 qua3 En}1-I3 Db] qua [C D G Bbb'},4]
+|
+=1 qua3 [Dn{'3 smq3-s G,{1 qua3 F}1-I3, D] cro Db d}3
+/
+3 bars | 5b 24 21 21 | 24 20 20 \
+ | 3 3 3 6 5 5 3 3 3 3 3 3 5 5 5 5 5 5 |
+|
+bl0.3 .12 ,
+=1 qua3 [Dn{,4 smq-s F,{1 qua3 En}1-I3 Db] qua [C D G Bbb'},4]
+I0.2 .10 p .99 p
+|
+=1 qua3 [Dn{'3 smq3-s G,{1 qua3 F}1-I3, D] cro Db e}3(1
+|
+bl0.5 .65 ,
+=1 qua [e)1{1 smq3 d cb-I3, B] cro A}1(2 smq3 [A)2{,2 E-I3 G A B'-I3 d'},2]
+/
+2 bars | 5b 9 12 11 11 7 7 \
+ | 4 3 3 5 3 3 3 3  3 3 3 4 3 3 3 3  5 5 4 5 4 4 5 4 |
+|
+=1 qua [e{1-ten smq3 d e-I3, f] smq [e d cb B}'1(1] cro B)1(1
+|
+=1 smq3 [B)1{'1 cb-I3, d ebb d c}'1] [B{'1 c e fb e c}'1] \
+ dsq [B'{,2 An Ab G Dn G A An},2]
+/
+4 bars | 5b 2 2 2 2 6 2 2 2 2 2 2 2 2 \
+ | 3 3 1 1 1 1 1 1 1 1  1 1 1 1 1 1 1 1  3 3 3 1 1 1 1 1 1 1 1 \
+ | 7 7 8 \
+ | 3 3 3 3 3 3 6 6 3 3 3 3 3 3 6 6 3 3 3 4 3 3 3 3 |
+|
+=1 cro B smq3-s e'{2 cro d}2{1--tr B}1
+|
+=1 smq3-s g'{2 cro f}2{1--tr B}1 dsq-s [f'{2 g' a'] cro b}2(1--fermata
+|
+bl0.7 .51 ,
+b1.1 .93 Au mouvement
+=1 min b)1 cro b(1-ten
+I0.01 .55 mf
+
+|
+r1.1 .31 (très modéré)
+=1 qua. [b)1{1 dsq an bn}1] \
+ qua. [ab{1-ten dsq gn an}1] smq [gb{1 f en d}1]
+/
+2 bars | 5b 5 4 5 4 6 4 6 6 6 5 4 5 4 | 5 5 5 9 5 5 5 9 6 7 6 6 |
+|
+bl0.7 .05 ,
+=1 cro b(1{'1 smq [b)1 d~ smq-s f~b'{2 smq e~bb}2 d~] cro b}'1(1
+|
+=1 qua. [b)1{1 dsq an bn}1] \
+ qua. [ab{1-ten dsq gn an}1] smq [gb{1 f en d}1]
+i0.01 .04 dim . . .
+/
+2 bars | 5b 2/4 24 20 | 24 20 |
+|
+bl0.7 .07 , .99 ,
+=1' 5b 2/4 smq3 [B{,2 An-I3 Bn Ab Gn-I3 An] smq [Gb F En Db}2]
+I0.01 .12 p
+|
+=1' smq3 [B{,2 An-I3 Bn Ab Gn-I3 An] smq [Gb F En Db}2(2]
+I0.1 .01 p
+/
+5 bars | 5b 3/4 3 3 3 3 3 3  4 5 6 7 6 5 4  3 3 3 3 3 3 \
+ | 3 3 3 3 3 3  6 6 6 6 5 4  3 3 3 3 3 3 \
+ | 22 16 16 | 18 29 29 \
+ | 9 4 4 4 4 4 4 4 4 4 4 4 4 ||
+|
+bl0.2 .40 ,
+b0.7 .02 En retenant jusqu'à la fin
+=1 5b 3/4 cro D)2 qua3 [D{,4 smq3-s G,{1 qua3 F}1-I3 En},4] cro D(2
+|
+=1 cro D)2(2 qua3 [D)2{,4 qua3 An-I3 Gn},4] cro D(2
+|
+bl0.2 .28 ,
+b0.5 .85 Très retenu
+=1' cro D)2 min Bn(2
+I0.1 .25 p
+i0.1 .35 marqué
+|
+=1' cro Bn)2(2-emph, qua5 [B)2{,2 An Gn-I5 F Eb}2]
+i0.5 .45 perdensosi
+|
+=1 smq-s E{2 min. D}2-fermata

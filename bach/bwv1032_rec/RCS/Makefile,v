@@ -1,0 +1,65 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	99.11.24.07.51.30;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for Bach Flute Sonata III
+@
+
+
+1.1
+log
+@move vivace in, drop p3, part before score
+@
+text
+@D = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+BLURB = /home/pjb/mus/blurb/compositions
+BANNER = /home/pjb/mus/blurb/banner.ps
+MUSCRIPT = /home/pbin/muscript
+
+all : jsb_fl_son_III.a4 jsb_fl_son_III.us
+
+jsb_fl_son_III.a4 : title.a4 p2.a4 score.a4 ${BLURB}.a4
+	cat ${BANNER} > title.a4
+	groff -p -t -e -ms title >> title.a4
+	cat title.a4 p2.a4 score.a4 ${BLURB}.a4 > $@@
+	cp $@@ ${FD}/$@@
+jsb_fl_son_III.us : title.us p2.us score.us ${BLURB}.us
+	echo '%!' > title.us
+	echo '8.4 0 translate 1 0.94074 scale' >> title.us
+	cat title.a4 >> title.us
+	cat title.us p2.us score.us ${BLURB}.us > $@@
+	cp $@@ ${FD}/$@@
+
+title.a4 : title
+	cat ${BANNER} > $@@
+	groff -p -t -e -ms title >> $@@
+title.us : title.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.a4 >> $@@
+p2.a4 : p2
+	cat ${BANNER} > $@@
+	groff -p -t -e -ms p2 >> $@@
+p2.us : p2.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat p2.a4 >> $@@
+score.a4 : score
+	${MUSCRIPT} score > $@@
+	./make_samples
+score.us : score
+	${MUSCRIPT} -us score > $@@
+	./make_samples
+@

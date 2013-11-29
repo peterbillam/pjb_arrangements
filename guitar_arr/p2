@@ -1,0 +1,30 @@
+.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 13
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 0.1c
+.Lp
+\f3What then is love but mourning\fP
+.Lp
+Philip Rossiter's lute-song
+for voice and two guitars
+
+.Lp
+\f3Nobody's fault but mine\fP
+.Lp
+John Renbourne LP
+for two guitars
+
+.Lp
+\f3How beatiful are the feet\fP
+.Lp
+from Händel's Messiah
+for guitar, voice and tenor recorder (or flute, of course)

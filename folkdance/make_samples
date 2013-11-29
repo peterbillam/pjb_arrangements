@@ -1,0 +1,42 @@
+#! /usr/bin/perl
+
+$sd = '/home/pjb/www/mus/samples';
+$message = 'Sample only.  Order these songs at www.pjb.com.au/mus !';
+
+open (I, "folkdance.a4") || die "can't open folkdance.a4: $!\n";
+open (O, "> $sd/folkdance.a4") || die "can't open $sd/folkdance.a4: $!\n";
+
+# output first system of Davvy Davvy
+while (<I>) { last if /% system 2 staves/; print O; }
+while (<I>) { if (/rightshow$/) { print O; last; } }
+while (<I>) { last if /^% system 2$/;   print O; }
+
+# output first system of Spanish Ladies
+while (<I>) { last if /^%%Page: 2 2/; }
+while (<I>) { last if /^% system 1 staves/; }
+print O "565 30 /Times-Italic 9 ($message) rightshow\n";
+print O "0 -175 translate\n";
+while (<I>) { last if /^% system 2 staves/; print O; }
+while (<I>) { if (/leftshow$/) { print O; last; } }
+while (<I>) { last if /^% system 2$/;   print O; }
+
+# output first system of Castlekelly
+while (<I>) { last if /^%%Page: 4 4/; }
+while (<I>) { last if /^% system 1 staves/; }
+print O "0 -175 translate\n";
+while (<I>) { last if /^% system 2 staves/; print O; }
+while (<I>) { if (/leftshow$/) { print O; last; } }
+while (<I>) { last if /^% system 2$/;   print O; }
+
+# output first 1 systems of Humours of Bandon
+while (<I>) { last if /^%%Page: 8 8/; }
+while (<I>) { last if /^% system 1 staves/; }
+print O "0 -175 translate\n";
+while (<I>) { last if /^% system 2 staves/; print O; }
+while (<I>) { if (/leftshow$/) { print O; last; } }
+while (<I>) { last if /^% system 2$/;   print O; }
+
+print O "pgsave restore\nshowpage\n%%EOF\n";
+
+close I;
+close O;

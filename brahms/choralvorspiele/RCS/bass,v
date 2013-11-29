@@ -1,0 +1,305 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	98.05.30.23.31.30;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	98.05.30.23.23.17;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.05.30.23.14.39;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.04.13.01.44.31;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.04.10.07.16.55;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@O wie selig, Bass part
+@
+
+
+1.5
+log
+@correct breath spacings, rhythm in 16
+@
+text
+@7 systems /24/24/24/24/24/24/24/
+lefthead Johannes Brahms
+title O wie selig seid ihr doch, ihr Frommen
+righthead Bass Recorder
+leftfoot Arranged and Typeset 1998 by Peter J Billam.
+/
+2 bars | 5 7 | 12 |
+|
+=1 bass 1b 12/8 min. rest qua Bb[ c d'] e[ d, e]
+i0.2        dolce . . .
+|
+=1 cro. f f# qua g[ d, en] fn[ e f](1
+/
+2 bars | 14 | 12 |
+|
+=1 bass 1b qua f)1[ Bn, c#,] d'[ c# d'] Bb[ A B] cn[ d' e']
+|
+=1 qua f[ e f] b[ a g] f[ g f] d,[ e d,]
+/
+2 bars | 14 | 12 |
+|
+il0.25          5
+=1 bass 1b cro A qua rest cro. rest qua c,[ d, e] f[ e f]
+|
+=1 cro. g a cro bb qua bn c~n[ b a]
+/
+2 bars | 14 | 12 |
+|
+=1 bass 1b qua g#[ a gn](1 g)1[ f e] d#,[ e dn,](1 d)1 cro e
+|
+=1 min. <A fermata> A
+/
+2 bars | 14 | 12 |
+|
+=1 bass 1b qua A[ Bn c#] d[ e f] cro. e qua A[ Bn c#]
+|
+il0.3  10
+=1 min. d, cro. <e fermata> A
+/
+2 bars | 14 | 12 |
+|
+=1 bass 1b cro. B c cro d qua eb(1 e)1 cro en
+i0.3           cresc . . .
+|
+=1 cro. f g cro a qua bb(1 b)1[ e f]
+/
+2 bars | 14 | 12 ||
+|
+=1 bass 1b cro g qua g#(1 g)1 cro a min. <d,(1 fermata>
+i0.2                                         . . .
+I0.2                                                 f
+|
+=1 <min. d,)1(2 qua d'[> e' f#'] g'[ f' g'] min. <a' d,)2>
+
+7 systems /24/24/24/24/24/24/24/
+lefthead Bass Recorder
+title Es ist ein Ros' entsprungen
+righthead Johannes Brahms
+leftfoot Arranged and Typeset 1998 by Peter J Billam.
+/
+4 bars | 3 | 6 | 6 | 6 |
+|
+=1 bass 1b 6/4 cro a
+I0.2      p
+i0.2           dolce . . .
+|
+I0.1             '                     '
+=1 cro g f A B G A
+|
+I0.1                                     '
+=1 cro c d e min f cro G
+|
+=1 cro A B G min A cro c
+/
+3 bars | 3 2.5 | 5 | 6 |
+|
+I0.1                                            '
+=1 bass 1b min F <min. F, cro B'(1> c)1 <a, a'>
+|
+il0.4      5
+=1 cro g f F B G A
+|
+I0.1                                         '
+=1 cro c d e min f cro G
+/
+3 bars | 6.6 | 5 | 5 |
+|
+I0.1                                               '
+=1 bass 1b cro A B G min A cro c
+|
+I0.1                                       '
+=1 min. F <min F, cro B'(1> c)1 <f' f,>
+|
+I0.1                                       '
+=1 cro e c A min d cro G
+/
+3 bars | 6.6 | 6 | 6 |
+|
+il0.3     10
+I0.1                                             '
+=1 bass 1b min e' cro f' d' e' f'
+=1 bass 1b cro c, A, F, min cr, cro f,(1
+|
+=1 cro f)1 g a b g qua a[ A,]
+|
+=1 qua c,[ e d, f e c,] cro f d e
+/
+3 bars | 6.6 | 5 | 5 |
+|
+=1 bass 1b cro F# B G A min c
+|
+I0.1                                         '
+=1 min. F <min F, cro B'(1> c)1 <f, f'>
+|
+il0.3     15
+I0.1                                         '
+=1 cro e c A cro. <d, d'> qua <F, F'> <cro G, qua e'[> d']
+/
+3 bars | 6.6 | 6 | 3.5 3 |
+|
+I0.1                                            '
+=1 bass 1b qua Bn'[ c B c(2 c)2 d'] cro f' e' f'(1
+=1 bass 1b cro Ar, min F, c, cro f,
+|
+=1 cro f)1 g a b g qua a[ A,]
+|
+=1 qua c,[ e d, f e c,] cro f d e
+/
+3 bars | 6.6 | 5 | 4 ||
+|
+=1 bass 1b cro F# B G A min c
+|
+=1 min. F <F, cro B'> c' B'
+|
+=1 min. <F, c'> cro rest rest
+@
+
+
+1.4
+log
+@Bn in bar 9
+@
+text
+@d77 2
+a78 2
+I0.1                                   '
+=1 bass 1b min. F <min F, cro B'(2> c)2 a
+d88 1
+a88 1
+I0.1                                         '
+d91 2
+a92 2
+I0.1                                         '
+=1 min. F <min F, cro B'(2> c)2 f
+d94 1
+a94 1
+I0.1                                         '
+d100 1
+a100 1
+I0.1                                         '
+d102 1
+a102 1
+=1 bass 1b cro c, A, F, min c, cro f,(1
+d113 1
+a113 1
+=1 min. F <min F, cro B'(2> c)2 f
+d117 1
+a117 1
+=1 cro e c A cro d qua F <cro G, qua e'[> d']
+d121 1
+a121 1
+I0.1                                         '
+d123 1
+a123 1
+=1 bass 1b cro A, min F, c, f,
+@
+
+
+1.3
+log
+@correct accidentals
+@
+text
+@d35 1
+a35 1
+=1 bass 1b qua A[ B c#] d[ e f] cro. e qua A[ Bn c#]
+@
+
+
+1.2
+log
+@spread out to 2 bars per line
+@
+text
+@d9 1
+a9 1
+=1 bass 1b 12/8 min. rest qua Bb[ c d'] eb[ d, eb]
+d16 1
+a16 1
+=1 bass 1b qua f)1[ Bn, c#,] d'[ c# d'] Bb[ A Bb] cn[ d' e']
+d18 1
+a18 1
+=1 qua f[ e f] bb[ a g] f[ g f] d,[ e d,]
+d49 1
+a49 1
+=1 bass 1b cro g qua g#(1 g#)1 cro a min. <d,(1 fermata>
+d53 83
+a135 1
+=1 <min. d,)1(2 qua d'[> e' f'] g'[ f' g'] min. <a' d,)2>
+@
+
+
+1.1
+log
+@two typos
+@
+text
+@d1 1
+a1 1
+4 systems /24/24/24/24/
+a5 1
+rightfoot This page may be freely photocopied and redistributed.
+d7 1
+a7 1
+4 bars | 5 7 | 3 3 3 2.5 | 3 2.5 2.2 2.5 | 2.5 2.5 2.3 2.3 |
+d10 1
+d13 2
+d16 1
+a16 1
+=1 qua f)1[ Bn, c#,] d'[ c# d'] Bb[ A Bb] cn[ d' e']
+d20 1
+a20 1
+4 bars | 6 7 | 2.5 2.5 2.5 3 | 3.3 3 3.3 2.7 | 10 |
+d26 2
+d29 1
+a29 1
+=1 qua g#[ a gn](1 g)1[ f e] d#,[ e dn,](1 d)1 cro e
+d33 1
+a33 1
+3 bars | 3.3 3.3 3.9 3 | 3.3 3 3.3 3 | 3 3 3 2.5 |
+d35 1
+a35 1
+=1 bass 1b qua A[ B c#] d[ e f] cro. e A[ Bn c#]
+d38 3
+a40 1
+=1 min. D, cro. e A
+d42 4
+a45 1
+=1 cro. Bb c cro d qua eb(1 e)1 cro en
+d47 1
+a47 3
+3 bars | 14 | 12 | 6 5 ||
+|
+=1 bass 1b cro. f g cro a qua bb(1 b)1[ e f]
+d49 3
+a51 1
+=1 cro g qua g#(1 g#)1 cro a min. d
+d53 1
+a53 1
+=1 <min. d'(1 qua d'[> e' f'] g'[ f' g'] min. a
+@

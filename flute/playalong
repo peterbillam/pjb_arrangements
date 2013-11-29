@@ -1,0 +1,684 @@
+% start
+% Playalong for Clarinet, Platinum Edition, Guest Spot, Wise Publications
+11 systems 10/19/19/19/19/19/19/19/19/19/19/19 10/
+title I Believe I Can Fly
+lefthead Robert Kelly
+righthead Track 10
+midi channel 1 patch 73 reverb 90
+/
+6 bars | 4/4 2# 9|9|9| 2 2 2 2 2 2 2 2 3 2 3 2 3 2 3 5 \
+ ||: 6 8 6 8 6 8 5 8 | 2 2 2 2 2 2 2 2 3 2 3 2 3 2 3 4 |
+| 4/4 110
+il0.4 .14 Slow but rhythmic
+=1 treble 2# 4/4 cha1 leg90 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 min rest cro rest qua. rest smq A
+I0.2 .70 mp
+|
+=1, qua [A smq d d(1] qua [d)1 smq e e(1] qua [e)1 smq f f(1] qua. [f)1 smq d]
+|
+=1 min e cro rest qua. rest smq A
+/
+4 bars | 2# 6 8 6 8 6 8 5 8 | 3 3 6 6 3 2 3 2 3 2 3 2 3 3 3 5 \
+ | 6 8 6 8 6 8 5 8 | 10 12 10 14 |
+|
+=1, qua [A smq d d(1] qua [d)1 smq e e(1] qua [e)1 smq f f(1] qua. [f)1 smq d]
+|
+=1 qua [e{1 smq3 f e--I3 d] cro e}1 rest qua. rest smq A
+|
+=1, qua [A smq d d(1] qua [d)1 smq e e(1] qua [e)1 smq f f(1] qua. [f)1 smq d]
+|
+=1 cro e{1 qua [f d] cro e}1 qua3 [d d-I3 c]
+/
+4 bars | 2# 12 10 10 14 | 12 10 10 16 | 6 5 5 5 5 5 7 7  | 3 3 3 3 4 3 3 4 3 3 4 4 3 3 4 4 ||
+|
+=1 qua [B d] cro rest rest qua3 [B d-I3 e]
+|
+=1 qua [f{1 d}1] cro e rest smq [d d c B]
+|
+=1 qua B' cro. A cro rest qua3 [d e-I3 f]
+|
+=1, qua [g{1 f}1] smq [e{1 qua d smq B}1] qua [A smq f f] qua [f smq e d]
+I0.2 .56 mf
+/
+4 bars | 2# 5 5 5 5 6 8 6 8 | 6 8 5 5 8 8 8 8  | 6 8 5 5 6 8 6 6 | 5 5 6 6 6 8 6 8 |
+|
+=1 cro d rest qua rest smq [f f] qua [f smq e d]
+|
+=1, qua [e smq d d(1] cro d)1 smq rest [A f f] [f f f f]
+|
+=1 qua [f smq g g(1] cro g)1 qua rest smq [f f] qua [f f]
+|
+=1 cro f qua [e e(1] [e)1 smq f f] qua [f smq e d]
+/
+4 bars | 2# 5 5 5 5 6 8 8 8 | 3 3 4 4 4 3 3 4 3 3 4 4 3 3 4 4  | 5 5 5 5 6 8 6 8 | 4 4 4 4 6 8 6 8 |
+|
+=1 cro d rest qua rest smq [f f] [f e e d]
+|
+=1 qua [e smq d d(1] [d)1 qua e smq g(1] qua [g)1 smq f f] qua [f smq e d]
+|
+=1 cro d rest qua rest smq [f f] qua [f smq e d]
+|
+I1.2 .02 ____________________
+I0.6 1a
+=1 min e qua rest smq [e e] qua [e smq d c]
+i0.1 .40 dim . . .
+/
+4 bars | 2# 3 3 3 4 3 2 3 2 2 2 2 2 2 2 2 2 \
+ | 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 5 :|| 4 4 4 4 6 8 6 8 | 8 5 5 4 4 4 4 4 |
+|
+=1 qua. [d{1 smq c] cro B}1 min rest
+|
+=1 min rest cro rest qua. rest smq A
+|
+I1.2 .02 ____________________
+I0.6 2a
+=1 min e qua rest smq [e e] qua [e smq d c]
+|
+=1 smq [d{1 c] cro. B}1 min rest
+/
+4 bars | 2# 3 2 3 2 3 3 3 4 3 3 4 4 3 3 3 3  | 5 5 5 5 5 5 6 8 | 6 8 6 8 6 7 7 7 || 5b 12 10 10 14 |
+|
+=1 cro rest qua. rest smq d qua [d smq e f(1] qua [f)1 g]
+|
+=1 cro f d rest qua rest smq [A G]
+|
+=1, qua [F smq A d(1] qua [d)1 smq e d(1] qua [d)1 e] qua3 [eb e-I3 d]
+|
+=1 3b qua [c e] cro rest rest qua3 [c e-I3 f]
+i0.2 .03 cresc . . .
+/
+4 bars | 5b 12 10 10 16 | 8 6 5 5 5 5 7 7  | 4 3 3 4 3 2 3 2 3 3 4 4 3 3 4 4 | 5 5 5 5 6 8 6 8 |
+|
+=1 qua [g{1 e}1] cro f rest smq [f f g a]
+|
+=1 smq [g{1 f}1 qua e] cro rest rest qua3 [e f-I3 g]
+|
+=1 smq [a qua g smq f(1] cro f)1 qua rest smq [g g] qua [g smq f e]
+I0.01 .50 f
+|
+=1 cro e rest qua rest smq [g g] qua [g smq f e]
+/
+4 bars | 5b 6 8 5 5 9 9 9 9 | 6 9 5 5 6 9 6 6  | 5 5 6 6 6 9 6 8 | 5 5 5 5 6 9 9 8 |
+|
+=1 qua [f smq e e(1] cro e)1 smq rest' [B g g] [g g g g]
+|
+=1 qua [g smq a a(1] cro a)1 qua rest smq [g g] qua [g g]
+|
+=1 cro g qua [f f(1] [f)1 smq g g] qua [g smq f e]
+|
+=1 cro e rest qua rest smq [g g] [g f f e]
+/
+4 bars | 5b 3 3 4 4 4 3 3 4 3 3 4 4 3 3 4 4  | 5 5 5 5 6 8 6 8 | 4 4 4 4 6 8 8 8 | 4 4 4 4 5 5 8 6 |
+|
+=1 qua [f smq e e(1] [e)1 qua f smq a(1] qua [a)1 smq g g] qua [g smq f e]
+|
+=1 cro e rest qua rest smq [g g] qua [g smq f e]
+|
+=1 min f qua rest smq [g g] [g{1 f}1 e f]
+|
+=1 min e cro rest smq [e f qua g]
+/
+5 bars | 5b 6 8 5 5 6 8 8 8 | 32 | 24 | 16 20 | 24 ||
+|
+=1 qua [g smq a g(1] cro g)1 qua rest smq [g g] [g{1 f}1 e f]
+|
+=1 min e rest
+|
+=1 smb rest
+i0.1 .01 rall . . .
+|
+=1 min g cro e c
+|
+=1 smb B-fermata
+
+% stop
+11 systems 10/19/19/19/19/19/19/19/19/19/19/19 10/
+title Dancing Queen
+lefthead Benny Andersson, Brörn Ulvaeus & Stig Anderson
+righthead Track 3
+midi channel 1 patch 73 reverb 90
+/
+10 bars | 4/4 2b 2|2|2|2|2|2|2|2|| 16 | 16 |
+| 4/4 110
+il0.8 .14 Moderate Rock
+=1 treble 2b 4/4 cha1 leg90 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 qua. [d smq c(1] qua [c)1 c(1] cro c)1 rest
+I0.1 .01 f
+|
+=1 qua. [d smq c(1] qua [c)1 c(1] cro c)1{1 d}1
+/
+4 bars | 2b 3 3 3 4 3 3 3 3 3 3 3 4 3 3 3 3  | 4 4 3 3 3 3 3 3 3 3 3 4 3 3 3 3  | 3 3 3 4 3 3 3 3 3 2 3 2 3 2 3 2 | 3 3 3 4 3 3 3 3 3 2 3 3 4 3 3 4 |
+|
+=1, 2b qua. [B smq c(1] qua [c)1 A] qua. [B smq c(1] qua [c)1 A]
+|
+=1 smq [B'{2 A] cro. G}2 qua. [d smq c(1] qua [c)1 B]
+|
+=1' qua. [A smq B(2] qua [B)2 B(2] min B)2
+|
+=1' qua. [A smq B(2] qua [B)2 B(2] cro B)2 smq [c qua B smq A]
+/
+6 bars | 2b 7|7|7| 3 3 4 4 4 3 3 4 3 3 3 3 3 3 3 3  | 36 | 3 3 4 4 4 3 3 4 3 3 3 3 3 3 3 3 |
+|
+=1 2b smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 qua [d smq f f(1] [f)1 qua f smq f] qua [f f] cro g(1
+|
+=1 cro g)1 rest min rest
+|
+=1 qua [d smq f f(1] [f)1 qua f smq f] qua [f f] cro d(1
+/
+4 bars | 2b 2 2 1 2 2 1 2 2 3 2 3 3 4 3 3 4 | 6 8 8 6 6 6 5 5  | 3 3 4 4 4 4 3 3 3 3 3 3 5 3 3 4 | 3 3 3 4 3 3 3 3 2 2 2 2 2 2 2 2 |
+|
+=1 2b min d)1 cro rest smq [d qua c smq B]
+|
+=1 qua [c smq c c(1] [c)1 c qua c] [d d] cro rest
+|
+=1 qua [c smq c c(1] [c)1 c qua d(1] d)1 rest smq [c~ qua b smq a]
+|
+=1 qua. [f smq g(1] qua [g)1 g(1] min g)1
+/
+5 bars | 2b 15 ||: 6 8 8 6 6 5 5 6 | 18 15  | 3 3 4 4 4 3 3 4 3 3 3 3 2 3 2 3 | 7 7 7 10 |
+|
+=1 2b smb rest
+|
+=1 qua [d smq f f(1] [f)1 f qua f] f cro b qua g(1
+|
+=1 cro g)1 rest min rest
+|
+=1 qua [d smq f f(1] [f)1 qua f smq f] qua [f f] cro rest
+|
+=1 min. d cro rest
+/
+4 bars | 2b 6 8 8 6 6 6 5 5 | 3 3 4 4 4 4 3 3 3 3 3 3 5 3 3 4  | 3 3 3 4 3 3 3 3 2 2 2 2 2 2 2 2 | 2 2 2 2 2 2 2 2 3 3 3 4 3 3 3 3 |
+|
+=1 2b qua [c smq c c(1] [c)1 c qua c] [d d] cro rest
+|
+=1 qua [c smq c c(1] [c)1 c qua d(1] d)1 rest smq [c~ qua b smq a]
+|
+=1 qua. [f smq g(1] qua [g)1 g(1] min g)1
+|
+I0.3 .20 f
+=1 min rest qua. [b smq c~(1] qua [c~)1 d~]
+/
+4 bars | 2b 3 3 3 5 3 3 3 3 3 2 3 2 3 2 3 3  | 3 2 3 2 3 2 3 2 3 3 3 5 3 3 3 3 | 3 3 3 5 3 3 3 3 2 2 2 2 2 2 2 2  | 3 3 3 5 3 3 3 3 3 3 3 2 3 2 3 3 |
+|
+=1 2b qua. [d~ smq e~(1] qua [e~)1 e~(1] cro. e~)1 qua d~
+|
+=1 cro c~ rest' qua. [f smq g(1] qua [g)1 a]
+|
+=1 qua. [a smq b(1] qua [b)1 b(1] min b)1
+|
+=1 qua. [a smq b(1] qua [b)1 b(1] b)1 cro c~ qua b
+/
+4 bars | 2b 3 3 3 4 3 3 3 3 3 2 3 2 3 2 3 2 | 20  || 3 3 3 4 3 3 3 3 3 2 3 2 3 2 3 2 | 3 3 3 4 3 3 3 3 3 2 3 2 3 2 3 2 |
+|
+=1 2b qua. [c~ smq d~(1] qua [d~)1 d~(1] cro d~)1 c~
+|
+=1 smb b
+|
+=1 qua. [d~ smq c~(1] qua [c~)1 c~(1] cro c~)1 rest'
+|
+=1 qua. [d~ smq c~(1] qua [c~)1 c~(1] cro c~)1{1 d~}1
+/
+4 bars | 2b 3 3 3 4 3 3 3 3 3 3 3 4 3 3 3 3  | 4 4 3 2 3 2 2 2 3 3 3 4 3 3 3 3 | 3 3 3 4 3 3 3 3 2 2 2 2 2 2 2 2  | 3 3 3 4 3 3 3 3 3 2 3 2 4 3 3 4 |
+|
+=1, 2b qua. [b smq c~(1] qua [c~)1 a] qua. [b smq c~(1] qua [c~)1 a]
+|
+=1 smq [b{1 a,] cro. g}1 qua. [d~ smq c~(1] qua [c~)1 b]
+|
+=1, qua. [a smq b(1] qua [b)1 b(1] min b)1
+|
+=1, qua. [a smq b(1] qua [b)1 b(1] cro b)1 smq [c~ qua b smq a]
+/
+8 bars | 2b 3 3 3 4 3 3 3 3 2 2 2 2 2 2 2 2 | 10|10|10|10|10 :||   Segno 15 | 2 2 2 2 2 2 2 2 3 2 3 2 4 3 3 4 |
+|
+b1.0 .70 2nd time
+b0.6 .70 to Segno
+=1, 2b qua. [a smq b(1] qua [b)1 b(1] min b)1
+|
+r0.2 .01 (first time only . . . )
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 min rest cro rest smq [c~ qua b smq a]
+/
+4 bars | 2b 3 3 3 4 3 3 3 3 2 2 2 2 2 2 2 2 | 12 | 12 ||:   2 2 2 2 2 2 2 2 3 2 3 2 4 3 3 4  | 3 3 3 4 3 3 3 3 2 2 2 2 2 2 2 2 | 12 | 12 :||
+|
+=1, 2b qua. [a smq b(1] qua [b)1 b(1] min b)1
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1' min rest cro rest smq [c qua B smq A]
+|
+=1' qua. [A smq B(2] qua [B)2 B(2] min B)2
+|
+i0.3 .40 Repeat and fade
+=1 smb rest
+|
+=1 smb rest
+
+% stop
+13 systems 10/19/19/19/19/19/19/19/19/19/19/19/19/19 10/
+title Killing Me Softly With His Song
+righthead Normal Gimbel (wds) Charles Fox (mus)
+lefthead Track 11
+midi channel 1 patch 73 reverb 90
+/
+7 bars | 3b 4/4 18 | 18 | 18 | 18 | 80 | 80 | 80 |
+| 4/4 110
+il0.8 .14 Medium Tempo
+=1, treble 3b 4/4 cha1 leg90 smb rest
+|
+=1, smb rest
+|
+=1, smb rest
+|
+=1, smb rest
+|
+=1 cha1 qua [G G G G(2] [G,)2 c e d(1]
+|
+=1 qua d)1 cro. c qua [f f f e(1]
+|
+=1 qua e)1 cro. d cro rest qua [B, d(1]
+/
+5 bars | 3b 10 8 8 8 10 10 10 10 | 10 8 8 8 8 8 10 10 \
+ | 10 8 8 8 10 10 10 10 | 20 15 15 16 | 8 7 8 7 10 8 8 10 |
+|
+=1 qua d)1 cro. c qua [c c c c(1]
+|
+=1 qua c)1 cro. B cro rest qua [E B'(2]
+|
+=1' qua B)2 cro. A qua [A A G G(2]
+|
+=1 qua [G)2 F(2] min F)2 cro rest
+|
+=1 min rest qua F cro F qua G(2
+/
+11 bars | 3b 40 | 12 12 12 15 || 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 80 |
+|
+=1 smb G)2(2
+|
+=1 min. G)2 cro rest
+| 4/4 122
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 cha1 cro rest qua rest g a cro b qua c~(1
+/
+5 bars | 3b 8 8 10 10 10 8 8 8 | 8 8 10 11 11 8 8 10 \
+ | 16 20 15 15 | 8 8 10 10 10 8 8 8 | 17 22 22 22 |
+|
+=1 cha1 cro c~)1 qua [b f(1] f)1 cro. b(1
+|
+=1 cro b)1 qua rest c~(1 c~)1 cro b qua a
+|
+=1 cro g qua [a e(1] min e)1
+|
+=1 cro rest qua rest g a cro b qua c~(1
+|
+=1 cro c~)1 qua [b c~(1] [c~)1 c~{1 d~}1 d~]
+/
+5 bars | 3b 16 20 20 16 | 50 | 16 20 16 20 \
+ | 16 20 20 16 | 8 8 10 10 8 8 12 10 |
+|
+=1 cro e~ qua [d~ c~] [b b] cro c~(1
+|
+=1 smb c~)1
+|
+=1 cro rest qua [e~ c~(1] cro c~)1 qua [a g(1]
+|
+=1 cro g)1 qua [f g(1] [g)1 g] cro a
+|
+=1 cro rest qua rest b cro b qua [b bn(1]
+/
+5 bars | 3b 12 8 8 10 10 8 8 8 | 11 11 11 11 11 10 15 10 \
+ | 11 11 7 8 7 7 8 8 | 11 11 11 15 11 10 10 10 | 14 14 14 17 |
+|
+=1 qua b)1 cro bn qua b{1 c~ cro. d~}1
+|
+=1 qua [e~ e~ e~ e~(1] [e~)1 c~ g bb(1]
+|
+=1 qua [b)1 a(1] min a)1 cro rest
+|
+=1 qua [d~ d~ d~ smq c~{1 d~}1(1] qua [d~)1 b f g(1]
+|
+=1 min. g)1 cro rest
+/
+5 bars | 3b 10 10 10 10 10 11 11 10 | 10 8 8 8 11 11 11 10 \
+ | 10 8 8 8 10 10 10 10 | 10 8 8 8 15 11 11 11 | 10 8 8 8 8 8 10 10 |
+|
+=1 qua [g g g g(1] [g)1 c~ e~ d~(1]
+|
+=1 qua d~)1 cro. c~ qua [f~ f~] [f~ e~(1]
+|
+=1 qua e~)1 cro. d~(1 qua d~)1 rest [b d~(1]
+|
+=1 qua d~)1 cro. c~ smq [b{1 c~}1 qua c~] [c~ c~(1]
+|
+=1 qua c~)1 cro. b cro rest qua [e b(1]
+/
+5 bars | 3b 10 8 8 8 8 10 10 10 10 | 10 8 8 10 7 7 7 7 \
+ | 8 8 8 8 10 8 8 10 | 50 | 50 || 8 8 10 10 10 8 8 10 |
+|
+=1 qua b)1 cro. a qua [a a] [g g(1]
+|
+=1 qua g)1 cro g qua f(1 min f)1(1
+|
+=1 cro f)1 rest qua f cro f qua g(1
+|
+=1 smb g)1(1
+|
+=1 smb g)1
+|
+=1 cro rest qua rest g a cro b qua c~(1
+/
+5 bars | 3b 10 8 8 10 10 8 8 8 | 8 8 10 11 10 8 8 10 \
+ | 8 8 10 10 7 7 7 7 | 8 8 10 10 10 8 8 10 | 8 8 10 10  10 8 8 10 |
+|
+=1 cha1 qua c~)1 cro b qua f(1] f)1 cro. b(1
+|
+=1 cro b)1 qua rest c~(1 c~)1 cro b qua a
+|
+=1 cro g qua [a e(1] min e)1
+|
+=1 cro rest qua rest g a cro b qua c~(1
+|
+=1 cro c~)1 qua [b c~(1] c~)1 cro d~ qua d~
+/
+5 bars | 3b 8 8 8 11 11 9 9 10 | 10 15 8 8 7 7 7 7 \
+ | 16 20 16 20 | 16 20 20 16 | 16 20 16 20 |
+|
+=1 cro. e~ qua d~(1 d~)1 cro c~ qua b(1
+|
+=1 qua [b)1 smq b c~(1] min. c~)1
+|
+=1 cro rest qua [e~ c~(1] cro c~)1 qua [a g(1]
+|
+=1 cro g)1 qua [f g(1] [g)1 g] cro a
+|
+=1 cro rest qua rest b cro b qua [b bn(1]
+/
+5 bars | 3b 12 8 8 10 10 8 8 8 | 11 11 11 11 11 11 15 11 \
+ | 10 10 7 7 7 7 8 8 | 11 11 11 16 11 10 10 10 | 55 |
+|
+=1 qua b)1 cro bn qua b{1 c~ cro. d~}1
+|
+=1 qua [e~ e~ e~ e~(1] [e~)1 c~ g bb(1]
+|
+=1 qua [b)1 a(1] min a)1 cro rest
+|
+=1 qua [d~ d~ d~ smq c~ d~(1] qua [d~)1 b f g(1]
+|
+=1 min. g)1 cro rest
+/
+5 bars | 3b 80 | 10 8 8 8 10 10 10 10 | 10 8 8 8 10 10 10 10 \
+ | 10 8 8 8 15 10 10 10 | 10 8 8 8 8 9 10 10 |
+|
+=1 qua [g g g g(1] [g)1 c~ e~ d~(1]
+|
+=1 qua d~)1 cro. c~ qua [f~ f~ f~ e~(1]
+|
+=1 qua e~)1 cro. d~(1 qua d~)1 rest [b d~(1]
+|
+=1 qua d~)1 cro. c~ smq [b{1 c~}1 qua c~] [c~ c~]
+|
+=1 qua b cro. b cro rest qua [e b(1]
+/
+5 bars | 3b 80 | 80 | 10 10 10 10 10 10 10 13 | 50 | 50 ||
+|
+=1 qua b)1 cro. a qua [a a] cro g(1
+|
+=1 qua g)1 cro g qua f(1 min f)1(1
+|
+=1 cro f)1 rest qua f cro f smq [f g(1]
+|
+=1 smb g)1(1
+|
+=1 smb g)1
+
+% stop
+
+11 systems 15/19/19/19/19/19/19/19/19/19/19 10/
+title Angels
+innerhead Robbie Williams and Guy Chambers
+/
+3 bars | 3b 4/4 80 | 80 | 80 |
+|
+il0.4 .14 Rather Slow
+=1, treble 3b 4/4 smb rest
+|
+=1, min rest qua rest B smq [g f qua e]
+|
+=1, min rest qua rest [g b c~(1]
+/
+3 bars | 3b 80 | 80 | 80 |
+|
+=1, qua [c~)1 b] cro rest qua rest' [g b c~(1]
+|
+il0.9 .34 5
+=1, qua c~)1 cro b qua b(1 cro b)1 rest
+|
+=1 min rest qua rest B smq [g f qua e]
+|
+=1 cro rest qua. rest smq B qua [g smq f g(1] [g)1 f qua g]
+|
+=1 cro rest qua rest smq [g f] qua g cro b qua b(1
+|
+=1 min. b)1 cro rest
+|
+il0.7 .04 10
+=1 cro rest qua rest B [g f f{1 e}1]
+|
+=1 cro e rest qua rest [g b c~(1]
+|
+=1, qua [c~)1 b] cro rest qua rest' [g b c~(1]
+|
+=1, qua c~)1 cro b qua b(1 cro b)1 rest
+|
+=1 min rest qua. rest smq g qua [g a]
+|
+il0.7 .04 15
+=1 smq [a g a g] cro a rest qua rest B
+/
+3 bars | 3b 16 | 16 | 16 ||
+|
+=1 smq [g a a g] cro a cro rest qua rest smq [g g]
+|
+=1 smq [g f g f(1] qua [f)1 g] min rest
+|
+=1 qua rest [a a a] [g f e e]
+/
+3 bars | 3b 16 | 16 | 16 |
+|
+I0.3 .25 f
+=1 cro rest qua rest e g cro b qua f~(1
+|
+il0.9 .20 20
+=1 cro. f~)1  smq rest' e~ qua [f~ e~ f~(1] [f~)1 e~ qua g~(1]
+|
+=1 qua [g~)1 f~] qua. rest' smq c~ [e~ c~ qua e~] [e~ smq c~ f~(1]
+|
+=1 qua [f~)1 e~] cro rest smq [c~ c~ qua c~] [c~ b]
+|
+=1 qua b rest qua. rest smq e qua [g smq g b(1] [b)1 b f~(1]
+|
+=1 cro. f~)1  smq rest' e~ [f~ qua e~ smq f~(1] [f~)1 qua. e~]
+|
+il1.1 .35 25
+=1 qua [g~ f~] qua. rest' smq c~ [e~ c~ qua e~(1] smq [e~)1 qua. c~]
+|
+=1 qua [f~ e~] cro rest qua [c~ smq c~ c~(1] [c~)1 b qua b]
+|
+=1 min rest qua rest g [f smq e g(1]
+/
+3 bars | 3b 16 | 16 | 16 ||
+|
+=1 qua [g)1 f] cro rest min rest
+|
+=1 qua rest [a a a] [g f e e]
+|
+il0.3 .05 30
+=1 smb rest
+/
+3 bars | 3b 16 | 16 | 16 |
+|
+=1 qua rest smq [g f] [g f qua e] cro rest qua [g smq b c~(1]
+I0.2 .07 mf
+|
+=1 qua c~)1 cro b qua b(1 cro b)1 qua rest' qua e
+|
+=1 qua f cro g qua e(1 cro e)1 rest
+
+12 systems 5/19/19/19/19/19/19/19/19/19/19/19 10/
+innerhead Angels, Robbie Williams and Guy Chambers
+|
+=1 min rest qua. rest smq B [g f qua e]
+|
+il0.3 .05 35
+=1 min rest qua rest' [g b c~(1]
+|
+=1 qua c~)1 cro b qua b(1 [b)1 b b f(1]
+|
+=1 qua f)1 cro g qua e min rest
+|
+=1 min rest cro rest qua. rest smq B
+|
+=1 smq [a g a g] cro a rest smq rest [a qua a]
+/
+3 bars | 3b 16 | 16 | 16 ||
+|
+il0.6 .05 40
+=1 qua [a smq a g] cro a rest qua rest B
+|
+=1 qua [g g-I3 f] cro g min rest
+|
+=1 qua rest [a a a] [g f e e]
+/
+3 bars | 3b 16 | 16 |
+|
+=1 cro rest qua rest e g cro b qua f~(1
+I0.3 .25 f
+|
+=1 cro. f~)1 smq rest e~ qua [f~ smq e~ f~(1] [f~)1 e~ qua g~(1]
+|
+il0.8 .30 45
+=1 qua [g~)1 f~] qua. rest smq c~ [e~ c~ qua e~] [e~ smq c~ f~(1]
+|
+=1 qua [f~)1 e~] cro rest smq [c~ c~ qua c~] [c~ b]
+|
+=1 qua b rest qua. rest smq e qua [g smq g b(1] [b)1 b qua f~(1]
+|
+=1 cro. f~)1 smq rest e~ [f~ qua e~ smq f~(1] [f~)1 qua. e~]
+|
+=1 qua [g~ f~] qua. rest smq c~ qua [e~ smq c~ e~(1] [e~)1 qua. c~]
+|
+il0.8 .30 50
+=1 qua [f~ e~] qua. rest smq c~ qua [c~ smq c~ c~(1] [c~)1 b qua b]
+|
+=1 min rest qua rest g [f smq e g(1]
+i0.3 .25 dim . . .
+/
+3 bars | 3b 16 | 16 | 16 ||
+|
+=1 qua [g)1 f] cro rest min rest
+|
+=1 qua rest [a a a] [g f e e]
+|
+=1 smb rest
+/
+6 bars | 3b 16 | 16 | 16 |
+|
+bl0.2 .30 6 bars rest (guitar solo)
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.2 .03 60
+=1 smb rest
+/
+3 bars | 3b 16 | 16 | 16 |
+|
+=1 cro rest qua rest e g cro b qua f~(1
+I0.3 .25 f
+|
+=1 cro. f~)1 smq rest e~ qua [f~ smq e~ f~(1] [f~)1 e~ qua g~(1]
+|
+=1 qua [g~)1 f~] qua. rest smq c~ qua [e~ smq c~ e~] qua [e~ smq c~ f~(1]
+|
+=1 qua [f~)1 e~] cro rest smq [e~ e~ qua e~] [e~ e~]
+|
+il0.8 .30 65
+=1 qua b rest qua. rest smq e qua [g smq g b(1] [b)1 b qua f~(1]
+|
+=1 cro. f~)1 smq rest e~ [f~ qua e~ smq f~(1] [f~)1 qua. b~]
+|
+=1 qua [g~ f~] qua. rest smq c~ qua [e~ smq c~ e~(1] [e~)1 qua. c~]
+|
+=1 qua [f~ e~] cro rest qua  [c~ smq c~ c~(1] [c~)1 b qua b]
+|
+=1 min rest qua rest g [f smq e g(1]
+i0.3 .25 dim . . .
+/
+3 bars | 3b 16 | 16 | 16 ||
+|
+il0.8 .30 70
+=1 qua [g)1 f] cro rest min rest
+|
+=1 qua rest [a a a] [g f e e]
+I0.3 .05 mp
+|
+=1 smb rest-fermata

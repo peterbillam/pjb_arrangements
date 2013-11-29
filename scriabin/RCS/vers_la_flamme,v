@@ -1,0 +1,489 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2011.01.08.02.13.15;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2011.01.04.02.32.36;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2011.01.03.05.24.24;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.01.02.08.50.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Vers la Flamme, Poeme, Op. 73
+@
+
+
+1.4
+log
+@up to 67 bars
+@
+text
+@5 systems 20 / 19-40-19 / 19-40-19 / 19-50-19 / 19-40-19 / 19-50-19 10/
+title Vers la Flamme,  Poème  Op. 72   (1912-1913)
+pagenum 1
+innerhead Alexander Scriabin
+midi channel 1 patch 0 pan 80 reverb 90
+midi channel 2 patch 0 pan 50 reverb 90
+midi channel 3 patch 0 pan 20 reverb 90
+/
+6 bars |9/8 8 | 72 | 72 | 72 | 72 | 72 |
+| 9/8 .167
+Il0.7 .01 Allegro moderato
+=1' treble cha1 9/8 leg99 vol65 8 <A_#l C#>
+I0.3 .01 pp
+=2' bass   cha3 9/8 leg99 vol60 8 rest
+i0.3 .01 con sord.
+| 1.5
+=1' vol65 2. <G_#(2 D(1> 4 <G_)2 D)1> 8 <A_#l C#>
+i0.2 .01 sombre
+=2' vol60 2. <E(2 A#(1> 4. <E)2 A#)1>
+|
+=1' vol65 2. <G_#(2 D(1> 4. <G_)2(2 D)1(1>
+=2' vol60 2. <E(2 A#(1> 4. <E)2(2 A#)1(1>
+|
+=1' vol65 8 [<G_#)2 D)1> vol+10 <A_#l C#> vol+10 <G_# D>] vol+10 <A_ F#> \
+ 4 vol-15 <G_(2 C(1> <G_)2 C)1> 8 vol-15 <F_# A_>
+=2' vol60 2. <E)2(2 A#)1(1> 4. <E)2 A#)1>
+|
+=1' vol65 2. <G_#(2 D(1> 8 [<G_#)2 D)1> vol+10 <A_#l C#> vol+10 <G_# D>]
+=2' vol60 2. <E(2 A#(1> 4. <E)2 A#)1>
+|
+il0.5 .03 5
+=1' vol+10 8 <A_# F#> 4 vol-15 <B_(2 Fn(1> 2. <B_)2(2 Fn)1(1>
+=2' vol70 2. <G(2 c#(1> 4. <G)2(2 c)1(1>
+/
+6 bars | 72 | 72 | 72 | 72 | 72 | 72 |
+|
+=1' vol65 2. <B_)2(2 F)1(1> 4 <B_)2 F)1> 8 vol65 <C# E>
+I0.3 .81 pp
+=2' 2. <G)2(2 c#)1(1> 4. <G)2 c)1>
+|
+=1' vol65 2. <B_(2 F(1> 4 <B_)2 F)1> 8 vol65 <C# E>
+=2' vol60 2. <G(2 c#(1> 4. <G)2 c)1>
+|
+=1' vol65 2. <B_(2 F(1> 4. <B_)2(2 F)1(1>
+=2' vol60 2. <G(2 c#(1> 4. <G)2(2 c)1(1>
+|
+=1' vol65 8 [<B_)2 F)1> vol+10 <C#l E> vol+10 <B_ F>] vol+10 <C A> \
+ 4 vol-15 <B_(2 E(1> <B_)2 E)1> 8 vol-15 <A_ C#>
+=2' vol60 2. <G)2(2 c#)1(1> 4. <G)2 c)1>
+|
+il0.5 .03 10
+=1' vol65 2. <B_(2 F(1> 8 [<B_)2 F)1> vol+10 <C#l E> vol+10 <B_ F>]
+=2' vol60 2. <G(2 c#(1> 4. <G)2 c)1>
+|
+=1' vol+10 8 <C# A> 4 vol-15 <D(2 Ab(1> 2. <D)2(2 A)1(1>
+=2' vol70 2. <Bb(2 e(1> 4. <B)2(2 e)1(1>
+/
+7 bars | 72 | 72 | 72 | 72 | 72 | 72 | 72 |
+|
+=1' 2. <D)2(2 Ab)1(1> 4. <D)2(2 A)1(1>
+=2' 2. <Bb)2(2 e)1(1> 4. <B)2(2 e)1(1>
+|
+=1' 4. <D)2 Ab)1> 2. vol+10 <D Ab>
+=2' 4. <B)2 e)1> 2. vol+10 <Bb e>
+|
+=1' 2. vol+10 <D Ab> 4. vol+10 <Eb G>
+=2' 2. vol+10 <Bb e> 4. vol+10 <Bb en>
+|
+il0.5 .03 15
+=1' vol+10 8 <C# A> 4 vol-20 <D(2 Ab(1> 2. <D)2(2 A)1(1>
+=2' 2. <Bb(2 e(1> 4. <B)2(2 e)1(1>
+|
+=1' 2. <D)2(2 Ab)1(1> 4. <D)2(2 A)1(1>
+=2' 2. <Bb)2(2 e)1(1> 4. <B)2(2 e)1(1>
+|
+=1' 4. <D)2 Ab)1> 2. vol70 <D Ab>
+=2' 4. <B)2 e)1>  2. vol65 <Bb e>
+|
+=1' 2. vol-10 <D Ab> 4. vol-10 <D G>
+=2' 2. vol-10 <Bb e> 4. vol-10 <Bb f>
+/
+8 bars | 72 | 72 | 72 | 72 | 72 | 72 | 72 | 72 |
+|
+=1' 4. vol-10 <D F#>   vol90 2. <D(4 Ab(2 c(1>
+=2' 4. vol-10 <Bnl f#> vol80 2. <Bb(2 e(1>
+|
+il0.6 .30 20
+=1' 2. <D)4(4 Ab)2(2 c)1(1> 4. <D)4(4 A)2(2 c)1(1>
+=2' 2. <Bb)2(2 e)1(1>       4. <B)2(2 e)1(1>
+|
+=1' 4. <D)4 Ab)2 c)1> vol-10 2. <D Ab c>
+=2' 4. <Bb)2 e)1>     vol-10 2. <Bb e>
+|
+=1' vol-5 2. <D Ab c> vol-10 4. <D G Bn>
+=2' vol-5 2. <Bb e>   vol-10 4. <B f-ten>
+|
+=1  4. vol-10 <D F#l A#> bass      vol70 2. <d(4 ab(2 c~(1>
+=2' 4. vol-10 <Bnl f#>   clefspace vol70 2. <B_b(2 E(1>
+|
+=1, 2. <d)4(4 ab)2(2 c~)1(1> 4. <d)4(4 a)2(2 c~)1(1>
+=2' 2. <B_b)2(2 E)1(1> 4. <B_)2(2 E)1(1>
+|
+il0.8 .23 25
+=1, 4. <d)4 ab)2 c~)1> vol-10 2. <d ab c~>
+=2' 4. <B_b)2 E)1> vol-10 2. <B_b E>
+|
+=1, vol-5 2. <d ab c~> vol-10 4. <d g bn>
+=2' vol-5 2. <B_b E'> vol-10 4. <B_ F>
+/
+5 bars | 72 | 72 | 72 | 72 | 72 |
+|
+=1' cha1 vol75 4 rest'' 8 d~-ten 2. c~#(1-ten
+=1, cha2 vol60 2. <d(6 f#l(4 a#(2> 4. <d)6 f)4 a)2>
+I0.3 .01 pp
+=2' cha3 vol60 2. <B_(2 F#(1> 4. <B_)2 F)1>
+|
+=1' cha1 vol75 4 c~)1 8 d~-ten 2. c~#(1-ten
+=1, cha2 vol60 2. <d(6 g#x(4 a#(2> 4. <d)6 gx)4 a)2>
+=2' cha3 vol60 2. <E_(2 E(1> 4. <E_)2 E)1>
+|
+=1' cha1 vol75 4 c~)1 8 d~-ten 2. c~#(1-ten
+=1, cha2 vol60 2. <d(6 f#l(4 a#(2> 4. <d)6 f)4 a)2>
+=2' cha3 vol60 2. <B_(2 F#(1> 4. <B_)2 F)1>
+|
+il0.8 .23 30
+=1' cha1 vol75 4. c~)1 <c~ d~x> vol85 f~
+=1, cha2 vol85 2. blank 4 c~n 8 b
+=1, cha2 vol60 2. <fnl(4 anl(2> 4. <fr)4 a)2>
+=2' cha3 vol60 2. <D(2 A(1> 4. <D)2 A)1>
+|
+=1' cha1 vol90 8 [g~# vol-5 f~# vol-5 d~] 2. vol-5 c~#(1
+=1, cha2 vol75 2. <d(6 f#l(4 a#(2> 4. <d)6 f)4 a)2>
+I0.3 .01 pp
+=2' cha3 vol75 2. <B_(2 F#(1> 4. <B_)2 F)1>
+
+5 systems 10 / 19-40-19 / 19-50-19 / 19-40-19 / 19-50-19 / 19-40-19 10/
+pagenum
+innerhead Vers la Flamme,  Poème  Op. 72 Alexander Scriabin
+/
+6 bars | 72 | 72 | 72 | 72 | 72 | 72 |
+|
+=1' cha1 vol75 4. c~)1 vol85 c~# vol95 d~
+=1, cha2 vol85 4. blank 2. c~#r
+=1, cha2 vol60 2. <fnl(4 anl(2> 4. <fr)4 a)2>
+i0.4 .65 cresc . .
+=2' cha3 vol60 2. <D(2 A(1> 4. <D)2 A)1>
+|
+=1' cha1 vol105 2. f~(1 4. f~)1(1
+=1, cha2 vol95 2. <d(6 abl(4 c~#(2> 4. <d)6 a)4 c~)2>
+I0.4 .01 sf
+i0.4 .20 dim . . .
+=2' cha3 vol95 2. <B_b(2 F(1> 4. <B_)2(2 F)1(1>
+|
+=1' cha1 8 f~)1 rest'' rest'' 4. rest'' rest''
+=1, cha2 vol75 2. <d(6 abl c~n> 4. <d)6 g bn>
+=2' cha3 vol75 4. F)1 E F
+=2, cha3 vol75 2. B_b)2(2 4. B_)2
+|
+il0.9 .03 35
+=1' cha1 vol75 4 rest'' 8 d~-ten 2. c~#(1-ten
+=1, cha2 vol60 2. <d(6 f#l(4 a#(2> 4. <d)6 f)4 a)2>
+=2' cha3 vol60 2. <B_nl(2 F#(1> 4. <B_)2 F)1>
+|
+=1' cha1 vol75 4. c~)1 vol+10 c~# vol+10 d~
+=1, cha2 vol60 2. <d(6 f#l(4 a#(2> 4. <d)6 f)4 a)2>
+=2' cha3 vol60 2. <B_(2 F#(1> 4. <B_)2 F)1>
+|
+=1' cha1 vol105 2. f~(1 4. f~)1(1
+=1, cha2 vol95 2. <d(6 abl(4 c~#(2> 4. <d)6 a)4 c~)2>
+I0.4 .01 sf
+i0.4 .20 dim . . .
+=2' cha3 vol95 2. <B_b(2 F(1> 4. <B_)2(2 F)1(1>
+/
+5 bars | 72 | 72 | 72 | 72 | 72 |
+|
+=1' cha1 8 f~)1 rest'' rest'' 4. rest'' rest''
+=1, cha2 vol75 2. <d(6 abl c~n> 4. <d)6 g bn>
+=2' cha3 vol75 4. F)1 E F
+=2, cha3 vol75 2. B_b)2(2 4. B_)2
+|
+=1' cha1 vol75 4 rest'' 8 d~-ten 2. c~#(1-ten
+=1, cha2 vol60 2. <d(6 f#l(4 a#(2> 4. <d)6 f)4 a)2>
+=2' cha3 vol60 2. <B_nl(2 F#(1> 4. <B_)2 F)1>
+|
+il1.0 .15 40
+=1' cha1 vol75 4. c~)1 vol+10 c~#-ten vol+10 d~-ten
+=1, cha2 vol60 2. <d(6 f#l(4 a#(2> 4. <d)6 f)4 a)2> treble
+=2' cha3 vol60 leg125 2. <B_(2 F#(1> 4. <B_)2 F)1>
+|
+i0.6 .06 avec une émotion naissante
+=1' cha1 2. Fn(1 4 F)1 8 Gn-ten
+=1, cha2 8 rest,, [D G_#] 4 D 8 G_ [D G_] rest,,
+I0.2 .01 pp .85 p
+i0.2 .15 cresc . . . dim . . .
+=2' cha2 2. d(1 4 d)1 8 B(1-ten
+=2, cha3 vol50 leg160 45 rest,, E B_-I5, E B_
+|
+=1' cha1 2. F#(1 4. F)1
+=1, cha2 8 rest,, [C# G_n] 4 C 8 G_(2 [G_)2 C G_]
+=2' cha2 2. B)1(1 4. B)1
+=2, cha3 vol50 45 rest,, E B_-I5, E B_
+/
+3 bars | 72 | 72 | 72 |
+|
+=1' cha1 2. Fn(1 4 F)1 8 Gn-ten
+=1, cha2 8 rest,, [D G_#] 4 D 8 G_ [D G_] rest,,
+I0.2 .01 pp .85 p
+=2' cha2 2. d(1 4 d)1 8 B(1-ten
+=2, cha3 vol55 45 rest,, E B_-I5, E B_
+|
+=1' cha1 2. F#(1 4 F)1 8 A-ten
+=1, cha2 8 rest,, [C# G_n] 4 C 8 G_ [C G_] rest,,
+=2' cha2 2. B)1(1 4 B)1 8 d(1
+=2, cha3 vol55 45 rest,, E B_-I5, E B_
+|
+il0.8 .65 45
+i0.6 .06 avec une joie voilée
+=1' cha1 2. G#(1-ten 4. G)1(1
+=1, cha2 8 rest,, [C# F_#] 4 C 8 F_(2 [F_)2 C F_]
+=2' cha2 2. d)1(1 4. d)1
+=2, cha3 vol55 45 rest,, E B_-I5, E B_
+/
+3 bars | 8 8 8 8 8 8 8 8 11 | 72 | 72 |
+|
+=1' cha1 4 G)1 8 C#(1 4. C)1(1 4 C)1 8 D
+=1, cha2 8 rest,, [G_# F_#-ten,] 4 G_ 8 F_n(2 [F_)2 G_ E_-ten,] bass
+=2' cha2 2. d(1 4. d)1
+=2, cha3 vol55 45 rest,, E B_-I5, E B_
+|
+=1' cha1 2. e~b(1 4. e~)1(1
+=1, cha2 8 rest [a eb] 4 a 8 e(2 [e)2 a] e-emph,
+I0.2 .01 pp
+=2' cha2 2. Gn(1 4. G)1(1
+=2, cha3 vol50 45 rest,,, C G_-I5, C G_
+|
+=1' cha1 2. e~b)1(1 4. e~r)1(1
+=1, cha1 8 rest' [a eb] 4 a 8 e(3 [e)3 a e]
+=1, cha2 2. d(2-emph, 4. dr)2
+=2' cha2 2. G)1(1 4. G)1
+=2, cha3 vol50 45 rest,,, C G_-I5, C G_
+/
+4 bars | 8 9 8 8 8 8 8 8 8 | 8 9 8 8 8 8 8 8 8 \
+ | 9 8 8 8 8 8 8 8 8 | 8 9 8 8 8 8 8 8 12 |
+|
+=1' cha1 2. e~b)1(1 4 e~)1 8 e~b-ten
+=1, cha2 8 rest [a eb] 4 a 8 e [a e] rest
+=2' cha2 2. G(1 4 G)1 8 G(1
+=2, cha3 vol50 45 rest,,, C G_-I5, C G_
+|
+il1.0 .18 50
+=1' cha1 2. d~(1-ten 4. d~)1
+=1, cha2 8 rest' [a eb] 4 a 8 e(3 [e)3 a e]
+=2' cha2 2. G)1(1 4. G)1
+=2, cha3 vol50 45 rest,,, C G_-I5, C G_
+|
+=1' cha1 2. d~b(1 4 d~)1 8 e~b
+=1, cha2 8 rest [bb en] 4 b 8 e [b e] rest
+=2' cha2 2. Bb(1 4 B)1 8 G(1
+=2, cha3 vol50 45 rest,,, C G_-I5, C G_
+|
+=1' cha1 2. d~n(1 4 d~)1 8 f~-ten
+=1, cha2 8 rest [a eb] 4 a 8 e [a e] rest treble
+=2' cha2 2. G)1(1 4 G)1 8 Bb(1
+=2, cha3 vol50 45 rest,,, C G_-I5, C G_
+
+5 systems 10 / 19-45-19 / 19-45-19 / 19-45-19 / 19-50-19 / 19-50-19 10/
+pagenum
+innerhead Vers la Flamme,  Poème  Op. 72 Alexander Scriabin
+/
+3 bars | 72 | 72 | 72 |
+|
+=1' cha1 2. E(1-ten 4. E)1(1
+=1, cha2 8 rest' [A_ D_] 4 A_ 8 D_(3 [D_)3 A_ D_]
+=2' cha2 2. B)1(1 4. B)1
+=2, cha3 vol50 45 rest,,, C G_-I5, C G_
+|
+=1' cha1 4 E)1 8 A(1 4. A)1(1 4 A)1 8 Bb
+=1, cha2 8 rest,, [E D-ten,] 4 E 8 Db(2 [D)2 E C-ten,]
+=2' cha2 2. bb(1 4. b)1
+=2, cha3 vol55 45 rest,, c G-I5, c G
+|
+il1.0 .18 55
+=1' cha1 2. cb(1 4. c)1(1
+=1, cha2 8 rest [F Cb] 4 F 8 C(2 [C)2 F] C-emph,
+=2' cha2 2. eb(1 4. e)1(1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+/
+3 bars | 72 | 72 | 72 |
+|
+=1' cha1 2. c)1(1 4. c)1(1
+=1, cha1 8 rest' [F Cb] 4 F 8 C(3 [Cr)3 F C]
+=1, cha2 2. B_b(2-emph, 4. B_)2
+=2' cha2 2. eb)1(1 4. e)1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+|
+=1' cha1 2. c)1(1 4 c)1 8 cb-ten
+=1, cha2 8 rest, [F Cb] 4 F 8 C [F C] rest,
+=2' cha2 2. eb(1 4 e)1 8 e(1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+|
+=1' cha1 2. Bb(1-ten 4 B)1 8 db-ten
+=1, cha2 8 rest, [F Cb] 4 F 8 C [F C] rest,
+=2' cha2 2. e)1(1 4 e)1 8 gb(1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+/
+4 bars | 72 | 72 | 72 | 72 |
+|
+=1' cha1 2. cn(1-ten 4. c)1('1
+=1' cha1 2. blank 4 blank 8 Gb-emph
+=1, cha2 8 rest, [F B_b] 4 F 8 B_ [F B_] rest,,
+=2' cha2 2. gb)1(1 4. g)1(1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+|
+il0.8 .18 60
+=1' cha1 2. cn)'1(1 4. c)1
+=1' cha1 2. F(3-emph, 4. F)3
+=1, cha2 8 rest,,, [C B_b] 4 C 8 B_(4 [B_)4 C B_] rest,,
+=2' cha2 2. gb)1(1 4. g)1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+|
+i0.6 .02 de plus en plus animé
+=1' cha1  4. rest' 4. rest' 4 rest' 8 cb
+=1, cha2 8 rest, [F Cb] 4 F 8 C [F C] rest,
+I0.5 .01 p
+=2' cha2 2. eb(1 4 e)1 8 e(1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+|
+=1' cha1 2. Bb(1 4 B)1 8 db
+=1, cha2 8 rest, [F Cb] 4 F 8 C [F C] rest,
+=2' cha2 2. e)1(1 4 e)1 8 gb(1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+/
+3 bars | 72 | 72 | 72 |
+|
+=1' cha1 2. cn(1 4 c)1 8 c#
+=1, cha2 8 rest, [F B_b] 4 F 8 B_ [F B_] rest,
+i0.4 .03 cresc .38 .  .  .
+=2' cha2 2. gb)1(1 4 g)1 8 gn(1
+=2, cha3 vol50 45 rest,, Ab Eb-I5, A E
+|
+=1' cha1 2. Bn(1 4 B)1 8 d
+=1, cha2 8 rest [Gn En] 4 G 8 E [G E] rest,
+=2' cha2 2. g)1(1 4 g)1 8 <f#(2 f~#(1>
+=2, cha3 vol50 45 rest,, En B_-I5, E B_
+=2, cha3 1 blank 16 rest, d~{,2
+|
+il0.8 .18 65
+=1' cha1 2. c#(1 4 c)1 8 d
+=1, cha2 8 rest,, [B G#] 4 B 8 G [A Fn] rest,
+=2' cha2 2. <fr)2 f~)1> 4 rest''' 8 f#(1
+=2, cha3  16 [g d E B_},2] 8 rest, 4. rest, 4 <D Gn fn b> 8 rest,
+/
+3 bars | 72 | 72 | 72 |
+|
+i0.8 .02 avec une joie de plus en plus tumultueuse
+=1' cha1 2. c#(1 4 c)1 8 e
+=1, cha2 8 rest, [G# D] rest, 8 [D G] [c#rl G] rest,
+I0.5 .01 p
+i0.5 .75 cresc . . .
+=2' cha2 2. f#)1(1 4 f)1 8 a(1
+=2, cha3 vol50 45 rest,, B F#-I5, F F_#
+|
+=1' cha1 2. d#(1 4 d)1 8 e
+=1, cha2 8 rest, [G# C#] rest, 8 [C G] [c#rl G] rest,
+i0.5 .45 .  .  .
+=2' cha2 2. a)1(1 4 a)1 8 bb
+=2, cha3 vol50 45 rest,, B F#-I5, F F_#
+@
+
+
+1.3
+log
+@up to 52 bars
+@
+text
+@d3 1
+a3 1
+pagenum 3
+d137 1
+a137 1
+pagenum 3
+d225 1
+a225 1
+=1' cha1 4 G)1 8 C#(1 4. C)1(1 4 C(1 8 D
+d231 1
+a231 1
+=1, cha2 8 rest [a eb] 4 a 8 e(2 [e a] e-emph,
+d252 1
+a252 1
+=1, cha1 8 rest' [a eb] 4 a 8 e(3 [e)3 a e]
+d265 103
+@
+
+
+1.2
+log
+@up to bar 40
+@
+text
+@d136 1
+a136 1
+5 systems 20 / 19-40-19 / 19-40-19 / 19-50-19 / 19-40-19 / 19-50-19 10/
+d162 1
+a162 1
+=2' cha3 vol60 2. <B_n(2 F#(1> 4. <B_)2 F)1>
+d183 1
+a183 1
+=2' cha3 vol60 2. <B_n(2 F#(1> 4. <B_)2 F)1>
+d188 56
+a243 1
+=2' cha3 vol60 2. <B_(2 F#(1> 4. <B_)2 F)1>
+d245 20
+a264 2
+
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 2
+a7 1
+midi channel 2 patch 0 pan 20 reverb 90
+d11 1
+a11 1
+Il1.0 .01 Allegro moderato
+d14 1
+a14 1
+=2' bass   cha2 9/8 leg99 vol60 8 rest
+d18 1
+a18 1
+i0.3 .01 sombre
+d71 1
+a71 1
+=2' vol70 2. <Bb(2 e(1> 4. <B)2(2 e)1(1>
+d84 1
+a84 1
+=1' 4. vol-10 <D F#>   vol80 2. <D(4 Ab(2 c(1>
+d87 1
+a87 1
+il0.5 .03 20
+d95 1
+a95 1
+=2  vol-5 2. <Bb e'>   vol-10 4. <B, f-ten>
+d103 1
+d109 83
+@

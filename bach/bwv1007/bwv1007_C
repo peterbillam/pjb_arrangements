@@ -1,0 +1,399 @@
+% start
+12 systems 10 /20/
+title Cello Suite I in G major
+righthead J. S. Bach, bwv1007
+leftfoot Arranged for Soprano Recorder
+rightfoot http://www.pjb.com.au/muscript
+midi channel 1 patch 74
+% stop
+/
+4 bars | 2# 0.5 | 2 | 2 | 2 |
+| 1/8 .27
+il0.9 .10 Courante
+=1 treble 2# 3/4 channel1 transpose+12 qua d
+| 2/4 1.5
+=1 qua [d-. A,-.] D smq [f g] [a(1 g)1 f e]
+|
+=1 qua [f-. A,-.] D smq [d e] qua [f d]
+|
+=1 qua [B'-. G-.] E smq [e f] [g(1 f)1 e d]
+/
+4 bars | 2# 1 1.15 | 2 | 2 | 2 |
+|
+=1 qua [c-. A,-.] [E smq A B'] [c, d e f]
+|
+=1 smq [g(1 f)1 g e] [g(1 f)1 g e] [A, g f e]
+|
+=1 smq [f(1 e)1 f d] [f(1 e)1 f d] [G, f e d]
+|
+=1 smq [c e a A,] qua [d-. F,-.] [E c#']
+/
+4 bars | 2# 0.9 1.25 | 0.9 1.1 | 0.9 1.1 | 2.1 |
+|
+=1 cro d qua rest smq [f e] [d(1 c)1 B, A,]
+|
+=1 qua [b-. g#-.] [e smq f g] [a c B, A,]
+|
+=1 qua [E,-. a-.] [g# smq f e] [a e f c]
+|
+=1 smq [d(1 c d)1 B] [d(1 c d)1 B] [E, d c B,]
+/
+3 bars | 2# 2.2 | 0.7 0.5 0.5 0.5 | 2 |
+|
+=1 smq [c(1 B, c)1 A,] [c(1 B, c)1 A,] [D c' B' A]
+|
+=1 smq [a(1 g#)1 f e] qua [a smq g f] [e(1 d)1 c B,]
+|
+=1 smq [A,(1 B, A,)1 c] [A,(1 B, A,)1 d] [A,(1 B, A,)1 e]
+/
+4 bars | 2# 2.2 | 0.4 0.6 0.4 0.4 0.4 | 2 | 0.9 :||
+|
+=1 smq [A,(1 B, A,)1 f] [A,(1 B, A,)1 g#] [A,(1 B, A,)1 a]
+|
+=1 smq [d(1 c)1 B A,] [G# F E d'] qua. [c smq B,]
+| 3/4 .5 .54 .58
+=1 smq [e(1 d)1 f(1 e)1] [d c B A,] qua [E-. G#-.]
+| 5/8 1.33
+=1 min A qua rest
+/
+5 bars ||: 2# 1 | 0.8 1 1 1 | 0.8 1 1 1 | 1 1 1 0.8 | 0.8 1 1 1 |
+| 1/8 .27
+=1 treble 2# qua e
+| 3/4 1.5
+=1 qua [e-. c-.] [A,-ten smq B, c] [d(1 c)1 B A,]
+|
+=1 qua [a-. c-.] [G-ten smq F G] [A(2 G)2 F E]
+|
+=1 smq [F,-ten d e f] [g(1 f)1 e d] qua [c a-.]
+|
+=1 qua [f-. d-.] D-ten smq [f e] [g(1 f)1 e d]
+/
+3 bars | 2# 2 | 2 | 2 |
+|
+=1 treble 2# qua [e-. c-.] smq [A#,-ten e f g] [f(1 e)1 d c]
+|
+=1 qua [d-. B,-.] [F#-ten smq d' c'] [e(1 d)1 c B]
+|
+=1 smq [cn(1 B c)1 e] [c(1 B c)1 e] [g(1 f)1 g e]
+/
+4 bars | 2# .6 .75 .75 | .6 .7 .7 | 0.8 1 | .6 .7 .7 |
+|
+=1 treble 2# cro a#-emph smq rest [gn f e] [d(1 c)1 e A#,]
+|
+=1 qua [D-ten f'] smq [e(1 d)1 c B,] qua [F A#-.]
+|
+=1 cro B,-emph qua rest smq [B c] [d e f g]
+|
+=1 qua [an cn-.] [F-ten smq B' c'] [d(1 c)1 B A,]
+/
+3 bars | 2# 1 1.3 | 2 | 2 |
+|
+=1 treble 2# qua [B' G-.] [D-ten smq G A] [B, c# d B]
+|
+=1 smq [G#,-ten d(1 e d] [e d)1 G, d] [G, d(1 e d)1]
+|
+=1 smq [Gn,-ten c(1 e c] [e c)1 G, c] [G, c(1 e c)1]
+/
+3 bars | 2# .4 .6 .4 .4 .4 .4 | 2 | .6 .7 .5 |
+|
+=1 treble 2# smq [F-ten A B' cn'] [D-ten c' B' A] [B,-ten a g f]
+|
+=1 smq [c#-ten e f g] [A,-ten g f e] qua [f-. d-.]
+|
+=1 qua [G,-ten smq f e] [g(1 f)1 e d] qua [A,-. c-.]
+/
+3 bars | 2# 2.1 | 2 | 2 |
+|
+=1 treble 2# smq [D(2 E D)2 F-ten] [D(2 E D)2 G-ten] [D(2 E D)2 A'-ten]
+|
+=1 smq [D(2 E D)2 B'-ten] [D(2 E D)2 c'-ten] [D(2 E D)2 d'-ten]
+|
+=1 smq [g(1 f)1 e d] [c B A, g] qua. [f smq e]
+/
+4 bars | 2# 2 | 2 | 2 | 1.1 :||
+| 3/4 1.6
+=1 treble 2# smq [a(1 g a)1 f] [a(1 g)1 a f] [B, a g f]
+|
+=1 smq [g(1 f g)1 e] [g(1 f)1 g e] [A, g f e]
+| 3/4 .53 .56 .63
+=1 smq [f(1 e)1 f d] [G, f e d] qua [A,-. c-.]
+|
+=1 min d qua rest
+
+% endmvt1
+
+10 systems 30/20/20/20/20/20 30/ 20/20/20/20/20/20 15/
+innerhead Cello Suite I in G major, J. S. Bach, bwv1007
+leftfoot Arranged for Soprano Recorder
+midi channel 1 patch 74
+/
+4 bars | 2# 5 3 3 5 3 3 3 4 | 4 4 5 3 3 4 4 \
+ | 2 2 2 2 2 2 2 5.7 2 2 2 2 | 4 4 5 3 3 4 4 |
+| 3/4 3.8
+il0.9 .10 Sarabande
+=1 treble 2# 3/4 cha1 leg100 \
+ smq-s [D A] cro f smq-s [D B'] cro. g(1 qua f)1
+| 3/4 3.6
+=1 smq [c(1 e f g)1] smq3-s [D A] cro f-tr qua [e(1 leg85 d)1]
+| 3/4 3.4
+=1 qua leg100 [a cn] qua. [B'(2 dsq3 A G F)2] qua leg85 [G leg100 B']
+| 3/4 3.6
+=1 smq [c# g(1 f d)1] smq3-s [E A] cro c-tr qua [B'(2 leg85 A)2] leg100
+/
+3 bars | 2# 24 | 2 2 2 2.5 2 2 2 3.0 2 2 2 2 | 24 |
+| 3/4 3.4
+=1 smq [e(1 c A, G,)1] leg85 qua. [F leg100 smq D] smq [F, A, d e]
+|
+=1 smq [f(1 d B, A,)1] qua. leg85 [G#-tr leg100 dsq E F] smq [G A B' c']
+|
+=1 smq leg85 [d leg100 g#(1 a g)1] leg85 [a leg100 e d(1 leg85 c)1] \
+ leg100 [B,(1 leg85 d)1 leg100 c(1 leg85 A,)1]
+/
+3 bars | 2# 2 2 2 2.9 1.6 1.6 1.6 1.6 2.5 1.6 1.6 1.6 1.6 \
+ :||: 3.5 4 4 5 4 4 4 4 \
+ | 1 1 1 1  1 1 1 1  1.9 1 1 1 1 1 1 1 1  1 1 1 1 1 1 1 1 |
+| 3/4 1.3 1.3 1.6
+=1 smq leg100 [E(2 leg85 A)2 leg100 B'(2 leg85 G#)2] \
+ cro A smq3-s leg100 [C E] leg85 cro A
+midi pause .08
+| 3/4 3.8
+=1 smq-s [E A] qua [c' smq B' A] smq3-s [E A c'] cro. leg85 g \
+ leg100 smq [f(1 e)1]
+| 3/4 3.6
+=1 smq [f c(1 d B,)1] smq-s E qua. [A#-tr smq B'] [c d e f]
+/
+3 bars | 2# 24 | 24 \
+ | 1.4 1.5 1 1 1 1 1 1 2.7 1.0  .7 .8 .7 .8 1 1 1 1 1 1 1 1  1 1 1 1 1 1 1 1 |
+| 3/4 3.4
+=1 smq leg85 [A#, leg100 e f g] qua [f-tr smq e(1 leg85 d)1] \
+ leg100 [c(1 leg85 B,)1 leg100 e(1 leg85 c)1]
+| 3/4 1.2 1.2 1.3
+=1 smq leg100 [d(1 leg85 B,)1 leg100 c(1 leg85 A#,)1] \
+ cro B smq3-s leg100 [D F] leg85 cro B
+midi pause .06
+| 3/4 3.8
+=1 leg100 smq-s F qua. [An(2 dsq B' cn')2] smq-s [D G] \
+ leg85 qua. [B, smq leg100 c#] [d(1 e f g)1]
+/
+3 bars | 2# 24 | 24 | 24 :||
+| 3/4 3.6
+=1 smq [D#, a(1 g f)1] smq3-s [E B'] qua. leg85 [g smq f] leg100 [e dn c B,]
+| 3/4 3.4
+=1 smq leg85 A leg100 [F, G, E,] leg85 F, leg100 [B'(2 c' leg85 d')2] \
+ leg100 [e leg85 g leg100 f leg85 d]
+| 3/4 1.2 1.5 1.9
+=1 smq leg100 [A,(1 leg85 d)1 leg100 e(1 leg85 c)1] cro d leg100 cro D
+
+% start
+/
+4 bars | 2# 3/4 2 2 1.7 1.7 2 2.6 | 12 | 12  | 1.6 .7 .7 .7 .7 .7 .7 .7 .7 1.3 1.3 .8 .9 .8 .9 |
+| 3/4 1.7
+il0.9 .10 Menuet I
+=1 treble 2# 3/4 cha1 leg85 qua [D{2 A}2] cro f qua [e smq f g]
+|
+=1 qua [f{1 e}1 d c d A,]
+|
+=1 qua [B d g{1 e}1 leg70 c leg95 a]
+| 3/4 1.9
+=1 smq-s g' min f-tr smq-s [e' f'] cro e
+/
+5 bars | 1# 2 2 1.8 1.8 2 2.7 | 12 | 2 2.7 2 2 2 2 | 10  :||: 2 2 1.8 1.7 2 2.7 |
+| 3/4 1.7
+=1 qua leg85 [E{2 c'}2] cro g qua [f smq g a]
+|
+=1 qua [g{1 f}1 e d c B]
+|
+=1 qua [c smq d e] qua [d{1 c}1 B c]
+|
+=1' cro A-. E-. A-.
+|
+=1 qua [A,{1 c}1] cro e qua [d smq e f]
+/
+5 bars | 1# 12 | 2 2.3 2 2 2 2 | 4 4 3.4 | 12 | 12 |
+|
+=1, qua [e{1 d}1 c B A c]
+|
+=1, qua [F{1 A}1 d# e f a]
+|
+=1, qua [E a g{1 f}1] cro g
+|
+=1 qua [A#,{1 c}1 e g f e]
+|
+=1, qua [f{1 B}1 D e g f]
+/
+5 bars | 1# 2 2 2 2 2.4 2 | 1.7 1.8 1.7 2.4 2 2  | 1 1 1 1 .8 .8 .8 .8 1 1 2.1 1.4  | 12 | 2 2 1.8 1.8 2 2.6 |
+|
+=1, qua [e{1 d}1 c B F A#]
+|
+=1' cro. B qua [B A G]
+|
+=1 qua [F{2 A}2] cro d qua [A, smq B, cn]
+|
+=1' qua [cn{2 A}2 B G D F]
+|
+=1 qua [G#{2 B'}2] cro e qua [B smq c d]
+/
+5 bars | 1# 2 2 2 2 2.4 2 | 12 | 12 | 12  | 1.4 .6 .6 .6 .6 .6 .6 .6 .6 .6 .6 .6 .6 :||
+|
+=1 qua [d{1 B,}1 c A,] qua [E G#]
+|
+=1, qua [A{1 c}1 e g f a]
+|
+=1 qua [B{1 d}1 f a g b]
+|
+=1 qua [a c d F,] [E c']
+|
+=1 smq-s D, min. d
+
+11 systems 30/20/20/20/20 30/ 20/20/20/20/20/20/20 15/
+pagenum
+innerhead Cello Suite I in G major, J. S. Bach
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi pause 0.6
+/
+6 bars |  3/4 2 2 2 2.6 2 2 | 10 | 2.6 2 2.4 2 2 2  | 2 2 2 2.6 2 2 | 2 2 2 2.6 2 2 | 10 |
+| 3/4 1.8
+il1.2 .10 Menuet II
+=1, treble  3/4 cha1 leg90 qua [f{1 e f}1 A{1 Bb}1 D{1]
+|
+=1 cro leg75 C}1 e A
+|
+=1, leg90 qua [d{1 c# d}1 F{1 G}1 B{1]
+|
+=1, qua [A}1 E A d c# e]
+|
+=1, qua [f{1 e f}1 A{1 Bb}1 D{1]
+|
+=1 cro leg75 C}1 e A
+/
+6 bars |  2.6 2 2.6 2 2 2 | 2 2.6 1.5 1.5 1.5 1.5 :||: 2.4 2 2 2.4 2 2  | 4 4 3.3 | 12 | 2 2 2 2 2.6 2 |
+|
+=1, leg90 qua [d{1 c# d}1 F{1 G}1 B{1]
+|
+=1, qua [A}1 d{1] min c#}1
+|
+=1, qua [A c# e g bb a]
+|
+=1 qua [g{1 f}1 e f] cro d
+|
+=1, qua [G{1 B}1 d f a g]
+|
+=1 qua [f{1 e}1 d e c Bb{1]
+/
+6 bars |12 |12 |2.6 2 2 2 2 2 |4 4 3.4 |2 2 2.6 2 2 2 |2 2 2 2.6 1.8 2.8 |
+|
+=1, qua [A}1 c f{1 e f}1 A{1]
+|
+=1 qua [Bb}1 d f{1 e f}1 a]
+|
+=1 qua [g bb{1 a}1 f c e{1]
+|
+=1 qua [f}1 c A, c] cro F
+|
+=1, qua [F# A c eb{1 d}1 c]
+|
+=1 qua [Bb{1 d}1 g a] cro bb
+/
+6 bars |2 2.6 2 2 2 2 | 4 4 3.4 | 2 2 2.5 2 2 2  | 12 | 2 2 2 2 2.5 2 | 7 :||
+|
+=1' qua [E{2 G}2 Bb d c B]
+|
+=1, qua [A{1 c}1 f g] cro a
+|
+=1' qua [C# E G Bb{2 A}2 G]
+|
+=1, qua [F{1 A}1 d e f d]
+|
+=1, qua [G f e{1 d}1 A c#]
+i0.5 .60 Menuet I da Capo
+|
+=1 min. D
+midi pause 2.9
+/
+5 bars | 1# 3/4 2.4 | 12 | 12 | 2.6 2 2 2.6 2 2 | 5 6 |
+| 1/8 .20
+il1.0 .10 Gigue
+=1 treble 2# cha1 6/8 qua A
+| 6/8 .18 .15 .17 .18 .15 .17
+=1 qua [d A, B,] [B' G A]
+|
+=1 qua [A, d A,-.] [F-. D-. A]
+|
+=1 smq [d{1 e}1 qua f e] smq [e{1 f}1 qua g f]
+|
+=1, cro. f-tr cro e qua e
+/
+5 bars | 1# 12 | 12 | 12 | 12 | 12 |
+|
+=1 qua [f c d] [d B, d]
+|
+=1 qua [e B, c] [c A, c-.]
+|
+=1 qua [d-. f-. d-.] [B'-. F-. A-.]
+|
+=1 qua [G#,{1 B,}1 e-.] cro E qua B
+|
+=1 qua [cn{1 B}1 d] [d{1 c}1 e]
+/
+6 bars | 1# 2 2.7 2 2 2 2 | 2 2 2 2 2.7 2 | 2 2.6 2 2 2  :||: 2.4 | 12 | 2.7 2 2 2 2 2 |
+|
+=1 qua [e{1 d}1 fn] [f{1 e d}1]
+|
+=1' qua [cn B A] [E A G#]
+| 5/8 .18 .15 .17 .18 .17
+=1' qua [A-. E-. C-.] cro A
+| 1/8 .17
+=1 qua e
+| 6/8 .18 .15 .17 .18 .15 .17
+=1 qua [e c d] [d B, c]
+|
+=1 smq [c{1 d}1 qua e c] [A, g f]
+/
+5 bars | 1# 12 | 2.7 2 2 2 2 2 | 12 | 12 | 2 2 2 2 2.3 2 |
+|
+=1 qua [f{1 d}1 e] [e c d]
+|
+=1 smq [d{1 e}1 qua f d] [B, a g]
+|
+=1 qua [e a{1 g}1] [A, g{1 f}1]
+|
+=1 qua [d g{1 f}1] [G, f e]
+|
+=1 qua [d{1 c}1 B] [F B'{2 A#}2]
+/
+5 bars | 12 | 2 2 2.3 2.8 2 2 | 1 1 1.1 1.2 1 1 2.1 1.4 1 1 1 1  | 2 2 2 2.7 2 2 | 2.7 2 2 1.8 1.8 2|
+|
+=1 qua [B'-. F-. D-.] cro B' qua d
+|
+=1 qua [e{1 c d}1] smq [g#{1 a qua b}1-. c]
+|
+=1, qua [d{1 B}1 cn] smq [f{1 gn qua a}1-. B]
+|
+=1, qua [cn{1 A B}1] smq [e{1 f qua g}1-. e]
+|
+=1 smq [c{1 d qua e}1-. c] cro A qua e
+/
+5 bars | 1# 12 | 2 2.4 2.1 2 2 2 | 12 | 2 2.7 2 2 2 2  | 1 1 2.1 1.4 1 1 1 1 1 1 1 1 |
+|
+=1 qua [fn{1 e}1 g] [g{1 f}1 a]
+|
+=1 qua [a{1 g}1 bb] [b{1 a g}1]
+|
+=1, qua [fn{1 e}1 d] [A d c]
+|
+=1' qua [d smq F G qua A] [D F A]
+|
+=1 qua [d smq B, cn qua d] [F{2 G}2 B']
+/
+5 bars | 1# 2 2.7 2.1 2 2 2 | 2 2.7 2.1 2 2 2 | 12 | 2 2.7 2.7 2 2 2 | 6 5 :||
+|
+=1 qua [e smq c d qua e] [G# A c']
+|
+=1, qua [f smq d e qua f] [A#{1 B}1 g]
+|
+=1 qua [B,{1 c}1 a] [c{1 d}1 b]
+|
+=1, qua [A smq B c d e] qua [f d{1 c}1]
+|
+=1 qua [d-. A,-. F,-.] cro D
+% stop

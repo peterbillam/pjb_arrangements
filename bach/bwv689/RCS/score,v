@@ -1,0 +1,1544 @@
+head	1.6;
+access;
+symbols;
+locks
+	pjb:1.6;
+comment	@# @;
+
+
+1.6
+date	2000.08.07.10.45.45;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2000.08.02.04.18.26;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2000.08.01.03.44.36;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2000.07.27.06.56.13;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2000.07.27.04.47.36;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2000.07.26.07.06.32;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Score and parts of Fugue a 4 BWV689
+@
+
+
+1.6
+log
+@add 4 pages of parts
+@
+text
+@3 systems /18 24 18 35 18 22 18/18 26 18 35 18 22 18/18 26 18 35 18 22 18 20/
+pagenum 3
+innerhead J. S. Bach,  BWV 363
+title Chorale: Jesus Christus unser Heiland
+leftfoot Arranged for SATB recorders and Typeset 2000 by Peter J Billam.
+/
+4 bars |2b 8|8|2 2.5 1.75 1.75|8|
+|
+=1 treble8va 2b cro G d d(1 c
+=2 treble    2b cro d d qua g[(1 f#] cro g
+r0.6            Je   -   sus     Chri   -
+=3 treble    2b cro B' A B'(2 qua A[ G]
+=4 bass8va   2b cro. g qua f min e(1
+|
+=1 cro d)1 qua G[ A] cro B' B'
+=2 cro f#)1 qua g[ f] cro g g
+r0.6               stus,     un   -   ser
+=3 cro A)2 qua d[ c] cro d qua g[ f]
+=4 qua d,[ c~])1 b[ a] g[ fn] e[ d,]
+|
+=1 cro B'(2 A)2 min G-fermata
+=2 cro. g(1 qua f#)1 min d-fermata
+r0.6   Hei       -          land,
+=3 cro en(1 qua A,[ smq d c])1 min B-fermata
+=4 cro c#(2 d')2 min G-fermata
+|
+=1 cro B' B' B' G
+=2 cro g g f e
+r0.6   der      von     uns     den
+=3 cro d e B B
+=4 qua g[ f] cro e d, e
+/
+4 bars |2b 9|1 1 1 1.4 .8 .8 .8 .8|8|8|
+|
+il0.4          5
+=1 treble8va 2b cro B, c d(1 c
+=2 treble    2b cro f qua g[ a] cro. b(1 qua a(2
+r0.6           Got   -   tes   -   zorn
+=3 treble    2b qua B,[ smq c d] cro e qua f(1[ smq g f] e[ d qua e]
+=4 bass8va   2b qua e[ d] cro c B(2 c
+|
+=1 cro B A)1 min G-fermata
+=2 qua a)2 cro g qua f#)1 min d-fermata
+r0.6                         wand,
+=3 cro d(2 qua. d)2[ smq c])1 min B-fermata
+=4 min d')2 g-fermata
+|
+=1 cro B' B' B' G
+=2 cro g qua b[ a] cro g e
+r0.6   durch    das   bitt  -   re
+=3 qua d[ e] cro f e B,
+=4 cro g d, qua e[ f] g[ f]
+|
+=1 cro B,(1 c d)1 c
+=2 qua g[(1 f g a] cro. b)1 qua a
+r0.6     Lei           -               den
+=3 cro B,(1 e f)1 qua. f[ smq e]
+=4 qua e'[(2 d'] cro c B)2 f
+/
+4 bars |2b 7|8|8|6||
+|
+=1 treble8va 2b min B'-fermata cro rest f
+=2 treble    2b min f-fermata cro rest qua b[ ab]
+r0.6           sein                           half
+=3 treble    2b min d-fermata cro rest f
+=4 bass8va   2b min B-fermata cro rest d'
+|
+il0.4       10
+=1 cro g qua f[ e] d[ c] B,[ c]
+=2 cro g an qua b[ f#] g[ fn]
+r0.6    er        uns        aus        der
+=3 qua e[ d] cro c qua B,[ e] d[ c]
+=4 cro e f cro. g qua a
+|
+=1 cro d(1 c B,)1 A
+=2 qua f(1 cro b a g)1 qua f#
+r0.6   Höl                -              len
+=3 qua B,[ f g d] cro d(1 qua e[ smq d c])1
+=4 qua b[ d, en f# g B,] c[ d']
+|
+=1 min. G-fermata cro rest
+=2 min. d-fermata cro rest
+r0.6  Pein.
+=3 min. Bn-fermata cro rest
+=4 min. G-fermata cro rest
+
+4 systems /18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/
+lefthead J. S. Bach,  BWV 689
+title Fuga super: Jesus Christus unser Heiland
+righthead SATB recorders
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+5 bars |3b 7|8|1 1.4 .8 .8 1 1 1 1|1 1 1 1 1 1.4 1 1|1 1 1 1.3 1 1 1 1|
+|
+=1 treble8va 3b smb rest
+=2 treble    3b smb rest
+=3 treble    3b cro F c c Bn
+=4 bass8va   3b smb rest
+|
+=1 smb rest
+=2 min rest cro c f
+=3 cro c qua F[ G] cro A A(2
+=4 smb rest
+|
+=1 smb rest
+=2 cro f en f qua c[ d]
+=3 qua A)2[ smq G F] cro G qua F[ G A F]
+=4 smb rest
+|
+=1 smb rest
+=2 cro eb e(1 qua e)1[ smq d c] cro d
+=3 qua G[ F E F] G[ A B' G]
+=4 smb rest
+|
+il0.4  5
+=1 smb rest
+=2 cro c qua d[ e] f[ e d f]
+=3 qua A[ G F G] cro An Bn'
+=4 smb rest
+/
+4 bars |3b 8|1 1 1 1 1 1 1 1.3|8|1 1.3 1 1 1 1 1 1|
+|
+=1 treble8va 3b smb rest
+=2 treble    3b qua e[ f g f] e[ db c e]
+=3 treble    3b cro c qua Bb'[ Ab] cro G An
+=4 bass8va   3b smb rest
+|
+=1 cro F c c Bn
+=2 qua db[ e f e] dn cro a smq g[ f]
+=3 cro B' qua Ab[ G] cro F G
+=4 smb rest
+|
+=1 cro c qua F[ G] cro A A(2
+=2 qua en[ c] cro f(1 qua f)1[ eb db c]
+=3 cro. A qua B cro c qua B'[ A]
+=4 min rest cro c f
+|
+=1 qua A)2[ smq G F] cro G F rest
+=2 cro. db qua c(1 c)1[ dn e f]
+=3 min B'(1 qua B')1[ A] cro G(2
+=4 cro f en f qua c[ d']
+/
+4 bars |3b 1 1 1 1 1 1.3 1 1|8|1 1.3 1 1.3 1 1 1 1|1 1 1 1.9 1 1 1 1|
+|
+il0.4         10
+=1 treble8va 3b cro rest c f f
+=2 treble    3b cro g c~ c~ bn
+=3 treble    3b qua G)2[ A B' G] A[ G F G]
+=4 bass8va   3b cro e e(1 qua e)1[ smq d, c,] cro d
+|
+=1 cro en f qua c[ d] cro eb
+=2 cro c~ qua f[ g] cro a a(1
+=3 qua A[ G] cro c(1 qua c)1[ Bn,] cro c(1
+=4 qua c,[ b a g] cro f qua c[ d']
+|
+=1 cro e(1 qua e)1[ smq db c] cro d c
+=2 qua a)1[ smq gb f] cro g qua f[ gn] cro a
+=3 qua c)1 cro B qua An cro B rest
+=4 min e cro B qua c[ db']
+|
+=1 qua B cro e smq f[ gb] qua f[ e db c]
+=2 cro g an cro. b qua a
+=3 smb rest
+=4 qua e[ db, c, e] d,[ e f e]
+/
+4 bars |3b 8|8|1 1.9 1 1 1 1 1 1|1 1.3 1 1 1.4 1.9 1 1|
+|
+=1 treble8va 3b min B(1 cro. B)1 qua A
+=2 treble    3b qua b[ ab g f] en[ c] cro f(1
+=3 treble    3b smb rest
+=4 bass8va   3b qua db'[ c B d'] min c(2
+|
+il0.4    15
+=1 qua G[ A B' G] A[ G F A]
+=2 cro f)1 en f rest
+=3 smb rest
+=4 cro c)2 c qua f[ g a g]
+|
+=1 qua An[ B' c' A] B,[ c] cro db
+=2 cro c f f en
+=3 min rest cro F B'
+=4 qua f[ smq e db,] cro e(1 qua e')1[ d' c B]
+|
+=1 qua c[ smq db e] cro f cro. B qua An
+=2 cro f qua c[ dn] cro e e(1
+=3 cro B' An B' qua E[ F]
+=4' min. blank qua e[ f]
+=4 min f smq gb[ f e db] cro c,
+
+4 systems /18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/
+pagenum 5
+innerhead J. S. Bach, BWV 689, Fuga super: Jesus Christus unser Heiland, SATB recorders
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+4 bars |3b 1 1.3 1 1.3 1 1.3 1 1|1 1.3 1 1 1 1 1 1|1 1 1 1 1 1.9 1 1|8|
+|
+=1 treble8va 3b cro. B qua Bn min c(1
+=2 treble    3b qua e)1[ smq d c] cro d cro. c qua d
+=3 treble    3b cro Gn G(2 qua G)2[ smq F E] qua F[ F#]
+=4'          3b cro gn g(1 qua g)1[ smq f e] qua f[ f#]
+=4, bass8va  3b cro. B smq A[ G] min A
+|
+=1 cro c)1 Bn qua c'[ G] cro c(1
+=2 qua e[ f g f] e[ d c e]
+=3 qua G[ smq F E] cro D C qua rest C
+=4' qua g[ smq f e] cro d c blank
+=4, min G cro c rest
+|
+il0.4    20
+=1 qua c)1[ B, An, c] B,[ c db c]
+=2 qua db[ e f e] d[ c B, c]
+=3 min F(2 qua F)2[ smq G An] qua B'[ Ab]
+=4 cro rest qua rest F min B(2
+|
+=1 qua B'[ A G B'] A[ B'] cro c
+=2 cro db qua rest d min e(1
+=3 qua G[ A B' G] cro E qua rest G
+=4 qua B)2[ c db' B] c[ B A B]
+/
+4 bars |3b 8|8|8|1 1 1 1 1 1.9 1 1|
+|
+=1 treble8va 3b smb F(2
+=2 treble    3b qua e)1[ db c e] cro. d qua c
+=3 treble    3b qua An[ B' c' A] cro. B' qua Ab
+=4 bass8va   3b qua c[ db' e' c] d'[ c B c]
+|
+=1 qua F)2[ G A F] G,[ c db c]
+=2 min. B cro A
+=3 cro G min. rest
+=4 qua dn,[ en f d] e'[ c] cro f
+|
+=1 qua B'[ A G B'] A[ B' c' B']
+=2 cro G c(1 qua c)1[ dn] cro eb(1
+=3 min rest cro F c
+=4 cro f en f qua c[ d']
+|
+il0.4    25
+=1 qua A[ G F A] G[ smq F En] qua F[ B']
+=2 cro e)1 qua d[ f] e[ B, A, B,]
+=3 cro c Bn, c qua F[ G]
+=4 cro e e(1 qua e)1[ smq db, c,] cro d'
+/
+4 bars |3b 1 1 1 1 1 1.3 1 1|1 1 1 1 1 1 1 1.3|1 1.3 1 1.3 1 1.3 1 1.3|1 1.9 1 1.9 1 1 1 1|
+|
+=1 treble8va 3b cro En rest rest qua db[ c]
+=2 treble    3b qua c[ db eb c] d[ c B, c]
+=3 treble    3b cro A A(2 qua A)2[ smq G F] cro G
+=4 bass8va   3b cro c f min B(2
+|
+=1 qua B'[ A G B'] cro A(2 qua A)2[ smq G F]
+=2 qua dn[ en f d] e[ c] cro f(2
+=3 cro F rest min rest
+=4 qua B)2[ c db' B] min c(2
+|
+=1 min G(2 qua G)2[ smq A B'] qua A[ smq G F]
+=2 qua f)2[ smq en d] qua e[ smq f g] cro. c qua d
+=3 qua rest Bn,[ c Bb,] A[ G F A]
+=4 smb c)2(2
+|
+=1 qua db[ smq c dn] qua en[ f] min eb(1
+=2 qua en[ f] g[ smq a g] qua an[ b] cro c~
+=3 qua G[ A B' A] Gb[ F E G]
+=4 min c)2(2 cro. c)2 qua B
+/
+5 bars |3b 1 1.2 1 1 1.2 1 1 1|2 2.3 2 2|1 1 1 1.2 1 1 1 1|1 1.2 1 1.2 1 1 1 1|1 1.2 1 1 1 1 1 1|
+|
+il0.5       30
+=1 treble8va 3b qua e)1[ f gb f] e[ db c e]
+=2 treble    3b cro f rest min rest
+=3 treble    3b cro c db c f
+=4 bass8va   3b qua An[ F] min B cro Ab(2
+|
+=1 qua dn[ B,] min e cro db(1
+=2 qua rest b[ c~ b] a[ g f a]
+=3 cro B rest min rest
+=4 cro A)2 G F B
+|
+=1 cro d)1 c min B,
+=2 qua g[ e] min a cro gb(1
+=3 smb rest
+=4 qua rest e[ f e] db'[ c B d']
+|
+=1 qua A[ c'] cro db min e(1
+=2 cro g)1 f b a(1
+=3 qua rest A[ B' A] Gb[ F E G]
+=4 qua c[ A] min db' cro c
+|
+=1 cro e)1 qua db[ c] cro. B, qua c
+=2 min a)1(1 cro a)1 gb
+=3 qua F[ A] cro db(1 qua d)1[ B,] cro e(1
+=4 qua db[, e f d] gb[ f g e]
+
+4 systems /18 22 18 22 18 22 18/18 24 18 20 18 22 18/18 22 18 22 18 26 18/18 22 18 22 18 22 18/
+pagenum 6
+innerhead J. S. Bach, BWV 689, Fuga super: Jesus Christus unser Heiland, SATB recorders
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+4 bars |3b 8|1 1 1 1 1 1.3 1 1|8|1 1.3 1 1 1 1.3 1 1|
+|
+il0.5       35
+=1 treble8va 3b cro An B'(2 cro. B')2 qua A
+=2 treble    3b min f rest
+=3 treble    3b qua e)1[ c db B,] c[ d] cro e(1
+=4 bass8va   3b min f F
+|
+=1 cro B, qua rest db cro c qua rest c
+=2 cro f b b cro an
+=3 qua e)1[ db gb f] e[ smq d c] qua f[ e]
+=4 cro B rest min rest
+|
+i0.4         à 1
+=1 cro F f c~ c~
+=2 cro b qua f[ g] cro a a(1
+=3 qua db[ c] cro d qua rest c[ B, A,]
+=4 smb rest
+|
+=1 cro bn c~ qua f[ g] cro a
+=2 qua a)1[ smq g f] qua g[ gb] qua. f[ smq en] cro f
+=3 qua db[ dn] cro e(1 qua e)1[ db] cro c
+=4 cro rest qua rest qua an cro b qua f[ g]
+/
+4 bars |3b 1 1 1 1.4 1 1 1 1.3|1 1 1 1.3 1 1 1 1.9|1 1 1 1 1 1.3 1 1.3|1 1.3 1 1.9 1 1.3 1.3 1.3|
+|
+=1 treble8va 3b cro a(1 qua a)1[ smq g f] cro g qua f[ smq g a]
+=2 treble    3b qua rest d~b c~[ smq b a] qua b[ g c~ d~n]
+=3 treble    3b cro f f en f
+=4 bass8va   3b qua a[ b] cro c~(1 qua c~)1[ b] a[ smq g f]
+|
+il0.4      40
+=1 min g(2 qua g)2[ c~] cro f(1
+=2 qua e~[ bn] cro c~(1 cro. c~)1 smq bb[ an]
+=3 qua c[ d] cro e cro. e smq d[ c]
+=4 cro. e smq f[ g] qua a[ an] cro b(1
+|
+i0.4         tutti
+=1 cro. f)1 qua e(1 e)1[ smq d c] qua d[ g]
+=2 qua b[ d~] cro g a g(1
+=3 cro d min c cro Bn,
+=4 qua b)1[ bn c~ c,] cro. f smq e[ d,]
+|
+=1 cro c(1 qua c)1[ smq B, An,] qua B,[ e] cro Ab(2
+=2 qua g)1[ smq f e] cro f(1 qua f)1[ g](1 smq g)1[ g f e]
+=3 cro c rest min rest
+=4 qua e[ a] cro d'(2 qua d')2[ smq c B] qua c,[ f]
+/
+4 bars |3b 1.9 1.3 1 1.3 1 1.3 1 1|1 1.6 1 1 1 1.9 1 1|1 1.3 1 1.3 1 1 1 1|1.9 1.3 1 1.3 1 1 1 1.3|
+|
+=1 treble8va 3b qua A)2[ smq G F] cro G(2 cro. G)2 qua F#
+=2 treble    3b smq d[ c Bn c] cro d(1 qua d)1[ smq c B,] cro c(1
+=3 treble    3b qua rest cro F smq E[ D] qua E[ G C D]
+=4' bass8va  3b qua rest' cro f smq e[ d] qua e[ g c d]
+=4, bass8va  3b qua Bn[ d B G] qua c[ e] cro A
+|
+=1 min G(2 qua G)2[ smq An Bn'] cro c
+=2 qua c)1[ smq d e] cro Bn, c qua rest f(1
+=3 qua E[ smq D C] qua D[ F](2 F)2[ smq E D] qua E[ A]
+=4' qua e[ smq d c] qua d[ f](1 f)1[ smq e d] qua e[ a]
+=4, qua G rest, cro G c c
+|
+il0.4      45
+=1 smb rest
+=2 qua f)1[ smq e d] cro e(1 qua e)1[ db c f]
+=3 qua D cro G smq F[ E] qua A[ B' E A]
+=4' qua d cro g smq f[ e] qua a[ b e a]
+=4, cro Bn c qua F[ G] cro A
+|
+=1 min rest qua rest cro A smq G[ F]
+=2 smq e[ dn c B,] qua e[ g] cro c d
+=3 qua F[ D B' E] min A
+=4' qua f[ d] b[ e] cro G F
+=4, cro A(2 qua A)2[ smq G F] cro G F
+/
+4 bars |3b 1 1 1 1.9 1 1 1 1.3|1 1 1 1.3 1 1.3 1 1|1 1 1 1.3 1 1.9 1 1.9 |1 1 1 1 1 1.3 1 1|
+|
+=1 treble8va 3b qua G[ c'] F[ smq G An] cro B' A
+=2 treble    3b qua e rest cro rest qua rest cro e smq db[ c]
+=3 treble    3b qua B' rest cro rest min rest
+=4 bass8va   3b qua rest cro e smq db'[ c] qua d,[ gb c, f]
+|
+=1 qua B,[ db G, c](1 c)1[ smq B, A,] qua B'[ G]
+=2 qua db[ f] cro en cro. f qua e
+=3 qua rest cro B' smq A[ G] qua A[ db' G c']
+=4 cro B rest min rest
+|
+=1 qua A[ B'] cro c(1 qua c)1[ smq B, An,] cro db(1
+=2 cro f qua e[ smq db c] qua d[ e] f[ smq g ab]
+=3 qua F[ G An F] B'[ c' B' Ab]
+=4 smb rest
+|
+il0.4     50
+=1 qua d)1[ c] cro B'(2 qua B')2[ smq A G] qua A[ B']
+=2 qua b[ a g f] cro en f
+=3 qua G[ A B' G] min c(1
+=4 min rest cro c f
+
+4 systems /18 24 18 22 18 20 18/18 27 18 20 18 20 18/18 22 18 22 18 22 18/18 35 18 20 18 22 18/
+pagenum 7
+innerhead J. S. Bach, BWV 689, Fuga super: Jesus Christus unser Heiland, SATB recorders
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+4 bars |3b 1 1 1 1 1.9 1.3 1 1|1.3 1.3 1.3 1.3 1 1.3 1 1.3|1 1 1 1 1.9 1 1 1|1.9 1 1 1 1.9 1 1 1|
+|
+=1 treble8va 3b qua c[ db c B,] min A(2
+=2 treble    3b min g(1 smq g)1[ f eb d] qua e[ f]
+=3 treble    3b min c)1(1 cro c)1 rest
+=4 bass8va   3b cro f en f qua c[ d']
+|
+=1 smq A)2[ A G F] qua G,[ g] c cro f smq e[ d]
+=2 cro B'(2 smq B')2[ G c' B'] qua A[ An B' Bn']
+=3 smb rest
+=4 cro e e(1 qua e)1[ smq d, c,] cro d,
+|
+=1 cro. e qua db smq c[ en qua f] B,[ eb](1
+=2 qua c[ c~ f b](1 b)1 cro a qua g
+=3 smb rest
+=4 cro c rest min rest
+|
+=1 qua e)1 cro db qua c smq B,[ dn qua e] A,[ db](1
+=2 smq f[ an qua b] e[ ab](1 a)1 cro g qua f
+=3 smb rest
+=4 smb rest
+/
+4 bars |3b 1.4 1 1.4 1.9 1 1 1.8 1.3|1.3 1 2.2 2.3 1 1 1.3 1.3|1 1 1 1 1.3 1 1 1|1 1.4 1.2 1 1 1 1 1|
+|
+il0.5       55
+=1 treble8va 3b qua db)1[ c Bn, Bb,](1 B')1[ A] smq B,[ db c B,]
+=2 treble    3b smq e[ g qua a(1] smq a)1[ a g f] qua en[ f] cro g
+=3 treble    3b smb rest
+=4 bass8va   3b qua rest a[ d, db,] c cro f qua en
+|
+=1 smq A,[ B, qua c] qua F[ B'](2 B')2[ A] smq G[ A B' G]
+=2 cro c qua rest g c cro f qua en
+=3 smb rest
+=4 qua f[ eb](2 smq e')2[ db' c B] qua en'[ f' B c]
+|
+=1 qua A,[ f a g] f[ en d f]
+=2 cro f c~ c~ bn
+=3 min F c
+=4 cro F rest min rest
+|
+=1 qua en[ smq f g] qua f[ eb] d[ e f d]
+=2 cro c~ qua f[ g] cro a a(1
+=3 min c Bn,
+=4 qua rest b[ a g] f[ e d f]
+/
+4 bars |3b 1 1.3 1 1 1 1.3 1 1|1 1.3 1 1 1 1 1 1|8|8|
+|
+=1 treble8va 3b min e(1 qua e)1[ smq db c] qua d[ G,]
+=2 treble    3b qua a)1[ smq g f] cro g cro. f qua e(1
+=3 treble    3b min c cro F G
+=4 bass8va   3b qua e'[ d' c B] An cro B qua c(2
+|
+il0.4      60
+=1 min c B,(1
+=2 qua e)1[ smq d c] qua d[ e] f[ e d f]
+=3 min A A(2
+=4 qua c,)2[ g f e] d'[ c B c]
+|
+=1 cro. B,)1 qua B e[ db c B,]
+=2 cro B, e min e(1
+=3 cro A)2 qua G[ F] min G
+=4 qua db,[ f e d,] c[ B Ab B]
+|
+=1 min An cro B' rest
+=2 qua e)1[ c f e] db[ c B, c]
+=3 smb F(2
+=4 qua c[ e' db' c] B[ An G A]
+/
+5 bars |3b 1.3 1.3 1 1.3 1.3 1 1 1|1.3 1 1 1.3 1.3 1.4 1.3 1|1.3 1 1 1 1 1.4 1 1.4|1 1.4 1.4 1 1 1 1 1|2.5 2.2||
+|
+=1 treble8va 3b qua rest B'[ An B'] c[ db e c]
+=2 treble    3b cro db qua rest d cro f qua rest an
+=3 treble    3b smb F)2(2
+=4 bass8va   3b qua B[ db' c B] An[ G F e']
+|
+=1 qua db[ c B, c] d[ e f d]
+=2 qua b[ an b a] b[ c~ d~b b]
+=3 smb F)2(2
+=4 qua db'[ e' d' c] B[ An G B]
+|
+il0.4      65
+=1 min e cro. db smq d[ c]
+=2 qua c~[ an b c~](1 c~)1[ smq b a] cro b(1
+=3 smb F)2(2
+=4 qua An[ F G A] B[ c db' B]
+|
+=1' cro rest'' min f cro en
+=1, qua db[ e]    d[ c]   B[ c]  dr[ B]
+=2' cro blank qua d~b[ c~] b[ c~] d~[ b]
+=2  qua b)1[ c~] b[ an] g[ a] b[ g]
+=3  smb F)2(2
+=4  smb f
+|
+=1  cro <f' c> rest min rest
+=2' cro c~ rest min rest
+=2  cro an rest min rest
+=3  cro F)2 rest min rest
+=4  cro F rest min rest
+
+14 systems /18/18/18/18/18/18/18/18/18/18/18/18/18/18/
+lefthead J. S. Bach,  BWV 689
+title Soprano Recorder
+righthead Fuga super: Jesus Christus unser Heiland
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+8 bars |3b 6|6|6|6|6|6|8|10|
+|
+=1 treble8va 3b smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.4  5
+=1 smb rest
+|
+=1 smb rest
+|
+=1 cro F c c Bn
+|
+=1 cro c qua F[ G] cro A A(2
+/
+5 bars |3b 1 1.5 1 1 1 1 1 1|7|8|1 1 1 1.5 1 1 1 1|1 1 1 2 1 1.2 1 1|
+|
+=1 treble8va 3b qua A)2[ smq G F] cro G F rest
+|
+il0.4         10
+=1 cro rest c f f
+|
+=1 cro en f qua c[ d] cro eb
+|
+=1 cro e(1 qua e)1[ smq db c] cro d c
+|
+=1 qua B cro e smq f[ gb] qua f[ e db c]
+/
+4 bars |3b 8|8|8|1 1.6 1 1 1 1 1 1|
+|
+=1 treble8va 3b min B(1 cro. B)1 qua A
+|
+il0.4    15
+=1 qua G[ A B' G] A[ G F A]
+|
+=1 qua An[ B' c' A] B,[ c] cro db
+|
+=1 qua c[ smq db e] cro f cro. B qua An
+/
+4 bars |3b 8|8|8|8|
+|
+=1 treble8va 3b cro. B qua Bn min c(1
+|
+=1 cro c)1 Bn qua c'[ G] cro c(1
+|
+il0.4    20
+=1 qua c)1[ B, An, c] B,[ c db c]
+|
+=1 qua B'[ A G B'] A[ B'] cro c
+/
+5 bars |3b 6|1 1 1 1 1 1.2 1 1|8|1 1 1 1 1 2 1 1|1 1 1 1 1 1 1 1.6|
+|
+=1 treble8va 3b smb F(2
+|
+=1 qua F)2[ G A F] G,[ c db c]
+|
+=1 qua B'[ A G B'] A[ B' c' B']
+|
+il0.4    25
+=1 qua A[ G F A] G[ smq F En] qua F[ B']
+|
+=1 cro En rest rest qua db[ c]
+/
+4 bars |3b 1 1 1 1 1 1 1 1.5|1 1 1 1 1 1.5 1 1.5|1 2 1 1 1 1 1 1|1 1 1.2 1 1 1.2 1 1|
+|
+=1 treble8va 3b qua B'[ A G B'] cro A(2 qua A)2[ smq G F]
+|
+=1 min G(2 qua G)2[ smq A B'] qua A[ smq G F]
+|
+=1 qua db[ smq c dn] qua en[ f] min eb(1
+|
+il0.5       30
+=1 qua e)1[ f gb f] e[ db c e]
+/
+5 bars |3b 8|8|1 1.3 1 1 1 1 1 1|8|8|
+|
+=1 treble8va 3b qua dn[ B,] min e cro db(1
+|
+=1 cro d)1 c min B,
+|
+=1 qua A[ c'] cro db min e(1
+|
+=1 cro e)1 qua db[ c] cro. B, qua c
+|
+il0.5       35
+=1 cro An B'(2 cro. B')2 qua A
+/
+5 bars |3b 8|6|8|1 1 1 1.5 1 1 1 1.5|8|
+|
+=1 treble8va 3b cro B, qua rest db cro c qua rest c
+|
+i0.4         à 1
+=1 cro F f c~ c~
+|
+=1 cro bn c~ qua f[ g] cro a
+|
+=1 cro a(1 qua a)1[ smq g f] cro g qua f[ smq g a]
+|
+il0.4      40
+=1 min g(2 qua g)2[ c~] cro f(1
+/
+4 bars |3b 1 1 1 1 1 1.5 1 1.5|1 1 1 2 1 1 1 1|1 1.5 1 1 1 1 1 1|1 1 1 1 1 2 1 1|
+|
+i0.4                    tutti
+=1 treble8va 3b cro. f)1 qua e(1 e)1[ smq d c] qua d[ g]
+|
+=1 cro c(1 qua c)1[ smq B, An,] qua B,[ e] cro Ab(2
+|
+=1 qua A)2[ smq G F] cro G(2 cro. G)2 qua F#
+|
+=1 min G(2 qua G)2[ smq An Bn'] cro c
+/
+5 bars |3b 5|1 1 1 1 1 1 1 1.5|1 1 1 2 1 1 1 1|1 1.2 1 1 1 1.5 1 1|1 1 1 1 1 2 1 1|
+|
+il0.4        45
+=1 treble8va 3b smb rest
+|
+=1 min rest qua rest cro A smq G[ F]
+|
+=1 qua G[ c'] F[ smq G An] cro B' A
+|
+=1 qua B,[ db G, c](1 c)1[ smq B, A,] qua B'[ G]
+|
+=1 qua A[ B'] cro c(1 qua c)1[ smq B, An,] cro db(1
+/
+4 bars |3b 1 1 1 1 1 1.5 1 1|1.2 1 1 1 .8 .8 .8 .8|1.5 1.5 1 1 1 1 1 1.5|1 1 1 1 2 1 1 1|
+|
+il0.4     50
+=1 treble8va 3b qua d)1[ c] cro B'(2 qua B')2[ smq A G] qua A[ B']
+|
+=1 qua c[ db c B,] min A(2
+|
+=1 smq A)2[ A G F] qua G,[ g] c cro f smq e[ d]
+|
+=1 cro. e qua db smq c[ en qua f] B,[ eb](1
+/
+4 bars |3b 1 1 1 1 2 1 1 1|1 1 1 1 1 1 1.5 1.5|1.5 1 1 1 1 1 1.5 1.5|8|
+|
+=1 treble8va 3b qua e)1 cro db qua c smq B,[ dn qua e] A,[ db](1
+|
+il0.5       55
+=1 qua d)1[ c Bn, Bb,](1 B')1[ A] smq B,[ db c B,]
+|
+=1 smq A,[ B, qua c] qua F[ B'](2 B')2[ A] smq G[ A B' G]
+|
+=1 qua A,[ f a g] f[ en d f]
+/
+5 bars |3b 1 1.5 1 1 1 1 1 1|.8 .8 .8 .8 1 1.5 1 1|6|8|7|
+|
+=1 treble8va 3b qua en[ smq f g] qua f[ eb] d[ e f d]
+|
+=1 min e(1 qua e)1[ smq db c] qua d[ G,]
+|
+il0.4      60
+=1 min c B,(1
+|
+=1 cro. B,)1 qua B e[ db c B,]
+|
+=1 min An cro B' rest
+/
+5 bars |3b 8|8|8|8|6||
+|
+=1 treble8va 3b qua rest B'[ An B'] c[ db e c]
+|
+=1 qua db[ c B, c] d[ e f d]
+|
+il0.4      65
+=1 min e cro. db smq d[ c]
+|
+=1' cro rest'' min f cro en
+=1, qua db[ e] d[ c] B[ c] dr[ B]
+|
+=1 cro <f' c> rest min rest
+
+15 systems /18/18/18/18/18/18/18/18/18/18/18/18/18/18 10/18/
+lefthead J. S. Bach,  BWV 689
+title Alto Recorder
+righthead Fuga super: Jesus Christus unser Heiland
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+5 bars |3b 7|8|1 1.4 .8 .8 1 1 1 1|1 1 1 1 1 1.4 1 1|1 1 1 1.3 1 1 1 1|
+|
+=1 treble    3b smb rest
+|
+=1 min rest cro c f
+|
+=1 cro f en f qua c[ d]
+|
+=1 cro eb e(1 qua e)1[ smq d c] cro d
+|
+il0.4  5
+=1 cro c qua d[ e] f[ e d f]
+/
+4 bars |3b 8|1 1 1 1 1 1 1 1.3|8|1 1.3 1 1 1 1 1 1|
+|
+=1 treble    3b qua e[ f g f] e[ db c e]
+|
+=1 qua db[ e f e] dn cro a smq g[ f]
+|
+=1 qua en[ c] cro f(1 qua f)1[ eb db c]
+|
+=1 cro. db qua c(1 c)1[ dn e f]
+/
+4 bars |3b 1 1 1 1 1 1.3 1 1|8|1 1.3 1 1.3 1 1 1 1|1 1 1 1.9 1 1 1 1|
+|
+il0.4         10
+=1 treble    3b cro g c~ c~ bn
+|
+=1 cro c~ qua f[ g] cro a a(1
+|
+=1 qua a)1[ smq gb f] cro g qua f[ gn] cro a
+|
+=1 cro g an cro. b qua a
+/
+5 bars |3b 8|7|7|1.75 2 1.75 1.75| 1 1.4 .9 .9 .9 .9 .9 1|
+|
+=1 treble    3b qua b[ ab g f] en[ c] cro f(1
+|
+il0.4    15
+=1 cro f)1 en f rest
+|
+=1 cro c f f en
+|
+=1 cro f qua c[ dn] cro e e(1
+|
+=1 qua e)1[ smq d c] cro d cro. c qua d
+/
+5 bars |3b 8|8|7.5|4 3|7|
+|
+=1 treble  3b   qua e[ f g f] e[ d c e]
+|
+il0.4    20
+=1 qua db[ e f e] d[ c B, c]
+|
+=1 cro db qua rest d min e(1
+|
+=1 qua e)1[ db c e] cro. d qua c
+|
+=1 min. B cro A
+/
+4 bars |3b 8|8|8|8|
+|
+=1 treble  3b  cro G c(1 qua c)1[ dn] cro eb(1
+|
+il0.4    25
+=1 cro e)1 qua d[ f] e[ B, A, B,]
+|
+=1 qua c[ db eb c] d[ c B, c]
+|
+=1 qua dn[ en f d] e[ c] cro f(2
+/
+5 bars |3b 1 1.3 1 1.3 .9 .9 .9 1|1 1 1 1.6 1 1 .9 .9|6.5|4.5 4|2 1.5 1.5 1.8|
+|
+=1 treble  3b   qua f)2[ smq en d] qua e[ smq f g] cro. c qua d
+|
+=1 qua en[ f] g[ smq a g] qua an[ b] cro c~
+|
+il0.2       30
+=1 cro f rest min rest
+|
+=1 qua rest b[ c~ b] a[ g f a]
+|
+=1 qua g[ e] min a cro gb(1
+/
+5 bars |3b 7.5|7.5|7|7.5|1.75 2 1.75 1.75|
+|
+=1 treble    3b cro g)1 f b a(1
+|
+=1 min a)1(1 cro a)1 gb
+|
+il0.2       35
+=1 min f rest
+|
+=1 cro f b b an
+|
+=1 cro b qua f[ g] cro a a(1
+/
+4 bars |3b 1 1.3 1 1 1 1 1 1|1.2 1.2 1.2 1.4 1.2 1 1.2 1|1.2 1.2 1 1 1 1 1 1.6|2.4 1.9 1.9 1.9|
+|
+=1 treble    3b qua a)1[ smq g f] qua g[ gb] qua. f[ smq en] cro f
+|
+=1 qua rest d~b c~[ smq b a] qua b[ g c~ d~n]
+|
+il0.7       40
+=1 qua e~[ bn] cro c~(1 cro. c~)1 smq bb[ an]
+|
+=1 qua b[ d~] cro g a g(1
+/
+4 bars |3b 1 1.3 .9 .9 1 1 1.3 1.3|1.8 1.3 .9 .9 1 1.3 .9 .9|1 1.6 .9 .9 .9 .9 .9 1|1 1.3 .9 .9 1.2 1 1 1|
+|
+=1 treble    3b qua g)1[ smq f e] cro f(1 qua f)1[ g](1 smq g)1[ g f e]
+|
+=1 smq d[ c Bn c] cro d(1 qua d)1[ smq c B,] cro c(1
+|
+=1 qua c)1[ smq d e] cro Bn, c qua rest f(1
+|
+il0.4      45
+=1 qua f)1[ smq e d] cro e(1 qua e)1[ db c f]
+/
+4 bars |3b 1.8 1.3 1 1 .9 .9 .9 .9|.9 .9 .9 .9 1 .9 .9 1.3|1 1.3 .9 .9 .9 .9 .9 1|.9 .9 1.2 1.4 1 1 1 1.6|
+|
+=1 treble    3b smq e[ dn c B,] qua e[ g] cro c d
+|
+=1 qua e rest cro rest qua rest cro e smq db[ c]
+|
+=1 qua db[ f] cro en cro. f qua e
+|
+=1 cro f qua e[ smq db c] qua d[ e] f[ smq g ab]
+/
+4 bars |3b 1 1 1 1.2 .9 .9 .9 .9|.8 .8 .8 .8 1.6 1.3 1 1|.9 .9 1.3 1.3 1.2 1 1.2 1|8|
+|
+il0.4     50
+=1 treble    3b qua b[ a g f] cro en f
+|
+=1 min g(1 smq g)1[ f eb d] qua e[ f]
+|
+=1 cro B'(2 smq B')2[ G c' B'] qua A[ An B' Bn']
+|
+=1 qua c[ c~ f b](1 b)1 cro a qua g
+/
+4 bars |3b 1.6 1 1.2 1.1 1 .9 .9 1|1.3 1 1.3 1.6 1 1 .9 .9|8|7|
+|
+=1 treble    3b smq f[ an qua b] e[ ab](1 a)1 cro g qua f
+|
+il0.5  55
+=1 smq e[ g qua a(1] smq a)1[ a g f] qua en[ f] cro g
+|
+=1 cro c qua rest g c cro f qua en
+|
+=1 cro f c~ c~ bn
+/
+5 bars |3b 1.75 2 1.75 1.75|1 1.3 .9 .9 .9 .9 .9 1|1 1.3 1 1 1 1 1 1|3.5 3|1 1 1 1.2 1 1 1 1|
+|
+=1 treble    3b cro c~ qua f[ g] cro a a(1
+|
+=1 qua a)1[ smq g f] cro g cro. f qua e(1
+|
+il0.4      60
+=1 qua e)1[ smq d c] qua d[ e] f[ e d f]
+|
+=1 cro B, e min e(1
+|
+=1 qua e)1[ c f e] db[ c B, c]
+/
+5 bars |3b 1 1.2 1 1 1.2 1 1 1|1.2 1 1 1.2 1.2 1.4 1.2 1|1.3 1 1 1 1 1.4 1 1.4|1 1 1.43 1 1 1 1 1|2.5 2.2||
+|
+=1 treble    3b cro db qua rest d cro f qua rest an
+|
+=1 qua b[ an b a] b[ c~ d~b b]
+|
+il0.6      65
+=1 qua c~[ an b c~](1 c~)1[ smq b a] cro b(1
+|
+=1' cro blank qua d~b[ c~] b[ c~] d~[ b]
+=1 qua b)1[ c~]   b[ an]  g[ a]  b[ g]
+|
+=1' cro c~ min. blank
+=1 cro an rest' min rest'
+
+13 systems /18/18/18/18/18/18/18/18/18/18/18/18/18/
+lefthead J. S. Bach,  BWV 689
+title Tenor Recorder
+righthead Fuga super: Jesus Christus unser Heiland
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+4 bars |3b 7|1.75 2 1.75 1.75| 1 1.4 .85 .85 1 1 1 1| 8|
+|
+=1 treble    3b cro F c c Bn
+|
+=1 cro c qua F[ G] cro A A(2
+|
+=1 qua A)2[ smq G F] cro G qua F[ G A F]
+|
+=1 qua G[ F E F] G[ A B' G]
+/
+5 bars |3b 4 3.5|1.75 2.2 1.75 1.75|1.75 2 1.75 1.75|1.7 2 1.7 2|1.6 1.6 2 1.8|
+|
+il0.4      5
+=1 treble    3b qua A[ G F G] cro An Bn'
+|
+=1 cro c qua Bb'[ Ab] cro G An
+|
+=1 cro B' qua Ab[ G] cro F G
+|
+=1 cro. A qua B cro c qua B'[ A]
+|
+=1 min B'(1 qua B')1[ A] cro G(2
+/
+6 bars |3b 8|1 1 .9 .9 1.4 1 .9 .9|8|4.5|4.5|4.5|
+|
+il0.4         10
+=1 treble    3b qua G)2[ A B' G] A[ G F G]
+|
+=1 qua A[ G] cro c(1 qua c)1[ Bn,] cro c(1
+|
+=1 qua c)1 cro B qua An cro B rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.4    15
+=1 smb rest
+/
+5 bars |3b 2.6 3|1.7 1.7 1.7 2|.8 .8 .8 .8 1 1.6 1.2 1.2|1 1.5 .9 .9 .9 .9 1 1|.8 .8 .8 .8 1 2.2 1.2 1|
+|
+=1 treble    3b min rest cro F B'
+|
+=1 cro B' An B' qua E[ F]
+|
+=1 cro G G(2 qua G)2[ smq F E] qua F[ F#]
+|
+=1 qua G[ smq F E] cro D C qua rest C
+|
+il0.4    20
+=1 min F(2 qua F)2[ smq G An] qua B'[ Ab]
+/
+5 bars |3b 8|4 3.5|6|3 3.5|1.7 1.7 1.7 2|
+|
+=1 treble    3b qua G[ A B' G] cro E qua rest G
+|
+=1 qua An[ B' c' A] cro. B' qua Ab
+|
+=1 cro G min. rest
+|
+=1 min rest cro F c
+|
+il0.4    25
+=1 cro c Bn, c qua F[ G]
+/
+5 bars |3b .8 .8 .8 .8 1 1.5 .8 .8|6|1.2 1 1.2 1 1 1 1 1|1 1 1 1.2 1 1 1 1|7|
+|
+=1 treble    3b cro A A(2 qua A)2[ smq G F] cro G
+|
+=1 cro F rest min rest
+|
+=1 qua rest Bn,[ c Bb,] A[ G F A]
+|
+=1 qua G[ A B' A] Gb[ F E G]
+|
+il0.5       30
+=1 cro c db c f
+/
+5 bars |3b 6|6|1 1 1 1.2 1 1 1 1|1 1.2 .8 .8 1 1 .8 .8|1 1.2 1 1 1 1 .8 .8|
+|
+=1 treble    3b cro B rest min rest
+|
+=1 smb rest
+|
+=1 qua rest A[ B' A] Gb[ F E G]
+|
+=1 qua F[ A] cro db(1 qua d)1[ B,] cro e(1
+|
+il0.5       35
+=1 qua e)1[ c db B,] c[ d] cro e(1
+/
+4 bars |3b 1 1.2 1.2 1 1 1.5 1 1|1 1 .8 .8 1 1 1 1|1.2 1 .8 .8 1.2 1 .8 .8|6|
+|
+=1 treble    3b qua e)1[ db gb f] e[ smq d c] qua f[ e]
+|
+=1 qua db[ c] cro d qua rest c[ B, A,]
+|
+=1 qua db[ dn] cro e(1 qua e)1[ db] cro c
+|
+=1 cro f f en f
+/
+4 bars |3b 1 1 .8 .8 .8 .8 .8 1.5|1.6 1.4 1.4 1.6|3.2 2.5|1 .8 .8 1.5 1 1 1 1|
+|
+il0.4      40
+=1 treble    3b qua c[ d] cro e cro. e smq d[ c]
+|
+=1 cro d min c cro Bn,
+|
+=1 cro c rest min rest
+|
+=1 qua rest cro F smq E[ D] qua E[ G C D]
+/
+4 bars |3b 1 1.5 1 1 1 1.5 1 1|1 .8 .8 1.5 1 1 1 1|4 2.8|2 1.6 1.4 1.4|
+|
+=1 treble    3b qua E[ smq D C] qua D[ F](2 F)2[ smq E D] qua E[ A]
+|
+il0.4      45
+=1 qua D cro G smq F[ E] qua A[ B' E A]
+|
+=1 qua F[ D B' E] min A
+|
+=1 qua B' rest cro rest min rest
+/
+5 bars |3b 1 .8 .8 1.5 1.2 1 1 1|1 1.2 1 1 1 1 1.2 1|4 2.8|3.2 2.8|5|
+|
+=1 treble    3b qua rest cro B' smq A[ G] qua A[ db' G c']
+|
+=1 qua F[ G An F] B'[ c' B' Ab]
+|
+il0.4     50
+=1 qua G[ A B' G] min c(1
+|
+=1 min c)1(1 cro c)1 rest
+|
+=1 smb rest
+/
+7 bars |3b 4|4|4|4|5|5|2.5 3|
+|
+=1 treble    3b smb rest
+|
+=1 smb rest
+|
+il0.2       55
+=1 smb rest
+|
+=1 smb rest
+|
+=1 min F c
+|
+=1 min c Bn,
+|
+=1 min c cro F G
+/
+8 bars |3b 5|3 2.5|4.5|4.5|4.5|4.5|4.5|5||
+|
+il0.4      60
+=1 treble    3b min A A(2
+|
+=1 cro A)2 qua G[ F] min G
+|
+=1 smb F(2
+|
+=1 smb F)2(2
+|
+=1 smb F)2(2
+|
+il0.2      65
+=1 smb F)2(2
+|
+=1 smb F)2(2
+|
+=1 cro F)2 rest min rest
+
+14 systems /18/18/18/18/18/18/18/18/18/18/18/18/18/18/
+lefthead J. S. Bach,  BWV 689
+title Bass Recorder
+righthead Fuga super: Jesus Christus unser Heiland
+leftfoot Arranged and Typeset 2000 by Peter J Billam.
+/
+8 bars |3b 5|5|5|5|5|5|5|8|
+|
+=1 bass8va   3b smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.4  5
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 min rest cro c f
+/
+5 bars |3b 1.6 1.6 1.6 2|.8 .8 .8 .8 1 1.5 .8 .8|2 2 1.6 2| .7 .7 .7 .7 .8 .8 1.2 1|1.2 1 1 1 1 1 1 1|
+|
+=1 bass8va   3b cro f en f qua c[ d']
+|
+il0.4         10
+=1 cro e e(1 qua e)1[ smq d, c,] cro d
+|
+=1 qua c,[ b a g] cro f qua c[ d']
+|
+=1 min e cro B qua c[ db']
+|
+=1 qua e[ db, c, e] d,[ e f e]
+/
+4 bars |3b 8|8|1 1.9 1 1 1 1 1 1|1 1.3 1 1 1.4 1.9 1 1|
+|
+=1 bass8va   3b qua db'[ c B d'] min c(2
+|
+il0.4    15
+=1 cro c)2 c qua f[ g a g]
+|
+=1 qua f[ smq e db,] cro e(1 qua e')1[ d' c B]
+|
+=1' min. blank qua e[ f]
+=1 min f smq gb[ f e db] cro c,
+/
+4 bars |3b 1 1.3 1 1.3 1 1.3 1 1|1 1.3 1 1 1 1 1 1|1 1 1 1 1 1.9 1 1|8|
+|
+=1'          3b cro gn g(1 qua g)1[ smq f e] qua f[ f#]
+=1, bass8va  3b cro. B smq A[ G] min A
+|
+=1' qua g[ smq f e] cro d c blank
+=1, min G cro c rest
+|
+il0.4    20
+=1 cro rest qua rest F min B(2
+|
+=1 qua B)2[ c db' B] c[ B A B]
+/
+5 bars |3b 1.2 1 1 1 1 1 1 1|1.2 1 1 1 1 1 .8 .8|1.6 1.6 1.6 2|.8 .8 .8 .8 1.2 1.5 .8 .8|3.2 2.5|
+|
+=1 bass8va   3b qua c[ db' e' c] d'[ c B c]
+|
+=1 qua dn,[ en f d] e'[ c] cro f
+|
+=1 cro f en f qua c[ d']
+|
+il0.4    25
+=1 cro e e(1 qua e)1[ smq db, c,] cro d'
+|
+=1 cro c f min B(2
+/
+5 bars |3b 1 1.2 1 1 .7 .7 .7 .7|5|2.5 3.2|2 1.4 1.4 1.7|6.5|
+|
+=1 bass8va   3b qua B)2[ c db' B] min c(2
+|
+=1 smb c)2(2
+|
+=1 min c)2(2 cro. c)2 qua B
+|
+il0.5       30
+=1 qua An[ F] min B cro Ab(2
+|
+=1 cro A)2 G F B
+/
+5 bars |3b 1 1 1 1.2 1 1 1 1|1 1.2 .7 .7 .7 .7 .8 .8|1 1 1 1.2 1 1 1 1|5|3.2 2.5|
+|
+=1 bass8va   3b qua rest e[ f e] db'[ c B d']
+|
+=1 qua c[ A] min db cro c
+|
+=1 qua db[, e f d] gb[ f g e]
+|
+il0.5       35
+=1 min f F
+|
+=1 cro B rest min rest
+/
+5 bars |3b 5|.8 .8 1.2 1 .8 .8 1 1|1 1 .8 .8 1.2 1 1 1.5|.8 .8 .8 1.5 1.2 1 .8 .8|1.3 1.1 1 1 .8 .8 .8 1.5|
+|
+=1 bass8va   3b smb rest
+|
+=1 cro rest qua rest qua an cro b qua f[ g]
+|
+=1 qua a[ b] cro c~(1 qua c~)1[ b] a[ smq g f]
+|
+il0.2      40
+=1 cro. e smq f[ g] qua a[ an] cro b(1
+|
+=1 qua b)1[ bn c~ c,] cro. f smq e[ d,]
+/
+4 bars |3b 1 1 .8 .8 1 1.5 1 1|1 1 1 1.5 1 1 1 1|1 1.5 1 1 1 1.5 1 1|1 .8 .8 1.5 1 1 1 1|
+|
+=1 bass8va   3b qua e[ a] cro d'(2 qua d')2[ smq c B] qua c,[ f]
+|
+=1' qua rest' cro f smq e[ d] qua e[ g c d]
+=1, qua Bn[ d B G] qua c[ e] cro A
+|
+=1' qua e[ smq d c] qua d[ f](1 f)1[ smq e d] qua e[ a]
+=1, qua G rest, cro G c c
+|
+il0.5   45
+=1' qua d cro g smq f[ e] qua a[ b e a]
+=1, cro Bn c qua F[ G] cro A
+/
+4 bars |3b 1 1 1 1.5 .8 .8 .8 .8|1 .8 .8 1.5 1.2 1 1 1|3.2 2.5|5|
+|
+=1' bass8va   3b qua f[ d] b[ e] cro G F
+=1, bass8va   3b cro A(2 qua A)2[ smq G F] cro G F
+|
+=1 qua rest cro e smq db'[ c] qua d,[ gb c, f]
+|
+=1 cro B rest min rest
+|
+=1 smb rest
+/
+5 bars |3b 2.5 3.2|1.6 1.6 1.6 2|.8 .8 .8 .8 1 1.5 .8 .8|3.2 2.5|5|
+|
+il0.4     50
+=1 bass8va   3b min rest cro c f
+|
+=1 cro f en f qua c[ d']
+|
+=1 cro e e(1 qua e)1[ smq d, c,] cro d,
+|
+=1 cro c rest min rest
+|
+=1 smb rest
+/
+4 bars |3b 1 1 1.2 1 1 .8 .8 1|1.2 1 2.0 2.0 1 1 1 1|3.2 2.5|8|
+|
+il0.5       55
+=1 bass8va   3b qua rest a[ d, db,] c cro f qua en
+|
+=1 qua f[ eb](2 smq e')2[ db' c B] qua en'[ f' B c]
+|
+=1 cro F rest min rest
+|
+=1 qua rest b[ a g] f[ e d f]
+/
+4 bars |3b 1 1 1 1.2 1 .8 .8 1|8|1 1 1 1 1 1.2 1 1|1 1.2 1 1 1.2 1 1 1|
+|
+=1 bass8va   3b qua e'[ d' c B] An cro B qua c(2
+|
+il0.4      60
+=1 qua c,)2[ g f e] d'[ c B c]
+|
+=1 qua db,[ f e d,] c[ B Ab B]
+|
+=1 qua c[ e' db' c] B[ An G A]
+/
+5 bars |3b 1.2 1 1 1 1.2 1 1 1|1 1 1 1.2 1.2 1 1 1|1 1 1 1 1 1.2 1 1|5|3.2 2.5||
+|
+=1 bass8va   3b qua B[ db' c B] An[ G F e']
+|
+=1 qua db'[ e' d' c] B[ An G B]
+|
+il0.4      65
+=1 qua An[ F G A] B[ c db' B]
+|
+=1 smb f
+|
+=1 cro F rest min rest
+@
+
+
+1.5
+log
+@add chorale bwv363 on page 3
+@
+text
+@d1 1
+a1 1
+3 systems /18 22 18 35 18 22 18/18 22 18 35 18 22 18/18 22 18 35 18 22 18 20/
+d33 1
+a33 1
+4 bars |2b 9|4 3.5|8|8|
+d71 1
+a71 1
+r0.6    er        uns       aus       der
+d130 1
+a130 1
+=3 cro B qua Ab[ G] cro F G
+d191 1
+a191 1
+pagenum 4
+d199 2
+a200 2
+=3 treble    3b cro G G(2 qua G)2[ smq F E] qua F[ F#]
+=4'          3b cro g g(1 qua g)1[ smq f e] qua f[ f#]
+d286 1
+a286 1
+=4 qua c[ A] min db cro c
+d293 2
+a294 2
+4 systems /18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 26 18/18 22 18 22 18 22 18/
+pagenum 5
+d396 2
+a397 2
+4 systems /18 22 18 22 18 20 18/18 27 18 20 18 20 18/18 22 18 22 18 22 18/18 25 18 20 18 22 18/
+pagenum 6
+d423 1
+a423 1
+4 bars |3b 1.4 4 1.4 1.9 1 1 1.8 1.3|1.3 1 2.1 2.1 1 1 1.3 1.3|1 1 1 1 1.3 1 1 1|1 1.4 1.2 1 1 1 1 1|
+d426 1
+a426 1
+=1 treble8va 3b qua d)1[ c Bn, Bb,](1 B')1[ A] smq B,[ db c B,]
+d469 1
+a469 1
+5 bars |3b 1 1.2 1 1 1.2 1 1 1|1.2 1 1 1.2 1.2 1.4 1.2 1|1.3 1 1 1 1 1.4 1 1.4|1 1 1.43 1 1 1 1 1|2.5 2.2||
+d488 192
+a680 3
+=2 qua b)1[ c~] b[ an] g[ a] b[ g]
+=3 smb F)2(2
+=4 smb f
+d683 552
+a1234 3
+=2 cro an rest min rest
+=3 cro F)2 rest min rest
+=4 cro F rest min rest
+@
+
+
+1.4
+log
+@spacing, and divisi to support low tenor bits
+@
+text
+@d1 86
+d357 1
+a357 1
+=4' qua e[ smq d c] qua d[ f](2 f)2[ smq e d] qua e[ a]
+d370 1
+a370 1
+=4' qua f[ d] b[ e] min a
+d378 1
+a378 2
+=4' bass8va  3b qua b min.. blank
+=4 bass8va   3b qua rest, cro e smq db'[ c] qua d,[ gb c, f]
+@
+
+
+1.3
+log
+@added up to end
+@
+text
+@d7 1
+a7 1
+5 bars |3b 7|4 3.5|2.4 1.75 2 2|8|8|
+d35 1
+a35 1
+4 bars |3b 8|8|8|8|
+d57 1
+a57 1
+4 bars |3b 8|8|8|8|
+d65 1
+a65 1
+=1 cro en f qua c[ d] eb
+d80 1
+a80 1
+4 bars |3b 8|8|8|8|
+d91 1
+a91 1
+=4 cro c)2 qua rest c f[ g a g]
+d101 2
+a102 1
+=4 min f smq gb[ f e db] cro c
+d109 1
+a109 1
+4 bars |3b 8|8|8|8|
+d113 3
+a115 2
+=3 treble    3b cro cro Gn G(2 qua G)2[ smq F E] qua F[ F#]
+=4 bass8va   3b cro. B smq A[ G] min A
+d120 2
+a121 1
+=4 min G cro c rest
+d134 1
+a134 1
+4 bars |3b 8|8|8|8|
+d137 1
+a137 1
+=2 treble    3b qua e[ db c e] cro. d qua c
+d146 1
+a146 1
+=1 qua B'[ A G B'] A[ B' c' A]
+d157 1
+a157 1
+4 bars |3b 8|8|8|8|
+d167 1
+a167 1
+=4 qua B)2[ c d' B] min c(2
+d179 1
+a179 1
+5 bars |3b 8|8|8|8|8|
+d184 1
+a184 1
+=3 treble    3b cro C Db C F
+d207 1
+a207 1
+4 systems /18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/
+d212 1
+a212 1
+4 bars |3b 8|8|8|8|
+d221 1
+a221 1
+=2 cro f min b cro an
+d225 1
+d231 1
+a231 1
+=1 cro b c~ qua f[ g] cro a
+d236 1
+a236 1
+4 bars |3b 8|8|8|8|
+d249 1
+d260 1
+a260 1
+4 bars |3b 8|8|8|8|
+d265 2
+a266 1
+=4 bass8va   3b qua Bn[ d' B G] qua c[ e'] cro A
+d271 2
+a272 1
+=4 qua G rest cro G c c
+d278 2
+a279 1
+=4 cro Bn c qua F[ G] cro A
+d284 2
+a285 1
+=4 cro A(2 qua A)2[ smq G F] cro G F
+d287 1
+a287 1
+4 bars |3b 8|8|8|8|
+d289 1
+a289 1
+=1 treble8va 3b qua G[ c'] F[ smq G An] cro B A
+d292 2
+a293 1
+=4 bass8va   3b qua rest cro e smq db'[ c] qua d,[ gb c, f]
+d311 1
+a311 1
+4 systems /18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/18 22 18 22 18 22 18/
+d316 1
+a316 1
+4 bars |3b 8|8|8|8|
+d338 1
+a338 1
+4 bars |3b 8|8|8|8|
+d341 1
+a341 1
+=1 treble8va 3b qua d)1[ c Bn, Bb,](1 B')1[ A] smq B,[ d c B,]
+d344 1
+a344 1
+=4 bass8va   3b qua a[ d, db,] c cro f qua en
+d358 1
+a358 1
+=3 min c B,
+d361 1
+a361 1
+4 bars |3b 8|8|8|8|
+d384 1
+a384 1
+5 bars |3b 8|8|8|8|5||
+d387 1
+a387 1
+=2 treble    3b cro db qua rest d cro f rest an
+d389 1
+a389 1
+=4 bass8va   3b qua B[ d' c B] An[ G F e']
+d392 1
+a392 1
+=2 qua b[ an b a] b[ c~ d~ b]
+d404 1
+a404 1
+=2 qua b)1[ c~] b[ a] g[ a] b[ g]
+d409 1
+a409 1
+=2 cro a rest min rest
+@
+
+
+1.2
+log
+@add up to bar 46
+@
+text
+@d277 125
+@
+
+
+1.1
+log
+@add up to bar 26
+@
+text
+@d7 1
+a7 1
+5 bars |7|4 3.5|2.4 1.75 2 2|8|8|
+d35 1
+a35 1
+4 bars |8|8|8|8|
+d57 1
+a57 1
+4 bars |8|8|8|8|
+d80 1
+a80 1
+4 bars |8|8|8|8|
+d108 1
+a108 1
+4 bars |8|8|8|8|
+d131 1
+a131 1
+4 bars |8|8|8|8|
+d154 1
+a154 1
+4 bars |8|8|8|8|
+d161 116
+a276 4
+=1 
+=2 
+=3 
+=4 
+@

@@ -1,0 +1,375 @@
+% start
+midi channel 1 patch 53
+midi channel 2 patch 0 pan 65
+midi channel 2 patch 0 pan 35
+4 systems 10 /19 45 19-35-19/19 45 19-35-19/19 40 19-35-19/19 40 19-35-19/
+title God Bless the Child
+lefthead Arthur Hertzog Jr. and Billy Holiday
+/
+5 bars | 4/4 2.3 | 1.7 1.7 1.7 2 | 1.7 2 1.7 2 | 1.7 2 1.7 2 \
+ ||: 1.8 2 2 2.2 |
+| 1/4 0.9
+=1' treble 4/4 cha1 cro rest
+=2' treble 4/4 cha2 leg100 qua [C-s3 D]
+=3, bass 4/4 cha3 leg100 cro rest
+| 4/4 .9 .9 1.1 .9
+=1 smb rest
+=2' cro E E D qua [C D]
+=2, cro B_ B_b A_ A_
+=3' min c <F c>
+=3, cro C G min blank
+|
+=1 smb rest
+=2' cro E qua [G E] cro A qua [F-s2 A-s3]
+=2, cro B_ B_b min <A_ D>
+=3' cro c c c d
+=3, min C F
+|
+=1 smb rest
+=2' cro c qua [B c] cro G qua [E G]
+=2, min <C G> D
+=3, min <e a> <B g>
+
+| 4/4 3.6
+b0.5 .01 Am .24 Em .49 F6 .74 Dm7  G6
+=1 min. rest qua [C D]
+r0.7 .65 Them that's
+r0.4 .73 Yes the
+=2' cro A qua [E G] [A_ B_] [C <F A>]
+=2, cro C B_ min blank
+=3' min e cro dr <f a>
+=3, cro A G min <F c>
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+b0.5 .04 Cmaj7  C7  F6
+=1 cro E E D qua [C D]
+r0.7 .04 got  shall .50 get, .68 them that's
+r0.4 .04 strong gets more, .68 while the
+=2' cro B qua [G Bb] qua [A G] qua [A c]
+=2, cro <B_ E> <B_b E> <A_ D> F
+=3, min <c g> <c f>
+|
+b0.5 .01 Cmaj7  C7  F6
+=1 cro E E D qua [G A]
+r0.7 .03 not .24 shall .49 lose, .74 so the
+r0.4 .01 weak  ones .49 fade, .74 empty
+=2' cro B qua [G Bb] cro A qua [c Bn]
+=2, cro <B_ E> <B_b E> min D
+=3, min <c g> <c f>
+|
+b0.5 .01 Gm7  Eb7   C13
+=1 cro Bb B A qua [G A]
+r0.7 .08 Bible .49 said, .74 and it
+r0.4 .06 pockets .49 don't .74 ever
+=2' cro Bb qua [G Bb] [A G] [d c]
+=2, cro <B_b F> <B_bl Eb> min <B_bl En>
+=3' cro d c# min cn
+=3, min G c
+|
+b0.5 .01 Gm7  C#7b5  C9
+=1 cro Bb G min E
+r0.7 .03 still .25 is .48 news ;
+r0.4 .03 make .25 the .48 grade ;
+=2' cro <B_b F Bb> <B_nl Eb G> min Enxll
+=2, min blank cro <B_bl D> qua [<A_ C> <G_ B_>]
+=3' min blank cro g blank
+=3  cro <G-s2,-s5, d'> <c#, f> min cn,
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+b0.5 .02 Fmaj7 .48 F6
+=1 qua E cro E qua D min A_
+r0.5 .04 Mama .34 may  have ,
+=2' qua [E G A c] [d e d A]
+=2, min <A_ C> blank
+=3' min rest <c dx f a>
+=3, min. F cro A
+|
+b0.5 .01 Fm(maj7)
+=1 qua E cro E qua D cro. A_b qua E
+r0.5 .02 Papa .33 may  have , .87 but
+=2' qua [Ab c d e] [f e d Ab]
+=2, min <A_b E> blank
+=3' min f <ab c~x d~>
+=3, min. c cro f
+|
+b0.5 .01 Em .48 A7   A7b9
+=1' qua G cro G qua E cro G E
+r0.5 .02 god bless .37 the child .74 that's
+=2' qua [G E G A] cro <G B> E
+=2, min D cro C# B_b
+=3' min er e
+=3, cro d qua [c B] min A
+|
+b0.5 .01 Dm7 .49 G7
+=1' qua [E G] min G cro G_
+r0.5 .02 got his own !
+r0.4 .73 that's
+=2' cro E min G cro G_
+=2, min <F_ A_> blank
+=3' min. blank cro B
+=3 min <D cn'> <G, f>
+/
+4 bars | 8 :|| .6 .6 .6 .8 .8 .8 .6 .6 .6 .6 .6 .6 | 8 | 8 |
+|
+b0.5 .04 C6 .74 Em
+=1 treble qua [A_ C] min C cro rest
+r0.6 .04 got his own .
+=2' treble cro A_ min C qua [E G]
+=2, min. E_ cro <G_ B_>
+=3' bass min. c cro e
+=3, min C G
+
+| 4/4 3.6
+b0.5 .01 Am .24 Em .49 F6 .74 Dm7  G6
+=1 min. rest qua [C D]
+r0.7 .65 Them that's
+r0.4 .73 Yes the
+=2' cro A qua [E G] [A_ B_] [C <F A>]
+=2, cro C B_ min blank
+=3' min e cro dr <f a>
+=3, cro A G min <F c>
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+b0.5 .04 Cmaj7  C7  F6
+=1 cro E E D qua [C D]
+r0.7 .04 got  shall .50 get, .68 them that's
+r0.4 .04 strong gets more, .68 while the
+=2' cro B qua [G Bb] qua [A G] qua [A c]
+=2, cro <B_ E> <B_b E> <A_ D> F
+=3, min <c g> <c f>
+|
+b0.5 .01 Cmaj7  C7  F6
+=1 cro E E D qua [G A]
+r0.7 .03 not .24 shall .49 lose, .74 so the
+r0.4 .01 weak  ones .49 fade, .74 empty
+=2' cro B qua [G Bb] cro A qua [c Bn]
+=2, cro <B_ E> <B_b E> min D
+=3, min <c g> <c f>
+|
+b0.5 .01 Gm7  Eb7   C13
+=1 cro Bb B A qua [G A]
+r0.7 .08 Bible .49 said, .74 and it
+r0.4 .06 pockets .49 don't .74 ever
+=2' cro Bb qua [G Bb] [A G] [d c]
+=2, cro <B_b F> <B_bl Eb> min <B_bl En>
+=3' cro d c# min cn
+=3, min G c
+|
+b0.5 .01 Gm7  C#7b5  C9
+=1 cro Bb G min E
+r0.7 .03 still .25 is .48 news ;
+r0.4 .03 make .25 the .48 grade ;
+=2' cro <B_b F Bb> <B_nl Eb G> min Enxll
+=2, min blank cro <B_bl D> qua [<A_ C> <G_ B_>]
+=3' min blank cro g blank
+=3  cro <G-s2,-s5, d'> <c#, f> min cn,
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+b0.5 .02 Fmaj7 .48 F6
+=1 qua E cro E qua D min A_
+r0.5 .04 Mama .34 may  have ,
+=2' qua [E G A c] [d e d A]
+=2, min <A_ C> blank
+=3' min rest <c dx f a>
+=3, min. F cro A
+|
+b0.5 .01 Fm(maj7)
+=1 qua E cro E qua D cro. A_b qua E
+r0.5 .02 Papa .33 may  have , .87 but
+=2' qua [Ab c d e] [f e d Ab]
+=2, min <A_b E> blank
+=3' min f <ab c~x d~>
+=3, min. c cro f
+|
+b0.5 .01 Em .48 A7   A7b9
+=1' qua G cro G qua E cro G E
+r0.5 .02 god bless .37 the child .74 that's
+=2' qua [G E G A] cro <G B> E
+=2, min D cro C# B_b
+=3' min er e
+=3, cro d qua [c B] min A
+|
+b0.5 .01 Dm7 .49 G7
+=1' qua [E G] min G cro G_
+r0.5 .02 got his own !
+r0.4 .73 that's
+=2' cro E min G cro G_
+=2, min <F_ A_> blank
+=3' min. blank cro B
+=3 min <D cn'> <G, f>
+/
+4 bars | 8 :|| .6 .6 .6 .8 .8 .8 .6 .6 .6 .6 .6 .6 | 8 | 8 |
+|
+b0.5 .04 C6 .74 Em
+=1 treble qua [A_ C] min C cro rest
+r0.6 .04 got his own .
+=2' treble cro A_ min C qua [E G]
+=2, min. E_ cro <G_ B_>
+=3' bass min. c cro e
+=3, min C G
+
+|
+b0.5 .01 F7 .48 E7
+=1 min. blank smb rest
+=2' cro D qua3 [C D-I3 F] cro Cr B_
+=2, min <G_x A_> <G_# E>
+=3' min eb d
+=3, min F qua rest,, [E B e]
+|
+b0.5 .01 Am .48 Am(maj7)
+=1 cro c A c A
+r0.6 .03 Money, .49 you .74 got
+=2' cro c A c A
+=2, min <C E> <C E>
+=3' cro. a qua a cro. g# qua g#
+=3, qua rest, cro. A qua rest, cro. A
+|
+b0.5 .01 Am7 .48 Am6
+=1 cro c qua [A, c(1] min c)1
+r0.6 .01 lots .24 of  friends
+=2' cro c qua [A c(1] min c)1
+=2, cro. <C E> cro. <C E> cro F#
+=3' cro. gn qua g cro. f# qua f#
+=3, qua rest, cro. A qua rest, cro. A
+
+4 systems 10 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+lefthead God Bless the Child, Arthur Hertzog Jr. and Billy Holiday
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+b0.5 .04 Em
+=1 cro B G B G
+r0.6 .04 Crowdin' .51 round .76 the
+=2' cro B G B G
+=2, cro <B_ G> <B_ E> <B_ G> <B_ E>
+=3' qua [e E] [B e] [d# E] [dn B]
+|
+b0.5 .01 B7 .48 E7
+=1 min. B cro rest
+r0.6 .01 door ,
+=2' min <A Bx> cro A G#
+=2, cro E Eb min <Dl F>
+=3 qua F# cro B' qua fn E cro B qua e
+|
+b0.5 .01 Am .48 Am(maj7)
+=1 cro c A c A
+r0.6 .01 When .25 you're .50 gone .74 and
+=2' cro c A c A
+=2, min <C E> <C E>
+=3' cro. a qua a cro. g# qua g#
+=3, cro rest, A rest, A
+|
+b0.5 .01 Am7 .48 Am6
+=1, cro c qua [A c(1] min c)1
+r0.6 .02 spendin' .37 ends
+=2' cro c qua [A c(1] min c)1
+=2, cro. <C E> min <C E> qua F#
+=3' cro. g qua g min f#
+=3, cro rest, A rest, A
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+b0.5 .04 Em .48 A7
+=1' treble cro G A A A
+r0.6 .04 They .27 don't .50 come .75 no
+=2' treble cro G A A A
+=2, min <B_ E> cro D E
+=3' bass min B cro Br c#
+=3, min E <A g>
+|
+b0.5 .01 G#7b5 .48 G9 .72 Dm7 G
+=1 min. D qua [C D]
+r0.6 .01 more , .71 Rich re -
+=2' min D(1-emph qua [D)1 B_n] [C A]
+=2, cro rest,, qua <F_#l B_b> cro <F_n A_> qua rest,,, cro A_
+=3' cro rest qua <Ab c> cro <G B> qua rest cro <G f>
+|
+b0.5 .01 Cmaj7 C7  E6
+=1 cro E E D qua [C D]
+r0.6 .03 la  - .24 tions .48 give, .74 crust of
+=2' cro B qua [G Bb] qua [A G] qua [A c]
+=2, cro <B_ E> <B_b E> <A_ D> F
+=3, min <c g> <c f>
+|
+b0.5 .01 Cmaj7 C7  E6
+=1 cro E E D qua [G A]
+r0.6 .01 bread .24 and .49 such, .74 you can
+=2' cro B qua [G Bb] cro A qua [c Bn]
+=2, cro <B_ E> <B_b E> min D
+=3, min <c g> <c f>
+/
+4 bars | 8 | 8 | 8 | 8 |
+|
+b0.5 .02 Gm7  Eb7   C13
+=1 treble cro Bb B A qua [G A]
+r0.6 .04 help .29 yourself, .72 but don't
+=2' cro Bb qua [G Bb] [A G] [d c]
+=2, cro <B_b F> <B_bl Eb> min <B_bl En>
+=3' cro d c# min cn
+=3, min G c
+|
+b0.5 .01 Gm7  C#7b5   C9
+=1 cro Bb G min E
+r0.6 .03 take .25 too .48 much . . .
+=2' cro <B_b F Bb> <B_nl Eb G> min Enxll
+=2, min blank cro <B_bl D> qua [<A_ C> <G_ B_>]
+=3' cro d f g blank
+=3, cro G c# min cn
+|
+b0.5 .01 Fmaj7 .48 F6
+=1 qua E cro E qua D min A_
+r0.6 .02 Mama .34 may  have ,
+=2' qua [E G A c] [d e d A]
+=2, min <A_ C> blank
+=3' min blank <c dx f a>
+=3, min. F cro A
+|
+b0.5 .01 Fm(maj7)
+=1 qua E cro E qua D cro. A_b qua E
+r0.6 .02 Papa .33 may  have , .87 but
+=2' qua [Ab c d e] [f e d Ab]
+=2, min <A_b E> blank
+=3' min f <ab c~x d~>
+=3, min. c cro f
+/
+5 bars | 1 1 1 1.1 0.9 0.9 0.9 0.9 | 2 1.8 1.8 1.8 | 2 1.8 1.8 2 \
+ | 1.1 1.1 1 1.3 1.3 1.2 1 1 | 2 1.5 1.5 1.5 ||
+|
+b0.5 .02 Em .52 A7   A7b9
+=1' treble qua G cro G qua E cro G E
+r0.6 .01 god bless the child that's
+=2' qua [G E G A] cro <G B> E
+=2, min D cro C# B_b
+=3' min er e
+=3, cro d qua [c B] min A
+|
+b0.5 .01 Dm7 .49 G7
+=1' qua [E G] min G cro G_
+r0.6 .06 got his own!
+r0.5 .73 that's
+=2' cro E min G cro G_
+=2, min <F_ A_> blank
+=3' min. c cro B
+=3, min D <G f>
+| 4/4 .9 .9 .9 1.1
+b0.5 .01 C6
+=1 qua [A_ C] min C cro rest
+r0.5 .01 got his own .
+=2' cro A_ min C qua [E G]
+=2, min. E_ cro B_
+=3' min. c cro <e g>
+=3, min C G
+| 4/4 4.7
+=1 min. blank smb rest
+=2' qua3 [A B-I3 A] qua [E A_] [B_b C] [<A_ D> G_-s3]
+=2, cro <C E> <F_# C> F_# F_n
+=3 cro <A, g> D <G#l d#'> <Gnl dn'>
+|
+=1 min. blank smb rest
+=2 qua [A_ C] min. C
+=3 smb <C d ex g>
+% stop

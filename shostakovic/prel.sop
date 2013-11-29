@@ -1,0 +1,197 @@
+11 systems / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 /
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 3 |
+|
+is1.3 Shostakovic Preludes and Fugues op87
+b0.45 Moderato
+rs0.45                            (mm 92)
+=1 treble 3/4 cro (c, e') cro. (c, e') qua (c, e')
+I0.05     p
+i0.05          dolce
+|
+=1 cro (B, d') min (B, d')
+|
+bl0.9         Prelude 1
+=1 cro (A, c') cro. (A, B') qua (A, c')
+|
+=1 cro (B, d') min (B, d')
+|
+b1.1                   Soprano Recorders
+il0.2 5
+=1 cro (B, d') cro. (c, e') qua (d, f')
+i0.05          cresc . . .
+|
+=1 cro (d, f') min (c, e')
+/
+6 bars | 4.4 | 3.4 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro (c, eb') cro. (B, d') qua (A, c')
+i0.05     dim . . .
+|
+=1 cro (G#, B') min (G#, B')
+|
+=1 cro (G, e') cro. (c, e') qua (c, e')
+|
+il0.2 10
+=1 cro (B, d') min (B, d')
+|
+=1 cro (B, d') cro. (A, c') qua (B, d')
+|
+=1 cro (c, e') min (d, f#')
+i0.05  cresc . . .
+/
+6 bars | 4.4 | 3 | 1.15 1.35 1.35 1.15 | 1.15 1.35 1.15 1.35 | 0.5 0.5 1 1 | 0.33 0.33 0.33 1 1 |
+|
+=1 treble cro (eb, g') cro. (d, fn') qua (c, e')
+I0.05      pp
+|
+=1 cro (Bb, d') min (Bb, d')
+i0.05  dim . . .
+|
+il0.2 15
+=1 qua rest D Eb G Bb c'
+I0.05  p
+i0.05      espress.
+|
+=1 (cro. Gb, qua db') c' eb' (cro. rest qua d') c' Bb'
+|
+=1 min Ab' cro Eb, (Dn, F')
+| 
+=1 min. En' min D,
+/
+6 bars | 4 | 3 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro (E, E') cro. (E, E') qua (Eb, Eb')
+|
+il0.2 20
+=1 cro (C, E') min (C, E')
+|
+=1 qua E' rest  cro. D' qua C#'
+|
+=1 cro D min D
+|
+=1 cro C cro. D qua (C, E')
+|
+=1 cro (D, F') min (D, F')
+/
+6 bars | 4 | 3 | 4 | 3 | 4 | 3 |
+|
+il0.4 25
+=1 treble cro (D, F') (min E, cro G') qua A'
+|
+=1 cro (F, Bb') min (F, Bb')
+|
+=1 cro (F, Bb') cro. (F, Bb') qua (F, A')
+I0.05  pp
+i0.05       subito
+|
+=1 cro (F, Bb') min (Db, F')
+|
+=1 cro (C, E') cro. (C, E') qua (C, Eb')
+|
+il0.2 30
+=1 cro (C, E') min (C, Eb')
+/
+6 bars | 2.5 | 2.2 | 4 | 4 | 4.1 | 3.2 |
+|
+=1 treble min. rest
+|
+=1 min. rest
+|
+=1 cro rest cro. f qua e
+|
+=1 cro f cro. (c, e') qua (B, d#')
+|
+il0.3 35
+=1 cro (c, e') cro. (c, e') qua (c, e')
+|
+=1 cro (B, d') min (B, d')
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro (A, c') cro. (A, B') qua (A, c')
+|
+=1 cro (B, d') min (B, d')
+|
+=1 cro (B, d') cro. (c, e') qua (d, f')
+|
+il0.3 40
+=1 cro (d, f') min (c, e')
+i0.05  cresc . . .
+|
+=1 cro (c, eb') cro. (B, d') qua (A, c')
+i0.05    dim . . .
+|
+=1 cro (G#, B') min (G#, B')
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 3 |
+|
+=1 treble cro (G, e') cro. (G, e') qua (G, e')
+I0.01      pp
+|
+=1 cro (G, d') min (G, d')
+|
+il0.4 45
+=1 cro (c, e') cro. (d, f') qua (eb, g')
+i0.05     cresc . . .
+|
+=1 cro (en, a') min (e, a')
+|
+=1 cro (e, a') cro. (e, a') qua (e, g#')
+I0.05    mf
+|
+=1 cro (f#, a') min (f#, a')
+i0.05     cresc . . .
+/
+6 bars | 4.4 | 3 | 4 | 3 | 4 | 4 |
+|
+=1 treble cro (e, a') (min e, cro. a') qua g#'
+|
+il0.5 50
+=1 cro (eb, a') min (eb, a')
+|
+=1 cro (f#, a') (min f, cro. a') qua  g#'
+|
+=1 (min. f, cro b') min a'
+I0.05    f
+|
+=1 cro (e, g') (cro d, cro. f') qua c#, g'
+|
+=1 cro (c#, e') cro. (cn, eb') qua (c, d')
+i0.05         dim . . .
+/
+6 bars | 3.5 | 4 | 3 | 1.4 1.1 1 | 0.5 0.5 0.5 0.5 1.0 | 0.5 0.5 0.5 0.5 1.0 |
+|
+il0.4  55
+=1 treble cro (Bn, eb') min (Bn, eb')
+|
+=1 cro (Bn, eb') cro. (B, d') qua (B, db')
+|
+=1 cro (A#, d') min (A#, d')
+|
+=1 min rest qua Bb' c'
+|
+=1 min d' Bb, cro f'
+|
+il0.3 60
+=1 min e' Bn, cro g'
+/
+7 bars | 4.4 | 3 | 4 | 3 | 4 | 4 | 3 ||
+|
+=1 treble cro (G, c') cro. (G, B') qua (G, A')
+I0.05     pp
+is1.0 Arranged by Peter Billam, 1995
+|
+=1 cro (G, B') min (G, B')
+|
+=1 cro (G, c') cro. (G, B') qua (G, A')
+|
+=1 cro (G, B') min (G, B')
+|
+il0.2 65
+=1 cro (G, c') (min G, cro. A') qua B'
+|
+=1 cro (G, c') (min G, cro. A') qua B'
+|
+=1 min. (G, c')
+i0.05        attacca

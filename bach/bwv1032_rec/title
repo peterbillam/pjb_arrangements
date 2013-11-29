@@ -1,0 +1,30 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 3.4c
+.ce 100
+\f3\s+9\s+9Flute Sonata \ \s-4BWV\s+4 1032\s-9\s-9\fP
+.sp 2.2c
+\f2\s+9by J. S. Bach\s0\fP
+.sp 2.2c
+\f3\s+5Transposed from A major to C Major\s0\fP
+.sp 1.2c
+\f3\s+5For Alto Recorder and Keyboard\s0\fP
+.sp 1.9c
+\f2\s+8Completed and typeset by Peter Billam\s0\fP
+.sp 1.2c
+\(co Peter J Billam, 1999
+.sp 0.7c
+\s-1This score may be freely photocopied, and redistributed
+in paper form.  It may be freely performed to live audiences;
+performing rights are waived.  It may not be redistributed in
+electronic form, and all other rights, such as those of recording
+and broadcast, remain reserved by the arranger, Peter Billam,
+GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
+.sp 1.2c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 1.0c
+\f2http:\fP//\f2www.pjb.com.au\fP

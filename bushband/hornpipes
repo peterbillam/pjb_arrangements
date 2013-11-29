@@ -1,0 +1,96 @@
+4 systems 10 / 19-30-19-30-19/ 19-30-19-30-19/ 19-30-19-30-19/ 19-30-19-30-19/
+title The Red-haired Boy
+midi channel 1 patch 110 pan 90
+midi channel 2 patch 23 pan 10
+midi channel 3 patch 105 pan 50
+pagenum
+
+/
+5 bars ||: 2# 12 | 48 | 48 | 48 | 48 |
+| .23 .16
+=1' treble 2# cha1 leg100 vol100 8 [A G]
+=2  treble 2# cha2 vol106 cc11=100 4 rest
+=3' treble8vab 2# cha3 vol100 leg99 8 [A G]
+| .21 .15 .20 .15 .22 .15 .20 .15
+=1 4 E A-, 8 [A, B c d]
+=2 4 A_-., <A_-., C E> A_-., <A_-., C E> 
+=3 4 E A 8 [A, B c d]
+|
+=1 8 [e f e c] 4 d 8 [c d]
+=2' 4 A_-., <A_-., C E> 2 <A_ F>
+=2, 2. blank 4 D
+=3 8 [e f e c] 4 d 8 [c d]
+|
+=1 8 [e d c B] [A B' c' A]
+=2 4 A_-., <A_-., C E> A_-., <A_-., C E> 
+=3 8 [e d c B] [A B' c' A]
+|
+=1 8 [B' G E F] 4 G 8 [E D]
+=2' 4 A_-., <E-., A> 8 [G F] 4 E
+=2, 2 blank D
+=3 8 [B' G E F] 4 G 8 [E D]
+/
+4 bars | 2# 48 | 48 | 48 | 48 :||
+|
+=1 4 E A-, 8 [A, B c d]
+=2 4 A_-., <A_-., C E> A_-., <A_-., C E> 
+=3 4 E A A 8 [c d]
+|
+=1 8 [e f e c] 83 [d e-I3 d] 8 [c d]
+=2' 4 A_-., <A_-., C E> 2 <A_ F>
+=2, 2. blank 4 D
+=3 8 [e f e c] 4 d 8 [c d]
+|
+=1 4 e a 8 [a g e d]
+=2' 4 E-. <E A c-.> <A c{1> <G B}1>
+=2, 2 blank E
+=3 4 e 43 a 83-s b' 8 [a g e d]
+| .21 .15 .20 .15 .22 .15
+=1 4 c A-. A
+=2 4 <C E A-.> <E A-.> <C E A-ten>
+=3 4 c A-. A
+
+/
+5 bars ||: 2# 12 | 48 | 48 | 48 | 48 |
+| .22 .16
+=1 treble 2# cha1 leg100 vol100 8 [e f]
+=2 treble 2# cha2 vol106 cc11=100 4 rest
+=3 treble8vab 2# cha3 vol100 leg99 8 [e f]
+| .21 .15 .20 .15 .22 .15 .20 .15
+=1 8 [g 163 a 8 g 163 f 8 g] [g f e 83 a]
+=2 4 E-., <E-., G B> E-., <E-., A c> 
+=3 8 [g f g a] [g f e a]
+|
+=1 8 [g f e c] [d 16 e d] 8 [c d]
+=2' 4 E-., <E-., G B> 2 <D A>
+=2, 2. blank 4 F
+=3 8 [g f e c] 4 d 8 [c d]
+|
+=1 8 [e d c B] [A B'] 83 [c' B'-I3 A]
+=2 4 C-., <E-., A> C-., <E-., A> 
+=3 8 [e d c B] [A B' A c']
+|
+=1 8 [B' G E F] 16 [G A G F] 8 [E D]
+=2' 4 A_-., <E-., A> 8 [G F] 4 E
+=2, 2 blank D
+=3 4 B' 8 [E F] 4 G 8 [E D]
+/
+4 bars | 2# 48 | 48 | 48 | 48 :||
+|
+=1 4 E A-, 8 [A, B c d]
+=2 4 A_-., <A_-., C E> A_-., <A_-., C E> 
+=3 4 E A 8 [A, B c d]
+|
+=1 8 [e f e c] 83 [d e-I3 d] 8 [c d]
+=2' 4 A_-., <A_-., C E> 2 <A_ F>
+=2, 2. blank 4 D
+=3 83 [e e-I3 f] [e c] 4 d 8 [c d]
+|
+=1 4 e a 8 [a g e d]
+=2' 4 E-. <E A c-.> <A c{1> <G B}1>
+=2, 2 blank E
+=3 4 e 43 a 83-s b' 8 [a g e d]
+| .21 .16 .20 .16 .22 .16
+=1 4 c A-. A
+=2 4 <C E A-.> <E A-.> <C E A-ten>
+=3 4 c A-. A

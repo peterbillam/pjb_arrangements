@@ -1,0 +1,282 @@
+% start
+4 systems 10 /19-25-19-25-19-25-19/
+title All the Things You Are
+midi channel 1 patch 53 pan 10
+midi channel 2 patch 53 pan 37
+midi channel 3 patch 53 pan 63
+midi channel 4 patch 53 pan 90
+lefthead Jerome Kern
+righthead words by Oscar hammerstein
+leftfoot Arranged by Ward Swingle
+/
+5 bars | 4/4 16 | 16 | 16 | 16 | 16 |
+| 4/4 94
+=1 treble8va  4/4 cha1 smb c
+=2 treble     4/4 cha2 cro e{1 g# b a}1
+r0.5 .10 You
+=3 treble     4/4 cha3 smb e
+=4 bass8va    4/4 cha4 smb a
+|
+=1 min. f cro c
+=2 min. a cro f
+=3 cro c{1 c# e}1 d
+=4 min. d cro a
+|
+=1 cro B B B B
+=2 cro gn a g f
+=3 cro d f e d
+=4 cro g g g g
+|
+=1 cro B min e cro B
+=2 cro f min e cro e
+=3 cro d min c cro c
+=4 cro g# b{1 a}1 gn
+|
+=1 cro A A A A
+=2 cro f g f e
+=3 cro c c A A
+=4 cro f e d c
+/
+6 bars | 16 | 16 | 16 | 16 | 16 | 16 |
+|
+=1 cro A min d# cro A
+=2 cro d# min d# cro d#
+=3 cro F# min G# cro A
+=4 cro B min B cro B
+|
+=1 smb G#
+=2 min f#{1 e}1
+=3 smb B
+=4 smb e
+|
+=1 smb rest
+=2 min rest cro rest cro e(1
+=3 min rest B(1
+=4 cro rest min. e(1
+|
+=1 smb Gn
+=2 cro e)1{1 d# f# e}1
+=3 smb B)1
+=4 smb e)1
+|
+=1 min. c cro G
+=2 min. e cro c
+=3' cro G{2 G# B}2 A
+=4 min. A cro e
+|
+=1 cro F# F# F# F#
+=2 cro d e d c
+=3 cro A c B A
+=4 cro d d d d
+/
+5 bars | 16 | 16 | 16 | 16 | 16 |
+|
+=1' cro F# min B cro F#
+=2 cro c min B cro B
+=3 cro A min G cro G
+=4 cro d# f#{1 e}1 dn
+|
+=1 cro E E E E
+=2 cro c d c B
+=3 cro G G G G
+=4' cro c B A d
+|
+=1 cro E qua [F# G] cro F E
+=2 cro A# qua [A A] cro A A
+=3 cro F# qua [Bb' G] cro F F
+=4 cro c# qua [d# e] cro d c
+|
+=1 smb D#
+=2 min c#{1 B}1
+=3 smb F#
+=4 smb B
+|
+=1 cro rest F# B f#
+=2 cro rest B d# b
+=3 cro rest F# B d#
+=4 cro rest d# f# b
+|
+=1 cro f# e min e(1
+=2 cro d~# c~# min b(1
+=3 cro a  g# min g#(1
+=4 cro c~ d~b e~b{1 d~
+|
+=1 cro e)1 G G# e
+=2 cro b)1 rest rest bb
+=3 cro g)1 rest rest gn
+=4 cro bn}1 a# b c~#
+|
+=1 smb d#
+=2 cro c~#{1 b a# g#
+=3 cro a#{1 g# f# en
+=4 smb f#
+|
+=1 cro rest F# B d#
+=2 cro f#}1 e d# f#
+=3 cro d#}1 c# B A
+=4 cro rest f# eb c
+|
+=1 cro d# c# min c(1
+=2 cro e e min e(1
+=3 cro G# G min G(1
+=4 cro Bn B min Bb(2
+|
+=1 cro c)1 D Eb db
+=2 cro e)1 rest rest g
+=3 cro G)1 rest rest Gn
+=4 cro B)2 d eb A
+|
+=1 smb c
+=2 cro bb{1 ab g f
+=3' cro Bb{2 Ab G F
+=4 smb G#
+|
+=1' cro rest G#{2 A B
+=2 smb e}1
+=3 smb E}2
+=4' cro rest d{2 c B
+|
+=1 smb c}2
+=2 cro rest e{1 f# g#}1
+=3 cro rest E{2 F# G#}2
+=4 smb A}2
+|
+=1 min. f cro c
+=2 cro a{'1 e~ d~}1 c~
+=3 cro A{'1 e d}'1 c
+=4 min. d cro a
+|
+=1 cro B B B B
+=2 cro b a gn fn
+=3 cro d d B B
+=4 cro g f e d
+|
+=1 cro B e rest B
+=2 cro f e rest g
+=3 cro Ab G rest d
+=4 cro c c rest e
+|
+=1 cro A{'1 min c cro e}1
+=2 min f{1 a}1
+=3 min c{1 f}1
+=4 cro f{1 min a cro c~}1
+|
+=1 min. g cro f
+=2 min. c~ cro d~
+=3 min. ab cro ab
+=4 min. d~ cro b
+|
+=1 cro G G qua [G G] rest G
+=2 cro e~ d~ qua [c~ b] rest d
+=3 cro g g qua [e e] rest B
+=4 cro c~ b qua [a a] rest e
+|
+=1' min B cro rest A
+=1, min F# cro rest F#
+=2 min c cro rest c
+=3 min A cro rest A
+=4 min eb cro rest eb
+|
+=1' cro Fr F A c
+=1, smb Fn(2
+=2' cro cr c f a
+=2, smb c(2
+=3' cro Ar A c f
+=3, smb A(2
+=4' cro dr d f a
+=4, smb d(2
+|
+=1' smb f
+=1, cro F)2 F A c
+=2' smb c~
+=2, cro c)2 c f a
+=3' smb a
+=3, cro A)2 A c f
+=4' smb c~
+=4, cro d)2 d f a
+|
+=1' cro rest''' A c f
+=1, smb a(,2
+=2' cro rest''' f a c~
+=2, smb c~(,2
+=3' cro rest'' c f a
+=3, smb f(,2
+=4' cro rest''' f a c~
+=4, smb d~{,2
+|
+=1' min c~{1 b}1
+=1, min a),2{2 g#}2
+=2' smb f~
+=2, min c~),2{2 b}2
+=3' min a{1 g#}1
+=3, smb f),2
+=4' smb d~
+=4, smb g}2
+| 4/4 84
+=1' cro rest d~ qua c~ cro e  qua blank
+=1, cro rest ab qua g  cro e  qua an(1
+=2' cro rest f~ qua e~ cro c~ qua e~b(1
+=2, cro rest d~ qua c~ cro c~ qua c~(2
+=3' cro rest b  qua an cro a  qua a(1
+=3, cro rest gb qua g  cro g  qua f#(2
+=4' cro rest f~ qua e~ cro c~ qua c~(1
+=4, cro rest c  qua c  cro c  qua c(2
+|
+=1, qua a)1   cro g   qua c  [f  e  G d]
+=2' qua e~b)1 cro e~n qua c~ [d~ c~ g f]
+=2, qua c~)2  cro c~  qua g  [ab g  g f]
+=3' qua a)1   min.. blank
+=3, qua f)2   cro g   qua c  [f  c  c B]
+=4' qua c~)1  cro c~  qua g  [ab g  g ab]
+=4, qua c)2   cro c   qua c  [c  c  c c]
+|
+=1' qua [c E F  F#] [A G  C D]
+=2, qua [e c d  eb] [f en c d]
+=3' qua [c G G# A]  [c B  A G#]
+=4' qua [g c c  c]  [c c  c c]
+=4, qua c min.. blank
+| 4/7 84 60 84 63
+=1' cro E rest-fermata qua [G g(1] cro g)1-fermata
+=1, cro blank blank qua [G eb(2] cro e)2
+=2' cro c rest-fermata qua [g br(1] cro br)1-fermata
+=2, cro blank blank qua [g a(2] cro a)2
+=3' cro Gn rest-fermata qua [g f(1] cro f)1-fermata
+=3, cro blank blank qua [G B(2] cro B)2
+=4' cro c rest-fermata min blank
+=4, cro blank blank min g-fermata,
+|
+=1' smb g-fermata
+=1, smb dn
+=2' smb an-fermata
+=2, smb gr
+=3' smb e-fermata
+=3, smb c
+=4' smb g-fermata
+=4, smb c
+
+% |
+% =1 cro G G qua [G G] rest G
+% =2 cro e~ d~ qua [c~ b] rest g
+% =3 cro g g qua [e e] rest d
+% =4 cro c~ b qua [a a] rest e
+% |
+% =1 min B cro rest A
+% =2 min f# cro rest f#
+% =3 min c cro rest c
+% =4 min eb cro rest eb
+% |
+% =1 cro F F A c
+% =2 cro fn f a a
+% =3 cro e d e f
+% =4 cro d d~ d~b c~
+% |
+% =1 min a B
+% =2 min c~ b
+% =3 cro f{1 min e}1 cro d
+% =4 smb g
+% |
+% =1 smb c
+% =2 smb c~
+% =3 smb c
+% =4 smb rest
+

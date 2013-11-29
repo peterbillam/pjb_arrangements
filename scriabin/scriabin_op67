@@ -1,0 +1,371 @@
+4 systems 40 / 19-40-19 / 19-40-19 / 19-40-19 / 19-47-19 20/
+title Two Preludes,  Op. 67  (1912-1913)
+pagenum 3
+innerhead Alexander Scriabin
+midi channel 1 patch 0 pan 80 reverb 90
+midi channel 2 patch 0 pan 20 reverb 90
+/
+3 bars |5/8 50 | 50 | 50 |
+| 5/8 .9 .73 .70 .75 .68
+Il1.0 .01 Andante
+=1' treble 5/8 cha1 vol60 leg440 \
+ 8 [Ab Eb En G Gb]
+=1, 5/8 4. B_b 4 <B_bl Db>
+I0.3 .01 pp
+i0.3 .12 vague, mystérieux
+=2' bass   5/8 cha2 vol40 leg155 \
+ 4. <C F# e> 4 <Ebl An fb>
+|
+=1' 8 [Ab Eb En G Gb]
+=1, 4. B_b 4 <B_bl Db>
+=2' 4. <C F# e> 4 <Ebl An fb>
+| .85 .73 .70 .70 .67
+=1' 8 [Ab F#-s2 G Bb An]
+=1, 4. B_b 4 <Dbx(4 E(2>
+=2' 4. <C F# e> 4 <F#(4 c(3 g(1>
+/
+4 bars | 50 | 50 | 50 | 50 |
+| .9 .84 .82 .80 .78
+=1' 8 [db c A G E]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4 E)2>
+=2' 4. <F#)4(4 c)3(3 g)1(1> 4 <F)4 c)3 g)1>
+| .85 .73 .70 .75 .68
+il0.8 .02 5
+=1' 8 [Ab F#-s2 G Bb An]
+=1, 4. B_b 4 <Dbx(4 E(2>
+=2' 4. <C F# e> 4 <F#(4 c(3 g(1>
+|
+=1' 8 [db F# G Bb An]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4 E)2>
+=2' 4. <F#)4(4 c)3(3 g)1(1> 4 <F)4 c)3 g)1>
+|
+=1' 8 [Ab Eb En G Gb]
+=1, 4. B_b 4 <B_bl Db>
+=2' 4. <C F# e> 4 <Ebl An fb>
+/
+4 bars | 50 | 50 | 50 | 50 |
+|
+=1' 8 [Ab Eb En G Gb]
+=1, 4. B_b 4 <B_bl Db>
+=2' 4. <C F# e> 4 <Ebl An fb>
+|
+=1' 8 [Ab F# G Bb An]
+=1, 4. B_b 4 <Dbx(4 E(2>
+=2' 4. <C F# e> 4 <F#(4 c(3 g(1>
+|
+il0.9 .20 10
+=1' 8 [db c A G E]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4 E)2>
+=2' 4. <F#)4(4 c)3(3 g)1(1> 4 <F)4 c)3 g)1>
+| .73 .70 .75 .68 .65
+=1' 8 [Ab F# G Bb An]
+=1, 4. B_b 4 <Dbx(4 E(2>
+=2' 4. <C F# e> 4 <F#(4 c(2 g(1>
+/
+4 bars | 50 | 50 | 12 10 10 10 10 | 50 |
+| .70 .75 .68 .66 .64
+=1' 8 [db A Bb d# c-s3]
+=1, 4. <Dbxr)4 E)2> 4 <E G>
+=2  4. <F#)4 c)3 g')1> 4 <f#-s1,-s2, c~>
+| .85 .73 .70 .75 .68
+=1, 4. <Fnr(4 dbx(2 e(1-ten-s1-s4-s5> 4 <F)4(4 dx)2(2 e)1(1>
+=2, 4. <e(2-s1,-s"     3-2", bb(1> 4 <e)2(2 b)1(1>
+|
+=1' 4. <Frr)4 e)1> 4 vol60 <Ab f-ten-s"  1"-s"2"-s" 5">
+=1, 8 [dbr)2 c-s3 vol55 A-s2] vol60 [E vol65 Eb-s2]
+i0.4 .40 cresc  .  .  .
+=2, 4. <er)2 bb)1> 4 vol50 \
+ <G-s1,-s"2 ",-s"5  ", c# bn>
+|
+il1.3 .30 15
+=1' 8 vol70 [f#-ten-s"1 "-s2-s" 5" c# d fn e]
+=1, 4. vol70 <D(4 G#(2> 4 <D)4(4 G)2(2>
+i0.5 .04 déchirant
+=2' 4. vol60 <E(4-s2,-s"1 ",-s"2  ",-s"5   ", A#(2 fn(3 b(1> \
+ 4 <E)4(4 A)2(2 f)3(3 b)1(1>
+
+5 systems 25 / 19-40-19 5/ 19-35-19 / 19-40-19 / 19-35-19 5/ 19-40-19 18/
+pagenum
+innerhead Two Preludes,  Op. 67,  Alexander Scriabin
+/
+4 bars | 50 | 50 | 50 | 50 |
+|
+=1' 8 vol75 [g# vol65 gn vol60 e vol55 d-s1 vol50 B-s3]
+=1, 4. <D)4(4 G#)2(2> 4 <D)4 G)2>
+i0.4 .30 dim  .  .  .
+=2' 4. <E)4(4 A#)2(2 f)3(3 b)1(1> 4 <E)4 A)2 f)3 b)1>
+|
+=1' 4. vol60 <E(4 c(2-ten-s1-s4-s5 d#xl(1> 4 <E)4(4 c)2(2 dx)1(1>
+=2, 4. <d#(2-s1-s2 a(1> 4 <d)2(2 a)1(1>
+|
+=1' 4. <Er)4 d#l)1> 4 <Gn e-ten-s1-s5>
+=1, 8 [c)2 B G#] [D#l Dn-s1]
+i0.4 .04 cresc  .  .  .
+=2  4. <d#)2 a)1> 4 <F#ll-s" 2",-s1,-s"3 ",-s"5  ", B#l a#'>
+|
+=1' 8 vol+5 [fn-ten-s"1 "-s2-s" 5" c vol+5 db fb vol+5 eb]
+=1, 4. <Db(4 G(2> 4 <D)4(4 G)2(2>
+=2' 4. <Ebrl(4-s2,-s"1 ",-s"3  ",-s"5   ", An(2 fbl(3 bb(1> \
+ 4 <E)4(4 A)2(2 f)3(3 b)1(1>
+/
+4 bars | 50 | 50 | 50 | 50 |
+|
+il1.3 .33 20
+=1' 8 vol+5 [g gb vol-5 eb db vol-5 Bb]
+=1, 4. <Db)4(4 G)2(2> 4 <D)4 G)2>
+=2' 4. <Ebr)4(4 A)2(2 fbl)3(3 bb)1(1> 4 <E)4 A)2 f)3 b)1>
+|
+=1' 8 [dn vol-5 A A# c# vol-5 cn]
+=1, 4. En 4 <E(4 G(2>
+=2  4. <F#r-s" 1",-s"3 ",-s"5 ", B#l a#'> 4 <A,(2 d#l,(3 bb(1>
+|
+=1' 8 [e vol-5 eb c Bb-s3 G-s2]
+=1, 4. <E)4(4 G)2> 4 E)4
+=2, 4. <Ar)2(2 d#l)3(3 bb)1(1> 4 <A)2 d)3 b)1>
+|
+=1' 8 [cb-s1-s5 Gb Gn Bb A]
+=1, 4. Db 4 <Dx(4 E(2>
+=2' 4. <Eb-s" 1",-s"3 ",-s"5 ", A g> 4 <F#(2 c(3 g(1>
+/
+4 bars | 50 | 50 | 50 | 50 |
+|
+=1' 8 [db c A G E]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4(4 E)2(2>
+=2' 4. <F#)2(2 c)3(3 g)1(1> 4 <F)2(2 c)3(3 g)1(1>
+|
+il0.5 .03 25
+=1' 8 [E F# G Bb An]
+=1, 4. <Dx)4(4 E)2(2> 4 <Dx)4(4 E)2(2>
+=2' 4. <F#)2(2 c)3(3 g)1(1> 4 <F)2(2 c)3(3 g)1(1>
+|
+=1' 8 [db F# G Bb A]
+=1, 4. <Dx)4(4 E)2(2> 4 <Dx)4 E)2>
+=2' 4. <F#)2(2 c)3(3 g)1(1> 4 <F)2 c)3 g)1>
+|
+=1' 8 [Ab Eb En G Gb]
+=1, 4. B_b 4 <B_bl Db>
+I0.2 .01 pp
+=2' 4. <C F# e> 4 <Ebll Anl fb>
+/
+4 bars | 50 | 50 | 50 | 50 |
+|
+=1' 8 [Ab Eb En G Gb]
+=1, 4. B_b 4 <B_bl Db>
+=2' 4. <C F# e> 4 <Ebl An fb>
+|
+=1' 8 [Ab F#-s2 G Bb An]
+=1, 4. B_b 4 <Dbx(4 E(2>
+=2' 4. <C F# e> 4 <F#(4 c(3 g(1>
+|
+il1.0 .30 30
+=1' 8 [db F# G Bb An]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4 E)2>
+=2' 4. <F#)4(4 c)3(3 g)1(1> 4 <F)4 c)3 g)1>
+|
+=1' 8 [Ab F#-s2 G Bb An]
+=1, 4. B_b 4 <Dbx(4 E(2>
+=2' 4. <C F# e> 4 <F#(4 c(3 g(1>
+/
+4 bars | 25 23 | 23 23 | 25 27 | 38 ||
+| .8 .75 .7 .65 .60
+i1.1 .55 molto accel  .  .  .
+=1' 8 [db F# G Bb An]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4(4 E)2(2>
+=2' 4. <F#)4(4 c)3(3 g)1(1> 4 <F)4(4 c)3(3 g)1(1>
+| .55 .5 .45 .40 .38
+=1' 8 [db F# G Bb An]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4(4 E)2(2>
+=2' 4. <F#)4(4 c)3(3 g)1(1> 4 <F)4(4 c)3(3 g)1(1>
+| .4 .45 .5 .6 .75
+i1.2 .18 molto ritard  .  .  .
+=1' 8 [db A Bb eb c-s3]
+=1, 4. <Dbxr)4(4 E)2(2> 4 <Dx)4 E)2>
+=2' 4. <F#)4(4 c)3(3 g)1(1> 4 <F)4 c)3 g)1>
+| 6.0
+=1' 4. <Dbr(4 Ex(5 Bbl(3 en(1-fermata-s2-s"1 "-s"2  "-s"5   "> \
+ 4 <D)4 Ex)5 B)3 e)1>
+=2' 4. <Cr(4-s2,-s"1 ",-s"2  ",-s"5   ", F#l(2 db(3 g(1-fermata> \
+ 4 <C)4 F)2 d)3 g)1>
+
+midi pause 2.5
+
+5 systems 30 / 19-45-19 / 19-30-19 / 19-30-19 / 19-30-19 / 19-35-19 8/
+title No. 2
+pagenum
+innerhead Two Preludes,  Op. 67,  Alexander Scriabin
+# midi channel 1 patch 0 pan 80 reverb 90
+# midi channel 2 patch 0 pan 20 reverb 90
+/
+3 bars | 4/8 5 5 5 7 5 5 5 5 5 7 5 5 \
+ | 7 5 5 7 5 7 7 5 7 5 5 5 | 5 5 7 5 5 5 5 5 7 7 5 5 |
+| 4/8 1.5
+Il1.0 .01 Presto
+=1 treble 4/8 cha1 vol60 leg140 \
+ 8 [<B_b Eb-s2-s4> <G_ C F#>] [<B_bl Eb> <G_ C F#>]
+I0.4 .02 pp
+i0.4 .12 inquiet
+=2 bass   4/8 cha2 vol60 leg150 163 [G-s3, c G A Eb A] \
+ [G c G A-,-s2, Eb A-,-s1,]
+|
+=1' 8 [<Db Gb-s2-s4> <B_bl Eb A-s1-s2-s5>] [<En A-s2-s4> <C# F#l B#-s1-s2-s5>]
+=2' 163 [Bb-s3, eb B c-s2, Gb c-s1,] [c#-s3, f# c d# A d-s2,]
+|
+=1' 8 [cn-s2-s4 d] 4 Bb(1-s2-s4
+=1, 8 [G F#] [Fnl Fb--s1]
+=2, 163 [eb-s2, a e ab e a] [d-s3, g d gb-s2, db-s4, g]
+/
+3 bars | 5 5 5 5 5 6 5 5 6 5 5 4 \
+ | 5 5 6 5 5 5 5 5 6 6 5 4 | 6 5 6 6 5 6 5 5 6 5 5 4 |
+|
+=1' 8 [Bb)1-s2-s"( 4 )" G-s1-s3] [<D G-s2-s4> <C# A>]
+=1, 8 [Eb D] 4 blank
+=2  163 [c, f c, e-s1, B, e] [Bb-s4, e' B eb'-s2, B e']
+|
+il0.8 .02 5
+=1' 8 [<F Bb> <E c>] 4 Ab(1
+=1, 4 blank 8 [Ebl Ebb]
+=2, 163 [db-s3, g d gb d g] [c-s4, f c fb-s1, cb-s5, f]
+|
+=1' 8 [<Db A)1> <C F-s1-s3>] [<C F-s2-s4> <B_n G>]
+=2' 163 [Bb-s4, eb-s2, B dn An d] [Ab-s5, d A db-s4, A-s5, d-s4,]
+/
+3 bars | 5 5 6 6 5 5 6 5 6 6 5 4 \
+ | 6 5 6 6 5 6 5 5 5 5 5 4 | 6 5 6 5 5 6 6 5 6 5 5 4 |
+|
+=1' 4 blank db(1-s2-s4
+=1, 8 [<Bblr eb-s2-s4> <A f>] [Abl G]
+=2, 163 [g-s2, c~ g c~b gb-s3, c~] [f-s4, bb-s2, f an en-s5, a]
+|
+=1' 8 [d)1 Bb-s1-s3] [<F Bb-s2-s4> <E c>]
+=1, 8 [Gb F] 4 blank
+=2, 163 [eb-s4, ab-s2, e gn dn-s5, g] [db-s5, g d gb-s2, d g]
+|
+=1' 8 [<G#lr c#> <F## d#>] [<Fnl Bb-s2-s4> <E cn>]
+=2, 163 [e-s3, a# e an e a] [db-s5, gn-s1, d gb-s2, d g>]
+/
+3 bars | 6 5 6 5 5 6 6 5 6 5 5 4 \
+ | 5 5 6 5 5 5 5 5 6 6 5 4 | 5 5 6 6 5 6 5 5 6 5 5 4 |
+|
+il0.8 .02 10
+=1  8 [<G#lr c#'> <F## d#'>] [<B e> <A#l, f#>]
+=2, 163 [e-s3, a# e an e-s5, a-s2,] [gn-s3, c~# g c~n g-s5, c~-s2,]
+|
+=1' 4 blank fn(1
+=1, 8 [<dn g> <c# a>] [cnl cb]
+=2, 163 [bb-s3, e~ b e~b b e~] [a-s5, d~ a d~b-s2, ab-s4, d~]
+|
+=1, 8 [<Bb f)1> <A d-s1-s3>] [<A d-s2-s4> <G# e>]
+=2, 163 [g-s5, c~ g bn-s1, f#-s4, b] [fn-s5, b-s1, f bb-s2, f b]
+/
+3 bars | 5 5 5.5 5 5 5 5 5 5.5 5 5 4 \
+ | 5 5 5 5 5 6 5 5 6 5 5 8 \
+ | 6 5 6 5 5 6 6 5 6 6 5 9 |
+|
+=1, 8 [<c f-s2-s4> <B g>] [<Anl dn> <G# e>]
+=2, 163 [ab-s3, d~ a d~b a d~] [f-s5, b-s1, f bb-s2, f b]
+|
+=1, 8 [<c f> <B g>] [<ebl ab> <d bb>]
+i0.6 .01 cresc .  .  .
+=2, 163 [ab-s3, d~ a d~b a-s5, d~-s2,] [c~b f~ c~ f~b c~-s5, f~-s2,] treble
+|
+il0.9 .10 15
+=1' 4 blank an(1
+=1, 8 [<f#lr bn> <e#l c~#>] [enl eb-s1]
+I0.6 .02 mf
+=2' 163 [D-s3, G# D Gn D G] [C#-s4, F#-,-s2, C Fn-,-s1, Cn-s5, F] bass
+
+6 systems /19-35-19 /19-30-19 /19-35-19 /19-30-19 /19-30-19 /19-35-19 8/
+pagenum
+innerhead Two Preludes,  Op. 67,  Alexander Scriabin
+/
+3 bars | 5 5 6 6 5 6 5 5 5 5 5 4 \
+ | 6 5 6 5 5 5 5 5 6 6 5 4 | 5 5 6 6 5 6 5 5 6 5 5 4 |
+|
+=1, 8 [<d a)1--s1-s"( 4 )"> <c#l f#-s2-s4>] [<c f> <B#l g#>]
+=2, 163 [b-s5, e~ b d~#-s2, a#-s4, d~] [an-s5, d~# a d~n-s2, a d~]
+|
+=1' 4 blank gn(1-s2-s4
+=1, 8 [<e a-s2-s4> <d# b>] [dnl db-s1]
+i0.7 .02 dim  .  .  .
+=2, 163 [c~-s3, f~# c~ f~n c~ f~] [b-s5, e~-s1, b e~b-s2, bb-s4, e~]
+|
+=1, 8 [<c g)1-s1-s"(4)"> <B e-s2-s4>] [<B e> <A#l f#>]
+=2, 163 [a-s5, d~-s1, a c~#-s2, g#-s4, c~] [gn c~# g c~n-s2, g c~]
+/
+3 bars | 5 5 6 5 5 6 5 5 6 5 5 4 \
+ | 5 5 6 5 5 5 6 5 6 5 5 4 | 6 5 6 5 5 6 6 5 6 5 5 4 |
+|
+=1, 8 [<d g> <c# a>] [<cnl fn> <Bn g>]
+=2, 163 [bb-s3, e~-s1, b e~b-s1, b e~] [ab-s4, d~-s1, a d~b-s1, a d~]
+|
+il0.7 .06 20
+=1  8 [<Bbrl eb> <A, f>] [<G#l c#'> <F## d#'>]
+=2, 163 [gb-s4, c~-s1, g c~b-s1, g c~] [e-s5, a#-s2, e an-s1, e a]
+|
+=1' 8 [<F# B> <E#l c#>] [<En A-s2-s4> <D# B>]
+i0.5 .15 dim  .  .  .
+=2, 163 [d-s5, g#-s2, d gn-s1, d g] [cn-s5, f#-s2, c fn-s1, c f]
+/
+3 bars | 5 5 6 5 5 6 5 5 6 5 5 4 \
+ | 5 5 5 6 5 5 5 5 5 6 5 4 | 6 5 5 6 5 6 6 5 6 5 5 4 |
+|
+=1' 8 [<Dn G> <C# A>] [<Cn F> <B_n G>]
+=2' 163 [Bb-s4, e-s1, B eb-s1, B e] [Ab-s3, d A db-s1, A-s3, d]
+|
+=1 8 [<B_b Eb-s2-s4> <G_ C F#>] [<B_bl Eb> <G_ C F#>]
+I0.4 .02 pp
+=2 163 [G-s3, c G A Eb A] [G c G A Eb A-s1,]
+|
+=1' 8 [<Db Gb> <B_bl Eb A>] [<En A> <C# F#l B#>]
+=2' 163 [Bb eb B c Gb c-s1,] [c# f# c d# A d]
+/
+3 bars | 5 5 5 6 5 5 5 5 6 6 5 4 \
+ | 5 5 5 5 5 6 5 5 6 5 5 4 | 5 5 5 5 5 5 5 5 5 6 5 4 |
+|
+il0.9 .01 25
+=1' 8 [cn d] 4 Bb(1
+=1, 8 [G F#] [Fnl Fb]
+=2, 163 [eb a e ab e a] [d g d gb db g]
+|
+=1' 8 [Bb)1 G-s1-s3] [<D G-s2-s4> <C# A>]
+=1, 8 [Eb D] 4 blank
+=2  163 [c, f c, e B, e] [Bb-s4, e' B eb'-s2, B e']
+|
+=1' 8 [<F Bb> <E c>] 4 Ab(1
+=1, 4 blank 8 [Ebl Ebb]
+=2, 163 [db-s3, g d gb d g] [c-s4, f c fb cb-s5, f]
+/
+3 bars | 6 5 6 6 5 6 5 5 6 5 5 4 \
+ | 5 5 6 5 5 5 5 5 6 6 5 4 | 6 5 6 6 5 6 5 5 6 5 5 4 |
+|
+=1' 8 [<Dbrl Ab)1> <C F-s1-s3>] [<C F-s2-s4> <B_n G>]
+=2' 163 [Bb-s4, eb-s2, B dn-s1, An-s5, d] [Ab-s4, d A db-s2, A-s4, d-,-s2,]
+|
+=1' 8 [<F Bb> <E c>] 4 Ab(1
+=1, 4 blank 8 [Ebl Ebb]
+=2, 163 [db-s2, g d gb d g] [c-s3, f c fb-s1, cb-s5, f]
+|
+il0.7 .06 30
+=1' 8 [<Db A)1> <C F-s1-s3>] [<C F-s2-s4> <B_n G>]
+=2' 163 [Bb-s4, eb-s2, B dn-s1, An d] [Ab-s4, d A db-s2, A d]
+/
+5 bars | 7 5 7 5 5 5 7 5 7 5 5 4 \
+ | 7 5 7 5 5 5 5 5 7 7 5 4 | 21 | 12 10 | 20 ||
+|
+=1' vol-10 8 [<C F> <B_ G>] [<C F> <B_ G>]
+I0.5 .02 ppp
+=2' vol-10 163 [Ab-s4, dn A db A d] [A dn A db A d]
+|
+=1' 8 [<C F> <B_ G>] [<B_bl Eb> vol+10 <G_ C F#>]
+i0.5 .55 cresc .  .  .
+=2' 163 [Ab-s4, dn A db-s1, A d] [G-s3, vol+10 c G-s3, An-s2, Eb-s5, A-,-s1,]
+|
+=1 2 <B_brl(4 Eb(2 A(1>
+=2' 2 <C(2 F#(1>
+|
+=1' 4 Ar)1 F#-s3
+=1, 2 <B_brl)4 Eb)2>
+=2' 2 <Cr)2 F#)1>
+| 3.6
+=1' 2 <B_br Enl Bb-fermata>
+=2' 2 <Cr F# e-fermata>

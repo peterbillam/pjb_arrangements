@@ -1,0 +1,106 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2010.08.10.10.08.44;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for bushband pdf's, mp3's etc
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+ARRD = /home/pjb/www/mus/arr
+A4D = ${ARRD}/a4
+USD = ${ARRD}/us
+XMLD = ${ARRD}/xml
+SRCD = ${ARRD}/src
+MP3D = ${ARRD}/mp3
+BACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+UTF2ISO = /home/pbin/utf2iso
+UPLOAD = /home/pbin/upload
+DIST = pjb3265@@loki.webcity.com.au:public_html/mus/arr
+PIECE   = bushband
+
+dev : ${PIECE}.a4 p2.a4 title.a4
+
+all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf  ${SRCD}/${PIECE}.txt \
+ ${MP3D}/bushband_polkas.mp3 ${MP3D}/bushband_jigs.mp3
+
+dist :
+	scp -P 2223 ${A4D}/${PIECE}.pdf  ${DIST}/a4/
+	scp -P 2223 ${USD}/${PIECE}.pdf  ${DIST}/us/
+	scp -P 2223 ${PIECE} ${DIST}/src/${PIECE}.txt
+	scp -P 2223 ${MP3D}/${PIECE}.mp3 ${DIST}/mp3/${PIECE}.mp3
+play :
+	sed 's/^# //' ${PIECE} | ${MUSCRIPT} -midi | aplaymidi - &
+
+${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}
+	groff -ms title | ${BANNERISE} > title.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE} \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE}.xml : ${PIECE}
+	${MUSCRIPT} -xml ${PIECE} > $@@
+${SRCD}/${PIECE}.txt : ${PIECE}
+	cp ${PIECE} $@@
+${PIECE}.a4 : ${PIECE}
+	${MUSCRIPT} ${PIECE} > $@@
+	pkill -HUP gv
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+
+bushband_jigs.mid: ${PIECE}
+	sed 's/^# //' ${PIECE} | ${MUSCRIPT} -midi | midisox - $@@ trim 170 400
+bushband_jigs.wav: bushband_jigs.mid
+	# This uses the XV-2020; the amp must be switched to SYNTH
+	rec -c 2 t.wav trim 0 230 stat &
+	aplaymidi bushband_jigs.mid
+	sox t.wav $@@ rate 44100
+	normalize --peak $@@
+	rm t.wav
+${MP3D}/bushband_jigs.mp3 : bushband_jigs.wav
+	# ${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	lame -h bushband_jigs.wav $@@
+
+bushband_polkas.mid: ${PIECE}
+	sed 's/^# //' ${PIECE} | ${MUSCRIPT} -midi | midisox - $@@ trim 0 168
+bushband_polkas.wav: bushband_polkas.mid
+	# This uses the XV-2020; the amp must be switched to SYNTH
+	rec -c 2 t.wav trim 0 168 stat &
+	aplaymidi bushband_polkas.mid
+	sox t.wav $@@ rate 44100
+	normalize --peak $@@
+	rm t.wav
+${MP3D}/bushband_polkas.mp3 : bushband_polkas.wav
+	# ${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	lame -h bushband_polkas.wav $@@
+
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+@

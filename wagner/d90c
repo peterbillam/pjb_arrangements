@@ -1,0 +1,92 @@
+boundingbox 425 66
+midi channel  1 patch 73 reverb 70 pan 35 # flu
+midi channel  2 patch 68 reverb 70 pan 45 # oboe
+midi channel  3 patch 68 reverb 70 pan 55 # cora
+midi channel  4 patch 71 reverb 70 pan 65 # clr
+midi channel  5 patch 70 reverb 70 pan 80 # bsn
+midi channel  6 patch 60 reverb 70 pan 20 # hrn1
+midi channel  7 patch 60 reverb 70 pan 40 # hrn2
+midi channel  8 patch 57 reverb 70 pan 80 # trmb
+midi channel 10 patch 47 reverb 99 pan 60 # tymp
+midi channel 11 patch 44 reverb 70 pan 10 # vln1
+midi channel 12 patch 44 reverb 70 pan 30 # vln2
+midi channel 13 patch 44 reverb 70 pan 50 # vla
+midi channel 14 patch 44 reverb 70 pan 70 # vlc
+midi channel 15 patch 44 reverb 70 pan 90 # bass
+1 systems 5 /27/
+/
+4 bars | 4# 3/4 5 5 5 6 5 7 | 4 4 4 4 5 5 | 5 5 5 6 5 7 | 4 4 4 4 5 5 |
+| 3/4 2.6
+#=12 treble   4# 3/4 cha1  vol40 leg99 2. e(1-cre+30
+#=2, treble   4# 3/4 cha2  vol40 leg99 2. e(1-cre+30
+#=2, treble   4# 3/4 cha2  vol50 leg99 4. e 8 [d 8. c 16 leg65 B] leg99
+#=3  treble   4# 3/4 cha3  vol60 leg99 4. E 8 [D 8. C 16 leg65 B_] leg99
+#=4  treble   4# 3/4 cha4  vol40 leg99 2. g
+#=4, treble   4# 3/4 cha2  vol55 leg99 4. e 8 [d 8. c 16 leg65 B] leg99
+#=4  treble   4# 3/4 cha3  vol60 leg99 4. E 8 [D 8. C 16 leg65 B_] leg99
+#=5  bass     4# 3/4 cha5  vol40 leg99 2. <g# e~>
+#=5  bass     4# 3/4 cha5  vol40 leg99 2. B_(2-cre+30
+#=6  treble   4# 3/4 cha6  vol40 leg90 2. <B_(2 G B(1>-cre+30
+#=7  bass     4# 3/4 cha7  vol50 leg90 2. B(2
+#=8  bass     4# 3/4 cha8  vol50 leg85 
+#=10 bass     4# 3/4 cha10 vol65 leg150 \
+ 16 e e e e e e e e e e e e e e e e e e e e e e e e e
+#=11 treble   4# 3/4 cha11 vol60 leg99 2. rest
+=1   treble   4# 3/4 cha12 vol75 leg99 4. e 8 [d 8. vol+5 c 16 leg65 B] leg99
+#=13 alto     4# 3/4 cha13 vol60 leg99 4. e 8 [d 8. c 16 leg65 B] leg99
+#=14 bass     4# 3/4 cha14 vol70 leg99 2. B(2
+#=15 bass8vab 4# 3/4 cha15 vol70 leg99 2. B(2
+|
+#=12  2. e)1(1
+#=2   2. e)1(1
+#=2   2 a 4 vol+5 leg85 g leg99
+#=3   2 A 4 vol+5 leg85 G leg99
+#=4   2. e(1
+#=4   2 a 4 vol+5 leg85 g leg99
+#=4   2 A 4 vol+5 leg85 G leg99
+#=5   2. vol+10 <e e~>
+#=5   2 B_)2(2 8 [B_)2 vol+5 A_#]
+#=6   2. <B_)2 vol+10 e(4 B)1>
+#=7   2 B)2(2 8 [B)2 vol+5 A#]
+#=8 
+#=10  16 e e e e e e e e e e e e e e e e e e e e e e e e e
+#=11 2. rest
+=1   2 vol+5 a 4 leg85 g leg99
+#=13 2 vol+5 a 4 leg85 g leg99
+#=14 4 B)2 2 rest tenor
+#=15 4 B)2 2 rest
+|
+#=12  2. e)1(1
+#=2   2. e)1(1
+#=2   2. vol+5 f
+#=3   2. vol+5 F
+#=4   2. e)1(1
+#=4   2. vol+5 f
+#=5   2. vol+5 <A a>
+#=5   4 A_ 2 rest
+#=6   2. <c(2 e)4(4 f>
+#=7   4 A 2 rest
+#=8   2. <A a c~ e~-cre30>
+#=10'  16 e e e e e e e e e e e e e e e e e e e e e e e e e
+#=11  4. vol+5 f 8 [e 8. vol+5 d 16 c]
+=1    4. vol+5 f 8 [e 8. vol+5 d 16 c]
+#=13  4. vol+5 f 8 [e 8. vol+5 d 16 c]
+#=14  4. vol+5 f 8 [e 8. vol+5 d 16 c]
+#=15  2. vol+5 A
+|
+#=12 2. e)1
+#=2  2. e)1
+#=2  2. vol+5 gn
+#=3  2. vol+5 Gn
+#=4  2. e)1
+#=4  2. vol+5 gn
+#=5  2. vol+5 <A_# A# gn>
+#=6  2. <c)2 e)4 gn>
+#=7  2. e
+#=8  2. vol+10 <A# a# c~ e~>
+#=10  16 e e e e e e e e e e e e e e e e e e e e e e e e e
+#=11  vol+5 2 d~ 4 c~
+=1    vol+5 2 d~ 4 c~
+#=13  vol+5 2 d~ 4 c~
+#=14  vol+5 2 d~ 4 c~
+#=15  2. vol+5 A#

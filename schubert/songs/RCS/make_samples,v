@@ -1,0 +1,100 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	98.08.19.05.06.14;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@perl script to extract sample pages from Schubert Songs
+@
+
+
+1.1
+log
+@various bugs fixed, now works
+@
+text
+@#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+# Permission is granted  to any individual or institution to use, copy, #
+# modify or redistribute this software, so long as it is not resold for #
+# profit,  and provided this notice is retained.   Neither Peter Billam #
+# nor  P J B Computing  make any representations  about the suitability #
+# of this software for any purpose. It is provided "as is", without any #
+# express or implied warranty.                                          #
+#      P J B Computing specialises in Internet Commerce, and offers Web #
+# Functionality in Perl, HTML and Java.           http://www.pjb.com.au #
+#########################################################################
+unshift (@@INC, $ENV{PLIB} || '/home/plib');
+
+$sd = '/home/pjb/www/mus/samples';
+$message = 'Sample only.  Order these songs at www.pjb.com.au/mus !';
+
+foreach $paper ('us', 'a4') {
+   open (I, "songs+gtr.$paper") || die "can't open songs+gtr.$paper: $!\n";
+   open (O, "> $sd/schubertsongs.$paper")
+   || die "can't open $sd/schubertsongs.$paper: $!\n";
+
+   while (<I>) {   # output first two systems of Nachtstueck ...
+      last if /% system 3 staves/;
+      print O;
+   }
+   while (<I>) { if (/leftshow$/) { print O; last; } }
+   while (<I>) { last if /^% system 3$/;   print O; }
+
+   while (<I>) {   # skip to start of Nacht und Traeume ...
+      last if /^%%Page: 6 6/;
+   }
+   while (<I>) { last if /^%%EndPageSetup/; }
+   print O "0 -351 translate\n";   # translate almost half a page downwards
+   while (<I>) {   # output first 3 systems of Nacht und Traeume ...
+      last if /^% system 4 staves/;
+      print O;
+   }
+   while (<I>) { if (/leftshow$/) { print O; last; } }
+   while (<I>) { last if /^% system 4$/;   print O; }
+
+   print O "565 381 /Times-Italic 9 ($message) rightshow\n";
+   print O "pgsave restore\nshowpage\n%%Page: 2 2\n";
+
+   while (<I>) {   # skip to start of An Die Laute ...
+      last if /^%%Page: 8 8/;
+   }
+   while (<I>) {   # output first two systems of An Die Laute ...
+      last if /^% system 3 staves/;
+      print O;
+   }
+   while (<I>) { if (/leftshow$/) { print O; last; } }
+   while (<I>) { last if /^% system 3$/;   print O; }
+
+   while (<I>) {   # skip to start of Nacht und Traeume ...
+      last if /^%%Page: 10 10/;
+   }
+   while (<I>) { last if /^%%EndPageSetup/; }
+   print O "0 -401 translate\n";   # translate about half a page downwards
+   while (<I>) {   # output first 2 systems of Nacht und Traeume ...
+      last if /^% system 3 staves/;
+      print O;
+   }
+   while (<I>) { if (/leftshow$/) { print O; last; } }
+   while (<I>) { last if /^% system 3$/;   print O; }
+
+   print O "565 431 /Times-Italic 9 ($message) rightshow\n";
+   print O "pgsave restore\nshowpage\n";
+
+   close I;
+   close O;
+}
+
+@

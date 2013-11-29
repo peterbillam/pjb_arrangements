@@ -1,0 +1,1843 @@
+head	1.27;
+access;
+symbols;
+locks
+	pjb:1.27;
+comment	@# @;
+
+
+1.27
+date	96.09.07.14.17.51;	author pjb;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	96.09.07.14.16.40;	author pjb;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	96.09.07.14.07.22;	author pjb;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	96.08.10.09.34.12;	author pjb;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	96.08.10.09.25.01;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	96.07.28.06.38.37;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	96.07.28.06.01.28;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	96.07.28.05.57.23;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	96.07.28.05.55.48;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	96.07.28.05.24.31;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	96.07.28.04.44.11;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	96.07.28.04.31.43;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	96.07.28.04.28.37;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	96.07.27.11.13.13;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	96.07.27.01.41.12;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	96.07.27.01.26.40;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	96.07.27.00.52.10;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	96.07.25.13.27.06;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	96.07.24.23.54.22;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	96.07.21.09.21.03;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	96.07.14.07.52.07;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	96.07.14.06.27.04;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	96.07.14.04.43.12;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	96.07.12.13.36.28;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	96.07.11.09.08.03;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	96.07.10.23.46.29;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.07.06.01.29.47;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Brahm's Ab minor Organ Fugue arr for recorders
+@
+
+
+1.27
+log
+@move 5 rightwards on p5
+@
+text
+@3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+4 bars | 2 2.5 | .8 1.2 1.2 .8 | .8 1.2 .9 1.1 | .7 .5 .45 .45 .85 .6 .55 .5 |
+|
+b1.1 Johannes Brahms
+i0.35    8
+i0.3             Langsam
+=1 treble 8/4 smb rest rest
+=2 treble 8/4 smb rest rest
+=3 treble 8/4 min rest cro rest c B' E rest Bb
+I0.8                 p
+i0.05    8
+=4 bass   8/4 smb rest rest
+=5 bass   8/4 smb rest rest
+|
+bl1.1            Fugue in Ab minor
+=1 smb rest rest
+=2 smb rest rest
+=3 cro A D rest G# A Gn min F
+=4 smb rest rest
+=5 smb rest rest
+|
+b1.1                                   SATB recorders, Viola de Gamba
+=1 smb rest rest
+=2 min rest cro rest c# d a rest d#
+=3 min E min. G cro F# min A
+=4 smb rest rest
+=5 smb rest rest
+|
+=1 smb rest rest
+=2 cro e b rest f e f# min g#
+=3 cro A G# min d qua d c# cro d cn B
+=4 smb rest rest
+=5 smb rest rest
+/
+3 bars | .5 .5 .5 .5 .75 .55 .5 .5 | .75 .55 .5 .5 .6 .5 .5 .5 | .6 .6 .5 .5 .75 .6 .5 .5 |
+|
+il0.25       5
+is0.35      8
+=1 treble smb rest rest
+=2 treble min a min. f# cro g min e
+=3 treble cro c A min e qua e d# cro e min dn
+is0.01      8
+=4 bass   smb rest rest
+=5 bass   min rest cro rest c~ b e rest bb
+|
+=1 smb rest rest
+=2 cro e f min B qua B c cro B c# d#
+=3 qua d c# cro d min rest smb rest
+=4 min rest cro d f min e a
+=5 cro a d rest g# a gn min f
+|
+=1 min rest cro rest c# d a rest d#
+i0.15         3
+=2 cro3 e f# g min a qua a bb cro a min bn
+=3 smb rest rest
+=4 cro a g c# e A c~n d# f#
+=5 min e min. g cro f# min a
+/
+3 bars | .55 .5 .5 .5 .85 .65 .5 .5 | .5 .5 .5 .5 .8 .5 .6 .45 | .8 .5 .5 .5 .5 .5 .4 .5 |
+|
+is0.35      8
+=1 treble cro e b rest f e f# min g#
+=2 treble qua b c~ min b cro g# min a d~
+=3 treble smb rest rest
+is0.01      8
+=4 bass   cro B d~ g# b e qua d d~ cro c~ b
+=5 bass   cro a g# min d~ qua d~ c~# cro d~ min e
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 cro g# a gn min f# cro g fn e
+=2 qua d~ c~ e~ c~ cro b min a cro g qua bb a cro g
+=3 smb rest rest
+=4 min a cro rest c~ b e rest bb
+=5 cro A c min e qua e d# cro e min dn
+|
+il0.3  10
+=1 cro e f min B qua B c cro B c# d
+=2 cro g f d f min e a
+=3 smb rest min.. rest qua A
+=4 cro a d rest g# a gn cro. f qua rest
+=5 qua d' c# cro d qua f e cro d cn e min f
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+3 bars | 5 | 4 | .7 .45 .55 .55 .5 .45 .5 .45 |
+|
+rs1.1 4
+is0.35      8
+=1 treble qua d e cro d e f qua f g cro f qua f g cro f
+=2 treble cro f a min g cro b c~ g a
+=3 treble cro d c cro. B qua d cro g c f A
+is0.01      8
+=4 bass   smb rest rest
+=5 bass   cro d, f min g cro g a b c~
+|
+is1.1              Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+=1 qua f g f e cro e d# qua rest f# e c cro B' A
+=2 cro g# a min f# cro d# e min c
+=3 cro d c min B cro c A min F#
+=4 smb rest rest
+=5 cro b a min b cro a c~ min d#
+|
+=1 qua A F# cro G B qua A# rest cro rest c B G#
+=2 cro B    min e   qua e  rest cro rest min d# cro dn
+=3 min. G qua c# rest cro rest min A cro B
+=4 smb rest rest
+=5 min e cro rest g f# B rest fn
+/
+4 bars | 2.6 2.3 | 1.8 1.7 | .4 .4 .6 .4 .4 .4 .6 .4 | .45 .45 .6 .5 .5 .5 .6 .5 |
+|
+is0.35      8
+=1 treble cro rest Bb A F# rest min G# cro A
+=2 treble cro rest min c# cro cn rest min. e
+=3 treble cro rest min G cro G rest B A E
+is0.01      8
+=4 bass   smb rest rest
+=5 bass   cro e A rest d#, e dn min c
+|
+il0.3  15
+=1 cro A min G F cro E min rest
+=2 min d cro c rest rest min e cro d
+=3 min B c B A
+=4 smb rest rest
+=5 min B a g f
+|
+=1 cro rest d e f# e B min d
+=2 min e rest cro rest b a g#
+=3 min A smb G# min F#
+=4 smb rest rest
+=5 smb e e
+|
+=1 cro d d e f# d F# min B
+=2 smb f# cro f# d e f#
+=3 smb. A min G#
+=4 smb rest rest
+=5 smb e e
+/
+4 bars | 5 7 5 5 7 7 5 5 | 5 7 5 5 5 5 7 5 | 5 5 7 5 7 7 7 5 | 5 7 5 7 5 7 5 5 |
+|
+is0.35      8
+=1 treble cro B A G# A B, c# min d
+=2 treble cro e B min. e cro e f# g
+=3 treble smb. d cro c# B
+is0.01      8
+=4 bass   smb rest rest
+=5 bass   smb e e
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                       This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 cro d B c# e g b a g
+=2 min. a cro b c~ c~ d~ e~
+=3 smb A cro A A B, c#
+=4 smb rest rest
+=5 smb e e
+|
+il0.3    20
+=1 min f# e cro d min c# cro cn
+=2 min a g smb f#
+=3 cro d G# A c# d e f# g#
+=4 smb rest rest
+=5 smb. d min d#
+|
+=1 cro c min B cro A G# cro rest min rest
+=2 cro f# f min d# cro e rest min rest
+=3 min a rest smb rest
+=4 min rest cro rest c~ b e rest bb
+=5 smb e cro e e f# g
+
+3 systems /21 32 21 24 21 26 21 26 21/21 26 21 24 21 25 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+3 bars | 1.12 1.12 1.12 1 | .9 1 1 1 | .5 .5 .5 .5 .5 .5 .8 .5 |
+|
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+is0.35      8
+=1 treble smb rest rest
+=2 treble min rest cro rest f~ e~ a rest e~b
+=3 treble smb rest rest
+is0.01      8
+=4 bass   cro a d rest g# a gn min f#
+=5 bass   cro f# fn e d min. c cro c~
+|
+=1 min rest cro rest bb a d rest g#
+=2 cro d~ g rest c~# d~ c~n min b
+=3 smb rest rest
+=4 min g qua c~# d~ cro e~ d~ a qua g# b cro d~
+=5 cro b bb a g min. f cro e
+|
+rs1.1                                                                                     5
+=1 cro gn c# rest e f d min c
+=2 min a qua bb a cro g min f (min f#, qua c~') bn' cro a'
+=3 smb rest rest
+=4 cro c~# g rest c# d, a rest d#
+=5 min A rest smb rest
+/
+3 bars | 5 | 4 | 4 |
+|
+il0.25          25
+is0.35      8
+=1 treble min B cro rest G# A e rest A#
+=2 treble min g# rest smb rest
+=3 treble smb rest rest
+is0.01      8
+=4 bass   cro e b rest f e f# min g
+=5 bass   min rest min. d cro c# min e
+|
+=1 cro B f# rest c B c# min d
+=2 min rest min. f# cro e min b
+=3 smb rest rest
+=4 min f# cro rest d# e b rest e
+=5 cro e d# smb a min g#
+|
+=1 smb cn min rest qua rest c B, A,
+=2 cro b a f e min eb d
+=3 smb rest rest
+=4 cro f c rest g f# g min a
+=5 smb a cro a g min f#
+/
+3 bars | 42 | 4 4 4 4 6 6 4 4 6 4 | 5 7 6 5 5 7 5 5 |
+|
+is0.35      8
+=1 treble qua B, c cro d qua rest d c B, c d cro e qua rest f g a
+=2 treble qua rest g f e f g cro a qua rest a g f g a cro b
+=3 treble smb rest rest
+is0.01      8
+=4 bass   min g rest smb rest
+=5 bass   smb g g
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 qua g d cro f cro. f qua e cro. eb qua d cro. d qua c
+=2 qua rest b c~ d~ c~ b a g min f# fn
+=3 smb rest qua rest A, B, c B, A, cro Ab
+=4 smb rest rest
+=5 smb g g
+|
+il0.25     30
+=1 qua B, c d Ab, cro G c~ min b bb
+=2 cro f B c e~b d~ g rest c~#
+=3 cro G rest min rest smb rest
+=4 smb rest qua rest f g ab g f cro e
+=5 cro g f eb c smb G
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+2 bars | 4.3 | 4 |
+|
+rs1.1 6
+is1.1                                                                                                                     Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+is0.35      8
+=1 treble min a ab g f
+=2 treble cro c~n f rest b c~ bb min ab
+=3 treble smb rest rest
+is0.01      8
+=4 bass   smb qua rest e f g f eb cro d qua rest eb d c, d, g f c~
+=5 bass   smb G G
+|
+=1 cro g rest rest B c g rest c#
+=2 qua g e~b d~ c~ d~ ab f ab rest ab g f g an cro bb
+=3 smb rest rest
+=4 cro c~ b f d min d# e
+=5 cro G rest min rest smb rest
+/
+2 bars | 4.3 | 4 |
+|
+is0.35      8
+=1 treble cro d a rest eb d en min f#
+=2 treble qua rest bb a g a bn cro c~ qua rest b c~ d~ b g a c
+=3 treble smb rest rest
+is0.01      8
+=4 bass min f f# g g#
+=5 bass smb rest rest
+|
+=1 cro g fn eb c min B Bb
+=2 qua c B, d ab g f# a eb cro d g rest c~#
+=3 smb rest rest
+=4 cro g b c f# qua g fn g ab g f cro e
+=5 smb rest rest
+/
+2 bars | 4.3 | 4 |
+|
+il0.25          35
+is0.35      8
+=1 treble min A Ab G F
+=2 treble cro c~n f rest b c~ bb min ab
+=3 treble smb rest rest
+is0.01      8
+=4 bass   qua rest e f g f eb cro d qua rest eb d c, d, g f c~
+=5 bass   smb rest rest
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 cro G rest rest B, c g rest c#
+=2 cro g rest qua rest ab g f g an cro bb qua rest bb ab g
+=3 qua rest B d f e eb cro d qua e f e bb a g f e
+=4 qua c~ rest cro rest min rest smb rest
+=5 cro rest B c g rest c# d a
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+2 bars | 4.3 | 4 |
+|
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+is0.35      8
+=1 treble cro d a rest eb d en f# c~
+=2 treble qua a b cro c~ min rest qua rest f g e cro a d~
+=3 treble qua f# g f# c bb a f# a cro d c min rest
+is0.01      8
+=4 bass   smb rest min rest qua rest d~ f# a
+=5 bass   cro rest eb d' c B Bb min A
+|
+rs1.1                                                                                                                      7
+=1 cro bb a d rest qua rest c# d e d cn cro B
+=2 cro c~ f# qua g d e c# d e cro f# qua rest A, d B
+=3 smb rest rest
+=4 qua d a d~ c~ cro b bb a d rest ab
+=5 min d g f# fn
+/
+2 bars | 11 11 11 10 | 5 5 7 5 5 5 5 4 |
+|
+is0.35      8
+=1 treble qua rest B, c d c Bb cro A qua rest Bb A G A, d c g
+=2 treble qua c d cro e min rest rest qua rest g bb a
+=3 treble min rest qua rest G c' A Bb, c cro d qua eb rest cro rest
+is0.01      8
+=4 bass   cro g c rest f# g fn min eb
+=5 bass   min e eb d c
+|
+il0.25     40
+=1 cro g qua f# g cro a f qua g f g a g f cro e
+=2 qua c~ bb a g f# g cro a g rest min rest
+=3 smb rest min. rest cro g
+=4 min d cro rest c~ b e rest b
+=5 min d d# e rest
+/
+2 bars | 4.3 | .5 .5 .6 .5 .5 .5 .5 .5 |
+|
+is0.35      8
+=1 treble qua rest d# e f# e eb cro dn qua rest d c A, B, f cro a
+=2 treble smb rest rest
+=3 treble cro f# B rest fn e A rest d#
+is0.01      8
+=4 bass   cro a d# rest g# a gn min f#
+=5 bass   smb rest cro rest e d# B
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 qua a g f# g a smq b c~ qua b a cro g e d B
+=2 smb rest rest
+=3 cro e d min c qua B c B A#, B, c# cro d
+=4 min e f# g g#
+=5 min e cro rest d# e b rest f
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+2 bars | 45 | 6 5 6 5 5 5 5 5 |
+|
+rs1.1 8
+is1.1                                                                                                                     Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+is0.35      8
+=1 treble cro A f# e c# qua B d e f e B c F#,
+=2 treble smb rest rest
+=3 treble qua rest d c# cn c# d cro e qua d f# e d cn d cro e
+is0.01      8
+=4 bass   min a a# b c~
+=5 bass   cro f# c~# rest g f# g# min a
+|
+=1 qua F# A G# B cro A c# d a rest d#
+=2 smb rest rest
+=3 cro d f e A rest eb d G
+=4 min d~ cro c~# rest smb rest
+=5 min b qua c~# e f# g f' A B c min B
+/
+2 bars | 45 | 40 |
+|
+il0.25      45
+is0.35      8
+=1 treble cro e bb rest f e f# min g#
+=2 treble min rest d d~ qua d~ b g# f
+=3 treble cro rest c# d cn B A B d
+is0.01      8
+=4 bass   smb rest rest
+=5 bass   qua rest e f# g f' F# G# A cro G F min E
+|
+=1 cro a c qua B' Bb' A G cro F qua rest d' c' E rest B
+=2 qua e A, rest eb d G, rest c# d cn cro B A rest
+=3 cro c rest min rest smb rest
+=4 smb rest min rest cro rest g
+=5 cro E F# G d rest G# A e
+/
+2 bars | 45 | 6 4 4 6 4.5 6 4.5 4.5 |
+|
+is0.35      8
+=1 treble qua A D rest G# A Gn cro F E g f# B
+=2 treble smb rest min rest cro rest a
+=3 treble min rest cro rest qua rest G#, A, e rest A#, B, f# rest c
+is0.01      8
+=4 bass   qua f# fn e d c#, e cro d c rest min rest
+=5 bass   cro rest Bb A Bn min c# d#
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                       This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 cro rest f e A rest d# e dn
+=2 cro a g# a qua rest c# d# a rest f# fn b rest fn
+=3 qua B c# cro d c rest  min B qua B d c B
+=4 smb rest rest
+=5 min e cro rest g qua f#' c B A min G#
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+3 bars | 9 5.5 5.5 9 5.5 5.5 5.5 | 5 5 5 6 5 8 5 5 | 5 5 4.5 4.5 4.5 4.5 4.5 4.5 |
+|
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+is0.35      8
+=1 treble min c B qua B d c B A cro e qua bb
+=2 treble qua e f# cro g f fn min e e
+=3 treble qua A, c cro e d# min dn cro G# A gn
+is0.01      8
+=4 bass   smb rest min rest c#
+=5 bass   min A qua A c B A G# B cro d min c#
+|
+il0.25         50
+=1 qua rest a rest d cro rest qua rest g# rest gn rest c# cro rest f#
+=2 cro e cro. d qua c# min B min. A
+=3 cro f# fn e d min c# cn
+=4 min d a rest d#
+=5 min d a rest d#
+|
+rs1.1                                                                             9
+=1 qua f# rest cro. g qua rest cro. gn qua rest cro. d qua rest cro d#
+=2 cro G B min d smb a
+=3 smb B B
+=4 min e b rest f
+=5 min e b rest f
+/
+4 bars | 1.2 1.1 .75 .7 | .7 .8 .9 .8 | .9 1.1 .7 .7 | .5 .84 .84 .5 .84 .84 .84 .5 |
+|
+is0.35      8
+=1 treble qua d# rest cro. e qua rest cro rest smb G
+=2 treble min g# rest smb e
+=3 treble min B rest smb B
+is0.01      8
+=4 bass   min e rest smb g
+=5 bass   min e rest rest cro rest c~
+|
+=1 min G G# A B
+=2 min e e cro d f# min e
+=3 min B smb d min B
+=4 min g e f# g#
+=5 cro b e rest bb a d, rest g#
+|
+=1 min c# d# e f
+=2 min e cro a min. b cro rest d~b
+=3 smb A min. A cro G#
+=4 min e smb B min B
+=5 cro a g f# fn min e B
+|
+il0.25 55
+=1 qua rest f e d# e f# cro g qua rest g f fn f# g# cro a
+=2 cro c~ a g e~ d~ b a f~
+=3 cro A e rest A# B f# rest c
+=4 min c c# d d#
+=5 min c c# d d#
+/
+3 bars | 6 6 6 5 6 6 6 5 | 8 7 8 6 6 8 8 8 | 4.5 9 4.5 6 3.4 3.4 3.4 3.4 ||
+|
+is0.35      8
+=1 treble qua rest g# a b a d cro A qua rest a b c~ b f cro B
+=2 treble cro e~ c~# min b c~n d~
+=3 treble cro B c# min d cro d e min f
+is0.01      8
+=4 bass   min e f f# g
+=5 bass   min e f f# g
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 qua rest b c~# d~ c~ bb a g g f e d d c B A,
+=2 min. e~ cro c~# d~ qua c~ a a a g# f#
+=3 cro e f# g qua fn e cro a qua g f cro f# B
+=4 min g# a d d#
+=5 min g# a d d#
+|
+=1 cro A qua G# F# cro. G qua A smb A
+=2 cro fn min. e min d c
+=3 min d cro d c min B A
+=4 smb e A
+=5 smb e A
+@
+
+
+1.26
+log
+@spacing around 24
+@
+text
+@d188 1
+a188 1
+rs1.1                                                                                  5
+@
+
+
+1.25
+log
+@divisi alto in 24
+@
+text
+@d169 1
+a169 1
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+d171 1
+a171 1
+3 bars | 4.5 | 4 | 4 |
+@
+
+
+1.24
+log
+@header spacing
+@
+text
+@d190 1
+a190 1
+=2 min a qua bb a cro g min f f#
+@
+
+
+1.23
+log
+@corrected systems on last page
+@
+text
+@d247 1
+a247 1
+is1.1                                                                                                                                             Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d309 1
+a309 1
+rs1.1                                                                                                                  7
+d355 1
+a355 1
+is1.1                                                                                                                                             Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+@
+
+
+1.22
+log
+@bar 48 alto, 8th note fn
+@
+text
+@d404 1
+a404 1
+3 systems /28 23 25 28 23 28 23 23/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+@
+
+
+1.21
+log
+@an 6th note in 38
+@
+text
+@d399 1
+a399 1
+=2 cro a g# a qua rest c# d# a rest f# e b rest fn
+@
+
+
+1.20
+log
+@G in alto at start of 51
+@
+text
+@d291 1
+a291 1
+=2 cro g rest qua rest ab g f g a cro bb qua rest bb ab g
+@
+
+
+1.19
+log
+@fn in alto at last bar
+@
+text
+@d426 1
+a426 1
+=2 cro C B min d smb a
+@
+
+
+1.18
+log
+@47 sop: final b -> B
+@
+text
+@d478 1
+a478 1
+=2 cro f min. e min d c
+@
+
+
+1.17
+log
+@36 bass c~
+@
+text
+@d390 1
+a390 1
+=1 treble qua A D rest G# A Gn cro F E g f# b
+@
+
+
+1.16
+log
+@page "9" moved left
+@
+text
+@d293 1
+a293 1
+=4 qua c rest cro rest min rest smb rest
+@
+
+
+1.15
+log
+@42a smb, 49s e & spacing
+@
+text
+@d424 1
+a424 1
+rs1.1                                                                                9
+@
+
+
+1.14
+log
+@bars 33 34 35 49, header spacing
+@
+text
+@d283 1
+a283 1
+=2 treble cro c~n f rest b c bb min ab
+d345 1
+a345 1
+=2 smq rest rest
+d404 1
+a404 1
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+d410 1
+a410 1
+=1 treble min c B qua B d c B A cro E qua bb
+@
+
+
+1.13
+log
+@shifted headerline again
+@
+text
+@d97 1
+a97 1
+is1.1            Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d188 1
+a188 1
+rs1.1                                                                                   5
+d247 1
+a247 1
+is1.1                                                    Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d266 1
+a266 1
+=2 treble qua rest bb a g a bn cro c~ qua rest b c~ b g a c
+d273 1
+a273 1
+=2 qua c B, d ab g f# a eb cro d g rest c#
+d283 1
+a283 1
+=2 treble cro cn f rest b c bb min aa
+d355 1
+a355 1
+ia1.1                                                 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d406 1
+a406 1
+3 bars | 7.5 5.5 5.5 8.5 5.5 5.5 5.5 | 5 5 5 6 5 7 5 5 | 5 5 4.5 4.5 4.5 4.5 7 4.5 |
+d431 1
+a431 1
+4 bars | 1.2 1.1 .75 .7 | .7 .9 .9 .8 | .9 1.1 .75 .9 | .5 .75 .75 .5 .8 .8 .75 .5 |
+d460 1
+a460 1
+3 bars | 6 6 6 5 6 6 6 5 | 8 7 8 6 6 8 8 8 | 4.5 8 4.5 6 3.5 3.5 3.5 3.5 ||
+@
+
+
+1.12
+log
+@spacing of title line, one stem in 38
+@
+text
+@d97 1
+a97 1
+is1.1         Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d188 1
+a188 1
+rs1.1                            5
+d246 2
+a247 1
+rs1.1 6                                                  Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d309 1
+a309 1
+rs1.1                                                                                                     7
+d354 2
+a355 1
+rs1.1 8                                                  Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+a363 1
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+@
+
+
+1.11
+log
+@one note in 47, mostly spacing
+@
+text
+@d88 1
+a88 1
+r1.1 4
+d97 1
+a97 1
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d188 1
+a188 1
+r1.1                            5
+d246 1
+a246 1
+r1.1 6
+a254 1
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+d279 1
+a279 1
+il0.25         35
+d308 1
+a308 1
+r1.1                                                              7
+d310 1
+a310 1
+=2 cro c~ f# qua g d e c# d e cro f# qua rest A d B
+d353 1
+a353 1
+r1.1 8
+d371 1
+a371 1
+il0.25     45
+d423 1
+a423 1
+r1.1                                9
+@
+
+
+1.10
+log
+@minor spacing
+@
+text
+@d3 1
+a3 1
+4 bars | 2 2.5 | .8 1.2 1.2 .8 | .8 1.2 .9 1.1 | .7 .5 .45 .45 .8 .6 .6 .5 |
+d23 1
+a23 1
+b1.1                                  SATB recorders, Viola de Gamba
+d36 1
+a36 1
+3 bars | 2 2.5 | 1.4 1 1 1 | 1.2 1 1.4 1 |
+d54 1
+a54 1
+i0.15        3
+d88 1
+a88 1
+is1.1 Johannes Brahms, Fugue in Ab minor
+d97 1
+a103 1
+is1.1 for SATB recorders, Viola de Gamba
+d110 1
+a110 1
+4 bars | 2.7 2.4 | 1.85 1.75 | .5 .5 .75 .5 .7 .5 | .45 .45 .7 .5 .5 .5 .7 .5 |
+d173 1
+a173 1
+is1.1 Johannes Brahms, Fugue in Ab minor
+d188 1
+a188 1
+is1.1 for SATB recorders, Viola de Gamba
+d230 1
+a230 1
+=2 qua b c~ d~ c~ b a g min f# fn
+d246 1
+a246 1
+is1.1 Johannes Brahms, Fugue in Ab minor
+d255 1
+a255 1
+is1.1 for SATB recorders, Viola de Gamba
+d280 1
+a280 1
+il0.25    35
+d286 1
+a286 1
+=4 bass   qua rest e f g f eb cro d qua eb d c, d, g f c~
+d300 1
+a300 1
+is1.1 Johannes Brahms, Fugue in Ab minor
+d309 1
+a309 1
+is1.1 for SATB recorders, Viola de Gamba
+d333 1
+a333 1
+2 bars | 4.3 | 4 |
+d352 1
+a352 1
+2 bars | 45 | 40 |
+d354 1
+a354 1
+is1.1 Johannes Brahms, Fugue in Ab minor
+d363 1
+a363 1
+is1.1 for SATB recorders, Viola de Gamba
+d372 1
+a372 1
+il0.25    45
+d381 2
+a382 2
+=1 cro a c qua B Bb A G cro F qua d c E rest B
+=2 qua e A, rest eb d G rest c# d cn cro B A rest
+d387 1
+a387 1
+2 bars | 45 | 6 4.5 4.5 6 4.5 6 4.5 4.5 |
+d390 1
+a390 1
+=1 treble qua A D rest G# E Gn cro F E g f# b
+d406 1
+a406 1
+3 bars | 7.5 5.5 5.5 8 6 5.5 5.5 | 5 5 5 6 5 7 5 5 | 5 5 4.5 4.5 4.5 4.5 7 4.5 |
+d408 1
+a408 1
+is1.1 Johannes Brahms, Fugue in Ab minor
+d424 1
+a424 1
+is1.1 for SATB recorders, Viola de Gamba
+d431 1
+a431 1
+4 bars | 1.2 1.1 .75 .75 | .75 .9 .9 .8 | .9 1.1 .8 .9 | .5 .75 .75 .5 .75 .8 .75 .5 |
+d460 1
+a460 1
+3 bars | 6 6 6 5 6 6 6 5 | 8 8 8 6 6 8 8 8 | 4.5 7.5 4.5 6.5 3.5 3.5 3.5 3.5 ||
+@
+
+
+1.9
+log
+@spacing, a few stems
+@
+text
+@d11 2
+a12 2
+I0.8                p
+i0.1    8
+d23 1
+a23 1
+b1.1                                 SATB recorders, Viola de Gamba
+d43 1
+a43 1
+is0.1      8
+d66 1
+a66 1
+is0.1      8
+d69 1
+a69 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d93 1
+a93 1
+is0.1      8
+d116 1
+a116 1
+is0.1      8
+d145 1
+a145 1
+is0.1      8
+d148 1
+a148 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                     This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d178 1
+a178 1
+is0.1      8
+d202 1
+a202 1
+is0.1      8
+d224 1
+a224 1
+is0.1      8
+d227 1
+a227 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d251 1
+a251 1
+is0.1      8
+d268 1
+a268 1
+is0.1      8
+d285 1
+a285 1
+is0.1      8
+d288 1
+a288 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d305 1
+a305 1
+is0.1      8
+d322 1
+a322 1
+is0.1      8
+d339 1
+a339 1
+is0.1      8
+d342 1
+a342 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d359 1
+a359 1
+is0.1      8
+d377 1
+a377 1
+is0.1      8
+d393 1
+a393 1
+is0.1      8
+d396 1
+a396 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                     This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d413 1
+a413 1
+is0.1      8
+d431 1
+a431 1
+4 bars | 1.2 1.1 .8 .8 | .75 .9 .9 .8 | .9 1.1 .8 .9 | .5 .75 .75 .5 .7 .75 .75 .5 |
+d437 1
+a437 1
+is0.1      8
+d460 1
+a460 1
+3 bars | 6 6 6 5 6 6 6 5 | 8 8 8 6 6 8 8 8 | 4.5 .75 4.5 6.5 3.5 3.5 3.5 3.5 ||
+d466 1
+a466 1
+is0.1      8
+d469 1
+a469 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+@
+
+
+1.8
+log
+@several per page, much spacing
+@
+text
+@d3 1
+a3 1
+4 bars | 2 2.5 | .8 2.4 .8 | .8 1.2 .9 1.1 | .7 .5 .45 .45 .8 .6 .6 .5 |
+d12 1
+a12 1
+i0.35    8
+d23 1
+a23 1
+b1.1                               SATB recorders, Viola de Gamba
+d36 1
+a36 1
+3 bars | 2.5 2 | 1.4 1 1 1 | 1.1 1 1.5 1 |
+d39 1
+d43 1
+d54 1
+a54 1
+i0.1     3
+d60 1
+a60 1
+3 bars | .55 .5 .5 .5 .75 .65 .5 .5 | .5 .5 .5 .5 .8 .5 .6 .5 | .8 .5 .5 .5 .5 .5 .4 .5 |
+d62 1
+d66 1
+d88 2
+a89 1
+is1.1 Johannes Brahms, Fuge in as-moll
+d93 1
+d110 1
+a110 1
+4 bars | 5.3 | 3.7 | .5 .5 .7 .5 .7 .5 | .5 .5 .7 .5 .5 .5 .7 .5 |
+d112 1
+d116 1
+d141 1
+d145 1
+d173 2
+a174 1
+is1.1 Johannes Brahms, Fuge in as-moll
+d178 1
+d198 1
+d202 1
+d218 1
+a218 1
+3 bars | 40 | 4 4 4 4 6 6 4 4 6 4 | 5 7 6 5 5 7 7 5 |
+d220 1
+d224 1
+d246 2
+a247 1
+is1.1 Johannes Brahms, Fuge in as-moll
+d251 1
+d264 1
+d268 1
+d281 1
+d285 1
+d300 2
+a301 1
+is1.1 Johannes Brahms, Fuge in as-moll
+d305 1
+d316 1
+a316 1
+2 bars | 4.3 | 4 |
+d318 1
+d322 1
+d335 1
+d339 1
+d354 2
+a355 1
+is1.1 Johannes Brahms, Fuge in as-moll
+d359 1
+d368 1
+a368 1
+=5 min b qua c~# e f# g f# A B c min B
+d372 2
+a373 1
+il0.25 45
+d377 1
+d379 1
+a379 1
+=5 bass   qua rest e f# g f F# G# A cro G F min E
+d387 1
+a387 1
+2 bars | 45 | 40 |
+d389 1
+d393 1
+d402 1
+a402 1
+=5 min e cro rest g qua f# c B A min G#
+d406 1
+a406 1
+3 bars | 7.5 5.5 5.5 7.5 6 5.5 5.5 | 5 5 5 6 5 7 5 5 | 5 5 5 5 5 5 7 5 |
+d408 2
+a409 1
+is1.1 Johannes Brahms, Fuge in as-moll
+d413 1
+d417 1
+a417 1
+il0.25        50
+d431 1
+a431 1
+4 bars | 2.3 1.8 | .8 .9 .9 .9 | .9 .9 .8 .9 | .5 .7 .7 .5 .7 .7 .7 .5 |
+d433 1
+d437 1
+d451 1
+a451 1
+=5 cro a g f# f min e B
+d460 1
+a460 1
+3 bars | 6 6 6 5 6 6 6 5 | 8 8 8 6 6 8 8 8 | 4.5 6.5 4.5 6.5 4 4 4 4 ||
+d462 1
+d466 1
+d471 1
+a471 1
+=1 qua rest b c~# d~ c~ bb a g g f e d d c B A
+@
+
+
+1.7
+log
+@some corrections, bars 49-58 added
+@
+text
+@d3 1
+a3 1
+4 bars | 2 2.5 | 4 | 4 | 1.4 1.6 1.4 |
+d6 1
+d12 1
+d16 1
+a16 1
+bl1.1            Fuge in as-moll
+d23 1
+a23 1
+b1.1                            SATB recorders, Viola de Gamba
+d36 1
+a36 1
+3 bars | 2.5 2 | 1.2 1 1 1 | 1.1 1 1.4 1 |
+d47 1
+a47 1
+=3 qua d c# cro d rest smb rest
+d52 1
+d58 1
+a58 1
+3 bars | 4.5 | 4 | 4 |
+d82 1
+a82 1
+3 bars | 5 | 4 | 4 |
+d91 1
+a91 1
+=1 qua f g f e cro e d# qua rest f# e c cro B A
+d97 1
+d104 1
+a104 1
+4 bars | 5.3 | 3.7 | 4 | 4 |
+d131 1
+a131 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d138 1
+a138 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d176 1
+d185 1
+a185 1
+il0.25       25
+d204 1
+a204 1
+3 bars | 4 | .8 .8 1.2 .8 .9 | 1.1 0.9 1.1 0.9 |
+d215 1
+a215 1
+=3 smb rest qua rest A, B, c B, A, Ab
+d228 1
+a228 1
+3 bars | 4.5 | 4 | 4 |
+d237 1
+d243 2
+d246 8
+a253 2
+=1 cro d a rest eb d en min f#
+=2 qua rest bb a g a bn cro c~ qua rest b c~ b g a c
+d255 1
+a255 1
+=4 min f f# g g#
+d258 1
+a258 1
+3 bars | 4.5 | 4 | 4 |
+d260 3
+a262 2
+=1 treble cro g fn eb c min B Bb
+=2 treble qua c B, d ab g f# a eb cro d g rest c#
+d264 1
+a264 1
+=4 bass   cro g b c f# qua g fn g ab g f cro e
+d266 1
+a266 7
+|
+il0.25    35
+=1 min A Ab G F
+=2 cro cn f rest b c bb min aa
+=3 smb rest rest
+=4 qua rest e f g f eb cro d qua eb d c d g f c
+=5 smb rest rest
+d273 2
+d276 1
+a276 1
+3 bars | 4.5 | 4 | 4 ||
+d278 1
+a283 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d285 1
+d291 2
+d294 5
+a298 9
+=1 qua rest B, c d c Bb cro A qua rest Bb A G A, d c g
+=2 qua c d cro e min rest rest qua rest g bb a
+=3 min rest qua rest G c' A Bb, c cro d qua eb rest cro rest
+=4 cro g c rest f# g fn min eb
+=5 min e eb d c
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+/
+3 bars | 4.5 | 4 | 4 |
+a299 1
+is1.1 Johannes Brahms, Fuge in as-moll
+d301 7
+a307 5
+=1 treble cro g qua f# g cro a f qua g f g a g f cro e
+=2 treble qua c~ bb a g f# g cro a g rest min rest
+=3 treble smb rest min. rest cro g
+=4 bass   min d cro rest c~ b e rest b
+=5 bass   min d d# e rest
+d309 6
+a314 5
+=1 qua rest d# e f# e eb cro dn qua rest d c A, B, f cro a
+=2 smb rest rest
+=3 cro f# B rest fn e A rest d#
+=4 cro a d# rest g# a gn min f#
+=5 smb rest cro rest e d# B
+d321 2
+d324 1
+a324 1
+3 bars | 4.5 | 4 | 4 |
+d326 1
+d333 1
+d339 2
+d343 5
+a347 14
+=1 cro e bb rest f e f# min g#
+=2 min rest d d~ qua d~ b g# f
+=3 cro rest c# d cn B A B d
+=4 smb rest rest
+=5 qua rest e f# g f F# G# A cro G F min E
+/
+3 bars | 4.5 | 4 | 4 |
+|
+=1 treble cro a c qua B Bb A G cro F qua d c E rest B
+=2 treble qua e A, rest eb d G rest c# d cn cro B A rest
+=3 treble cro c rest min rest smb rest
+=4 bass   smb rest min rest cro rest g
+=5 bass   cro E F# G d rest G# A e
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                    This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d349 14
+a362 5
+=1 qua A D rest G# E Gn cro F E g f# b
+=2 smb rest min rest cro rest a
+=3 min rest cro rest qua rest G#, A, e rest A#, B, f# rest c
+=4 qua f# fn e d c#, e cro d c rest min rest
+=5 cro rest Bb A Bn min c# d#
+d372 1
+a372 1
+3 bars | 4.5 | 4 | 4 |
+d378 1
+a378 1
+=4 bass   smb rest rest
+d381 1
+a381 1
+il0.25     50
+d385 1
+a385 1
+=4 smb rest rest
+d388 2
+a389 1
+=1 qua f# rest cro. g rest qua cro. gn qua rest cro. d qua rest cro d#
+d392 1
+a392 1
+=4 smb rest rest
+d395 1
+a395 1
+4 bars | 2.3 1.8 | 3.6 | 3.6 | 5 |
+d397 1
+a397 1
+=1 treble qua d rest cro. e qua rest cro rest min G
+d400 1
+a400 1
+=4 bass   smb rest g
+d415 1
+a415 1
+il0.25 45
+d422 1
+a422 1
+3 bars | 4.5 | 4.5 | 3.5 ||
+d426 1
+a426 1
+=3 treble cro B c# min d cro c d min f
+d431 1
+a431 1
+=1 qua rest b c~ d~ c bb a g g f e d d c B A
+d439 1
+a439 1
+=3 min d~ d~ c~ min b a
+@
+
+
+1.6
+log
+@added to bar 48; shuffled to 3 bars/line
+@
+text
+@d3 1
+a3 1
+4 bars | 5 | 4 | 4 | 1.2 1.6 1.2 |
+d14 1
+a14 1
+bl1.1               Fuge in as-moll
+d21 1
+a21 1
+b1.1                           SATB recorders, Viola de Gamba
+d34 1
+a34 1
+3 bars | 4.5 | 4 | 4 |
+d72 1
+a72 1
+=2 cro g  f dd f min e a
+d106 1
+a106 1
+=5 bass   cro e A rest d# e dn min c
+d129 1
+a129 1
+=1 treble cro B A G# A B c# min d
+d138 1
+a138 1
+=3 smb A cro A A B c#
+d199 1
+a199 1
+3 bars | 4.5 | 4 | 4 |
+d229 1
+a229 1
+=4 bass   smb qua rest e f g f eb cro d qua rest eb d c d g f c~
+d253 1
+a253 1
+=1 min a ab g f
+d256 1
+a256 1
+=4 qua e f g f eb cro d qua eb d c d g f c
+d259 2
+a260 2
+=1 cro G rest rest B c g rest c#
+=2 cro g rest qua rest ab g f g a cro bb qua bb ab g
+d267 1
+a267 1
+=1 treble cro d a rest ee d e f# c~
+d271 1
+a271 1
+=5 bass   cro rest ee d c B Bb min A
+d275 1
+a275 1
+=2 cro c~ f# qua g d e c# d e cro f# qua A d B
+d280 1
+a280 1
+=1 qua rest B, c d c Bb cro A qua rest Bb A G A d c g
+d282 1
+a282 1
+=3 min rest qua rest G c A Bb c cro d qua eb rest cro rest
+d298 1
+a298 1
+=1 qua rest d# e f# e eb cro dn qua rest d c A B f cro a
+d304 1
+a304 1
+=1 qua a g f# g a smq b c~ qua b a cro g e d b
+d306 1
+a306 1
+=3 cro e d min c qua B c B A# B c# cro d
+d312 1
+a312 1
+=1 treble cro A f# e c# qua B d e f e B c F#
+d315 1
+a315 1
+=4 bass   min a a# b c
+d324 1
+a324 1
+il0.25    45
+d334 1
+a334 1
+=2 treble qua e A rest eb d G rest c# d cn cro B A rest
+d342 2
+a343 2
+=3 min rest cro rest qua rest G# A e rest A# B f# rest c
+=4 qua f# fn e d c# e cro d c rest min rest
+d352 71
+@
+
+
+1.5
+log
+@added to bar 35
+@
+text
+@d21 1
+a21 1
+b1.1                        SATB recorders, Viola de Gamba
+d34 1
+a34 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d36 1
+a36 1
+il0.6    5
+a53 6
+|
+=1 cro e b rest f e f# min g#
+=2 qua b c~ min b cro g# min a d~
+=3 smb rest rest
+=4 cro B d~ g# b e qua d d~ cro c~ b
+=5 cro a g# min d~ qua d~ c~# cro d~ min e
+d55 1
+a55 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d57 2
+a58 2
+=1 treble cro g# a gn min f# cro g fn e
+=2 treble qua d~ c~ e~ c~ cro b min a cro g qua bb a cro g
+d60 9
+a68 3
+=4 bass   min a cro rest c~ b e rest bb
+=5 bass   cro A c min e qua e d# cro e min dn
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                               This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d76 4
+d81 6
+a86 5
+=1 qua d e cro d e f qua f g cro f qua f g cro f
+=2 cro f a min g cro b c~ g a
+=3 cro d c cro. B qua d cro g c f A
+=4 smb rest rest
+=5 cro d, f min g cro g a b c~
+d93 6
+a98 2
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+d100 1
+a100 1
+4 bars | 5 | 4 | 4 | 1.2 1.6 1.2 |
+d102 3
+a104 4
+is1.1 Johannes Brahms, Fuge in as-moll
+=1 treble qua A F# cro G B qua A# rest cro rest c B G#
+=2 treble cro B    min e   qua e  rest cro rest min d# cro dn
+=3 treble min. G qua c# rest cro rest min A cro B
+d106 1
+a106 7
+=5 bass   min e cro rest g f# B rest fn
+|
+=1 cro rest Bb A F# rest min G# cro A
+=2 cro rest min c# cro cn rest min. e
+=3 cro rest min G cro G rest B A E
+=4 smb rest rest
+=5 cro e A rest d# e dn min c
+d120 6
+d129 3
+a131 3
+=1 treble cro d d e f# d F# min B
+=2 treble smb f# cro f# d e f#
+=3 treble smb. A min G#
+d134 1
+a134 6
+|
+=1 cro B A G# A B c# min d
+=2 cro e B min. e cro e f# g
+=3 smb. d cro c# B
+=4 smb rest rest
+=5 smb e e
+d148 8
+d157 1
+a157 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d159 6
+a164 12
+=1 treble cro c min B cro A G# cro rest min rest
+=2 treble cro f# f min d#
+=3 treble min a rest smb rest
+=4 bass   min rest cro rest c~ b e rest bb
+=5 bass   smb e cro e e f# g
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                               This page may be freely photocopied and redistributed, provided it is not resold for profit.
+|
+=1 smb rest rest
+=2 min rest cro rest f~ e~ a rest e~b
+=3 smb rest rest
+=4 cro a d rest g# a gn min f#
+=5 cro f# fn e d min. c cro c~
+a176 2
+
+3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+d178 1
+a178 1
+4 bars | 5 | 4 | 4 | 4 |
+a179 1
+is1.1 Johannes Brahms, Fuge in as-moll
+a197 6
+|
+=1 qua B, c cro d qua rest d c B, c d cro e qua rest f g a
+=2 qua rest g f e f g cro a qua rest a g f g a cro b
+=3 smb rest rest
+=4 min g rest smb rest
+=5 smb g g
+d201 4
+a204 4
+=1 treble qua g d cro f cro. f qua e cro. eb qua d cro. d qua c
+=2 treble qua b c~ d~ c~ b a g min f# fn
+=3 treble smb rest qua rest A, B, c B, A, Ab
+=4 bass   smb rest rest
+d206 7
+d215 1
+a215 1
+=1 qua B, c d Ab cro G c~ min b bb
+d220 2
+a221 6
+|
+=1 min a ab g f
+=2 cro c~n f rest b c~ bb min ab
+=3 smb rest rest
+=4 smb qua rest e f g f eb cro d qua rest eb d c d g f c~
+=5 smb G G
+d225 3
+a227 2
+=1 treble cro g rest rest C c g rest c#
+=2 treble qua g e~b d~ c~ d~ ab f ab rest ab g f g an cro bb
+d229 8
+a236 3
+=4 bass   cro c~ b f d min d# e
+=5 bass   cro G rest min rest smb rest
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                               This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d243 2
+d246 5
+a250 5
+=1 cro g fn eb c min B Bb
+=2 qua c B, d ab g f# a eb cro d g rest c#
+=3 smb rest rest
+=4 cro g b c f# qua g fn g ab g f cro e
+=5 smb rest rest
+d258 94
+@
+
+
+1.4
+log
+@up to bar 33
+@
+text
+@d234 1
+a234 1
+=2 qua rest bb a g a bn cro c~ qua rest b c~ d~ c~ g ab XXXX
+d236 2
+a237 2
+=4 cro a d rest g# a gn min f#
+=5 cro f# fn e d min. c cro c~
+d239 2
+a240 2
+=1 min rest cro rest bb a d rest g#
+=2 cro d~ g rest c~# d~ c~n min b
+d242 2
+a243 2
+=4 min g qua c~# d~ cro e~ d~ a qua g# b cro d~
+=5 cro b bb a g min. f cro e
+d246 2
+a247 2
+=1 cro gn c# rest e f d min c
+=2 min a qua bb a cro g min f f#
+d249 2
+a250 2
+=4 cro c~# g rest c# d, a rest d#
+=5 min A rest smb rest
+@
+
+
+1.3
+log
+@bass E 8va 16-19, prepared third page
+@
+text
+@d175 1
+a175 1
+4 bars | 5 | 4 | 4 | 1.2 1.6 1.2 |
+d180 1
+a180 1
+=2 treble min G# rest smb rest
+d185 17
+a201 18
+=1 cro XXXX
+=2 cro rest min c# cro cn rest min. e
+=3 cro rest min G cro G rest B A E
+=4 smb rest rest
+=5 cro e A rest d# e dn min c
+|
+il0.3  15
+=1 cro A min G F cro E min rest
+=2 min d cro c rest rest min e cro d
+=3 min B c B A
+=4 smb rest rest
+=5 min B a g f
+|
+=1 cro rest d e f# e B min d
+=2 min e rest cro rest b a g#
+=3 min A smb G# min F#
+=4 smb rest rest
+=5 smb e e
+d203 1
+a203 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d205 3
+a207 3
+=1 treble cro d d e f# d F# min B
+=2 treble smb f# cro f# d e f#
+=3 treble smb. A min G#
+d209 8
+a216 1
+=5 bass   smb e e
+d218 5
+a222 18
+=1 cro B A G# A B c# min d
+=2 cro e B min. e cro e f# g
+=3 smb. d cro c# B
+=4 smb rest rest
+=5 smb e e
+|
+=1 cro d B c# e g b a g
+=2 min. a cro b c~ c~ d~ e~
+=3 smb A cro A A B c#
+=4 smb rest rest
+=5 smb e e
+|
+il0.3    20
+=1 min f# e cro d min c# cro cn
+=2 min a g smb f#
+=3 cro d G# A c# d e f# g#
+=4 smb rest rest
+=5 smb. d min d#
+d224 1
+a224 1
+4 bars | 4.5 | 4 | 4 | 4 |
+d226 5
+a230 5
+=1 treble cro c min B cro A G# cro rest min rest
+=2 treble cro f# f min d#
+=3 treble min a rest smb rest
+=4 bass   min rest cro rest c~ b e rest bb
+=5 bass   smb e cro e e f# g
+d233 2
+a234 2
+=1 smb rest rest
+=2 min rest cro rest f~ e~ a rest e~b
+d245 1
+@
+
+
+1.2
+log
+@bars 21-24
+@
+text
+@d5 2
+a6 2
+b1.1 Brahms
+i0.5          Langsam
+d9 2
+a10 2
+=3 treble 8/4 min rest cro rest c B E rest Bb
+i0.7           p
+d14 1
+a14 1
+bl1.1                  Fuge in as-moll
+d21 1
+a21 1
+b1.1               SATB recorders and Viola de Gamba
+d68 1
+a68 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                         This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d117 1
+a117 1
+=5 smb E E
+d125 1
+a125 1
+=5 bass   smb E E
+d131 1
+a131 1
+=5 smb E E
+d137 1
+a137 1
+=5 smb E E
+d153 1
+a153 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                         This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d164 1
+a164 1
+=4 min g qua c~# d cro e~ d~ a qua g# b cro d~
+d170 86
+a255 1
+=4 cro c~# g rest c# d a rest d#
+@
+
+
+1.1
+log
+@added bars 13-20
+@
+text
+@d148 5
+a152 5
+=1 treble XXXX
+=2 treble qua d~ c~ e~ c~ cro b min a cro g qua bb a cro g
+=3 treble smb rest rest
+=4 bass   min a cro rest c~ b e rest bb
+=5 bass   cro A c min e qua e d# cro e min dn
+d155 5
+a159 6
+il0.3  10
+=1 cro e f min B qua B c cro B c# d
+=2 cro g  f dd f min e a
+=3 smb rest min.. rest qua A
+=4 cro a d rest g# a gn cro. f qua rest
+=5 qua d' c# cro d qua f e cro d cn e min f
+d161 5
+a165 5
+=1 qua d e cro d e f qua f g cro f qua f g cro f
+=2 cro f a min g cro b c~ g a
+=3 cro d c cro. B qua d cro g c f A
+=4 smb rest rest
+=5 cro d, f min g cro g a b c~
+d167 5
+a171 5
+=1 qua f g f e cro e d# qua rest f# e c cro B A
+=2 cro g# a min f# cro d# e min c
+=3 cro d c min B cro c a min f#
+=4 smb rest rest
+=5 cro b a min b cro a c~ min d#
+@

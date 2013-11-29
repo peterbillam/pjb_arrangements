@@ -1,0 +1,15 @@
+boundingbox 200 74
+midi channel 3  patch 71 reverb 70 pan 20 # clr
+midi channel 7  patch 44 reverb 70 pan 50 # vla
+midi channel 8  patch 44 reverb 70 pan 80 # cb
+1 system 11 /27/
+/
+1 bars | 5b 2 2 2.5 2 1 1 1 1 1  2 1 2 2 1 2 :||
+| 2/4 1.8
+=1 bass   5b cha7 leg99 vol120 163-s [en' f'-I3 a'] 4 g 8 vol-10 f rest
+#=3  bass 5b cha3 leg99 vol100 163-s [en' f'-I3 a'] 4 g 8 vol-10 f rest
+#=8  bass 5b cha8 leg99 vol95 2 F(1
+#|
+#=1 bass   5b cha7 leg99 vol120 163-s [en' f'-I3 a'] 4 g 8 vol-10 f rest
+#=3  bass 5b cha3 leg99 vol100 163-s [en' f'-I3 a'] 4 g 8 vol-10 f rest
+#=8  bass 5b cha8 leg99 vol95 2 F)1-dim40

@@ -1,0 +1,544 @@
+head	1.9;
+access;
+symbols;
+locks
+	pjb:1.9;
+comment	@# @;
+
+
+1.9
+date	97.12.06.09.15.25;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	95.12.09.08.51.33;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	95.12.09.08.50.41;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	95.12.09.08.41.04;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	95.12.09.08.24.22;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	95.12.09.08.14.00;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	95.12.09.01.41.43;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	95.12.09.01.36.13;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	95.12.09.01.25.27;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Brahms, I Take my Leave
+@
+
+
+1.9
+log
+@added muscript's first ties !
+@
+text
+@3 systems /23 29 23 39 23 29 23/23 29 23 39 23 29 23/23 29 23 39 23 29 23/
+lefthead Johannes Brahms
+title Ich Fahr Dahin
+righthead SATB
+leftfoot Translated 1991, typeset 1995 by Peter J Billam.
+rightfoot This page may be freely photocopied and redistributed, provided it is not resold for profit.
+/
+4 bars | 1.5 | 4 | 4 | 4 |
+|
+I0.35          p
+is0.35                         Andante con espressione
+=1 treble 1# 6/4 cro D
+r0.5     1.   I
+=2 treble 1# 6/4 cro A_
+r0.4     2.   I
+=3 treble 1# 6/4 cro F
+r0.5     3.  So
+=4 bass   1# 6/4 cro d
+|
+=1 min G cro G min D cro c
+r0.5   take        my  leave,    since
+=2 min B_ cro D min A_ cro C
+r0.4   tell        you   on  -  -  -  ly     
+=3 min G cro G min F cro G
+r0.5   keep      your  pro  -  -  mise
+=4 min G cro B min d cro e
+|
+=1 min B cro A min G cro G
+r0.5   leave        I   must,        So
+=2 cro D{ G} F   min G cro D
+r0.45   and          a - gain,        My
+=3 cro G{ B} d   min d cro B
+r0.5   as          will   I,           Be
+=4 min d cro c min B cro G
+|
+=1 min F cro G min A cro D
+r0.5   far         from  all           I
+=2 min D cro D min D cro D
+r0.5   heart       has   ne   -  -   ver
+=3 cro d{ A} B d{ A} B
+r0.5   true         un - til           the
+=4 min d cro B min F cro G
+/
+4 bars | 4.5 | 4 | 4 | 4 |
+| 
+bl0.2                           ,
+=1 treble 1# min F cro E min D cro D
+r0.5        love    and trust;    My
+=2 treble 1# cro D{ B_} C# min A_ cro Cn
+r0.4      known such pain;   As
+=3 treble 1# cro A{ D} G min F cro F
+r0.5        day       I   die;     Keep
+=4 bass   1# min A cro A min d cro d
+|
+is0.45    poco   a   poco   cresc  .  .  .
+=1 min G cro A min B cro A
+r0.5   heart      I   leave     in
+=2 cro B_{ D} F min G cro F
+r0.45   hap   -  py side      by
+=3 cro G{ B} A G{ B} d
+r0.5   well      in  health, and
+=4 min G cro d min g cro d
+|
+=1 cro c c B min A cro G{
+r0.5  your tender care,    And
+=2 cro G G G min G cro G
+r0.5 side we have lain,   Yet
+=3 cro G c d min e cro d
+r0.5   tell me no  lie.     Then
+=4 cro e e d min c cro B
+|
+=1 min B cro c min d cro e}
+r0.5   while    it  beats     it
+=2 min G cro G min G cro G
+r0.5   far        apart       now
+=3 cro g{ f} e d{ B'} G
+r0.5   bless    us,  God,     I
+=4 min G cro A min B cro c
+/
+5 bars | 4.5 || 3.8 | 3.4 | 4 | 3.6 ||
+|
+is0.35             dim  .   .   .
+bl0.2                           ,
+=1 treble 1# cro d{ B} G min. A
+r0.5       shelters    there.
+=2 treble 1# min G cro G min. F
+r0.5      must   we grieve.
+=3 treble 1# cro G{ B} B min. d
+r0.5        take my leave,
+=4 bass   1# cro B{ G} e min. d
+|
+I0.35   pp
+=1 min. G min F cro G
+r0.5    I          take    my
+=2 min. E min D cro E
+r0.5    I          take    my
+=3 min. B' min d cro B
+r0.5    I          take    my
+=4 min. e min B cro e
+|
+bl0.2        ,
+=1 min. c A
+r0.5  leave,     I 
+=2 min. E F
+r0.5  leave,     I
+=3 min. e d
+r0.5  leave,     I
+=4 min. A d
+|
+is0.45    cresc  .   .   .  dim  .   .   .
+=1 min. B A
+r0.5   take         my
+=2 min G cro E F{ D C}
+r0.5   take         my
+=3 cro d{ min B} min. d
+r0.5   take         my
+=4 min. g d
+|
+=1 min. G min rest
+r0.5   leave.
+=2 min. B_ min rest
+r0.5   leave.
+=3 min. d min rest
+r0.5   leave.
+=4 min. G min rest
+@
+
+
+1.8
+log
+@one comma shifted
+@
+text
+@d2 5
+a9 1
+b1.1 Johannes Brahms
+a27 1
+bl1.1 Ich Fahr Dahin
+d30 1
+a30 1
+=2 cro D G F   min G cro D
+d32 1
+a32 1
+=3 cro G B d   min d cro B
+a35 1
+b1.1                                      SATB
+d40 1
+a40 1
+=3 cro d A B d A B
+d49 1
+a49 1
+=2 treble 1# cro D B_ C# min A_ cro Cn
+d51 1
+a51 1
+=3 treble 1# cro A D G min F cro F
+d58 1
+a58 1
+=2 cro B_ D F min G cro F
+d60 1
+a60 1
+=3 cro G B A G B d
+d64 1
+a64 1
+=1 cro c c B min A cro G
+d72 1
+a72 1
+=1 min B cro c min d cro e
+d76 1
+a76 1
+=3 cro g f e d B' G
+d84 1
+a84 1
+=1 treble 1# cro d B G min. A
+d88 1
+a88 1
+=3 treble 1# cro G B B min. d
+d90 1
+a90 2
+=4 bass   1# cro B G e min. d
+is0.9 Translated 1991, typeset 1995 by Peter J Billam.              This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d113 1
+a113 1
+=2 min G cro E F D C
+d115 1
+a115 1
+=3 cro d min B min. d
+@
+
+
+1.7
+log
+@tiny spacing adjustments
+@
+text
+@d44 1
+a44 1
+bl0.2                             ,
+@
+
+
+1.6
+log
+@minor spacings
+@
+text
+@d6 2
+a7 2
+I0.35        p
+is0.35                     Andante con espressione
+d44 1
+a44 1
+bl0.15                             ,
+d81 1
+a81 1
+bl0.15                            ,
+d100 1
+a100 1
+bl0.15        ,
+@
+
+
+1.5
+log
+@8va line2 bar1 alto
+@
+text
+@d7 1
+d17 1
+a17 1
+r0.5   take        my  leave,      since
+d44 1
+a44 1
+bl0.05                ,
+d53 1
+a53 1
+is0.45   poco  a  poco  cresc .  .  .
+d73 1
+a73 1
+r0.5   far        apart      now
+d80 2
+a81 2
+is0.45             dim  .   .   .
+bl0.05                ,
+d93 1
+a93 1
+r0.5    I          take     my
+d95 1
+a95 1
+r0.5    I          take     my
+d97 1
+a97 1
+r0.5    I          take     my
+d100 1
+a100 1
+bl0.05        ,
+d102 1
+a102 1
+r0.5   leave,     I 
+d104 1
+a104 1
+r0.5   leave,     I
+d106 1
+a106 1
+r0.5   leave,     I
+d109 1
+a109 1
+is0.45   cresc  .  .  .  dim  .  .  .
+@
+
+
+1.4
+log
+@8vab alto
+@
+text
+@d6 1
+a6 1
+I0.4       pp
+d10 1
+a10 1
+r0.5     2.   I
+d16 1
+a16 1
+r0.5   take        my  leave      since
+d18 1
+a18 1
+r0.5   tell        you   on  -  -  -  ly     
+d27 1
+a27 1
+r0.5   and          a - gain,        My
+d42 2
+a43 1
+|
+d46 2
+a47 2
+=2 treble 1# cro D_ B_ C_# min A_ cro C_n
+r0.5      known such pain;   As
+d52 1
+a52 1
+is0.5   poco  a  poco  cresc .  .  .
+d56 1
+a56 1
+r0.5   hap   -  py side      by
+d79 2
+d90 1
+a90 1
+I0.4  pp
+d99 1
+d108 1
+@
+
+
+1.3
+log
+@some dynamics
+@
+text
+@d1 1
+a1 1
+3 systems /23 29 23 29 23 29 23/23 29 23 29 23 29 23/23 29 23 29 23 29 23/
+d6 1
+d9 1
+a9 1
+=2 treble 1# 6/4 cro A
+d17 1
+a17 1
+=2 min B cro d min A cro c
+d20 1
+a20 1
+r0.5   keep       your  pro  -  -  mise
+d26 1
+a26 1
+=2 cro d g f   min g cro d
+d29 1
+a29 1
+r0.5   as          will  I,           Be
+d32 1
+a32 1
+b1.1                                     SATB
+d35 1
+a35 1
+=2 min d cro d min d cro d
+d45 2
+a46 2
+=2 treble 1# cro d B c# min A cro cn
+r0.5        known such pain;   As
+d54 1
+a54 1
+=2 cro B d f min g cro f
+d57 1
+a57 1
+r0.5   well      in  health,  and
+d62 2
+a63 2
+=2 cro g g g min g cro g
+r0.5  side we have lain,   Yet
+d70 1
+a70 1
+=2 min g cro g min g cro g
+d80 2
+a81 2
+=2 treble 1# min g cro g min. f
+r0.5      must   we   grieve.
+d87 1
+a87 1
+I0.5  pp
+d90 1
+a90 1
+=2 min. e min d cro e
+d97 3
+a99 3
+r0.5   leave,      I 
+=2 min. e f
+r0.5   leave,      I
+d101 1
+a101 1
+r0.5   leave,      I
+d106 1
+a106 1
+=2 min g cro e f d c
+d114 1
+a114 1
+=2 min. B min rest
+@
+
+
+1.2
+log
+@more word spacing, translated notice
+@
+text
+@d5 1
+a5 1
+b1.1 Brahms
+d50 1
+d86 1
+d111 1
+a111 1
+=1 min. G cro rest rest
+d113 1
+a113 1
+=2 min. B cro rest rest
+d115 1
+a115 1
+=3 min. d cro rest rest
+d117 1
+a117 1
+=4 min. G cro rest rest
+@
+
+
+1.1
+log
+@word spacing
+@
+text
+@d31 1
+a31 1
+b1.1                                    SATB
+d33 1
+a33 1
+r0.6   far         from  all          I
+d35 1
+a35 1
+r0.7   heart        has  ne  -  -  -  ver
+d37 1
+a37 1
+r0.7   true         un - til          the
+d45 1
+a45 1
+r0.5        known  such pain;     As
+d47 1
+a47 1
+r0.5        day     I   die;     Keep
+d51 1
+a51 1
+r0.5   heart      I    leave     in
+d53 1
+a53 1
+r0.5   hap  -  -  py   side      by
+d55 1
+a55 1
+r0.5   well       in  health,   and
+d59 1
+a59 1
+r0.5   your   tender  care,   And
+d61 1
+a61 1
+r0.5   side  we have lain,    Yet
+d63 1
+a63 1
+r0.5   tell  me no   lie.    Then
+d69 2
+a70 2
+r0.5   far      a - part     now
+=3 cro g f e d B G
+d81 1
+a81 1
+r0.5      take   my   leave,
+d83 1
+a83 1
+is0.9 Typeset 1995 by Peter J Billam.                                        This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d86 1
+a86 1
+r0.5    I          take       my
+d88 3
+a90 3
+r0.5    I          take       my
+=3 min. B min d cro B
+r0.5    I          take       my
+d94 1
+a94 1
+r0.5   leave,         I 
+d96 1
+a96 1
+r0.5   leave,         I
+d98 1
+a98 1
+r0.5   leave,         I
+@

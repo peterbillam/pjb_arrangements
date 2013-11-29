@@ -1,0 +1,22 @@
+boundingbox 230 112
+midi channel 1  patch 68 reverb 60 pan 20 # oboe
+midi channel 2  patch 69 reverb 60 pan 60 # cora
+midi channel 3  patch 70 reverb 60 pan 80 # bsn
+midi channel 4  patch 71 reverb 60 pan 40 # clr
+midi channel 5  patch 47 reverb 60 pan 50 # tymp
+midi channel 6  patch 44 reverb 60 pan 80 # vln2
+midi channel 7  patch 44 reverb 60 pan 65 # bass
+midi channel 8  patch 44 reverb 60 pan 90 # vlc
+1 system /27-22-27 2/
+/
+2 bars | 1# 3/4 9 9 10 | 25 |
+| 3/4 1.0 1.0 1.25
+=1, treble   1# 3/4 cha1 vol100 leg99 2 f-dim40 4 vol70 e
+=2  treble   1# 3/4 cha2 vol90  leg99 2. A#-dim40
+=2           1# 3/4 cha3 vol60  leg99 2. E-dim40
+=2           1# 3/4 cha4 vol60  leg99 2. C-dim40
+| 3.0
+=1, cha1 vol60 2. leg99 d#-dim30
+=2' cha2 vol50 2. leg99 B-dim30
+=2' cha3 vol50 2. leg99 F-dim30
+=2' cha4 vol50 2. leg99 B_-dim30

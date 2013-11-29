@@ -1,0 +1,72 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	98.08.20.00.50.48;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.08.19.01.23.29;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@title page of schubertsongs
+@
+
+
+1.2
+log
+@Schlecta -> Schlechta
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 1.5i
+.ce 100
+\f3\s+9\s+9Four Songs\s-9\s-9\fP
+.sp 1.0i
+\f2\s+9by Franz Schubert\s0\fP
+.sp 0.5i
+\f3\s-1on poems by Mayerhofer, von Collin, Rochlitz and von Schlechta\s0\fP
+.sp 1.1i
+\f2\s+9Arranged by Peter Billam\s0\fP
+.sp 0.5i
+\f3\s+2For guitar accompaniment\s0\fP
+.sp 1.1i
+\(co Peter J Billam, 1997
+\s-1This score is licensed in Postscript form to the purchaser, who may
+generate printed copies or photocopies, for their own use, or for the use
+of their pupils, or of any musicians with whom they are playing the piece.
+All other rights, such as those of performance, recording and
+broadcast, remain reserved by the arranger, Peter Billam,
+GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
+.sp 0.7i
+\f2\s-2This printing 20 August 1998.\s0\fP
+@
+
+
+1.1
+log
+@added by
+@
+text
+@d14 1
+a14 1
+\f3\s-1on poems by Mayerhofer, von Collin, Rochlitz and von Schlecta\s0\fP
+d28 1
+a28 1
+\f2\s-2This printing 19 August 1998.\s0\fP
+@

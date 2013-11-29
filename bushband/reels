@@ -1,0 +1,666 @@
+4 systems 10 / 19-30-19-30-19/ 19-30-19-30-19/ 19-30-19-30-19/ 19-30-19-30-19/
+title The Lady on the Island
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+midi channel 1 patch 110 pan 90
+midi channel 2 patch 23 pan 10
+midi channel 3 patch 105 pan 50
+/
+4 bars ||: 2# 48 | 48 | 48 | 48 |
+| .150 .125 .140 .125 .145 .125 .140 .125
+=1' treble 2# cha1 leg90 vol100 8 [B A F B]  [A F E F]
+=2  treble 2# cha2 vol95 cc11=125 4 D <A, d-.> D <A, d-.>
+midi off
+=3' treble8vab 2# cha3 vol126 leg99 8 [B-s0-sm, A-s1-s"i", F-s4-sp, B] [A F A B]
+midi on
+# =3' treble8vab 2# cha3 vol126 leg99 1 blank
+|
+=1 83 [D F-I3 D] 8 [F 83 A] 16-s c' 8 [B A, d B]
+=2  4 D <A, d-.> D <G, d-.>
+midi off
+=3' 8 [D-s0 A-s1 F-s4 A] [D G B G]
+midi on
+|
+=1' 83 [B c-I3 A] 8 [F B] 4. A-turn 8 B
+=2  4 D <A, d-.> D <A, d-.>
+midi off
+=3' 8 [B A F B] [A-s"i", F-sp,] 4 A
+midi on
+|
+=1 8 [d rest f d] [e f d B]
+=2  4 D <A, c-.> D <G, B-.>
+midi off
+=3, 8 [d-s3-s"i", A f-s2 A] [e A] 4 d
+midi on
+/
+4 bars | 2# 48 | 48 | 48 | 48 :||
+|
+=1' 16-s c' 83 [B 8 A F B] [A F E F]
+=2  4 D <A, d-.> D <A, d-.>
+midi off
+=3' 8 [B-s0-sm, A-s1-s"i", F-s4-sp, B] [A F A B]
+midi on
+|
+=1 8 [D A F A] [G, B d B]
+=2  4 D <A, d-.> D <G, d-.>
+midi off
+=3' 8 [D-s0 A-s1 F-s4 A] [D G B G]
+midi on
+|
+=1' 83 [B c-I3 A] 8 [F B] 4. A-turn 8 B
+=2  4 D <A, d-.> D <A, d-.>
+midi off
+=3' 8 [B A F B] 4 A 8 [B'-sm, A-sp,]
+midi on
+|
+=1, 8 [d e f d] [e-. A B c]
+=2  4 D <A, c-.> D <G, B-.>
+midi off
+=3, 8 [d-s"i", A-sp, f-sm, A] [e A B A]
+midi on
+
+# |
+# =1' 16-s c' 83 [B 8 A F B]  [A F E F]
+# =2  4 D <A, d-.> D <A, d-.>
+# =3' 8 [B-s0-sm, A-s1-s"i", F-s4-sp, B] [A F A B]
+# |
+# =1 83 [D F-I3 D] 8 [F 83 A] 16-s c' 8 [B A, d B]
+# =2  4 D <A, d-.> D <G, d-.>
+# =3' 8 [D-s0 A-s1 F-s4 A] [D G B G]
+# |
+# =1' 83 [B c-I3 A] 8 [F B] 4. A-turn 8 B
+# =2  4 D <A, d-.> D <A, d-.>
+# =3' 8 [B A F B] [A-s"i", F-sp,] 4 A
+# |
+# =1 8 [d rest f d] [e f d B]
+# =2  4 D <A, c-.> D <G, B-.>
+# =3, 8 [d-s3-s"i", A f-s2 A] [e A] 4 d
+# |
+# =1' 16-s c' 83 [B 8 A F B] [A F E F]
+# =2  4 D <A, d-.> D <A, d-.>
+# =3' 8 [B-s0-sm, A-s1-s"i", F-s4-sp, B] [A F A B]
+# |
+# =1 8 [D A F A] [G, B d B]
+# =2  4 D <A, d-.> D <G, d-.>
+# =3' 8 [D-s0 A-s1 F-s4 A] [D G B G]
+# |
+# =1' 83 [B c-I3 A] 8 [F B] 4. A-turn 8 B
+# =2  4 D <A, d-.> D <A, d-.>
+# =3' 8 [B A F B] 4 A 8 [B'-sm, A-sp,]
+# |
+# =1, 8 [d e f d] [e-. A B c]
+# =2  4 D <A, c-.> D <G, B-.>
+# =3, 8 [d-s"i", A-sp, f-sm, A] [e A B A]
+
+/
+4 bars ||: 2# 48 | 48 | 48 | 48 |
+|
+=1 83 [d f-I3 d] 8 [f d] [e rest' g e]
+=2 4 D <A, d-.> D <A, c-.>
+=3, 4 d 8 [f A] [e A g A]
+|
+=1 8 [a f d f] [e 83 d 16-s c' 83 B 8 A,]
+=2 4 D <A, d-.> D <G B'-.>
+=3, 8 [a A d A] [e A B A]
+|
+=1 83 [d f-I3 d] 8 [f d] [e f] 83 [g f-I3 e]
+=2 4 D <A, d-.> D <A, c-.>
+=3, 8 [d A f A] [e A g A]
+|
+=1 8 [a f d f] 16 [e f 8 e] 83 [A B'-I3 c']
+=2 4 D <A, d-.> 2 <D A c'>
+=3, 8 [a A f A] [e A c A]
+/
+4 bars | 2# 48 | 48 | 48 | 48 :||
+|
+=1 8 [d rest' f d] [e f g e]
+=2 4 D <A, d-.> D <A, c-.>
+=3, 4 d 8 [f A] [e A g A]
+|
+=1 8 [a f d f] [e d] 83 [c B-I3 A,]
+=2 4 D <A, d-.> D <G B'-.>
+=3, 8 [a A d A] 4 e 8 [B c]
+|
+=1 8 [d e f g] 4. a-turn 8 b
+=2 4 D <A, d-.> 2 <D A d'>
+=3 8 [d e f g] 4. a 8 b
+|
+=1 8 [a f d f] 83 [e f-I3 e] 8 [d B]
+=2 4 D <A, d-.> 2 <D G d'>
+=3, 4 a 8 [f d] [e-sm, G-sp, d-sm, G-s"i",]
+
+# |
+# =1 83 [d f-I3 d] 8 [f d] [e rest' g e]
+# =2 4 D <A, d-.> D <A, c-.>
+# =3, 8 [d A f A] [e A g A]
+# |
+# =1 8 [a f d f] [e 83 d 16-s c' 83 B 8 A,]
+# =2 4 D <A, d-.> D <G B'-.>
+# =3, 8 [a A d A] [e A B A]
+# |
+# =1 83 [d f-I3 d] 8 [f d] [e f] 83 [g f-I3 e]
+# =2 4 D <A, d-.> D <A, c-.>
+# =3, 8 [d A f A] [e A g A]
+# |
+# =1 8 [a f d f] 16 [e f 8 e] 83 [A B'-I3 c']
+# =2 4 D <A, d-.> 2 <D A c'>
+# =3, 8 [a A f A] [e A c A]
+# |
+# =1 8 [d rest' f d] [e f g e]
+# =2 4 D <A, d-.> D <A, c-.>
+# =3, 8 [d A f A] [e A g A]
+# |
+# =1 8 [a f d f] [e d] 83 [c B-I3 A,]
+# =2 4 D <A, d-.> D <G B'-.>
+# =3, 8 [a A d A] 4 e 8 [B c]
+# |
+# =1 8 [d e f g] 4. a-turn 8 b
+# =2 4 D <A, d-.> 2 <D A d'>
+# =3 8 [d e f g] 4. a 8 b
+# |
+# =1 8 [a f d f] 83 [e f-I3 e] 4 d
+# =2 4 D <A, d-.> 2 <D G d'>
+# =3, 4 a 8 [f d] [e-sm, G-sp, d-sm, G-s"i",]
+
+4 systems 10 / 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/
+title Lucky in Love
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+
+/
+4 bars ||: 1# 36 | 36 | 36 | 36 |
+| .150 .125 .140 .125 .145 .125 .140 .125
+=1 treble 1# cha1 leg90 vol100 8 [g a g d] [B' G G A]
+=2 treble 1# cha2 vol106 cc11=125 1 D(1
+=3 treble8vab 1# cha3 vol90 leg160 4 d-s0 D d-s0 D
+|
+=1 8 [B G, B d] [c' A F A]
+=2 1 D)1(1
+=3 4 d-s0 D d-s0 D
+|
+=1 8 [g f g d] [B G, d B]
+=2 1 D)1(1
+=3 4 d-s0 D d-s0 D
+|
+=1 8 [c' A D F] [A G] 4 G
+=2 1 D)1
+=3 4 d-s0 D d-s0 D
+/
+4 bars | 1# 36 | 36 | 36 | 36 |
+|
+# =1 8 [g 16 a 8 g 16 f 8 g(1] 8 [g)1 d B A,]
+midi off
+=1 4 g-turn 8 [g f] [g d B A,]
+midi on
+=2 1 D(1
+=3 4 d-s0 D d-s0 D
+|
+=1' 8 [G A B d] [c A] 4 A
+=2 1 D)1(1
+=3 4 d-s0 D d-s0 D
+|
+=1 8 [g a g d] [B G, B d]
+=2 1 D)1(1
+=3 4 d-s0 D d-s0 D
+|
+=1 8 [c' A F G] [A G] [G A]
+=2 1 D)1
+=3 4 d-s0 D G A
+
+/
+4 bars | 1# 36 | 36 | 36 | 36 |
+|
+=1 8 [B' G d' G] [e G, d G,]
+=2' 8 [G D B D] [c D B D]
+=3 8 [B' G d' G] [e G, d G,]
+|
+=1' 8 [B' G B' d'] [c A F d]
+=2' 8 [G D G B] [A F] 4 D
+=3' 8 [B G d G] [c A] 4 D
+|
+=1 8 [B' G d' G] [e G, d G,]
+=2' 8 [G D B D] [c D B D]
+=3 8 [B' G d' G] [e G, d G,]
+|
+=1 8 [B c A, c] [B' G G d']
+=2' 8 [G D A D] 2 G
+=3' 8 [B D A D] 4 G A
+/
+4 bars | 1# 36 | 36 | 36 | 36 :||
+|
+=1' 8 [B G] 83 [G F-I3 G] 8 [D G G A]
+=2' 8 [G D B D] [c D B D]
+=3 8 [B' G G-s4 G] [D G G-I3 G]
+|
+=1' 8 [B' G B' d'] [c A F d]
+=2' 8 [G D G B] [A F] 4 D
+=3' 8 [B G d G] [c A] 4 D
+|
+=1 8 [G A B' d'] [e a a g]
+=2 8 [G D B' D] [c A, B c]
+=3 8 [B' G d' G] [e G, a G,]
+|
+=1 8 [f d e f] 83 [g f-I3 g] 8 [b a]
+=2 1 d
+=3, 8 [f G d G] 2 <d g>
+
+# |
+# =1 8 [g a g d] [B' G G A]
+# =2 1 D(1
+# =3 4 d-s0 D d-s0 D
+# |
+# =1 8 [B G, B d] [c' A F A]
+# =2 1 D)1(1
+# =3 4 d-s0 D d-s0 D
+# |
+# =1 8 [g f g d] [B G, d B]
+# =2 1 D)1(1
+# =3 4 d-s0 D d-s0 D
+# |
+# =1 8 [c' A D F] [A G] 4 G
+# =2 1 D)1
+# =3 4 d-s0 D d-s0 D
+# |
+# =1  163 [g g g 8 g a] 8 [g d B A,]
+# =2 1 D(1
+# =3 4 d-s0 D d-s0 D
+# |
+# =1' 8 [G A B d] [c A] 4 A
+# =2 1 D)1(1
+# =3 4 d-s0 D d-s0 D
+# |
+# =1 8 [g a g d] [B G, 83 B c d]
+# =2 1 D)1(1
+# =3 4 d-s0 D d-s0 D
+# |
+# =1 8 [c' A F G] [A G] [G A]
+# =2 1 D)1
+# =3 4 d-s0 D G A
+# 
+# |
+# =1 8 [B' G d' G] [e G, d G,]
+# =2' 8 [G D B D] [c D B D]
+# =3 8 [B' G d' G] [e G, d G,]
+# |
+# =1' 8 [B' G B' d'] [c A F d]
+# =2' 8 [G D G B] [A F] 4 D
+# =3' 8 [B G d G] [c A] 4 D
+# |
+# =1 8 [B' G d' G] [e G, d G,]
+# =2' 8 [G D B D] [c D B D]
+# =3 8 [B' G d' G] [e G, d G,]
+# |
+# =1 8 [B c A, c] [B' G G d']
+# =2' 8 [G D A D] 2 G
+# =3' 8 [B D A D] 4 G A
+# |
+# =1' 8 [B G] 83 [G F-I3 G] 8 [D G G A]
+# =2' 8 [G D B D] [c D B D]
+# =3 8 [B' G G-s4 G] [D G G-I3 G]
+# |
+# =1' 8 [B' G B' d'] [c A F d]
+# =2' 8 [G D G B] [A F] 4 D
+# =3' 8 [B G d G] [c A] 4 D
+# |
+# =1 8 [G A B' d'] [e a a g]
+# =2 8 [G D B' D] [c A, B c]
+# =3 8 [B' G d' G] [e G, a G,]
+# |
+# =1 8 [f d e f] 2 g
+# =2 1 d
+# =3, 8 [f G d G] 2 <d g>
+
+4 systems 10 / 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/ 19-25-19-25-19/
+title Last Night's Fun
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+
+/
+4 bars ||: 2# 36 | 36 | 36 | 36 |
+| .150 .125 .140 .125 .145 .125 .140 .125
+I0.6 .05 2nd time only ...
+midi off
+=1 treble 2# cha1 leg90 vol100 16-s d' 8 [A D E D] 4 A 8 [d B]
+midi on
+=2' treble 2# cha2 vol126 cc11=125 8 [A D E D] 4 A B
+=3 treble8vab 2# cha3 vol90 leg160 4 D <A, d f> D <A, d f>
+|
+midi off
+=1 16-s d' 8 [A D F D] [E F G B']
+midi on
+=2 8 [A D F D] 4 E 83 [G A-I3 B']
+=3 4 D <A, d f> D <G, B f>
+|
+midi off
+=1 8 [A D E D] 4 A 8 [B d]
+midi on
+=2 4 A 8 [E D] 4 A 8 [B d]
+=3 4 D <A, d f> D <A, d f>
+|
+midi off
+=1 8 [e d f e] [d B] 83 [B d-I3 B]
+midi on
+=2 8 [e d f e] [d B] 4 B
+=3 4 D <G, B e> D <A, c e>
+/
+4 bars | 2# 36 | 36 | 36 | 36 :||
+|
+midi off
+=1 8 [A' D E D] 83 [A, d-I3 A,] 8 [d B]
+midi on
+=2 8 [A D E D] 4 A 8 [d B]
+=3 4 D <A, d f> D <A, d f>
+|
+midi off
+=1' 16-s d 8 [A D d D] [E F G B']
+midi on
+=2 4 A 8 [d' D] [E F G B']
+=3 4 D <A, d f> D <G, B f>
+|
+midi off
+=1 8 [A D E D] 83 [A, d-I3 A,] 8 [B d]
+midi on
+=2 8 [A rest E D] 4 A 8 [B d]
+=3 4 D <A, d f> D <A, d f>
+|
+midi off
+=1 8 [e d f e] [d B] 83 [B d-I3 B]
+midi on
+=2 8 [e d f e] [d B] 4 B
+=3 4 D <G, B e> D <A, c e>
+
+# |
+# =1 16-s d' 8 [A D E D] 4 A 8 [d B]
+# =2 8 [A D E D] 4 A B
+# =3 4 D <A, d f> D <A, d f>
+# |
+# =1 16-s d' 8 [A D F D] [E F G B']
+# =2 8 [A D F D] 4 E 83 [G A B']
+# =3 4 D <A, d f> D <G, B f>
+# |
+# =1 8 [A D E D] 4 A 8 [B d]
+# =2 8 [A rest E D] 4 A 8 [B d]
+# =3 4 D <A, d f> D <A, d f>
+# |
+# =1 8 [e d f e] [d B] 83 [B d-I3 B]
+# =2 8 [e d f e] [d B] 4 B
+# =3 4 D <G, B e> D <A, c e>
+# |
+# =1 8 [A' D E D] 83 [A, d-I3 A,] 8 [d B]
+# =2 8 [A D E D] 4 A 8 [d B]
+# =3 4 D <A, d f> D <A, d f>
+# |
+# =1' 16-s d 8 [A D d D] [E F G B']
+# =2 4 A 8 [d' D] [E F G B']
+# =3 4 D <A, d f> D <G, B f>
+# |
+# =1 8 [A D E D] 83 [A, d-I3 A,] 8 [B d]
+# =2 8 [A rest E D] 4 A 8 [B d]
+# =3 4 D <A, d f> D <A, d f>
+# |
+# =1 8 [e d f e] [d B] 83 [B d-I3 B]
+# =2 8 [e d f e] [d B] 4 B
+# =3 4 D <G, B e> D <A, c e>
+
+/
+4 bars ||: 2# 3 3 3 5 3 3 3 3 3 5 3 3 \
+ | 3 3 3 5 3 5 3 3 3 3 3 3 | 3 3 3 5 3 3 3 3 3 5 3 3 | 36 |
+|
+=1 8 [d f] 83 [f{1 e#--I3 f}1] 8 [a f] 83 [f{1 e#--I3 f}1]
+I0.2 .05 2nd time only ...
+midi off
+=2 8 [d f] [f f] [a f] [f f]
+midi on
+=3 4 A <d a> A <d a>
+|
+=1 8 [d f] 83 [f{1 e#--I3 f}1] 8 [en g f e]
+midi off
+=2 8 d 4. f 4 e 8 [f e]
+midi on
+=3 4 A <d a> A <c a>
+|
+=1 8 [d f] 83 [f{1 e#--I3 f}1] 8 [a f] 83 [f{1 e#--I3 f}1]
+midi off
+=2 8 d 4. f 8 a 4. f
+midi on
+=3 4 A <d a> A <d a>
+|
+=1, 8 [e g f e] [d B A B]
+midi off
+=2, 4 e 8 [f e] [d B] 4 A
+midi on
+=3 4 A <B e> A <c e>
+/
+4 bars | 2# 3 3 3 5 3 3 3 3 3 5 3 3 \
+ | 12 12 11 12 | 36 | 36 :||
+|
+=1 8 [d f] 83 [f e#-I3 f] 8 [a f] 83 [f e#-I3 f]
+midi off
+=2 8 [d f] [f f] 8 [a f] [f f]
+midi on
+=3 4 A <d a> A <d a>
+|
+=1 8 [d e f d] 4. e 8 f
+midi off
+=2 4 d 8 [f d] 2 e
+midi on
+=3 4 A <d a> A <d a>
+|
+=1 8 [a f b f] [a f e g]
+midi off
+=2 8 [a f b f] [a f] 4 e
+midi on
+=3 4 A <d a> A <c e>
+|
+=1 83 [f a-I3 f] 8 [e d] [B c d B]
+midi off
+=2 4 f 8 [e d] [B c] 4 d
+midi on
+=3 4 A <B e> G <B e>
+
+# |
+# =1 8 [d f] 83 [f e#-I3 f] 8 [a f] 83 [f e#-I3 f]
+# I0.2 .05 2nd time only ...
+# =2 8 [d f] [f f] [a f] [f f]
+# =3 4 A <d a> A <d a>
+# |
+# =1 8 [d f] 83 [f e#-I3 f] 8 [en g f e]
+# =2 8 d 4. f 4 e 8 [f e]
+# =3 4 A <d a> A <c a>
+# |
+# =1 8 [d f] 83 [f e#-I3 f] 8 [a f] 83 [f e#-I3 f]
+# =2 8 d 4. f 8 a 4. f
+# =3 4 A <d a> A <d a>
+# |
+# =1, 8 [e g f e] [d B A B]
+# =2, 4 e 8 [f e] [d B] 4 A
+# =3 4 A <B e> A <c e>
+# |
+# =1 8 [d f] 83 [f e#-I3 f] 8 [a f] 83 [f e#-I3 f]
+# =2 8 [d f] [f f] 8 [a f] [f f]
+# =3 4 A <d a> A <d a>
+# |
+# =1 8 [d e f d] 4. e 8 f
+# =2 4 d 8 [f d] 2 e
+# =3 4 A <d a> A <c a>
+# |
+# =1 8 [a f b f] [a f e g]
+# =2 8 [a f b f] [a f] 4 e
+# =3 4 A <d a> A <c e>
+# |
+# =1 83 [f a-I3 f] 8 [e d] [B c d B]
+# =2 4 f 8 [e d] [B c] 4 d
+# =3 4 A <B e> G <B e>
+
+
+4 systems 10 / 19-30-19-38-19/ 19-30-19-30-19/ 19-30-19-30-19/ 19-30-19-30-19/
+title Drowsy Maggie
+pagenum
+leftfoot arrangement (c) 1990 Peter Billam
+
+/
+4 bars ||: 2# 36 | 36 | 36 | 36 |
+| .150 .125 .140 .125 .145 .125 .140 .125
+=1' treble 2# cha1 leg90 vol100 83 [E E-I3 E] 8 [B E] [d E B E]
+=2' treble 2# cha2 vol106 cc11=125 4 rest' B-. d-. B-.
+=2, treble 2# 1 E(2
+=3' treble8vab 2# cha3 vol90 leg99 4 E 8 [B E] [d-s3 E] 4 B
+|
+=1' 83 [E E-I3 E] 8 [B E] [A F D F]
+=2' 4 rest' B-. 8 [A F D F]
+=2, 2 E)2 rest,,
+=3' 4 E 8 [B E] 4 A D
+|
+=1' 83 [E E-I3 E] 8 [B E] [d E B E]
+=2' 4 rest' B-. d-. B-.
+=2, 1 E
+=3' 4 E 8 [B E] [d E] 4 B
+|
+=1' 8 [B A B c] [d A F D]
+=2' 8 [B A G E] [F G A F]
+=3  8 [G{2 A}2-s2 G E-s2] [D{2 E}2-s2] 4 F-s4
+/
+4 bars | 2# 36 | 36 | 36 | 36 :||
+|
+=1 8 [E B'] 16-s c' 83 [B' A-I3 B'] 8 [d B] 16-s c' 83 [B' A-I3 B']
+=2' 4 rest' B-. d-. B-.
+=2, 1 E
+=3' 4 E 8 [B E] [d-s3 E] 4 B
+|
+=1 8 [E B'] 16-s c' 83 [B' A-I3 B'] 8 [A F D F]
+=2' 4 rest' B-. 8 [A F D F]
+=2, 2 E rest,,
+=3' 4 E 8 [B E] 4 A D
+|
+=1' 8 [G F E F] [G A B c#]
+=2 4 G 8 [G F] [E G F E]
+=3 4 G 8 [G{2-s0 A}2-s2] [B' A] 4 G
+|
+=1 8 [d c d B] [A D F A]
+=2 4 F 8 [F G] [A F D F]
+=3 4 D 8 [D{2-s0 E}2-s2] [F E] 4 D
+
+# |
+# =1' 83 [E E E] 8 [B E] [d E B E]
+# =2' 4 rest' B-. d-. B-.
+# =2, 1 E(2
+# =3' 4 E 8 [B E] [d-s3 E] 4 B
+# |
+# =1' 83 [E E E] 8 [B E] [A F D F]
+# =2' 4 rest' B-. 8 [A F D F]
+# =2, 2 E)2 rest,,
+# =3' 4 E 8 [B E] 4 A D
+# |
+# =1' 83 [E E E] 8 [B E] [d E B E]
+# =2' 4 rest' B-. d-. B-.
+# =2, 1 E
+# =3' 4 E 8 [B E] [d E] 4 B
+# |
+# =1' 8 [B A B c] [d A F D]
+# =2' 8 [B A G E] [F G A F]
+# =3  8 [G{2 A}2-s2 G E-s2] [D{2 E}2-s2] 4 F-s4
+# |
+# =1 8 [E B'] 16-s c' 83 [B' A B'] 8 [d B] 16-s c' 83 [B' A B']
+# =2' 4 rest' B-. d-. B-.
+# =2, 1 E
+# =3' 4 E 8 [B E] [d-s3 E] 4 B
+# |
+# =1 8 [E B'] 16-s c' 83 [B' A B'] 8 [A F D F]
+# =2' 4 rest' B-. 8 [A F D F]
+# =2, 2 E rest,,
+# =3' 4 E 8 [B E] 4 A D
+# |
+# =1' 8 [G F E F] [G A B c#]
+# =2 4 G 8 [G F] [E G F E]
+# =3 4 G 8 [G{2-s0 A}2-s2] [B' A] 4 G
+# |
+# =1 8 [d c d B] [A D F A]
+# =2 4 F 8 [F G] [A F D F]
+# =3 4 D 8 [D{2-s0 E}2-s2] [F E] 4 D
+
+/
+4 bars ||: 2# 36 | 36 | 36 | 36 |
+|
+=1 4 d 8 [f d] 4 c 8 [e c]
+=2' 4 rest' 8 [f d] 4 c 8 [e c]
+=2, 1 A
+=3 4 d-s3 8 [f-s2 d] 4 A-s1 8 [e A,]
+|
+=1 8 [d e f g] [a f g e]
+=2' 8 rest'' [e f g] [a f] 4 g
+=2, 2. d 4 rest,
+=3 8 [d-s3 e f-s1 g-s2] 4 a-s4 8 [g{1 e}1]
+|
+=1 4 d 8 [f d] 4 c 8 [e c]
+=2' 4 rest' 8 [f d] 4 c 8 [e c]
+=2, 1 A
+=3 4 d-s3 8 [f-s2 d] 4 A-s1 8 [e A,]
+|
+=1, 8 [B A B c] [d A F A]
+=2' 4 B 8 [G F] [E G] 4 A
+=3 4 G 8 [G{2 A}2-s1] [B e] 4 A
+/
+4 bars | 2# 36 | 36 | 36 | 36 :||
+|
+=1 4 d 8 [f d] 4 c 8 [e c]
+=2' 4 rest' 8 [f d] 4 c 8 [e c]
+=2, 1 A
+=3 4 d-s3 8 [f-s2 d] 4 A-s1 8 [e A,]
+|
+=1 8 [d e f g] 4 a 8 [f g]
+=2, 8 [d e f g] [d e f g]
+=3 8 [d e f g] 4 a 8 [a g]
+|
+=1, 8 [a f] 83 [g f-I3 e] 8 [d c B A]
+=2' 4. a 8 g [f e d c]
+=2, 2 d rest,
+=3 8 [f-s1-sm, d-s2-s"i", e-s0-sm, c-s2-s"i",] [d'-s2-sm, D{2 E}2 F]
+|
+=1' 8 [B A B c] [d A F D]
+=2' 2 B 8 [B-s5 A G F]
+=3' 4 G 8 [G A-s1] [B{2-s3 A}2-s1 F-s3 D]
+
+# |
+# =1 4 d 8 [f d] 4 c 8 [e c]
+# =2' 4 rest' 8 [f d] 4 c 8 [e c]
+# =2, 1 A
+# =3 4 d-s3 8 [f-s2 d] 4 A-s1 8 [e A,]
+# |
+# =1 8 [d e f g] [a f g e]
+# =2' 8 rest'' [e f g] [a f] 4 g
+# =2, 2. d 4 rest,
+# =3 8 [d-s3 e f-s1 g-s2] 4 a-s4 8 [g{1 e}1]
+# |
+# =1 4 d 8 [f d] 4 c 8 [e c]
+# =2' 4 rest' 8 [f d] 4 c 8 [e c]
+# =2, 1 A
+# =3 4 d-s3 8 [f-s2 d] 4 A-s1 8 [e A,]
+# |
+# =1, 8 [B A B c] [d A F A]
+# =2' 4 B 8 [G F] [E G] 4 A
+# =3 4 G 8 [G{2 A}2-s1] [B e] 4 A
+# |
+# =1 4 d 8 [f d] 4 c 8 [e c]
+# =2' 4 rest' 8 [f d] 4 c 8 [e c]
+# =2, 1 A
+# =3 4 d-s3 8 [f-s2 d] 4 A-s1 8 [e A,]
+# |
+# =1 8 [d e f g] 4 a 8 [f g]
+# =2, 8 [d e f g] [d e f g]
+# =3 8 [d e f g] 4 a 8 [a g]
+# |
+# =1, 8 [a f] 83 [g f-I3 e] 8 [d c B A]
+# =2' 4. a 8 g [f e d c]
+# =2, 2 d rest,
+# =3 8 [f-s1-sm, d-s2-s"i", e-s0-sm, c-s2-s"i",] [d'-s2-sm, D{2 E}2 F]
+# | .150 .135 .150 .140 .160 .150 .165 .160
+# =1' 8 [B A B c] [d A F D]
+# =2' 2 B 8 [B-s5 A G F]
+# =3' 4 G 8 [G A-s1] [B{2-s3 A}2-s1 F-s3 D]
+# | 2.5
+# =1 1 E-dim30
+# =2 1 <E B e>
+# =3 1 E
+# =3 83 blank 1 B
+# =3 43 blank 1 e
+

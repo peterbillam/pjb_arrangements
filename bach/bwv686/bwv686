@@ -1,0 +1,440 @@
+4 systems 10/18-21-18 34 18-21-18/18-21-18 34 18-21-18 \
+ /18-21-18 32 18-21-18 / 18-21-18 34 18-21-18 5/
+pagenum 3
+innerhead J. S. Bach,  BWV 686
+title Aus tiefer Noth schrei' ich zu dir.  a 6
+leftfoot Arranged for four hands and typeset 2012 by Peter J Billam.
+# good: Jeux 0, 6, 17, 20, 22, 26, 38, 42, 45, 48, 49
+#midi channel 0 bank 6,6 patch 49 pan 90 # Prin.(pos.)8+2
+#midi channel 1 bank 6,6 patch 48 pan 10 # Prin.(pos.)8+4+1
+midi channel 0 bank 6,6 patch 20 pan 90 # Gamba8 Flute4
+midi channel 1 bank 6,6 patch 22 pan 10 # Gamba8 Prestant4
+# for 4-handed piano...
+# midi channel 0 bank 0,0 patch 0 pan 90
+# midi channel 1 bank 0,0 patch 0 pan 10
+/
+5 bars | 4/2 32 ||: 32 | 32 | 32 |
+| 2/2 3.9
+bl0.9 In Organo pleno, con Pedale doppio
+=1 treble    4/2 cha0 vol85  leg95 2 blank 1 rest
+=2 treble    4/2 cha0 leg90 2 blank 1 rest
+=3 bass      4/2 cha1 cc11=105 vol126 leg90 1 b 2 e b
+=4 bass      4/2 cha1 leg95 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 c~ 4 b a 2 g a
+=4 2 blank 1 rest
+|
+=1 1 rest 2 rest e
+=2 2 rest E A_ E
+=3, 4 b 2 e 4 d c# 2 d 4 c
+=4 2 blank 1 rest
+|
+=1' 2 A e f 4 e d
+=2 2 F 4 E D 2 C D
+=3 4 d d~ c~ b 1 a(1
+=4 2 blank 1 rest
+|
+il0.7 .03 5
+=1' 2 c d 2. e 4 d
+=1, 2 rest, B E B
+=2  4 E C 2 F 1 B_
+=3  1 a)1(1 4 a)1 8 [g f#] 2 g
+=4  2 blank 1 rest
+/
+4 bars | 32 |
+|
+=1' 2 c d 2. e 4 f#
+=1, 2 c 4 B A 2 G A
+=2  4 rest A G F E D 2 C
+=3 2 a b 4 c~ b 2 a
+=4  2 blank 1 rest
+|
+=1' 1 g(1 4 g)1 2 f 4 e(1
+=1, 4 B 2 e 4 d 2 c B
+=2 1 B_ 2 A_ 4 B_ C(2
+=3 2 g e(1 4 e)1 f 2 g
+=4 1 E 2 A_ E
+|
+=1' 4 e)1 d c B A' c B A
+=1, 2. A 4 G# 2 Ar F
+=2  4 C)2 D 2 E(2 E)2 4 D C
+=3 2. a 4 b 2 c~ rest
+=4 2 F 4 E D 2 C D
+|
+=1' 2. G# 4 A B 8 [c d] 2 e
+=1, 4 E 8 [D E] 2 F 1 E(2
+=2  4. B_ 8 C 2 D(2 D)2(2 8 [D)2 C] 4 D
+=3' 2 rest' b e b
+=3, 1 rest, B
+=4 4 E 2 B_ 4 A_ G_# 2 A_ 4 G_#
+
+|
+il0.7 .03 10
+=1' 2 A e f 4 e d
+=1, 4 E)2 rest, rest, A 2 d B
+=2  4 rest 8 [E D] 4 E C 2 D E(2
+=3' 2 c~ 4 b a g# 2 a 4 g
+=3, 1 E  B
+=4 4 A_ B_ 2 C B_ E
+|
+=1' 4 c 8 [e d] 4 e a(1 a)1 2 g 4 f(1
+=1, 2. A 4 c f 2 e 4 d(2
+=2  1 E)2 4 D G 2 A
+=3' 1 a 4 b 2 c~ 4 d~
+=3, 1 c 2 B A
+=4 4 A_ B_ C A_ D E F D
+|
+=1' 4 f)1 8 [e d] 2 e(1 4 e)1 8 [f g] 4 a d
+=1, 2. d)2 8 [c B]  2 c A(2
+=2  4 D G 2 2 E(2 4 E)2 2 C 8 [B_ A_]
+=3' 4 rest' b g 8 [a b] 2 e f
+=3, 1 G A
+=4  4 B_ G_ 2 C(2 4 C)2 A_ 2 F
+|
+=1' 4 e B e d c e f# g#
+=1, 4 A)2 8 [G# F#] 2 G 1 A
+=2  1 E(2 2 E)2 rest
+=3' 2 rest' b c~ d~
+=3, 1 B rest,
+=4 2 E E_ A_ rest,
+
+|
+=1' 4 a rest' 2 rest' 4 rest' B c d
+=1, 2 rest, 4 E F 2 G A
+=2  2 rest 4 C D 2. E 4 D(2
+=3 4 c~ b 2 a g f
+=4  2 blank 1 rest'
+=4  2 blank 1 rest,
+|
+il0.7 .03 15
+=1' 2. e 8 [d c] 2 B rest'
+=1, 4 G F 2 E D C
+=2 4 D)2 8 [C B_] 2 C 2. G_ 4 F_#
+=3 4 e f 2 g 4 rest B c d'
+=4' 2 blank 1 rest'
+=4  2 rest, 4 E F 2 G A
+|
+=1' 1 rest' 4 rest' A B c
+=1, 4 B_ A_ B_ C# 2 D 4 rest, A(2
+=2  2. G_ 4 A_ B_b A_ 2 E
+=3' 1 e 4 f f# g# a
+=3  2 blank 1 rest,,
+=4  4 G F 2 E D C
+|
+=1' 4 d e 2 f(1 4 f)1 f e d
+=1, 4 A)2 8 [G# F#] 4 G A 1 B(2
+=2  1 D(2 4 D)2 B_ 2 E(2
+=3' 2 b rest' rest' g#
+=3, 1 rest, B
+=4 4 B_ C B_ A_ 2 G_# E_
+
+3 systems 15 /18-21-18 34 18-21-18/18-21-18 34 18-21-18 \
+ / 18-21-18 34 18-21-18 5 /
+
+/
+4 bars | 32 | 32 | 32 | 32 |
+|
+=1' 2 c rest' 4 rest' G A B
+=1, 4 Br)2 2 A 4 G 1 F
+=2  2 E)2 rest 1 rest
+=3' 2 a bb 4 a g 2 f
+=3, 1 c d
+=4 2 A_ E 4 F D F G
+|
+=1' 4 c 8 [d e] 4 f 2 e 4 d 2 c
+=1, 1 rest, 2. rest, 4 F#
+=2 2. rest 4 B_ C D 2 E(2
+=3' 2 e d c rest'
+=3, 2 c B 1 A
+=4 4 A 2 A_ 4 G_# A_ B_ C D
+|
+il0.7 .03 20
+=1' 2 B 4 rest'' c# d e 2 f
+=1, 4 G A B Bb 2. A 8 [Bn A]
+=2 2. E)2 4 D 8 [F E D C#] 2 D
+=3' 4 rest' f# g e 2. a 8 [g# a]
+=3, 1 G F
+=4 4 E B_ 2 E(2 4 E)2 A_ 2 D(2
+|
+=1' 4 B A B c 2 d c
+=1, 4 G# F# G# A 2 B E(2
+=2  1 E(2 4 E)2 2 B_ 4 A_
+=3' 4 b c~ d~ c~ b B c 8 [e d#]
+=3, 1 E(2 E)2(2
+=4  4 D)2 C B_ A_ 2 G_# A_
+
+/
+4 bars | 24 :|| 12 13 | 32 | 32 |
+midi off
+|
+rl1.2    ___________
+bl0.4    1.
+=1' 2 B rest' 1 rest'
+=1, 2 E)2 rest, 1 rest,
+=2  2 G_# rest, 1 rest,
+=3' 2 e b e b
+=3, 2 E)2 rest, 1 rest,
+=4 2 E_ rest, 1 rest,
+midi on
+|
+rl1.2  ___________
+bl0.4 2.
+=1' 2 B rest' 1 rest'
+=1, 2 E)2 E C F
+=2  2 G_# rest, 4 rest, 2 A_ 4 B_
+=3' 2 e rest' 1 rest'
+=3, 2 E)2 rest, 1 rest,
+=4  2 E_ rest, 1 rest,
+|
+=1' 2 rest' A G c
+=1, 2 E D 4 rest,, F 2 E
+=2  4 C B_ 2 A_ 2. B_ 4 A_(2
+=3  4 rest 2 g 4 f e d 2 c
+=4  2 blank 1 rest'
+=4  2 blank 1 rest,
+|
+=1' 2 B A 4 d c 2 B
+=1, 2 D(2 4. D)2 8 E 4 F 2 E 4 B_
+=2  4 A_)2 G_ 2 F_# 4 G_# 2 A_ 4 G_
+=3  2. d' 4 c B 8 [c d'] 2 e
+=4  2 blank 1 rest'
+=4  1 rest, 2 rest, E
+
+/
+4 bars | 32 | 32 | 32 | 32 |
+|
+il0.7 .03 25
+=1' 4 A 2 e 4 d(1 d)1 c# 2 d(1
+=1, 4 C rest, 2 rest, 4 rest, 2 G 4 F
+=2  4 A_ C C# D 2 E rest
+=3  2 e a 8 [g a] 2 bb 4 a
+=4  2 blank 1 rest'
+=4  2 C F E D
+|
+=1' 4 d)1 8 [e f] 2 g(1 4 g)1 8 [f e] 4 f g
+=1, 4 E 2 D 4 C# D F 2 Bb
+=2  1 rest 2 rest D
+=3 4 bb a 2 g a rest
+=4  2 blank 1 rest'
+=4  4 G F 2 E 4 D 2 D_ 4 E_
+|
+=1' 1 a(1 2 a)1 rest'
+=1, 2 A d 8 [c B] 2 A 4 B
+=2  2 C F E rest
+=3' 4 rest' 2 a 4 b 2 c~ d~
+=3, 1 rest, A
+=4  2 F_ D_ 4 A_ G_ 2 F_
+|
+=1' 4 rest' 2 g 4 f 8 [e d e f] 4 g a(1
+=1, 8 [c B c d] 4 e d 2. c 8 [B A]
+=2  4 G F E F 8 [G B_ C D] 4 E D(2
+=3' 4 e~ g 2 c~ 1 rest'
+=3, 1 G c
+=4  4 E_ 2 C 4 D E 2 E_ 4 F_
+
+4 systems /18-21-18 34 18-21-18/18-21-18 34 18-21-18 \
+ /18-21-18 32 18-21-18 / 18-21-18 34 18-21-18 5/
+/
+3 bars | 32 |
+|
+=1' 4 a)1 8 [g f] 4 e d c# 2. rest''
+=1, 4 d rest, 2 rest, 4 rest, 2 d 4 cn(2
+=2  4 D)2 8 [E F] 4 G D A 8 [D E] 4 F G
+=3' 4 rest' 2 g 4 f e 8 [f g] 2 a(1
+=3, 1 B A
+=4  2 G_ 4 rest G(2 G)2 2 F 4 E
+|
+il0.8 .23 30
+=1' 4 rest'' 2 e 8 [d e] 2. f 8 [e d]
+=1, 4 c)2 B 2 A(2 4 A)2 8 [B A] 2 G(2
+=2  4 A 2 E 8 [F G] [F E D C] 2 B_
+=3' 4 a)1 b 2 c~ f g
+=3, 2 d c 1 B
+=4  4 F# G# A Fn D B_ E D
+|
+=1' 2. e 4 d 2 cn rest'
+=1, 4 G)2 8 [A G] 2 F E F
+=2  4 E C# A_ B_ 2 Cn rest
+=3' 2 e 4 f 8 [a g#] 2 a rest'
+=3, 1 A rest,
+=4 4 C# A_ 2 D A_ rest
+
+/
+4 bars | 32 | 32 | 32 | 32 |
+|
+=1' 2 blank 1 rest'
+=1, 2 E F G 4 C rest,
+=2 4 rest C A_ D 2 B_ 4 G_ C
+=3 1 rest 4 rest  g e a
+=4' 2 blank 1 rest'
+=4, 2 blank 1 rest,
+|
+=1' 2. rest' 4 G E A G e
+=1, 2 E D 4 C F E rest,
+=2 4 B_ 2 C 4 B_b(2 B_)2 8 [A_ B_n] 2 C
+=3  4 g e f g 2 c rest
+=4' 2 blank 1 rest'
+=4, 2 blank 1 rest,
+|
+=1' 4 d g e a f# 2 fn 4 e
+=1, rest, B G c A d B c
+=2 2 B_ C D G_
+=3 1 rest 2 rest 4 rest e
+=4' 2 blank 1 rest'
+=4, 2 blank 1 rest,
+|
+il1.0 .06 35
+=1' 4 f# g a b 2 c~ b(1
+=1, 4 B 2 e 4 d# 2. e 4 dn(2
+=2  2 B_ A_ 4 G_ A_ 2 B_
+=3  4 d g f# B e f g g#
+=4' 2 blank 1 rest'
+=4  1 rest, 2 rest, E
+
+|
+=1' 4 b)1 a f# b g# 2 e 8 [a g]
+=1, 4 d)2 c A d B G# 2 A(2
+=2 8 [C D] 2 E D 8 [C B_] 2 C(2
+=3'  2 a rest 4 rest e c f
+=3, 2 blank 1 rest,,
+=4  2 C D E A_
+|
+=1' 4 a e f 8 [e d] 2 c 4 rest' c
+=1, 2 A)2  rest, 4 rest, G# 2 A(2
+=2  2 C)2 4 D B_ E rest 2 rest
+=3' 4 e 2 a 4 g# a rest' 2 rest'
+=3, 1 rest,, c
+=4  2 C B_ 4 A_ E C F
+|
+=1' 2 f e(1 4 e)1 e c f
+=1, 4 A)2 A 2 G# 1 A(2
+=2  4 rest D B_ E C A_ 2 F(2
+=3  2 blank 1 rest'
+=3, 1 B c
+=4  4 D B_ 2 E A_ 4 rest A
+|
+=1' 4 d B 2 g(1 g)1 rest'
+=1, 2 A)2 4 G d(2 d)2 8 [c B] 4 c 8 [B A]
+=2  4 F)2 D B_ D 2. E 8 [D C]
+=3' 4 rest' f d g 2. e 4 f#
+=3, 1 d 2 G A
+=4  2 B 4 rest B_ C B_ 2 A_
+
+/
+3 bars | 32 | 32 | 32 |
+|
+il1.0 .06 40
+=1' 2 rest' g(1 g)1 f(1
+=1, 8 [G A B c] 4 d B e c A 8 [B c]
+=2 2 B_ 4 rest B_ 2 C D(2
+=3' 2 g 4 rest g a e f 8 [g a]
+=3, 1 B A
+=4 4 E_ E B_ D C A_ D C
+|
+=1' 4 f)1 8 [e d] 2 e d rest'
+=1, 2. d 4 c(2 cr)2 8 [B A] 2 B
+=2  4 D)2 B_ G_ rest 2 rest D
+=3' 4 d g 8 [e d e f#] 2 g rest'
+=3, 1 G rest,
+=4  4 B_ G_ 2 C G_ rest
+|
+=1' 2 blank 1 rest'
+=1, 2 rest, G 4 c 2 B 4 A(2
+=2  4 G 2 F 4 E(2 E)2 8 [D C] 4 B_ C#
+=3  4 rest 8 [d~ c~] 4 b 8 [c~ b] 4 a 8 [b a] 4 g# 8 [a gn]
+=4' 2 blank 1 rest'
+=4, 2 blank 1 rest,
+
+|
+=1' 2 blank 1 rest'
+=1, 4 A)2 8 [G F] 4 E F# 2 G Fn
+=2  2 D C 4 B_ 8 [E D] 4 C B_
+=3  4 f g 2 a e 4 a g(1
+=4' 2 blank 1 rest'
+=4, 2 blank 1 rest,
+|
+=1' 2 A 4 d c(1 c)1 8 [B A] 4 G# A
+=1, 4 E 8 [F E] 4 D E 8 [A G] 4 F 2 E
+=2  4 C# 8 [D Cn] 4 B_ 8 [C B_] 4 A_ B_ C 8 [B_ C]
+=3  4 g)1 2 f 8 [e d] 4 c d' 2 e'
+=4' 2 blank 1 rest'
+=4, 2 blank 1 rest,
+|
+il0.7 .13 45
+=1' 2 B A(1 4 A)1 G# 2 A
+=1, 4 F 2 E 8 [F E] 4 D 8 [E D] [C D] 4 E(2
+=2 4 D G_# 2 A_ B_ A_
+=3' 2. d 4 c B 2 e 8 [d c]
+=3, 4. blank 1 rest,,
+=4  1 rest, 2 rest, A_
+
+|
+=1' 4 B rest' 2 e 4 a 2 g 4 f(1
+=1, 8 [E)2 F# G# A] 4 B 8 [c B] 4 A 2 B 4 A
+=2  8 [G_# A_ B_ A_] 4 G_ 8 [A_ G_n] 4 F_# 8 [G_ F_n] 4 E_ 8 [F_ E_]
+=3' 4 B rest' rest' c 2. d 4 c
+=3, 4. blank 1 rest,,
+=4 4 E 2 D 4 C(2 C)2 8 [B_ A_] 4 G_ A_
+|
+=1' 4 f)1 8 [e d] 4 rest'' d 2 e d
+=1, 4 G 8 [A B] 2 c(2 8 [c)2 B] 4. c 8 A 4 B
+=2 4 D_ 2 G_ 4 rest 2 G_ G_(2
+=3' 4 B 8 [c d] 4 e f 8 [e d e f] 4 rest' f
+=3, 1 rest,, G
+=4  2 B_ A_ G_ rest,
+|
+=1' 2 c rest' 1 rest'
+=1, 2 c rest, 4 rest, 8 [G A] 4 B 8 [A B]
+=2  4 G_)2 8 [F_# G_] 4 A_ 8 [G_ A_] 4 B_ D 2 G(2
+=3' 4 e 8 [d e] 4 f# 8 [e f] 2. g 8 [f g]
+=3, 1 c B
+=4  2 blank 1 rest
+
+|
+=1' 4 rest'' 8 [e d] 4 c 8 [d c] 2. B 8 [A B]
+=1, 4. c 8 B 2 A 4 G 8 [A G] 4 F 8 [Gr F]
+=2  4 G)2 8 [C D] 4 E A_ 8 [B_ A_ B_ C] 2 D
+=3' 4 a 2 g 4 f# g rest' 2 rest'
+=3, 1 A 2 E F
+=4  2 rest A_ 4 rest, 2 D 4 C(2
+|
+il0.8 .03 50
+=1' 4 c 8 [g f] 4 e 8 [f e] 1 d(1
+=1, 4 E 8 [D C] 4 B_ C D 8 [B_ C] 4 D 8 [C D]
+=2 4 G_ B_ 2 rest 1 rest
+=3' 2 rest 4 e a(1 a)1 8 [g# a] 4 b 8 [a b]
+=3, 1 G F
+=4  4 C)2 8 [B_ A_] 4 G_ A_ 2 B_ A_
+|
+=1' 4 d)1 8 [f e] 4 d 8 [e d] 4 c 8 [d c] 4 B 8 [c B]
+=1, 2 E 4 rest, G# A rest, E rest,
+=2 4 rest 8 [D C] 4 B_ 8 [C B_] 4 A_ rest D
+=3' 2 e rest' 4 rest' 8 [e f#] 4 g# 8 [f g]
+=3, 1 E(2 E)2(2
+=4  2 G_# 4 rest E_ A_ 8 [G_ A_] 4 B_ 8 [A_ B_]
+
+/
+3 bars | 32 | 32 | 16 12 ||
+| 2.0 2.1
+=1' 4 A 8 [B A] 4 G# 8 [F# G] 4 A 8 [G A] 4 B 8 [A B]
+=1, 4 E rest,, E rest,, rest,, 8 [E F#] 4 G# 8 [F G]
+=2  4 C rest 2 rest 4 C rest D 8 [C D]
+=3' 4 a 8 [g# a] 4 b 8 [c~ b] 4 a rest' 2 rest'
+=3, 1 E)2(2 E)2(2
+=4 4 C 8 [B_ C] 4 D rest C rest B_ rest
+| 2.4 2.7
+=1' 4 c 8 [B c] 4 d 8 [e d] 2. c 8 [d c]
+=1, 4 A 8 [G# A] 2. B 8 [A G] 2 A(2
+=2 1 E(2 8 [E)2 D C B_] 4 C A_
+=3' 4 rest' 8 [d~ c~] 4 b 8 [a b] 1 e(1
+=3, 1 E)2(2 E)2(2
+=4 4 A_ rest G_# rest 1 A_
+| 1.5 1.7 2.0 2.0
+=1' 1 B(1 B)1-fermata
+=1, 4 Ar)2 G# F# A 1 G#
+=2 4 rest 8 [B_ C#] 4 D# 8 [C D] 1 E-fermata
+=3' 1 e)1(1 e)1-fermata
+=3, 1 E)2(2 E)2
+=4  1 E_(2 E_)2-fermata

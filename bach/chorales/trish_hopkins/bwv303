@@ -1,0 +1,85 @@
+6 systems 10 /19-45-19/19-41-19/19-40-19 20/19-45-19/19-43-19/19-40-19 10/
+pagenum
+innerhead Chorales by Johann Sebastian Bach
+midi channel 1 patch 74
+midi channel 2 patch 56
+
+$V = {
+/
+5 bars |: 2# 4/4 2 | 8 | 8 | 8 | 6 :||
+| 1/4 68
+bl1.0 BWV 303
+=1' treble 2# 4/4 cha1 vol90 leg95 cro d
+=1, treble 2# 4/4 cha1 leg95 cro A
+=2' bass   2# 4/4 cha1 leg95 vol90 qua [f~ e~]
+=2, bass   2# 4/4 cha1 leg95 qua [d~ c~]
+| 4/4 68
+r1.1 .25 Ein Feste Burg ist unser Gott
+=1' vol100 cro d d qua [A B'] cro c
+=1, qua [A G] [F G] [A F] [G A]
+=2' vol100 cro d~ qua [c~n b] cro d~ e~
+=2, cro b qua [a g] cro f e
+| 4/4 68 65 54 66
+=1' qua [d c] cro B A-fermata d
+=1, qua [F E] [D E] cro C F
+=2' cro a qua [a g#] cro a qua [f g]
+=2, cro d e A B
+| 4/4 68
+=1' cro c B A qua [B A]
+=1, qua [E F] cro G qua [F E] cro D
+=2' cro a qua [e~ d~] cro c~ qua [b c~]
+=2, qua [c d] cro e f qua [g a]
+| 3/4 68 65 49
+=1' qua [G F] cro E D-fermata
+=1, cro D{2 C}2 A_
+=2' cro d~ qua [a g] cro f
+=2, qua [b g a A] cro d
+}
+$V $V
+/
+4 bars | 2# 2.2 2 | 16 | 3.5 4 3.5 4 \
+ | .9 .9 .9 .9 .8 .8 .8 .8 1.5 1.2 1 1 1.1 1.1 1 1 |
+| 1/4 68
+=1' cro D
+=1, cro D
+=2' qua [f g#]
+=2, qua [d e]
+| 4/4 68 68 68 65
+=1' cro A{1 B}1 A G#
+=1, qua [C F E D] [C D] cro B_
+=2' qua [a d~ c~ b] [e~ f~] [e~ d~]
+=2, cro f{2 g#}2 qua [a d] cro e
+| 4/4 54 66 68 66
+=1' cro A-fermata D A qua [B c]
+=1, cro A_ D D qua [G G]
+=2' cro c~ qua [f g] cro a qua [e~ e~]
+=2, cro A B f qua [e A]
+| 4/4 58 66 68 66
+=1' cro d-fermata c qua [d c] cro B
+=1, cro F F smq [F G# qua A] [Ar G]
+=2' cro d~ a qua [b e~] [f~ e~]
+=2, cro d f qua [B c] [d e]
+/
+4 bars | 1.8 1.8 2 2 2 2 2.3 2 | 2 2 1.8 1.8 1.8 1.8 2.3 2 | 16 | 12 ||
+| 4/4 56 66 68 68
+=1' cro A-fermata B B A
+=1, cro A G G F
+=2' cro c~ qua [b c~] cro d~ qua [d~ c~n]
+=2, cro A e qua [B c] cro d
+| 4/4 66 64 46 66
+=1' qua [B A] cro G F-fermata dn
+=1, cro F E D# qua [F G#]
+=2' cro b b b b
+=2, cro d# e B B
+| 4/4 67
+=1' cro c B A qua [B A]
+=1, cro A G Gr qua [F E]
+=2' cro e~ e~ e~ qua [d~ a]
+=2, qua [c d] [e d] [c A] [d c]
+| 3/4 66 63 42
+=1' qua [G F] cro E D-fermata
+=1, cro D{2 C}2 A_
+=2' cro b qua [e a] cro f
+=2, qua [B G] cro A d
+midi pause 3.2
+

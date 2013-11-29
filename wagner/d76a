@@ -1,0 +1,31 @@
+boundingbox 320 95
+midi channel 1  patch 71 reverb 60 pan 30 # clr
+midi channel 2  patch 32 reverb 60 pan 80 # pizz
+midi channel 3  patch 58 reverb 60 pan 50 # tuba
+midi channel 4  patch 60 reverb 60 pan 20 # hrn
+midi channel 5  patch 70 reverb 60 pan 70 # bsn
+midi channel 6  patch 44 reverb 60 pan 20 # vln
+midi channel 7  patch 44 reverb 60 pan 50 # vla
+midi channel 8  patch 44 reverb 60 pan 80 # vlc
+1 system 5 /27/
+/
+2 bars | 3b 4/4 6 6 6 7 6 6 7 9 | 3/4 5 5 5 4 6 5 |
+| 4/4 3.0
+I0.7 Alberich
+=1' bass 3b 4/4 cha6 vol90 4. e~ 8 d~ 4 c~ 8 bn 16 rest' c~
+r0.2 .11 So .27 verfluch .75 ich die
+midi off
+=1, 3b 4/4 2 <G c e g> <G c e a>
+midi on
+#=2 bass 3b 4/4 cha1 vol90 2 <G eb g-dim30> 4 vol70 ab rest
+#=3 bass 3b 4/4 cha3 vol60 leg99 <G_ G eb c~>
+#=3 bass 3b 4/4 cha3 vol80 2 g-dim30 vol60 ab
+#=6 bass 3b 4/4 cha1 vol80 2 <c c~ e~b-dim40> rest
+| 3/4 1.5
+=1' 3/4 2 leg99 c~ 8 leg170 d rest
+r0.2 .30 Liebe !
+#=3 3/4 vol60 2. <F_ c a c~>
+#=4 bass 3/4 cha2 2 vol90 <F ab> 4 rest
+midi off
+=1, 3/4 2 <F A c>
+midi on

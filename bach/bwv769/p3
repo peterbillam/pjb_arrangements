@@ -1,0 +1,116 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.sp 1.1c
+.LP
+.nh
+The Canonic Variations present, almost systematically,
+most of the devices of musical rhetoric,
+as they were known and taught at the time.
+A partial list is presented here,
+as gleaned from Burmeister, Walther, Mattheson and Lausberg.
+These terms should probably be more widely known than they are,
+because the effect of these devices is not limited to a
+particular harmonic or rhythmic style.
+
+.TS
+expand, center, tab(:);
+lw28 lw55.
+\f2abruptio\fP:T{
+sudden unexpected breaking-off of a phrase
+T}
+\f2accentus duplex\f1:T{
+anticipation of the destination-note by a repetition
+T}
+\f2aversio\fP:T{
+departure from the basic tonality
+T}
+\f2circulatio\fP:T{
+a "circular" sequence of notes covering the range
+of a third and beginning and ending on the same note
+T}
+\f2complexio\fP:T{
+bringing a passage to an end
+by repeating its beginning
+T}
+\f2crux\fP:T{
+a "cross-shaped" group of four notes,
+the outer two being the same (or almost),
+and the middle two being well above and well below
+T}
+\f2epizeuxis\fP:T{
+repeating a phrase on a different
+degree of the scale (a \f2sequence\fP)
+T}
+\f2exclamatio\fP:T{
+a rising minor-sixth, used like a bugle-call, as a signal
+T}
+\f2geminatio am Ende\fP:T{
+ending a piece by immediate repetition of the final phrase
+T}
+\f2gradatio\fP:T{
+a sequence of more than three parallel thirds
+T}
+\f2heterolepsis\fP:T{
+the unforced introduction of a dissonance
+against an on-going longer note in another voice
+T}
+\f2hypallage\fP:T{
+the inversion, or counterpoint with the inversion
+T}
+\f2hyperbaton\fP:T{
+the interchange of notes, or groups of notes
+T}
+\f2hyperbolé\fP:T{
+going above the stave
+T}
+\f2hypobolé\fP:T{
+going beneath the stave
+T}
+\f2hypotyposis\fP:T{
+portraying extra-musical things (\f2program\fP music)
+T}
+\f2katabasis\fP:T{
+descending scale
+T}
+\f2longinqua distantia\fP:T{
+a gap of more than an octave betwee the upper voices
+T}
+\f2metalepsis\fP:T{
+a double-fugue in which the second theme is presented sequentially after
+the first without revealing the contrapuntal function it will later have
+T}
+\f2parenthesis\f1:T{
+a descent into the range of the next-lowest voice
+T}
+\f2parrhesia\f1:T{
+a harmonic roughness caused by some technical circumstance in the voice-leading
+T}
+\f2peroratio\fP:T{
+a closing part, with a gathering-together of references to earlier sections
+T}
+\f2polyptoton\fP:T{
+a change of perspective, or the repetition of a motif in another voice
+T}
+\f2quaesitio notae\fP:T{
+approaching a note from a neighboring note
+T}
+\f2subsumptio\f1:T{
+striking the destination-note one degree
+too low, and then rising to the destination-note
+T}
+\f2tmesis\fP:T{
+a sequence of slurred groups of two (or three) notes
+T}
+.TE
+
+.LP
+.ce 1
+\f2Peter J Billam\fP
+.LP
+.ce 1
+\f2www.pjb.com.au\fP

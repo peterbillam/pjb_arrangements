@@ -1,0 +1,4550 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2009.09.13.06.54.55;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2009.09.13.03.59.05;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.09.13.03.57.03;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@12 Teleman Flute Fantasias, for F-recorder
+@
+
+
+1.3
+log
+@modernised all ( slurs to {
+@
+text
+@9 systems /19/19/19/19/19/19/19/19/19 14/
+pagenum 4
+title 1.
+innerhead Fantasia 1. in A major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+2 bars | 4/4 8 | 8 |
+|
+I0.6         Vivace
+=1, treble  4/4 cro c(1 smq [c)1 d c G] [c e c G] [c d c G]
+|
+=1, smq [c e c G] [c g c G] [c-ten g a{1 f}1] [g{1 e}1 f{1 d}1]
+/
+2 bars |8|2 2 1.8 1.6|
+|
+=1 treble  smq [e g a f] [g{1 e}1 f d] [e c-. d-. e-.] [f-. g-. a-. b-.]
+|
+=1 smq [c~ g e c] [c~ g e c] qua [c~ c] cro rest
+/
+3 bars |2 1.3 2 2|2 1.3 2 2|10|
+|
+il0.5 .29 5
+=1 smq [f{1-tr e}1] cro. f smq [a{1 qua. f}1] smq [c~{1 qua. f}1]
+|
+=1 smq [e{1-tr d}1] cro. e smq [g{1 qua. e}1] smq [c~{1 qua. e}1]
+|
+=1, smq [F-ten e{1 d c}1] [a-ten e{1 d c}1] [F e{1 d c}1] [a e{1 d c}1]
+/
+3 bars |8|8|4 2.8|
+|
+=1, smq [F#-ten e{1 d c}1] [c~-ten e{1 d c}1] [F e{1 d c}1] [c~ e{1 d c}1]
+|
+=1 smq [G{2 B'}2 d' B'] [g d b g] [G,{1 c}1 e c] [g e c~ g]
+|
+il0.4 .10 10
+=1 smq [G,{2 B}2 d B] [g d b g] qua [d~ G,] cro rest
+/
+4 bars |7|8|8|8|
+|
+=1 cro c-emph f-emph e-emph a-emph
+|
+=1, qua [f d g G] [c e d c]
+|
+=1 qua [g B, c~ A,] [b G, e~ c]
+|
+=1, qua [c~ a d~ d] [g B e d]
+/
+3 bars |1 1 1 1 1.25 1.25 3.5 1.5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.1 1.2 1.1 1.2 1 1 1 1  |2 2 2.5 3.5 2 2 2 2 2 2 2.5 3.5 2 2 2 2|4 4.6 4 4 4 4 4.6 4|
+|
+il0.5     15
+=1, treble  qua [c# smq g{1 dsq a bb}1] qua [a g] [f A d cn]
+|
+=1, qua [B smq f{1 dsq g a}1] qua [g f] [e smq Bb{1 dsq c d}1] qua [c B]
+|
+=1, qua [f A bb G] [a F d~ Bb]
+/
+3 bars |3 4|8|8|
+|
+=1, treble  qua [bb g c~ c] smq [F f{1 e f}1] [a f{1 e f}1]
+|
+=1, smq [F f{1 e f}1] [c~ f{1 e f}1] [c e{1 d e}1] [g e{1 d e}1]
+|
+il0.5 .06 20
+=1, smq [c e{1 d e}1] [c~ e{1 d e}1] [B f{1 e f}1] [g f{1 e f}1]
+/
+3 bars |4 3|3 4|2 1.5 1.5 1.5|
+|
+=1, treble  smq [G f{1 e f}1] [d~ f{1 e f}1] qua [c e~ f d~]
+|
+=1, qua [e c~ a c~] smq [f{1 a}1 d f] [g{1 b}1 G f]
+|
+=1, smq [c f{1 e d}1] qua [e A] [F d~] [G b]
+/
+3 bars |1 1 1 1 1 1 1 1 1.2 1.7 1.2 1.2 1.2 1.2 1.2 1.2  |2 2 2 2 2 2.4 2 2|2 2 2 2 2.4 1.8 1.8 2|
+|
+=1 treble  qua [c bb f a] smq [e c~{1 bn c~}1] [a c~{1 b c~}1]
+|
+il0.5 .49 25
+=1, qua [f d g G] [c smq e d] qua [e A]
+|
+=1, qua [F d~] [G b] smq [c{1 B] cro c}1 qua rest
+
+9 systems /19/19/19/19/19 35/19/19/19/19 12/
+pagenum 5
+innerhead Fantasia 1. in A major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+2 bars |12 15 15 12|12 15 15 12|
+|
+I0.7     Adagio
+=1 treble  cro c~(1 smq3 [c~)1{1 g-I3 e}1] [g{1 e c}1] [c~{1 g e] [g e c}1] cro rest
+i0.6 .51 dim e accel . . .
+|
+=1 cro bb(1 smq3 [b)1{1 g e}1] [g{1 e c}1] [b{1 g e] [g e c}1] cro rest
+i0.8 .50 simile  . . .
+/
+2 bars |5 3 3 3 5 3 3 3 5 3 3 3 5 3 3 3  | 2 2 2 2 2 2  2.5 3.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2 2 2 2 2 2 |
+|
+=1 treble  dsq [a{1 e qua. f}1] dsq [g{1 e qua. f}1] dsq [c~{1 e qua. f}1] dsq [g{1 e qua. f}1]
+|
+il0.5 .38 30
+=1 cro d~(1 smq3 [d~)1{1 a f#}1] [a{1 f d}1] [d~{1 a f] [a f d}1] cro rest
+/
+2 bars |2 2 2 2 2 2 2.5 3.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2.5 2 2 2 2 2 2 |6 3 3 3 5 3 3 3 5 3 3 3 5 3 3 3 |
+|
+=1 treble  cro c~(1 smq3 [c~)1{1 a f#}1] [a{1 f d}1] [c~{1 a f] [a f d}1] cro rest
+|
+=1 dsq [bb{1 f# qua. g}1] dsq [a{1 f qua. g}1] dsq [d~{1 f qua. g}1] dsq [a{1 f qua. g}1]
+/
+2 bars | 8 | 8 |
+|
+=1, treble  smq [A dsq f{1 e}1 smq f a] rest [a g{1 f}1] smq [B, dsq f{1 e}1 smq f a] rest [a g{1 f}1]
+|
+=1 smq [c dsq e{1 d}1 smq e c~] [Bb, e g c~] smq [A, dsq e{1 d}1 smq e c~] [G, e g c~]
+/
+2 bars | 8 | 4 3 ||
+|
+il0.5 .05 35
+=1, treble  qua [F# smq rest e] qua. [e{1-tr dsq d e}1] \
+ smq [G d f#{1 g}1] [c e f{1 g}1]
+|
+=1 smq [Bb, d f#{1 g}1] [A, c f{1 g}1] cro G rest
+/
+6 bars |3/6 6|6|6|6|6|6|
+|
+I0.5      Allegro
+=1 treble  3/8 smq [e{1 f#}1 g e f d]
+|
+=1 smq [c{2 d}2 c Bb qua c]
+|
+=1, smq [d e f G qua f]
+|
+=1 qua [f-tr smq e d qua e]
+|
+il0.6   5
+=1 smq [a{1 bb}1 c~ e a g]
+|
+=1 smq [f#{1 g}1 a f d{1 c}1]
+/
+7 bars |6|6|6|6|6|6 :||: 6|
+|
+=1, treble  smq [Bb g] qua [A f#]
+|
+=1, smq [G Bb d g{1 f#}1 g]
+|
+=1, smq [G c e g{1 f}1 g]
+|
+il0.5   10
+=1, smq [G Bb d g{2 f}2 g]
+|
+=1, smq [Bb g] qua [A f#-tr]
+|
+=1, qua [g G] rest
+|
+=1 smq [f{1 g}1 a f g e]
+/
+7 bars |6|6|6|6|6|6|6|
+|
+=1 treble  qua [f{1 e}1 d]
+|
+il0.5   15
+=1 smq [e{1 f}1 g e f d]
+|
+=1 qua [e{2 d}2 c]
+|
+=1 smq [a{1 g}1 a f{1 e}1 f]
+|
+=1 smq [c~{1 b}1 c~ e{1 d}1 c]
+|
+=1, qua [d G Bb-tr]
+|
+il0.5   20
+=1, smq [c e g c~{1 b}1 c~]
+/
+7 bars |6|6|6|6|6|6 :||6||
+|
+=1, treble  smq [c f a c~{1 b}1 c~]
+|
+=1, smq [c e g c~{1 b}1 c~]
+|
+=1, smq [a{1 g}1 a f{1 e}1 f]
+|
+=1, smq [c~{1 b}1 c~ e{1 d}1 c]
+|
+il0.5   25
+=1, qua [d G Bb-tr]
+|
+I0.5   1a . . .
+=1 qua. [c smq e d{1 c}1]
+|
+I0.5   2a . . .
+=1 cro. c
+12 systems 10/19/19/19 15/19/19/19/19/19/19 10/19 8/19/19 10/
+pagenum 6
+title 2.
+innerhead Fantasia 2. in a minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+4 bars | 3/4 9 | .75 .75 .75 .75 1 1 1.5 1 1 1 1 1 | 9 | 3 4 4 |
+|
+I0.6         Grave
+=1 treble 1b 3/4 cro d f a
+|
+=1 cro B smq rest [a g f#] [g{1 b d~ g~}1]
+|
+=1 cro c e g
+|
+=1 cro A smq rest [g f e] [f{1 a c~ f~}1]
+/
+4 bars |  9 | 1 1 1 1 1 1.4 1 1 1 1 1 1 | 1 1.4 1 1 1 1 1 1 1 1 1 1 | 12 |
+|
+il0.4     5
+=1 treble 1b cro B d f
+|
+=1, smq [G-ten f e d] [f-ten d{1 c# d}1] [c{1 d}1 c{1 d}1]
+|
+=1, smq [A-ten d{1 c# d}1] [f-ten d{1 c d}1] [c{1 d}1 c{1 d}1]
+|
+=1, smq [B-ten d g B] [d g b d] [g b d~ g]
+/
+3 bars |2 2 1.4|1.8 1.4 2|6||
+|
+=1 treble 1b smq [b d~ g~ b] [d~{1 g}1 b{1 d}1] cro g
+|
+il0.4     10
+=1 qua rest G cro. d{1-tr smq [c# d}1]
+|
+=1 smq [c# g#{1 a}1 e] [c{1 d}1 e c] cro A
+/
+5 bars | 3/4 2 3 2 2 2 2 | 12 | 2 2 2 2.5 2 2 | 5 4 4  | 1 1 2 1.4 1 1 1 1 1 1 1 1 |
+|
+I0.6         Vivace
+=1 treble 1b 3/4 qua rest smq [f g#] qua [a c#,{1 d}1 b]
+|
+=1 qua [c#, b{1 a}1 Bn,{1 cn,}1 a]
+|
+=1, qua [Bn a{1 g#}1 A{1 Bb}1 g]
+|
+=1, smq [A g f{1 e}1] qua [f d A, c~#]
+|
+il0.5   5
+=1 qua [d smq d~{1 c~#}1] qua [d~ a d~ f~]
+/
+5 bars | 12 | 2 3 2 2 2 2 | 12 | 12 | 1.4 1.4 2 1.4 1 1 1 1 1 1 1 1 |
+|
+=1 treble 1b qua [e-ten e~ f#-ten d~ g#-ten bn]
+|
+=1 qua [A, smq c~ d~] qua [e~ g#{1 a}1 f~]
+|
+=1 qua [g# f~{1 e~}1 f#{1 gn}1 e~]
+|
+=1 qua [f# e~{1 d~}1 e{1 fn}1 d~]
+|
+il0.5  10
+=1 smq [e d~ c~{1 bn}1] qua [c~ a e g#]
+/
+5 bars | 1 1 2 1.4 1 1 1 1 1 1 1 1 | 12 | 1 1 2 1.4 1 1 1 1 1 1 1 1 | 12  | 2 2.8 2 2 2 2 |
+|
+=1, treble 1b qua [A smq a{1 g#}1] qua [a e a c~]
+|
+=1 qua [d d~ e c~ f# c~]
+|
+=1, qua [G smq g{1 f#}1] qua [g d g b]
+|
+=1 qua [c c~ d b e g~]
+|
+il0.5  15
+=1 qua [f smq a c~] qua [f~ f f~ f]
+/
+5 bars | 2 2.8 2 2 2 2 | 2 2.8 2 2 2 2  | 2 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 | 2 2.8 2.8 2.8 2.8 2.8 | 12 |
+|
+=1 treble 1b qua rest smq [a{1 c~}1] qua [f~-. f-. f~-. f-.]
+|
+=1 qua rest smq [a c~] qua [f~ f f~ f]
+|
+=1 smq [d~{1 e~b}1 d~ c~] [b{1 c~}1 b a] [g{1 a}1 g f]
+|
+=1, qua [e smq g f] [e{1 f}1 e d] [c{1 d}1 c B]
+|
+il0.5  20
+=1 qua [A, c~ B, d~ c e]
+/
+5 bars | 2 2.8 2 2 2 2 | 2 2.8 2 2 2 2 | 12 | 12 | 5.6 4 4 |
+|
+=1 treble 1b qua [f smq a b] qua [c~ e f A,]
+|
+Il0.2     '
+=1 qua B smq [b c~] qua [d~ f#{1 g}1 e~b]
+|
+=1 qua [f# e~b{1 d~}1 e{1 fn}1 d~]
+|
+=1 qua [e d~{1 c~}1 d{1 eb}1 c~]
+|
+il0.5   25
+=1 smq [d c~ b{1 a}1] qua [b g d f#]
+/
+6 bars | 2 2.8 2 2 2 2 | 2 2.8 2 2 2 2 | 2.5 2 2 2 2 2  | 12 | 2.5 2 2 2 2 2 | 12 |
+|
+=1 treble 1b qua [G, smq b d~] qua [g~ g g~ g]
+|
+=1 qua rest smq [b{1 d~}1] qua [g~ g g~ g]
+|
+=1 qua [f bn e c~ d d~]
+|
+=1 qua [c e~b Bn, d~ c e~]
+|
+il0.5      30
+=1 qua [g c~# f d~ e e~b]
+|
+=1 qua [d f~ c#, e~b d f~]
+/
+6 bars | 2 3.0 2 2 2 2 | 1 1 2.3 1.4 1 1 1 1 1 1 1 1 | 2 3.0 2 2 2 2  | 1 1 2.3 1.4 1 1 1 1 1 1 1 1 | 2 2.8 2 2 2 2 | 12 |
+|
+=1 treble 1b qua [G, smq e~b d~] qua [e~ g A, c~#]
+|
+=1 qua [B, smq d~ c~#] qua [d~ f A, d~]
+|
+=1 qua [G, smq e~b{1 d~}1] qua [e~ g A, c~#]
+|
+il0.4  35
+=1 qua [B, smq d~{1 c~#}1] qua [d~ f A, d~]
+|
+=1, qua [G smq b a] qua [b d g b]
+|
+=1 qua [A,-ten a Bn,-ten g c#,-ten e~b]
+/
+6 bars | 2 2.8 2 2 2 2 | 2 2 2 2.6 2 2 | 2 2 2 2.6 2 2 | 5.6 4 4 | 2 2.8 2 2 2 2 | 2 2.8 2 2 2 2 |
+|
+=1 treble 1b qua [d smq f g] qua [a c#,{1 d}1 b]
+|
+=1 qua [c#, b{1 a}1 Bn,{1 cn,}1 a]
+|
+il0.5 40
+=1, qua [Bn a{1 g}1 A{1 Bb}1 g]
+|
+=1, smq [A g f{1 e}1] qua [f d A c~#]
+|
+=1 qua [d smq f a] qua [d~ d d~ d]
+|
+=1 qua rest smq [f{1 a}1] qua [d~-. d-. d~-. d-.]
+/
+5 bars | 5.6 4 4 | 16.8 | 16.8 | 12 | 4 3 3 ||
+|
+=1 treble 1b qua rest smq [f a] qua [d~ d d~ d]
+|
+il0.5        45
+=1 smq [b{1 c~}1 b a] [g a g f] [e f e d]
+|
+=1 smq [b{1 c~}1 b a] [g{1 a}1 g f] [e{1 f}1 e d]
+|
+=1 qua [c~# a d~ f A, c~]
+|
+=1 qua [d~ a] cro d-fermata rest
+11 systems /19/19/19/19 18/19/19/19/19/19/19/19 10/
+pagenum 7
+innerhead Fantasia 2. in a minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+2 bars | 4/4 .8 .8 .8 .8 1.1 1.1 1.1 1.1 .8 1.4 .8 .8 1.1 1.1 1.1 1.1  | .8 1.4 .8 .8 1.1 1.1 1.1 1.1 .8 1.4 .8 .8 .8 .8 .8 1.4 |
+|
+I0.6         Adagio
+=1, treble 1b 4/4 cro f(1 smq3 [f)1 c~ b a{1 g f}1] smq. [g dsq Bn qua c(1] smq3 [c)1 g f e{1 d}1 c]
+|
+=1, smq. [a dsq e qua f(1] smq3 [f)1 c~ b a{1 g f}1] smq. [g dsq Bn qua c] qua rest smq. [g dsq a]
+/
+2 bars | 1 1 1 1 1 1 1 1 .8 1.4 .8 .8 .8 .8 .8 1.4  | 1 1 1 1 1.1 1 1 1 .5 1.8 .8 .8 .8 .8 .8 1.4 |
+|
+=1, treble 1b smq [b d c{1-tr B}1] [b e d{1-tr c}1] smq. [b{1 dsq g}1 qua a] qua rest smq. [a dsq bn]
+|
+=1, smq [c~ e d{1-tr c}1] [c~ f# e{1-tr d}1] smq. [c~{1 dsq a}1 qua b] smq rest [c~ c~{1-tr dsq b c~}1]
+/
+2 bars | .8 .8 .8 1.4 1 1 1 1.4 .8 .8 .8 1.4 1 1 1 1.4  | .8 .8 .8 1.4  1 1 1 1.4  1 1.4 1 1.4  1 1 1 1 |
+|
+il0.5     5
+=1, treble 1b qua [d~ smq. B dsq d~] smq [B b b{1-tr dsq a b}1] qua [c~ smq. A dsq c~] smq [A a a{1-tr dsq g a}1]
+|
+=1, qua [b smq. G dsq b] smq [G g g{1-tr dsq f g}1] smq [a{1 dsq g f}1] smq [b{1 dsq a g}1] smq [c~ A, d~ B,]
+/
+3 bars | 1 1.8 1 1 .7 .7 .7 1 .8 1.4 .7 .7 1.5 1.3 1.3 1.3  | .8 1.4 .7 .7 1.5 1.3 1.3 1.3 .8 1.4 .7 .7 1 1 1 1  | 1.7 1.7 0.8 1.2 1.2 .8 .8 .8 .5 .5 .5 .5 .5 .5 .5 .5 ||
+|
+=1, treble 1b smq [e{1-tr dsq d c}1 smq f b] qua. [g-tr smq f] smq. [f{1 dsq c}1 qua g#] smq3 rest [Bn c d{1 c B}1]
+|
+=1, smq. [f{1 dsq d}1 qua g#] smq3 rest [Bn c d{1 c B}1] smq. [g{1 dsq f}1 qua d~] smq rest [g gn f]
+|
+=1 dsq [e c~{1 d~ e~b}1 smq. f~ dsq f] smq [c qua. g-tr] cro f rest
+/
+6 bars | 2/4 2 | 8 | 8 | 8 | 8 | 8 |
+|
+I0.6     Allegro
+=1 treble 1b 2/4 qua g#-.
+|
+=1 qua [d~ smq e~ f~] qua [e~ d~-.]
+|
+=1 qua [c~#{1 d~}1] rest g#
+|
+=1 smq [g{1 f}1 e d] qua [g#-. d-.]
+|
+=1 qua [c#{1 d}1] rest A
+|
+il0.6   5
+=1 smq [d{1 e}1 f d] [e{1 f}1 g e]
+/
+5 bars |1 1 1 1 1.5 1 .8 .8 |8|1 1 1 1 1.5 1 .8 .8|7|1.5 1.2 1 1 .8 .8 .8 .8|
+|
+=1, treble 1b smq [f{1 e}1 d f] [A{1 c#}1 qua e]
+|
+=1 smq [d{1 e}1 f d] [e{1 f}1 g e]
+|
+=1, smq [f{1 e}1 d f] [A{1 c#}1 qua e]
+|
+=1 qua [f{1 f#}1 g{1 g#}1]
+|
+il0.5    10
+=1 smq [g#{1 g}1 qua g] rest bn
+/ 
+6 bars | 7 | 1.4 1 .8 .8 .8 .8 .8 .8 | 1 1.4 1 1 1 1 1.4 1  | 9 | 7 | 7 |
+|
+=1 treble 1b qua [c~#{1 c~}1 d~{1 e~b}1]
+|
+=1 smq [e~{1 e~b}1 qua e~n] rest e~
+|
+=1 smq [d~{1 c~}1 bn g#] [c~{1 b}1 g g]
+|
+=1, smq [g# e-. c-. A-.] [g e-. c-. A-.]
+|
+il0.6      15
+=1 qua [g#{1 g}1 gn{1 f#}1]
+|
+=1 qua [f{1 e}1] rest d
+/
+7 bars | 3.5 3.7 | 4.5 :||: 2.5 | .8 .8 1.6 1.1 .8 .8 .8 .8 | 7  | .8 .8 1 1 1 1 1.4 1 | .8 .8 .8 .8 1 1.6 1 1 |
+|
+=1, treble 1b qua [c g# Bn g]
+|
+=1 cro. A
+|
+=1 qua e-.
+|
+=1 qua [g# smq c~ bn] qua [g gn-.]
+|
+il0.5    20
+=1 qua [f# d~] rest c~
+|
+=1 qua [b smq ab g] [b{1 ab}1 g f#]
+|
+=1, qua [g d] smq [G g f{1 e}1]
+/
+6 bars | 3.5 4 | .8 .8 1.5 1 1 1 1.5 1 | 3.5 4 | .8 .8 1.5 1 .8 .8 .8 .8  | 1.6 2 2 2 | 7 |
+|
+=1, treble 1b qua [f A] smq [Bn f e{1 d}1]
+|
+=1, qua [e smq c Bn] [c{1 d}1 e f#]
+|
+il0.6         25
+=1, qua [g Bn] smq [c# g f{1 e}1]
+|
+=1 qua [f smq d{1 c#}1] qua [d a]
+|
+=1 qua [B, smq b{1 a}1] [g f e d]
+|
+=1 cro c#-tr qua rest a-.
+/
+6 bars | 1.7 2.4 1.7 1.7 | 6.8 | 4 3.5 | 7 | 7 | 1.4 1 .8 .8 .8 .8 .8 .8 |
+|
+=1 treble 1b qua [d~ smq e~ f~] qua [e~ d~-.]
+|
+il0.6          30
+=1 qua [c~#{1 d~}1] rest a
+|
+=1 smq [g{1 f}1 e d] qua [a d-.]
+|
+=1 qua [c#{2 d}2] rest d
+|
+=1 qua [eb{1 en}1 f{1 f#}1]
+|
+=1 smq [g{1 f#}1 qua g] [b a]
+/
+6 bars | .8 .8 1 1 1 1.4 1 1 | 8 | 7 | 7 | 1.7 2 1.7 1.7 | 5.5 :||
+|
+il0.5    35
+=1 treble 1b qua [d~ smq c~# b] [a g f e]
+|
+=1 smq [d f{1 e d}1] [a f{1 e d}1]
+|
+=1 qua [b{1 a}1 c~#{1 bn}1]
+|
+=1 qua [d~{1 c~#}1 e~ a]
+|
+=1, qua [f smq e d] qua [A c#]
+|
+=1 cro. d
+10 systems /19/19/19/19/19/19/19/19/19/19 10/
+pagenum 8
+title 3.
+innerhead Fantasia 3. in b minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+3 bars | 4/4 1.5 1 1 1 1.5 1 1 1 | 1.5 1 1 1.5 .8 .8 .8 .8  || .8 1.1 .8 .8 .8 .8 .8 .8 .8 1.1 .8 .8 .8 1 .8 .8  |
+|
+I0.7        Largo
+=1 treble 1b 4/4 smq [d{1 f}1] cro. a smq [c#{1 e}1] cro. a
+|
+=1 smq [B{2 d}2] cro g smq [g#{1 a}1] cro A rest
+|
+I0.6   Vivace
+=1, smq rest dsq [f e smq f d] [b d{1 e}1 b] smq [f dsq a g# smq a f] [c~ e{1 f#}1 c~]
+/
+2 bars | 1 1.3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 16 |
+|
+=1 treble 1b smq [g# dsq b a smq b g] [c~# a e~ g] [f a d~ f] [g e~ a c~]
+|
+il0.7              5
+=1, smq [d e{1 f}1 c#] [Bn f A f] [G# e eb{1 en}1] [bn e d~ e]
+/
+2 bars | 1 1 2 1.4  1 1 1 1  1 1 1.2 1.2  1 1 1 1  1 1 1.4 1.4 1 1 1 1  1.1 1.1 1.3 1.3 1 1 1 1  | 2 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 |
+|
+=1, treble 1b smq rest dsq [c# Bn smq c A] [f A{1 B}1 f] smq [c dsq e eb smq en c] [g# B,{1 c}1 g]
+|
+=1, smq [eb dsq f en smq f eb] [g# en bn eb] [c{1 en}1 a c] [eb b en g]
+/
+2 bars | 16 | 16 |
+|
+=1, treble 1b smq [A{1 c}1 e a] rest [c~ e g#] [f# a eb d~] [en c~ f a]
+|
+=1, smq [G{2 Bn}2 eb g#] rest [b e f] [en g c c~] [eb b en g]
+/
+2 bars | 16 | 16 |
+|
+il0.5     10
+=1, treble 1b smq [F{1 A}1 c f] rest [a f c~] [B d~ c~ b] [B d~ G b]
+|
+=1 smq [A, c~ b a] [A, c~ f a] [B, d~ c~{1 b}1] [B, d~ G, b]
+/
+2 bars | 16 | 16 |
+|
+=1, treble 1b smq [A c~ b{1 a}1] [A c~ F a] [B d~ A c~] [G b F a]
+|
+=1 smq [e g# qua c] smq rest [B' A{2 G}2] [A, c~ eb f] [B, g c en]
+/
+2 bars | 16 | 16 |
+|
+=1, treble 1b smq [A c~ eb f] [B g# c en] [F a G b] [A c~ B d~]
+|
+il0.6     15
+=1, smq [c e A f] [B, g# c e] [F e f{1 eb}1] [F a f{1 en}1]
+/
+2 bars | 2 2 2 2 2 2 2 2 2 2 2 2 2 2.3 2 2  | 2.2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 ||
+|
+=1, treble 1b smq [G e f{1 d}1] [A a f{1 e}1] [B e f{1 d}1] [g# dsq a g smq f g]
+|
+=1, smq [A{1 c#}1 e a] [A{1 d}1 f a] [A{1 c}1 qua e] cro rest
+/
+4 bars | 1.5 1 1 1 1.5 1 1 1 | 1.5 1 1 1.5 1.5 1 .8 .8  | 1.5 1 1 1 1.5 1 1 1 | 1.5 1 1 1.5 1.5 1 .8 .8 ||
+|
+I0.6     Largo
+=1 treble 1b smq [f{1 a}1] cro. c~ smq [e{1 g#}1] cro. c~
+|
+=1 smq [d{1 f}1] cro b smq [bn{1 c~}1] [e{1 g}1 qua c] cro rest
+|
+il0.7        20
+=1 smq [g{1 bn}1] cro. d~ smq [f{1 a}1] cro. d~
+|
+=1 smq [eb{1 g}1] cro c~ smq [c~#{1 d~}1] [f#{1 a}1 qua d] cro rest
+/
+2 bars | 2 2.7 2 2 2 2 2 2  2 2.7 2 2 2 2.3 2 2  | 2 2.7 2 2.3 2 2 2 2  2 2 2 2 2 2 2 2 |
+|
+I0.6   Vivace
+=1 treble 1b smq rest dsq [B' A smq B' G] [eb G,{1 A,}1 e] smq [B dsq d c smq d B] [f# A{1 Bn}1 f]
+|
+=1 smq [c dsq eb d smq e c] [f# d a c] [B{1 d}1 g B] [c a d f]
+
+11 systems /19/19/19/19 27/19/19/19/19/19/19/19 10/
+pagenum 9
+innerhead Fantasia 3. in b minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+2 bars | 16 | 16 |
+|
+=1, treble 1b smq [G g a b] [eb b d b] [c{1 e}1 g b] rest [d~ c~# b]
+|
+il0.6   25
+=1, smq [F ab a] [d a c a] [B{1 d}1 f# a] rest [d~ b f]
+/
+2 bars | 16 | 1 1.4 1 1 1 1 1 1 1 1.4 1 1 1 1.2 1 1 |
+|
+=1, treble 1b smq [g{1 a}1 b g] [e{1 f}1 g e] [c#{1 d}1 e c] [A g f{1 e}1]
+|
+=1, smq rest dsq [f e smq f d] [b d{1 e}1 b] smq [f dsq a g smq a f] [c~# e{1 f#}1 c~]
+/
+2 bars | 1 1.4 1 1  1 1 1 1  1 1 1 1  1 1 1 1 | 16 |
+|
+=1 treble 1b smq [g dsq b a smq b g] [c~# a e~ g] [f{1 a}1 d~ f] [g e~ a c~]
+|
+=1, smq [d e f{1 d}1] [G e A c#] [F e f{1 d}1] [G e A c]
+/
+3 bars | 1 1 1.6 1 1.6 1 1 1 1.6 1 1 1.5 1 1 1 1 | 16 | 4 4 4 2.5 ||
+|
+il0.5     30
+=1 treble 1b smq [F A d'{2 c'}2] [G, Bn e{1 d}1] [A, c# f{1 e}1] [Bb d g b]
+|
+=1, smq [A c~# d~ e~] [F a d~ d] [G b a{1 g}1] [A f e c~]
+|
+=1, smq [d A f d] [a f d~{1 a}1] [f a qua d] cro rest
+/
+6 bars | 6/8 1.8 | 6 | 1.3 1 1 1 1 1 | 6 | 6 | 6 |
+|
+I0.6       Allegro
+=1 treble 1b 6/8 qua a
+|
+=1 qua [a{1 g}1 a] [f{1 e}1 f]
+|
+=1, qua [d{2 c#}2 d] [A d f]
+|
+=1, qua [G e g] [A f e]
+|
+=1 qua [f{1 g}1 e] cro d qua a
+|
+il0.5    5
+=1 cro G qua b cro F qua a
+/
+6 bars | 6 | 6 | 6 | 6 | 6 | 6 |
+|
+=1 treble 1b qua [c g f] [e{1 f}1 g]
+|
+=1 cro A qua c~# cro G qua b
+|
+=1, qua [F a g] [a{1 b}1 c~#]
+|
+=1 cro B qua d~ [g{1 b}1 d~]
+|
+il0.5    10
+=1 cro A qua c~# [f{1 a}1 c~]
+|
+=1 cro G qua b [e{1 g}1 b]
+/
+6 bars | 6 | 6 | 1.3 1 1 1 1 1 | 1.3 1 1 1 1 1 | 1.3 1 1 1 1 1 | 6 |
+|
+=1, treble 1b qua [F c a] [A c f]
+|
+=1, qua [B d g] [c f{1 e}1]
+|
+=1 qua F cro e(1-emph e)1{1 qua f}1
+|
+il0.5    15
+=1 qua B cro e(1-emph e)1{1 qua f}1
+|
+=1 qua A cro e(1-emph e)1{1 qua f}1
+|
+=1 qua [d{1 f}1 b] [c b{1 a}1]
+/
+7 bars | 6 | 6 | 6 | 6 | 4 :||: 2 | 6 |
+|
+=1, treble 1b qua [B{1 d}1 g] [Bn g{1 f}1]
+|
+=1 qua [c{1 e}1 g] [B g B]
+|
+il0.5    20
+=1 cro A qua c~# [d{1 e}1 f]
+|
+=1 qua [B e{1 f}1] [c f e]
+|
+=1 cro. F cro rest
+|
+=1 qua c~#
+|
+=1 qua [c~#{1 b}1 c~] [a{1 g}1 a]
+/
+6 bars | 6 | 6 | 6 | 6 | 6 | 6 |
+|
+=1 treble 1b qua [f{1 e}1 f] [c f a]
+|
+il0.5    25
+=1 qua [B g b] [c a g]
+|
+=1 qua [a{1 b}1 g] cro f qua a
+|
+=1 qua [Bn{1 d}1 g] cro G qua f
+|
+=1 qua [e{1 f}1 d] cro c qua d
+|
+=1 qua [c#{1 e}1 a] cro A qua e
+/
+6 bars | 1 1 1 .8 .8 1 | 6 | .8 .8 1 .8 .8 1  | 1.4 1 1 .8 .8 1 | 1 1 1 1 1.4 1 | 1.7 1 1 1 1 1 |
+|
+il0.5        30
+=1 treble 1b qua [f{1 g}1 e] cro d qua a
+|
+=1, qua [Bn{1 d}1 g] [A{1 c#}1 f]
+|
+=1 cro G qua e cro Bn qua d
+|
+=1 qua [A,{1 c#}1 e] cro A qua G
+|
+=1, qua [F e{1 d}1] [A d{1 c#}1]
+|
+il0.6  35
+=1 qua d cro c~#(1-emph c~)1{1 qua d~}1
+/
+6 bars | 2.3 2 2 2 2 2 | 2.3 2 2 2 2 2 | 12 | 12 | 12  | 1.7 1.2 .9 .9 .9 .9 .9 .9 .8 .8 .8 .8 :||
+|
+=1 treble 1b qua g cro c~#(1-emph c~)1{1 qua d~}1
+|
+=1 qua f cro c~#(1-emph c~)1{1 qua d~}1
+|
+=1 qua [eb{1 g}1 b] [d{1 g}1 b]
+|
+=1 qua [c# b{1 a}1] [d{1 f}1 a]
+|
+il0.5    40
+=1 qua [G, eb{1 d}1] cro A qua c~#
+|
+=1 smq-s [d'{2 c#'] cro. d}2-fermata cro rest
+
+11 systems /19/19/19/19/19 15/19/19/19/19/19/19 10/
+pagenum 10
+title 4.
+innerhead Fantasia 4. in Bb major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+4 bars | 4/4 1 1 1 1.5 | .8 .8 .8 .8 .8 .8 .8 .8  .8 1.7 1 1 .8 .8 1 1.5  | .8 .8 .8 .8 .8 .8 .8 .8  .8 1.7 1 1 .8 .8 1 1.5  | .8 .8 .8 .8 1 1 1 1  1 1 1 1 .8 .8 1 1.5 |
+|
+I0.6         Andante
+=1 treble 3b 4/4 smq. [b dsq e]
+|
+=1, qua [c~ c~ An c~] smq. [c~{1 dsq a}1 qua b] rest smq. [g dsq e]
+|
+=1, qua [a a Bn a] smq. [a{1 dsq f}1 qua g] rest smq. [g dsq a]
+|
+=1, qua [Bn d~] smq [G a g f] [e{1 c}1 d{1 B}1] qua [c smq. c~ dsq e~n]
+/
+3 bars | .8 .8 .8 .8 1 1 1 1 1 1.5 1 1 1.5 1.5 1 1  | 1.2 1 1 1 1 1 1.5 1 .8 .8 .8 .8 .8 .8 1 1.5  | 1.5 1.5 1 1 1.5 1 1 1 1 1.5 .8 .8 .8 .8 1 1.5 |
+|
+=1 treble 3b qua [f# an] smq [d e~n d~ c~] [b{1 g}1 a{1 f}1] [g en{1 fn}1 g]
+|
+il0.5   5
+=1, smq [A bn{1 c~}1 f] [c g f en] qua [e{1 f}1] rest smq. [f dsq an]
+|
+=1, smq [d an{1 b}1 c] [B ab g f] [g{1 f}1 qua e] rest smq. [b dsq e]
+/
+2 bars | 16 | 1 1 .8 .8 .8 .8 1 1.5 1 1.5 1 1 .8 .8 1 1.5 |
+|
+=1, treble 3b smq [c~ An{1 G}1 b{1] [an}1 c{1 B}1 g] [A g{1 f}1 c~] [a{1 g}1 f{1 en}1]
+|
+=1 smq [d{2 c}2 qua B] rest smq. [e~n dsq e] smq [e dsq e~{1 d~}1 smq e~ G,] qua [An, smq. e~ dsq e]
+/
+2 bars | 1 1.5 1 1 .8 .8 1 1.5 1 1 1 1 1 1 1 1  | 1 1 1 1 1 1 1 1 1.5 1 .8 .8 .8 .8 1 1.5 |
+|
+=1 treble 3b smq [e dsq e~n{1 d~}1 smq e~ B] qua [c smq. e~ dsq e] smq [f An,{2 B}2 g{2] [an}2 c{1 d}1 b]
+|
+il0.6       10
+=1, smq [a{1 g}1 f{1 e}1] [B e An d] dsq [G{2 B}2 qua. e] qua rest smq. [e~n dsq e]
+/
+3 bars | 1 1.6 1 1 .8 .8 .8 1.5 1 1.6 1 1 .8 .8 .8 1.5  | 16 | 1.9 .9 .9 .9 .7 .7 .7 .7  .7 .6 .6 .6 .6 .6 ||
+|
+=1 treble 3b smq [e dsq e~n{1 d~}1 smq e~ G,] qua [An, smq. e~ dsq e] smq [e dsq e~{1 d~}1 smq e~ B,] qua [c smq. e~ dsq e]
+|
+=1, smq [f An{1 B}1 g{1] [a}1 c{1 d}1 b] smq [a{1 g}1 f{1 e}1] [B e A d]
+|
+=1, dsq [G{1 B}1 qua. e] cro rest rest qua rest
+/
+5 bars | 2 1.7 1.7 1.7 1.7 2 | 5 5 5 | 2 1.5 1.5 1.5 1.5 2 | 5 4 3.5 | 12 |
+|
+I0.6         Allegro
+=1 treble 3b 3/4 qua e cro b-emph c~-emph qua e
+I0.2          f
+|
+=1 smq [d f d B] [d f d B] [d f d B]
+|
+=1 qua e cro b-emph c~-emph qua e
+|
+il0.6 5
+=1 smq [d f d B] qua [f B] rest An
+I0.2                                  mp
+|
+=1, qua [G e An e B e]
+/
+6 bars | 3b 3.3 3.3 2 2 2 3.3 | 12 | 6.6 4 4 | 12 | 12 | 12 |
+|
+=1, treble 3b smq [c{1 An}1 c e] qua [a-. c] [B smq c B]
+|
+=1, qua [An f B f c f]
+|
+=1 smq [d{1 B}1 d f] qua [b-. d{1 e}1 b]
+|
+=1, qua [A c~ G b B d~]
+|
+il0.6  10
+=1, qua [c e~n B d~ e c~]
+|
+=1, qua [d b B a e g]
+/
+6 bars | 3b 12 | 2 3.3 2 2 2.5 2 | 2.5 1.7 1.7 1.7 1.7 2 | 18  | 2 1.7 1.7 1.7 1.7 2 | 6 4 4 |
+|
+=1, treble 3b qua [A f G e B d]
+|
+=1 qua rest smq [e{1 d}1] qua [e f g an]
+|
+=1 qua B cro f~-emph g~-emph qua b
+I0.3  f
+|
+il0.6   15
+=1 smq [an c~ a f] [a c~ a f] [a c~ a f]
+|
+=1 qua b cro f~-emph g~-emph qua b
+|
+=1 smq [an c~ a f] qua [c~ f] rest e
+I0.2                           mp
+/
+6 bars | 3b 12 | 3 3 2 2 2 3 | 12 | 6 4 4 | 12 | 12 |
+|
+=1 treble 3b qua [d b e b f b]
+|
+=1 smq [g{1 e}1 g b] qua [e~n g] [f smq g f]
+|
+il0.6   20
+=1 qua [en c~ f c~ g c~]
+|
+=1 smq [a{1 f}1 a c~] qua [f~ a{1 b}1 f~]
+|
+=1 qua [e g~ d f~ f d~]
+|
+=1 qua [g e~n f d~ b g~]
+/
+5 bars | 3b 12 | 12 | 1 1 2 1.5  1 1 1.2 1.1 1 1 1 1  | 1.5 2 1.5 1.5 1 1 1 1 1 1 1 1 | 2 2 2 2 2.3 2 |
+|
+=1 treble 3b qua [an f~ f e~n b d~]
+|
+il0.6   25
+=1 qua [e c~ d b f an]
+|
+=1 qua rest smq [b{1 an}1] qua [b g ab{1 f}1]
+|
+=1, smq [c{1 d}1 en f] qua [g B{2 A}2 f]
+|
+=1, qua [B g A f G en]
+/
+5 bars | 3b 1 1 2.2 1.5  1 1 1.1 1.2  1 1 1 1  | 2.2 2.2 1.5 1.5 1 1 1 1 1 1 1 1 | 12 | 1 1 2 1.5  1 1.2 1 1  1 1 1 1  | 1 1 1.5 1.5 1 1.2 1 1 1 1 1 1 |
+|
+=1, treble 3b qua [A smq f en] qua [f d eb c]
+|
+il0.6   30
+=1 smq [g an bn c~] qua [d~ f{1 e}1 c~]
+I0.3  f
+|
+=1 qua [f d~ e c~ d bn]
+|
+=1 qua [e smq c~ bn] qua [c~ an a{1 b}1]
+I0.2      p
+|
+=1 qua rest smq [a g] qua [a f# f{1 g}1]
+11 systems /19/19/19/19 15/19/19/19/19/19/19/19 10/
+pagenum 11
+innerhead Fantasia 4. in Bb major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+5 bars | 2 3.2 2 2.5 2.1 2 | 2 2 2 3 2.5 2  | 1.6 1.5 1.5 1.5 1 1 1 1 1 1.2 1 1 | 1.6 1.5 1.5 1.5 1 1 1.5 1.5 1 1.2 1 1  | 1.6 1.5 1.5 1.5 1 1 1 1 1 1 1 1 |
+|
+=1 treble 3b qua rest smq [e~n d~] qua [e~ c~ d~b f]
+I0.2          f
+|
+il0.5     35
+=1, qua [bn g] [e smq d c] qua [G b]
+|
+=1 smq [c b an g] qua [a f~ g e~n]
+I0.4      p
+|
+=1 smq [f# e~ d~ c~] qua [d~ smq c~ b] qua [f an]
+|
+=1 smq [B, a g f#] qua [g e~n f d~]
+/
+5 bars | 2.5 1.7 1.7 1.7 1.7 2 | 18 | 2.5 1.7 1.7 1.7 1.7 2 | 6 4 4 | 12 |
+|
+=1 treble 3b qua e cro b-emph c~-emph qua e
+I0.2       f
+|
+il0.6     40
+=1 smq [d f# d B] [d f d B] [d f d B]
+|
+=1 qua e cro b-emph c~-emph qua e
+|
+=1 smq [d f# d B] qua [f B] rest A
+I0.2                                mp
+|
+=1 qua [G, b A, c~ B, g]
+/
+6 bars | 2 3 2 2 2 3 | 2 2 2 2 2.3 2 | 1 1 2.3 1.5 1 1 1 1 1 1 1 1  | 2.2 2 2 2 2 2 | 12 | 12 |
+|
+=1 treble 3b qua [c smq an g] qua [a c] qua [B smq c B]
+|
+il0.6      45
+=1 qua [An, c~ B, d~ c an]
+|
+=1 qua [d smq b an] qua [b d e g]
+|
+=1 qua [c a B, g G, b]
+|
+=1 qua [A, c~ G, b c e~n]
+|
+=1 qua [B, d~ d an e g]
+/
+6 bars | 12 | 2 3 3 3 3 3 | 12 | 12 | 12 | 8 ||
+|
+il0.6      50
+=1, treble 3b qua [A f# G e B d]
+|
+=1 qua rest smq [e d] [e f# g an] [b{1 g}1 a b]
+|
+=1, qua [A c~ G b c e~n]
+I0.6 f
+|
+=1 qua [B d~ d an e g]
+|
+=1, qua [A f# G e B d-tr]
+|
+=1 cro e-fermata rest rest
+/
+6 bars | 3b 2/2 1.6 1.6 1.6 1.6 3.4 2.2 1.8 1.8 | 3.6 4 4 4  | 1.8 1.8 1.8 1.8 2.2 3.4 2.2 3.4 | 7.2 6.4  | 1.8 1.8 1.8 1.8 2.2 3.4 2.2 3.4 | 7.2 6.4 |
+|
+I0.6         Presto
+=1 treble 3b 2/2 min b smq [an{1 b qua c~}1] cro b
+I0.2           f
+|
+=1 cro g qua [f# g] [an{1 g}1] [f g]
+|
+=1 cro e-emph B-emph qua [e{1 smq f# g}1] qua [f{1 smq g an}1]
+|
+=1 cro g-tr f# min rest
+|
+il0.6        5
+=1 cro e-. B-. qua [e{1 smq f# g}1] qua [f{1 smq g a}1]
+I0.2  p
+|
+=1 cro g-tr f# min rest
+/
+6 bars | 3b 1.6 1.6 1.6 1.6 3 2 1.8 1.8  | 3.6 4 4 4 | 14.4 | 3.6 4 4 4 | 7.2 8 | 12 :||
+|
+=1 treble 3b min b smq [a{1 b qua c~}1] cro b
+|
+=1 cro g qua [f# g] [a{1 g}1] [f g]
+|
+=1 cro e-emph B-emph cro b-emph e-emph
+|
+il0.6       10
+=1 cro e~n qua [d~ c~] [b{1 a}1 g f#]
+|
+=1 cro e~n e qua [g{1 f#}1 e{1 d}1]
+|
+=1 min e rest
+/
+6 bars |: 3b 1.6 1.6 1.6 1.6 4 3 1.8 1.8 1 | 2 2 2 2.3 2.3 3.3 2 2  | 1.6 1.6 1.6 1.6 4 3 1.8 1.8 | 7.2 6.4  | 1.8 1.8 2 3.5 1.8 1.8 1.8 1.8 | 1.8 1.8 3.5 2 1.8 1.8 1.8 1.8 |
+|
+=1 treble 3b min g smq [f{1 g qua a}1] cro g
+|
+=1 cro c~ qua [bn c~] [d~{1 c~}1] [b c~]
+|
+il0.6     15
+=1 min g smq [f{1 g qua a}1] cro g
+|
+=1 cro e~n-. d~-. min rest
+|
+=1 cro e~n qua [c{1 B}1] cro An e~-.
+|
+=1 cro d~ qua [B'{2 An}2] cro G b-.
+/
+6 bars | 3b 1.8 1.8 2 2 2 2 3.2 2 | 2 3.2 2 2 2 3.2 3.2 2  | 4 3.2 3.2 3.6 | 7.2 6.4 | 4 3.2 3.2 3.6 | 7.2 6.4 |
+|
+=1 treble 3b cro an qua [b g] [b{1 a}1 g f#]
+|
+il0.6     20
+=1 qua [g b a g] [a{1 g}1 f en]
+|
+=1 qua [f{1 a}1] min c~ cro b
+|
+=1 cro d e min rest
+|
+=1 qua [f a] min c~ cro b
+|
+=1 cro d-. e-. min rest
+/
+5 bars | 16 | 8 7.2 | 3.6 4 4 4 | 16 | 1.6 1.6 1.6 1.6 3.4 2.2 1.8 1.8 |
+|
+il0.6    25
+=1 treble 3b qua [a{1 b a}1 f] [g{1 a g}1 e]
+|
+=1 qua [f{1 g f}1 d] cro e b
+|
+=1 cro g qua [f g] [a{1 g}1] [f e]
+|
+=1 qua [d-ten B-. c-. d-.] [e-. f-. g-. a-.]
+|
+=1 min b smq [a{1 b qua c~}1] cro b
+I0.2 f
+/
+5 bars | 3b 3.6 4 4 4 | 1.8 1.8 1.8 1.8 2 3 2 3 | 7.2 6.4  | 1.8 1.8 1.8 1.8 2 3 2 3 | 7.2 6.4 |
+|
+il0.6    30
+=1 treble 3b cro g qua [f g] [a{1 g}1] [f g]
+|
+=1 cro e-emph B-emph qua [e{1 smq f g}1] qua [f{1 smq g a}1]
+|
+=1 cro g-tr f min rest
+|
+=1 cro e-. B-. qua [e{1 smq f g}1] qua [f{1 smq g a}1]
+I0.2  p
+|
+=1 cro g-tr f min rest
+/
+6 bars | 1.6 1.6 1.6 1.6 4 2.5 1.8 1.8 | 16 | 16 | 16 | 16 | 12 :||
+|
+il0.6    35
+=1 treble 3b min b smq [a{1 b qua c~}1] cro b
+I0.2        f
+|
+=1 cro g qua [f g] [a{1 g}1] [f g]
+|
+=1 cro e-emph B-emph cro b-emph e-emph
+|
+=1 cro e~n qua [d~ c~] [b{1 a}1 g f]
+|
+=1 cro e~n-emph e-emph qua [g{1 f}1 e d]
+|
+=1 min e rest
+11 systems /19/19/19/19/19 15/19/19/19/19/19/19 10/
+pagenum 12
+title 5 (a)
+innerhead Fantasia 5. in C major, Georg Philipp Telemann
+leftfoot arranged in C major for C recorder (c) 2001 Peter J Billam
+/
+5 bars | 4/4 1.8 | 8 | 8 | 8 | 8 ||
+|
+I0.6         Presto
+=1 treble 1b 4/4 qua f
+|
+=1 qua [a f b f] [c~ f a f]
+|
+=1 qua [b f c~ f] [d~ f c~ f]
+|
+=1 qua [d~ f e~ f] [f~ f a c~]
+|
+=1 qua [f~ f a c~] cro f~-ten rest
+/
+5 bars | 2.5 1 1 1 1 1 1 1 1 1 1 1 1 | 2.4 1 1 1 1 1 1 1 1 1 1 1 1  | 2.4 1 1 1 1 1 1 1 1 1 1 1 1 | 1 1 1 2.5 1 1 1 1 1 1 2 2 || 15 |
+|
+I0.6      Largo
+il0.5                   5
+=1 treble 1b 3/2 smq-s [f{1 a}1] min. c~ cro d~{1 min b}1
+|
+=1 smq-s [c{1 f}1] min. a cro b{1 min g}1
+|
+=1 smq-s [A,{2 c}2] min. f cro a{1 min g}1
+|
+I0.6                                   Presto
+=1 cro. a{1-tr smq [g a}1] min. g qua rest c
+|
+=1 qua [eb c f c] [g c e c]
+/
+5 bars | 10 | 10 | 10 || 3/2 2 1 1 1 1 1 1 1 1 1 1 1 1  | 2 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+il0.5       10
+=1, treble 1b qua [f c g c] [a c g c]
+|
+=1, qua [a c bn c] [c~ c eb g]
+|
+=1, qua [c~ c eb g] cro c~ rest
+|
+I0.6      Largo
+=1 3/2 smq-s [c{2 eb}2] min. g cro a{1 min f}1
+|
+=1, smq-s [G{1 c}1] min. e cro f{1 min d}1
+/
+5 bars | 6 2.5 1.7 1.7 1.7 1.7 1.7 1.7 2 2 1.8 1.8 1.8 1.8  | 2 2 2 4 1.8 1.8 1.8 1.8 1.8 1.8 1.8 1.8  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 1.8  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 1.8  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 |
+|
+il0.5       15
+=1 treble 1b smq-s [c{1 Bn}1] min. c cro e{1 min d}1
+|
+=1 cro. e{1-tr smq [d e}1] min d g
+|
+=1 cro. A qua g cro. c~ qua e min f
+|
+=1 cro. Bn qua f cro. d~ qua e min f
+|
+=1 cro. c qua f cro. e qua c~ cro. G qua bn
+/
+5 bars | 1.8 1.8 1.8 4.4 1.8 1.8 1.8 3.5 1.7 1.7 1.7 1.7  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.7 1.7 1.7 1.7  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 1.8  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5  | 6 2.5 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 1.6 ||
+|
+il0.5       20
+=1 treble 1b cro. c smq [e g] cro. c~ qua c min g
+|
+=1 cro. A qua g cro. c~ qua e min f
+|
+=1 cro. Bn qua f cro. d~ qua e min f
+|
+=1 cro. c qua f cro. e qua c~ cro. G qua bn
+|
+=1 smq-s [c'{2 Bn'}2] smb. c
+/
+5 bars | 9/8 8 | 8 | 8 | 9 | 9 |
+|
+I0.6         Allegro
+=1 treble 1b 9/8 cro. f d g
+I0.3        f
+|
+=1 cro. e c f
+|
+=1 cro. d B c
+|
+=1 cro f qua a cro d qua d~ cro g qua bn
+|
+il0.4    5
+=1 cro e qua c~ cro c qua b cro f qua a
+/
+4 bars | 9 | 9 | 1 1 1 1 1.3 1 1 1 1 | 9 |
+|
+=1 treble 1b cro d qua qua b cro B qua a cro c qua g
+|
+=1 qua [f{1 a}1 c~] [d d~ c~] [g c~ bn]
+|
+=1 qua [e bn c~] [c c~ bb] [f b a]
+|
+=1 qua [d a b] [B, b a] [c g e]
+/
+5 bars | 3 3 2.4 | 3 3 2.4 | 1.6 1 1 1 1 1 .8 .8 .8  | .8 .8 1.7 .8 .8 1 .8 .8 1 | .8 .8 1.3 .8 .8 1 .8 .8 1 | 
+|
+il0.5     10
+=1 treble 1b qua [f{1 a}1 c~] [a c~ f~] cro. rest
+|
+=1 qua [g{1 b}1 d~] [b d~ g~] cro. rest
+|
+=1, qua [A{1 c# e}1] [c{1 e a}1] cro. rest
+I0.1 p
+|
+=1 cro d~ qua d cro bn qua g cro e~ qua e
+I0.1   f
+|
+=1 cro c~# qua A cro a qua f cro d~ qua d
+/
+4 bars | 9 | 9 | 1 1 1 1.3 1 1 1 1 1 | 9 |
+|
+il0.5     15
+=1 treble 1b cro b qua G cro g qua B cro a qua A
+|
+=1, qua [d{1 f}1 a] [Bn g# a] [e a g]
+|
+=1, qua [c#{1 e}1 a] [A g e] [d{1 f}1 a]
+|
+=1, qua [B c~# d~] [G c~ d~] [A d~ c~]
+/
+4 bars | 3 3 2.4 | 1.3 1 1 1 1 1 .8 .8 .8 | 9 | 1 1.5 1 1.3 1 1 1 1 |
+|
+=1, treble 1b qua [d{1 f}1 a] [f a d~] cro. rest
+|
+il0.5     20
+=1, qua [c#{1 f#}1 a] [f a d~] cro. rest
+|
+=1 qua [B{1 d}1 g] [b g b] [d~{1 c~}1 b]
+|
+=1, qua [A{1 c#}1 f#] [a f a] [c~{1 b}1 a]
+/
+5 bars | .8 .8 1 .8 .8 1.3 .8 .8 1 | .7 .7 1.3 .8 .8 1 .8 .8 1  | .8 .8 1.3 .8 .8 1 .8 .8 1 | 1 1 1.5 1 1 1 1 1 1 | 9 |
+|
+=1 treble 1b cro g~ qua g cro-s c~ qua-s a cro-s e~ qua-s a
+=1' 1b cro. blank cro e~ qua c~ cro a~ qua a
+|
+=1 cro f~# qua d cro d~ qua b cro g~ qua g
+|
+il0.5      25
+=1 cro e~b qua c cro c~ qua eb cro d~ qua d
+|
+=1 qua [g{1 d}1 f] [e c e] [a c g]
+|
+=1 qua [f#{1 a}1 f] [d d~ c~] [g b g]
+12 systems /19/19/19/19/19/19 15/19/19/19/19/19/19 10/
+pagenum 13
+innerhead Fantasia 5 (a) in C major, Georg Philipp Telemann
+leftfoot arranged in C major for C recorder (c) 2001 Peter J Billam
+/
+4 bars | 1 1 1 1 1 1 1 1.4 1 | 3 3 2.4 | 1 1 1.4 1 1 1 .8 .8 .8  | 1.2 1 1.4 1 1 1 1 1 1 |
+|
+=1 treble 1b qua [eb{1 g}1 e] [c a g] [d g f#]
+|
+=1, qua [G g a] [b{1 a}1 g] cro. rest
+|
+il0.6   30
+=1 qua [f# d~ c~] [bn{1 c~}1 d~] cro. rest
+I0.4 p
+|
+=1 qua [eb bn a] [g#{1 a}1 b] [e e~ d~]
+I0.4 f
+/
+4 bars | 1.4 1 1.2 .8 .8 1 1 1 1 | 1 1.4 1 .8 .8 1 1 1 1  | 1 1 1 1 1 1 .8 .8 1 | 1 1.4 1.4 .8 .8 .8 1.2 1 1 |
+|
+=1 treble 1b qua [a{1 bn}1 c~] cro f# qua c~ [b{1 c~}1 d~]
+|
+=1 qua [g#{1 a}1 bn] cro eb qua e~ [a{1 b}1 c~]
+|
+=1 qua [f#{1 a}1 d~] [d d~ f~] cro eb qua g#
+|
+il0.6                35
+=1, qua [a{1 A}1 g] cro. f#-tr qua [b{1 B,}1 a]
+/
+4 bars | 2.4 3 3 | 1 1 1 1.4 1 1 1.2 1 1 | 1 1.4 1 1 1 1 .8 .8 .8  | 1.4 1 1 1 1 1.4 1 1 1 |
+|
+=1 treble 1b cro. g#-tr qua [eb c e] [a e c]
+I0.1                    p
+|
+=1, qua [f#{1 d}1 f] [d Bn d] [eb G# e]
+|
+=1, qua [A a bn] [c~{1 b}1 a] cro. rest
+|
+=1 qua [d{1 f#}1 a] [f a c~] [e~b{1 d~}1 c~]
+/
+5 bars | 1.4 1 1 1 1 1 .8 .8 .8 | 9 | .8 .8 1 .8 .8 1 .8 .8 1  | .8 .8 1.3 .8 .8 1.3 .8 .8 1 | .8 .8 1.3 .8 .8 1.3 .8 .8 1 |
+|
+il0.5    40
+=1 treble 1b qua [G, b a] [b{1 a}1 g#] cro. rest
+|
+=1 qua [c{1 eb}1 g#] [e g b] [d~{1 c~}1 b]
+|
+=1 cro f~ qua a cro d~ qua b cro g~ qua bn
+I0.2  f
+|
+=1 cro e~b qua c cro c~ qua B cro f~ qua A
+|
+=1 cro d~ qua B cro b qua d cro c~ qua e
+/
+5 bars | 1 1 1 1 1 1 1.5 1 1 | 1 1 1 1.6 1 1 1.6 1 1 1  | 1 1 1.6 1 1 1 1 1 1 | 3 3 2.4 | 1 1 1.6 1 1.3 1 .8 .8 .8 |
+|
+il0.5    45
+=1 treble 1b qua [f{1 e}1 f] [d f b] [g#{1 f#}1 g]
+|
+=1 qua [e{1 g#}1 c~] [c Bn c] [f{1 a}1 c~]
+|
+=1 qua [d{1 c}1 d] [B d g] [c{1 f}1 e]
+|
+=1 qua [f{1 a}1 c~] [a c~ f~] cro. rest
+|
+=1 qua [Bn,{1 g}1 d~] [bn d~ f~] cro. rest
+I0.3 p
+/
+5 bars | 1 1 1 1 1.4 1.1 1 1 1 | 1 1 1 1.3 1 1 1 1 1  | 1 1 1 1.3 1 1 1 1 1 | 1 1.2 1 1 1.2 1 .9 .9 1 | 3 2.4 2.4 ||
+|
+il0.5     50
+=1 treble 1b qua [c{1 e}1 g] [e g b] [d~{1 c~}1 b]
+I0.4      f
+|
+=1 qua [f{1 a}1 c~] [d bn c~] [g c~ b]
+|
+=1 qua [e{1 g}1 c~] [c b g] [f{1 a}1 c~]
+|
+=1 qua [Bn, e~b f~] [d e~ f~] cro c qua e~-tr
+|
+=1 qua [f~ c~ a] cro. f rest
+/
+6 bars | 6/8 3.5 | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 12 | 2 1.6 1.6 1.6 1.6 3 | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 |
+|
+I0.6         Allegro
+=1 treble 1b 6/8 qua c~
+|
+=1 qua. [c~ smq d~ qua c~] cro a qua c~
+|
+=1 qua. [c~ smq d~ qua c~] cro a qua c~
+|
+=1 qua a{1 cro f}1 qua b{1 cro g}1
+|
+=1 qua a{1 cro f}1(1 f)1 smq [e f]
+|
+il0.6   5
+=1 qua. [g smq a qua g] cro c~ qua e
+/
+7 bars | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 2 1.6 1.6 3 1.6 1.6  | 10 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 10  | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 1 1 1.6 1.6 1 1 .8 .8 .8 .8 1 1 |
+|
+=1 treble 1b qua. [f smq g qua f] cro d~ qua f
+|
+=1 qua e{1 cro c}1 qua d{1 cro Bn}1
+|
+=1 cro. c a-emph
+I0.2             f
+|
+=1 qua. [g smq f qua e] qua. [f smq e qua d]
+|
+il0.5      10
+=1 cro. c-emph a
+I0.1            p
+|
+=1 qua. [g smq f qua e] qua. [f smq e qua d]
+|
+=1 qua. [c~ smq bn qua c~] cro d~ qua f
+I0.3  f
+/
+7 bars | 2 1.6 1.6 2.6 1.6 1.6 | 9 :||: 4 | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 2 1.6 1.6 2 1.6 1.6  | 1 1 .8 .8 .8 .8 .8 .8 .8 .8 2.2 1 |
+|
+=1 treble 1b qua e{1 cro c}1 qua d{1 cro Bn}1
+|
+=1 cro. c(1 cro c)1
+|
+=1 qua g
+|
+il0.6   15
+=1 qua. [g smq a qua g] cro e qua g
+|
+=1 qua. [g smq a qua g] cro e qua g
+|
+=1 qua f{1 cro d}1 qua g{1 cro e}1
+|
+=1 qua f{1 cro d}1(2 d)2 smq [e f#]
+/
+5 bars | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1  | 1 1 1 1.6 1 1 1 1 1 2.2 1 1 | 1.7 1.7 1.7 1.8 1.8 2.7 | 2 1.8 1.7 2 1.8 1.7 |
+|
+=1 treble 1b qua. [g smq a qua g] qua. [g-tr smq f# qua g]
+|
+il0.5   20
+=1 qua. [a smq b qua a] qua. [a-tr smq g qua a]
+|
+=1 qua. [b smq c~ qua d~] qua. [d smq g qua f#]
+|
+=1 cro. g cro G smq [g a]
+|
+=1 qua b{1 cro g}1 qua d~{1 cro b}1
+/
+6 bars | 2 1.6 1.6 1.6 1.6 3 | 2 1.6 1.6 2 1.6 1.6 | 2 1.6 1.6 1.6 1.6 3  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 12 |
+|
+=1 treble 1b qua c~{1 cro a}1(1 a)1 smq [g a]
+|
+il0.6   25
+=1 qua b{1 cro g}1 qua a{1 cro f}1
+|
+=1 qua g{1 cro c}1(2 c)2 smq [a b]
+|
+=1 qua. [c~ smq d~ qua c~] cro f~ qua a
+|
+=1 qua. [b smq c~ qua b] cro g~ qua b
+|
+=1 qua a{1 cro f}1 qua g{1 cro e}1
+/
+7 bars | 10 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 10 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 12 | 10 :||
+|
+=1 treble 1b cro. f d~-emph
+I0.1                f
+|
+il0.6   30
+=1 qua. [c~ smq b qua a] qua. [b smq a qua g]
+|
+=1 cro. f-emph d~
+I0.1             p
+|
+=1 qua. [c~ smq b qua a] qua. [b smq a qua g]
+|
+=1 qua. [f~{1 smq e~b qua f~}1] cro g~ qua b
+I0.1  f
+|
+=1 qua a{1 cro f}1 qua g{1 cro e}1
+|
+=1 cro. f(1 cro f)1
+11 systems /19/19/19/19/19 15/19/19/19/19/19/19 10/
+pagenum 14
+title 5 (b)
+innerhead Fantasia 5. in C major, Georg Philipp Telemann
+leftfoot arranged in Bb major for C recorder (c) 2001 Peter J Billam
+/
+5 bars | 4/4 1.8 | 8 | 8 | 8 | 8 ||
+|
+I0.6         Presto
+=1 treble 3b 4/4 qua e
+|
+=1 qua [g e an e] [b e g e]
+|
+=1 qua [an e b e] [c~ e b e]
+|
+=1 qua [c~ e d~ e] [e~ e g b]
+|
+=1 qua [e~ e g b] cro e~-ten rest
+/
+5 bars | 2.5 1 1 1 1 1 1 1 1 1 1 1 1 | 2.4 1 1 1 1 1 1 1 1 1 1 1 1  | 2.4 1 1 1 1 1 1 1 1 1 1 1 1 | 1 1 1 2.5 1 1 1 1 1 1 2 2 || 15 |
+|
+I0.6      Largo
+il0.5                   5
+=1 treble 3b 3/2 smq-s [e{1 g}1] min. b cro c~{1 min an}1
+|
+=1 smq-s [B,{1 e}1] min. g cro a{1 min f}1
+|
+=1 smq-s [G{2 B'}2] min. e cro g{1 min f}1
+|
+I0.6                                   Presto
+=1 cro. g{1-tr smq [f g}1] min. f qua rest B
+|
+=1, qua [d B e B] [f B d B]
+/
+5 bars | 10 | 10 | 10 || 3/2 2 1 1 1 1 1 1 1 1 1 1 1 1  | 2 1 1 1 1 1 1 1 1 1 1 1 1 |
+|
+il0.5       10
+=1, treble 3b qua [e B f B] [g B f B]
+|
+=1, qua [g B an B] [b B d f]
+|
+=1, qua [b B d f] cro b rest
+|
+I0.6      Largo
+=1 3/2 smq-s [B{1 d}1] min. f cro g{1 min e}1
+|
+=1 smq-s [F{2 B'}2] min. d cro e{1 min c}1
+/
+5 bars | 6 2.5 1.7 1.7 1.7 1.7 1.7 1.7 2 2 1.8 1.8 1.8 1.8  | 2 2 2 4 1.8 1.8 1.8 1.8 1.8 1.8 1.8 1.8  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 1.8  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 1.8  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 |
+|
+il0.5       15
+=1 treble 3b smq-s [B'{2 An}2] min. B cro d{1 min c}1
+|
+=1 cro. d{1-tr smq [c d}1] min c f
+|
+=1 cro. G qua f cro. b qua d min e
+|
+=1 cro. An qua e cro. c~ qua d min e
+|
+=1 cro. B qua e cro. d qua b cro. F qua an
+/
+5 bars | 1.8 1.8 1.8 4.4 1.8 1.8 1.8 3.5 1.7 1.7 1.7 1.7  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.7 1.7 1.7 1.7  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.7 1.7 1.7 1.7  | 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5 1.8 1.8 1.8 2.5  | 6 2.5 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1.4 ||
+|
+il0.5       20
+=1 treble 3b cro. B smq [d f] cro. b qua B min f
+|
+=1 cro. G qua f cro. b qua d min e
+|
+=1 cro. An qua e cro. c~ qua d min e
+|
+=1 cro. B qua e cro. d qua b cro. F qua an
+|
+=1 smq-s [B'{2 An}2] smb. B
+/
+5 bars | 9/8 8 | 8 | 8 | 9 | 9 |
+|
+I0.6         Allegro
+=1 treble 3b 9/8 cro. e c f
+I0.3        f
+|
+=1 cro. d B e
+|
+=1 cro. c A B
+|
+=1 cro e qua g cro c qua c~ cro f qua an
+|
+il0.4    5
+=1 cro d qua b cro B qua a cro e qua g
+/
+4 bars | 9 | 9 | 1 1 1 1 1.3 1 1 1 1 | 9 |
+|
+=1 treble 3b cro c qua qua a cro A qua g cro B qua f
+|
+=1 qua [e{1 g}1 b] [c c~ b] [f b an]
+|
+=1 qua [d an b] [B, b ab] [e a g]
+|
+=1 qua [c g a] [A, a g] [B, f d]
+/
+5 bars | 3 3 2.4 | 3 3 2.4 | 1.6 1 1 1 1 1 .8 .8 .8  | .8 .8 1.7 .8 .8 1 .8 .8 1 | .8 .8 1.3 .8 .8 1 .8 .8 1 | 
+|
+il0.5     10
+=1 treble 3b qua [e{1 g}1 b] [g b e~] cro. rest
+|
+=1 qua [f{1 a}1 c~] [a c~ f~] cro. rest
+|
+=1, qua [G{1 Bn d}1] [B{1 d g}1] cro. rest
+I0.1  p
+|
+=1 cro c~ qua c cro an qua f cro d~ qua d
+I0.1    f
+|
+=1 cro bn qua G cro g qua e cro c~ qua c
+/
+4 bars | .9 .9 1.2 .9 .9 1.2 .9 .9 1.2 | 9 | 1 1 1 1.3 1 1 1 1 1 | 9 |
+|
+il0.5     15
+=1 treble 3b cro a qua F cro f qua A cro g qua G
+|
+=1, qua [c{1 e}1 g] [An f# g] [d g f]
+|
+=1, qua [Bn{1 d}1 g] [G f d] [c{1 e}1 g]
+|
+=1, qua [A bn c~] [F b c~] [G c~ b]
+/
+4 bars | 3 3 2.4 | 1.3 1 1 1 1 1 .8 .8 .8 | 9 | 1 1.5 1 1.3 1 1 1 1 |
+|
+=1, treble 3b qua [c{1 e}1 g] [e g c~] cro. rest
+|
+il0.5     20
+=1, qua [Bn{1 en}1 g] [e g c~] cro. rest
+|
+=1, qua [A{1 c}1 f] [a f a] [c~{1 b}1 a]
+|
+=1, qua [G{1 Bn}1 en] [g e g] [b{1 a}1 g]
+/
+5 bars | .8 .8 1 .8 .8 1 .8 .8 1 | .8 .8 1.3 .8 .8 1 .8 .8 1  | .8 .8 1.3 .8 .8 1 .8 .8 1 | 1 1 1.5 1 1 1 1 1 1 | 9 |
+|
+=1 treble 3b cro f~ qua f cro d~ qua b cro g~ qua g
+|
+=1 cro e~n qua c cro c~ qua a cro f~ qua f
+|
+il0.5      25
+=1 cro d~b qua B cro b qua db, cro c~ qua c
+|
+=1 qua [f{1 c}1 e] [d B d] [g B f]
+|
+=1 qua [en{1 g}1 e] [c c~ b] [f a f]
+
+12 systems /19/19/19/19/19/19 15/19/19/19/19/19/19 10/
+pagenum 15
+innerhead Fantasia 5 (b) in C major, Georg Philipp Telemann
+leftfoot arranged in Bb major for C recorder (c) 2001 Peter J Billam
+/
+4 bars | 1 1 1 1 1 1 1 1.4 1 | 3 3 2.4 | 1 1 1.4 1 1 1 .8 .8 .8  | 1.2 1 1.4 1 1 1 1 1 1 |
+|
+=1 treble 3b qua [db{1 f}1 d] [B g f] [c f en]
+|
+=1, qua [F f g] [a{1 g}1 f] cro. rest
+|
+il0.6   30
+=1 qua [en c~ b] [an{1 b}1 c~] cro. rest
+I0.4 p
+|
+=1 qua [db, an g] [f#{1 g}1 a] [d d~ c~]
+I0.4 f
+/
+4 bars | 1.4 1 1.2 .8 .8 1 1 1 1 | 1 1.4 1 .8 .8 1 1 1 1  | 1 1 1 1 1 1 .8 .8 1 | 1 1.4 1.4 .8 .8 .8 1.2 1 1 |
+|
+=1 treble 3b qua [g{1 an}1 b] cro en qua b [a{1 b}1 c~]
+|
+=1 qua [f#{1 g}1 an] cro db, qua d~ [g{1 a}1 b]
+|
+=1 qua [en{1 g}1 c~] [c c~ e~] cro db, qua f#
+|
+il0.6                35
+=1, qua [g{1 G}1 f] cro. en-tr qua [a{1 A}1 g]
+/
+4 bars | 2.4 3 3 | 1 1 1 1.4 1 1 1.2 1 1 | 1 1.4 1 1 1 1 .8 .8 .8  | 1.4 1 1 1 1 1.4 1 1 1 |
+|
+=1 treble 3b cro. f#-tr qua [db B d] [g d B]
+I0.1                    p
+|
+=1 qua [en{1 c}1 e] [c An, c] [db' F# d']
+|
+=1 qua [G, g an] [b{1 a}1 g] cro. rest
+|
+=1 qua [c{1 en}1 g] [e g b] [d~b{1 c~}1 b]
+/
+5 bars | 1.4 1 1 1 1 1 .8 .8 .8 | 9 | .8 .8 1 .8 .8 1 .8 .8 1  | .8 .8 1.3 .8 .8 1.3 .8 .8 1 | .8 .8 1.3 .8 .8 1.3 .8 .8 1 |
+|
+il0.5    40
+=1, treble 3b qua [F a g] [a{1 g}1 f#] cro. rest
+|
+=1 qua [B{1 db}1 f#] [d f a] [c~{1 b}1 a]
+|
+=1 cro e~ qua g cro c~ qua a cro f~ qua an
+I0.2  f
+|
+=1 cro d~b qua B cro b qua A cro e~ qua G
+|
+=1 cro c~ qua A cro a qua c cro b qua d
+/
+5 bars | 1 1 1 1 1 1 1.6 1 1 | 1 1 1 1.6 1 1 1.6 1 1 1  | 1 1 1.6 1 1 1 1 1 1 | 3 3 2.4 | 1 1 1.6 1 1.3 1 .8 .8 .8 |
+|
+il0.5    45
+=1 treble 3b qua [e{1 d}1 e] [c e a] [f#{1 en}1 f]
+|
+=1 qua [d{1 f#}1 b] [B' An B'] [e{1 g}1 b]
+|
+=1, qua [c{1 B}1 c] [An c f] [B{1 e}1 d]
+|
+=1 qua [e{1 g}1 b] [g b e~] cro. rest
+|
+=1 qua [An,{1 f}1 c~] [an c~ e~] cro. rest
+I0.3 p
+/
+5 bars | 1 1 1 1 1.4 1.1 1 1 1 | 1 1 1 1.3 1 1 1 1 1  | 1 1 1 1.3 1 1 1 1 1 | 1 1.2 1 1 1.2 1 .9 .9 1 | 3 2.4 2.4 ||
+|
+il0.5     50
+=1 treble 3b qua [B{1 d}1 f] [d f a] [c~{1 b}1 a]
+I0.4      f
+|
+=1 qua [e{1 g}1 b] [c an b] [f b a]
+|
+=1 qua [d{1 f}1 b] [B a f] [e{1 g}1 b]
+|
+=1 qua [An, d~b e~] [c d~ e~] cro B qua d~-tr
+|
+=1 qua [e~ b g] cro. e rest
+/
+6 bars | 6/8 3.5 | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 12 | 2 1.6 1.6 1.6 1.6 3  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 |
+|
+I0.6         Allegro
+=1 treble 3b 6/8 qua b
+|
+=1 qua. [b smq c~ qua b] cro g qua b
+|
+=1 qua. [b smq c~ qua b] cro g qua b
+|
+=1 qua g{1 cro e}1 qua a{1 cro f}1
+|
+=1 qua g{1 cro e}1(1 e)1 smq [d e]
+|
+il0.5   5
+=1 qua. [f smq g qua f] cro b qua d
+/
+7 bars | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 2 1.6 1.6 3 1.6 1.6  | 10 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 10  | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 1 1 1.6 1.6 1 1 .8 .8 .8 .8 1 1 |
+|
+=1 treble 3b qua. [e smq f qua e] cro c~ qua e
+|
+=1 qua d{1 cro B}1 qua c{1 cro An,}1
+|
+=1 cro. B g-emph
+I0.2             f
+|
+=1 qua. [f smq e qua d] qua. [e smq d qua c]
+|
+il0.5      10
+=1 cro. B-emph g
+I0.2             p
+|
+=1 qua. [f smq e qua d] qua. [e smq d qua c]
+|
+=1 qua. [b smq an qua b] cro c~ qua e
+I0.3  f
+/
+7 bars | 2 1.6 1.6 2.6 1.6 1.6 | 9 :||: 4 | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 2 1.6 1.6 2 1.6 1.6  | 1 1 .8 .8 .8 .8 .8 .8 .8 .8 2.4 1 |
+|
+=1 treble 3b qua d{1 cro B}1 qua c{1 cro An,}1
+|
+=1 cro. B(2 cro B)2
+|
+=1 qua f
+|
+il0.5   15
+=1 qua. [f smq g qua f] cro d qua f
+|
+=1 qua. [f smq g qua f] cro d qua f
+|
+=1 qua e{1 cro c}1 qua f{1 cro d}1
+|
+=1 qua e{1 cro c}1(1 c)1 smq [d en]
+/
+5 bars | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1  | 1 1 1 1.6 1 1 1 1 1 2.2 1 1 | 1.7 1.7 1.7 1.8 1.8 2.7  | 2 1.8 1.7 2 1.8 1.7 |
+|
+=1 treble 3b qua. [f smq g qua f] qua. [f-tr smq en qua f]
+|
+il0.5   20
+=1 qua. [g smq a qua g] qua. [g-tr smq f qua g]
+|
+=1 qua. [a smq b qua c~] qua. [c smq f qua en]
+|
+=1 cro. f cro F smq [f g]
+|
+=1 qua a{1 cro f}1 qua c~{1 cro a}1
+/
+6 bars | 2 1.6 1.6 1.6 1.6 3 | 2 1.6 1.6 2 1.6 1.6 | 2 1.6 1.6 1.6 1.6 3  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 12 |
+|
+=1 treble 3b qua b{1 cro g}1(1 g)1 smq [f g]
+|
+il0.6   25
+=1 qua a{1 cro f}1 qua g{1 cro e}1
+|
+=1 qua f{1 cro B}1(2 B)2 smq [g a]
+|
+=1 qua. [b smq c~ qua b] cro e~ qua g
+|
+=1 qua. [a smq b qua a] cro f~ qua a
+|
+=1 qua g{1 cro e}1 qua f{1 cro d}1
+/
+7 bars | 10 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1 | 10 | 1 1 1 1.6 1 1 1 1 1 1.6 1 1  | 1 1 1 1.6 1 1 .8 .8 .8 .8 1 1 | 12 | 10 :||
+|
+=1 treble 3b cro. e c~-emph
+I0.1          f
+|
+il0.6   30
+=1 qua. [b smq a qua g] qua. [a smq g qua f]
+|
+=1 cro. e-emph c~
+I0.1             p
+|
+=1 qua. [b smq a qua g] qua. [a smq g qua f]
+|
+=1 qua. [e~ smq d~b qua e~] cro f~ qua a
+I0.1  f
+|
+=1 qua g{1 cro e}1 qua f{1 cro d}1
+|
+=1 cro. e(1 cro e)1
+11 systems /19/19/19/19/19/19 15/19/19/19/19/19 10/
+pagenum 16
+title 6.
+innerhead Fantasia 6. in D minor, Georg Philipp Telemann
+leftfoot arranged in C minor for C recorder (c) 2001 Peter J Billam
+/
+5 bars | 4/4 4 | 2 2.2 2 2 2 2 | 2 2.2 2 2 2 2 | 4 5 5  | 2 1 1 1 .8 .8 .8 .8 .8 .8 .8 .8 |
+|
+I0.6         Dolce
+=1 treble 4b 3/4 cro c
+|
+=1, qua [F f{1 en f}1 a f]
+|
+=1, qua [d f{1 en f}1 a f]
+|
+=1, qua [A c~ B b] smq [c b{1 a g}1]
+|
+=1 dsq [a{1 g qua. f}1] cro rest c
+/
+6 bars | 4b 2 2.6 2 2 2 2 | 12 | 6 4 4 | 12 | 6 4 4 | 2 2 2.6 2.6 2 2 |
+|
+il0.5     5
+=1, treble 4b qua [F f{1 en f}1 a f]
+|
+=1, qua [B a g{1 f}1 f~ a]
+|
+=1, smq [e{1 f}1 g a] qua b cro a{1 qua g}1
+|
+=1, qua [A g f{1 e}1 e~ g]
+|
+=1, smq [dn,{1 e}1 f g] qua a cro g{1 qua f}1
+|
+il0.4   10
+=1, qua [G f e{1 dn}1 d~n f]
+/
+6 bars | 4b 3.4 2 1 1 1 1 1 1 2 2 1 1 1 1 1 1 2 2 1 1 1 1 1 1  | 24 | 8 6.5 6.5 | 12 :||: 8 | 22 |
+|
+=1 treble 4b dsq [e{1 dn qua. c}1] dsq [f{1 e qua. d}1] dsq [g{1 f qua. e}1]
+|
+=1, cro. c~{1 smq [b a}1] [g{1 f}1 e d]
+|
+=1 qua [c' F#] cro G dn-tr
+|
+=1 min c
+|
+=1 cro e
+|
+il0.4  15
+=1 qua [A, a{1 g a}1 c~ a]
+/
+5 bars | 4b 12 | 4 4 5 | 2 1 1 1 .7 .7 .8 .8 .7 .7 .8 .8  | 2 1.7 1.7 3 3 2 | 2 1.7 1.7 3 3 2 |
+|
+=1 treble 4b qua [f a{1 g a}1 c~ a]
+|
+=1 qua [c e~ d d~] smq [e d~{1 c~ b}1]
+|
+=1 dsq [c~{1 b qua. a}1] cro rest b
+|
+=1 qua an{1 cro e}1 smq [f# fn] [f#{1 fn}1 qua e]
+|
+il0.5      20
+=1 qua c~{1 cro e}1 smq [f# fn] [f#{1 fn}1 qua e]
+/
+5 bars | 4b 2 2 2 2 2.6 2 | 2.6 1.7 1.7 3 2 2 | 12 | 2.6 1.7 1.7 3 2 2 | 12 |
+|
+=1 treble 4b qua [b d{1 e}1 c~ f an]
+|
+=1 qua B cro an smq [b c~] qua [d~ f]
+|
+=1 qua [f# d c B] [e~ d~]
+|
+=1 qua c~ cro f# smq [an b] qua [c~ en]
+|
+il0.6        25
+=1, qua [f c B A] [d~{1 c~}1]
+/
+5 bars | 4b 2 2 1.8 1.8 1.8 1.8 2.7 2.7 3.8 3.8 2 2 2 2  | 4 2 1 1 1 1 1 1 2 2 1 1 1 1 1 1 2 2 1 1 1 1 1 1  | 9.6 16.8 | 5 4 3.3 3.3 3.3 3.3 | 13 :||
+|
+=1 treble 4b qua bn cro f smq [f{1 dsq f# an}1] qua [f fn]
+|
+=1 dsq [en{2 dn qua. c}2] dsq [f#{1 fn qua. e}1] dsq [b{1 a qua. f#}1]
+|
+=1 cro. f~ smq [e~ d~] [c~{1 b}1 a g]
+|
+=1 qua [f Bn] cro c g-tr
+|
+=1 min f
+/
+4 bars | 4/4 12 | 3 2.5 2.5 3 | 2 3 2 2.5 2 2 2 2 | 2 2.5 2.5 2 2 2 3 3 |
+|
+I0.6         Allegro
+=1 treble 4b 4/4 cro rest f en g
+I0.1            f
+|
+=1 cro c min f cro en
+|
+=1 qua [f smq g a] qua [g f] [bn{1 c~}1 c a]
+|
+=1, qua [Bn g dn f#] [G g] smq [c e d e]
+/ 
+4 bars | 4b 2.1 1.5 1.5 2.1  1 1 1 1 1.5 1.5 1.5 1.5 1.2 1.2 1 1  | 2.6 2 2 2.3 2 2 2 2 | 2 3 2.6 2 2 2 2 2 | 2 2 2 2 2 3 2.6 2 |
+|
+il0.5       5
+=1 treble 4b smq [f dn e f] qua [Bn g] smq [c e d e] qua [c~ b]
+|
+=1, qua [f an e c~] [d f~ c e~]
+|
+=1, qua [B smq d~ c~ qua bn a] [e g d b]
+|
+=1, qua [c e~ B d~] [A smq c~ bn qua a dn]
+/
+4 bars | 4b 2 2 2.6 2 2.6 2 3 3 | 3 3 2 2 2 3 2 2 | 13  | .7 .7 .7 .7 1.3 1.3 1.3 1.3 1.3 1.3 1.3 2 1 1 1 1 |
+|
+=1 treble 4b qua [g e bn dn] [e db] smq [a c{1 B c}1]
+|
+il0.5    10
+=1 smq [d B{2 c d}2] qua [g e] [A smq a{1 g qua a}1 A]
+|
+=1 cro rest e dn f
+|
+=1 cro B smq [e g f g] [a f g a] qua [dn, bn]
+/
+4 bars | 4b 1 1 1 1  1.4 2.4 1.4 1.4  1.4 1.4 1.4 2  1 1 1 1  | 1 1 1 1  1.4 2.4 1.4 2.4  1.4 1.4 1.4 1.4  1 1 1 1  | 1.4 1.4 1.4 2 1.4 1.4 1.4 1.4  1 1 1 1  .8 .8 .8 .8  | 1.6 1.6 1.6 1.6 1.6 1.6 2.6 2 |
+|
+=1 treble 4b qua [e g] smq [c e dn e] [f d e f] qua [Bn g]
+|
+=1, qua [c e] smq [A c B c] [d B c d] qua [G e]
+|
+il0.5    15
+=1, smq [A e f g] [An g f e] qua [B d] cro bn
+|
+=1 cro an c~ f qua [B f#]
+/
+4 bars | 4b 2 2 2.2 2 2 2 3 3 | 1.4 1.4 1.4 2 1 1 1 1 1 1 2.1 1.4 1 1 1 1  | 2 2 2 2.2 2 2 2 2 | 16 |
+|
+=1, treble 4b qua [An f c en] [F f] smq [B d c d]
+|
+=1, smq [e c d e] qua [An f] [B smq bn an qua b B]
+|
+=1 qua rest [d~ c~{1 bn}1] [A, c~ b{1 a}1]
+|
+il0.6  20
+=1, qua [G bn a{1 g}1] [F a g{1 f}1]
+
+11 systems /19/19/19 21/19/19/19/19/19/19/19/19 10/
+pagenum 17
+innerhead Fantasia 6. in D minor, Georg Philipp Telemann
+leftfoot arranged in C minor for C recorder (c) 2001 Peter J Billam
+/
+4 bars | 4b 2.2 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1 1 1.4 1.4 1.4 1.4 1 1 | 16  | 16 | 2.2 1.4 1.4 1.4 1.4 1.4 1.4 1.4 1 1 1.4 1.4 1.4 1.4 1 1 |
+|
+=1, treble 4b smq [c en f{1 g}1] [c f g{1 a}1] qua [c smq g f] smq [e f qua g]
+|
+=1 qua rest [d~ c~{1-tr bn}1] [A, c~ b{1-tr a}1]
+|
+=1, qua [G bn a{1-tr g}1] [F a g{1-tr f}1]
+|
+=1, smq [c en f{1 g}1] [c f g{1 a}1] qua [c smq g f] smq [e{1 f}1 qua g]
+/
+4 bars | 4b 13 | 1.6 1.6 2 2.4 2 2 2.4 2  | 1 1 1 1 1.4 1.4 1.4 2.2 1.4 1.4 1.4 2 1 1 1 1  | 1.4 1.4 1.4 1.4  1.9 1.4 1.4 2.2  1.4 1.4 1.4 1.4  1.4 1.4 1.4 1.4 |
+|
+il0.5     25
+=1 treble 4b cro F f~ e~n g~
+|
+=1 cro c~ qua [f d~] [en c~ g bn]
+|
+=1 qua [c c~] smq [f a g a] [b g a b] qua [en c~]
+|
+=1 smq [f a g a] [bn dn c d] [e g f g] [a c B c]
+/
+4 bars | 4b 1.4 2.2 1.4 1.4 1.4 1.4 1.4 1.4 1.4 2.2 1.4 1.4 1 1 1 1  | 2 2 2.6 2 3 3 2 2 | 1 1 1 1 1.3 1.3 1 1 1 1 2.5 1.6 1 1 1 1 | 12 ||
+|
+=1, treble 4b smq [d f en f] [g B A B] [c e dn e] qua [f A]
+=1' 4b cro blank smq-s [g B c B] min blank
+|
+il0.6  30
+=1, qua [B g c en] smq [f{1 g}1 a bn] qua [c~ A]
+|
+=1 qua [B g c en] [f smq f~{1 e~n}1 qua f~ A,]
+|
+=1 cro B c F rest
+/
+5 bars | 4b 3/2 5 6 5 5 5 5 | 4 4 5 5 5 5 | 30 | 5 6 5 5 5 5 | 4 4 5 5 5 5 |
+|
+I0.6         Spirituoso
+=1 treble 4b 3/2 cro c f{1 en}1 a g f
+I0.1            p
+|
+=1 min bn cro a g c~ b
+|
+=1 cro d~{1 c~}1 bn a g f
+|
+=1 cro c f{1 en}1 a g f
+|
+il0.6   5
+=1 min bn cro a g c~ b
+/
+5 bars | 4b 5 5 6 5 4 4 | 6 5 5 5 5 5 | 4 4 5 6 5 5 | 30 | 5 5 5 5 5 7 |
+|
+=1 treble 4b cro d~{1 c~}1 c en min f
+|
+Il0.3 '
+=1 cro a e{1 f}1 c{1 d}1 B
+I0.1   f
+|
+Il0.2                '
+=1 min e cro c A a f
+I0.1                       p
+|
+=1 cro dn{2 B}2 f bn g{1 e}1
+|
+Il0.3 '
+il0.7    10
+=1 cro a c~{1 bn}1 d~{1 c~}1 qua [b a]
+I0.1   f
+/ 
+5 bars | 4b 4 4 5 7 5 5 | 5 5 5 5 4 4 | 5 6 5 5 5 5 | 4 4 5 5 5 5 | 30 |
+|
+=1 treble 4b min f~ cro d~ qua [c~ b] cro e~ g
+|
+=1 cro a b e g-tr min a
+|
+=1 cro c f{1 en}1 a g f
+I0.1   p
+|
+=1 min b cro a g c~ b
+|
+il0.6          15
+=1 cro d~{1 c~}1 b a g f
+/
+6 bars | 4b 5 6 5 5 5 5 | 4 4 5 5 5 5 | 5 5 7 5 4 4 | 5 5 7 7 5 5  | 4 4 5 5 7 5 | 5 7 5 5 7 5 |
+|
+=1 treble 4b cro c f{1 en}1 a g f
+|
+=1 min b cro a g c~ b
+|
+=1 cro d~{1 c~}1 c en min f
+|
+=1 cro a g{1 f}1 e{1 dn}1 c
+I0.1   f
+|
+il0.5   20
+=1 min g cro G f e{1 dn}1
+|
+=1 cro c~ qua [b a] cro g e f dn
+/
+5 bars | 4b 30 | 4 5 5 7 6 5 | 5 5 6 5 4 4 | 5 6 5 5 5 5 | 4 4 5 5 5 5 |
+|
+=1 treble 4b cro e c c~ g a{1 f}1
+|
+=1 min d~n cro bn qua [an g] cro g~ d~
+|
+=1 cro e~ c~ g bn-tr min c~
+|
+il0.4   25
+=1 cro c f{1 en}1 a g f
+I0.1  p
+|
+=1 min b cro a g c~ b
+/
+5 bars | 4b 30 | 5 6 5 5 5 5 | 4 4 5 5 5 5 | 5 5 6 5 4 4 | 5 5 6 5 5 5 |
+|
+=1 treble 4b cro d~{1 c~}1 b a g f
+|
+=1 cro c f{1 en}1 a g f
+|
+=1 min b cro a g c~ b
+|
+il0.6         30
+=1 cro d~{1 c~}1 c en min f
+|
+Il0.4 '
+=1 cro f~ c~{1 d~}1 an{1 b}1 f
+I0.1   f
+/
+5 bars | 4b 4 5 5 7 6 5 | 6 5 5 5 5 5 | 5 5 5 5 5 7| 4 4 5 7 5 5| 5 7 5 6 4 4|
+|
+=1 treble 4b min f# cro e qua [d c] cro fn An
+|
+=1 cro B e{1 c}1 f d B
+|
+Il0.3 '
+=1 cro b d~{1 f}1 an g qua [f e]
+|
+il0.5   35
+=1 min an cro b qua [a g] cro c~ c
+|
+=1 cro f qua [g an] cro g f min en-tr
+/
+6 bars | 4b 5 6 5 5 5 5 | 4 4 5 5 5 5 | 30  | 5 6 5 5 5 5 | 4 4 5 5 5 5 | 5 5 6 5 4 4 ||
+|
+=1 treble 4b cro c f{1 en}1 an g f
+I0.1           p
+|
+=1 min b cro an g c~ b
+|
+=1 cro d~{1 c~}1 b an g f
+|
+il0.5   40
+=1 cro c f{1 en}1 an g f
+|
+=1 min b cro an g c~ b
+|
+=1 cro d~{1 c~}1 c en-tr min f
+11 systems /19/19/19 5/19/19/19/19/19/19/19/19 15/
+pagenum 18
+title 7.
+innerhead Fantasia 7. in D major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+4 bars | 4/4 6 6 6 10 6 6 6 10 | 6 6 6 10 6 6 6 10  | 3 3 3 3 4 4 4 6 4 4 4 6 4 4 4 6  | 3 3 3 3  3 3 3 3 9 9 9 9 4 4 4 6 |
+|
+I0.8     Largo
+=1 treble 1b 4/4 cro. F smq [f{1 g}1] cro. g-tr smq [f{1 g}1]
+I0.1        f
+|
+=1 cro. F smq [a{1 b}1] cro. b-tr smq [a{1 b}1]
+|
+=1, cro F qua. [c~ smq A] qua. [b smq G] qua. [a smq F]
+|
+=1 cro g c dsq rest [c{1 d e f g a b}1] qua. [c~ smq b]
+/
+3 bars | 4 4 4 6 3 3 3 3 9 9 9 9 4 4 4 6  | 4 4 4 6 3 3 3 3 4 4 4 6 4 4 4 6  | 2 2 2 2 2 2 4 4 4 2 2 2 2 2 2 7 4 4 2 2 2 2 2 2 3 3 2 2 2 2 2 2 3 3 |
+|
+il0.5     5
+=1 treble 1b qua. [a smq e] cro f dsq rest [d{1 e f g a b c~}1] qua. [c~# smq c~n]
+|
+=1 qua. [bn smq f#] cro g qua. rest smq [d qua. e smq Bn]
+|
+I0.5                 3
+=1 qua. [c dsq c{1 d e}1] qua. [A dsq A{2 B' c'}2] qua. [F, smq e] qua. [f smq c#]
+/
+4 bars | 2 2 2 2 2 2 5 5 7 2 2 2 2 2 2 9 5 5 2 2 2 2 2 2 3 3 2 2 2 2 2 2 3 3  | 4 4 4 7 3 4 3 4 4 4 4 6 4 4 4 6  | 4 4 4 7 3 4 3 4 4 4 4 6 4 4 4 6  | 4 4 4 6 4 4 4 9 4 4 4 6 4 4 4 6 |
+|
+=1, treble 1b qua. [d dsq d{1 e f}1] qua. [Bn dsq B{1 c d}1] qua. [G smq f#] qua. [g smq d]
+|
+=1, qua. [e smq c] cro a qua. [Bn smq d] qua. [g smq G]
+|
+il0.5     10
+=1, qua. [A smq c] cro f qua. [G smq Bn] qua. [e smq G]
+|
+=1, qua. [F smq e] qua. [d smq c] qua. [F# smq d] qua. [c smq a]
+/
+4 bars | 4 4 4 6 3 3 3 3 4 4 4 6 4 4 4 6  | 4 4 4 9 4 4 4 6 2.7 2.7 3 3 3 3 3 3 4 4  | 3 3 3 3 3 3 3 6 4 4 4 6 4 4 4 6 :||: 3/8 10 10 12 ||
+|
+=1 treble 1b qua. [G smq Bn'] cro d qua. rest smq [f qua. e smq d]
+|
+=1 qua. [c~{1 dsq bn a}1] qua. [g smq f] qua-s e{1 cro. d}1-tr qua c
+|
+I0.6   1a . . .
+=1 cro.. c smq c qua. [c' smq Bn' qua. A smq G]
+|
+I0.9   2a . . .
+I0.4   Allegro
+=1 3/8 cro c qua c~
+/
+7 bars |: 6 | 2 3 2 | 6 | 9 | 9 | 9 | 9 |
+|
+=1 treble 1b qua [c~#-. c~-. a-.]
+I0.1        p
+|
+=1 qua [b smq b c~ qua c~#-.]
+|
+=1 qua [g-. c~-. b-.]
+|
+=1 smq [a{1 b}1 a g f g]
+|
+il0.5     20
+=1 smq [a c~ a f e g]
+|
+=1, smq [f F f{2 g}2 a f]
+|
+=1, smq [d a g c~# f c~]
+/
+7 bars | 9 | 9 | 9 | 9 | 9 | 9 | 1.6 1.6 3 |
+|
+=1, treble 1b smq [e{1 f}1 e d c a]
+|
+=1, smq [d b d b A c~]
+|
+il0.5          25
+=1, smq [Bn c~# B{1 c}1 d a]
+|
+=1, smq [G b c a Bn g]
+|
+=1, smq [A{1 Bn}1 A G F a]
+|
+=1, smq [B a g f e d]
+|
+=1 cro c#-tr smq [f{1 g}1]
+I0.2          f
+/
+7 bars | 9 | 9 | 9 | 2 2 3 | 9 | 9 | 9 |
+|
+il0.5     30
+=1 treble 1b smq [a{1 f}1 a{1 f}1 b{1 g}1]
+|
+=1 smq [a{1 f}1 a{1 f}1 b{1 g}1]
+|
+=1 smq [a{1 f}1 a{1 f}1 g{1 e}1]
+|
+=1 qua [f d] smq [f g]
+|
+=1 smq [a f a f b g]
+|
+il0.5     35
+=1 smq [a f a f b g]
+|
+=1 smq [a f a f g e]
+/
+7 bars | 6 | 2 3 3 | 6 | 1 1 2.6 1.5 1 | 2 3 3 | 2 3 2 | 2 3 3 |
+|
+=1, treble 1b qua [f d a]
+|
+=1, qua [G smq b{1 a}1 b G]
+|
+=1, qua [A c~# A]
+|
+il0.6  40
+=1, qua [B smq c~#{1 c~}1 qua c~]
+|
+=1, qua [Bn smq c~#{1 e~}1 f~ c~]
+|
+=1, qua [c smq e~{1 c~#}1 qua e~]
+|
+=1, qua [c# smq e~{1 f~}1 d~ e~]
+/
+7 bars | 2 3 2 | 1 1 2.1 1.5 1.5 1.5 | 3 2 2 | 1.7 1.7 2 | 3 3 2 | 3 3 2  | 2.1 1.5 1.5 1.5 1.5 1.5 |
+|
+=1, treble 1b qua [d smq f~{1 e~}1 qua f~]
+|
+il0.6  45
+=1 qua [g smq e~{1 c~#}1 d~ f]
+|
+=1 smq [g b] qua [a c~#]
+|
+=1 cro d qua f
+|
+=1, smq [A{1 c}1 f c~ qua f]
+|
+=1, smq [B{1 d}1 f d~ qua f]
+|
+il0.6  50
+=1, smq [c{1 eb}1 B{1 d}1 A{1 c}1]
+/
+8 bars | 3 3 2 | 3 3 2 | 3 3 2 | 1.5 1.5 1.5 2.1 1.5 1.5  | 3 3 2 | 6 | 2 3 2 | 6 |
+|
+=1 treble 1b smq [B{2 d}2 c B qua d]
+|
+=1, smq [F# A d a qua d]
+|
+=1, smq [G B d b qua d]
+|
+=1' smq [A{2 c}2 G{2 B}2 F#{2 A}2]
+|
+il0.5  55
+=1, smq [G{1 B}1 A G qua g]
+|
+=1  qua [a a e]
+|
+=1 qua [f smq f g qua a]
+|
+=1, qua [d g f]
+/
+7 bars | 2 2 3 | 9 | 9 | 9 | 3 2 2 | 9 | 9 |
+|
+=1, treble 1b qua [e c] smq [c~ A]
+|
+il0.7   60
+=1, smq [d~ B d~ B a c]
+|
+=1, smq [b d b{1 c~}1 d~ B]
+|
+=1, smq [g e c~ c b e]
+|
+=1, smq [a{1 g}1 qua f c~]
+|
+=1, smq [d c~{1 b}1 a g f]
+|
+il0.7   65
+=1, smq [c g{1 f}1 e A f]
+11 systems /19/19/19/19/19 25/19/19/19/19/19/19/
+pagenum 19
+innerhead Fantasia 7. in D major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+7 bars | 3 2 2 | 2 2 3 | 9 | 9 | 9 | 2 2 3 | 9 |
+|
+=1 treble 1b smq [B, d~] qua [c e-tr]
+|
+=1 cro f smq [a{1 b}1]
+|
+=1 smq [c~{1 a}1 c~{1 a}1 d~{1 b}1]
+|
+=1 smq [c~{1 a}1 c~{1 a}1 d~{1 b}1]
+|
+il0.7   70
+=1 smq [c~{1 a}1 c~{1 a}1 b{1 g}1]
+|
+=1 qua [a f] smq [a b]
+|
+=1 smq [c~ a c~ a d~ b]
+/
+8 bars | 9 | 9 | 6 | 1.5 1.5 1.5 2.1 1.5 1.5 | 7 | 9 | 6 | 9 |
+|
+=1 treble 1b smq [c~ a c~ a d~ b]
+|
+=1 smq [c~ a c~ a b g]
+|
+il0.8       75
+=1, qua [a f A]
+|
+=1, smq [B{1 d}1 f d Bn g]
+|
+=1, qua [c a c#]
+|
+=1, smq [d{1 f}1 a f d b]
+|
+=1, qua [e c~ e]
+|
+il0.6  80
+=1 smq [f{1 a}1 c~ a f a]
+/
+6 bars | 2 3 3 | 3 2 2 | 9 | 9 | 9 || 2 2 2 3.7 2 2 2 3.9 |
+|
+=1, treble 1b qua qua [B smq g{1 e}1 f A]
+|
+=1, smq [B f qua c e]
+|
+=1, smq [f c a f c~ a]
+|
+=1 smq [f~ c~ a f c~ a]
+|
+il0.7 85
+=1, smq [f a c f A c]
+|
+I0.6     Largo
+I0.6                                                      3
+=1 4/4 cro. F# smq [a{1 b}1] cro. b-tr smq3 [a{1 b c~}1]
+I0.2   f
+/
+5 bars | 2.5 2.5 2.5 2.5  2.5 2.5 2.5 7  3 3 3 6  3 3 3 6  | 6 6 6 12 6 6 6 16 | 2.5 2.5 2.5 2.5  2.5 2.5 2.5 6  3 3 3 6  3 3 3 6  | 3 3 3 6 3 3 3 3  3 3 3 6  3 3 3 6  | 3 3 3 6 3 3 3 3  3 3 3 6  3 3 3 6 |
+|
+=1 treble 1b cro.. F# smq e~b qua. [d~ smq c~ qua. b-tr smq a]
+|
+=1 cro. G smq [b{1 c~}1] cro. c~-tr smq3 [b{1 c~ d~}1]
+|
+=1, cro.. e-tr smq g qua. [c~ smq A] qua. [b smq G]
+|
+il0.6   90
+=1 qua. [a smq f] cro d~ qua. [e smq g] qua. [c~ smq c]
+|
+=1, qua. [d smq f] cro b qua. [c smq e] qua. [a smq A]
+/
+5 bars | 3 3 3 6 3 3 3 6 3 3 3 6 3 3 3 6 | 3 3 3 6 3 3 3 3 3 3 3 6  3 3 3 6  | 3 3 3 10 3 3 3 6 2.1 2.1 2.5 2.5 2.5 2.5 2.5 2.5 3 3 || 3/8 20 12 :|| 27 ||
+|
+=1 treble 1b qua. [B smq a qua. g smq f] qua. [Bn smq g qua. f smq d~]
+|
+=1 qua. [c smq e] cro g qua. rest smq [b qua. a smq g]
+|
+=1 qua. [f~{1 dsq e~ d~}1] qua. [c~ smq b] qua-s a{1 cro. g}1-tr qua f
+|
+I0.9   1a . . .
+I0.4   Allegro
+=1 3/8 cro f qua c~
+|
+I0.7   2a . . .
+=1 smb f
+/
+6 bars | 2/2 4.8 7.2 | 6 6 6 8 | 3 3 3 3 3 3 4 6 | 6 6 6 8  | 3 2 3 2 3 3 4 6 | 6 6 6 8 |
+|
+I0.8     Presto
+=1 treble 1b 2/2 qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 cro f c F# qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 min f cro F# qua [f{1 smq g a}1]
+|
+il0.4      5
+=1 cro g f e qua [d c]
+/
+7 bars | 3 3 3 3 3 3 4 6 | 6 6 6 8 | 2.5 2.5 2.5 2.5 2.5 2.5 6 4  | 24 | 5 5 5 8 | 6 8 6 8 | 3 3 4 4 3 3 6 4 |
+|
+=1 treble 1b cro f c F# qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 min. f qua [a bn]
+|
+=1 cro c~ c c c
+|
+il0.6        10
+=1 min. c-tr qua [e g]
+|
+=1 cro c qua [f a] cro c qua [e g]
+|
+=1 cro c qua [g c~] cro c qua [e f#]
+/
+7 bars | 24 | 5 5 5 8 | 3 3 3 3 3 3 6 4  | 2.5 2.5 2.5 2.5 2.5 2.5 4 7 | 6 6 6 8 | 3 3 3 3 3 3 4 7 | 6 6 6 8 |
+|
+=1 treble 1b cro g G G G
+|
+=1 min. G-tr cro f
+|
+il0.5     15
+=1 cro e' d c qua [d Bn]
+|
+=1 min. c qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 cro f c F# qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+/
+7 bars | 2.5 2.5 2.5 2.5 3 3 4 7 | 6 6 6 8 | 3 3 3 3 3 3 4 7  | 6 6 6 8 | 5 5 5 6 | 6 8 6 6 | 10 12 |
+|
+il0.5     20
+=1 treble 1b min f cro F# qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 cro f c F# qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 min. f cro f
+|
+il0.5  25
+=1 cro b qua [b{1 d~}1] cro b f
+|
+=1 min b cro B c
+/
+7 bars | 6 6 7 6| 5 5 6 8| 32| 16 12| 24| 2.5 2.5 2.5 2.5 3 3 4 7| 6 6 6 8|
+|
+=1 treble 1b cro d f c eb
+|
+=1 min B cro d qua [c{1 d}1]
+|
+=1 qua [f d{1 c d}1] [B d{1 c d}1]
+|
+il0.5  30
+=1 qua [eb d{1 c d}1] cro B f
+|
+=1 cro e f b a
+|
+=1 min a-tr cro g qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+/
+7 bars | 3 3 3 3 3 3 4 7 | 6 6 6 8 | 2.5 2.5 2.5 2.5 3 3 4 7| 6 6 6 8  | 3 3 3 3 3 3 4 7 | 6 6 6 8 | 5 2.3 2.3 2.3 2.3 2.3 2.3 3 3 ||
+|
+=1 treble 1b cro f c F# qua [f{1 smq g a}1]
+|
+il0.5  35
+=1 cro g f e qua [d c]
+|
+=1 min f cro F# qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 cro f c F# qua [f{1 smq g a}1]
+|
+=1 cro g f e qua [d c]
+|
+=1 smq-s [f{1 e] min. f}1 cro rest
+
+11 systems /19/19/19/19/19/19 5/19/19 25/19/19/19/
+pagenum 20
+title 8.
+innerhead Fantasia 8. in e minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+2 bars | 2b 4/4 .8 .8 1 1  1 1 1 1  1 1.1 .8 .8  .8 .8 1 1  | 1 1 1 1 1 1 1 1 1 1.5 .8 .8 1 1 1 1 |
+|
+I0.8     Largo
+=1, treble 2b qua [g smq G{1 A}1] [B g c g] [d g qua f#] rest smq [f{1 g}1]
+|
+=1, smq [a d{1 c}1 e~n] [B d~ A c~] [G dsq b{1 a}1 qua g] smq rest [a b d]
+/
+2 bars | 2b 16 | 1 1 1 1 1 1.4 1 1 1 1 .8 .8 1.4 1 1 1 |
+|
+=1, treble 2b smq [e c~ a{1 b}1] [d f~ a{1 b}1] [e c~ a b] [d f~ a b]
+|
+=1, smq [c e~n A e~] [B d~ en d~] [f# d~ qua c~] smq rest [eb{1 d}1 c{2]
+/
+2 bars | 2b 1 1 1 1 1 1 1 1.4 1 1.4 1.4 1.4 1.4 1.4 1 1  | 1 1.4 1.4 1.4 1.4 1 1.4 1 .8 .8 1.4 1 1 1 1.4 1 |
+|
+il0.5     5
+=1, treble 2b smq [d}1 c~{1 b}1 d] [F# b{1 a}1 c{1] [Bn}1 a{1 g#}1 gn{1] [f# fn en}1 d]
+|
+=1 smq [A, d~{1 c~#}1 c~n{1] [bn bb a}1 c~#] qua [d~ smq d{1 en}1] [f# d~ g e~n]
+/
+2 bars | 2b 1 1.4 .8 .8 .8 .8 1 1.4 1 1 1 1 1 1.4 1 1  | .5 .5 1.1 .8 .4 .4 .4 .4  .5 .5 .55 .55 .65 .65 .7 .7   .65 .65 .5 .5 .5 .5 .5 .5  .5 .5 .70 .70 .55 .55 .5 .5 |
+|
+=1 treble 2b smq [a d~ qua c~#] rest smq [c~{1 d~}1] [e~n a{1 g}1 e~] [f# d~ en e~]
+|
+=1, smq [d dsq f~{1 e~n}1 qua d~] smq rest [e~{1 f~}1 c{1] [Bn}1 g#{1 gn}1 d~] [G f~ e~b{1 d~}1]
+/
+2 bars | 2b 1 1.4 1 1 1 1 1.3 1 1 1 1.3 1 1 1 1 1 | 4 4 4 3.2 |
+|
+=1, treble 2b smq [c e~ bn{1 c~#}1] rest [d~{1 e~}1 B{1] [A}1 en{1 f#}1 c~] [F# e~ d~{1 c~}1]
+|
+il0.6   10
+=1, smq [B d~ g#{1 bn}1] rest [A{1 B}1 d~] [A c~ G b] [d g B d~]
+/
+2 bars | 2b 1 1 1 1 1 1.4 1 1 1 1.4 1 1 1 1 1 | 4 4 4 3.2 |
+|
+=1, treble 2b [A c~ G b] [d g# Bn d~] [c e~ d bn] [en c~ c c~]
+|
+=1, smq [f# d f c~] rest [d~ b g#] [b f{1 gn}1 B] qua [d g#-tr]
+/
+2 bars | 2b 1 1 1 1 1.4 1 1 1 1.3 1 1 1 1 1 1 1  | 1.3 1.4 1 1 1 1 1 1.3  1 1 1 1 1 1 1 1 |
+|
+=1, treble 2b smq [g d B G] rest [f#{1 g}1 b] [c g# f{1 gn}1] [B d~ f{1 g}1]
+|
+=1, smq [c g# f# gn] [B d~ f g] [A c~ F# c~] [G b c# b]
+/
+3 bars | 2b 1 1 .8 .8 1.4 1.4 1 1 1 1 1 1 1 1 1 1| 4 4 4 3.2| 2.6 2 1.7 1.7||
+|
+il0.6     15
+=1, treble 2b smq [d b qua g#] smq rest [c{1 Bn}1 d~] [c e~ d d~] [en c~ c c~]
+|
+=1, smq [f# d f c~] rest [d~ b g#] [b f{1 gn}1 c] qua [d g#-tr]
+|
+=1 cro g rest min rest
+/
+3 bars | 2b 12/8 4.6 6 | 12 | 1 1 1.3 .8 .8 1 1 1 1 .8 .8 1 |
+|
+I0.6       Spirituoso
+=1 treble 2b 12/8 cro. G A qua [B{1 G,}1 d] [B{1 G,}1 en]
+|
+=1 qua [c{1 A,}1 en] [c{1 A,}1 d] [B'{2 G}2 B'] [d{1 B}1 d]
+|
+=1 qua [g{1 g#}1 b] cro en qua c~ [f#{1 gn}1 g#] cro d qua b
+/
+3 bars | 2b 1 1 1.3 .8 .8 1 .8 .8 .8 .8 .8 .8  | 1 1 1 1 1 1 1.3 1 1 1 1 1 | 1 1 1 1 1 1 1.3 1.1 1 .8 .8 1 |
+|
+=1 treble 2b qua [en{1 f#}1 g] cro c# qua a cro. d e
+|
+il0.6    5
+=1, qua [f{1 d}1 a] [f{1 d}1 b] [g{1 en}1 b] [g{1 e}1 a]
+|
+=1 qua [f{1 d}1 f] [a{1 f}1 a] [d~{1 e~n}1 f~] cro d qua c
+/
+3 bars | 2b 1 1 1 1 1 1 1 1 1 .8 .8 1 | 12 | 12 |
+|
+=1 treble 2b qua [Bn{1 d}1 g] [f{1 e}1 d] [c~{1 d~}1 e~] cro c qua Bb
+|
+=1, qua [A{1 c}1 f] [e{1 d}1 c] [b{1 a}1 b] [d{1 f}1 b]
+|
+=1 qua [b{1 a}1 b] [e{1 g}1 b] [b{1 a}1 b] [c c~ b]
+
+12 systems /19/19/19/19/19/19/19 25/19/19/19/19/19/
+pagenum 21
+innerhead Fantasia 8. in e minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+3 bars | 2b 1 1 1 .8 .8 1 .7 .7 .7 .7 .7 .7  | 12 | 1 1 1 1 1 1 1.3 1 1 .8 .8 1 |
+|
+il0.6     10
+=1 treble 2b qua [a{1 c~}1 f~] cro. rest Bn c
+|
+=1 qua [d{1 Bn}1 f] [d{1 B}1 g] [e{1 c}1 g] [e{1 c}1 f]
+|
+=1 qua [d{1 B}1 d] [f{1 d}1 f] [b{1 ab}1 g] cro ab qua f~
+/
+4 bars | 1 1 1 .8 .8 1 1 1 1 .8 .8 1 | .8 .8 1 .8 .8 1.4 1 1 1 .8 .8 1  | 1 1 1 1 1 1 1.4 1 1 .8 .8 .8 | .8 .7 .7 .8 .7 .7 1 1 1 1 1.2 1 |
+|
+=1 treble 2b qua [g{1 f}1 e] cro f qua d~ qua [e{1 g}1 c~] cro d qua b
+|
+=1 cro c qua g# cro B qua gn [G#{2 c}2 f'] cro Gn qua e
+|
+il0.6     15
+=1, qua [F# e{1 d}1] [e{1 d}1 c] [G{1 Bn}1 d] cro. rest
+|
+=1 cro. c d qua [e{1 c}1 g] [e{1 c}1 g#]
+/
+3 bars | 2b 1 1.3 1 1 1 1 1 1 1 1 1 1 | 1 1 1 .8 .8 .8 1.4 1 1 1 1 1  | 1 1 1 1 1 1.2 .8 .8 1 .8 .8 1 |
+|
+=1 treble 2b qua [f{1 d}1 g#] [f{1 d}1 gn] [e{1 c}1 e] [g{1 e}1 g]
+|
+=1 qua [c~{1 g}1 c~] cro. e~ qua [d~{1 bn}1 c~] [g c~ b]
+|
+=1 qua [c{1 d}1 e] [G#{2 B'}2 c'] cro F# qua a cro d qua c
+/
+3 bars | 2b 1.3 1 1 1 1 1 1 1 1 1 1 1 | 1.3 1 1 1 1 1 1.3 1 1 .8 .8 .8  | 2.5 2.5 3 3 |
+|
+il0.6      20
+=1 treble 2b qua [g{1 f#}1 g] [B{2 d}2 g] [g{1 f}1 g] [c{1 e}1 g]
+|
+=1, qua [g{1 f#}1 g] [G# a{1 g}1] [f{1 en}1 d] cro. rest
+|
+=1 cro. g a qua [b{1 g}1 d~] [b{1 g}1 e~]
+/
+3 bars | 2b 12 | .8 .8 1 .8 .8 1 1 1 1 .8 .8 1 | .8 .8 1 .8 .8 1 1 1 1 1 1 1 |
+|
+=1 treble 2b qua [c~{1 a}1 e~] [c~{1 a}1 d~] [b{1 g}1 b] [d~{1 b}1 d~]
+|
+=1 cro g~ qua b cro a qua f~ [g{1 b}1 e~] cro f# qua d~
+|
+il0.5    25
+=1 cro e qua c~ cro d qua b [c b{1 a}1] [b{1 a}1 g]
+/
+3 bars | 2b 1.3 1 1 1 1 1 1 1 1 1 1 1 | 1 1 1.2 1 1 1.3 .8 .8 1 1.3 1 1  | 1 1 1.2 1 1 1.3 .8 .8 1 1.3 1 1 |
+|
+=1 treble 2b qua [d f# g] [a b c~] [g{1 b}1 g] [d{1 a}1 f]
+|
+=1 cro rest qua G [e{1 d}1 e] cro F# qua e [d{1 c#}1 d]
+|
+=1 cro rest qua G [e{1 d}1 e] cro F# qua e [d{1 c#}1 d]
+/
+3 bars | 3b 2 2 2 2 2 2 2 2 2 2 2.6 2 | 2 2 2 2.6 2 2 2 2 2 2 2 2 | 1 1 1 1 1 1  1 1 1.4 1.2 1 1  1.4 1.0  .8 .7 .7 .8 .7 .7  .7 .7 .7 .7 .7 .7||
+|
+=1 treble 2b qua rest [c~ d~] [e~{1 d~}1 c~] [b a g] [d a f#]
+|
+il0.6   30
+=1, qua [G{1 d}1 g] [d f# a] [g{1 a}1 b] [d f a]
+|
+=1 qua [B d~ g] [d a f#] smq-s [G{2 F#] cro. G}2 rest
+/
+5 bars | 2b 3/4 2 1.7 1.7 2 1.7 1.7 | 2 1.7 1.7 2 1.7 1.7  | 2 1.7 1.7 3 2 2 | 4 6 4 | 2 1.7 1.7 2 1.7 1.7 |
+|
+I0.6      Allegro
+=1 treble 2b 3/4 qua d cro e-emph qua c cro f#-emph
+|
+=1 qua B cro c-emph qua G# cro d-emph
+|
+=1 qua G cro g-emph smq [f# e] qua [d c]
+|
+=1' qua [B G(2] smq [G)2 G# B c] qua [d Gn]
+|
+il0.6   5
+=1 qua d cro e-emph qua c cro f#-emph
+/
+5 bars | 2b 2 1.7 1.7 2 1.7 1.7 | 2.2 1.7 1.7 3 2 2 | 4 3.5 3.5 :||:  1 1 1 1  1.5 1.5 2.3 1.5  1 1 1.5 1.5 | 1 1 1 1 1.5 2.3 1.5 1.5 1 1 1 1 |
+|
+=1 treble 2b qua B cro c-emph qua G# cro d-emph
+|
+=1 qua G cro g-emph smq [f# e] qua [d c]
+|
+=1 qua [B b] cro B rest
+|
+=1 qua [d B(1] smq [B)1 c d en] qua [f# smq g e]
+|
+il0.6      10
+=1 qua [f# c(1] smq [c)1 d en f] qua [g c]
+/
+5 bars | 2b 2 1.7 1.7 1.7 1.7 2 | 1 1 1.5 1.5 1 1 2.1 1.5 1 1 1 1  | 2 1.7 1.7 2 2 2 | 1 1 .8 .9 .8 .9 .8 .9 .8 .9 2.1 1.5 | 2.5 3 2 2 2.5 2 |
+|
+=1 treble 2b qua a cro d~ c~ qua b(1
+|
+=1, qua [b)1 smq a g] qua [a smq f# en] qua [f F#]
+|
+=1 qua en cro a-emph qua [g e g]
+|
+=1 qua c# cro a g smq [f# en]
+|
+il0.5    15
+=1 qua [f# smq en f] qua [d e] [G# c#'-tr]
+/
+4 bars | 2b 2 2 1.8 1.8 2.5 2 | 1 1 2.1 1.5 1.5 1.5 1 1 1 1 1 1  | 2 3 2 2 2 2 | 1 1 2.1 1.5 2.1 1.5 1 1 1 1 1 1 |
+|
+=1 treble 2b qua [d d~] cro d qua rest c
+|
+=1, qua [Bn smq f#{1 en] [f e qua f}1] [G f]
+|
+=1 qua [c smq en{1 d] qua [e}1 c e g]
+|
+=1, qua [c# smq g{1 f#] [g f qua g}1] [G# g]
+/
+5 bars | 2b 1 1.5 2.1 1.5 1 1 1 1 1 1 1 1 | 2.5 1.7 1.7 2.5 1.7 1.7  | 2 1.7 1.7 2 1.7 1.7 | 2 1.7 1.7 3 2 2 | 2 2 1.7 1.7 1.6 1.6 :||
+|
+il0.5       20
+=1 treble 2b qua [d smq f#{1 e] qua [f}1 d f a]
+|
+=1 qua d cro e-emph qua c cro f-emph
+|
+=1 qua B cro c-emph qua G# cro d-emph
+|
+=1 qua G cro g-emph smq [d c] qua [B' G#]
+|
+=1 qua [G, g] cro G rest
+
+10 systems /19/19/19/19/19 25/19/19/19/19/19/
+pagenum 22
+title 9.
+innerhead Fantasia 9. in E major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+5 bars | 2# 3/4 .8 .8 .8 .8 .8 .8 .8 .8 1 1 1 1.5  | .8 .8 .8 .8 .8 .8 .8 .8 1 1 1 1.5  | 1 1 1 1.5 1 1 1 1.5 .8 .8 .8 .8  | 1 1 1 1.5 1 1 1 1.5 1 1 1 1.5 1 1 1 2.5  | 1 1 1 1.5 .8 .8 .8 .8 .8 .8 .8 .8 |
+|
+I0.6      Affettuoso
+=1 treble 1# 3/4 cro G b qua. [c~ smq d~]
+|
+=1 cro G# f qua. [g smq a]
+|
+=1 qua. [B smq d] qua. [g{1 smq f}1] cro g
+|
+=1 qua. [c smq e] qua. [F{2 smq d'}2] qua. [c{1-tr dsq B c}1]
+|
+il0.5     5
+=1 qua. [G smq c'] cro B rest
+/
+6 bars | 2# 3/4 .8 .8 .8 .8 .8 .8 .8 .8 1 1 1 1.5  | .8 .8 .8 .8 1 1 1 1.5 .8 .8 .8 .8  | .8 .8 .8 .8 1 1 1 2.3 1 1 1 1.5  | 1 1 1 2.3 .7 .7 .7 .7 .7 .7 .7 .7  | 12 | 2.3 1.6 1.6 2 2 2 |
+|
+=1 treble 1# cro F G# qua. [B smq c]
+|
+=1 cro G qua. [B' smq G#] cro B
+|
+=1 cro G qua. [e{2 smq d}2] qua. [c# smq d]
+|
+=1 qua. [G#, smq d] cro c# rest
+|
+il0.8             10
+=1' qua [g{2 B}2 f{2 G#}2 e{2 Gn}2]
+|
+I0.4                         3
+=1 qua F cro a qua g qua3 [f{1 e d}1]
+/
+6 bars | 2# 1 1 1 1.5 .8 .8 .8 .8 1 1 1 1.5  | 2.8 2.8 3.2 :||: .8 .8 .8 .8 .8 .8 .8 .8 1 1 1 1.5  | .8 .8 .8 .8 1 1 1 1.5 .8 .8 .8 .8  | .8 .8 .8 .8 1 1 1.5 1.5 1 1 1 1.5  | .8 .8 .8 .8 1 1 1 1.5 .8 .8 .8 .8 |
+|
+=1 treble 1# qua. [e smq G,] cro A qua. [c#{2-tr smq d}2]
+|
+=1 min d cro rest
+|
+=1 cro c f qua. [e{2 smq d}2]
+|
+il0.5     15
+=1 cro B qua. [g{1 smq f}1] cro g
+|
+=1 cro A qua [c~{1 smq b a}1] qua. [b smq c~]
+|
+=1 cro B qua. [eb{1 smq en}1] cro f
+/
+6 bars | 2# 1.3 1.3 .8 .8 .8 .8 1.5 1.5 1 1 1 1  | 1.3 1.3 .8 .8 .8 .8 1.5 1.5 1 1 1 1  | 2.6 1.6 1.6 2 2.5 2  | .8 .8 .8 .8 1 1 1.5 2.5 1 1 1 1  | 3.2 4 4 | 3.2 4 4 |
+|
+=1 treble 1# qua G cro b{1 smq [a g}1 qua f{1 e}1]
+|
+=1 qua A cro b{1 smq [a g}1 qua f{1 e}1]
+|
+il0.5     20
+=1 qua B cro g{1 qua [f}1 e{1 eb}1]
+|
+=1 cro eb{1 qua [en}1 smq f g] qua [d{2 c#}2]
+|
+=1' cro G qua [B d f{2 g}2]
+|
+=1' cro A qua [c e f{2 g}2]
+/
+6 bars | 2# 12 | .8 .8 .8 .8 1 1 1 1.5 1 1 1 1.5  | 12 | 2.5 1.6 1.6 2 2 2 | 1 1 1 1.5 .8 .8 .8 .8 1 1 1 1.5 | 2.8 2.8 3.2 :||
+|
+=1' treble 1# qua [B g F a G b]
+|
+il0.5     25
+=1 cro d qua. [b{1 smq g}1] qua. [a{1 smq b}1]
+|
+=1, qua [c~ e b d a c]
+|
+I0.7                           3
+=1 qua B cro d~{1 qua c~}1 qua3 [b{1 a g}1]
+|
+=1 qua. [a smq c] cro d qua. [f{1-tr smq g}1]
+|
+=1 min g cro rest
+/
+6 bars | 2# 3/8 3 4 4 | 12 | 1 1 1 1 1.6 .9 .9 .9 1.6 .9 .9 .9  | 1 1 1 1 1.6 .9 .9 .9 1.6 .9 .9 .9  | 1 1 1 1 1.6 .9 .9 .9 1.6 .9 .9 .9  | 2 3 2 2 2 2 |
+|
+I0.6      Allegro
+=1 treble 1# 3/8 qua [G smq B{2 G}2 c G]
+|
+=1' smq [d G e c A f]
+|
+=1 smq [g' G] dsq [b{1 smq. g}1] dsq [a{1 smq. f}1]
+|
+=1 smq [g e] dsq [a{1 smq. f}1] dsq [g{1 smq. e}1]
+|
+il0.4     5
+=1 smq [f d] dsq [g{1 smq. e}1] dsq [f{1 smq. d}1]
+|
+=1' smq [e A c#{2 A}2 a A]
+/
+7 bars | 2# 3 4 4 | 12 | 2 2 2 2 3 2 | 1.6 1.6 3 2 2 2 | 2 3.4 2 2 2 2  | 3.4 2 3 2 2 2 | 3.4 2 3 2 2 2 |
+|
+=1, treble 1# qua [d smq f{1 d}1 g d]
+|
+=1, smq [a d b{1 g}1 e c~#]
+|
+=1, smq [d~{1 d}1 G d A c#]
+|
+il0.6      10
+=1, qua [d smq rest c B A]
+|
+=1, smq [G#-ten e fn{1 e}1 f{1 e}1]
+|
+=1, smq [B-ten fn e{1 eb}1 en{1 f}1]
+|
+=1, smq [G# fn{1 e}1 g# b B]
+/
+7 bars | 2# 2 2 3 3 2 2| 12|2 2 3 2 2 2|2 2 3 2.3 2 2| 12| 3 4 4| 2 2 2 2 3 2|
+|
+=1, treble 1# smq [c# A] rest [g f e]
+|
+il0.5  15
+=1, smq [eb b c~{1 b}1 c~{1 b}1]
+|
+=1 smq [fn c~ b{1 bb}1 bn{1 c~}1]
+|
+=1, smq [eb c~{1 b}1 e~b f~ fn]
+|
+=1' smq [g e B e G B]
+|
+=1, qua [e smq g{1 e}1 a e]
+|
+il0.5  20
+=1, smq [b e c~ a fn e~b]
+/
+6 bars | 2# 2 2 2 2 3 2 | 3 4 4 | 2 2 2.5 2 3 2  | .8 .8 .8 .8 1.6 .9 .9 .9 1.6 .9 .9 .9  | 1 1 1 1 1.6 .9 .9 .9 1.6 .9 .9 .9 | 12 |
+|
+=1, treble 1# smq [e~b{1 e}1 A e B eb]
+|
+=1' qua [e smq rest fn{1 g}1 B]
+|
+=1, smq [c# e A g#{1 a}1 gn]
+|
+=1 qua fn dsq [a{1 smq. f}1] dsq [g#{1 smq. e}1]
+|
+il0.5  25
+=1, smq [f d] dsq [A{1 smq. f}1] dsq [G{1 smq. e}1]
+|
+=1 smq [F A] [d b{1 c~}1 e]
+/
+6 bars | 2 2 2.4 2.2 3 2 | .8 .8 .8 .8 1.6 .9 .9 .9 1.6 .9 .9 .9  | 1 1 1 1 1.6 .9 .9 .9 1.6 .9 .9 .9 | 2 2 2 3 2 2  | 2 2 3 2 3 2 | 2 2 2.5 2 3 2 |
+|
+=1, treble 1# smq [f a B c~#{1 d~}1 c~n]
+|
+=1 qua b dsq [d~{1 smq. b}1] dsq [c~#{1 smq. a}1]
+|
+=1, smq [b g#] dsq [d{1 smq. b}1] dsq [c#{1 smq. a}1]
+|
+il0.8     30
+=1' smq [B d g# e{2 fn}2 A]
+|
+=1' smq [B d G f{2 g#}2 fn]
+|
+=1, smq [e g c# g#{1 a}1 gn]
+10 systems /19/19/19 25/19 25/19/19/19/19/19/19/
+pagenum 23
+innerhead Fantasia 9. in E major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+6 bars | 2# 12 | 1.6 .9 .9 .9 1.6 .9 .9 .9 1.6 .9 .9 .9  | 3 4 4 | 13 | 12 | 1.6 .9 .9 .9 1.6 .9 .9 .9 1.6 .9 .9 .9 |
+|
+=1, treble 1# smq [f a d c# B g#]
+|
+=1, dsq [e{2 smq. c#}2] dsq [d{2 smq. B}2] dsq [c{2 smq. A}2]
+|
+il0.6   35
+=1 qua [g# smq b{1 g}1 c~# g]
+|
+=1 smq [d~ g e~b c~# a f~]
+|
+=1, smq [g~{1 g}1 c# a d f]
+|
+=1, dsq [G{2 smq. g}2] dsq [A{2 smq. g}2] dsq [B{2 smq. g}2]
+/
+6 bars | 2# 2 2 3 2 2 2 | 1.6 .9 .9 .9 1.6 .9 .9 .9 1.6 .9 .9 .9  | 2 3 2 2 2 2 | 12 | 1.6 .9 .9 .9 1.6 .9 .9 .9 1.6 .9 .9 .9  | 1.6 .9 .9 .9 1.6 .9 .9 .9 1.6 .9 .9 .9 |
+|
+=1, treble 1# smq [c# e B fn c e]
+|
+il0.8 40
+=1, dsq [A{2 smq. a}2] dsq [B{2 smq. a}2] dsq [c#{2 smq. a}2]
+|
+=1, smq [d f c# g d f]
+|
+=1, smq [F a G b F a]
+|
+=1, dsq [d{1 smq. d~}1] dsq [d{1 smq. b}1] dsq [d{1 smq. d~}1]
+|
+=1, dsq [d{1 smq. c~#}1] dsq [d{1 smq. a}1] dsq [d{1 smq. c~}1]
+/
+6 bars | 2# 12 | 12 | 1.6 .9 .9 .9 1.6 .9 .9 .9 1.6 .9 .9 .9  | 1.6 .9 .9 .9 1.6 .9 .9 .9 1.6 .9 .9 .9 | 12  | 3.5 2.3 2.3 2.3 ||
+|
+il0.7     45
+=1, treble 1# smq [b{1 g}1 c# g d f]
+|
+=1, smq [g G f G e G]
+|
+=1' dsq [d{2 smq. G}2] dsq [B{2 smq. G}2] dsq [d{2 smq. G}2]
+|
+=1' dsq [c#{2 smq. F}2] dsq [A{2 smq. F}2] dsq [c{2 smq. F}2]
+|
+=1, smq [B G A g d f]
+|
+=1 smq-s [G{2 F] cro. G}2-fermata
+/
+4 bars | 2# 3/2 .8 .8 .7 .7 .7 .7  1.5 1 1 1 1 1  | 1.6 1.4 1.4 2 2 2 2 | .8 .8 .8 1.4 1.8 .7 .7 .7 .7 .7 .7 1 1 | 7 ||
+|
+I0.6      Grave
+=1 treble 1# cro c# min e~b qua [d~{1 c~#}1] [d~{1 c~}1 d~ e~]
+|
+=1 cro e min g qua [f{1 e}1] [f{1 e}1 f g]
+|
+=1 cro. A smq-s [g'{2 a'] smq [b}2{1 a}1] min. g{1-tr qua [f g}1]
+|
+=1 smb. f
+/
+7 bars | 2# 2/4 4 | 8 | 3 2 2 3 | 2 2 1.5 1.5 1.7 | 3.2 4 | 2 3 2 2  | 1 1 1.5 2.1 1 1 1 1 |
+|
+I0.6      Vivace
+=1 treble 1# 2/4 smq [b-. c~-.]
+|
+=1 qua [d~ g g g]
+|
+=1 smq [g{1-tr f}1] cro g smq [f{1 e}1]
+|
+=1 qua [d g] cro c#{1-tr smq-s [B c}1]
+|
+=1 cro B qua rest A
+|
+il0.4     5
+=1, qua [G smq B G] qua [A c]
+|
+=1, qua [B smq d B] qua [c# e]
+/
+6 bars | 2# 2 3 2 2 | 8 | 2 3 2 2 | 3.5 6 | 8 | 3.5 6 |
+|
+=1 treble 1# qua [d smq f d] qua [e g]
+|
+=1 qua [f{1 e}1] b rest
+|
+=1 qua [a smq g-. f-.] qua [g e]
+|
+il0.6       10
+=1 cro d-tr smq [f{1 e}1 f{1 e}1]
+|
+=1, qua [d d~ d d]
+|
+=1 cro d-tr smq [f{1 e}1 f{1 e}1]
+/
+8 bars | 2# 8 | 1 1 2 1.5 1 1 1 1 | 1.75 1.75 1.5 1.5 1.7  | 5.3 :||: 5 | 8 | 3.4 4 | 2 3 2 2 |
+|
+=1 treble 1# qua [d g{1 f}1 b]
+|
+=1 qua [a smq b c~#] qua [d~ d]
+|
+il0.6 .04 15
+=1 cro A c#{1-tr smq-s [B c}1]
+|
+=1 cro. d
+|
+=1 smq [f-. g-.]
+|
+=1 qua [a f{1 g}1 e]
+|
+=1 cro e{1 qua [d#}1 c~]
+|
+=1 qua [b smq a g] qua [a f]
+/
+7 bars | 2# 3.5 4 | 2 3 2 2 | 3.5 4 | 2 2 2.5 2 | 1.75 1.75 2 3 | 8 | 3 2 2 3 |
+|
+il0.5        20
+=1 treble 1# cro f{1 qua [e}1 b]
+|
+=1 qua [e smq g f] qua [g f]
+|
+=1 cro f{1 qua [e}1 e~b]
+|
+=1 qua [e g] [B eb-tr]
+|
+=1 cro e qua rest smq [b-. c~-.]
+|
+il0.5        25
+=1 qua [d~ g g g]
+|
+=1 smq [g{1-tr f}1] cro g smq [fn{1 e}1]
+/
+7 bars | 2# 2 3 2 2| 8| 2 3 2.5 2| 1 1 1.5 2.2 1 1 1 1| 2 3 2 2| 8| 2 3 2 2|
+|
+=1 treble 1# qua [fn smq g a] qua [g f]
+|
+=1, qua [e{1 d}1] [c G]
+|
+=1 qua [c smq e{1 c}1] qua [d fn]
+|
+il0.5   30
+=1 qua [e smq g{1 e}1] qua [f a]
+|
+=1 qua [g smq b{1 g}1] qua [a c~]
+|
+=1 qua [b{1 a}1] c~ rest
+|
+=1 qua [b smq a g] qua [a fn]
+/
+7 bars | 2# 3.5 6 | 8 | 3.5 6 | 8 | 2.4 3.4 2 2 | 1.75 1.75 1.5 1.5 1.7 | 6 :||
+|
+=1 treble 1# cro g smq [b{1 c~}1 d~ b]
+|
+il0.5 35
+=1 qua [g g~ g g]
+|
+=1 cro g-tr smq [b{1 c~}1 d~ b]
+|
+=1 qua [g c~{1 b}1 e~b{1]
+|
+=1 qua [d~}1 smq g~ f~] qua [g~ g]
+|
+=1 cro d fn{1-tr smq-s [e f}1]
+|
+=1 cro. g
+
+10 systems /19/19/19/19/19/19/19/19/19/19 13/
+pagenum 24
+title 10.
+innerhead Fantasia 10. in f# minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+6 bars | 1# 3/4 2.5 | 2 3 | 6 | 6 | 1 1 1.4 1 1 1 | 1 1 1 1 1.4 1 |
+|
+I0.6      A tempo giusto
+=1 treble  3/4 qua rest a
+|
+=1 cro. a qua [e c e]
+|
+=1, qua [A c e a c~ a]
+|
+=1, qua [d f a d~ f~ d~]
+|
+=1, qua [G# B e g# b d]
+|
+il0.4   5
+=1, qua [c a B a e g#]
+/
+6 bars | 1# 1.5 2 2 | 6 | 6 | 1.5 2 2 | 1.4 1 1 1 1 1 | 1 1.4 1 1 1 1 |
+|
+=1 treble  cro A qua rest [c~ b a]
+|
+=1, qua [g B{1 c}1 g a e]
+|
+=1, qua [f A{1 B}1 f g d]
+|
+=1 cro e-tr qua rest [e d c]
+|
+il0.4    10
+=1, qua [d f# g b e d]
+|
+=1, qua [c g f# a d c]
+/
+5 bars | 1# 1.5 2 2 | 6 | 6 | 6 | 6 |
+|
+=1 treble  cro B-tr qua rest [g e g]
+|
+=1, qua [a c F e{1 d}1 c~]
+|
+=1, qua [b d G f{1 e}1 d~]
+|
+il0.5      15
+=1, qua [c~ e A g{1 f}1 e~b]
+|
+=1, qua [d~ f B a{1 g}1 f~]
+/
+6 bars | 1# 6 | 6 | 1 1.4 1 1 1.5 1 | 1.1 1.1 1 1.4 1 1 | 1.4 1 1 1 1 1  | 3.4 :||
+|
+=1, treble  qua [e~b b c~ F{1 G}1 b]
+|
+=1, qua [c c~ d b e c~]
+|
+=1, qua [f a{1 g# a}1 d~{1 c~#]
+|
+il1.0   20
+=1 qua [d~}1 f~ d~ b c~ a]
+|
+=1, qua [e g# b e~b b g]
+|
+=1 min e
+/
+6 bars |: 1# 2.5 | 2.3 3 | 1.4 1 1 1 1 1 | 1 1 1.4 1 1 1 | 1 1 1.4 1 1 1  | 1 1 1 1 1.4 1 |
+|
+=1 treble  qua rest b
+|
+=1 cro. b qua [g# a b]
+|
+=1, qua [e g# b f e d]
+|
+il0.5   25
+=1, qua [c# e g bb a g]
+|
+=1, qua [f d g Bb a F]
+|
+=1, qua [bb F{1 G}1 f{1 e}1 c~#]
+/
+5 bars | 1# 1.5 2 2 | 1.4 1 1 1 1 1 | 6 | 1 1 1 1.4 1 1 | 1 1 1.3 1 1 1 |
+|
+=1 treble  cro d qua rest [e f e]
+|
+=1, qua [eb f# a c~ b a]
+|
+il0.5     30
+=1, qua [g e a c b G]
+|
+=1, qua [c~ A{1 B}1 g{1 f#}1 c~]
+|
+=1, qua [b A{1 G}1 d#{1 e}1 b]
+/
+5 bars | 1# 1 1 1 1.4 1 1 | 1 1 1.3 1 1 1 | 1 1.4 1.1 1.1 1.1 1  | 1.4 1 1.6 1 1 | 1 1 1 1 1.4 1 |
+|
+=1, treble  qua [c~ A{1 B}1 g{1 f#}1 c~]
+|
+=1, qua [b A{1 G}1 d#{1 e}1 b]
+|
+il0.7    35
+=1 qua [c~ a e~b b e~ g]
+|
+=1, qua [f~# eb en f# B b]
+|
+=1, qua [g e A a B f#]
+/
+5 bars | 1# 1.2 .7 .5 .5 .5 .5 .5 .5 .7 .7 .5 .5  | 1 1 1.25 1 1 1 | 1.5 1.1 1 1 1.4 1 | 6 | 6 |
+|
+=1, treble  smq [e{1 d#}1 qua en] rest [g B d]
+|
+=1, qua [c# e A bb a e~b]
+|
+il0.7       40
+=1, qua [f~ c~# d~ d A c]
+|
+=1, qua [B d G a g f~]
+|
+=1, qua [e~b b c~ c e c]
+/
+6 bars | 1# 1 1 1.4 1 1 1 | 1.5 1.5 2 | 2.5 3 | 6 | 6 | 1 1 1.4 1 1 1 |
+|
+=1, treble  qua [d c~ b g# a b]
+|
+=1 min g#-tr qua rest a
+|
+il0.5   45
+=1 cro. a qua [e c e]
+|
+=1, qua [A c e a c~ a]
+|
+=1, qua [d f a d~ f~ d~]
+|
+=1' qua [G# B e g# b d]
+/
+6 bars | 1# 1 1 1 1 1.4 1 | 1.4 1 1 1 1.4 1  | 1.25 1.1 1.1 1.4 1 1 | 1.25 1.1 1.1 1.4 1 1 | 1 1 1 1 1.4 1 | 4.5 :||
+|
+=1, treble  qua [c a B a e g#]
+|
+il0.8  50
+=1, qua [F g#{1 a}1 e{1 f}1 c#{1]
+|
+=1, qua [d}1 c~#{1 d~}1 b{1 c~n}1 a]
+|
+=1, qua [e e~b e~ f~ g# e~]
+|
+=1, qua [c~ a e a B g#]
+|
+=1 min a
+11 systems /19/19/19/19/19/19/19/19 25/19/19/19 13/
+pagenum 25
+innerhead Fantasia 10. in f# minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+8 bars | 1# 2/2 4.5 | 8 | 3 4 | 8 | 2 2 2 3 | 8 | 1.5 1.5 2 3 | 8 |
+|
+I0.6         Presto
+=1 treble  2/2 cro e-. e-.
+|
+=1 cro A-. A-. f-. f-.
+|
+=1 min e cro a c#
+|
+=1 cro d b e b
+|
+=1 cro c~ A a qua [a{1 g#}1]
+|
+il0.5     5
+=1 cro f# a d f
+|
+=1 min G cro b qua [b{1 a}1]
+|
+=1 cro g# b e g
+/
+8 bars | 1# 3 4 | 8 | 3 4 | 8 | 8 | 8 | 3 4 | 2 2 2.5 2 |
+|
+=1 treble  min A cro a-. a-.
+|
+=1 cro e-. e-. c~-. c~-.
+|
+il0.5   10
+=1 min b cro e~b g
+|
+=1 cro a f~# b f~
+|
+=1 cro g~ g c~ b
+|
+=1 cro bb{1 bn}1 f e
+|
+=1 min eb cro b bb
+|
+il0.6       15
+=1 cro g#{1 bb}1 e' d
+/
+8 bars | 1# 1.5 1.5 2.5 2 | 2 2 2.5 2 | 3 4 | 8 | 3 4 | 8 | 2 2 2 3 | 2 3 2 3 |
+|
+=1 treble  min c# cro a g
+|
+=1 cro f#{1 g#}1 d c
+|
+=1 min B cro g-. g-.
+|
+=1 cro c#-. c-. a-. a-.
+|
+il0.5   20
+=1 min g cro c~ e
+|
+=1 cro f# d~ g d~
+|
+=1 cro e~b c# a qua [a{1 g}1]
+|
+=1 cro f# qua [f{1 e}1] cro d qua [d{1 c#}1]
+/
+8 bars | 1# 8 | 8 | 2 2 2 3 | 8 | 3 4 | 8 | 6 4 | 2 3 2 2 |
+|
+=1 treble  cro B G e G
+|
+il0.5     25
+=1 cro d G c G
+|
+=1 cro d G g qua [a{1 b}1]
+|
+=1 cro c~ c G B-tr
+|
+=1 min c cro e A
+|
+=1 cro f# d g A
+|
+il0.5    30
+=1 qua [f#{1 d}1 f g] cro a-. a-.
+|
+=1 cro d-. d-. bb-. b-.
+/
+8 bars | 3 4 | 8 | 2 2 2.5 2 | 3 4 | 8 | 2 3 2 2 | 8 | 2 3 2 2 |
+|
+=1 treble  min a cro d~ f#
+|
+=1 cro g e~b a e~
+|
+=1 cro f~ d A c#-tr
+|
+il0.5    35
+=1 min d cro d~ f#
+|
+=1 cro b g c~ e
+|
+=1 cro a qua [f#{1 g}1] cro a c
+|
+=1 cro f# d g B
+|
+=1 cro e qua [c{1 d}1] cro e-. e-.
+/
+8 bars | 1# 8 | 3 4 | 8 | 8 | 2 2.5 2 2 | 1.5 1.5 2.5 2 | 8 | 1.5 1.5 2.5 2 |
+|
+il0.7   40
+=1 treble  cro A-. A-. f#-. f-.
+|
+=1 min e cro a c
+|
+=1 cro d b e b
+|
+=1 cro c~ A f# e
+|
+=1 cro d#{1 e}1 bb a
+|
+il0.5    45
+=1 min g# cro e' d
+|
+=1 cro c#{1 eb}1 a g
+|
+=1 min f# cro d c
+/
+8 bars | 1# 2 2 2.5 2 | 3 4 | 8 | 3 4 | 8 | 2 2 2.5 2 | 1.5 1.5 2 3 | 2 3 2 3 |
+|
+=1 treble  cro B{1 c#}1 g f
+|
+=1 min e cro e~b e~
+|
+il0.5    50
+=1 cro a a f~ f~
+|
+=1 min e~b cro a c
+|
+=1 cro d b e b
+|
+=1 cro c~ a e g#-tr
+|
+=1 min a cro f# qua [f{1 e}1]
+|
+il0.5    55
+=1 cro d qua [d{1 c}1] cro B qua [B'{2 A}2]
+/
+9 bars | 1# 2.5 2 2 2 | 2.5 2 2 2 | 2.5 2 2 2 | 2 3.2 2 3 | 2 2 2 3  | 2 2 2.5 2 | 2 2 2 3 | 8 | 5 ||
+|
+=1 treble  cro G#-ten e b e
+|
+=1 cro A-ten e c~ e
+|
+=1 cro G#-ten e b e
+|
+=1 cro rest qua [b{1 c~}1] cro d~ qua [c~{1 b}1]
+|
+il0.6    60
+=1 cro c~ a d~ qua [c~{1 b}1]
+|
+=1 cro c~ a e g#-tr
+|
+=1 cro a A f# qua [e{1 d}1]
+|
+=1 cro e c d e
+|
+=1 smb A
+/
+8 bars | 1# 3/8 2 3 2 | 1.6 1.6 2 | 2 3 2 | 1.6 1.6 2  | 2 3 2 | 2 3 2 | 2 3 3 | 2 1.3 1.3 1.3 :||
+|
+I0.6        Moderato
+=1, treble  3/8 qua [e smq f#{1 d}1 qua g]
+|
+=1 cro e{1-tr qua d}1
+|
+=1, qua [c smq d{1 B}1 qua e]
+|
+=1 cro c{1-tr qua B}1
+|
+il0.5  5
+=1, qua [A smq a{1 b}1 qua c~]
+|
+=1, qua [G# smq b{1 c~}1 qua d~]
+|
+=1, qua [A smq c~{1 b}1 c~ d~]
+|
+=1 qua-s c~{1 cro. b}1-tr
+/
+8 bars |: 1# 3 1.5 2 | 3 1.6 1.6| 6| 3 1.6 1.6| 9| 9| 2 2 3| 1 1 1 1.5 1.5 1.5|
+|
+=1 treble  qua [c~ g f#]
+|
+il0.6  10
+=1 smq [e{1 f#}1] cro g
+|
+=1 qua [d~ g f]
+|
+=1 smq [e{1 d}1] cro c
+|
+=1, smq [d G] [f{2 d}2 e{2 c}2]
+|
+=1, smq [d G] [f{2 d}2 e{2 c}2]
+|
+il0.5    15
+=1, qua [c~ c smq d{1 B}1]
+|
+=1, qua. [c smq d e f]
+/
+8 bars | 1 1 2.0 1.5 1 1| 1.6 1.6 2| 6| 3 4.5| 2 3 3| 2 3 3| 2 2.5 2| 4.5 :||
+|
+=1 treble  qua [e smq a{1 f#}1 qua g]
+|
+=1 cro f#-tr qua e
+|
+=1 qua [d b{1 a}1]
+|
+il0.6     20
+=1 qua. [g#-tr smq a b c~]
+|
+=1, qua [b smq f{1 e}1 f{1 e}1]
+|
+=1, qua [d~ smq f{1 e}1 f{1 e}1]
+|
+=1 qua [c~ a g#-tr]
+|
+=1 cro. a
+
+12 systems /19/19/19/19/19/19/19/19/19 20/19/19/19/
+pagenum 26
+title 11.
+innerhead Fantasia 11. in G major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+2 bars | 2b 4/4 16 | 16 |
+|
+I0.6         Allegro
+=1, treble 2b 4/4 smq [B d f d] [f d f d] [B e g e] [g e g e]
+I0.1         f
+|
+=1, smq [B d f d] [B f bn f] [B d f d] [B e g e]
+/
+3 bars | 2b 16 | 4 4 4 3 | 16 |
+|
+=1, treble 2b smq [B d f d] [B f bn f] [B d f d] [B e g e]
+|
+=1, smq [B d f d] [A c e c] [B{1 c}1 qua d] cro rest
+|
+il0.5  5
+=1 smq [f a c~ a] [c~ a c~ a] [f bn d~ b] [d~ b d~ b]
+/
+3 bars | 2b 16 | 16 | 1 1 1 1.5 1 1 1 1 1 1 .8 .8 1.2 1 1 1 |
+|
+=1 treble 2b smq [f a c~ a] [f c~ f~ c~] [f a c~ a] [f bn d~ b]
+|
+=1 smq [f a c~ a] [f c~ f~ c~] [f a c~ a] [f bn d~ b]
+|
+=1 smq [f a c~ a] [en g bn g] [f{1 g}1 qua a] smq rest [a{1 b c~}1]
+/
+3 bars | 2b 1 1 1 1 1 1 1 1.5 1 1 1 1 1 1 1 1  | 1 1 1 1 1 1 1 1 1.5 1.5 1 1 1 1 1 1 | 16 |
+|
+=1, treble 2b smq [d~ B{1 A B}1] [d~ bn d~ b] [en f g a] [b c~ d~ b]
+|
+il0.5     10
+=1, smq [c~ A{1 B A}1] [c~ a c~ a] [d en f# g] [a bn c~ a]
+|
+=1, smq [bn{1 g}1 a d] [d~{1 b}1 c~ d] [b{1 g}1 a d] [d~{1 b}1 c~ d]
+/
+3 bars | 2b 1.5 1 1 1 1.5 1 1 1 .8 .8 .8 .8 1.2 1 1 1  | 1 1 1 1 1 1 1 1 1.5 1.5 1 1 1 1 1 1  | 1 1.6 1.3 1 1 1 1 1 1 1.6 1.6 1 1 1 1 1|
+|
+=1, treble 2b smq [b{1 f#}1 g d] [a en f d] qua [g G] smq rest [g{1 a b}1]
+|
+=1, smq [c~ A{1 B A}1] [c~ a c~ a] [d en f# g] [a b c~ a]
+|
+=1, smq [b G{1 F# G}1] [b g b g] [c d en f] [g a b g]
+/ 
+3 bars | 2b 16 | 1.5 1 1 1 1 1 1 1 .8 .8 .8 .8 1.6 1 1 1  | 1 1.1 1.1 1 1 1.1 1.1 1 1 1.2 1.2 1.2 1.2 1.2 1.2 1.2 |
+|
+il0.5     15
+=1, treble 2b smq [a{1 f}1 g c] [c~{1 a}1 b c] [a{1 f}1 g c] [c~{1 a}1 b c]
+|
+=1, smq [a{1 en}1 f c] [g{1 d}1 e c] qua [f F] smq rest [eb{2 d c}2]
+|
+=1, smq [d b f~ b] [d b f~ b] [e f~{1 e~ d~}1] [f~{1 e~}1 d~ e~]
+/
+3 bars | 2b 16 | 1 1 1 1 1 1 1 1 1 1 1.5 1 1 1 1 1  | 1 1 1 1 1 1 1 1.5 1 1 1 1 1 1 1 1 |
+|
+=1, treble 2b smq [c a e~ a] [c a e~ a] [d e~{1 d~ c~}1] [e~{1 d~}1 c~ d~]
+|
+=1, smq [Bn g d~ g] [B g d~ g] [c d~{1 c~ bn}1] [d~{1 c~}1 b c~]
+|
+il0.5  20
+=1, smq [A f c~ f] [A f c~ f] [B c~{1 b a}1] [c~{1 b}1 a b]
+/
+3 bars | 2b 16 | 1 1 1 1 1 1 1 1 .8 .8 .8 .8 1.2 1 1.5 1 | 16 |
+|
+=1, treble 2b smq [B b c b] [d b e b] [f a d b] [g b c c~]
+|
+=1, smq [a f b d] [e b f a] qua [b B] smq rest [c d en]
+|
+=1' smq [F f G f] [A f F f] [G f A f] [B f G f]
+/
+3 bars | 2b 16 | 16 | 8 6 ||
+|
+=1 treble 2b smq [A f' F f'] [G g' A a'] [B, b c c~] [d d~ e e~]
+|
+il0.5     25
+=1, smq [f a d b] [g b e c~] [a f b d] [e b f a]
+|
+=1 smq [b d~ b f] [d b f d] cro B rest
+/
+4 bars | 2b 4/4 12 | 4 2 2 2 || 4/4 2 2 2 2 2 3 3 3 | 2 2 2 2 2 3 3 3 |
+|
+I0.6        Adagio
+=1 treble 2b 4/4 cro rest G en-tr b-tr
+I0.1             p
+|
+=1, qua [F{1 a}1] min. a
+|
+I0.6        Vivace
+=1 4/4 qua rest [f b b] [b smq B,{1 d}1] [c{1 e}1 d{1 f}1]
+|
+=1 qua [e g c~ c~] [c~ smq c{1 e}1] [d{1 f}1 e{1 g}1]
+/
+3 bars | 2b 6 4 6 4 | 6 4 4 4 | 2 2 2 2 2 3 3 3 |
+|
+il0.5      5
+=1 treble 2b smq [f c~{1 b a}1] qua [b d] smq [c b{1 a g}1] qua [a f]
+|
+=1, smq [B d{1 c B}1] qua [g B] [A f G en]
+|
+=1 qua [F, c~ f~ f~] [f~ smq f{1 a}1] [g{1 b}1 a{1 c~}1]
+/
+3 bars | 2b 1 1 1 1 1 1 1 1 1 1 1.5 1.5 1.5 2.1 1.5 1.5  | 2.1 1.5 1.5 1.5 1 1 1 1 1.5 1.5 1.5 1.5 1 1 1 1  | 1 1 1.5 1.5 1.5 1.5 1.5 2.1 1 1 1 1 1 1 1 1 |
+|
+=1 treble 2b qua [b d~ g~ g~] [g~ smq g{1 b}1] [a{1 c~}1 bn{1 d~}1]
+|
+=1 smq [c~ e~n{1 d~ e~}1] qua [f~ a] smq [g f~{1 e~ d~}1] qua [e~ c~]
+|
+il0.6        10
+=1 qua [f smq F,{1 A,}1] smq [G{2 B'}2 A{2 c'}2] qua [Bn, f g{1 f}1]
+
+12 systems /19/19/19/19/19/19/19 19/19/19/19/19/19/
+pagenum 27
+innerhead Fantasia 11. in G major, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+3 bars | 2b 2 3 2 2 2 3 3 3 | 2 2 2 2 3 3 2 2 | 2 3 3 3 3 3 3 3 |
+|
+=1, treble 2b qua rest smq [d~{1 f~}1 qua e~ d~] [e~ smq c{1 e}1] [A{2 c}2 A{2 c}2]
+|
+=1, qua [F# d e{1 d}1] rest smq [a{1 c~}1 qua bn a]
+|
+=1, qua [bn smq G{1 B}1] [A{1 c}1 B{1 d}1] [c{1 e}1 A{1 c}1] [B{1 d}1 c{1 e}1]
+/
+3 bars | 2b 1 1 1 1 1 1 1 1 1 1 1.5 2.1 1.5 1.5 1.5 1.5  | 1 1.1 1 1 1 1 1 1  1 1 1.5 1.5 2.1 1.5 2.1 1.5  | 1.5 2.1 2.1 1.5 1 1 1 1 1.5 1.5 2.1 1.5 1 1 1 1 |
+|
+=1, treble 2b qua [d a d~ d~] [d~ smq d{1 f}1] [en{1 g}1 f{1 a}1]
+|
+il0.7        15
+=1, qua [g G c# c] [c smq bn{1 g}1] [a{1 f#}1 g{1 en}1]
+|
+=1, smq [f#{1 d}1 e{1 c}1] qua [g B] smq [A g f{1 en}1] qua [f d]
+/
+3 bars | 2b 1 1 1.5 2.1 1 1 1 1 1 1 1 1 1 1 1 1  | 1 1 1.5 2.1 1 1 1 1  1 1 1 1 1 1 1 1  | 1 1 1 1 1 1 1 1  2.1 1.5 1 1 1 1 |
+|
+=1, treble 2b qua [G smq g{1 a}1] qua [bn G] [c#, b a{1 g}1]
+|
+=1, qua rest smq [c~#{1 d~}1 qua e~n f#] [d f~ e~{1 d~}1]
+|
+=1, qua [G, e~n A, c~#] rest smq [d{1 e}1 qua d c]
+/
+3 bars | 2b 2 2 2 2 2 3 3 3 | 1 1 1 1 1 1 1 1 1 1 1.5 1.5 1.5 2.1 1.5 1.5  | 6 4 6 4 |
+|
+il0.5      20
+=1, treble 2b qua [B f# bn b] [b smq B{1 d}1] [c{1 e}1 d{1 f}1]
+|
+=1 qua [e g c~# c~] [c~ smq c{1 e}1] [d{1 f}1 en{1 g}1]
+|
+=1 smq [f c~# bn{1 a}1] qua [b d] smq [c b a{1 g}1] qua [a f]
+/
+3 bars | 1.5 1.5 2.1 1.5 1 1 1 1 1.5 2.1 2.1 1.5 1 1 1 1  | 1.5 2.1 1.5 1.5 1 1 1 1 1.5 1.5 1.5 1.5 2.1 1.5 1.5 1.5  | 1.5 1.5 1.5 1.5 1.5 1.5 1.5 2.1  1 1 1 1 1 1 1 1 |
+|
+=1, treble 2b smq [B, d~ g{1 f#}1] qua [g B] smq [A, c~# fn{1 en}1] qua [f A]
+|
+=1, smq [G bn e{1 d}1] qua [e G] smq [F e d{1 c}1] [B g# gn{1 f}1]
+|
+il0.5      25
+=1, smq [e{1 g}1 e{1 g}1] [d{1 f}1 d{1 f}1] qua [A e d{1 c}1]
+/
+3 bars | 2 3 2 2 2 3 2 2  | 1 1 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 2.1 1.5 1.5  | 2 2 2 2 2 3 3 3 |
+|
+=1 treble 2b qua rest smq [c~#{1 e~n}1 qua d~ c~] [d~ smq c~{1 bn}1 qua f a-tr]
+|
+=1, qua [b smq B{1 d}1] [c{1 e}1 d{1 f}1] [e{1 g}1 c{1 e}1] [d{1 f}1 en{1 g}1]
+|
+=1 qua [f c~# f~ f~] [f~ smq f{1 a}1] [g{1 b}1 a{1 c~}1]
+/
+3 bars | 2b 2 2 2 2 2 3 3 3 | 6 4 6 4 | 6 4 3.5 3.5 ||
+|
+=1 treble 2b qua [b B, en e] [e smq d~{1 b}1] [c~{1 a}1 b{1 g}1]
+|
+il0.5     30
+=1 smq [a f g a] qua [b d] smq [c b a{1 g}1] qua [a f]
+|
+=1, smq [B c d en] qua [f F] cro B rest
+/
+6 bars | 2b 6/4 4 | 12 | 9 | 3 2 2 3 2 2 | 3 2 2 1.5 1.5 2 | 2 2 2 1.5 1.5 2 |
+|
+I0.7        Allegro
+=1 treble 2b 6/4 qua [b{1 a}1]
+|
+=1 cro b f d f d B
+|
+=1 min. g-emph f-emph
+|
+=1 qua [d{1 en}1] cro f B qua [c{1 d}1] cro e G
+|
+=1 qua [A{2 B'}2] cro c F min f cro e
+|
+il0.5    5
+=1 cro d{1 f}1 B min g cro f
+/
+5 bars | 2 2 2 1.5 1.5 2 | 3 2 2 3 2 2 | 12 | 12 | 12 |
+|
+=1 treble 2b cro en{1 g}1 c min c~ cro b
+|
+=1 qua [a{1 b}1] cro c~ f qua [en{1 f}1] cro g e
+|
+=1 cro f{1 a}1 c g{1 b}1 c
+|
+=1 cro a{1 c~}1 c b{1 c~}1 c
+|
+il0.5          10
+=1 cro a{1 c~}1 c g{1 b}1 c
+/
+6 bars | 2b 3 2 2 3 2 2 | 2 1.5 1.5 1.5 1.5 :||: 3 2 | 12 | 9 | 3 2 2 3 2 2 |
+|
+=1 treble 2b qua [a{1 b}1] cro c~ f qua [en{1 f}1] cro g e
+|
+=1 cro c min f{1 f}1
+|
+=1 qua [f~{1 e~n}1]
+|
+=1 cro f~ c~ a c~ a f
+|
+=1 min. e~-emph d~-emph
+|
+il0.7         15
+=1 qua [b{1 c~}1] cro d~ g qua [f#{1 g}1] cro a f
+/
+6 bars | 2b 2 1.5 1.5 2 1.5 1.5 | 3 2 2 3 2 2  | 2 1.5 1.5 2.6 1.5 1.5 | 12 | 12 | 3 1.6 1.6 3 1.6 1.6 |
+|
+=1 treble 2b cro d{1 min g}1 cro d{1 min b}1
+|
+=1 qua [g{1 f#}1] cro g en qua [f{1 e}1] cro f d
+|
+=1, cro B{1 min e}1 cro B{1 min g}1
+|
+=1 cro f#{1 b}1 d e{1 g}1 c
+|
+il0.5        20
+=1 cro d{1 f#}1 B c{2 F}2 e~
+|
+=1 qua [d~{1 c~}1] min b qua [c~{1 b}1] min a
+/
+5 bars | 2b 2.5 2 2 2 2 2 | 2.5 2 2 2.5 2 2 | 2.5 2 2 1.5 1.5 2  | 3 2 2 3 2 2 | 2 1.5 1.5 1.5 1.5 :||
+|
+=1 treble 2b cro b en{1 f}1 c~ e{1 f}1
+|
+=1 cro d~ en{1 f}1 e~ e{1 f}1
+|
+=1 cro d~ en{1 f}1 min c~ cro eb
+|
+il0.5           25
+=1 qua [d{1 en}1] cro f B qua [A{2 B'}2] cro c A
+|
+=1 cro F min B{1 B}1
+
+12 systems /19/19/19/19/19/19/19 9/19/19/19/19/19/
+pagenum 28
+title 12.
+innerhead Fantasia 12. in g minor, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+6 bars | 3b 3/2 .8 .8 .8 .8 1.6 1 1 1 1.6 1 1 1  | .9 .9 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5  2.1  | .8 .8 .8 .8 1.6 1 1 1 1.6 1 1 1 | 7 || 3/4 5 5 7 | 5 5 7 |
+|
+I0.6         Grave
+=1 treble 3b 3/2 min c qua an{1 cro. g}1 qua f{1 cro. e}1
+|
+=1 cro-s d{2 smb. c-tr smq-s [Bn c}2]
+|
+=1 min Bn qua g{1 cro. f}1 qua e{1 cro. d}1
+|
+=1 smb. G
+|
+I0.6    Allegro
+il0.5               5
+=1 3/4 qua [c~ g g g] smq [g{1 an}1 f g]
+|
+=1 qua [a f f f] smq [f{1 g}1 a f]
+/
+6 bars | 3b 2 2 2 2 2 3 | 12 | 2 3 2 2 2 2 | 12 | 12 | 2 3 2 2 2.6 2 |
+|
+=1, treble 3b qua [g G f G] [d~ smq e{1 d}1]
+|
+=1 qua [e c g c c~ c]
+|
+=1, qua [e~ smq c d] qua [e d c B]
+|
+il0.5   10
+=1, qua [An c~] rest [f c~ e]
+|
+=1, qua [d B f B b B]
+|
+=1, qua [d~ smq B c] qua [d c B An]
+/
+6 bars | 3b 12 | 2.8 2 2 3.1 2 2 | 2 3.3 2 2 2 2  | 1 2 2.8 1.6 1 1 1.7 1.7 1 1 1.7 1.7  | 2 3.3 2 3.3 2 3.3 | 1 2 2.8 1.6 .7 .7 .7 .7 .7 .7 .7 .7 |
+|
+=1, treble 3b qua [G b] rest [e b d]
+|
+=1, qua [c An e A an A]
+|
+il0.5   15
+=1 qua [c~ smq An, B,] qua [c' B A G]
+|
+=1, qua [d smq f# an] qua [d smq g b] qua [d smq a c~]
+|
+=1, qua [d smq b d~] qua [d smq an c~] qua [d smq g b]
+|
+=1 qua [d smq f# an] cro d rest
+/
+5 bars | 3b 1.5 1.5 2.7 1.5 1 1 1 1 1.3 1.5 1 1  | 1.5 1.5 2.7 1.5 1 1 1 1 1 1 1 1  | 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 1.5 2.5 1.5 1.5  | 1.5 2.5 1.5 2.5 1.5 2.5 1.5 1.5 1.5 1.5 2.5 1.5  | 2 2 2 2 2.8 2 |
+|
+=1, treble 3b smq [d~{1 c~}1 b an] qua [g B c An]
+I0.1        f
+|
+il0.6        20
+=1, smq [d~{1 c~}1 b an] qua [g c d B]
+|
+=1 smq [e~{1 d~}1 c~ b] [a b c~ d~] [c~{1 b}1 a g]
+|
+=1, smq [f# g an b] [ab{1 g}1 fn e] [d c B An]
+|
+=1, qua [B d~ c g d f#-tr]
+/
+6 bars | 3b 4 3 3 || 3/2 .8 .8 .8 .8 1.6 1 1 1 1.6 1 1 1  | .9 .9 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5  2.1  | .8 .8 .8 .8 1.6 1 1 1 2.1 1 1 1 | 7 || 3/4 4 4 6 |
+|
+=1 treble 3b qua [g d] cro G rest
+|
+I0.6  Grave
+il0.7               25
+=1 3/2 min g qua e~{1 cro. d~}1 qua c~{1 cro. b}1
+|
+=1 cro-s an{1 smb. g-tr smq-s [f# g}1]
+|
+=1 min f# qua d~{1 cro. c~}1 qua b{1 cro. an}1
+|
+=1 smb. d
+|
+I0.9    Allegro
+=1 3/4 qua [g~ d~ d~ d~] smq [d~{1 e~}1 c~ d~]
+/
+6 bars | 3b 4 4 7.3 | 2 2 2 2.5 2 3 | 2 2 2 2.5 2 2  | 1.6 1.6 1.6 1.6 1.6 1.6 2.4 1.6 .8 .8 .8 .8  | 2 2 2 2 2.5 2 | 1.6 1.6 1.6 1.6 1.6 1.6 1.6 2.4 .8 .8 .8 .8 |
+|
+il0.6   30
+=1 treble 3b qua [e~ c~ c~ c~] smq [c~{1 d~}1 e~ c~]
+|
+=1 qua [d~ d c~ d] [an smq b{1 a}1]
+|
+=1 qua [b g d~{1 c~}1 bn g]
+|
+=1 smq [en{1 d}1 c d] [e f g a] cro b
+|
+=1 qua [a f c~{1 b}1 a e]
+|
+il0.6     35
+=1 smq [d{2 c}2 B c] [d en f g] cro a
+/
+6 bars | 3b 12 | 12 | 12 | 12 | 2 3 2 2 2 2 | 2 3 2 2 2 2 |
+|
+=1, treble 3b qua [g en a c b G]
+|
+=1, qua [c~ An b G c~ A]
+|
+=1, qua [b g c~ An d~ B]
+|
+=1, qua [e~ c d~ B e~ c]
+|
+il0.5  40
+=1 qua [f smq a b] qua [c~ a g a]
+I0.1  p
+|
+=1 qua [en smq a b] qua [c~ a g a]
+/
+6 bars | 3b 2 3 2 2 2 2 | 2 2 2.6 1.8 1.8 2 | 12 | 12 | 12 | 12 |
+|
+=1 treble 3b qua [d smq a b] qua [c~ a g a]
+|
+=1, qua [B d] f cro an{1 qua b}1
+|
+=1 qua [g b e~ g{1 f}1 d~]
+|
+il0.4  45
+=1, qua [en g c~ e{1 d}1 b]
+|
+=1, qua [c en an c{1 B}1 g]
+|
+=1, qua [An c f A{1 G}1 en]
+/
+5 bars | 3b 12 | 2 2.3 2.1 2 2 2 | 2 3.7 2 2 2 2  | 2 3.7 1.7 1.7 1.7 1.7 | 2 3 2 2 2 2 | 2.6 3 2 3 2 3 |
+|
+=1, treble 3b qua [An c~{1 b}1 en B d~]
+|
+=1, qua [c d~{1 e~}1 c~ d f~]
+|
+il0.7 50
+=1, qua [en smq g~ f~] qua [g~ e B d~]
+I0.1         f
+|
+=1, qua [c smq e~ d~] cro e~ rest
+|
+=1, qua [An f en{1 f}1 c~ f]
+|
+=1, qua [G smq Bn d] qua [G smq c en] qua [G smq d f]
+/
+4 bars | 3b 1.6 2.4 1.6 2.4 1.6 2.4 | 2.2 3 1.8 1.8 1.8 1.8  || 4/4 2.5 2.5 2 2 2.5 2.5 2 2 | 2.5 2.5 2.5 2.5 2.5 2.5 1.8 1.8 |
+|
+=1, treble 3b qua [G smq en g] qua [G smq d f] qua [G smq c e]
+|
+il0.5  55
+=1' qua [G smq Bn d] cro G rest
+|
+I0.5    Dolce
+=1 4/4 smq [Bn,{1 d f}1 an] smq-s a' qua. [g smq f] smq [c{1 en g}1 c~] qua rest Bb
+I0.1  p
+|
+=1, smq [An{1 c en}1 g] smq [f qua c~ smq e] [Bn{1 d f}1 b] cro rest
+/
+3 bars | 3b 4 3 4 4 | 16 | 1 1 1 1 1 1 1 1 1 1 1.2 1.2 1 1.5 1 1 |
+|
+=1, treble 3b smq [Bn{1 e g}1 b] cro rest smq [B{1 d f}1 b] [An{1 c f}1 c~]
+|
+=1, smq [Bn, d~ g e~] [f d~ e c~] [d b e g~] [d f~ c e~]
+|
+il0.6   60
+=1, smq [Bn, d~ g e~] [f d~ e c~] [d c~{1 b}1 f~] [c b{1 an}1 e~]
+/
+3 bars | 3b 5 5 5 3.5 || 3/4 5 4 4 | 5 4 4 | 15 |
+|
+=1, treble 3b smq [Bn{1 d f}1 b] [B{1 g b}1 e~] [B{1 d f}1 b] cro rest
+|
+I0.7     Allegro
+=1, 3/4 smq [b{1 a}1 g f] qua [e G An{1 G}1]
+I0.1   f
+|
+=1, smq [b{1 a}1 g f] qua [e G An{2 G}2]
+|
+=1 smq [e~{1 d~}1 c~ b] [a g a b] [c~{1 b}1 a g]
+
+13 systems /19 19/19/19/19/19/19 7/19/19/19/19/19/19/19/
+pagenum 29
+innerhead Fantasia 12. in g min, Georg Philipp Telemann
+leftfoot arranged for C recorder (c) 2001 Peter J Billam
+/
+5 bars | 3b 1.6 1 1 1 1 1 1.6 1 1 1 1 1 | 9.5 | 1.7 2 1.7 1.7 1.7 1.7  | 9.5 | 5 4.5 ||
+|
+il0.6    65
+=1, treble 3b [f en f g] [a{1 g}1 f eb] [d c Bn An]
+|
+=1, qua [G b An e Bn d]
+|
+=1, qua [c smq c~ d~] qua [e~ Bn{1 An}1 c~]
+|
+=1, qua [G b A e Bn d~]
+|
+=1 qua [e~ b] smq-s [e' d'] cro e rest
+/
+7 bars | 3b 2/2 3 | 3 2 2 2 | 8 | 8 | 3 3.5 2 2 | 3.5 2 2 2 | 8 |
+|
+I0.6    Rondo
+i0.6                 Presto
+=1 treble 3b 2/2 cro g
+|
+=1 qua [c~ d~] cro e~ d~ c~
+|
+=1 cro bn{1 c~}1 g c~
+|
+=1 cro g~ c~ bn{1 c~}1
+|
+=1 qua [d~{1 c~}1 d~ e~] cro d~ g
+|
+il0.5 5
+=1 qua [c~ d~] cro e~ d~ c~
+|
+=1 cro bn{1 c~}1 g c~
+/
+7 bars | 3b 8 | 2 1.3 1 1 1 .8 :||: 3 1.5 | 1 1 2.2 1.6 1 1 1.6 1.6  | 2 2.8 2 3 | 1 1 1 1 1 1 2 1.4 | .8 .8 .8 .8 1 1 2 1.4 |
+|
+=1 treble 3b cro g~ c~ bn{1 c~}1
+|
+=1 qua [g bn] min d~
+|
+=1 qua [g~{1 f~#}1]
+|
+=1 cro g~ qua [f~{1 e~n}1] cro f~ qua [e~b{1 d~}1]
+|
+il0.7   10
+=1 cro e~ qua [d~{1 c~}1] cro d~ qua [d~ f~]
+|
+=1 cro e~ d~ c~ qua [d~ bn]
+|
+=1 min c~ cro g qua [g~{1 f~#}1]
+/
+7 bars | 1 1 2.4 1.5 1 1 1.5 1.5 | 2 3 2 3.2 | 1 1 1 1 1 1 2.2 1.5  | 5 3 :||: 1# 3.5 1.5 | 1 1 1 1.6 1 1 1 1.6 | 1.8 1.8 1.8 2 |
+|
+=1 treble 3b cro g~ qua [f~{1 e~n}1] cro f~ qua [e~b{1 d~}1]
+|
+=1 cro e~ qua [d~{1 c~}1] cro d~ qua [d~ f~]
+|
+il0.6      15
+=1 cro e~ d~ c~ qua [d~ bn]
+|
+=1 qua [c{1 g] min c~}1
+|
+=1 treble qua [e{1 f}1]
+|
+=1 cro. g{1 qua g#}1 cro. gn{1 qua g#}1
+|
+=1 min. g-tr cro c~
+/
+7 bars | 1# 8 | 1.6 1.6 1.6 2 | .8 .8 .8 1.1 .8 .8 .8 1  | 6 | 8 | 1.6 1.6 1.6 2 | 8 |
+|
+=1 treble  qua [g{1 a g}1 c~] [g{1 a g}1 e~b]
+|
+il0.6   20
+=1 cro g c~ rest qua [c{2 d}2]
+|
+=1 cro. e{1 qua f}1 cro. e{1 qua f}1
+|
+=1 min. e-tr cro a
+|
+=1 qua [e{1 f e}1 a] [e{1 f e}1 c~]
+|
+=1 cro e a rest qua [f#{1 g}1]
+|
+il0.6     25
+=1 qua [a a a a] [a a a a]
+/
+5 bars | 1# .5 .5 .5 .9 .5 .5 .5 .5  .5 .5 .5 .9 .5 .5 .5 .5  | 1.6 1 1 1 1 1 1 1 | 1.6 1 .8 .8 1 1 1 1 | 8  | .5 .5 .5 .9 .5 .5 .5 .5  .5 .5 .5 .9 .5 .5 .5 .5 |
+|
+=1 treble  qua. [a{1 smq b qua a}1 a] qua. [a{1 smq b qua a}1 a]
+|
+=1 qua [a{1 f#}1 a d~] [a{1 f}1 a d~]
+|
+=1 qua [a{1 f#}1 a d~] cro rest qua [b{1 c~}1]
+|
+=1 qua [d~ d~ d~ d~] [d~ d~ d~ d~]
+|
+il0.7          30
+=1 qua. [d~{1 smq e~b qua d~}1 d~] qua. [d~{1 smq e~ qua d~}1 d~]
+/
+6 bars | 1# 1.6 1 1 1 1 1 1 1 | 1.6 1 .8 .8 1 1 1 1  | 1 1.6 1 1 1 1 1 1 | .8 .8 .8 1.1 .8 .8 .8 1 | 8 | 5 :||
+|
+=1 treble  qua [d~{1 b}1 d~ g~] [d~{1 b}1 d~ g~]
+|
+=1 qua [d~{1 b}1 d~ g~] cro rest qua [f~#' e~b']
+=1 min. blank qua-s [d~ e~b]
+|
+=1 qua [d~' g~' f~#' e~b'] [d~ c~ b a]
+=1 qua-s [d~ g~ d~ e~b] min blank
+|
+=1 cro. g{1 qua a}1 cro. a-tr qua g
+|
+il0.6      35
+=1, qua [g{1 b}1 g b] [d{1 g}1 B{1 d}1]
+|
+=1 min. G
+/
+7 bars |: 1# 3 | .8 .8 .8 1.1 .8 .8 .8 1 | 1.6 1.6 1.6 2 | 8  | 2 1.6 1.6 2 | .8 .8 .8 1.1 .8 .8 .8 1 | 1.5 1.5 1.5 2 |
+|
+=1 treble  qua [b{1 c~}1]
+|
+=1 cro. d~{1 qua e~b}1 cro. d~{1 qua e~}1
+|
+=1 min. d~-tr qua [b{1 c~}1]
+|
+=1 qua [d~ b{1 a g}1] [e~ c~{1 b a}1]
+|
+il0.6       40
+=1 qua [d~{1 b}1] cro g rest qua [a{1 b}1]
+|
+=1 cro. c~{1 qua d~}1 cro. c~{1 qua d~}1
+|
+=1 min. c~-tr qua [e{1 f}1]
+/
+6 bars | 1# 8 | 2 1.6 1.6 2 | 7.2 | 9.9 | 7.5 | 9.9 |
+|
+=1 treble  qua [g e{1 d c}1] [a f{1 e d}1]
+|
+=1 qua [g{1 e}1] cro c rest qua [d{1 e}1]
+|
+il0.6   45
+=1 cro f f~ f~ f~
+|
+=1 qua [a f~ f~ f~] [f~ f~ f~ f~]
+|
+=1 cro b f~ f~ f~
+|
+=1 qua [c e~ e~ e~] [e~ e~ e~ e~]
+/
+6 bars | 1# 7.2 | 1.6 2 2 2 | 8 | 2 1.6 1.6 1.6 | 8 | .9 .9 .9 1.2 .9 .9 .9 1 |
+|
+=1 treble  cro e e~ e~ e~
+|
+il0.6   50
+=1 cro f# qua [e~ c~] [d~ b c~ a]
+|
+=1 qua [b{1 g}1 c~ a] [b g c~ a]
+|
+=1 qua [b{1 g}1] cro d~ rest f
+|
+=1 qua [e{1 c}1 d e] [f g a b]
+|
+=1 cro. c~ qua d~ cro. d~-tr qua c~
+/
+7 bars | 5 4 | 4.5 :||: 4 | 2 1.6 1.6 1.6 | 7.2 | 7.2 | 4 3.2 |
+|
+il0.6     55
+=1 treble  qua [c~{1 e~}1 c~ e~] [g{1 c~}1 e{1 g}1]
+|
+=1 min. c
+|
+=1 3b cro en
+|
+=1 qua [c~ d~] cro e~ d~ c~
+|
+=1 cro bn{1 c~}1 g c~
+|
+=1 cro g~ c~ bn{1 c~}1
+|
+il0.8       60
+=1 qua [d~{1 c~}1 d~ e~] cro d~ g
+/
+7 bars | 3b 2.2 1.6 1.6 1.6 | 7.2 | 7.2 | 3.2 1.6 1.6 :||: 2.7 1.7  | .8 .8 1.6 1.2 .8 .8 1.2 1 | .8 .8 1.2 1.2 .8 .8 1.2 1 |
+|
+=1 treble 3b qua [c~ d~] cro e~ d~ c~
+|
+=1 cro bn{1 c~}1 g c~
+|
+=1 cro g~ c~ bn{1 c~}1
+|
+=1 qua [g bn] min d~
+|
+=1 qua [g~{1 f~#}1]
+|
+il0.9  65
+=1 cro g~ qua [f~{1 e~n}1] cro f~ qua [e~b{1 d~}1]
+|
+=1 cro e~ qua [d~{1 c~}1] cro d~ qua [d~ f~]
+/
+6 bars | 1# .8 .8 .8 .8 .8 .8 1.6 1.1 | .8 .8 .8 .8 .8 .8 1.6 1.1  | .8 .8 1.6 1.1 .8 .8 1.1 1.1 | 1.6 2 1.6 2.2  | .8 .8 .8 .8 .8 .8 1.6 1.1 | 2 1.5 1.5 :||
+|
+=1 treble 3b cro e~ d~ c~ qua [d~ bn]
+|
+=1 min c~ cro g qua [g~{1 f~#}1]
+|
+=1 cro g~ qua [f~{1 e~n}1] cro f~ qua [e~b{1 d~}1]
+|
+il0.6   70
+=1 cro e~ qua [d~{1 c~}1] cro d~ qua [d~ f~]
+|
+=1 cro e~ d~ c~ qua [d~ bn]
+|
+=1 qua [c{1 g] min c~}1
+@
+
+
+1.2
+log
+@modernise syntax down to line 900
+@
+text
+@d122 1
+a122 1
+=1 smq [Bb, d f#(1 g)1] [A, c f(1 g)1] cro G rest
+d127 1
+a127 1
+=1 treble  3/8 smq [e(1 f#)1 g e f d]
+d136 1
+a136 1
+=1 smq [a(1 bb)1 c~ e a g]
+d138 1
+a138 1
+=1 smq [f#(1 g)1 a f d(1 c)1]
+d144 1
+a144 1
+=1, smq [G Bb d g(1 f#)1 g]
+d146 1
+a146 1
+=1, smq [G c e g(1 f)1 g]
+d155 1
+a155 1
+=1 smq [f(1 g)1 a f g e]
+d159 1
+a159 1
+=1 treble  qua [f(1 e)1 d]
+d162 1
+a162 1
+=1 smq [e(1 f)1 g e f d]
+d166 1
+a166 1
+=1 smq [a(1 g)1 a f(1 e)1 f]
+d168 1
+a168 1
+=1 smq [c~(1 b)1 c~ e(1 d)1 c]
+d173 1
+a173 1
+=1, smq [c e g c~(1 b)1 c~]
+d177 1
+a177 1
+=1, treble  smq [c f a c~(1 b)1 c~]
+d179 1
+a179 1
+=1, smq [c e g c~(1 b)1 c~]
+d181 1
+a181 1
+=1, smq [a(1 g)1 a f(1 e)1 f]
+d183 1
+a183 1
+=1, smq [c~(1 b)1 c~ e(1 d)1 c]
+d189 1
+a189 1
+=1 qua. [c smq e d(1 c)1]
+d204 1
+a204 1
+=1 cro B smq rest [a g f#] [g(1 b d~ g~)1]
+d208 1
+a208 1
+=1 cro A smq rest [g f e] [f(1 a c~ f~)1]
+d215 1
+a215 1
+=1, smq [G-ten f e d] [f-ten d(1 c# d)1] [c(1 d)1 c(1 d)1]
+d217 1
+a217 1
+=1, smq [A-ten d(1 c# d)1] [f-ten d(1 c d)1] [c(1 d)1 c(1 d)1]
+d223 1
+a223 1
+=1 treble 1b smq [b d~ g~ b] [d~(1 g)1 b(1 d)1] cro g
+d226 1
+a226 1
+=1 qua rest G cro. d(1-tr smq [c# d)1]
+d228 1
+a228 1
+=1 smq [c# g#(1 a)1 e] [c(1 d)1 e c] cro A
+d233 1
+a233 1
+=1 treble 1b 3/4 qua rest smq [f g#] qua [a c#,(1 d)1 b]
+d235 1
+a235 1
+=1 qua [c#, b(1 a)1 Bn,(1 cn,)1 a]
+d237 1
+a237 1
+=1, qua [Bn a(1 g#)1 A(1 Bb)1 g]
+d239 1
+a239 1
+=1, smq [A g f(1 e)1] qua [f d A, c~#]
+d242 1
+a242 1
+=1 qua [d smq d~(1 c~#)1] qua [d~ a d~ f~]
+d248 1
+a248 1
+=1 qua [A, smq c~ d~] qua [e~ g#(1 a)1 f~]
+d250 1
+a250 1
+=1 qua [g# f~(1 e~)1 f#(1 gn)1 e~]
+d252 1
+a252 1
+=1 qua [f# e~(1 d~)1 e(1 fn)1 d~]
+d255 1
+a255 1
+=1 smq [e d~ c~(1 bn)1] qua [c~ a e g#]
+d259 1
+a259 1
+=1, treble 1b qua [A smq a(1 g#)1] qua [a e a c~]
+d263 1
+a263 1
+=1, qua [G smq g(1 f#)1] qua [g d g b]
+d272 1
+a272 1
+=1 treble 1b qua rest smq [a(1 c~)1] qua [f~-. f-. f~-. f-.]
+d276 1
+a276 1
+=1 smq [d~(1 e~b)1 d~ c~] [b(1 c~)1 b a] [g(1 a)1 g f]
+d278 1
+a278 1
+=1, qua [e smq g f] [e(1 f)1 e d] [c(1 d)1 c B]
+d288 1
+a288 1
+=1 qua B smq [b c~] qua [d~ f#(1 g)1 e~b]
+d290 1
+a290 1
+=1 qua [f# e~b(1 d~)1 e(1 fn)1 d~]
+d292 1
+a292 1
+=1 qua [e d~(1 c~)1 d(1 eb)1 c~]
+d295 1
+a295 1
+=1 smq [d c~ b(1 a)1] qua [b g d f#]
+d301 1
+a301 1
+=1 qua rest smq [b(1 d~)1] qua [g~ g g~ g]
+d318 1
+a318 1
+=1 qua [G, smq e~b(1 d~)1] qua [e~ g A, c~#]
+d321 1
+a321 1
+=1 qua [B, smq d~(1 c~#)1] qua [d~ f A, d~]
+d329 1
+a329 1
+=1 treble 1b qua [d smq f g] qua [a c#,(1 d)1 b]
+d331 1
+a331 1
+=1 qua [c#, b(1 a)1 Bn,(1 cn,)1 a]
+d334 1
+a334 1
+=1, qua [Bn a(1 g)1 A(1 Bb)1 g]
+d336 1
+a336 1
+=1, smq [A g f(1 e)1] qua [f d A c~#]
+d340 1
+a340 1
+=1 qua rest smq [f(1 a)1] qua [d~-. d-. d~-. d-.]
+d347 1
+a347 1
+=1 smq [b(1 c~)1 b a] [g a g f] [e f e d]
+d349 1
+a349 1
+=1 smq [b(1 c~)1 b a] [g(1 a)1 g f] [e(1 f)1 e d]
+d362 1
+a362 1
+=1, treble 1b 4/4 cro f(1 smq3 [f)1 c~ b a(1 g f)1] smq. [g dsq Bn qua c(1] smq3 [c)1 g f e(1 d)1 c]
+d364 1
+a364 1
+=1, smq. [a dsq e qua f(1] smq3 [f)1 c~ b a(1 g f)1] smq. [g dsq Bn qua c] qua rest smq. [g dsq a]
+d368 1
+a368 1
+=1, treble 1b smq [b d c(1-tr B)1] [b e d(1-tr c)1] smq. [b(1 dsq g)1 qua a] qua rest smq. [a dsq bn]
+d370 1
+a370 1
+=1, smq [c~ e d(1-tr c)1] [c~ f# e(1-tr d)1] smq. [c~(1 dsq a)1 qua b] smq rest [c~ c~(1-tr dsq b c~)1]
+d375 1
+a375 1
+=1, treble 1b qua [d~ smq. B dsq d~] smq [B b b(1-tr dsq a b)1] qua [c~ smq. A dsq c~] smq [A a a(1-tr dsq g a)1]
+d377 1
+a377 1
+=1, qua [b smq. G dsq b] smq [G g g(1-tr dsq f g)1] smq [a(1 dsq g f)1] smq [b(1 dsq a g)1] smq [c~ A, d~ B,]
+d381 1
+a381 1
+=1, treble 1b smq [e(1-tr dsq d c)1 smq f b] qua. [g-tr smq f] smq. [f(1 dsq c)1 qua g#] smq3 rest [Bn c d(1 c B)1]
+d383 1
+a383 1
+=1, smq. [f(1 dsq d)1 qua g#] smq3 rest [Bn c d(1 c B)1] smq. [g(1 dsq f)1 qua d~] smq rest [g gn f]
+d385 1
+a385 1
+=1 dsq [e c~(1 d~ e~b)1 smq. f~ dsq f] smq [c qua. g-tr] cro f rest
+d394 1
+a394 1
+=1 qua [c~#(1 d~)1] rest g#
+d396 1
+a396 1
+=1 smq [g(1 f)1 e d] qua [g#-. d-.]
+d398 1
+a398 1
+=1 qua [c#(1 d)1] rest A
+d401 1
+a401 1
+=1 smq [d(1 e)1 f d] [e(1 f)1 g e]
+d405 1
+a405 1
+=1, treble 1b smq [f(1 e)1 d f] [A(1 c#)1 qua e]
+d407 1
+a407 1
+=1 smq [d(1 e)1 f d] [e(1 f)1 g e]
+d409 1
+a409 1
+=1, smq [f(1 e)1 d f] [A(1 c#)1 qua e]
+d411 1
+a411 1
+=1 qua [f(1 f#)1 g(1 g#)1]
+d414 1
+a414 1
+=1 smq [g#(1 g)1 qua g] rest bn
+d418 1
+a418 1
+=1 treble 1b qua [c~#(1 c~)1 d~(1 e~b)1]
+d420 1
+a420 1
+=1 smq [e~(1 e~b)1 qua e~n] rest e~
+d422 1
+a422 1
+=1 smq [d~(1 c~)1 bn g#] [c~(1 b)1 g g]
+d427 1
+a427 1
+=1 qua [g#(1 g)1 gn(1 f#)1]
+d429 1
+a429 1
+=1 qua [f(1 e)1] rest d
+d444 1
+a444 1
+=1 qua [b smq ab g] [b(1 ab)1 g f#]
+d446 1
+a446 1
+=1, qua [g d] smq [G g f(1 e)1]
+d450 1
+a450 1
+=1, treble 1b qua [f A] smq [Bn f e(1 d)1]
+d452 1
+a452 1
+=1, qua [e smq c Bn] [c(1 d)1 e f#]
+d455 1
+a455 1
+=1, qua [g Bn] smq [c# g f(1 e)1]
+d457 1
+a457 1
+=1 qua [f smq d(1 c#)1] qua [d a]
+d459 1
+a459 1
+=1 qua [B, smq b(1 a)1] [g f e d]
+d468 1
+a468 1
+=1 qua [c~#(1 d~)1] rest a
+d470 1
+a470 1
+=1 smq [g(1 f)1 e d] qua [a d-.]
+d474 1
+a474 1
+=1 qua [eb(1 en)1 f(1 f#)1]
+d476 1
+a476 1
+=1 smq [g(1 f#)1 qua g] [b a]
+d483 1
+a483 1
+=1 smq [d f(1 e d)1] [a f(1 e d)1]
+d485 1
+a485 1
+=1 qua [b(1 a)1 c~#(1 bn)1]
+d487 1
+a487 1
+=1 qua [d~(1 c~#)1 e~ a]
+d501 1
+a501 1
+=1 treble 1b 4/4 smq [d(1 f)1] cro. a smq [c#(1 e)1] cro. a
+d503 1
+a503 1
+=1 smq [B{2 d}2] cro g smq [g#(1 a)1] cro A rest
+d506 1
+a506 1
+=1, smq rest dsq [f e smq f d] [b d(1 e)1 b] smq [f dsq a g# smq a f] [c~ e(1 f#)1 c~]
+d513 1
+a513 1
+=1, smq [d e(1 f)1 c#] [Bn f A f] [G# e eb(1 en)1] [bn e d~ e]
+d517 1
+a517 1
+=1, treble 1b smq rest dsq [c# Bn smq c A] [f A(1 B)1 f] smq [c dsq e eb smq en c] [g# B,(1 c)1 g]
+d519 1
+a519 1
+=1, smq [eb dsq f en smq f eb] [g# en bn eb] [c(1 en)1 a c] [eb b en g]
+d523 1
+a523 1
+=1, treble 1b smq [A(1 c)1 e a] rest [c~ e g#] [f# a eb d~] [en c~ f a]
+d530 1
+a530 1
+=1, treble 1b smq [F(1 A)1 c f] rest [a f c~] [B d~ c~ b] [B d~ G b]
+d532 1
+a532 1
+=1 smq [A, c~ b a] [A, c~ f a] [B, d~ c~(1 b)1] [B, d~ G, b]
+d536 1
+a536 1
+=1, treble 1b smq [A c~ b(1 a)1] [A c~ F a] [B d~ A c~] [G b F a]
+d545 1
+a545 1
+=1, smq [c e A f] [B, g# c e] [F e f(1 eb)1] [F a f(1 en)1]
+d549 1
+a549 1
+=1, treble 1b smq [G e f(1 d)1] [A a f(1 e)1] [B e f(1 d)1] [g# dsq a g smq f g]
+d551 1
+a551 1
+=1, smq [A(1 c#)1 e a] [A(1 d)1 f a] [A(1 c)1 qua e] cro rest
+d556 1
+a556 1
+=1 treble 1b smq [f(1 a)1] cro. c~ smq [e(1 g#)1] cro. c~
+d558 1
+a558 1
+=1 smq [d(1 f)1] cro b smq [bn(1 c~)1] [e(1 g)1 qua c] cro rest
+d561 1
+a561 1
+=1 smq [g(1 bn)1] cro. d~ smq [f(1 a)1] cro. d~
+d563 1
+a563 1
+=1 smq [eb(1 g)1] cro c~ smq [c~#(1 d~)1] [f#(1 a)1 qua d] cro rest
+d568 1
+a568 1
+=1 treble 1b smq rest dsq [B' A smq B' G] [eb G,(1 A,)1 e] smq [B dsq d c smq d B] [f# A(1 Bn)1 f]
+d570 1
+a570 1
+=1 smq [c dsq eb d smq e c] [f# d a c] [B(1 d)1 g B] [c a d f]
+d579 1
+a579 1
+=1, treble 1b smq [G g a b] [eb b d b] [c(1 e)1 g b] rest [d~ c~# b]
+d582 1
+a582 1
+=1, smq [F ab a] [d a c a] [B(1 d)1 f# a] rest [d~ b f]
+d586 1
+a586 1
+=1, treble 1b smq [g(1 a)1 b g] [e(1 f)1 g e] [c#(1 d)1 e c] [A g f(1 e)1]
+d588 1
+a588 1
+=1, smq rest dsq [f e smq f d] [b d(1 e)1 b] smq [f dsq a g smq a f] [c~# e(1 f#)1 c~]
+d592 1
+a592 1
+=1 treble 1b smq [g dsq b a smq b g] [c~# a e~ g] [f(1 a)1 d~ f] [g e~ a c~]
+d594 1
+a594 1
+=1, smq [d e f(1 d)1] [G e A c#] [F e f(1 d)1] [G e A c]
+d599 1
+a599 1
+=1 treble 1b smq [F A d'{2 c'}2] [G, Bn e(1 d)1] [A, c# f(1 e)1] [Bb d g b]
+d601 1
+a601 1
+=1, smq [A c~# d~ e~] [F a d~ d] [G b a(1 g)1] [A f e c~]
+d603 1
+a603 1
+=1, smq [d A f d] [a f d~(1 a)1] [f a qua d] cro rest
+d610 1
+a610 1
+=1 qua [a(1 g)1 a] [f(1 e)1 f]
+d616 1
+a616 1
+=1 qua [f(1 g)1 e] cro d qua a
+d623 1
+a623 1
+=1 treble 1b qua [c g f] [e(1 f)1 g]
+d627 1
+a627 1
+=1, qua [F a g] [a(1 b)1 c~#]
+d629 1
+a629 1
+=1 cro B qua d~ [g(1 b)1 d~]
+d632 1
+a632 1
+=1 cro A qua c~# [f(1 a)1 c~]
+d634 1
+a634 1
+=1 cro G qua b [e(1 g)1 b]
+d640 1
+a640 1
+=1, qua [B d g] [c f(1 e)1]
+d642 1
+a642 1
+=1 qua F cro e(1-emph e)1(1 qua f)1
+d645 1
+a645 1
+=1 qua B cro e(1-emph e)1(1 qua f)1
+d647 1
+a647 1
+=1 qua A cro e(1-emph e)1(1 qua f)1
+d649 1
+a649 1
+=1 qua [d(1 f)1 b] [c b(1 a)1]
+d653 1
+a653 1
+=1, treble 1b qua [B(1 d)1 g] [Bn g(1 f)1]
+d655 1
+a655 1
+=1 qua [c(1 e)1 g] [B g B]
+d658 1
+a658 1
+=1 cro A qua c~# [d(1 e)1 f]
+d660 1
+a660 1
+=1 qua [B e(1 f)1] [c f e]
+d666 1
+a666 1
+=1 qua [c~#(1 b)1 c~] [a(1 g)1 a]
+d670 1
+a670 1
+=1 treble 1b qua [f(1 e)1 f] [c f a]
+d675 1
+a675 1
+=1 qua [a(1 b)1 g] cro f qua a
+d677 1
+a677 1
+=1 qua [Bn(1 d)1 g] cro G qua f
+d679 1
+a679 1
+=1 qua [e(1 f)1 d] cro c qua d
+d681 1
+a681 1
+=1 qua [c#(1 e)1 a] cro A qua e
+d686 1
+a686 1
+=1 treble 1b qua [f(1 g)1 e] cro d qua a
+d688 1
+a688 1
+=1, qua [Bn(1 d)1 g] [A(1 c#)1 f]
+d692 1
+a692 1
+=1 qua [A,(1 c#)1 e] cro A qua G
+d694 1
+a694 1
+=1, qua [F e(1 d)1] [A d(1 c#)1]
+d697 1
+a697 1
+=1 qua d cro c~#(1-emph c~)1(1 qua d~)1
+d701 1
+a701 1
+=1 treble 1b qua g cro c~#(1-emph c~)1(1 qua d~)1
+d703 1
+a703 1
+=1 qua f cro c~#(1-emph c~)1(1 qua d~)1
+d705 1
+a705 1
+=1 qua [eb(1 g)1 b] [d(1 g)1 b]
+d707 1
+a707 1
+=1 qua [c# b(1 a)1] [d(1 f)1 a]
+d710 1
+a710 1
+=1 qua [G, eb(1 d)1] cro A qua c~#
+d725 1
+a725 1
+=1, qua [c~ c~ An c~] smq. [c~(1 dsq a)1 qua b] rest smq. [g dsq e]
+d727 1
+a727 1
+=1, qua [a a Bn a] smq. [a(1 dsq f)1 qua g] rest smq. [g dsq a]
+d729 1
+a729 1
+=1, qua [Bn d~] smq [G a g f] [e(1 c)1 d(1 B)1] qua [c smq. c~ dsq e~n]
+d733 1
+a733 1
+=1 treble 3b qua [f# an] smq [d e~n d~ c~] [b(1 g)1 a(1 f)1] [g en(1 fn)1 g]
+d736 1
+a736 1
+=1, smq [A bn(1 c~)1 f] [c g f en] qua [e(1 f)1] rest smq. [f dsq an]
+d738 1
+a738 1
+=1, smq [d an(1 b)1 c] [B ab g f] [g(1 f)1 qua e] rest smq. [b dsq e]
+d742 1
+a742 1
+=1, treble 3b smq [c~ An(1 G)1 b(1] [an)1 c(1 B)1 g] [A g(1 f)1 c~] [a(1 g)1 f(1 en)1]
+d744 1
+a744 1
+=1 smq [d{2 c}2 qua B] rest smq. [e~n dsq e] smq [e dsq e~(1 d~)1 smq e~ G,] qua [An, smq. e~ dsq e]
+d748 1
+a748 1
+=1 treble 3b smq [e dsq e~n(1 d~)1 smq e~ B] qua [c smq. e~ dsq e] smq [f An,{2 B}2 g{2] [an}2 c(1 d)1 b]
+d751 1
+a751 1
+=1, smq [a(1 g)1 f(1 e)1] [B e An d] dsq [G{2 B}2 qua. e] qua rest smq. [e~n dsq e]
+d755 1
+a755 1
+=1 treble 3b smq [e dsq e~n(1 d~)1 smq e~ G,] qua [An, smq. e~ dsq e] smq [e dsq e~(1 d~)1 smq e~ B,] qua [c smq. e~ dsq e]
+d757 1
+a757 1
+=1, smq [f An(1 B)1 g(1] [a)1 c(1 d)1 b] smq [a(1 g)1 f(1 e)1] [B e A d]
+d759 1
+a759 1
+=1, dsq [G(1 B)1 qua. e] cro rest rest qua rest
+d779 1
+a779 1
+=1, treble 3b smq [c(1 An)1 c e] qua [a-. c] [B smq c B]
+d783 1
+a783 1
+=1 smq [d(1 B)1 d f] qua [b-. d(1 e)1 b]
+d796 1
+a796 1
+=1 qua rest smq [e(1 d)1] qua [e f g an]
+d813 1
+a813 1
+=1 smq [g(1 e)1 g b] qua [e~n g] [f smq g f]
+d818 1
+a818 1
+=1 smq [a(1 f)1 a c~] qua [f~ a(1 b)1 f~]
+d831 1
+a831 1
+=1 qua rest smq [b(1 an)1] qua [b g ab(1 f)1]
+d833 1
+a833 1
+=1, smq [c(1 d)1 en f] qua [g B{2 A}2 f]
+d842 1
+a842 1
+=1 smq [g an bn c~] qua [d~ f(1 e)1 c~]
+d847 1
+a847 1
+=1 qua [e smq c~ bn] qua [c~ an a(1 b)1]
+d850 1
+a850 1
+=1 qua rest smq [a g] qua [a f# f(1 g)1]
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d906 1
+a906 1
+=1 qua rest smq [e d] [e f# g an] [b(1 g)1 a b]
+d920 1
+a920 1
+=1 treble 3b 2/2 min b smq [an(1 b qua c~)1] cro b
+d923 1
+a923 1
+=1 cro g qua [f# g] [an(1 g)1] [f g]
+d925 1
+a925 1
+=1 cro e-emph B-emph qua [e(1 smq f# g)1] qua [f(1 smq g an)1]
+d930 1
+a930 1
+=1 cro e-. B-. qua [e(1 smq f# g)1] qua [f(1 smq g a)1]
+d937 1
+a937 1
+=1 treble 3b min b smq [a(1 b qua c~)1] cro b
+d939 1
+a939 1
+=1 cro g qua [f# g] [a(1 g)1] [f g]
+d944 1
+a944 1
+=1 cro e~n qua [d~ c~] [b(1 a)1 g f#]
+d946 1
+a946 1
+=1 cro e~n e qua [g(1 f#)1 e(1 d)1]
+d952 1
+a952 1
+=1 treble 3b min g smq [f(1 g qua a)1] cro g
+d954 1
+a954 1
+=1 cro c~ qua [bn c~] [d~(1 c~)1] [b c~]
+d957 1
+a957 1
+=1 min g smq [f(1 g qua a)1] cro g
+d961 1
+a961 1
+=1 cro e~n qua [c(1 B)1] cro An e~-.
+d967 1
+a967 1
+=1 treble 3b cro an qua [b g] [b(1 a)1 g f#]
+d970 1
+a970 1
+=1 qua [g b a g] [a(1 g)1 f en]
+d972 1
+a972 1
+=1 qua [f(1 a)1] min c~ cro b
+d983 1
+a983 1
+=1 treble 3b qua [a(1 b a)1 f] [g(1 a g)1 e]
+d985 1
+a985 1
+=1 qua [f(1 g f)1 d] cro e b
+d987 1
+a987 1
+=1 cro g qua [f g] [a(1 g)1] [f e]
+d991 1
+a991 1
+=1 min b smq [a(1 b qua c~)1] cro b
+d997 1
+a997 1
+=1 treble 3b cro g qua [f g] [a(1 g)1] [f g]
+d999 1
+a999 1
+=1 cro e-emph B-emph qua [e(1 smq f g)1] qua [f(1 smq g a)1]
+@

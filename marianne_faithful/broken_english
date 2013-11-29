@@ -1,0 +1,64 @@
+4 systems /19-25-19/
+midi channel 0 patch 85
+midi channel 1 patch 18
+midi channel 2 patch 33
+/
+4 bars | 24 |
+$B1 = {
+	| 1.9
+	=1, bass   cha1 leg90 vol80 1 <d(2 bb(1>
+	=2  bass   cha2 leg80 vol110 8 [F G A F] [G A] rest G
+	|
+	=1, 1 <d)2 bb)1>
+	=2 8 [F G A F] [G A] rest G
+	|
+	=1, 1 <d(2 g(1>
+	=2 8 [F G A F] [G A] rest G
+	|
+	=1, 1 <d)2 g)1>
+	=2 8 [F G A F] [G A] rest G
+}
+$B1 $B1
+=1' cha0 vol80 2 rest'' 4 bb c~
+$B2 = {
+	|
+	=1' bass cha0 2 d~ d~
+	=1, cha1 1 blank
+	=2  cha2 8 [F G A F] [G A] rest G
+	|
+	=1, cha1 1 blank
+	=2  cha2 8 [F G A F] [G A] rest G
+	|
+	=1' cha0 4 c~ c~ 2 bb
+	=1, cha1 1 blank
+	=2  cha2 8 [F G A F] [G A] rest G
+}
+$B2
+|
+=1' cha0 2 rest'' 4 bb c~
+=1, cha1 1 blank
+=2  cha2 8 [F G A F] [G A] rest G
+$B2
+|
+=1' cha0 2 rest'' 4 bb c~
+=1, cha1 blank
+=2  cha2 8 [F G A F] [G A] rest A
+$B2
+|
+=1' treble cha0 4 rest'' F F F
+=1, cha1 1 blank
+=2  cha2 8 [F G A F] [G A] rest G
+$B2
+|
+=1' treble cha0 4 rest'' F F F
+=1, cha1 blank
+=2  cha2 8 [F G A F] [G A] rest A
+
+|
+=1' cha0 4 G G 2 rest'
+=1, cha1 1 <G_(2 C(1>
+=2  cha2 8 [Bb c d Bb] [c d] rest c
+|
+=1' cha0 1 blank
+=1, cha1 1 <G_)2 C)1>
+=2  cha2 8 [Bb c d Bb] [c d] rest c

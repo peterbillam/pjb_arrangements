@@ -1,0 +1,1438 @@
+head	1.13;
+access;
+symbols;
+locks
+	pjb:1.13;
+comment	@# @;
+
+
+1.13
+date	2013.05.17.23.53.35;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.12.00.38.40;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.09.10.41.07;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.08.04.08.59;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.06.01.52.11;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.01.01.05.33;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.30.10.57.46;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.14.01.45.01;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.12.10.50.46;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2008.09.15.02.02.55;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2001.08.24.05.00.33;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2001.08.24.03.30.04;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2001.08.23.22.32.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Vor deinen Thron tret' ich hiermit, for kbd
+@
+
+
+1.13
+log
+@fingering completed; as released
+@
+text
+@6 systems 4 /19-34-19/19-42-19 5/19-51-19 6 \
+ /19-28-19/19-45-19 4/19-46-19 7/
+pagenum 4
+innerhead J. S. Bach
+title Vor deinen Thron tret' ich hiermit
+leftfoot Arranged for piano and typeset 2000 by Peter J Billam.
+midi channel 0 patch 0
+/
+4 bars |1# 2/2 1 1 1 1 .8 .8 1 .8 \
+ | 1 1 1 1 1.3 1 1.3 0.9 \
+ | 1 1 1.1 1 1.3 1 1 0.9 \
+ | 1.3 1 1 1 1 1.6 1 0.9 |
+| 6.6
+=1 treble 1# cha0 leg98 vol80 1 rest
+=2 bass   1# cha0 leg98 vol75 8 rest [g-s5, g a] 4 b 8 [a b]
+|
+=1 8 rest [G-s4 G F] 4 E 8 [F E]
+=2 8 [c~ b] 4 a 8 [g g# a a#]
+|
+=1 8 [D E] 4 F 4. G 8 F
+=2 4. b 8 an-s4, [b c~#] 4 d~(1
+|
+=1  8 [E A] [D G(2-s2-s4] [G)2 16 F E] 8 [F G]
+=2' 8 [d~)1 c~n b e~] 2 a(1
+=2, 2 rest 8 rest-s1, [d-s5, d e]
+/
+4 bars | 1# 1 1 1 1 1 1 1.4 1| 1.4 1.3 1.6 1 1 1 1.3 1 \
+ | 1 1.7 1.2 1.7 1 1.7 1 1.7 | 1 1 1 1 1 1.4 1.4 1.7 |
+|
+il0.6 .03 5
+=1  4 A 8 [G-s3 A] B' [D D C#-s3]
+=2' 8 [a)1 b-s2,] 4 c~ 8 [b a] 4 g(1
+=2, 4 f 8 [e-s1,-s5, f] [g-s1,-s3, f] 4 e-s1,-s5,
+|
+=1  4 B_ 8 [C# B_] [A_ B_-s3] 4 C
+=2' 8 [g)1 f g g#] 4. a 8 gn
+=2, 8 [d-s4, d#-s2,-s3, e-s1,-s5, e#l-s2,-s4,] 4. f-s1,-s3, 8 enl
+|
+=1' 1 rest
+=1, 4. D-s2-s5 16 [Cn-s3 B_-s2] 4. C 16 [B_ A_]
+=2' 8 [a 16 g-s1 f-s2] 4 g(1-s1 8 [g)1 16 f e] 4 f
+=2, 8 [f-s3, B-s5,] 4 e(2-,-s2, 8 [e)2 A-s1,-s5,] 4 d-s1,-s3,
+|
+=1' vol+20 2 G-s2-s5 4 G-s2-s4 8 [A-s1-s3 16 cn-s2-s5 B--s4] vol-20
+=1, 8 B_ [B_-s2 B_-s2 C-s1] 4 D 8 [E F]
+=2' 8 rest' [g g a-s2,] 4 b 8 [c~# d~#]
+=2, 8 G 4. rest,-s1, 8 rest-s1, [g-s5, g-s2,-s5, f-s1,-s4,]
+/
+4 bars | 1# 1 1.6 1 1.6 1 1 1 1 \
+ | .5 .5 .5 .5  .8 .8 .5 .5  .5 .5 .5 .5 .7 .6 .8 .7 \
+ | 1 1.6 1.1 1  1 1 1 .9 | 1 1 1 1  1 1 1 .8 |
+|
+=1' vol+20 4 B-s1-s3-s5 8. [A-s2-s"   4-5" 16 B--s4] 4 c-s1-s5 B-s1-s5 vol-20
+=1, 8 [G B_ E D] [C D] 4 D
+=2' 8 [e~ g-,-s1,-s2, g f] e 4 a 8 g(1
+=2, 8. [e-s5, 16 d-,-s4, 8 c-s1,-s5, d-s2,-s3,] \
+ [A-s1,-s"    5-4", F-s5, G-s5, B-s1,-s4,]
+rs0.7 .75 1
+|
+il0.6 .70 10
+=1' vol+20 4 A(1-tr 16 [A)1-s1-s4 G 8 A-s2-s5] 2 G(1-s1-s2-s5 vol-20
+=1, 8 [E C-s1 D C] [B_ C-s2] 4 D(2
+=2' 8 g)1 4 g 8 f g [g g fn]
+=2, 8 [c A d-s2, D-s5,] [E-s5, e-s1,-s2,] [B-s1,-s4, 16 A-s2,-s5, B]
+rs0.7 .44 1
+|
+=1' vol+20 2 G)1 rest vol-20
+=1, 8 [D)2 16 C B_ 8 C A_] B_ 4. rest,,
+=2' 4. e 8 eb d [b c~ b]
+=2, 2 c-s1,-s3, 8 G 4. rest,-s2,
+|
+=1' 1 rest
+=1, 8 rest, [E-s2 D E] [F G A G]
+=2' 8 [a g f g] [a b] 4 c~(1
+=2, 1 rest,
+/
+3 bars | 1# .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .9 .6 \
+ | .5 .5 .7 .7 .5 .5 .9 .7 .5 .5 .7 .7 .5 .5 .9 .6 \
+ | 1 1 1 1 1.1 1.1 1.1 0.8 |
+|
+=1' 4 F 8 [G-s1-s5 G#-s4] [A Gn] [F 16 E D#]
+=2' 4 c~)1 b e a(1
+=2, 8 rest [d-s4, e d] [c-s2,-s5, B-s4, A-s1,-s5, B]
+|
+=1 2. E(2-s2 8 [E)2 16 D C#-s2]
+=2' 8 [a)1 16 g-s2, f-s3,] 4. g-s1, 16 [f-,-s2, e-,-s1,] 4 f(1-,-s2,
+=2, 4. c-s5, 16 [B-s4, A#-s5,] 2 B(2-s4,
+|
+il0.7 .45 15
+=1 8 D-s1 [F-s3 G F] [E D C#-s2 D#-s3]
+=2' 4 f)1 8 rest' f-s3, [g g#] 4 a(1
+=2, 4 B)2 rest, 8 rest, [B-s1,-s4, A-s1,-s5, B-,-s4,]
+/
+3 bars | 1# 1.2 1.6 1 1.6 1 1.6 1 1.6 | 1.5 1.5 1.1 1.5 1.2 1.5 1.5 1.5 \
+ | 1 1.5 1.5 1.5 1 1 1 1.5 |
+|
+=1  4. E-s1 16 [F-s3 G] 4. A 16 [G F]
+=2' 8 [a)1 16 gn f] 4. g 16 [f e-,-,-s1,] 8 [f b-s1,]
+=2, 8 [c-s5, d-s1,-s4, e-s1,-s3, d-s4,] \
+ [c#-s3, A-s2,-s5,] 4 d(2-s2,-s3,
+|
+=1  4. G 16 [F E] 8 [F D] 4 G(2-s5
+=2' 4. e-,-,-s2, 8 a 4 d-,-,-s2, 16 rest' [d~-s2 e~ d~]
+=2, 8 [dr)2 16 c#-s4, B] 8 [c cn(2-s1,-s5,] [cr)2 16 B-s4, A] 8 [B G-s5,]
+|
+=1' 1 rest
+=1, 4 G)2(2 16 [G)2 E-s2 D E] 8 [F G] [A 16 G F]
+=2' 8 [c~-s1 b-s2 a b-,-s2,] 4. c~ 16 [b a-s2,]
+=2, 8 [A 16 B-s5, c] 4 d(2-s1,-s5, 8 [d)2-s1,-s" (5)", e f d-s1,-s5,]
+/
+3 bars | 1# 1 1 1 1.1 1 1.5 1.1 0.8 | 1.1 1.5 1.1 1.5 1 1 1 1.5 \
+ | 1 1.5 1.4 1.5 1 1.5 1 1.5 |
+|
+=1' vol+20 43 blank 23 rest' 2 B-s2-s4 vol-20 
+=1, 8 G [D-s2 D-s2 E-s1] [Fn 16 G F] 4 G-s1-s3
+=2' 8 b [b-s1, b c~-s2,] 4 d~ 8 [e~ d~]
+=2, 2 g(2-s1,-s3, 8 g)2 [g-s3, g fn-s1,-s4,]
+|
+il0.5 .15 20
+=1' vol+20 4 c-s3-s5 B-s4-s5 A-s2-s4 G-s2-s5 vol-20 
+=1, 8 G [G G F#-s3] [E F-s1-s3] 4 G
+=2' 8 c~ 16 [g a-,-s1,] 8 [b 16 c~ d~-s1] 8 [e~ d~] [d~ 16 e~ d~-s1]
+=2, 8 e [e-s3,-s5, e-s2,-s4, d-s1,-s5,] c-s4, [c-s3, c B]
+|
+=1' vol+20 4 F-s2-s4 G-s1-s3-s5 2 A(1-s2-s"   4-5" vol-20
+=1, 8 rest,, [D-s1-s3 D 16 C#-s2 B_-s1] 8 [E 16 C D] 8 [E C]
+=2' 8 [c~ 16 b a-,-s1,] 8 [b g(1] [g)1 16 g f] 8 [e 16 f g]
+=2, 8 [A d-s3,] [B-s5, e-s1,-s2,] \
+ [c# 16 A-s1,-s5, B-s2,-s4,] 8 [c-s1,-s3, A-s2,-s5,]
+
+6 systems /19-43-19/19-41-19 2/19-44-19 5\
+ /19-33-19 1/19-41-19 1/19-44-19 10/
+pagenum
+innerhead J. S. Bach, Vor deinen Thron tret' ich hiermit
+leftfoot Arranged for piano 2000 by Peter Billam.
+/
+4 bars |1# 1.6 1 1.6 1.1 1.2 1.3 1 0.9 | .8 .8 .8 .8 1 1.2 1.3 1 \
+ | 1.4 1 1 1.3 1.3 1.3 1 0.9 \
+ | .7 .6 .5 .5  .5 .5 .7 .7  1.3 1.2 .5 .5  .5 .5 .5 .4 |
+|
+=1' vol+20 2 A)1-s1-s"(5)" rest' vol-20
+=1, 16 [D E 8 F-s1-s3] 16 [E F 8 G-s2-s4] F-s1-s3 4. rest, 
+=2' 8 a 4 d~ 8 c~# d~ [d~-s1 c~n-s1, b]
+=2, 8 [f-s2,-s3, d-s5,] [a-s1, A] d 4. rest,
+|
+=1  1 rest
+=1, 2 rest, 8 rest, [A_-s1 B_ C#]
+=2' 4 a-s1, f 8 [g f] 4 e
+=2, 1 rest,
+|
+=1 4 D-s1 Fn 8 [E F#-s3] 4 G#
+=2' 8 [d c~n-s1, b a-s1,] [g# a] 4 b
+=2, 2 rest, 8 rest,-s2, [d-s2,-s4, cn-s1,-s5, B-s4,]
+|
+il0.8 .59 25
+=1 8 [A-s1-s5 Fn--s4 E-s2-s5 D--s4] 16 [C#-s3 D#] 4 E-s5 8 D-s2-s3
+=2' 4 c~ b 16 [e f#-s1, 8 gn a-s1 b]
+=2, 4 A-s5, G# 8 [A Gn] 4 F
+rs0.1 .43 2 .75 1
+rs0.5 .43 5 .75 4 .84 3
+/
+4 bars | 1# .5 .5 .5 .8 .5 .5 .5 .8 .7 .7 .7 .7 .5 .5 .8 .7 \
+ | 1 1.4 1 1 1 1 1 .7 | 1 1 1 1 1 1.2 1 .7 | 1 1 1.3 1 1.2 1.1 1 .7 |
+|
+=1' 8. [E-s1-s4 16 F--s3 8. G-s2-s3 16 A] 8 B-s1-s5 4 A-s1-s4 16 [B A]
+=2' 4 c~ e~ 8 [d~# e~] 4 f~(1-s2
+=2, 8 [E A-s3,] [G c-s3,] [B-s5, c# d# B]
+rs0.5 .02 5 .24 5
+|
+=1' 4 G A-s1-s5 D-s1 E-s2-s3
+=2' 8 [f~)1 e~-s2 d~n c~-s2] 4 b c~#
+=2, 4 e-s1, f-s3, 8 rest-s1, [g-s2, f-s3, e-s1,]
+|
+=1' 1 rest
+=1, 8 [F-s1-s4 A G F] [E D-s1] 4 Cn-s3
+=2' 2 d~ 8 rest' [d e f-,-s1,]
+=2, 4 d-s2, B 8 [cn-,-s2, B-s1,-s5,] 4 A-s2,-s4,
+|
+=1' vol+20 2 rest d vol-20
+=1, 8 [B_-s2 D-s1-s3] 4 G-s2-s5 8 F [F-s1-s2 F-s2 G-s1]
+=2' 8 [g a b c~#-s1] [d~ c~n] 4 b
+=2, 8 [G-s1,-s5, F-s4, E A] D [d-s"  1-5", d-s1,-s5, e]
+/
+4 bars | 1# 1 1 1.3 1 1 1 1.3 .8 | 1 1 1.3 1.6 1 1 1 .8 \
+ | 1 1.6 1.3 1 1 1 .8 .8 | 1 1 1 1 1 1.6 1 .8 |
+|
+il0.2 .40 30
+rs0.6 .06 4 .29 5
+rs0.3 .06 3 .29 1
+=1' vol+20 4 c B 8 [A G] 4 F vol-20
+=1, 8 [A F-s2] 2. D(2
+=2' 8 rest'' [a a g] [f b] 4 a
+=2, 8 [f d-s1,-s5, gr-s1,-s1, G-s1,-s5,] d-s2,-s3, [d-s1,-s4, d-s1,-s4, c#-s3,]
+|
+=1' vol+20 8 [G--s5 F-s1-s4] 4 E-s2-s"(1)"-s5 2 D(1-s"(2)"-s"    4-5" vol-20
+=1, 8 D)2 4 D 8 C#-s2-s3-s"(5)" 4. Dr 8 Cn-s1-s4-s"(5)"
+=2' 8 [g a b a(1] [a)1 f-s1 g-s2 a(1]
+=2, 8 [B A-s1,-s5,] [G-s4, 16 A-s1, G] 8 [F D E F-s3,]
+|
+=1' vol+20 2 D)1-s"(1)"-s3-s"(5)" rest vol-20
+=1, 2 B_(2 8 [B_)2 A_] 4 rest,
+=2' 8 [a)1 16 g f-s2,] 4 g(1 8 [g)1 f-s3,] 4 b-s2,
+=2, 8 [G-s4, A-s1,-s5, B-s1,-s4, c#-s3,] 4 d-s5, rest
+|
+=1' 1 rest
+=1, 8 rest, [E-s2 D E] [F 16 G F] 8 [E F]
+=2' 4 c~ b a 8 [g a]
+=2, 1 rest,
+/
+4 bars | 1# 1 1 1 1.6 1 1.6 1 0.8 | 1 1 1 1.6 1.2 1 1.3 0.9 \
+ | 1.3 1.6 1 1 1.3 1 1 0.9 \
+ | .7 .7 .8 .8  .7 .7 .8 1.3  .5 .5 .8 1.3  .5 .5 .8 .7 |
+|
+=1  4. G-s1-s5 16 [F E] 8 [F B_] 4 E(2-s5
+=2' 4 b a 2 g
+=2, 8 rest [c-s5, d-s1,-s4, c] [B 16 A B] 8 [c B]
+rs0.1 .48 1
+rs0.4 .48 4
+|
+il0.3 .01 35
+=1  4 E)2 D#-s2-s4 8 E-s1-s5 [F-s1-s4 G-s"    2-1"-s5 F]
+=2' 8 [f g-s"1   "] [a 16 b a] 8 [g a] 4 b(1
+=2, 4 A-s2,-s5, B-s1, E 8 [e dn]
+|
+=1  8 [E 16 Dn E-s4] 8 [F-s2-s5 E] 4. D-s2-s3 8 Cn-s1-s4
+=2' 4 b)1 a# 8 b [f-s1 e f]
+=2, 4 c# 8 [F f] [B-s2, An G-s1,-s4, A]
+|
+=1  8 [B_-s1-s3 C#-s2-s4] [D--s4 16 E-s1-s5 D--s4] \
+ 8 [C#-s1-s3 D-s2-s3] [E--s4 16 F-s1-s5 E]
+=2' 8 [g 16 a g-s1] 8 [f g#] [a 16 b a-s1] 8 [gn-,-s1, a]
+=2, 4 E B A rest,
+rs0.1 .23 1 .49 1
+rs0.4 .23 2 .49 5
+/
+4 bars | 1# 1.4 1 1.3 1 1 1.3 1 1 | 1 1.6 1 1 1 1.6 1 0.9 \
+ | 1.4 1 1 1.6 1 1.6 1 0.9 | 1 1 1.4 1.6 1.3 1.6 1 0.9 |
+|
+=1  8 [D-s1-s3 E-s2-s5 F-s1-s4 G#-s5] 4 A-s2-s5 rest
+=2' 8 [b c~#] 4 d~ 8 c~ [f-s2, gn f-s2,]
+=2, 4 rest, B-s4, A-s5, B-s1,-s4,
+|
+=1' 1 rest
+=1, 8 rest, [A-s4 B A] [G 16 F G-s4] 8 [A-s5 G]
+=2' 8 [e 16 d-,-s2, e-,-s1,] 8 [f e] 4 d rest'
+=2, 4 c#-s1,-s3, 8 [d-s2,-s4, c-s1,-s3,] 4 B-s2,-s5, c-s4,
+|
+il0.3 .03 40
+rs0.4 .54 4
+rs0.1 .54 2
+=1' vol+20 2 rest B vol-20
+=1, 4 F 8 [E-s1-s2 16 F-s3 G-s3] 2 F
+=2' 8 rest' [b c~ b-s1,] [a 16 g a] 8 [b a]
+=2, 8 [d-s5, d#-s1,-s4,] 2 e-s5, 4 d#-s1,-s4,
+|
+=1' vol+20 4 c B-s4-s5 A-s1-s"(4)"-s5 8 [G-s1-s3 A-s1-s2-s4] vol-20
+=1, 8 [E F] 4 G(2 8 [Gr)2 F-s2-s3 G F]
+=2' 8 [g a] [b 16 c~-s1 d~-s2] 8 e~ [d~ d~ c~]
+=2, 8 e-s1,-s5, [e-s2,-s5, e-s1,-s5, dn-s4,] [c-s5, 16 d-s1, c] 8 [B A]
+/
+4 bars | 1# 1 1.3 1.3 1 1.3 1.3 1.3 0.9 | 1 1.6 1 1 1 1 1 0.9 \
+ | 1 1.6 1 1 1.55 1.35 1 0.9 \
+ | .5 .5 .8 1.2  .6 .6 .6 .7  .4 .3 .4 .3  .4 .3 .4 .3 ||
+|
+rs0.8 .07 5 .28 4
+rs0.5 .07 3 .265 (3)
+rs0.2 .07 1 .28 2
+=1' vol+20 4 B A 2 G(1-s"(1)"-s5 vol-20
+=1, 4. G 8 F(2-s1-s3 [Fr)2 E-s2 Fn-s4 E-s2-s3]
+=2' 4 d~ 8 [e~ b] 4. b 8 c~
+=2, 8 [G B-s3, c# d#] [E e dn cn]
+|
+=1' vol+20 1 G)1(1-s1 vol-20
+=1, 8 [D 16 C-s2 D-s3] 8 [E-s4 D-s1-s3] C-s2 4. rest,
+=2' 4 g 8 rest' b c~ [c B c]
+=2, 8 [B-s1,-s4, 16 A-s5, B-s3,] 8 [c-s2, G-s4,] \
+ [E-s5, F-s1,-s4, G-s2,-s3, A-s1,-s4,]
+| 1.7 1.8 2.0 2.1
+=1' vol+20 1 G)1(1 vol-20
+=1, 4 B_ rest, 8 rest, [<D-s1-s3 B_> <Eb C> <D B_>]
+=2' 8 [d 16 e d] 8 [c d] e [fn-,-s2,-s"( 5 )", g f]
+=2, 8 [B-s2,-s3, G A-s1,-s4, B-s2,-s3,] 2 c(2-s1,-s5,
+| 2.2 2.3  2.5 2.5
+=1' vol+20 1 G)1-s2-s"( 5 )" vol-20
+=1, 8 [<A_ C> 16 <G_ B_-s1> <A_ C-s2>] 8 [<B_ D-s1-s3> <A_ C-s"1 "-s"   2-3">] \
+ 2 <G_ B_-s1-s2-fermata>
+=2' 8 [eb 16 d-s2,-s4, e-s1,-s3,] 8 [fn-s2, eb-s1,-s"(5)-3",] 2 d-fermata
+=2, 2 c)2-s1,-s3,-s"( 5 )", G-s2,-s5,
+@
+
+
+1.12
+log
+@more fingering improvements
+@
+text
+@d9 4
+a12 2
+4 bars |1# 2/2 2 2 1.6 2 | 1 1 1 1 1.4 1 1.4 1 | 1 1 1.2 1 1.4 1 1 1 \
+ | 1.4 1 1 1 1 1.7 1 1 |
+d49 3
+a51 2
+4 bars | 1# 1 1.6 1 1.6 1 1 1 1 | 1 1 1.6 1 1 1 1.4 1.6 \
+ | 1 1.6 1.4 1 1 1 1 1 | 8 |
+d108 2
+a109 2
+=2' 8 [c~-s1 b-s2 a b-,-s2,] 4. c~ 16 [b a-s1,]
+=2, 8 [A 16 B-s5, c] 4 d(2-s1,-s5, 8 [d)2-s1,-s"( 5 )", e f d-s2,-s5,]
+d117 1
+a117 1
+=2, 2 g(2-s2,-s4, 8 g)2 [g-s3, g fn-s1,-s4,]
+d120 1
+a120 1
+=1' vol+20 4 c-s3-s5 B-s4-s5 A-s2-s5 G-s2-s5 vol-20 
+d125 1
+a125 1
+=1' vol+20 4 F-s2-s4 G-s1-s3-s5 2 A(1-s2-s"    4-5" vol-20
+d131 2
+a132 2
+6 systems /19-44-19/19-41-19 1/19-44-19 4\
+ /19-33-19/19-41-19/19-43-19 10/
+d137 3
+a139 2
+4 bars |1# 1.6 1 1.6 1.2 1.2 1.4 1 1 | .8 .8 .8 .8 1 1.2 1.4 1 \
+ | 1.4 1 1 1.4 1.4 1.4 1 1 | 1.4 1 1 1.4 2.4 1 1 1 |
+d156 1
+a156 1
+=1 8 [A-s1-s5 Fn--s4 E-s2-s5 D-s4] 16 [C#-s3 D#] 4 E-s5 8 D-s2-s3
+d159 2
+a160 2
+rs0.1 .43 2 .73 1
+rs0.5 .43 5 .73 4 .84 3
+d177 1
+a177 1
+=2, 4 d-s2, B 8 [cn-,-s2, B-s1,-s4,] 4 A-s2,-s5,
+d195 1
+a195 1
+=1' vol+20 8 [G--s5 F-s1-s4] 4 E-s2-s"(1)"-s5 2 D(1-s"(2)"-s"    5-4" vol-20
+d202 1
+a202 1
+=2' 8 [a)1 16 g f-s2,] 4 g(1 8 [g)1 f-s4,] 4 b-s2,
+d210 3
+a212 3
+4 bars | 1# 1 1 1 1.6 1 1.6 1 1 | 1 1 1 1.6 1.2 1 1.3 1 \
+ | 1.4 1.6 1 1 1.3 1 1 1 \
+ | .7 .7 .8 .8  .7 .7 .8 1.2  .5 .5 .8 1.2  .5 .5 .8 .7 |
+d236 2
+a237 2
+4 bars | 1# 1.4 1 1.4 1 1 1.4 1 1 | 1 1.6 1 1 1 1.6 1 1 \
+ | 1.4 1 1 1.6 1 1.6 1 1 | 1 1 1.4 1.6 1.3 1.6 1 1 |
+d249 3
+a251 1
+=1' vol+20 2 rest B-s2-s4 vol-20
+d254 1
+a254 1
+=2, 8 [d-s5, d#-s1,-s4,] 2 e-s5, 4 d-s1,-s4,
+d261 8
+a268 8
+4 bars | 1# 1 1.4 1.4 1 1.3 1.4 1.4 1 | 1 1.6 1 1 1 1 1 1 \
+ | 1 1.6 1 1 1.6 1.4 1 1 \
+ | .5 .5 .8 1.2  .6 .6 .6 .6  .4 .3 .4 .3 .4 .3 .4 .3 ||
+|
+rs0.8 .06 5 .27 4
+rs0.5 .06 3 .255 (3)
+rs0.2 .06 1 .27 2
+=1' vol+20 4 B A 2 G(1-s5 vol-20
+d274 1
+a274 1
+=1, 8 [D 16 C-s2 D-s3] 8 [E-s4 D-s1-s3] C 4. rest,
+d285 1
+a285 1
+=1, 8 [<A_ C> 16 <G_ B_-s1> <A_ C-s2>] 8 [<B_ D-s1-s3> <A_ C-s1-s"   2-3">] \
+d287 2
+a288 2
+=2' 8 [eb 16 d-s2,-s4, e-s1,-s3,] 8 [fn-s2, e-s1,] 2 d-fermata
+=2, 2 c)2-s1,-s3,-s"( 5 )", G-s1,-s4,
+@
+
+
+1.11
+log
+@debugged fingering one iteration
+@
+text
+@d33 1
+a33 1
+=1  4 B_ 8 [C# B_] [A_ B_] 4 C
+d38 3
+a40 4
+=1, 4. D-s1-s4 16 [Cn-s3 B_-s2] 4. C 16 [B_ A_]
+=2' 8 [a 16 g f-s2,] 4 g(1-s1-,-s"     1 - 2", \
+ 8 [g)1 16 f e-,-,-s2,] 4 f
+=2, 8 [f-s3, B-s1,-s5,] 4 e(2 8 [e)2 A-s1,-s5,] 4 d-s1,-s3,
+d50 1
+a50 1
+=1' vol+20 4 B-s1-s3-s5 8. [A-s2-s"    4-5" 16 B--s4] 4 c-s1-s5 B-s1-s5 vol-20
+d58 2
+a59 2
+=1' vol+20 4 A(1-tr 16 [A)1-s2-s4 G 8 A-s"   1-2"-s5] 2 G(1-s1-s2-s5 vol-20
+=1, 8 [E C D C] [B_ C-s2] 4 D(2
+d117 3
+a119 3
+=1' vol+20 4 c B-s4-s5 A-s1-s5 G-s2-s5 vol-20 
+=1, 8 G [G G F#-s3] [E F-s2-s3] 4 G
+=2' 8 c~ 16 [g a-,-s1,] 8 [b 16 c~ d~-s2] 8 [e~ d~] [d~ 16 e~ d~-s1]
+d166 3
+a168 3
+=1' 4 G A D-s1 E-s2-s3
+=2' 8 [f~)1 e~-s1 d~n c~-s2,] 4 b c~#
+=2, 4 e-s"    1-5", f-s1,-s4, 8 rest-s1, [g-s2, f-s3, e-s1,]
+d237 1
+a237 1
+=2, 4 rest, B-s4, A-s5, B-s1,-s5,
+@
+
+
+1.10
+log
+@fingering through to end
+@
+text
+@d81 1
+a81 1
+=2, 8 rest [d-s4, e d] [c-s2,-s5, B-s4, A B]
+d129 1
+a129 1
+6 systems /19-44-19/19-41-19 3/19-44-19 \
+d139 1
+a139 1
+=1, 16 [D E 8 F-s1-s3] 16 [E F 8 G-s1-s4] F-s1-s3 4. rest, 
+d192 1
+a192 1
+=1' vol+20 8 [G--s5 F-s1-s4] 4 E-s2-s"(1)"-s5 2 D(1-s5 vol-20
+d226 3
+a228 2
+=1  8 [B_-s1-s3 C#-s2-s4] [D-s5 16 E-s1-s4 D-s5] 8 [C# D] [E 16 F E]
+=2' 8 [g 16 a g-s1] 8 [f g#] [a 16 b a] 8 [gn a]
+d242 1
+a242 1
+=2' 8 [e 16 d-s4, e-s1,] 8 [f e] 4 d rest'
+d251 1
+a251 1
+=1' vol+20 4 c B-s4-s5 A-s1-s"(4)"-s5 8 [G-s2-s4 A] vol-20
+d260 4
+a263 1
+=1' vol+20 4 B-s1-s3-s5 A-s2-s"(3)"-s4 2 G(1-s5 vol-20
+@
+
+
+1.9
+log
+@more fingering; nearly complete
+@
+text
+@d124 1
+a124 1
+=1, 8 rest,, [D-s1-s3 D 16 C# B_] 8 [E 16 C D] 8 [E C]
+d155 3
+a157 1
+=2, 4 A-s5, G# 8 [A-s2,-s5, Gn-s1,-s4,] 4 F-s3,
+d174 1
+a174 1
+=2, 4 d-s2, B 8 [cn-,-s2, B-s1,-s3,] 4 A-s2,-s4,
+d211 1
+a211 1
+=1  4. G-s1-s5 16 [F E] 8 [F B_] 4 E(2
+d213 3
+a215 1
+=2, 8 rest [c-s4, d-s1,-s3, c] [B-s5, 16 A-s4, B-s5,] 8 [c-s3, B]
+d218 1
+a218 1
+=1  4 E)2 D#-s2-s4 8 E-s1-s5 [F-s1-s4 G F]
+d222 3
+a224 3
+=1  8 [E 16 Dn E] 8 [F E] 4. D 8 Cn
+=2' 4 b)1 a# 8 b [f e f]
+=2, 4 c# 8 [F f] [B An G-s1,-s4, A]
+d228 3
+a230 1
+=2, 4 E B-s1,-s2, A rest,
+d235 1
+a235 1
+=1  8 [D E F-s1-s4 G#-s5] 4 A-s2-s5 rest
+d240 1
+a240 1
+=1, 8 rest, [A B A] [G 16 F G] 8 [A G]
+d250 1
+a250 1
+=1' vol+20 4 c B-s4-s5 A-s1-s"(4)"-s5 8 [G A] vol-20
+d253 1
+a253 1
+=2, 8 e-s1,-s5, [e-s2,-s5, e-s1,-s5, dn-s4,] [c-s5, 16 d c] 8 [B A]
+d259 2
+a260 2
+=1' vol+20 4 B A 2 G(1-s5 vol-20
+=1, 4. G 8 F(2 [Fr)2 E Fn E]
+d264 2
+a265 2
+=1' vol+20 1 G)1(1 vol-20
+=1, 8 [D 16 C D] 8 [E-s4 D-s1-s3] C 4. rest,
+@
+
+
+1.8
+log
+@fingered up to 29
+@
+text
+@d12 2
+a13 2
+=1 treble 1# cha0 leg98 1 rest
+=2 bass   1# cha0 leg98 8 rest [g-s5, g a] 4 b 8 [a b]
+d43 1
+a43 1
+=1' 2 G-s2-s5 4 G-s2-s4 8 [A-s1-s3 16 cn-s2-s5 B--s4]
+d51 1
+a51 1
+=1' 4 B-s1-s3-s5 8. [A-s2-s"    4-5" 16 B--s4] 4 c-s1-s5 B-s1-s5
+d59 1
+a59 1
+=1' 4 A(1-tr 16 [A)1-s2-s4 G 8 A-s"   1-2"-s5] 2 G(1-s1-s2-s5
+d65 1
+a65 1
+=1' 2 G)1 rest
+d112 1
+a112 1
+=1' 43 blank 23 rest' 2 B-s2-s4
+d118 1
+a118 1
+=1' 4 c B-s4-s5 A-s1-s5 G-s2-s5
+d123 1
+a123 1
+=1' 4 F-s2-s4 G-s1-s3-s5 2 A(1-s2-s"    4-5"
+d129 2
+a130 1
+6 systems /19-45-19/19-41-19/19-44-19/19-34-19/19-42-19/19-45-19 15/
+d133 1
+a133 1
+leftfoot Arranged for piano and typeset 2000 by Peter J Billam.
+d138 1
+a138 1
+=1' 2 A)1-s1-s"(5)" rest'
+d153 1
+a153 1
+=1 8 [A-s1-s5 Fn E-s2-s5 D-s4] 16 [C#-s3 D#] 4 E-s5 8 D-s2-s3
+d157 2
+a158 2
+4 bars | 1# .5 .5 .5 .8 .5 .5 .5 .8 .7 .7 .7 .7 .5 .5 .8 .8 \
+ | 1 1.4 1 1 1 1 1 1 | 1 1 1 1 1 1.4 1 1 | 1 1 1.4 1 1.4 1 1 1 |
+d162 2
+a163 1
+=2, 8 [E-s5, A-s3,] [G-s5, c-s3,] [B-s5, c# d# B]
+d167 1
+a167 1
+=2, 4 e-s5, f-s1,-s4, 8 rest-s1, [g-s2, f-s3, e-s1,]
+d174 2
+a175 2
+=1' 2 rest d
+=1, 8 [B_-s2 D-s1-s3] 4 G 8 F [F F G]
+d177 1
+a177 1
+=2, 8 [G-s1,-s5, F-s4, E A] D [d d e]
+d179 2
+a180 2
+4 bars | 1# 1 1 1.4 1 1 1 1.4 1 | 1 1 1.3 1.6 1 1 1.2 1 \
+ | 1 1.6 1.4 1 1 1 .8 .8 | 1 1 1 1 1 1.6 1 1 |
+d183 4
+a186 2
+=1' 4 c B 8 [A G] 4 F
+=1, 8 [A F] 2. D(2
+d188 1
+a188 1
+=2, 8 [f d gr G] d [d d c#]
+d190 4
+a193 4
+=1' 8 [G F] 4 E 2 D(1
+=1, 8 D)2 4 D 8 C# 4. Dr 8 Cn
+=2' 8 [g a b a(1] [a)1 f g a(1]
+=2, 8 [B A] [G 16 A G] 8 [F D E F]
+d195 1
+a195 1
+=1' 2 D)1 rest
+d197 2
+a198 2
+=2' 8 [a)1 16 g f] 4 g(1 8 [g)1 f] 4 b
+=2, 8 [G A B c#] 4 d rest,
+d201 1
+a201 1
+=1, 8 rest, [E D E] [F 16 G F] 8 [E F]
+d205 3
+a207 2
+4 bars | 1# 1 1 1 1.6 1 1.6 1 1 | 1 1 1 1.6 1.2 1 1.4 1 \
+ | 1.4 1.6 1 1 1.4 1 1 1 | .7 .7 .8 .8 .7 .7 .8 1.2 .5 .5 .8 1.2 .5 .5 .8 .8 |
+d209 1
+a209 1
+=1  4. G 16 [F E] 8 [F B_] 4 E(2
+d211 1
+a211 1
+=2, 8 rest [c d c] [B 16 A B] 8 [c B]
+d213 4
+a216 4
+il0.4    35
+=1  4 E)2 D# 8 E [F G F]
+=2' 8 [f g] [a 16 b a] 8 [g a] 4 b(1
+=2, 4 A B E 8 [e dn]
+d220 1
+a220 1
+=2, 4 c# 8 [F f] [B An G A]
+d222 3
+a224 3
+=1  8 [B_ C#] [D 16 E D] 8 [C# D] [E 16 F E]
+=2' 8 [g 16 a g] 8 [f g#] [a 16 b a] 8 [gn a]
+=2, 4 E B A rest,
+d229 1
+a229 1
+=1  8 [D E F G#] 4 A rest
+d239 2
+a240 2
+=1' 2 rest B-s2-s5
+=1, 4 F 8 [E-s1-s2 16 F G] 2 F
+d244 3
+a246 3
+=1' 4 c B A 8 [G A]
+=1, 8 [E F] 4 G(2 8 [Gr)2 F G F]
+=2' 8 [g a] [b 16 c~ d~] 8 e~ [d~ d~ c~]
+d250 2
+a251 1
+ | 1 1.6 1 1 1.6 1.4 1 1 | .5 .5 .8 1.2 .7 .7 .5 .5 .4 .3 .4 .3 .4 .3 .4 .3 ||
+d253 1
+a253 1
+=1' 4 B A 2 G(1
+d256 1
+a256 1
+=2, 8 [G B c# d#] [E e dn cn]
+d258 2
+a259 3
+=1' 4. blank blank-s5 4 blank
+=1' 1 G)1(1
+=1, 8 [D 16 C D] 8 [E D] C 4. rest,
+d264 1
+a264 2
+=1' 4. blank blank-s5 4 blank
+=1' 1 G)1(1
+d269 3
+a271 3
+=1' 1 G)1-s2-s"( 5 )"
+=1, 8 [<A_ C> 16 <G_ B_-s1> <A_ C-s2>] 8 [<B_ D-s1-s3> <A_ C-s1-s2>] \
+ 2 <G_ B_-fermata-s1-s2>
+@
+
+
+1.7
+log
+@some more fingering; fixed missing gn in bar 6
+@
+text
+@d1 2
+a2 1
+6 systems 4 /19-34-19/19-42-19 5/19-51-19 6/19-28-19/19-46-19 4/19-47-19 7/
+d12 2
+a13 2
+=1 treble 1# cha0 leg98 smb rest
+=2 bass   1# cha0 leg98 qua rest [g-s5, g a] cro b qua [a b]
+d15 2
+a16 2
+=1 qua rest [G-s4 G F] cro E qua [F E]
+=2 qua [c~ b] cro a qua [g g# a a#]
+d18 2
+a19 2
+=1 qua [D E] cro F cro. G qua F
+=2 cro. b qua an-s4, [b c~#] cro d~(1
+d21 3
+a23 3
+=1  qua [E A] [D G(2-s2-s4] [G)2 smq F E] qua [F G]
+=2' qua [d~)1 c~n b e~] min a(1
+=2, min rest qua rest-s1, [d-s5, d e]
+d29 18
+a46 18
+=1  1# cro A qua [G-s3 A] B' [D D C#-s3]
+=2' 1# qua [a)1 b-s2,] cro c~ qua [b a] cro g(1
+=2, 1# cro f qua [e-s1,-s5, f] [g-s1,-s3, f] cro e-s1,-s5,
+|
+=1  cro B_ qua [C# B_] [A_ B_] cro C
+=2' qua [g)1 f g g#] cro. a qua gn
+=2, qua [d-s4, d#-s2,-s3, e-s1,-s5, e#l-s2,-s4,] cro. f-s1,-s3, qua enl
+|
+=1' smb rest
+=1, cro. D-s1-s4 smq [Cn-s3 B_-s2] cro. C smq [B_ A_]
+=2' qua [a smq g f-s2,] cro g(1-s1-,-s"     1 - 2", \
+ qua [g)1 smq f e-,-,-s2,] cro f
+=2, qua [f-s3, B-s1,-s5,] cro e(2 qua [e)2 A-s1,-s5,] cro d-s1,-s3,
+|
+=1' min G-s2-s5 cro G-s2-s4 qua [A-s1-s3 smq cn-s2-s5 B--s4]
+=1, qua B_ [B_-s2 B_-s2 C-s1] cro D qua [E F]
+=2' qua rest' [g g a-s2,] cro b qua [c~# d~#]
+=2, qua G cro. rest,-s1, qua rest-s1, [g-s5, g-s2,-s5, f-s1,-s4,]
+d51 4
+a54 4
+=1' 1# cro B-s1-s3-s5 qua. [A-s2-s"    4-5" smq B--s4] cro c-s1-s5 B-s1-s5
+=1, 1# qua [G B_ E D] [C D] cro D
+=2' 1# qua [e~ g-,-s1,-s2, g f] e cro a qua g(1
+=2, 1# qua. [e-s5, smq d-,-s4, qua c-s1,-s5, d-s2,-s3,] \
+d59 4
+a62 4
+=1' cro A(1-tr smq [A)1-s2-s4 G qua A-s"   1-2"-s5] min G(1-s1-s2-s5
+=1, qua [E C D C] [B_ C-s2] cro D(2
+=2' qua g)1 cro g qua f g [g g fn]
+=2, qua [c A d-s2, D-s5,] [E-s5, e-s1,-s2,] [B-s1,-s4, smq A-s2,-s5, B]
+d65 9
+a73 9
+=1' min G)1 rest
+=1, qua [D)2 smq C B_ qua C A_] B_ cro. rest,,
+=2' cro. e qua eb d [b c~ b]
+=2, min c-s1,-s3, qua G cro. rest,-s2,
+|
+=1' smb rest
+=1, qua rest, [E-s2 D E] [F G A G]
+=2' qua [a g f g] [a b] cro c~(1
+=2, smb rest,
+d79 7
+a85 7
+=1' 1# cro F qua [G-s1-s5 G#-s4] [A Gn] [F smq E D#]
+=2' 1# cro c~)1 b e a(1
+=2, 1# qua rest [d-s4, e d] [c-s2,-s5, B-s4, A B]
+|
+=1 min. E(2-s2 qua [E)2 smq D C#-s2]
+=2' qua [a)1 smq g-s2, f-s3,] cro. g-s1, smq [f-,-s2, e-,-s1,] cro f(1-,-s2,
+=2, cro. c-s5, smq [B-s4, A#-s5,] min B(2-s4,
+d88 3
+a90 3
+=1 qua D-s1 [F-s3 G F] [E D C#-s2 D#--s3]
+=2' cro f)1 qua rest' f-s3, [g g#] cro a(1
+=2, cro B)2 rest, qua rest, [B-s1,-s4, A-s1,-s5, B-,-s4,]
+d92 1
+a92 1
+3 bars | 1.2 1.6 1 1.6 1 1.6 1 1.6 | 1.5 1.5 1.1 1.5 1.2 1.5 1.5 1.5 \
+d95 13
+a107 13
+=1  1# cro. E-s1 smq [F-s3 G] cro. A smq [G F]
+=2' 1# qua [a)1 smq gn f] cro. g smq [f e-,-,-s1,] qua [f b-s1,]
+=2, 1# qua [c-s5, d-s1,-s4, e-s1,-s3, d-s4,] \
+ [c#-s3, A-s2,-s5,] cro d(2-s2,-s3,
+|
+=1  cro. G smq [F E] qua [F D] cro G(2-s5
+=2' cro. e-,-,-s2, qua a cro d-,-,-s2, smq rest' [d~-s2 e~ d~]
+=2, qua [dr)2 smq c#-s4, B] qua [c cn(2-s1,-s5,] [cr)2 smq B-s4, A] qua [B G-s5,]
+|
+=1' smb rest
+=1, cro G)2(2 smq [G)2 E-s2 D E] qua [F G] [A smq G F]
+=2' qua [c~-s1 b-s2 a b-,-s2,] cro. c~ smq [b a-s1,]
+=2, qua [A smq B-s5, c] cro d(2-s1,-s5, qua [d)2-s1,-s"( 5 )", e f d-s2,-s5,]
+d109 1
+a109 1
+3 bars | 1 1 1 1.1 1 1.5 1.1 0.8 | 1.1 1.5 1.1 1.5 1 1 1 1.5 \
+d112 4
+a115 4
+=1' 1# 43 blank 23 rest' 2 B-s2-s4
+=1, 1# qua G [D-s2 D-s2 E-s1] [Fn smq G F] cro G-s1-s3
+=2' 1# qua b [b-s1, b c~-s2,] cro d~ qua [e~ d~]
+=2, 1# min g(2-s2,-s4, qua g)2 [g-s3, g fn-s1,-s4,]
+d118 10
+a127 10
+=1' cro c B-s4-s5 A-s1-s5 G-s2-s5
+=1, qua G [G G F#-s3] [E F-s2-s3] cro G
+=2' qua c~ smq [g a-,-s1,] qua [b smq c~ d~-s2] qua [e~ d~] [d~ smq e~ d~-s1]
+=2, qua e [e-s3,-s5, e-s2,-s4, d-s1,-s5,] c-s4, [c-s3, c B]
+|
+=1' cro F-s2-s4 G-s1-s3-s5 min A(1-s2-s"    4-5"
+=1, qua rest,, [D-s1-s3 D smq C# B_] qua [E smq C D] qua [E C]
+=2' qua [c~ smq b a-,-s1,] qua [b g(1] [g)1 smq g f] qua [e smq f g]
+=2, qua [A d-s3,] [B-s5, e-s1,-s2,] \
+ [c# smq A-s1,-s5, B-s2,-s4,] qua [c-s1,-s3, A-s2,-s5,]
+d129 1
+a129 1
+6 systems /19-45-19/19-43-19/19-43-19/19-35-19/19-42-19/19-45-19 15/
+d137 13
+a149 13
+=1' 1# min A)1-s1-s"(5)" rest'
+=1, 1# smq [D E qua F-s1-s3] smq [E F qua G] F cro. rest, 
+=2' 1# qua a cro d~ qua c~# d~ [d~-s1 c~n-s1, b]
+=2, 1# qua [f-s2,-s3, d-s5,] [a-s1, A] d cro. rest,
+|
+=1  smb rest
+=1, min rest, qua rest, [A_-s1 B_ C#]
+=2' cro a-s1, f qua [g f] cro e
+=2, smb rest,
+|
+=1 cro D-s1 Fn qua [E F#-s3] cro G#
+=2' qua [d c~n-s1, b a-s1,] [g# a] cro b
+=2, min rest, qua rest,-s2, [d-s2,-s4, cn-s1,-s5, B-s4,]
+d152 3
+a154 3
+=1 qua [A-s1-s5 Fn E-s2-s5 D-s4] smq [C#-s3 D#] cro E-s5 qua D-s2-s3
+=2' cro c~ b smq [e f#-s1, qua gn a-s1 b]
+=2, cro A-s5, G# qua [A-s2,-s5, Gn-s1,-s4,] cro F-s3,
+d159 17
+a175 17
+=1' 1# qua. [E smq F qua. G smq A] qua B cro A smq [B A]
+=2' 1# cro c~ e~ qua [d~# e~] cro f~(1
+=2, 1# qua [E A] [G c] [B c# d# B]
+|
+=1' cro G A D E
+=2' qua [f~)1 e~ d~n c~] cro b c~#
+=2, cro e f qua rest [g f e]
+|
+=1' smb rest
+=1, qua [F A G F] [E D] cro Cn
+=2' min d~ qua rest' [d e f]
+=2, cro d B qua [cn B] cro A
+|
+=1' min rest d
+=1, qua [B_ D] cro G qua F [F F G]
+=2' qua [g a b c~#] [d~ c~n] cro b
+=2, qua [G F E A] D [d d e]
+d180 20
+a199 20
+il0.5     30
+=1' 1# cro c B qua [A G] cro F
+=1, 1# qua [A F] min. D(2
+=2' 1# qua rest'' [a a g] [f b] cro a
+=2, 1# qua [f d gr G] d [d d c#]
+|
+=1' qua [G F] cro E min D(1
+=1, qua D)2 cro D qua C# cro. Dr qua Cn
+=2' qua [g a b a(1] [a)1 f g a(1]
+=2, qua [B A] [G smq A G] qua [F D E F]
+|
+=1' min D)1 rest
+=1, min B_(2 qua [B_)2 A_] cro rest,
+=2' qua [a)1 smq g f] cro g(1 qua [g)1 f] cro b
+=2, qua [G A B c#] cro d rest,
+|
+=1' smb rest
+=1, qua rest, [E D E] [F smq G F] qua [E F]
+=2' cro c~ b a qua [g a]
+=2, smb rest,
+d204 3
+a206 3
+=1  1# cro. G smq [F E] qua [F B_] cro E(2
+=2' 1# cro b a min g
+=2, 1# qua rest [c d c] [B smq A B] qua [c B]
+d209 11
+a219 11
+=1  cro E)2 D# qua E [F G F]
+=2' qua [f g] [a smq b a] qua [g a] cro b(1
+=2, cro A B E qua [e dn]
+|
+=1  qua [E smq Dn E] qua [F E] cro. D qua Cn
+=2' cro b)1 a# qua b [f e f]
+=2, cro c# qua [F f] [B An G A]
+|
+=1  qua [B_ C#] [D smq E D] qua [C# D] [E smq F E]
+=2' qua [g smq a g] qua [f g#] [a smq b a] qua [gn a]
+=2, cro E B A rest,
+d224 8
+a231 8
+=1  1# qua [D E F G#] cro A rest
+=2' 1# qua [b c~#] cro d~ qua c~ [f-s2, gn f-s2,]
+=2, 1# cro rest, B-s4, A-s5, B-s1,-s5,
+|
+=1' smb rest
+=1, qua rest, [A B A] [G smq F G] qua [A G]
+=2' qua [e smq d-s4, e-s1,] qua [f e] cro d rest'
+=2, cro c#-s1,-s3, qua [d-s2,-s4, c-s1,-s3,] cro B-s2,-s5, c-s4,
+d234 9
+a242 9
+=1' min rest B-s2-s5
+=1, cro F qua [E-s1-s2 smq F G] min F
+=2' qua rest' [b c~ b-s1,] [a smq g a] qua [b a]
+=2, qua [d-s5, d#-s1,-s4,] min e-s5, cro d-s1,-s4,
+|
+=1' cro c B A qua [G A]
+=1, qua [E F] cro G(2 qua [Gr)2 F G F]
+=2' qua [g a] [b smq c~ d~] qua e~ [d~ d~ c~]
+=2, qua e-s1,-s5, [e-s2,-s5, e-s1,-s5, dn-s4,] [c-s5, smq d c] qua [B A]
+d247 4
+a250 4
+=1' 1# cro B A min G(1
+=1, 1# cro. G qua F(2 [Fr)2 E Fn E]
+=2' 1# cro d~ qua [e~ b] cro. b qua c~
+=2, 1# qua [G B c# d#] [E e dn cn]
+d253 4
+a256 4
+=1' smb G)1(1
+=1, qua [D smq C D] qua [E D] C cro. rest,
+=2' cro g qua rest' b c~ [c B c]
+=2, qua [B-s1,-s4, smq A-s5, B-s3,] qua [c-s2, G-s4,] \
+d260 4
+a263 4
+=1' smb G)1(1
+=1, cro B_ rest, qua rest, [<D-s1-s3 B_> <Eb C> <D B_>]
+=2' qua [d smq e d] qua [c d] e [fn-,-s2,-s"( 5 )", g f]
+=2, qua [B-s2,-s3, G A-s1,-s4, B-s2,-s3,] min c(2-s1,-s5,
+d265 5
+a269 5
+=1' smb G)1-s2-s"( 5 )"
+=1, qua [<A_ C> smq <G_ B_-s1> <A_ C-s2>] qua [<B_ D-s1-s3> <A_ C-s1-s2>] \
+ min <G_ B_-fermata-s1-s2>
+=2' qua [eb smq d-s2,-s4, e-s1,-s3,] qua [fn-s2, e-s1,] min d-fermata
+=2, min c)2-s1,-s3,-s"( 5 )", G-s1,-s4,
+@
+
+
+1.6
+log
+@more fingering on firrst page
+@
+text
+@d1 1
+a1 1
+6 systems 6 /19-35-19/19-43-19 5/19-52-19 6/19-28-19/19-46-19 4/19-47-19/
+d6 1
+d10 3
+a12 3
+|
+=1 treble 1# smb rest
+=2 bass   1# qua rest [g-s5, g a] cro b qua [a b]
+d28 3
+a30 3
+=1 treble 1# cro A qua [G-s3 A] B' [D D C#-s3]
+=2' bass   1# qua [a)1 b-s2,] cro c~ qua [b a] cro g(1
+=2,        1# cro f qua [e-s1,-s5, f] [g-s1,-s3, f] cro e-s1,-s5,
+d33 2
+a34 2
+=2' qua [g)1 f g g#] cro. a qua g
+=2, qua [d-s4, d#-s2,-s3, e-s1,-s5, e#l-s2,-s4,] cro. f-s1,-s3, qua en
+d42 1
+a42 1
+=1' min G-s2-s5 cro G-s2-s4 qua [A-s1-s3 smq cn B]
+d44 1
+a44 1
+=2' qua rest' [g g a] cro b qua [c~# d~#]
+d50 5
+a54 5
+=1' treble 1# cro B-s1-s3-s5 qua. [A-s2-s5 smq B-s4] cro c-s1-s5 B
+=1,        1# qua [G B_ E D] [C D] cro D
+=2' bass   1# qua [e~ g-,-s1,-s2, g f] e cro a qua g(1
+=2,        1# qua. [e-s5, smq d-,-s4, qua c-s1,-s5, d-s2,-s3,] \
+ [A-s1,-s"   5-4", F-s5, G-s5, B-s1,-s4,]
+d58 1
+a58 1
+=1' cro A(1-tr smq [A)1 G qua A] min G(1-s1-s2-s5
+d78 3
+a80 3
+=1' treble 1# cro F qua [G-s1-s5 G#-s4] [A Gn] [F smq E D#]
+=2' bass   1# cro c~)1 b e a(1
+=2,        1# qua rest [d-s4, e d] [c-s2,-s5, B-s4, A B]
+d87 1
+a87 1
+=1 qua D-s1 [F-s3 G F] [E D C#-s2-s3 D#--s4]
+d89 1
+a89 1
+=2, cro B)2 rest, qua rest, [B-s1,-s5, A-s4, B-s3,]
+d94 3
+a96 3
+=1 treble 1# cro. E-s1 smq [F-s3 G] cro. A smq [G F]
+=2' bass  1# qua [a)1 smq gn f] cro. g smq [f e-,-,-s1,] qua [f b-s1,]
+=2,       1# qua [c-s5, d-s1,-s4, e-s1,-s3, d-s4,] \
+d111 4
+a114 4
+=1' treble 1# 43 blank 23 rest' 2 B
+=1,        1# qua G [D D E] [Fn smq G F] cro G
+=2' bass   1# qua b [b-s3, b c~] cro d~ qua [e~ d~]
+=2,        1# min g(2-s2,-s4, qua g)2 [g g fn]
+d117 10
+a126 9
+=1' cro c B-s4-s5 A-s1-s5 G
+=1, qua G [G G F#-s1-s3] [E F-s2-s3] cro G
+=2' qua c~ smq [g a] qua [b smq c~ d~-s2] qua [e~ d~] [d~ smq e~ d~]
+=2, qua e [e e d] c [c-s3, c B]
+|
+=1' cro F G min A(1
+=1, qua rest,, [D D smq C# B_] qua [E smq C D] qua [E C]
+=2' qua [c~ smq b a] qua [b g(1] [g)1 smq g f] qua [e smq f g]
+=2, qua [A d] [B e] [c# smq A B] qua [c A]
+d129 1
+a129 1
+pagenum 5
+d136 8
+a143 8
+=1' treble 1# min A)1 rest'
+=1,        1# smq [D E qua F] smq [E F qua G] F cro. rest, 
+=2' bass   1# qua a cro d~ qua c~# d~ [d~ c~n b]
+=2,        1# qua [f d] [a A] d cro. rest,
+|
+=1 smb rest
+=1, min rest, qua rest, [A_ B_ C#]
+=2' cro a f qua [g f] cro e
+d146 8
+a153 8
+=1 cro D Fn qua [E F#] cro G#
+=2' qua [d c~n b a] [g# a] cro b
+=2, min rest, qua rest, [d cn B]
+|
+il0.6     25
+=1 qua [A Fn E D] smq [C# D#] cro E qua D
+=2' cro c~ b smq [e f# qua gn a b]
+=2, cro A G# qua [A Gn] cro F
+d158 3
+a160 3
+=1' treble 1# qua. [E smq F qua. G smq A] qua B cro A smq [B A]
+=2' bass   1# cro c~ e~ qua [d~# e~] cro f~(1
+=2,        1# qua [E A] [G c] [B c# d# B]
+d180 4
+a183 4
+=1' treble 1# cro c B qua [A G] cro F
+=1,        1# qua [A F] min. D(2
+=2' bass   1# qua rest'' [a a g] [f b] cro a
+=2,        1# qua [f d gr G] d [d d c#]
+d203 3
+a205 3
+=1 treble 1# cro. G smq [F E] qua [F B_] cro E(2
+=2' bass  1# cro b a min g
+=2,       1# qua rest [c d c] [B smq A B] qua [c B]
+d223 3
+a225 3
+=1 treble 1# qua [D E F G#] cro A rest
+=2' bass  1# qua [b c~#] cro d~ qua c~ [f gn f]
+=2,       1# cro rest, B A B
+d229 2
+a230 2
+=2' qua [e smq d e] qua [f e] cro d rest'
+=2, cro c# qua [d c] cro B c
+d232 5
+a236 5
+il0.3   40
+=1' min rest B
+=1, cro F qua [E smq F G] min F
+=2' qua rest' [b c~ b] [a smq g a] qua [b a]
+=2, qua [d d#] min e cro d-s1,-s4,
+d241 1
+a241 1
+=2, qua e-s1,-s4, [e-s2,-s5, e-s1,-s5, dn-s4,] [c smq d c] qua [B A]
+d246 4
+a249 4
+=1' treble 1# cro B A min G(1
+=1,        1# cro. G qua F(2 [Fr)2 E Fn E]
+=2' bass   1# cro d~ qua [e~ b] cro. b qua c~
+=2,        1# qua [G B c# d#] [E e dn cn]
+d255 3
+a257 2
+=2, qua [B smq A B] qua [c G] [E F G A-s1,-s4,]
+|
+d263 1
+a263 1
+|
+@
+
+
+1.5
+log
+@fingered about half of it
+@
+text
+@d1 1
+a1 1
+6 systems 10 /19-35-19/19-43-19 4/19-52-19 6/19-28-19/19-46-19/19-47-19/
+d49 1
+a49 1
+=1' treble 1# cro B-s1-s3-s5 qua. [A-s2-s5 smq B-s4] cro c B
+d53 2
+a54 1
+ [A-s1,-s4, F-s5, G B]
+d56 3
+a58 3
+il0.5 .60 10
+=1' cro A(1-tr smq [A)1 G qua A] min G(1
+=1, qua [E C D C] [B_ C] cro D(2
+d60 2
+a61 1
+=2, qua [c A d D] [E e] [B smq A B]
+d66 1
+a66 1
+=2, min c qua G cro. rest,-s2,
+d81 2
+a82 2
+=1 min. E(2 qua [E)2 smq D C#]
+=2' qua [a)1 smq g f] cro. g-s1, smq [f-,-s2, e-,-s1,] cro f(1-,-s2,
+d86 1
+a86 1
+=1 qua D [F-s3 G F] [E D C#-s2-s3 D#--s4]
+d95 1
+a95 1
+=2,       1# qua [c-s5, d-s1,-s4, e-s3, d-s4,] \
+d103 3
+a105 3
+=1, cro G)2(2 smq [G)2 E D E] qua [F G] [A smq G F]
+=2' qua [c~-s1 b-s2 a b-,-s2,] cro. c~ smq [b a]
+=2, qua [A smq B c] cro d(2-s1,-s5, qua [d)2-s1, e f d]
+d110 1
+a110 1
+=1' treble 1# min rest' B
+d112 2
+a113 2
+=2' bass   1# qua b [b b c~] cro d~ qua [e~ d~]
+=2,        1# min g(2 qua g)2 [g g fn]
+d115 5
+a119 5
+il0.5        20
+=1' cro c B A G
+=1, qua G [G G F#] [E F] cro G
+=2' qua c~ smq [g a] qua [b smq c~ d~] qua [e~ d~] [d~ smq e~ d~]
+=2, qua e [e e d] c [c c B]
+@
+
+
+1.4
+log
+@update muscript syntax
+@
+text
+@d1 1
+a1 1
+6 systems 10 /19-35-19/19-45-19/19-55-19/19-30-19/19-45-19/19-45-19/
+d11 1
+a11 1
+=2 bass   1# qua rest [g g a] cro b qua [a b]
+d13 1
+a13 1
+=1 qua rest [G G F] cro E qua [F E]
+d17 1
+a17 1
+=2 cro. b qua an [b c~#] cro d~(1
+d19 1
+a19 1
+=1  qua [E A] [D G(2] [G)2 smq F E] qua [F G]
+d21 1
+a21 1
+=2, min rest qua rest [d d e]
+d23 1
+a23 1
+4 bars | 1# 1 1 1 1 1 1 1.4 1| 1.4 1.3 1.4 1 1 1 1.3 1 \
+d26 4
+a29 4
+il0.6       5
+=1 treble 1# cro A qua [G A] B' [D D C#]
+=2' bass   1# qua [a)1 b] cro c~ qua [b a] cro g(1
+=2,        1# cro f qua [e f] [g f] cro e
+d33 1
+a33 1
+=2, qua [d d# e e#] cro. f qua en
+d36 4
+a39 3
+=1, cro. D smq [Cn B_] cro. C smq [B_ A_]
+=2' qua [a smq g f] cro g(1 qua [g)1 smq f e] cro f
+=2, qua [f B] cro e(2 qua [e)2 A] cro d
+d41 2
+a42 2
+=1' min G cro G qua [A smq cn B]
+=1, qua B_ [B_ B_ C] cro D qua [E F]
+d44 1
+a44 1
+=2, qua G cro. rest, qua rest, [g g f]
+d49 1
+a49 1
+=1' treble 1# cro B qua. [A smq B] cro c B
+d51 3
+a53 2
+=2' bass   1# qua [e~ g g f] e cro a qua g(1
+=2,        1# qua. [e smq d qua c d] [A F G B]
+d55 1
+a55 1
+il0.7      10
+d64 1
+a64 1
+=2, min c qua G cro. rest,
+d67 1
+a67 1
+=1, qua rest, [E D E] [F G A G]
+d71 3
+a73 3
+3 bars | 1# .5 .5 .5 .5 .6 .6 .5 .5 .6 .6 .5 .5 .5 .5 1.0 .8 \
+ | .5 .5 .8 .8 .5 .5 1.0 .8 .5 .5 .8 .8 .5 .5 1.0 .8 \
+ | 1 1 1 1 1.2 1.2 1.2 1 |
+d75 1
+a75 1
+=1' treble 1# cro F qua [G G#] [A Gn] [F smq E D#]
+d77 1
+a77 1
+=2,        1# qua rest [d e d] [c B A B]
+d80 2
+a81 2
+=2' qua [a)1 smq g f] cro. g smq [f e] cro f(1
+=2, cro. c smq [B A#] min B(2
+d83 16
+a98 15
+il0.7      15
+=1 qua D [F G F] [E D C# D#]
+=2' cro f)1 qua rest' f [g g#] cro a(1
+=2, cro B)2 rest, qua rest, [B A B]
+/
+3 bars | 1.1 1.6 1 1.6 1 1.6 1 1.6 | 1.4 1.6 1.4 1.6 1.4 1.6 1.6 1.6 \
+ | 1 1.6 1.6 1.6 1 1 1 1.6 |
+|
+=1 treble 1# cro. E smq [F G] cro. A smq [G F]
+=2' bass  1# qua [a)1 smq gn f] cro. g smq [f e] qua [f b]
+=2,       1# qua [c d e d] [c# A] cro d(2
+|
+=1  cro. G smq [F E] qua [F D] cro G(2
+=2' cro. e qua a cro d smq rest' [d~ e~ d~]
+=2, qua [dr)2 smq c# B] qua [c cn(2] [cr)2 smq B A] qua [B G]
+d102 2
+a103 2
+=2' qua [c~ b a b] cro. c~ smq [b a]
+=2, qua [A smq B c] cro d(2 qua [d)2 e f d]
+d105 2
+a106 2
+3 bars | 1 1 1 1.4 1 1.6 1.4 1 | 1.4 1.6 1.4 1.6 1 1 1 1.6 \
+ | 1 1.6 1.4 1.6 1 1.6 1 1.6 |
+d124 1
+a124 1
+6 systems /19-45-19/19-45-19/19-45-19/19-35-19/19-45-19/19-45-19 15/
+d232 1
+a232 1
+=2, qua [d d#] min e cro d
+d237 1
+a237 1
+=2, qua e [e e dn] [c smq d c] qua [B A]
+d247 1
+d251 1
+a251 1
+=2, qua [B smq A B] qua [c G] [E F G A]
+d253 1
+d255 9
+a263 8
+=1, cro B_ rest, qua rest, [<D B_> <Eb C> <D B_>]
+=2' qua [d smq e d] qua [c d] e [fn g f]
+=2, qua [B G A B] min c(2
+|
+=1' smb G)1-fermata
+=1, qua [<A_ C> smq <G_ B_> <A_ C>] qua [<B_ D> <A_ C>] min <G_ B_-fermata>
+=2' qua [eb smq d e] qua [fn e] min d-fermata
+=2, min c)2 G
+@
+
+
+1.3
+log
+@added up to end
+@
+text
+@d35 1
+a35 1
+=1' smb blank rest
+d54 1
+a54 1
+=1' cro A-tr(1 smq [A)1 G qua A] min G(1
+d60 1
+a60 1
+=1, qua [D)2 smq C B_ qua C A_] B_ cro. rest,
+d64 1
+a64 1
+=1' smb blank rest
+d67 1
+a67 1
+=2, smb blank rest,
+d69 3
+a71 3
+3 bars | 1# .5 .5 .5 .5 .7 .7 .5 .5 .7 .7 .5 .5 .5 .5 1.3 .8 \
+ | .5 .5 .8 .8 .5 .5 1.3 .8 .5 .5 .8 .8 .5 .5 1.3 .8 \
+ | 1 1 1 1 1.4 1.4 1.4 1 |
+d97 1
+a97 1
+=1' smb blank rest
+d121 1
+a121 1
+6 systems /19-45-19/19-45-19/19-45-19/19-35-19/19-45-19/19-45-19/12
+d134 1
+a134 1
+=1 smb blank rest
+d137 1
+a137 1
+=2, smb blank rest,
+d139 2
+a140 2
+=1 cro D Fn qua [E F#] cro G
+=2' qua [d c~n b a] [g# a] cro a
+d159 1
+a159 1
+=1' smb blank rest
+d172 1
+a172 1
+il0.6     30
+d180 1
+a180 1
+=2' qua [g a b a(1] [a)1 f g a](1
+d188 1
+a188 1
+=1' smb blank rest
+d191 1
+a191 1
+=2, smb blank rest,
+d200 1
+a200 1
+il0.5      35
+d203 1
+a203 1
+=2, cro A G E qua [e dn]
+d220 1
+a220 1
+=1' smb blank rest
+d225 1
+a225 1
+il0.4     40
+d233 1
+a233 1
+=2' qua [g a] [b smq c~ d~] qua e~ [e~ d~ c~]
+d254 1
+a254 1
+=1' smb G-fermata)1
+@
+
+
+1.2
+log
+@add half of 2nd page, to bar 33
+@
+text
+@d121 1
+a121 1
+6 systems /19-45-19/19-45-19/19-45-19/19-35-19/19-35-19/19-35-19/
+d165 1
+a165 1
+=1, qua [B D] cro G qua F [F F G]
+d169 2
+a170 2
+4 bars | 1 1 1.4 1 1 1 1.4 1 | 1 1 1.3 1.6 1 1 1.2 1 | 1 1.6 1.4 1 1 1 .8 .8 \
+ | 1 1 1 1 1 1.6 1 1 |
+d179 1
+a179 1
+=1, qua D)2 cro D qua C# cro. D qua Cn
+d188 1
+a188 1
+=1' smb blank rest'
+d192 66
+@
+
+
+1.1
+log
+@first page, up to bar 21
+@
+text
+@d2 1
+a2 1
+pagenum 3
+d5 1
+a5 1
+leftfoot Arranged for keyboard and typeset 2000 by Peter J Billam.
+d65 1
+a65 1
+=1, qua rest [E D E] [F G A G]
+d120 72
+@

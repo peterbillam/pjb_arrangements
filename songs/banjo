@@ -1,0 +1,205 @@
+% start
+
+6 systems /19 25 19/19 25 19/ 19 28 19/
+title Baby, what you want me to do ? (Jimmy Reed)
+midi channel 2 patch 62
+midi channel 3 patch 105
+midi channel 4 patch 91 pan 5
+midi channel 5 patch 105 pan 95
+
+/
+4 bars | 12/8 16 |
+| 4/4 .4 .25 .4 .25 .4 .25 .4 .25
+=1' treble 4/4 cha2 tra+2 smb rest
+=2' treble 4/4 cha3 tra-10 qua [G G] [A A] [G G] [A A]
+=2, 4/4 cro C qua [C C] [C C] [C C]
+|
+=1' smb rest
+=2' qua [G G] [A Bb(2] [B)2 B] [A A]
+=2, qua [C C] [C C] [C C] [C C]
+|
+=1' smb rest
+=2' cro <eb g> qua [<c en> <c(6 en(2>] cro <c)6 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+|
+=1' smb rest
+=2' cro <eb g> qua [<c en> <c(6 en(2>] cro <c)6 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+/
+4 bars | 16 ||: 16 | 16 | 16 |
+|
+=1' smb rest
+=2' qua [<eb g> <c en>] [<d ex> <c en>] \
+ [<eb g> <c en>] [<d ex> <c en>]
+=2, qua [<C G> <C G>] [<C A> <C G>] \
+ [<C Bb> <C G>] [<C A> <C G>]
+|
+=1' smb rest
+=2' cro <eb g> qua [<c en> <c(4 en(2>] min <c)4 e)2>
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+|
+=1' smb rest
+=2' cro <eb g> qua [<c en> <c(4 en(2>] cro <c)4 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+|
+=1' smb rest
+=2' cro <eb g> qua [<c en> <c(4 en(2>] cro <c)4 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+/
+4 bars | 16 | 16 | 16 | 16 |
+|
+=1' smb rest
+=2' qua [<eb g> <c en>] [<d ex> <c en>] \
+ [<eb g> <c en>] [<d ex> <c en>]
+=2, qua [<C G> <C G>] [<C A> <C G>] \
+ [<C Bb> <C G>] [<C A> <C G>]
+|
+=1' min rest qua rest C D# E
+=2' cro <eb g> qua [<c en> <c(4 en(2>] min <c)4 e)2>
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+|
+=1' qua G G cro rest qua rest C D# E
+=2' cro <eb g> qua [<c en> <c(4 en(2>] cro <c)4 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+|
+=1' qua G G cro rest qua rest C D# E
+=2' cro <eb g> qua [<c en> <c(4 en(2>] cro <c)4 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+/
+3 bars | 16 | 16 | 16 |
+|
+=1' qua G rest G rest G cro G qua G(2
+=2' qua rest <G c e-.> rest <Bb c e-.> \
+ rest <A c e-.> rest <G(2 c(1 e(3>
+=2, cro C C C qua [C C(4]
+|
+=1 qua [G)2 G] [F G] smq [D#{2 E}2 qua C] smq [C C qua Eb(2]
+=2' min <G)2 c)1 e)3>
+=2, qua [C)4 C] [D D] [D# D#] [E E]
+|
+=1 min Eb)2 rest
+=2' cro eb qua [c c(2] cro c)2 rest'
+=2, qua [<C A> <C A>] [<D A> <Eb(4 A(2>] \
+ [<E)4 A)2> <E A>] [<D A> <D A>]
+/
+3 bars | 16 | 16 | 16 |
+|
+=1 cro G(2 qua [G)2{2 F#}2] cro G(2 qua [G)2{2 F#}2]
+=2' cro eb qua [c c(2] cro c)2 rest'
+=2, qua [<C A> <C A>] [<D A> <Eb(4 A(2>] \
+ [<E)4 A)2> <E A>] [<D A> <D A>]
+|
+=1 smq [G{2 F D# E}2(2 qua E)2(2] min E)2 rest
+=2' cro <eb g> qua [<c en> <c(4 en(2>] cro <c)4 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+|
+=1 min rest qua rest C D# E
+=2' cro <eb g> qua [<c en> <c(4 en(2>] cro <c)4 e)2> cro rest'
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+/
+3 bars | 16 | 16 | 16 :||
+|
+=1 qua G G G G F G cro rest
+=2' qua [G <G d g>] rest' <G d g> \
+ [<G d f> <d g>] rest' <d g>
+=2, cro D rest, D cro D
+|
+=1 qua G G F G cro Eb C C Eb{2
+=2' qua [<A eb g> <A eb g>] rest' <A eb g> \
+ [<G d g> <G d g>] rest' <G d g>
+=2, qua [C C] rest, C \
+ [D D] cro rest,
+|
+=1 min C}2 rest
+=2' cro <eb g> qua [<c en> <c(4 en(2>] min <c)4 e)2>
+=2, qua [<C G> <C G>] [<C A> <C(4 Bb(2>] \
+ [<C)4 Bb)2> <C Bb>] [<C A> <C A>]
+
+
+
+% stop
+
+6 systems /19 25 19/
+title Poison Ivy (capo on 4th, in E)
+midi channel 2 patch 62
+midi channel 3 patch 105
+/
+4 bars | 16 |
+| 4/4 2.0 
+=1' treble 4/4 cha2 tra+4 smb rest
+=2' treble 4/4 cha3 tra-8 qua rest' <G c e-.> cro rest' min rest'
+=2, 4/4 cha3 tra-8 qua C rest, rest, D# [E G A G]
+|
+=1' cha2 min.. rest qua C
+r0.5 .85 She
+=2' qua <c e ex> rest' <c e ex> cro <Bb d ex> qua <Bb d ex> <c e ex-.> rest'
+=2, qua rest, C cro rest, qua C rest cro rest,
+|
+=1' qua [E D# E D] E{2 cro. G}2
+r0.5 .01 comes on like a rose,
+=2' qua rest' <G c e-.> cro rest' min rest'
+=2, qua C rest, rest, D# [E G A G]
+|
+=1' min.. rest qua C
+r0.5 .85 but
+=2' qua <c e ex> rest' <c e ex> cro <Bb d ex> qua <Bb d ex> <c e ex-.> rest'
+=2, qua rest, C cro rest, qua C rest cro rest,
+|
+=1' qua [E D# E D] E{2 cro. C}2
+r0.5 .01 everybody knows
+=2' qua rest' <G c e-.> cro rest' min rest'
+=2, qua C rest, rest, D# [E G A G]
+|
+=1' min.. rest qua C
+r0.5 .85 
+=2' qua <c e ex> rest' <c e ex> cro <Bb d ex> qua <Bb d ex> <c e ex-.> rest'
+=2, qua rest, C cro rest, qua C rest cro rest,
+|
+=1' qua [E D# E D] E{2 cro. G}2
+r0.5 .01 comes on like a rose,
+=2' qua rest' <G c e-.> cro rest' min rest'
+=2, qua C rest, rest, D# [E G A G]
+|
+=1' min rest qua rest [G A G]
+r0.5 .62 and you can
+=2' qua <c e ex> rest' <c e ex> cro <Bb d ex> qua <Bb d ex> <c e ex-.> rest'
+=2, qua rest, C cro rest, qua C rest cro rest,
+|
+=1 qua c rest [A G] [A G Eb{2 D}2]
+=2 smb rest
+|
+=1 cro C rest E G
+=2' cro rest qua <G c g-.> rest [B B Bb B]
+|
+=1' min A(2 qua [A)2{2 c A G}2]
+=2' qua leg110 vol100 [<E A c e-emph> vol60 <E A c e> <E A c e>] \
+ vol100 [<E A c e-emph> vol60 <E A c e> <E A c e>] \
+ vol100 [<E A c e-emph> vol60 <E A c e>]
+|
+=1 cro. A qua rest [A{2 G}2 E D]
+=2' qua leg110 vol100 [<E A c e-emph> vol60 <E A c e> <E A c e>] \
+ vol100 [<E A c e-emph> vol60 <E A c e> <E A c e>] \
+ vol100 [<E A c e-emph> vol60 <E A c e>]
+|
+=1 min E(2 qua [E)2{2 G E D}2]
+=2' qua leg110 vol100 [<E B d e-emph> vol60 <E B d e> <E B d e>] \
+ vol100 [<E B d e-emph> vol60 <E B d e> <E B d e>] \
+ vol100 [<E B d e-emph> vol60 <E B d e>]
+|
+=1 cro. E qua rest cro rest qua [E G]
+=2' qua leg110 vol100 [<E B d e-emph> vol60 <E B d e> <E B d e>] \
+ vol100 [<E B d e-emph> vol60 <E B d e> <E B d e>] \
+ vol100 [<E B d e-emph> vol60 <E B d e>]
+|
+=1' qua [A c A G] [A G E C]
+

@@ -1,0 +1,45 @@
+boundingbox 420 135
+midi channel 1  patch 73 reverb 80 pan 30 # flu
+midi channel 2  patch 68 reverb 80 pan 60 # obo
+midi channel 3  patch 71 reverb 80 pan 80 # clr
+midi channel 4  patch 60 reverb 80 pan 20 # hrn
+midi channel 5  patch 70 reverb 80 pan 70 # bsn
+midi channel 6  patch 44 reverb 80 pan 40 # vlc
+midi channel 7  patch 57 reverb 80 pan 50 # trb
+midi channel 8  patch 44 reverb 80 pan 10 # vln
+midi channel 10 patch 44 reverb 80 pan 90 # cb
+1 system /27-25-27 3/
+/
+2 bars | 3b 6/8 3 3 3 3 3 3 3 3 5 4 6 3 | 3 3 3 3 4 4 3 3 3 3 6 3 |
+| 6/9 2.0
+midi off
+Il0.4 .02 Alberich
+=1  bass   3b 6/8 4 b 8 an 4 rest 8 gb
+=2  treble 3b 6/8 8 <E_ G_b C> rest rest \
+ 4 <C(4 E(2 Gb B'> 16 <C)4 E)2 Gx An> rest
+midi on
+#=1  treble 3b 6/8 cha1 vol90 leg99 2. rest
+#=2  treble 3b 6/8 cha2 vol90 leg99 \
+ 4. rest 4 <G_b(4 C(2 B> 16 vol-15 <G_b)4 C)2 An> rest
+#=3  treble 3b 6/8 cha3 vol80 2. rest
+#=4  treble 3b 6/8 cha4 vol120 
+##=5  bass   3b 6/8 cha5 vol90 leg99 \
+ 4. rest 4 <G_b(4 C(2 E(6> 16 vol-15 <G_b)4 C)2 E)6> rest
+#=6  bass   3b 6/8 cha6 leg70 vol115 2. F
+#=7  bass   3b 6/8 cha7 leg99 vol125 4 b 8 vol-10 an 4 rest 8 gb
+#=8  treble 3b 6/8 cha8 leg120 vol120 4 <E_ G_b C-dim60> 8 rest 4. rest
+#=10 bass   3b 6/8 cha10 vol105 2. F_
+|
+midi off
+=1  4 d~b 8 c~ 4. rest
+=2  4 <E_r G_bl A_nxl> 8 rest 4 <Er(4 Gbl(2 Anxl db'> 16 <E)4 G)2 Ax c'> rest
+midi on
+#=1, 4. rest 4 db-dim60  16 vol-15 c rest
+#=2, 4. rest 4 <A_n(4 E(2 db> 16 vol-15 <A_n)4 E)2 c> rest
+#=3, 
+#=4  
+#=5  
+#=6  2. F
+#=7  vol126 4 d~b 8 vol-10 c~ 4. rest
+#=8  4 <E_ G_b A_n-dim60> 8 rest 4. rest
+#=10 2. F_

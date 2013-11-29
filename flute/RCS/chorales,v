@@ -1,0 +1,955 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5;
+comment	@# @;
+
+
+1.5
+date	2003.04.15.23.42.57;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2003.04.06.23.27.32;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2003.04.06.10.58.37;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2003.04.06.06.01.19;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2003.04.05.06.23.19;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Bach Chorales for keyboard and one melody instrument
+@
+
+
+1.5
+log
+@order by BWV, a few wrong notes, some spacing
+@
+text
+@3 systems 40 /19 32 19-49-19/19 35 19-46-19/19 32 19-46-19 30/
+pagenum 3
+title Chorales
+innerhead by Johann Sebastian Bach
+/
+5 bars |: 2b 4/4 2.4 | 8 | 8 | 8 | 6 :||
+|
+bl1.3 BWV 12
+=1  treble 2b 4/4 cro b
+r0.8 .2 Ob, Vl
+=2' treble 2b 4/4 cro F
+=2, 2b 4/4 cro D
+=3' bass   2b 4/4 cro b
+=3, 2b 4/4 cro B
+|
+r1.3 .10 Was Gott tut, das ist wohlgetan
+=1  cro. f qua e cro d g
+=2' cro B c d e
+=2, cro F F F B
+=3' cro d~ c~ b qua [b c~]
+=3, cro b a b g
+|
+=1  cro f a b B
+=2' cro. f qua e cro d g
+=2, cro B A F qua [E D]
+=3' cro d~ c~ b b
+=3, cro d f B e
+|
+=1  cro f b(1 qua [b)1 a b c~]
+=2' cro f e d e
+=2, cro C G F G
+=3' cro a qua [b c~] cro d~ qua [c~ b]
+=3, cro f qua [g a] cro b e
+|
+=1  cro f e d
+=2' min c cro B
+=2, min F cro F
+=3' cro b(1 a)1 b
+=3, min f cro B
+/
+4 bars | 2b 2.4 | 8 | 8 | 8 |
+|
+=1  treble 2b qua [b ab]
+=2' treble 2b cro f
+=2, 2b cro B
+=3' bass   2b cro d~
+=3, 2b cro b
+|
+=1  cro g g qua [an b a g]
+=2' cro g g c c
+=2, cro B qua [c B] cro A A
+=3' qua [e~ d~] cro c~ f~ f~
+=3, cro e en f eb
+|
+=1  cro f f qua [g a] [b d]
+=2' cro f f B d
+=2, cro. B qua Ab cro G F
+=3' qua [f~ e~] [d~ c~] cro b qua [b an]
+=3, cro d d e B
+|
+=1  cro en qua [f g] [a f] [d g]
+=2' cro c B A B
+=2, cro En D C D
+=3' cro g f qua [f a] [g f]
+=3, cro c qua [d en] cro f B
+/
+3 bars | 2b 8 | 8 | 6 ||
+|
+=1  treble 2b qua [c d c B,] cro A B
+=2' treble 2b min G cro F f
+=2, 2b min C cro C B_
+=3' bass 2b cro f(1 en)1 f f
+=3, 2b min c cro F d
+|
+=1  cro e b qua [a g] cro f(1
+=2' cro e d c d
+=2, qua [B_ C] [D E] cro F F
+=3' qua [g a] cro b cro a b
+=3, cro g qua [f g] qua [f e] [d B]
+|
+=1 qua [f)1 smq g a] qua. [a-tr smq b] cro b-fermata
+=2' min c cro B-fermata
+=2, min F cro D
+=3' cro b(1 a)1 f
+=3, min F cro B
+
+3 systems 40 /19 32 19-49-19/19 35 19-46-19/19 32 19-46-19 30/
+pagenum 4
+innerhead Chorales by Johann Sebastian Bach
+/
+5 bars |: 4/4 2.4 | 2 2 2.3 2 | 1.8 1.8 2 2.1 \
+ | 2.1 2.1 2.1 1.8 | 2.1 1.8 2.3 :||
+|
+bl1.5 BWV 31
+=1  treble 4/4 qua [g f]
+r0.8 .2 Vl, Tr
+=2' treble 4/4 cro c
+=2, 4/4 cro E
+=3' bass   4/4 cro g
+=3, 4/4 cro c
+|
+r1.5 .10 Wenn mein Stündlein vorhanden ist
+=1  cro e qua [d c] min g(1
+=2' cro G A B c
+=2, cro E F# G G
+=3' cro c~ c~ d~ qua [g a]
+=3, qua [c~ b] cro a qua [g fn] cro e
+|
+=1  min g)1(1 qua [g)1 f-fermata] qua [e(1 d)1]
+=2' cro d e c-fermata qua [e f]
+=2, cro F E A G
+=3' cro b c~ c~ qua [c~ d~]
+=3, cro d c f c
+|
+=1 qua c cro c~ qua b [c~ d~] cro e~(1
+=2' cro g g qua [e f] cro g
+=2, qua [G F] [G D] cro C B_
+=3' qua [e~ f~] [e~ g] cro c~ g
+=3, cro c~ g a e
+|
+=1 qua [e~)1 a] cro d~(1 qua [d~)1 c~-fermata]
+=2' min f cro e-fermata
+=2, cro C G G
+=3' qua [a f] cro g c
+=3, cro A B c
+/
+4 bars | 4.4 | 2 2.4 2 2 2.1 2.5 2 2 | 2 2.2 2 2 2 2 2 2.4 \
+ | 1 1 1 1 1 1 1.2 1.7 1 1 1 1 1 1 1.2 1.2 |
+|
+=1  treble qua [c~(1 b)1]
+=2' treble cro e
+=2, cro G
+=3' bass   cro c~
+=3, cro c
+|
+=1 qua [a(1 b)1] cro. c~(1 qua b)1 cro c~
+=2' cro e e d qua [c d]
+=2, cro D C cro. G qua F
+=3' qua [c~ smq b a] cro g qua [d~ smq e~ f~] qua [e~ d~]
+=3, cro d qua [e f] cro g qua [a b]
+|
+=1 qua [g a] cro. bb(1 qua a-fermata)1 [g smq a f]
+=2' cro e qua [e d] cro c d
+=2, qua [E F] cro G qua [G F-fermata] cro B_
+=3' cro c~ c~ c~ f
+=3, cro c~ c f d
+|
+=1 qua [c~(1 b)1 a(1 g)1] min d~(1
+=2' cro e e A B
+=2, qua [C D] [E smq D E] cro F# G
+=3' cro g qua [c~ a] cro. d~r smq [c~ b]
+=3, cro c c c~ b
+/
+4 bars | 2 2.8 2 2 2 2 2 2| 16 \
+ | 1 1 1 1 1 1.2 1.8 1.2 1 1 1 1 1 1 1.2 1.2| 9 ||
+|
+=1  treble cro. d~)1 qua c~ [b-fermata a] cro g(1
+=2' treble qua [c B] cro A G-fermata G
+=2, qua [A G] cro F# G D
+=3' bass   qua [a smq b c~ qua d~] d~ cro d~ qua [b a]
+=3, qua [f# g] cro d G qua [g fn]
+|
+=1 smb g)1
+=2' cro c d e qua [d e]
+=2, cro. G qua F [E F] cro G
+=3' qua [g a] cro b c~ qua [d~ g]
+=3, qua [e f] [e d] [c d] [c B]
+|
+=1 qua [a b] min c~ cro b
+=2' cro f qua [e d] min d
+=2, cro F qua [G smq A Bb] cro A(2 G)2
+=3' qua [c~ d~] cro e~ qua [f~ e~ d~ smq e~ f~]
+=3, cro A G F G
+|
+=1  min. c~-fermata
+=2' min. c-fermata
+=2, min. G
+=3' min. e~
+=3, min. c
+
+4 systems 25 /19 32 19-44-19/19 35 19-40-19/19 35 19-45-19/19 32 19-44-19 10/
+pagenum 5
+innerhead Chorales by Johann Sebastian Bach
+/
+4 bars | 1# 4/4 2 | 8 | 8 | 8 |
+|
+bl1.0 BWV 85
+=1  treble 1# 4/4 cro d
+r0.8 .2 Vl
+=2' treble 1# 4/4 cro G
+=2, 1# 4/4 cro D
+=3' bass   1# 4/4 cro b
+=3, 1# 4/4 qua [G A]
+|
+r1.0 .10 Weil du vom Tod erstanden bist
+=1  cro g a b c~
+=2' cro D E F G
+=2, cro D C B_ G
+=3' cro b qua [a g] cro f e~
+=3, cro B c d e
+|
+=1  cro d~ d~ e~-fermata d~(1
+=2' cro A B G-fermata qua [B c]
+=2, qua [F E] cro D C D
+=3' qua [d~ c~] cro b c~ b
+=3, cro f g c g
+|
+=1  qua [d~)1 c~ b a] [g fn e d]
+=2' cro d d qua [B c] cro d
+=2, qua [D E] cro F G Fn
+=3' cro a d~ qua [g a] cro b
+=3, qua [f e] cro d e B
+/
+4 bars | 1# 8 | 8 | 8 | 8 |
+|
+=1  treble 1# cro e f# g-fermata g
+=2' treble 1# min c cro B-fermata B
+=2, 1# cro E(2 D)2 D D
+=3' bass   1# cro b(1 a)1 g b
+=3, 1# cro c(2 d)2 G g
+|
+=1 cro a g f qua [e d#]
+=2' cro c B A qua [G A]
+=2, cro. D qua E cro F qua [G F]
+=3' cro a b b b
+=3, cro f g d# qua [e f]
+|
+=1 qua [e f] cro f-tr e-fermata b(1
+=2' cro B qua [B A] cro G-fermata B
+=2, cro E D# E E
+=3' cro b b b b
+=3, qua [g a] cro b e e
+|
+=1 cro b)1 a g fn
+=2' cro d d B d
+=2, cro D D G B
+=3' qua [a b] [c~ d~] cro e~ b
+=3, cro fn f# g g#
+/
+4 bars | 1# 8 | 8 | 8 | 8 |
+|
+=1  treble 1# e f#-tr g-fermata d
+=2' treble 1# min c cro B-fermata B
+=2, 1# cro Br(2 A)2 G G
+=3' bass   1# cro c~(1 d~)1 d~ d~
+=3, 1# cro a(2 d)2 g qua [g f]
+|
+=1  qua [g a b c~] min d~(1
+=2' cro c B A qua [G A]
+=2, cro G G qua [F E] cro D
+=3' cro c~ d~ d~ qua [d~ c~]
+=3, cro e d c qua [B A]
+|
+=1  qua [d~)1 d g fn] cro e-fermata f#
+=2' cro B B G-fermata A
+=2, cro G D E C
+=3' qua [b a] cro g c~ c~
+=3, qua [G A] cro B c a
+|
+=1  qua [g a] cro b(1 qua [b)1 a g f]
+=2' cro B B E F
+=2, cro D E E D
+=3' cro b g qua [g a] [a c~]
+=3, qua [g f] [e d] cro c# d
+/
+4 bars | 1# 8 | 8 | 1 1 1 1 1 1.3 1.3 1 | 4.5 ||
+|
+=1  treble 1# qua e cro d qua c# cro d-fermata d(1
+=2' treble 1# qua [G B] [A G] cro F-fermata A
+=2, 1# qua [D F] cro E D qua [F E]
+=3' bass   1# cro b qua [e a] cro a d~
+=3, 1# cro G A D qua [d~ c~]
+|
+=1  qua [d)1 d e f] cro g qua [a g]
+=2' cro. Ar qua A cro B qua [A B]
+=2, min G(2 qua [G)2 F] [E D]
+=3' qua [d~ c~ b a] cro g c~
+=3, qua [b a g f] [e d] [c B]
+|
+=1  qua [f e d g(1] [g)1 smq f e] cro f
+=2' cro c B min A
+=2, qua [C A] cro D min D
+=3' qua [c~ a] [b c~] [d~ smq a b] [c~ b qua c~]
+=3, qua [A F] cro G min d
+|
+=1  min. g-fermata
+=2' min. G-fermata
+=2, min. D
+=3' min. b
+=3, min. G
+
+3 systems 40 /19 32 19-45-19/19 35 19-44-19/19 32 19-49-19 45/
+pagenum 6
+innerhead Chorales by Johann Sebastian Bach
+/
+5 bars | 2# 4/4 4.5 | 1 1 1 1  1 1 1 1  1 1 1 1  1.9 1.3 1 1 \
+ | 2.7 2.7 2.7 3.2 | 16 | 2.7 2.7 2.7 3.2 |
+|
+bl1.5 BWV 136
+=1  treble 2# 4/4 qua [b a]
+r0.8 .2 Vl.
+=2' treble 2# 4/4 cro B
+=2, 2# 4/4 cro F
+=3' bass   2# 4/4 cro d~
+=3, 2# 4/4 cro b
+|
+r1.5 .10 Auf meinem lieben Gott
+=1, qua [g e c f] [B f] smq [b a# qua b]
+=2' cro B c d e
+=2, cro G F F G
+=3' cro e~ e~ d~ qua [c~ b]
+=3, cro e~ a# qua [b an] cro g
+|
+=1  min. f-fermata cro f
+=2' min. f-fermata cro f
+=2, min. C cro F
+=3' min. a# cro a
+=3, min. f cro e
+|
+=1  qua [b e d c] [f d c B]
+=2' cro f e d e
+=2, cro G# A# B c
+=3' cro b c~ d~ g~n
+=3, cro d c B e
+|
+=1  min. f-fermata qua [f e]
+=2' min. c-fermata cro c
+=2, min. A# cro A#
+=3' min. f~ cro f
+=3, min. f cro f
+/
+4 bars | 2# 2 2.7 2.1 2 2 2 2 2 | 2.2 2.2 2.2 2.8 2.2 2.2 2.2 2.2 \
+ | 2 2 2 2.6 2 2 2 2 | 8 6.5 |
+|
+=1  treble 2# qua [d b an g] [f e d d~]
+=2' treble 2# cro d e f f
+=2, 2# cro B E D A
+=3' bass   2# cro f a cro. a qua b
+=3, 2# cro B c qua [d e] [f g]
+|
+=1  qua [c~ d~ c~ b] [a# b] [c~ a]
+=2' min e cro f f
+=2, min A cro A# F
+=3' min c~ cro c~ c~
+=3, qua [a b a g] [f g#] [a# f]
+|
+=1, qua [b d c B] [An g f d~]
+=2' cro d e f f
+=2, qua [F G#] cro A A A
+=3' cro b c~ d~ d~
+=3, cro b qua [a g] [f e] [d f]
+|
+=1  qua [b f] [e a] cro f-fermata a(1
+=2' min e cro d-fermata f
+=2, cro B(2 A)2 A A
+=3' cro d~(1 c~)1 d~ d~
+=3, qua [g e a A] cro d d~
+/
+4 bars | 2# 2 2 2.2 2.2 2.3 2.2 2.6 2 | 2.2 2.2 2.7 2.2 1.8 1.8 1.8 1.8 \
+ | 2.2 2.2 2.2 2.2 2.7 2.2 2 2 | 1.5 1.5 1.5 2.1 1 1 1 1 .9 .9 .9 .9 ||
+|
+=1  treble 2# qua [a)1 e f a] [c~ e d f]
+=2' treble 2# cro a f f f
+=2, 2# cro A d c B
+=3' bass   2# cro e~ d~ qua [e~ c~] cro d~
+=3, 2# cro c~ qua [a d~] cro a# qua [b an]
+|
+=1  qua [b a b g#] cro a-fermata b
+=2' min e cro e-fermata e
+=2, min B cro E B
+=3' min d~ cro c~ b
+=3, qua [g# f g e] cro a gn
+|
+=1  qua [a# b] [c~ a] [d~ f] cro b(1
+=2' cro f e d qua [e d]
+=2, cro c c F G
+=3' cro f~ a# b b
+=3, qua [f e] [d c] [b an] [g f]
+|
+=1  smq [b)1 d~ c~ b] cro a# b-fermata
+=2' min c cro B-fermata
+=2, cro G(2 F)2 F
+=3' qua [e~ d~] cro c~ d~#
+=3, qua [e c f F] cro B
+
+4 systems 20 /19 32 19-45-19/19 35 19-44-19/19 35 19-44-19/19 32 19-49-19 15/
+pagenum 7
+innerhead Chorales by Johann Sebastian Bach
+/
+4 bars |: 4/4 4.5 | 1 1 .8 .8 1 1.8 .8 .8 1 1 .8 .8 1 1.8 .8 .8 \
+ | 1 1 1 1 1 1 1 1.6 1 1 1.6 1 .8 .8 .8 .8 \
+ | 1.2 1.2 1 1 1.6 1 .8 .8 1 1 1 1.6 1 1 .8 .8 |
+|
+bl1.3 BWV 161
+=1  treble 4/4 qua rest g(1
+r0.8 .2 Fl.
+=2' treble 4/4 cro E
+=2, 4/4 cro E
+=3' bass   4/4 qua [g b]
+=3, 4/4 cro e
+|
+r1.3 .10 Herzlich tut mich verlangen
+=1, smq [g)1 c qua f(1] smq [f)1 dsq e d qua e(1] \
+ smq [e)1 A qua d(1] smq [d)1 dsq c B, qua c(1]
+=2' cro A G F E
+=2, qua [E D] cro D D qua [C B_]
+=3' qua [a c~] cro b qua [c~ g] cro g
+=3, cro f g qua [A B] cro c
+|
+=1  smq [c)1 e d c] [B, c B, A,] [G# A G F#] qua [E, b(1]
+=2' min D cro E B
+=2, min A_ qua [Dr B_] cro E
+=3' qua [a f d d~] cro b g#
+=3, min F cro E e
+|
+=1  smq [b)1 d~ c~ b] [a g# qua a(1] smq [a)1 c~ b a] [gn f qua g(1]
+=2' cro c c B B
+=2, cro E F F qua [E D]
+=3' cro. a qua c~ [d~ d] [g f]
+=3, qua [a gn] [f e] [d B] cro e
+/
+4 bars | 1.6 1 1 1 1 1 .8 1 .8 .8 .8 .8 :||: 4.3 \
+ | 1 1 1 1 1 1 .8 .8 1.5 1 1 1 1 1 .8 .8 | 4 4 4 3.6 |
+|
+=1  treble smq [g)1 bb a g] [f e qua f] cro e
+=2' treble min. A
+=2, cro C# cro. D qua Cn
+=3' bass   cro e qua. [f smq g] cro a
+=3, min. A
+|
+=1  cro a(1
+=2' cro c
+=2, qua [A G]
+=3' cro e~
+=3, cro a
+|
+=1  smq [a)1 c~ b a] [g f qua g(1] smq [g)1 bb a g] [f e qua f(1]
+=2' qua [B smq c d] cro G A B
+=2, cro F E qua [E C] cro F
+=3' cro d~ qua [d~ c~] cro c~ d~
+=3, cro d e f d
+|
+=1  smq [f)1 a g f] [e f e d] [c g a b] qua [c~ g(1]
+=2' min c cro c G
+=2, cro. G qua F cro E C
+=3' cro g qua [a b] cro c~ c~
+=3, min c cro c e
+/
+3 bars | 1 1 .8 .8 1 1.8 .8 .8 1 1 1 1 1.5 1 .8 .8 \
+ | 1 1 1 1.5 1 1 1 1 1 1 1 1 .8 .8 .8 .8 | 8 7.2 |
+|
+=1  treble smq [g)1 c qua f(1] smq [f)1 dsq e d qua e(1] \
+ smq [e)1 g f e] [d c# qua d(1]
+=2' treble cro A G A F
+=2, cro C qua [C B_b] cro A_ A_
+=3' bass   cro f g e qua [f g]
+=3, cro f c c# d
+|
+=1  smq [d)1 f e d] [cn B d c(1] [c)1 d c B] qua [A, a(1]
+=2' min E cro rest c
+=2, min A_ cro rest E
+=3' min a cro rest a
+=3, min A cro rest A
+|
+=1  smq [a)1 c~ b a] [g a g f] min e(1
+=2' cro B d c B
+=2, cro E D qua [E F#] [G G#]
+=3' cro b b qua [b a] [e~ d~]
+=3, cro e B qua [c d] cro e
+/
+3 bars | 1 1 1 1 1.5 1 .8 .8 1 1 1 1 1 1 1 1 \
+ | 1 1 .8 .8 1.5 1.8 .8 .8 1 1 1 1 1 1 .8 .8 | 12 ||
+|
+=1, treble smq [e)1 g f e] [d c# qua d(1] smq [d)1 f e d] [c d B c]
+=2' treble min A cro B E
+=2, cro Ar D E qua [E C#]
+=3' bass   qua [c~ c~#] cro a g# qua [a gn]
+=3, min f cro e a
+|
+=1, smq [d A qua d(1] smq [d)1 dsq cn B qua c(1] smq [c)1 e d c] [B c qua d(1]
+=2' cro F E D G
+=2, qua [A_ B_] cro Cn D qua [D C]
+=3' qua [f g] cro a a b
+=3, cro d qua [A G] [F F#] cro G
+|
+=1  smq [d)1 f e d] [c e qua a(1] qua [a)1 g#-fermata]
+=2' min. E
+=2, cro. B_ qua C cro B_-fermata
+=3' qua [b g# e smq b a] cro b
+=3, cro G# A E
+
+
+4 systems 20 /19 35 19-40-19/19 35 19-40-19/19 35 19-45-19/19 35 19-40-19 10/
+pagenum 8
+innerhead Chorales by Johann Sebastian Bach
+/
+4 bars |: 1b 4/4 2 | 8 | 8 | 8 |
+|
+bl1.0 BWV 172
+=1  treble 1b 4/4 cro f
+r0.8 .2 Vl
+=2' treble 1b 4/4 cro F
+=2, 1b 4/4 cro C
+=3' bass   1b 4/4 cro a
+=3, 1b 4/4 cro f
+|
+r1.0 .20 Wie schön leuchtet der Morgenstern
+=1  cro g cro. a qua [g f eb]
+=2' qua [c B] [A G] cro F c
+=2, cro C C qua [D E] cro F
+=3' cro g qua [f g] [a b] cro c~
+=3, cro e qua [f e] cro d A
+|
+=1  qua [d en f g] cro a-fermata g
+=2' cro d d c-fermata c
+=2, cro F F F G
+=3' qua [c~ smq b a qua b] b cro a c~
+=3, qua [B c] [d e] cro f e
+|
+=1  cro f e(1 qua [e)1 d(1] [d)1 c]
+=2' cro d e f e
+=2, cro A G qua [F G] cro G
+=3' cro c~ bn qua [c~ d~] [e~ g]
+=3, cro f g qua [a b] [c~ e]
+/
+4 bars | 1b 8 | 8 | 6 :|| 2 |
+|
+=1  treble 1b qua [a f d g(1] [g-fermata)1 e c f(1]
+=2' treble 1b cro d d c-fermata A
+=2, 1b cro F F E F
+=3' bass   1b qua [a d~] cro bn c~ c~
+=3, 1b qua [f d] cro g c f
+|
+=1  qua f)1 cro g qua a B cro c qua d
+=2' cro d c B A
+=2, cro F E qua [F G] cro F
+=3' qua [bb a] cro g qua [d~ c~] cro c~
+=3, cro Bb c qua [d e] [f B]
+|
+=1  qua [G A B' c'] cro A-fermata
+=2' min Gr cro F-fermata
+=2, cro F(2 E)2 F
+=3' min c~ cro c~
+=3, min c cro F
+|
+=1 cro rest
+=2 cro rest
+=3 cro rest
+/
+4 bars | 1b 1 1 .8 .8 1 1.3 .8 .8 | 1 1.3 1.3 1.3 1 1 1 1 \
+ | 8 | 1 1.3 1.3 1.3 1 1 1 1 |
+|
+=1  treble 1b qua [c e] cro. g smq [f e] cro f(1
+=2' treble 1b min c A
+=2, 1b min G A
+=3' bass   1b min c~ c~
+=3, 1b min e f
+|
+=1 qua [f)1 smq g f] [e f d e] qua [f g a b]
+=2' min c A
+=2, min G F
+=3' min c~ c~
+=3, min c F
+|
+=1 cro c~ qua [c d] [e f] cro g(1
+=2' cro A A G G
+=2, cro F F qua [E D] cro C
+=3' cro c~ c~ c~ qua [c~ b]
+=3, qua [F G] [A B] [c d] [e c]
+|
+=1 qua [g)1 smq f e] [f a g f] qua [e d c B]
+=2' cro A A G G
+=2, cro C qua [C D] cro E E
+=3' qua [a b] cro c~ c~ c~
+=3, qua [f g] [a b] [c~ b] [a g]
+/
+4 bars | 1b 1 1 1 1 1 1 1 1.3 | 8 | 8 | 1 1.4 1 1 1 1 ||
+|
+=1  treble 1b qua [A G F E] D cro B' smq [A G]
+=2' treble 1b cro A A min G
+=2, 1b cro F F Fr(2 E)2
+=3' bass   1b cro c~ d~ d~ qua [c~ b]
+=3, 1b qua [f e] [d c] [B G] cro c
+|
+=1 qua [A,-fermata c d e] [f A, B, c]
+=2' min F-fermata cro f e
+=2, min F cro A G
+=3' min a qua [d~ c~] cro b
+=3, min F qua [D F] [G A]
+|
+=1 qua d cro b a g qua f(1
+=2' cro d c B A
+=2, cro F E D C
+=3' qua [b a] cro g qua [f g] [a c~]
+=3, cro B c qua [d e] [f A]
+|
+=1 qua [f)1 smq g a] cro e-tr f-fermata
+=2' min G cro F-fermata
+=2, cro D(2 C)2 C
+=3' qua. [b smq a] cro g a
+=3, qua [B G] cro c F
+@
+
+
+1.4
+log
+@add BWV 172
+@
+text
+@a0 202
+3 systems 40 /19 32 19-45-19/19 35 19-44-19/19 32 19-49-19 45/
+pagenum 3
+title Chorales
+innerhead by Johann Sebastian Bach
+/
+5 bars | 2# 4/4 4.5 | 1 1 1 1  1 1 1 1  1 1 1 1  1.6 1.2 1 1 \
+ | 2.8 2.8 2.8 3.2 | 16 | 2.8 2.8 2.8 3.2 |
+|
+bl1.5 BWV 136
+=1  treble 2# 4/4 qua [b a]
+r0.8 .2 Vl.
+=2' treble 2# 4/4 cro B
+=2, 2# 4/4 cro F
+=3' bass   2# 4/4 cro d~
+=3, 2# 4/4 cro b
+|
+r1.5 .10 Auf meinem lieben Gott
+=1, qua [g e c f] [B f] smq [b a# qua b]
+=2' cro B c d e
+=2, cro G F F G
+=3' cro e~ e~ d~ qua [c~ b]
+=3, cro e~ a# qua [b an] cro g
+|
+=1  min. f-fermata cro f
+=2' min. f-fermata cro f
+=2, min. C cro F
+=3' min. a# cro a
+=3, min. f cro e
+|
+=1  qua [b e d c] [f d c B]
+=2' cro f e d e
+=2, cro G# A# B c
+=3' cro b c~ d~ g~n
+=3, cro d c B e
+|
+=1  min. f-fermata qua [f e]
+=2' min. c-fermata cro c
+=2, min. A# cro A#
+=3' min. f~ cro f
+=3, min. f cro f
+/
+4 bars | 2# 2 2.7 2.1 2 2 2 2 2 | 2.2 2.2 2.2 2.8 2.2 2.2 2.2 2.2 \
+ | 2 2 2 2.6 2 2 2 2 | 8 6.5 |
+|
+=1  treble 2# qua [d b an g] [f e d d~]
+=2' treble 2# cro d e f f
+=2, 2# cro B E D A
+=3' bass   2# cro f a cro. a qua b
+=3, 2# cro B c qua [d e] [f g]
+|
+=1  qua [c~ d~ c~ b] [a# b] [c~ a]
+=2' min e cro f f
+=2, min A cro A# F
+=3' min c~ cro c~ c~
+=3, qua [a b a g] [f g#] [a# f]
+|
+=1, qua [b d c B] [An g f d~]
+=2' cro d e f f
+=2, qua [F G#] cro A A A
+=3' cro b c~ d~ d~
+=3, cro b qua [a g] [f e] [d f]
+|
+=1  qua [b f] [e a] cro f-fermata a(1
+=2' min e cro d-fermata f
+=2, cro B(2 A)2 A A
+=3' cro d~(1 c~)1 d~ d~
+=3, qua [g e a A] cro d d~
+/
+4 bars | 2# 2 2 2.2 2.2 2.3 2.2 2.6 2 | 2.2 2.2 2.7 2.2 1.8 1.8 1.8 1.8 \
+ | 2.2 2.2 2.2 2.2 2.7 2.2 2 2 | 1.4 1.4 1.4 1.9 1 1 1 1 .9 .9 .9 .9 ||
+|
+=1  treble 2# qua [a)1 e f a] [c~ e d f]
+=2' treble 2# cro a f f f
+=2, 2# cro A d c B
+=3' bass   2# cro e~ d~ qua [e~ c~] cro d~
+=3, 2# cro c~ qua [a d~] cro a# qua [b an]
+|
+=1  qua [b a b g#] cro a-fermata b
+=2' min e cro e-fermata e
+=2, min B cro E B
+=3' min d~ cro c~ b
+=3, qua [g# f g e] cro a gn
+|
+=1  qua [a# b] [c~ a] [d~ f] cro b(1
+=2' cro f e d qua [e d]
+=2, cro c c F G
+=3' cro f~ a# b b
+=3, qua [f e] [d c] [b an] [g f]
+|
+=1  smq [b)1 d~ c~ b] cro a# b-fermata
+=2' min c cro B-fermata
+=2, cro G(2 F)2 F
+=3' qua [e~ d~] cro c~ d~#
+=3, qua [e c f F] cro B
+
+4 systems 20 /19 32 19-45-19/19 35 19-44-19/19 35 19-44-19/19 32 19-49-19 15/
+pagenum 3
+title Chorales
+innerhead by Johann Sebastian Bach
+/
+4 bars |: 4/4 4.5 | 1 1 .8 .8 1 1.8 .8 .8 1 1 .8 .8 1 1.8 .8 .8 \
+ | 1 1 1 1 1 1 1 1.6 1 1 1.6 1 .8 .8 .8 .8 \
+ | 1 1 1 1 1.6 1 .8 .8 1 1 1 1.6 1 1 .8 .8 |
+|
+bl1.3 BWV 161
+=1  treble 4/4 qua rest g(1
+r0.8 .2 Fl.
+=2' treble 4/4 cro E
+=2, 4/4 cro E
+=3' bass   4/4 qua [g b]
+=3, 4/4 cro e
+|
+r1.3 .10 Herzlich tut mich verlangen
+=1, smq [g)1 c qua f(1] smq [f)1 dsq e d qua e(1] \
+ smq [e)1 A qua d(1] smq [d)1 dsq c B, qua c(1]
+=2' cro A G F E
+=2, qua [E D] cro D D qua [C B_]
+=3' qua [a c~] cro b qua [c~ g] cro g
+=3, cro f g qua [A B] cro c
+|
+=1  smq [c)1 e d c] [B, c B, A,] [G# A G F#] qua [E, b(1]
+=2' min D cro E B
+=2, min A_ cro B_ E
+=3' qua [a f d d~] [d~ b] cro g#
+=3, min F cro E e
+|
+=1  smq [b)1 d~ c~ b] [a g# qua a(1] smq [a)1 c~ b a] [gn f qua g(1]
+=2' cro c c B B
+=2, cro E F F qua [E D]
+=3' cro. a qua c~ [d~ d] [g f]
+=3, qua [a gn] [f e] [d B] cro e
+/
+4 bars | 1.6 1 1 1 1 1 .8 1 .8 .8 .8 .8 :||: 4.3 \
+ | 1 1 1 1 1 1 .8 .8 1.6 1 1 1 1 1 .8 .8 | 4 4 4 3.6 |
+|
+=1  treble smq [g)1 bb a g] [f e qua f] cro e
+=2' treble min. A
+=2, cro C# cro. D qua Cn
+=3' bass   cro e qua. [f smq g] cro a
+=3, min. A
+|
+=1  cro a(1
+=2' cro c
+=2, qua [A G]
+=3' cro e~
+=3, cro a
+|
+=1  smq [a)1 c~ b a] [g f qua g(1] smq [g)1 bb a g] [f e qua f(1]
+=2' qua [B smq c d] cro G A B
+=2, cro F E qua [E C] cro F
+=3' cro d~ qua [d~ c] cro c~ d~
+=3, cro d e f d
+|
+=1  smq [f)1 a g f] [e f e d] [c g a b] qua [c~ g(1]
+=2' min c cro c G
+=2, cro. G qua F cro E C
+=3' cro g qua [a b] cro c~ c~
+=3, min c cro c e
+/
+3 bars | 1 1 .8 .8 1 1.8 .8 .8 1 1 1 1 1.5 1 .8 .8 \
+ | 1 1 1 1.5 1 1 1 1 1 1 1 1 .8 .8 .8 .8 | 8 7.2 |
+|
+=1  treble smq [g)1 c qua f(1] smq [f)1 dsq e d qua e(1] \
+ smq [e)1 g f e] [d c# qua d(1]
+=2' treble cro A G A F
+=2, cro C qua [C B_b] cro A_ A_
+=3' bass   cro f g e qua [f g]
+=3, cro f c c# d
+|
+=1  smq [d)1 f e d] [cn B d c(1] [c)1 d c B] qua [A, a(1]
+=2' min E cro rest c
+=2, min A_ cro rest E
+=3' min a cro rest a
+=3, min A cro rest A
+|
+=1  smq [a)1 c~ b a] [g a g f] min e(1
+=2' cro B d c B
+=2, cro E D qua [E F#] [G G#]
+=3' cro b b qua [b a] [e~ d~]
+=3, cro e B qua [c d] cro e
+/
+3 bars | 1 1 1 1 1.6 1 .8 .8 1 1 1 1 1 1 1 1 \
+ | 1 1 .8 .8 1.6 1.8 .8 .8 1 1 1 1 1 1 .8 .8 | 12 ||
+|
+=1, treble smq [e)1 g f e] [d c# qua d(1] smq [d)1 f e d] [c d B c]
+=2' treble min A cro B E
+=2, cro A D E qua [E C#]
+=3' bass   qua [c~ c~#] cro a g# qua [a gn]
+=3, min f cro e a
+|
+=1, smq [d A qua d(1] smq [d)1 dsq cn B qua c(1] smq [c)1 e d c] [B c qua d(1]
+=2' cro F E D G
+=2, qua [A_ B_] cro Cn D qua [D C]
+=3' qua [f g] cro a a b
+=3, cro d qua [A G] [F F#] cro G
+|
+=1  smq [d)1 f e d] [c e qua a(1] qua [a)1 g#-fermata]
+=2' min. E
+=2, cro. B_ smq [B_ A_] cro B_-fermata
+=3' qua [b g# e c~] cro b
+=3, cro G# A E
+
+d88 2
+a89 3
+pagenum 3
+title Chorales
+innerhead by Johann Sebastian Bach
+d91 2
+a92 1
+5 bars |: 4/4 2.4 | 8 | 8 | 8 | 8 :||
+d102 1
+a102 1
+r1.5 .10 Wenn mein Stundlein vorhanden ist
+d127 2
+a128 1
+4 bars | 4.4 | 16 | 16 | 1 1 1 1 1 1 1.2 1.7 1 1 1 1 1 1 1.2 1.2 |
+d142 3
+a144 3
+=1 qua [g a] cro. bb(1 qua a)1 [g smq a f]
+=2' cro e qua [e d] cro c-fermata d
+=2, qua [E F] cro G qua [G F] cro B_
+d148 1
+a148 1
+=1 qua [c~(1 b)1 a(1 g)1] min d(1
+d154 2
+a155 1
+4 bars | 2 2.6 2 2 2 2 2 2| 16| 1 1 1 1 1 1.2 1.7 1 1 1 1 1 1 1 1.2 1.2| 10 ||
+d183 1
+a183 2
+title Chorales
+innerhead by Johann Sebastian Bach
+d262 2
+a263 2
+=2, cro B_ E E D
+=3' cro d~ g qua [g a] [a c~]
+d266 1
+a266 1
+4 bars | 1# 8 | 8 | 8 | 5 ||
+d270 2
+a271 2
+=2, 1# qua [D F] cro E D D
+=3' bass   1# cro b qua [e a] cro a qua [f~ e~]
+d292 201
+d494 1
+a494 1
+pagenum 6
+d528 1
+a528 1
+=1  treble 1b qua [a f d g(1] [g)1 e c f(1]
+d540 1
+a540 1
+=1  qua [G A B' c'] cro A
+d550 2
+a551 1
+4 bars | 1b 8 | 8 | 8 | 8 |
+d577 1
+a577 1
+4 bars | 1b 8 | 8 | 8 | 6 ||
+d585 1
+a585 1
+=1 qua [A, c d e] [f A, B, c]
+@
+
+
+1.3
+log
+@add BWV 172
+@
+text
+@d1 95
+d107 1
+a107 1
+r0.8 .2 Fl
+@
+
+
+1.2
+log
+@add BWV 12
+@
+text
+@d1 107
+d123 1
+a123 1
+r1.5 .10 Was Gott tut, das ist wohlgetan
+d128 1
+a128 1
+=3, cro b a b f
+@
+
+
+1.1
+log
+@add BWV 172
+@
+text
+@d6 86
+d96 1
+d188 1
+d299 1
+@

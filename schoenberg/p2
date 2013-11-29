@@ -1,0 +1,63 @@
+.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 13
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 1.5c
+.Lp
+.ce 2
+\s+9\f3Verklärte Nacht\fP\s0
+.sp 0.8c
+\f3Gedicht von Richard Dehmel \  (aus "Weib und Welt")\fP
+.sp 0.9c
+.Lp
+.nf
+.ta 9.4c
+Zwei menschen gehn durch kahlen, kalten Hain;	Two people go through bare cold meadow;
+der Mond läuft mit, sie schaun hinein.	the moon walks with them, they gaze into it.
+Der Mond läuft über hohe Eichen	The moon walks over tall oak-trees
+kein Wölkchen trübt das Himmelslicht,	no cloud veils the moonlight,
+in das die schwarzen Zacken reichen.	in which the black tree-tops reach up.
+Die Stimme eines Weibes spricht :	A woman's voice speaks :
+.sp 0.5c
+Ich trag ein Kind, und nit von Dir	I carry a child, and not yours
+ich geh in Sünde neben Dir.	I walk in sin beside you.
+Ich hab mich schwer an mir vergangen.	I have done myself great harm.
+Ich glaubte nicht mehr an ein Glück	I no longer thought I could find happiness
+und hatte doch ein schwer Verlangen	and yet I had a heavy need
+nach Lebensinhalt, nach Mutterglück	for the substance of life, for mother's joy
+und Pflicht; da hab ich mich erfrecht,	and duty; then I made myself bold,
+da liess ich schaudernd mein Geschlecht	and, shuddering, let my sex
+von einem fremden Mann umfangen,	be grasped by an unknown man,
+und hab mich noch dafür gesegnet.	and even counted myself as blessed.
+Nun hat das Leben sich gerächt:	Now life has taken its revenge:
+nun bin ich Dir, o Dir begegnet.	now I have found you, o you.
+.sp 0.5c
+Sie geht mit ungelenkten Schritt.	She walks with lost and awkward step.
+Sie schaut empor; der Mond läuft mit.	She glances up; the moon walks with them.
+Ihr dunkler Blick ertrinkt in Licht.	Her sombre face drowns in its light.
+Die Stimme eines Mannes spricht :	A man's voice speaks :
+.sp 0.5c
+Das Kind das Du empfangen hast,	The child that you have conceived,
+sei Deiner Seele keine Last.	may it not burden your mind.
+O sieh, wie klar das Weltall schimmert !	See, how clearly shines the universe!
+Es ist ein Glanz um Alles her,	A brilliance surrounds all,
+Du treibst mit mir auf kaltem Meer,	You voyage with me on a cold sea,
+doch eine eigne Wärme flimmert	and yet some points of warmth glimmer
+von Dir in mich, von mir in Dich.	of you in me, of me in you.
+Die wird das fremde Kind verklären	They will transfigure this stranger's child
+Du wirst es mir, von mir gebären ;	you will bear it for me, from me ;
+Du hast den Glanz in mich gebracht,	You have have brought a brilliance to me,
+Du hast mich selbst zum Kind gemacht.	You have made me too a child.
+.sp 0.5c
+Er fasst sie um die starken Hüften.	He held her by her strong hips.
+Ihr Atem küsst sich in den Lüften.	Their breaths kissed in the breeze.
+Zwei Menschen gehn durch hohe, helle Nacht.	Two people walk through high bright night.
+.fi

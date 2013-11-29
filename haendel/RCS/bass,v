@@ -1,0 +1,839 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	98.06.26.23.47.36;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Bass part of Concerto Grosso op6 no4
+@
+
+
+1.1
+log
+@stem up in 19
+@
+text
+@6 systems / 22 / 22 / 22 / 22 / 22 / 22 /
+title Concerto Grosso Op 6 No 4
+lefthead George Frideric Haendel
+righthead Bass Recorder  1st Mvt
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+4 bars | 4.4 | 4 | 1 0.8 0.6 0.5 | 4 |
+|
+i0.2             .    .    .    .   .   .    .    .     simile . . .
+=1 bass   4/4 qua e[(1 e)1 e(1 e)1] f[(1 d,)1 e(1 e)1]
+I0.4   Larghetto affettuoso
+|
+=1 qua f,[ d,] B,[ e,] e[ e] cro A
+|
+=1 cro B        rest min rest
+|
+=1 qua e[ e g d,] c[ c c c]
+/
+4 bars | .55 .55 .55 .55 .55 .75 .55 .55 | .8 .6 .6 .9 | 3.8 | 3.8 |
+|
+il0.4      5
+=1 bass    qua c[ c c c] d,[ smq rest' d~, qua g g]
+|
+=1 cro g rest rest qua rest c
+|
+=1 qua c[ c A A] d'[ B A c]
+|
+=1 qua d,[ d, d, g] e[ e c, g]
+/
+4 bars | 1.1 1.1 0.9 1.1 | 1 1.5 1.1 1 | 1.3 1 1 1 | 2 1.7 |
+|
+=1 bass    qua e[ a g f] cro e qua rest G
+|
+il0.2      10
+=1 cro c# qua rest c d#'[ d' B B]
+|
+=1 qua A[ A f#' f'] f[ f f f]
+|
+=1 qua f#[ e] f[ B,] cro B qua rest d
+/
+4 bars | 3 1.5 1 1.2 | 4 | 4 | 4 |
+|
+=1 bass    smq d,[(1 c#,)1 g(1 f#)1] cro rest rest qua rest e
+|
+=1 qua f[ g] e[ a] cro a qua rest d
+|
+il0.2      15
+=1 cro e qua rest a f[ e d, c,]
+|
+=1 cro B qua rest e e[ e] cro e
+/
+4 bars | 4.4 | 4 | 1 1.4 1 1 | 3.6 |
+|
+=1 bass  cro e qua rest A cro A qua rest G
+|
+=1 cro G qua e[ c,] d'[ d' c c]
+|
+=1 qua c[ c A f#'] B[ A B e']
+|
+il0.2      20
+=1 cro e rest min rest
+/
+5 bars | 1.1 1.5 1.1 1.1 | 1 1 1.5 1 | 1 1.5 1 1 | .9 .9 .9 1.3 | 1.7 ||
+|
+=1 bass    cro rest qua rest e cro d# qua rest b
+|
+=1 cro e qua rest A A[ c' B' B]
+|
+=1 qua d'[ A A f#'] B[ A B B]
+|
+=1 cro B e rest qua. f'[ smq B]
+|
+=1 smb B
+
+10 systems /22/22/22/22/22/22/22/22/22/22/
+title II
+pagenum 2
+innerhead Bass Recorders, Concerto Grosso Op6 no 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+I0.3   Allegro
+=1 bass   4/4 smb rest
+i0.1         Soprani 1 . . .
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.5             5
+=1 smb rest
+i0.1    Soprani 2 . . .
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 bass smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+i0.1    Tenor . . .
+|
+il0.2      10
+=1 smb rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 bass    cro rest min A cro G#
+|
+=1 cro A qua d'[ B] c[ A] cro f
+|
+=1 cro e g# qua a[ e f d,]
+|
+=1 qua e'[ B c A] d'[ B e' d']
+|
+il0.2      15
+=1 qua c[ A] cro rest min rest
+/
+5 bars | 4 | 3.6 | 4 | 4 | 4 |
+|
+=1 bass  smb rest
+|
+=1 smb rest
+|
+=1 cro rest min e cro d#
+|
+=1 cro e qua a[ f#] g[ e] cro c~
+|
+il0.5        20
+=1 cro b d~# qua e~[ b c~ a]
+/
+5 bars | 1.3 1.1 1.1 1.1 | 1.4 1 1 1 | 4 | 3 | 3 |
+|
+=1 bass    qua b[ f# g e] a[ f b a]
+|
+=1 qua g[ f# g e] a[ f b B,]
+|
+=1 qua c[ B c A] cro e rest
+|
+=1 smb rest
+|
+il0.2      25
+=1 smb rest
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass    smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.2   30
+=1 smb rest
+|
+=1 smb rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 bass    cro rest min c cro B
+|
+=1 cro c qua f[ d,] e[ c,] cro a
+|
+=1 cro g b qua c~[ g a f]
+|
+il0.3     35
+=1 qua g[ d, e c,] f[ d, g G,]
+|
+=1 min. c cro c#
+/
+5 bars | 1.1 1.4 1.1 1.1 | 4 | 1.3 1.2 1 1 | 2.7 | 4 |
+|
+=1 bass    cro. d, qua e cro f g
+|
+=1 cro a f g a
+|
+=1 qua bb[ a bb g] cro d~ rest
+|
+il0.3   40
+=1 smb rest
+|
+=1 cro rest min d cro c#
+/
+5 bars | 4.4 | 4 | 2 1.7 | 4 | 3 |
+|
+=1 bass   cro d rest min rest
+|
+=1 cro rest qua f[ d,] e[ g a g]
+|
+=1 qua f[ d,] cro rest min rest
+|
+il0.2   45
+=1 cro rest min a cro g#
+|
+=1 cro a rest min rest
+/
+5 bars | 4.4 | 4 | 4 | 2 1.5 | 3 |
+|
+=1 bass   cro rest qua c[ A] d'[ B e' d']
+|
+=1 qua c[ A] cro rest min rest
+|
+=1 cro rest qua d'[ B] c[ A] cro f
+|
+il0.2 50
+=1 cro e rest min rest
+|
+=1 smb rest
+
+11 systems /22/22/22/22/22/22/22/22/22/22/22/
+pagenum 3
+innerhead 2nd Mvt, Bass Recorders, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+5 bars | 1.1 1.3 1.1 1.1 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro rest qua b[ g#] a[ e f d,]
+|
+=1 qua e'[ B c A] d'[ B e' d']
+|
+=1 qua c[ A] cro a d e
+|
+il0.4      55
+=1 cro A d e A
+|
+=1 cro d# e A B
+/
+6 bars | 4.4 | 2 1.5 | 4 | 4 | 3.5 | 3.5 |
+|
+=1 bass   cro c c# d# e
+|
+=1 cro rest d# rest e
+|
+=1 cro rest B rest f#
+|
+il0.4     60
+=1 cro d# e c# d
+|
+=1 cro e rest min rest
+|
+=1 cro rest min e cro d#
+/
+6 bars | 4.4 | 1 1.3 1 1 | 3 | 3.2 | 1 1.3 1 1 | 3.2 |
+|
+=1 bass   cro e rest min rest
+|
+=1 cro rest qua a[ f#] g[ e] cro c~
+|
+il0.6      65
+=1 cro b rest min rest
+|
+=1 smb rest
+|
+=1 cro rest qua b[ f#] g[ e c~ a]
+|
+=1 cro b rest min rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro rest qua c~[ g] a[ f# b a]
+|
+il0.4     70
+=1 qua g[ e] cro e F F#
+|
+=1 cro G G# A B
+|
+=1 cro c c# d d#
+|
+=1 cro e A B B
+/
+6 bars | 4.4 | 3 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro e rest min rest
+|
+il0.2     75
+=1 smb rest
+|
+=1 min rest cro rest c
+|
+=1 cro rest f rest d
+|
+=1 cro rest g rest e
+|
+=1 cro rest a rest f
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.2     80
+=1 bass   cro rest min c~ cro b
+|
+=1 cro cro c~ qua f[ d,] e[ c,] cro a
+|
+=1 cro g c g G
+|
+=1 cro c rest min rest
+|
+=1 smb rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.2     85
+=1 bass   cro rest d' c B
+|
+=1 cro A G min F
+|
+=1 cro e qua c~[ a] d~[ b e~ d~]
+|
+=1 qua c~[ a b g] c~[ a d~ c~]
+|
+=1 qua b[ g] cro a d, g
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+il0.2      90
+=1 bass   min c cro rest d
+|
+=1 cro rest e rest f
+|
+=1 cro g a min d,
+|
+=1 cro rest A Bb Bn
+|
+=1 cro c c# d' e
+/
+5 bars | 4 | 3.6 | 4 | 3.6 | 3.6 |
+|
+il0.2      95
+=1 bass   cro f f# g g#
+|
+=1 cro a d, e e
+|
+=1 cro A rest rest d,
+|
+=1 cro a rest rest d,
+|
+=1 cro e rest rest A
+/
+5 bars | 4 | 3.6 | 4 | 3.6 | 3.6 |
+|
+il0.6         100
+=1 bass   cro G# qua d'[ B] c[ A] cro f
+|
+=1 cro e rest rest a
+|
+=1 cro g# a d, d#
+|
+=1 cro e qua c[ A] d'[ B e' d']
+|
+=1 qua c[ A f' d'] cro a d~
+/
+5 bars | 4.4 | 4.4 | 4 | 4 | 3 ||
+|
+=1 bass   cro g# e c d'
+|
+=1 cro G# A e e
+|
+=1 min F cro rest F#
+|
+=1 cro G# A min e
+|
+=1 smb A
+
+10 systems /22/22/22/22/22/22/22/22/22/22/
+pagenum 4
+title III
+innerhead Bass Recorders, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+I0.4    Largo, e piano
+=1 bass   3/2 min f cro F(2 G)2 A(2 Bb)2
+|
+=1 cro c(2 Bb)2 c(2 d)2 e(1 c)1
+|
+=1 cro f(1 e)1 f(1 g)1 a(1 f)1
+|
+=1 cro Bb(2 A)2 B(2 c)2 d'(2 B)2
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.4      5
+=1 bass   cro c(1 e)1 f(1 e)1 f F
+|
+=1 cro c(2 G)2 c(2 d')2 e(1 f)1
+|
+=1 cro g(1 f)1 g(1 a)1 bn(1 g)1
+|
+=1 cro c~(1 g)1 c(2 d')2 e(1 c)1
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 bass   cro f(1 e)1 f(1 g)1 a(1 f)1
+|
+il0.4      10
+=1 cro g(1 d,)1 e(1 c)1 f(1 a)1
+|
+=1 cro g(1 f)1 g(1 f)1 g(1 G)1
+|
+=1 cro c(2 Bb)2 A(2 G)2 A(2 F)2
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 bass   cro Bb(2 G)2 c(2 d')2 e(1 c)1
+|
+=1 cro f(1 e)1 f(1 g)1 a(1 f)1
+|
+il0.4      15
+=1 cro bb Bb bb(1 a)1 bb(1 g)1
+|
+=1 cro a(1 g)1 f(1 e)1 f(1 d,)1
+/
+3 bars | 4.4 | 4 | 4 |
+|
+=1 bass   cro a(1 e)1 A(2 B)2 c#(2 A)2
+|
+=1 cro d'(2 c#)2 d,(1 e)1 f#(1 d,)1
+|
+=1 cro g(1 f#)1 g(1 a)1 bb(1 g)1
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+il0.4             20
+=1 bass   cro c~(1 g)1 c(2 d')2 e(1 c)1
+|
+=1 cro f(1 e)1 f(1 g)1 a(1 f)1
+|
+=1 cro bb(1 a)1 bb(1 c~)1 d~(1 d,)1
+|
+=1 cro eb(1 d,)1 eb(1 f)1 g(1 eb)1
+/
+3 bars | 4.4 | 4 | 4 |
+|
+=1 bass   cro f(1 g)1 a(1 bb)1 c~(1 f)1
+|
+il0.4        25
+=1 cro g(1 eb)1 f(1 eb)1 f F
+|
+=1 cro Bb(2 c)2 d,(1 e)1 f(1 g)1
+/
+4 bars | 4.4 | 4 | 4 | 4 |
+|
+=1 bass   cro e(1 c)1 f(1 g)1 a(1 f)1
+|
+=1 cro d~ d, e(1 f)1 g(1 e)1
+|
+=1 cro f(1 e)1 f(1 g)1 a(1 bb)1
+|
+il0.4        30
+=1 cro c~(1 g)1 e(1 f)1 c(2 d')2
+/
+4 bars | 6.6 | 6 | 1 1.3 1 1.3 1 1.3 | 6 |
+|
+=1 bass   cro e(1 d,)1 c(1 f)1 Bb(2 c)2
+|
+=1 cro f(1 g)1 a(1 bb)1 c~(1 a)1
+|
+=1 cro bb(1 g)1 a(1 e)1 f(1 Bb)1
+|
+=1 min c cro rest e min f
+I0.1    f
+/
+4 bars | 4.4 | 4 | 4 | 4 ||
+|
+il0.4          35
+=1 bass   min bb c~ c
+|
+=1 smb f min e
+I0.1                            f
+|
+=1 min rest min. d cro c
+I0.1           p
+|
+=1 smb. c
+
+11 systems /22/22/22/22/22/22/22/22/22/22/22/
+pagenum 5
+title IV
+innerhead Bass Recorders, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+I0.4   Allegro
+=1 bass   3/4 cro a A d,
+|
+=1 cro e g# e
+|
+=1 cro rest a c~
+|
+=1 cro rest d~ d
+|
+il0.5           5
+=1 cro rest e~ d~
+|
+=1 cro rest c~# a
+/
+7 bars | 4.4 | 4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro rest d~ c~n
+|
+=1 cro rest b g
+|
+=1 cro rest c~ c
+|
+il0.3  10
+=1 cro rest c~ c
+|
+=1 cro rest c~ c
+|
+=1 cro rest a A
+|
+=1 cro G# e g#
+/
+7 bars | 1.5 1.4 1.7 | 1 1 .9 | 1.3 .9 .9 | 1.3 .9 .9 | 1.3 .9 .9 | 3.8 | 3.9 |
+|
+=1 bass   cro a qua c[ d'] cro e
+|
+il0.4        15
+=1 cro A a d
+|
+=1 cro rest e g#
+|
+=1 cro rest a c~
+|
+=1 cro rest d f
+|
+=1 cro e e a
+|
+il0.4            20
+=1 cro rest e g#
+/
+7 bars | 1.5 1.1 1.1 | 1.3 1.1 1.1 | 3 | 3 | 1.3 1 1 | 3 | 4 |
+|
+=1 bass   cro rest A c
+|
+=1 cro rest d f
+|
+=1 cro e  min rest
+|
+=1 min. rest
+|
+il0.3      25
+=1 min. rest
+|
+=1 min. rest
+|
+=1 cro rest e d,
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro rest c# A
+|
+=1 cro rest d' cn
+|
+il0.3      30
+=1 cro rest B G
+|
+I0.5        p
+=1 cro rest c~ c
+|
+=1 cro rest e c~
+|
+=1 cro rest e c~
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro rest e c~
+|
+il0.4    35
+=1 cro rest F f
+|
+=1 cro rest d, g
+|
+=1 cro rest e c~
+|
+=1 cro rest B g
+|
+=1 cro. c qua d, cro e
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+il0.4     40
+=1 bass    cro f g G
+|
+=1 cro c e c
+|
+=1 cro rest e~ c~
+|
+=1 cro rest a g
+|
+=1 cro rest f# d,
+|
+il0.3    45
+=1 cro rest g d,
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro G A B
+|
+=1 cro c d e
+|
+=1 cro f e d
+|
+=1 cro. c qua d cro e
+|
+il0.3      50
+=1 cro f g G
+|
+=1 cro c A a
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro g# e rest
+|
+=1 cro rest c~ a
+|
+=1 cro e~ g# e
+|
+il0.3   55
+=1 cro rest c c~
+|
+=1 cro d#' B rest
+|
+=1 cro e e rest
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro b d~# b
+|
+=1 cro rest e a
+|
+il0.3    60
+=1 cro rest b d#
+|
+=1 cro rest e g
+|
+=1 cro rest A c
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro B b a
+|
+=1 cro rest g# e
+|
+il0.3    65
+=1 cro rest a gn
+|
+=1 cro rest f# d
+|
+=1 cro rest g a
+|
+=1 cro b g# rest
+
+10 systems /22/22/22/22/22/22/22/22/22/22/
+pagenum 6
+innerhead 4th Mvt, Bass Recorders, Concerto Grosso Op 6 No 4, Haendel
+leftfoot Arrangement and Typesetting (c) 1997 Peter J Billam
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro rest a f#
+|
+il0.4  70
+=1 cro d# cro. d~# qua b
+|
+=1 cro e~ g a
+|
+=1 cro e g a
+|
+=1 cro g G A
+|
+=1 cro e e rest
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+il0.4     75
+=1 bass   cro rest G A
+|
+=1 cro G g rest
+|
+=1 cro rest G g
+|
+=1 cro G g rest
+|
+=1 cro e e~ e
+|
+il0.4   80
+=1 cro d# min dn
+/
+5 bars | 4.4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro c G# e
+|
+=1 cro A a A
+|
+=1 cro B d# e
+|
+=1 cro a b B
+|
+il0.3  85
+=1 cro e e~ d~
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro rest c~# a
+|
+=1 cro rest d~ c~
+|
+=1 cro rest b g
+|
+=1 cro c c~ rest
+|
+il0.4      90
+=1 cro c c~ rest
+|
+=1 cro rest c d'
+/
+6 bars | 4.4 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro c c~ rest
+|
+=1 cro c c~ rest
+|
+=1 cro c c~ rest
+|
+il0.2     95
+=1 cro. rest qua a[ d~ c~]
+|
+=1 min. f~
+|
+=1 cro e~ e f
+/
+6 bars | 4.8 | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro d e e
+|
+=1 cro A min rest
+|
+il0.4     100
+=1 min. rest
+|
+=1 min. rest
+|
+=1 min. rest
+|
+=1 min. a
+I0.1    pp
+/
+7 bars | 4.4 | 4 | 4 | 4 | 4 | 4 | 5 |
+|
+=1 bass   min. g
+|
+il0.2       105
+=1 min. d
+|
+=1 min. c
+|
+=1 min. B
+|
+=1 min. d'
+|
+=1 min. c(2
+|
+il0.4      110
+=1 cro c)2 c c
+/
+5 bars | 4.4 | 4 | 2 2.5 | 5 | 4 |
+|
+=1 bass   cro c c c
+|
+=1 cro c c c
+|
+=1 cro. c qua A[ c A]
+I0.1       f
+|
+=1 qua d,[ c, f e d, f]
+|
+il0.5     115
+=1 cro e g# a
+/
+5 bars | 4 | 4 | 4 | 4 | 4 |
+|
+=1 bass   cro d, e e
+|
+=1 cro A rest rest
+|
+=1 cro c c c
+|
+=1 cro c c c
+|
+il0.4        120
+=1 cro c c c
+/
+5 bars | 4 | 4 | 4 | 4 | 3 ||
+|
+=1 bass   cro c qua rest A[ c A]
+I0.1                     f
+|
+=1 qua d,[ e] cro. f qua f
+|
+=1 cro. e qua g# cro a
+|
+=1 cro d, e e
+|
+il0.4         125
+=1 min. A
+@

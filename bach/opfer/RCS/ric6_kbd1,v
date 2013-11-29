@@ -1,0 +1,601 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	98.11.25.00.23.47;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.11.23.03.06.21;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Ric6 for 2 Pianos - 1st kbd part
+@
+
+
+1.2
+log
+@move pagenums to allow for p2 and p3
+@
+text
+@6 systems /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/
+lefthead J. S. Bach
+title First keyboard part, Ricercare a 6
+righthead Musikalisches Opfer
+leftfoot arranged for two keyboards 1998 Peter Billam
+/
+3 bars | 8.8 | 8 | 8 |
+|
+=1 treble 3b 4/2 min C E G A
+=2 bass   3b 4/2 smb rest rest
+|
+=1 min B_n cro rest G min F# Fn
+=2 smb rest rest
+|
+=1 min En Eb(1 cro E)1 D Db C
+=2 smb rest rest
+/
+3 bars | 3b 4 3.6 | 1 1.7 1 1 1 1 1 1 | 1 1.6 .9 .9 1 1 1 1 |
+|
+=1 treble 3b cro B_n G_ C F min E D
+=2 bass   3b smb rest rest
+|
+il0.4    5
+=1 cro C qua E[ smq D C] cro D G E A G c(1
+=2 smb rest rest
+|
+=1 cro c)1 qua B'[ An] min B(1 cro B)1 An En F#
+=2 smb rest rest
+/
+3 bars | 1.1 1.1 1.1 1.7 1.4 1.1 1.1 1.1 | 8 | 1 1 1 1 1 1 1 1 |
+|
+=1 treble 3b cro G D rest qua G[ Fn] Eb[ D] cro C rest E
+=2 bass   3b smb rest rest
+|
+=1 cro. D qua C cro B_ A_n G_ G C D
+=2 smb rest rest
+|
+=1 min E cro rest E D G E A
+=2 min c e g a
+/
+3 bars | 8.8 | 1 1.2 1.2 1.2 1 1.5 1 1 | 8 |
+|
+il0.4        10
+=1 treble 3b cro G G_ C B_ min A_n D
+=2 bass   3b min Bn cro rest g min f# fn
+|
+=1 cro G_ qua G[ A] G[ F E D] cro C qua D[ En] min F(1
+=2 min en eb(1 cro e)1 d db c
+|
+=1 cro F)1 B_n C A_ min  G_ cro A_n B_n
+=2 cro Bn G c f min e d
+/
+3 bars | 3b 1 1.8 1.3 1 1 1 1 1 | 1 1.7 1 1 1 1 1 1 | 1 1.7 1 1.7 1.3 1.7 1 1 |
+|
+=1 treble 3b cro C c qua F[ E] cro D G F# min G
+=2 bass   3b cro c qua e'[ smq d' c'] cro d' g e a g c~(1
+|
+=1 cro An qua G[ F#] min G(1 cro G)1 An B' A(1
+=2 cro c~)1 qua b[ an] min b(1 cro b)1 an en f#
+|
+il0.4   15
+=1 cro A)1 qua G[ F#] min G(1 cro G)1 qua An[ G] cro F# G
+=2 cro g d rest qua g[ fn] eb[ d] cro c rest e
+/
+3 bars | 3b 1 1 1 1.8 1.7 1.3 1 1.3 | 1 1 1 1 1 1.6 1 1.2 | .9 .9 .9 1.2 .9 .9 .9 1.2 |
+|
+=1 treble 3b min An cro D qua En[ F#] G[ Fn Eb D] cro E qua D[ C]
+=2 bass   3b cro. d' qua c cro B An G g c d
+|
+=1 cro B_ G_ min G(1 cro G)1 qua F[ G] min Ab
+=2 min e en min. f qua eb[ d]
+|
+=1' smb rest rest
+=1, min. G qua F[ E] min. F qua G[ F]
+=2 smb g(1 g)1
+
+6 systems /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/
+pagenum 5
+innerhead First keyboard part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
+leftfoot arranged for two keyboards 1998 Peter Billam
+/
+3 bars | 3b .5 .5 .7 1 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 | 1 1 1 1.3 1 1 1 1 | 1 1 1 1.3 1.3 1 1 1 |
+|
+=1' treble 3b min c e g a
+=1, treble 3b cro E qua F(1[ smq E D)1] cro C rest, rest, min G qua F[ E]
+=2 bass   3b min. a qua g[ f] min e f
+|
+il0.5     20
+=1' min Bn cro rest' g min f# fn
+=1, cro D B_n G rest, min rest, cro rest, G(2
+=2 min g cro c~ an d~ min d cro g
+|
+=1' min en eb(1 cro e)1  d db c
+=1, cro G)2 min G qua F[ G] A[ G] min F cro A
+=2 cro c~ min c qua d,[ e] smb f(1
+/
+3 bars | 3b 1 1.7 1 1 1 1.7 1 1 | .9 .9 .9 1.3 1 1.3 1 1 | 1 1.3 1.7 1.7 1.3 1 1 1.3 |
+|
+=1' treble 3b cro Bn G c  f min e d
+=1, treble 3b cro D qua C[ B_n,] min C cro. G qua F# min G
+=2 bass   3b cro f)1 qua e[ d,] cro e a g qua b[ an] min b(1
+|
+=1' min. c qua B[ c] cro d qua c[ d] cro e d
+=1, smb C min B_ rest,
+=2 min b)1 ab(1 a)1 g(1
+|
+=1' cro c qua d[ e] d[ c Bn c] Bn[ d] min g qua f[ e]
+=1, min rest, cro. F qua E min D G(2
+=2 min g)1 f(1 f)1 cro e qua d'[ c]
+/
+3 bars | 3b 8 | 1 1.7 1 1 1 1.7 1 1 | 1 1.7 1 1.3 .9 .9 .9 .9 |
+|
+il0.4        25
+=1' treble 3b smb d(1 min d)1 c(1
+=1, treble 3b cro G)2 D G F min E rest,
+=2 bass   3b smb d min e g
+|
+=1' min c)1 B(1 B)1 An(1
+=2 cro d qua en[ f#] min g(1 cro g)1 qua f#[ g] min an
+|
+=1' cro A)1 qua G[ F#] cro G qua An[ B'] smb c(1
+=1, cro rest,, min D qua C[ D] smb E
+=2 min. d qua eb[ d] min c rest
+/
+3 bars | 8.8 | 8 | 8 |
+|
+=1' treble 3b cro c)1 qua d[ c] cro B An min B c(1
+=1, treble 3b min. D cro C D qua C[ D] cro E qua D[ C]
+=2 bass   3b cro rest min d cro e d qua e[ d] min c
+|
+=1' cro c)1 B min g(1 g)1 cro f e
+=1, min G B(2 B)2 An(2
+=2 min d cro rest B smb c
+|
+il0.4   30
+=1' smb d(1 cro d)1 db min c(1
+=1, min A)2 cro G F smb E(2
+=2 smb d e
+/
+3 bars | 3b .9 .9 1 1 .9 .9 1 1.3 | 1 1.3 1 1.3 1 1.3 1 1.3 | .9 .9 .9 1.3 .9 .9 .9 1.3 |
+|
+=1' treble 3b min c)1 cro B A min. G qua An[ B]
+=1, treble 3b min E)2 D(2 D)2 C(2
+=2 bass   3b smb f min. g cro c
+|
+=1' cro c qua B[ c] cro d qua c[ d] smb e
+=1, min C)2 F cro. G qua F cro E qua F[ G]
+=2 smb f e
+|
+=1' smb f e(1
+=1, min A G(2 min. G)2 qua A[ G]
+=2 min. d qua c[ d'] min. e qua d,[ e]
+/
+3 bars | 8.8 | 8 | 8 |
+|
+=1' treble 3b min e)1 d(1 d)1 cro c B
+=1, treble 3b smb F(2 min F)2 E(2
+=2 bass   3b min. f qua e[ f] min. g qua f[ g]
+|
+il0.4  35
+=1' min A a(1 a)1 g(1
+=1, min E)2 D smb B(2
+=2 min. a qua g[ a] min. b qua a[ b]
+|
+=1' min g)1 cro f e d qua c[ d] min e(1
+=1, min B)2 cro A G min F cro G qua F[ G]
+=2 min c~ f smb b
+
+6 systems /19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/
+pagenum 6
+innerhead First keyboard part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
+leftfoot arranged for two keyboards 1998 Peter Billam
+/
+3 bars | 3b 1 1.2 1 1 1 1.2 1 1.7 | 1 1 1 1 1 1 1 1.2 | 2 2 2 1.7 |
+|
+=1' treble 3b cro e)1 qua f[ g] min a(1 a)1 g
+=1, treble 3b smb A cro rest min B qua c[ db]
+=2 bass   3b min. a cro g f qua e[ f] min g(1
+|
+=1' smb c~ cro f min b qua a[ g]
+=1, smb c B(2
+=2 cro g)1 c min f(1 f)1 e
+|
+=1' cro f g min a(1 cro a)1 g min rest'
+=1, smb B)2(2 min B)2 rest,
+=2 smb f min e rest
+/
+3 bars | 3b .9 .9 .9 1 .9 .9 .9 1 | 1 1.3 1 1 1 1.7 1 1 | 1 1 1 1 1 1 1 1.2 |
+|
+il0.4       40
+=1' treble 3b smb rest' rest'
+=1, treble 3b min. F cro B min. E cro A
+=2 bass   3b smb rest rest
+|
+=1' min rest' b(1 cro b)1 a min a(1
+=1, cro G qua F[ E] cro F G E qua F[ Gb] cro F E
+=2 smb rest rest
+|
+=1' cro a)1 g min gb min. f cro b
+=1, min D E min. F qua En[ F]
+=2 smb rest min rest b(1
+/
+3 bars | 3b 1 1.3 1 1 1 1 1 1 | 1 1 1 1.7 1 1.3 1 1.3 | 1 1 1 1 1 1 1 1.3 |
+|
+=1' treble 3b min en f g an
+=1, treble 3b cro G qua F[ G] min A B rest,
+=2 bass   3b cro b)1 an min ab g gb
+|
+=1' smb b(1 min b)1 an
+=1, cro rest min B qua c[ db] min. e qua dn[ c]
+=2 smb f cro e qua d[ e] min f(1
+|
+il0.7      45
+=1' cro b f min b(1 cro b)1 min ab qua b[ a]
+=1, min d rest smb rest,
+=2 min f)1 rest f a
+/
+3 bars | 3b 1 1 1.2 1 1 1 1 1.3 | 1.2 1.1 1 1.2 1 1 .9 .9 | 1 1 1 1.6 1 1 1 1 |
+|
+=1' treble 3b min g rest' smb rest'
+=1, treble 3b cro rest G min c(2 cro c)2 min B qua c[ B]
+=2 bass   3b cro. c~ qua b a[ g] cro a cro. g qua f min e
+|
+=1' smb rest' cro rest' g min c~(1
+=1, cro. A qua G cro A qua B[ A] cro G rest, min rest,
+=2 qua f[ g] min a cro f min g rest
+|
+=1' cro c~)1 min b qua c~[ b] cro an min ab cro g
+=1, smb rest, rest,
+=2 min g b c~ e~
+/
+3 bars | 3b 1 1.2 1 1 1 1.6 1 1 | 1 1 1 1.7 1 1.2 1 1.7 | 1 1.7 1 1 1 1 1.3 1 |
+|
+=1' treble 3b cro an qua b[ a] min g(1 cro g)1 qua an[ g] cro f# a
+=1, treble 3b smb rest, rest,
+=2 bass   3b min f# cro rest d~ min c~# c~n
+|
+il0.4       50
+=1' min. d qua c#[ d] min. en qua f#[ g]
+=1, cro rest, D min G(2 cro G)2 qua An[ B] cro c qua d[ eb]
+=2 min bn bb(1 cro b)1 an ab g
+|
+=1' cro an qua g[ f#] min g(1 g)1 f#
+=1, min. d cro e d G qua An[ B] cro c(2
+=2 cro f# d g c~ min b an
+/
+3 bars | 3b 2 1.8 1.8 1.8 | 1 1.3 1.7 1 1.3 1.7 1 1 | 1 1.7 1.3 1.7 1.7 1 1 1 |
+|
+=1' treble 3b min g g f# fn(1
+=1, treble 3b cro c)2 B min rest, smb rest,
+=2 bass   3b min g rest smb rest
+|
+=1' cro f)1 qua en[ d] e[ g] cro ab(1 qua a)1[ g f en] cro f g
+=1, min rest, cro rest, C min. D cro En
+=2 smb rest rest
+|
+=1' cro c qua f[ eb] db[ c B An] B[ c] min db cro c
+=1, cro F C min F En Eb(2
+=2 min rest f min. g cro an
+
+6 systems /19-35-19/19-35-19/19-45-19/19-35-19/19-35-19/19-35-19/
+pagenum 7
+innerhead First keyboard part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
+leftfoot arranged for two keyboards 1998 Peter Billam
+/
+2 bars | 3b 8 | 8 |
+|
+il0.4       55
+=1' treble 3b cro F rest' min rest' smb rest'
+=1, treble 3b cro Er)2 qua D[ C] D[ F] cro Gb(2 qua G)2[ F E D] cro E F
+=2 bass   3b cro b f min b an ab(1
+|
+=1' min rest' e min. f cro g
+=1, cro B_ qua eb[ db] cb[ B A G] A[ B] min cb cro B
+=2 cro a)1 qua g[ f] g[ b] cro c~b(1 qua c~)1[ b a g] cro a B
+/
+3 bars | 3b 1 1 1.3 1.7 1.3 1 1 1 | 1 1 1.3 1.7 .9 .9 .9 .9 | 1 1.3 1 1.3 1.7 1.7 1 1 |
+|
+=1' treble 3b cro a e min c~ bn bb(1
+=1, treble 3b cro A rest, min rest, smb rest,
+=2 bass   3b cro c A qua a[ g f en] f[ g] min a cro g
+|
+=1' cro b)1 a(1 qua a)1[ g f en] smb f
+=1, min F A c db
+=2 min f rest smb rest
+|
+=1' min rest cro rest' a(1 qua a)1[ g f en] cro f g
+=1, min En cro rest, c min Bn Bb
+=2 cro rest qua b[ a] cro g qua a[ g] f[ en] min f cro c~(1
+/
+3 bars | 3b 1.7 1.3 1 1 1.3 1.7 1.7 1.3 | 8 | 3.6 5 |
+|
+il0.4          60
+=1' treble 3b smb c(1 cro c)1 qua B[ c] B[ A Gn A]
+=1, treble 3b min An Ab(2 cro A)2 G Gb Fr
+=2 bass   3b qua c~)1[ d~b c~ b] cro c~ a qua b[ c~ d~ e~b] cro d~ b
+|
+=1' min G cro rest' g(1 g)1 min f cro en
+=1, cro En C F B min A G
+=2 smb c~(1 cro c~)1 f g c~(1
+|
+=1' min f f dn B
+=1, min F rest, cro rest, F D B_
+=2 cro c~)1 rest min rest qua rest c,[ d, e] f[ g a f]
+/
+3 bars | 3b .9 .9 .9 .9 1.3 1.7 1.7 1.3 | 7 | 1.2 1.2 1.2 1.2 1.2 1.2 1.7 1.2 |
+|
+=1' treble 3b min rest' e c A
+=1, treble 3b min Db rest, cro rest, E C A_
+=2 bass   3b cro g rest min rest qua rest B[ c db'] e[ f gb e]
+|
+=1' smb rest rest
+=1, min C rest, smb rest,
+=2 smb f(1 min f)1 g(1
+|
+il0.4    65
+=1' smb rest rest
+=1, qua rest, E[ F G] A[ B c A] smb F
+=2 cro g)1 min e cro a(1 qua a)1[ f g a] b[ c~ d~b b]
+/
+3 bars | 3b 2 2 2 1.8 | 1.8 2 1.8 1.8 | 3.6 4 |
+|
+=1' treble 3b min e g a c~
+=1, treble 3b cro E G B db e A min rest,
+=2 bass   3b cro g e min rest smb rest
+|
+=1' min dn cro rest' b min an ab
+=1, smb rest, rest,
+=2 smb rest rest
+|
+=1' min g gb(1 cro g)1 f fb e
+=1, smb rest, rest,
+=2 smb rest rest
+/
+3 bars | 3b 4 3.6 | 1 1 1 1 1 1 1 1.3 | 1 1 .9 .9 1.7 1.3 .9 .9 |
+|
+=1 treble 3b cro d B, e a min g f
+=2 bass   3b  smb rest rest
+|
+il0.4  70
+=1 cro e g b e a f db qua e[ f]
+=2 smb rest rest
+|
+=1 cro gb e min c(1 qua c)1[ e db c] min B,(1
+=2 smb rest rest
+
+6 systems /19-35-19/19-35-19/19-45-19/19-35-19/19-35-19/19-45-19/
+pagenum 8
+innerhead First keyboard part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
+leftfoot arranged for two keyboards 1998 Peter Billam
+/
+2 bars | 3b 8 | 8 |
+|
+=1 treble 3b cro B)1 qua e[ db] cro c B qua An[ G A B'] c[ db e c]
+=2 bass   3b smb rest min f an
+|
+=1 qua db[ e d c] B,[ c d B,] min. c cro B
+=2 cro b ab min g qua an[ f g a] b[ c~ d~b b]
+/
+2 bars | 3b 8 | 8 |
+|
+=1 treble 3b qua c[ gb f e] min db(1 qua d)1[ e db c] d[ B,] cro f(1
+=2 bass   3b cro f~ c~ qua f~[ e~ db~ c~] b[ c~ b an] cro b c~(1
+|
+il0.4    75
+=1 qua f)1[ e dn c] min B(1 B)1 qua rest e[ f gb]
+=2 cro c~)1 f b ab min g cro rest b
+/
+2 bars | 3b 8 | 8 |
+|
+=1' treble 3b qua c[ e db c] cro B An min B rest
+=1, treble 3b smb rest, rest,
+=2 bass   3b cro c~ rest min rest cro rest min b cro a(1
+|
+=1' smb rest rest
+=1, qua rest, C[ B_ A_] G_[ A_ B_ G_] min A_ rest,
+=2 cro a)1 qua g[ f] min g(1 g)1 f(1
+/
+3 bars | 3b 1.3 1.3 1.7 1.3 1.8 1.3 1.3 1.3 | .9 .9 1.7 1.3 1 1 1.3 1.3 | 1 1 1.3 1.7 1 1 1.3 1.3 |
+|
+=1' treble 3b smb rest' qua rest' d[ en f] g[ a b g]
+=1, treble 3b qua rest, c[ B A] G[ F En G] cro C rest, min rest,
+=2 bass   3b min f)1 cro en rest smb rest
+|
+=1' smb a(1 cro a)1 a min g(1
+=1, min rest qua rest, eb[ db c] smb B(2
+=2 min rest cro rest A min B(2 qua B)2[ B A B]
+|
+il0.5      80
+=1' min g)1 cro f e smb db(1
+=1, cro B)2 B min A(2 A)2 cro G F
+=2 min c(2 qua c)2[ c B c] min db,(1 qua d')1[ d' c d']
+/
+3 bars |3b .9 .9 1 1.7 1 1.3 .9 .9| 1 1 1 1.5 1 1.3 1 1.3| 1 1 1 1.3 1 1 1 1.3|
+|
+=1' treble 3b min db)1 c f g
+=1, treble 3b min. E qua F[ Gb] cro F qua Gn[ A] min B
+=2 bass   3b smb e db
+|
+=1' smb a(1 min a)1 g
+=1, cro c B, cro. A qua B cro cb min db qua cn[ B,]
+=2 min c cb(2 cro c)2 qua B[ A] min B
+|
+=1' cro a rest'' min rest' cro rest' min g qua f[ e]
+=1, cro c min c qua B[ A] cro G min B qua A[ G]
+=2 min A c e rest
+/
+2 bars | 3b 1 1 1 1.2 1.2 1.2 1.2 1.2 | 9 |
+|
+=1' treble 3b min d en qua f[ g a f] d[ a g f]
+=1, treble 3b min F G cro C c min Bn
+=2 bass   3b cro rest min b qua a[ g] cro a f min g
+|
+il0.5      85
+=1' min eb(1 qua e)1[ d c Bn] c[ Bb A G] min A
+=1, qua c[ Bb A G] cro F A min G(2 qua Gr)2[ G F E]
+=2 qua a[ g] min f qua e[ d] cro e en f f~(1
+
+6 systems /19-45-19/19-35-19/19-35-19/19-35-19/19-35-19/19-35-19/
+pagenum 9
+innerhead First keyboard part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
+leftfoot arranged for two keyboards 1998 Peter Billam
+/
+2 bars | 3b 8 | 8 |
+|
+=1' treble 3b min G rest' cro rest' c(1 qua c)1[ B An G]
+=1, treble 3b qua D[ C B_n A_] cro G_ D C E G rest,,
+=2 bass   3b qua f~)1[ e~ d~ c~] cro d~ rest rest min g qua an[ b]
+|
+=1' min d(1 qua d)1[ c B An] cro G rest' min rest'
+=1, cro rest, D min G(2 qua G)2[ B An G] min A(2
+=2 min an cro d rest smb rest
+/
+3 bars | 3b 1 1.7 1.3 1.3 1.3 1.3 1 1 | 1.3 1.3 1.7 1.7 1 1 1 1.3 | 4 3.6 |
+|
+=1' treble 3b smb rest rest
+=1, treble 3b cro A)2 qua G[ F#] cro. G qua Fn E[ D] cro E C rest,
+=2 bass   3b min rest qua rest f[ e d,] cro. c qua d min e
+|
+=1' qua rest' e[ d c] B'[ An G F#] cro G min g cro f#
+=1, smb rest, cro rest,, d e qua d[ c]
+=2 cro d f# g rest min rest cro rest an
+|
+il0.5      90
+=1' cro g rest' min rest' smb rest'
+=1, cro B rest, min G F# Fn
+=2 cro b rest rest g min an bn
+/
+3 bars | 3b 1 1.7 1.3 1 1 1.7 1 1.7 | 1 1 1.3 1 1 1.7 1 1 | 1 1.3 1 1.3 1 1.8 1.3 1.8 |
+|
+=1' treble 3b smb rest rest
+=1, treble 3b min En cro rest, Eb D G C qua D[ En]
+=2 bass   3b cro c~ qua c[ d'] eb[ c,] cro ab(1 a)1 qua g[ f] cro en c
+|
+=1' cro rest' f d g c qua d[ en] min f(1
+=1, cro F C qua D[ C] cro D min G_ cro A_n F
+=2 cro f rest min f en eb
+|
+=1' cro f)1 qua eb[ f] cro B qua c[ d] cro e smq f[(2 e d e)2] cro f smq g[(2 f e f)2]
+=1, min F rest, cro rest, An F B
+=2 cro d' c d' B c qua d,[ e] d'[ c] cro d'
+/
+3 bars |3b 1 1.7 1 1 1 1.3 1 1.3| 1 1.7 1 1 1 1.7 1 1| 1 1.7 1 1.3 1 1.3 1 1.3|
+|
+=1' treble 3b cro g rest' min rest' smb rest'
+=1, treble 3b cro E qua F[ G] min Ab(2 cro A)2 qua G[ F] min G(2
+=2 bass   3b min e(1 cro e)1 a f b e qua f[ g]
+|
+il0.4    95
+=1' min rest' cro rest' db(1 d)1 qua c[ B] cro An f(1
+=1, cro G)2 qua F[ En] cro F rest, smb rest,
+=2 cro a g f a b qua c~[ d~b] cro c~ an
+|
+=1' cro f)1 dn B e An qua Bn[ c] cro d db(1
+=1, cro rest, F D G C qua D[ E] cro F qua En[ F]
+=2 cro f qua g[ an] cro b qua a[ b] cro c~ an ab qua b[ a]
+/
+3 bars | 3b 1 1 1 1 1 1.3 1 1 | 1 1 1 1.7 .9 .9 .9 1.3 | 8 |
+|
+=1' treble 3b cro db)1 min c cro B(1 B)1 qua A[ G] cro A f
+=1, treble 3b cro G C min F cro En qua F[ G] min F
+=2 bass   3b cro g a f b min g cro rest a
+|
+=1' cro d g c qua d[ en] min. f qua eb[ d]
+=1, min. G qua F[ G] min. A qua G[ F]
+=2 min g rest smb rest
+|
+=1' cro e Bn c rest' rest' e c f(1
+=1, cro G D C rest, smb rest,
+=2 cro rest a g c~(1 c~)1 bn min c~
+/
+4 bars | 3b 1 1.3 1 1 1 1 1 1 | 8 | 1 1 1 1 1 1 1.7 1 | 3 ||
+|
+il0.7          100
+=1' treble 3b cro f)1 qua g[ f] min e(1 cro e)1 e min d(1
+=1, treble 3b smb rest, rest,
+=2 bass   3b cro rest bn c~ g min. an cro d~
+|
+=1' cro d)1 db min c(1 cro c)1 c Bn c
+=1, min rest, cro rest, E C min F cro E
+=2 cro g bb c~ g an min f cro ab
+|
+=1' cro dn Bn min c(1 c)1 Bn
+=1, min D cro E F min E D
+=2 min d c(2 c)2 qua d[ en] cro f
+|
+=1' smb c
+=1, smb C
+=2 smb en
+@
+
+
+1.1
+log
+@fully respaced
+@
+text
+@d20 1
+a20 1
+=1 treble 3b cro B_n G C F min E D
+d55 2
+a56 2
+=1 treble cro C c qua F[ E] cro D G F# min G
+=2 bass   cro c qua e'[ smq d' c'] cro d' g e a g c~(1
+d70 1
+a70 1
+=1 cro B_ G min G(1 cro G)1 qua F[ G] min Ab
+d78 1
+a78 1
+pagenum 3
+a118 1
+=1, smb rest rest
+d136 1
+a136 1
+=1' smb d(1 cro d db min c(1
+d140 1
+a140 1
+3 bars | 8.8 | 8 | 8 |
+d170 1
+a170 1
+pagenum 4
+d262 1
+a262 1
+pagenum 5
+d270 1
+a270 1
+=1, treble 3b cro E)2 qua D[ C] D[ F] cro Gb(2 qua G)2[ F E D] cro E F
+d273 1
+a273 1
+=1' min rest e min. f cro g
+d299 1
+a299 1
+=1, cro En C F Bb min A G
+d327 1
+a327 1
+=1' min dn cro rest b min an ab
+d348 1
+a348 1
+pagenum 6
+d379 1
+a379 1
+3 bars | 3b 1.3 1.3 1.7 1.3 1.7 1.3 1.3 1.3 | .9 .9 1.7 1.3 1 1 1.3 1.3 | 1 1 1.3 1.7 1 1 1.3 1.3 |
+d404 1
+a404 1
+=1' cro a rest' min rest' cro rest' min g qua f[ e]
+d420 1
+a420 1
+pagenum 7
+d427 1
+a427 1
+=1, treble 3b qua D[ C B_n A_] cro G_ D C E G rest,
+@

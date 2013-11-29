@@ -1,0 +1,160 @@
+
+13 systems 12 /19/19/19/19/19/19/19 20/19/19/19/19/19/19 8/
+pagenum
+innerhead Cello Suite III in C major,  J. S. Bach,  BWV1009
+leftfoot Arranged for Flute or Alto Recorder by Peter Billam
+midi channel 1 patch 74
+/
+5 bars | 4/4 8 | 6 8 6 6 | 6 8 6 8 | 6 8 6 6 | 8 8 6 8 |
+| 1/4 .23 .21
+il0.8    Bourrée I
+=1, treble 4/4 cha1 leg80 qua [e f]
+| 4/4 .20 .20 .20 .20 .24 .24 .20 .20
+=1, cro g qua [c{1 B] cro c}1 c~
+|
+=1 cro b-tr qua [a b] cro g qua [d e]
+|
+=1, cro f qua [B{1 A] cro B}1 g
+|
+=1 qua [f{1 e}1 d e] cro c qua [c~{1 b}1]
+/
+4 bars | 4 4 4 5 4 4 4 4 | 4 4 4 4 4 5 4 4 | 6 8 6 6 | 18 :||
+| 4/4 1.6
+il0.7 .05 5
+=1 qua [a b{1 c~}1 g{1] [f#}1 b{1 c~}1 e{1]
+|
+=1 qua [d b{1 c~}1 c] [B d f# a]
+|
+=1 cro leg90 d~ qua leg80 [b g] cro d f#
+| 3/4 .4 .4 .45
+=1 cro g d G
+/
+5 bars | 4/4 8 | 3 3 4 5 3 3 3 3 | 4 4 4 4 3 3 5 4 \
+ | 6 8 8 8 | 4 5 5 4 3 3 4 4 |
+| 1/4 .42
+=1 qua [b c~]
+| 4/4 .20 .20 .20 .20 .24 .24 .20 .20
+il0.8 .12 10
+=1, cro d~ qua [b{1 g] cro fn}1 b
+|
+=1 qua [e{1 g}1 c~ d~] cro e~ qua [c~ g#{1]
+| 4/4 .2 .2 .2 .2 .24 .2 .2 .2
+=1 cro a}1 qua [f a] [d c~{1 b}1 a]
+|
+=1 qua [e a{1 g#}1 f#] cro e qua [b e]
+/
+4 bars | 4 5 4 4 4 4 4 4 | 32 | 4 4 4 4 3 3 5 4 | 6 6 6 8 |
+| 4/4 .24 .19 .19 .19 .22 .19 .22 .19
+=1 qua [c~ a{1 g# a}1] [b e c~ e]
+|
+=1 qua [d~ b{1 a b}1] [c~ e d~ d{1]
+| 4/4 .25 .2 .2 .2 .23 .22 .2 .22
+il0.7 15
+=1 qua [c}1 e~ b{1 c~}1] cro e qua [a{1 g#}1]
+| 4/4 .4 .4 .45 .4
+=1 cro a e A qua [a b]
+/
+4 bars | 3 4 4 5 3 3 3 3 | 8 8 6 8 | 32 | 8 8 6 8 |
+| 4/4 .22 .2 .2 .2 .2 .2 .2 .2
+=1 cro c~ qua [f#{1 e}1] cro f# d
+| 4/4 .22 .2 .2 .2 .24 .2 .2 .2
+=1, qua [G d c~ a{1] cro b}1 qua [g{1 f}1]
+|
+=1 qua [e g{1 c~}1 e{1] [d}1 f~{1 e~}1 c~]
+|
+il0.7 .45 20
+=1 qua [d~{1 c~}1 b a] cro g qua [b{1 c~}1]
+/
+4 bars | 32 | 32 | 32 | 32 |
+| 4/4 .23 .2 .2 .2 .22 .2 .2 .2
+=1 qua [d~ b g{1 a}1] [b g d{1 e}1]
+| 4/4 .23 .2 .2 .2 .2 .2 .23 .2
+=1, qua [f d B{1 c}1] [d{1 B G}1 f]
+| 4/4 .2 .2 .23 .2 .2 .2 .23 .2
+=1, qua [e{1 c}1 G g] [e{1 c}1 G c~]
+| 4/4 .21 .2 .21 .2 .2 .2 .23 .2
+=1, qua [g{1 e}1 f{1 d}1] [e{1 c}1 G e]
+/
+4 bars | 32 | 4 4 4 4 4 5 4 4 | 6 8 6 6 | 16 :||
+|
+il0.6 .02 25
+=1, qua [d e{1 f}1 c{1] [B}1 e{1 f}1 A{1]
+|
+=1 qua [G,}1 e{1 f}1 F,{2] [<E}2 G> <G Ax> B' d']
+|
+=1 cro g qua [e c] cro G B
+| 3/4 1.2
+=1 min. c
+midi pause .25
+/
+5 bars | 2b 4/4 8 | 3 3 4 5 3 3 3 3 | 4 5 4 4 4 4 4 4 | 32 | 5 4 4 4 4 4 5 4 |
+| 1/4 .45
+il1.2    Bourrée II
+=1, treble 2b 4/4 cha1 leg95 qua [c~ d~]
+| 4/4 1.7
+=1, cro e~{1 qua [d~ c~}1] cro bn c~
+|
+=1 qua leg90 [d~{1 c~}1 bn a] [g{1 f}1 e d]
+|
+=1 qua [e g{1 f}1 e] [d f{1 e}1 d]
+|
+=1 qua [c{1 Bn c}1 d] [e f g ab]
+/
+4 bars | 2b 7 8 6 6 | 4 4 4 5 4 4 4 4 | 3 3 4 4 5 4 4 4 | 18 :||
+|
+il0.7 .20 5
+=1 cro bb qua [ab{1 g}1] cro f e
+|
+=1 qua [d{1 e}1 f g] [ab b c~ d~]
+|
+=1 cro e~{1 qua [d~ c~}1] [b{1 ab}1 g f]
+| 3/4 1.38
+=1 min. e
+/
+5 bars | 2b 8 | 6 8 6 6 | 32 | 6 8 6 8 |
+| 1/4 .45
+=1, qua [e f]
+| 4/4 1.7
+=1, cro g qua [g{1 f] cro g}1 an
+|
+il0.9 .28 10
+=1 qua [b{1 a b}1 c~{1] [b c~}1 d~ b]
+|
+=1 qua [g b{1 a b}1] [c~{1 b}1 a g]
+|
+=1 cro f# qua [en f] cro d qua [d~{1 c~]
+/
+4 bars | 2b 6 8 6 6 | 5 4 4 4 3 3 3 3 | 5 4 4 4 4 4 5 4 | 3 3 3 3 3 3 5 4 |
+|
+=1 cro d~}1 qua [eb{1 d] cro e}1 g
+|
+=1 qua [c~{1 bn}1 c~ d~] cro e~{1 d~}1
+|
+il0.7 .28 15
+=1 qua [c~{1 bb}1 a g] [b{1 a}1 g f#]
+| 4/4 .44 .44 .48 .44
+=1 cro leg75 g d G qua leg90 [g{1 ab}1]
+/
+4 bars | 3 4 4 4 5 4 4 4 | 5 4 4 4 3 3 3 2 \
+ | 5 4 4 4 4 4 4 4 | 4 5 5 4 4 4 4 4 |
+| 4/4 1.7
+=1 cro b qua [ab g] [f{1 en f}1 g]
+|
+=1 qua [b{1 ab}1 g f] min d~(1
+|
+=1 qua [d~)1 bn c~ d~] [e~{1 d~}1 c~{1 e~}1]
+|
+il0.7 .49 20
+=1 qua [d~{1 c~ bn an}1] [g{1 f e d}1]
+/
+4 bars | 4 4 4 4 4 5 4 4 | 10 8 8 8 | 4 4 4 4 4 4 5 4 | 18 :||
+|
+=1 qua [e{1 d}1 f{1 e}1] [g{1 f}1 ab{1 g}1]
+| 4/4 .25 .22 .22 .22 .22 .22 .25 .22
+=1 qua [G{2 An}2 Bn' c'] [d e f d]
+| 4/4 1.8
+=1 qua [f{1 e}1 d c] [e{1 d}1 c Bn]
+|
+=1 min. c
+
+% stop

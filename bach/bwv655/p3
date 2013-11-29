@@ -1,0 +1,76 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+.LP
+\&
+.sp 1.4c
+
+.Lp
+The Passacaglia and Fugue is a summit of the organ repertoire;
+but there is also an important tradition of playing it on
+stringed keyboard instruments.
+The manuscript,
+which according to Albert Schweizer vanished in the mid-1800's, 
+was apparently headed \f2Cembalo e pedale\fP,
+and Schweizer opined that it was
+\f2in erster Linie für das Cembalo mit Pedal
+und erst in zweiter für die Orgel geschrieben\fP
+(in Ernest Newman's translation,
+"was written in the first place for the cembalo with pedal,
+and later arranged for the organ").
+Such instruments are rare these days, but
+Jakob Adlung, in \f2Musica Mechanica Organoedi\fP (1768), describes
+clavichords and harpsichords with pedals like an organ pedal-board.
+They would have been used mainly for practising organ pieces.
+Bach did possess three of these, and according to Forkel,
+Bach "like to improvise on a two-manual clavier with pedal".
+
+.Lp
+Marcel Dupré suggests 60 crochets per minute for both the Passacaglia
+and the Fugue.
+The american organist E. Power Biggs has recorded the Passacaglia on a
+harpsichord with pedals (made by John Challis);
+he suggests "The music seems equally at home in the sonority of strings
+or pipes, and it assumes a different individuality in each.
+The harpsichord, perhaps, allows greater rhythmic suppleness
+and more tempo contrasts between variations".
+He takes the Fugue at about 76 crochets per minute,
+and most of the Passacaglia around 66;
+the variations at bars 40, 72, 96, 112 and 120 he takes around 52,
+that at bar 144 slower still at around 44,
+and the running variations at 80 and 88 much faster
+at around 100 crochets per minute.
+He uses \f2inégale\fP quavers from bar 24
+and semiquavers from bars 40 and 112.
+In addition, each variation is shaped with its own arc,
+moving fastest around its fifth or sixth bar.
+
+.Lp
+The last quaver in bar 164 is usually granted a fermata and
+followed by a dramatic pause.
+Bach writes the upbeat to the Fugue, the middle C in bar 168,
+into the final chord of the Passacaglia;
+this note is often re-taken, in the tempo of the Fugue,
+after the end of the chord.
+
+.Lp
+The aim of this arrangement for piano four hands
+is to make this music available to piano players,
+and to make it as practical to sight-read as possible,
+to minimise the time spent in working out details.
+The typical four-part texture is shared with two parts to each player;
+this divides the organ manual parts between the two players.
+Sometimes this makes the voice-leading less clear,
+but the original for organ can always be consulted.
+Some thought has been given to feasible page turns.
+Some registration decisions, such as adding octaves, have been made,
+and conflicts between parts have been resolved.
+
+.Lp
+.ce 1
+Peter J Billam,\ \ \ \ \f2www.pjb.com.au\fP

@@ -1,0 +1,91 @@
+boundingbox 400 71
+midi channel 13 patch 73 reverb 70 pan 50 # flut
+midi channel  1 patch 68 reverb 70 pan 50 # oboe
+midi channel  2 patch 71 reverb 70 pan 70 # clr
+midi channel  3 patch 69 reverb 70 pan 45 # hrn1
+midi channel  4 patch 60 reverb 70 pan 30 # hrn2
+midi channel  5 patch 70 reverb 70 pan 55 # bsn
+midi channel  6 patch 57 reverb 70 pan 75 # trmb
+midi channel  7 patch 44 reverb 50 pan 20 # vln1
+midi channel  8 patch 44 reverb 70 pan 40 # vln2
+midi channel 10 patch 44 reverb 70 pan 60 # vla
+midi channel 11 patch 44 reverb 70 pan 80 # vlc
+midi channel 12 patch 44 reverb 70 pan 50 # bass
+1 systems 1/27/
+/
+5 bars | 1# 6/8 15 | 15 18 | 15 18 | 20 | 15
+| 6/8 0.85
+#=13 treble   1# 6/8 cha13 vol60  leg99 4. <b d~>
+I0.4 .10 Sieglinde
+=1   treble   1# 6/8 cha1  vol115 leg90 4. d
+r0.1 .45 O
+#=2, treble   1# 6/8 cha2  vol60  leg90  4. d
+#=3, treble   1# 6/8 cha3  vol60  leg90 
+#=4  bass     1# 6/8 cha4  vol60  leg90 
+#=5  alto     1# 6/8 cha5  vol60  leg90
+#=6  bass     1# 6/8 cha6  vol110 leg90
+#=7  treble   1# 6/8 cha7  vol80  leg95 
+#=8  treble   1# 6/8 cha8  vol80  leg90
+#=10 alto     1# 6/8 cha10 vol60  leg90
+#=11 bass     1# 6/8 cha11 vol60  leg90
+#=12 bass8vab 1# 6/8 cha12 vol70  leg90
+| 0.86 0.9
+#=13 4. g~(1 8 [g~)1 f~ g~]
+=1   4. leg99 g(1 8 [g)1 f g]
+r0.1 .05 hehr .72 -
+#=2  4. leg99 g(1 8 [g)1 f g]
+#=2  2. <B(2 e(3>
+#=3  
+#=4  
+#=5  
+#=6  2. <E(2 B(4 e(1 g(3>
+#=7  4. g~(1 8 [g~)1 f~ vol+5 g~]
+#=8  4. g(1 8 [g)1 f vol+5 g]
+#=10 2. <B g>
+#=11 2. <e b>
+#=12 2 e 4 rest
+| 1.0 0.95
+#=13 4. a~(1 8 [a~)1 g~ f~]
+=1   4. a(1 8 [a)1 g f]
+r0.1 .10 - .60 stes
+#=2  4. a(1 8 [a)1 g f]
+#=2  2. <B)2(2 e)3(3>
+#=3
+#=4
+#=5
+#=6  2. <E)2(2 B)4(4 e)1(1 g)3(3>
+#=7  4. vol+5 a~(1 8 [a~)1 vol-5 g~ f~]
+#=8  4. vol+5 a(1 8 [a)1 g vol-5 f]
+#=10 2. <B g>
+#=11 2. <e b>
+#=12
+| 0.9 0.85
+#=13 8 g~ rest 2 rest
+=1   2. leg85 g
+r0.1 .20 Wunder
+#=2  2. leg85 g
+#=2  8 <B)2 e)3> 4 rest 4. <c(2 e(1>
+#=3  2. <E(2 A(1>
+#=4  2. <a(2 c~(1 >
+#=5
+#=6  8 <E)2 B)4 e_1) g)3> rest 2 rest
+#=7  8 vol-5 g~ 4 vol-10 g# a 8 b(1
+#=8  8 vol-5 g  4 vol-10 G# A 8 B(1
+#=10 2. <c e-dim30>
+#=11 2. <A a-dim30>
+#=12 4 a 2 rest
+| 0.9
+#=13
+=1   4. A
+#=2  4. A
+#=2  4. <c)2 e)1>
+#=3  4. <E)2 A)1>
+#=4  4. <a)2 c~)1 >
+#=5
+#=6
+#=7  8 b)1 4 c~
+#=8  8 B)1 4 c
+#=10 vol-20 2. <c e>
+#=11 vol-20 2. <A a>
+#=12 4 A 8 rest
+

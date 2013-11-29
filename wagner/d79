@@ -1,0 +1,37 @@
+boundingbox 270 92
+midi channel 1  patch 47 reverb 60 pan 30 # tymp
+midi channel 2  patch 69 reverb 60 pan 80 # englhorn
+midi channel 3  patch 58 reverb 60 pan 50 # tuba
+midi channel 4  patch 60 reverb 60 pan 20 # hrn1
+midi channel 5  patch 60 reverb 60 pan 80 # hrn2
+midi channel 6  patch 44 reverb 60 pan 80 # vln2
+midi channel 7  patch 44 reverb 60 pan 65 # bass
+midi channel 8  patch 44 reverb 60 pan 50 # vlc
+1 system 10 /27/
+/
+3 bars | 3/4 8 8 10 | 4 4 4 4 10 5 | 18 |
+| 3/4 3.0
+=1' bass     3/4 cha8 vol110 2 leg99 f~ 4 leg85 e~
+midi off
+=1, bass     3/4 2. <G(2 Bb(4 d(6>
+midi on
+#=2 bass     3/4 cha4 vol80 leg99 2 f~ 4 e~
+#=2          3/4 2. d
+#=3 bass     3/4 cha5 vol80 leg99 2 d~ 4 c
+#=3          3/4 2. G(2
+#=4 bass     3/4 cha2 vol70 leg99 2 bb 4 c~
+|
+=1' 2 leg99 d~ 8 leg80 [c~ leg99 bb]
+midi off
+=1, 2. <G)2 Bb)4 d)6>
+midi on
+#=2 2. <e(2 d~>
+#=3 2. <G)2 bb>
+#=4 4 d~-dim40 2 rest
+|
+=1' 2. a-dim40
+midi off
+=1, 2. <A c# e>
+midi on
+#=2 2. <e)2 c~#-dim40>
+#=3 2. <A a-dim40>

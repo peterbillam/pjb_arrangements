@@ -1,0 +1,89 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 14
+.pl 11.7i
+.LP
+\&
+.sp 1.4c
+.LP
+.ce 1
+\f3\s+8Five Preludes, \  Alexander Scriabin op.74, 1914\s0\fP
+.sp 1.4c
+.LP
+.nh
+The following analysis is largely distilled from Manfred Kelkel's book
+\f2Alexandre Scriabine:
+Sa vie, l'ésotérisme et le langage musical dans son oeuvre\fP,
+Éditions Honoré Champion, 7 quai Malaquais, Paris, 1978.
+Kelkel's analysis seems to me investigative and insightful;
+previous analyses seem more procrustean.
+
+.SH
+Scriabin's Six, Seven, Eight, Nine, and Ten-note scales
+.LP
+.nh
+Danilewitsch quotes Scriabin:
+"my melody is a decomposed harmony, and my harmony is condensed melody."
+The harmony notes are not a subset, selected for lower tension,
+of the melody notes; they are all of them.
+The euphony desirable in longer notes is attained by careful spacing;
+this in turn encourages some arpeggiation in performance,
+which further blurs the border between the harmonic and melodic realms.
+In the following they're called scales,
+but they could also be called chords.
+.LP
+.nh
+\f3The Six-note scales :\fP (op.60 ...) \ 
+Scriabin uses two kinds of six-note scale:
+one derived from a whole-tone scale by raising one of the notes,
+i.e. 2+2+2+3+1+2 semitones;
+the second by also lowering the opposite note (three away) from
+the raised one, i.e. 1+3+2+3+1+2.
+I will call them \f36A\fP and \f36B\fP respectively.
+.LP
+.nh
+\f3The Seven-note scales :\fP (op.62 ...) \ 
+Scriabin uses two kinds of seven-note scale:
+one derived from a whole-tone scale by splitting one of the notes into two,
+i.e. 2+2+2+1+2+1+2 semitones;
+the second by also lowering the opposite note (three away) from
+the split one, i.e. 1+3+2+1+2+1+2.
+I will call them \f37A\fP and \f37B\fP respectively.
+.LP
+.nh
+\f3The Eight-note scale :\fP (op.55, 64...) \ 
+Scriabin used the scale 1+2+1+2+1+2+1+2 semitones,
+which repeats every three semitones,
+has only three distinct transpositions
+and was later adopted by Messiaen.
+The eight-note chord \f2D# E F# G A Bb c db\fP,
+for example, I will call \f38\ (D#,E)\fP.
+In op.74 nos.3 and 5 the eight-note chord is used to end a section.
+.LP
+.nh
+\f3The Nine-note scales :\fP (op.67 ...) \  
+Scriabin uses two, perhaps three kinds of nine-note scale:
+one derived from the eight-note scale by adding one of the missing notes,
+i.e. 1+2+1+2+1+1+1+1+2, which has twelve transpositions;
+the second using 2+1+1+2+1+1+2+1+1 semitones
+which repeats every four semitones
+and has only four distinct transpositions
+and was later adopted by Messiaen;
+the third with the lower half-octave in tones
+and the upper completely chromatic
+i.e. 2+2+2+1+1+1+1+1+1.
+I will call them \f39A\fP, \f39B\fP and \f39C\fP respectively.
+.LP
+.nh
+\f3The Ten-note scales :\fP (op.74) \ 
+Scriabin uses two kinds of ten-note scale:
+one in which the missing notes are three semitones apart,
+i.e. 1+2+1+2+1+1+1+1+1+1
+which has a lower half-octave with an eight-note character
+but an upper half which is completely chromatic;
+the other in which the missing notes are six semitones apart,
+i.e. 1+2+1+1+1+1+2+1+1+1 which repeats every six
+semitones and has only six distinct transpositions.
+I will call them \f310A\fP and \f310B\fP respectively.
+

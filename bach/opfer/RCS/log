@@ -1,0 +1,93 @@
+980508 133506 fuga_canonica pjb Fuga Canonica No 4 in Epidiapente
+980509 081732 fuga_canonica pjb added third page to bar 59
+980509 084443 fuga_canonica pjb added bars up to end
+980530 110636 ricercare6 pjb score of Ricercare a 6
+980530 110826 ricercare3 pjb Ricercare a 3 for keyboard
+980530 110954 fuga_canonica pjb en in bar 54 bass
+980531 112730 ricercare6 pjb typed in bars 10-18
+980531 121650 ricercare6 pjb added up to bar 30
+980531 132321 ricercare6 pjb added up to bar 36
+980601 114326 ricercare6 pjb added up to bar 62
+980601 151714 ricercare6 pjb added up to bar7
+980603 100111 ricercare6 pjb dozen small fixes, some spacing
+980627 094109 ricercare3 pjb cn in 156
+19980916 134742 ricercare3 pjb 15 moved to the right
+19980916 140009 ricercare3 pjb more spacing on p1
+19981003 064859 parts pjb Combined Parts of Ricercare6
+19981003 065427 title.6.parts pjb Title page of Parts of Ricercare6
+19981026 164525 fuga_canonica pjb resqueezed part, respaced everything
+19981027 084038 fuga_canonica pjb minor spacing adjustments
+19981027 091311 fuga_canonica pjb kbd staves smaller in solo part
+19981028 143957 Makefile pjb Makefile for Musikalishes Opfer
+19981028 144637 title.canonica pjb Title Page of Fuga Canonica
+19981028 145118 title.canonica pjb better spacing, vaild date
+19981028 145418 title.canonica pjb add In Epidiapente
+19981028 145709 make_samples3 pjb makes sample page for r3
+19981028 145727 make_samples6 pjb makes sample page for r6
+19981028 145853 make_samples_canonica pjb makes sample page for Fuga Canonica
+19981028 150413 Makefile pjb separate make_samplesX
+19981120 101639 Makefile pjb add ric6_kbd1
+19981120 140225 Makefile pjb add ric6_kbd2 too
+19981120 175533 ric6_kbd2 pjb Ric6 for 2 Pianos - 2nd kbd part
+19981120 200928 Makefile pjb add p2, using html2ps instead of groff
+19981120 205356 p2 pjb Generic p2 with origin of Musical Offering
+19981123 110652 ric6_kbd1 pjb Ric6 for 2 Pianos - 1st kbd part
+19981123 140621 ric6_kbd1 pjb fully respaced
+19981123 142923 ricercare6 pjb slur in sopranino bar 30
+19981123 172316 ric6_kbd2 pjb respaced up to bar 70
+19981124 123310 ric6_kbd2 pjb respace to end
+19981125 105208 p2 pjb fill out rest of text
+19981125 105306 p3 pjb second half of p2
+19981125 105334 p2 pjb 2nd half moved to p3
+19981125 105443 Makefile pjb add p3
+19981125 105948 p3 pjb tightened
+19981125 111656 Makefile pjb insert p2 and p3 into all scores and parts
+19981125 111920 canonica pjb Fuga Canonica in Epidiapente
+19981125 112347 ric6_kbd1 pjb move pagenums to allow for p2 and p3
+19981125 112527 parts pjb sopranino tie in 30, tenor An in 74
+19981125 112642 ric6_rec pjb Score of ricercare6 for Recorders
+19981125 112816 ric6_rec pjb move pagenums to allow for p2 and p3
+19981125 112914 ricercare3 pjb move pagenums to allow for p2 and p3
+19981125 113634 Makefile pjb correct cp syntax
+19981125 114830 make_samples6 pjb ricercare6 -> ric6_rec
+19981125 133836 ric6_kbd.title pjb title page of ric6_kbd
+19981125 135448 ric6_kbd pjb combined ric6_kbd1 and ric6_kbd2
+19981125 141204 p2 pjb tighten onto 1 page
+19981125 141414 ric6_kbd.title pjb added url
+19981125 141558 title.6.score pjb Title Page for ric6_rec.score
+19981125 142024 ric6_kbd pjb repair tie in 61-62
+19981125 142905 ric6_kbd pjb minor spacing around bar 50
+19981125 143624 ric6_kbd pjb raised bar 100 a bit in 1st kbd
+19981125 144819 ric6_kbd pjb minor barnum spacing, correct pagenum 5 in 2nd kbd
+19981125 145900 p2 pjb Philipp Emmanuel spelling
+19981125 150227 p3 pjb Philipp Emmanuel spelling
+19981125 150636 p2 pjb Klavier -> Clavier
+19981126 085851 make_sample_ric6_kbd pjb Extracts sample page from ric6_kbd
+19981126 090012 ric6_kbd pjb lower cro rest in 2nd bar 99
+19981130 093541 p2 pjb king -> King and other minor changes
+19981130 093751 p3 pjb king -> King
+19981130 093953 ric6_kbd pjb consistentise headers and footers
+19981130 094053 ric6_kbd.title pjb transcribed -> arranged
+19990724 173757 title.3 pjb Title page of 3-voice Ricercar
+19990724 173834 title.6.parts pjb Postscript -> electronic
+19990724 173917 title.6.score pjb Postscript -> electronic
+20010301 203936 ric6_str_score pjb For 2 Vlns, 2 Vlas, 2 Celli
+20010301 204001 ric6_str_parts pjb Parts for 2 Vlns, 2 Vlas, 2 Celli
+20010301 204016 Makefile pjb add ric6_str
+20020708 141326 ric3 pjb Ricercare a 3, for Keyboard
+20040919 174649 ric3 pjb refinger pages 1 and 8
+20041003 152654 ric3 pjb finger 2nd page, to bar 52
+20050510 183302 ric3 pjb add midi, fix 2 misprints, respace last 6 pages
+20050511 215113 ric3 pjb thoroughly respaced and last misprint fixed :-)
+20050513 200214 ric3 pjb added a couple of pages of fingerings
+20060102 211513 canonica pjb add fingerings
+20060108 200811 canonica pjb fingering fastidiously revised
+20090410 103741 Makefile pjb A4 and US versions, and much regularised
+20090410 103830 ric6_str pjb Ricercare6 for strs, score and parts
+20090410 103850 ric6_rec pjb Ricercare6 for recs, score and parts
+20090410 104026 title_ric6_str pjb title for ric6_str
+20090410 104051 title_ric6_rec pjb title for ric6_rec
+20090410 104108 title_ric6_kbd pjb  title for ric6_kbd
+20111026 102907 Makefile pjb uses upload; add warning to ric3
+20120216 055550 ric6_kbd pjb improve the worst spacing roughnesses
+20120720 172332 ric6_str pjb much refinement of spacing in the parts

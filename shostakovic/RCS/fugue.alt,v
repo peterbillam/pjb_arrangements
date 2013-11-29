@@ -1,0 +1,524 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4;
+comment	@# @;
+
+
+1.4
+date	97.06.12.01.52.17;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	97.06.12.01.44.18;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	97.06.11.16.16.22;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.06.11.02.10.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Alto Recorder part of op87 fugue 1
+@
+
+
+1.4
+log
+@minor adjustments
+@
+text
+@12 systems / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 / 24 /
+/
+12 bars | 6 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+|
+is1.2 Shostakovic Preludes and Fugues op87
+b0.5 Moderato
+rs0.5                            (Crochet mm 92)
+=1 treble 2/2 min rest
+I0.05     pp
+i0.05          legato sempre
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+bl0.9 Fugue 1
+il0.1 5
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+b1.1      Alto Recorder
+il0.2 10
+=1 smb rest
+|
+=1 smb rest
+/
+10 bars | 6 | 4.5 | 4.5 | 4.5 | 4.5 | 4.5 | 6 | 5 | 6 | 4 3 |
+|
+=1 treble smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 min rest c
+|
+=1 smb g
+|
+il0.3 20
+=1 min g c
+|
+=1 cro g a min g
+/
+8 bars | 4.5 3.5 | 8 | 8 | 6 | 5 | 8 | 4 3 | 4 3 |
+|
+=1 treble min g c~
+|
+=1 min. g cro a
+|
+=1 min f c~
+|
+il0.4    25
+=1 min. f cro g
+|
+=1 smb e
+|
+=1 min d cro b a
+|
+=1 cro g f min e
+|
+=1 min d cro b a
+i0.03 cresc .
+/
+7 bars | 9 | 4 3 | 8 | 4 3 | 8 | 4 3 | 4 3 |
+|
+il0.4 30
+=1 treble cro g a b c~
+I0.02    p
+|
+=1 cro d~ c~ min b
+|
+=1 cro b a b g
+|
+=1 cro a b min a
+|
+=1 cro a g f e
+|
+il0.2 35
+=1 cro f e min d
+i0.05  cresc .
+|
+=1 cro e d min c
+/
+8 bars | 4.5 3.5 | 6 | 3 4 | 8 | 4 3 | 5 | 8 | 4 3 |
+|
+=1 treble cro c d B
+i0.07     dim .
+|
+=1 min g f
+|
+=1 min f cro e f
+I0.01        pp
+|
+il0.4 40
+=1 cro g f e f
+|
+=1 min. g cro a
+|
+=1 smb g
+|
+=1 cro g f e f
+|
+=1 cro g f min e
+/
+8 bars | 4.5 3.5 | 4 3 | 8 | 8 | 4 3 | 3 4 | 8 | 4 3 |
+|
+il0.4 45
+=1 treble cro e d~ min c~
+|
+=1 cro f~ e~ min d~
+|
+=1 cro d~ c~ b a
+i0.01 cresc .
+|
+=1 cro b a g a
+I0.01   p
+|
+=1 min. b cro c~
+|
+il0.2      50
+=1 smb b
+|
+=1 cro b a min g
+i0.04         dim .
+|
+=1 min a rest
+/
+12 bars | 6 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+|
+=1 treble smb rest
+|
+=1 smb rest
+|
+il0.2 55
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+I0.05          pp
+|
+=1 smb rest
+|
+=1 smb rest
+|
+il0.2   60
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+|
+=1 smb rest
+i0.03 cresc . . .
+/
+9 bars | 7 | 5 | 6 | 4 3 | 6 | 3 4 | 6 | 3 4 | 5 |
+|
+il0.4 65
+=1 treble min rest d
+I0.01              p
+|
+=1 smb a
+|
+=1 min a d
+|
+=1 cro a b min a
+|
+=1 min a d~
+i0.07      cresc .
+|
+il0.4    70
+=1 min. a cro b
+|
+=1 min g d~
+|
+=1 min. g cro a
+|
+=1 smb f
+/
+8 bars | 4.5 3.5 | 4 3 | 8 | 8 | 6 | 6 | 5 | 3 4 |
+|
+=1 treble cro f d min e
+I0.05      mf
+i0.05              dim .
+|
+il0.2 75
+=1 cro e c min d
+|
+=1 cro d A B c
+|
+=1 cro d G A B
+|
+=1 min c e
+|
+=1 min c g
+|
+il0.3 80
+=1 smb g
+|
+=1 min c cro g a
+/
+8 bars | 6 | 6 | 4 3 | 6 | 4 3 | 4 3 | 4 3 | 3 4 |
+|
+=1 treble smb g
+|
+=1 min c~ g
+|
+=1 cro g a min f
+|
+il0.3      85
+=1 min c~ f
+i0.05        cresc .
+|
+=1 cro f g min e
+I0.01          mf
+|
+=1 cro e f min d
+|
+=1 cro d e min f
+|
+=1 min. f cro f
+/
+9 bars | 7 | 4 3 | 6 | 4 3 | 3 4 | 4 3 | 4 3 | 4 3 | 3 4 |
+|
+il0.4    90
+=1 treble min a g
+|
+=1 cro a b min c~
+|
+=1 min c~ b
+|
+=1 cro b c~ min a
+i0.05          dim .
+|
+=1 min a cro g f
+|
+il0.2 95
+=1 cro f e min d
+|
+=1 cro e d min c
+|
+=1 cro c d min c
+I0.01             p
+|
+=1 min c cro a g
+/
+8 bars | 6 | 3 4 | 8 | 8 | 8 | 8 | 3 2 3 | 5 ||
+|
+=1 treble smb f
+is1.0 Arranged by Peter Billam, 1995
+|
+il0.2 100
+=1 min c cro a g
+i0.01        dim .
+|
+=1 cro f e f d
+|
+=1 cro f e f d
+|
+=1 cro e d e c
+|
+=1 cro e d e c
+i0.05          rit .
+|
+il0.2 105
+=1 cro d min A cro B
+|
+=1 smb c
+I0.01  pp
+@
+
+
+1.3
+log
+@shifted bars between last six staves
+@
+text
+@a29 1
+b1.1      Alto Recorder
+d32 1
+d83 1
+a83 1
+il0.2 30
+d104 1
+a104 1
+i0.07  dim .
+d124 1
+a124 1
+il0.2 45
+d137 1
+a137 1
+il0.2     50
+d173 1
+a173 1
+i0.03              cresc . . .
+d177 1
+a177 1
+il0.2 65
+d190 1
+a190 1
+il0.2 70
+d202 2
+a203 2
+I0.05 mf
+i0.05         dim .
+d242 1
+a242 1
+9 bars | 7 | 4 3 | 6 | 4 3 | 3 4 | 4 3 | 4 3 | 3 4 | 5 |
+d244 1
+a244 1
+il0.3     90
+@
+
+
+1.2
+log
+@swapping bars between lines
+@
+text
+@a17 1
+bl0.9 Fugue 1
+d20 2
+a21 1
+il0.2 5
+a25 1
+b1.1      Bass Recorder
+d30 1
+d56 1
+a56 1
+il0.2 20
+d111 1
+a111 1
+il0.2 40
+d125 1
+a125 1
+=1 cro e d~ min c~
+d127 1
+a127 1
+=1 cro f~ e min d
+d130 1
+a130 1
+i0.02 cresc .
+d133 1
+a133 1
+I0.06   p
+d135 1
+a135 1
+=1 min. b cro c
+d137 1
+a137 1
+il0.2 50
+d145 1
+a145 1
+8 bars | 8 | 4 3 | 4 3 | 6 | 8 | 8 | 3 4 | 5 |
+a164 2
+/
+8 bars | 9 | 4 3 | 4 3 | 4 3 | 4 3 999
+d166 1
+a166 1
+=1 treble smb rest
+d174 2
+d178 2
+a179 2
+=1 min rest d
+I0.06              p
+a185 2
+/
+9 bars | 8 | 4 3 | 4 3 | 4 3 | 4 3 | 5 | 5 | 5 | 5 |
+d187 1
+a187 1
+=1 treble min a d~
+d198 2
+d201 1
+a201 1
+=1 cro f d min e
+a210 2
+/
+9 bars | 2.5 4 | 8 | 2.5 4 | 5 | 8 | 4 3 | 6 | 8 | 6 |
+d212 1
+a212 1
+=1 treble min c e
+d216 1
+a216 1
+il0.2 80
+d220 2
+d223 1
+a223 1
+=1 smb g
+d229 1
+a229 1
+il0.2 85
+d234 1
+a234 3
+I0.05          mf
+/
+9 bars | 5 | 6 | 4 3 | 6 | 2.5 4 | 6 | 2.5 4 | 5 | 3 1.6 1.2 1.1 |
+d236 1
+a236 1
+=1 treble cro e f min d
+d241 2
+d244 2
+a245 2
+il0.2 90
+=1 min a g
+a257 2
+/
+11 bars | 5 | 6 | 5 | 6 | 4 2.5 | 5 | 5 | 6 | 5 | 5 | 5 ||
+d259 1
+a259 2
+=1 treble cro e d min c
+is1.0 Arranged by Peter Billam, 1995
+d265 2
+d268 2
+a269 1
+=1 smb f
+d273 1
+a273 1
+i0.05        dim .
+@
+
+
+1.1
+log
+@filled in bars 25-end
+@
+text
+@a67 2
+/
+9 bars | 4.5 3.5 | 4 3 | 6 | 5 | 6 | 6 | 5 | 6 |
+d70 1
+a70 1
+=1 treble min. f cro g
+d80 2
+d84 1
+a84 1
+=1 cro g a b c~
+a89 2
+/
+9 bars | 4.5 3.5 | 5 | 5 | 6 | 6 | 8 | 5 | 4 | 4 |
+d91 1
+a91 1
+=1 treble cro a b min a
+d100 2
+d103 1
+a103 1
+=1 cro c d B
+a114 2
+/
+10 bars | 4 | 3.5 | 3.5 | 3.5 | 3.5 | 6 | 5 | 6 | 4 3 | 6 |
+d116 1
+a116 1
+=1 treble smb g
+d121 2
+d142 2
+d145 1
+a145 1
+9 bars | 6 | 6 | 6 | 6 | 6 | 6 | 3 4 | 4 3 | 3 4 |
+d147 1
+a147 3
+=1 treble min a rest
+|
+=1 smb rest
+d166 1
+a166 1
+8 bars | 8 | 4 3 | 8 | 4 3 | 4 3 | 1.4 1.4 2.9 1.4 | 4 | 4 |
+@

@@ -1,0 +1,45 @@
+#! /usr/bin/perl
+#########################################################################
+#        This Perl script is Copyright (c) 1998, Peter J Billam         #
+#     c/o P J B Computing, GPO Box 669, Hobart TAS 7001, Australia      #
+#                                                                       #
+#      P J B Computing specialises in Internet Commerce, and offers Web #
+# Functionality in Perl, HTML and Java.           http://www.pjb.com.au #
+#########################################################################
+unshift (@INC, $ENV{PLIB} || '/home/plib');
+
+$sd = '/home/pjb/www/mus/samples';
+
+$piece = 'ric6_rec';
+$message = 'Sample only.  Order score and parts at  www.pjb.com.au/mus !';
+foreach $paper ('us', 'a4') {
+   open (I, "$piece.$paper") || die "can't open $piece.$paper: $!\n";
+   open (S, "> $sd/$piece.$paper")
+   || die "can't open $sd/$piece.$paper: $!\n";
+   while (<I>) {
+      if (/^pgsave restore/) {
+         print S "565 30 /Times-Italic 9 ($message) rightshow\n";
+         print S "pgsave restore\nshowpage\n";
+         last;
+      }
+      print S;
+   }
+   close I;
+}
+
+$piece = 'ricercare3';
+$message = 'Sample only.  Order the whole piece at  www.pjb.com.au/mus !';
+foreach $paper ('us', 'a4') {
+   open (I, "$piece.$paper") || die "can't open $piece.$paper: $!\n";
+   open (S, "> $sd/$piece.$paper")
+   || die "can't open $sd/$piece.$paper: $!\n";
+   while (<I>) {
+      if (/^pgsave restore/) {
+         print S "565 30 /Times-Italic 9 ($message) rightshow\n";
+         print S "pgsave restore\nshowpage\n";
+         last;
+      }
+      print S;
+   }
+   close I;
+}

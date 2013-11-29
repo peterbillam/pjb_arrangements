@@ -1,0 +1,37 @@
+19990419 151023 allegro pjb J.S.Bach Flute Sonata III, last mvt, in C major
+19990420 091624 allegro pjb add 2nd page, ie up to bar 70
+19990420 141228 allegro pjb add up to bar 90
+19990420 150015 allegro pjb up to bar 102, ie first 3 pages
+19990421 110052 allegro pjb up to bar 135, ie four pages now
+19990422 110649 allegro pjb added 2 lines of 5th page
+19990422 144051 allegro pjb add up to bar 194, ie top of 7th page
+19990423 120312 allegro pjb added up to end !
+19990424 102257 allegro pjb a dozen or so misprints, some shifting
+19990424 114518 largo pjb Bach Flute Sonata III, Largo e dolce
+19990424 152832 largo pjb added up to bar 18, ie first page (of 2)
+19990425 114618 largo pjb added up to bar 25; 3 systems to go
+19990425 132000 largo pjb add up to end
+19990428 150721 score pjb Bach Flute Sonata III, score and part
+19990503 150946 make_samples pjb squeezes 2 systems of each mvt onto 1 page
+19990503 151717 Makefile pjb Makefile for Bach Flute Sonata III
+19990503 172010 p3 pjb page 3; list of references
+19990518 173224 score pjb e~b in 142
+19990518 173411 p2 pjb page 2 blurb for Flute Sonata
+19990518 173448 p3 pjb centre final signature
+19990529 154356 vivace pjb First Mvt Vivace
+19990529 170949 vivace pjb first page (12 bars) added
+19990530 112239 vivace pjb added up to bar 30, 2 pages
+19990531 154438 vivace pjb added 3rd page, up to bar 45
+19990602 110913 vivace pjb add remainder of surviving Bach manuscript
+19990615 182716 vivace pjb added 7 bars of completion sketch
+19990724 175235 title pjb Title page for Flute Sonata
+19990905 111417 vivace pjb a dozen or so extra bars on the last two pages
+19990921 192420 vivace pjb 'final' 87-bar completion !
+19991119 184643 vivace pjb two extra bars 64 and 65
+19991124 185130 Makefile pjb move vivace in, drop p3, part before score
+19991124 192928 p2 pjb added coverage of vivace
+19991124 193806 score pjb move vivace and viv.part in
+19991124 210730 make_samples pjb last page of vivace as well
+20001002 141215 score pjb fix bar 222 LH, use X-tr syntax for trills
+20060623 215019 bwv1032_rec pjb Bach BWV1032 transposed into C major
+20081110 101414 bwv1032_rec pjb bring muscript syntax up to date

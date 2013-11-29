@@ -1,0 +1,691 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2009.01.29.04.46.50;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Five English Songs for voice and guitar
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@midi off
+4 systems 15 /20 55 20/20 55 20/20 45 20/20 45 20 160/
+pagenum 3
+title When Laura Smiles
+innerhead Philip Rosseter
+leftfoot arrangement (c) 1979 Peter J Billam
+midi channel 1 patch 54
+midi channel 2 patch 24
+
+/
+5 bars | 4# 3/4 8 | 8 | 8 | 8 |
+| 3/4 140
+i0.6         Fast
+=1 treble      4# 3/4 cha1 leg98 vol110 4 B' G c
+r0.7 .21 When .46 Laura
+r0.4 .21 The .46 earth .73 and
+=2' treble8vab 4# 3/4 cha2 leg199 vol90 2 <G B e> 4 <A c e>
+=2,            4# 3/4 4 E E_ <A_ E>
+|
+=1' 8 [B{'1 A G F] 4 leg65 E}'1 leg98
+r0.7 .05 smiles ,
+r0.4 .05 heav'n
+=2' 2 <G B e> 8 [B{2 c}2-s2]
+=2, 2. E
+|
+=1' 8 [F{'1 G}'1] 4 A G
+r0.7 .05 her .34 sight .69 re  -
+r0.4 .05 views .35 with .70 de .90 -
+=2' 8 [dn e] 4 f <B e>
+=2, 2 <Dn A> 4 E
+|
+=1' 8 [F{'1 E D C] 4 B_}'1
+r0.7 .05 vives
+r0.4 .05 light
+=2' 8 [d#{2 c}2] 4 B <B e>
+=2, 4. B_ 8 A_ [G_ F_]
+|
+=1' 4 E F F
+r0.7 .05 both .34 night .67 and
+r0.4 .05 her .37 wan - ton
+=2' 4 <G B e> e d
+=2, 4 E_ 2 <B_ F>
+/
+4 bars | 4# 35 :|| 6 7 6 6 6 6 | 6 7 6 6 6 6 | 3/2 6 6 6 6 6 6 6 6 6 7 6 6 |
+|
+=1' 2. leg65 E leg98
+=1' 2 blank 4-s E-s"(2nd verse)"
+r0.7 .19 day
+r0.4 .19 play
+=2' 2. <G B e>
+=2, 2. <E_ B_>
+|
+=1' 2 F 4 A
+r0.6 .05 And .67 her
+=2' 8 [Dn A dn A] [A_ e]
+=2, 4 Dn, blank A_
+|
+=1' 2 leg65 G 4 leg99 F
+r0.6 .05 speech .64 with
+=2' 8 [B_ B dn B] [Dn A]
+=2, 4 B_, blank Dn
+| 3/2 70
+=1' 3/2 2 E# F 4 G G
+r0.6 .07 ev  .22 - .37 er .52 - .68 flowing
+=2' 3/2 8 [C G c G] [A_ A c A] [B d e# c]
+=2, 3/2 4 C blank A_ blank B_ C
+/
+5 bars | 4# 3/4 36 | 36 | 36 | 6 7 6 6 6 6 | 36 |
+| 3/4 140
+=1' 3/4 2 A 4 leg65 F leg98
+r0.6 .26 mu .52 - .71 sic
+=2' 3/4 8 [f c A c] [F A]
+=2, 3/4 2 F_ 4 F
+|
+=1' 2 G 4 A
+r0.6 .05 doth .67 re .90 -
+=2' 8 [E B] 4 e 8 [C e]
+=2, 4. E 8 Dn 4 C
+|
+=1' 2 B leg65 4 leg98 B
+r0.6 .02 pair .67 the
+=2' 8 [B_ d f d] 4 B
+=2, 4 B_ blank B
+|
+=1' 2 F 4 G
+r0.6 .05 cru .36 - .67 el
+=2' 8 [Dn A] 4 dn 8 [B_ d]
+=2, 4. Dn 8 C 4 B_
+|
+=1' 2 A 4 A
+r0.6 .05 wounds .67 of
+=2' 8 [A_ c e c] 4 A
+=2, 4 A_ blank A
+/
+3 bars | 4# 36 | 3/2 72 | 3/4 30 ||
+|
+=1' 2 E 4 leg65 F leg98
+r0.6 .15 sor .49 - .69 row
+=2' 8 [C G] 4 c 8 [A_ c]
+=2, 4. C 8 B_ 4 A_
+| 3/2 70
+=1' 3/2 2. G 8 [F{'1 E}'1] 4 F F
+r0.6 .06 and .53 un - tamed .84 de .93 -
+=2' 3/2 8 [G_ B e d] [C A] 4 e 8 [B_ e d A]
+=2, 3/2 4 G_ blank C blank B_ blank
+| 3/4 140
+=1' 3/4 2. E
+r0.6 .05 spair .
+=2' 3/4 2. <G B e>
+=2, 3/4 2. E_
+midi pause 2.0
+
+3 systems 75 /20 75 20/20 75 20/20 75 20 70/
+pagenum 3
+title What then is love but mourning ?
+innerhead Philip Rosseter
+leftfoot arrangement (c) 1979 Peter J Billam
+midi channel 1 patch 54
+midi channel 2 patch 24
+
+/
+3 bars | 1# 3/4 48 | 48 | 48 |
+| 4/4 100
+i0.6         Moderate
+=1' treble      1# 4/4 cha1 leg98 vol110 4 B 8 [B B] 4 leg70 G leg99 A
+r0.76 .11 What .29 then  is .55 love .77 but
+r0.6  .11 Beau - ty .43 is .55 but .77 a
+r0.44 .11 Sum - mer .43 in .55 Win  -  ter
+=2' treble8vab 1# 4/4 cha2 leg199 vol90 4. g 8 f 4 e 8 [f{'1  e}'1(1]
+=2,            1# 4/4 2 <G_ D B> 4 <C c> <A_ c>
+|
+=1' 4. F{2 8 E}2 2 leg70 E leg99
+r0.76 .03 mour .28 - .50 ning ?
+r0.60 .03 bloo .28 - .50 ming ,
+r0.44 .04 fa .28 - .50 deth ;
+=2' 4 e)1 d# 2 e
+=2, 2 <B_ B> <E G# B>
+|
+=1  8 F G 4 leg70 A 8 leg99 B c# 4 d
+r0.76 .03 What desire  .50 but   a .75 self .90 -
+r0.60 .03 youth in his .53 glory .75 en .90 -
+r0.44 .03 gloomy night .50 heavenly  light
+=2' 8 [dn e] 4 f 2 <B f>
+=2, 4 <B_ B> <F A c#> D B_
+|
+=1, 4. c#{1 8 B}1 2 leg70 B leg99
+r0.76  - .03 tom .28 - .50 bing .
+r0.60  - .03 bur .28 - .50 ning ;
+r0.44  .03 sha .28 - .50 deth .
+=2' 2 <c# f> <B d# f>
+=2, 4 <Fr B> <F_ A#> 2 B_
+|
+=1' 4 d 8 c# B 4 leg70 A leg99 B
+r0.76 .03 Till .26 she that .50 hates .75 doth
+r0.60 .03 Time .26 hath a .50 while .75 which
+r0.44 .03 Like .26 to the .50 morn .75 are
+=2' 4 <B dn> e <d f> 8 [g{'1 f}'1]
+=2' 4 blank 8 [Ar{2 G}2] 2 blank
+=2, 4 B_ C# <D F> <B_ d>
+|
+=1' 4 leg70 G leg99 A 2 F
+r0.76 .03 love .29 re  -  turn ,
+r0.60 .03 none .29 can .50 stay ;
+r0.44 .05 Ve - nus' .50 hours ;
+=2' 4 e 8 [f e] 2 <B d#>
+=2, 4 <E  B> <A_ A cn> 2 <B_ F>
+/
+4 bars ||: 48 | 48 | 48 | 48 :||
+|
+=1' 4 E 8 F G 2 leg70 A leg99 
+r0.76 .08 Thus  will  I  mourn ,
+r0.60 .08 Then  come  a - way
+r0.44 .08 Such  are  her  hours ,
+=2' 2 <G B> 4 <A c> 8 [dn e]
+=2, 2 E 4 <A_ E> 8 [B_ C]
+|
+=1' 4 F 8 G A 2 leg70 B leg99 
+r0.76 .03 Thus  will  I  sing ,
+r0.60 .03 While thus  I  sing ,
+r0.44 .03 Then  will  I  sing ,
+=2' 4. d 8 c 4 <G B> 8 [c d]
+=2, 2 <D A> 4 <G_ D> 8 [A_ B_]
+|
+=1' 8 [G A] 4 leg70 B 8 leg99 E F G A
+r0.60 .01 Come  away,  come away my
+=2' 4 <c e> <B d> 8 [c d] 4 <G B e(1>
+=2, 4 <C G> <G_ D> <A_ A> E_
+|
+=1' 2 F E
+r0.60 .06 .dar .29 - .50 ling !
+=2' 4 e)1 d# 2 <G# B e>
+=2, 2 <B_ B> <E_ B_ E>
+
+midi pause 2.0
+midi on
+
+6 systems 15 /20 40 20/20 40 20/20 40 20/20 40 20/20 40 20/20 40 20/
+pagenum
+title Full Fathom Five
+innerhead Robert Johnson
+leftfoot arrangement (c) 1979 Peter J Billam
+midi channel 1 patch 54
+midi channel 2 patch 24
+
+/
+4 bars | 4# 4/4 10 10 11 10 | 6 6 6 6 6 6 6 5 | 8 6 6 6 6 5 6 5 | 8 6 6 6 6 5 6 5 |
+| 3/4 72
+i0.6         Fairly slow
+=1 treble      4# 4/4 cha1 leg98 vol110 2 E 4 E E
+r0.7 .23 Full .62 fathom
+=2' treble8vab 4# 4/4 cha2 leg199 vol90 2 <B_ G> 4 <E c> <E B>
+=2,            4# 4/4 2 E_ 4 A_ G_
+|
+=1' 4. E 8 E 8 [F{'1 G}'1] [A{'1 B}'1]
+r0.7 .03 five .39 my .59 fa - ther
+=2' 8 [c{2 d}2] 4 <B e> <A e> <F d>
+=2, 4 <A_ E> G_ F_ B_
+|
+=1' 2. leg65 G 8 leg98 G A
+r0.7 .03 lies ; .76 Of  his
+=2' 8 [Er{2 F}2] [G-gs4, A] 2 B
+=2, 1 <E_ B e>
+|
+=1' 4. B 8 E 4 G 8 [F{'1 E}'1]
+r0.7 .04 bones .42 are  co - ral
+=2' 2 e e
+=2' 8 [Gr A] 2 B 4 A
+=2, 4. E 8 D 2 C
+/
+5 bars | 4# 48 | 48 | 24 18 | 10 12 12 10 | 12 10 10 12 |
+|
+=1' 2 leg65 F 4. leg98 F 8 G
+r0.7 .15 made ; .53 Those .86 are
+=2' 8 [d{2 e}2 f d] [B c d B]
+=2, 1 B_
+|
+=1' 2. A 4 E
+r0.7 .05 pearls .75 that
+=2' 8 [A{2 B}2] 4. c 8 [A c e]
+=2, 4. F_ 8 G_ 2 A_
+|
+=1' 4 E F 2 leg65 G leg98
+r0.7 .03 were his .54 eyes ;
+=2' 4. <B e> 8 d 2 <B e>
+=2, 4 A_ 8 [G_ F_] 2 E_
+|
+=1' 4 G A# B F
+r0.7 .05 Nothing .52 of .76 him
+=2' 4 <B g> 8 [f e] [d c] 4 B
+=2, 4 E 8 [D C] 4 B_ B_
+|
+=1' 4 An G 2 F
+r0.7 .02 that .25 doth .51 fade .
+=2' 4 e B e 8 [d c]
+=2, 8 [C D] 4 E 2 B_(2
+/
+4 bars | 4# 5 5 6 6 5 5 6 5 | 5 5 7 6 5 5 5 5 | 7 6 6 6 6 7 6 5 | 6 7 6 6 5 4 5 4 |
+|
+=1' 4 rest 8 F F 4 G 8 leg60 F leg98 G
+r0.7 .27 but doth .59 suffer .88 a
+=2' 4 d d 2 <B e>
+=2, 4 B_)2 B_ E 8 [D E]
+|
+=1' 4. F{1 8 G}1 2 leg65 A leg98
+r0.7 .02 sea .28 - .50 change
+=2' 2 blank e
+=2  4 <A f'> 8 [A dn'(2] 4 dr)2 c
+=2, 4 Dn 8 [C B_] 2 A_
+|
+=1  4 A F 8 [B{1 c}1] 4 dn
+r0.7 .06 Into .51 something
+=2' 8 [f dn] 4 a 8 [d e] 4 f(1
+=2, 4. Dn 8 C 4 B_ 8 [D E]
+|
+=1  4. c 8 B 2 leg65 B leg98
+r0.7 .02 rich .35 and strange .
+=2' 8 [f)1 e] 4 <A# c> 2 B
+=2, 4 F F_ 2 B_
+/
+4 bars | 4# 48 | 48 | 48 | 48 |
+|
+=1  4 F leg85 D leg98 G leg85 E leg98
+r0.7 .15 Sea-nymphs .59 hourly
+=2' 8 [d{2 e}2] 4 f 2 <B e>
+=2, 2 B_ G_
+|
+=1' 4 A F 2 leg85 B leg98
+r0.7 .02 ring .27 his .50 knell :
+=2' 4 e d <G e> f
+=2, 2. blank 8 A rest
+=2, 2 <F_ A> E_
+|
+=1' 2. B 8 A G
+r0.7 .02 Hark ! .75 now I
+=2' 4. <G B e> 8 A 4 B 8 [c e]
+=2, 4. <E_ B_ E> 8 F_ 4 G_ A_
+|
+=1  4 F leg85 F 2 leg98 A(2
+r0.7 .02 hear them, .51 Hark !
+=2' 2 d <A(5 c(3 f(1>
+=2, 2 B_ <F_(2 C(4 F(6>
+/
+5 bars | 4# 48 | 48 | 20 24 ||: 48 | 48 |
+|
+=1  4 A)2 8 G F 4 E leg85 E leg98
+r0.7 .29 now I .56 hear .77 them :
+=2' 4 <A)5 c)3 f)1> <B e> 8 [c d] 4 e
+=2, 2 blank 4 A c
+=2, 4 <F_)2 C)4 F)6> G_ 2 A_
+|
+=1  2 G F
+r0.7 .02 Ding .51 dong
+=2' 4 rest e 2 d
+=2,  4 blank 2 B 4 A
+=2, 2 B_ B_
+|
+=1  1 leg80 E leg98 
+r0.7 .02 bell .
+=2' 2 blank 4. E 8 F
+=2, 2 <E_ B_ E G B e>
+|
+=1  4. B' 8 A 4 G F
+r0.7 .02 Ding dong,  ding dong
+=2' 4 G-gs4 A 2 B
+=2, 2 rest,, 4. E 8 Dn
+|
+=1  2 E rest
+r0.7 .02 bell ,
+=2' 4. e 8 dn 4 c B
+=2, 4 C B_ A_ E
+/
+4 bars | 4# 48 | 48 | 48 | 48 :||
+|
+=1  4. c 8 B 4 A G
+r0.7 .15 Ding dong, .57 ding dong
+=2' 4 A c 4. f 8 e
+=2, 1 A_
+|
+=1  2 F rest
+r0.7 .02 bell ,
+=2' 4 d# c B 8 [c d]
+=2, 4. B_ 8 A_ 4 G_ F_
+|
+=1  4. B' 8 A 4 G F
+r0.7 .02 Ding dong, .50 ding dong
+=2' 2 e 8 [B e] 4 d
+=2 4. Gr 8 A 4. B 8 A,
+=2, 2 E_ 4 B_ B_
+|
+=1  1 E
+r0.7 .02 bell .
+=2' 2 blank 4.-s E-gs4 8-s F
+=2, 2 <E_ B_ E G B e>
+=2' 
+=2, 
+
+midi pause 2.0
+midi off
+
+6 systems 15 /20 35 20/20 35 20/20 35 20/20 35 20/20 35 20/20 45 20/
+pagenum
+title I saw my lady weep
+innerhead John Dowland
+leftfoot arrangement (c) 1979 Peter J Billam
+midi channel 1 patch 54
+midi channel 2 patch 24 reverb 99
+
+/
+4 bars | 4/4 17 20 | 6 6 5 5 6 7 5 5 | 3 3 3 6 3 4 3 3 3 4 3 2 3 2 3 2 | 5 5 5 6 5 5 5 5 |
+| 4/4 96
+i0.6         Not too slow
+=1 treble      4/4 cha1 leg98 vol110 2 blank 1 rest
+=2' treble8vab 4/4 cha2 leg109 vol90 2 e 4 e f
+=2,            4/4 2 <A c> <A c>
+|
+=1' 2 blank 1 rest
+=2' 8 [f e] 4 e 8 [e 16 d c] 4 d
+=2, 2 <G B> <F A>
+|
+=1' 1 B
+r0.7 .03 I
+=2' 8. [Ar 16 A] 8 [G# F#] Gr 4 A 8 G
+=2, 2 <E B e> <E_ B e>
+|
+=1  2. c 4 B(1
+r0.7 .03 saw .75 my
+=2' 4 <c e> <c e> e d
+=2, 4. <A_ E A> 8 A_ 2 <G_# B>
+/
+4 bars | 5 5 5 6 6 5 6 5 | 5 5 6 6 6 5 6 5 | 7 6 5 6 6 7 6 5 | 48 |
+|
+=1' 8 [B)1 A] 2 A 4 G#
+r0.7 .25 la .50 - .73 dy
+=2' 4 <A c> <A c> <A Bx> <G# B e>
+=2, 4. <A_ E> 8 A_ 4. E 8 E
+|
+=1  2 A rest
+r0.7 .01 weep ,
+=2' 4 <A e> 8 [d B] 4. g 8 g
+=2, 2 blank 4 c B(2
+=2, 2 F Er
+|
+=1  4 rest 8 rest A 2 d(1
+r0.7 .37 and  Sor .98 -
+=2' 4 f e 4. d 8 e
+=2' 8 [Br)2 A] 4. A 8 A 4 G#
+=2, 4 D C 2 B_
+|
+=1  4 d)1 leg70 c leg99 B e(1
+r0.7 .25 row .48 proud .74 to
+=2' 4 f e <B e> <G B gn>
+=2, 2 A blank
+=2, 4. A_r 8 A_ 4. E 8 E
+/
+4 bars | 5 5 5 5 5 6 5 5 | 6 6 6 6 5 5 6 5 | 6 6 6 6 6 8 6 5 | 5 5 5 6 5 5 5 5 |
+|
+=1  4 e)1 4. d 8 c 4 c(1
+r0.7 .25 be .62 advan
+=2' 4 g f <B f> <c e>
+=2, 2 <F A> <G B>
+|
+=1  4 c)1 B 2 c
+r0.7 .01 - .25 ced .50 so
+=2' 4. <d g> 8 d 4 <G c e> 8 [c d]
+=2, 4 <Gr c> <G_ B> 2 C
+|
+=1' 2 blank 1 rest
+=2' 8 [e f g e] [f 16 e d 8 c d]
+=2, 4 C C 8 [F_ G_ A_ B_]
+|
+=1' 4 rest G G G#
+r0.7 .25 in .50 those .75 fair
+=2' 4 e <c e> <G d> <B e>
+=2, 4. C 8 C 4 B_ E
+/
+4 bars | 5 5 5 6 5 5 5 5 | 5 5 5 7 6 6 6 5 \
+ | 3 2 3 2 3 2 3 2 4 6 6 4 3 2 3 2 | 40 |
+|
+=1' 4. leg70 A 8 leg99 A 4. B 8 B
+r0.7 .04 eyes , .37 in .50 those .87 fair
+=2' 4 <A e> <A d> <A Bx f#> <G# B e>
+=2, 4 C# F# D# E
+|
+=1  4. c 8 c Bb' A 4 A(2
+r0.7 .03 eyes .31 where all perfec
+=2' 4 <A c e> <c e> <A d> <A(2 d(1>
+=2, 4. A_ 8 A_ 4. D 8 C
+|
+=1' 4 A)2 G 2 A
+r0.7 .02 - .21 tions  keep .
+=2' 4 d)1 d(1 16 [d)1 d{2 c#}2 Bn] 4 c
+=2, 2 <B_b A)2> 4. <A_ E> 8 A_
+|
+=1' 4 rest A 4. Bn 8 B
+r0.7 .25 Her .50 face .85 was
+=2' 2 <A d> 4 rest <F# d#>
+=2, 2 D 4 rest B_
+/
+4 bars | 5 5 5 6 5 5 6 5 | 6 6 6 5 6 5 6 5 | 5 5 5 5 5 6 5 5 | 6 6 5 5 6 7 6 5 |
+|
+=1' 4 B F# 2 leg70 G leg99
+r0.7 .03 full .25 of .50 woe ,
+=2' 4. d# 8 dn 4 c B(1
+=2, 2 <B_ F#> 4. E 8 Dn
+|
+=1'  4. E{1 8 F#}1 4 G F
+r0.7 .03 full .50 of .75 woe ;
+=2' 8 [B)1 B] 4 A 2 B
+=2, 2 C 4 E 8 [D# B_]
+|
+=1' 4 rest 4. G# 8 G 4 A
+r0.7 .25 but .62 such  a
+=2' 2 <G# B> 4 <B e> <E A c#>
+=2, 2 E 4 E A_
+|
+=1' 4. leg70 B 8 leg99 B 4 A 8 leg70 A leg99 A
+r0.7 .03 woe , .37 believe me. .87 as
+=2' 2 d 4. e 8 d
+=2' 4 F#rl 4. Gn 8 G 4 blank
+=2, 2 D 4 C# <D F#>
+/
+4 bars | 3/2 7 6 6 6 6 6 6 6 5 5 6 5 \
+ | 6/8 3 3 3 3 3 3 3 3 3 4 3 2 \
+ | 5/4 4 4 3 3 3 3 3 3 3 2 3 2 3 3 3 4 3 3 3 2 \
+ | 4/4 5 5 5 6 4 4 4 4 ||
+| 3/2 48
+=1, 3/2 4. c 8 c 2 B 4 rest c
+r0.7 .06 wins .25 more hearts .83 than
+=2' 3/2 8 rest' 4 cn 8 d 4. e 8 d 4 f 8 [e a(1]
+=2, 3/2 4 G# A Ar G 2 blank
+=2, 3/2 2 Er <E B> <A_ A>
+| 6/8 64
+=1, 6/8 4 B 8 d 4 leg70 c 8 leg99 B
+r0.7 .06 Mirth can do .83 with
+=2' 6/8 [a)1 g d] 8. [e 16 f 8 g]
+=2, 6/8 4 E 8 B_ 4 C 8 G_
+| 5/4 96
+=1' 5/4 8 leg70 A leg99 E 4 F G 4. A 8 A
+r0.7 .05 her, with her .49 en - tic - ing
+=2' 5/4 16 [f{2 e}2 8 c] [A A] 4 B 8. [c 16 c] 4 d
+=2, 5/4 2 A_ 4 G F 8 [B A]
+| 4/4 96
+=1' 4/4 1 G#
+r0.7 .08 parts .
+=2' 4/4 4. e 8 e 2 e
+=2, 4/4 2 <E G# B> <E G B>
+
+midi pause 2.0
+
+5 systems 5 /20 65 20/20 65 20/20 65 20/20 65 20/20 65 20/
+pagenum
+title Come again
+innerhead John Dowland
+leftfoot arrangement (c) 1979 Peter J Billam
+midi channel 1 patch 54
+midi channel 2 patch 24 reverb 99
+
+/
+4 bars | 1# 4/4 5 5 6 6 | 5 4 5 4 5 5 6 5 | 6 6 5 5 7 7 6 5 | 18 21 |
+| 2/4 96
+=1 treble      1# 4/4 cha1 leg98 vol110 4 rest 8. B 16 c
+r0.80 .50 Come  a  -
+r0.61 .50 Come  a  -
+r0.42 .50 Gentle
+=2' treble8vab 1# 4/4 cha2 leg109 vol90 2 <D G d>
+=2,            1# 4/4 2 G_
+| 4/4 96
+=1  2 d 4 rest d
+r0.80 .03 gain , .73 sweet
+r0.61 .03 gain , .73 that
+r0.42 .03 love , .73 draw
+=2' 2 <G B g> 4 rest' 8 [g f]
+=2, 2 G_ 4 rest, G
+|
+=1  4 e d 4. c 8 c
+r0.80 .02 love .25 doth .50 now .88 in  -
+r0.61 .02 I .25 may .50 cease .88 to
+r0.42 .02 forth .25 thy .50 woun  - .86 ding
+=2' 8 [e f] 4 g(1 16 [g)1 g f e] 8 [f g]
+=2, 4 C B_ 2 A_
+|
+=1  2 B 4 rest d
+r0.80 .03 vite .75 thy
+r0.61 .03 mourn .75 through
+r0.42 .03 dart , .75 Thou
+=2' 2 <d g> 4 rest' 8. [g 16 a]
+=2, 2 G_ 4 rest, 4 <G(2 B(1>
+/
+4 bars | 1# 6 6 6 7 5 5 5 5 | 40 | 3 2 3 2 3 3 3 3 4 6 4 4 3 3 3 2 | 6 6 6 6 6 6 6 5 |
+|
+=1  4 d leg70 c leg99 B B
+r0.80 .08 graces .50 that .75 re  -
+r0.61 .06 thy .28 un - kind .75 dis  -
+r0.42 .06 canst .27 not .50 pierce .75 her
+=2' 4 b 8 [<e a> 16 g f] 4. g 8 g
+=2, 2 blank d
+=2, 8 [<G)2 B)1> G_] 4 A_ B_ G_
+|
+=1 2 A 4 rest A
+r0.80 .03 frain .75 to
+r0.61 .03 dain ; .75 for
+r0.42 .03 heart ; .75 for
+=2' 4 g f rest' <d f>
+=2, 2 <D d> 4 rest, D
+|
+=1' 4 B leg70 G 4. leg99 A 8 A
+r0.80 .01 do .25 me .50 due .87 de -
+r0.61 .01 now .25 left .50 and .87 for -
+r0.42 .01 I .25 that .50 did .87 ap -
+=2' 2 g 4. blank 8 g
+=2, 4. d 8 d 16 [e{1 d}1 c# B] 4 c
+=2, 4 G_ B_ 2 A_
+|
+=1  2 A 8 rest D 4 G
+r0.80 .03 light .62 to see ,
+r0.61 .03 lorn .62 I   sit ,
+r0.42 .03 prove .62 by sighs
+=2' 2 <d f> 4. <G d> 8 d
+=2, 8 D [D D C] 4.  B_ 8 B_
+/
+4 bars | 1# 48 | 48 | 48 | 48 |
+|
+=1' 8 rest E 4 A 8 rest F 4 B
+r0.80 .14 to hear , .62 to touch, 
+r0.61 .14 I   sigh , .62 I   weep , 
+r0.42 .14 and tears , .62 more hot
+=2' 4 e 8 rest' e 4 f 8 rest' f
+=2, 4 C 8 rest, C 4 D 8 rest, D
+| 100
+=1  8 rest G 4 c 8 rest A 4 d(1
+r0.80 .12 to kiss , .62 to die
+r0.61 .12 I  faint , .63 I   die
+r0.42 .12 than are .62 thy shafts
+=2' 4 g 8 rest' g 4 a 8 rest' a
+=2, 4 E 8 rest, E 4 F 8 rest, F
+|
+=1  1 d)1
+=2' 8 [b G G A] 4 B c
+=2, 4 G G_ <G_ G> <A_ G>
+|
+=1  8 rest d c B 4 A 8 rest B'
+r0.80 .12 with thee again , .87 in
+r0.61 .12 in deadly pain , .87 and
+r0.42 .03 did 'tempt, while she, while
+=2' 4 d 8 [e g] 4 f d
+=2, 4 <B_ G> <C G> D B_
+/
+4 bars | 1# 6 6 6 6 7 7 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+| 96
+=1  8 A G 4. G 16 [F{'1 E] 4 F}'1
+r0.80 .03 sweetest  sym  -  pa .90 -
+r0.61 .03 endless  mi  -  .62 se .90 -
+r0.42 .06 she for tri  -  .62 umph
+=2' 8 c 4 B 8 c 4. d 8 8 c
+=2, 8 [C D] 4 E 8 [Ar G] 4 A
+=2, 2 blank D
+|
+=1  2 G 8 rest D 4 G
+r0.80 .03 thy . .62 to see ,
+r0.61 .03 ry . .62 I   sit ,
+r0.42 .03 laughs . .62 By sighs
+=2' 2 <G B> 4. <G d> 8 d
+=2, 8 G_ [G_ G_ A_] 4. B_ 8 B_
+| 100
+=1  8 rest E 4 A 8 rest F 4 B
+r0.80 .03 .12 to hear , .62 to touch,
+r0.61 .14 I   sigh , .62 I   weep , 
+r0.42 .14 and tears , .62 more hot
+=2' 4 e 8 rest' e 4 f 8 rest' f
+=2, 4 C 8 rest, C 4 D 8 rest, D
+| 104
+=1  8 rest G 4 c 8 rest A 4 d(1
+r0.80 .03 .12 to kiss , .62 to die
+r0.61 .12 I  faint , .63 I   die
+r0.42 .12 than are .62 thy shafts
+=2' 4 g 8 rest' g 4 a 8 rest' a
+=2, 4 E 8 rest, E 4 F 8 rest, F
+/
+4 bars | 1# 24 20 | 12 12 10 12 | 6 6 6 6 7 7 6 5 | 24 ||
+| 96 100
+=1  1 d)1
+=2' 8 [b G G A] 4 B c
+=2, 4 G G_ <G_ G> <A_ G>
+| 96
+=1  8 rest d c B 4 A 8 rest B'
+r0.80 .12 with thee again , .87 in
+r0.61 .12 in deadly pain , .87 and
+r0.42 .06 did 'tempt, while she, while
+=2' 4 d 8 [e g] 4 f d
+=2, 4 <B_ G> <C G> D B_
+| 96 94 88 92
+=1  8 A G 4. G 16 [F{'1 E] 4 F}'1
+r0.80 sweetest  sym .50 - .62 pa .90 -
+r0.61 .03 endless  mi  -  .62 se .90 -
+r0.42 .06 she for tri  -  .62 umph
+=2' 8 c 4 B 8 c 4. d 8 8 c
+=2, 8 [C D] 4 E 8 [Ar G] 4 A
+=2, 2 blank D
+| 96
+=1  2 G
+r0.80 .03 thy .
+r0.61 .03 ry .
+r0.42 .01 laughs .
+=2' 2 <D G B>
+=2, 2 G_
+
+@

@@ -1,0 +1,556 @@
+% stop
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+lefthead G. F. Haendel
+title Flute Sonata No. 4 in F major
+leftfoot Arrangement (c) 2005 Peter J Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+4 bars | 1b 3/4 12 | 12 | 12 |
+| 3/4 2.6
+Il0.6        Largetto
+=1 treble 1b 3/4 cha1 leg95 cro rest A B
+=2 treble 1b 3/4 cha2 min <A_ F> cro rest
+=3' bass  1b 3/4 cha2 min f cro rest
+|
+=1 min. c(1
+=2' cro rest qua [A_(2 C)2 B_(2 E)2]
+=3, cro rest F G
+|
+=1 cro c)1 c d
+=2 min <C F> cro <D F Gx>
+=3' cro A A B
+|
+=1 min e cro f
+=2' cro <C E G> qua [E(2 G)2 F(2 B)2]
+=3, cro c c d
+|
+=1 cro g a f
+=2' cro <C G B> <C F A> <F(2 B d(1>
+=3 cro e f b
+|
+=1, cro b g c~
+=2' cro <F)2 B d)1> min <G c>
+=2, cro blank Fr(2 E)2
+=3 cro g c~ c
+|
+=1 cro. a qua g cro leg140 f
+=2' cro. <A c> qua <G B> cro <D F A>
+=3  cro f c d
+|
+=1 qua rest leg95 g cro G qua. [A smq B]
+=2' qua rest <D Fx G(1> min <C G>
+=2, cro blank Fr E
+=3 cro B c C
+|
+=1 cro leg85 A leg95 A B
+=2' min <A_ F> cro rest
+=3 min F cro rest
+|
+=1 min. c(1
+=2' cro rest qua [A_(2 leg55 B_)2 leg85 B_(2 leg55 C)2]
+=3, cro rest F G
+|
+=1 cro c)1 c d
+=2 cro leg85 C smq [C(2 D)2 E F] qua [D G]
+=3' cro A A B
+|
+=1 min e cro f
+=2' cro. G qua [c qua. Bn smq A]
+=2, min E cro F
+=3, cro c c d
+|
+=1 cro g a f
+=2' cro <C G> <C F A> <D F A>
+=3, cro e f d
+|
+=1 min leg80 d cro leg95 e
+=2' min <D Bn> cro <E G>
+=2, cro. Gr qua F cro blank
+=3 cro g bn c~
+|
+=1 cro f cro. d-tr qua c
+=2' cro <D A c> c(1 Bn)1
+=2, cro blank min <D G>
+=3 cro f g G
+|
+=1 min. c
+=2' cro <E G c> qua [A_ F] [<B_ E> smq D E]
+=3 cro c f g
+|
+=1 cro rest a g
+=2' smq [F G A B] qua [c f] [B A]
+=2, min C cro D
+=3 cro a A B
+|
+=1 qua. [e smq d] cro c rest
+=2' cro. <E G> qua [E(2 F Bn)2]
+=3 cro c c d
+|
+=1 cro rest c~ a
+=2' min <G c> cro <F A c>
+=3 cro e c f
+|
+=1 cro. b qua [a b g]
+=2' min <D B> cro <C G B>
+=2, cro Gr F blank
+=3 cro g d e
+|
+=1 cro. a qua [g a f]
+=2' min <C A> cro <C A>
+=2, cro Gr min F
+=3 cro f A A
+|
+=1 cro. g qua [f g e]
+=2' cro <D Fx G> min <A_ E G>
+=3 cro Bn c# A
+|
+=1 cro leg80 f leg95 b a
+=2' cro leg70 <A_ D F> leg85 <F B> <E A>
+=3 cro leg70 d leg90 d~ c~
+|
+=1 cro g f e
+=2' cro G F <B_ D Ex>
+=2, cro. D qua C cro blank
+=3 cro b a g
+|
+=1 qua [f g] cro. e-tr qua d
+=2' min <D F> cro <A_ C# E>
+=3 min a cro A
+|
+=1 cro leg80 d qua. leg95 [b smq a] cro b
+=2' cro <F_ A_ D> cro. B qua F
+=2, cro blank min D
+=3 cro d g f
+|
+=1 cro leg80 c qua. leg95 [a smq g] cro a
+=2' qua leg85 [G B] cro. <C F A> qua <C F(2 A>
+=2, cro leg85 C min blank
+=3 cro e f e
+|
+=1, qua. [B smq a qua. g smq f qua. f smq e]
+=2' cro <B_ F)2 A> min G
+=2, cro blank cro. D qua B_
+=3' cro d B G
+|
+=1 cro leg80 e leg95 c c
+=2 cro leg75 <C E> leg90 <F A c> <E Bx c>
+=3 cro c f g
+|
+=1, cro c qua [d c B A]
+=2' cro leg75 <C F c> leg90 <C F> <D G>
+=3 cro leg75 a leg85 A B
+|
+=1 cro leg80 G leg95 a a
+=2 cro leg75 <E G> leg90 <C F A> <C F A>
+=3 cro c f e
+|
+=1, min. a
+=2' cro. <F A> qua [<E G> qua. <F A> smq <E G>]
+=2, min D cro D
+=3' cro leg75 d leg85 c B
+|
+=1 qua. [a smq g] cro leg80 f leg95 b
+=2' cro <C F> <D F B> <B_ D G>
+=3 cro A B G
+|
+=1 cro. b qua g cro a
+=2' cro. <C E G> qua <C G B> cro leg135 <C F A>
+=3 cro leg75 c leg90 e leg75 f
+|
+=1 qua [g f] cro. e-tr qua f
+=2' qua rest leg85 <D G> cro. <E G> qua F
+=3 cro leg90 b leg75 c~ leg90 c
+| 3/4 1.0 .88 .88
+=1 cro leg80 A leg95 A A
+=2' cro rest <C F A> <C F A>
+=3  cro rest f e
+| 3/4 2.6
+=1 cro f A d
+=2' min <D F A> qua. [G smq F]
+=2, min blank cro D
+=3 cro d c B
+|
+=1 cro. c qua d cro B
+=2' min <C F> cro <B_ E>
+=3 min A cro G
+|
+=1 qua [A G] cro. G-tr qua F
+=2' cro <A_ F> F qua [E F]
+=2, cro blank min G_
+=3  cro F c C
+| 3/4 1.0 .9 .9
+=1 cro leg80 F leg95 f qua. leg80 [e smq d]
+=2 min <A_ C F> cro rest
+=3 min F cro rest
+|
+=1 min. leg95 c
+=2 cro rest <C F> smq leg75 [G A B c]
+=2, min blank cro E
+=3 cro rest a g
+|
+=1 cro rest a qua. [g smq c]
+=2' min leg90 <C F A> cro <C G c>
+=3 min f cro e
+| 3/4 1.2 1.1 1.1
+=1 qua. [f smq A] cro. Bn-tr qua c
+=2' cro <C F f> min <B_n F>
+=3 min. d
+|
+=1 min. c
+=2' min. <C G c e>
+=3 min. c
+
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+innerhead Flute Sonata No. 4 in F major, G. F. Haendel
+leftfoot Arrangement (c) 2005 Peter J Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+4 bars | 1b 4/4 12 | 12 | 12 |
+| 2/4 105
+Il0.6        Allegro
+=1 treble 1b 4/4 cha1 leg75 qua blank blank blank c
+=2 treble 1b 4/4 cha2 leg70 qua blank blank blank rest
+=3 bass   1b 4/4 cha9 leg70 qua vol80 G# vol70 G# G# rest cha2
+| 4/4 105
+=1 qua [f c c c] [d-tr c] rest c
+=2 qua rest [<A, c> <A, c> <A, c>] leg90 [<F B' d'> leg70 <F A c'>] rest A
+=3 qua rest [f a f] [b f a f]
+|
+=1 qua [g c c c] [a-tr g] rest g
+=2 qua [c' <E G> <E G> <E G>] leg90 [<C F A> leg70 <C E G>] rest smq [c B,]
+=3 qua [e c e c] [f c e c]
+|
+=1 qua [a e f g] smq. [e dsq d qua c] rest g
+=2' qua. [A smq G] qua. [F smq D] cro E qua [F G]
+=2, min blank qua blank B_ cro C
+=3, qua [f leg90 c leg70 d leg90 B] leg70 [c leg90 g leg70 a leg90 e]
+|
+=1 qua [a e f g] [e smq f g qua leg60 c leg85 b]
+=2' qua [<C A> <E G>] [F smq E D] cro E qua [F G]
+=2, min. blank cro C
+=3, qua leg70 [f leg90 c~ leg70 d~ leg90 b] leg70 [c~ leg90 g leg70 a leg90 e]
+|
+=1 qua [a smq g f] qua. e smq f] cro f qua rest a
+=2' qua [A smq B A] cro <E G> smq [F c B c] [A c B c]
+=2, qua [C D] min. blank
+=3' qua leg70 [f B c C] [F f a f]
+|
+=1 smq [g c~ b c~] [g c~ b c~] [f d~ c~ d~] [bn c~ a b]
+=2' min c(1 qua [c)1 smq d c] cro <G Bn>
+=2, qua. [G smq F] qua. [G smq E] qua [F A] cro blank
+=3, qua leg90 [e d leg70 e c] [d f g f]
+|
+=1 smq [c~ g c~ bn] [a g f e] cro d qua rest d
+=2 cro <G c'> <A, d> qua. [<Bn, d> smq c] [B' A G F]
+=3, qua [e c f d] [g a bn g]
+|
+=1 smq [e c d e] [f d e f] [g e f g] [c g f g]
+=2' qua. [E smq G] qua. [F smq Bn] min c
+=2, min blank qua leg90 [G F leg70 G E]
+=3, qua [c~ leg90 c leg70 d d~] leg90 [e~ d~ leg70 e~ c~]
+|
+=1 smq [a f e f] [d a g a] [bn g f g] [e g a b]
+=2' cro <C F A> qua rest leg90 <F A> cro leg70 <G Bn> qua rest leg90 <G B>
+=2, cro. blank qua D(2 cro D)2  qua blank qua E(2
+=3 cro f qua rest leg90 d cro leg70 g qua rest leg90 e
+|
+=1 smq [c~ a bn g] [a f g e] cro. leg70 f qua leg80 d~
+=2' cro <A c> qua rest leg90 <E A c> cro leg70 <F A d> blank
+=2, cro E)2 min blank smq [G Bn d f]
+=3 cro leg70 a qua rest A [d, d~ bn g]
+|
+=1 qua [e c~] smq [d c~ bn c~] cro. f qua g
+=2' min blank cro. f qua g
+=2, qua [<G e> <G c> <A d> <Bn d>] [c smq B A] qua [B d]
+=3, qua [c~ leg90 e f g] leg70 [a d~ g leg90 bn]
+|
+=1 qua [e smq d c] qua [Bn, c] cro. F qua f
+=2' cro blank <D G Bn> cro. F qua G
+=2, qua [<c e> <A d>] cro blank qua [C smq B_n A_] qua [B_ D]
+=3 qua leg70 [c~ leg90 f leg70 g leg90 G,] leg70 [A d' G Bn]
+|
+=1 qua [e smq d c] qua [Bn bn] [c~ smq b a] qua [g f]
+=2' qua [G smq F E] cro leg60 <B_n D> <C F> <D G>
+=2, qua [E A_] min. blank
+=3 qua [c leg90 f' leg70 g' leg90 G] leg70 [A leg90 a leg70 bn leg90 Bn]
+| 7/8 210
+=1 qua [e smq d c] qua [G Bn'] cro. c
+=2' qua [<E G> <F A>] cro <B_n D G> cro. <C E G>
+=3  qua leg70 [c leg90 f' leg70 g' G] cro. c
+midi pause .07
+| 1/8 210
+=1 cha1 leg75 qua g
+=2 cha2 leg70 qua rest
+=3 cha2 qua rest
+| 4/4 105
+=1 qua [c~ g g g] [a-tr g] rest leg90 a
+=2 qua rest [<E G> <E G> <E G>] leg90 [<C F A> leg70 <C E G>] rest <E A>
+=3' qua rest [c e c] [f c e c]
+|
+=1 qua [b f# g a] [f d] rest leg95 a
+=2' qua [B A] cro G qua <D F#> rest rest <A c>
+=2, cro. D qua Eb min blank
+=3 qua leg90 [G A B c] leg70 [d, leg90 a leg70 b leg90 f#]
+|
+=1 qua leg80 [b leg95 f# leg80 g leg95 d] leg80 [eb c~ d a]
+=2 qua <G B'> rest rest smq [g f] [eb d c B,] [A G qua F#]
+=3 qua leg70 [g leg90 d~ leg70 e~b leg90 b] leg70 [c~ a f# d]
+|
+=1 qua [b smq a g] qua. [f#-tr smq g] cro g smq rest [g a b]
+=2' qua <D G> <Eb A> cro <F# A> <B_ D G> qua rest <D B>
+=3, qua [g leg90 c~ leg70 d~ d] [g a b g]
+|
+=1 smq [c~ e f g] [c g a b] [a c d e] leg95 [f e leg80 f c]
+=2' min. c qua rest <C F>
+=2, qua leg90 [G F leg70 G E] cro A blank
+=3  qua leg90 [e d, leg70 e c,] cro f qua rest A
+|
+=1 smq [d f g a] [b a g f] [e d qua c] smq rest [f e f]
+=2' min F cro E smq [F G qua A]
+=2, qua [D C B_ D] min blank
+=3  qua [B A G B] [c, c~ a f]
+|
+=1, smq [d B A B] [G g f g] [e c B c] [A a g a]
+=2' cro <D F> qua rest leg90 <D G> cro leg70 <E G> qua rest leg90 <C E>
+=3 cro b qua rest leg90 B cro leg70 c qua rest leg90 A
+|
+=1, smq [f d c d] [B b a b] [g e d e] [c c~ b c~]
+=2' cro <D F A> qua rest leg90 <D G B> \
+ cro leg70 <C G c> qua rest leg90 <E G c>
+=3 cro d qua rest leg90 g cro leg70 e qua rest leg90 c
+|
+=1, smq [a g a f] [d~ c~ d~ f] [g f g e] [c~ b c~ e]
+=2' cro <F A c> qua rest leg90 <F A d> cro leg70 <G d> qua rest leg90 <G c>
+=3 cro f qua rest leg90 d cro leg70 e qua rest a
+|
+=1 smq [f e f c] qua [d b] leg70 cro. b smq leg80 [a g]
+=2' cro <F c> B(1 qua. [B)1 smq A] [G A B c]
+=2, cro blank D E blank
+=3 qua [d~ a b g] leg90 [c d' leg70 e' c]
+|
+=1 qua [a smq g f] qua [e f] cro. B qua g
+=2' qua [<C F A> <D G>] cro <E G> cro. B qua B
+=2, min blank qua [F smq E D] qua [E C]
+=3, qua [f leg90 b leg70 c~ leg90 c] leg70 [d g c e]
+|
+=1, qua [A f G e] cro. b smq [a g]
+=2' qua [<C A> <C F>] [<D G> <E G>] cro. B qua <G B>
+=2, min blank qua [F smq E D] qua [E C]
+=3, qua [f leg90 A B c] leg70 [d g c e]
+|
+=1 qua [a smq g f] qua [e smq d c] qua [f smq e d] qua [c B,]
+=2' qua [<C F A> <D G> cro <E G> qua [F A G <E c>]
+=3, qua [f b c~ c] [d f e c]
+| 7/8 207 204 201 198 195 192 189
+=1 qua [A f G e] cro. f
+=2' qua [<F A c> <C F> <D G> <C E G>] cro. <A_ C F>
+=3' qua [f A B c] cro. F
+
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+innerhead Flute Sonata No. 4 in F major, G. F. Haendel
+leftfoot Arrangement (c) 2005 Peter J Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+4 bars | 1b 4/4 12 | 12 | 12 |
+| 12/8 .52 .5 .5  .52 .51 .5  .52 .5 .5  .51 .5 .5
+Il0.6        Alla Siciliana
+=1 treble 1b 12/8 cha1 leg90 \
+ qua. [d smq e qua d] cro leg70 a leg90 qua d cro leg98 d qua c# cro. rest
+=2 treble 1b 12/8 cha2 leg90 cro <F A> qua <G c#'> cro <A, d> qua <D(2 B> \
+ cro <E Dx)2> cro. <C# E A> qua <G, B, e>
+=3 bass   1b 12/8 cha2 leg85 \
+ cro d qua e cro f qua g cro a qua A cro a qua g
+|
+=1 qua. [f smq g qua f] cro leg70 c~ leg90 qua f \
+ cro leg98 f qua e cro rest qua a
+=2 cro <A, cn f> qua <B_ E> cro <C F> qua <D G(1> \
+ cro <F Gx)1> cro. <E G> qua <F A(1>
+=3 cro f qua g cro a qua b cro c~ qua c cro c~ qua f
+|
+=1 leg90 cro d qua c# qua. [d smq f qua e] cro. c# cro d qua e
+=2 cro <F A)1 d'> qua <G(2 c#'> cro <G)2 d'> qua <D B> \
+ cro. <C# E A> qua. [D smq A qua c#]
+=3 cro b qua a cro b qua g cro a qua g cro f qua e
+|
+=1 qua [f(1 e)1 g] qua. [f smq e qua d] cro. d cro rest qua g
+=2' qua [<F d> A <D(2 G>] cro <D)2 F> qua <C# E> D rest F cro. Gr
+=2, min. blank cro. blank cro F qua E
+=3  cro d qua b cro a qua A cro d qua d~ cro b qua c~
+| 12/8 .53 .52 .52  .52 .51 .5  .52 .5 .5  .51 .5 .5
+=1 qua [a(1 g)1 b] qua. [a smq g qua f] cro. f cro. rest
+=2' qua [<C A> G <F(2 B>] cro <C F)2 A> qua <B_ E G> \
+ cro <A_ F> qua C cro <A_ D> qua <D F A>
+=3  qua [f e d,] cro c qua C cro F qua a cro f qua d
+| 12/8 .52 .5 .5  .52 .51 .5  .52 .5 .5  .51 .5 .5
+=1 qua. [g smq a qua g] cro leg70 A leg90 qua g \
+ cro leg98 g qua f cro rest qua leg90 a
+=2' cro <C# G> qua <B_ D G(1> cro <A_ E G)1> qua <C# G Ax(1> \
+ cro. <D G Ax)1> cro <F A> qua <D d(1>
+=3  cro e qua d cro c# qua A cro d qua a cro d~ qua f
+|
+=1 cro. b(1 cro b)1 qua e cro. a(1 cro a)1 qua d~
+=2' cro. <F B d)1> <E c> <E A c> <D B>
+=3 cro g qua G cro. c cro rest qua f cro. b
+|
+=1 cro. g(1 qua. [g)1 smq b qua a] qua. [f smq e qua d] cro rest qua a
+=2' cro. <D G B> cro <C# A> qua E qua. [F smq A qua c#] cro. d
+=2, min. blank cro. blank qua. [A smq G qua F]
+=3 cro rest qua e cro a qua c# cro d qua e qua. [f smq e qua d]
+| 12/8 .53 .52 .52  .52 .51 .5  .52 .5 .5  .52 .52 .52
+=1 qua [e f g] qua. [f smq e qua d] cro leg70 d qua leg90 g [g(1 f#)1 c~]
+=2' qua [B A G] cro <D F> cro A G qua G cro F#
+=2, cro. D cro blank qua <C# E> cro. <D F> <Cn Eb>
+=3 qua [g a b] cro a qua A cro. B A
+| 12/8 .54 .54 .55 .56 .57 .58 .59 .60 .61 .62 .63 .64
+=1 qua [c~(1 leg80 b)1 leg90 d] [d(1 leg80 c#)1 leg90 a] \
+ cro d~ qua f cro. g-tr
+=2' qua A cro B cro. <Er A> <D A> qua. [G smq F E D]
+=2, cro. <D Gr> qua D cro C# cro. blank D
+=3  cro. G A min. B
+|
+=1 smb a min rest
+=2 smb. <C# E A>
+=3 smb. A
+
+% start
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+innerhead Flute Sonata No. 4 in F major, G. F. Haendel
+leftfoot Arrangement (c) 2005 Peter J Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+4 bars | 1b 4/4 12 | 12 | 12 |
+| 12/8 .19 .15 .17 .19 .15 .17 .19 .15 .17 .19 .15 .17
+Il0.6        Allegro
+=1, treble 1b 12/8 cha1 leg85 qua [f a f] [c A c] leg80 [f a f] [c A c]
+=2 treble 1b 12/8 cha2 leg85 cro. F(2 cro F)2 qua F min. F
+=3 bass   1b 12/8 cha2 leg85 cro. f e d a
+|
+=1 qua leg85 [g b g] [e c e] [a g f] cro rest qua a
+=2 cro. <D F Gx(2> <E G)2> A rest
+=3 cro. b c~ qua [f~ c~ a] [f a f~]
+|
+=1 qua [g a b] [c~ b c~] cro. f cro rest qua f
+=2' cro. <G B> <G c> <F A d> rest
+=3, cro f~ qua f~ cro e~ qua e~ [d~ a f] [d a d~]
+|
+=1 qua [e f g] [a g a] cro. d cro rest qua g
+=2' cro. <E G> <E A> <D F B> cro rest qua D
+=3, cro d~ qua d~ cro c~ qua c~ [b f d] [B f b]
+|
+=1 qua [c d e] [f g a] [b a g] [a g f]
+=2' cro. leg60 E F G A
+=2, leg85 min C blank
+=3 cro b qua b cro a qua a cro g qua e~ cro f qua d~
+|
+=1 qua [g f e] [f e d] [e d leg60 c] leg85 [g f e]
+=2 cro. leg85 G qua [F G F] cro. E G
+=3 cro e qua c~ cro d qua bn cro c~ qua c [e' d' c]
+|
+=1 qua [a g f] [e d c] [bn a g] [c~ b a]
+=2' cro. <F A> <F(2 c> <F)2 Bn> c
+=2, min. blank cro. blank cro G qua A
+=3 cro. f a g cro e qua f
+|
+=1 qua [g(1 f)1 e] [f e d] min. leg70 c leg85
+=2' cro <G Bn> cro. <G c> qua <F B> [c G E] cro. C
+=2, cro blank qua E cro. D min. blank
+=3 cro g qua c cro g qua G min. c
+|
+=1, qua [c e g] [e c G] [c e g] [c~ g e]
+=2  min. <E G> cro rest qua C(2 cro. <C)2 G>
+=3  cro. c~ bn a e
+|
+=1, qua [a f d] [Bn d g] [e d c] cro. rest
+=2 cro. <A_ C Dx(1> <B_n D)1> cro <C E> qua rest rest [F G]
+=3 cro. f g cro c qua c~ [bb a g]
+|
+=1, qua [f a f] [c A c] leg80 [f a f] [c A c]
+=2 min. <C(2 F A(1> cro. <C)2 F A)1> <C A>
+=3 cro. f e d a
+|
+=1 qua leg85 [g b g] [e c e] [a g f] cro rest qua a
+=2 cro. <D F Gx(2> <E G)2> A cro rest qua <F A>
+=3 cro. b c~ qua [f~ c~ a] [f a f~]
+|
+=1 qua [b(1 a)1 g] [f e d] cro leg70 c# qua leg85 b cro. a(1
+=2' cro. B(1 cro B)1 qua G cro. <C# E A> cro rest qua leg95 <F A(1>
+=2, min. D blank
+=3  cro. g B A cro rest qua leg95 d~
+|
+=1 cro a)1 smq3 [g(1 a b] cro. a)1(1 cro a)1 smq3 [g(1 a b] cro a)1 qua g
+=2' cro. leg85 <E A)1> cro rest qua leg95 <F A(1> \
+ cro. leg85 <E A)1> cro rest qua <A c#>
+=3 cro. leg85 c~# cro rest qua leg95 d~ cro. leg85 c~# cro rest qua a
+|
+=1, qua [f e d] [A d c#] cro. d cro rest qua d~
+=2' cro <F d> qua <B d> cro <E(2 A d> qua <E)2 c#> \
+ cro. <F A D> cro rest qua <F A>
+=3 cro d~ qua g cro a qua A [d, d~ c~n] [bn c~ d~]
+|
+=1 cro e qua d~ cro d~ qua d~ [d~ c~ bn] cro leg70 c~ qua leg85 c~
+=2' cro. d(1 cro d)1 qua d min. c
+=2, cro. Bn(2 cro B)2 qua B cro. leg95 Br leg85 A
+=3, qua [g# a bn] [e f# g] [a(1 e)1 c] [A e a]
+|
+=1 cro d qua c~ cro c~ qua c~ [c~ bb a] cro leg70 b qua leg85 b
+=2' cro. c(1 cro c)1 qua c min. B
+=2, cro. A(2 cro A)2 qua A cro. leg95 Ar leg85 G
+=3  qua [f# g a] [d e f] [g(1 d,)1 B,] [G d' g']
+|
+=1 cro c qua b cro b qua b [b a g] [a b c~]
+=2' cro. B(1 cro B)1 qua B cro. A(1 cro A)1 qua F
+=2, cro. G(2 cro G)2 qua G cro. Gr cro F qua blank
+=3  qua [e f g] [c d e] [f' c A] cro F qua a
+|
+=1' qua-s [d~ c~ b] cro. blank min. blank
+=1, qua [g a b] [a g f] cro. e cro rest qua c
+=2' cro. <D G> <F B> <E G c> cro rest qua E
+=3, cro. b d~ qua [c~ g e] [c g c~]
+|
+=1 qua [d e f] [g a b] [c d e] [f g a]
+=2' cro. leg65 F G E F
+=2, min. leg85 D C
+=3 cro c~ qua c~ cro b qua b cro b qua b cro a qua a
+|
+=1, qua [b c~ d~] [c~ d~ b] cro. a cro rest qua a
+=2' cro. <F B> <G c> min. <A c>
+=3, cro g qua g cro e~ qua e~ [f~ c~ a] [f c~ f~]
+|
+=1 qua [g a b] [c~ b c~] cro. f cro rest qua f
+=2' cro. <G B> <G c> <F A d> rest
+=3, cro f~ qua f~ cro e~ qua e~ [d~ a f] [d a d~]
+|
+=1 qua [e f g] [a g a] cro. d cro rest qua g
+=2' cro. <E G> <E A> <D F B> cro rest qua D
+=3, cro d~ qua d~ cro c~ qua c~ [b f d] [B f b]
+|
+=1 qua [c d e] [f g a] [b a g] [a g f]
+=2' cro. leg60 E F G A
+=2, leg85 min C blank
+=3 cro b qua b cro a qua a cro g qua e~ cro f qua d~
+|
+=1 qua [g f e] [f e d] [e d leg60 c] leg85 [f g a]
+=2 cro. G F E leg85 F
+=3 cro e qua c~ cro d qua b cro c qua b [a g f]
+|
+=1 qua [d e f] [c f e]  cro. f(1 qua [f)1 g e]
+=2' cro. Gr(1 cro Gr)1 qua G cro. F(2 qua [F)2 E G]
+=2, cro. F(2 cro F)2 qua E min. blank
+=3 cro b qua g cro c~ qua c [f a c~] cro. c
+| 6/8 .17 .15 .19 .17 .15 .19 .17 .16 .19 .18 .17 .20
+=1 cro. f(1 qua [f)1 g a] [b a g] [a g f]
+=2' cro. F(1 cro F)1 qua A cro B qua B cro A qua A
+=2, cro. blank cro C cro. D cro. C qua C
+=3 qua [d, f a] cro A qua f cro g qua e cro f qua A
+| 6/8 .19 .18 .21 .20 .19 .22 .20 .19 .22 .21 .20 .23
+=1 qua [g e f] [c f e] min. f
+=2' cro <D G> qua <B_ F> cro <G_ F> qua <C E> min. <A_ C F>
+=3 qua cro B qua d' cro c qua C min. F
+
+
+
+% stop

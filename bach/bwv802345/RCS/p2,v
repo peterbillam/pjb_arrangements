@@ -1,0 +1,119 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2012.08.27.03.24.00;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.08.15.01.25.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Page 2 for the Four Duets
+@
+
+
+1.2
+log
+@Page Two for bwv802-5
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 15
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 1.4c
+.ce 1
+\f3\s+5Four Duets, from the Clavierübungen Dritter Theil\s0\fP
+.sp 1.2c
+.Lp
+The third book of J. S. Bach's Clavierübungen was published in 1739.
+It contains twenty-seven pieces.
+Just after the Chorale Preludes and before the final Fugue,
+there are four Duets,
+\s-1BWV\s0802, \s-1BWV\s0803, \s-1BWV\s0804 and \s-1BWV\s0805.
+
+.Lp
+They are, basically, Two-part Inventions.
+Unlike the rest of the \f2Clavierübungen Dritter Theil\fP
+are not necessarily for organ; they are just as at home on any keyboard.
+However, they are mostly known to organists.
+They were written nearly twenty years after the Inventions,
+and are musically far larger, more complex and more demanding.
+
+.Lp
+The Four Duets seem oddly placed within the \f2Clavierübungen Dritter Theil\fP.
+It would be unworthy of Bach to have put them in just to make
+up the number of pieces to 27 (i.e. three cubed),
+but no very convincing explanation is known.
+
+.Lp
+Anton Heiller suggested they might represent four elements:
+heaven, air, water, and earth.
+But how this fits in to the \f2Clavierübungen Dritter Theil\fP is not clear.
+Also they are not convincingly so characterised;
+compare, for example,
+the variations 1\-4 in Beethoven's Opus 110, second movement.
+
+.Lp
+They might also represent the four daily prayers:
+morning, evening, before the meal, after the meal.
+This seems more plausible,
+since the preceding Chorale Preludes are each present
+in two versions,
+a long complex version and a simpler version without pedals,
+corresponding to the existence in Lutheran theology
+of two answers to each question,
+one long and complex for the theologians,
+and one short and simple for the congregation.
+In this context, the four daily prayers would extend the range
+of the \f2Clavierübungen Dritter Theil\fP
+beyond the congregation to the town, to daily life itself.
+But again, the Duets do not seem convincingly characterised
+as morning, evening and so on.
+
+.Lp
+\f2Duetto I\fP
+the little alternating canon in waves at bars 17-21
+
+.Lp
+These Duets are published here
+because they deserve to become as well known to
+all keyboard players as the Two-part Inventions are.
+
+.Lp
+.ce 2
+Peter J Billam
+.br
+\f2www.pjb.com.au\fP
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d28 2
+a29 1
+They were written  years after the Inventions,
+a30 1
+However, they are mostly known to organists.
+@

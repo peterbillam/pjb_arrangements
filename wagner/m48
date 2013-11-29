@@ -1,0 +1,14 @@
+boundingbox 300 70
+midi channel 1  patch 41 reverb 60 pan 60 # vla
+midi channel 2  patch 71 reverb 60 pan 20 # clr
+midi channel 3  patch 71 reverb 60 pan 40 # clr
+midi channel 4  patch 71 reverb 60 pan 80 # clr
+1 systems 3 /27/
+/
+1 bars | 4b 6 6 4 4 6 4 4 6 4 6 4 3 |
+| 3.0
+=1 alto    4b cha1  vol95 leg115 \
+ 8 [e dn-I3 db(1] [d)1 c-I3 cb] [B A-I3 Gb] [F En-I3 F]
+#=2, bass    4b cha2 vol80 leg98  4 bb ab gb ab-dim40
+#=3, bass    4b cha3 vol88 leg98  43 db 83 eb 43 en 83 f 4 db dn
+#=4' bass    4b cha4 vol80 leg98 4 G Ab Bb Bn

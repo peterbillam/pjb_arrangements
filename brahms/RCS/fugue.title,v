@@ -1,0 +1,52 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	96.08.10.09.38.25;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Title page of Fugue arrangement
+@
+
+
+1.1
+log
+@copyright year to 1996
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 1.5i
+.ce 100
+\f3\s+9\s+9Fuge in As moll\s-9\s-9\fP
+.sp 1.0i
+\f2\s+9Johannes Brahms\s0\fP
+.sp 0.5i
+\f3\s+2For Organ, 1846\s0\fP
+.sp 0.7i
+\f2\s+9Arranged by Peter Billam\s0\fP
+.sp 0.5i
+\f3\s+2For \s-1SATB\s0 Recorders and Viola de Gamba\s0\fP
+.sp 0.7i
+\(co Peter J Billam, 1996
+\s-1This score may be freely photocopied and redistributed, provided
+that it is not resold for profit, and that no copyright notice is removed
+from it.  All other rights, such as those of performance, recording
+and broadcast, remain reserved by the arranger.\s0
+.sp 0.7i
+Peter Billam, \s-1GPO B\s0ox 669, Hobart \s-1TAS\s0 7001, Australia
+.sp 0.3i
+\f2\s-2This printing 10 August 1996.\s0\fP
+@

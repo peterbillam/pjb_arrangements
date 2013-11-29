@@ -1,0 +1,262 @@
+4 systems 10 /19 40 19-35-19/19 40 19-35-19/19 40 19-40-19/19 40 19-35-19/
+title Stormy Weather
+lefthead Harold Arlen
+midi channel 1 patch 53
+midi channel 2 patch 0 reverb 50
+midi channel 2 patch 0 reverb 50
+/
+4 bars | 4/4 1.5 1.5 1.5  1.5 1.5 1.5  2  1.7 1.7 1.7  3.2 2.5 2.2  | 1.7 1.7 1.7  2.5 3.2 3.2  1.7 1.7 2.2  3.0 2.5 2.2  | 9 12 | 2 2 2  3.2 2.5 3.2  1.7 1.7 1.7  3.2 2.5 2.2 |
+| 4/4 63
+=1' treble 3b 4/4 cha1 leg98 min. blank smb rest
+=2' treble 3b 4/4 cha2 leg98 vol100 min rest smq3-s F# cro G qua3 [An B-I3 c]
+=3, bass   3b 4/4 cha3 leg98 vol85 smb <g b d~x e~>
+|
+=1 min. blank smb rest
+=2 cro db qua3 [An, c-I3 d] qua. [e smq Bn,] qua3 [c, e-I3 f]
+=3 min <f#r anl d~bx e~> <fn abl c~ e~>
+|
+=1 min rest cro F# G
+r0.5 .43 Don't .74 know
+=2 smb <A d gb>
+=3' qua rest' cro. c~(2 cro3 c~)2 bn-I3 bb
+=3, smb B
+|
+=1 min. B qua3 rest [F#-I3 G]
+r0.5 .01 why .73 there's no
+=2' vol80 min D <C#l En>
+=3' vol80 min <g b> <g b>
+=3, qua rest, vol95 E qua3 [G B-I3, d] cro c# qua [G F#]
+/
+4 bars | 2 2 2  2.5 3.3 3.3  1.7 1.7 1.7  3.2 2.5 2.2  | 24 | 6 8 6 8 | 2.5 2.5 2.5  2.5 2.5 3.5  2.7 2 2.6  3.4 3.4 2.2 |
+|
+=1' treble 3b qua [B G(2] qua3 [G)2 B-I3 An] cro Ab qua3 rest [F#-I3 G]
+r0.5 .01 sun up  in the sky . . . .78 stormy
+=2, treble 3b cro rest qua3 vol95 [c e-I3 f] cro. gb qua b
+=3' bass 3b vol80 min <a c~ e~> <b c~x d~>
+=3, 3b min F cro rest, B
+|
+=1' qua B cro. B_ min rest
+r0.5 .01 weather . . .
+=2 smb B vol75 
+=2, min. blank cro <Dbx E>
+=3 cro <gr bl d~x e~l> <g bl d~x e~l> <g bl d~x e~l> <f#l an>
+|
+=1 qua [F F(2] qua3 [F)2 F-I3 F] cro F qua3 rest [E-I3 C]
+r0.5 since my man and I .76 ain't to -
+=2 cro <C E> <C E> <B_n E> <C E>
+=3' cro <f a> <f a> <f a> <f a>
+=3, cro rest, c Bn Bb
+|
+=1 smq [E{2 C}2] cro. B_(1 cro. B_)1 qua rest
+r0.5 .02 gether,
+=2 cro <G_ B_ D> <G_ B_ E> min <Dbl Ex>
+=2, min blank cro B_b A_n
+=3 qua rest vol95 e qua3 [c B-I3 G] qua [F# e'] qua3 [Bn An-I3 F#]
+/
+3 bars | 24 | 1.7 1.7 1.7  2 2 2.3  1.2 1.2 1.2 2 2.6 2.6 2.0  | 2.3 1.8 1.8 2.3  1.8 1.8 2.3 2.3  1.5 1.5 1.5 1.5  1.5 1.5 1.5 1.5 |
+|
+=1 treble 3b qua rest, [A_ C E] cro. F# qua G
+r0.5 .11 keeps raining all .85 the
+=2' treble 3b qua [A_ C E F] cro. Gb qua Gn
+=2, 3b min blank cro <A_nl E> <A_b D>
+=3' bass 3b vol80 min e cro gb fn
+=3, 3b cro. vol95 F qua vol80 c-s3, cro <Bnl e> <Bb d>
+|
+=1 min. B cro rest
+r0.5 .01 time .
+=2' cro rest' vol100 qua b cro. B smq3-s Bn qua3 [c e-I3 gb]
+=2, cro vol80 <Dr Ex> <Dr Ex> <Dbx E> cro <Dx E>
+=3 cro <g b> <g b> <gbl b> cro <gbl b>
+|
+=1 min. rest qua [F# G]
+r0.5 .74 Can't  go
+=2' vol100 smq [f-s4 Bn-s1 c-s2 A-s1] [gb-s5 f e Bn-s2] min <Gbl-s1-s2 Bb>
+=3' vol80 min <alr c~ e~> <a d~>
+=3, cro fr Bn rest, Bb
+/
+3 bars | 24 | 2 2 2  2.1 2.4 2.4  2 2 2  2.2 2 2  | 24 |
+|
+=1 treble 3b min. B qua3 rest [F#{2-I3 G}2]
+r0.5 .07 on .81 when
+=2' treble 3b min D qua rest cro. <C#l En>
+=3' bass 3b min <g b> qua rest' cro. <g b>
+=3, 3b qua rest, vol95 F# qua3 [G B-I3, d] cro c# qua [G F]
+|
+=1' qua [B G(2] qua3 [G)2 B-I3 An] cro Ab qua3 rest [F#-I3 G]
+r0.5 .01 all .13 I .29 have is gone . . .79 stormy
+=2, cro rest qua3 vol95 [c e-I3 f] cro. gb qua b
+=3' vol80 min <a c~ e~> <b c~x d~>
+=3, min F cro rest, B
+|
+=1' qua B cro. B_ min rest
+r0.5 .01 weather . . .
+=2 smb B vol75 
+=2, min. blank cro <Dbx E>
+=3 cro <gr bl d~x e~l> <g bll d~x e~l> <g bll d~x e~l> <f#l an>
+
+4 systems 10 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+lefthead Stormy Weather, Harold Arlen
+/
+3 bars | 24 | 2 2 2  2.3 2 2.3  2 2 2  2 2.3 2 | 24 |
+|
+=1 treble 3b qua [F F(2] qua3 [F)2 F-I3 F] cro F qua3 rest [E-I3 C]
+r0.5 .08 since my .35 man and I .80 ain't to -
+=2 treble 3b cro <C E> <C E> <B_n E> <C E>
+=3' bass 3b cro <f a> <f a> <f a> <f a>
+=3, 3b cro rest, c Bn Bb
+|
+=1 smq [E{2 C}2] cro. B_(1 cro. B_)1 qua rest
+r0.5 .01 gether,
+=2 cro <G_ B_ D> <G_ B_ E> min <Dbl Ex>
+=2, min blank cro B_b A_n
+=3 qua rest vol95 e qua3 [c B-I3 G] qua [F# e'] qua3 [Bn An-I3 F#]
+|
+=1 qua rest, [A_ C E] cro. F# qua G
+r0.5 .11 keeps raining all .85 the
+=2' qua [A_ C E F] cro. Gb qua Gn
+=2, min blank cro <A_nl E> <A_b D>
+=3' vol80 min e cro gb fn
+=3, cro. vol95 Fn vol80 qua c-s3, cro <Bn e> <Bbl d>
+/
+3 bars | 24 | 2 2 2 2 2 2 2 2 2 2.3 2.3 2 | 24 |
+|
+=1 treble 3b qua G{2 cro. E}2 cro rest E
+r0.5 .08 time , .75 the
+=2' treble 3b min <G_ C E> <B_ E G>
+=3' bass 3b cro e d c B
+|
+=1 qua C{2 cro. B_}2 min rest
+r0.4 .01 time
+=2 min <B_ Cx F> <Dbl Ex>
+=2, min blank cro B_b A_n
+=3 cro A G qua vol95 [F# e'] qua3 [Bn An-I3 F]
+|
+=1 qua rest, [A_ C E] cro. F# qua G
+r0.5 .11 keeps raining all .85 the
+=2' qua [A_ C E F] cro. Gb qua Gn
+=2, min blank cro <A_nl E> <A_b D>
+=3' min vol80 e cro gb fn
+=3, cro. vol95 F qua vol80 c-s3, cro <Bn e> <Bbl d>
+/
+3 bars | 1.8 1.8 1.8  2 2 2  1.8 1.8 1.8  2.3 2 2  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.3 2.1  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2    2.3 2.3 2.1 |
+|
+=1 treble 3b qua G{2 cro. E}2 min rest
+r0.5 .08 time .
+=2' treble 3b min <G_ B_ E> qua rest vol100 cro. <B_ Db F>
+=3' bass 3b cro c vol95 qua [B A] cro G qua3 [E F#-I3, G]
+|
+=1 qua [C D] qua3 [E F-I3 E(2] qua. [E)2 smq E] qua. [E smq E]
+r0.5  .01 When he went away .68 the blues walked in
+=2 vol80 qua <A_ B_x C E> cro. <A_r B_x C E> qua <A_r B_x C E> cro. <A_r B_x C E>
+=3' vol80 cro A qua3 [A e-I3, en] cro f qua3 [A F-I3 En]
+|
+=1 cro. E qua E qua G cro E qua rest
+r0.5 .37 and met  me ,
+=2 qua <G_ B_ Cx E> cro. <G_ B_l Cx E> qua <G_ B_ Cx E> cro. <G_ B_l Cx E>
+=3 cro E qua3 [E B-I3, Bn] cro c qua3 [c Bb-I3 An]
+/
+3 bars | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.3 2.1  | 2 2 2  2 2 2  2.3 2 2    2.3 2.3 2.1  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.3 2.1 |
+|
+=1 treble 3b qua. [C smq D] qua3 [E F-I3 E(2] qua. [E)2 smq E] qua. [E smq E]
+r0.5 .08 if .21 he stays away, .68  old rockin'
+=2 treble 3b qua <A_ B_x C E> cro. <A_ B_x C E> qua <A_ B_x C E> cro. <A_ B_x C E>
+=3' bass 3b cro A qua3 [A e-I3, en] cro f qua3 [A F-I3 En]
+|
+=1 cro. E qua E qua C cro B_ qua rest
+r0.5 .01 chair .36 will  get me ,
+=2 cro <G_ B_ E> qua [G_ B_] qua <A_ C> cro. <G_ B_>
+=3 qua [E e'] cro E E vol95 qua3 [E F#-I3 G]
+|
+=1 qua. [C smq D] qua3 [E F-I3 E(2] qua. [E)2 smq E] qua. [F smq E]
+r0.5  .01 All .20 I do is pray .68 the Lord a -
+=2 qua <A_r B_x C E> cro. <A_r B_x C E> qua <A_r B_x C E> cro. <A_r B_x C E>
+=3' cro A vol80 qua3 [A e'-I3, en] cro f qua3 [A F-I3 En]
+
+4 systems 10 /19 40 19-40-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
+lefthead Stormy Weather, Harold Arlen
+/
+3 bars | 1.8 1.8 1.8  2.3 2.3 2.2  2 2 2  2 2 2  | 6 7 6 6.5 | 1.8 1.8 1.8  2.1 2.3 2.1  2 2 2  2 2 2 |
+| 63 60
+i0.4 .45 rall . . .95 slower . . .
+=1 treble 3b cro. G qua G A' cro G qua rest
+r0.5 .01 - .08 bove .40 will  let  me
+=2 treble 3b cro vol90 <G_ B_ E> qua [G_ B_] cro E qua [G E]
+=2, 3b min blank qua <A_ C> cro. <G_ B_>
+=3 bass 3b cro vol90 E qua3 [F# G-I3, B] qua c cro. B
+| 57
+=1 vol110 cro B qua [G F] cro E qua rest C
+r0.5 .01 walk .24 in the .49 sun .85 once
+=2' vol100 cro B qua [G F] cro E E
+=2, cro B_ qua [B_ B_] cro B_ qua [B_ A_n]
+=3' vol100 cro g qua [e e] cro e e
+=3, cro e qua [B A] cro G F#
+| 60 63 66
+=1 min F cro rest qua [F# G]
+r0.5 .01 more . .72 Can't go
+=2 min <A_ C E> vol85 qua C cro B_n qua B_b
+=2, min blank <F_ A_>
+=3' cro F qua3 vol95 [e c-I3 Bn] cro Bb B_
+/
+3 bars | 2 2 2 2.2 2.1 2.3 1.8 1.8 1.8  2.3 2.1 2.1  | 2 2 2 2.1 2.3 2.3 1.8 1.8 1.8 2.3 2.1 2 | 6 5.5 5.5 5.5 |
+|
+=1 treble 3b min. B qua3 rest [F#{2-I3 G}2]
+r0.5 .08 on .78 when
+=2' treble 3b min vol80 D <C#l En>
+=3' bass 3b min vol80 <g b> <g b>
+=3, 3b qua rest, F# qua3 [G B-I3, d] cro db qua [G F]
+|
+=1' qua [B G(2] qua3 [G)2 B-I3 An] cro Ab qua3 rest [F#-I3 G]
+r0.5 .01 all .12 I .30 have is gone . . . .78 stormy
+=2, cro rest qua3 vol100 [c e-I3 f] cro. gb vol80 qua b
+=3' min <a c~ e~> <b c~x d~>
+=3, min F cro rest, B
+|
+=1' qua B cro. B_ min rest
+r0.5 .01 weather . . .
+=2 smb B
+=2, min. blank cro <Dbx E>
+=3 cro <gr bl d~x e~l> <g bll d~x e~l> <g bll d~x e~l> <f#l an>
+/
+3 bars | 24 | 2 2 2  2.3 2.1 2.3  2 2 2  2.3 2.3 2 | 24 |
+|
+=1 3b qua [F F(2] qua3 [F)2 F-I3 F] cro F qua3 rest [E-I3 C]
+r0.5 .07 since my .35 man and I .79 ain't to -
+=2 3b cro <C E> <C E> <B_n E> <C E>
+=3' 3b cro <f a> <f a> <f a> <f a>
+=3, 3b cro rest, c Bn Bb
+|
+=1 smq [E{2 C}2] cro. B_(1 cro. B_)1 qua rest
+r0.5  gether,
+=2 cro <G_ B_ D> <G_ B_ E> min <Dbl Ex>
+=2, min blank cro B_ A_n
+=3 qua rest vol95 e qua3 [c B-I3 G] qua [F# e'] qua3 [Bn An-I3 F#]
+|
+=1 qua rest, [A_ C E] cro. F# qua G
+r0.5 .11 keeps raining all .85 the
+=2' qua [A_ C E F] cro. Gb qua Gn
+=2, min blank cro <A_nl E> <A_b D>
+=3' vol80 min e cro gb f
+=3, cro. vol95 Fn vol80 qua c-s3, cro <Bnl e> <Bb d>
+/
+3 bars | 2 2 2  1.9 1.9 1.9  1.9 1.9 1.9 2.1 2.3 2 | 24 | 24 ||
+|
+=1 treble 3b qua G{2 cro. B'}2 min rest
+r0.5 .08 time ,
+=2' treble 3b min <B_ D G> <B_ E G>
+=3' bass 3b cro e d c qua3 vol95 [B G-I3, F#]
+| 66 63
+=1 qua rest, [A_ C E] cro. F# qua G
+r0.5 .11 keeps raining all .85 the
+=2' qua [A_ C E F] cro. Gb qua Gn
+=2, min blank cro <A_nl E> <A_b D>
+=3' min vol80 e cro gb f
+=3, cro. vol95 Fn vol80 qua c-s3, cro <Bnl e> <Bb d>
+| 60 57
+=1 qua G{2 cro. E}2 min rest
+r0.4 .01 time .
+I0.2 .38 ppp
+=2' min rest' qua b~ cro. b
+=2, min blank <g c~>
+=2 smb <G_ B_ E>
+I0.2 .18 pp
+=3' cro c qua [Bn Bb(2] min B)2

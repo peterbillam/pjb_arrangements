@@ -1,0 +1,501 @@
+head	1.5;
+access;
+symbols;
+locks
+	pjb:1.5; strict;
+comment	@# @;
+
+
+1.5
+date	2013.04.22.23.21.05;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.22.11.27.55;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.22.09.29.49;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.22.06.34.50;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.22.02.56.48;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Old arrangements for guitars from 1986
+@
+
+
+1.5
+log
+@spacing OK
+@
+text
+@3 systems 20 /19-65-19-25-19/ 19-70-19-25-19 / 19-70-19-25-19 20/
+pagenum 1
+title What then is love but mourning ?
+innerhead Philip Rosseter
+leftfoot Arranged for two guitars  (c) Peter Billam  2013
+midi channel 0 patch 52 pan 50
+midi channel 1 patch 24 pan 70
+midi channel 2 patch 24 pan 30
+midi channel 3 patch 74 pan 30
+# typesetting requested by http://www.photographybynoah.com/
+
+
+/
+3 bars | 1# 4/4 96 | 96 | 96 |
+| 2.0
+=1' treble     1# 4/4 cha0 vol80 leg75 4 B 8 [B B] 4 G A
+r0.75 .07 What .30 then is .50 love .76 but
+r0.50 .07 Beau - ty .38 is .50 but .76 a
+r0.25 .07 Sum - mer .40 in .50 win .65 - .77 ter
+=2, treble8vab 1# 4/4 cha1 vol110 leg120 4. <G g> 8 f 4 e 8 [f e]
+=3' treble8vab 1# 4/4 cha2 vol110 leg120 2 <G_ B> 4 <C c> <A_ c>
+|
+=1' 4. F{2 8 E}2 2 E
+r0.75 .01 mour .28 - .51 ning ?
+r0.50 .01 bloo .28 - .51 ming ?
+r0.25 .01 fad .28 - .51 eth ,
+=2, 4 e d# 2 <G# e>
+=3' 2 <B_ F> B
+=3, 2 blank 4 E E_
+|
+=1  8 [F G] 4 A 8 [B c#] 4 d
+r0.75 .01 What  desire .50 but a .75 self .90 -
+r0.50 .01 Youth in his .50 glory .75 en .90 -
+r0.25 .01 Gloomy night .50 heavenly  light
+=2  8 [dn e] 4 f 2 f
+=3' 4 <B_ B> <F c#> 2 B
+=3, 2 blank 4 D B_
+/
+3 bars | 1# 96 | 96 | 96 |
+|
+=1 4. c#{1 8 B}1 2 B
+r0.80 .04 bur .27 - .50 ning ?
+r0.55 .04 tomb .27 - .50 ing .
+r0.30 .04 sha .27 - .50 deth ;
+=2' 2 f blank
+=2, 4 B A# 2 <B f>
+=3' 4 <F c#> F_ 2 <B_ d#>
+|
+=1 4 d 8 [c# B] 4 A B'
+r0.80 .01 Till .25 she that .50 hates .75 doth
+r0.55 .01 Time .25 hath a .50 while .75 which
+r0.30 .01 Like .25 to  the .50 morn .75 are
+=2' 4 blank e 2 blank
+=2, 4 d 8 [A G] 4 <F f> 8 [g f]
+=3' 2 B 4 <D d> <B_ d>
+=3, 4 B_ C# 2 blank
+|
+=1 4 G A 2 F
+r0.80 .01 love .25 re .38 - .50 turn ,
+r0.55 .01 none .25 can .50 stay .
+r0.30 .01 Ve .14 - .25 nus ' .50 flowers ;
+=2' 4 blank 8 [f e] 2 <F d#>
+=2, 4 <G e> A 2 blank
+=3' 4 <E B> <A_ cn> 2 <B_ B>
+/
+4 bars ||: 1# 24 26 24 26 | 24 26 24 26 | 26 24 26 26 | 48 45 :||
+$X = {
+|
+=1 4 E 8 [F G] 2 A
+r0.80 .07 Thus .30 will I .55 mourn ,
+r0.55 .07 Then .30 come  away ,
+r0.30 .07 Such .30 are her hours ,
+=2 2 <E B'> 4 <E c'> 8 [d e]
+=3 2 <E G> 4 <A_ A> 8 [B_ C]
+|
+=1' 4 F 8 [G A] 2 B
+r0.80 .01 thus .25 will  I .50 sing :
+r0.55 .01 while .25 thus  I .50 sing :
+r0.30 .01 then .25 will  I .50 sing :
+=2 4. d 8 c 4 <D B'> 8 [c d]
+=3 2 <A A> 4 <G_ G> 8 [A_ B_]
+|
+=1' 8 [G A] 4 B 8 [E F G A]
+r0.5 .01 Come away, .49 come away my
+=2 4 <G, e> <D d'> 8 [c d] 4 <G, e>
+=3' 4 <C c> <G_ B> <A_ A> <E_ B>
+|
+=1 2 F E
+r0.5 .01 Dar .27 - .50 ling .
+=2, 4 e d# 2 <G# e>
+=3' 2 <B_ F> <E_ B>
+}
+$X
+#M $X
+
+midi pause 2.0
+
+4 systems 45 /19-55-19 /19-55-19 /19-50-19 / 19-55-19 60/
+pagenum
+title Nobody's fault but mine
+leftfoot Arranged for two guitars  (c) Peter Billam  2013
+
+/
+5 bars | 12 | 108 | 96 | 108 | 96 |
+| 0.3
+=1' treble8vab cha1 vol115 8 A
+r0.66 .10 My
+=2' treble8vab cha2 vol100 8 rest
+| 2.4
+=1, 8 [c d] [e d(1] [d)1 c A G]
+r0.66 .01 mother she taught me how to
+=2' 4 rest 2 <E c'-s2-s1> 4 <F# d-s2-s1>
+=2, 4. A_-s0, 8 A_(1 2 A_)1
+|
+=1  2. A 8 rest e
+r0.66 read , .86 my
+=2' 4 rest 2 <E c'> 4 <F# d>
+=2, 4. A_ 8 A_(1 2 A_)1
+|
+=1, 8 [a a a a(1] [a)1 e e d]
+r0.66 .01 mother she taught me how to
+=2' 4 rest 2 <E c'> 4 <F# d>
+=2, 4. A_ 8 A_(1 2 A_)1
+|
+=1  2. e 8 rest e
+r0.66 .04 read , .87 if
+=2' 4 rest 2 <G B-s0-s0> 4 <G# B-s1-s0>
+=2, 4. E_ 8 B_(1-s2, 2 B_)1
+/
+4 bars | 96 | 96 | 96 | 96 |
+|
+=1, 8 a 4. a 4 a e
+r0.66 .01 I .12 don't .50 read  'n my
+=2' 4 rest 2 <E c'-s2-s1> 4 <G c#-s0-s1>
+=2, 4. A_ 8 A_(1 2 A_)1
+|
+=1, 4 d 8 [c e(1] 4 e)1 8 rest A
+r0.66 .01 soul .25 be  lost , .84 ain't
+=2' 4 rest 2 <F# d'-s2-s1> 4 <E c-s2-s1>
+=2, 4. A_ 8 A_(1 2 A_)1
+|
+=1 8 [c e] [d A,] [c' A] [G A(2]
+r0.66 .01 no  -  body's .50 fault but mine
+rs0.27  1 .25 4
+rs0.14  0 .25 2
+rs0.01  3 .25 0
+=2' 4 <C G c> <D A d> 8 [E-s1 G] 4 B
+|
+=1  2. A)2 8 rest e
+r0.66 .86 my
+=2' 4 rest 2 <E c'> 4 <F# d>
+=2, 4. A_ 8 A_(1 2 A_)1
+/
+4 bars | 104 | 96 | 96 | 96 |
+|
+=1, 8 [a a a g(1] [g)1 f# e d]
+r0.66 .01 mother she taught me how to
+=2' 4 rest 2 <E c'> 4 <F# d>
+=2, 4. A_ 8 A_(1 2 A_)1
+|
+=1  2. e 8 rest e
+r0.66 .02 read , .87 if
+=2' 4 rest 2 <G B-s0-s0> 4 <G# B-s1-s0>
+=2, 4. E_ 8 B_(1-s2, 2 B_)1
+|
+=1, 8 a 4. a 4 a e
+r0.66 .01 I .12 don't .50 read  'n my
+=2' 4 rest 2 <E c'-s2-s1> 4 <G c#-s0-s1>
+=2, 4. A_ 8 A_(1 2 A_)1
+|
+=1, 4 d 8 [c e(1] 4 e)1 8 rest A
+r0.66 .01 soul .25 be  lost , .84 ain't
+=2' 4 rest 2 <F# d'-s2-s1> 4 <E c-s2-s1>
+=2, 4. A_ 8 A_(1 2 A_)1
+/
+4 bars | 96 | 96 | 96 | 96 :||
+|
+=1 8 [c e] [d A,] [c' A] [G A(2]
+r0.66 .01 no  -  body's .50 fault but mine
+rs0.27 .03 1 .25 4
+rs0.14 .03 0 .25 2
+rs0.01 .03 3 .25 0
+=2' 4 <C G c> <D A d> 8 [E-s1 G] 4 B
+|
+=1  2. A)2 8 rest A
+=2' 4 rest 2 <E c'> 4 <F# d>
+=2, 4. A_ 8 A_(1 2 A_)1
+|
+=1 4 e 8 [d e] [c' A] [G A(2]
+r0.66 .01 no  -  body's .50 fault but mine
+rs0.27  1 .25 4
+rs0.14  0 .25 2
+rs0.01  3 .25 0
+=2' 4 <C G c> <D A d> 8 [E-s1 G] 4 B
+|
+=1  2. A)2 4 rest
+=2' 4 rest 2 <E c'> 4 <F# d>
+=2, 4. A_ 8 A_(1 2 A_)1
+
+midi pause 2.0
+
+4 systems 15 /19-35-19-35-19 /19-35-19-35-19 \
+ /19-35-19-35-19 / 19-35-19-35-19 20/
+pagenum
+title How beautiful are the feet
+innerhead G.F. Händel
+leftfoot Arranged for tenor recorder and guitar  (c) Peter Billam  2013
+
+midi on
+/
+4 bars | 1# 12/8 14 \
+ | 6 6 6 8 6 6  6 4 6 6 8 6  6 6 6 9 6 6  6 4 6 6 6 6 \
+ | 6 6 6 8 8 8  6 4 6 6 6 6  6 6 6 8 6 6  6 6 4 6 6 6 \
+ | 6 6 6 8 6 6  6 4 6 6 8 8  6 4 6 6 6 6  6 4 6 6 6 5 |
+| 0.56
+i0.5 .03 Larghetto
+=1' treble     1# 12/8 cha0 vol90  leg95  8 rest
+=2' treble     1# 12/8 cha3 vol85  leg99  8 B
+=3' treble8vab 1# 12/8 cha1 vol105 leg110 8 rest
+| 6.6
+=1 2 blank 1 rest
+=2 8. [G 16 F 8 E] 4 leg80 E leg99 8 D# 8. [E 16 F 8 G] 4 leg80 F 8 leg99 F
+=3' 4 B 8 B 4 A 8 B  4 B 8 B 4 B 8 B
+=3, 4 E 8 G 4 F 8 Ar 4 G 8 E 4 E 8 D#
+|
+=1 2 blank 1 rest
+=2 8. [G 16 A 8 G] 4 e 8 G 8. [F 16 G 8 F] 4 leg80 d 8 leg99 Fn
+=3' 4 B 8 B 4 <G e> 8 <c# e>  4 <A d> 8 <A d> 4 <G d> 8 <D B>
+=3, 4 E 8 D 4 C# 8 A_ 4 D 8 Cn 4 B_ 8 G_
+|
+=1 2 blank 1 rest
+=2 8. [E 16 D# 8 E] 4 c 8 E 4 leg80 D# 8 c 4. leg99 B(1
+=3' 4 <G c> 8 <G c> 4 <A e> 8 <A e>  4. <B f> 4 rest 8 d#
+=3, 4 C 8 B_ 4 A_ 8 C 4. B_ 4 blank 8 A
+/
+3 bars | 6 6 6 8 6 6  6 4 6 6 6 6  6 4 6 6 6 6 6 4 6 6 6 5 \
+ | 6 6 6 8 6 6  6 4 6 6 6 6  6 6 6 8 6 6  6 4 6 6 6 6 \
+ | 6 6 6 8 6 6  6 6 6 8 6 6  6 4 6 6 6 6  6 4 6 6 6 6 |
+|
+=1' 2. rest 4. rest 4 rest 8 B
+=2' 8. [B)1 16 A 8 G] 4 G 8 F 4. E rest
+=3' 4 <B e> 8 <B e> 4 <B e> 8 d# 4. <G e> rest.
+=3, 1# 8. [G 16 F 8 E] 4 B_ 8 B_ 4 E 8 B_ 4 E_ 8 rest,
+|
+=1 8. [G 16 F 8 E] 4 E 8 D# 8. [E 16 F 8 G] 4 leg85 F 8 F
+=2 2 blank 1 rest
+=3' 4 rest  8 <B e> 4 <A e> 8 f 4. <B e> 4 <B e> 8 B
+=3, 4 blank 8 G 4 F 8 A 4 G 8 E 4 E 8 D#
+|
+=1' 8. [G{2 16 A}2 8 G] 8. [B 16 A 8 G] 4 G{2 8 F}2 4 rest 8 D
+=2 2. rest 4 rest 8 leg80 d 4. leg99 a(1
+=3' 4 <G B e>  8 rest' 4 <G e> 8 rest' 4 <A g> 8 f 4. rest
+=3, 4 E  8 rest, 4 C# 8 rest, 4. D blank
+/
+3 bars | 1# \
+   6 6 6 8 6 6  6 4 6 6 6 6  6 6 6 6 6 6  6 4 6 6 6 5 \
+ | 6 6 6 8 6 6  6 4 6 6 6 6  6 6 6 6 6 6  6 4 6 6 6 5 \
+ | 6 6 6 8 6 6  6 6 6 8 6 6  6 4 6 4 6 4  6 4 6 6 6 5 |
+|
+=1 8. [c 16 d 8 c] 4 B' 8 A 4. B' 4 rest 8 B
+=2 2. a)1(2 8 a)2 rest' leg80 g leg99 4. b(2
+=3' 4 d  8 rest' 4 <A f> 8 rest' 4. <B g> rest
+=3, 4 F  8 rest, 4 D 8 rest, 4. G blank
+| 1.65 1.65 1.8 1.65
+=1 8. [d 16 e 8 d] 4 c 8 B [c B c] 4 leg85 d 8 leg95 c
+=2 2. b)2(2 8 b)2 rest' e 4. a
+=3' 4 <B e> 8 rest' 4 <G# B e> 8 rest' 4. <c e> d
+=3, 4 G# 8 rest, 4 E 8 rest, 4 A 8 Gn 4. F
+| 6.6
+=1' 8. [B{2 16 A}2 8 G] 8. [G 16 A 8 F] 4. G rest
+=2  8. [d 16 c 8 B] 4 B' 8 A 4. G 4 rest 8 d
+=3' 8 [<B g> d e] 4 <B g> 8 <c f> 4. <B g> rest
+=3, 4 G 8 C 4 D 8 D 4. G_ blank
+/
+3 bars | 1# \
+   6 6 6 8 6 6  6 4 6 6 6 6  6 6 6 8 6 6  6 4 6 6 6 5 \
+ | 6 6 6 8 6 6  6 4 6 6 6 6  6 6 6 8 7 6  6 4 6 6 6 5 \
+ | 12 12 12  12 12 13  11 11 12  11 11 11 |
+|
+=1 2. rest 4. rest 4 rest 8 e
+=2' 8. [B 16 A 8 G] 4 G 8 F 8. [G 16 A 8 B] 4 A 8 rest
+=3' 4. <G d> <G c> 4 <G d> 8 <G d> 4 <A f> 8 <B e>
+=3, 4. G_ A_ 4  B_ 8 G_ 4 D 8 G_#
+|
+=1' 8. [c 16 B 8 A] 4 A 8 G# 8. [A 16 B 8 c] 4 leg85 B 8 A
+=2 2 blank 1 rest
+=3' 4 <c e> 8 rest' 4 <d ex> 8 rest' 4. <A e> 4 <B f> 8 rest'
+=3, 4 A_ 8 rest, 4 B_ 8 rest, 4 C 8 A_ 4 D# 8 rest,
+| 1.65 1.8 1.65 1.65
+=1' 8 [G{2 F}2 E] [c A F] 4 D# 8 rest 4 rest 8 E
+=2 2. rest 4 rest 8 leg80 B 4. leg99 g(1
+=3' 8 [<B g> f e] 4 <c f> 8 rest' 4. <B f> 4 rest 8 <B e>
+=3, 4 E  8 G_ 4 A_ 8 rest, 4. B_ 4 blank 8 E
+
+4 systems 5 /19-35-19-35-19 /19-35-19-35-19 \
+ /19-35-19-35-19 / 19-35-19-35-19 20/
+pagenum
+innerhead How beautiful are the feet, G.F. Händel
+leftfoot Arranged for tenor recorder and guitar  (c) Peter Billam  2013
+
+/
+3 bars | 1# \
+   6 4 6 6 7 6  6 6 6 8 6 6  6 4 6 6 7 6  6 4 6 6 6 5 \
+ | 6 4 6 6 6 6  6 6 6 8 6 6  6 4 6 6 6 6  6 4 6 6 6 5 \
+ | 12 12 12  11 11 13  11 11 12  11 11 11 |
+| 6.6
+=1' 4 A 8 A 8. [A{2 16 B 8 A] 4 A}2 8 G 4 rest 8 F
+=2 4. g)1 f(1 4 f)1 8 leg80 e 4. leg99 a(1
+=3' 4 <A e> 8 rest' 4 B 8 rest' 4 <B e> 8 rest' 4 cn 8 rest'
+=3, 4 C# 8 rest, 4 D# 8 rest, 4 E 8 rest, 4 F 8 rest,
+|
+=1, 4 B 8 B 8. [B{1 16 c 8 B] 4. c}1 4 leg85 c 8 leg95 c
+=2 4. a)1 2. g 4 leg80 fn 8 leg99 e
+=3' 4 <B f> 8 rest' 4 <B e> 8 rest' 4 <c e> 8 rest' 4 c 8 rest'
+=3, 4 D# 8 rest, 4 E 8 rest, 4 A_ 8 rest, 4 A_ 8 rest,
+|
+=1 [B'{2 A}2 G] 4 G 8 F 4. E 4 rest 8 dn
+=2 4 d# 8 leg80 e 4 leg99 E 8 D#  4 E 8 F# 4. G(2
+=3' 4 <B f> 8 <B e>' 4 <B e> 8 A 4. <G e> 4 rest' 8 <G d>
+=3, 4 B_ 8 E 4 B_ 8 B_ 4. E_ 4 rest, 8 B_
+/
+3 bars | 1# \
+   6 4 6 6 7 6  6 6 6 8 6 6  6 4 6 6 7 6  6 4 6 6 6 5 \
+ | 11 11 12  11 11 12  11 11 12  11 11 11 \
+ | 12 12 12  11 11 13  11 11 12  11 11 11 |
+|
+=1 4 e 8 c 8. [A,{'1 16 d 8 c] 8 [B'}'1 A G] 4 rest 8 B
+=2 4. G)2 F(2 4 F)2 8 leg80 E 4. leg99 e(1
+=3' 4 <G e> 8 rest' 4 <A d> 8 rest' 4 <G d> 8 e 4 <B e> 8 rest'
+=3, 4 C 8 rest, 4 D 8 rest, 4. G_ 4 G 8 rest,
+|
+=1 4 c 8 A 4 F 8 B' 4 leg80 G 8 leg99 E 4. G(2
+=2 4. e)1 d# e 4 rest 8 dn
+=3' 4 <c e> 8 rest' 4 f 8 rest' 4 <G e> 8 rest' 4 <G e> 8 rest'
+=3, 4 A 8 rest, 4 B 8 rest, 4 E 8 rest, 4 B_ 8 rest,
+|
+=1 4. G)2(2 4 G)2 8 F 4 F 8 E 4 rest 8 e
+=2 4 e 8 c 4 leg80 A 8 leg99 d 4. B(1 4 B)1 8 E(2
+=3' 4 <G e> 8 rest' 4 <A d> 8 rest' 4 <G d> 8 e 4 <B e> 8 rest'
+=3, 4 C 8 rest, 4 D 8 rest, 4. G_ 4 G 8 G_
+/
+3 bars | 1# \
+   12 12 12  12 13 12  11 11 13  11 11 11 \
+ | 11 11 11  11 11 12  11 11 12  11 11 11 \
+ | 6 6 6 8 6 6  6 4 6 6 7 6  6 6 6 8 6 6  6 4 6 6 6 5 |
+| 1.65 1.65 1.70 1.8
+=1 8 [c{1 B}1 A,] [G{2 A}2 F] 4 leg80 E 8 leg90 e 4 d# 8 leg85 e leg99
+=2 4. E)2(2 8 [E)2 F D#] 4 leg80 E 8 leg99 A 4 B 8 leg85 c leg99
+=3' 8 [<c e> B A] 4 B 8 A 4 <G e> 8 <A e> 4 <B f> 8 <c e>
+=3, 8 [A_ B_ C] 4. B_ 4 C 8 C 4 B_ 8 A_
+| 6.6
+=1 4. G{2 4 F}2 8 E 4. E rest
+=2 4. E 4 D# 8 E 4. E 4 rest 8 b
+=3' 4. <B e> <A Bx> <G e> 4 rest' 8 <B f>
+=3, 4. B_ B_ 4 E_ 8 E 4 G 8 D#
+|
+=1 2 blank 1 rest
+=2 8. [g{1 16 f 8 e}1] 4 e 8 d#{1 8. [e 16 f 8 g}1] 4 leg80 f 8 leg99 B
+=3' 4 <B e> 8 <B e> 4 <A e> 8 <B f> 4 <B e> 8 <B e> 4 <B f> 8 <B f>
+=3, 4 E 8 G 4 F 8 Ar 4 G 8 E 4 E 8 D#
+
+/ 3 bars | 1# \
+   6 6 6 8 7 6  6 4 6 6 6 6  6 4 6 6 6 6  6 4 6 6 6 5 \
+ | 6 6 6 8 6 6  6 4 6 6 6 6  6 4 6 6 6 7  6 4 6 6 6 5 \
+ | 6 6 6 8 6 6  6 4 6 6 6 6  6 4 6 6 6 6  5 5 5 5 5 5 ||
+|
+=1 2 blank 1 rest
+=2 8. [g{1 16 a 8 g}1] 4 A 8 g 4 g{1 8 f}1 4. a(1
+=3' 4 <B e> 8 <B e> 4 <G e> 8 <c# e> 4 <A g> 8 f 4 rest' 8 e
+=3, 4 E 8 D 4 C# 8 A_ 4. D 4 rest, 8 Cn
+| 3.3 3.4
+=1 2 blank 1 rest
+=2 8. [a)1 16 b 8 a] 4 B 8 a 4 a 8 g 4. c
+=3' 4 d# 8 rest' 4 <B f> 8 f 4 <B f> 8 e 4 rest' 8 e
+=3, 4 B_ 8 rest' 4 D# 8 rest, 4. E 4 rest, 8 A
+| 7.0
+=1 2 blank 1 rest
+=2' 8. [B 16 A 8 G] 4 G 8 F 4. E rest
+=3' 4 <B f> 8 <B e> 4 <B e> 8 d# 4. <G e> rest'
+=3, 4 D# 8 E 4 B_ 8 B_ 4 E 8 B_ 4. E_
+@
+
+
+1.4
+log
+@typed in beautiful are; needs spacing
+@
+text
+@a11 1
+midi off
+d211 4
+a214 1
+4 bars | 1# 12/8 12 | 96 | 96 | 96 |
+d236 3
+a238 1
+3 bars | 96 | 96 | 96 |
+d254 5
+a258 1
+
+d274 5
+a278 1
+
+d302 4
+a305 1
+3 bars | 1# 96 | 96 | 96 |
+d321 5
+a325 1
+
+d341 5
+a345 1
+
+d362 4
+a365 1
+/ 3 bars | 1# 96 | 96 | 96 ||
+@
+
+
+1.3
+log
+@first page of how beautiful are
+@
+text
+@d10 1
+d208 1
+a208 1
+leftfoot Arranged for guitar  (c) Peter Billam  2013
+d215 3
+a217 3
+=1' treble     1# 12/8 cha0 vol85  leg95  8 rest
+=2' treble     1# 12/8 cha3 vol90  leg99  8 B
+=3' treble8vab 1# 12/8 cha1 vol100 leg110 8 rest
+d279 1
+a279 1
+=2 2. rest 4 rest 8 leg80 B 4. leg99 e(1
+d282 73
+@
+
+
+1.2
+log
+@add Nobody's Fault
+@
+text
+@d11 2
+a96 1
+midi on
+d199 82
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d93 105
+@

@@ -1,0 +1,33 @@
+% start
+5 systems 20 /19-40-19/19-40-19/19-40-19/19-40-19/19-40-19 10/
+title Yancey Stomp
+lefthead by Jimmy Yancey (Chicago, 25oct1939)
+midi channel 1 patch 0 pan 60
+midi channel 2 patch 0 pan 40
+/
+4 bars | 4/4 8 | 8 | 8 | 8 |
+| 2/2 .1850 .1000 .1850 .1000 .1850 .1000 .1850 .1000
+=1' treble 2/2 cha1 cro rest'' min. <d ex g>
+=1,        2/2 cha1 qua [Bb c] [Bb c] [Bb c] [Bb c]
+=2' bass   2/2 cha2 smb rest
+|
+=1' smb min. <dx eb g>
+=1, cro A qua [A c] [A c] [A c]
+=2  smb rest
+|
+=1' qua rest'' d cro. <e g> qua d cro <eb g>
+=1, min Bb cro. A qua Bb(2
+=2  smb rest
+|
+=1' qua d cro <en g> qua d cro <eb g> qua d <en(4 g(1>
+=1, cro Bb)2 cro. A Bb
+=2 smb rest
+|
+=1 cro <e)4 g)1>
+=2 cro rest qua [c A] cro F qua [c A]
+|
+=1
+=2 cro F qua [c A] cro F qua [c A]
+|
+=1
+=2 cro C qua [G E] cro C qua [G E]

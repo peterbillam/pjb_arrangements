@@ -1,0 +1,169 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4;
+comment	@# @;
+
+
+1.4
+date	2001.02.27.02.38.11;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	98.10.02.00.51.45;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.10.02.00.46.02;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	98.09.25.07.45.19;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for Ecco
+@
+
+
+1.4
+log
+@uses a42us etc, does free version
+@
+text
+@SD = /home/pjb/www/mus/samples
+FD = /home/pjb/www/softgoods
+MUSCRIPT = /home/pbin/muscript
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+ADDMESSAGE = /home/pbin/add_free_message
+
+all : ${FD}/ecco.us ${SD}/ecco.us ${FREED}/ecco.pdf
+
+${FD}/ecco.a4 : title.a4 p2.a4 ecco.a4 ${BLURB}.a4
+	${PSCAT} title.a4 p2.a4 ecco.a4 ${BLURB}.a4 > $@@
+${FD}/ecco.us : ${FD}/ecco.a4
+	${A42US} ${FD}/ecco.a4 > $@@
+${SD}/ecco.a4 : ecco.a4
+	./make_samples > $@@
+${SD}/ecco.us : ${SD}/ecco.a4
+	${A42US} ${SD}/ecco.a4 > $@@
+${FREED}/ecco.pdf : title_free.a4 p2.a4 ecco.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ecco.a4 \
+	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+
+ecco.a4 : ecco
+	${MUSCRIPT} ecco > $@@
+title.a4 : title
+	groff -ms title | ${BANNERISE} > $@@
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
+p2.a4 : p2
+	groff -ms p2 | ${BANNERISE} > $@@
+
+@
+
+
+1.3
+log
+@fix bug in ecco.parts.a4
+@
+text
+@d3 1
+d5 6
+d12 1
+a12 3
+all : a4 us samples
+a4 : ecco.score.a4 ecco.parts.a4
+us : ecco.score.us ecco.parts.us
+d14 13
+a26 12
+ecco.score.a4 : title.a4 p2.a4 score.a4 ${BLURB}.a4
+	cat title.a4 p2.a4 score.a4 ${BLURB}.a4 > $@@
+	cat ${FD}/perlheader $@@ > ${FD}/$@@
+ecco.score.us : title.us p2.us score.us ${BLURB}.us
+	cat title.us p2.us score.us ${BLURB}.us > $@@
+	cat ${FD}/perlheader $@@ > ${FD}/$@@
+ecco.parts.a4 : title.parts.a4 parts.a4 ${BLURB}.a4
+	cat title.parts.a4 parts.a4 ${BLURB}.a4 > $@@
+	cat ${FD}/perlheader $@@ > ${FD}/$@@
+ecco.parts.us : title.parts.us parts.us ${BLURB}.us
+	cat title.parts.us parts.us ${BLURB}.us > $@@
+	cat ${FD}/perlheader $@@ > ${FD}/$@@
+d28 2
+a29 8
+score.a4 : score /home/pbin/muscript
+	/home/pbin/muscript score > $@@
+parts.a4 : parts /home/pbin/muscript
+	/home/pbin/muscript parts > $@@
+score.us : score /home/pbin/muscript
+	/home/pbin/muscript -us score > $@@
+parts.us : parts /home/pbin/muscript
+	/home/pbin/muscript -us parts > $@@
+d31 3
+a33 13
+	cat /home/pjb/mus/blurb/banner.ps > title.a4
+	groff -p -t -e -ms title >> title.a4
+title.us : title.a4
+	echo '%!' > title.us
+	echo '8.4 0 translate 1 0.94074 scale' >> title.us
+	cat title.a4 >> title.us
+title.parts.a4 : title.parts
+	cat /home/pjb/mus/blurb/banner.ps > $@@
+	groff -p -t -e -ms title >> $@@
+title.parts.us : title.parts.a4
+	echo '%!' > $@@
+	echo '8.4 0 translate 1 0.94074 scale' >> $@@
+	cat title.a4 >> $@@
+d35 1
+a35 6
+	cat /home/pjb/mus/blurb/banner.ps > p2.a4
+	groff -p -t -e -ms p2 >> p2.a4
+p2.us : p2.a4
+	echo '%!' > p2.us
+	echo '8.4 0 translate 1 0.94074 scale' >> p2.us
+	cat p2.a4 >> p2.us
+a36 4
+samples : ${SD}/ecco.a4
+
+${SD}/ecco.a4 : ecco.score.a4
+	./make_samples
+@
+
+
+1.2
+log
+@include title in parts softgood
+@
+text
+@d16 1
+a16 1
+	cat title.parts.a4 parts.a4 ${BLURB}.a4 > ${FD}/$@@
+@
+
+
+1.1
+log
+@add title.parts
+@
+text
+@d15 5
+a19 5
+ecco.parts.a4 : parts.a4 ${BLURB}.a4
+	cat parts.a4 ${BLURB}.a4 > ${FD}/$@@
+	cat ${FD}/perlheader parts.a4 > ${FD}/$@@
+ecco.parts.us : parts.us ${BLURB}.us
+	cat parts.us ${BLURB}.us > $@@
+@

@@ -1,0 +1,28 @@
+boundingbox 424 75
+midi channel 1 patch 47 pan20 reverb 80 # tymp
+midi channel 2 patch 44 pan50 reverb 80 # str
+midi channel 3 patch 44 pan80 reverb 80 # bass
+1 system /27 15/
+/
+3 bars |  4b 3/4 2 2 3.5 2 | 3 4 3 3 3 3 | 3 3 2 1 2
+| 1/8 0.5
+midi off
+=1  bass  4b 3/4 64 [G_b A_ B_ B_n]
+midi on
+#=1 bass  4b 3/4 cha1 vol80  leg90 
+#=2 bass  4b 3/4 cha2 vol40  leg90
+#=3 bass  4b 3/4 cha3 vol125 leg90 64 [G_b A_ B_ B_n]
+| 3/4 2.7
+midi off
+=1  8 [C 16 rest,, C] 8 C-. rest,, G_b-. rest,,
+midi on
+#=1 8 [c 16 rest,, c] 8 c-. rest,, Gb-. rest,,
+#=2 2. <c c~>
+#=3 8 C 4. rest 8 G_b-. rest,
+| 1.9
+midi off
+=1  8 C-. rest, 4. rest,
+midi on
+#=1 8 c 4. rest
+#=2 2. <c c~-dim50>
+#=3 8 C-. rest, 4. rest,

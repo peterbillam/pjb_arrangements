@@ -1,0 +1,158 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1;
+comment	@# @;
+
+
+1.1
+date	98.05.30.23.37.12;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Altp part, O wie selig seid ihr doch
+@
+
+
+1.1
+log
+@accidentals in 10, 15, 16
+@
+text
+@7 systems /24/24/24/24/24/24/24/
+lefthead Johannes Brahms
+title O wie selig seid ihr doch, ihr Frommen
+righthead Alto Recorder
+leftfoot Arranged and Typeset 1998 by Peter J Billam.
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b 12/8 qua a[ g f] e[ f e] d[ e f] g[ f g]
+i0.2        dolce . . .
+|
+=1 qua a[ g f] eb[ f e] d[ f g(1] cro g)1 qua f
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b qua d[ f en(1] cro e)1 qua d(1 cro. d)1(1 qua d)1 cro c(1
+|
+=1 cro. <c)1 fermata> qua d[ c Bb,] cro. A Bn'
+/
+2 bars | 14 | 12 |
+|
+il0.25          5
+=1 treble 1b qua c[ d e] f[ e f] e[ f g] a[ g a](1
+|
+=1 qua a)1[ g f] e[ f e] d[ bb ab] cro g qua f
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b cro. e(1 qua e)1[ a g] cro f# qua g fn[ e d]
+|
+=1 qua <c#[ fermata> d c#] e[ d cn] Bn,[ c B,] d[ c Bb,]
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b cro. A qua Bn,[ c# d](1 d[)1 e d] c#[ d e]
+|
+il0.3  10
+=1 qua f[ e d] c[ d c] <Bn'[ fermata> A B'] c[ B, c(1]
+/
+2 bars | 14 | 12 |
+|
+=1 treble 1b qua c)1[ Bb, A,] G[ A G] F#,[ d c] qua B, cro g(1
+i0.3           cresc . . .
+|
+=1 qua g)1[ f e] d[ e d] c#[ a g] f[ bb a]
+/
+2 bars | 14 | 6 5 ||
+|
+=1 treble 1b cro b qua bn(1 b)1[ a g] <f#'[ d,[ fermata> <g' e,> <f,] a']> <g'[ e,[> <f, a'> <g,] bb']>
+i0.2                                         . . .
+I0.2                                                 f
+|
+=1 qua <a,[ c~'[> <g, bb'> <f#,] a']> <g'[ e,[> <f#, a'> <g'] e,]> min <d, f#'>
+
+7 systems /24/24/24/24/24/24/24/
+lefthead Alto Recorder
+title Es ist ein Ros' entsprungen
+righthead Johannes Brahms
+leftfoot Arranged and Typeset 1998 by Peter J Billam.
+/
+4 bars | 3 | 6 | 6 | 6 |
+|
+=1 treble 1b 6/4 cro f
+I0.2      p
+i0.2           dolce . . .
+|
+I0.1             '                     '
+=1 cro e f f(1 f)1 b a
+|
+I0.1                                     '
+=1 cro e f g e f d
+|
+=1 cro c# d B, min cn cro B,
+/
+3 bars | 3 2.5 | .8 1.3 1 1 1 | 6 |
+|
+I0.1                                          '
+=1 treble 1b cro A d B G(2 A)2 f
+|
+il0.5      5
+=1 cro b a qua c[ c# e d](1 cro d)1 qua cn[ d]
+|
+I0.1                                            '
+=1 qua c[ d c d c d] B'[ A](2 cro A)2 d
+/
+3 bars | 2.2 2.5 2.2 | 4.7 | 4.7 |
+|
+I0.1                                                 '
+=1 treble 1b cro c# d qua B,[ Bn,(1 B)1 cn](1 cro c)1 Bb
+|
+I0.1                                      '
+=1 cro A d B G A c
+|
+I0.1                                      '
+=1 cro c G A A c qua e[ d]
+/
+3 bars | 3.5 3.1 | 5 | 3.2 2.8 |
+|
+il0.3     10
+I0.1                                            '
+=1 treble 1b qua Bn,[ c B, c(1 c)1 d] min c cro eb(1
+|
+=1 min eb)1 cro e d b a
+|
+=1 qua e[ g f a b g] cro e f c(1
+/
+3 bars | 6.6 | 5 | 5 |
+|
+=1 treble 1b qua c)1[ c A, B,(1 B,)1 B,] db[ c(1 c)1 c A, B,]
+|
+I0.1                                       '
+=1 cro c d B G A c(1
+|
+il0.3     15
+I0.1                                       '
+=1 min c)1 cro c c# A Bn
+/
+3 bars | 6.6 | 5 | 3.5 3 |
+|
+I0.1                                           '
+=1 treble 1b cro c cro. c qua Bn, min c cro eb(1
+|
+=1 min e)1 cro eb d b a
+|
+=1 qua e[ g f a g b] cro e f c(1
+/
+3 bars | 3.3 3.6 | 5 | 4 ||
+|
+=1 treble 1b qua c)1[ c A, B,(1 B,)1 B,] db[ c Bb, c A, Bb,]
+|
+=1 cro c d B G A <F B'>
+|
+=1 min. <F A> cro rest rest
+@

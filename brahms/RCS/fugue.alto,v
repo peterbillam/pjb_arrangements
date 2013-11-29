@@ -1,0 +1,331 @@
+head	1.8;
+access;
+symbols;
+locks
+	pjb:1.8;
+comment	@# @;
+
+
+1.8
+date	96.09.07.14.21.09;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	96.09.07.14.19.18;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	96.09.06.01.59.45;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	96.09.06.01.57.20;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	96.09.06.01.48.33;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	96.09.05.16.21.46;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	96.09.05.16.14.52;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	96.07.28.06.42.44;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Brahms Ab minor Fugue, Alto part
+@
+
+
+1.8
+log
+@=2 -> =1
+@
+text
+@10 systems /24/24/24/24/24/24/24/24/24/24/
+/
+4 bars | 4 | 3.6 | .8 1.2 .9 1.1 | .5 .5 .5 .5 .7 .7 .5 .5 |
+|
+b1.1 Johannes Brahms
+=1 treble 8/4 smb rest rest
+|
+bl1.1            Fugue in Ab minor
+=1 smb rest rest
+|
+=1 min rest cro rest c# d a rest d#
+|
+b1.1                    Alto Recorder
+=1 cro e b rest f e f# min g#
+/
+3 bars | .5 .5 .5 .5 .5 .5 .5 .5 | .5 .5 .5 .5 .6 .6 .6 .5 | .7 .6 .5 .5 .8 .6 .5 .5 |
+|
+il0.25          5
+=1 treble min a min. f# cro g min e
+|
+=1 cro e f min B qua B c cro B c# d#
+|
+i0.15          3
+=1 cro3 e f# g min a qua a bb cro a min bn
+/
+3 bars | .75 .55 .55 .6 .5 .5 .5 .5 | .7 .7 .6 .5 .5 .6 .7 .5 | .5 .5 .5 .5 .5 .5 .4 .5 |
+|
+=1 treble qua b c~ min b cro g# min a d~
+|
+=1 qua d~ c~ e~ c~ cro b min a cro g qua bb a cro g
+|
+il0.3  10
+=1 cro g f d f min e a
+/
+3 bars | 5 | 4 | .7 .45 .55 .55 .5 .45 .5 .45 |
+|
+=1 treble cro f a min g cro b c~ g a
+|
+=1 cro g# a min f# cro d# e min c
+|
+=1 cro B    min e   qua e  rest cro rest min d# cro dn
+/
+4 bars | 2.6 2.3 | 1.8 1.7 | .4 .4 .6 .4 .4 .5 .7 .5 | .45 .45 .45 .45 .5 .5 .6 .5 |
+|
+=1 treble cro rest min c# cro cn rest min. e
+|
+il0.3  15
+=1 min d cro c rest rest min e cro d
+|
+=1 min e rest cro rest b a g#
+|
+=1 smb f# cro f# d e f#
+/
+4 bars | 5 7 5 5 7 8 5 5 | 5 5 5 5 6 6 6 5 | 5 5 5 5 5 5 4 4 | 5 7 5 7 5 5 5 5 |
+|
+=1 treble cro e B min. e cro e f# g
+|
+=1 min. a cro b c~ c~ d~ e~
+|
+il0.4     20
+=1 min a g smb f#
+|
+=1 cro f# f min d# cro e rest min rest
+/
+3 bars | 1.12 1.12 1.12 1 | .9 1 1 1 | .5 .5 .5 .5 .5 .5 .8 .5 |
+|
+=1 treble min rest cro rest f~ e~ a rest e~b
+|
+=1 cro d~ g rest c~# d~ c~n min b
+|
+=1 min a qua bb a cro g min f (min f#, qua c~') bn' cro a'
+/
+3 bars | 2.5 2 | 4 | 4 |
+|
+il0.25          25
+=1 treble min g# rest smb rest
+|
+=1 min rest min. f# cro e min b
+|
+=1 cro b a f e min eb d
+/
+2 bars | 42 | 5 5 5 5 5 5 4 4 4 4 |
+|
+=1 treble qua rest g f e f g cro a qua rest a g f g a cro b
+|
+=1 qua rest b c~ d~ c~ b a g min f# fn
+/
+2 bars | 5 | 4 |
+|
+il0.25      30
+=1 treble cro f B c e~b d~ g rest c~#
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                            This page may be freely photocopied and redistributed.
+|
+=1 cro c~n f rest b c~ bb min ab
+
+11 systems /24/24/24/24/24/24/24/24/24/24/24/
+/
+2 bars | 5.5 5.5 6.5 5.5 5.5 5 6.5 4.5 | 5 5 5 4 5 5 5 5 |
+|
+is1.1 Johannes Brahms, Fugue in Ab minor, arranged for SATB recorders and Viola de Gamba
+=1 treble qua g e~b d~ c~ d~ ab f ab rest ab g f g an cro bb
+|
+b1.1                                                 Alto Recorder
+=1 qua rest bb a g a bn cro c~ qua rest b c~ d~ b g a c
+/
+2 bars | 6.5 6.5 7.5 7.5 5.5 5 5.5 5 | 5 5 5 5 5 5 5 5 |
+|
+=1 treble qua c B, d ab g f# a eb cro d g rest c~#
+|
+il0.25        35
+=1 cro c~n f rest b c~ bb min ab
+/
+2 bars | 1.1 1.1 1.3 1.1 | 1 0.8 1.1 0.9 |
+|
+=1 treble cro g rest qua rest ab g f g an cro bb qua rest bb ab g
+|
+=1 qua a b cro c~ min rest qua rest f g e cro a d~
+/
+2 bars | 11 11 13 10 | 7 5 4 4 4 4 7 6 |
+|
+=1 treble cro c~ f# qua g d e c# d e cro f# qua rest A, d B
+|
+=1 qua c d cro e min rest rest qua rest g bb a
+/
+3 bars | 2.5 2.2 | 2.2 | 1.9 |
+|
+il0.4           40
+=1 treble qua c~ bb a g f# g cro a g rest min rest
+|
+=1 smb rest rest
+|
+=1 smb rest rest
+/
+3 bars | 40 | 36 | 5 5 5 5 5 5 8.5 6.5 |
+|
+=1 treble smb rest rest
+|
+=1 smb rest rest
+|
+il0.25      45
+=1 min rest d d~ qua d~ b g# f
+/
+2 bars | 45 | 30 |
+|
+=1 treble qua e A, rest eb d G, rest c# d cn cro B A rest
+|
+=1 smb rest min rest cro rest a
+/
+2 bars | 5.5 5.5 5.5 7.5 7.5 6 6 6 | 7 5 5 5 4 4 4 4 |
+|
+=1 treble cro a g# a qua rest c# d# a rest f# fn b rest fn
+|
+=1 qua e f# cro g f fn min e e
+/
+3 bars | 7 7 8 6 6 6 5 5 | 6 6 5 5 5 5 5 5 | 4.5 4.5 4.5 4.5 4 4 4 4 |
+|
+il0.25         50
+=1 treble cro e cro. d qua c# min B min. A
+|
+=1 cro G B min d smb a
+|
+=1 min g# rest smb e
+/
+3 bars | .7 .9 1.1 .8 | .9 1.1 .75 .9 | .5 .5 .5 .5 .5 .5 .5 .5 |
+|
+=1 treble min e e cro d f# min e
+|
+=1 min e cro a min. b cro rest d~b
+|
+il0.45          55
+=1 cro c~ a g e~ d~ b a f~
+/
+3 bars | 7 6 5 5 5 5 5 5 | 5 5 5 6 7 8 10 10 | 6 5 5 5 5 5 5 5 ||
+|
+=1 treble cro e~ c~# min b c~n d~
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                            This page may be freely photocopied and redistributed.
+|
+=1 min. e~ cro c~# d~ qua c~ a a a g# f#
+|
+=1 cro fn min. e min d c
+@
+
+
+1.7
+log
+@divisi in 24
+@
+text
+@d71 1
+a71 1
+=2 min a qua bb a cro g min f (min f#, qua c~') bn' cro a'
+@
+
+
+1.6
+log
+@teeny bit more spacing
+@
+text
+@d65 1
+a65 1
+3 bars | 4.5 | 4 | 4 |
+d71 1
+a71 1
+=1 min a qua bb a cro g min f f#
+@
+
+
+1.5
+log
+@spacing of footer
+@
+text
+@d92 1
+a92 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                          This page may be freely photocopied and redistributed.
+d176 1
+a176 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                          This page may be freely photocopied and redistributed.
+@
+
+
+1.4
+log
+@simplify copyright footer
+@
+text
+@d92 1
+a92 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                This page may be freely photocopied and redistributed.
+d176 1
+a176 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                                This page may be freely photocopied and redistributed.
+@
+
+
+1.3
+log
+@less spacing in footer
+@
+text
+@d92 1
+a92 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                  This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d176 1
+a176 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                  This page may be freely photocopied and redistributed, provided it is not resold for profit.
+@
+
+
+1.2
+log
+@added Billa
+@
+text
+@d92 1
+a92 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+d176 1
+a176 1
+is0.9 Arranged and Typeset 1996 by Peter J Billam.                                      This page may be freely photocopied and redistributed, provided it is not resold for profit.
+@
+
+
+1.1
+log
+@fn in bar 48, "bar 35" shifted from 34
+@
+text
+@d92 1
+d176 1
+@

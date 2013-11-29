@@ -1,0 +1,51 @@
+19980710 101123 songs+gtr pjb Schubert songs transcribed for guitar
+19980710 101453 Makefile pjb Makefile for Schubert songs
+19980716 080044 songs+gtr pjb added bars 4..7
+19980723 125248 songs+gtr pjb added up to Die Gruenen Baeume
+19980730 132149 songs+gtr pjb added up to Rasengruft
+19980805 085045 songs+gtr pjb filled to end, and shifted one bar along
+19980805 085333 songs+gtr pjb minor spacing on first page
+19980805 125721 songs+gtr pjb started Fischerweise
+19980805 140632 songs+gtr pjb all of first page of Fischerweise
+19980806 085029 songs+gtr pjb added next page of Fischerweise
+19980806 130926 songs+gtr pjb added up to Hirtin
+19980806 144809 songs+gtr pjb added to end, needs squeezing by 9 bars
+19980807 124031 songs+gtr pjb start Nacht und Traeume
+19980807 181402 songs+gtr pjb straightened out spcing on first page
+19980810 135924 songs+gtr pjb add up to Raeume
+19980810 142911 songs+gtr pjb added last six bars
+19980811 102404 songs+gtr pjb remainder opf Nacht und Traeume
+19980812 105802 songs+gtr pjb spacing, bugs in Fischerweise, start An die Laute
+19980812 172624 songs+gtr pjb remainder of notes of An die Laute
+19980813 110639 songs+gtr pjb beginnings of fingering for Laute
+19980813 142314 songs+gtr pjb add words of first half of Laute
+19980814 090954 songs+gtr pjb remainder of fingering for first half of Laute
+19980814 125116 songs+gtr pjb some of words on 2nd page of Laute
+19980814 155943 songs+gtr pjb remainder of fingering of Laute
+19980817 084016 songs+gtr pjb spacing at bottom of second page for testing muscript
+19980817 103632 songs+gtr pjb Fischer stretched to 4 bars per line
+19980819 104050 songs+gtr pjb shifted bars along, added fingering
+19980819 111100 Makefile pjb includes title, p2, samples
+19980819 111628 title pjb title page of schubertsongs
+19980819 111837 p2 pjb p2 of Schubert songs
+19980819 112329 title pjb added by
+19980819 144509 make_samples pjb perl script to extract sample pages from Schubert Songs
+19980819 150614 make_samples pjb various bugs fixed, now works
+19980819 150720 songs+gtr pjb more graceful spacing in NachtUndTr sys 2
+19980819 151908 songs+gtr pjb shift systems in Fischerweise
+19980819 152021 Makefile pjb samples after .us too
+19980819 153329 songs+gtr pjb lots of spacing in last three pages
+19980820 104911 p2 pjb fill out text to mention keys, capos
+19980820 105049 title pjb Schlecta -> Schlechta
+19980820 105844 songs+gtr pjb Schlechta, smq in Nachtstuck lispeln
+19980820 111631 songs+gtr pjb fingering spacing in Laute, no space before .
+19980820 114933 p2 pjb mood of each song, mention Franz Anderegg
+19980820 115824 songs+gtr pjb minor spacing in dynamics in Nachtstuck
+19980917 103921 songs+gtr pjb ISO charset for accents as per muscript 1.7
+19980917 110113 songs+gtr pjb spacing readjusted for muscript1.7
+19980917 111622 songs+gtr pjb fine spacing adjustments in Nacht und Traeume
+19980917 113030 songs+gtr pjb other fine spacing adjusts
+19980917 114116 songs+gtr pjb tiny adjusts
+20060406 213017 schubertsongs pjb Schubert Songs, for voice and guitar
+20060407 204437 schubertsongs pjb Nacht und Traume spacing & updated syntax
+20060408 104407 schubertsongs pjb misprints and syntax in An die Laute

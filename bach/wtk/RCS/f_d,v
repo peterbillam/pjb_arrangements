@@ -1,0 +1,290 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.11.27.03.19.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Fugue in d minor
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+6 systems 10 /18-38-16/18-35-18 3/18-35-18 5/18-35-18 5/18-35-18 5/18-38-18/
+pagenum
+innerhead Book 1, Well-Tempered Clavier, J. S. Bach
+title Fugue VI in d minor
+/
+4 bars | 1b 3/4 6 6 6 6 6 5 | 4 6 4 4 3 2 3 2 3 2 2 2 \
+ | 3 2 3 3 4 4 4 4 4 4 4 3 | 4 6 4 4 6 4 4 4 4 6 4 3 |
+| 3.0
+b0.7 .10 a 3 Voci
+=1' treble 1b 3/4 cha0 leg100 8 rest [D E F G E]
+=1,        1b 3/4 2 blank 2. rest,,
+I0.3 .25 p
+i0.3 .35 legato
+=2' bass   1b 3/4 cha1 leg100 2 blank 2. rest
+|
+#P=1' 16 [F D C# D] 4 B-s4 G-tr
+#M=1' 16 [F D C# D] 4 B 32-s vol-10 leg140 [A G A G A G F G] leg100 vol+10
+=1, 2 blank 2. rest,,
+=2' 2 blank 2. rest
+|
+=1' 4 A(1 16 [A)1 G F-s1 E-s2] [G-s4 F E D]
+=1, 8 rest,, [A_-s4, B_n Cn D B_]
+=2' 2 blank 2. rest
+|
+=1' 8 [E c(1] 16 [c)1 Bn-s4 A B] [B-s4 A G# A]
+#P=1, 16 [C A_ G_# A_] 4 F-s1, D-tr,
+#M =1, 16 [C A_ G_# A_] 4 F 32-s vol-10 leg150 [E D E D E D C D] leg100 vol+10
+=2' 2 blank 2. rest
+/
+3 bars | 1b 5 5 4 4 4 5 5 4 4 4 4 3 \
+ | 3 3 3 3 5 5 4 4 4 4 4 3 | 4 5 4 4 4 4 4 4 4 5 4 3 |
+|
+il0.8 .01 5
+#P=1' 16 [A-s3 Gn F# G] 4 e G-s2
+#M=1' 16 [A Gn F# G] 4 e 16-s [G 32-s vol-10 leg150 A G A G Fn G] leg100 vol+10
+=1, 4 E(2 16 [E)2 D-s1, C# B_n] [D C B_ A_]
+=2' 2 blank 2. rest
+|
+=1' 8 [F-s1 d(2-s5] 16 [d)2 cn Bb A] [c-s5 B A G]
+=1, 4 D-s1, rest,, rest,,
+=2, 8 rest [d-s4, e f g e]
+|
+=1' 4 A-s5 2 Gr(1-s"    4-5"
+=1, 8 rest,, F(2-s3 16 [F)2 E D E-s2] [E-s2 D-s1 C#-s2 D-s1]
+#P=2, 16 [f d c# d] 4 b g-tr
+#M=2, 16 [f d c# d] 4 b 32-s vol-10 leg150 [a g a g a g f g] leg100 vol+10
+/
+3 bars | 1b 3 3 3 3 4 4 4 4 4 4 4 3 \
+ | 4 5 4 5 4 4 4 4 4 5 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' 8 [G)1-s2-s5 E--s3] [F-s1-s4 G-s2-s3] [A-s1-s5 F-s1-s3]
+=1, 4 C# 8 [D E] [C# D]
+=2, 4 a(1-s1, 16 [a)1 g f e] [g f e d]
+|
+#P=1' 16 [B-s1-s5 G--s3 F#-s1-s2 G--s2] 4 eb-s2-s5 c#-s1-s"  4,3"-tr
+#M=1' 16 [B G F# G] 4 eb 32-s vol-10 leg150 [d c# d c d c Bn c] leg100 vol+10
+=1, 8 [Eb D] 4 G Enl
+=2, 8 [g-s1, b(1-s2,] 16 [b)1 a g a] [a-s2, g fn g]
+|
+il0.7 .17 10
+#P=1' 4 d-s5 d-s2-s5 Bn-s"  4,3"-tr
+#M=1' 4 d d 32-s vol-10 leg150 [c Bn c B c B A B] leg100 vol+10
+=1, 16 rest, [A-s3 G A] 4 F D
+=2, 16 [g-s2, f e f] [a g f g] [g-s1, f-s3, e f]
+/
+4 bars | 1b 4 4 4 6 4 6 4 4 4 4 4 3 | 4 6 4 4 3 2 3 3 3 2 3 2 \
+ | 3 2 3 3 4 4 6 4 4 4 4 3 | 4 6 4 4 3 3 3 3 3 2 3 2 |
+|
+#P=1' 4 cn c A-s1-s"  4,3"-tr
+#M=1' 4 cn c 32-s vol-10 leg150 [B A B A B A G A] leg100 vol+10
+=1, 16 rest, [G F G] 4 Eb C
+=2, 16 [f-s2, e d e] [g f eb f] [f-s1, e d e]
+|
+=1' 2. Bb(1-s4
+=1, 8 rest,, [A-s3 G-s1 F-s2 En-s1 G-s2]
+#P=2, 16 [eb-s3, d c# d] 4 b g-tr
+#M =2, 16 [eb d c# d] 4 b 32-s vol-10 leg150 [a g a g a g f g] leg100 vol+10
+|
+=1' 8 [B)1-s1-s4 A--s2] [Bn-s1-s3 c#-s1-s4] 8 [d-s5 B-s3]
+=1, 4 C# 8 [D E] 4 A_
+=2, 4 a(1 16 [a)1 g f en] [g-s1,-s2, f-s3, e-s4, d-s5,]
+|
+#P=1' 16 [c#-s5 A--s3 G#-s1-s2 A--s2] 4 f-s5 d-s"  3,2"-tr
+#M=1' 16 [c# A G# A] 4 f 32-s vol-10 leg150 [e d e d e d c d] leg100 vol+10
+=1, 8 rest,, E [D C#] [B_n D]
+=2, 8 [e-s3, c#-s5,] [d-s1,-s5, e-s1,-s4,] [f-s1,-s3, d-s1,-s5,]
+/
+3 bars | 1b 4 4 4 4 4 5 4 4 4 4 4 3 \
+ | 4 5 4 6 4 5 5 4 5 5 5 3 | 4 5 4 4 4 4 4 4 4 5 4 3 |
+|
+il0.7   15
+=1' 8 [e a(1] 16 [a)1 g f# e] [g f e d]
+=1, 16 [C# E-s1, F-s2, E-s1,] 4 A_ Cn
+=2, 4 a-s3,-s5, 8 [f#-s2,-s3, e-s4,] [d-s1,-s5, f#-s3,]
+|
+=1, 16 [eb c~ 8 b] 16 rest' [a-s4 g# f#] [a g f en]
+=2' 16 [b d~-s1, e~b-s2, d~-s1,] 4 bn e~n(1
+=2, 4 g-s2,-s5, 8 [g#l-s2,-s5, f#-s4,] [e g#]
+|
+=1  16 [d-s3 c Bn c] [c-s3 B A, B] [B'-s4 A-s3 G#-s2 A-s1]
+=2' 8 e~)1 rest'' 4 rest'' rest''
+=2, 8 [a A] [Bn-s3, c] [d B]
+/
+3 bars | 1b 4 5 4 4 4 4 4 4 4 4 4 3 \
+ | 4 5 4 4 4 4 4 4 4 5 4 3 | 3 3 3 3 5 4 4 4 5 4 5 3 |
+|
+=1' 4 Gn(1-s5 16 [G)1-s1-s5 F--s4 E-s2-s3 F--s4] [F-s1-s5 E--s3 D-s1-s2 A-s5]
+=1, 8 rest,, [A_-s2 B_n C# D B_]
+#P=2 16 [c#-s2, A-s4, G# A] 4 f d-s"  2,3"-tr,
+#M=2 16 [c# A G# A] 4 f 32-s vol-10 leg150 [e d e d e d c d] leg100 vol+10
+|
+=1' 2. A(1-s2-s5
+#P=1, 16 [Cn A_-s1, G_# A_] 4 F-s4 D-s"  3,2"-tr
+#M=1, 16 [Cn A_ G_# A_] 4 F 32-s vol-10 leg150 [E D E D E D C D] leg100 vol+10
+=2, 8 [e-s4, f-s2,-s3,] 16 [e-s2, d c d] [d-s2, c Bn c]
+|
+il0.8 .13 20
+=1' 4 A)1(1-s1-s5 16 [A)1-s1 d#-s4 e A] [c Bn A G#-s3]
+=1, 8 [E F-s2] 2 blank
+#P=2' 4 blank 2 bn-tr
+#M=2' 4 blank 8-s [c~(1 32-s vol-10 leg150 c~)1 bn c~ b] [c~ b a b(2 8 b)2] leg100 vol+10
+=2, 8 [c-s5, d-s4,] [e-s"  1,2",-s5, d-s5,] 4 e-s5,
+
+6 systems /18-30-16/18-35-18 3/18-35-18 5/18-35-18 5/18-35-18 5/18-38-18/
+pagenum
+innerhead Fugue VI in d minor, Book 1, Well-Tempered Clavier, J. S. Bach
+/
+4 bars | 1b 3 2 3 3 6 4 4 4 4 4 4 3 | 4 6 4 4 3 3 3 3 3 2 3 2 \
+ | 4 4 4 5 3 2 3 3 3 2 3 2 | 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' 4 A(2-s4 16 [A)2 Gn F E] [G F E-s1 D-s2]
+#P=2' 4 a rest'' rest''
+=2, 8 [a A] [Bn c#] [d B]
+|
+=1  8 [E-s1 e'] [d c#] [Bn d]
+=2' 43 blank 2. rest''
+#P=2, 16 [c#-s2, A G# A] 4 f d-tr-s"  2,3",
+#M=2, 16 [c# A G# A] 4 f 32-s vol-10 leg150 [e d e d e d c d] leg100 vol+10
+|
+#P=1 16 [c#-s2 e f e] 4 Gn Bb(1-s"  3,2"-tr
+#M=1 16 [c# e f e] 4 Gn 32-s vol-10 leg150 [Bb cn Bb c B c B A] leg100 vol+10
+=2' 4 blank 2. rest''
+=2, 8 [a f] [e d] [c# e]
+|
+#P=1' 16 [B)1 A G A-s1] [A-s3 G F G] [G-s3 F E F]
+#M=1' 16 [B A G A-s1] [A-s3 G F G] [G-s3 F E F]
+=2' 4. blank 2. rest''
+#P=2, 16 [d f g f] 4 A c#-tr
+#M=2, 16 [d f g f] 4 A 32-s vol-10 leg150 [Bn c# d c d c B c] leg100 vol+10
+/
+4 bars | 3 2 4 3 4 6 4 4 4 4 4 3 | 4 4 4 4 6 4 4 4 6 4 4 3 \
+ | 3 2 3 2 4 6 6 4 4 4 4 3 | 4 4 4 5 3 2 3 2 3 2 3 2 |
+|
+il0.7 .01 25
+rs0.2 .22 1
+=1' 4 F(2-s3 16 [F)2 E F# G] [F-s2 G A G]
+=2' 8 rest'' [d~ c~n-s1, b-s2, a-s3, c~-s1,]
+=2, 2. d-s"   1-5",
+|
+=1  16 [G-s2 A B' A] [A-s2 Bn' c' B'] [B--s2 c# d c]
+=2' 4 b-s2, 2 d~
+=2, 8 rest. [g-s4, f#-s1,-s3, e-s4, d-s5, fn-s3,]
+|
+=1, 8 [c#-s2 a] [g f] [e g]
+=2' 4 g rest'' rest''
+=2, 4 e(2-s2,-s4, 16 [e)2 d-s1, c#-s2, Bn] [d c B A]
+|
+=1 16 [f-s2 a b a] 4 c#' e'(1
+=1, 8 rest,, [D-s1, E-s3, F-s2, G-s1, E-s3,]
+=2, 4 d-s"   1-5", rest rest
+/
+4 bars | 1b 4 6 4 4 3 2 3 2 3 2 3 2 | 4 4 4 6 4 4 4 4 4 4 4 3 \
+ | 4 5.7 4 4 4 4 4 4 4 4 4 3 | 5.5 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1' 8 [e)1 A-s1] 4 d-s3-s5 cn(1-s2-s5
+#P=1, 16 [F-s2, D-s1, C# D] 4 B G-tr,
+#M=1, 16 [F D C# D] 4 B 32-s vol-10 leg150 [A G A G A G F G] leg100 vol+10
+=2, 8 rest [a-s2,-s4, g-s3, f e-s5, g-s2,]
+|
+il1.0 .35 30
+=1' 8 [c)1-s1-s5 eb(1-s4] 16 [e)1 d c d] [d-s4 c B c]
+=1, 4 A 2 blank
+=2' 4 blank f# a
+=2, 16 [f#-s3, a-s1, b-s2, a-s1,] 4 d-s2,-s4, f-s1,-s2,
+|
+=1, 16 [c-s3 B A-s1 B-s3] [d-s5 c B c] [c-s4 B A B]
+=2' 16 rest' [g f# g] 4 e g
+=2, G c-s2,-s4, e-s2,-s1,
+|
+=1' 16 [B-s3 A G-s1 A-s3] [c-s5 B A B] [B-s4 A G A]
+=2' 16 rest' [fn e f] 4 d f
+=2, Fn B, d
+/
+4 bars | 1b 8 8 6 6 6 5 | 3 2 3 2 5.5 4 4 4 4 4 4 3 \
+ | 4 5.7 4 4 4 4 3 2 3 3 3 2 | 4 5.5 4 3 4 4 4 4 4 4 4 3 |
+|
+#P=1 16 [A-s3 G F G-s1] 4 e c#-tr
+#M=1 16 [A G F G] 4 e 32-s vol-10 leg160 [d c# d c d c Bn c] vol+10 leg100
+=2' 8 rest'' [f-s3, g-s1, a-s2, b-s1, g-s3,]
+=2, 2. e-s4,
+|
+=1 4 d(1 16 [d')1 cn' B' A'] [c'-s4 B' A G]
+=2' 8 [a f] [g a] 4 g
+#P=2, 8 [f-s1,-s3, d] [e f#] [g-s2, e-s4,]
+#M=2, 8 [f-s1,-s3, d] [e f#] rest e-s4,
+|
+il0.7 .22 35
+=1' 8 leg60 [A-s4 leg100 F#] [G-s1 A] [B G]
+=2' 8 rest'' [a gr fn-s3,] [er-s4, g]
+#P=2, 16 [f#-s2, d-s4, c#-s1,-s5, d-s4,] 4 b-s1,-s2, g--tr
+#M=2, 16 [f# d c# d] 4 b 32-s vol-10 leg160 [a g a g a g f# g] vol+10 leg100
+|
+=1, 16 [A c 8 eb(1] 16 [e)1 d c B] [d c B A]
+=2' 8 [f#rl b] [a g] [f a]
+=2, 8 [a-s1,-s3, g-s2,-s4,] [f#-s1,-s3, e] [d f]
+/
+4 bars | 1b 4 4 4 4 6 4 6 4 4 4 6 3 | 4 6 4 3 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 6 4 3 | 4 6 4 4 4 6 4 4 4 4 4 3 |
+|
+=1, 16 [B d 8 f(1] 16 [f)1 en d c#] [e d c Bn]
+=2' 8 [g c~] [bn a] [g# b]
+=2, 8 [G a-s1,-s2,] [g#l-s1,-s3, f#] [e g]
+|
+=1, 16 [c# e-s1 8 bb(1] 16 [b)1 a g f] [a g f e]
+=2' 8 [a f~] [e~ d~] [c~# e~]
+=2, 8 [A d~-s1,-s2,] [c~#-s1,-s3, bn] [a c~]
+|
+=1, 16 [g-s4 f e f] [f-s4 e d e] [e-s4 d c# d]
+#P=2' 8 d~ rest'' 4 rest'' rest''
+=2, 8 d~ [d e f g e]
+|
+il1.1 .20 40
+=1' 4 cn(1-s"   1-5" 16 [c)1-s1-s5 B--s4 A-s2-s3 B--s4] \
+ [B-s1-s5 A--s3 G-s1-s3 d--s5]
+=1, 8 rest,, [D--s1 E F# G E]
+#P=2, 16 [f# d c# d] 4 b g-tr
+#M=2, 16 [f# d c# d] 4 b 32-s vol-10 leg160 [a g a g a g f# g] vol+10 leg100
+/
+4 bars | 1b 4 6 4 4 4 4 4 4 4 4 4 3 | 3 3 3 3 6 4 4 4 4 4 6 3 \
+ | 7 6 7 6 7 6 | 17 ||
+|
+=1' 2. d(1-s2-s5
+#P=1, 16 [Fn D-s1, C# D-s1,] 4 B--s4 G--s"  3,2"-tr
+#M=1, 16 [Fn D C# D] 4 B-s4 32-s vol-10 leg160 [A G A G A G F G] vol+10 leg100
+=2, 8 [a-s4, b-s2,-s3,] 16 [a-s3, g f g] [g-s2, f e f]
+| 1.0 1.05 1.1
+=1' 4 d)1(1-s1-s5 16 [d)1-s1 g# a d] [f-s3 e d c#-s4]
+#P=1, 8 [A B--s2] 2 E-tr,
+#M=1, 8 [A B] 8-s vol-10 leg160 [E(2 163-s E)2 F E 32-s F E F E(2 8-s E)2] vol+10 leg100
+=2, 8 [f-s5, g-s4,] [a-s"  1,2",-s5, g-s3,] 4 a-s3,
+| .6 .63 .65 .68 .71 .79
+=1' leg120 2 d(1-s5 8 [d)1-s1-s2 c#-s2-s3-s4]
+=1, 8 rest, [<A cn--s2-s4> vol-4 <G B--s1-s3> \
+ vol-4 <F# A--s2-s3> vol-4 <E G> vol-4 <Gr B>]
+=2, 2. d
+=2' leg120 8 rest'' [<d-s3,-s5, f#> vol-4 <e-s1,-s4, g> \
+ vol-4 <f-s2,-s3, a> vol-4 <g-s1,-s3, b> vol-4 <e-s2,-s4, g>]
+|
+=1' 2. d-s1-s3-s5
+=1, 2. <F# A>
+=2' 2. <f# a>
+=2, 2. d
+midi pause 2.0
+
+@

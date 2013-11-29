@@ -1,0 +1,765 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2;
+comment	@# @;
+
+
+1.2
+date	2006.01.08.09.08.11;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2006.01.02.10.15.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Fuga Canonica in Epidiapente
+@
+
+
+1.2
+log
+@fingering fastidiously revised
+@
+text
+@5 systems /19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/
+lefthead J. S. Bach
+title Fuga Canonica in Epidiapente
+righthead Musikalisches Opfer
+leftfoot transcribed 1998 Peter Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+4 bars | 1 1 1 1.2 | .9 .9 .9 .8 \
+ | .9 .9 .9 1.2 | .45 .45 .45 .6 .45 .45 .45 .45 |
+| 2/2 1.7
+=1 treble 3b 2/2 channel1 smb rest
+=2 treble 3b 2/2 channel2 min C E-s2
+=3 bass   3b 2/2 channel2 min rest cro rest qua [c-s4, d']
+|
+=1 smb rest
+=2 min G-s4 A
+=3, qua [e c d e] [f c] cro f(1
+|
+=1 smb rest
+=2 min B_n cro rest G-s4
+=3 qua [f)1 a-s2, g-s1, f] [e' d'-s1, c-s3, Bb]
+|
+=1 smb rest
+=2 min F# Fn
+=3 qua [An e'-s2, d'-s1, c] [Bn G A B]
+/
+4 bars | 3b 1 1 1 1 1.2 1.2 1 1| 1 1 1.2 1 .9 .8 .9 .8| 1 1.2 1.2 1.2 1 1 1.2 1| 7|
+|
+il0.4     5
+=1 smb rest
+=2 min En Eb(2
+=3 qua [c G c d'] [c Bb Ab G-s1,]
+|
+=1 smb rest
+=2 cro E)2 D Db C
+=3 qua [F-s5, c f' en'] min f(1
+|
+=1 smb rest
+=2 cro B_n qua [A_n-s2 G_] cro C-s2 F
+=3 qua [f)1 d, eb f] [e' d' c Bn]
+|
+=1 smb rest
+=2 min E-s3 D-tr
+=3 cro c-s1, A F G-s1,
+/
+4 bars | 4.6 | 4 | 4 | .5 .6 .5 .5 .5 .5 .5 .5 |
+|
+=1 smb rest
+=2 qua [C G-s2 c'-s3 d'] [e B,-s4 A, G,]
+=3 min C cro rest c
+|
+il0.4  10
+=1 smb rest
+=2, qua [F B-s2 d-s3 e] [f c-s4 B A]
+=3 min d cro rest D
+|
+=1 min G B'
+=2, qua [G B-s2 e-s3 f] min g(1
+=3 min E qua rest [e-s2, d,-s1, c,]
+|
+=1 min d e
+=2 cro g)1 min G cro c(1-s5
+=3' qua [B G An B] [c d e-s2, c-s4,]
+/
+4 bars | 1.15 1.25 1.2 1.15 | 1 1 1 1.1 | 3.7 | 1 1.1 1 1 |
+|
+=1 min F# cro rest d
+=2 cro c)1 qua B'[ An] min B,(1
+=3 cro d' D qua rest [d,-s1, en-s3, f,]
+|
+=1 min c# cn
+=2 cro B,)1 qua [An' G] cro A Ab(2
+=3, qua [en g f e] [f c-s4, d eb]
+|
+il0.4      15
+=1 min Bn, Bb,(1
+=2 cro A)2 D G-s5 F
+=3 qua d,[ e f d,] e'[ B c d']
+|
+=1 cro B,)1 An Ab G
+=2 qua [En D C-s1 D] Eb[ D E C]
+=3 qua [c, g-s1, c~ bn-s2,] min c~(1
+/
+4 bars | 3b 1.2 1.2 1 1 1 1 1.2 1| 1.2 1 1 1 1 1 1 1| 1 1 1.2 1 1 1 1 1| 1 1.2 1 1 1 1 1 1|
+|
+is0.2 .25 ossia
+=1' cro-s blank d blank blank
+=1 cro F# qua [En, D,] cro G c
+=2 min D rest
+=3 qua [c~)1 an bb c~] [b a g f#]
+|
+=1 min B An-tr
+=2 smb rest
+=3 qua [g-s1, fn e d,] [c e' d'-s1, c]
+|
+=1 qua G,[ d g an] b[ f e d]
+=2 cro rest B_ min E(2
+=3 cro B G rest g
+|
+il0.5   20
+=1 qua c[ f an b] c~[ g f e]
+=2 cro E)2 C min F(2
+=3 min an cro rest An
+
+5 systems /19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/
+pagenum 5
+innerhead Fuga Canonica in Epidiapente, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+3 bars | 2.3 2.5 | 2.3 2 | .5 .5 .55 .5 .5 .5 .5 .5 |
+|
+=1 qua [d f b c~] min d~(1
+=2 cro F)2 D qua G[ F# G-s1 An-s3]
+=3 min B cro rest qua [b-s2, an-s1,]
+|
+=1 cro d~)1 min d cro g(1
+=2 qua [B, An, B, c] [B' Ab G B']
+=3, qua [g f# g an] [g fn e d-s1,]
+|
+=1 cro g)1 qua f[ en] min f(1
+=2 qua A[ G A B'] A[ G F A]
+=3 min c-s4, d'
+/
+4 bars | 3b 8| 1 1 1 1 1 1.2 1.2 1| 1.2 1 1 1.2 1 1 1 1| 1 1.2 1 1 1 1 1 1|
+|
+=1 cro f)1 qua en[ d] cro e eb(1
+=2 qua G[ F G A] G[ B' A G]
+=3 min Bn cro c c~
+|
+il0.3    25
+=1 cro e)1 An d c
+=2 min F f(1
+=3 qua [d~-s3, c~ d~ e~] [d~ c~-s1, bn an]
+|
+=1 qua Bn'[ An G A] Bb'[ A B' G]
+=2 cro f)1 qua en[ d] min e-tr
+=3 cro g min c~ cro c
+|
+=1 min An rest
+=2 qua [f c An,-s1 G,-s2] [F B'-s2 c' d']
+=3, cro f-s2, eb min d-s1,
+/
+4 bars | 3b 1 1 1 1 1.2 1 1 1| 1 1 1.2 1 1 1 1 1| 1 1 1 1 1.2 1 1 1| 1 1.2 1 1 1.2 1 1.2 1|
+|
+=1 smb rest
+=2' qua [e B G-s1, F-s2,] [E An-s2, B c]
+=3 min db'-s3, c
+|
+=1 cro rest F min B,(1
+=2 min db(1 qua [d)1 c B, d]
+=3, qua [B f b ab] cro g-s1, f
+|
+il0.4        30
+=1 cro B,)1 G min c(1
+=2 min c,(1 qua c)1[ An, B, c]
+=3 qua en[ d, e g] cro f eb
+|
+=1 cro c)1 An qua d[ c# d en]
+=2 qua F[ G An F] min B'(2
+=3 qua d,[ e f e] cro d, g
+/
+3 bars | 4.6 | 4 | 4 |
+|
+=1 qua f[ en f g] f[ eb d f]
+=2 cro B')2 qua An[ G] cro A Ab(2
+=3 min f cro rest B
+|
+=1 qua [e d e f] e[ d c e]
+=2 cro A)2 qua [G-s4, F] cro G Gb
+=3 min e cro rest E
+|
+=1 qua d[ c d e] d[ f e d]
+=2 qua F[ E F Gb] F[ A Gn F]
+=3 cro B qua b[ an] min b(1
+/
+4 bars | 3b 8|1 1 1.2 1 1 1 1 1| 1 1.2 1 1 1 1 1.2 1| 1 1 1 1 1.2 1 1 1|
+|
+il0.4      35
+=1 min c c~(1
+=2 cro c C min rest
+=3 cro b)1 qua [ab g] [a g-s1, f e]
+|
+=1 cro c~)1 qua [bn an] min b-tr
+=2 smb rest
+=3 qua d,[ c, d, e] d,[ e f d,]
+|
+=1 qua c~[ g en d] c[ f g an]
+=2 smb rest
+=3 cro en c~ eb c
+|
+=1 qua b[ f d c] B,[ en f g]
+=2 smb rest
+=3 cro d, b db B
+
+5 systems /19 27 19-26-19/19 27 19-25-19/19 27 19-30-19/19 27 19-26-19/19 27 19-25-19/
+pagenum 6
+innerhead Fuga Canonica in Epidiapente, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 1.2 1 1 1 1 1 1 1| 1 1 1 1 1.2 1 1 1| 1 1.2 1 1 1 1 1.2 1| 8|
+|
+=1 min ab(1 qua a)1[ g f a]
+=2 min F-s1 A-s2
+=3 qua [f-s2, en f g] f[ e d, f]
+|
+il0.7  40
+=1 min g(1 qua g)1[ en f g]
+=2 min c db
+=3 qua [en f g a-s3,] min b(1
+|
+=1 qua [c d en c] min f(1
+=2 min En cro rest c-s4
+=3 qua [b)1 a g b] [a g-s1, f eb]
+|
+=1 cro f)1 qua en[ d] cro e eb(1
+=2 min Bn Bb
+=3 cro d-s1, G qua [c-s3, d' e' c]
+/
+4 bars | 3b .9 .8 1 1 1 1.2 1 1| 1.2 1 1.2 1 1 1.2 1 1| 1 1.2 1 1 1 1 1.2 1| 1 1 1 1 1.2 1 1 1|
+|
+=1 cro e)1 qua d[ c] cro d db
+=2 min An Ab(2
+=3 cro f F qua B[ c db' B]
+|
+=1 qua c[ B, c db] c[ e dn c]
+=2 cro A)2 G Gb F
+=3 qua [e dn,] cro e An-s5, B(2
+|
+il0.5         45
+=1 cro g G min rest
+=2 cro En qua [D-s2 C] cro F-s2 B'-s4
+=3 qua [B,)2 g ab-s3, b] [a g-s1, f en]
+|
+=1 smb rest
+rs.56 .52 131 . . . .88 . . 34
+=2 min A G-tr
+=3 qua [f g a-s3, b] c~[ d~b-s2, c~-s1, b]
+/
+4 bars | 3b 1 1 1 1 1 1.2 1 1| 1 1 1 1 1 1 1.2 1| 8| 8|
+|
+=1 smb rest
+=2 qua [F-s3 C F G] [A E-s4 Db C]
+=3 cro a g f a
+|
+=1 smb rest
+=2 qua [B_ E-s2 G A] B'[ F-s1 E-s3 Db]
+=3 cro g-s1, f e g
+|
+=1 min c e
+=2 qua C[ F A B'] min c(1
+=3 min A qua rest [a-s2, g-s1, f]
+|
+il0.4 .20 50
+=1 min g a
+=2 qua c')1[ C D E] [F-s1 G A F]
+=3 cro e c min rest
+/
+4 bars | 3b 8| 1 1 1.2 1 1 1.2 1 1| 1 1 1 1 1 1.2 1 1| 1 1 1.2 1 1.2 1 1.2 1|
+|
+=1 min Bn, cro rest g
+=2 qua [G A G F] [E-s3 D C E]
+=3 cro rest g min c~(1
+|
+=1 min f# fn
+=2 qua [D C] cro D(2 qua D)2[ G F G]
+=3 cro c~)1 qua bn[ an] g[ a] cro bb(1
+|
+=1 min en eb(1
+=2 qua [C-s2 B_] cro C(2 qua C)2[ F En F]
+=3 cro b)1 qua [an-s1, g] f[ g] cro ab(1
+|
+=1 cro e)1 d db c
+=2 cro B_ B'(2 qua [B')2 En F Ab-s3]
+=3 qua a)1[ g f en] min f(1
+/
+4 bars | 3b 1 1.2 1 1 1 1.2 1.2 1| 1.2 1 1 1 1 1 1 1| 1 1 1 1 1 1 1.2 1|1 1 1 1 1 1 1.2 1|
+|
+il0.4      55
+=1 cro Bn' qua An[ G] cro c f
+=2 min G(2 qua [G)2 F Eb-s3 D]
+=3 qua [f)1 d-s5, eb-s3, f-s1,] e'[ d' c Bn]
+|
+=1 min e d-tr
+=2 cro C min c-s4 cro B,(1
+=3 qua [c-s1, Bb A G-s1,] F[ E F G]
+|
+=1 qua c[ G, c d] e[ B, A, G,]
+=2 cro B,)1 A qua G,[ g f e]
+=3 min A-s3, cro rest qua rest An-s1,
+|
+=1 qua F,[ B, d e] f[ c B, A,]
+=2 qua d[ f B, c] d[ e f d]
+=3 min B-s3, cro rest qua rest Bn-s2,
+
+5 systems /19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/19 27 19-26-19/
+pagenum 7
+innerhead Fuga Canonica in Epidiapente, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+4 bars | 3b 8| 1 1.2 1 1 1.2 1 1 1| 1 1 1 1.2 1.2 1 1 1| 8|
+|
+=1 qua G,[ c e f] min g(1
+=2 cro e G qua rest [c-s2 d e]
+=3 min c e-s4,
+|
+il0.5     60
+% perhaps [g)1 G An Bn] [c d e c] (pjb)
+rs0.2 .34 ( Bn ?)
+=1, qua [g)1 G An B] [c d e c]
+=2 qua d[ f e d] c[ Bn c e]
+=3 min g ab
+|
+=1' qua [d e d c] [Bb An G B]
+=2 qua [d c d g] cro G e(1-blank-s5
+=3 min Bn cro rest g
+|
+=1 qua [An G] cro A(2 qua [A,)2 d c d]
+=2 cro e)1 qua d[ c] min d(1-s5
+=3 min f# fn
+/
+4 bars | 3b 1 1 .9 .8 1 1.2 1 1| .9 .8 .9 .8 1.2 1 1.2 1| 1 1 1 1 1 1.2 1.2 1| 1 1.2 1.2 1 1 1 1 1|
+|
+=1 qua [G F] cro G(2 qua [G)2 c' Bn' c']
+=2 cro d)1 db c G
+=3 min en eb(1
+|
+=1 cro F f(1 qua f)1[ Bn c eb]
+=2 smb A(2-s3
+=3 cro e)1 d db' c-s1,
+|
+il0.5   65
+% perhaps min d(1 qua d)1 [c Bb Ab] (pjb)
+rs0.2 .85 ( Ab ?)
+=1, min d(1 qua d)1 [c Bb An]
+=2 qua [A)2 G F G-s5] cro E Db(2
+=3 cro Bn qua [An G] cro c-s2, f
+|
+=1 cro G min g cro f(1
+=2 qua D)2[ C Dn En] [F-s1 G A B']
+=3 cro e qua d[' c] min d'
+/
+4 bars | 3b 1.7 3 2 2| 8| 1 1 1 1 1 1.2 1 1| 1 1 1 1 1.2 1 1 1|
+|
+=1 cro f)1 e qua [d d~ c~ b]
+=2 cro A(2 smq [A)2 G F G] min G-tr
+=3 cro c c~(1 qua c~)1[ b] cro e~(1
+|
+=1 qua an[ c~ f g] a[ b c~ a]
+=2 min F cro rest E-s2
+=3 cro e~)1 d~ c~ f#
+|
+=1 cro b d qua rest [g an b]
+=2 qua [D G B' d'] min g(1
+=3 cro g-s1, fn e d
+|
+il0.7         70
+=1 qua an[ c~ b a] g[ f# g b]
+=2 cro g)1 f# g c(1-s1
+=3 cro c d min e(1
+/
+4 bars | 3b 1 1 1 1 1.2 1 1.2 1| 1 1 1.2 1 1 1 1.2 1| 1 1 1 1 1 1.2 1.2 1| 1 1.2 1 1 1.2 1.2 1 1|
+|
+=1 qua an[ g a d~] cro d b(1
+=2 cro c)1 F#-s2 G D
+=3 cro e)1 qua [d'-s1, c] [B An-s1, G Fn]
+|
+=1 cro b)1 qua an[ g] min a(1
+=2 min G(2 qua G)2[ C D E]
+=3 qua [En c-s1, d'-s4, en'] [f g f eb]
+|
+=1 cro a)1 ab g d
+=2' qua [F D E F] [B_ G An-s1 Bn]
+=3 qua [d' B-s5, c d'] cro e g
+|
+=1 smb e(1
+=2 qua c[ d eb d] c'[ Bb' An G-s2]
+=3 cro c-s2, G-s3, E-s4, C
+/
+4 bars | 3b 8| 1.1 1.1 1.1 1 1 1 1 1| 1.8 2.5 1.8 1.8 | 4.5 ||
+|
+il0.4          75
+=1 qua [e)1 d c d] cro B' Ab(2
+=2 cro F f(1 qua f)1[ e d e]
+=3 cro D min d' cro c
+| 2/2 .87 .90
+=1 qua A)2[ G An Bn'] [c d e f]
+=2 qua f[ Bn, c d] cro G-s1 B_n-s2
+=3 cro Bn min e cro d'
+| 2/2 .46 .50 .53 .55
+=1 cro e(1 smq [e)1 d c d] min d-tr
+=2 cro C-s1 min c cro Bn,
+=3 cro c-s1, A F G
+| 2/2 2.3
+=1 smb c-fermata
+=2 smb c-fermata
+=3 smb C-fermata
+
+8 systems /19 27 12-22-12/19 27 12-22-12/19/19/19/19 27 12-22-12/19/19/
+lefthead Alto Recorder part
+title Fuga Canonica in Epidiapente
+righthead Musikalisches Opfer,  J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+6 bars | 3b 1 1 1 1.3 | .9 .9 .9 .8 | .9 .9 .9 1.3 | .9 1.3 .9 .9 | 1 1 1.2 1 | 1 1.25 1 1 |
+|
+=1 treble 3b 2/2 smb rest
+=2 treble 3b 2/2 min C E
+=3 bass   3b 2/2 min rest cro rest qua c[ d']
+|
+=1 smb rest
+=2 min G A
+=3 qua e[ c, d, e] f[ c,] cro f(1
+|
+=1 smb rest
+=2 min B_n cro rest G
+=3 qua f)1[ a g f] e'[ d' c Bb]
+|
+=1 smb rest
+=2 min F# Fn
+=3 qua An[ e' d' c] Bn[ G A B]
+|
+il0.3    5
+=1 smb rest
+=2 min En Eb(2
+=3 qua c[ G c d'] c[ Bb Ab G]
+|
+=1 smb rest
+=2 cro E)2 D Db C
+=3 qua F[ c f' en'] min f(1
+/
+5 bars | 1.2 1 1 1.2 | 3.4 | 4 | 4 | 4 |
+|
+=1 smb rest
+=2 cro B_n' qua A_n[ G_] cro C F
+=3 qua f)1[ d, eb f] e'[ d' c Bn]
+|
+=1 smb rest
+=2 min E D-tr
+=3 cro c A F G
+|
+=1 smb rest
+=2 qua [C G c' d'] [e B, A, G,]
+=3 min C cro rest c
+|
+il0.4  10
+=1 smb rest
+=2, qua [F B d e] [f c B A]
+=3 min d cro rest D
+|
+=1 min G B'
+=2, qua [G B e f] min g(1
+=3 min E qua rest [e d, c,]
+/
+6 bars | 3b 6 | 3 4| 6| 6| 8| 2 2.5 2 2|
+|
+=1 treble 3b min d e
+|
+=1 min F# cro rest d
+|
+=1 min c# cn
+|
+il0.4      15
+=1 min Bn, Bb,(1
+|
+=1 cro B,)1 An Ab G
+|
+is0.5         ossia
+=1 cro F# <d' qua En,[> D,] cro G c
+/
+4 bars | 3b 5.6 | 1 1 1.3 1 1 1 1 1| 1 1.3 1 1 1 1 1 1| 1 1 1 1 .7 .7 .7 .7|
+|
+=1 min B An-tr
+|
+=1 qua G,[ d g an] b[ f e d]
+|
+il0.5   20
+=1 qua c[ f an b] c~[ g f e]
+|
+=1 qua d[ f b c~] min d~(1
+/
+5 bars | 3b 1.7 1.4 1.4 1.7| .9 .8 1.3 1 .7 .7 .7 .7| 1.7 2 1.7 1.7| 6.8| 1.3 1 1 1.3 1 1 1 1|
+|
+=1 cro d~)1 min d cro g(1
+|
+=1 cro g)1 qua f[ en] min f(1
+|
+=1 cro f)1 qua en[ d] cro e eb(1
+|
+il0.3    25
+=1 cro e)1 An d c
+|
+=1 qua Bn'[ An G A] Bb'[ A B' G]
+/
+4 bars | 4.6 | 1 1 1 1.2 | 4 | 4 |
+|
+=1 min An rest
+=2 qua f[ c An, G,] F[ B' c' d']
+=3 cro f eb min d,
+|
+=1 smb rest
+=2 qua e'[ B' G F] E[ An B' c']
+=3 min db' c
+|
+=1 cro rest F min B,(1
+=2 min db(1 qua d)1[ c B, d]
+=3 qua B,[ f b ab] cro g f
+|
+il0.4        30
+=1 cro B,)1 G min c(1
+=2 min c(1 qua c)1[ An, B, c]
+=3 qua en[ d, e g] cro f eb
+/
+4 bars | 3b .8 .8 .8 .8 1.3 1 1.3 1 | 1.3 1 1 1 1.3 1 1 1 | 8 | 8 |
+|
+=1 cro c)1 An qua d[ c# d en]
+|
+=1 qua f[ en f g] f[ eb d f]
+|
+=1 qua e[ d e f] e[ d c e]
+|
+=1 qua d[ c d e] d[ f e d]
+/
+5 bars | 3b 6 | .8 .8 1.5 1.2 .7 .7 .7 .7| 1 1.3 1 1 1 1 1.3 1| 1 1 1 1 1.3 1 1 1 | 3 4|
+|
+il0.4      35
+=1 min c c~(1
+|
+=1 cro c~)1 qua bn[ an] min b-tr
+|
+=1 qua c~[ g en d] c[ f g an]
+|
+=1 qua b[ f d c] B,[ en f g]
+|
+=1 min ab(1 qua a)1[ g f a]
+
+9 systems /19/19 27 12-22-12/19/19/19/19/19/19/19/19/
+pagenum 2
+innerhead Fuga Canonica in Epidiapente, Musikalisches Opfer, J. S. Bach
+leftfoot transcribed 1998 Peter Billam
+/
+5 bars | 3b .7 .7 .7 .7 1.3 1 1 1 | 1 1.3 1 1 .7 .7 .7 .7| .8 .9 1 1 .9 .8 .9 .8| .8 .9 1 1 .9 .8 .9 .8| 1 1 1.3 1 1 1.3 1 1|
+|
+il0.6  40
+=1 min g(1 qua g)1[ en f g]
+|
+=1 qua c[ d en c] min f(1
+|
+=1 cro f)1 qua en[ d] cro e eb(1
+|
+=1 cro e)1 qua d[ c] cro d db
+|
+=1 qua c[ B, c db] c[ e dn c]
+/
+5 bars | 3b 8 | 8 | 8 | 8 | 8 |
+|
+il0.5         45
+=1 cro g G min rest
+=2 cro En qua D[ C] cro F B
+=3 qua B,)2[ g ab b] a[ g f en]
+|
+=1 smb rest
+=2 min A G-tr
+=3 qua f[ g a b] c~[ d~b c~ b]
+|
+=1 smb rest
+=2 qua F[ C F G] A[ E Db C]
+=3 cro a g f a
+|
+=1 smb rest
+=2 qua B_[ E G A] B'[ F E Db]
+=3 cro g f e g
+|
+=1 min c e
+=2 qua C[ F A B'] min c(1
+=3 min A qua rest a[ g f]
+/
+5 bars | 3b 4 | 4 | 4 | 4 | 4 |
+|
+il0.5        50
+=1 min g a
+|
+=1 min Bn, cro rest g
+|
+=1 min f# fn
+|
+=1 min en eb(1
+|
+=1 cro e)1 d db c
+/
+4 bars | 1.15 1.15 1.3 1.3 | 1.2 1 1 1.2 | 4 | 3.7 |
+|
+il0.4      55
+=1 cro Bn' qua An[ G] cro c f
+|
+=1 min e d-tr
+|
+=1 qua [c G, c d] [e B, A, G,]
+|
+=1 qua [F, B, d e] f[ c B, A,]
+/
+4 bars | 3b 4 3 | 1 1.3 1 1 1 1 1 1 | 1 1 1 1.3 1.3 1 1 1 | 1 1 .8 .8 1 1 1 1 |
+|
+=1 qua G,[ c e f] min g(1
+|
+il0.5     60
+rs0.2 .35 ( Bn ?)
+=1, qua [g)1 G An B] [c d e c]
+|
+=1 qua [d e d c] [Bb' An G B']
+|
+=1 qua [An G] cro A(2 qua [A,)2 d c d]
+/
+4 bars | 3b 1 1 .9 .8 1 1.3 1 1| .9 .8 .9 .8 1.3 1 1.3 1| .7 .7 .7 .7 1 1.3 1.3 1 | 1.7 1.4 1.4 1.7 |
+|
+=1 qua G[ F] cro G(2 qua G)2[ c' Bn' c']
+|
+=1 cro F f(1 qua f)1[ Bn c eb]
+|
+il0.5     65
+rs0.2 .85 ( Ab ?)
+=1 min d(1 qua [d)1 c Bb, An,]
+|
+=1 cro G min g cro f(1
+/
+4 bars | 3b .9 .8 .9 .8 1.1 1.1 1.1 1.1| 8|.9 .8 .9 .8 1 1.3 1 1| 1 1 1 1 1.3 1 1 1|
+|
+=1 cro f)1 e qua d[ d~ c~ b]
+|
+=1 qua an[ c~ f g] a[ b c~ a]
+|
+=1 cro b d qua rest g[ an b]
+|
+il0.7         70
+=1 qua an[ c~ b a] g[ f# g b]
+/
+4 bars | 3b 5 4| 2 2.5 1.7 1.7 | 8 | 6 |
+|
+=1 qua an[ g a d~] cro d b(1
+|
+=1 cro b)1 qua an[ g] min a(1
+|
+=1 cro a)1 ab g d
+|
+=1 smb e(1
+/
+4 bars | 3b 2 1.8 | .5 .6 .6 .5 .5 .5 .5 .5 | 1 1.4 1 1  | 3 ||
+|
+il0.5          75
+=1 qua e)1[ d c d] cro B' Ab(2
+|
+=1 qua [A)2 G An Bn'] [c d e f]
+|
+=1 cro e(1 smq e)1[ d c d] min d-tr
+|
+=1 smb c-fermata
+@
+
+
+1.1
+log
+@add fingerings
+@
+text
+@d32 1
+a32 1
+=2 min En Eb(2-s4
+d40 1
+a40 1
+=2 cro B_n-s3 qua [A_n G_] cro C-s2 F
+d205 1
+a205 1
+=3 qua [f-s1, en-s3, f g] f[ e d, f]
+d212 1
+a212 1
+=1 qua c[ d en c] min f(1
+d223 1
+a223 1
+=2 min An Ab(2-s4
+d232 1
+a232 1
+=2 cro En-s3 qua [D C] cro F-s2 B'-s5
+d236 1
+d243 2
+a244 2
+=2 qua [F C F-s3 G] [A E-s4 Db C]
+=3 cro a g f a-s3,
+d274 1
+a274 1
+=2 cro B_ B'(2-s4' qua [B')2 En F Ab-s3]
+d285 1
+a285 1
+=2 cro C min c cro B,(1-s3
+d301 1
+a301 1
+4 bars | 3b 8| 1 1.2 1.2 1 1.2 1 1 1| 1 1 1 1.2 1.2 1 1 1| 8|
+d309 1
+a309 1
+rs0.2 .35 ( Bn ?)
+d315 1
+a315 1
+=2 qua [d c d g] cro G e(1-blank-s4
+d319 1
+a319 1
+=2 cro e)1 qua d[ c] min d(1
+d324 3
+a326 3
+=1 qua G[ F] cro G(2 qua G)2[ c' Bn' c']
+=2 cro d)1 db c G-s2,
+=3 min en-s1, eb(1
+d329 1
+a329 1
+=2 smb A(2
+d337 1
+a337 1
+=3 cro Bn qua An[ G] cro c-s2 f
+d347 1
+a347 1
+=3 cro c-s5, c~(1 qua c~)1[ b] cro e~(1
+d354 1
+a354 1
+=2 qua [D G B' d'-s1] min g(1
+d366 1
+a366 1
+=3 cro e)1 qua d'[ c] [B An-s1, G Fn]
+d373 2
+a374 2
+=2 qua F[ D E F] B_[ G An Bn']
+=3 qua [d'-s1, B-s5, c d'] cro e g
+d380 1
+a380 1
+4 bars | 3b 8| 1.2 1.2 1.2 1 1 1 1 1| 1.7 2.7 1.7 1.7 | 5 ||
+d388 1
+a388 1
+=2 qua f[ Bn, c-s4 d] cro G-s1 B_n-s2
+@

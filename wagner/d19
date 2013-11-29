@@ -1,0 +1,18 @@
+boundingbox 350 122
+midi channel 1 patch 68 pan30 reverb 99
+midi channel 3 patch 57 pan70 reverb 99
+1 system /27-34-27 4/
+/
+4 bars | 3/4 30 | 14 10 10 | 30 | 14 10 10 |
+| 4/4 1.9
+=1' treble 3/4 cha1 leg99 vol70 2. <C(2 G(1-cre20>
+=2' bass   3/4 cha3 leg99 vol60 2. <G(2 eb(1-cre20>
+|
+=1' 4 <C)2 G)1> 2 vol90 leg80 <C# B>
+=2' 4 <G)2 e)1> 2 vol80 leg80 <G en>
+|
+=1' vol80 leg99 2. <C(2 G(1>
+=2' vol70 leg99 2. <G(2 eb(1>
+| .63 .64 .90
+=1' 4 <C)2 G)1> 2 vol90 <C# B-dim20>
+=2' 4 <G)2 e)1> 2 vol80 <G en-dim20>
