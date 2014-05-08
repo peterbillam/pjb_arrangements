@@ -1,0 +1,16 @@
+boundingbox 270 85
+midi channel 0 patch 60 reverb 25
+1 system 6 /27/
+/
+3 bars |1# 6 5 5 6 | 12 12 12 11 | 14
+| 1.05
+b0.7 49c.
+r0.6 .50 Fidelio   Nr.15 duett
+=1  treble8vab 1#  cha0 leg99 vol99 4. d{1 8 B}1
+r0.2 .35 An
+| 2.1
+=1' 4 leg99 G G A leg80 B
+r0.2 .09 Leonorens
+| 1.60
+=1  2. c
+r0.2 .01 Brust !

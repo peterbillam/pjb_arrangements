@@ -1,0 +1,18 @@
+boundingbox 350 77
+midi channel 0 patch 40 reverb 25
+midi channel 1 patch 41 reverb 25
+midi channel 2 patch 42 reverb 25
+1 systems 13 /27/
+/
+4 bars | 2b 12 12 10 | 12 12 10 | 18 12 10 | 12 12 10 
+| 0.9
+b0.7 59d.
+i0.6 .30 N. II. p.3
+=1, treble 2b cha0 leg99 vol85 8 [f d f]
+|
+i0.5 .30 Allemande   Allegro
+=1 4 B 8 Bn
+|
+=1, 16 [c d 8 e c]
+|
+=1' 8 B 4 A

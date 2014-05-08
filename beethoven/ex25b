@@ -1,0 +1,17 @@
+boundingbox 500 90
+midi channel 0 patch 40 reverb 15
+1 system 6 /27/
+/
+5 bars |1# 12 | 48 | 9 9 9 12 | 48 | 30
+| 0.225
+b0.7 25b.
+r0.7 .60 Trio Op.1  No.2  IV
+=1  treble 1#  cha0 leg65 vol80 16 [G vol90 G]
+| .9
+=1 leg125 16 vol110 [G vol90 G G G] vol105 [G vol90 G G G]
+|
+=1 8 leg95 vol105 [G-., vol90 B'-., d'-.,] 16 leg125 vol80 [G vol90 G]
+|
+=1 leg125 16 vol110 [G vol90 G G G] vol105 [G vol90 G G G]
+| 0.675
+=1' leg95 vol105 8 [G-., vol90 c'-., e'-.,]

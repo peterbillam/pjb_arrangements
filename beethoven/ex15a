@@ -1,0 +1,27 @@
+boundingbox 700 90
+midi channel 0 patch 00 reverb 15
+midi channel 1 patch 60 reverb 15
+1 system 3 /27/
+/
+9 bars | 2b 12 12 12 11 | 6 6 6 14 6 6 6 5 | 9 9 9 12 | 24 18 \
+ | 12 12 12 11 | 3 3 3 3  3 3 16 7 3 3 3 3 3 3 2 2 | 9 9 9 12 | 24 18 | 36 |
+| 4/4 1.2
+b0.7 15a.
+r0.7 .20 N. II. p.536
+=1  treble 2b  cha0 leg80 vol90 4 d d d d
+|
+=1  leg95 4. eb 16 [c' A] 4 F rest
+|
+=1  cha1 leg90 2. B 4 B
+|
+=1  4 d c 2 rest
+|
+=1 cha0 leg80 vol90 4 e e e e
+|
+=1  leg95 4. f 16 [d' Bn'] 4 G rest
+|
+=1  cha1 leg90 2. c 4 c
+|
+=1  4 e d 2 rest
+|
+=1  2 rest e

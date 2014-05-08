@@ -1,0 +1,23 @@
+boundingbox 500 90
+midi channel 0 patch 0 reverb 15
+1 system 6 /27/
+/
+5 bars |2b 10 6 5 4 | 3 3 3 4 4 4 6 9 4 \
+ | 5 4 6 6 6 5 | 5 4 6 || 4 3 4 4 4 4 3 | 5 4 3
+| 0.34
+b0.7 24c.
+r0.7 .20 N. II. p.130
+=1  treble 2b  cha0 leg85 vol90 16 [d c# d B]
+| .17 .16 .17 .60 .17 .17 .16
+=1  leg85 4 f 8 d rest 83 [d g en]
+i0.1 .55 meilleur
+| .17 .16 .17 .60 .17 .17 .16
+i0.3 .61 or
+=1  leg85 4 f 8 d rest [d g]
+| 0.5
+=1  leg85 4 f 8 d
+midi pause 0.5
+| .36
+=1 163-s e' 16 [d c d e]
+| .51
+=1 4 f 8 d

@@ -1,0 +1,17 @@
+boundingbox 530 90
+midi channel 0 patch 0 reverb 45
+1 system 3 /27/
+/
+5 bars | 8 | 6 8 6 6 | 6 8 6 6  | 6 8 6 6 | 6 6 6 5 |
+| 1/8 0.25
+b0.7 5b.
+r0.7 .02 Sonata Op.102 I
+=1  treble    cha0 leg90 vol90 16 [e f]
+| 2/4 1.0
+=1  8 [g 16 a b] 8 c~ rest
+|
+=1 8 [e 16 f g] 8 a rest
+|
+=1  8 [d 16 e f] 8 [g-. f-.]
+|
+=1, 8 [e-. c-. G-.] rest

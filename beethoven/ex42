@@ -1,0 +1,45 @@
+boundingbox 500 160
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 40 reverb 45
+2 systems 5 /27 10/27/
+/
+5 bars | 3b 42 | 14 14 15 | 8 8 8 13 8 7 | 14 14 15 | 8 8 8 13 8 7 |
+| 1.0
+b0.7 42.
+r0.7 .20 Op.1 No.3    I
+#P=1  treble 3b cha0 leg105 vol75 2. C
+#P=1  3b 4. blank 4 blank-turn
+#M=1  treble 3b cha0 leg105 vol75 2. C 83 D C B_n C
+|
+i0.7 .25 Allegro con brio.
+=1 leg100 2 E 4 C
+|
+=1 4. B_n 8 D 4 leg90 G
+|
+=1 leg100 4 G 2 rest
+|
+=1 4. C 8 E 4 leg85 A
+/
+5 bars | 3b 37 | 37 | 48 | 6 6 6 14 11 6 6 5 | 4 4 13
+|
+=1 leg100 4 A 2 rest
+|
+#P=1' 2. <F#(2 c>
+#P=1  4. blank 4 blank-turn
+#M=1' 2. c 83 d c Bn d
+#M=1' 2. F#(2
+#M=1, 2. <A_(4 E>
+|
+=1' cha1 2. f#(1
+=1' cha0 4. er 8 d 4 c
+=1, 2. F)2
+#M=1, 4. C 8 D 4 Eb
+#M=1, 2. A_)4
+| .2 .2 .2 .2 .2 .3 .3 .4
+=1' cha1 4. f#)1-fermata 16-s [g f# e# f] 4-s c~ 8-s f
+=1, cha0 2. <F# c>
+#M=1 2. <G_ E>
+| .3 .3 .5
+=1' cha1 4-s an 8 8 g-fermata
+=1, cha0 4. <G Bn>
+#M=1, cha0 4. <G_ D>

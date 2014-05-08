@@ -1,0 +1,37 @@
+boundingbox 600 140
+midi channel 0 patch 0 reverb 25
+2 system 6 /27/
+/
+7 bars | 1# 6 5 | 8 8 8 6 | 4 4 4 5 4 4 6 5 | 8 8 8 7 | 6 6 6 7 \
+ | 8 8 8 7 | 4 4 4 5 4 4 6 5 |
+| 0.4
+b0.7 51a.
+i0.7 .30 Beethoven, unbekannte Skizzen und Entwürfe, p.vi
+=1 treble 1# cha0 leg99 vol99 16 [B c]
+| 1.6
+=1  8 d d d d
+|
+=1  8. [d 16 B] 8 G 16 [B c]
+|
+=1  8 d d d d
+|
+=1  4. d 8 c
+|
+=1' 8 A A A B
+|
+=1  8. [c 16 B] 8 A B'
+/
+6 bars | 8 8 8 7 | 4 4 4 5 4 4 5 4 \
+ | 4 4 4 4 5 5 5 4 | 3 3 3 3 3 3 5 4 | 5 5 5 5 5 5 5 4 | 8
+|
+=1  8 c B A B'
+|
+=1  8. [c 16 B] 8 A A
+|
+=1' 8 [A A] 16 [A B c A]
+|
+=1  4. d 8 e
+|
+=1  16 [e d] [c B] [B' A] [G F]
+| 0.7
+=1  4 G

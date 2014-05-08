@@ -1,0 +1,26 @@
+boundingbox 750 90
+midi channel 0 patch 40 reverb 45
+1 system 3 /27/
+/
+9 bars | 1b 8 | 4 4 4 5 5 4 | 4 4 5 8 5 4 | 4 4 4 5 5 4 | 4 4 4 5 5 4 \
+ | 4 4 4 5 5 4 | 4 4 4 5 8 4 | 5 5 5 5 5 4 | 4 4 4 4 4 3 |
+| 1/4 0.57
+b0.7 6c.
+r0.7 .02 N. II. p.181.   Autumn 1823
+=1, treble 1b  cha0 leg100 vol90 4 d(1
+| 3/4 0.8
+=1, 4. d)1 8 [A f d]
+|
+=1  4. d 8 [c# Bn c]
+|
+=1  4. d 8 [e f g]
+|
+=1  4. a 8 [b a g]
+|
+=1  4. f 8 [g f e]
+|
+=1  4. leg85 d 8 [d leg100 e f#]
+|
+=1  4 leg95 g g g
+|
+=1  4 leg100 g rest d(1

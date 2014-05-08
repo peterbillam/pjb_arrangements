@@ -1,0 +1,30 @@
+boundingbox 700 90
+midi channel 0 patch 00 reverb 15
+midi channel 1 patch 60 reverb 15
+1 system 3 /27/
+/
+10 bars | 2b 11 | 12 12 12 11 | 6 6 6 14 6 6 6 5 | 9 9 9 12 | 12 12 12 11 \
+ | 9 9 12 11 | 12 12 12 11 | 12 12 12 11 | 9 9 12 11 | 12 12 12 11 |
+| 0.32
+b0.7 15b.
+r0.7 .65 Op.46   Adelaide.
+=1  treble 2b  cha0 leg80 vol90 4 F
+| 4/4 1.2
+=1  leg80 vol90 4 d d d d
+|
+=1  leg95 4. eb 16 [c' A] 4 F rest
+|
+=1  cha1 leg90 2. B 4 B
+|
+=1  4 d c rest c
+|
+=1  2 d 4 e e
+|
+=1  4 g{1 f}1 e{1 d}1
+|
+=1  4 d{1 c}1 c{1 B}1
+|
+=1' 2 d 4 c rest'
+=1, cha0 leg80 vol90 2. blank 4 F
+|
+=1  leg80 vol90 4 d d d d

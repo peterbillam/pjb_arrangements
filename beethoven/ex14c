@@ -1,0 +1,13 @@
+boundingbox 190 90
+midi channel 0 patch 40 reverb 45
+1 system 3 /27/
+/
+3 bars | 1b 6 | 8 8 8 17 | 13
+| 1/16 0.44
+b0.6 14c.
+i0.3 .52 Adagio
+=1, treble 1b  cha0 leg100 vol90 16 <E c#>
+| 4/4 3.6
+=1, 4. <D-cre d> 16. [d-cre 32 e]
+| 2.7
+=1 4. f-cre

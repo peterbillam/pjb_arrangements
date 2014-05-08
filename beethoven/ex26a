@@ -1,0 +1,45 @@
+boundingbox 550 270
+midi channel 0 patch 0
+2 systems 5 /27-28-27/ 27-33-27/
+/
+4 bars | 4# 96 | 96 | 96 | 96 |
+| 3.6
+b0.7 26a.
+r0.7 .12 N. I. p.35
+=1' treble    4# cha0 leg100 vol90 4 G-cre27 4. E-cre27 8 F-cre27
+=2' bass      4# cha0 leg100 vol70 2. B(1
+=2, bass      4# cha0 leg100 vol70 4 E G A
+#M=2  4. blank-P blank-*
+|
+=1' vol90 4 D-cre27 2 B_-cre27
+=2' vol70 2. Br)1
+=2, vol70 4 B c d
+#M=2  4. blank-P blank-*
+|
+=1' vol90 4 G-cre27 4. E-cre27 8 F-cre27
+=2, vol70 4 e{2
+|
+=1' vol90 4 F-cre27 A#-cre27 B-cre27
+=2, vol70 4 b-cre27 f-cre27 B-cre27
+=2' vol70 2. Br}2
+/
+4 bars | 4# 28 28 32 | 8 8 8 8  8 8 8 8  33 16 10 10 | 28 28 32 | 24 24 28 :||
+|
+=1' vol90 4 G-cre27 4. E-cre27 8 F-cre27
+=2' vol70 2. B(1
+=2, vol70 4 E G A
+#M=2  4. blank-P blank-*
+|
+=1  vol90 4 D-cre27 2 blank
+=2' vol90 4 blank b-cre27 323 [a b a 16 g 8 a-cre27]
+=2' vol70 2. Br)1
+=2, vol70 4 B c d
+#M=2  4. blank-P blank-*
+|
+=1  vol90 4 blank 4. E-cre27 8 blank
+=2' vol90 4 g-cre27 4. blank 8 a#
+=2, 4 e c cn
+#M=2  4. blank-P blank-*
+|
+=1 2. blank
+=2' vol90 2 a#-cre27 4 vol60 b

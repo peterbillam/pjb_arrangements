@@ -1,0 +1,20 @@
+boundingbox 470 100
+midi channel 0 patch 0 reverb 45
+1 system /27 10/
+/
+5 bars | 4# 12 | 40 | 20 16 | 28 | 8 
+| 1/8 0.4
+b0.7 1a.
+r0.7 .02 N. II. p.336
+=1' treble    4# cha0 leg80 vol75 8 G
+=1, treble    4# cha0 leg150 vol40 16 [E B_]
+| 4/4 1.6
+=1' leg100 vol85 4 G vol75 8 [B A]
+=1, leg120 vol45 16 [E B_ E B_] [G B_ F vol-5 B_]
+|
+=1' leg100 vol85 8 [G vol75 F] rest G
+=1, leg120 vol40 16 [E vol-5 B_ D vol-5 B_] 4 blank
+|
+=1' leg100 vol85 8 [A{2 c}2 leg80 B vol75 leg100 F]
+| 1.0
+=1' vol80 4 G

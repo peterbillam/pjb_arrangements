@@ -1,0 +1,14 @@
+boundingbox 450 90
+midi channel 0 patch 40 reverb 45
+1 system 3 /27/
+/
+3 bars | 2# 8 | 4 4 3 3 3 3 4 4 5 5 5 4 \
+ | 4 4 3 3 3 3 4 4 5 5 5 4 |
+| .6
+b0.8 18d.
+r0.8 .60 Ninth Symphony  Op.125.  III
+=1 treble 2# cha0 leg100 vol90 8 F(2
+| 3/4 3.6
+=1 leg100 vol90 8 F)2 leg90 4 E-cre27 8 E(2 leg100 16 [E)2{''1 F G E}''1]
+|
+=1 leg100 vol90 8 G   leg90 4 F-cre27 8 F(2 leg100 16 [F)2{''1 G leg90 A F}''1]

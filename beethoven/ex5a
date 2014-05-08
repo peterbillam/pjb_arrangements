@@ -1,0 +1,18 @@
+boundingbox 530 90
+midi channel 0 patch 0 reverb 45
+1 system 3 /27/
+/
+5 bars | 6 8 6 6 | 6 8 6 6  | 6 8 6 6 | 6 6 6 5 | 4 3 7 4 3 2 3 2 |
+| 2/4 1.0
+b0.7 5a.
+r0.7 .02 N. II. p.316    Fugue.
+=1  treble    cha0 leg90 vol90 8 [G 16 A B'] 8 c rest
+|
+=1  8 [E 16 F G] 8 A rest
+|
+=1  8 [F 16 E F] 8 [G F]
+|
+=1' 8 [E D] [C c(2]
+|
+=1' 8 [d 16 e f#] 4 g
+=1, 4 cr)2 blank

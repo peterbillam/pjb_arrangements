@@ -1,0 +1,18 @@
+#! /bin/bash
+MUSCRIPT=/home/pbin/muscript
+TIMIDITY=/usr/bin/timidity
+NORMALISE=/usr/bin/normalize-audio
+LAME=/usr/local/bin/lame
+DISPLAY=/usr/bin/display
+PLAY=/usr/bin/play
+MPLAYER=/usr/bin/mplayer
+
+${MUSCRIPT} -midi $1 > $1.mid
+${TIMIDITY} -Ow -o $1.wav $1.mid
+rm $1.mid
+${NORMALISE} $1.wav
+# ${NORMALISE} --peak $1.wav
+${LAME} -h $1.wav $2
+rm $1.wav
+${MPLAYER} $2
+

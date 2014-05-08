@@ -1,0 +1,17 @@
+boundingbox 450 90
+midi channel 0 patch 0 reverb 15
+1 system 3 /27/
+/
+5 bars | 3b 5 5 4 | 5 7 7 4 | 5 7 5 4 | 5 5 7 4 | 5
+| 0.6
+b0.7 11c.
+r0.8 .20 Op.53.  III
+=1' bass   3b  cha0 leg80 vol90 8 [G e d]
+| 2/4 0.8
+=1' leg65 8 [c G An Bn]
+|
+=1, 8 [c leg90 c ab g]
+|
+=1, leg65 8 [f c d en]
+| 0.2
+=1  leg70 8 f

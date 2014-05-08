@@ -1,0 +1,26 @@
+boundingbox 650 90
+midi channel 0 patch 40 reverb 40
+1 system 3 /27/
+/
+8 bars | 1b 2 2 2 1 2 2 1 7 2 2 2 2 | 2 2 2 1 2 2 1 7 2 2 2 2 \
+ | 2 2 2 1 2 2 1 7 2 2 2 2 | 7 7 9 \
+ | 2 2 2 1 2 2 1 7 2 2 2 2 | 2 2 2 1 2 2 1 7 2 2 2 2 | 7 7 9 | 9 7 7
+| 3/4 0.8
+b0.7 4b.
+r0.7 .02 Trio.  Accompanied in Triplets
+=1  treble    1b cha0 leg100 vol90 4.. F 16 G 4 A
+|
+=1' 4.. A 16 G 4 F
+|
+=1  4.. F 16 G 4 A
+|
+=1' 4 A c 8 [B G]
+|
+=1  4.. f 16 g 4 a
+|
+=1  4.. a 16 g 4 f
+|
+=1  4 f e 8 [f d]
+|
+i0.3 .90 etc..
+=1  4 c Bn c

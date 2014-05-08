@@ -1,0 +1,19 @@
+boundingbox 650 90
+midi channel 0 patch 0
+1 system 3 /27/
+/
+5 bars | 1# 50 | 4 4 8 4 4 3 | 4 4 3 4 4 3 \
+ | 2 2 2 2 2 1  2 2 2 3 4 4 2 | 25
+| 6/8 1.2
+b0.7 13b.
+r0.7 .20 Op.30  No.3
+=1, bass 1#  cha0 leg100 vol100 16 [g f e d e f] [g f e d e f]
+|
+=1  leg80 8 [g b d~] 83 blank treble 4 blank
+=1  leg80 4. blank 8 [G B' d']
+|
+=1  8 rest [g b] rest [a d~]
+|
+=1  vol125 8 [b a] rest'' 8. rest, bass vol110 16 [d e f]
+| 0.6
+=1 leg100 vol100 16 [g f e d e f]

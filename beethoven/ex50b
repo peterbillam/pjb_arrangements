@@ -1,0 +1,22 @@
+boundingbox 550 85
+midi channel 0 patch 60 reverb 25
+1 system 6 /27/
+/
+5 bars | 3b 4 4 3 | 4 4 4 4 4 3 | 4 4 4 4 4 3 | 4 4 4 4 4 3 | 4 4 3
+| 0.72
+b0.6 50b.
+r0.6 .30 N. II. p.415
+=1 bass 3b cha0 leg80 vol99 8 e e e
+rs0.2 .25 Noch immer
+| 1.44
+=1  8 a a a a a a
+rs0.2 .01 zaudert ihr, noch immer
+|
+=1  8 g g g e e e
+rs0.2 .01 seid ihr hier, noch immer
+|
+=1  8 c~ c~ c~ c~ c~ c~
+rs0.2 .01 zaudert ihr, noch immer
+| 0.72
+=1  8 b b b
+rs0.2 .01 seid ihr hier

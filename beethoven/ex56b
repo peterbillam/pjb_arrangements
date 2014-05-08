@@ -1,0 +1,16 @@
+boundingbox 500 90
+midi channel 0 patch 40 reverb 45
+1 system 3 /27/
+/
+4 bars | 3b 2 2 2 2 2 2 2 2 3 3 3 5 3 3 3 5 \
+ | 4 4 4 4 4 4 6 5 | 3 3 3 3 3 3 3 5 3 2 3 2 3 3 3 4 |2 2 2 2 3 3 3 5 2 2 2 2 
+| 2/4 2.4
+b0.7 56b.
+r0.7 .20 Eroica
+=1  treble 3b  cha0 leg100 vol90 4 D 16. [D 32 E 16. F 32 G]
+|
+=1  4. A 16 [G F]
+|
+=1  16 [F E 16. F 32 D] 8 [C 16. D 32 B_n]
+| 1.9
+=1  8 [C 16. C 32 C 8 C]

@@ -1,0 +1,36 @@
+boundingbox 450 140
+midi channel 0 patch 41 reverb 15
+2 system 6 /27/27/
+/
+5 bars |3b 11 | 12 10 | 12 10 | 8 8 7 | 12 10 |
+| 0.4
+b0.7 36a.
+r0.7 .16 N. II. p.93
+i0.2 .07 Presto
+#P=1  treble 3b  cha0 leg105 vol90 4./ G
+#M=1  treble 3b  cha0 leg105 vol90 8 G G G
+| 0.8
+#P=1  4./ C c
+#M=1  8 C C C c c c
+|
+#P=1  4./ C e
+#M=1  8 C C C e e e
+|
+=1 4 c c~ c
+|
+#P=1 4 Bn 8 rest 4./ <B_ Dn G>
+#M=1 4 Bn 8 rest <B_n Dn G> <B_ Dn G> <B_ Dn G>
+/
+4 bars | 5 5 3 3 3 2 | 5.5 5 3 3 3 2 | 5.5 5 3 3 3 2 | 7 6
+|
+#P=1 8 [<C E A> <B_ D G>] 2/ <B_ D G>
+#M=1 8 [<C E A> <B_n D G>] <B_ D G> <B_ D G> <B_ D G> <B_ D G>
+|
+#P=1' 8 [<D F# c> <D G Bn>] 2/ <D G B>
+#M=1' 8 [<D F# c> <D G Bn>] <D G B> <D G B> <D G B> <D G B>
+|
+#P=1' 8 [<F# c e> <G Bn d>] 2/ <F B d>
+#M=1' 8 [<F# c e> <G Bn d>] <F B d> <F B d> <F B d> <F B d>
+| .54
+#P=1, 4 <G B d> g
+#M=1, 4. <G Bn d> g

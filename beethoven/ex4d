@@ -1,0 +1,17 @@
+boundingbox 450 90
+midi channel 0 patch 40 reverb 40
+1 system 3 /27/
+/
+5 bars | 1b 15 | 4 4 4 6 4 4 | 4 4 4 5 4 4 | 24 | 9 8
+| 3/8 0.4
+b0.7 4d.
+r0.7 .05 Eighth Symphony
+=1  treble    1b cha0 leg100 vol80 8 [C-., D-., E-.,]
+| 3/4 0.8
+=1' vol90 4. F{2 8 G 4 A}2
+|
+=1' 4. A{2 8 G 4 F}2
+|
+=1  4 F{2 4. A 8 c}2
+| .533
+=1  8 [c{1 B] 4 G}1

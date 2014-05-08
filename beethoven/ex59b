@@ -1,0 +1,49 @@
+boundingbox 600 200
+midi channel 0 patch 40 reverb 25
+midi channel 1 patch 41 reverb 25
+midi channel 2 patch 42 reverb 25
+1 systems /27-70-27/
+/
+8 bars | 1# 6 6 6 6 9 6 | 12 12 10 \
+ | 9 9 6 6 9 4 | 16 16 10 \
+ | 6 6 6 6 9 6 | 12 12 10 \
+ | 9 9 6 6 7 4 | 12 12 12 :||
+| 0.9
+b0.9 59b.
+i0.9 .30 Op.130   IV
+=1' treble 1# cha0 leg95 vol90 8 [d B 16 d] rest
+=1, treble 1# cha0 leg95 vol80 8 [B_ D B_]
+=2' bass   1# cha1 leg85 vol70 8 [g b g]
+=2, bass   1# cha2 leg85 vol75 4 g 8 rest,
+|
+i0.9 .70 Alla danza tedesca
+=1' 4. G
+=1, 8 [E B_ E]
+=2' cha1 vol70 8 [br e b]
+=2, cha2 vol75 4 e~ 8 rest,
+|
+=1' 16 [A B 8 c 16 e] rest
+=1, 8 [E C A]
+=2' cha1 vol70 8 [cr a c]
+=2, cha2 vol75 4 c~ 8 rest,,
+|
+=1' 8 Gr 4 Fr
+=1, 8 [A c A]
+=2' cha1 vol70 8 [c~r d c~]
+=2, cha2 vol75 4 d~ 8 rest,
+|
+=1, 8 [<d d~> <B b> 16 <d d~>] rest'
+=2' cha1 vol70 8 [b d~ b]
+=2, cha2 vol75 8 [G B G]
+|
+=1, 4. <G g>
+=2' cha1 vol70 8 [e~ g e~]
+=2, cha2 vol75 8 [B E B]
+|
+=1, 16 [<A a> <B b> 8 <c c~> 16 <F f>] rest
+=2' cha1 vol70 8 [e~ e <c~ a~>]
+=2, cha2 vol75 8 [C A D]
+|
+=1, leg105 vol+5 8 <F f> leg99 vol-10 4 <G g>
+=2' cha1 vol70 8 [<c~ a~> <b g~> vol-6 b]
+=2, cha2 vol75 8 [d D G]

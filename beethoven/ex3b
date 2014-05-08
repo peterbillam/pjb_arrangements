@@ -1,0 +1,14 @@
+boundingbox 430 90
+midi channel 0 patch 0 reverb 45
+1 system 3 /27/
+/
+3 bars | 2b 32 | 32 28 | 7 7 7 7 9 8 8 7 |
+| 1/4 0.7
+b0.7 3b.
+r0.7 .02 Sonata Op.22
+=1, treble    2b cha0 leg100 vol60 16 rest [f vol65 g f]
+| 2/4 1.4
+i0.7 .01 Allegretto
+=1  leg100 vol90 16 [e vol80 d c B] leg85 8 vol-5 [A vol+5 B']
+|
+=1, leg100 vol95 8 [Bn leg85 vol80 c(1] 16 [c)1 leg100 vol75 f# vol70 a g]

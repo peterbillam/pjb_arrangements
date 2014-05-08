@@ -1,0 +1,16 @@
+boundingbox 400 85
+midi channel 0 patch 41 reverb 15
+1 system 6 /27/
+/
+4 bars |1b 7 4 3 4 3 4 3 3 8 | 8 7 6 5 | 7 4 3 4 3 4 3 3 8 | 8
+| 1.8
+b0.7 47.
+r0.7 .16 Op.135   I
+=1  alto 1b  cha0 leg110 vol75 \
+ 32-s [G, A,] 4 B 8.. [F 32 G]
+|
+=1  8 E rest 4 rest
+|
+=1 32-s [G, A,] 4 B 8.. [F 32 G]
+| .45
+=1 8 E

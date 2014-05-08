@@ -1,0 +1,17 @@
+boundingbox 250 180
+midi channel 0 patch 40 reverb 25
+midi channel 1 patch 41 reverb 25
+midi channel 2 patch 42 reverb 25
+1 systems 6 /27-65-27/
+/
+1 bars | 4b 6 5.5 7 6 4 4 4 3 |
+| 7.2
+b0.7 52b.
+i0.7 .30 Op.59 No.1   III
+=1, treble 4b cha0 leg99 vol85 \
+ 16 [<G g{1-cre27> <Bx c}1-cre27> <A c{1-cre27> <Ax Bnl}1-cre27>] \
+ 8 [<Ax B{1-cre27> <G c}1-dim30>]
+=2' bass   4b cha1 leg99 vol80 \
+ 16 [c~-cre27 g~-cre27 f~-cre27 f~-cre27] 8 [f~{1 e~n}1]
+=2, bass   4b cha2 \
+ 16 [en-cre27 c-cre27 f-cre27 a-cre27] 4 c~-dim27

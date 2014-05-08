@@ -1,0 +1,12 @@
+boundingbox 250 85
+midi channel 0 patch 41 reverb 15
+1 system 6 /27/
+/
+2 bars |3b 3 3 3 3  3 3 2 2 3 3 5 4 | 4 3 4 5 3 3 3 3
+| 5.4
+b0.7 46.
+r0.7 .16 Op.130   V
+=1  treble 3b  cha0 leg105 vol55 \
+ 4 B-cre27 vol+10 4. d-cre27 16 [e-cre27 f-cre27]
+| 3.6
+=1, leg105 8. [f-cre27 leg95 vol-15 16 A-cre27] 4 A

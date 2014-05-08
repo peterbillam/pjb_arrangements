@@ -1,0 +1,50 @@
+boundingbox 585 300
+midi channel 0 patch 0
+2 systems 6 /27-36-27/ 27-40-27 5/
+/
+4 bars | 4# 96 | 96 | 96 | 16 16 16 16 19 15 |
+| 3.6
+b0.7 26b.
+r0.7 .12 Op.109   III
+=1' treble    4# cha0 leg100 vol90 4 G-cre27 4. E-cre27 8 F-cre27
+=1,           4# cha0 leg100 vol60 4 B_ vol55 B_ vol50 C
+=2' bass      4# cha0 leg100 vol60 4 E  vol55 G  vol50 A
+#M=2  4. blank-P blank-*
+|
+=1' vol60 4 <F_ vol90 D-cre27> 2 vol60 <F_ A_x vol90 B_-cre27>
+=2' vol60 4 B vol55 c vol50 d
+#M=2  4. blank-P blank-*
+|
+=1' vol90 cc11=100 4 G-cre27 4. E-cre27 8 F-cre27
+=1  vol60 cc11=100 4 <G_ B_> vol55 B_, vol50 C,
+=2, vol60 4 e vol55 g vol50 a#
+| .6 .6 .6 .6 .6 .5
+=1' vol90 4 F-cre27 A#-cre27 B-cre27
+=1, vol60 4 D <C E> <D F>
+=2  vol60 4 b f 8 [B An]
+/
+4 bars | 4# 25 7 7 7 7  7 7 7 7  8 8 10 8 \
+ | 7 7 7 7  5 5 12 14  18 12 5 5 | 12 12 14 14 14 26 | 28 26 26 :||
+| 3.8
+=1' vol70 cc11=100 323-s [B_ vol77 E vol83 G] \
+ vol90 4 B-cre27 4. E-cre27 16 [G F]
+=1, vol60 16 blank 4 rest,, B_ C
+#P=2' vol60 16 blank 4 G g A
+#M=2' vol60 16 blank 4 blank g A
+=2, vol60 16 blank 2. Gr
+#M=2  4. blank-P blank-*
+|
+=1  vol90 leg125 4 D-cre27 32 blank \
+ leg100 4 B_-cre27 16 [A_ B_ 32 A_ G_] 4 A_-cre27
+=2, vol60 4 <B f> vol55 <c e> vol50 <d f>
+#M=2  4. blank-P blank-*
+|
+=1  vol90 4 G_ 4. E-cre27 8 A_# bass
+=2' vol60 4 blank 2 e
+=2, vol60 4 e <C c> <Cn cn>
+#M=2  4. blank-P blank-*
+|
+=1' vol90 2 a#rrl-cre27 vol60 4 b
+=1, vol60 4 gnrl vol50 e vol40 d
+=2' vol60 4 E vol50 Gn vol40 B
+=2, vol50 2 Cn vol40 4 B_

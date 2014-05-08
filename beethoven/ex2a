@@ -1,0 +1,20 @@
+boundingbox 450 95
+midi channel 1 patch 60
+1 system /27 8/
+/
+5 bars | 6/8 4 4 5 | 4 4 4 4 4 5 | 4 4 4 4 4 5 | 4 4 4 4 4 4 | 8 
+| 3/8 1.0
+b0.7 2a.
+r0.7 .02 N. II. p.338
+=1' treble 6/8 cha1 leg90 vol75 4 G 8 vol+10 G
+r0.3 .25 Wo  die
+| 6/8 2.0
+=1' vol+10 4. B vol-10 4 B 8 A
+r0.3 .06 Berge .80 so
+|
+=1' vol-10 leg80 4. G leg90 4 B vol+10 8 B
+r0.3 .01 blau
+|
+=1, vol+10 4. d 4 d vol-10 8 c
+| 1.2
+=1' vol-10 4. B

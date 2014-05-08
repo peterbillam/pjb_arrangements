@@ -1,0 +1,40 @@
+boundingbox 600 147
+midi channel 0 patch 0 reverb 45
+2 systems 5 /27/27/
+/
+5 bars | 4b 12 ||: 12 12 12 10 | 48 | 12 12 12 10 | 16 2 9 12 |
+| 0.8
+b0.7 40.
+r0.7 .50 J. Brahms   Op.5
+=1  treble 4b cha0 leg105 vol75 8 e
+i0.02 .03 Andante espressivo
+| 3.2
+=1' vol90 8 [c A F D]
+|
+#P=1' 8 [B_ C-tr D] B_
+#M=1' 8 [B_ blank leg90 D] leg105 B_
+#M=1' 4 blank 32 blank vol75 32 C D C D C D C B_ C 2 blank 16 blank
+|
+=1' vol90 8 [C E A B]
+|
+#P=1  16-s G,(2 4. <G')2 e'> 8 e(1-emph
+#M=1  163-s G,(2 4. <G')2 e'> 8 e(1-emph
+/
+6 bars | 4b 15 15 15 10 | 12 16 12 12 | 8 8 6 6 9 15 9 7 \
+ | 16 2 11 12 | 16 2 9 12 | 9 9 9 12 :||
+|
+=1, 8 [e)1 cb Ab Fb]
+|
+=1  8 [D E leg90 Fb] leg105 D
+|
+=1  8 [E Gn] 16 [A,-. B-. cb-. d-.]
+|
+#P=1  163-s A,(2 blank 4. <A')2 e'> 8 cn
+#M=1  163-s A,(2 4. <A')2 e'-emph> 8 cn
+|
+#P=1  163-s An,(2 blank 4. <A')2 e'> 8 <G B'>
+#M=1  163-s An,(2 4. <A')2 e'-emph> vol75 8 <G B'>
+|
+b0.8  ________
+b0.2 | 1
+=1, 4 <A c'> 8 rest e

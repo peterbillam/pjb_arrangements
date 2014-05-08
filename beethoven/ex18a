@@ -1,0 +1,19 @@
+boundingbox 600 90
+midi channel 0 patch 40 reverb 45
+1 system 3 /27/
+/
+4 bars | 3# 4 4 3 3 3 3 4 4 5 5 5 4 \
+ | 4 4 3 3 3 3 4 4 5 5 5 4 \
+ | 4 4 3 3 3 3 4 4 5 5 5 4 \
+ | 3 3 3 3 3 3 4 4 5 5 5 4 |
+| 3/4 4.0
+b0.7 18a.
+r0.7 .20 N. II. p.174   Theme.
+=1  treble 3# cha0 \
+    leg100 vol90 8 c{1 leg90 4 B}1-cre27 8 B leg100 16 [B c leg90 d B]
+|
+=1  leg100 vol90 8 d{1 leg90 4 c}1 8 c-cre27 leg100 16 [c d leg90 e c]
+|
+=1  leg100 vol90 8 e{1 leg90 4 d}1 8 d-cre27 leg90 16 [d e f g]
+|
+=1  leg100 4. a-cre27 8 g-cre27 16 [f-cre27 e-cre27 d-cre27 c-cre27]

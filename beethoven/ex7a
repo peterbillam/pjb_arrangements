@@ -1,0 +1,23 @@
+boundingbox 650 100
+midi channel 0 patch 0
+1 system /27 10/
+/
+5 bars | 3b 32 | 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 7 3 | 4 7 4 4 7 4 4 3 | 7
+| 2/4 1.06
+b0.7 7a.
+r0.7 .02 N. II. p.250.
+=1' bass      3b cha0 leg100 vol99 4 e c
+=1, bass      3b cha0 leg85 vol80 16 [E F G E] [A G F E]
+|
+=1' leg100 vol99 8 [B A-tr G] rest'
+=1, leg85  vol80 16 [D C D B_] [E D E G]
+|
+=1' leg85  vol90 16 [A B c d] [e f g an]
+=1, leg85  vol80 16 [F G A F] [G d e c]
+|
+=1' leg85  vol95 16 [b c~ an f] 8 b rest'
+=1, leg85  vol80 16 [d e f F] [B Ab G F]
+| 0.6
+=1' vol99 4 e
+=1, vol80 4 E

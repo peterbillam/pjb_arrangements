@@ -1,0 +1,24 @@
+boundingbox 480 110
+midi channel 0 patch 0 reverb 40
+midi channel 1 patch 60
+1 system /27 10/
+/
+5 bars | 1# 6/8 4 4 5 | 4 4 4 5 5 5 | 4 4 4 5 5 5 | 4 4 4 5 5 4 | 8 
+| 3/8 1.0
+b0.7 2b.
+r0.7 .02 Op. 98
+=1' treble 1# 6/8 cha1 leg90 vol75 4 G 8 vol+10 A
+=1, treble 1# 6/8 cha0 leg100 vol55 4 <B_ D> 8 <D F>
+r0.9 .15 Wo   die
+| 6/8 2.0
+=1' cha1 vol+10 4. B(2 8 B)2 vol-10 8 B A
+r0.9 .03 Ber  -  ge .80 so
+|
+=1' vol-10 leg80 4. G leg90 8 rest A vol+10 8 B
+r0.9 .01 blau .50 aus dem
+|
+=1, vol+10 4. c(1 8 c)1 vol-10 8 c B
+r0.9 .03 neb .38 - .60 ligen
+| 1.2
+=1' vol-10 4. A
+r0.9 .01 Grau

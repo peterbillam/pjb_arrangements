@@ -1,0 +1,15 @@
+boundingbox 400 90
+midi channel 0 patch 40 reverb 45
+1 system 3 /27/
+/
+4 bars | 4# 18 | 18 | 24 | 12 9 |
+| 4/4 3.2
+b0.7 10a.
+r0.7 .20 N. II. p.7
+=1' treble 4#  cha0 leg100 vol90 2 A-cre27 B-cre27
+|
+=1  2 A-cre27 G-cre27
+|
+=1  4 F-cre27 A-cre27 G-cre27 F-cre27
+|
+=1' 4 E-cre27 F-cre27 2 G
