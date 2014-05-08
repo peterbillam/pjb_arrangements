@@ -1,0 +1,212 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2012.12.06.07.43.51;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@prelude in d mino
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+6 systems 15 / 19-30-19/
+pagenum
+innerhead Book 1, Well-Tempered Clavier, J. S. Bach
+title Prelude VI in d minor
+midi channel 0 patch 0 pan 80
+midi channel 1 patch 0 pan 20
+/
+2 bars | 1b 4/4 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 4 4 4 4 3 |
+| 3.6
+=1' treble 1b 4/4 cha0 8 rest 163 rest blank \
+ A-s4 [F D-I3 A] [F leg50 D leg85 d-s5] \
+ [B-s3 G-s2 B] [G leg50 E leg85 G-s4] [E C# G] [E leg50 C leg85 A-s4]
+=2, bass   1b 4/4 cha1 8 [d d] [d d] [d d] [d d]
+|
+=1  163 [F-s2 D A-s4] [F D] a [f-s3 d-s2 f] [d A, d-s4] \
+ [B G, d] [B leg50 G, leg85 g] [e-s3 cn-s2 e] [c G, c-s4]
+=2, 8 [d d] [d~ d~] leg65 [g leg85 g] leg85 [c~ leg65 c~]
+/
+2 bars | 1b 96 | 96 |
+|
+=1 163 [A F c'] [A, leg50 F, leg85  f] [d-s3 B d] [B leg50 G, leg85 g] \
+ [e-s3 c e] [c leg50 A, leg85 a] [f-s3 d f] [d leg50 B leg85 b]
+=2 8 leg85 [f leg85 f] leg65 [b leg85 g] leg65 [c~ leg85 a] [d~ d]
+|
+=1 163 [g-s3 e g] [e c c~] [a-s3 f a] [f c a-s5] \
+ [f-s3 d f] [d A, f-s5] [d B d] [B' F d'-s5]
+=2 8 [e' leg65 c] leg100 [f e] [d' c] [B A]
+/
+2 bars | 1b 96 | 4 4 4 4 4 4 4 4 4 4 4 4 6 4 4 4 6 4 4 4 4 4 4 3 |
+|
+il0.7   5
+=1' 163 [B-s3 G B] [G D B-s5] [G C B] [G E-s2 B] \
+ [A-s4 F A] [F C leg100 F-s5] leg85 [D-s3 B_-s1 leg100 F] \
+ leg85 [C-s2 B_ leg100 E] leg85
+=2 8 [G F] leg60 [E leg85 C] [F A] leg60 [B c]
+|
+=1 163 [C A_ F] [C A_ C-s4] 2. blank
+=2' 4 leg85 F 163 [a f c~] [a f c~] [a f# c~] \
+ [a f leg100 e~b] leg85 [a f leg100 d~] leg85 [a f leg100 c~] leg85
+=2, 4 blank 8 rest, leg100 eb [d c] [B A]
+/
+2 bars | 1b 4 4 4 4 4 4 4 6.6 4 4 6.6 4 4 4 4 4 4 6.5 4 4 4 4 6.6 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 6.5 6 4 4 4 6.6 4 4 6.6 4 4 4 3 |
+|
+=1 163 [B_ G_ D] [B_ G_ D] [B_ G_ En] [B_ G_ F#] \
+ [B_ G_ G] [D B_ leg100 G] leg85 [Eb A_ leg100 G] leg85 [D A_ leg100 F#] leg85
+=2' 8 leg60 [G leg85 B] [c d] leg55 [eb leg85 B] [c d]
+|
+=1 163 [D B_ leg100 G-s5] leg85 [D-s2 B_ D-s4] [B_ G_ D] [B_ G_ D] [B_n G_# D] \
+ [B_ G_ leg100 Fn] leg85 [B_ G_ leg100 En] leg85 [B_ G_ leg100 D] leg85
+=2 4 G 8 rest leg100 fn [en d] [c Bn]
+/
+2 bars | 1b 4 4 4 4 4 4 4 6.7 4  4 6.7 4 4 4 4  4 4 6.7 5 4 4 4 6.7 3 \
+ | 4 4 4 4 4 4 4 6.5 6.4 4 4 4 4 4 4 4 4 4 6.5 4 4 6.4 4 3 |
+|
+=1 163 [C A_ E] [C A_ E] [C A_ F#] [C A_ G#] \
+ [C A_ A] [E C leg100 A] leg85 [Fn B_n leg100 A] leg85 [E B_ leg100 G#] leg85
+=2 8 leg85 [A leg100 c] [d e] leg60 [fn leg90 c,] [d e]
+|
+il0.7 .03 10
+=1' 163 [E C A] [E C c] [D F Bb] [Gn E B] \
+ [A F-s3 A-s5] [C-s2 A_ A] [D B_n G] [E C# G]
+=2 8 [A, a] [a g] leg60 [f' leg95 F] [F E]
+/
+2 bars | 1b 4 4 4 4 4 4 4 4 6 4 4 4 4 4 4 4 4 4 6 4 4 6 4 3 \
+ | 4 4 4 4 4 6 4 4 4 4 4 5 4 4 7 4 4 4 4 4 4 4 4 3  |
+|
+=1 163 [F-s3 D-s1 d'-s5] [A-s2 F-s1 f'] \
+ [B G, leg100 eb] leg85  [cn A, leg100 e] leg85 \
+ [d B leg100 d-s5] leg85 [F-s2 D leg100 d'] leg85 \
+ [G-s2 En leg100 c'] leg85 [A-s3 F#-s2 leg100 c'] leg85
+=2 8 leg65 [D leg95 d'] [d' c] leg65 [B, leg95 b] [b a]
+|
+=1, 163 [B-s3 G d] [B-s2 G g-s5] leg100 [eb leg85  G g] leg100 [d leg85 G g] leg100 \
+ [c# leg85 A g] [en c leg100 b] leg85 [e c leg100 a] leg85 [e c leg100 g-s5] 
+=2 4 g 8 rest leg100 b [a g] [f e]
+
+7 systems / 19-30-19/19-28-19/19-19-19 \
+ / 19-24-19 / 19-35-19 / 19-37-19 / 19-30-19 /
+pagenum
+innerhead Prelude VI in d minor, Book 1, Well-Tempered Clavier, J. S. Bach
+/
+2 bars | 1b 4 4 4 4 4 4 4 6 4 4 6 4 4 4 4 4 4 4 4 6 4 6 4 3 \
+ | 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 3 |
+| 3.6
+=1 163 [f-s4 d-s2  A,-s1] [F-s2 D leg100 A] leg85 \
+ [F D leg100 Bn'] leg85 [F D  leg100 c#'] leg85  \
+ [F D leg100 d']  leg85 [F D  leg100 A] leg85 \
+ [F D leg100 Bb']  leg85 [E C# leg100 A] leg85
+=2 8 leg65 [d leg100 f] [g a] leg65 [b leg100 f] [g a]
+|
+=1 163 [E-s3 C#-s2 G-s5] [D-s3 A_ F] [D B_ E] [C A_ E-s5] 2 blank
+=2' 2 blank 163 [d~-s4 f b-s3] leg100 [a-s2 leg85 f d~] \
+ leg100 [b-s2 leg85 f d~] leg100 [g-s2 leg85 e c~#] 
+=2 8 leg65 [b leg100 F,] [G A] leg65 [B, leg80 F,] leg65 [G, A,]
+/
+2 bars | 1b 6 4 6 4 4 4 4 4 6 6 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 5 4  4 4 4  4 4 4  4 6 4  4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+il0.3 .03 15
+=1 4 blank 163 leg85 [Eb C E] 8 F#-emph 163 [B_ G_ B_] \
+ [D B_ D] [G D G] 8 B(1-emph
+=2' 163 [a f# a] [c~n a c~] 2. blank
+=2, 4. D(1 163 leg70 [D)1 F# A] 4. d(1 163 leg70 [d)1 g b]
+|
+=1 163 [B)1 G, leg100 en] leg85 [B G, leg100 g] leg85 \
+ [B G, leg100 e] leg85 [B G, leg100 c#] leg85 \
+ [B G, leg65 en] leg85 [B G, leg65 g] leg85 \
+ [B G, leg65 e] leg85 [B G, leg65 c#] leg85 
+=2, 8 leg65 [c~# d c~ d] leg55 [c~ d c~ d]
+/
+2 bars | 6 4 4 4 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 4 6 4 4 4 4 4 3 |
+|
+=1' 163 [A F# leg100 d] leg85 [A F leg100 eb] leg85 \
+ [A F leg100 d] leg85 [A F leg100 c] leg85 \
+ [A F leg65  d] leg85 [A F leg65  e] leg85 \
+ [A F leg65  d] leg85 [A F leg65  c] leg85 
+=2, 8 leg65 [c~n d c~ d] leg50 [c~ d c~ d]
+|
+=1 163 [G D G] [B'-s4 G B'-s2] [d B d] [g d g] \
+ leg100 [b-s4 a g] [fn en-s4 d] leg80 [c# A, c] [e c e]
+=2, 8 leg65 [b d b d] leg75 [g d g leg95 d]
+/
+2 bars | 1b 4 4 6 7 4 4 4 4 7 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 5 4 6 4 4 4 4 4 4 4 4 7 4 4 7 4 4 4 4 3 |
+|
+=1 163 [g leg100 e d] [c# Bn A,] leg80 [G E G] [Bb' G B'] \
+ [c G, e] [c leg100 B leg85 e] [c leg100 A, leg85 e] [c leg100 G, leg85 e]
+=2 8 leg95 vol-6 [e d e d] leg100 vol-12 [e d e leg65 d]
+|
+il0.4 .03 20
+=1 163 [cn A, d] [B G, leg100 eb-s5] leg85 \
+  [A F# leg100 d'] leg85 [A F leg100 c'] leg85  \
+ [G D B'] [G leg100 Fn leg85 B'] [G leg100 Eb leg85 B'] [G leg100 D leg85 B']
+=2' 2 blank 8 leg95 [g a g fn]
+=2, 8 leg65 vol+12 [f# d f d(2] 2 d)2(2
+/
+2 bars | 5 4 5 4 4 4  4 4 4 4 4 4  6 4 4 6 4 4 4 4 4 4 4 3 \
+ | 4 4 4 7 4 4 4 4 4 4 4 6 6 4 6 4 4 4 4 4 4 4 4 3 |
+|
+=1' 163 [G C# B] [En C leg100 B] leg85 \
+ [E C leg100 A] leg85 [E C leg100 G] leg85 \
+ [D B_n F] [D leg100 C# leg85 F] \
+ [D leg100 B_ leg85 F] [D leg100 A_ leg85 F]
+=2' 8 leg65 [e leg95 g f e] leg80 [d e] 4 leg95 f
+=2, 2 leg80 dr)2 4. leg85 G#  8 A
+|
+=1' 163 [C# G_ E] [C leg100 B_b leg85 E] \
+ [C leg100 A_ leg85 E] [C leg100 G_ leg85 E] \
+ leg100 [B_n leg85 G_# D] leg100 [C# leg85 G_ E] \
+ leg100 [D leg85 G_ F] 8 G_n(2
+=2' 8 leg65 [e leg95 g f e] [f e f(1] 163 [f)1 e d]
+=2, 2 leg80 Bb 4. leg100 Bn  8 Bb
+/
+2 bars | 4 4 7 4 4 4  4 4 5 7 4 4  4 4 4 4 4 4  4 4 5 4 4 3 \
+       | 6 4 4 4 4 7  4 4 7 4 4 5  7 4 4 7 7 6  7 7 6 4 7 3 |
+|
+=1 163 leg85 [G_)2 E_ G_] [C# G_ C] [E C E] 8 G \
+   163 [F D F] [A F A] [d' A d'] 8 f(1
+=2' 8 leg65 [c# e g leg100 b] leg70 [a d~ f~ a~]
+=2, 4. leg80 A(2 163 [A)2 c# e] 4. a(2 163 [a)2 d~ f~]
+|
+=1 163 [f)1 Bn d] [f d f] [g# f g] leg100 [bn leg85 g f] \
+ leg100 [bb leg85 gn e] leg100 [a leg85 f# d#] \
+ leg100 [g# leg85 fn dn] leg100 [gn leg85 e c#]
+=2 8 leg100 vol+6 g~# vol-6 rest 4 rest 2 rest
+/
+2 bars | 6 6 6 4 6 6 6 6 6 6 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 \
+ | 40 30 ||
+| 1.9 2.1
+il0.5 .12 25
+=1 163 leg100 [f# leg85 eb cn] leg100 [fn leg85 d Bn]  \
+ leg100 [en leg85 c# Bb] leg100 [eb leg85 cn A,]  2 d'(1
+=1, 2 blank 4 rest,, <D Fx G#ll>
+=2, 2 rest 4 rest <Bn d fx g#ll>
+| 2.4 2.8
+=1' 4 d)1 c# 2 <A d-fermata>
+=1' 2 Ar blank
+=1, 4 <D F> <E G> 2 <D F#>
+=2' 2 a <D d-fermata,>
+=2' 4 <dr f> e 2 blank
+=2, 2 A 
+midi pause 2.0
+
+@

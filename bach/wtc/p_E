@@ -1,0 +1,143 @@
+
+midi on
+5 systems 20 /18-37-16/18-37-18/18-37-18/18-40-18 5/18-37-18 5/
+pagenum
+innerhead Book 1, Well-Tempered Clavier, J. S. Bach
+title Prelude IX in E major
+midi channel 0 bank 5 patch 2 pan 80
+midi channel 1 bank 5 patch 2 pan 20
+/
+2 bars | 4# 12/8 60 | 60 |
+| 2.9
+=1  treble 4# 12/8 cha0 leg95 8 [E G B'] [e d e] [c-tr B c] 4. e
+I0.7 .10 p
+=2' bass   4# 12/8 cha1 leg95 4. rest'' g a(1 8 [a)1 g f]
+=2,        4# 12/8 cha1 1. e(2-s4,
+|
+=1  8 [B'-tr A B'] 4. e 8 [A, B c] [B c-s3 A,-s1]
+=2' 4. g(1 8 [g)1 a g] 2. f
+=2, 2. e)2(2 4. er)2 d-s5,
+/
+3 bars | 4# 9 8 8 8 8 9 8 8 9 8 8 7 \
+ | 8 8 8 10 8 8 8 8 9 8 8 7 \
+ | 10 8 8 8 8 8 8 8 8 8 8 7 |
+|
+=1, 8 [G-s2 B-s1 e-s3] 4. g(1-s5 8 [g)1 f-s4 e-s3] [d-s1-s2 e-s3 c-s2]
+=2' 8 e 4 blank 4. blank 4 rest''' 8 c~-s1, 4. f~(1
+=2, 8 [e g b-s1,] [e~-s2, d~ e~-s1,] 2. a#
+|
+=1, 2. d(1-s"(1)"-s3 8 [d)1 e-s3 f-s4] [g-s5 c-s2 e-s4]
+=2' 2. f~)1 4 rest''' 8 b 4. e~(1
+=2, 8 [B d f] [b a# b] 2. e-s5,
+|
+il1.0 .39 5
+=1  8 [F-s1 A#-s2 c'-s3] [f--s5 e f] [G,-s2 B-s2 d-s4] 4. e-s5
+=2' 4. e~)1 2. d~(1-s2, 8 [d~)1 c~-s3, b-s1,]
+=2, 1. f(2-s"    4-5",
+/
+2 bars | 4# 60 | 60 |
+|
+=1 8 [F A# c'] [e d e] [F A c'-s3] 4. dn(1--s4
+=2' 2. a#(1 4. a)1 b(1
+=2, 4. f)2(2-s2,-s3, 4 f)2 8 c-s5, 4. dn(2-s"    4-5", 8 [d)2 e-s4, f-s3,]
+|
+=1  8 [d)1 e dn] [c d B-s1] [A#-s3 G-s2 F-s1] [gn f e#]
+=2' 8 [b)1 c~-s3, d~n-s2,] 2. e~(1 8 [e~)1 d~# c~]
+=2, 2. gn-s"    2-5", 4. f(2-s5, 8 [f)2 g#-s1,-s4, a#-s2,-s3,]
+/
+2 bars | 4# 4 4 4 4 4 4 6 5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 | 96 |
+|
+=1, 8 [en-s1 d# dn-s1] 16 [c-s3 d# 8 e-s5 A#-s1-s3] 2. B(1-s2-s5
+=2' 4. b(1 8 [b)1 a#-s2, e~] 2. d~
+=2, 4 b-s1, 8 e#-s5, 4. f-s1,-s4, 8 [B-s5, d f] [b an b]
+|
+=1  8 [B)1-s1 d f] [b a# b] [c e# g] 4. b(1
+=2' 2. blank 8 rest'' [g b-s2,] [d~n-s1, b-s2, c~(1-s1,]
+=2, 4. g(3 8 [g)3 f g] 2. e#
+/
+2 bars | 4# 60 | 60 |
+|
+il0.8 .13 10
+=1  8 [b)1 g an(1] [a)1 f g(1] [g)1 e# f-s4] 16 [e f 8 g c]
+=2' 4. c~)1 b b# c~
+=2, 4. f-s3, dn-s5, d#l-s4, c-s"    5-4",
+|
+=1' 2. dn(1-s5 4. d)1(1 8 [d)1 d c]
+=1, 8 rest, [B G] [E#--s1 G--s2 F--s1] [G B A] 4. B(2
+=2' 8 rest' [dn-s3, e#-s1,] [g-s2, b-s1, a-s2,] \
+ [b g f] 16 [g-s2, a-s1, 8 b-s1, e-s3,]
+=2, 1. B-s5,
+
+5 systems 10 /18-35-16/18-40-18 3/18-35-18 5/18-35-18 5/18-47-18 15/
+pagenum
+innerhead Prelude IX in E major, Book 1, Well-Tempered Clavier, J. S. Bach
+/
+2 bars | 4# 60 | 10 10 10 10 10 13 |
+|
+=1' 4. c(1-s"(3)"-s5 8 [c)1-s2-s"(5)" B-s4 A-s1] [G-s3 A B(1] [B)1 A G]
+=1, 8 [Br)2 A-s1 G-s3] 2. F 4. E#
+=2' 4. f A B-s3, c
+|
+=1' 4. A(1 8 [A)1 B G-s1-s3] 4. A(1-s2-s4 8 [A)1 16 B A G F]
+=1, 4. F(2 4 F)2 8 En 4. D rest,,
+=2  8 [F A c] [f-s1, en-s2, f-s1,] [B,-s5, d f] [b a b]
+/
+2 bars | 4# 4 4 4 4 4 4 4 4 4 4 4 6 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 75 |
+|
+=1' 16 [G F E F G A] [B A-s3 G A-s1 B c] [dn c B A G F] 8 E rest rest
+=2, 8 [e-s5, g b-s2,] [e~ d~n c~] \
+ 4 b-s1, 8 a-s4, 16 [g-s5, d~-s2, c~ b-s1, a g]
+| 2.9
+il0.8 .03 15
+=1  8 [A, c e] [a g a] [f-tr e f] 4. a
+=2' 4. rest''' c~ d~n(1 8 [d~)1 c~ b]
+=2, 1. a(2-s"    1-4",
+/
+3 bars | 4# 6 5 5 6 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5.5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5.5 5 5 5 |
+|
+=1 8 [e-tr dn e] 4. a 8 [d, e f] [e f-s3 d,-s1]
+=2' 4. c~(1 8 [c~)1 d~n c~] 2. b-s1,-s4,
+=2, 2. a)2(2 4. ar)2 g-s2,
+|
+=1  8 [c-s3 A,-s1 B-s2] 4. c(1-s3 8 [c)1 B-s1 A,--s4] [G-s1-s3 A--s5 F--s3]
+=2' 2. blank 4 rest'' 8 f-s1, 4. b(1
+=2  8 [A c e'] [a g a] 2. d#-s2,
+|
+=1' 8 [G-s4 E F] 4. G(2 8 [G)2 A-s1 B-s3] [c-s5 F-s2 A-s4]
+=2' 2. b)1 4 rest'' 8 e-s2, 4. a(1
+=2  8 [E-s5, G B] [e d e] 2. A,-s5,
+/
+3 bars | 4# 48 | 4 4 4 4 5 4 4 4 5 4 4 3.5 | 4 5 4 4 4 4 4 4 5 5 5 4 |
+|
+=1' 8 [B_-s1 D F] [B A B] [C E G] 4. A
+=2' 4. a)1 2. g(1-,-s2, 8 [g)1 f-,-s3, e-,-s1,]
+=2, 1. B(2-s"    4-5",
+|
+il0.8 .09 20
+=1' 8 [B_-s1 D F] [A G A] [B_ D F-s3] 4. Gn(2-s4
+=2' 2. d(1 4. d)1 e(1
+=2, 4. B)2(2-s2,-s3, 4 B)2 8 F-s5, 4. Gn(2-s"    4-5", 8 [G)2 A B]
+|
+=1' 8 [G)2 A Gn] [F G E-s1] [D-s3 C B_] [cn B A#]
+=2' 8 [e)1 f-s3, gn] 2. a(1 8 [a)1 g f]
+=2, 2. cn-s"    2-5", 4. B(2 8 [B)2 c#-s1,-s4, d#-s2,-s3,]
+/
+3 bars | 4# 2 2 2 2 2 2  4 3 2 2 2 2  2 2 2 2 2 2  2 2 2 2 1 1 \
+ | 48 | 9 ||
+| 1.45 1.5
+=1' 8 [An-s1 G# Gn-s1] 16 [F-s3 G# 8 A D] 2. E(2-s"    3-5"
+=2' 4. e(1 8 [e)1 d an] [g e g] [a g a]
+=2, 4 e-s1, 8 A#-s4, 4. B-s5, 2. c
+| .25 .25 .26 .27 .27 .28 .29 .30 .32 .35 .39 .45
+=1' 2. E)2(2 4. E)2(2-s3-s(5) 4 E)2-s1-s(3)-s(5) 8 D#-s1-s3-s4
+=1 2. blank 4. blank 8 blank 4 blank-s2
+=2' 8 rest'' [g-s1 b-s2] [d~n-s4 c~ d~] 4. c~(1 4 c~)1 8 c~n
+=2  2. e 8 [A-,-,-s"4  ", c-,-s2, e'-s1,] [a g a]
+=2, 2. G-s2,-s5, Ar
+|
+=1 1. E-s2-s3-s5
+=2 1. <g b>
+=2 1. E-s5,
+midi pause 3.0

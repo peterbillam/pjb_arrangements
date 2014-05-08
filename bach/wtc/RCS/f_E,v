@@ -1,0 +1,456 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2014.04.22.11.23.53;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.04.09.08.45.29;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.04.06.05.24.42;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.03.30.06.35.43;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Fugue in E Major
+@
+
+
+1.4
+log
+@another iteration of fingerning
+@
+text
+@
+midi on
+6 systems 15 /18-35-16/18-35-18/18-32-18/18-32-18/18-35-18/18-35-18 5/
+pagenum
+innerhead Book 1, Well-Tempered Clavier, J. S. Bach
+title Fugue IX in E major
+midi channel 0 bank 5,5 patch 0 pan 80
+midi channel 1 bank 5,5 patch 0 pan 20
+/
+3 bars | 4# 4/4 4 3 4 3 4 4 4 4 4 3 4 3 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7.5 4 | 7 5 5 5 5 7 5 5 7.5 5 5 5 5 5 5 4 |
+| .154 .146 .148 .146 .151 .146 .148 .146 .152 .146 .148 .146 .151 .146 .148 .146
+b0.9 a 3 Voci
+=1' treble 4# 4/4 cha0 leg80 2 blank 1 rest'
+=1, 4# 4/4 cha0 leg80 4 rest, 8 rest, vol+10 E-s3, 4 F-s2, vol-10 16 rest, [B_ C D]
+=2' bass   4# 4/4 cha1 leg75 2 blank 1 rest
+|
+=1' 4 rest' 8 rest' vol+10 B-s3 4 c-s4 vol-10 16 rest' [F-s1 G-s2 A#-s3]
+midi off
+=1, 16 [E D-s3, E-s1, F-s3,] [G A vol2 B vol100 G-s2,] \
+ [E-s3, D E F] [E D E F-s2,]
+midi on
+#M =1, 16 [E-s1, D-s2, E-s1, F-s4,] [G A blank G-s2,] \
+ [E D E-s3, F] [E-s1, D-s3, E-s1, F-s2,]
+=2' 2 blank 1 rest
+|
+=1' 16 [B-s4 A#-s3 B-s1 c] [d e-s4 f-s5 d-s4] [B-s2 An B c] [B A B c]
+=1, 16 [D-s3, C D E-s1,] [F-s3, G An F-s3,] 8 [G-s2, B_-s5] 4 E(2-s1,
+=2  2 rest 4 rest 8 rest vol+10 e
+/
+3 bars | 4# 5 5 5 5  5 5 5 5  8 5 8.5 5  8 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 8 5 4 | 5 5 5 5 5 8 5 5 5 5 8 5 5 5 5 4 |
+|
+=1' 16 [A-s1 G-s2 A-s3 B-s5] [A-s2-s4 G--s3 A-s4 B-s5] \
+ [G--s3 F--s2 G-s1-s3 A#--s4] 4 B(1-s1-s5
+=1, 8 [E)2 D-s1,] 4 F(2 8 [Fr)2 B_] [E D-s2]
+=2, 4 f vol-10 16 rest [B c d-s3,] [e-s1, d e f-s4,] [g an b g-s2,]
+|
+il0.9 .16 5
+=1' 4 B)1-s1-s5 A#-s4 8 [B-s1-s5 b-s5] [d-s2 f-s4]
+=1, 2 C 8 B_ rest,, 4 rest,,
+=2, 16 [e-s3, d e f] [e d e f] [d c d-s4, e-s1,] [f-s3, g an-s1, f-s4,]
+|
+=1' 2 B('1--s1 8 [B)'1-s1-s4 A-s2-s3] [G-s1 vol+10 e-s4]
+=1, 8 rest,, vol100 [e-s5 G-s2 B-s4] E 4 F 8 E(2
+=2, 16 [g-s3, f g a] [b-s1, c~-s3, d~n-s2, b-s4,] \
+ [c~-s3, b-s4, c~ d~#-s2,] [e~-s1, d~-s2, c~-s1,-s3, b-s4,]
+/
+2 bars | 4# 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 6 5 5 5 5 5 5 6 5 4 |
+|
+=1' 4 vol+10 f-s5 vol-10 16 rest' [B-s2 c-s1-s3 d-s4] \
+ [e-s5 d-s3 e-s1 f] [g a b-s1-s5 g-s4]
+=1, 4 E)2 8 [D--s1 F] 4 B_ 8 rest, vol+10 B
+=2, 16 [a-s5, g-s4, a-s3, b-s2,] [a-s3, g-s4, a-s2, b-s1,] \
+ 8 [g-s1,-s3, f-s4,] [e-s5, d-s4,]
+|
+=1' vol100 16 [e-s1-s3 d-s2 e-s4 f-s5] [e--s4 d--s3 e-s1-s4 f-s2-s5] \
+ [d-s1-s4 c-s2-s3 d-s4 e-s1] [f-s3 g 8 an(1]
+=1, vol+10 4 c vol-10 16 rest, [F-s1, G A#] \
+ [B A B-s1, c-s3,] [d-s2, e-s1, f-s2, d-s3,]
+=2, 8 [c-s5, b-s1,] [a#-s3, f-s5,] b-s3, rest 4 rest
+/
+2 bars | 4# 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 5 5 6 5 5 4 |
+|
+=1' 8 [a)1 d-s2] 4 g(1-s4 8 [g)1 16 f-s3 e-s1] 4 d-s4
+=1, 16 [B-s1, An-s3, B-s1, c-s2,] [B-s1, A-s3, B-s1, c-s2,] \
+ 16 [A-s1, G-s3, A-s1, B-s2,] [A-s1, G-s2, A-s1 B-s2]
+=2  2 rest 4 rest 8 rest vol+10 b-s5,
+|
+il1.3 .35 10
+=1' 16 [e-s4 d e f-s5] [e-s1-s4 d e f] [d-s3 c d e] 4 f(1-s5
+=1, 8 [G E-s2,] 2 A(2 16 [A)2 B#---s2 c---s3 d---s4]
+=2  4 c~-s1,-s4, vol-10 16 rest [f-s5, g a] [b-s1, a b-s1, c~-s3,] [d~ e~ d~ c~]
+/
+2 bars | 4# 5 6 5 5 5 5 5 6 5 5 6 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 4 |
+|
+=1' 8 [f)1 16 e-s4 d-s3] 4 e(1-s5 8 [e)1 e] [d c-s3]
+=1, 4. G 8 c---s3 2 F(2
+=2, 16 [b#-s1, g-s3, a# b] [c~-s3, d~ e~ c~] \
+ [an-s1, g-s3, a-s2, bn-s1,] [a g a b]
+|
+=1' 8 [B#-s4 G-s2 c-s1-s4] vol+10 c-s2-s4 \
+ 4 d-s1-s5 vol-10 16 rest [G-s3 A#-s1-s4 B#-s5]
+=1, 4 F)2 8 [E A] [D F-s2] [B_#-s1 D]
+=2, 16 [g e f g] [a b c~-s2, a-s1,] [f-s2, e f g] [f e f g]
+/
+2 bars | 4# 6 5 5 5 5 5 5 5 6 5 5 5 5 5 5 4 | 6 5 5 5 5 5 5 5 6 5 5 5 5 5 5 4 |
+|
+=1' 16 [c-s3 B#-s2 c-s3 d-s4] [e-s1 f-s4 g-s5 e] [c-s2 Bn c d] [c B c d]
+=1, 8 G_ rest,, 4 rest,, 2 blank
+=2' 2 blank 4 rest' a#(1
+=2, 8 [e-s1,-s3, d-s4,] [c-s5, e-s1,] [A#-s5, g-s2,] [f##l-s1,-s3, d-s"   5-3",]
+|
+=1, 16 [B A#-s2 B-s1 c-s2] [d e f d] [B-s1 An-s2 B-s3 c] [B A B c]
+=2' 4 a)1 g rest' g(1
+=2, 8 [G-s5, A#-s4,] [B-s1,-s3, A-s4,] [G-s5, f-s2,] [e#-s1,-s3, c-s"   5-3",]
+
+6 systems 15 /18-35-16/18-37-18/18-37-18/18-37-18/18-35-18/18-35-18 5/
+pagenum
+innerhead Fugue IX in E major, Book 1, Well-Tempered Clavier, J. S. Bach
+/
+3 bars | 4# 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 7 7 4 | 7 5 5 5 5 5 5 5 7 5 5 5 5 5 5 4 |
+|
+il0.9 .34 15
+=1  16 [A-s1 G-s2 A-s1 B'] [c d e-s5 c-s2] [d c d e-s1] [f g a f]
+=2' 4 g)1 f rest'' f(1
+=2, 8 [F-s5, G-s4,] [An-s1,-s3, G-s4,] \
+ [F-s5, en-s2,] [d-s1,-s3, c-,-s4,]
+|
+=1 16 [g-s3 f e d-s4] [c' B' A-s1 G-s4] [F G A-s5 F-s3] 8 [D-s2 G-s4]
+=2' 4 f)1 8 [e vol+10 c~] 4 d~ vol-10 16 rest'' [g-s3, a#-s2, b#-s1,]
+=2, 8 [B#-s4, G-s5,] [A-s1,-s4, e-s2,-s5,] [f-s1,-s4, 16 e-s5, f-s4,] 4 g-s3,
+|
+=1' 8 [E-s1-s2 G-s3] [c-s5 Bn-s2] 16 leg90 [e-s5 d leg80 c B] 4 A(1-s"    1-4"
+=1, 16 [C B_#-s1, C-s3, D-s2,] [E-s1, F-s3, G-s2, E-s1,] \
+ [C-s3, B_n C D-s2,] [C B_ C D]
+=2, 8 c-s5, rest 4 rest 2 rest
+/
+3 bars | 4# 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 8 4 |
+|
+=1' 8 [A)1 D-s1] [A-s4 G-s2] 16 leg90 [c-s5 B leg80 A G] 4 F(2-s"     1-4"
+=2' 16 [b-s4, g-s5, a b-s1,] [c~-s3, d~ e~-s1, c~-s2,] \
+ [a-s3, g a b] [a g a-s3, b-s1,]
+=2, 2 blank 1 rest,
+|
+=1' 8 [F)2 16 E-s3 D] [E F G E-s3] [C-s1 G-s5 F-s4 E-s1] 8 D-s4 rest
+=2' 16 [g-,-s3, f g a] 8 [g b(1] [b)1 16 a-s2, g-s3,] [a c~-s3 b-s2 a-s1]
+=2, 4 rest, 8 rest, vol+10 e-s1,-s5, 4 f-s4, vol-10 16 rest-s1, [B-s4, c-s3, d-s2,]
+|
+il0.7 .10 20
+=1' 4 rest 8 rest vol+10 B-s3-s4 4 c-s1-s5 vol-10 16 rest [F G A#]
+=1, 4 blank 16 [E--s1 F G E--s"  2"] 8 C rest,, 4 rest,,
+=2' 16 [g-s2 b-s1 c~ d~-s"3  "] 2. blank
+=2, 16 [e-s1, c-s2, e-s1, f-s4,] [g a b-s1, g-s2,] [e-s3, d e f] [e d e f]
+/
+2 bars | 4# 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 6 5 5 6 5 5 5 5 5 5 4 |
+|
+=1' 16 [B A#-s2 B-s1 c] [d e-s1 f-s4 g-s5] [An-s1-s3 G A B-s5] [A G A B]
+=1, 4 rest,, 8 rest,, vol+10 E 4 F vol-10 16 rest,, [B_-s1, C D-s2,]
+=2, 8 [d f] [B-s5, e(1-s1,-s4,] [e)1 16 d-s3, c-s4,] 8 [d-s3, b-s3,-s4,]
+|
+=1' 16 [G-s3 F G A-s1] [B-s3 c 8 dn(1-s3-s5] \
+ [d)1 16 c-s1-s5 B-s2-s4] 4 c(1-s1-s5
+=1, 16 [E D-s2, E-s1, F-s3,] [G-s2, A-s1, B G] \
+ [E D#-s2, E F] [E D--s2 E--s1 F--s3]
+=2, 4 c~-s1,-s3, 8 rest g-s5, [a-s1,-s4, g-s5,] [a-s1, e-s4,]
+/
+2 bars | 4# 5 5 5 5 5 5 5 6 5 5 5 5 5 5 5 4 | 5 5 6 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+=1' 4 c)1-s2-s"(5)" B-s2-s5 rest B(1-s1-s5
+=1, 16 [D C-s1 D-s2 E-s1] [F G A F] \
+ [Dn-s1 C-s2 D-s1 E-s3] [D C-s2 D-s1 E-s3]
+=2, 8 [f d] [g f] [e f] [g e-s5,]
+|
+=1' 4 B)1-s2-s"(5)" A-s2-s5 rest A(1-s2-s5
+=1, 16 [C B_-s1 C-s2 Dn-s1] [E F-s3 G-s4 E-s3] \
+ [C-s2 B_-s1 C-s2 D-s1] [C B_-s1 C-s2 D-s1]
+=2, 8 [a-s2, b-s1,] [c~-s2, b-s1,] [a-s2, e-s5,] [f-s2, vol+10 c-s5,]
+/
+2 bars | 4# 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
+|
+il0.7 .16 25
+=1  4 A)1 8 [G-s4 vol+10 e'-s3] 4 f-s4 16 rest leg85 [B-s1 c d]
+=2' 16 [b a-,-,-s2, b-s1 c~-s2] [b a-s3, b c~-s1,] \
+ [a-s3, g a-s3, b-s1,] [a f a b]
+=2, 8 [d#-s1,-s4, vol-10 B-s5,] 2 e-s2,-s5, 4 d(2-s2,-s5,
+|
+=1, 16 [e-s4 d-s3 e-s1 f] [g a b g] [a g a b] [a g a b]
+=2' 8 [g b] [e g(1-s1,] [g)1 f] 4 f(1
+=2, 4 d)2 c 8 [F 16 f-s1, e-,-s2,] 8 [d-s1,-s3, B-s5,]
+/
+3 bars | 4# 5 5 5 5 5 5 5 5 5 5 6.5 5 5 5 5 4 \
+ | 5 6.5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 | 16 ||
+|
+=1 16 [g f g a] [g f e-s1 d-s4] \
+ [c'-s3 B'-s1 c'-s2-s4 dn'--s5] [c'-s1-s4 B' c' d']
+=1, 2 blank 8 rest, vol+10 G 4 A(2
+=2' 4 f)1 e(1 8 e)1 rest' 4 blank
+=2, 8 [er-s2, B-s5,] [c-s1,-s2, G-s4,] [A-s3, E-s5,] [F'-s3, C'-s5,]
+| .156 .149 .152 .151 .157 .153 .156 .155 .162 .158 .162 .162 .180 .170 .176 .179
+=1' 16 [B-s"(1)"-s3 c d# B] 2 e-s2-s5 4 d-s1-s4
+=1, 4 Ar)2 16 [G E-s1 F-s2 G-s3] 8 [A-s1 16 B c] [F c-s3 B-s2 A-s1]
+=2, 8 D#'-s4, vol+10 b 4 c~-s2, 16 rest [f g a] 8 [b-s1, B-s3,]
+|
+=1 1 <G e-fermata>
+=2 1 E-fermata
+@
+
+
+1.3
+log
+@refingered one iteration away from czerny
+@
+text
+@d14 1
+a14 1
+=1' treble 4# 4/4 cha0 leg60 2 blank 1 rest'
+d52 1
+a52 1
+ [e-s5 d-s2 e-s1 f] [g a b-s1-s5 g-s4]
+d58 1
+a58 1
+ [d-s1-s4 c-s2-s3 d-s4 e-s1] [f g 8 an(1]
+d77 1
+a77 1
+=1' 8 [f)1 16 e-s4 d-s3] 4 e(1-s5 8 [e)1 e] [d c-s"    3-5"]
+d115 1
+a115 1
+=1' 8 [E-s1-s2 G-s3] [c-s5 Bn-s2] 16 [e-s5 d c B] 4 A(1-s"    1-4"
+d123 2
+a124 2
+=1' 8 [A)1 D-s1] [A-s4 G-s2] 16 [c-s5 B A G] 4 F(2-s1
+=2' 16 [b-s3, g-s5, a b-s1,] [c~-s3, d~ e~-s1, c~-s2,] \
+d140 1
+a140 1
+=1' 16 [B A#-s2 B-s1 c] [d e-s1 f-s4 g-s5] [An-s1-s3 G A B] [A G A B]
+d144 1
+a144 1
+=1' 16 [G-s2 F G A-s2] [B c-s4 8 dn(1-s3-s5] \
+d159 1
+a159 1
+ [C-s2 B_-s1 C-s2 D-s1] [C B_-s1 C-s2 D-s3]
+@
+
+
+1.2
+log
+@fix some fingering typos
+@
+text
+@d18 1
+a18 1
+=1' 4 rest' 8 rest' vol+10 B-s3 4 c-s5 vol-10 16 rest' [F-s1 G-s2 A#-s3]
+d20 2
+a21 2
+=1, 16 [E-s1, D-s3, E-s1, F-s3,] [G A vol2 B vol100 G-s2,] \
+ [E D E-s3, F] [E-s1, D-s3, E-s1, F-s2,]
+d34 2
+a35 2
+=1' 16 [A-s1 G-s2 A-s3 B-s5] [A-s2-s4 G-s3 A-s4 B-s5] \
+ [G-s3 F-s2 G-s1-s3 A#-s4] 4 B(1-s1-s5
+d37 1
+a37 1
+=2, 4 f vol-10 16 rest [B-s4, c d] [e d e f] [g an b g]
+d42 1
+a42 1
+=2, 16 [e d e-s3, f] [e d e f] [d c d e-s1,] [f-s3, g an-s1, f-s4,]
+d44 1
+a44 1
+=1' 2 B('1--s1 8 [B)'1-s1-s4 A-s1-s3] [G-s2 vol+10 e-s5]
+d51 1
+a51 1
+=1' 4 vol+10 f-s4 vol-10 16 rest' [B-s2 c-s1-s3 d-s4] \
+d57 1
+a57 1
+=1' vol100 16 [e-s1-s3 d-s2 e-s3 f-s4] [e-s3 d-s2 e-s1-s4 f-s2-s5] \
+d71 1
+a71 1
+=1' 16 [e-s5 d-s3 e-s4 f-s5] [e-s1-s4 d e f] [d-s3 c d e] 4 f(1-s5
+d73 1
+a73 1
+=2  4 c~-s1,-s4, vol-10 16 rest [f-s4, g a] [b a b-s1, c~-s3,] [d~ e~ d~ c~]
+d75 1
+a75 1
+2 bars | 4# 5 6 5 5 5 5 5 6 5 5 6 5 5 5 5 4 | 5 5 5 5 5 5 5 5 5 5 5 5 5 6 5 4 |
+d83 1
+a83 1
+ 4 d-s1-s5 vol-10 16 rest [G-s3 A#-s2-s4 B-s5]
+d85 1
+a85 1
+=2, 16 [g e f g] [a b c~-s2, a-s1,] [f-s3, e f g] [f e f g-s2,]
+d89 1
+a89 1
+=1' 16 [c-s3 B#-s2 c-s3 d-s4] [e-s1 f g-s3 e-s1] [c-s2 Bn c d] [c B c d]
+d92 1
+a92 1
+=2, 8 [e-s1,-s3, d-s4,] [c-s5, e-s1,] [A#-s5, g-s2,] [f##l-s1,-s"    3-2", d-s3,]
+d94 1
+a94 1
+=1, 16 [B A# B-s1 c] [d-s3 e f d] [B-s1 An-s2 B-s3 c] [B A B c]
+d96 1
+a96 1
+=2, 8 [G-s5, A#-s4,] [B-s1,-s3, A-s4,] [G-s5, f-s2,] [e#-s1,-s"    3-2", c-s3,]
+d108 2
+a109 1
+=2, 8 [F-s5, G-s4,] [An-s1,-s3, G-s4,] [F-s5, en-s2,] [d-s1,-s"    3-2", c]
+d111 1
+a111 1
+=1 16 [g-s3 f e d-s4] [c' B' A-s1 G-s3] [F-s2 G-s3 A-s5 F-s3] 8 [D-s2 G-s4]
+d113 1
+a113 1
+=2, 8 [B# G-s5,] [A-s1,-s4, e-s2,-s5,] [f-s1,-s4, 16 e-s5, f-s4,] 4 g-s3,
+d123 3
+a125 3
+=1' 8 [A)1 D-s1] [A-s4 G-s2] 16 [c-s4 B-s3 A-s1 G-s3] 4 F(2-s2
+=2' 16 [b-s1, g-s3, a b] [c~-s3, d~ e~-s1, c~-s2,] \
+ [a-s3, g-s4, a-s2, b-s1,] [a g a b]
+d128 1
+a128 2
+=1' 8 [F)2 16 E-s1 D-s2] [E-s1 F-s3 G-s4 E-s1] \
+ [C-s2 G-s5 F-s4 E-s1] 8 D-s4 rest
+d132 1
+a132 1
+il0.7 .13 20
+d135 2
+a136 2
+=2' 16 [g-s2 b-s1 c~ d~-s3] 2. blank
+=2, 16 [e-s1, c-s2, e-s1, f-s4,] [g a b-s1, g-s2,] [e d e-s3, f] [e d e f]
+d140 1
+a140 2
+=1' 16 [B A#-s2 B-s1 c] [d e-s1 f-s4 g-s5] \
+ [A#-s2-s4 G A B] [A-s4 G-s3 A-s4 B-s5]
+d144 1
+a144 1
+=1' 16 [G-s3 F-s2 G-s3 A-s1] [B-s3 c-s4 8 dn(1-s3-s5] \
+d146 1
+a146 1
+=1, 16 [E D-s2, E-s1, F-s3,] [G-s2, A-s1 B G] \
+d148 1
+a148 1
+=2, 4 c~-s1,-s3, 8 rest g-s5, [a-s1,-s4, g-s5,] [a-s1, e-s3,]
+d154 1
+a154 1
+ [Dn-s1 C-s2 D-s1 E-s2] [D C-s2 D-s1 E-s3]
+d158 1
+a158 1
+=1, 16 [C B_-s1 C-s2 Dn-s1] [E F-s3 G-s4 E-s1] \
+d166 2
+a167 2
+=2' 16 [b a-,-,-s2, b-s1 c~-s2] [b a-s3, b-s2, c~-s1,] \
+ [a-s2, g a b] [a f a b]
+d172 1
+a172 1
+=2, 4 d)2 c 8 [F 16 f-s1, e-s2,] 8 [d-s1,-s3, B-s5,]
+d178 1
+a178 1
+ [c'-s3 B'-s2 c'-s1-s4 dn'-s5] [c'-s2-s4 B' c' d']
+d181 3
+a183 3
+=2, 8 [er-s2, B-s5,] [c-s1,-s2, G-s4,] [A-s3, E-s5,] [F'-s2, C'-s5,]
+| .156 .149 .152 .151 .157 .153 .156 .155 .162 .158 .162 .162 .180 .168 .173 .174
+=1' 16 [B-s"(2)"-s3 c d# B] 2 e-s2-s5 4 d-s1-s4
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d15 1
+a15 1
+=1, 4# 4/4 cha0 leg80 4 rest, 8 rest, vol+10 E 4 F vol-10 16 rest, [B_ C D]
+d20 1
+a20 1
+=1, 16 [E-s1, D-s2, E-s1, F-s4,] [G A vol2 B-s1, vol100 G-s2,] \
+d39 2
+a40 2
+il0.8 .15 5
+=1' 4 B)1-s1-s5 A#-s4 8 [B-s1-s5 b-s5] [d-s2 f-s3]
+d44 1
+a44 1
+=1' 2 B('1--s1 8 [B)'1-s1-s4 A-s1-s3] [G-s2 vol+10 e]
+d51 1
+a51 1
+=1' 4 vol+10 f-s5 vol-10 16 rest' [B-s2 c-s1-s3 d-s4] \
+d53 1
+a53 1
+=1, 4 E)2 8 [D-s1 F] 4 B_ 8 rest, vol+10 B
+d92 1
+a92 1
+=2, 8 [e-s3, d-s4,] [c-s5, e-s1,] [A#-s3, g-s2,] [f##l-s1,-s"    3-2", d-s3,]
+d96 1
+a96 1
+=2, 8 [G-s5, A#-s4,] [B-s1,-s3, A-s4,] [G-s5, f-sf,] [e#-s1,-s"    3-2", c-s3,]
+d115 1
+a115 1
+=1, 16 [C B_#-s1, C-s2, D-s2,] [E-s1, F-s3, G-s2, E-s1,] \
+d128 2
+a129 2
+ [C-s2 G-s5 F-s4 E-s1] 8 D rest
+=2' 16 [g-,-s2, f g a] 8 [g b(1] [b)1 16 a-s2, g-s3,] [a c~-s3 b-s2 a-s1]
+d135 2
+a136 2
+=2' 16 [g-s3 b-s1 c~ d~-s2] 2. blank
+=2, 16 [e-s1, c-s2, e-s1, f-s4,] [g a b-s1, g-s2,] [e d e-s2, f] [e d e f]
+d141 3
+a143 3
+ [A#-s2-s4 G A B] [A-s3 G-s3 A-s4 B-s5]
+=1, 4 rest,, 8 rest,, vol+10 E 4 F vol-10 16 rest,, [B_-s1, C D-s2]
+=2, 8 [d f] [B-s5, e(1-s1,-s4,] [e)1 16 d-s3, c-s4,] 8 [d-s3, b-s2,-s4,]
+d145 2
+a146 2
+=1' 16 [G-s3 F-s2 G-s3 A-s1] [B-s3 c-s4 8 dn(1-s2-s5] \
+ [d)1 16 c-s1-s5 B-s2-s4] 4 c(1-s1-s3
+d148 1
+a148 1
+ [E D#-s2, E F] [E D-s2 E-s1 F-s3]
+d155 2
+a156 2
+ [Dn-s1 C-s2 D-s1 E-s2] [D C-s2 D-s1 E-s2]
+=2, 8 [f d] [g f] [e f] [g e]
+d166 1
+a166 1
+=1  4 A)1 8 [G-s4 vol+10 e'-s3] 4 f-s4 16 rest leg85 [B-s2 c d]
+d179 1
+a179 1
+ [c'-s3 B'-s2 c'-s1-s4 dn'-s5] [c'-s2-s3 B' c' d']
+d182 1
+a182 1
+=2, 8 [er-s2, B-s5,] [c-s1,-s3, G-s4,] [A-s4, E-s5,] [F'-s2, C'-s5,]
+d185 1
+a185 1
+=1, 4 Ar)2 16 [G E-s1 F-s2 G-s3] 8 [A-s2 16 B c] [F c-s3 B-s2 A-s1]
+@

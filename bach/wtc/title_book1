@@ -1,0 +1,27 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 4.1c
+.ce 100
+\f3\s+7\s+9\s+9Six Preludes and Fuges\s-9\s-9\s-7\fP
+.sp 2.4c
+\f2\s+7from the Well-Tempered Clavier Book I\s0\fP
+.sp 1.8c
+\f3\s+2BWV 802, 803, 804, 805\s0\fP
+.sp 1.8c
+\f2\s+9J. S. Bach\s0\fP
+.sp 1.8c
+\f3\s+2For Piano\s0\fP
+.sp 2.0c
+\(co Peter J Billam, 2014
+.sp 0.7c
+\s-1This score is offered under the
+\f2Creative Commons Attribution 4.0 International\fP
+licence; see \f2creativecommons.org\fP\s0
+.sp 0.7c
+\f2\s-2This edition \*(DY.\s0\fP
+.sp 0.6c
+\f2www.pjb.com.au\fP

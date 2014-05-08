@@ -1,0 +1,263 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2012.09.20.03.33.47;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2012.09.20.01.37.13;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2012.09.19.06.03.16;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.09.19.04.59.46;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Prelude in bb-minor, up to bar 10
+@
+
+
+1.4
+log
+@up to end
+@
+text
+@
+midi on
+6 systems 20 /18-35-18/18-41-18/18-32-18/18-38-18/18-38-18/18-41-18 5/
+pagenum
+innerhead Book 1, WTC, J. S. Bach
+title Prelude XXII in b-flat minor
+midi channel 0 bank 0 patch 0 pan 80
+midi channel 1 bank 0 patch 0 pan 20
+/
+2 bars | 5b 4/4 80 | 80 |
+| .73 .66 .67 .69 .71 .67 .68 .70
+=1' treble 5b 4/4 cha0 leg99 8 rest 16 [B-s2 c] 8 [<B d> <B d>] \
+ [<B d> 16 <An c> <B d>] 8 [<c e> <c e-s1-s2-s4>]
+=1, 5b 4/4 leg90 8 blank rest, rest, F 4 G 8 rest, <C G Anx>
+=2' bass 5b 4/4 cha1 leg90 8 <d~ f~> rest''' rest''' d~ 4 e~ 8 rest''' blank
+=2, 5b 4/4 leg99 8 [b b b b-s1,-s3,-s5,] [b-s2,-s3,-s5, b b b]
+|
+=1' leg99 8 [<c e-s2-s4> 16 <B d> <c e>] 8 [<d f> <d f-s1-s2-s4>] \
+ [<d f> 16 <c e> <d f>] 8 [<e g> <e g-s3-s5>]
+=1, leg90 4 [<D F> 8 rest, <D F B> 4 <C An> 8 rest, <C A>
+=2, leg99 8 [b b b b] [b-s1,-s4,-s5, b b b]
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 8 [g-s1-s3-s5 16 f-s2-s4 e] 8 [f f(1-s5] [f)1 16 e d] 8 [c 16 d-s1-s4 e]
+=1, 8 [er d] rest <B d> 4 B 8 rest, B
+=1, 4 B 2. blank
+=2' 8 b 4. blank 8 [g~n g~b] rest''' g~
+=2, 8 [b 16 b c~] 8 [d~ d~] [d~-s4, 16 c~ d~] 8 [e~ e~]
+|
+=1' 8 [An-s2 f(1-s1-s5] [f)1-s1-s(5) 16 gn-s3 an] 4. b-s5 16 [an-s3 b]
+=1, 8 [F 16 B c---s2] 4. d 16 [c-s1 d-s2] 4 e(2-s1
+=2' 4 f~-s1,-s3, 8 rest''' f~-s2, 2 g~(1
+=2, 8 [e~r 16 d~ e~] 8 [f~ f~(2] [f~r)2 16 e~-s3, d~-s4,] 8 [c~-s5, b-s4,]
+/
+2 bars | 5b 80 | 80 |
+|
+il0.8  5
+=1' 4. c~-s5 16 [c~-s5 b-s4] 4. an-s5 16 [a-s4 c~]
+=1, 8 [e)2 16 <e g-s2-s4> <d f-s1-s3>] 4. <c e-s1-s3> \
+ 16 [<c e-s1-s3> <B d-s1-s2>] 4 <An(2-s1, c(4-s1>
+=2' 8 g~)1 2.. blank
+=2, 4. an 16 [a b] 4. c~ 16 [c~-s5, d~]
+|
+=1' 1 f('1-s"    2-5"
+=1' 8 [cr)4 16 An-s1 B-s2] 8 [c-s1 16 c d-s3] \
+ 8 [e 16 c-s1-s3 d-s2-s4] 4 e(3-s2-s4
+=1, 8 [Ar)2 16 F-s1, Gn-s2,] 4. An-s1, 16 [A B] 8 [c 16 B---s2 A---s1]
+=2, 4. e~-s3, 16 [e~-s2, d~-s3,] 8 [c~-s4, 16 c~-s1, b] 8 [an 16 gn f]
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 8 [f)'1 16 f e-s1-s4] 8 [d-s2-s3 16 e-s1-s5 c] \
+ 8 [d 16 B c] 8 [d d-s1-s3-s5]
+=1, 8 [er)3 16 d c] 8 [B An] 4 B 8 rest, B
+=2' 4. f~ 16 [g~-s2, e~-s3,] 4 f~ 8 rest''' f~
+=2, 2 b(2-s1,-s"    3-5", 8 [b)2-s1,-s5, 16 d~-s2, c~-s1,] 8 [b ab]
+|
+=1' 8 [d-s1-s3-s5 16 c-s1-s2-s4 B] 8 [c c-s1-s3-s5] \
+ 8 [c 16 B-s2-s4 A] 8 [B B-s1-s3-s5]
+=1, 8 [<E B> <E Ab>] rest, <F A> [<F A> <F Gnx>] rest, <Fx G>
+# =2' 8 [e~ e~] rest, f~ [f~ f~] rest, f~
+=2, 8 [gn-s4, 16 a-s2, g-s1,] 8 [f e] [dn 16 g-s1, f-s2,] 8 [en g]
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 8 [Br-s2-s3-s5 16 A-s1-s2-s4 Gn] 8 [A A-s1-s4-s5] 8 [A 16 G-s1-s3 A] 8 [B G]
+=1, 8 [<Enlr Gn> <C F>] rest,, <C F> [<D F> <B_ D>] rest,, <B_ D>
+=2  8 [c,-s3, 16 f-s1, eb] 8 [db' c] [B B-s1,-s5,] [B B]
+|
+il0.8 .01 10
+=1' 8 [En c(1-s2-s5] [c)1 16 B-s1-s4 A] \
+ 8 [B B(1-s2-s5] [B)1 16 A-s1-s2-s5 Gn-s4]
+=1, 8 [C 16 F E] 8 [F F(2] [F)2 16 En Dn] 8 [E E(2]
+=2' 8 [gn a(1] [a)1 16 g f] 8 [g g(1] [g)1 c~(1]
+=2, 8 [B A] [d-s3, d(2-s1,-s4,] [d)2 16 c-s4, B] 8 [c c-s2,]
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 8 [A-s4 A(1-s1-s4-s5] [A)1 16 Gb-s1-s3 F-s2] \
+ 8 [G-s1-s3 d(1-s2-s4] [d)1 16 c B]
+=1, 8 [En)2 16 F Eb--s3] 8 [Db D] [D 16 B An] 4 B
+=2' 8 [c~)1 c~(1] [c~)1 16 b a-s2,] 8 [b 16 gb f] 4 g
+=2, 8 [c-s2, F] [B-s2, B-s1,-s5,] [B B] [B B]
+|
+=1' 8 [en c-s2-s4] 2 f 4 en
+=1' 4. blank 8 c [d B] blank c
+=1  4 blank 163 blank 83 rest 8 blank 4 blank 163 blank 83 rest 8 blank
+=1, 8 [c 16 F Gn-s1] 8 [A A] [A 16 Gn A] 8 [B Br(2]
+=2' 8 [gn 16 a g-s2,] 4. f 16 [en f] 8 [g g]
+=2, 8 [B A] [d-s1,-s3, c] [B dr-s2,-s4, c-s2,-s5, c]
+
+
+6 systems /18-33-18/18-41-18/18-42-18/18-38-18/18-40-18/18-40-18 5/
+pagenum
+innerhead Prelude XXII in b-flat minor, Book 1, WTC, J. S. Bach
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 4 f 8 rest''-s1-s3 16 [f-s5 eb-s4] 4 d-s"    3-5" 8 rest' 16 [e-s3 f]
+=1, 8 [<Bxr)2 c> 16 <A c-s1-s3> <Gn B-s1-s2>] 4 <A c> \
+ 8 rest, 16 [<A-s1, cb-s1> <Gb-s4, B-s2>] 4 <F-s1, A-s1>
+=2' 4 f 2. blank
+=2, 4 F 8 rest f-s5, 4 b-s4, 8 rest b-s2,
+|
+=1' 4 g-s5 8 rest'-s1 16 [e-s5 db-s4] 4 cn-s"    3-5" 8 rest' 16 [d-s3 e]
+=1, 8 rest, 16 [<E-s1, G-s1> <F-s2, A-s2>] 4 <G-s1, B> \
+ 8 rest, 16 [<C-s1, E-s1> <D-s2, F-s2>] 4 <E-s1, G-s1>
+=2, 4 e 8 rest e 4 a-s3, 8 rest a-s3,
+/
+2 bars | 5b 80 | 80 |
+|
+il0.8  15
+=1' 4 f-s5 8 rest'-s1 16 [d-s1-s4 c-s3] 8 [B-s1-s2 B] [g-s2-s5 16 g f]
+=1, 8 rest, 16 [<F-s1, A-s1> <E-s2, G-s2>] 8 [<D-s1, F> <D F>] \
+ [<D G> <D G>] [B B]
+=2' 2. blank 8 [e~ 16 e~ f~-s2,]
+=2, 4 d 8 rest d [g-s1,-s3, 16 g f] 8 [e e-s1,-s3,]
+|
+=1' 8 [e e-s1-s3] [c~ 16 c~ b] 8 [an a] [b 16 b ab]
+=1, 8 [B 16 An B-s2] 8 [c c] [<c f> <c f>] [<B f> <B f>]
+=2' 8 [g~ g~] [g~ f~] 2 blank
+=2, 8 [c~-s1,-s4, 16 c~-s1,-s3, b] 8 [an a] [e~ 16 f~-s1, e~] 8 [d~n d~]
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 8 [<f gx> <e g>] [<e g> <e g>] [g f-s2-s4] [f-s2-s5 16 g-s1-s5 f]
+=1, 8 [B B] [B 16 An B] 8 [<c e> 16 <F d> <E-s2, c-s1>] 8 [<D B> <D B>]
+=2, 8 [e~ 16 e~ d~b] 8 [c~ 16 c~-s3, b] \
+ 8 [an a-s1,-s5,] [b-s1,-s4, 16 b-s1,-s2, ab]
+|
+=1' 8 [e 16 e-s1-s5 d] 8 [c 16 c-s1-s2-s3 d-s2-s4] \
+ 8 [e-s1-s2-s5 16 c-s1-s2-s3 d-s2-s4] 8 [e-s1-s3-s5 16 d-s1-s3-s5 c]
+=1, 8 [B 16 An B] 8 [Br 16 A B] 8 [A 16 A B] 8 [c 16 B A]
+=2' 8 [d~ 16 c~ d~] 8 [e~ f~] [g~b g~] [f~ f~]
+=2, 8 [g 16 g-s2,-s4, f-s1,-s5,] 8 [e-s1,-s4, 16 e-s2, d] \
+ 8 [c 16 c-s1, B] 8 [An F]
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 2 d(1 8 [d)1 16 g-s4 f-s5] [e-s4 d-s3 c-s1-s2-s5 B-s1-s4]
+=1, 4 <F B> 8 rest, <F B> 4 <G B> 8 rest, G
+=2' 2. blank 8 rest'' 16 [e~ d~]
+=2' 8 [B-s2, 16 B Ab] 8 [G 16 G-s3, F] 8 [E E E E]
+|
+il0.6 .33 20
+=1' 8 [An-s1-s3-s5 16 F-s2 Gn] 8 [A <F A>] \
+ [<F A-s1-s3-s5> 16 <En G-s2-s3> <F A-s2-s4>] 8 [<Gn B> <G B>]
+=1, 4 F 8 rest,, Er 4 D 8 rest,, En
+=2' 8 [c~ 16 an b] 8 [c~ c~] 4 b 8 rest'' d~
+=2 8 F [f-s3,-s5, f f] [f f f f]
+/
+2 bars | 5b 80 | 80 |
+|
+=1' 8 [<Gnr B> 16 An-s1-s3 <G B>] 8 [<A c> <A c>] \
+ [<A c> 16 <G B> <A c>] 8 [<B d-s4-s5> <B d>]
+=1, 8 [Enlr F] rest,, F 4 F 8 rest,, F
+=2' 8 [c~ 16 c~ d~-s2,] 8 [e~b e~] \
+ [d~ 16 d~ c~-s1,] 8 [b 16 b ab-s2,]
+=2, 8 [f f-s1,-s5,] [f f] [f f] [f f(2-s1,-s4,]
+| .74 .76 .81 .86 .92 .92 .92 .75
+=1' 8 [<B d> 16 <An c-s1-s2-s3> <B d-s2-s4>] \
+ 8 [<An c e> 16 <A c e> <d f-s3-s5>] 4 <A c e g-fermata> 8 rest--fermata f-s1-s5
+=1, 8 [Gb Gr] [Gr Gr] 4 Gr 8 blank c
+=2' 8 [gb 16 g f] 8 [g g] 4 g-fermata 8 blank--fermata f~
+=2, 8 [fr)2 16 e-s1,-s3, d-s2,-s4,] \
+ 8 [<c e> 16 <c-s1,-s2,-s3, e> <B-s2,-s4, d>] 4 <An c e> 8 rest an
+
+/
+2 bars | 5b 4/4 80 | 40 25 ||
+| .76 .73 .76 .80 .75 .76 .75 .76
+=1' 8 [d-s2-s4 16 e-s2-s5 c-s1-s4] 8 [d-s1-s3-s5 16 c-s1-s2-s4 B-s3] 2 B(1-s5
+=1, 8 [B B] [B An] Br 16 [<Dn F-s1-s2> <E G-s1-s3>] 8 [<F Ab-s2-s4> <F A>]
+=2' 8 [f~ 16 b g~] 8 [f~ e~] d~n 4. blank
+=2' 4 blank 4 fr(1 8 [fr)1 16 f e] [dn c e d]
+=2, 8 [b 16 g-s2,-s4, e-s5,] 8 [f-s1, F] [B B-s1,-s5,] [B B]
+| .76 .79 .83 .92 .92 .92 .92 .92
+=1' 1 Br)1
+=1, 8 vol-5 [<F A> <E(2 G(3>] \
+ vol-10 [<E)2 G)3> vol-10 16 <Dn F-s2-s3> <C E-s1-s2>] 2 vol-10 <D F>
+=2' vol95 8 [dn 16 e f] vol-10 8 [g vol-10 g] 2 vol-10 f
+=2, vol95 8 [B B] vol-10 [B vol-10 B] 2 vol-10 B
+@
+
+
+1.3
+log
+@up to bar 21
+@
+text
+@d94 1
+a94 1
+6 systems 15 /18-33-18/18-41-18/18-42-18/18-38-18/18-40-18/18-32-18 10/
+d161 22
+@
+
+
+1.2
+log
+@up to bar 12, half-way
+@
+text
+@d32 1
+a32 1
+=1, 8 [F 16 B c--s2] 4. d 16 [c-s1 d-s2] 4 e(2-s1
+d94 1
+a94 1
+6 systems 15 /18-38-18/18-32-18/18-32-18/18-32-18/18-32-18/18-32-18 10/
+d98 63
+a160 1
+3 bars | 4b 60 | 60 | 60 |
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+a3 1
+6 systems 20 /18-35-18/18-41-18/18-32-18/18-38-18/18-38-18/18-32-18 5/
+d77 15
+@

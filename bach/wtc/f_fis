@@ -1,0 +1,256 @@
+
+midi on
+6 systems 10 /18-25-18/ 18-35-18/ 18-30-18 3 \
+ / 18-35-18 5/ 18-42-18 6/ 18-42-18 6/
+pagenum
+innerhead Book 1, WTC, J. S. Bach
+title Fugue XIV in f-sharp minor
+midi channel 0 patch 0 pan 70
+midi channel 1 patch 0 pan 30
+/
+4 bars | 3# 6/4 4 3 4 3 4 3 3 2 3 2 3 2 | 3 3 5 4 3 3 3 3 4 4 5 3 \
+ | 3 3 3 5 4 4 4 4 3 3 3 2 | 3 3 4 3 3 3 4 4 4 4 5 3 |
+| 5.0
+b0.9 a 4 Voci
+=1  treble 3# 6/4 cha0 leg99 2 blank 1. rest
+=2, bass   3# 6/4 cha0 leg99 4 rest f-s4, g 2. a(1
+|
+=1 2 blank 1. rest
+=2, 4 a)1 8 [g a#] 4 b(1 b)1 8 [a g a b#]
+|
+=1 2 blank 1. rest
+=2, 4. c~-s2, 8 [bn an c~] [b-s1, a] 2 g-tr
+|
+=1' 4 rest C-s1 D# 2. E(2
+=2, 2. f 8 rest' leg75 [c~-s2, leg99 c~ leg75 b-s1, leg99 b leg75 a#]
+/
+3 bars | 3# 4 4 5 4 4 4 3 3 5 4 5 3 \
+ | 4 5 4 5 4 4 4 5 3 3 3 2 | 4 4 4 4 5 4 4 4 5 5 5 3 |
+|
+il0.7 .03 5
+=1' 4 E)2 8 [D# E#] 4 F(2 F)2 8 [E# D# E F##]
+=2, 8 leg99 [a# leg75 b leg99 b leg75 an leg99 a leg75 g] 2 leg99 g(1 8 [g)1 a#]
+|
+=1' 4. G-s5 8 [F# En G] [F E] 2 D#-tr
+=2, 8 [b#-s1, c~-s2,] 4 d~# leg75 g-s5, 2 leg99 c~-s3, 4 b#
+|
+=1' 8 [C E-s1 F G] 4 A(1--s4 8 [A)1 F-s2 G A#] 4 B(1--s5
+=1, 4. C-s3, 8 [B_n-s4, C D#] 4. E 8 [C-s2, D#-s1, E#--s1]
+=2 1 blank 1. rest
+/
+3 bars | 3# 4 4 5 4 4 4 4 4 4 4 5 3 \
+ | 4 4 5 4 4 4 4 5 4 4 5 3 | 5 5 4 5 6 5 4 4 3 3 3 2 |
+|
+=1' 8 leg75 [B)1-s2-s(5) B leg99 B-s1-s5 \
+ leg75 An--s4 leg99 A-s1-s5 leg75 G--s4] \
+ leg99 [G-s2-s5 leg75 F-s(2)-s4 leg99 F--s5 leg75 E--s4 leg99 E--s4 leg75 D#]
+=1, 4 leg95 F C B_ C 2 blank
+=2' 1 blank 4 a-,-,-s1, f-,-,-s2,
+=2, 4 rest, F-s5, G-s4, 2. A(2-s5,
+|
+=1' 8 leg99 [D#-s1-s3 leg75 E--s4 leg99 E leg75 Dn leg99 D leg75 C] \
+ leg95 2 C(1-s1 8 [C)1 D#-s(1)-s2]
+=1, 2. blank 2 blank 4 C(2
+=2' 2. b 8 [e#-s1, c-,-s2,] 4 f blank
+=2, 4 A)2 8 [G-s4, A#-s3,] 2 B-s3, \
+ 8 [A#-s1,-s4, G-,-s5, A-s4, B#-s3,]
+|
+il1.0 .29 10
+=1' 8 [E#-s(1)-s3 F-s2-s4] 4 G-s3-s5 Cr 2 F-s1-s4 4 E#-s3
+=1, 8 [C)2 D#] 4 E# 8 [F-s1-s4 En-s2] [Dn C-s2] 2 B_(2-s1
+=2' 4. c-s2, 8 [Bn An c-s2,] [B-s1, A-s2,] 2 G-tr,
+/
+3 bars | 3#  4 4 4 4 4 4 4 5 5 4 4 3 | 6 5 5 4 5 5 4 4 4 5 5 3 \
+ | 6 4 4 5 4 4 4 4 4 5 5 3 |
+|
+=1' 2. F-s5 4 En-s4 8 [F-s2-s3 G-s1-s4] 4 A-s2-s5
+=1, 8 [B_)2 A_-s1 B_-s2  C-s3] 4. D-s3 8 [C-s1 D# E#] 4 F(2
+=2' 4. F 8 [E-s5, F G] 2 A(2 8 [A)2 B-s1,]
+|
+=1' 2. G-s"  4-5" F-s2-s5
+=1, 8 leg75 [Fr)2 leg99 F-s2 En-s1 D#-s3 C B_n-s1] \
+ 4 A_# 8 [B_#-s1 C] 4 D#(2
+=2, 8 [c-s3, B# c d#] 4. e 8 [f-s2, e-s1, d-s3, c B#]
+|
+=1' 4. E 8 F--s5 2 Gn-s1-s5 8 [F-s2-s5 E Dn C]
+=1, 8 [D#rl)2 D-s3] 4 C-s2 B_ 2. blank
+=2' 2. blank 8 [a#-s2 b-s1] 2 c~(1
+=2, 4. c 8 [c,-s4, dn e] 4. f-s1, 8 [F-s4, G A#]
+/
+3 bars | 3# 4 4 4 5 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 4 5 3 | 4 4 5 4 4 4 4 3 4 4 5 3 |
+|
+=1' 4. D-s(2)-s3 8 E-s4 2 F-s1-s5 8 [E-s2-s5 D C B_-s1]
+=2' 8 [c~)1 c~-s2] 4 b-s1 a 8 [g-s2 a-s1] 2 b(1
+=2, 4. B 8 [B-s4, c d] 4. e 8 [E-s5, F G]
+|
+il0.9 .07 15
+=1' 4 rest F-s2-s3-s4 G-s2-s4-s5 2. A(1-s1-s4-s5
+=1, 4 C-s2 D# E# 2. F(2
+=2' 8 [b)1 leg99 d~-s"3  " c~ leg75 b-s1 leg99 b leg75 a-s1] \
+ leg95 [a b-s1] 2 c~-s2
+=2, 8 [A leg99 B A-s3, leg70 G leg99 G leg75 F] \
+ [F-s5, f-s1, leg99 f leg75 e-s2, leg99 e leg75 d#-s3,]
+|
+=1' 4 A)1 8 [G-s3 A#] 2 B-s2-s5 8 [A#-s2-s4 G-s1-s3 A-s2-s4 B#--s5]
+=1, 4 F)2 G F E# 8 [F E] 4 F
+=2' 2. b c~(1
+=2, 8 leg99 [d#-s1,-s3, leg75 e-s2, leg99 e leg75 dn-s3, leg99 d leg75 c-s4,] \
+ 2 c(2-s1,-s5, 8 [c)2 leg95 d#]
+/
+3 bars | 3# 5 5 4 5 5 5 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 4 4 4 5 4 5 3 | 5 4 4 4 5 4 4 4 4 4 5 3 |
+|
+=1' 4. c-s1-s"   4-5" 8 [Bn-s4 An-s2-s3 c-s1-s(2)-s5] \
+ [B-s(2)-s4 A-s1-s3] 2 G-s1-s"    2-4"
+=1, 2 G 4 F(2 8 [F)2 E] 4 D C(2-s"    2-1"
+=2' 8 [c~)1 d~#-s2] 4 e~#-s1 8 [f~ e~n d~n c~-s2,] [b-s1, a-s2, g b-s1,]
+=2, 8 [e#-s3, f-s2,] 4 g-s1, c-s5, 2 f-s1,-s4, 4 e#-s3,-s5,
+|
+=1' 8 [F-s2 A-s3 B-s4 c-s2-s5] 4. d-s1-s5 8 [B-s2 c-s3 d#-s1-s4] 4 e(1-s2-s5
+=1, 4. C)2 8 [G A B] 4. E 8 [A B c]
+=2' 4 a rest'' rest'' 2. blank
+=2, 4. f-s2,-s4, 8 [e#-s5, f g] 4. a 8 [f-s4, g a#]
+|
+=1' 8 leg99 [e)1 leg75 dn leg99 d-s5 leg75 c leg99 c-s5 leg75 B#] \
+ 4 B-s4 2 c(1-s5
+=1, 2. F(2 8 leg99 [F)2 leg75 F-s2 leg99 F leg75 E leg99 E--s2 leg75 D#]
+=2 8 leg75 [b' B-s5, leg99 B-s3, leg75 A leg99 A leg75 G] \
+ leg75 [G, a leg99 a leg75 g leg99 g leg75 f]
+
+6 systems 5 /18-32-18/18-32-18 7/18-35-18/18-38-18/18-45-18/18-40-18 5/
+pagenum
+innerhead Fugue XIV in f-sharp minor, Book 1, WTC, J. S. Bach
+/
+4 bars | 3# 6 8 6 6 6 6 9.5 6 6 9 6 5 | 9 6 6 6 6 6 6 6 9 6 9 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 9 6 6 9 6 6 5 |
+|
+il0.8 .03 20
+=1' 4 c)1 2 B#-s2-s4 8 [c-s1-s3 d#--s4 e-s2-s5 f-s4] 4 gn(1-s"    1-2"-s5
+=1, 8 leg75 [D# G--s"  2" leg99 G leg75 F leg99 F-s2 leg75 E] 4 leg95 E c Bn
+=2 4 leg99 f-s2, leg75 g-s1, G 4. c leg99 8 [c-s5, dn' e']
+|
+=1' 4 gn)1 c-s2 8 [f-s4 e-s5] [d c] 2 d-s2-s4
+=1, 2. A#(2 4 A#)2 8 [B An-s1] 4 G(2-s2
+=2  8 leg95 [f-s2, gn f e-s1, d c,] \
+ leg75 [B d'-,-s1, leg99 G#-s3, leg75 F leg99 F leg75 E#]
+|
+=1' 4 c-s(2)-s3 d#-s1-s4 e#-s1-s5 2. f(1
+=1, 4 G)2 8 [A B A G-s2] 4. F 8 [G-s1 A-s2 F-s1]
+=2, 8 [E# leg95 e# leg99 f-s3, leg75 g leg99 g-s3, leg75 a] \
+ [a d~ leg99 d~ leg75 c~ leg99 c~ leg75 b] leg95
+|
+=1' 2 f)1-s2-s"(5)" en-s"    4-5" dn(1-s"    4-5"
+=1, 8 [G A-s1] 2 B-s2 c 4 F--s1
+=2, 8 [b-s2, a g d~ c~ b] [a# leg75 b leg99 b-s1, leg75 an leg99 a leg75 g]
+/
+3 bars | 3# 5 5 5 5 5 5 5 5 5 5 6 4 \
+ | 5 5 5 5 6 5 6 6 5 6 6 4 | 5 6 6 5 5 5 5 5 6 5 6 4 |
+|
+il0.8  24
+=1' 4 d)1-s3-s(5) 2 c(1-s"    4-5" 4 c)1-s1-s"(5)" 2 B(1-s"    4-5"
+=1, 4. B 8 [E F G] 2 A 4 Dn-s2
+=2 8 leg99 [g f e b a g] [f leg75 g leg99 g-s2, leg75 f leg99 f leg75 e#] leg99
+|
+=1' 8 [B)1-s1-s5 G-s2 A-s3 c-s4 f-s1-s5 d#--s4] 2. e(1-s2-s5
+=1, 2 C 4 A 8 \
+ [G leg75 c---s3 leg99 c---s3 leg75 B---s1 leg99 B---s1 leg75 A#---s2]
+=2  4 e#-s2, leg75 f-s1, F leg99 8 [c,-s3, d# en f-s2, gn e]
+|
+=1' leg95 4 e)1 8 [d#-s2-s3 e#-s1-s4] 2 f-s1-s5 8 [e#-s3 d#-s2 e f##-s1-s4]
+=1, 8 leg99 [A# leg75 B-s1 leg99 B leg75 An leg99 A leg75 G-s2] \
+ leg95 2 G(2-s1 8 [G)2 A#]
+=2' 8 leg75 [f-s1, F-s5, leg99 B-s3, c d B-s2,] \
+ leg75 [c-s1, C leg99 c-s1, B#-s3, c-s2, en]
+/
+3 bars | 3# 5 6 6 5 5 5 5 6 5 5 5 4 \
+ | 5 5 5 5 6 5 5 5 6 6 6 4 | 6 5 5 5 5 5  5 7 6 5 6 4 |
+|
+=1' 4. g-s1-s5 8 [f#--s4 e-s1-s3 g--s5] [f-s2-s4 e--s5] 2 d#-tr-s"    3,4"
+=1, 8 [B# c] 4 d# G 2 c 4 B#-s1
+=2  8 [d#' c B#-s1, leg75 G-s5, c-s3, e'-s2,] \
+ leg99 [a-s1, f-s2, g f g G,]
+|
+=1' 8 [c-s2 e-s3 f-s4 g-s1-s5] 4. a-s2-s5 8 [f-s2 g a#] 4 b(1-s2-s5
+=1, 4. c 8 [Bn c d#--s3] 4. e--s1 8 [c d# e#-s1]
+=2 4 leg110 c leg99 rest rest 2. rest
+|
+=1' 8 leg99 [b)1-s2-s(5) leg75 an leg99 a leg75 g leg99 g leg75 f] \
+ leg95 [f 16 a g 8 leg99 f leg75 en leg99 e-s1 leg75 d#-s4] leg95
+=1, 4 f F E# 8 leg75 [F C-s4, leg95 F-s2, G-s1, A-s1, F-s2,]
+=2, 4 rest f-s1,-s5, g-s1,-s4, 2. a(2-s2,-s5,
+/
+4 bars | 3# 6 6 10.5 6 10 9 6 6 6 6 6 10.5 5 \
+ | 10 10 6 10 10 10 6 6 5 4 4 3 \
+ | 10.5  6 6 6 6 6 6 6 6 6 6 5 \
+ | 11 6 10 6 6 6 10.5 6 10 6 10.5 5 |
+|
+il1.0  30
+=1' 8 [d#-s2-s4 leg75 e--s5 leg99 e--s5 leg75 dn-s1-s4 leg99 d-s2-s5 \
+ leg75 c-s1-s3] leg95 2 c(1--s2 8 [c)1 d#-s3]
+=1, 4. B 8 [F G An] [E#-s1, C-s2,] 4 F 4 C(2]
+=2, 4 a)2-s"(5)", 8 [g-s4, a#-s3,] 2 b-s3, \
+ 8 [a#-s1,-s4, g-,-s5, a-s2,-s4, b#-,-s1,]
+|
+=1' 8 [e#-s1 f-s4] 4 g-s5 c-s2 2 f-s5 4 e#-s4
+=1, 8 [C)2 D#-s2,] 4 E#-s1, 8 [F En] [Dn C] 2 B_
+=2, 4. c~-s3, 8 [bn-s4, an-s2,-s5, c~-s1,-s3,] [b-s2,-s4, a-s3,-s5,] 2 g-s1,-s4,
+|
+=1' 8 [f-s5 en leg99 d-s1-s3 leg75 c-s2 leg99 c-s3 leg75 B-s2] \
+ [B f-s5 leg99 B-s3 leg75 A-s2 leg99 A-s3 leg75 G-s2] leg95
+=1, 8 [A_ C-s1,] 2 F(2 2. F)2(2
+=2' 4 f-,-s3,-s5, 2. a 4 f-s3, b-s1,
+=2, 4 rest, 4 f-s2,-s3, e-s4, 2. d#(2-s5,
+|
+=1' 4. G-s3 8 [B-s4 A-s5 G] \
+ [F-s1-s3 E# F A-s2-s4 B-s1-s5 c-s2-s4]
+=1, 8 [Fr)2 F-s2] 2 E-s1 4 D 8 rest,, [F G A#]
+=2' 2 b 8 [c~ b-s2,] 2 a-s1, 4 rest''
+=2, 4 d)2 8 [e-s3, dn-s4,] 2 c-s1,-s5, 8 [d-s3, en d c]
+/
+3 bars | 3# 6 5 5 6 5 5 6 6 5 5 5 4 \
+ | 7 6 5 5 6 5 5 5 5 5 5 4 | 6 5 6 5 5 5 5 5 6 5 5 4 |
+|
+=1' 2. d(1-s3-s5 8 leg75 [d)1 G-s2-s3 leg99 c-s1-s5 leg75 B leg99 B leg75 A]
+=1, leg95 8 [B An--s1 G--s3 F E# F] [E Fr] 2 G(2
+=2' 8 rest' f-s2, 4. b-s1, 8 a 4. g 8 g-s4, 4 c~(1-s2,
+=2, 4. B-s5, 8 [c-s4, d-,-s3, B-s1,-s5,] [c-s2,-s4, d#-,-s3,] 2 e#-s5,
+|
+il0.9 .15 35
+=1' 2. A(1-s4 8 [A)1-s1-s4 c-s5 B leg75 A-s3 leg99 A-s4 leg75 G-s3] leg95
+=1, 8 [Gr)2 G-s3 F-s2 leg75 E-s1 leg99 E-s1 leg75 D#-s2] 2. leg95 D(2
+=2' 8 [c~)1 e~-s1, d~#-s2, leg75 c~-s3, leg99 c~-s2, leg75 b-s3,] 2. leg95 b(1
+=2, 2. f(2-s5, 8 [f)2-s1,-s5, a-s2, g leg75 f leg99 f leg75 e] leg95
+|
+=1' 2. G(1-s4 8 [G)1 B-s5 A leg75 Gn leg99 G-s4 leg75 F-s3] leg95
+=1, 8 [D)2 F-s3 E-s2 leg75 Dn-s1 leg99 D-s2 leg75 C-s1] 2. leg95 C(2
+=2' 8 [b)1 d~n c~-s2, leg75 b-s1, leg99 b leg75 a-s2,] 2. leg95 a(1
+=2, 2. e(2-s5, 8 [e)2-s1,-s(5), g-s2, f leg75 e leg99 e leg75 d] leg95
+
+/
+4 bars | 3# 6 5 5 5 5 6.2 5 5 6 5 6.2 4 \
+ | 5 5 6.5 5 6 5 4 4 5 5 6.2 4 \
+ | 5 5 6 5 5 5 5 5 5 5 6.2 4 | 12 ||
+|
+=1' 8 [F-s(1)-s3 E#] 4 F-s1-s3 G#-s4 2. A(1-s5
+=1, 4 C)2 2 B_ 8 rest,, [G F leg75 En leg99 E-s1 leg75 D#-s2]
+=2' 4. a)1 8 [a g f] [e# b a leg75 g leg99 g-,-s2, leg75 f-,-s3,]
+=2, 2. d c(2-s4,-s5,
+|
+=1' 4 leg95 A)1 8 [G-s2-s3 A#-s1-s4] 2 B-s1-s5 8 [A-s3 G A B#-s1-s4]
+=1, 8 leg99 [D# leg75 E-s1 leg99 E leg75 Dn leg99 D leg75 C-s2] \
+ 2 leg95 C(2-s1 8 [C)2 D#]
+=2' 8 leg99 [f leg75 g leg99 g-s2, leg75 f leg99 f-s2, leg75 e#] \
+ 4 leg95 e 8 [f e] 4 f
+=2, 2. c)2(2 c)2(2
+| 1.27 1.3 1.37 1.5
+=1' 4. c-s2-s5 8 [Bn-s(1)-s2-s5 A-s(1)-s2-s4 c-s(1)-s(2)-s5] \
+ [B-s(2)-s4 A-s(2)-s3] 2 G-s(2)-s5
+=1, 4 E# 8 [F-s1-s3-s(5) E] 2. F 4 E#-s4-s(5)
+=2' 4 g 2 c~ 8 rest'' \
+ [f leg99 c~-s"1 " leg75 b-s"2  " leg99 b-s" 2" leg75 a#-s"1 "]
+=2, 8 [c)2-s1,-s(5), B-,-s4, A-,-s5, G-,-s4, F-,-s5, A-s4,] \
+ [d-,-s2, B-s1,-s4,] 4 c-s"    2-1", C
+|
+=1 1. <C F-fermata>
+=2 1. <F a#-fermata,>
