@@ -1,0 +1,5290 @@
+head	1.30;
+access;
+symbols;
+locks
+	pjb:1.30; strict;
+comment	@# @;
+
+
+1.30
+date	2014.05.08.03.29.54;	author pjb;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2014.05.05.00.37.00;	author pjb;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2014.05.04.09.46.03;	author pjb;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2014.05.03.01.13.07;	author pjb;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2014.04.29.11.42.59;	author pjb;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2014.04.29.03.42.01;	author pjb;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2014.04.29.00.17.57;	author pjb;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2014.04.28.08.54.22;	author pjb;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2014.04.28.02.55.32;	author pjb;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2014.04.28.01.01.29;	author pjb;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2014.04.27.03.36.18;	author pjb;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2014.04.27.02.16.15;	author pjb;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.04.26.11.57.47;	author pjb;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.04.26.03.41.49;	author pjb;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.04.25.11.01.24;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.04.24.23.25.00;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.04.24.11.00.14;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.04.24.05.38.38;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.04.24.01.44.46;	author pjb;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.04.23.09.48.43;	author pjb;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.04.23.03.11.33;	author pjb;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.04.22.06.19.04;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.04.22.04.14.54;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.04.22.01.38.00;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.04.22.01.30.11;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.04.21.06.11.03;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.04.20.00.40.09;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.04.19.08.52.11;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.04.19.03.18.21;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.04.19.00.03.38;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@renamed from op62; Von alten Libesliedern notes
+@
+
+
+1.30
+log
+@dynamics for 7:Vergangen
+@
+text
+@2 systems 15 / 19 65 19 40 19 65 19 / 19 65 19 40 19 65 19 15 /
+pagenum 3
+title 1.  Rosmarin
+innerhead Johannes Brahms   Sieben Lieder  Op. 62
+leftfoot typeset (c) Peter Billam  2014
+midi channel 1 patch 85 pan 20
+midi channel 2 patch 85 pan 60
+midi channel 3 patch 85 pan 40
+midi channel 4 patch 85 pan 80
+
+midi off
+/
+5 bars | 2b 3/4 6 | 36 | 36 | 36 | 36 |
+| 1/8 .35
+b0.9 .04 Gehend
+I0.3 .30 p
+=1 treble     2b 3/4 cha1 vol80 8 G
+r0.8 .28 1.  Es
+r0.6 .28 2.  Es
+r0.4 .26 3.  Sie
+r0.2 .26 4.  Sie
+=2 treble     2b 3/4 cha2 vol70 8 D
+I0.9 .30 p
+I0.1 .30 p
+=3 treble8vab 2b 3/4 cha3 vol70 8 B
+r0.8 .28 1.  Es
+r0.6 .28 2.  Es
+r0.4 .26 3.  Sie
+r0.2 .26 4.  Sie
+=4 bass       2b 3/4 cha4 vol70 8 g
+I0.1 .30 p
+| 3/4 2.1
+=1 8 B' A 4. leg95 d 8 leg85 G
+r0.8 .01 wollt ein  Jung .65 - .80 frau
+r0.6 .01 sollt ihr  Hoch .65 - .78 zeits -
+r0.4 .01 ging  im  Grü .65 - .80 nen
+r0.2 .01 ging  im  Gar .65 - .80 ten
+=2 8 G F# 4. leg95 G 8 leg85 D
+=3 8 d c  4. B 8 B
+r0.8 .01 wollt ein  Jung .65 - .80 frau
+r0.6 .01 sollt ihr  Hoch .65 - .78 zeits -
+r0.4 .01 ging  im  Grü .65 - .80 nen
+r0.2 .01 ging  im  Gar .65 - .80 ten
+=4 8 g g  4. g 8 g
+|
+=1 8 B' leg95 A 4. leg85 d 8 g
+r0.8 .01 früh aufstehen .78 wollt
+r0.6 .01 kränzlein sein:  .76 "Dem
+r0.4 .01 her  und  hin, .79 statt
+r0.2 .01 her  und  hin, .79 statt
+=2 8 G leg95 F# 4. leg85 G 8 G
+=3 8 d leg95 c  4. leg85 B 8 B
+r0.8 .01 früh aufstehen .78 wollt
+r0.6 .01 kränzlein sein:  .76 "Dem
+r0.4 .01 her  und  hin, .79 statt
+r0.2 .01 her  und  hin, .79 statt
+=4 8 g g  4. g 8 e
+|
+=1  8 e d 4. leg95 c 8 leg85 e
+r0.8 .01 in  des  Va .65 - .80 ters
+r0.6 .01 feinen   Knab,  .80 dem
+r0.4 .01 Röslein fand .80 sie
+r0.2 .01 Röslein brach .80 sie
+=2' 8 B A 4. leg95 G 8 leg85 G
+=3  8 B d 4. leg95 e 8 leg85 G
+r0.8 .01 in  des  Va .65 - .80 ters
+r0.6 .01 feinen   Knab,  .80 dem
+r0.4 .01 Röslein fand .80 sie
+r0.2 .01 Röslein brach .80 sie
+=4  8 g f 4. e 8 c
+|
+i.30 .70 dolce
+=1  8 leg95 d leg85 F# 4 leg95 G 8 rest d
+r0.8 .01 Garten   gehn. .80 Rot
+r0.6 .01 Knaben  mein. .80 Ihr
+r0.4 .01 Rosma - rin : .78 "So
+r0.2 .01 Rosma - rin : .76 "Das
+i.03 .60 dolce
+=2  8 leg95 G leg85 D  4 leg95 D 8 rest B
+=3  8 leg95 B leg85 c  4 leg95 B rest
+r0.8 .01 Garten   gehn.
+r0.6 .01 Knaben  mein.
+r0.4 .01 Rosma - rin :
+r0.2 .01 Rosma - rin :
+=4  8 d leg95 d  4 g rest
+/
+5 bars | 2b 4/4 7 7 7 8 7 7 7 5 | 5 5 6 6 6 6 6 5 \
+ | 7 7 6 6 5 5 6 5 | 24 20 | 30 ||
+| 4/4 2.8
+=1 2b 4/4 8 c B c d 4 F# G
+r0.8 .07 Röslein wollt sie  brechen
+r0.6 .07 Röslein rot, ich brech euch
+r0.4 .07 bist  du,  mein  Getreu-er,
+r0.2 .07 nimm du, mein Getreu-er,
+=2 2b 4/4 8 A G A B 4 D En
+i.10 .15 dolce
+=3 2b 4/4 8 rest d c B c d B d
+r0.8 .10 Rot Röslein wollt sie brechen
+r0.6 .09 Ihr Röslein rot, ich brech euch
+r0.4 .12 "So bist du,  mein  Getreuer,
+r0.2 .11 "Das imm du, mein Getreuer,
+=4 2b 4/4 8 rest b a g a d g B
+i.03 .15 dolce
+|
+=1 4 A  8 rest e d c d e
+r0.8 ab,  davon wollt sie sich
+r0.6 ab,  davon wollt ich mir
+r0.4 hin! Kein Röslein ist zu
+r0.2 hin!   Lieg bei dir unter
+=2 4 F# 8 rest c B A B c
+=3 4 d{1 A}1  8 rest e  d c
+r0.8 .03 ab, .50 davon wollt
+r0.6 .03 ab, .50 davon wollt
+r0.4 .03 hin! .45 Kein Röslein
+r0.2 .03 hin! .50 Lieg bei dir
+=4 4 d{1 f#}1 8 rest c~ b a
+| .7 .73 .77 .82
+i0.4 cresc . . .
+i0.5 .95 dim . . .
+=1 4 B{1 vol+7 c}1 vol+7 d 8 rest vol+7 g
+r0.8 .03 ma .28 - .50 chen .85 ein
+r0.6 .03 win .28 - .50 den, .85 ein
+r0.4 .03 fin .28 - .50 den, .83 kein
+r0.2 .03 Lin .28 - .50 den, .81 mein
+=2 4 G{2 vol+7 A}2 vol+7 B 8 rest vol+7 G
+i0.8 cresc . . . .95 dim . . .
+i0.2 cresc . . .
+i0.1 .80 dim . . .
+=3 8 d vol+7 g [e vol+7 f] 4 d vol+7 d
+r0.8 .02 sie sich machen .75 ein
+r0.6 .02 ich mir winden .75 ein
+r0.4 .02 ist zu finden, .73 kein
+r0.2 .02 unter Linden, .71 mein
+=4 8 vol+7 b g vol+7 [c~ f] 4 b vol+7 B
+i0.2 cresc . . . .80 dim . . .
+| .85 .83 .85 .90
+I0.4 .53 p
+=1 8 [f vol-7 e] [d vol-7 c] 4 B vol-7 A
+r0.8 .07 Krän-ze-lein  .73 wohl
+r0.6 .07 Krän-ze-lein  .75 so
+r0.4 .07 Krän-ze-lein  .75 so
+r0.2 .07 To-ten-kränzlein
+=2 4 G vol-7 G vol-7 G vol-7 F#
+I0.9 .53 p
+I0.1 .53 p
+=3 4 G vol-7 c vol-7 4. d vol-7 8 c
+r0.8 .07 Krän-ze-lein  .75 wohl
+r0.6 .07 Krän-ze-lein  .80 so
+r0.4 .07 Krän-ze-lein  .80 so
+r0.2 .07 To-ten-kränz-lein
+=4 4 c vol-7 e vol-7 d vol-7 d
+I0.2 .53 p
+| .6 .6 .4 .3 .4 .3 .4
+=1 4 G rest rest 8 rest
+r0.8 .01 schön.
+r0.6 .01 schön."
+r0.4 .01 schön."
+r0.2 .01 schön."
+=2 4 G rest rest 8 rest
+=3 4 B rest rest 8 rest
+r0.8 .01 schön.
+r0.6 .01 schön."
+r0.4 .01 schön."
+r0.2 .01 schön."
+=4 4 G rest rest 8 rest
+midi pause 2.0
+
+midi off
+3 systems 25 / 19 30 19 30 19 30 19 5 / 19 35 19 35 19 30 19 \
+ / 19 45 19 40 19 50 19 20 /
+pagenum
+title 2.  Von alten Liebesliedern
+innerhead Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+6 bars | 2# 4/4 6 | 9 9 9 12 | 48 \
+ | 9 12 9 12 | 5 4 6 7 5 4 6 6 | 6 6 7 6 6 6 6 5 |
+| 1/8 .3
+b1.1 .04 Lebhaft
+I0.3 .50 f
+=1 treble     2# 4/4 cha1 vol100 8 d
+r0.5 .23 1. Spa-zie-ren
+=2 treble     2# 4/4 cha2 vol70 8 F
+I0.80 .40 f
+I0.05 .50 f
+=3 treble8vab 2# 4/4 cha3 vol70 8 A
+r0.5 .23 1. Spa-zie-ren
+=4 bass       2# 4/4 cha4 vol70 8 d
+I0.10 .40 f
+| 4/4 .31 .27 .30 .26 .30 .27 .30 .30
+=1 4 leg95 f leg85 d 4. A 8 A
+r0.5 .45 wollt .80 ich
+=2 4 F F 4. F 8 F
+=3 4 A A 4. d 8 d
+r0.5 .45 wollt .80 ich
+=4 4 d d 4. d 8 d
+| .31 .27 .30 .26 .30 .27 .30 .26
+=1 8 leg95 [B leg85 d] c e leg95 [d leg85 f] leg95 [d leg85 B]
+r0.5 .01 rei-ten  der Liebsten
+=2 4 G 8 G G 4 F 8 leg95 [A leg85 G]
+=3 4 G 8 A A 4 A d
+r0.5 .01 rei-ten  der Liebsten
+=4 4 d 8 d d 4 d 8 leg95 [f leg85 g]
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4 A d e 8 rest d
+r0.5 .01 vor  die  Tür, .80 sie
+=2 4 F F A 8 rest F
+=3 4 d A c 8 rest d
+r0.5 .01 vor  die  Tür, .80 sie
+=4 4 a d A 8 rest d
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4. leg95 f leg85 8 d 4. A 8 A
+r0.5 .01 blickt nach mir von
+=2 4. F 8 F 4. F 8 F
+=3 4. A 8 A 4. d 8 d
+r0.5 .01 blickt nach mir von
+=4 4. d 8 d 4. f 8 f
+| .31 .27 .30 .26 .30 .27 .30 .26
+=1  8 leg95 [B leg85 d] leg75 c leg85 e leg95 [d leg85 f] leg95 [d leg85 B]
+r0.5 .01 weitem und sprach mit
+=2' 4 G 8 leg75 G leg85 E 4 F 8 leg95 [A leg85 B]
+=3  8 leg95 [d leg85 B] leg75 A leg85 c 4 d 8 leg95 [d leg85 f]
+r0.5 .01 weitem und sprach mit
+=4  4 g 8 leg75 a leg85 a 4 f 8 leg95 [f leg85 d]
+/
+6 bars | 2# 9 12 9 12 | 5 4 6 7 5 4 6 6 \
+ | 9 12 9 12 | 9 12 9 12 \
+ | 9 12 9 12 | 8 8 8 9 |
+| .31 .27 .30 .26 .30 .27 .30 .30
+I0.5 .85 f
+=1 4. leg95 e 8 leg85 G# 4 A 8 rest A
+r0.4 .07 großer Freud: "Seht
+=2 4  leg95 A leg85 E E 8 rest A
+I0.7 .85 f
+=3 4  leg95 e leg85 B c rest
+r0.4 .08 großer Freud:
+=4 4  leg95 c leg85 e A rest
+|
+i0.6 .04 cresc .   .   .
+=1  4. B 8 B 4. d 8 d
+r0.4 .01 dort meins Herzens
+=2' 4. G 8 G 4. B 8 B
+=2, 2 blank 4. G 8 G
+i0.6 .04 cresc .   .   .
+=3 4. blank 1 rest
+=4 4. blank 1 rest
+|
+=1' 4. g  8 f  4. leg95 f 8 leg85 e
+=1, 4. d# 8 d  4. leg95 d 8 leg85 e
+r0.4 .01 Zier, wie trabt  er
+=2' 4. B  8 A  4. leg95 A 8 leg85 G
+=2, 4. B_ 8 B_ 4. E 8 E
+=3 4. blank 1 rest
+=4 4. blank 1 rest
+|
+i0.8 .52 dim .   .   .
+=1' 4. e  8 dn 4. d 8 c
+=1, 4. Bb 8 B  4. A 8 A
+r0.4 .01 her .35 zu mir,  wie
+=2' 4. Bb 8 B  4. A 8 E
+=2, 4. G  8 G  4. A 8 A_
+i0.4 .49 dim . .
+=3 4. blank 1 rest
+=4 4. blank 1 rest
+|
+=1' 4. leg95 c  8 leg85 Bn  4. B  8 A
+=1, 4. leg95 A  8 leg85 G#l 4. G  8 Gnrl
+r0.4 .01 trabt .37 er her .81 zu
+=2' 4. leg95 E  8 leg85 D   4. D  8 E
+=2, 4. leg95 A_ 8 leg85 B_n 4. B_ 8 C
+I0.4 .99 p
+=3 4. blank 1 rest
+=4 4. blank 1 rest
+|
+I0.5 .01 p
+=1' 2. A 4 rest
+=1, 2. Gr 4 blank
+r0.4 .01 mir!"
+=2' 2. E 4 rest
+=2, 2. C 4 blank
+=3 4. blank 1 rest
+=4 4. blank 1 rest
+/
+4 bars | 2# 10 12 10 12 | 10 12 10 10 \
+ | 10 12 10 10 | 10 12 10 13 ||
+|
+I0.5 .06 p
+=1  vol-15 4 d-.  8 A-.  A-.  4 f    d-.
+r0.5 .05 Trab, Rößlein, trab,  trab
+I0.1 .04 p
+=2' vol-15 4 A-.  8 A-.  A-.  4 A-.  A-.
+=2,        4 F-., 8 F-., F-., 4 F-., F-.,
+I0.1 .04 p
+=3  vol-15 4 d-.  rest          d-.  8 A-. A-.
+r0.7 .05 Trab, .50 trab, .72 Rößlein,
+I0.1 .03 p
+=4, vol-15 4 <d a-.>    rest <d a-.>  rest
+r0.5 .05 Trab, .50 trab,
+|
+I0.4 .97 f
+=1' 4 a-.  f-.   d-.  rest
+=1, 4 A    f-.,  d-., blank
+r0.5 .01 für .25 und .50 für,
+I0.1 .97 f
+=2' 4 A-.  A-.   A-.  rest
+=2, 4 F-., F-.,  F-., blank
+I0.1 .97 f
+=3  4 d-.  rest  d-.  rest
+r0.7 .01 trab, .50 trab,
+I0.1 .97 f
+=4' 4 a-.  rest' a-.  rest
+=4, 4 d-., 8 A A 4 d-., blank
+r0.7 .01 Trab, Rößlein, trab,
+|
+I0.4 .97 p
+=1  vol+15 4 g-emph  8 d-.  g-.  4 f-emph  vol-15 rest
+r0.6 trab, Rößlein, trab,
+I0.1 .97 p
+=2' vol+15 4 B-emph  8 B-.  d-.  4 d-emph         rest
+=2,        4 G-emph, 8 G-., G-., 4 A-emph, vol-15 rest
+I0.1 .70 p
+=3, vol+15 4 d-emph  8 d-.  d-.  4 d-emph  vol-15 f-.
+r0.7 trab, Rößlein, trab, trab
+I0.1 .70 p
+=4' vol+15 4 g-emph  8 g-.  b-.  4 a-emph  vol-15 d-.
+=4, vol+15 4 G       8 B    G    4 d-emph, vol-15 rest,,
+r0.8 trab, Rößlein, trab,
+| .31 .27 .30 .26 .30 .32 .50 .30
+I0.6 .86 f
+=1  4 e-emph  8 B-.  e-.  4 d-emph  vol+15 8 rest-fermata d
+r0.6 trab, für und für. .75 2. Den
+I0.1 .86 f
+=2' 4 B-emph  8 B-.  A-.  4 A-emph         8 rest-fermata F
+=2, 4 G       8 G-., Gr-., 4 F      vol+15 8 blank blank
+I0.1 .86 f
+=3  4 B-emph  8 rest c-.  4 d-emph  vol+15 8 rest-fermata A
+r0.7 für .36 und für. .75 2. Den
+I0.1 .86 f
+=4' 4 b-emph  8 rest a-.  4 a-emph         8 rest-fermata blank
+=4, 4 g       8 blank a   4 d       vol+15 8 blank d
+r0.5 für .36 und für. .75 2. Den
+
+3 systems 20 / 19 35 19 35 19 35 19 \
+ / 19 30 19 30 19 40 19 \
+ / 19 45 19 40 19 50 19 20 /
+pagenum
+innerhead Von alten Liebesliedern, Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+/
+5 bars | 2# 9 9 9 12 | 48 | 9 12 9 12 | 9 12 9 12 | 48 |
+| 4/4 .31 .27 .30 .26 .30 .27 .30 .30
+=1 4 leg95 f leg85 d 4. A 8 A
+r0.5 .05 Zaum, den ließ .82 ich
+=2 4 F F 4. F 8 F
+=3 4 A A 4. d 8 d
+r0.5 .05 Zaum, den ließ .82 ich
+=4 4 d d 4. d 8 d
+| .31 .27 .30 .26 .30 .27 .30 .26
+=1 8 leg95 [B leg85 d] c e leg95 [d leg85 f] leg95 [d leg85 B]
+r.50 .01 schießen und sprengte
+=2 4 G 8 G G 4 F 8 leg95 [A leg85 G]
+=3 4 G 8 A A 4 A d
+r.50 .01 schießen und sprengte
+=4 4 d 8 d d 4 d 8 leg95 [f leg85 g]
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4 A d e 8 rest d
+r.50 .01 hin  zu .47 ihr, .82 ich
+=2 4 F F A 8 rest F
+=3 4 d A c 8 rest d
+r.50 .01 hin  zu .47 ihr, .82 ich
+=4 4 a d A 8 rest d
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4. leg95 f leg85 8 d 4. A 8 A
+r.50 .01 tät .35 sie freundlich
+=2 4. F 8 F 4. F 8 F
+=3 4. A 8 A 4. d 8 d
+r.50 .01 tät .35 sie freundlich
+=4 4. d 8 d 4. f 8 f
+| .31 .27 .30 .26 .30 .27 .30 .26
+=1  8 leg95 [B leg85 d] leg75 c leg85 e leg95 [d leg85 f] leg95 [d leg85 B]
+r.50 grüßen und sprach mit
+=2' 4 G 8 leg75 G leg85 E 4 F 8 leg95 [A leg85 B]
+=3  8 leg95 [d leg85 B] leg75 A leg85 c 4 d 8 leg95 [d leg85 f]
+r.50 grüßen und sprach mit
+=4  4 g 8 leg75 a leg85 a 4 f 8 leg95 [f leg85 d]
+/
+6 bars | 2# 9 12 9 12 | 5 5 6 7 5 5 6 6 \
+ | 9 12 9 12 | 9 12 9 12 \
+ | 9 12 9 12 | 8 7 7 9 |
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4. leg95 e 8 leg85 G# 4 A rest
+r0.5 .05 Wor-ten süß:
+=2 4  leg95 A leg85 E E rest
+=3 4  leg95 e leg85 B c 8 rest A
+r0.6 .05 Worten .49 süß: "Mein
+=4 4  leg95 c leg85 e A 8 rest a
+|
+=1 4. blank 1 rest
+=2 4. blank 1 rest
+i0.3 .10 cresc  .   .   .
+=3  4. B 8 B 4. d 8 d
+r0.6 Schatz, mein höchste
+=4' 2 blank 4. b 8 b
+=4, 4. g 8 g 4. g 8 g
+i0.2 .10 cresc  .   .   .
+|
+=1 4. blank 1 rest
+=2 4. blank 1 rest
+=3' 4. g  8 f  4. leg95 f 8 leg85 e
+=3, 4. d# 8 d  4. leg95 d 8 leg85 e
+r0.6 .02 Zier, was macht ihr
+=4' 4. b 8 a 4. leg95 a 8 leg85 g
+=4, 4. B 8 B 4. e 8 e
+|
+=1 4. blank 1 rest
+=2 4. blank 1 rest
+i0.4 .82 dim  .   .   .
+=3' 4. e  8 dn 4. d 8 c
+=3, 4. Bb 8 B  4. A 8 A
+r0.6 .01 vor   der Tür,   was
+=4' 4. bb 8 b 4. a 8 e
+=4, 4. g 8 g 4. a 8 A
+i0.6 .75 dim  .   .   .
+|
+=1 4. blank 1 rest
+=2 4. blank 1 rest
+=3' 4. leg98 c  8 leg85 Bn  4. B  8 A
+=3, 4. leg98 A  8 leg85 G#l 4. G  8 Gnrl
+r0.6 .01 macht ihr vor .80 der
+=4' 4. leg98 e 8 leg85 d 4. d 8 e
+=4, 4. leg98 A 8 leg85 Bn 4. B 8 c
+I0.2 .99 p
+|
+=1 4. blank 1 rest
+=2 4. blank 1 rest
+I0.4 p
+=3' 2. A 4 rest
+=3, 2. Gr 4 blank
+r0.6 .01 Tür ? "
+=4' 2. e 4 rest
+=4, 2. c 4 blank
+/
+4 bars | 2# 10 12 10 12 | 10 12 10 10 \
+ | 10 12 10 10 | 5 5 6 6 5 5 6 ||
+|
+I0.4 .04 p
+=1  vol-15 4 d-.  8 A-.  A-.  4 f    d-.
+r0.5 .05 Trab, Rößlein, trab,  trab
+I0.1 .04 p
+=2' vol-15 4 A-.  8 A-.  A-.  4 A-.  A-.
+=2,        4 F-., 8 F-., F-., 4 F-., F-.,
+I0.1 .04 p
+=3  vol-15 4 d-.  rest          d-.  8 A-. A-.
+r0.7 .05 Trab, .50 trab, .72 Rößlein,
+I0.1 .04 p
+=4' vol-15 4 a-.  rest a-.  rest
+=4,        4 d    rest d    rest
+r0.5 .05 Trab, .50 trab,
+|
+I0.4 .97 f
+=1' 4 a-.  f-.   d-.  rest
+=1, 4 A    f-.,  d-., blank
+r0.5 .01 her .25 zu .50 ihr,
+I0.1 .97 f
+=2' 4 A-.  A-.   A-.  rest
+=2, 4 F-., F-.,  F-., blank
+I0.1 .97 f
+=3  4 d-.  rest  d-.  rest
+r0.7 .01 her, .50 trab,
+I0.1 .97 f
+=4' 4 a-.  rest' a-.  rest
+=4, 4 d-., 8 A A 4 d-., blank
+r0.7 .01 Trab, Rößlein, trab,
+|
+I0.4 .97 p
+=1  vol+15 4 g-emph  8 d-.  g-.  4 f-emph  vol-15 rest
+r0.6 trab, Rößlein, trab,
+I0.1 .97 p
+=2' vol+15 4 B-emph  8 B-.  d-.  4 d-emph         rest
+=2,        4 G-emph, 8 G-., G-., 4 A-emph, vol-15 rest
+I0.3 .70 p
+=3, vol+15 4 d-emph  8 d-.  d-.  4 d-emph  vol-15 f-.
+r0.7 trab, Rößlein, her .75 zu
+I0.1 .70 p
+=4' vol+15 4 g-emph  8 g-.  b-.  4 a-emph  vol-15 d-.
+=4, vol+15 4 G       8 B    G    4 d-emph, vol-15 rest,,
+r0.8 trab, Rößlein, her,
+| .31 .27 .30 .26 .30 .32 .55
+=1  4 e-emph  8 B-.  e-.  4 d-emph  vol+15 8 rest-fermata
+r0.6 .01 trab .25 her zu  ihr.
+=2' 4 B-emph  8 B-.  A-.  4 A-emph         8 rest-fermata
+=2, 4 G       8 G-., Gr-., 4 F      vol+15 8 blank
+=3  4 B-emph  8 rest c-.  4 d-emph  vol+15 8 rest-fermata
+r0.7 .01 ihr, .39 zu  ihr.
+=4' 4 b-emph  8 rest a-.  4 a-emph         8 rest-fermata
+=4, 4 g       8 blank a   4 d       vol+15 8 blank
+r0.5 .01 trab .39 zu  ihr.
+
+3 systems 15 / 19 40 19 30 19 40 19 / 19 40 19 30 19 50 19 \
+ / 19 45 19 40 19 55 19 20 /
+pagenum
+innerhead Von alten Liebesliedern, Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+6 bars ||: 2# 6 | 9 9 9 12 | 6 6 6 6 6 6 6 5 \
+ | 5 4 5 4 5 4 6 5 | 9 12 9 12 | 6 6 6 7 6 6 6 5 |
+| 1/8 .3
+I0.4 .40 f
+=1 vol100 8 d
+r0.65 .10 3. Vom
+r0.25 .10 4.  Wir
+=2 vol70 8 F
+I0.85 .40 f
+I0.1 .40 f
+=3 vol70 8 A
+r0.65 .10 3. Vom
+r0.25 .10 4.  Wir
+=4 vol70 8 d
+I0.1 .30 f
+| 4/4 .31 .27 .30 .26 .30 .27 .30 .30
+=1 4 leg95 f leg85 d 4. A 8 A
+r0.65 .01 Rößlein mein  ich
+r0.25 .02 setze .47 uns .82 da -
+=2 4 F F 4. F 8 F
+=3 4 A A 4. d 8 d
+r0.65 .01 Rößlein mein  ich
+r0.25 .02 setze .47 uns .82 da -
+=4 4 d d 4. d 8 d
+| .31 .27 .30 .26 .30 .27 .30 .26
+=1 8 leg95 [B leg85 d] c e leg95 [d leg85 f] leg95 [d leg85 B]
+r0.65 .01 sprange und band es
+r0.25 .01 nie-der wohl in   das
+=2 4 G 8 G G 4 F 8 leg95 [A leg85 G]
+=3 4 G 8 A A 4 A d
+r0.65 sprange und band es
+r0.25 nie-der wohl in   das
+=4 4 d 8 d d 4 d 8 leg95 [f leg85 g]
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4 A d e 8 rest d
+r0.65 .01 an .25 die .50 Tür, .82 tät
+r0.25 .01 grü-ne .50 Gras .80 und
+=2 4 F F A 8 rest F
+=3 4 d A c 8 rest d
+r0.65 .01 an .25 die .50 Tür, .82 tät
+r0.25 .01 grü-ne .50 Gras .80 und
+=4 4 a d A 8 rest d
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4. leg95 f leg85 8 d 4. A 8 A
+r0.65 freundlich sie .81 um -
+r0.25 .03 sangen .50 her .80 und
+=2 4. F 8 F 4. F 8 F
+=3 4. A 8 A 4. d 8 d
+r0.65 freundlich sie .80 um -
+r0.25 .03 sangen .50 her .80 und
+=4 4. d 8 d 4. f 8 f
+| .31 .27 .30 .26 .30 .27 .30 .26
+=1  8 leg95 [B leg85 d] leg75 c leg85 e leg95 [d leg85 f] leg95 [d leg85 B]
+r0.65 fangen, die Zeit ward
+r0.25 .01 wie-der die al - ten
+=2' 4 G 8 leg75 G leg85 E 4 F 8 leg95 [A leg85 B]
+=3  8 leg95 [d leg85 B] leg75 A leg85 c 4 d 8 leg95 [d leg85 f]
+r0.65 fangen, die Zeit ward
+r0.25 .01 wie-der die al - ten
+=4  4 g 8 leg75 a leg85 a 4 f 8 leg95 [f leg85 d]
+/
+6 bars | 2# 9 12 9 12 | 5 4 6 7 5 4 6 6 \
+ | 9 12 9 12 | 9 12 9 12 \
+ | 9 12 9 12 | 8 8 8 9 |
+| .31 .27 .30 .26 .30 .27 .30 .30
+=1 4. leg95 e 8 leg85 G# 4 A 8 rest' A
+#P=1, 2 blank 4 A 8 A A
+r0.65 .05 uns .30 nicht lang,  im
+r0.25 .05 Lie-bes-lieder,  bis
+=2' 4  leg95 A leg85 E E 8 rest E
+#P=2, 2 blank 4 E 8 E E
+#P=3' 2. blank 8 rest' c
+=3, 4  leg95 e leg85 B c 8 c c
+r0.75 .05 uns .30 nicht lang,  im
+r0.40 .05 Lie-bes-lieder,  bis
+=4 4  leg95 c leg85 e A 8 rest' a'
+#P=4, 2 blank 4 A 8 A a
+|
+i0.4 .10 cresc  .   .   .
+=1  4. B 8 B 4. d 8 d
+r0.65 .01 Garten .52 gingen
+r0.25 .01 uns  die .50 Äuglein
+=2  4. G 8 G 4. B 8 B
+i0.5 .10 cresc  .   .   .
+=3  4. d 8 d 4. g 8 g
+r0.78 .04 Garten .58 gingen
+r0.50 .02 uns  die .52 Äuglein
+=4' 4. g 8 g 4. d~ 8 b
+=4, 4. g 8 g 4. g 8 g
+i0.02 .10 cresc  .   .   .
+I0.02 .99 f
+|
+I0.6 .04 f
+=1  4. g  8 f  4. leg95 f 8 leg85 e
+r0.65 .01 wir  mit .53 lie-ben -
+r0.25 .01 naß  von .50 weg'n der
+=2' 4. B  8 A  4. leg95 A 8 leg85 G
+I0.5 .04 f
+=3  4. d# 8 d  4. leg95 d 8 leg85 e
+r0.78 .01 wir  mit .53 lie-ben -
+r0.50 .01 naß  von .50 weg'n der
+=4' 4. b 8 b 4. b 8 b
+=4, 4. B 8 B 4. e 8 e
+|
+i0.4 .57 dim  .   .   .
+=1  4. e  8 dn 4. d 8 c
+r0.65 .01 der .35 Begier, .80 mit
+r0.25 .03 Kläffer Haß, .80 von
+=2  4. Bb 8 G  4. E 8 A
+i0.5 .57 dim  .   .   .
+=3 4. e 8 e 4. e 8 e
+r0.78 .01 der .35 Begier, .80 mit
+r0.50 .03 Kläffer Haß, .80 von
+=4' 4. bb 8 b  4. a 8 a
+=4, 4. g  8 g  4. a 8 rest,
+i0.1 .57 dim  .   .   .
+|
+=1  4. leg95 c  8 leg85 B   4. B 8 A
+r0.65 .01 lie - bender .82 Be -
+r0.25 .01 weg'n der .58 Kläffer
+=2' 4. leg95 A  8 leg85 G#  4. G 8 Gn
+=2, 4. leg95 A  8 leg85 E   4. E 8 Gn
+I0.5 .99 p
+=3  4. leg95 e  8 leg85 d   4. d 8 e
+r0.78 .01 lie - bender .82 Be -
+r0.50 .01 weg'n der .58 Kläffer
+=4' 4. leg95 a  8 leg85 bn  4. b 8 c~
+=4, 4. blank 1 rest,
+|
+I0.5 p
+=1' 2. A 4 rest
+r0.65 .01 gier.
+r0.25 .01 Haß.
+=2' 2. G 4 rest
+#P=2, 2. G 4 blank
+=3  2. e 4 rest
+r0.78 .01 gier.
+r0.50 .01 Haß.
+=4' 2. c~ 4 rest'
+=4, 4. blank 1 rest,
+I0.01 p
+/
+4 bars | 2# 5 5 6 7 6 7 5 5 | 10 10 10 9 \
+ | 5 5 6 6 5 5 5 4 | 5 5 6 7 5 5 6 :||
+|
+I0.4 .03 p
+=1  vol-15 4 d-.  8 A-.  A-.  4 f    d-.
+r0.70 .05 Trab,  Rößlein, trab, .75 trab
+r0.40 .05 Trab,  Rößlein, trab, .75 trab
+I0.1 .04 p
+=2' vol-15 4 A-.  8 A-.  A-.  4 A-.  A-.
+=2,        4 F-., 8 F-., F-., 4 F-., F-.,
+I0.1 .03 p
+=3  vol-15 4 rest d-.  8 A-. A-.  4 f-.
+r0.80 .24 Trab, .48  Rößlein, trab,
+r0.55 .24 Trab, .48  Rößlein, trab,
+I0.1 .04 p
+=4, vol-15 4 <d a-.>    rest <d a-.>  rest
+r0.3 .05 Trab, .50 trab,
+r0.9 .05 Trab, .50 trab,
+|
+I0.4 .97 f
+=1' 4 a-.  f-.   d-.  rest
+=1, 4 A    f-.,  d-., blank
+r0.70 leis .26 her-für,
+r0.40 .01 trab, .26 für-baß,
+I0.1 .97 f
+=2' 4 A-.  A-.   A-.  rest
+=2, 4 F-., F-.,  F-., blank
+I0.1 .97 f
+=3  4 d-.  a-.  f-.  d-.
+r0.80 .01 trab .25 leis .50 her-für,
+r0.55 .01 trab, .25 trab .50 für-baß,
+I0.1 .97 f
+=4' 4 a  rest'' a  rest''
+=4, 4 f-., d-., a   f-.,
+r0.50 .01 trab, .25 trab, .50 leis .75 her .95 -
+r1.05 .01 trab, .25 trab, .50 trab .75 für .95 -
+|
+I0.4 .97 p
+=1  vol+15 4 g-emph  8 d-.  g-.  4 f-emph  vol-15 rest
+r0.80 .01 trab, Rößlein, trab,
+r0.50 .01 trab, Rößlein, trab,
+I0.1 .97 p
+=2' vol+15 4 B-emph  8 B-.  d-.  4 d-emph         rest
+=2,        4 G-emph, 8 G-., B-., 4 A-emph, vol-15 rest
+I0.4 .97 p
+=3, vol+15 4 d-emph  8 d-.  d-.  4 A-emph  vol-15 f-.
+r0.80 .01 trab, Rößlein, trab,  trab
+r0.55 .01 trab, Rößlein, trab,  trab
+I0.1 .97 p
+=4' vol+15 4 g-emph  8 b-.  g-.  4 d~  vol-15 d-.
+=4, vol+15 2 d 4 d-., vol-15 rest,,
+r0.55 .01 für, .50 trab,
+r1.10 .01 baß, .50 trab,
+| .31 .27 .30 .26 .30 .32 .50
+=1  4 e-emph  8 B-.  e-.  4 d-emph  vol+15 8 rest-fermata
+r0.75 .01 trab .25 leis her-für.
+r0.45 .01 trab .25 trab für-baß.
+=2' 4 B-emph  8 B-.  A-.  4 A-emph         8 rest-fermata
+=2, 4 G       8 G-., Gr-., 4 F      vol+15 8 blank
+=3  4 B-emph  8 rest c-.  4 d-emph  vol+15 8 rest-fermata
+r0.80 .01 trab .37 her-für.
+r0.55 .01 trab .37 für-baß.
+=4' 4 b-emph  8 rest a-.  4 a-emph         8 rest-fermata
+=4, 4 g       8 blank a   4 d       vol+15 8 blank
+r0.40 .01 trab .37 her-für.
+r1.00 .01 trab .37 für-baß.
+midi pause 2.0
+
+midi off
+2 systems 15 / 19 50 19 40 19 50 19 / 19 55 19 60 19 58 19 25 /
+pagenum
+title 3.  Waldesnacht
+innerhead Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+6 bars | 2# 4/4 10 10 10 12 | 20 17 | 10 10 10 12 \
+ | 10 10 10 12 | 10 12 10 9 | 10 12 10 9 |
+| 4/4 4.0
+b1.2 .04 Etwas Langsam
+I0.4 .20 p
+i0.4 .30 dolce .68 cresc .  .
+=1 treble     2# 4/4 cha1 leg98 vol80 4 F A 4. E 8 F
+r0.8 .08 1.  Waldesnacht .84 du
+r0.5 .08 2.  Fernes .60 Flö-ten -
+r0.2 .08 3.  In   den heimlich
+=2 treble     2# 4/4 cha2 leg98 vol70 4 D D C C
+I0.5 .20 p
+i0.5 .30 dolce .68 cresc .  .
+=3 treble8vab 2# 4/4 cha3 leg98 vol70 4 A A 4. A 8 F
+r0.8 .08 1.  Waldesnacht .84 du
+r0.5 .08 2.  Fernes .60 Flö-ten
+r0.2 .08 3.  In   den heimlich
+=4 bass       2# 4/4 cha4 leg98 vol80 4 d' F A A
+I0.4 .20 p
+i0.4 .30 dolce .68 cresc .  .
+|
+i0.4 .02 dim .  .
+=1 4 G F 2 E
+r0.8 .01 wunder-küh .88 -
+r0.5 .01 lied, ver-tö .88 -
+r0.2 .01 en-gen .55 Krei .88 -
+=2 4 D D 2 B_
+i0.5 .02 dim .  .
+=3 4 D A 2 G#
+r0.8 .01 wunder-küh .88 -
+r0.5 .01 lied, ver-tö .88 -
+r0.2 .01 en-gen .55 Krei .88 -
+=4 4 B d 2 e
+i0.4 .02 dim .  .
+| 2.0 1.8
+=1 4 E 2 A 4 B
+r0.8 .01 le, .35 die  .69 ich
+r0.5 .01 ne, .35 das  .69 ein
+r0.2 .01 sen .35 wird .69 dir
+=2 4 C rest E F
+=3 4 A rest c d
+r0.8 .01 le, .45 die  .75 ich
+r0.5 .01 ne, .45 das  .75 ein
+r0.2 .01 sen .45 wird .75 dir
+=4 4 A rest 4. a 8 g
+| 2.0 2.1
+=1 4 c d 4. A 8 G
+r0.8 .01 tausend - ma-le
+r0.5 .01 wei-tes .50 Se - hen
+r0.2 .01 wohl, du wil-des
+=2 4 E D D E
+=3 A A B c
+r0.8 .01 tausend-ma-le
+r0.5 .01 wei-tes .50 Se-hen
+r0.2 .01 wohl, du wil-des
+=4 4 g f e A
+| 2.1 2.0
+=1 4. F  8 rest 4 A A
+r0.8 .01 grüß .49 nach dem
+r0.5 .01 rührt, .50 die   Ge -
+r0.2 .01 Herz, .50 und  ein
+=2 4. A_ 8 rest 4 D vol+10 Cn vol-10
+=3 4. d  8 rest 4 A A
+r0.8 .01 grüß .49 nach dem
+r0.5 .01 rührt, .50 die   Ge -
+r0.2 .01 Herz, .50 und  ein
+=4 4. d  8 rest 4 f a
+| 2.1 2.0
+i0.4 .02 dim . .
+I0.4 .62 p
+=1 4. A 8 G 4 G  G
+r0.8 .01 lau - ten Weltge -
+r0.5 .01 dank-en  in  die
+r0.2 Friede schwebt mit
+=2 4 B_ B_   Cn vol+10 B_b vol-10
+i0.4 .02 dim . .
+I0.4 .62 p
+=3 4 B  E     G G
+r0.8 .01 lau - ten Weltge -
+r0.5 .01 dank-en  in  die
+r0.2 Friede schwebt mit
+=4 4. e 8 e 4 e g
+i0.2 .02 dim . .
+I0.2 .62 p
+/
+6 bars | 2# 5 5 6 7 5 5 5 4 | 5 5 6 10 5 5 5 5 | 5 5 5 8 5 5 5 4 \
+ | 10 10 10 9 | 10 10 10 9 | 10 12 10 12 |
+| 2.1 2.0
+i0.3 .68 cresc  .   .   .
+=1 4. G 8 Fn 4 F E
+r0.78 .06 wüh - le,  .59 o, .75 wie
+r0.51 .06 schö-ne, .56 ach, miß -
+r0.24 .07 lei - sen  .59 Flü-gel -
+i0.01 .58 cresc  .   .   .
+=2 4 A_ A_ D vol+10 Cn
+r0.7 .07 wüh-le,  .59 o, .75 wie
+r0.47 .07 schö .45 - .90 -
+r0.24 .09 lei  .45 - .90 -
+i0.1 .68 cresc  .   .   .
+=3 4 A D A A
+r0.82 .06 wüh - le,  .59 o, .75 wie
+r0.57 .06 schö-ne, .57 ach, miß -
+r0.32 .07 lei - sen  .59 Flü-gel -
+i0.01 .68 cresc  .   .   .
+=4 4. d 8 d 4 d e
+r0.20 .06 wüh - le,  .59 o, .75 wie
+r0.75 .06 schö-ne, .57 ach, miß -
+r1.30 .07 lei - sen  .59 Flü-gel -
+| 2.0 2.1
+=1 4. D 8 D 4 D# D
+r0.78 .01 ist .32 dein Rauschen
+r0.51 .01 gönn - te,   Ferne
+r0.24 .01 schlä-gen  nieder -
+=2 4 B_ 2 B 4 B
+r0.7  .01 ist, .26 o, .75 wie
+r0.47 .01 ne, .26 in .75 die
+r0.24 .01 sen,  schwebt .75 mit
+=3 4. A 8 A 4 A A
+r0.81 .01 ist .32 dein Rauschen
+r0.56 .01 gönn - te,   Ferne
+r0.32 .01 schlä-gen  nieder -
+=4 4. fn 8 f 4 f# f
+r0.2  .01 ist .32 dein Rauschen
+r0.75 .01 gönn - te,   Ferne
+r1.3  .01 schlä-gen  nieder -
+| 2.1 2.2
+=1 4 E 2 e 4 e
+r0.78 .01 süß, .29 o, .75 wie
+r0.51 führt, ach .75 miß -
+r0.24 wärts,  Frie - de
+I0.01 .98 f
+=2 4. B 8 B 4 vol-10 G# G#
+r0.70 .01 ist  dein Rauschen
+r0.46 .01 schö-ne, ach, miß-
+r0.22 .03 lei-sen .54 Flügel -
+I0.01 .98 f
+=3 2 B 4 d d
+r0.82 .01 süß, .52 o, .75 wie
+r0.57 führt, .50 ach  miß -
+r0.32 wärts,  .52 Friede
+I0.01 .99 f
+=4 2 g# 4 b b
+r0.20 .01 süß, .52 o, .75 wie
+r0.75 führt, .50 ach  miß -
+r1.30 wärts,  .52 Friede
+| 2.2 2.1
+I0.5 f
+=1 2. e 4 c
+r0.79 .01 ist .75 dein
+r0.51 .01 gönn .49 - .75 te
+r0.24 .01 schwe .51 - .75 bet
+=2 4 A E 2 Gn(2
+r0.70 süß,  dein Rau .90 -
+r0.47 .01 gönnte, .51 Fer .90 -
+r0.22 schlagen nie .90 -
+=3 4 c c 2 e(1
+r0.82 süß,  dein Rau .90 -
+r0.57 .01 gönnte, .51 Fer .90 -
+r0.33 schlagen nie .90 -
+=4 2 a A
+r0.22 .01 ist .50 dein
+r0.76 .01 gönn  - .50 te
+r1.30 .01 schwe - .50 bet
+| 2.1 2.2
+i0.3 .55 dim  .   .   .
+=1 2. A 4 Fn
+r0.79 .01 Rau .48 - .68 schen
+r0.51 .01 Fer .48 - .75 ne
+r0.24 .01 nie .48 - .73 der -
+i0.01 .50 dim  .   .   .
+=2 4 G)2{2 C}2 E{2 D}2
+r0.70 .30 - .50 schen
+r0.47 .30 - .55 ne
+r0.23 .40 - .53 der .87 -
+i0.01 .45 dim  .   .   .
+=3 4 e)1{1 A}1 c{1 d}1
+r0.82 .30 - .50 schen
+r0.57 .30 - .55 ne
+r0.34 .30 - .55 der -
+i0.01 .69 dim  .  .  .
+=4' 2 blank <Fn a>
+=4, 2 fn blank
+r0.27 .01 Rau .32 - .47 schen
+r0.80 .01 Fer .31 - .50 ne
+r1.33 .01 nie .30 - .50 der .87 -
+| 2.3 2.1
+I0.5 .50 pp
+=1  4. E 8 rest 4. G 8 G
+r0.79 .01 süß !  .51 Träume  -
+r0.51 .01 führt. .52 Laß   die
+r0.24 .01 wärts. .53 Sin-get,
+I0.01 .50 pp
+=2  4. C 8 rest 4. E 8 E
+r0.70 .01 süß !  .51 Träume  -
+r0.48 .01 führt. .52 Laß   die
+r0.24 .01 wärts. .53 Sin-get,
+I0.01 .60 pp
+=3  4. A 8 rest 4 rest c(1
+r0.82 .01 süß ! .69 Träu -
+r0.57 .01 führt. .70 Laß
+r0.35 .01 wärts. .71 Sin -
+I0.01 .60 pp
+=4' 4. <A a> 8 rest  2 blank
+=4, 2 blank 4 rest a(1
+r0.27 .01 süß ! .69 Träu -
+r0.80 .01 führt. .70 Laß
+r1.33 .01 wärts. .71 Sin -
+
+2 systems 15 / 19 50 19 40 19 50 19 / 19 50 19 55 19 58 19 25 /
+pagenum
+innerhead Waldesnacht, Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+/
+6 bars | 2# 6 6 5 9 5 6 5 6 | 7 7 5 5 5 5 5 4 \
+ | 5 5 5 6.4 5 5 5 6 \
+ | 10 10 10 9 | 8 8 10 9 | 5 5 5 6 5 5 5 4 |
+| 4.1
+=1' 4. G 8 G 4. F# 8 B
+r0.79 .01 - risch .40 die  mü - den
+r0.49 .09 Wal - desnacht  mich
+r0.19 .10 hol .29 - .42 de .60 Vö - gel -
+=2 4. E 8 D 4. D 8 D
+=3 8 c)1 c 4. c 8 c 4 B(1
+r0.79 .01 - .16 merisch .65 die mü
+r0.49       .16 die Wal  - .65 desnacht
+r0.19 .01 - .16 get hol  - .65 de Vö
+=4 8 a)1 a 4. a 8 a 4 g(1
+|
+=1' 2 B 4 E rest
+r0.79 .01 Glie  - .50 der
+r0.49 .01 Wie  - .50 gen,
+r0.19 .03 lie .30 - .50 der,
+=2  2 D 4 C rest
+=3 8 B)1 e 2 e 4 A
+r0.79 - .12 den Glie  - .75 der
+r0.49 .10 mich Wie - .75 gen,
+r0.19 - .15 gel-lie .60 - .75 der,
+=4 8 g)1 g 2 g 4 f
+|
+=1 4. A 8 A 4. D  8 G
+r0.79 .01 berg ich weich ins
+r0.49 .01 still - .37 len je  -  de
+r0.19 mich in Schlummer
+=2 4. C 8 C 4. B_ 8 B_
+=3 4 rest 2 d 4 G
+r0.79 .25 berg .75 ich
+r0.49 .25 still .55 - .75 len
+r0.19 .25 mich .76 in
+=4 4 rest 2 f 4 e
+| 4.3
+i0.30 .03 dim . . .
+=1 1 G
+r0.79 .01 Moos,
+r0.49 .01 Pein,
+r0.19 .01 sacht !
+=2 2. B_b{2 4 A_}2
+i0.25 .03 dim . . .
+=3 4 c d 2 e
+r0.79 weich ins Moos,
+r0.49 .01 je - de .50 Pein,
+r0.19 Schlummer sacht !
+=4 4 e d 2 c
+i0.20 .03 dim . . .
+| 4.1
+I0.40 .40 p
+=1  2 rest 4 F A
+r0.79 .43 und .75 mir
+r0.49 .43 und .75 ein
+r0.19 .50 Ir - re
+I0.01 .35 p
+=2  2 rest 4 D D
+I0.01 .40 p
+=3  2 rest 4 A A
+r0.79 .43 und .75 mir
+r0.49 .43 und .75 ein
+r0.19 .50 Ir - re
+I0.01 .35 p
+=4' 2 rest 4 d F
+|
+=1 4. E 8 F  4 G B
+r0.79 .01 ist, .30 als würd ich
+r0.49 .01 se  - .37 liges  Ge -
+r0.19 Qualen, löst euch
+=2 4. C 8 Cn 4 B_ E
+=3 4. c 8 d# 4 e B
+r0.79 .01 ist, .30 als würd ich
+r0.49 .01 se  - .37 liges  Ge -
+r0.19 Qualen, löst euch
+=4 4 A A e G
+/
+7 bars | 2# 5 5 5 11 5 5 5 4 | 5 5 5 7 5 5 5 7 | 10 9 9 9 \
+ | 11 10 10 9 | 11 11 11 9 | 10 10 10 9 | 8 8 8 7 ||
+| 2.2 2.3
+i0.40 .04 cresc . . .
+=1 4. F 8 F 4 B d
+r0.79 .10 wie - der all  der
+r0.51 .01 - nü-gen saug ich
+r0.23 .09 wie - der, wildes
+=2 4. D# 8 D 4 Dn G
+r0.79 .10 wie - der all  der
+r0.53 .01 - nü-gen saug ich
+r0.27 .09 wie - der, wildes
+=3' 4. B 8 B 4 B G
+r0.79 .10 wie - der all  der
+r0.54 .01 - nü-gen saug ich
+r0.29 .09 wie - der, wildes
+i0.05 .02 cresc . . .
+=4 4 B B g B
+r0.54 .10 wie - der all  der
+r1.08 .01 - nü-gen saug ich
+r1.62 .09 wie - der, wildes
+| 2.4 2.3
+I0.40 .01 f
+=1 4. d 8 A 4. A 8 G
+r0.79 .03 ir - ren .51 Qua-len
+r0.51 .01 mit den düf - ten
+r0.23 .01 Herz, nun gu-te
+I0.02 .01 f
+=2 4. G 8 F 4. F 8 E
+r0.79 .03 ir - ren .51 Qua-len
+r0.53 .01 mit den düf - ten
+r0.27 .01 Herz, nun gu-te
+I0.02 .01 f
+=3 4 A d c c
+r0.79 .03 ir-ren .51 Qualen
+r0.55 .01 mit den düf-ten
+r0.31 .01 Herz, nun gu-te
+I0.01 .01 f
+=4 4 d f a A
+r0.56 .03 ir-ren .51 Qualen
+r1.10 .01 mit den düf-ten
+r1.64 .01 Herz, nun gu-te
+| 4.1
+I0.40 .30 f
+=1 4 F 2 cn 4 A
+r0.79 .01 los, all .75 der
+r0.51 .01 ein, saug .75 ich
+r0.23 .01 Nacht, wildes
+=2 4 D# rest 2 rest
+r0.79 .01 los,
+r0.53 .01 ein,
+r0.27 .01 Nacht,
+=3 4 cn rest 2 rest
+r0.79 .01 los,
+r0.55 .01 ein,
+r0.31 .01 Nacht,
+=4 4 a  rest 2 rest
+r0.58 .01 los,
+r1.12 .01 ein,
+r1.66 .01 Nacht,
+|
+i0.75 .02 cresc ...   dim ...
+=1  2. F{'1 4 E(2
+r0.78 .01 ir .50 - .90 -
+r0.50 .01 mit
+r0.22 .01 Herz,
+i0.01 .35 dim . . .
+=2  4 rest 2 D# 4 E
+r0.75 .27 all .75 der
+r0.49 .25 saug .75 ich
+r0.22 .26 wil .55 - .75 des
+i0.01 .30 dim . . .
+=3  4 rest vol+10 2 cn 4 B
+r0.81 .27 all .75 der
+r0.57 .25 saug .75 ich
+r0.33 .26 wil .55 - .75 des
+i0.01 .72 dim...
+=4' 2 rest g
+=4, 2 blank G
+r0.60 .47 der
+r1.14 .48 den
+r1.68 .49 nun
+I0.05 .98 p
+| 2.2 2.35
+I0.50 .05 p
+i0.25 .50 cresc ... dim ...
+=1  4 E)2}'1 D 2 D(1
+r0.78 .25 ren  Qua .90 -
+r0.50 .25 den  Düf .90 -
+r0.22 .25 nun  gu .90 -
+i0.01 .75 cresc... dim...
+I0.03 p
+=2  4 C{2 2 Dn}2 4 D
+r0.74 .01 ir .40 - .75 ren
+r0.48 .01 mit .75 den
+r0.22 .01 Herz, .75 nun
+I0.01  p
+=3' 4 Bb{2 A}2 G#{2 Bn}2
+r0.81 .01 ir .40 - .75 ren
+r0.57 .01 mit .75 den
+r0.33 .01 Herz, .75 nun
+I0.01  p
+i0.10 .49 cresc ... dim  ...
+=4' 1 f(1
+=4, 2 F 4 B G#
+r0.62 .10 Qua .50 - .90 -
+r1.16 .09 Düf .50 - .90 -
+r1.70 .08 gu  .50 - .90 -
+| 2.35 2.4
+=1  2 D)1 C
+r0.78 .15 -  .50 len
+r0.50 .15 -  .50 ten
+r0.22 .15 -  .50 te
+=2  2 D A_
+r0.72 .01 Qua - .50 len
+r0.46 .01 Düf - .50 ten
+r0.22 .01 gu  - .50 te
+=3  2. vol-5 A vol-5 4 Gn
+r0.81 .01 Qua - .50 len
+r0.57 .01 Düf - .50 ten
+r0.34 .01 gu  - .50 te
+=4' 4 f)1 e 2 e
+=4, 2 A A
+r0.62 .15 -  .49 len
+r1.16 .15 -  .50 ten
+r1.70 .15 -  .50 te
+| 3.2 2.0
+=1  2 D-fermata rest
+r0.78 .01 los.
+r0.51 .01 ein.
+r0.24 .01 Nacht
+=2  2 A_-fermata rest
+r0.72 .01 los.
+r0.46 .01 ein.
+r0.22 .01 Nacht
+=3  2 F-fermata rest
+r0.81 .01 los.
+r0.58 .01 ein.
+r0.34 .01 Nacht
+=4' 2 <D d-fermata> rest
+r0.60 .01 los.
+r1.14 .01 ein.
+r1.70 .01 Nacht
+midi pause 2.0
+
+midi off
+2 systems 40 / 19 45 19 35 19 43 19 \
+ / 19 50 19 40 19 50 19 35/
+pagenum
+title 4.  Dein Herzlein mild
+innerhead Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+6 bars | 3# 3/4 4 | 2 2 2 4.5 2 1 2 1 2 2 2 2 \
+ | 2 2 2 4.4 2 1 2 1 2 2 2 2 | 4 3 3 6 6 4 \
+ | 3 3 3 3 4 4 | 2 2 2 4 2 1 2 1 2 2 2 1 |
+| 1/8 .47
+b0.6 .04 Andante grazioso
+=1 treble     3# 3/4 cha1 leg95 vol80 8 A
+r0.65 .26 1. Dein
+r0.30 .26 1.  Es
+=2 treble     3# 3/4 cha2 leg95 vol70 8 E
+=3 treble8vab 3# 3/4 cha3 leg95 vol70 8 c
+r0.67 .26 1. Dein
+r0.32 .26 1.  Es
+=4 bass       3# 3/4 cha4 leg95 vol80 8 a
+| 3/4 2.7
+=1  8. c  16 c 4 B 8 rest G
+r0.65 .01 Herzlein mild, .81 du
+r0.30 .01 hat die Nacht .77 ein'n
+=2  8. D# 16 D 4 E 8 rest E
+=3' 8. A  16 A 4 B 8 rest B
+r0.67 .01 Herzlein mild, .81 du
+r0.32 .01 hat die Nacht .77 ein'n
+=4  8. f  16 f 4 g 8 rest g
+|
+=1' 8. B  16 B 4 A 8 rest F
+r0.65 .01 lie-bes Bild, .81 das
+r0.30 .01 Tau gebracht .81 den
+=2  8. Dn 16 D 4 C 8 rest Cn
+=3  8. G  16 G 4 A 8 rest A
+r0.67 .01 lie-bes Bild, .81 das
+r0.32 .01 Tau gebracht .81 den
+=4  8. e# 16 e 4 f 8 rest A
+|
+i0.5 .55 cresc  .   .
+=1 4. E  8 C   D# F
+r0.65 .02 ist .36 noch nicht er - glommen,
+r0.30 .01 Kno  - spen .62 all .82 im
+=2 4. B_ 8 A_# B_ D#
+i0.5 .55 cresc  .   .
+=3 4. G  8 Gn  F  A
+r0.67 .02 ist .36 noch nicht er - glommen,
+r0.32 .01 Kno  - spen .62 all .82 im
+=4 4. B  8 B   B  b
+i0.2 .55 cresc  .   .
+|
+i0.5 .01 dim  .   .
+=1' 4 leg99 B  leg95 G 8 rest A
+r0.65 .77 und
+r0.30 .01 Wal-de, .77 und
+=2  4 E  E 8 rest E
+i0.5 .01 dim  .   .
+=3  4 leg99 G# leg95 B' 8 rest c
+r0.65 .77 und
+r0.30 .01 Wal-de, .77 und
+=4  4 e  e 8 rest a
+i0.2 .01 dim  .   .
+|
+=1  8. c  16 c 4 B 8 rest B
+r0.65 .01 drinnen ruht .80 ver -
+r0.30 Morgens drauf .83 da
+=2  8. D# 16 D 4 E 8 rest E
+=3  8. A  16 A 4 B' 8 rest B
+r0.67 .01 drinnen ruht .80 ver -
+r0.32 Morgens drauf .83 da
+=4  8. f  16 f 4 g 8 rest g
+/
+6 bars | 3# 3 3 3 7.5 3 2 3 2 3 3 3 2 | 6 6 6 6 7 5 \
+ | 7.4 6.4 7.4 6.4 6.4 5.4 \
+ | 6 6 6 6 6 5 | 9 8 6 5 6 6 | 6 5 6 5 6 :||
+|
+i0.5 .10 cresc  .   . .65 poco
+I0.5 .90 f
+=1  8. d  16 d 4 c 8 rest f
+r0.67 .01 - träumte Glut, .80 wird
+r0.35 .07 blühts zuhauf .81 und
+i0.05 .14 cresc  .   .  .65 poco
+I0.05 .90 f
+=2  8. E# 16 E 4 F 8 rest d
+i0.05 .14 cresc  .   .
+i0.10 .86 poco
+I0.10 .99     f
+=3  8. B  16 B 4 c  rest
+r0.69 .01 - träumte Glut,
+r0.39 .07 blühts zuhauf
+i0.08 .14 cresc  .   .
+i0.15 .86 poco
+I0.15 .99     f
+=4  8. g  16 g 4 a# rest
+r0.30 .01 - träumte Glut,
+r0.95 .07 blühts zuhauf
+|
+=1 4. d 8 c B d#
+r0.67 .01 bald .49 zu Ta-ge
+r0.35 .01 duf - tet durch die
+=2 4. B 8 A G F
+=3 8 rest f  4. d 8 c
+r0.69 .11 wird bald .80 zu
+r0.39 .13 und duf .63 - .80 tet durch die Halde,
+=4 8 rest d~ 4. b 8 an
+r0.30 .11 wird bald .80 zu
+r0.95 .13 und duf .63 - .80 tet durch die Halde,
+|
+=1 8 [e B] leg80 B leg95 d# [e B]
+r0.67 kommen, wird bald,
+r0.35 .01 Hal - de,  und duf - tet, und duf - tet
+=2 8 [E A] leg80 G leg95 F  [E A]
+=3 8 B d# [e cn] leg80 B leg95 d
+r0.69 .01 Tage kommen, wird
+r0.39 .80 und
+=4 8 g f  [e a] leg80 g leg95 f
+r0.30 .01 Tage kommen, wird
+r0.95 .80 und
+| .9 .9 1.0
+i0.55 .37 dim  .   .   .
+=1 8 rest' blank 2 blank
+=1 8 leg80 B leg95 c leg99 [d leg90 c] leg95 [B' leg90 A]
+r0.67 .14 wird bald .75 zu
+i0.05 .37 dim  .   .   .
+=2 8 leg80 G leg95 A leg99 [F leg90 E] leg95 [D leg90 C]
+i0.05 .50 dim  .   .
+=3 4 e{1 A}1 F
+r0.69 .01 bald, .67 wird
+r0.38 .03 duf .40 - .67 tet,
+i0.05 .37 dim  .   .   .
+=4 8 [e' A] 4. d 8 d#
+r0.30 bald zu Ta  - .81 ge
+r0.95 .02 duf - tet, .80 und
+| 1.1 1.0 .95
+I0.50 p
+=1 2 A(2 8 A)2 G
+r0.67 .03 Ta .45 - .82 ge
+r0.35 .02 durch .80 die
+I0.05 p
+=2 8 C D# 4 E  Dn
+I0.05 p
+=3 8 A cn 4 c# B
+r0.70 bald zu Ta  - ge
+r0.39 duftet, durch die
+I0.05 p
+=4 8 e f  4 e  e
+r0.30 bald zu Ta  - ge
+r0.95 duftet, durch die
+| .5 .5 .5 .5 .45
+=1' 4 leg99 B leg95 A 8 rest
+r0.67 .01 kommen.
+r0.35 .01 Hal - de.
+=2  4 leg99 D leg95 C 8 rest
+=3  4 leg99 G leg95 A 8 rest
+r0.71 .01 kommen.
+r0.38 .01 Hal - de.
+=4' 4 <A e> <A e> 8 rest
+r0.30 .01 kommen.
+r0.95 .01 Hal - de.
+
+3 systems 10 / 19 35 19 30 19 35 19 \
+ / 19 35 19 30 19 35 19 / 19 35 19 40 19 35 19 20 /
+pagenum
+innerhead Dein Herzlein mild, Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+5 bars | 3# 4 | 2 2 2 4.5 2 1 2 1 2 2 2 2 \
+ | 2 2 2 4.4 2 1 2 1 2 2 2 2 | 4 3 3 5 5 4 \
+ | 3 3 3 3 3 3 |
+| 1/8 .47
+=1 8 A
+r0.5 .25 3. Die
+=2 8 E
+=3 8 c
+r0.5 .25 3. Die
+=4 8 a
+| 3/4 2.7
+=1  8. c  16 c 4 B 8 rest G
+r0.5 .03 Lie - be .40 sacht, .81 hat
+=2  8. D# 16 D 4 E 8 rest E
+=3' 8. A  16 A 4 B 8 rest B
+r0.5 .03 Lie - be .40 sacht, .81 hat
+=4  8. f  16 f 4 g 8 rest g
+|
+=1' 8. B  16 B 4 A 8 rest F
+r0.5 .04 ü  -  ber .40 Nacht, .82 dir
+=2  8. Dn 16 D 4 C 8 rest Cn
+=3  8. G  16 G 4 A 8 rest A
+r0.5 .04 ü  -  ber .40 Nacht, .82 dir
+=4  8. e# 16 e 4 f 8 rest A
+|
+=1 4. E  8 C   D# F
+r0.5 .01 Tau .40 ins .60 Herz .82 ge -
+=2 4. B_ 8 A_# B_ D#
+=3 4. G  8 Gn  F  A
+r0.5 .01 Tau .40 ins .60 Herz .82 ge -
+=4 4. B  8 B   B  b
+|
+=1' 4 leg99 B  leg95 G 8 rest A
+r0.5 .02 gos - sen, .79 und
+=2  4 E  E 8 rest E
+=3  4 leg99 G# leg95 B' 8 rest c
+r0.5 .02 gos - sen, .79 und
+=4  4 e  e 8 rest a
+/
+5 bars | 3# 3 3 3 5 3 2 3 2 3 3 3 2 \
+ | 3 3 3 6 3 2 3 2 3 3 3 2 \
+ | 6 6 6 6 6.5 5 | 6.5 6 6.5 6 6 4 | 6 6 6 6 6 5 |
+|
+i0.40 .95 cresc   .    .    .
+=1  8. c  16 c 4 B 8 rest B
+r0.47 .08 Morgens  dann, .80 man
+=2  8. D# 16 D 4 E 8 rest E
+i0.40 .95 cresc   .    .    .
+=3  8. A  16 A 4 B' 8 rest B
+r0.47 .08 Morgens  dann, .80 man
+=4  8. f  16 f 4 g 8 rest g
+i0.05 .95 cresc   .    .    .
+|
+i.50 .60 poco
+I.50 .85 f
+=1  8. d  16 d 4 c 8 rest f
+r0.47 .01 sieht dirs an, .80 das
+=2  8. E# 16 E 4 F 8 rest d
+i.75 .68 poco
+I.75 .93 f
+=3  8. B  16 B 4 c  rest
+r0.47 .01 sieht dirs an,
+=4  8. g  16 g 4 a# rest
+|
+=1 4. d 8 c B d#
+r0.47 .01 Knös  -  plein .68 ist  er -
+=2 4. B 8 A G F
+i.25 .08 poco
+I.25 .33 f
+=3 8 rest f  4. d 8 cn
+r.50  .15 das  Knös  -  plein
+=4 8 rest d~ 4. b 8 a
+i.05 .08 poco
+I.05 .33 f
+|
+=1 8 [e B] leg80 B leg95 d# [e B]
+r0.47 schlos-sen, das Knös-plein, das Knös-plein
+=2 8 [E A] leg80 G leg95 F  [E A]
+=3 8 B d# [e cn] leg80 B leg95 d
+r0.47 .01 ist .19 er-schlos-sen, das
+=4 8 g f  [e a] leg80 g leg95 f
+| .9 .9 .93
+i.55 .40 dim . . .
+=1 8 leg80 B leg95 c leg99 [d leg90 c] leg95 [B' leg90 A]
+#r0.47 .22 das Knös-plein
+=2 8 leg80 G leg95 A leg99 [F leg90 E] leg95 [D leg90 C]
+i.45 .40 dim . . .
+=3 4 e{1 A}1 F
+r0.47 .03 Knös .42 - .70 plein
+=4 8 [e' A] 4. d 8 d#
+i.10 .40 dim . . .
+/
+5 bars | 3# 7.4 6.9 6 6 6 6 | 6 6 6 7.3 6 6 \
+ | 6 7.3 6 6 6 5 | 5 5 5 5 6 5 | 5 5 5 5 5 ||
+| .95 .98 1.00
+I0.60 .12 p
+i0.50 .80 cresc   .    .    .    .    .    .
+=1 4. A 8 G 4 A(2
+r0.75 .14 ist .58 er-schlos
+I0.05 .12 p
+i0.10 .95 cresc   .    .    .    .    .    .
+=2 8 C D# 4. E 8 F
+r0.65 .04 - lein, das  Knös  -  plein
+I0.05 .12 p
+i0.10 .95 cresc   .    .    .    .    .    .
+=3 8 A cn 4 c# cn
+r0.70 .04 - lein, das  Knös-plein
+I0.05 .12 p
+i0.10 .95 cresc   .    .    .    .    .    .
+=4 8 e f  4. e 8 d#
+r0.25 .04 - lein, das  Knös  -  plein
+| 1.02 1.04 1.06
+=1 8 A)2 G 4. A 8 G
+r0.75 - .16 sen, ist .83 er -
+=2 4. E 8 C 4 Dn
+r0.65 .01 ist .50 er-schlos .95 -
+I0.10 .99 mf
+=3 4. c# 8 A 4 A
+r0.71 .01 ist .50 er-schlos .95 -
+=4 4. e 8 gn 4 fn
+r0.25 .01 ist .50 er-schlos .95 -
+| 1.08 1.07 1.05
+I0.5 mf
+=1 4. A{1 8 fn}1 [e d]
+r0.75 .01 schlos .42 - .68 sen,
+I0.05 mf
+=2 8 D  E 4 Fn Bb'
+r0.65 .01 sen, das Knös-plein
+=3 8 A  c 4 d fn
+r0.72 .01 sen, das Knös-plein
+I0.10 mf
+=4 8 fn a 4 d' d'
+r0.25 .01 sen, das Knös-plein
+| .95 1.0 .95
+i0.4 .01 dim . . .
+I0.4 .75 p
+=1 2 c# 8 rest G
+r0.75 .01 ist .83 er -
+i0.20 .01 dim . . .
+I0.05 .75 p
+=2 4 A{2 E}2 8 rest E
+r0.65 .01 ist .83 er -
+i0.15 .01 dim . . .
+I0.05 .75 p
+=3 4 e{1 A}1 8 rest B'
+r0.73 .01 ist .83 er -
+i0.05 .01 dim . . .
+I0.05 .75 p
+=4 2 e  8 rest e
+r0.25 .01 ist .83 er -
+| .55 .55 .55 .6 .55
+=1  4 B' A 8 rest
+r0.74 .01 schlossen.
+=2  4 D C 8 rest
+r0.65 .01 schlossen.
+=3  4 G A 8 rest
+r0.75 .01 schlossen.
+=4' 4 <A e> <A e> 8 rest
+r0.25 .01 schlossen.
+midi pause 2.0
+
+midi off
+1 systems / 19 65 19 65 19 65 19 65 19 65 19 /
+pagenum
+title 5.  All meine Herzgedanken
+innerhead Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+9 bars | 1b 4/4 8 8 12 10 | 12 12 12 10 | 8 8 12 10 | 12 12 15 10 \
+ | 12 12 12 10 | 8 8 15 10 | 12 12 12 10 | 8 8 12 10 | 13 13 15 11 |
+| 4/4 1.74
+b0.6 .04 Con moto
+=1 treble     1b 4/4 cha1 leg95 vol80 4. blank 1 rest
+=2 treble     1b 4/4 cha2 leg95 vol70 4. blank 1 rest
+=3 treble     1b 4/4 cha2 leg95 vol70 4. blank 1 rest
+I0.1 .20 p
+=4 treble8vab 1b 4/4 cha3 leg95 vol80 2 A 4 B c
+r0.80 .01 1.  All  meine
+I0.1 .20 p
+r0.59 .01 2. Der Maßlieb
+r0.38 .01 3.  Gott wolle
+=5 bass       1b 4/4 cha4 leg95 vol70 2 f 4 f f
+r0.80 .01 1.  All  meine
+r0.59 .01 2. Der Maßlieb
+r0.38 .01 3.  Gott wolle
+I0.1 .20 p
+=6 bass       1b 4/4 cha4 leg95 vol80 2 f 4 d A
+r0.30 .01 1.  All  meine
+r0.96 .01 2. Der Maßlieb
+r1.62 .01 3.  Gott wolle
+| .87 .90
+=1  4. blank 1 rest
+=2  4. blank 1 rest
+=3  4. blank 1 rest
+=4  2 d f
+r0.80 .04 Herz-ge  -
+r0.59 .04 und .50 der
+r0.38 .04 die .50 ver  -
+=5  4 f{1 2 b}1 4 d~
+r0.80 .04 Herz .50 - .75 ge -
+r0.59 .04 und .74 der
+r0.38 .04 die .74 ver -
+=6' 2 B{2 4 d}2 B
+r0.30 .04 Herz .50 - .75 ge -
+r0.96 .04 und .74 der
+r1.62 .04 die .74 ver -
+| .89 .87
+=1  4. blank 1 rest
+=2  4. blank 1 rest
+=3  4. blank 1 rest
+=4  1 c
+r0.80 .02 dan .70 -
+r0.59 .04 Ro .70 -
+r0.38 .03 ei .70 -
+=5  2. a{1 4 g}1
+r0.80 .04 dan .70 -
+r0.59 .04 Ro .70 -
+r0.38 .09 ei .70 -
+=6  2 c{1 4 d e}1
+r0.30 .04 dan .70 -
+r0.96 .04 Ro .70 -
+r1.62 .09 ei .70 -
+| 1.74
+=1  4. blank 1 rest
+=2  4. blank 1 rest
+=3  4. blank 1 rest
+=4  4 leg85 A leg95 A d c#
+r0.80 ken sind immerdar
+r0.59 .01 sen begehr ich  für-
+r0.38 .01 nen die für ein-an-
+=5  4 leg85 f leg95 f f a
+r0.80 ken sind immerdar
+r0.59 .01 sen begehr ich  für
+r0.38 .01 nen die für ein-an
+=6  4 leg85 f leg95 e d f
+r0.30 ken sind immerdar
+r0.96 .01 sen begehr ich  für-
+r1.62 .01 nen die für ein-an-
+|
+=1  4. blank 1 rest
+r0.80 .80 1.    das  ist die
+r0.59 .80 2. wie kann ich
+r0.38 .80 3.  von Grämen
+=2  4. blank 1 rest
+r0.80 .80 1.    das  ist die
+r0.59 .80 2. wie kann ich
+r0.38 .80 3.  von Grämen
+=3  4. blank 1 rest
+r0.70 .80 1.    das  ist die
+r0.49 .80 2. wie kann ich
+r0.28 .80 3.  von Grämen
+=4  2 d B
+r0.80 .50 bei
+r0.59 .50 der
+r0.38 .50 der
+=5  4 d{1 2 f}1 4 e
+r0.80 .75 bei
+r0.59 .50 - .75 der
+r0.38 .50 - .75 der
+=6  2 B G
+r0.30 .50 bei
+r0.96 .50 der
+r1.62 .50 der
+|
+I0.4 .01 p
+=1  2 A 4 B c
+I0.05 .01 p
+=2  2 F 4 G A
+I0.05 .01 p
+=3  2 F 4 E Eb
+=4  2 A rest
+r0.80 .01 dir ;
+r0.59 .01 nicht,
+r0.38 .01 sind !
+=5  2 f rest
+r0.80 .01 dir ;
+r0.59 .01 nicht,
+r0.38 .01 sind !
+=6  2 F rest
+r0.30 .01 dir ;
+r0.96 .01 nicht,
+r1.62 .01 sind !
+| .87 .90
+=1  2 d f
+r0.80 .03 stil - le
+r0.59 .01 Lust .52 er   -
+r0.38 .01 und .49 von
+=2' 4 B{2 F}2 D{2 B}2
+r0.80 .03 stil - le
+r0.59 .01 Lust .52 er   -
+r0.38 .01 und .49 von
+=3  4 D{2 2 B_}2 4 D
+r0.70 .03 stil .40 - .70 le
+r0.49 .01 Lust .72 er -
+r0.28 .01 und .68 von
+=4  4. blank 1 rest
+=5  4. blank 1 rest
+=6  4. blank 1 rest
+| .89 .87
+=1  1 c
+r0.80 .01 Kran .70 - .99  ken, das innen
+r0.59 .04 lo .60 - .94 sen, wenn Liebe
+r0.38 .02 Wei .56 - .86 nen wird sonst das
+=2' 2. A{2 4 G}2
+r0.80 .01 Kran .70 - .99  ken, das innen
+r0.59 .04 lo .60 - .94 sen, wenn Liebe
+r0.38 .02 Wei .56 - .86 nen wird sonst das
+=3  2 C{2 4 D E}2
+r0.70 .01 Kran .70 - .99  ken, das innen
+r0.49 .04 lo .60 - .94 sen, wenn Liebe
+r0.28 .02 Wei .56 - .86 nen wird sonst das
+=4  4. blank 1 rest
+=5  4. blank 1 rest
+=6  4. blank 1 rest
+| 1.74
+=1  4 leg85 A leg95 A d c#
+=2  4 leg85 F leg95 F F E
+=3  4 leg85 F leg95 E D A_
+=4  4. blank 1 rest
+=5  4. blank 1 rest
+=6  4. blank 1 rest
+
+1 systems / 19 65 19 65 19 65 19 65 19 65 19 /
+pagenum
+innerhead All meine Herzgedanken,  Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+7 bars | 1b 12 12 12 10 | 8 7 8 7 6 8 6 7 \
+ | 8 8 8 7 7 7 6 10 \
+ | 8 8 6 6 8 8 6 7 | 8 8 8 8 8 8 6 7 \
+ | 15 12 12 10 | 12 12 12 10 | 12 12 12 10|
+|
+i0.4 .40 dim  .   .   .
+=1  2 d B
+r0.80 .10 zehrt .55 an
+r0.59 .10 mir .55 ge .85 -
+r0.38 .10 Au - .55 ge
+i0.04 .40 dim  .   .   .
+=2  4 D{2 2 F}2 4 E
+r0.80 .10 zehrt .77 an
+r0.59 .10 mir .77 ge -
+r0.38 .10 Au .50 - .77 ge
+i0.04 .40 dim  .   .   .
+=3  2 B_ G_
+r0.70 .10 zehrt .55 an
+r0.49 .10 mir .55 ge .85 -
+r0.28 .10 Au - .55 ge
+=4  4. blank 1 rest
+=5  4. blank 1 rest
+=6  4. blank 1 rest
+|
+=1  2 A  rest
+r0.80 .01 mir.
+r0.59 bricht !
+r0.38 blind.
+=2  2 E  rest
+r0.80 .01 mir.
+r0.59 bricht !
+r0.38 blind.
+=3  2 A_ rest
+r0.70 .01 mir.
+r0.49 bricht !
+r0.28 blind.
+I0.05 .10 p
+=4  4 rest c# 4. c  8 Bn
+r0.80 .25 Da du mich
+r0.59 .25 Seit du von
+r0.38 .25 Treulie-be
+I0.05 .01 p
+=5  4 c#{1 e}1 4. g# 8 g
+r0.80 .01 Da .45 du mich
+r0.59 .01 Seit .50 du von
+r0.38 .01 Treu -  liebe
+I0.05 .01 p
+=6  2 A 4 e d
+r0.30 .01 Da .43 du mich
+r0.96 .01 Seit .47 du von
+r1.62 .01 Treu - liebe
+|
+=1  4. blank 1 rest
+=2  4. blank 1 rest
+=3  4 rest C# 4. C 8 B_n
+r0.70 .25 Da du mich
+r0.49 .25 Seit du von
+r0.28 .25 Treulie-be
+=4  4 A c# 4. e  8 d
+r0.80 .01 einst umfangen
+r0.59 .01 mir gescheiden
+r0.38 steht in Himmelshut, es wird noch Alles, Alles
+=5  4 e a  4. g# 8 e
+r0.80 .01 einst umfangen
+r0.59 .01 mir gescheiden
+r0.38 steht in Himmelshut,
+=6  4 c# A e G#
+r0.30 .01 einst umfangen
+r0.96 .01 mir gescheiden
+r1.62 steht in Himmelshut, es wird noch Alles, Alles
+|
+I0.40 .10 f
+=1  4 rest c# 4. c  8 Bn
+r0.80 .25 Da du mich
+r0.59 .25 Seit du von
+r0.38 .25 Treulie-be
+I0.05 .10 f
+=2  4 rest E E G#
+r0.80 .25 Da du mich
+r0.59 .25 Seit du von
+r0.38 .25 Treulie-be
+=3  4 A_ C# E D
+r0.70 .01 einst umfangen
+r0.49 .01 mir gescheiden
+r0.28 steht in Himmelshut, es wird noch, es wird noch Al - les
+=4  4 c# e g f
+r0.80 .01 hast ist mir gewichen, Ruh und
+r0.59 .01 bist hab ich ge-lacht zu keiner
+=5  4 e rest 2 a
+r0.80 .01 hast .50 ist
+r0.59 .01 bist .50 hab
+r0.38 .50 es
+=6  4 A A a d
+r0.30 .01 hast ist mir gewichen, Ruh und
+r0.96 .01 bist hab ich ge-lacht zu keiner
+|
+=1  4 A c# 4. e  8 d
+r0.80 .01 einst umfangen
+r0.59 .01 mir gescheiden
+r0.38 steht in Himmelshut, es wird noch Al-les
+=2  4 A A 4. c# 8 Bn
+r0.80 .01 einst umfangen
+r0.59 .01 mir gescheiden
+r0.38 steht in Himmelshut, es wird noch Al-les
+=3  4 C# E E G#
+r0.70 .01 hast ist mir  ge - wi-chen, ge
+r0.49 .01 bist hab ich ge - lacht,
+=4  4 e A g f
+=5  2 a a
+r0.80 .01 mir .50 ge .80 -
+r0.59 .01 ich .50 ge .80 -
+r0.38 .01 wird .50 noch
+=6  4 A A a d
+| .88 .89
+=1  4 c# e g f
+r0.80 .01 hast ist mir ge-wi - chen,
+r0.59 bist hab ich gelacht,  zu
+=2  4 A A A A
+r0.80 .01 hast ist mir ge-wi - chen,
+r0.59 bist hab ich gelacht,  zu
+=3  2 A 4 E F
+r0.49 .50 ich  ge-lacht
+# r0.28 .50 wird noch
+=4  2 e rest
+r0.80 .01 Rast,
+r0.59 .01 Frist,
+r0.38 .01 gut,
+=5  4 a{1 2 c~#}1 4 d~
+r0.80 .01 wi .40 - .65 chen
+r0.59 .01 lacht .75 zu
+r0.38 .01 Al .40 - .72 les,
+=6  2 A rest
+r0.30 .01 Rast ;
+r0.96 .01 Frist ;
+r1.62 .01 gut.
+| .90 .89
+=1  4 e{1 d}1 B'{2 G}2
+=2' 2 B  4 G{2 E}2
+=3  2 Gn 4 D{2 E}2
+r0.70 .01 wi - chen
+r0.49 .50 zu
+=4  4. blank 1 rest
+i0.15 .07 dim  .   .   .
+=5  2 g g
+r0.80 .01 Ruh .50 und
+r0.59 .01 kei - ner
+r0.38 .06 Al - les
+=6  4. blank 1 rest
+| .90 .89
+=1  2 F E
+r0.80 .01 Ruh .50 und
+r0.59 .01 kei - ner
+r0.38 .06 Al - les
+=2  4 E{2 2 D}2 4 C#
+r0.80 .01 Ruh .65 und
+r0.59 .01 kei .40 - .65 ner
+r0.38 .03 Al .40 - .65 les
+=3  2 A_ A_
+r0.70 .01 Ruh .50 und
+r0.49 .01 kei - ner
+r0.28 .06 Al - les
+=4  4. blank 1 rest
+I0.15 .09 p
+=5  2 a rest
+r0.80 .01 Rast,
+r0.59 .01 Frist,
+r0.38 .01 gut,
+=6  4. blank 1 rest
+
+1 systems / 19 65 19 65 19 65 19 65 19 65 19 /
+pagenum
+innerhead All meine Herzgedanken,  Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+9 bars | 1b  9 9 15 10 | 15 12 15 10 | 12 12 12 10 \
+ | 12 12 12 10 | 15 12 15 10 | 12 12 12 10 \
+ | 15 12 16 10 | 15 12 15 10 | 16 15 ||
+|
+I0.40 .09 p
+=1  2 D rest
+r0.80 .08 Rast,
+r0.59 .08 Frist,
+r0.38 .08 gut,
+I0.05 .09 p
+=2  2 D 4 rest G(2{'1
+r0.80 .08 Rast: .75 all
+r0.59 .08 Frist. .75 Der
+r0.38 .08 gut.  .72 Gott
+I0.05 .09 p
+=3  2 A_ rest
+r0.70 .08 Rast,
+r0.49 .08 Frist,
+r0.28 .08 gut,
+I0.05 .09 p
+=4  2 A 4 B c
+r0.80 .08 all .48 meine,
+r0.59 .01 Der Maßlieb,
+r0.38 .08 Gott wolle,
+I0.05 .09 p
+=5  2 f# 4 g g
+r0.80 .08 all .48 meine,
+r0.59 .01 Der Maßlieb,
+r0.38 .08 Gott wolle,
+I0.05 .09 p
+=6  2 d 4 g eb
+r0.30 .08 all .48 meine,
+r0.96 .01 Der Maßlieb,
+r1.62 .08 Gott wolle,
+|
+i0.4 .10 cresc  .   .   .
+=1  2 A 4 B c
+r0.80 .01 all .48 meine
+r0.59 .01 Der Maßlieb
+r0.38 .01 Gott .48 wolle
+i0.06 .40 cresc  .   .   .
+=2  4 G)2 F#}'1 G A
+r0.80 .48 meine
+r0.59 .37 Maßlieb
+r0.38 .48 wolle
+i0.04 .50 cresc  .   .   .
+=3  4 rest A G Eb
+r0.80 .25 all meine
+r0.59 .10 Der Maßlieb
+r0.38 .20 Gott wolle
+i0.04 .09 cresc  .   .   .
+=4  2 d 4 d f
+r0.80 .08 all .48 meine
+r0.59 .01 der Maßlieb
+r0.38 .08 Gott wolle
+i0.10 .20 cresc  .   .   .
+=5  4 a{1 d}1 g fn
+r0.80 .08 all .48 meine
+r0.59 .01 der Maßlieb
+r0.38 .08 Gott wolle
+i0.04 .09 cresc  .   .   .
+=6  2 d 4 g fn
+r0.30 .08 all .48 meine
+r0.96 .01 der Maßlieb
+r1.62 .08 Gott wolle
+| .90 .91
+=1  2 d f
+r0.80 .01 Herz-ge .90 -
+r0.59 .01 und .50 der
+r0.38 .01 die .50 ver .90 -
+=2' 2. B 4 A
+r0.80 .01 Herz - ge -
+r0.59 .01 und .65 der
+r0.38 .01 die .60 ver -
+=3  4 D{2 2 F}2 4 A
+r0.70 .01 Herz - ge -
+r0.49 .01 und .65 der
+r0.28 .01 die .60 ver -
+=4  4 f{1 2 d}1 4 f
+r0.80 .01 Herz - ge -
+r0.59 .01 und .65 der
+r0.38 .01 die .60 ver -
+=5  2 b d
+r0.80 .01 Herz-ge .90 -
+r0.59 .01 und .50 der
+r0.38 .01 die .50 ver .90 -
+=6  4 b{1 2 B}1 4 d
+r0.30 .01 Herz - ge -
+r0.96 .01 und .65 der
+r1.62 .01 die .60 ver -
+| .90 .89
+i0.4 .01 dim  .   .   .
+=1  1 c
+r0.80 .05 dan .70 -
+r0.59 .05 Ro .70 -
+r0.38 .08 ei .70 -
+r0.80 .99 ken sind immer-dar
+r0.59 .99 sen, begehr ich
+r0.38 .99 nen, die für ein-an -
+i0.08 .01 dim  .   .   .
+=2  2. A{2 4 G}2
+r0.80 .05 dan .70 -
+r0.59 .05 Ro .70 -
+r0.38 .08 ei .70 -
+r0.80 .99 ken sind immer-dar
+r0.59 .99 sen, begehr ich
+r0.38 .99 nen, die für ein-an -
+i0.04 .01 dim  .   .   .
+=3  2. F{2 4 En}2
+r0.70 .05 dan .70 -
+r0.49 .05 Ro .70 -
+r0.28 .08 ei .70 -
+r0.70 .99 ken sind immer-dar
+r0.49 .99 sen, begehr ich
+r0.28 .99 nen, die für ein-an
+i0.10 .01 dim  .60 .   .
+=4  4 f{1 e d e}1
+r0.80 .05 dan .70 -
+r0.59 .05 Ro .70 -
+r0.38 .08 ei .70 -
+i0.09 .01 dim  .   .   .
+=5  4 a{1 A B c}1
+r0.80 .05 dan .70 -
+r0.59 .05 Ro .70 -
+r0.38 .08 ei .70 -
+r0.80 .99 ken sind immer-dar
+r0.59 .99 sen, begehr ich
+r0.38 .99 nen, die für ein-an -
+i0.04 .01 dim  .   .   .
+=6  2 A{2 4 B c}2
+r0.30 .05 dan .70 -
+r0.96 .05 Ro .70 -
+r1.62 .08 ei .70 -
+r0.30 .99 ken sind immer-dar
+r0.96 .99 sen, begehr ich
+r1.62 .99 nen, die für ein-an -
+| .89 .89
+i0.50 .52 cresc .  dim  .   .   .
+=1  4 leg85 A leg99 A  d  c#
+i0.04 .52 cresc .  dim  .   .   .
+=2  4 leg85 F leg99 F  F  Eb
+i0.04 .52 cresc .  dim  .   .   .
+=3  4 leg85 C leg99 C  B_ A_
+=4  2 f rest
+r0.80 .01 ken
+r0.59 .01 sen,
+r0.38 .01 nen,
+i0.04 .52 cresc .  dim  .   .   .
+=5  4 leg85 f leg99 f  f  f
+i0.04 .52 cresc .  dim  .   .   .
+=6  4 leg85 f leg99 eb d  f
+| .90 .89
+=1  2 d B
+r0.80 .50 bei
+r0.59 .01 für - der  nicht, begehr ich
+r0.38 .50 der
+=2  4 D{2 2 F}2 4 En
+r0.80 .50 bei
+r0.59 .01 für - der  nicht, begehr ich
+r0.38 .50 der
+=3  2 B_ B_
+r0.70 .50 bei
+r0.49 .01 für - der  nicht, begehr ich
+r0.28 .50 der
+=4  4. blank 1 rest
+=5  2 f g
+r0.80 .50 bei
+r0.59 .01 für - der  nicht, begehr ich
+r0.38 .50 der
+=6  2 B G
+r0.30 .50 bei
+r0.96 .01 für - der  nicht, begehr ich
+r1.62 .50 der
+| .90 .91
+I0.70 .60 p
+i0.70 .74 cresc .  dim  .   .   .
+=1  4 leg85 A{'1 A}'1 4 leg95 G A
+r0.80 .01 dir, .50 immer-dar
+r0.38 sind, .50 für ein
+I0.01 .57 p
+i0.01 .71 cresc .  dim  .   .   .
+=2  4 F{2 leg85 E}2  leg95 D F#
+r0.80 .01 dir, .50 immer-dar
+r0.38 sind, .50 für ein
+I0.01 .57 p
+i0.01 .71 cresc .  dim  .   .   .
+=3  4 C{2 leg85 C#}2 leg95 D F#
+r0.70 .01 dir, .50 immer-dar
+r0.28 sind, .50 für ein
+I0.01 .25 p
+i0.01 .55 cresc .  dim  .   .   .
+=4  4 rest A d c
+r0.80 .24 sind immer-dar
+r0.59 .24 begehr ich
+r0.38 .27 die für ein-an
+I0.13 .50 p
+i0.15 .66 cresc .
+=5  2 leg85 a 4 leg95 d a
+r0.80 .01 dir, .50 immer-dar
+r0.38 sind, .50 für ein
+I0.04 .57 p
+i0.04 .71 cresc . dim  .   .   .
+=6  4 F{2 leg85 A}2  leg95 B A
+r0.30 .01 dir, .50 immer-dar
+r1.62 sind, .50 für ein
+| .92 .93
+=1' 2 B G
+r0.80 .50 bei
+r0.59 .01 für .31 - .50 der
+r0.38 .01 an  .31 - .50 der
+=2  4 G{2 2 Fn}2 4 E
+r0.80 .74 bei
+r0.59 .03 für .44 - .74 der
+r0.38 .03 an  .44 - .74 der
+=3  4 G{2 D}2 4 B_{2 Cn}2
+r0.70 .50 bei
+r0.49 .01 für .31 - .50 der
+r0.28 .01 an  .31 - .50 der
+=4  2 B 4 B'{2 G}2
+r0.80 .50 bei
+r0.59 .01 für .31 - .50 der
+r0.38 .31 - .50 der
+i0.15 .40 dim  .   .   .
+=5  4 d~{1 g}1 g{1 b}1
+r0.80 .50 bei
+r0.59 .01 für .31 - .50 der
+r0.38 .01 an  .31 - .50 der
+=6 2 G c
+r0.30 .50 bei
+r0.96 .01 für .31 - .50 der
+r1.62 .01 an  .31 - .50 der
+| 1.52 .91
+=1  2 F-fermata rest
+r0.80 .03 dir.
+r0.59 .01 nicht.
+r0.38 .01 sind !
+=2  2 F-fermata rest
+r0.80 .03 dir.
+r0.59 .01 nicht.
+r0.38 .01 sind !
+=3  2 C-fermata rest
+r0.70 .03 dir.
+r0.49 .01 nicht.
+r0.28 .01 sind !
+=4  2 A-fermata rest
+r0.80 .03 dir.
+r0.59 .01 nicht.
+r0.38 .01 sind !
+=5  2 a-fermata rest
+r0.80 .03 dir.
+r0.59 .01 nicht.
+r0.38 .01 sind !
+=6' 2 <F f-fermata> rest
+r0.30 .03 dir.
+r0.96 .01 nicht.
+r1.62 .01 sind !
+midi pause 2.0
+
+midi off
+3 systems 20 / 19 40 19 40 19 40 19 \
+ / 19 35 19 35 19 35 19 \
+ / 19 35 19 45 19 40 19 15 /
+pagenum
+title 6.  Es geht ein Wehen
+innerhead Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+7 bars | 1# 4/4 22 | 12 12 12 9 | 12 12 12 9 \
+ | 6 6 6 6 6 10 5 5 | 12 12 12 9 \
+ | 12 12 12 9 | 6 6 6 6 6 7 5 5 |
+| 2/4 2.1
+b1.1 .04 Ziemlich langsam
+I0.30 .55 p
+i0.35 .77 mezza voce
+=1  treble     1# 4/4 cha1 leg99 vol80 4 rest B
+r0.6 .60 Es .99  geht ein Wehen durch den Wald, die
+I0.10 .55 p
+i0.15 .77 mezza voce
+=2  treble     1# 4/4 cha2 leg99 vol70 4 rest G
+r0.55 .60 Es .99  geht ein Wehen durch den Wald, die
+I0.10 .55 p
+i0.15 .77 mezza voce
+=3  treble8vab 1# 4/4 cha3 leg99 vol80 4  rest e
+r0.6 .60 Es .99  geht ein Wehen durch den Wald, die
+I0.15 .25 p
+=4' bass       1# 4/4 cha4 leg95 vol70 2 <G g>
+r0.5 .40 Es
+| 4/4 4.2
+=1  4 e d# e dn
+=2' 4 B A B A
+=3  4 g f g f
+i0.05 .20 cresc .   .   .
+=4' 2 <G g> <G g>
+r0.5 .01 geht .55 ein
+|
+=1  8 [c B] 4 c leg85 B leg99 B
+=2' 4 G F leg85 G leg99 B_
+=3  4 e d# leg85 e leg99 e
+i0.05 .20 dim   .    .   .
+=4' 2 <G g> <G g>
+r0.5 .01 We .30 - .50 hen
+|
+i0.5 .10 cresc .  .  .
+=1' 4 A# B F F
+r0.6 .03 Windsbraut hör ich singen.
+i0.05 .10 cresc .  .  .
+=2' 4 C# F 8 [E D] 4 C
+r0.55 .03 Windsbraut hör ich singen.
+i0.05 .10 cresc .  .  .
+=3  4 e dn 8 [c# B] 4 A#
+r0.6 .03 Windsbraut hör ich singen.
+i0.05 .20 cresc .   .   . .97 dim
+=4' 2 <F f> <F f>
+r0.5 .01 durch .50 den
+| 1.05 1.15 1.05 1.05
+=1 4 F F rest B
+r0.6 .75 Sie
+=2  4 C# D# rest E
+r0.55 .75 Sie
+=3  4 A# B' rest B
+r0.6 .75 Sie
+i0.05 .24 .  .
+I0.05 .46 p
+=4' 2 <B f> <G g>
+r0.5 .01 Wald .60 es
+| 4.2
+=1  4 e{1 d# e}1 dn
+r0.6 .04 singt .75 von
+=2' 4 B{2 A B}2 A
+r0.55 .04 singt .75 von
+=3  4 g{1 f g}1 f
+r0.6 .04 singt .75 von
+=4' 2 <G g> <G g>
+r0.5 .01 singt .50 vom
+|
+=1  4 c B 8 [A B'] 4 c
+r0.6 .05 einem  Buhlen
+=2  4 G F E D#
+r0.55 .05 einem  Buhlen
+=3  4 e d 8 [c B] 4 A
+r0.6 .05 einem  Buhlen
+=4' 2 <G g> <G g>
+r0.5 .01 Buh .30 - .50 len
+/
+8 bars | 1# 12 12 12 10 | 12 13.2 13.5 10 | 12 12 12 10 \
+ || 3/4 12 13 10 | 12 12 10 | 12 12 10 | 12 12 10 | 12 12 10 |
+| 1.05 1.05 1.05 1.0
+=1 2 B 4 rest d
+r0.57 .07 gut .75 und
+=2 2 E 4 rest E
+r0.56 .07 gut .75 und
+=3 2 B 4 rest B
+r0.5 .07 gut .75 und
+=4 2 G G#
+r0.4 .09 gut .54 und
+| .98 .96 .98 1.0
+=1 4 c B A e
+r0.57 .01 bis sie  dem in
+=2 4 E E E E
+r0.57 .01 bis sie  dem in
+=3 4 A{2 G#}2 A{2 A#}2
+r0.5 .05 bis .55 sie
+=4 4 A B c c#
+r0.4 .01 bis sie  dem in
+| 3.9
+=1 4 d#{1 c B}1 A
+r0.57 .03 Ar .42 - .74 men
+=2 4 F{2 A G}2 F
+r0.58 .03 Ar .42 - .74 men
+=3 4 B{1 D#}1 rest B
+r0.5 .03 ruht, .71 muß
+=4 2 B B
+r0.4 .03 Ar .30 - .50 men
+| 3/3 2.7
+i0.4 .05 espress. cresc.
+=1 3/4 4 G rest B
+r0.57 .18 ruht, .68 muß
+i0.05 .05 espress. cresc.
+=2 3/4 4 E rest G
+r0.59 .18 ruht, .68 muß
+i0.15 .05 espress. cresc.
+=3 3/4 4 B{1 e}1 dn
+r0.5 .18 sie .63 noch
+i0.05 .05 espress. cresc.
+=4 3/4 2 e 4 e
+r0.4 .15 ruht, .68 muß
+|
+=1 4 B{1 e}1 d
+r0.57 .05 sie .60 noch
+=2 2 G 4 G#
+r0.60 .05 sie .60 noch
+=3 4 c{1 B}1 e
+r0.5 .05 weit .68 in
+=4 2 e 4 e
+r0.4 .05 sie .60 noch
+|
+=1 2 c 4 c
+r0.57 .05 weit .66 in
+=2 2 A 4 A
+r0.6 .05 weit .66 in
+=3 4 e{1 a}1 g
+r0.5 .01 bang-gem,
+=4 2 a 4 A
+r0.4 .05 weit .66 in
+|
+=1 4 c{1 fn}1 e
+r0.57 .01 bang-gem
+=2 2 A 4 A
+r0.6 .01 bang-gem
+=3 4 fn{1 d}1 c
+r0.5 .01 bang-gem
+=4 2 a 4 a
+r0.4 .01 bang-gem
+|
+=1 2 d# 4 d
+r0.57 .01 mut .64 sich
+=2' 4 F#{2 B}2 A
+r0.59 .01 mut .64 sich
+=3 2 B 4 B
+r0.5 .01 mut .64 sich
+=4 4 a{1 g}1 f
+r0.4 .01 mut .64 sich
+/
+7 bars | 12 12 10 | 12 12 10 | 12 12 10 \
+ || 4/4 11 11 12 9 | 12 12 12 9 | 6 7 6 6 6 6 5 5 | 6 6 6 6 6 10 5 5 |
+|
+I0.4 .15 f
+=1 2 e 4 B
+r0.5 .08 durch .67 die
+I0.05 .15 f
+=2 4 G{2 F}2 E
+r0.47 .08 durch .67 die
+I0.05 .15 f
+=3 4 B'{2 A}2 G
+r0.6 .08 durch .67 die
+I0.05 .15 f
+=4 2 e 4 e
+r0.4 .08 durch .67 die
+|
+i0.4 .10 dim . . .
+=1 4 c{1 A}1 Fn
+r0.5 .05 Lan .45 - .67 de
+i0.05 .10 dim . . .
+=2 4 E{2 Fn}2 C
+r0.47 .05 Lan .45 - .67 de
+i0.09 .10 dim . . .
+=3 2 A 4 A
+r0.6 .05 Lan .45 - .67 de
+i0.05 .10 dim . . .
+=4 2 A 4 A
+r0.4 .05 Lan .45 - .67 de
+|
+=1 2. D#
+r0.5 .05 schwin .95 -
+=2 4 C{2 B_}2 A_
+r0.45 .05 schwin .95 -
+=3 4 a{1 g}1 f
+r0.6 .05 schwin .95 -
+=4 2. B
+r0.4 .05 schwin .95 -
+| 3.9
+I0.4 .15 p
+=1 4/4 2 E 4 rest B
+r0.5 .16 gen. .77 Der
+I0.05 .13 p
+=2 4/4 2 G_ 4 rest G
+r0.45 .16 gen.
+r0.50 .77 Der
+I0.05 .13 p
+=3 4/4 2 E 4 rest e
+r0.6 .16 gen. .77 Der
+I0.05 .13 p
+=4 4/4 2 e <G g'>
+r0.4 .16 gen. .59 Der
+|
+=1  4 e d# e dn
+r0.5 Sarg der klingt so
+=2' 4 B A B A
+r0.5 Sarg der klingt so
+=3  4 g f g f
+r0.6 Sarg der klingt so
+=4' 2 <G g> <G g>
+r0.4 .03 Sarg .53 der
+|
+=1  8 [c B] 4 c leg85 B leg99 B
+r0.5 .01 schauerlich, der
+=2' 4 G F leg85 G leg99 B_
+r0.5 .01 schauerlich, der
+=3  4 e d# leg85 e leg99 e
+r0.6 .01 schauerlich, der
+=4' 2 <G g> <G g>
+r0.4 .03 klingt .53 so
+|
+=1' 4 A# B F F
+r0.5 klingt so wild, so
+=2' 4 C# F 8 [E D] 4 C
+r0.5 klingt so wild, so
+=3  4 e dn 8 [c# B] 4 A#
+r0.6 klingt so wild, so
+=4' 2 <F f> <F f>
+r0.4 .03 schau  -  er .85 -
+
+3 systems 5 / 19 35 19 35 19 40 19 \
+ / 19 35 19 40 19 35 19 / 19 35 19 40 19 35 19 15 /
+pagenum
+innerhead Es geht ein Wehen,  Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+6 bars | 1# 12 12 12 10 | 12 12 12 10 | 12 12 13 10 \
+ | 10 10 12 10 | 12 12 12 10 | 12 12 12 10 ||
+
+| 0.95 0.95 1.00 0.95
+=1 4 F F rest B
+r0.6 .10 trü-be .73 das
+=2  4 C# D# rest E
+r0.5 .10 trü-be
+r0.55 .73 das
+=3  4 A# B' rest B'
+r0.6 .10 trü-be .73 das
+=4' 2 <B f> <G g>
+r0.4 .01 - lich, .50 das
+| 3.8
+i0.5 .01 cresc .  .  .
+=1  4 e{1 d# e}1 dn
+r0.6 .01 hei .40 - .73 ße
+i0.05 .01 cresc .  .  .
+=2' 4 G{'1 F B}'1 A
+r0.6 .01 hei .40 - .73 ße
+i0.05 .01 cresc .  .  .
+=3  4 B'{'1 a g}1 f
+r0.6 .01 hei .40 - .73 ße
+i0.05 .01 cresc .  .  .
+=4' 2 <G g> <G g>
+r0.4 .01 Seh .30 - .50 nen
+|
+=1  4 c B 8 [A B'] 4 c
+r0.55 .01 Sehnen .50 ist .75 er -
+=2  4 G F E D#
+r0.55 .01 Sehnen .50 ist .75 er -
+=3  4 e d 8 [c B] 4 A
+r0.60 .01 Sehnen .50 ist .75 er -
+=4' 2 <G g> <G g>
+r0.40 .01 ist .50 er .85 -
+| 0.95 0.95 0.95 0.9
+=1 2 B 4 rest d
+r0.55 .01 wacht, .70 mein
+=2 2 E 4 rest E
+r0.55 .01 wacht, .70 mein
+=3 2 B 4 rest B
+r0.60 .01 wacht, .70 mein
+=4 2 G G#
+r0.40 .01 wacht, .50 mein
+| .90 .88 .90 0.9
+i0.5 .10 cresc .  .  .
+=1 4 c B A e
+r0.55 Schatz zu tausend
+i0.05 .10 cresc .  .  .
+=2 4 E E E E
+r0.55 Schatz zu tausend
+i0.05 .10 cresc .  .  .
+=3 4 A{2 G#}2 A{2 A#}2
+r0.60 .01 Schatz .50 gu-te
+i0.05 .10 cresc .  .  .
+=4 4 A B c c#
+r0.40 Schatz zu tausend
+| 3.9
+=1 4 d#{1 c B}1 A
+r0.55 .03 gu .40 - .75 te
+=2 4 F{2 A G F}2
+r0.55 .03 gu .40 - .75 te
+=3 4 B{1 D#}1 rest B
+r0.60 .03 Nacht ! .75 Es
+=4 2 B b
+r0.40 .03 gu .30 - .50 te
+/
+9 bars | 4# 3/4 12 13 10 | 12 13 10 | 12 12 10 | 13 12 10 \
+ | 12 12 10 | 12 12 10 | 12 12 10 | 12 13 10 | 12 12 10 |
+| 3/3 2.6
+i0.55 .13 espress. cresc.
+=1 4# 3/4 4 G rest B
+r0.55 .30 Nacht!   es
+=2 4# 3/4 4 E rest G
+r0.55 .30 Nacht!   es
+=3 4# 3/4 4 B{1 e}1 dn
+r0.55 .30 kommt  der
+=4 4# 3/4 2 e 4 e
+r0.40 .30 Nacht!   es
+|
+=1 4 B{1 e}1 dn
+r0.55 kommt  der
+=2 2 G 4 G#
+r0.55 kommt  der
+=3 4 c{1 B}1 e
+r0.55 .01 Tag .67 eh
+=4 2 e 4 e
+r0.40 kommt  der
+|
+=1 2 c 4 c
+r0.55 .01 Tag .67 eh
+=2 2 A 4 A
+r0.54 .01 Tag .67 eh
+=3 4 e{1 a}1 g
+r0.55 .01 du's .67 ge -
+=4 2 A 4 A
+r0.40 .01 Tag .67 eh
+|
+=1 4 c{1 f}1 e
+r0.55 .01 du's .67 ge  -
+=2 2 A 4 A
+r0.53 .01 du's .67 ge  -
+=3 4 f{1 d#}1 c
+r0.55 .01 dacht,  der
+=4 2 A 4 a
+r0.40 .01 du's .67 ge  -
+|
+I0.4 .60 f
+=1  2 d 4 d
+r0.55 .01 dacht,  der
+I0.05 .69 f
+=2' 4 F{2 B}2 A
+r0.52 .01 dacht,  der
+I0.05 .68 f
+=3  2 B 4 B
+r0.55 .01 eint, .67 der
+I0.05 .68 f
+=4  4 a{1 g}1 f
+r0.40 .01 dacht,  der
+|
+=1  2 e 4 B
+r0.55 .01 eint, .67 ge -
+=2' 4 G{2 A}2 B
+r0.51 .01 eint, .67 ge -
+=3  2 B 4 e
+r0.55 .01 eint, .67 ge -
+=4  4 e{1 f}1 g
+r0.40 .01 eint, .67 ge -
+|
+=1 4 B#{1 c}1 A
+r0.55 .01 treu .47 - .75 e
+=2 2 E 4 F
+r0.50 .01 treu .47 - .75 e
+=3 4 e{1 c}1 c
+r0.55 .01 treu .47 - .75 e
+=4 2 a 4 f
+r0.40 .01 treu .47 - .75 e
+|
+=1  2 G 4 c(1{'3
+r0.55 .01 Lie .57 -
+=2' 2 G 4 Gn
+=2, 4 E D C
+r0.49 Lie .55 -
+=3' 2 B{2 4 A#}2
+r0.55 .01 Lie .57 -
+=4 2 b{1 4 e}1
+r0.40 .01 Lie .57 -
+|
+=1 4 c)1 B A}3
+r0.55 .10 - .67 -
+=2' 2. Fr
+=2, 2 E 4 D
+r0.49 .20 - .90 -
+=3  4 B rest B
+r0.55 .01 be, .67 es
+=4 2 B 4 b
+r0.40 .01 be, .67 es
+/
+9 bars | 4# 12 13 10 | 12 13 10 | 12 12 10 | 13 12 10 \
+ | 12 12 10 | 12 12 10 | 12 13 10 | 12 13 10 | 11 11 10 ||
+|
+=1 4 G rest B
+r0.55 .06 - .28 be, .75 es
+=2 4 E rest G
+r0.57 .06 - .28 be, .75 es
+=3 4 B{1 e}1 dn
+r0.55 .23 kommt  der
+=4 2 e 4 e
+r0.48 .23 kommt  der
+|
+i0.5 .10 cresc .  .  .
+=1 4 B{1 e}1 dn
+r0.55 kommt  der
+i0.05 .10 cresc .  .  .
+=2 2 G 4 G#
+r0.57 kommt  der
+i0.10 .10 cresc .  .  .
+=3 4 c{1 B}1 e
+r0.55 .01 Tag .67 eh
+i0.05 .10 cresc .  .  .
+=4 2 e 4 e
+r0.49 .01 Tag .67 eh
+|
+=1 2 c 4 c
+r0.55 .01 Tag .67 eh
+=2 2 A 4 A
+r0.57 .01 Tag .67 eh
+=3 4 e{1 a}1 g
+r0.55 .01 du's .67 ge -
+=4, 2 <A a> 4 <A a>
+r0.50 .10 du's .67 ge -
+|
+=1 4 c{1 f}1 e
+r0.55 .01 du's .67 ge -
+=2 2 A 4 A
+r0.55 .01 du's .67 ge -
+=3 4 f{1 d#}1 c
+r0.55 .01 dacht, .67 der
+=4, 2 <A a> 4 a
+r0.50 .10 dacht,  der
+|
+I0.4 .60 f
+=1  2 d 4 d
+r0.55 .01 dacht,  der
+I0.05 .68 f
+=2' 4 F{2 B}2 A
+r0.53 .01 dacht,  der
+I0.05 .68 f
+=3  2 B 4 B
+r0.55 .01 eint, .67 der
+I0.05 .68 f
+=4  4 a{1 g}1 f
+r0.49 .01 eint, .67 der
+|
+=1  2 e 4 B
+r0.55 .01 eint, .67 ge -
+=2' 4 G{2 A}2 B
+r0.51 .01 eint, .67 ge -
+=3  4 g{1 f}1 e
+r0.55 .01 eint, .67 ge -
+=4  2 e 4 g
+r0.48 .01 eint, .67 ge -
+|
+=1  4 f{1 c}1 e
+r0.55 .01 treu .47 - .75 e
+i0.05 .95 rit
+=2  4 A#{2 B'}2 c
+r0.49 .01 treu .47 - .75 e
+i0.05 .95 rit
+=3  2 c 4 f
+r0.55 .01 treu .47 - .75 e
+i0.05 .95 rit
+=4  4 f{1 g}1 a#
+r0.47 .01 treu .47 - .75 e
+|
+i0.40 .01 rit  .  .  .
+=1  4 e 8 [d c] 4 d
+r0.55 .01 Lie .57 -
+i0.10 .42 .   .  .
+=2' 4 c B A
+=2, 4. An 8 G 4 F
+r0.47 .01 Lie .57 -
+i0.15 .55 .  .  .
+=3  2 f{1 4 B}1
+r0.55 .01 Lie .57 -
+i0.15 .55 .  .  .
+=4  2 b{1 4 B}1
+r0.46 .01 Lie .57 -
+|
+=1  4. e rest
+r0.55 .01 be !
+=2' 4. G rest
+=2, 4. E rest
+r0.45 be  !
+=3  4. B rest
+r0.55 .01 be !
+=4  4. e rest
+r0.45 .01 be !
+midi pause 2.0
+
+midi on
+2 systems 15 / 19 60 19 63 19 60 19 \
+ / 19 60 19 66 19 60 19 10 /
+pagenum
+title 7.  Vergangen ist mir Glück und Heil
+innerhead Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+6 bars | 4/2 40 | 12 12 12 10 | 12 13 12 10 \
+ | 24 20 | 6 6 6 8 8 8 5 5 | 10 10 12 10 |
+| 2/2 1.1
+b0.6 .04 Andante
+=1  treble     4/2 cha1 leg90 vol80 1 A
+r0.80 .10 1.  Ver .70 -
+r0.57 .10 2.  Er .70 -
+r0.34  .10 3.  Um
+=2  treble     4/2 cha2 leg90 vol70 2 rest F
+r0.74 .40 1.  Ver .90 -
+r0.51 .40 2.  Er .90 -
+r0.28 .40 3.  Um
+=3  treble8vab 4/2 cha3 leg90 vol80 2 rest d
+r0.75 .40 1.  Ver .90 -
+r0.52 .40 2.  Er .90 -
+r0.27 .40 3.  Um
+=4' bass       4/2 cha4 leg90 vol70 2 rest d
+| 2/2 2.2
+=1  2 leg99 A leg90 c B A
+r0.80 .01 gangen .50 ist .75 mir
+r0.57 .01 barmen .51 tu .75 ich
+r0.34 .01 Hülf ich ruf, mein
+=2  2 leg99 E leg90 A G F
+r0.72 .01 gangen .50 ist .75 mir
+r0.49 .01 barmen .51 tu .75 ich
+r0.24 .01 Hülf ich ruf, mein
+=3  2 leg99 c leg90 e e c
+r0.75 .01 gangen .50 ist .75 mir
+r0.52 .01 barmen .51 tu .75 ich
+r0.27 .01 Hülf ich ruf, mein
+=4  2 leg99 a leg90 A e f
+|
+=1  2 G F 1 E
+r0.80 Glück und Heil,
+r0.57 .01 mich so .51 hart,
+r0.34 .01 höchster .51 Hort,
+=2  2 E D 1 C#
+r0.70 Glück und Heil,
+r0.47 .01 mich so .51 hart,
+r0.24 .01 höchster .51 Hort,
+=3  2 c A 1 A
+r0.76 Glück und Heil,
+r0.53 .01 mich so .51 hart,
+r0.28 .01 höchster .51 Hort,
+=4' 2 c d 1 A
+|
+i0.4 .55 cresc  .   .   .
+=1  1 A 2 leg99 F leg90 G
+r0.80 .01 und .57 al - le
+r0.57 .01 das .37 kommt aus
+r0.34 .01 er .26 - .50 hör mein
+i0.02 .55 cresc  .   .   .
+=2  2 rest E leg99 A_ leg90 B_
+r0.65 .25 und .59 al - le
+r0.42 .18 das kommt aus
+r0.20 .28 er-hör  mein
+i0.02 .55 cresc  .   .   .
+=3  2 rest c# d d
+r0.78 .25 und .57 al - le
+r0.55 .18 das kommt aus
+r0.30 .28 er-hör  mein
+=4' 2 rest A leg99 d leg90 G
+i0.10 .55 cresc  .   .   .
+| .55 .55 .6 .55
+i0.4 .55 dim  .   .   .
+=1  2 E   A 4 F{2 G 2 E}2
+r0.80 .01 Freud auf  Er .85 -
+r0.57 .01 Buhlers  .53 Hul .85 -
+r0.34 .01 sehnlich .53 Kla .85 -
+i0.02 .55 dim  .   .   .
+=2  2. C# 4 E A_{2 B_ 2 C}2
+r0.63 .01 Freud auf  Er .85 -
+r0.41 .01 Buhlers  .53 Hul .85 -
+r0.19 .01 sehnlich .53 Kla .85 -
+i0.02 .55 dim  .   .   .
+=3  2. A 4 c# 2 d{1 A}1
+r0.80 .01 Freud auf  Er .85 -
+r0.57 .01 Buhlers  .53 Hul .85 -
+r0.34 .01 sehnlich .53 Kla .85 -
+=4' 2. A  4 A d{'1 G 2 A}'1
+i0.10 .55 dim  .   .   .
+| 1.25 1.1
+I0.34 .40 p
+=1  1 D A
+r0.80 .01 den,  .53 e .80 -
+r0.57 .02 de,   .51 die
+r0.34 .01 gen ! .49 Schaff
+I0.05 .60 p
+=2  1 D 2 rest F
+r0.64 .01 den,
+r0.42 .02 de,
+r0.20 .01 gen !
+r0.69 .76 e .90 -
+r0.47 .73 die
+r0.25 .67 Schaff
+I0.05 .60 p
+=3  1 A 2 rest d
+r0.78 .01 den,  .76 e .90 -
+r0.55 .02 de,   .73 die
+r0.30 .01 gen ! .67 Schaff
+I0.05 .60 p
+=4  1 d 2 rest d
+/
+5 bars | 48 | 48 | 48 | 48 | 48 |
+| 2/2 2.2
+=1  2 leg99 A leg90 c B A
+r0.80    - lend .27 bin .50 ich .75 ver  -
+r0.57 .02 mich .27 in .43 Angst .75 und
+r0.34 .02 mir .25 Herzlieb, .75 dein
+=2  2 leg99 E leg90 A G F
+r0.70    - lend .27 bin .50 ich .75 ver  -
+r0.48 .02 mich .27 in .43 Angst .75 und
+r0.26 .02 mir .25 Herzlieb, .75 dein
+=3  2 leg99 c leg90 e e c
+r0.80    - lend .27 bin .50 ich .75 ver  -
+r0.57 .02 mich .27 in .43 Angst .75 und
+r0.32 .02 mir .25 Herzlieb, .75 dein
+=4  2 leg99 a leg90 A e f
+|
+=1  2 G F 1 E
+r0.80 .01 lo - ren .51 gar,
+r0.57 .01 Not .25 hat .48 bracht
+r0.34 .01 Botschaft .50 schier,
+=2  2 E D 1 C#
+r0.70 .01 lo - ren .51 gar,
+r0.48 .01 Not .25 hat .48 bracht
+r0.26 .01 Botschaft .50 schier,
+=3  2 c A 1 A
+r0.80 .01 lo - ren .51 gar,
+r0.57 .01 Not .25 hat .48 bracht
+r0.32 .01 Botschaft .50 schier,
+=4' 2 c d 1 A
+|
+i0.4 .55 cresc  .   .   .
+=1  1 A 2 leg99 F leg90 G
+#P=1, 1 blank 4 blank 4-s Gr 43-s G
+r0.80 .01 mir .50 mag  nicht
+r0.57 .01 und .50 wil - lig .96 -
+r0.34 .01 ich .39 muß sonst vor
+# rs0.34 .73 sonst vor
+i0.03 .55 cresc  .   .   .
+=2  2 rest E leg99 A_ leg90 B_
+#P=2, 1 blank 4 blank 4-s B_r 43-s B_
+r0.63 .25 mir .50 mag  nicht
+r0.44 .25 und .50 wil - lig .96 -
+r0.25 .22 ich muß sonst vor
+i0.03 .48 cresc  .    .   .
+=3  2 rest c# d d'
+#P=3, 1 blank 4 blank 4-s dr 43-s d
+r0.80 .25 mir .50 mag  nicht
+r0.57 .25 und .50 wil - lig .96 -
+r0.34 .22 ich muß sonst vor
+=4' 2 rest A leg99 d leg90 G
+#P=4, 1 blank 4 blank 4-s Gr 43-s G
+i0.20 .49 cresc  .      .   .
+| .55 .55 .6 .55
+i0.40 .52 dim  .   .   .
+=1  2 E   A 4 F{2 G 2 E}2
+r0.80 .01 bes - ser .50 wer .85 -
+r0.57 .01 lich .25 das .50 dul .85 -
+r0.34 .01 Leid .25 ver - za .85 -
+i0.03 .52 dim  .   .   .
+=2  2. C# 4 E A_{2 B_ 2 C}2
+r0.63 .01 bes .21 - .33 ser wer .85 -
+r0.44 .01 lich .33 das  dul .85 -
+r0.25 .01 Leid .32 ver-za .85 -
+i0.04 .52 dim  .   .   .
+=3  2. A 4 c# 2 d{1 A}1
+r0.80 .01 bes .21 - .33 ser wer .85 -
+r0.57 .01 lich .33 das  dul .85 -
+r0.34 .01 Leid .32 ver-za .85 -
+=4' 2. A  4 A d{'1 G 2 A}'1
+i0.20 .52 dim  .   .   .
+| 1.25 1.1
+I0.34 .40 p
+=1  1 D A
+r0.80 .01 gen. .50 Bis
+r0.57 .01 de.  .51 Um
+r0.34 gen ! .49 Mein
+I0.05 .60 p
+=2  1 D 2 rest E
+r0.64 .01 gen.
+r0.41 .01 de.
+r0.23 gen !
+r0.70 .72 Bis
+r0.48 .73 Um
+r0.26 .71 Mein
+I0.05 .60 p
+=3  1 A 2 rest cn
+r0.80 .01 gen. .72 Bis
+r0.57 .01 de.  .73 Um
+r0.34 gen ! .71 Mein
+I0.05 .60 p
+=4  1 d 2 rest a
+
+2 systems 10 / 19 60 19 60 19 60 19 / 19 60 19 65 19 60 19 10 /
+pagenum
+innerhead Vergangen ist mir Glück und Heil,  Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+
+/
+7 bars | 24 20 | 48 | 20 24 | 54 | 40 | 12 12 13 11 | 20 24 |
+| 2.2
+i0.4  .29 cresc  .    .    .
+=1  2 B c 1 B
+r0.80 .03 in .26 den .52 Tod
+r0.57 .03 in .28 all-lein,
+r0.34 .03 traurig .52 Herz
+i0.07 .29 cresc  .    .    .
+=2  2 G A 1 G
+r0.80 .03 in .26 den .52 Tod
+r0.58 .03 in .28 all-lein,
+r0.36 .03 traurig .52 Herz
+i0.05 .29 cresc  .    .    .
+=3  2 e e 1 e
+r0.80 .03 in .26 den .52 Tod
+r0.57 .03 in .28 all-lein,
+r0.34 .03 traurig .52 Herz
+i0.06 .29 cresc  .    .    .
+=4  2 e a 1 e
+|
+=1  1 c 2 d e
+r0.80 .01 leid .50 ich groß
+r0.57 .01 Herz  -  liebste
+r0.34 .01 leidt .50 großen
+=2  2 rest A B c
+r0.80 .20 leid ich groß
+r0.58 .18 Herz-liebste
+r0.36 .21 leidt großen
+=3  2 rest e g g
+r0.80 .20 leid ich groß
+r0.57 .18 Herz-liebste
+r0.34 .21 leidt großen
+=4  2 rest a g c~
+|
+I0.34 .40 f
+=1  1 d e
+r0.80 .01 Not. .51 so
+r0.57 .01 mein.  .50 ist
+r0.34 Schmerz, wie
+I0.05 .60 f
+=2  1 B 2 rest G
+r0.80 .01 Not. .75 so
+r0.58 .01 mein.  .75 ist
+r0.36 .01 Schmerz,  wie
+I0.05 .60 f
+=3  1 g 2 rest e
+r0.80 .01 Not. .75 so
+r0.57 .01 mein.  .75 ist
+r0.34 .01 Schmerz,  wie
+I0.05 .60 f
+=4  1 g 2 rest c~
+|
+=1  2 g f e d
+r0.80 ich dich Lieb muß
+r0.57 mir kein Bürd zu
+r0.34 .01 soll .25 ich .52 ü-ber .92 -
+=2  2 B' A c A
+r0.80 ich dich Lieb muß
+r0.58 mir kein Bürd zu
+r0.36 .01 soll .25 ich .52 ü-ber .92 -
+=3  2 e c g f
+r0.80 ich dich Lieb muß
+r0.57 mir kein Bürd zu
+r0.34 .01 soll .25 ich .52 ü-ber .92 -
+=4  2 e f c d'
+|
+i0.30 .05 dim  .   .   .
+=1  1 leg99 c# leg90 d
+r0.80 .01 mei - den,
+r0.57 schwe-re ;
+r0.34 .01 win - den ?
+i0.03 .05 dim  .   .   .
+=2  1 A A
+r0.80 .01 mei - den,
+r0.58 schwe-re ;
+r0.36 .01 win - den ?
+i0.03 .05 dim  .   .   .
+=3  1 leg99 e leg90 d
+r0.80 .01 mei - den,
+r0.57 schwe-re ;
+r0.34 .01 win - den ?
+i0.05 .08 dim  .   .   .
+=4  1 a d
+|
+I0.30 .01 p
+i0.30 .29 cresc  .    .    .
+=1 1 A 2 B cn
+r0.80 .01 ge-schiedt .75 mir
+r0.57 .01 wärs .45 doch so
+r0.34 .01 Ich .40 sorg, daß
+I0.05 .15 p
+i0.03 .32 cresc  .      .    .
+=2 2 rest E G A
+r0.80 .18 geschiedt mir
+r0.58 .18 wärs doch so
+r0.36 .18 Ich sorg, daß
+I0.05 .15 p
+i0.03 .32 cresc  .    .    .
+=3 2 rest c e e
+r0.80 .18 geschiedt mir
+r0.57 .18 wärs doch so
+r0.34 .18 Ich sorg, daß
+I0.05 .15 p
+i0.06 .32 cresc  .    .    .
+=4 2 rest a e a
+|
+=1  1 B c
+r0.80 .01 ach, .53 o
+r0.57 .01 viel, .50 ich
+r0.34 schier, .50 der
+=2  1 G 2 rest A
+r0.80 .01 ach, .74 o
+r0.58 .01 viel, .71 ich
+r0.36 .01 schier, .71 der
+=3  1 e 2 rest e
+r0.80 .01 ach, .74 o
+r0.57 .01 viel, .71 ich
+r0.34 .01 schier, .71 der
+=4  1 e 2 rest a
+/
+7 bars | 24 20 | 48 | 12 14 10 10 | 48 | 13 12 13 10 | 42 | 36 ||
+|
+I0.3 .99 f
+=1  2 d e 1 d
+r0.80 .01 weh der Sach !
+r0.57 .01 dennoch will
+r0.34 .01 Tod mit mir
+=2  2 B c 1 B
+r0.77 .01 weh der Sach !
+r0.53 .01 dennoch will
+r0.30 .01 Tod mit mir
+=3  2 g g 1 g
+r0.80 .01 weh der Sach !
+r0.57 .01 dennoch will
+r0.34 .01 Tod mit mir
+=4  2 g c~ 1 g
+|
+=1  1 e 2 g f
+r0.80 .01 Muß .47 ich mich
+r0.57 .03 in .50 deinem
+r0.34 .01 will .47 rin-gen
+I0.05 .20 f
+=2  2 rest G B' A
+r0.75 .20 Muß ich mich
+r0.51 .25 in .50 deinem
+r0.28 .24 will .53 ringen
+I0.05 .11 f
+=3  2 rest e e c
+r0.80 .20 Muß ich mich
+r0.57 .25 in .50 deinem
+r0.34 .24 will .53 ringen
+I0.05 .15 f
+=4  2 rest c~ e f
+|
+i0.30 .55 dim  .   .   .
+=1  2 e d 1 c#
+r0.80 dein ver-je .88 -
+r0.57 Dienst erster .88 -
+r0.34 .01 um das  Le .88 -
+=2  2 c A 1 A
+r0.75 dein ver-je .88 -
+r0.51 Dienst erster .88 -
+r0.28 .01 um das  Le .88 -
+=3  2 g f 1 e
+r0.80 dein ver-je .88 -
+r0.57 Dienst erster .88 -
+r0.34 .01 um das  Le .88 -
+=4  2 c d' 1 a
+i0.05 .55 dim  .   .   .
+|
+=1  1 d d-emph
+r0.80 .01 hen, .50 groß
+r0.57 .01 ben, .50 nach
+r0.34 .01 ben, .53 tu
+=2  1 A 2 rest F
+r0.75 .01 hen,
+r0.51 .01 ben,
+r0.28 .01 ben,
+r0.70 .72 groß
+r0.47 .72 nach
+r0.25 .73 tu
+=3  1 f 2 rest A
+r0.80 .01 hen, .72 groß
+r0.57 .01 ben, .72 nach
+r0.34 .01 ben, .73 tu
+=4' 1 d 2 rest d
+| 1.1 1.2
+i0.30 .27 dim  .   .   .
+=1  2 d cn A G
+r0.80 Leid wird mir ge-sche
+r0.57 Fremder Leib nit
+r0.34 .01 mir dein Troste
+I0.05 .99 p
+i0.03 .27 dim  .   .   .
+=2  2 F E  C B_n
+r0.70 Leid wird mir ge-sche
+r0.47 Fremder Leib nit
+r0.25 .01 mir dein Troste
+I0.05 .99 p
+i0.03 .27 dim  .   .   .
+=3  2 Bb' G A d
+r0.80 Leid wird mir ge-sche
+r0.57 Fremder Leib nit
+r0.34 .01 mir dein Troste
+I0.05 .99 p
+i0.03 .27 dim  .   .   .
+=4  2 Bb c F G
+| 1.3 1.5
+I0.3 .01 p
+=1  1 E D
+r0.80 .33 - .50 hen.
+r0.58 .01 wer .33 - .50 ben.
+r0.35 .03 ge .33 - .50 ben.
+=2  1 C# D
+r0.70 .33 - .50 hen.
+r0.47 .01 wer .33 - .50 ben.
+r0.25 .03 ge .33 - .50 ben.
+=3  1 A A
+r0.80 .33 - .50 hen.
+r0.57 .01 wer .33 - .50 ben.
+r0.34 .03 ge .33 - .50 ben.
+=4  1 A <D d>
+|
+=1  4. blank 1 rest
+=2  4. blank 1 rest
+=3  4. blank 1 rest
+=4  4. blank 1 rest
+@
+
+
+1.29
+log
+@dynamics on first page of Dein Herzlein
+@
+text
+@d1505 1
+d1508 1
+d1515 1
+d1594 1
+d1596 1
+d1598 1
+d1663 1
+d1668 1
+d1673 1
+d1694 1
+d1699 1
+d1704 1
+d1729 1
+d1734 1
+d1800 1
+d1820 1
+d1837 1
+d1842 1
+d1847 1
+d1852 1
+d1857 1
+d1862 1
+d1868 1
+d1873 1
+d1878 1
+d1883 1
+d1888 1
+d1893 1
+d1924 1
+d1932 1
+d1940 1
+d1948 1
+d1953 1
+d1961 1
+d1970 1
+d1972 1
+d1974 1
+d1980 1
+d1982 1
+d2007 2
+d2012 2
+d2017 2
+d2022 2
+d2028 2
+d2033 2
+d2055 1
+d2658 1
+d2663 1
+d2668 1
+d2674 1
+d2676 1
+d2681 1
+d2686 1
+d2692 1
+d2745 1
+d2752 1
+d2758 1
+d2766 1
+d2768 1
+d2773 1
+d2778 1
+d2784 1
+d2807 1
+a2807 1
+2 systems 10 / 19 60 19 60 19 60 19 / 19 60 19 60 19 60 19 10 /
+d2815 1
+d2820 1
+d2825 1
+d2830 1
+d2879 1
+d2884 1
+d2889 1
+d2894 1
+d2897 2
+a2898 1
+I0.3 .01 p
+d2904 1
+d2910 1
+d2916 1
+d2941 3
+a2943 3
+r0.76 .01 weh der Sach !
+r0.51 .01 dennoch will
+r0.26 .01 Tod mit mir
+d2956 3
+a2958 3
+r0.74 .20 Muß ich mich
+r0.49 .25 in .50 deinem
+r0.24 .24 will .53 ringen
+d2967 1
+d2973 3
+a2975 3
+r0.74 dein ver-je .88 -
+r0.49 Dienst erster .88 -
+r0.24 .01 um das  Le .88 -
+d2981 1
+d2988 3
+a2990 3
+r0.74 .01 hen,
+r0.49 .01 ben,
+r0.24 .01 ben,
+d2992 2
+a2993 2
+r0.45 .72 nach
+r0.20 .73 tu
+d2998 1
+a2998 1
+=4  1 d 2 rest d'
+d3000 1
+d3006 1
+d3009 2
+a3010 2
+r0.45 Fremder Leib nit
+r0.20 .01 mir dein Troste
+d3012 1
+d3018 1
+d3024 2
+a3025 2
+r0.57 .01 wer .33 - .50 ben.
+r0.34 .03 ge .33 - .50 ben.
+d3028 2
+a3029 2
+r0.45 .01 wer .33 - .50 ben.
+r0.20 .03 ge .33 - .50 ben.
+@
+
+
+1.28
+log
+@dynamics in Waldesnacht
+@
+text
+@d1162 1
+a1162 1
+ / 19 45 19 35 19 45 19 35/
+d1201 1
+d1206 1
+d1211 1
+d1213 1
+d1218 1
+d1223 1
+d1238 2
+d1241 4
+a1244 2
+r0.65 .01 - träumte Glut, .80 wird
+r0.30 .07 blühts zuhauf .81 und
+d1246 3
+d1250 5
+a1254 2
+r0.67 .01 - träumte Glut,
+r0.33 .07 blühts zuhauf
+d1260 2
+a1261 2
+r0.65 .01 bald .49 zu Ta-ge
+r0.30 .01 duf - tet durch die
+d1264 2
+a1265 2
+r0.67 .11 wird bald .80 zu
+r0.33 .13 und duf .63 - .80 tet durch die Halde,
+d1271 2
+a1272 2
+r0.65 kommen, wird bald,
+r0.30 .01 Hal - de,  und duf - tet, und duf - tet
+d1275 2
+a1276 2
+r0.67 .01 Tage kommen, wird
+r0.32 .80 und
+d1281 1
+d1284 2
+a1285 1
+r0.65 .14 wird bald .75 zu
+d1287 1
+d1289 3
+a1291 2
+r0.67 .01 bald, .67 wird
+r0.32 .03 duf .40 - .67 tet,
+d1296 1
+d1298 3
+a1300 2
+r0.65 .03 Ta .45 - .82 ge
+r0.30 .02 durch .80 die
+d1302 1
+d1304 3
+a1306 2
+r0.68 bald zu Ta  - ge
+r0.33 duftet, durch die
+d1312 2
+a1313 2
+r0.65 .01 kommen.
+r0.30 .01 Hal - de.
+d1316 2
+a1317 2
+r0.69 .01 kommen.
+r0.34 .01 Hal - de.
+@
+
+
+1.27
+log
+@dynamics OK for first two songs
+@
+text
+@d718 1
+a718 1
+2 systems 15 / 19 50 19 40 19 50 19 / 19 50 19 55 19 58 19 25 /
+d730 1
+a730 1
+i0.4 .30 dolce
+d737 1
+a737 1
+i0.5 .30 dolce
+d744 1
+a744 1
+i0.4 .30 dolce
+d746 1
+d752 1
+d758 1
+d793 2
+d800 2
+d807 2
+d813 1
+d816 3
+a818 2
+r0.49 .06 schö-ne, .56 ach, miß -
+r0.20 .07 lei - sen  .59 Flü-gel -
+d821 3
+a823 2
+r0.46 .07 schö .45 - .90 -
+r0.22 .09 lei  .45 - .90 -
+d826 3
+a828 2
+r0.56 .06 schö-ne, .57 ach, miß -
+r0.30 .07 lei - sen  .59 Flü-gel -
+d836 2
+a837 2
+r0.49 .01 gönn - te,   Ferne
+r0.20 .01 schlä-gen  nieder -
+d840 2
+a841 2
+r0.46 .01 ne, .26 in .75 die
+r0.22 .01 sen,  schwebt .75 mit
+d844 2
+a845 2
+r0.55 .01 gönn - te,   Ferne
+r0.30 .01 schlä-gen  nieder -
+d853 3
+a855 2
+r0.49 führt, ach .75 miß -
+r0.20 wärts,  Frie - de
+d859 2
+a860 1
+r0.20 .03 lei-sen .54 Flügel -
+d863 3
+a865 2
+r0.56 führt, .50 ach  miß -
+r0.30 wärts,  .52 Friede
+d874 2
+a875 2
+r0.50 .01 gönn .49 - .75 te
+r0.21 .01 schwe .51 - .75 bet
+d878 2
+a879 2
+r0.46 .01 gönnte, .51 Fer .90 -
+r0.20 schlagen nie .90 -
+d882 2
+a883 2
+r0.56 .01 gönnte, .51 Fer .90 -
+r0.30 schlagen nie .90 -
+d889 1
+d893 2
+a894 1
+r0.22 .01 nie .48 - .73 der -
+d897 3
+a899 2
+r0.46 .30 - .55 ne
+r0.21 .30 - .53 der .87 -
+d902 3
+a904 2
+r0.56 .30 - .55 ne
+r0.31 .30 - .55 der -
+d915 1
+a915 1
+r0.23 .01 wärts. .53 Sin-get,
+d919 3
+a921 3
+r0.47 .01 führt. .52 Laß   die
+r0.22 .01 wärts. .53 Sin-get,
+I0.01 .50 pp
+d924 3
+a926 3
+r0.56 .01 führt. .70 Laß
+r0.32 .01 wärts. .71 Sin -
+I0.01 .50 pp
+@
+
+
+1.26
+log
+@words up to end :-) now, dynamics...
+@
+text
+@d169 1
+a169 1
+3 systems 15 / 19 30 19 30 19 30 19 / 19 35 19 35 19 30 19 \
+d180 2
+a181 1
+b0.6 .04 Lebhaft
+d185 2
+d190 1
+d231 1
+d235 1
+d240 1
+d245 1
+d257 1
+d263 1
+d272 1
+d276 1
+d288 1
+a288 1
+I0.4 .03 p
+d294 1
+a294 1
+I0.1 .03 p
+d297 1
+a297 1
+I0.1 .04 p
+d401 1
+d406 1
+d418 1
+d424 1
+d433 1
+d437 1
+d447 1
+a447 1
+I0.4 .03 p
+d453 1
+a453 1
+I0.1 .03 p
+d482 1
+a482 1
+I0.1 .97 p
+d510 1
+d515 2
+d521 1
+d585 1
+d590 1
+d596 2
+d599 1
+d604 1
+d611 1
+d616 1
+d622 1
+d629 1
+d636 1
+d640 2
+a641 2
+=2' 2. Gr 4 rest
+=2, 2. Gr 4 blank
+d647 1
+d1996 3
+a1998 2
+3 systems 15 / 19 35 19 35 19 40 19 \
+ / 19 35 19 35 19 35 19 / 19 35 19 45 19 40 19 10 /
+d2009 3
+a2011 1
+b0.6 .04 Ziemlich langsam
+d2013 3
+a2015 1
+r0.5 .60 Es .99  geht ein Wehen durch den Wald, die
+d2017 3
+a2019 1
+r0.5 .60 Es .99  geht ein Wehen durch den Wald, die
+d2022 1
+d2029 1
+d2036 1
+d2040 1
+d2042 2
+a2043 1
+r0.5 .02 Windsbraut hör ich singen.
+d2045 2
+a2046 1
+r0.5 .02 Windsbraut hör ich singen.
+d2048 2
+a2049 1
+r0.6 .02 Windsbraut hör ich singen.
+d2054 1
+a2054 1
+r0.5 .75 Sie
+d2056 1
+a2056 1
+r0.6 .75 Sie
+d2059 2
+d2065 1
+a2065 1
+r0.5 .04 singt .75 von
+d2067 1
+a2067 1
+r0.6 .04 singt .75 von
+d2074 1
+a2074 1
+r0.5 .05 einem  Buhlen
+d2076 1
+a2076 1
+r0.6 .05 einem  Buhlen
+d2086 1
+a2086 1
+r0.5 .07 gut .75 und
+d2088 1
+a2088 1
+r0.5 .07 gut .75 und
+d2095 1
+a2095 1
+r0.5 .01 bis sie  dem in
+d2097 1
+a2097 1
+r0.5 .01 bis sie  dem in
+d2104 1
+a2104 1
+r0.5 .03 Ar .42 - .74 men
+d2106 1
+a2106 1
+r0.5 .03 Ar .42 - .74 men
+d2114 2
+a2115 1
+r0.5 .18 ruht, .68 muß
+d2117 2
+a2118 1
+r0.55 .18 ruht, .68 muß
+d2121 1
+d2128 1
+a2128 1
+r0.6 .05 sie .60 noch
+d2135 1
+a2135 1
+r0.5 .05 weit .66 in
+d2144 1
+a2144 1
+r0.5 .01 bang-gem
+d2153 1
+a2153 1
+r0.5 .01 mut .64 sich
+d2164 1
+d2167 1
+d2169 2
+a2170 1
+r0.45 .08 durch .67 die
+d2173 1
+d2177 1
+d2180 1
+d2182 2
+a2183 1
+r0.45 .05 Lan .45 - .67 de
+d2186 1
+d2199 1
+d2202 1
+d2206 1
+d2209 1
+d2261 1
+d2264 1
+d2267 1
+d2270 1
+d2292 1
+d2295 1
+d2298 1
+d2301 1
+d2317 1
+a2317 1
+i0.5 .07 espress. cresc.
+d2354 1
+d2357 1
+d2360 1
+d2363 1
+d2417 1
+a2417 1
+i0.5 .10 cresc.
+d2420 1
+d2423 1
+d2426 1
+d2451 1
+d2454 1
+d2457 1
+d2472 1
+d2475 1
+d2478 1
+d2482 1
+d2485 1
+d2489 1
+d2492 1
+d2508 2
+a2509 2
+2 systems 15 / 19 55 19 57 19 55 19 \
+ / 19 55 19 61 19 55 19 /
+d2522 2
+a2523 2
+r0.55 .10 2.  Er .70 -
+r0.30  .10 3.  Um
+d2526 2
+a2527 2
+r0.49 .40 2.  Er .90 -
+r0.24 .40 3.  Um
+d2530 2
+a2531 2
+r0.50 .40 2.  Er .90 -
+r0.25 .40 3.  Um
+d2536 2
+a2537 2
+r0.55 .01 barmen .51 tu .75 ich
+r0.30 .01 Hülf ich ruf, mein
+d2540 2
+a2541 2
+r0.47 .01 barmen .51 tu .75 ich
+r0.22 .01 Hülf ich ruf, mein
+d2544 2
+a2545 2
+r0.50 .01 barmen .51 tu .75 ich
+r0.25 .01 Hülf ich ruf, mein
+d2550 2
+a2551 2
+r0.55 .01 mich so .51 hart,
+r0.30 .01 höchster .51 Hort,
+d2554 2
+a2555 2
+r0.45 .01 mich so .51 hart,
+r0.20 .01 höchster .51 Hort,
+d2558 2
+a2559 2
+r0.51 .01 mich so .51 hart,
+r0.26 .01 höchster .51 Hort,
+d2563 3
+a2565 3
+r0.80 .01 und .55 al - le
+r0.55 .01 das .37 kommt aus
+r0.30 .01 er .26 - .50 hör mein
+d2568 2
+a2569 2
+r0.40 .18 das kommt aus
+r0.15 .28 er-hör  mein
+d2571 3
+a2573 3
+r0.78 .25 und .55 al - le
+r0.53 .18 das kommt aus
+r0.28 .28 er-hör  mein
+d2578 2
+a2579 2
+r0.55 .01 Buhlers  .53 Hul .85 -
+r0.30 .01 sehnlich .53 Kla .85 -
+d2582 2
+a2583 2
+r0.38 .01 Buhlers  .53 Hul .85 -
+r0.13 .01 sehnlich .53 Kla .85 -
+d2586 2
+a2587 2
+r0.55 .01 Buhlers  .53 Hul .85 -
+r0.30 .01 sehnlich .53 Kla .85 -
+d2590 1
+d2593 3
+a2595 2
+r0.55 .02 de,   .51 die
+r0.30 .01 gen ! .49 Schaff
+d2597 7
+a2603 3
+r0.65 .01 den,  .76 e .90 -
+r0.40 .02 de,   .73 die
+r0.15 .01 gen ! .67 Schaff
+d2606 3
+a2608 2
+r0.53 .02 de,   .73 die
+r0.28 .01 gen ! .67 Schaff
+d2615 2
+a2616 2
+r0.55 .02 mich .27 in .43 Angst .75 und
+r0.30 .02 mir .25 Herzlieb, .75 dein
+d2619 2
+a2620 2
+r0.45 .02 mich .27 in .43 Angst .75 und
+r0.20 .02 mir .25 Herzlieb, .75 dein
+d2623 2
+a2624 2
+r0.55 .02 mich .27 in .43 Angst .75 und
+r0.28 .02 mir .25 Herzlieb, .75 dein
+d2629 2
+a2630 2
+r0.55 .01 Not .25 hat .48 bracht
+r0.30 .01 Botschaft .50 schier,
+d2633 2
+a2634 2
+r0.45 .01 Not .25 hat .48 bracht
+r0.20 .01 Botschaft .50 schier,
+d2637 2
+a2638 2
+r0.55 .01 Not .25 hat .48 bracht
+r0.28 .01 Botschaft .50 schier,
+d2644 3
+a2646 3
+r0.55 .01 und .50 wil - lig .96 -
+r0.30 .01 ich .39 muß sonst vor
+# rs0.30 .73 sonst vor
+d2650 2
+a2651 2
+r0.41 .25 und .50 wil - lig .96 -
+r0.19 .22 ich muß sonst vor
+d2655 2
+a2656 2
+r0.55 .25 und .50 wil - lig .96 -
+r0.30 .22 ich muß sonst vor
+d2662 2
+a2663 2
+r0.55 .01 lich .25 das .50 dul .85 -
+r0.30 .01 Leid .25 ver - za .85 -
+d2666 2
+a2667 2
+r0.41 .01 lich .33 das  dul .85 -
+r0.19 .01 Leid .32 ver-za .85 -
+d2670 2
+a2671 2
+r0.55 .01 lich .33 das  dul .85 -
+r0.30 .01 Leid .32 ver-za .85 -
+d2674 1
+d2677 3
+a2679 2
+r0.55 .01 de.  .51 Um
+r0.30 gen ! .49 Mein
+d2683 1
+a2683 1
+r0.20 gen !
+d2685 3
+a2687 2
+r0.45 .73 Um
+r0.20 .71 Mein
+d2690 3
+a2692 2
+r0.55 .01 de.  .73 Um
+r0.30 gen ! .71 Mein
+d2695 1
+a2695 1
+2 systems 15 / 19 55 19 55 19 55 19 / 19 55 19 55 19 55 19 /
+d2705 2
+a2706 2
+r0.55 .03 in .28 all-lein,
+r0.30 .03 traurig .52 Herz
+d2709 2
+a2710 2
+r0.55 .03 in .28 all-lein,
+r0.30 .03 traurig .52 Herz
+d2713 2
+a2714 2
+r0.55 .03 in .28 all-lein,
+r0.30 .03 traurig .52 Herz
+d2719 2
+a2720 2
+r0.55 .01 Herz  -  liebste
+r0.30 .01 leidt .50 großen
+d2723 2
+a2724 2
+r0.55 .18 Herz-liebste
+r0.30 .21 leidt großen
+d2727 2
+a2728 2
+r0.55 .18 Herz-liebste
+r0.30 .21 leidt großen
+d2731 1
+d2734 3
+a2736 2
+r0.55 .01 mein.  .50 ist
+r0.30 Schmerz, wie
+d2739 3
+a2741 2
+r0.55 .01 mein.  .75 ist
+r0.30 .01 Schmerz,  wie
+d2744 3
+a2746 2
+r0.55 .01 mein.  .75 ist
+r0.30 .01 Schmerz,  wie
+d2751 2
+a2752 2
+r0.55 mir kein Bürd zu
+r0.30 .01 soll .25 ich .52 ü-ber .92 -
+d2755 2
+a2756 2
+r0.55 mir kein Bürd zu
+r0.30 .01 soll .25 ich .52 ü-ber .92 -
+d2759 2
+a2760 2
+r0.55 mir kein Bürd zu
+r0.30 .01 soll .25 ich .52 ü-ber .92 -
+d2765 2
+a2766 2
+r0.55 schwe-re ;
+r0.30 .01 win - den ?
+d2769 2
+a2770 2
+r0.55 schwe-re ;
+r0.30 .01 win - den ?
+d2773 2
+a2774 2
+r0.55 schwe-re ;
+r0.30 .01 win - den ?
+d2777 1
+d2780 3
+a2782 2
+r0.55 .01 wärs .45 doch so
+r0.30 .01 Ich .40 sorg, daß
+d2785 3
+a2787 2
+r0.55 .18 wärs doch so
+r0.30 .18 Ich sorg, daß
+d2790 3
+a2792 2
+r0.55 .18 wärs doch so
+r0.30 .18 Ich sorg, daß
+d2797 2
+a2798 2
+r0.55 .01 viel, .50 ich
+r0.30 schier, .50 der
+d2801 2
+a2802 2
+r0.55 .01 viel, .71 ich
+r0.30 .01 schier, .71 der
+d2805 2
+a2806 2
+r0.55 .01 viel, .71 ich
+r0.30 .01 schier, .71 der
+d2811 1
+d2814 2
+a2815 2
+r0.55 .01 dennoch will
+r0.30 .01 Tod mit mir
+d2822 2
+a2823 2
+r0.55 .01 dennoch will
+r0.30 .01 Tod mit mir
+d2828 3
+a2830 2
+r0.55 .03 in .50 deinem
+r0.30 .01 will .47 rin-gen
+d2835 1
+d2838 3
+a2840 2
+r0.55 .25 in .50 deinem
+r0.30 .24 will .53 ringen
+d2845 2
+a2846 2
+r0.55 Dienst erster .88 -
+r0.30 .01 um das  Le .88 -
+d2853 2
+a2854 2
+r0.55 Dienst erster .88 -
+r0.30 .01 um das  Le .88 -
+d2859 2
+a2860 2
+r0.55 .01 ben, .50 nach
+r0.30 .01 ben, .53 tu
+d2870 2
+a2871 2
+r0.55 .01 ben, .72 nach
+r0.30 .01 ben, .73 tu
+d2876 3
+a2878 2
+r0.55 Fremder Leib nit
+r0.30 .01 mir dein Troste
+d2883 1
+d2886 3
+a2888 2
+r0.55 Fremder Leib nit
+r0.30 .01 mir dein Troste
+d2891 1
+d2894 2
+a2895 2
+r0.55 .01 wer .33 - .50 ben.
+r0.30 .03 ge .33 - .50 ben.
+d2902 2
+a2903 2
+r0.55 .01 wer .33 - .50 ben.
+r0.30 .03 ge .33 - .50 ben.
+@
+
+
+1.25
+log
+@words for first page of 7. Vergangen ist mir
+@
+text
+@d2600 1
+a2600 1
+7 bars | 24 20 | 48 | 20 24 | 48 | 40 | 12 12 13 11 | 20 24 |
+d2603 3
+d2607 3
+d2611 3
+d2617 3
+d2621 3
+d2625 3
+d2631 3
+d2635 3
+d2639 3
+d2645 3
+d2649 3
+d2653 3
+d2659 3
+d2663 3
+d2667 3
+d2673 3
+d2677 3
+d2681 3
+d2687 3
+d2691 3
+d2695 3
+d2703 3
+d2707 3
+d2711 3
+d2717 3
+d2721 3
+d2725 3
+d2731 3
+d2735 3
+d2739 3
+d2745 3
+d2749 6
+d2756 3
+d2762 3
+d2766 3
+d2770 3
+d2776 3
+d2780 3
+d2784 3
+@
+
+
+1.24
+log
+@words finished for 6. Es geht ein Wehen
+@
+text
+@d2418 2
+a2419 1
+2 systems 15 / 19 55 19 55 19 55 19 / 19 55 19 55 19 55 19 /
+d2431 3
+a2433 1
+r0.5 .10 1.  Ver .70 -
+d2435 3
+d2439 3
+a2442 1
+r0.5 .30 1.  Ver .70 -
+d2445 3
+d2449 3
+d2453 3
+d2459 3
+d2463 3
+d2467 3
+d2473 3
+d2477 3
+d2481 3
+d2487 3
+d2491 3
+d2495 3
+d2501 3
+d2505 3
+d2509 3
+d2517 3
+d2521 3
+d2525 3
+d2531 3
+d2535 3
+d2539 3
+d2545 5
+d2551 9
+a2559 1
+=3  2 rest c# d d
+d2561 1
+d2564 3
+d2568 3
+d2572 3
+d2578 3
+d2582 6
+d2589 3
+@
+
+
+1.23
+log
+@words for first page of Es geht ein Wehen
+@
+text
+@d2175 2
+a2176 2
+3 systems 5 / 19 40 19 40 19 40 19 \
+ / 19 40 19 40 19 40 19 / 19 40 19 40 19 40 19 /
+d2182 2
+a2183 1
+6 bars | 1# 48 | 48 | 48 | 48 | 48 | 48 ||
+d2187 1
+d2189 4
+a2192 1
+=3  4 A# B' rest B
+d2194 1
+d2196 6
+a2201 3
+=1  4 e d# e dn
+=2' 4 B A B A
+=3  4 g f g f
+d2203 1
+d2206 1
+d2208 1
+d2210 1
+d2212 1
+d2215 1
+d2217 1
+d2219 1
+d2221 1
+d2224 1
+d2226 1
+d2228 1
+d2230 1
+d2233 1
+d2235 1
+d2237 1
+d2239 1
+d2241 2
+a2242 1
+9 bars | 4# 3/4 36 | 36 | 36 | 36 | 36 | 36 | 36 | 36 | 36 |
+d2246 1
+d2248 1
+d2250 1
+d2252 1
+d2255 1
+d2257 1
+d2259 1
+d2261 1
+d2264 1
+d2266 1
+d2268 3
+a2270 1
+=4 2 a 4 A
+d2273 1
+d2275 1
+d2277 3
+a2279 1
+=4 2 a 4 a
+d2282 1
+d2284 1
+d2286 1
+d2288 1
+d2291 1
+d2293 1
+d2295 1
+d2297 1
+d2300 1
+d2302 1
+d2304 1
+d2306 1
+d2308 2
+a2309 1
+=1  2 G 4 c(1
+d2312 1
+d2314 1
+d2316 1
+d2318 2
+a2319 1
+=1 4 c)1 B A
+d2322 1
+d2324 1
+d2326 1
+d2328 2
+a2329 1
+9 bars | 4# 36 | 36 | 36 | 36 | 36 | 36 | 36 | 36 | 36 ||
+d2332 1
+d2334 1
+d2336 1
+d2338 1
+d2342 1
+d2344 1
+d2346 1
+d2348 1
+d2351 1
+d2353 1
+d2355 3
+a2357 1
+=4 2 a 4 A
+d2360 1
+d2362 1
+d2364 3
+a2366 1
+=4 2 a 4 a
+d2370 1
+d2372 1
+d2374 1
+d2376 1
+d2379 1
+d2381 1
+d2383 1
+d2385 1
+d2388 1
+d2390 1
+d2392 1
+d2394 1
+d2397 1
+d2400 1
+d2402 1
+d2404 1
+d2407 1
+d2410 1
+d2412 1
+d2414 1
+@
+
+
+1.22
+log
+@words finished for 5. All meine Herzgedanken
+@
+text
+@d1962 2
+a1963 2
+3 systems 15 / 19 40 19 40 19 40 19 \
+ / 19 40 19 40 19 40 19 / 19 40 19 40 19 40 19 /
+d1970 3
+a1972 1
+7 bars | 1# 4/4 24 | 48 | 48 | 48 | 48 | 48 | 48 |
+d1976 1
+a1976 1
+r0.5 .68 1.  Es
+d1978 1
+d1980 1
+d1982 1
+a1982 1
+r0.5 .18 1.  Es
+d1988 1
+d1994 1
+d1997 1
+d1999 1
+d2001 1
+d2003 1
+d2006 1
+d2008 1
+d2010 1
+d2012 1
+d2014 6
+a2019 3
+=1  4 e d# e dn
+=2' 4 B A B A
+=3  4 g f g f
+d2021 1
+d2024 1
+d2026 1
+d2028 1
+d2030 1
+d2032 2
+a2033 1
+8 bars | 1# 48 | 48 | 48 || 3/4 36 | 36 | 36 | 36 | 36 |
+d2036 1
+d2038 1
+d2040 1
+d2042 1
+d2045 1
+d2047 1
+d2049 1
+d2051 1
+d2054 3
+a2056 1
+=2 4 F{2 A G F}2
+d2058 1
+d2060 1
+d2064 1
+d2066 1
+d2068 1
+d2070 1
+d2073 1
+d2075 1
+d2077 1
+d2079 1
+d2082 1
+d2084 1
+d2086 1
+d2088 1
+d2091 1
+d2093 1
+d2095 1
+d2097 1
+d2100 1
+d2102 1
+d2104 1
+d2106 1
+d2108 2
+a2109 1
+7 bars | 36 | 36 | 36 || 4/4 48 | 48 | 48 | 48 |
+d2112 1
+d2114 3
+a2116 1
+=3 4 B{2 A}2 G
+d2118 1
+d2121 1
+d2123 1
+d2125 1
+d2127 1
+d2130 1
+d2132 1
+d2134 1
+d2136 1
+d2139 1
+d2141 2
+d2144 1
+d2146 1
+d2149 1
+d2151 1
+d2153 1
+d2155 1
+d2158 1
+d2160 1
+d2162 1
+d2164 1
+d2167 1
+d2169 1
+d2171 1
+d2173 1
+@
+
+
+1.21
+log
+@words for 2nd page of All meine Herzgedanken
+@
+text
+@d1739 1
+a1739 1
+9 bars | 1b  8 8 15 10 | 15 12 15 10 | 12 12 12 10 \
+d1744 7
+a1750 1
+=2  2 D 4 rest G(2
+d1752 3
+d1756 3
+d1760 3
+d1764 3
+d1769 7
+a1775 1
+=2  4 G)2 F# G A
+d1777 3
+d1781 3
+d1785 3
+d1789 3
+d1794 3
+d1798 3
+d1802 3
+d1806 3
+d1810 3
+d1814 3
+d1819 6
+d1826 6
+d1833 6
+d1840 3
+d1844 6
+d1851 6
+d1862 3
+d1869 3
+d1873 3
+d1877 3
+d1882 3
+d1886 3
+d1890 3
+a1892 1
+=1  2 leg85 A 4 leg95 G A
+d1894 2
+d1897 2
+d1900 3
+d1904 2
+d1907 2
+d1911 3
+d1915 3
+d1919 3
+d1923 3
+d1927 3
+d1931 3
+d1936 3
+d1940 3
+d1944 3
+d1948 3
+d1952 3
+d1956 3
+@
+
+
+1.20
+log
+@words for first page of All meine Herzgedanken
+@
+text
+@d1580 3
+d1584 3
+d1588 3
+d1596 3
+d1600 3
+d1604 3
+d1608 7
+a1614 1
+=5  4 c#   e  4. g# 8 g
+d1616 3
+d1623 3
+d1627 3
+d1631 3
+d1635 3
+d1640 3
+d1644 3
+d1648 3
+d1652 2
+d1655 3
+d1659 2
+d1663 3
+d1667 3
+d1671 2
+d1675 3
+d1681 2
+d1684 2
+d1687 2
+d1690 3
+d1694 3
+d1698 3
+d1705 2
+d1709 3
+d1715 3
+d1719 3
+d1723 3
+d1728 3
+@
+
+
+1.19
+log
+@started 5. All meine Herzgedanken
+@
+text
+@d1421 1
+a1421 1
+ | 12 12 12 10 | 8 8 15 10 | 12 12 12 10 | 8 8 12 10 | 12 12 15 10 |
+d1530 3
+d1534 3
+d1538 3
+d1546 3
+d1550 3
+d1554 3
+@
+
+
+1.18
+log
+@words finished for 4. Dein Herzlein Mild
+@
+text
+@a1424 1
+r0.5 .28 1.  All
+d1428 3
+d1432 3
+d1436 3
+d1444 3
+d1448 3
+d1452 3
+d1460 3
+d1464 3
+d1468 3
+d1476 3
+d1480 3
+d1484 3
+d1489 3
+d1493 3
+d1497 3
+d1501 3
+d1505 3
+d1509 3
+d1517 3
+d1521 3
+d1525 3
+@
+
+
+1.17
+log
+@words for all but last line of Dein Herzlein Mild
+@
+text
+@d1245 1
+a1245 2
+ / 19 35 19 30 19 35 19 \
+ / 19 35 19 35 19 35 19 15 /
+d1256 1
+a1256 1
+r0.5 .26 3. Die
+d1259 1
+a1259 1
+r0.5 .26 3. Die
+d1294 1
+d1298 1
+d1302 1
+d1347 1
+d1349 3
+a1351 1
+r0.80 .14 ist
+d1353 3
+d1357 3
+d1361 1
+a1361 1
+I0.05 .06 p
+d1364 1
+d1366 2
+d1369 1
+d1371 1
+d1373 1
+d1375 2
+d1378 1
+d1380 4
+a1383 1
+=4 8 fn a 4 d d
+d1385 2
+d1388 3
+d1392 3
+d1396 3
+d1400 1
+d1403 1
+d1405 1
+d1407 3
+a1409 2
+=4' 4 e e 8 rest
+=4, 4 A A 8 rest
+@
+
+
+1.16
+log
+@words for first page of 4.Dein Herzlein mild
+@
+text
+@d1244 3
+a1246 3
+3 systems 10 / 19 40 19 30 19 40 19 \
+ / 19 40 19 30 19 40 19 \
+ / 19 40 19 30 19 40 19 10 /
+d1253 2
+a1254 2
+ | 2 2 2 4.4 2 1 2 1 2 2 2 2 | 4 3 3 6 6 4 \
+ | 3 3 3 3 4 4 |
+d1257 1
+a1257 1
+r0.5 .28 1.  Dein
+d1260 1
+d1264 1
+d1267 1
+d1271 1
+d1274 1
+d1278 1
+d1281 1
+d1285 1
+d1288 1
+d1293 1
+a1293 1
+ | 6 6 6 6 7 5 | 7 6 7 6 6 5 | 6 6 6 6 6 5 |
+d1296 1
+d1299 1
+d1302 2
+d1305 1
+d1307 2
+d1310 1
+d1314 1
+d1316 2
+d1319 1
+d1321 2
+d1325 1
+d1328 1
+d1331 1
+d1333 1
+d1335 1
+d1337 1
+d1339 1
+d1341 2
+a1342 2
+5 bars | 3# 7.3 7 6 6 6 6 | 6 6 6 7 6 6 \
+ | 6 7 6 6 6 5 | 5 5 5 5 6 5 | 5 5 5 5 5 ||
+d1344 1
+d1346 1
+d1350 1
+@
+
+
+1.15
+log
+@finished words of 3. Waldesnacht
+@
+text
+@d921 1
+d927 1
+d933 1
+d964 1
+d977 1
+d983 1
+d988 1
+d993 1
+d998 1
+d1004 1
+d1022 1
+d1027 1
+d1032 1
+d1037 1
+d1043 1
+d1045 2
+d1051 2
+d1057 1
+d1062 2
+d1107 2
+a1108 2
+3 systems 20 / 19 40 19 40 19 40 19 / 19 40 19 40 19 40 19 \
+ / 19 40 19 40 19 40 19 15 /
+d1121 2
+a1122 1
+r0.5 .28 1.  Dein
+d1125 2
+d1130 2
+d1134 2
+d1139 2
+d1143 2
+d1148 2
+d1152 2
+d1157 2
+d1161 2
+d1166 2
+d1170 2
+d1174 2
+a1175 1
+6 bars | 3# 3 3 3 7 3 2 3 2 3 3 3 2 | 6 6 6 6 7 5 | 7 6 7 6 6 5 \
+d1179 2
+d1183 2
+d1186 2
+d1190 2
+d1194 2
+d1197 2
+d1201 2
+d1205 2
+d1208 2
+d1213 1
+d1216 2
+d1219 2
+d1223 2
+d1227 2
+d1230 2
+d1234 2
+d1238 13
+a1250 2
+=4' 4 e e 8 rest
+=4, 4 A A 8 rest
+a1280 5
+
+2 systems 20 / 19 50 19 50 19 50 19 / 19 50 19 50 19 50 19 15 /
+pagenum
+innerhead Dein Herzlein mild, Johannes Brahms   Op. 62
+leftfoot typeset (c) Peter Billam  2014
+@
+
+
+1.14
+log
+@just 3 bars to go for Waldesnacht
+@
+text
+@d1017 2
+a1018 2
+r0.78 .27 all .75 der
+r0.50 .25 saug .75 ich
+d1021 3
+a1023 3
+r0.79 .27 all .75 der
+r0.55 .25 saug .75 ich
+r0.31 .26 wil .55 - .75 des
+d1030 4
+a1033 1
+=1  4 E)2}'1 D 2 D(2
+d1035 3
+d1039 3
+d1048 4
+a1051 1
+=1  2 D)2 C
+d1053 3
+d1057 3
+d1062 3
+d1067 3
+d1071 3
+d1075 7
+a1081 2
+=4' 2 d-fermata rest
+=4, 2 D         rest
+@
+
+
+1.13
+log
+@words for system1 p2 of Waldesnacht
+@
+text
+@d962 3
+d966 3
+d970 3
+d974 3
+d979 3
+d983 3
+d987 3
+d991 3
+d996 3
+d1000 3
+d1004 3
+d1008 3
+d1012 4
+a1015 1
+=1  2. F 4 E(2
+d1017 3
+d1021 3
+d1026 3
+d1030 1
+a1030 1
+=1  4 E)2 D 2 D(2
+d1035 3
+@
+
+
+1.12
+log
+@words for first page of Waldesnacht
+@
+text
+@d879 1
+a879 1
+2 systems 20 / 19 50 19 50 19 50 19 / 19 50 19 50 19 50 19 15 /
+d884 2
+a885 1
+6 bars | 2# 6 6 5 9 5 6 5 6 | 7 7 5 5 5 5 5 4 | 5 5 5 6 5 5 5 6 \
+d889 3
+d894 3
+d900 3
+d905 3
+d911 3
+d916 3
+d922 4
+a925 1
+=2 2. B_b 4 A_
+d927 3
+d932 1
+d934 4
+d939 1
+d941 4
+d948 3
+d953 3
+@
+
+
+1.11
+log
+@6 bars of Waldesnacht words
+@
+text
+@d684 1
+a684 1
+2 systems 15 / 19 50 19 40 19 50 19 / 19 50 19 60 19 50 19 15 /
+d771 3
+d775 3
+d779 3
+d783 3
+d788 3
+d792 3
+d796 3
+d800 3
+d805 3
+d809 3
+d813 3
+d817 3
+d821 1
+d823 3
+d827 3
+d831 3
+d835 3
+d840 16
+a855 4
+=2 4 G)2 C E{2 D}2
+=3 4 e)1 A c{1 d}1
+=4' 2 blank a
+=4, 2 fn Fn
+d859 4
+d864 4
+a867 1
+I0.5 .50 pp
+d869 9
+a877 3
+=4' 4. a 8 rest  2 blank
+=4, 4. A 8 blank 4 rest a(1
+I0.5 .50 pp
+@
+
+
+1.10
+log
+@words of 2. Von alten Liebesliedern
+@
+text
+@d684 1
+a684 1
+2 systems 20 / 19 50 19 50 19 50 19 / 19 50 19 50 19 50 19 15 /
+d694 3
+a696 1
+b0.6 .04 Etwas Langsam
+d698 3
+a700 1
+r0.5 .08 1. Waldesnacht .84 du
+d702 2
+d705 3
+d709 2
+d713 3
+d718 3
+d724 3
+d729 3
+d735 3
+d740 3
+d746 3
+d751 3
+d757 3
+d762 3
+d767 1
+a767 1
+6 bars | 2# 10 12 10 9 | 5 5 6 9 5 5 5 5 | 5 5 5 8 5 5 5 4 \
+d775 1
+a775 1
+=1 4. D 8 D 4 D# D#
+d799 1
+d803 1
+@
+
+
+1.9
+log
+@add words for page 5
+@
+text
+@d482 2
+a483 2
+3 systems 20 / 19 40 19 40 19 40 19 / 19 40 19 40 19 40 19 \
+ / 19 40 19 40 19 40 19 15 /
+d489 2
+a490 2
+6 bars ||: 2# 6 | 9 9 9 12 | 48 \
+ | 9 12 9 12 | 9 12 9 12 | 48 |
+d493 2
+a494 1
+r0.5 .28 3.  Vom
+a495 1
+r0.5 .28 4.  Wir
+d497 2
+d502 2
+d506 2
+d511 2
+d515 2
+d520 2
+d524 2
+d529 2
+d533 2
+d538 2
+d542 2
+d550 4
+a553 1
+=1 4. leg95 e 8 leg85 G# 4 A 8 rest A
+d558 2
+d564 2
+d568 2
+d574 2
+d578 2
+d583 3
+a585 1
+=1' 4. e  8 dn 4. d 8 c
+d588 2
+d594 2
+d599 2
+d605 2
+d610 2
+d615 2
+a616 2
+4 bars | 2# 10 12 10 12 | 10 12 10 10 \
+ | 10 12 10 10 | 10 12 10 13 :||
+d620 3
+a622 1
+I0.4 .03 p
+d625 1
+a625 1
+I0.4 .03 p
+d627 6
+a632 3
+I0.4 .03 p
+=4' vol-15 4 a-.  rest a-.  rest'
+=4,        4 d-., blank d-., 8 A A
+d636 4
+a639 2
+=1, 4 A-., f-.,  d-., blank
+I0.4 .97 f
+d642 1
+a642 1
+I0.4 .97 f
+d644 4
+a647 2
+I0.4 .97 f
+=4' 4 a-.  rest'' a-.  rest''
+d649 2
+d654 3
+a656 1
+I0.4 .97 p
+d661 3
+a663 1
+I0.4 .97 p
+d666 2
+d670 2
+d675 2
+d679 2
+@
+
+
+1.8
+log
+@add words fo page 4
+@
+text
+@d332 3
+a334 2
+3 systems 20 / 19 40 19 40 19 40 19 / 19 40 19 40 19 40 19 \
+ / 19 40 19 40 19 40 19 15 /
+d342 1
+d345 1
+d349 1
+d352 1
+d356 1
+d359 1
+d363 1
+d366 1
+d370 1
+d373 1
+d376 1
+a376 1
+6 bars | 2# 9 12 9 12 | 5 4 6 7 5 4 6 6 \
+d378 1
+a378 1
+ | 9 12 9 12 | 8 8 8 9 |
+d381 1
+d384 1
+d390 1
+d398 1
+d406 1
+d414 1
+d422 1
+d431 2
+a432 1
+I0.4 .03 p
+d435 1
+a435 1
+I0.4 .03 p
+d437 2
+a438 1
+I0.4 .03 p
+d440 2
+a441 1
+=4,        4 d-., rest d-., rest
+d445 3
+a447 2
+=1, 4 A-., f-.,  d-., blank
+I0.4 .97 f
+d450 1
+a450 1
+I0.4 .97 f
+d452 2
+a453 1
+I0.4 .97 f
+d456 1
+d460 2
+a461 1
+I0.4 .97 p
+d464 1
+a464 1
+I0.4 .97 p
+d466 2
+a467 1
+I0.4 .97 p
+d469 2
+a470 1
+=4, vol+15 4 G-emph, 8 B-., G-., 4 d-emph, vol-15 rest,,
+d473 1
+d477 1
+d480 1
+@
+
+
+1.7
+log
+@1.Rosmarin releaseable
+@
+text
+@d169 2
+a170 2
+3 systems 20 / 19 40 19 40 19 40 19 / 19 40 19 40 19 40 19 \
+ / 19 40 19 40 19 40 19 15 /
+d178 1
+a178 1
+ | 9 12 9 12 | 9 12 9 12 | 48 |
+d182 1
+a182 1
+r0.5 .28 1.  Spa 
+d185 1
+d189 1
+d192 1
+d196 1
+d199 1
+d203 1
+d206 1
+d210 1
+d213 1
+d217 1
+d220 1
+d228 1
+d231 1
+d235 1
+d243 1
+d251 1
+d259 1
+d267 1
+d278 2
+a279 1
+I0.4 .03 p
+d282 1
+a282 1
+I0.4 .03 p
+d284 4
+a287 3
+I0.4 .03 p
+=4' vol-15 4 a-.  rest a-.  rest
+=4,        4 d-., rest d-., rest
+d291 3
+a293 2
+=1, 4 A-., f-.,  d-., blank
+I0.4 .97 f
+d296 1
+a296 1
+I0.4 .97 f
+d298 2
+a299 1
+I0.4 .97 f
+d302 1
+d306 2
+a307 1
+I0.4 .97 p
+d310 1
+a310 1
+I0.4 .97 p
+d312 2
+a313 1
+I0.4 .97 p
+d315 2
+a316 1
+=4, vol+15 4 G-emph, 8 B-., G-., 4 d-emph, vol-15 rest,,
+d320 2
+a321 1
+I0.4 .86 f
+d324 1
+a324 1
+I0.4 .86 f
+d326 2
+a327 1
+I0.4 .86 f
+d330 1
+@
+
+
+1.6
+log
+@add words of 1.Rosmarin
+@
+text
+@d96 1
+d103 1
+d118 2
+d126 3
+d135 1
+d137 1
+d144 2
+d152 1
+@
+
+
+1.5
+log
+@notes typed in up to the end
+@
+text
+@d1 1
+a1 1
+2 systems 20 / 19 45 19 45 19 45 19 / 19 45 19 45 19 45 19 15 /
+d15 2
+a16 1
+b0.6 .04 Gehend
+d18 4
+a21 1
+r0.5 .28 1.  Es
+d23 2
+a24 1
+r0.5 .28 2.  Es
+d26 4
+a29 1
+r0.5 .26 3.  Sie
+d31 1
+a31 1
+r0.5 .26 4.  Sie
+d34 4
+a37 1
+r0.5 .01 wollt ein  Jung .60 - .80 frau
+a38 1
+r0.5 .01 sollt ihr  Hoch .60 - .80 zeits -
+d40 4
+a43 1
+r0.5 .01 ging im  Grü .60 - .80 nen
+a44 1
+r0.5 .01 ging im  Gar .60 - .80 ten
+d47 4
+a50 1
+r0.5 .01 wollt
+a51 1
+r0.5 .01 wollt
+d53 4
+a56 1
+r0.5 .01 wollt
+a57 1
+r0.5 .01 wollt
+d60 4
+a63 1
+r0.5 .01 wollt
+a64 1
+r0.5 .01 wollt
+d66 4
+a69 1
+r0.5 .01 wollt
+a70 1
+r0.5 .01 wollt
+d72 1
+d74 5
+a78 1
+r0.5 .01 wollt
+a79 1
+r0.5 .01 wollt
+d81 4
+a84 1
+r0.5 .01 wollt
+a85 1
+r0.5 .01 wollt
+d87 2
+a88 1
+5 bars | 2b 4/4 48 | 10 12 12 12 | 12 12 10 12 | 24 20 | 30 ||
+d91 4
+a94 1
+r0.5 .01 wollt
+a95 1
+r0.5 .01 wollt
+d97 4
+a100 1
+r0.5 .01 wollt
+a101 1
+r0.5 .01 wollt
+d104 4
+a107 1
+r0.5 .01 wollt
+a108 1
+r0.5 .01 wollt
+d110 4
+a113 1
+r0.5 .01 wollt
+a114 1
+r0.5 .01 wollt
+d117 4
+a120 1
+r0.5 .01 wollt
+a121 1
+r0.5 .01 wollt
+d123 4
+a126 1
+r0.5 .01 wollt
+a127 1
+r0.5 .01 wollt
+d130 4
+a133 1
+r0.5 .01 wollt
+a134 1
+r0.5 .01 wollt
+d136 4
+a139 1
+r0.5 .01 wollt
+a140 1
+r0.5 .01 wollt
+d143 4
+a146 1
+r0.5 .01 schön.
+a147 1
+r0.5 .01 schön.
+d149 4
+a152 1
+r0.5 .01 schön.
+a153 1
+r0.5 .01 schön.
+d1499 1
+a1499 1
+| 1.1 .13
+@
+
+
+1.4
+log
+@add notes of 5. All meine Herzgedanken
+@
+text
+@d786 2
+a787 2
+=3 8 rest f  4. d 8 c
+=4 8 rest d~ 4. b 8 an
+d829 1
+a829 1
+midi on
+d1044 343
+d1388 79
+@
+
+
+1.3
+log
+@add 4. Dein Herzlein mild notes
+@
+text
+@d655 1
+a655 1
+midi on
+d827 217
+@
+
+
+1.2
+log
+@notes of Waldesnacht
+@
+text
+@d289 2
+a290 2
+=4' 4. g 8 g 4. b 8 b
+=4, 2 blank 4. g 8 g
+d495 1
+a495 1
+midi on
+d632 1
+a632 1
+=3  4 rest 2 cn 4 B
+d635 1
+a635 1
+| 2.1 2.2
+d641 1
+a641 1
+| 2.3 2.4
+d644 1
+a644 1
+=3  2. A 4 Gn
+d653 175
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d15 1
+d107 1
+d109 1
+a109 1
+midi on
+d121 1
+d493 160
+@

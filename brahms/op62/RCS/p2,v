@@ -1,0 +1,213 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2014.04.30.09.43.11;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.04.29.06.39.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@page two blurb for Brahms Op.62
+@
+
+
+1.2
+log
+@probably releaseable
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 13
+.nr VS 13
+.pl 11.7i
+.de Lp
+.LP
+.nh
+..
+
+.LP
+\&
+.sp 0.9c
+.Lp
+.ce 2
+\s+8\f3Sieben Lieder \ Johannes Brahms \  Op.62\fP\s-8
+.sp 0.7c
+.Lp
+1.  \f3Rosmarin\fP \ 
+aus \f2des Knaben Wunderhorn\fP
+.Lp
+2.  \f3Von alten Liebesliedern\fP \ 
+aus \f2des Knaben Wunderhorn\fP
+.Lp
+3.  \f3Waldesnacht\fP \ 
+aus dem \f2Jungbrunnen\fP von Paul Heyse
+.Lp
+4.  \f3Dein Herzlein mild\fP \ 
+aus dem \f2Jungbrunnen\fP von Paul Heyse
+.Lp
+5.  \f3All meine Herzgedanken\fP \ 
+aus dem \f2Jungbrunnen\fP von Paul Heyse
+.Lp
+6.  \f3Es geht ein Wehen\fP \ 
+aus dem \f2Jungbrunnen\fP von Paul Heyse
+.Lp
+7.  \f3Vergangen ist mir Glück und Heil\fP \ 
+altdeutsch
+
+.Lp
+The three volumes of \f2Des Knaben Wunderhorn\fP
+were published by Clemens Brentano and Achim von Arnim from 1805 to 1808.
+They are a collection of folk-song texts
+from the Middle ages to the 18th century:
+love songs, soldier songs, walking songs and songs for children.
+The younger German Romantics adopted the collection
+in their search for everything untainted by modern civilisation.
+.Lp
+\f2Der Jungbrunnen (Märchen und Gedichte)\fP
+was the first book by Paul von Heyse (1830 Berlin - 1914 Munich).
+It was published anonymously in 1850, by Paul's father.
+Paul Heyse is also the author of the tragedy \f2Francesca von Rimini\fP,
+and of the collection of Italian folksongs \f2Italienisches Liederbuch\fP
+later set to music by Hugo Wolf.
+Heyse was friends with many artists and writers, including Theodor Storm,
+Arnold Böcklin, Joseph Victor von Scheffel and Gottfried Keller.
+By 1860 he was one of the most popular writers in Germany, and in 1910
+became the first German author to win the Nobel prize for Literature.
+
+.Lp
+These secular partsongs in four to six voices
+were mostly composed around 1873-74,
+though some probably date back to Brahms' Hamburg and Detmold days.
+\f2Rosmarin\fP and \f2Von alten Liebesliedern\fP
+use Brahms' folksong-setting manner in a more sophisticated idiom.
+\f2Es geht ein Wehen\fP exists in a very similar version from around 1860.
+The Old-German folksong \f2Vergangen ist mir Glück und Heil\fP
+also exists as a song, Op.48 no.6.
+(Likewise, \f2Ich schwing mein Horn\fP exists
+both as a solo song and as a male chorus.)
+.Lp
+Most of the other numbers make use of the canonic methods Brahms had
+perfected in his earlier choral pieces, but these are now more smoothly
+woven into the flow of the music,
+especially in the madrigal-like \f2All meine Herzgedanken\fP,
+where multiple imitation builds up the texture
+to a full six parts, antiphonally divided between men's and women's voices.
+The pride of the set is probably \f2Waldesnacht\fP,
+one of the most evocative Romantic choral works,
+where the canonic writing is an atmospheric play of light and shade,
+in a wistful, regretful mood of union with nature.
+
+.Lp
+I first heard these songs in a beautiful
+recording by the \f2Leipziger Rundfunkchor\fP,
+now, apparently, no longer available,
+but still the most musical choral singing I've ever heard.
+I dedicate this edition to the
+\f2Leipziger Rundfunkchor\fP !
+
+.Lp
+.ce 1
+Peter Billam
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d13 1
+a13 1
+.sp 1.5c
+d16 2
+a17 4
+\s+9\f3Sieben Lieder\fP\s0
+.sp 0.8c
+\f3Johannes Brahms \  Op.62\fP
+.sp 0.9c
+d41 23
+a63 3
+A rather heterogeneous collection of secular partsongs in four to six voices,
+some certainly composed around 1873-74
+while others seem to go back to Hamburg and Detmold days.
+d65 25
+a89 39
+recreate Brahms' folksong-setting manner in rather more sophisticated idioms,
+while the Old-german folksong text \f2Vergangen ist mir Glück und Heil\fP
+is a choral arrangement of the archaic Dorian-mode song of the same title,
+Op.48 no.6,
+(or more likely the song is the arrangement: the situation precisely
+parallels \f2Ich schwing mein Horn\fP, which exists as both a solo song and a
+male chorus.)
+\f2Es geht ein Wehen\fP survives in an almost identical version from around1860 -
+its curious spacing, with the low basses sepulchrually reiterating a
+tonally ambiguous figure very low in their register, is clearly
+characteristic of Brahms' early approximations of Renaissance technique.
+
+Most of the other numbers make varied use of the canonic methods Brahms had
+perfected in his earlier choral pieces, but these are now much more smoothly
+and unobtrusively assimilated into the flow of the music,
+most of all in the madrigal-like \f2All meine Herzgedanken\fP,
+where multiple imitation is used gradually to build up the texture
+to a full six parts, antiphonally divided between men's and women's voices,
+and is then effectively disguised as natural harmonic progression.
+The crown of the set is undoubtedly \f2Waldesnacht\fP,
+one of the most gorgeously evocative examples of Romantic choral Lied -
+where the canonica writing, resulting in some plangent dissonance,
+is felt merely as part of an atmospheric interplay of light and shade,
+intensifying a mood of regretful reflection and identification with nature
+that is never allowed to become over-indulgent.
+
+.Lp
+http://de.wikipedia.org/wiki/Des_Knaben_Wunderhorn
+Unter dem Titel \f2Des Knaben Wunderhorn\fP veröffentlichten Clemens Brentano
+und Achim von Arnim von 1805 bis 1808 eine Sammlung von Volksliedtexten
+in drei Bänden. Es enthält Liebes-, Soldaten-, Wander- und Kinderlieder
+vom Mittelalter bis ins 18. Jahrhundert.
+
+Die jüngeren Anhänger der Romantik widmeten sich
+der Sammlung und dem Studium der Ursprünge
+der germanischen Vergangenheit in Volksliedern, Märchen, Mythen, Sagen
+(Nibelungensage), und germanischer Dichtung (Edda). Alles was unberührt
+von den in ihren Augen negativen Auswirkungen der modernen Zivilisation
+war, wurde als gut erachtet.
+d92 2
+a93 21
+http://de.wikipedia.org/wiki/Paul_Heyse
+Paul Johann Ludwig von Heyse
+ (15. März 1830 in Berlin - 2. April 1914 in München)
+war ein deutscher Schriftsteller.
+Heyses Erstling \f2Der Jungbrunnen\fP (Märchen und Gedichte) erschien 1850
+anonym, vom Vater herausgegeben. Heyse bekam vom Verleger Alexander
+Duncker ein Manuskript des noch unbekannten Theodor Storm. Seine
+begeisterte Rezension der Sommergeschichten und Lieder wurde zum
+Grundstein einer dauerhaften Dichterfreundschaft.
+
+Heyse freundete sich mit zahlreichen Künstlern an, unter anderem mit
+Arnold Böcklin und Joseph Victor von Scheffel.
+
+Unter dem Eindruck der italienischen Landschaft entstanden Werke, die
+ihn weithin als Schriftsteller bekannt machen, unter anderem auch die
+Tragödie \f2Francesca von Rimini\fP.
+
+Heyse war deshalb seit den 1860er Jahren ein Lieblingsautor der Deutschen.
+
+Außerdem erschien die Sammlung italienischer Volkslieder \f2Italienisches
+Liederbuch\fP, das von Hugo Wolf in zwei Sammlungen vertont wurde.
+a94 2
+1910 wurde er als erster deutscher Autor belletristischer Werke mit dem
+Nobelpreis für Literatur ausgezeichnet.
+@

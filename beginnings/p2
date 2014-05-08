@@ -1,0 +1,58 @@
+.\" header = mushead
+.AM
+.nr PS 14
+.nr VS 16
+.pl 11.7i
+.LP
+\&
+.de Dp
+.IP \h'0.5c'\(bu
+.nh
+..
+.de Lp
+.LP
+.nh
+..
+
+.sp 2.5c
+.LP
+.ce 1
+\f3\s+7Some Famous Beginnings\s0\fP
+.sp 2.2c
+
+.Lp
+This is a collection of beginnings of some famous pieces,
+arranged for piano,
+and suitable for sight-reading practice or just affectionate curiosity.
+A teacher, for example, could ask a pupil to read one of the pieces,
+and then play the pupil a recording of the same passage on a CD;
+this should broaden the student's overview of the western art-music culture.
+
+.Lp
+A piano can play much of the repertoire of other instruments;
+indeed this is one of the reasons that so many of the greatest
+composers have been great keyboard players.
+
+.Lp
+Present are, in mostly chronological order:
+some famous fugue-themes by Johann Sebastian Bach including
+BWV846, BWV869, BWV538, BWV542, BWV1080, and BWV1079,
+Wolfgang Mozart's \f2Jupiter Symphony\f1 and \f2Die Zauberflöte\f1,
+Ludwig van Beethoven's Fifth and Sixth Symphonies,
+two movements from Franz Schubert's  \f2Tod und das Mädchen\f1 string quartet,
+Richard Wagner's \f2Tristan and Isolde\f1 and
+\f2Die Meistersinger von Nürnberg\f1,
+Johannes Brahms' \f2Deutsches Requiem\f1 and \f2Fourth Symphony\f1,
+Claude Debussy's \f2Prélude à l'après-midi d'un faune\f1,
+five pieces from Arnold Schoenberg's \f2Pierrot Lunaire\f1,
+Bela Bartók's \f2Bluebeards Castle\f1,
+Igor Stravinsky's \fPThe Rite of Spring\f1,
+Gustav Holst's \f2Mars\f1 from \f2The Planets\f1,
+Alban Berg's \f2Wozzeck\f1 and the \f2Violinkonzert\f1,
+and Richard Strauss' \f2Metamorphosen\f1.
+
+.sp 2.0c
+.Lp
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP
+

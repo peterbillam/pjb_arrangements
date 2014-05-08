@@ -1,0 +1,29 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 5.0c
+.ce 100
+\f3\s+9\s+9\s+9Famous Beginnnings\s-9\s-9\s-9\fP
+.sp 2.6c
+\f3\s+5by Bach, Mozart, Beethoven, Schubert,\s0\fP
+.sp 0.5c
+\f3\s+5Wagner, Brahms, Debussy, Schoenberg, Bartók,\s0\fP
+.sp 0.5c
+\f3\s+5Stravinsky, Holst, Berg and Strauss\s0\fP
+.sp 2.5c
+\f2\s+7Arranged for piano\s0\fP
+.sp 1.0c
+\f3\s+4by Peter Billam\s0\fP
+.sp 2.5c
+\(co Peter J Billam, 2014
+.sp 0.7c
+\s-1This score is offered under the
+\f2Creative Commons Attribution 4.0 International\fP
+licence; see \f2creativecommons.org\fP\s0
+.sp 0.7c
+\f2\s-2This edition \*(DY.\s0\fP
+.sp 0.6c
+\f2www.pjb.com.au\fP
