@@ -145,7 +145,8 @@ il1.0 .01 15
  4 d-s1,-s5, 8 [e-s2,-s5, fn-s1,-s5,]
 |
 =1' 8 leg80 [d-s1-s2 leg100 bb-s4-s5] [a-s2-s5 16 g-s1-s4 f--s3] \
- [g-s2-s4 f--s3 leg75 g-s1-s4 leg100 e--s2] [f-s1-s3 g--s4] [g-s2-s4-tr 32 f g]
+ [g-s2-s4 f--s3 leg75 g-s1-s4 leg100 e--s2] \
+ [f-s1-s3 g--s4] [g-s2-s"   5,4"-tr 32 f g]
 =1, 8 leg80 [B g] leg100 [c# d] leg80 [e leg100 c#] [d e]
 =2' 8 leg80 [b leg100 e~(1-s1,] 16 [e~)1 f~-s1, e~ d~-s1,] \
  8 c~# rest''' 4 rest'''
@@ -213,7 +214,7 @@ il1.2 25
 =2, 1 cr)2(2
 | 2.5 2.6
 =1' 2 c-s1-s5 16 rest 32 [G-s2 A-s3 16 Bn-s4 c-s5] [d-s3 e-s4 8 f(1-s5]
-=1, 16 [A Bb-s3 A G-s1] [F-s2 G-s3 F-s1 E-s2] 4 D(2-s1 8. [D)2 16 G---s"  2"]
+=1, 16 [A Bb-s3 A-s2 G-s1] [F-s2 G-s3 F-s1 E-s2] 4 D(2-s1 8. [D)2 16 G---s"  2"]
 =2' 16 leg80 [a leg100 e-s3, f-s2, g-s1,] [a-s3, bn c~ a-s3,] 2 b-s2,
 =2, 1 c)2(2-s1,-s5,
 | 2.9 3.5

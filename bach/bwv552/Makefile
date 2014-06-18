@@ -8,14 +8,13 @@ USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
 PSCAT = /home/pbin/pscat
 NROF = /home/pbin/nrof
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-DIST = pjb3265@loki.webcity.com.au:public_html/mus/arr
 PIECE = bwv552
 
 dev : title.ps p2.ps ${PIECE}.ps
@@ -25,20 +24,13 @@ dist:
 	upload ${USD}/${PIECE}.pdf
 	upload ${SRCD}/${PIECE}.txt
 
-${FREED}/${PIECE}.pdf : p2.ps ${PIECE}.ps ${FREEBACKPAGE}.ps
-	${UTF2ISO} title | groff -ms | ${BANNERISE} > title.ps
+${A4D}/${PIECE}.pdf : title.ps p2.ps ${PIECE}.ps ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE}.ps \
-	| ${PSCAT} title.ps p2.ps - ${FREEBACKPAGE}.ps \
-	| ${A42US} -c \
+	| ${PSCAT} title.ps p2.ps - ${BACKPAGE} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-
-${A4D}/${PIECE}.pdf : title.ps p2.ps ${PIECE}.ps ${FREEBACKPAGE}.ps
+${USD}/${PIECE}.pdf : title.ps p2.ps ${PIECE}.ps ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE}.ps \
-	| ${PSCAT} title.ps p2.ps - ${FREEBACKPAGE}.ps \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${USD}/${PIECE}.pdf : title.ps p2.ps ${PIECE}.ps ${FREEBACKPAGE}.ps
-	${ADDMESSAGE} ${PIECE}.ps \
-	| ${PSCAT} title.ps p2.ps - ${FREEBACKPAGE}.ps \
+	| ${PSCAT} title.ps p2.ps - ${BACKPAGE} \
 	| ${A42US} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 ${XMLD}/${PIECE}.xml : ${PIECE}
@@ -61,4 +53,4 @@ ${PIECE}.ps : ${PIECE}
 	${MUSCRIPT} ${PIECE} > $@
 	pkill -HUP gv
 play :
-	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat trim 330
+	${MUSCRIPT} -midi ${PIECE} | midisox_lua - -d stat # trim 330

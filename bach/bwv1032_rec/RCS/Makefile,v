@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	pjb:1.1;
+	pjb:1.2;
 comment	@# @;
 
+
+1.2
+date	2014.02.14.01.47.10;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	99.11.24.07.51.30;	author pjb;	state Exp;
@@ -17,19 +22,93 @@ desc
 @
 
 
+1.2
+log
+@moved to update; cc_backpage
+@
+text
+@MUSCRIPT = /home/pbin/muscript
+NORMALIZE = /usr/bin/normalize-audio
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+ARRD = /home/pjb/www/mus/arr
+A4D = ${ARRD}/a4
+USD = ${ARRD}/us
+XMLD = ${ARRD}/xml
+SRCD = ${ARRD}/src
+MP3D = ${ARRD}/mp3
+FREEBACKPAGE = /home/pjb/mus/blurb/cc_backpage
+BANNERISE = /home/pbin/bannerise
+A42US = /home/pbin/a42us
+PSCAT = /home/pbin/pscat
+NROF = /home/pbin/nrof
+ADDMESSAGE = /home/pbin/add_free_message
+UTF2ISO = /home/pbin/utf2iso
+PIECE = bwv1032_rec
+
+dev : title.a4 p2.a4 ${PIECE}.a4
+all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf ${SRCD}/${PIECE}.txt
+ # ${XMLD}/${PIECE}.xml ${XMLD}/${PIECE}_readme.txt
+dist:
+	upload ${A4D}/${PIECE}.pdf
+	upload ${USD}/${PIECE}.pdf
+	# upload ${XMLD}/${PIECE}.xml
+	# upload ${XMLD}/${PIECE}_readme.txt
+	upload ${SRCD}/${PIECE}.txt
+
+${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
+${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
+${XMLD}/${PIECE}.xml : ${PIECE}
+	${MUSCRIPT} -xml ${PIECE} > $@@
+${XMLD}/${PIECE}_readme.txt : p2
+	${NROF} p2 > $@@
+${SRCD}/${PIECE}.txt : ${PIECE}
+	cp ${PIECE} $@@
+${MP3D}/${PIECE}.mp3 : ${PIECE}
+	${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
+
+title.a4 : title
+	${UTF2ISO} title | groff -ms | ${BANNERISE} > $@@
+p2.a4 : p2
+	${UTF2ISO} p2 | groff -ms | ${BANNERISE} > $@@
+${PIECE}.a4 : ${PIECE}
+	${MUSCRIPT} ${PIECE} > $@@
+play :
+	${MUSCRIPT} -midi ${PIECE} | aplaymidi - &
+
+${PIECE}.acc.mid : ${PIECE}
+	grep -v '^=1' ${PIECE} | ${MUSCRIPT} -midi > $@@
+@
+
+
 1.1
 log
 @move vivace in, drop p3, part before score
 @
 text
-@D = /home/pjb/www/mus/samples
+@d1 2
+a2 2
+D = /home/pjb/www/mus/samples
 FD = /home/pjb/www/softgoods
-BLURB = /home/pjb/mus/blurb/compositions
+d4 15
+a18 2
 BANNER = /home/pjb/mus/blurb/banner.ps
 MUSCRIPT = /home/pbin/muscript
-
+d20 9
+a28 1
 all : jsb_fl_son_III.a4 jsb_fl_son_III.us
-
+d30 20
+a49 11
 jsb_fl_son_III.a4 : title.a4 p2.a4 score.a4 ${BLURB}.a4
 	cat ${BANNER} > title.a4
 	groff -p -t -e -ms title >> title.a4
@@ -41,15 +120,16 @@ jsb_fl_son_III.us : title.us p2.us score.us ${BLURB}.us
 	cat title.a4 >> title.us
 	cat title.us p2.us score.us ${BLURB}.us > $@@
 	cp $@@ ${FD}/$@@
-
-title.a4 : title
+d52 1
+a52 6
 	cat ${BANNER} > $@@
 	groff -p -t -e -ms title >> $@@
 title.us : title.a4
 	echo '%!' > $@@
 	echo '8.4 0 translate 1 0.94074 scale' >> $@@
 	cat title.a4 >> $@@
-p2.a4 : p2
+d54 8
+a61 12
 	cat ${BANNER} > $@@
 	groff -p -t -e -ms p2 >> $@@
 p2.us : p2.a4

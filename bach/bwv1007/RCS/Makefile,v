@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	pjb:1.1; strict;
+	pjb:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2014.02.13.22.57.02;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2008.11.09.20.41.59;	author pjb;	state Exp;
@@ -17,43 +22,63 @@ desc
 @
 
 
-1.1
+1.2
 log
-@Initial revision
+@use upload, and adopt cc_backpage
 @
 text
 @MUSCRIPT = /home/pbin/muscript
-BLURB = /home/pjb/mus/blurb/compositions
-FREED = /home/pjb/www/mus/free
-XMLD = /home/pjb/www/mus/xml
-FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+NORMALIZE = /usr/bin/normalize-audio
+ARRD = /home/pjb/www/mus/arr
+A4D = ${ARRD}/a4
+USD = ${ARRD}/us
+XMLD = ${ARRD}/xml
+SRCD = ${ARRD}/src
+MP3D = ${ARRD}/mp3
+FREEBACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
 PSCAT = /home/pbin/pscat
 NROF = /home/pbin/nrof
 ADDMESSAGE = /home/pbin/add_free_message
+UTF2ISO = /home/pbin/utf2iso
 PIECE = bwv1007
 PLAY  = bwv1007_C
 
 dev : t.mid ${PIECE}.a4 ${PLAY}.a4
-all : ${FREED}/${PIECE}.pdf ${FREED}/${PIECE}.pdf \
+all : ${SRCD}/${PIECE}.txt \
+ ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf \
  ${XMLD}/${PIECE}.xml ${XMLD}/${PIECE}_readme.txt
+dist:
+	upload ${A4D}/${PIECE}.pdf
+	upload ${USD}/${PIECE}.pdf
+	upload ${XMLD}/${PIECE}.xml
+	upload ${XMLD}/${PIECE}_readme.txt
+	upload ${SRCD}/${PIECE}.txt
 
-${FREED}/${PIECE}.pdf : title_free.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
+${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}
 	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
-	| ${A42US} -c \
+	| ${PSCAT} title.a4 p2.a4 - ${FREEBACKPAGE} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
-
+${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${FREEBACKPAGE} \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
 ${XMLD}/${PIECE}.xml : ${PIECE}
 	${MUSCRIPT} -xml ${PIECE} > $@@
 ${XMLD}/${PIECE}_readme.txt : p2
 	${NROF} p2 > $@@
+${SRCD}/${PIECE}.txt : ${PIECE}
+	cp ${PIECE} $@@
+${MP3D}/${PIECE}.mp3 : ${PIECE}
+	${MUSCRIPT} -midi ${PIECE} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@@
+	rm t.wav
 
 title.a4 : title
 	groff -ms title | ${BANNERISE} > $@@
-title_free.a4 : title_free
-	groff -ms title_free | ${BANNERISE} > $@@
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@@
 ${PIECE}.a4 : ${PIECE}
@@ -69,4 +94,37 @@ t.a4 : t
 t.mid : t
 	${MUSCRIPT} -midi t > $@@
 	aplaymidi t.mid &
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 8
+a9 4
+BLURB = /home/pjb/mus/blurb/compositions
+FREED = /home/pjb/www/mus/free
+XMLD = /home/pjb/www/mus/xml
+FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage
+d15 1
+d20 2
+a21 1
+all : ${FREED}/${PIECE}.pdf ${FREED}/${PIECE}.pdf \
+d23 6
+d30 1
+a30 1
+${FREED}/${PIECE}.pdf : title_free.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}.a4
+d32 1
+a32 2
+	| ${PSCAT} title_free.a4 p2.a4 - ${FREEBACKPAGE}.a4 \
+	| ${A42US} -c \
+d34 5
+a38 1
+
+d43 7
+a52 2
+title_free.a4 : title_free
+	groff -ms title_free | ${BANNERISE} > $@@
 @

@@ -1,10 +1,15 @@
-head	1.9;
+head	1.10;
 access;
 symbols;
 locks
-	pjb:1.9; strict;
+	pjb:1.10; strict;
 comment	@# @;
 
+
+1.10
+date	2014.06.05.03.34.09;	author pjb;	state Exp;
+branches;
+next	1.9;
 
 1.9
 date	2014.05.05.11.44.52;	author pjb;	state Exp;
@@ -57,9 +62,9 @@ desc
 @
 
 
-1.9
+1.10
 log
-@iterate LH fingering
+@tiny changes in bars 22 and 30
 @
 text
 @
@@ -199,7 +204,7 @@ il0.8 .03 20
 =2  8 leg95 [f-s2, gn f e-s1, d c,] \
  leg75 [B d'-,-s1, leg99 G#-s3, leg75 F leg99 F leg75 E#]
 |
-=1' 4 c-s(2)-s3 d#-s1-s4 e#-s1-s5 2. f(1
+=1' 4 c-s(2)-s3 d#-s1-s4 e#-s1-s5 2. f(1-s"    4-5"
 =1, 4 G)2 8 [A B A G-s2] 4. F 8 [G-s1 A-s2 F-s1]
 =2, 8 [E# leg95 e# leg99 f-s3, leg75 g leg99 g-s3, leg75 a] \
  [a d~ leg99 d~ leg75 c~ leg99 c~ leg75 b] leg95
@@ -250,7 +255,7 @@ il0.8  24
  | 11 6 10 6 6 6 10.5 6 10 6 10.5 5 |
 |
 il1.0  30
-=1' 8 [d#-s2-s4 leg75 e--s5 leg99 e--s5 leg75 dn-s1-s4 leg99 d-s2-s5 \
+=1' 8 [d#-s2-s4 leg75 e--s5 leg99 e--s5 leg75 dn-s1-s4 leg99 d-s2-s4 \
  leg75 c-s1-s3] leg95 2 c(1--s2 8 [c)1 d#-s3]
 =1, 4. B 8 [F G An] [E#-s1, C-s2,] 4 F 4 C(2]
 =2, 4 a)2-s"(5)", 8 [g-s4, a#-s3,] 2 b-s3, \
@@ -318,6 +323,20 @@ il0.9 .15 35
 |
 =1 1. <C F-fermata>
 =2 1. <F a#-fermata,>
+@
+
+
+1.9
+log
+@iterate LH fingering
+@
+text
+@d138 1
+a138 1
+=1' 4 c-s(2)-s3 d#-s1-s4 e#-s1-s5 2. f(1
+d189 1
+a189 1
+=1' 8 [d#-s2-s4 leg75 e--s5 leg99 e--s5 leg75 dn-s1-s4 leg99 d-s2-s5 \
 @
 
 

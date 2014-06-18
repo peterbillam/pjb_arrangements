@@ -2073,36 +2073,36 @@ il0.7  210
 =3' 2. leg99 Bb 8 [A G]
 |
 =1' 4 leg99 G)1 8 [F E] 4 F 8 [E D]
-=1, 4 leg99 B_)2
+=1, 4 leg99 B_)2 2. blank
 =2' 4 blank 8 leg99 [a g] 4 a 8 [gr f]
 =2, 4 leg99 c# cn leg80 Bn leg99 bb
-=3' 4 leg80 A  D 2 leg99 G(2
+=3' 4 leg80 A D 2 leg99 G(2
 |
 =1' 4 leg80 C# 2 leg99 A 4 G(1
 =1, 2 blank leg99 D
 =2' 4 leg99 er leg80 d 2 blank
 =2, 4. leg99 a 8 g 4 f 8 [e d]
 =3' 4 leg99 G)2 F 2 leg99 Bb
-|
+| .53 .51 .52 .52
 =1' 4 rest' leg90 <Bn d a> <c# e g> rest'
 =1, 4 leg99 <C# G)1> <D F> <C# E> rest,
 =2' 2. blank 4 leg90 <g c~#>
 =2, 2. leg99 a 4 leg90 e
 =3' 1 A(2
-|
+| .54 .52 .54 .53
 il0.7 220
 =1' 4 rest' leg90 <d f> <c# e> rest'
 =1, 4 rest, leg90 A G rest,
 =2' 4 leg90 <a d~> rest'' rest'' <c~# e~>
 =2, 4 leg90 f rest rest g
 =3' 1 A)2(2
-|
+| .55 .54 .57 .59
 =1' 4 rest' leg90 <A d> rest' <Gx A c#>
 =1, 4 rest, leg90 F rest, E
 =2' 4 leg90 <d~ f~> rest' 2 <e a>
 =2, 4 leg90 a rest, 2 A
 =3' 1 leg90 A)2
-|
+| 3.0
 =1  1 <D F# A d-fermata>
 =2  1 <d f# a-fermata>
 =3  1 D-fermata

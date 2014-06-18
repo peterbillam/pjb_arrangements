@@ -1,12 +1,11 @@
 MUSCRIPT = /home/pbin/muscript
 BLURB = /home/pjb/mus/blurb/compositions
-FREED = /home/pjb/www/mus/free
 ARRD = /home/pjb/www/mus/arr
 A4D = ${ARRD}/a4
 USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
-BACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -14,7 +13,6 @@ PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 UPLOAD = /home/pbin/upload
-DIST = pjb3265@loki.webcity.com.au:public_html/mus/arr
 PIECE1   = c1_kbd
 PIECE2   = c2_kbd
 PIECE3   = c3_kbd
@@ -30,9 +28,14 @@ PIECE11  = c11_kbd
 PIECE14K = c14_kbd
 PIECE14R = c14_rec
 PIECE14S = c14_str
+PIECE14GK = c14_goencz_kbd
+PIECE14GR = c14_goencz_rec
+PIECE14GS = c14_goencz_str
 PIECECAN = kdf_canons
+PLAY = c14_goencz_kbd
 
 dev : viol.a4 ${PIECE14K}.a4 ${PIECE14R}.a4 ${PIECE14S}.a4 \
+ ${PIECE14GK}.a4 \
  ${PIECE1}.a4 ${PIECE3}.a4 ${PIECE4}.a4 ${PIECE5}.a4 \
  ${PIECE7}.a4 ${PIECE8}.a4 ${PIECE9}.a4 ${PIECE10}.a4 \
  ${PIECE11}.a4 ${PIECECAN}.a4 \
@@ -54,58 +57,74 @@ all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf  ${SRCD}/${PIECE1}.txt \
  ${A4D}/${PIECE11}.pdf ${USD}/${PIECE11}.pdf ${SRCD}/${PIECE11}.txt \
  ${A4D}/${PIECE14K}.pdf ${USD}/${PIECE14K}.pdf ${SRCD}/${PIECE14K}.txt \
  ${A4D}/${PIECE14R}.pdf ${USD}/${PIECE14R}.pdf ${SRCD}/${PIECE14R}.txt \
- ${A4D}/${PIECE14S}.pdf ${USD}/${PIECE14S}.pdf ${SRCD}/${PIECE14S}.txt \
- ${FREED}/${PIECE14K}.pdf
+ ${A4D}/${PIECE14S}.pdf ${USD}/${PIECE14S}.pdf ${SRCD}/${PIECE14S}.txt\
+ ${A4D}/${PIECE14GK}.pdf ${USD}/${PIECE14GK}.pdf ${SRCD}/${PIECE14GK}.txt
 
 dist1 :
-	scp -P 2223 ${A4D}/${PIECE1}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE1}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE1} ${DIST}/src/${PIECE1}.txt
+	upload ${A4D}/${PIECE1}.pdf
+	upload ${USD}/${PIECE1}.pdf
+	upload ${SRCD}/${PIECE1}.txt
 dist3 :
-	scp -P 2223 ${A4D}/${PIECE3}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE3}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE3} ${DIST}/src/${PIECE3}.txt
+	upload ${A4D}/${PIECE3}.pdf
+	upload ${USD}/${PIECE3}.pdf
+	upload ${SRCD}/${PIECE3}.txt
 dist4 :
-	scp -P 2223 ${A4D}/${PIECE4}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE4}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE4} ${DIST}/src/${PIECE4}.txt
+	upload ${A4D}/${PIECE4}.pdf
+	upload ${USD}/${PIECE4}.pdf
+	upload ${SRCD}/${PIECE4}.txt
 dist4unfingered :
-	scp -P 2223 ${A4D}/${PIECE4UNFINGERED}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE4UNFINGERED}.pdf  ${DIST}/us/
+	upload ${A4D}/${PIECE4UNFINGERED}.pdf
+	upload ${USD}/${PIECE4UNFINGERED}.pdf
 dist5 :
-	scp -P 2223 ${A4D}/${PIECE5}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE5}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE5} ${DIST}/src/${PIECE5}.txt
+	upload ${A4D}/${PIECE5}.pdf
+	upload ${USD}/${PIECE5}.pdf
+	upload ${SRCD}/${PIECE5}.txt
 dist7 :
-	scp -P 2223 ${A4D}/${PIECE7}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE7}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE7} ${DIST}/src/${PIECE7}.txt
+	upload ${A4D}/${PIECE7}.pdf
+	upload ${USD}/${PIECE7}.pdf
+	upload ${SRCD}/${PIECE7}.txt
 dist8 :
-	scp -P 2223 ${A4D}/${PIECE8}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE8}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE8} ${DIST}/src/${PIECE8}.txt
+	upload ${A4D}/${PIECE8}.pdf
+	upload ${USD}/${PIECE8}.pdf
+	upload ${SRCD}/${PIECE8}.txt
 dist9 :
-	scp -P 2223 ${A4D}/${PIECE9}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE9}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE9} ${DIST}/src/${PIECE9}.txt
+	upload ${A4D}/${PIECE9}.pdf
+	upload ${USD}/${PIECE9}.pdf
+	upload ${SRCD}/${PIECE9}.txt
 dist10 :
-	scp -P 2223 ${A4D}/${PIECE10}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE10}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE10} ${DIST}/src/${PIECE10}.txt
+	upload ${A4D}/${PIECE10}.pdf
+	upload ${USD}/${PIECE10}.pdf
+	upload ${SRCD}/${PIECE10}.txt
 dist11 : all
-	${UPLOAD} ${A4D}/${PIECE11}.pdf ${USD}/${PIECE11}.pdf ${SRCD}/${PIECE11}.txt
+	upload ${A4D}/${PIECE11}.pdf
+	upload ${USD}/${PIECE11}.pdf
+	upload ${SRCD}/${PIECE11}.txt
 dist14k :
-	scp -P 2223 ${A4D}/${PIECE14K}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE14K}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE14K} ${DIST}/src/${PIECE14K}.txt
+	upload ${A4D}/${PIECE14K}.pdf
+	upload ${USD}/${PIECE14K}.pdf
+	upload ${SRCD}/${PIECE14K}.txt
 dist14r :
-	scp -P 2223 ${A4D}/${PIECE14R}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE14R}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE14R} ${DIST}/src/${PIECE14R}.txt
+	upload ${A4D}/${PIECE14R}.pdf
+	upload ${USD}/${PIECE14R}.pdf
+	upload ${SRCD}/${PIECE14R}.txt
 dist14s :
-	scp -P 2223 ${A4D}/${PIECE14S}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE14S}.pdf  ${DIST}/us/
-	scp -P 2223 ${PIECE14S} ${DIST}/src/${PIECE14S}.txt
+	upload ${A4D}/${PIECE14S}.pdf
+	upload ${USD}/${PIECE14S}.pdf
+	upload ${SRCD}/${PIECE14S}.txt
+dist14gkk :
+	upload ${A4D}/${PIECE14GK}.pdf
+	upload ${USD}/${PIECE14GK}.pdf
+	upload ${SRCD}/${PIECE14GK}.txt
+dist14gkr :
+	upload ${A4D}/${PIECE14GR}.pdf
+	upload ${USD}/${PIECE14GR}.pdf
+	upload ${SRCD}/${PIECE14GR}.txt
+dist14gks :
+	upload ${A4D}/${PIECE14GS}.pdf
+	upload ${USD}/${PIECE14GS}.pdf
+	upload ${SRCD}/${PIECE14GS}.txt
+play :
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat trim 470
 play1 :
 	${MUSCRIPT} -midi ${PIECE1} | aplaymidi - &
 play2 :
@@ -133,7 +152,13 @@ play14k :
 play14r :
 	${MUSCRIPT} -midi ${PIECE14R} | aplaymidi - &
 play14s :
-	${MUSCRIPT} -midi ${PIECE14s} | aplaymidi - &
+	${MUSCRIPT} -midi ${PIECE14S} | aplaymidi - &
+play14gk :
+	${MUSCRIPT} -midi ${PIECE14GK} | aplaymidi - &
+play14gr :
+	${MUSCRIPT} -midi ${PIECE14GR} | aplaymidi - &
+play14gs :
+	${MUSCRIPT} -midi ${PIECE14GS} | aplaymidi - &
 playcan :
 	${MUSCRIPT} -midi ${PIECECAN} | aplaymidi - &
 mp314k : ${PIECE14K}
@@ -331,12 +356,6 @@ ${PIECE11}.a4 : ${PIECE11}
 title_${PIECE11}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 11 | groff -ms | ${BANNERISE} > $@
 
-${FREED}/${PIECE14K}.pdf : ${WARNING} p2_c14.a4 p3_c14.a4 ${PIECE14K}.a4 ${BACKPAGE}
-	${UTF2ISO} title_${PIECE14K} | groff -ms | ${BANNERISE} > title_${PIECE14K}.a4
-	${ADDMESSAGE} ${PIECE14K}.a4 \
-	| ${PSCAT} title_${PIECE14K}.a4 ${WARNING} p2_c14.a4 p3_c14.a4 - ${BACKPAGE} \
-	| ${A42US} -c \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
 ${A4D}/${PIECE14K}.pdf : p2_c14.a4 p3_c14.a4 ${PIECE14K}.a4 ${BACKPAGE}
 	${UTF2ISO} title_${PIECE14K} | groff -ms | ${BANNERISE} > title_${PIECE14K}.a4
 	${ADDMESSAGE} ${PIECE14K}.a4 \
@@ -418,6 +437,35 @@ ${PIECE14S}.a4 : ${PIECE14S}
 title_${PIECE14S}.a4 : title_${PIECE14S}
 	${UTF2ISO} title_${PIECE14S} | groff -ms | ${BANNERISE} > $@
 
+${A4D}/${PIECE14GK}.pdf : p2_c14.a4 p3_c14.a4 ${PIECE14GK}.a4 ${BACKPAGE}
+	${UTF2ISO} title_${PIECE14GK} | groff -ms | ${BANNERISE} > title_${PIECE14GK}.a4
+	${ADDMESSAGE} ${PIECE14GK}.a4 \
+	| ${PSCAT} title_${PIECE14GK}.a4 p2_c14.a4 p3_c14.a4 - ${BACKPAGE} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+${USD}/${PIECE14GK}.pdf : title_${PIECE14GK}.a4 p2_c14.a4 p3_c14.a4 \
+ ${PIECE14GK}.a4 ${BACKPAGE}
+	${ADDMESSAGE} ${PIECE14GK}.a4 \
+	| ${PSCAT} title_${PIECE14GK}.a4 p2_c14.a4 p3_c14.a4 - ${BACKPAGE} \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${XMLD}/${PIECE14GK}.xml : ${PIECE14GK}
+	${MUSCRIPT} -xml ${PIECE14GK} > $@
+${XMLD}/${PIECE14GK}_readme.txt : p2_c14 p3_c14
+	${NROF} p2_c14 p3_c14 > $@
+${SRCD}/${PIECE14GK}.txt : ${PIECE14GK}
+	cp ${PIECE14GK} $@
+${MP3D}/${PIECE14GK}.mp3 : ${PIECE14GK}
+	${MUSCRIPT} -midi ${PIECE14GK} \
+	  | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@
+	rm t.wav
+${PIECE14GK}.a4 : ${PIECE14GK}
+	${MUSCRIPT} ${PIECE14GK} > $@
+	pkill -HUP gv
+title_${PIECE14GK}.a4 : title_${PIECE14GK}
+	${UTF2ISO} title_${PIECE14GK} | groff -ms | ${BANNERISE} > $@
+
 ${A4D}/${PIECECAN}.pdf : p2_c14.a4 p3_c14.a4 ${PIECECAN}.a4 ${BACKPAGE}
 	${UTF2ISO} title_${PIECECAN} | groff -ms | ${BANNERISE} > title_${PIECECAN}.a4
 	${ADDMESSAGE} ${PIECECAN}.a4 \
@@ -448,7 +496,7 @@ title_${PIECECAN}.a4 : title_${PIECECAN}
 p2_c14.a4 : p2_c14
 	groff -ms p2_c14 | ${BANNERISE} > $@
 p3_c14.a4 : p3_c14
-	groff -ms p3_c14 | ${BANNERISE} > $@
+	utf2iso p3_c14 | groff -ms | ${BANNERISE} > $@
 
 viol.a4 : viol
 	${MUSCRIPT} viol > $@

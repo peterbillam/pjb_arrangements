@@ -1,4 +1,28 @@
-.\" header = mushead
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.05.25.09.22.34;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@page 3 for c14; now mentions Zoltan Goncz
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
 .AM
 .nr PS 13
 .nr VS 16
@@ -60,3 +84,4 @@ All these are available from \  \f2www.pjb.com.au\fP
 .sp 1c
 \f2Peter J Billam\fP
 
+@

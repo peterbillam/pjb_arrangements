@@ -1,0 +1,1881 @@
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-25-20/13 25 20-30-20/13 27 20-25-20/
+lefthead J. S. Bach
+title Flute Sonata, BWV 1032
+righthead Transposed for Alto Recorder
+leftfoot Arrangement and Completion (bars 63-87) (c) 1999 Peter J Billam
+midi channel 1 patch 74
+midi channel 2 patch 6
+/
+3 bars | 2b 4/4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 .6 \
+ | 1 1 1 1 1 1 1 1 .8 .8 .8 .8 1 1 1 .6 \
+ | .8 .8 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1.6 |
+| 4/4 2.8
+Il0.6        Vivace
+=1 treble channel1 2b vol100 4/4 smb rest
+=2 treble channel2 2b vol90 4/4 smq rest [F G A'] [B c d B] [c B A, c] [B c d B]
+=3' bass channel2 2b vol90 4/4 cro blank qua rest b' [a c~ f b]
+=3, 2b 4/4 cro <B d f b> qua blank B [f e d B]
+|
+=1 smb rest
+=2 smq [c B A, c] [B c d B] qua [g f] smq [e d e f]
+=3' qua [a c~ f b] cro. b qua a
+=3, qua [f e d B] [e d c, f]
+|
+=1 smb rest
+=2 qua [d-tr c] smq rest [c d e] [f e d c] [d dsq c B smq c dsq d e]
+=3' qua [b a] cro rest'' qua rest'' a b rest''
+=3, qua [B smq f g] qua [a f] [d f b a]
+/
+3 bars |2b 1 1 1 1 1 1.7 1 1.7 1.8 1 1.8 1 1 1.7 1 1.7|1 1.8 1 1 1 1 1 1 1 1 1 1 1 1 1 0.6 | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 .6 |
+|
+=1 treble 2b smb rest
+=2 treble 2b smq [d c B A,] [B dsq A, G, smq A, dsq B c] smq [B' Ab G F] [G dsq F E smq F dsq G A]
+=3' bass 2b qua blank f# g rest'' rest'' d e rest''
+=3, bass 2b qua [b d g f#] [g B, e d]
+|
+=1 smb rest
+il0.5    5
+=2 smq [G B' An B'] [c A, B c] [F A' G A'] [B G, A, B]
+=3 qua [e c, A, f] [d' B G e']
+|
+=1 smb rest
+=2 smq [E G C D] [E C D E] cro F_-tr smq rest' [g f e]
+=3 qua [c' B A G'] smq [A, c, d e] [f g a f]
+/
+3 bars |2b 16|1 1 1 1 1 1 1 1 1 1 1.7 1 1.7 1 1.7 1|.8 .8 1.3 1.3 .9 .9 .9 .9 .9 .9 .9 1.3 .9 .9 .9 .9|
+|
+=1 treble 2b smb rest
+=2 treble 2b smq [d c B d] [c B A, c] [B' F G A'] [B' F G E]
+=3 bass 2b qua [b g e f] [d c, d e]
+|
+=1 smb rest
+=2 smq [F B' G E] [F D E C] [D F dsq E D smq C] dsq [D C smq B_ dsq C B_ smq A_]
+=3 qua [d e d c,] [B g' f' F]
+|
+=1 qua rest f smq [b f g e] [d e qua f(1] smq [f)1 b g e]
+=2 qua B_ rest rest smq [B c] qua. [d smq A,] qua [B smq B c]
+=3 qua [B, smq b c~] qua [d~ e~] qua. [b smq c~] qua [d~ e~]
+/
+3 bars |2b  .8 .8 .8 1 .8 .8 .8 .8 .8 .8 1 1 .8 .8 .8 .8|16|4 4 3.5 4|
+|
+=1 treble 2b smq [d e qua f(1] smq [f)1 b g e] [c d qua e(1] smq [e)1 f d B]
+il0.4     10
+=2 treble 2b qua. [d smq A,] qua [B smq B c] qua. [A' smq G] qua [F smq F G]
+=3 bass 2b qua. [b smq c~] qua [d~ e~] [f~ smq c~ b] qua [a b]
+|
+=1 qua [c F,] rest b smq [a g f e] [d e f b]
+=2 smq [A' F G A'] [B c d B] [c B A, c] [B c d B]
+=3 qua [f e d B,] [f F,] rest f
+|
+=1 smq [a g f e] [d e f d] cro B-tr qua rest a
+=2 smq [c B A, c] [B c d B] qua [g f] smq [e d e f]
+=3 qua [f' F] rest B [e d c, f]
+/
+3 bars |2b .8 .8 .8 .8 .8 .8 .8 1.4 .8 .8 .8 1.8 .8 .8 .8 .8|.8 .8 .8 1.8 .8 .8 .8 .8 .8 .8 .8 1 .8 1.1 .8 1.1|4 3.3 3.3 3.3|
+|
+=1 treble 2b smq [b g a c~] [b a g f] [en f qua g(1] smq [g)1 c~ a f]
+=2 treble 2b qua [d-tr c] qua rest smq [c d] qua. [en smq Bn] qua [c smq c d]
+=3 bass 2b qua [B, f d~ b] qua. [c~ smq d~] qua [e~n f~]
+|
+=1 smq [en f qua g(1] smq [g)1 c~ a f] [d f qua b(1] smq [b)1 dsq a g smq a dsq g f]
+=2 qua. [en smq Bn] cro c qua [d smq g f] qua [e f]
+=3 qua. [c~ smq d~] qua [e~n f~] qua. [b smq a] qua [g f]
+|
+=1 smq [b d~ qua c~(1] smq [c~)1 b a g] [f en d b] qua. [e smq f]
+il0.4         15
+=2' cro. g qua en cro f qua. [e smq f]
+=2, min B qua A cro. G
+=3 qua [en smq e~n d~] qua [e~ c~] [d~ b c~ c,]
+
+5 systems /13 25 20-30-20/13 25 20-35-20/13 25 20-25-20/13 25 20-30-20/13 27 20-25-20/
+pagenum 4
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement and Completion (bars 63-87) (c) 1999 Peter J Billam
+/
+3 bars |2b  16 | 16 | 1 1 1 1 1 1 1 1 1 1 1 1 1 1.7 1 1.7 |
+|
+=1 treble 2b smb f(1
+=2 treble 2b smq <f A,> [F G A'] [B c d B] [c B A, c] [B c d B]
+=3 bass 2b qua [f e d B,] [f e d B,]
+|
+=1 cro f)1(1 smq [f)1 e d f] [B A, G, A,] qua. [A,-tr smq B]
+=2 smq [c B A, c] [B c d B] qua [g f] smq [e d e f]
+=3 qua [f e d B,] [e d c, f]
+|
+=1 smq [B b qua a] smq rest' [a b c~] [d~ c~ b a] [b dsq c~ d~ smq a dsq b c~]
+=2 qua [d-tr c] smq rest' [c d e] [f e d c] [d dsq c B smq c dsq d e]
+=3 qua [B, smq f g] qua [f e] [d f b f]
+/
+3 bars |2b  1 1 1 1.3 1 1.7 1 1.7 1.2 1.2 1 1 .9 .9 .9 .9 | .9 .9 1.1 1 1 1 1 1.6 1 1 1 1 1 1 1 1 | 16 |
+|
+=1 treble 2b smq [b a g f#] [g dsq a b smq f dsq g a] smq [g fn en d] [e f g e]
+=2 treble 2b smq [d c B A,] [B dsq A, G, smq A, dsq B c] min B(1
+=3 bass 2b qua [B, d g d] [G, smq g a qua g f]
+|
+=1 smq [d c d en] [f g a f] [g f e g] [f g a f]
+il0.3    20
+=2 qua [B)1 smq A, G,] [A, B c f] [en d c B] [A, B c f]
+=3, qua [en c~ a f] [c~ c] rest' c~
+|
+=1 smq [g f en g] [f g a f] qua [d~ c~] smq [b a b c~]
+=2 smq [en d c B] [A, B c A,] cro F-tr qua rest e
+=3, qua [c~ c] rest f [b a g c~]
+/
+3 bars |2b 1 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1|1 1 1 1 1 1.6 1 1 1 1 1 1 1 1.7 1 1.7|1.2 1.2 1.2 1.6 1.2 1.2 1.6 1 1 1 1 1 .8 .8 .9 1|
+|
+=1 treble 2b qua [a-tr g] cro rest' min rest
+=2 treble 2b smq [f d en g] [f e d c] [B A, qua B(1] smq [B)1 g e c]
+=3 bass 2b qua [f' c' A F] [G, smq g f] qua [g b]
+|
+=1 smb rest
+=2 smq [B-tr A, qua B(1] smq [B)1 g en c] [A, c qua f(1] smq [f)1 dsq e d smq e dsq d c]
+=3, qua [en smq g f] qua [e c] qua. [f smq g] qua [a b]
+|
+=1 smb rest
+=2 smq [b a qua b(1] smq [b)1 g a en] [f c d B] qua. [G smq F]
+=3 qua. [c~ smq d~] qua [e~n c~] [a b c~ c,]
+/
+3 bars |2b  16 | 16 | 1 1 1.3 1.7 .9 .9 .9 .9 .9 .9 .9 .9 .9 .9 .9 .9 |
+|
+=1 treble 2b smq rest [c d en] [f g a f] [g f e g] [f g a f]
+il0.4      25
+=2 treble 2b cro F qua rest f [en c] rest F
+=3 bass 2b cro F qua rest f [c~ b a f]
+|
+=1 smq [g f en g] [f g a f] qua [d~ c~] smq [b a b c~]
+=2 qua [En C] rest f cro. f qua en
+=3 qua [c~ b a f] [b a g c~]
+|
+=1 qua [a-tr g] smq rest' [g a b] [c~ b a g] [a{1 dsq g f}1 smq g{1 dsq a b}1]
+=2 qua [f en] cro rest qua rest [e f e]
+=3 qua [f smq c~ d~] qua [e~n c~] [a c~] f rest
+/
+3 bars |2b  16 | 16 | 16 |
+|
+=1 treble 2b smq [a g f en] [f{1 dsq e d}1 smq e{1 dsq f g}1] smq [f eb d c] [d{1 dsq c B}1 smq c{1 dsq d e}1]
+=2 treble 2b qua [f c# d c] [d A, B A,]
+=3 bass 2b qua rest a d rest rest f B rest
+|
+=1 smq [d f en f] [g e f g] [c e d e] [f d e f]
+=2 min B(1 qua [B)1 smq A, G,] cro A,(1
+=3 qua rest [g en c~] [a f d d~]
+|
+=1 min B(1 smq [B)1 c en g] [b d~ c~ b]
+il0.4    30
+=2 smq [A,)1 d G, A,] [B G, A, B] min C(2
+=3 qua [g smq b a] qua [g f] [en g c, e]
+
+5 systems /13 25 20-30-20/13 25 20-30-20/13 25 20-30-20/13 25 20-30-20/13 30 20-30-20/
+pagenum 5
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement and Completion (bars 63-87) (c) 1999 Peter J Billam
+/
+3 bars |2b  .9 .9 .9 .9 .9 .9 1 1 1 1 1.6 1 1 1 1 1 | 1 1 1 1 1 1.6 1 1.6 1 1 1 1 1 1 1 2.3 | 1 1 1 1 1.6 1 1 1 1 1 1 1 1.3 1.3 1.3 1 |
+|
+=1 treble 2b smq [a g f a] [g f en g] min f(1
+=2 treble 2b cro C)2 rest smq rest [c d en] [f c d B]
+=3 bass 2b qua [f a] [b smq c~ b] qua [a b a g]
+|
+=1 min f)1(1 smq [f)1 c~ b g] [a{1 dsq g f}1 smq g{1 dsq f en}1]
+=2 smq [c f d B] [c dsq B A, smq B dsq A, G,] smq [A' F D B'] [C A' B_ G]
+=3 qua [a b a g] min f(1
+|
+=1 qua. [f smq g] qua. [en-tr smq f] min f(1
+=2 smq [A_ C F B'] qua. [G-tr smq F] qua [F, f d b]
+=3 smq [f)1 c, d B,] [c, en g b] [a f g a] [b c~ d~ b]
+/
+3 bars |2b 1 1 1 1 1 1 1 1.5 1 1.6 1 1 1 1 1 1|1 1 1 1.6 .9 .9 .9 1 1 1 1.6 1 1 1 1 1|1 1.6 1 1 1 1 1 1 1 1 1 1.2 1.2 1.2 1.2 1|
+|
+=1 treble 2b qua [f)1 f d b] qua a{1 cro. g}1(1
+=2 treble 2b smq [a b] cro c~ qua b(1 smq [b)1 f en d] [c B A, G,]
+=3 bass 2b smq [c~ b a c~] [b c~ d~ b] qua [en g e c,]
+|
+=1 smq [g)1 d~ c~ b] qua [a-tr smq g f] cro f rest
+il0.4    35
+=2 smq [A, B c g] qua. [en smq f] smq [f' C D En] [F G A' F]
+=3 smq [f g a b] qua [c~ c,] cro F qua rest f
+|
+=1 smb rest
+=2 smq [G F En G] [F G A' F] [G F E G] [F G A' F]
+=3 qua [c~ b a f] [c~ b a f]
+/
+3 bars |2b 1.6 1.6 2 2 2 1.9 1.7 1.7|.8 1.2 .8 .8 .8 .8 .8 .8 .8 .8 .8 .8 .8 .8 1 1|.8 .8 .8 .8 .9 .9 .9 .9 .9 .9 1 1.6 .9 1.2 .9 1.2|
+|
+=1 treble 2b min rest smq rest [G, A, Bn] [c d e c]
+=2 treble 2b qua [d c] smq [B A, B c] [A' G qua F] cro G
+=3 bass 2b qua [b a g c~] [f d e c,]
+|
+=1 smq [d c Bn d] [c d e c] [d c B d] [c d e c]
+=2 qua rest [g e c] rest [G E C]
+=3 qua [g G,] rest g [g G,] rest smq [g# gn]
+|
+=1 qua [ab g] smq [f e f g] [e d c e] [f dsq e d smq e dsq d c]
+=2 qua rest cro c qua Bn min c(1
+=3 qua [f e d g] [c, smq c~ b] qua [g# gn]
+/
+3 bars |2b .9 .9 .9 1.2 .9 1.2 .9 1.2 .9 .9 1.2 1 1.2 1.8 1 1.4| 1 1.7 1.7 1 1 1 1 1 1 1 1 1 1 1 1 .7 | 1 1.6 1 1 1 1 1 1.3 .9 .9 .9 .9 1 1 1 .7 |
+|
+=1 treble 2b smq [d f e g] [ab dsq g f smq g dsq f e] smq [f ab g bn] [c~ dsq bb an smq b dsq a g]
+il0.4    40
+=2 treble 2b smb c)1(1
+=3 bass 2b qua [f g f e] [d smq e d] qua [e c,]
+|
+=1 qua [f# d B g] [f d~ b g]
+=2 smq [c')1 D En F#] [G A' B' G'] [A' G F A'] [G A' B' G']
+=3 qua [d' D] rest d [d' D] rest d
+|
+=1 qua rest [d B G,] rest cro g qua f#
+=2 smq [A' G F# A'] [G A' B' G'] qua [e d] smq [c B c d]
+=3 qua [d' D] rest smq [e d] qua [c' B A d']
+/
+3 bars |2b 1 1 1 1 1 1.6 1 1.6 1 1 1 1 1 1.6 1 1.6| 1 1 1.6 1 1.6 1.6 1 2.0 .9 .9 .9 .9 .9 .9 .9 .9|.9 .9 .9 .9 1 1 1 1 1.6 1 1 1 .9 .9 .9 1|
+|
+=1 treble 2b smb g(1
+=2 treble 2b smq [B A, G, B] [c dsq B A, smq B dsq A, G,] smq [A, c B d] [e dsq d c smq d dsq c B]
+=3 bass 2b qua [G, smq g f] qua [e d] [c, d c, B,]
+|
+=1 min g)1(1 smq [g)1 e d c] [a b c~ a]
+=2 smq [c e d f#] [g dsq fn e smq f dsq e d] min e(1
+=3 qua [A smq B A] qua [B G] [c' B c' A]
+|
+=1 smq [f# g f g] cro a(1 smq [a)1 c B g] qua. [f smq g]
+il0.4   45
+=2 cro e)1(1 smq [e)1 e d c] [B' F# G B'] qua. [A' smq G]
+=3 qua [d a f# d] [g c~ d~ d]
+
+5 systems /13 25 20-30-20/13 25 20-30-20/13 25 20-37-20/13 25 20-30-20/13 30 20-30-20/
+pagenum 6
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement and Completion (bars 63-87) (c) 1999 Peter J Billam
+/
+3 bars |2b  1 1.6 1.6 1 1 1 1 1 1 1 1 1 1 1 1 1|1 1.6 1 1 1 1 1 1 1 1 1 1.6 1 1 1 1|1 1 1 1 1 1 1 1 1 1.6 1.6 1 1.6 1 1 1|
+|
+=1 treble 2b qua [g d~ b g] rest [d B G,]
+=2 treble 2b cro G qua rest g [f# d] rest G
+=3 bass 2b smq [G, d en f#] [g a b g] [a g f a] [g a b g]
+|
+=1 qua rest d cro b(1 qua [b)1 smq c~ b] cro a(1
+=2 qua [F# D] rest G cro e(1 qua [e)1 smq f e]
+=3 smq [a g f# a] [g a b g] [c, b a g] [fn e d c,]
+|
+=1 qua [a)1 B,] cro g(1 smq [g)1 b a g] qua. [f# dsq en f]
+=2 cro d(1 qua [d)1 E,] cro c(1 smq [c)1 e d c]
+=3 smq [B, a g f] [e d c, B,] [A, g f# en] [d' c' B A]
+/
+3 bars |2b 1 1 .9 .9 1 1 1 1 1 1 1 1 1 1.6 1.6 1|1.4 1.6 1 1 1 1 1.6 1 1.6 1 1 1 1 1 1.6 1|1.6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1|
+|
+=1 treble 2b smq [g en qua f#] cro rest smq rest [a b c~] [d~ c~ b a]
+=2 treble 2b smq [B G, qua A,] smq rest [A, B c] [d c B A,] qua [B d]
+=3 bass 2b qua [G d'] cro rest rest smq rest [d en f#]
+|
+=1 qua [b d~] cro g smq rest [g a b] [c~ b a g]
+il0.4    50
+=2 cro G smq rest [G, A, Bn] [c Bb A, G,] qua [A, c]
+=3 smq [g f e d] qua [e g] cro c smq rest [c, d en]
+|
+=1 qua [a c~] cro f smq rest [f g a] cro b(1
+=2 cro F smq rest [F G A'] [B A, B c] [d e f g]
+=3 smq [f e d c,] qua [d f] cro B smq rest [c, d e]
+/
+2 bars |2b 1.4 1 1 1 1 1 1.4 1 1 1 1 1 1.4 1 1.4 1|1.4 1 1 1 1 1 1.4 1 1.4 1 1.4 1.4 1 1.4 1.4 1|
+|
+=1 treble 2b smq [b)1 c d en] [f e f g] [a b c~ d~] cro g
+=2 treble 2b cro c smq rest [c d en] cro f(1 smq [f)1 G, A, Bn]
+=3 bass 2b smq [f en f g] [a b a g] [f' G A B] [c' Bn c' d']
+|
+=1 smq rest [g a bn] cro c~(1 smq [c~)1 d en f#] [g f g a]
+=2 smq [c Bn c d] [e f g g#] cro d smq rest [d en f#]
+=3 smq [e f e d] [c, d e f] [g f# g a] [b c~ b a]
+/
+2 bars |2b  1 1 1 1 1.6 1 1 1 1 1.2 1.2 1.2 1.2 1.6 1.6 1.6| 1 1.2 1.2 1.2 1.2 2.1 2.1 1.6 1 1.2 1.2 1.7 1 1 1 1|
+|
+=1 treble 2b smq [b c~ d~ e~] cro a(1 smq [a)1 dsq g a b a g f] cro e(1
+=2 treble 2b cro g(1 smq [g)1 f# g a] cro d(1 smq [d)1 dsq c d e d c B]
+=3 bass 2b smq [g a b c~] [d~ e~ d~ c~] qua [b g c~ a]
+|
+=1 smq [e)1 dsq d c d c B A,] cro B(1 smq [B)1 dsq e d c B A, G,] qua F# rest
+il0.4    55
+=2 cro A(2 smq [A')2 dsq G F# G Fn E D] qua E rest smq rest [A, B c]
+=3 qua [f# d g e] [c' A d' c']
+/
+2 bars |2b 1 1 1 1 1 1.6 1 1.6 1.6 1 1 1 1 1.6 1 1.6|1 1 1 1 1 1.6 1 1.6 1 1.6 1 1 1 1 1 1|
+|
+=1 treble 2b qua rest [f# g f] [g d e d]
+=2 treble 2b smq [d c B A,] [B dsq A, G, smq A, dsq B c] smq [B' G#' Gn F] [G dsq F E smq F dsq G G#']
+=3 bass 2b qua [B d'] G rest rest B E rest
+|
+=1 qua [e Bn c B] cro c c~(1
+=2 smq [G F E D] [E dsq D C smq D dsq E F] smq [E, g f# g] [a f g a]
+=3 qua rest G c' rest rest [a f# d]
+
+5 systems /13 25 20-30-20/13 25 20-30-20/13 30 20-30-20/13 25 20-30-20/13 30 20-30-20/
+pagenum 7
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement and Completion (bars 63-87) (c) 1999 Peter J Billam
+/
+3 bars |2b 6.6 8| 16 | .9 1.1 1.1 .9 .9 1.1 .9 .9 .9 .9 .9 .9 .9 .9 .9 .9|
+|
+=1 treble 2b smq [c~)1 a g a] [b g a b] min e(1
+=2 treble 2b min d(1 smq [d)1 B A, B] [c A, B c]
+=3 bass 2b qua [B, d g G,] [c, d e c,]
+|
+=1 smq [e)1 c~ a f#] cro d(1 qua d)1 rest cro rest
+=2 smq [F# D F A'] [c e d c] [B A, G, B] [A' G F A']
+=3 cro d qua rest f# [g b] [c~ smq d~ c~]
+|
+=1 smq rest [d en f#] [g d eb c] [d g e c] [d B c A,]
+il0.4    60
+=2 smb G(1
+=3 qua [b a b c~] [b c~ b a]
+/
+2 bars |2b  1 1 1 1.7 1 1.7 1.6 1 .9 .9 1 1 .9 .9 1 1| 1 1 1.6 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.2 |
+|
+=1 treble 2b smq [B b a dsq g f#] smq [g dsq f en f g smq a] [d f g a] qua. [f smq g]
+=2 treble 2b smq [G,)1 d c A,] [B' G A' F#] qua. [G, smq e] qua. [A' smq G]
+=3 bass 2b qua [g d] rest c [B smq e' c] qua [d' D]
+|
+=1 cro g qua rest c~ [bn g] rest c
+=2 qua [G, g e c] rest [G E c']
+=3 smq [G, g a bn] [c~ d~ e~ c~] [d~ c~ b d~] [c~ d~ e~ c~]
+/
+2 bars |2b 16|16|
+|
+is0.5 .01 PJB . . .
+=1 treble 2b qua [Bn G,] rest c cro. ab smq [b a]
+=2 treble 2b qua rest G cro e(1 qua [e)1 smq f e] cro d(1
+=3 bass 2b smq [d~ c~ bn d~] [c~ d~ e~ c~] [f e~ d~ c~] [bb ab g f]
+|
+=1 cro g(1 qua [g)1 Ab,] cro f(1 smq [f)1 ab g f]
+=2 qua [d)1 E,] cro c(1 smq [c)1 e d c] qua. [Bn dsq A, B]
+=3 smq [e d~ c~ b] [ab g f e] [d c~ bn an] [g f e d]
+/
+2 bars |2b  1 1.1 .9 .9 .9 .9 .9 .9 1 1 1 1 1 1 1.1 .8 \
+ |1.2 1 1 1 .9 .9 .9 .9 1 1 1 1 1 1 1 1|
+|
+=1 treble 2b smq [e c qua d] smq rest [d e f] [g f e d] qua [e g]
+il0.4    65
+=2 treble 2b smq [c A, qua Bn] cro rest rest smq rest [G, A, Bn]
+=3 bass 2b qua [c, g] cro rest smq rest [d e f] [g f e d]
+|
+=1 cro c smq rest [c d en] [f eb d c] qua [d f]
+=2 smq [c Bb A, G,] qua [A, c] cro F smq rest [F G A']
+=3 qua [e g] cro c smq rest [c, d e] [f e d c,]
+/
+2 bars |2b 1.2 1 1 1 .9 .9 .9 .9 1 1 1 1 1 1.2 1 .8 \
+ | 1 1 1 1 1 1.2 1 1.2 1 1 1.1 1 1 1.2 1 1.2 |
+|
+=1 treble 2b cro B smq rest [B c d] [e d c B] cro c
+=2 treble 2b smq [B' Ab' G F] qua [G B'] cro E smq rest [G' An' B']
+=3 bass 2b qua [d f] cro B smq rest [B c d'] [e' d' c B]
+|
+=1 qua rest [en f e] [f c# d c]
+=2' smq [c B A G] [A dsq G F smq G dsq A B] smq [A G F En] [F dsq E D smq E dsq F G]
+=3 qua [A c'] F rest rest a d rest
+
+5 systems /13 35 20-30-20/13 35 20-30-20/13 25 20-30-20/13 25 20-30-20/13 30 20-30-20/
+pagenum 8
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement and Completion (bars 63-87) (c) 1999 Peter J Billam
+/
+2 bars |2b  16|16|
+|
+=1 treble 2b qua [d a b a] min b(1
+=2 treble 2b smq [F E D C] [D dsq C B_ smq C dsq D E] smq [D F En F] [G E F G]
+=3 bass 2b qua rest f B rest rest smq [b a] qua [g f]
+|
+=1 smq [b)1 g a c~] [b a g f] [e d qua e] smq rest [c~ a f]
+il0.4     70
+=2 cro. C qua B [A, c] [F, e]
+=3 qua [en g] cro c qua. [F smq G] qua [A F]
+/
+2 bars |2b  16|16|
+|
+=1 treble 2b smq [d f qua b(1] smq [b)1 dsq a g smq a dsq g f] smq [e d qua e] smq rest [c~ a f]
+=2, treble 2b qua [d f] cro B qua [A c] [F, e]
+=3 bass 2b qua. [B smq c'] qua [d e] qua. [f smq g] qua [a c~]
+|
+=1 smq [d f qua b(1] smq [b)1 dsq a g smq a dsq g f] smq [e~ d~ qua e~(1] smq [e~)1 c~ d~ a]
+=2' cro blank qua [B c] smq rest' [c d e] cro f(1-tr
+=2, qua [d f] cro blank qua. [F smq G] qua [A, B]
+=3 qua. [b smq c~] qua [d~ e~] min blank
+/
+2 bars |2b 16|16|
+|
+=1 treble 2b smq [b f g e] qua. [c smq B] min B(1-tr
+=2 treble 2b qua [f)1 smq B c] qua. [A, smq B] [B' B_ C D] [E F G E]
+=3 bass 2b qua [d~ e~] [f~ f] [B B_] rest B
+|
+=1 min B)1(1-tr cro B)1 rest
+=2 smq [F E D F] [E F G E] [F E D F] [E F G E]
+=3 qua [B B_] rest B [B B_] rest B
+/
+2 bars |2b 16|16|
+|
+=1 treble 2b smb rest
+il0.4      75
+=2 treble 2b qua [c B] smq [Ab G A B'] qua G cro c qua Ab
+=3 bass 2b smq rest [Ab B c'] [d en f d] [e d c, e] [d e f d]
+|
+=1 qua rest c cro ab(1 qua [a)1 smq b a] cro g(1
+=2 qua G cro rest qua F cro. db smq [e d]
+=3 smq [en d c, e] [d e f c,] [B, ab g f] [eb' db' c B]
+/
+2 bars |2b 16|16|
+|
+=1 treble 2b qua [g)1 Ab,] cro f(1 qua [f)1 smq g f] qua. [en dsq d e]
+=2 treble 2b cro. c qua Db cro B(1 smq [B)1 db c B]
+=3 bass 2b smq [Ab, g f e] [db' c B A] [G f' en' d'] [c B Ab G]
+|
+=1 smq [f d qua en] smq rest [g ab b] [c~ b ab g] qua [ab c~]
+=2' smq [Ab F qua G] cro rest smq rest [G Ab B'] [c B A G]
+=3 qua [F c'] cro rest rest smq rest [c, d en]
+
+5 systems /13 25 20-40-20/13 25 20-40-20/13 25 20-30-20/13 25 20-30-20/13 30 20-30-20/
+pagenum 9
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement and Completion (bars 63-87) (c) 1999 Peter J Billam
+/
+2 bars |2b  1.25 1.25 1 1.25  .9 .9 1 .9  1 1 1.25 1  1.25 1 1.25 1  | 1.25 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 |
+|
+=1 treble 2b cro f smq rest [f g a] [b g# gn f] qua [g b]
+=2 treble 2b qua [G#, c] cro F smq rest [F Gn A'] [B' G#' Gn F]
+=3 bass 2b smq [f e db c,] qua [db f] cro B smq rest [B c d']
+|
+=1 cro e smq rest [e f g] [a g f e] [d c d e]
+il0.5      80
+=2 qua [G B'] [E G] smq [C B' A' G] [F E D C]
+=3' smq [e db c B] qua [c e] [A c] cro F
+/
+2 bars |2b  16 | 4 4 3.2 4 |
+|
+=1 treble 2b smq [f g f e] [d e f b] [a g f e] [d e f b]
+=2 treble 2b smq rest [F G A'] [B c d B] [c B A, c] [B c d B]
+=2, 2b cro B_,
+=3' 2b cro blank qua blank b' [a c~ f b]
+=3, bass 2b cro rest qua rest B [f e d B]
+|
+=1 smq [a g f e] [d e f b] cro. b-tr qua a
+=2 smq [c B A, c] [B c d B] qua [g f] smq [e d e f]
+=3' qua [a c~] cro f min rest'
+=3, qua [f e d B] [e d c, f]
+/
+2 bars |2b  .8 .8 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1.6 \
+ | 1 1 1 1  1 1.7 1 1.7  1.3 1 1 1  1 1.7 1 1.7 |
+|
+=1 treble 2b qua [b-tr a] cro rest smq rest [f g a] qua [b a]
+=2 treble 2b qua [d-tr c] smq rest [c d e] [f e d c] [d dsq c B smq c dsq d e]
+=3 bass 2b qua [B, smq f g] qua [a f] [d f] cro B
+|
+=1 qua [b f# g f] [g d e d]
+=2 smq [d c B A,] [B' dsq A G smq A dsq B' c'] smq [B' Ab G F] [G dsq F E smq F dsq G A]
+=3' qua rest d cro G qua rest B cro E
+/
+2 bars |2b  1 1.3 1 1 1 1 1 1 1 1 1 1 1 1 1 1| 16|
+|
+=1 treble 2b smq [e d~ c~ b] [a g f e] [d c~ b a] [g f e d]
+il0.4       85
+=2 treble 2b smq [G B' An B'] [c A, B c] [F A' G A'] [B' G A B']
+=3' bass 2b qua rest [c A f] [d B G e]
+|
+=1 smq [c b a g] [f e d c] cro A,(1-tr smq [A,)1 B c f]
+=2 smq [E G C D] [E C D E] cro F_-tr smq rest' [g f e]
+=3 qua [c' B A G'] smq [A, c, d e] [f g a f]
+/
+3 bars |2b  16|.9 .9 .9 .9 .9 1.1 1.1 .9 1 1 1 1 1 1.6 1.6 1|4 4 3 3||
+| 4/4 .70 .70 .70 .71
+=1 treble 2b min f-tr smq rest [f g a] [b f g e]
+=2 treble 2b smq [d c B d] [c B A, c] min B(1
+=3 bass 2b qua [b g] [e smq f e] qua [d c, d e]
+| 4/4 .72 .73 .74 .75
+=1 smq [f b g e] [f dsq e d e d smq c] [d B G, e] [F, d E, c]
+is0.4   JSB . . .
+=2 min B)1(1 smq [B)1 f e c] [d dsq c B c B smq A,]
+=3 qua [d e d c,] min B(2
+| 4/4 .76 .77 .78 .79
+=1 qua. [f smq g] qua. [A,-tr smq B] min B-fermata
+=2 smq [B' F G E] qua. [C smq B_] min B_-fermata
+=3 qua [B)2 e' f' F] min B-fermata
+% endmvt1
+midi pause 3.9
+
+5 systems /13 25 20-30-20/13 25 20-30-20/13 25 20-25-20/13 25 20-30-20/13 27 20-25-20/
+pagenum 10
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+4 bars |5b 6/8 4 4 4 3 4 4|4 4 4 3 4 4|3 4 4 3 3 3|3 4 4 3 3 3|
+| 6/8 4.6
+Il0.6        Largo e dolce
+=1 treble 5b 6/8 cha1 vol70 leg95 smq [d{1 c e d c B}1] qua [B'-tr An] rest
+=2 treble 5b 6/8 cha2 vol70 smq [F{2 E G F E D}2] qua [D-tr C] rest
+=3 bass 5b 6/8 cha2 vol70 qua [b B, e] qua. [f smq e d c,]
+|
+=1 smq [f{1 e g f e d}1] qua [d-tr c] rest
+=2 smq [d{1 c e d c B}1] qua [B'-tr An] rest
+=3 qua [B, b e~] qua. [f~ smq e~ d~ c~]
+|
+=1 smq [dn e] cro f(1 smq [f)1 e{1 g f e db}1]
+=2' qua. [A smq Bn Bb A] cro. G(2
+=3 qua [b dn] rest [e e~ g]
+|
+=1 smq [c d] cro e(1 smq [e)1 d{1 f e d c}1]
+=2 qua. [G)2 smq B' A' G] cro. Fn(2
+=3 qua [a c,] rest [d d~ f]
+/
+3 bars |5b 6 6 6 6 6 8 6 6 6 6 6 6|6 6 8 6 8 6 6 6 6 6 6 6|24 30|
+|
+=1 treble 5b cro. B(1 smq [B)1 An, c B A, dsq B c]
+il0.4      5
+=2 treble 5b smq [F)2 E G F E D] cro. C(2
+=3 bass 5b cro. g(1 smq [g)1 f e d c, B,]
+|
+=1 cro. F(1 smq [F,)1 An,{1 B d c e}1]
+=2 smq [C)2 E D C B_ A_n] [B_{2 C D F E G}2]
+=3 smq [An F B Ab G F] qua G cro g(1
+|
+=1 smq [An, c{1 e g f e}1] [d e qua. e smq f]
+=2' qua [C An c(1] smq [c)1 A B d c B]
+=3' qua [g)1 c An] B cro F#
+/
+4 bars |5b 9 6 6 6 6 6 6 6 6 6 6 6|6 6 9 6 6 9 4 4 4 4 4 4|6 6 6 6 6 6 9 6 4 4 4 5|5 5 4 4 4 4 6 4 6 8 4 4|
+|
+=1 treble 5b min. f(1
+=2 treble 5b smq [An'{2 Gn B' A' G' F'}2] [B{1 A, c B A, B}1]
+=3 bass 5b qua [F E] rest smq [d{1 c, e d c, B,}1]
+|
+=1 cro. f)1(1 qua [f)1 f#-.] rest'
+=2 smq [c e d c B c] qua [dn-. e-.] rest'
+=3 smq [An{2 F B Ab G F}2] qua [A-. G-.] rest
+|
+=1 qua [c d e] dsq [f e smq d] qua. [c{1 smq d}1]
+il0.3      10
+=2 qua [E F G] dsq [A' G smq F] qua. [E smq F]
+=3 smq [g{1 f a g f e}1] qua [d a A,]
+|
+=1 qua [d-. Bn-.] rest smq [Bb{1 A, Bn Bb A, F#,}1]
+=2 cro. F(2-tr qua F)2 cro E
+=3 qua [d-. dn-.] rest [g smq a b qua bn]
+/
+4 bars |5b 6 6 6 6 10 10 6 6 4 4 4 4|45 27|9 9 9 10 12 12|72|
+|
+=1 treble 5b cro dn-tr qua e(1 smq [e)1 f qua. d-tr smq e]
+=2 treble 5b qua. [A smq B' qua G(2] smq [G)2 A qua. F-tr smq G]
+=3 bass 5b smq [f e g f e d] [Bn, A, qua Bb, b]
+|
+=1 cro. e qua [d-. c-.] rest
+=2 cro. G qua [Gn-. A-.] rest
+=3 smq [e~ d~ f~ e~ d~ c~] qua [b f~] rest'
+|
+=1 qua [d smq c B qua e] smq [c B A, B c d]
+=2 qua [B A, Gn,] [A' smq C D E F]
+=3 qua [d~ e~ e] cro a qua rest'
+|
+=1 cro. e(1 smq [e)1 A, B c d e]
+il0.4   15
+=2 cro. G(2 smq [G)2 C D E F G]
+=3 smq [c'{2 B d' c' B A}2] cro f qua e
+/
+3 bars |5b 6 6 6 6 6 6 8 6 6 6 6 6|36 27|6 6 6 6 6 8 6 6 6 6 6 6|
+|
+=1 treble 5b cro. f(1 smq [f)1 B c dn e f]
+=2 treble 5b cro. A'(2 smq [A')2 Dn E F G A]
+=3 bass 5b smq [d{1 c, e d c, B,}1] cro g qua f
+|
+=1 cro. f# qua [gn-. a-.] rest'
+=2 cro. B qua [d-. c-.] rest
+=3 smq [e{1 d f e d c,}1] qua [B, f] rest
+|
+=1 smq [a{1 gn}1 b{1 a g f}1] cro en qua rest
+=2 smq [c{1 B}1 d{1 c B A,}1] cro Gn qua rest
+=3 qua [d' Gn B] smq [c' d' c' B A G]
+
+5 systems /13 25 20-30-20/13 25 20-30-20/13 25 20-25-20/13 25 20-30-20/13 27 20-25-20/
+pagenum 11
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+4 bars | 5b 9 6 6 6 6 6 5 5 4 6 9 6|6 6 6 6 6 6 5 5 5 6 9 6|6 6 4 4 4 4 6 6 6 6 9 6|12 9 9 11 11 11|
+|
+=1 treble 5b smq [c{1 B d c B A,}1] qua [A'-tr Gn] rest
+=2 treble 5b smq [A'{2 Gn B' A' G F}2] qua [F En] rest
+=3 bass 5b qua [F, f b] qua. [c~ smq b a gn]
+|
+=1 smq [a{1 gn b a g f}1] qua [f en] rest
+il0.4   20
+=2 smq [c{1 B d c B A,}1] qua [A'-tr Gn] rest
+=3 qua [f' F B] qua. [c' smq B A Gn]
+|
+=1 qua. [e smq g f e] cro. d(1
+=2 smq [An B'] cro c(1 smq [c)1 B d c B Ab,]
+=3 qua [F-. An-.] rest [B, b d]
+|
+=1 qua. [d)1 smq f e d] cro. c(1
+=2 smq [Gn A] cro B(1 smq [B)1 A,{'1 c B A, G,}'1]
+=3, qua [e gn] rest [A a c]
+/
+3 bars |5b 5 5 5 5 5 5 8 8 6 8 6 8|6 6 8 6 6 6 8 6 6 8 6 6|8 6 6 6 6 6 6 6 5 5 5 6|
+|
+=1 treble 5b smq [c)1 B{1 d c B A,}1] qua Gn cro gn(1
+=2 treble 5b cro. F(2 smq [F)2 En Gn F E dsq F G]
+=3 bass 5b qua d rest d~(1 smq [d~)1 c~ b a gn f]
+|
+=1 smq [gn)1 b a g f en] [f g a c~ b d~]
+=2 cro. C(2 smq [C)2 En F A' Gn B']
+=3 smq [en{1 c, f eb d, c,}1] cro. d'(2
+|
+=1 qua [gn en f(1] smq [f)1 g qua. e smq f]
+il0.4  25
+=2 smq [En{2 Gn B' d' c' B'}2] [A' B' qua. G smq F]
+=3 qua [d')2 Gn A] [B c' c']
+/
+4 bars |5b 5 5 4 4 5 5 8 8 6 6 6 6|9 9 6 6 6 6 5 5 4 4 4 4|25 36|25 36|
+|
+=1 treble 5b smq [f gn an b c~ d~] qua [e~{1 c~ a}1]
+=2' treble 5b cro. F(2 smq [F)2 Gn An B c d]
+=3 bass 5b min. F(2
+|
+=1 qua [f#{1 e c}1] [An-. Ab-.] rest
+=2 qua [e{1 c An,}1] [F,-. f-.] rest
+=3 smq [F)2 Gn An B c' d'] qua [e-. dn-.] rest
+|
+=1 qua [Gn-. An'-.] rest [B-. c-. A,-.]
+=2 qua [B-. e-.] rest smq [d c e d c d]
+=3 qua [d-. c,-.] rest [B E F]
+|
+=1 smq [B{1 dn e d c B}1] [e{1 d f e d e}1]
+=2 min. B(1
+=3 qua [B-. A-.] rest smq [g{1 f a g f e}1]
+/
+4 bars |5b 72|4 4 4 5 4 4 7 6 6 9 9 6|4 5 4 4 4 4 6 6 6 6 9 6|9 8 8 12 9 9|
+|
+=1 treble 5b smq [f e g f e f] cro. g(1
+il0.4      30
+=2 treble 5b cro. B)1(1 smq [B')1 E{2 F G A B'}2]
+=3 bass 5b smq [dn' c e' d' c B] cro e qua rest
+|
+=1 smq [g)1 A, B c d e] cro. f(1
+=2 cro. c(1 smq [c')1 D E F Gn An']
+=3 cro A qua rest cro d qua rest
+|
+=1 smq [f)1 B An, B c d] cro. e(1
+=2 cro. B(1 smq [B')1 C D E F G]
+=3 cro g qua rest cro c qua rest
+|
+=1, smq [e)1 d f e d c] [d B qua c An-tr]
+=2 qua [A_n C F(2] smq [F)2 D qua E C-tr]
+=3 qua [f' An F] [B E F]
+/
+4 bars |5b 4 5 4 4 4 4 6 6 6 6 6 6|6 9 6 6 9 6 6 9 4 4 4 5|6 6 6 6 6 6 9 6 6 6 6 6|6 6 9 6 9 6 4 4 4 4 4 4||
+|
+=1 treble 5b smq [B b a f g e] [f a g e f d]
+=2 treble 5b cro B_ qua rest smq rest [f e c d B]
+=3 bass 5b min. B(2
+|
+=1 qua. [e smq f qua d(1] smq [d)1 e qua. c smq B]
+il0.4   35
+=2 qua. [c smq d qua B(1] smq [B)1 c qua. An, smq B]
+=3 smq [B,)2 b an f b ab] [g e qua f F,]
+| 6/8 1.17 1.2 1.23 1.26
+=1 qua. [B smq c qua d(1] smq [d)1 e qua. e smq f]
+=2 smq [B' F G E F C] [D A_n B_ A_ B_ C]
+=2 cro. blank qua blank [B_, B_,(2]
+=3 cro B qua A smq [G F] cro G
+| 6/8 1.35 1.38 1.41 1.44
+=1 min. f
+=2 smq [<B_)2 D> <D F> <C E> <A_n C> <B_ D> <G_n B_>] cro. <A_ C>
+=3 min. F
+% endmvt2
+midi pause 3.9
+
+5 systems /13 25 20-25-20/13 25 20-25-20/13 25 20-25-20/13 25 20-30-20/13 27 20-25-20/
+pagenum 12
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+7 bars |2b 3/8 3 4 4|3 4 4|4 4 3|3 3 3|4 4 4|12|4 3 5|
+| 3/8 1.0
+Il0.4        Allegro
+=1 treble 2b 3/8 cha1 vol100 leg89 cro. rest
+=2 treble 2b 3/8 cha2 vol100 qua [F, smq B A, B c]
+=3 bass 2b 3/8 cha2 vol100 qua [b d f]
+|
+=1 cro. rest
+=2 qua [d smq B d c e]
+=3 qua [B, d f]
+|
+=1 cro. rest
+=2 smq [d A, B d qua g]
+=3 qua [b g e]
+|
+=1 cro. rest
+=2 cro e-tr qua d
+=3 qua [c, f B,]
+|
+=1 cro. rest
+il0.3   5
+=2 smq [c G, A, c f d]
+=3 qua [e f d(1]
+|
+=1 cro. rest
+=2 smq [B F, G, B e c]
+=3 qua [d)1 e c,(1]
+|
+=1 cro. rest
+=2 smq [A, B qua. B-tr dsq A, B]
+=3 qua [c')1 d' B]
+/
+7 bars |2b 12| 2 2 2.4 2 3 2|4 3 3|4 4 3|2 3 2 2 2 2|4 3 3|4 3 3|
+|
+=1 treble 2b cro. rest
+=2 treble 2b smq [c' B' A' G F E]
+=3 bass 2b qua [f g a]
+|
+=1 qua [B smq f en f g]
+=2 smq [D C B_ C D En]
+=3 qua [b a g]
+|
+=1 qua [a smq f a g b]
+il0.3   10
+=2 smq [F A'] cro c(1
+=3 qua [f A, c,]
+|
+=1 smq [a en f a qua d~]
+=2 smq [c)1 G, A, c qua f(1]
+=3 qua [F f' B]
+|
+=1 cro b qua a
+=2 smq [f)1 d en g f c]
+=3 qua [G c' F]
+|
+=1 smq [g d en g c~ a]
+=2 smq [d B qua G,] rest
+=3 qua [B c' A(2]
+|
+=1 smq [f c d f b g]
+=2 smq [c' A' qua F] rest
+=3 qua [A)2 B G(2]
+/
+7 bars |2b 12|2 2.4 2 3 2 2|3 2 2 2 2 2|2 2 2 2 3 2|12|10|12|
+|
+=1 treble 2b smq [en f qua. f-tr dsq e f]
+il0.4      15
+=2 treble 2b smq [B' G C F A' c']
+=3 bass 2b qua [G)2 A F]
+|
+=1 smq [g f en d c B]
+=2 qua [En F G(2]
+=3 qua [c, d en]
+|
+=1 smq [A' B' A' G F G]
+=2 smq [G)2 En F G A' B']
+=3 cro f qua rest
+|
+=1 qua [A, B c(1]
+=2 smq [c' B' A' G F E]
+=3 qua [F G A]
+|
+=1 smq [c)1 A, B c d e]
+=2 smq [D E D C B_ C]
+=3 cro B qua rest
+|
+=1 smq [f e d c B A,]
+il0.3  20
+=2 qua [D En F]
+=3 qua [B A G]
+|
+=1 smq [G, A, B G, A, B]
+=2 smq [En C D E F G]
+=3 qua. [c, smq b a g]
+/
+7 bars |2b 4 3 3|12|12|12|12|16|5 4 4|
+|
+=1 treble 2b smq [c g qua. en-tr smq f]
+=2 treble 2b smq [A, d qua. G,-tr smq F,]
+=3 bass 2b smq [f b qua c~ c,]
+|
+=1 cro f qua rest
+=2 qua [F, f e]
+=3 smq [F, f g f g a]
+|
+=1 qua [B b a]
+=2 qua [d smq e d e f]
+=3 smq [b B, c, B, c, d]
+|
+=1 qua [g smq a g a b]
+il0.4  25
+=2 qua [g e d]
+=3' smq [E e f e f g]
+|
+=1 qua [c~ a g]
+=2 qua [c smq d c d e]
+=3 smq [A, a b a b c~]
+|
+=1 qua [f smq g f g a]
+=2 qua [f d c]
+=3 smq [d d~ e~ d~ e~ f~]
+|
+=1 qua [b g f]
+=2 qua [B smq c B c d]
+=3 smq [g~ g a g a b]
+/
+7 bars |2b 2 2.7 2.7 2.7 2.7 2.7|12|3.2 4 4|3.2 4 4|4 4 3|12|12|
+|
+=1 treble 2b cro. e(1
+=2 treble 2b qua [e c B]
+=3, bass 2b smq [c c~ d~ c~ d~ e~]
+|
+=1 smq [e)1 d e A, B c]
+il0.3  30
+=2 cro A' qua rest
+=3 smq [f~ f g f g a]
+|
+=1 smq [d c d F, G, A,]
+=2 qua [F, smq B A, B c]
+=3 cro B qua rest
+|
+=1 smq [B d] cro f(1
+=2 qua [d smq B d c e]
+=3 qua [b d f]
+|
+=1 smq [f)1 c d f qua b(1]
+=2 smq [d A, B d qua g]
+=3 qua [B, b e]
+|
+=1 smq [b)1 g a c~ b f]
+=2 cro e-tr qua d
+=3 qua [c, f B,]
+|
+=1 smq [g e qua c] rest
+il0.3  35
+=2 smq [c G, A, c f d]
+=3 qua [e f d(1]
+
+5 systems /13 25 20-24-20/13 30 20-23-20/13 25 20-25-20/13 25 20-30-20/13 25 20-30-20/
+pagenum 13
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+7 bars |2b  12 |2 2 1.5 1.5 1.5 3| 12|12|1.5 1.5 1.5 1.5 2.2 1.5|2 2 2 2 3 2|3 2 2 2 2 2|
+|
+=1 treble 2b smq [f d qua B] rest
+=2 treble 2b smq [B F, G, B e c]
+=3 bass 2b qua [d)1 e c,(1]
+|
+=1 smq [e c F, B d f]
+=2 smq [A, B qua. B-tr dsq A, B]
+=3 qua [c')1 d' B]
+|
+=1 qua [A, B-tr c(1]
+=2 smq [c' B' A' G F E]
+=3 qua [f g a]
+|
+=1 smq [c)1 A, B c d e]
+=2 smq [D E D C B_ C]
+=3 cro b qua rest
+|
+=1 smq [f e d c B G#,]
+il0.3  40
+=2 qua [D E-tr F(2]
+=3 qua [B, c, d]
+|
+=1 smq [G G#' Gn F E F]
+=2 smq [F)2 D E F G Ab]
+=3 cro e qua rest
+|
+=1' qua [G A-tr B]
+=2 smq [B' Ab G F E D]
+=3 qua [e d c,]
+/
+7 bars |2b 12|2 3 1.5 1.5 1.5 2.5|4 3 4|4 3 4|4 3 4|2 2 1.5 1.5 2 1.5|3 2 2 2 2 2|
+|
+=1 treble 2b smq [A' F G A' B' c']
+=2 treble 2b smq [C D E C D E]
+=3, bass 2b qua. [f smq e d c]
+|
+=1 smq [d g qua. c smq B]
+=2 smq [F, c qua. A, smq B]
+=3 smq [B, e qua f F,]
+|
+=1 qua [B smq B d qua f(1]
+il0.2  45
+=2 smq [B d qua. f smq d]
+=3 qua [B d' B]
+|
+=1 smq [f)1 d B e qua g(1]
+=2 smq [B d qua. g smq e]
+=3 qua [B, e B,]
+|
+=1 smq [g)1 e c e qua a(1]
+=2 smq [c e qua. a smq e]
+=3 qua [B, e B,]
+|
+=1 smq [a)1 f d f b ab]
+=2 smq [d f] cro b(1
+=3 qua [B, f B,]
+|
+=1 smq [g f e d c B]
+=2 smq [b)1 ab g f e d]
+=3 qua [B, e g]
+/
+7 bars |2b 2 2 3 2 1.5 1.5|4 3 3|12|10|10|12|12|
+|
+=1 treble 2b smq [e d e c qua d(1]
+il0.3      50
+=2 treble 2b smq [c B c A, qua B(1]
+=3 bass 2b qua [A, f b]
+|
+=1 smq [d)1 e qua. c-tr smq B]
+=2 smq [B)1 c qua. A,-tr smq B]
+=3 qua [e f F,]
+|
+=1 cro B qua rest
+=2 cro B qua rest
+=3 smq [B d' c' B c' d']
+|
+=1 smq rest [d e d c B]
+=2 cro. rest
+=3 qua G cro g(1
+|
+=1 smq [c A, d c B A,]
+=2 cro. rest
+=3 qua g)1 cro f#-tr
+|
+=1 qua [B G, g(1]
+il0.01   55
+=2 smq rest [d e d c B]
+=3 smq [g B, qua c,] rest
+|
+=1 qua g)1 cro f#
+=2 smq [c A, d c B A,]
+=3 smq [a c, qua d] rest
+/
+7 bars |2b 13|13|4 4 3|4 3 3|2 2 2 3 2 2|3 2 2 2 2 2|2 2 3 2 2 2|
+|
+=1 treble 2b smq [g B qua c] rest
+=2 treble 2b qua [B G, g(1]
+=3 bass 2b smq rest' [d~ e~ d~ c~ b]
+|
+=1 smq [a c qua d] rest
+=2 qua g)1 cro f#-tr
+=3 smq [c~ a d~ c~ b a]
+|
+=1 smq [b a g f e d]
+=2 smq [g B qua c] rest
+=3 qua [g e~ c~]
+|
+=1 smq [c e d c B A,]
+il0.3      60
+=2 smq [a c qua d] rest
+=3 qua [a f# d]
+|
+=1 qua G cro b(1
+=2 smq [b a g f en d]
+=3 qua [G, d g]
+|
+=1 qua [b)1 g en]
+=2 smq [c en g b a g]
+=3 cro en-tr qua c
+|
+=1 qua c cro a(1
+=2 smq [a g f en d c]
+=3 qua [F c' f']
+/
+7 bars |2b 12|2 3 2 3 3 2|3 3 2 2 2 2|12|3 2 2 2 2 2|12|3 2 2 2 2 2|
+|
+=1 treble 2b qua [a)1 f d]
+=2 treble 2b smq [B d f a g f]
+I0.1          tr #
+=3 bass 2b cro d qua B
+|
+=1 qua B cro g(1
+il0.4       65
+=2 smq [g f en d c# Bn]
+=3 qua [En G en']
+|
+=1 qua [g)1 en c#]
+=2 smq [A, c# en g f e]
+=3 cro c#'-tr qua A
+|
+=1 smq [A, c#] cro d(1
+=2 cro. f
+=3 smq [d a b a g f]
+|
+=1 qua d)1 cro c#-tr
+=2 cro. en-tr
+=3 smq [g en a g f e]
+|
+=1 cro d qua rest
+=2' smq [d A B A G F]
+=3 qua [f d d~(1]
+|
+=1 cro. rest
+il0.5      70
+=2 smq [G En A' G F E]
+=3 qua d~)1 cro c~#-tr
+
+5 systems /13 25 20-28-20/13 25 20-25-20/13 25 20-25-20/13 25 20-30-20/13 25 20-25-20/
+pagenum 14
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+7 bars |2b 4 3 3|4 3 3|3 2 3 2 2 2|3 2 2 2 2 2|3 2 1.5 1.5 1.5 1.5|9|9|
+|
+=1 treble 2b smq rest' [a b a g f]
+=2 treble 2b qua [F D d'(1]
+=3 bass 2b smq [d~ f qua g] rest'
+|
+=1 smq [g en a g f e]
+=2 qua d)1 cro c#
+=3 smq [e~n g qua a] rest'
+|
+=1 qua [f a d~(1]
+=2 smq [d c# d en f d]
+=3 smq [f~ e~n d~ c~ b a]
+|
+=1 qua d~)1 cro c~#
+=2 smq [en f g b a g]
+=3 smq [g en a g f e]
+|
+=1 smq [d~ c~ b a g f]
+il0.3      75
+=2 smq [f en] cro d(1
+=3 qua [d f b]
+|
+=1 smq [en g b d~ c~ b]
+=2, qua [d)1 B G]
+=3 cro g-tr qua en
+|
+=1 smq [c~ b a g f en]
+=2 qua En cro c(1
+=3 qua [A, en a]
+/
+7 bars |2b 9|9|9|1.5 1.5 2.5 2 2 2|3 4 4|3 2 2 2 1.5 1.5|9|
+|
+=1 treble 2b smq [d f a c~ b a]
+=2 treble 2b qua [c)1 A, F,]
+=3 bass 2b cro f-tr qua d
+|
+=1 smq [b a g f en d]
+=2 qua D cro B(1
+=3 qua [G, d g]
+|
+=1 smq [c en g b a g]
+il0.4         80
+=2 qua [B')1 G En]
+=3 cro en-tr qua c
+|
+=1 smq [a b c~ c d en]
+=2 qua [C smq F En F G]
+=3' qua [f A c]
+|
+=1 smq [f a] cro c~(1
+=2 qua [A' smq F A' G B']
+=3 qua [F A c']
+|
+=1 smq [c~)1 g a c~ qua f(1]
+=2 smq [A, En, F, A, qua d]
+=3 qua [f A, B,]
+|
+=1 smq [f)1 d en g f c]
+=2 cro B-tr qua A,
+=3 qua [G c' F]
+/
+6 bars |2b  2 3 2 2 2 2|12|2 2 1.5 1.5 1.5 3|2 3 2 2 2 2|2 2 2 2 3 2|12|
+|
+=1 treble 2b smq [d B qua g] rest
+il0.4    85
+=2 treble 2b smq [G D En G c' A']
+=3 bass 2b qua [B c' A(2]
+|
+=1 smq [c A, qua f] rest
+=2 smq [F C D F B' G]
+=3 qua [A)2 B G(2]
+|
+=1 smq [b g c f a c~]
+=2 smq [En F qua. F-tr dsq E F]
+=3 qua [G)2 A F]
+|
+=1 qua [en f g]
+=2 smq [G F En D C B_]
+=3 cro c' qua rest
+|
+=1 qua [c c~ b]
+=2 cro A_ qua rest
+=3 smq rest [c, d c, d en]
+|
+=1 qua [a smq b a b c~]
+il0.3    90
+=2 qua [F, f e]
+=3 smq [F, f g f g a]
+/
+6 bars |2b 15|3 2 2 2 2 2|2 2 2 2 3 2|2 3 2 2 2 2|12|2 2 2.5 2 3 2|
+|
+=1 treble 2b qua [d~ b a]
+=2 treble 2b qua [d smq en d e f]
+=3 bass 2b smq [B, b c~ b c~ d~]
+|
+=1 qua [g smq a g a b]
+=2 qua [g en d]
+=3 smq [e~n en f e f g]
+|
+=1 qua [c~ a g]
+=2 qua [c smq d c d en]
+=3 smq [A, a b a b c~]
+|
+=1 qua [f smq g f g a]
+=2 qua [f d c]
+=3 smq [d~ d en d e f]
+|
+=1 qua [b g f]
+il0.3    95
+=2 cro. B(1
+=3 smq [G, g a g a b]
+|
+=1 cro en qua rest
+=2 smq [B')1 A' B' En F G]
+=3, smq [c~ c d c d en]
+/
+6 bars |2b 4 4 4 4 6 4|8 6 6|8 8 6|4 6 4 4 4 4|8 6 6|8 6 6|
+|
+=1 treble 2b qua [c smq f en f g]
+=2 treble 2b smq [A' G A' C D En]
+=3 bass 2b cro F qua rest
+|
+=1 qua [a smq f a g b]
+=2 smq [F A'] cro c(1
+=3 qua [F A c']
+|
+=1 smq [a en f a qua d~]
+=2 smq [c)1 G, A, c qua f(1]
+=3 qua [f A, B,]
+|
+=1 cro b qua a
+il0.3    100
+=2 smq [f)1 d en g f c]
+=3 qua [G c' F]
+|
+=1 smq [g d en g c~ a]
+=2 smq [d B qua g] rest'
+=3 qua [B c' A(2]
+|
+=1 smq [f c d f b g]
+=2 smq [c A, qua f] rest
+=3 qua [A)2 B G(2]
+
+5 systems /13 25 20-28-20/13 20 20-30-20/13 25 20-25-20/13 25 20-25-20/13 30 20-25-20/
+pagenum 15
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+7 bars |2b 12|10|3 2 2 2 2 2|2 2 2 2 3 2|12|10|12|
+|
+=1 treble 2b smq [en f qua. f-tr dsq e f]
+=2 treble 2b smq [B' G C F A' c']
+=3 bass 2b qua [G)2 A F]
+|
+=1 smq [g f en d c B]
+=2 qua [En F G(2]
+=3 qua [c, d en]
+|
+=1 smq [A' B' A' G F G]
+il0.4    105
+=2 smq [G)2 En F G A' B']
+=3 cro f qua rest
+|
+=1 qua [A, B-tr c(1]
+=2 smq [c' B' A' G F E]
+=3 qua [f g a]
+|
+=1 smq [c)1 A, B c d e]
+=2 smq [D E D C B_ C]
+=3 cro b qua rest
+|
+=1 smq [f e d c B A,]
+=2 qua [D En F]
+=3 qua [B A G]
+|
+=1 smq [G, A, B G, A, B]
+=2 smq [En C D E F G]
+=3 qua. [c, smq b a g]
+/
+6 bars |2b 8 6 6|6 4 4 4 3 3|8 8 6|4 4 4 6 3 3|4 4 4 4 6 4|24|
+|
+=1 treble 2b smq [c g qua. en smq f]
+il0.3      110
+=2 treble 2b smq [A, d qua. G, smq F,]
+=3 bass 2b smq [f b qua c~ c,]
+|
+=1 smq [f a qua. c~ smq a]
+=2 smq [F En F A' qua c'(1]
+=3 qua [f a f]
+|
+=1 smq [f a qua. d~ smq b]
+=2 smq [c)1 A, F, B qua d(1]
+=3 qua [f b f]
+|
+=1 smq [g b qua. e~n smq b]
+=2 smq [d)1 B G, B qua en(1]
+=3 qua [f b f]
+|
+=1 smq [a c~] cro f~(1
+=2 smq [en)1 c A, c f eb]
+=3 qua [f c~ f]
+|
+=1 smq [f~)1 e~n d~ c~ b a]
+il0.3    115
+=2 smq [d c B A, G, F,]
+=3 qua [f b d~]
+/
+7 bars |2b 8 8 6|8 6 12|4 4 6 4 4 4|24|4 4 4 6 4 4|7 8 8|6 6 9|
+|
+=1 treble 2b smq [g f g en qua f(1]
+=2 treble 2b smq [B A, B G, qua A,(1]
+=3 bass 2b qua [en c, f]
+|
+=1 smq [f)1 g qua. en smq f]
+=2 smq [A')1 B' qua. G smq F]
+=3 qua [b c~ c,] treble
+|
+=1 cro f qua rest
+=2 qua [F A' Bn']
+=3 smq [F_ C F E D F]
+|
+=1 cro. rest
+=2 qua [c d e]
+=3 smq [E G F E D C]
+|
+=1 cro. rest
+il0.4 120
+=2 qua [Bn ab g]
+=3 smq [D E F D B_n D]
+|
+=1 cro. rest
+=2 qua [f smq g f e d]
+=3 qua [G_ B_n G_]
+|
+=1 qua rest [G A']
+=2 cro. e-tr
+=3 cro C qua rest bass
+/
+7 bars |2b 18|3 4 6 4 6 4|24|4 4 6 4 4 4|6 5 5 6 4 4|20|6 4 4 4 4 4|
+|
+=1 treble 2b qua [B c c#]
+=2 treble 2b cro. en-tr
+=3 bass 2b cro c qua rest
+|
+=1 qua [A, gb f]
+=2 qua [f smq e db c B]
+=3 cro f qua rest
+|
+=1 qua [e smq f e db c]
+il0.3    125
+=2 smq [A, B c A, F, A,]
+=3 cro F qua rest
+|
+=1 cro. c#-tr
+=2 smq [B f b ab g f]
+=3 qua [B, f b(1]
+|
+=1 cro. c(1-tr
+=2 smq [en f g e c e]
+=3 smq [b)1 d~b c~ b ab g]
+|
+=1 smq [c)1 c f e d c]
+=2 cro. f(1-tr
+=3 qua [ab d f]
+|
+=1 smq [Bn c d B G, B]
+=2 cro. f)1(1
+=3 smq [g ab g f e d]
+/
+6 bars |2b 6 8 6|18|4 4 4 6 4 4|6 6 6 4 4 4|4 4 6 6 4 4|4 6 4 6 4 4|
+|
+=1 treble 2b smq [c g c~ b a g]
+il0.3            130
+=2 treble 2b qua [f)1 smq e d qua e(1]
+=3 bass 2b cro c qua rest
+|
+=1 smq [f# g a f d f]
+=2 qua [e)1 d c]
+=3 cro d qua rest
+|
+=1 cro. g(1-tr
+=2 smq [B A, B d c B]
+=3 smq [G, d g f en d]
+|
+=1 cro. g)1(1
+=2 smq [A, Bn c# en c A,]
+=3' smq [c# d en c A c]
+|
+=1 qua [g)1 smq f en qua f(1]
+=2 cro D qua rest
+=3 smq [d a d~ c~ bn a]
+|
+=1 qua [f)1 en d]
+il0.3    135
+=2 cro. rest
+=3 smq [g# a bn g en g]
+
+5 systems /13 25 20-28-20/13 20 20-30-20/13 25 20-30-20/13 30 20-25-20/13 30 20-30-20/
+pagenum 16
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+6 bars |2b 20|20|24|24|20|20|
+|
+=1 treble 2b cro. c-tr
+=2 treble 2b qua rest [En F#]
+=3 bass 2b cro a qua rest
+|
+=1 cro. c#-tr
+=2 qua [G A' B']
+=3 cro A qua rest
+|
+=1 qua d rest rest
+=2 qua [F#, e d]
+=3 smq [d d~ c~ b a g]
+|
+=1 cro. rest
+=2 qua [c smq d c B A,]
+=3 smq [f# g a f d f]
+|
+=1 qua rest [d en]
+il0.3      140
+=2 cro. B-tr
+=3 cro g qua rest
+|
+=1 qua [f g g#]
+=2 cro. Bn-tr
+=3 cro G qua rest
+/
+6 bars |2b  3 3 6 4 4 4|24|4 4 6 4 4 4|6 4 4 4 4 4|20|24|
+|
+=1 treble 2b qua [en d~b c~]
+=2' treble 2b qua [c smq B Ab G F]
+=3 bass 2b cro c qua rest
+|
+=1 qua [b smq c~ b ab g]
+=2 smq [En F G E C E]
+=3 cro c~ qua rest'
+|
+=1 cro. g#-tr
+=2 smq [F, c f eb d c]
+=3 qua [f F, f(1]
+|
+=1 cro. g(1-tr
+il0.3    145
+=2 smq [Bn c d B G, B]
+=3 smq [f)1 ab g f e d]
+|
+=1 smq [g)1 g c~ b a g]
+=2 cro. c(1-tr
+=3 qua [e' A c']
+|
+=1 smq [f# g a f d f]
+=2 cro. c)1(1
+=3 smq [d e d c, B, A,]
+/
+6 bars |2b 6 8 6|19|6 4 4 4 4 4|4 6 4 4 4 4|4 4 4 4 6 4|4 3 6 4 3.5 3.5|
+|
+=1 treble 2b smq [g d g f en d]
+=2 treble 2b qua [c)1 smq B A, qua B(1]
+=3 bass 2b qua [G, g] rest
+|
+=1 smq [c# d en c A, c]
+=2 qua [B)1 A, en(1]
+=3 qua [a c#,] rest
+|
+=1 qua [f d g]
+il0.3    150
+=2 qua [en)1 A, d(1]
+=3 smq [d en f d B, G,]
+|
+=1 qua [en c f]
+=2 qua [d)1 G, c(1]
+=3 smq [c' d' en' c' A F]
+|
+=1 qua [d smq g f en d]
+=2 qua [c)1 smq B A, qua B(1]
+=3 smq [B c' d' B G En]
+|
+=1 smq [c# en qua. a smq c]
+=2 qua [B')1 smq C# En qua A'(2]
+=3 qua [A, g A,]
+/
+6 bars |2b  3.5 3.5 4 6 3 3.5|3.5 3.5 4 6 3 3.5|4 4 6 4 4 4|6 4 4 4 4 4|4 4 6 4 4 4|4 6 4 6 4 4|
+|
+=1 treble 2b smq [d f qua. bn smq d]
+=2 treble 2b qua [A')2 smq D F qua Bn'(2]
+=3 bass 2b qua [A f' A]
+|
+=1 smq [en g qua. c~# smq e]
+il0.5    155
+=2 qua [Bn')2 smq En G qua c#'(2]
+=3 qua [A en' A]
+|
+=1 smq [f a qua. d~ smq c~]
+=2 qua [c#)2 smq F, A, qua d(1]
+=3 smq [a g f en f d]
+|
+=1 smq [b a g f en d]
+=2 smq [d)1 c B A, G, F,]
+=3 qua [g a b]
+|
+=1 smq [g f g en qua f(1]
+=2 smq [En D E C# D C]
+=3 qua [c#' A d']
+|
+=1 smq [f)1 g qua. g smq a]
+=2 smq [D F En D C# D]
+=3 qua c' cro B-tr
+/
+6 bars |2b 6 4 4 4 6 4|6 6 4 6 4 4|24|6 4 4 4 4 4|19|8 6 6|
+|
+=1 treble 2b cro. a(1
+il0.4       160
+=2, treble 2b smq [C# en f e d c#]
+=3 bass 2b cro A qua rest
+|
+=1 qua a)1 cro g(1
+=2 smq [d Bn en d c# B]
+=3 cro. rest
+|
+=1 qua g)1 cro f
+=2 smq [c# A, d c qua d(1]
+=3 smq rest' [a b a g f]
+|
+=1 cro. en(1-tr
+=2 qua [d)1 c# en]
+=3 smq [g en a g f e]
+|
+=1 smq [en)1 A, d c B A,]
+=2 cro. A'(2
+=3 qua [f f# d]
+|
+=1 smq [B G, c B A, G,]
+il0.3    165
+=2 smq [A')2 D] cro G(2
+=3 qua [g en d]
+
+5 systems /13 25 20-28-20/13 25 20-25-20/13 25 20-30-20/13 25 20-25-20/13 30 20-25-20/
+pagenum 17
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+5 bars |2b 6 4 4 4 4 4|6 4 4 4 4 4|24|24|4 6 4 4 4 4|
+|
+=1 treble 2b cro. A,(1
+=2 treble 2b smq [G)2 En A' G F E]
+=3 bass 2b qua [c#' A c']
+|
+=1 qua [A,)1 smq d c# d en]
+=2 smq [F En D E F G]
+=3 qua [d f a]
+|
+=1 qua [f smq d f en g]
+=2 smq [A' G F A' G B']
+=3 cro d~ qua rest'
+|
+=1 smq [f c# d f qua b]
+=2 smq [A, G, F, A, d f]
+=3 cro d qua rest
+|
+=1 cro g qua f
+il0.3    170
+=2 smq [en d c# e d f]
+=3 cro D qua rest
+/
+5 bars |2b 24|4 6 4 4 4 4|6 4 3.5 3.5 3.5 4|18|4 6 4 4 4 4|
+|
+=1 treble 2b smq [g f en g f d]
+=2 treble 2b smq [B' A' G B' A' F]
+=3 bass 2b cro. rest
+|
+=1 qua. [c# smq c qua d(1]
+=2 qua. [En smq E A' F]
+=3 smq [g f en g f d]
+|
+=1 smq [d)1 en qua. c# smq d]
+=2 dsq [En F smq G qua. E smq D]
+=3 smq [b g qua a A,]
+|
+=1 qua [d A, Bn]
+=2 cro D qua rest
+=3 cro d qua rest
+|
+=1 qua [c d e]
+il0.2  175
+=2 cro. rest
+=3 smq rest' [f~ e~ d~ c~ b]
+/
+6 bars |2b 24|20|3.5 3.5 5 4 4 4|6 8 8|5 4 4 4.5 3 3|20|
+|
+=1 treble 2b qua [Bn ab g]
+=2 treble 2b cro. rest
+=3, bass 2b smq [ab g f e d c]
+|
+=1 qua [f smq g f e d]
+=2 cro. rest
+=3 qua [Bn G B]
+|
+=1 smq [e d c d e f]
+=2 qua [G, smq c Bn c d]
+=3 cro c' qua rest
+|
+=1 smq [g f e g f g#]
+=2 qua [e smq c e d f]
+=3 cro c~ qua rest'
+|
+=1 smq [g f e g c~ e~]
+il0.3    180
+=2 smq [e Bn c e qua ab]
+=3 cro c' qua rest
+|
+=1 smq [d~ c~ bn d~ c~ g]
+=2 cro f-tr qua e
+=3 cro c~ qua rest
+/
+6 bars |2b 4 4 6 4 4 4|20|20|20|20|3.4 3.4 4 6 4 4|
+|
+=1 treble 2b qua b cro ab(1
+=2 treble 2b smq [en c f eb d c]
+=3 bass 2b cro c' qua rest
+|
+=1 smq [ab)1 d g f e d]
+=2 cro. Bn-tr
+=3 cro c~ qua rest
+|
+=1 cro. e-tr
+=2' qua [c G Ab]
+=3 cro c' qua rest
+|
+=1 cro. en-tr
+il0.3    185
+=2 qua [B c db]
+=3 cro c~ qua rest
+|
+=1 qua f rest rest
+=2 qua [A, gb f]
+=3 cro f qua rest
+|
+=1 cro. rest
+=2 qua [e smq f e db c]
+=3 qua [F A F]
+/
+6 bars |2b 24|4 6 4 4 6 4|4 6 4 4 4 4|4 6 4 4 4 4|4 4 4 4 3 3|4 4 4 6 4 4|
+|
+=1' treble 2b qua [F smq B A B c]
+=2 treble 2b smq [db c B c d e]
+=3 bass 2b cro B qua rest
+|
+=1 qua [db smq B d c e]
+=2 smq [f e db f e gb]
+=3 cro b qua rest
+|
+=1 smq [db A, B c qua gb]
+il0.3    190
+=2 smq [f e db f B c]
+=3 cro B qua rest
+|
+=1 cro e-tr qua c#
+=2' smq [c B An c B F]
+=3 cro b qua rest
+|
+=1 smq [d B e db c B]
+=2 qua Ab cro Gb(2
+=3 cro B qua rest
+|
+=1 cro A(2-tr smq [A)2 dsq G A]
+=2 smq [Gb)2 C F E Db C]
+=3 cro b qua rest
+
+5 systems /13 25 20-28-20/13 25 20-25-20/13 25 20-25-20/13 25 20-25-20/13 25 20-35-20/
+pagenum 18
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+6 bars |2b 4 4 3 3 4 6|4 5 4 4 5 4|5 4 5 4 4 4|5 4 4 5 3.5 3.5|7 8 7|19|
+|
+=1 treble 2b smq [B db c B A, B]
+=2 treble 2b smq [Db E qua. E dsq D E]
+=3 bass 2b smq qua B cro Gb
+|
+=1 qua A rest rest
+il0.3    195
+=2 smq [F, c db c B A,]
+=3 qua F cro f(1
+|
+=1 cro. rest
+=2 smq [B G, c B A, G,]
+=3 qua [f)1 smq e db qua e(1]
+|
+=1 smq rest [f gb f e db]
+=2 smq [A, F, B A, qua B(1]
+=3 smq [e)1 db e f qua gb]
+|
+=1 smq [e c f e db c]
+=2 qua [B)1 smq A, G, qua A,]
+=3 qua [c, smq db e qua f]
+|
+=1 smq [db e f gb ab f]
+=2 cro. B(1
+=3 qua [B c' d']
+/
+6 bars |2b 4 4 5 4 4 4|5 4 3.5 3.5 3.5 3.5|8 7 7|8 7 7|8 7 7|20|
+|
+=1 treble 2b smq [gb f g a b c~]
+il0.4       200
+=2 treble 2b smq [B)1 f e db c B]
+=3 bass 2b qua [e f gb]
+|
+=1 qua. [a smq c~ a f]
+=2 smq [e db qua e] rest
+=3 qua [f F, f]
+|
+=1 qua. [b smq f db B]
+=2 smq [db c qua d] rest
+=3 qua [f G, f]
+|
+=1 qua. [e smq c A, F,]
+=2 smq [c B qua c] rest
+=3 qua [f A, f]
+|
+=1 qua. [db smq B c f]
+=2 smq [B A, qua B] rest
+=3 qua [f B, f]
+|
+=1 smq [gb d e f qua bn]
+il0.3  205
+=2 qua rest [B gb]
+=3 qua [e' E e'(1]
+/
+6 bars |2b 5 4 4 5 5 3|4 5.3 4 4 4 4|4 4 4 5 4 3 \
+ |3.2 3.2 4 4 4 3 |3.2 3.2 4 4 4 3| 8 8 6|
+|
+=1 treble 2b qua. [a-tr dsq g a qua b(1]
+=2 treble 2b qua. [c smq e f c]
+=3, bass 2b smq [e)1 gb f c db An]
+|
+=1 smq [b)1 dsq a b qua. b-tr dsq a b]
+=2 smq [db f e d c B]
+=3 smq [B F] cro Gb
+|
+=1 cro. c~
+=2' smq [A B qua c F(1]
+=3' qua [F smq f e dn c]
+|
+=1 cro. rest
+=2 qua [F,)1 smq B A, B c]
+=3 qua [B, d f]
+|
+=1 cro. rest
+il0.4  210
+=2 qua [d smq B d c e]
+=3 qua [b d f]
+|
+=1 cro. rest
+=2 smq [d A, B d qua g]
+=3 qua [B, g e]
+/
+6 bars |2b 20|24|24|4 4 3.5 3.5 3 5.5|8 8 7|8 8 7|
+|
+=1 treble 2b cro. rest
+=2 treble 2b cro e-tr qua d
+=3 bass 2b qua [c, f B,]
+|
+=1 cro. rest
+=2 smq [c G, A, c f d]
+=3 qua [e f d(1]
+|
+=1 cro. rest
+=2 smq [B F, G, B e c]
+=3 qua [d)1 e c,]
+|
+=1 qua [c smq f en f g]
+il0.3    215
+=2 smq [A, B qua. B dsq A, B]
+=3 qua [f d B,]
+|
+=1 qua [a smq f a g b]
+=2 smq [c B A, B qua c(1]
+=3 qua [F, f en]
+|
+=1 smq [a en f a qua d~]
+=2 smq [c)1 G, A, c qua f(1]
+=3 qua f rest B
+/
+6 bars |2b 4 6 4 3.5 3.5|20|20|24|24|24|
+|
+=1 treble 2b cro b-tr qua a
+=2 treble 2b smq [f)1 d en g qua f(1]
+=3 bass 2b qua [G c' f']
+|
+=1 smq [g d e g c~ a]
+=2 qua [f)1 G, e(1]
+=3 qua [Bn c' Bb]
+|
+=1 smq [f c d f b g]
+il0.3    220
+=2 qua [e)1 F, d(1]
+=3 qua [A B A]
+|
+=1 cro. e(1
+=2 smq [d)1 F, G, B e c]
+=3 qua [G e' c']
+|
+=1 qua [e)1 smq d c qua d(1]
+=2 smq [A' E F A' d' B']
+=3 qua [f b g]
+|
+=1 qua [d)1 c e(1]
+=2 smq [g f e d c B]
+=3 qua e rest rest
+
+5 systems /13 25 20-25-20/13 25 20-25-20/13 25 20-25-20/13 25 20-25-20/13 25 20-30-20/
+pagenum 19
+innerhead J. S. Bach, Flute Sonata BWV 1032, transposed for Alto Recorder
+leftfoot Arrangement (c) 1999 Peter J Billam
+/
+6 bars |2b 24|24|24|24|24|24|
+|
+=1 treble 2b qua [e)1 A, c(1]
+=2 treble 2b smq [A, c e g f e]
+=3 bass 2b qua f rest rest
+|
+=1 qua [c)1 B d(1]
+il0.3    225
+=2 smq [f e d c B A,]
+=3 qua d rest rest
+|
+=1 qua [d)1 G, B(1]
+=2 smq [G, B d f e d]
+=3 qua e rest rest
+|
+=1 qua [B)1 A, c(1]
+=2 smq [e d c B A, G,]
+=3 qua c rest rest
+|
+=1 qua [c)1 F,] rest
+=2 smq [F, A, c e d c]
+=3 qua [A, a f]
+|
+=1 qua [F, smq B A, B c]
+=2 smq [d e f A, B c]
+=3 qua [b smq d e d c,]
+/
+7 bars |2b 6 8 8|8 8 6|18|24|24|4 4 3 3 3 6|24|
+|
+=1 treble 2b qua [d smq B d c e]
+il0.3     230
+=2 treble 2b qua [d smq B d c e]
+=3 bass 2b qua [B, d f]
+|
+=1 smq [d A, B d qua g]
+=2 smq [d A, B d qua g]
+=3 qua [b d~ e~]
+|
+=1 cro e-tr qua d
+=2 cro e-tr qua d
+=3 qua [c~ f b]
+|
+=1 smq [c G, A, c f d]
+=2 smq [c G, A, c f d]
+=3 qua [e f d(1]
+|
+=1 smq [B F, G, B e c]
+=2 smq [B F, G, B e c]
+=3 qua [d)1 e c,(1]
+|
+=1' smq [A B qua. B dsq A B]
+il0.2    235
+=2 smq [A, B qua. B dsq A, B]
+=3 qua [c')1 d' B]
+|
+=1 cro c qua rest
+=2 smq [c' B' A' G F E]
+=3 qua [f g a]
+/
+6 bars |2b 24|24|24|24|24|24|
+|
+=1 treble 2b smq [f~ e~ d~ c~ b a]
+=2 treble 2b smq [D F A' c' F A']
+=3 bass 2b cro b qua rest'
+|
+=1 smq [g b d~ f~ b d~]
+=2 smq [B' A' G F E D]
+=3 qua rest' [b g]
+|
+=1 smq [e~ d~ c~ b a g]
+=2 smq [C E G B' E G]
+=3 cro c~ qua rest'
+|
+=1 smq [f a c~ e~ a c~]
+il0.5    240
+=2 smq [A' G F E D C]
+=3 qua rest' [a f]
+|
+=1 smq [d~ c~ b a g f]
+=2 smq [B_ D F A' D F]
+=3 cro b qua rest
+|
+=1 smq [e g b d~ g b]
+=2 smq [G F E D C B_]
+=3 qua rest' smq [g f e d]
+/
+6 bars |2b 24|24|24|24|8 7 8|7 8 7|
+|
+=1 treble 2b smq [c~ b a g f e]
+=2 treble 2b smq [A_ C F G A' F]
+=3 bass 2b smq [c, g f e d c,]
+|
+=1 cro d qua rest
+=2 cro B qua rest
+=3 smq [B, f b a g f]
+|
+=1 cro c qua rest
+il0.3    245
+=2 cro B qua rest
+=3 smq [e g c~ b a g]
+|
+=1 qua. [e smq f qua d(1]
+=2 smq [A, B qua. c smq F,]
+=3 qua [f smq rest A, B, d]
+|
+=1 smq [d)1 e qua. c smq B]
+=2 smq [B c qua. A, smq B]
+=3 smq [g e qua f F,]
+|
+=1 smq [B d qua. f smq d]
+=2 qua [B' smq B_ D qua F(2]
+=3 qua [B d' B]
+/
+7 bars |2b 8 8 6|8 8 6|24|24|8 8 6|8 6 8|16||
+|
+=1 treble 2b smq [B d qua. g smq e]
+=2 treble 2b smq [F)2 D B_ E qua G(2]
+=3 bass 2b qua [B, e B,]
+|
+=1 smq [c e qua. a smq e]
+il0.5     250
+=2 smq [G)2 E C E qua A'(2]
+=3 qua [B, e B,]
+|
+=1 smq [d f] cro b(1
+=2 smq [A')2 F D F B' A']
+=3 qua [B, f B,]
+|
+=1 smq [b)1 a g f e d]
+=2 smq [G F E D C B_]
+=3 qua [B, e g]
+| 3/8 .34 .35 .36
+=1 smq [c B c A, qua B(1]
+=2 smq [E D E C qua D(2]
+=3 qua [A, f b]
+| 3/8 .37 .38 .39
+=1 smq [B)1 c qua. A, smq B]
+=2 smq [D)2 E qua. C smq B_]
+=3 qua [e f F,]
+| 3/8 1.5
+=1 cro. B-fermata
+=2 cro. B_-fermata
+=3 cro. B-fermata

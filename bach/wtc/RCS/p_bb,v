@@ -1,10 +1,15 @@
-head	1.4;
+head	1.5;
 access;
 symbols;
 locks
-	pjb:1.4; strict;
+	pjb:1.5; strict;
 comment	@# @;
 
+
+1.5
+date	2014.05.19.00.50.26;	author pjb;	state Exp;
+branches;
+next	1.4;
 
 1.4
 date	2012.09.20.03.33.47;	author pjb;	state Exp;
@@ -32,9 +37,9 @@ desc
 @
 
 
-1.4
+1.5
 log
-@up to end
+@tiny tweaks to bars 4 and 6
 @
 text
 @
@@ -67,7 +72,7 @@ midi channel 1 bank 0 patch 0 pan 20
 =2' 8 b 4. blank 8 [g~n g~b] rest''' g~
 =2, 8 [b 16 b c~] 8 [d~ d~] [d~-s4, 16 c~ d~] 8 [e~ e~]
 |
-=1' 8 [An-s2 f(1-s1-s5] [f)1-s1-s(5) 16 gn-s3 an] 4. b-s5 16 [an-s3 b]
+=1' 8 [An-s2 f(1-s1-s5] [f)1-s1-s(5) 16 gn-s3 an] 4. b 16 [an-s3 b]
 =1, 8 [F 16 B c---s2] 4. d 16 [c-s1 d-s2] 4 e(2-s1
 =2' 4 f~-s1,-s3, 8 rest''' f~-s2, 2 g~(1
 =2, 8 [e~r 16 d~ e~] 8 [f~ f~(2] [f~r)2 16 e~-s3, d~-s4,] 8 [c~-s5, b-s4,]
@@ -81,9 +86,14 @@ il0.8  5
 =2' 8 g~)1 2.. blank
 =2, 4. an 16 [a b] 4. c~ 16 [c~-s5, d~]
 |
-=1' 1 f('1-s"    2-5"
-=1' 8 [cr)4 16 An-s1 B-s2] 8 [c-s1 16 c d-s3] \
- 8 [e 16 c-s1-s3 d-s2-s4] 4 e(3-s2-s4
+rs1.12 .650 3
+rs0.85 .653 1
+rs1.1 .700 4
+rs0.8 .703 2
+rs1.0 .750 4
+rs0.7 .753 1
+=1' 1 f('1--s"   2-5"
+=1' 8 [cr)4 16 An-s1 B-s2] 8 [c-s1 16 c d-s3] 8 [e 16 c d] 4 e(3
 =1, 8 [Ar)2 16 F-s1, Gn-s2,] 4. An-s1, 16 [A B] 8 [c 16 B---s2 A---s1]
 =2, 4. e~-s3, 16 [e~-s2, d~-s3,] 8 [c~-s4, 16 c~-s1, b] 8 [an 16 gn f]
 /
@@ -219,6 +229,22 @@ il0.6 .33 20
  vol-10 [<E)2 G)3> vol-10 16 <Dn F-s2-s3> <C E-s1-s2>] 2 vol-10 <D F>
 =2' vol95 8 [dn 16 e f] vol-10 8 [g vol-10 g] 2 vol-10 f
 =2, vol95 8 [B B] vol-10 [B vol-10 B] 2 vol-10 B
+@
+
+
+1.4
+log
+@up to end
+@
+text
+@d31 1
+a31 1
+=1' 8 [An-s2 f(1-s1-s5] [f)1-s1-s(5) 16 gn-s3 an] 4. b-s5 16 [an-s3 b]
+d45 8
+a52 3
+=1' 1 f('1-s"    2-5"
+=1' 8 [cr)4 16 An-s1 B-s2] 8 [c-s1 16 c d-s3] \
+ 8 [e 16 c-s1-s3 d-s2-s4] 4 e(3-s2-s4
 @
 
 

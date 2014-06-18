@@ -8,7 +8,7 @@ USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+FREEBACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -16,30 +16,18 @@ PSCAT = /home/pbin/pscat
 NROF = /home/pbin/nrof
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-DIST = pjb3265@loki.webcity.com.au:public_html/mus/arr
 PIECE = bwv1031
 PLAY  = bwv1031
 
-dev : t.mid title.a4 p2.a4 ${PIECE}.a4 Bb_part.a4
-all : ${FREED}/bwv1031.pdf ${FREED}/bwv1031_Bb_part.pdf \
- ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf \
+dev : title.a4 p2.a4 ${PIECE}.a4 Bb_part.a4
+all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf ${SRCD}/${PIECE}.txt \
  ${XMLD}/${PIECE}.xml ${XMLD}/${PIECE}_readme.txt
 dist:
-	scp -P 2223 ${A4D}/${PIECE}.pdf  ${DIST}/a4/
-	scp -P 2223 ${USD}/${PIECE}.pdf  ${DIST}/us/
-	scp -P 2223 ${XMLD}/${PIECE}.xml ${DIST}/xml/
-	scp -P 2223 ${XMLD}/${PIECE}_readme.txt ${DIST}/xml/ 
-	scp -P 2223 ${PIECE} ${DIST}/src/${PIECE}.txt
-
-${FREED}/bwv1031.pdf : title.a4 ${WARNING} p2.a4 bwv1031.a4 ${FREEBACKPAGE}
-	groff -ms title | ${BANNERISE} > title.a4
-	${ADDMESSAGE} bwv1031.a4 \
-	| ${PSCAT} title.a4 ${WARNING} p2.a4 - ${FREEBACKPAGE} \
-	| ${A42US} -c \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${FREED}/${PIECE}_Bb_part.pdf : Bb_part.a4
-	${ADDMESSAGE} Bb_part.a4 \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+	upload ${A4D}/${PIECE}.pdf
+	upload ${USD}/${PIECE}.pdf
+	upload ${XMLD}/${PIECE}.xml
+	upload ${XMLD}/${PIECE}_readme.txt
+	upload ${SRCD}/${PIECE}.txt
 
 ${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${FREEBACKPAGE}
 	${ADDMESSAGE} ${PIECE}.a4 \

@@ -1,4 +1,28 @@
-#! /usr/bin/perl
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.02.13.10.20.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@source of all kbd title pages
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /usr/bin/perl
 my $num = $ARGV[0];
 if (! $num) { die "usage: $0 NNN  # where 1<=NNN<=13\n"; }
 while (<DATA>) { s/XXX/$num/; print; }
@@ -9,7 +33,7 @@ __DATA__
 .pl 29.7c
 .LP
 \&
-.sp 6.0c
+.sp 5.0c
 .ce 100
 \f3\s+9\s+9Contrapunctus XXX\s-9\s-9\fP
 .sp 2.0c
@@ -25,10 +49,11 @@ __DATA__
 .sp 2.0c
 \(co Peter J Billam, 2009
 .sp 0.7c
-\s-1This score is offered under the
-\f2Creative Commons Attribution 4.0 International\fP
-licence; see \f2creativecommons.org\fP\s0
+\s-1This score is offered under the \f2Creative Commons
+Attribution 4.0 International\fP licence; see \f2creativecommons.org\fP
+The copyright owner remains the composer, Peter Billam.\s0
 .sp 0.7c
 \f2\s-2This edition \*(DY.\s0\fP
-.sp 0.6c
+.sp 0.7c
 \f2www.pjb.com.au\fP
+@

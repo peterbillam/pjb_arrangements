@@ -8,7 +8,7 @@ USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-BACKPAGE = /home/pjb/mus/blurb/freebackpage
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -16,7 +16,6 @@ PSCAT = /home/pbin/pscat
 NROF = /home/pbin/nrof
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-DIST = pjb3265@loki.webcity.com.au:public_html/mus/arr
 PIECE = thron_kbd
 PLAY = pedalled
 
@@ -28,16 +27,9 @@ all : ${FREED}/${PIECE}.pdf \
 dist:
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf
-	upload ${XMLD}/${PIECE}.xml
+	# upload ${XMLD}/${PIECE}.xml
 	# upload ${XMLD}/${PIECE}_readme.txt ${DIST}/xml/ 
 	upload ${SRCD}/${PIECE}.txt
-
-${FREED}/${PIECE}.pdf : ${WARNING} p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
-	${UTF2ISO} title | groff -ms | ${BANNERISE} > title.a4
-	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 ${WARNING} p2.a4 p3.a4 - ${BACKPAGE}.a4 \
-	| ${A42US} -c \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
 
 ${A4D}/${PIECE}.pdf : title.a4 p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \

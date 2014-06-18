@@ -8,7 +8,7 @@ USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-BACKPAGE = /home/pjb/mus/blurb/freebackpage
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -16,7 +16,6 @@ PSCAT = /home/pbin/pscat
 NROF = /home/pbin/nrof
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-DIST = pjb3265@loki.webcity.com.au:public_html/mus/arr
 PIECE1 = canonica
 PIECE2 = ric3
 PIECE3 = ric6_kbd
@@ -33,39 +32,33 @@ dev : ${TITLE1}.a4 p2.a4 p3.a4 ${PIECE1}.a4 \
  ${TITLE3}.a4 ${PIECE3}.a4 \
  ${TITLE4}.a4 ${PIECE4}.a4 \
  ${TITLE5}.a4 ${PIECE5}.a4
-all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
- ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf \
- ${A4D}/${PIECE3}.pdf  ${USD}/${PIECE3}.pdf \
- ${A4D}/${PIECE4}.pdf  ${USD}/${PIECE4}.pdf \
+all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf ${SRCD}/${PIECE1}.txt \
+ ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf ${SRCD}/${PIECE2}.txt \
+ ${A4D}/${PIECE3}.pdf  ${USD}/${PIECE3}.pdf ${SRCD}/${PIECE3}.txt \
+ ${A4D}/${PIECE4}.pdf  ${USD}/${PIECE4}.pdf ${SRCD}/${PIECE4}.txt \
  ${A4D}/${PIECE5}.pdf  ${USD}/${PIECE5}.pdf ${SRCD}/${PIECE5}.txt
 dist1:
 	upload ${A4D}/${PIECE1}.pdf
 	upload ${USD}/${PIECE1}.pdf
-	scp -P 2223 ${PIECE1} ${DIST}/src/${PIECE1}.txt
+	upload ${SRCD}/${PIECE1}.txt
 dist2:
 	upload ${A4D}/${PIECE2}.pdf
 	upload ${USD}/${PIECE2}.pdf
-	scp -P 2223 ${PIECE2} ${DIST}/src/${PIECE2}.txt
+	upload ${SRCD}/${PIECE2}.txt
 dist3:
 	upload ${A4D}/${PIECE3}.pdf
 	upload ${USD}/${PIECE3}.pdf
-	scp -P 2223 ${PIECE3} ${DIST}/src/${PIECE3}.txt
+	upload ${SRCD}/${PIECE3}.txt
 dist4:
 	upload ${A4D}/${PIECE4}.pdf
 	upload ${USD}/${PIECE4}.pdf
-	scp -P 2223 ${PIECE4} ${DIST}/src/${PIECE4}.txt
+	upload ${SRCD}/${PIECE4}.txt
 dist5:
 	upload ${A4D}/${PIECE5}.pdf
 	upload ${USD}/${PIECE5}.pdf
 	upload ${SRCD}/${PIECE5}.txt
 
-${FREED}/${PIECE1}.pdf : ${WARNING} p2.a4 p3.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
-	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > ${TITLE1}.a4
-	${ADDMESSAGE} ${PIECE1}.a4 \
-	| ${PSCAT} ${TITLE1}.a4 ${WARNING} p2.a4 p3.a4 - ${BACKPAGE}.a4 \
-	| /home/pbin/a42us -c \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${A4D}/${PIECE1}.pdf : p2.a4 p3.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE1}.pdf : ${TITLE1}.a4 p2.a4 p3.a4 ${PIECE1}.a4 ${BACKPAGE}.a4
 	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > ${TITLE1}.a4
 	${ADDMESSAGE} ${PIECE1}.a4 \
 	| ${PSCAT} ${TITLE1}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
@@ -87,12 +80,7 @@ ${MP3D}/${PIECE1}.mp3 : ${PIECE1}
 	lame -h t.wav $@
 	rm t.wav
 
-${FREED}/${PIECE2}.pdf : ${WARNING} p2.a4 p3.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
-	${UTF2ISO} ${TITLE2} | groff -ms | ${BANNERISE} > ${TITLE2}.a4
-	${ADDMESSAGE} ${PIECE2}.a4 \
-	| ${PSCAT} ${TITLE2}.a4 ${WARNING} p2.a4 p3.a4 - ${BACKPAGE}.a4 \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${A4D}/${PIECE2}.pdf : p2.a4 p3.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE2}.pdf : ${TITLE2}.a4 p2.a4 p3.a4 ${PIECE2}.a4 ${BACKPAGE}.a4
 	${UTF2ISO} ${TITLE2} | groff -ms | ${BANNERISE} > ${TITLE2}.a4
 	${ADDMESSAGE} ${PIECE2}.a4 \
 	| ${PSCAT} ${TITLE2}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
@@ -114,7 +102,7 @@ ${MP3D}/${PIECE2}.mp3 : ${PIECE2}
 	lame -h t.wav $@
 	rm t.wav
 
-${A4D}/${PIECE3}.pdf : p2.a4 p3.a4 ${PIECE3}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE3}.pdf : ${TITLE3}.a4 p2.a4 p3.a4 ${PIECE3}.a4 ${BACKPAGE}.a4
 	${UTF2ISO} ${TITLE3} | groff -ms | ${BANNERISE} > ${TITLE3}.a4
 	${ADDMESSAGE} ${PIECE3}.a4 \
 	| ${PSCAT} ${TITLE3}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
@@ -137,7 +125,7 @@ ${MP3D}/${PIECE3}.mp3 : ${PIECE3}
 	lame -h t.wav $@
 	rm t.wav
 
-${A4D}/${PIECE4}.pdf : p2.a4 p3.a4 ${PIECE4}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE4}.pdf : ${TITLE4}.a4 p2.a4 p3.a4 ${PIECE4}.a4 ${BACKPAGE}.a4
 	${UTF2ISO} ${TITLE4} | groff -ms | ${BANNERISE} > ${TITLE4}.a4
 	${ADDMESSAGE} ${PIECE4}.a4 \
 	| ${PSCAT} ${TITLE4}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
@@ -160,7 +148,7 @@ ${MP3D}/${PIECE4}.mp3 : ${PIECE4}
 	lame -h t.wav $@
 	rm t.wav
 
-${A4D}/${PIECE5}.pdf : p2.a4 p3.a4 ${PIECE5}.a4 ${BACKPAGE}.a4
+${A4D}/${PIECE5}.pdf : ${TITLE5}.a4 p2.a4 p3.a4 ${PIECE5}.a4 ${BACKPAGE}.a4
 	${UTF2ISO} ${TITLE5} | groff -ms | ${BANNERISE} > ${TITLE5}.a4
 	${ADDMESSAGE} ${PIECE5}.a4 \
 	| ${PSCAT} ${TITLE5}.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \

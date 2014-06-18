@@ -1,16 +1,72 @@
-6 systems 10 /20-35-20/20-45-20/20-45-20/20-42-20/20-40-20/20-37-20/
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2014.06.18.01.26.31;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2014.06.18.01.03.45;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.06.17.11.17.45;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.06.17.09.22.40;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.06.17.08.46.55;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.06.17.06.54.37;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.06.17.01.52.39;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Zoltan Goencz' completion, fro Cm Carus Verlag
+@
+
+
+1.7
+log
+@reduce to 19-point systems, 13 pages
+@
+text
+@6 systems 10 /19-35-19/19-45-19/19-45-19/19-42-19/19-40-19/19-37-19/
 pagenum 4
 title Contrapunctus 14
-innerhead J. S. Bach, completed by D. F. Tovey
+innerhead J. S. Bach, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 midi channel 1 patch 0 pan75
 midi channel 2 patch 0 pan25
+# Zoltán Göncz "Reconstruction of the Final Contrapunctus of the Art of Fugue",
+# International Journal of Musicology, Vol.5, pp 25-93, Vol.6 pp.103-119, 1998
 /
 8 bars | 1b 2/2 4 | 4 | 3 | 3 | 3 | 4 | 4 | 4 |
-| 2/2 60
-=1 treble  1b cha1 smb rest
-=2' bass   1b cha2 smb rest'
-=2, bass   1b min rest d
+| 2/2 2.0
+=1 treble  1b leg95 cha1 smb rest
+=2' bass   1b leg95 cha2 smb rest'
+=2, bass   1b leg95 min rest d
 |
 =1 smb rest
 =2 smb rest''
@@ -179,9 +235,9 @@ il0.3       30
 =2' min b)1 a(1
 =2, min. g qua [f# e]
 
-6 systems /20-45-20/20-35-20/20-40-20/20-40-20 5/20-40-20/20-45-20/
-pagenum 5
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+6 systems /19-45-19/19-35-19/19-40-19/19-40-19 5/19-40-19/19-45-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 /
 5 bars | 1b 2 2 2 2.6 | 2 2.6 2 2 | 8 | 2 2.4 2 2 | 2 2.4 2 2 |
@@ -352,9 +408,9 @@ il0.4      60
 =2' min d~ a
 =2, smb f
 
-6 systems /20-45-20/20-35-20/20-45-20/20-40-20 5/20-40-20/20-45-20/
-pagenum 6
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+6 systems /19-45-19/19-35-19/19-45-19/19-40-19 5/19-40-19/19-45-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 /
 5 bars |1b 1 1 1.7 1.2 1 1 1 1|1 1 1.7 1.2 1 1 1 1|8|8|1 1 1.2 1.6 1 1 1 1|
@@ -525,9 +581,9 @@ il0.4      90
 =2' smb a
 =2, smb f
 
-6 systems /20-40-20/20-35-20/20-50-20/20-40-20 5/20-50-20/20-40-20/
-pagenum 7
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+6 systems /19-40-19/19-35-19/19-50-19/19-40-19 5/19-50-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 /
 5 bars |1b 1 1 1.2 1.4 1 1 1.2 1.2|2 2.4 2 2|2 2.4 2 2|2 2.4 2 2|2 2.4 2.4 2|
@@ -688,9 +744,9 @@ il0.4      120
 =2' smb rest
 =2, smb rest,
 
-5 systems /20-40-20/20-35-20/20-45-20/20-45-20/20-45-20 10/
-pagenum 8
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+5 systems /19-40-19/19-35-19/19-45-19/19-45-19/19-45-19 10/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 /
 4 bars |1b 1 1 1.3 1 1 1 1 1|1 1.3 1 1 1 1.5 1 1|1 1 1 1 1.3 1 1 1|1 2.1 1 1 1.3 1.3 1 1|
@@ -807,9 +863,9 @@ il0.4      140
 =2' min c~ c~#
 =2, qua [A a g f] [e d e g]
 
-5 systems /20-45-20/20-45-20/20-45-20/20-50-20/20-50-20/
-pagenum 9
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+5 systems /19-45-19/19-45-19/19-45-19/19-50-19/19-50-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 /
 4 bars |1b 8|8|1 1 1 1 1 1.3 1 1|8|
@@ -926,9 +982,9 @@ il0.4         160
 =2' smb e~
 =2, cro g# min a cro g
 
-5 systems /20-40-20/20-45-20/20-45-20/20-45-20/20-45-20 8/
-pagenum 10
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+5 systems /19-40-19/19-45-19/19-45-19/19-45-19/19-45-19 8/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 /
 4 bars | 1b 8 | 1 1 1.3 1 1 1 1 1 | 8 | 8 |
@@ -1046,9 +1102,9 @@ il0.5      180
 =2' smb rest'
 =2, qua [G D G A] [B A G B]
 
-6 systems /20-40-20/20-35-20/20-45-20/20-40-20/20-45-20/20-45-20/
-pagenum 11
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+6 systems /19-40-19/19-35-19/19-45-19/19-40-19/19-45-19/19-45-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
 /
 4 bars | 1b 1.3 1 1.3 1 1 1.4 1 1 | 1.3 1.3 1 1 1 1.3 1 1 | 1 2.2 1 1.3 1 1.3 1 1 | 1.3 1.3 1 1.3 1 1 1 1 |
@@ -1202,10 +1258,11 @@ il0.5      205
 =1, min. F qua [G F]
 =2, cro b f b a
 
-5 systems /20-45-20/20-50-20/20-45-20/20-45-20/20-45-20/
-pagenum 12
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+6 systems /19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
+
 /
 5 bars | 1b 1 1 1.5 1 1 1.4 1 1 |8|8| 1 1 1 1.3 1 1 1 1|.9 .9 1.2 2.7 1.4 1 1 1|
 |
@@ -1321,15 +1378,10 @@ il0.7        225
 =1, cro. Bn qua c# min d(2
 =2' min a)1(1 qua [a)1 smq g# f#] cro g(1
 =2, qua [e smq dn e] cro f(2 qua [f)2 Bn e d]
-
-5 systems /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
-pagenum 13
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
 3 bars | 1b 1 1 1 1.7 1 1.7 1 1 | 1 1.4 1 1 1 1 1 1.4 | 1 1.7 1 1 1 1.4 1 1 |
 |
-il0.4    229
+il0.6 .02 229
 =1' treble 1b min rest' cro rest'' a(1
 =1, treble 1b cro. d)2 smq [c# Bn] min c
 =2' bass   1b cro g#)1 qua [a e] [a smq bb a] qua [gn a]
@@ -1344,6 +1396,12 @@ il0.4    229
 =1, qua [d A] cro Br min A(2
 =2' cro a g(1 g)1 f(1
 =2, qua [d)2 smq e f] qua [e f] [c# A] [d cn]
+
+6 systems 8 /19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
 /
 4 bars | 1b 1 1.4 1 1 1 1.3 1 1 | 1 1 1 1 1 1 1.3 1 | 1 1 1.3 1 1 1 1 1 | 1 1 1 1 1 1.4 1 1 |
 |
@@ -1362,7 +1420,7 @@ il0.4    229
 =2' smb rest'
 =2, min rest, d
 |
-il0.6      235
+il0.7 .12 235
 =1' cro d)1 qua [c# d] min e(1
 =1, qua [E A_ E F] [G smq F E qua F G]
 =2' min rest'' b
@@ -1386,480 +1444,982 @@ il0.6      235
 =2, smb a
 |
 i0.5 Here Bach's manuscript ends
-=1' smb rest
-=1, qua [F G] min A qua [G F]
-=2' qua [d~ e~ d~ c~n] [bn a b d~(1]
-=2, cro. d smq [e f] cro g G
+=1' 2 blank smb rest
+=1, 4 F rest, 2 rest,
+=2' qua [d~ e~ d~ c~n] [bn a b d~]
+=2, 4 d 2 a 4 g#
 /
-3 bars | 1b 3.6 4 | 1 1 1.3 1 .9 .9 .9 .9 | 1.3 2.2 1.3 1 1 1.3 1 1 |
+4 bars | 1b 48 | 48 | 48 |
 |
 il0.5      240
-i0.6                  The remainder is by D. F. Tovey
-=1' treble 1b smb rest
-=1, treble 1b min E(2 qua [E)2 D E F]
-=2' bass   1b qua [d~)1 bn c~ d~] [c~ b a g#]
-=2, bass   1b cro G# A(2 qua [A)2 Bn c d]
+i0.9                  The remainder is by Zoltán Göncz
+=1' treble 1b leg100 4 rest' 8 [c d] [c Bn A G#]
+=1, treble 1b 2. rest, 8 [C D]
+=2' bass   1b leg100 qua [c~ bn a g#] 4 a rest'
+=2, bass   1b cro a rest, 2 rest,
 |
-=1' smb rest
-=1, smb E
-=2' qua [a e a bn] [c~ b a c~]
-=2, qua [c Bn A G#] cro A a(2
+#P =1' 8 [A E A Bn] [c B A c]
+#M =1' 8 [A E A Bn] [c B rest c]
+=1, 8 [C B_n A_ G_#] 4 A_ A(2
+=2' 2 rest' a
+=2, 2 blank 1 rest,
 |
-=1' min rest' f
-=1, min. Bn cro A
-=2' qua [bn er b c~] [d~ smq c~ b qua c~ d~]
-=2, qua [ar)2 smq gn f#] cro g(2 qua [g)2 g# a bn]
+=1' 8 [Bn E B c] [d 16 c B 8 c d]
+=1, 4 Ar)2 G# 2 A
+=2' 2. e~ 4 d~
+=2, 2 rest f
+|
+=1' 8 [e d c d] 2 e(1
+=1, 2 rest, 8 rest [d c Bn]
+=2' 1 c~
+=2, 2 e g
 /
-3 bars |1b 1 1 1.3 1 1 1 1 1\
- | .5 .5 1.2 .75 .65 .65 .65 .65 .5 .5 .5 .5 .5 .5 .5 .5 \
- |1 1 1.3 1.9 1.3 1.3 1 1|
+4 bars | 1b 48 | 48 | 48 |
 |
-=1' treble 1b min e g
-=1, treble 1b smb G
-=2' bass   1b qua [e~ d~ c~ d~] min e~(1
-=2, bass   1b cro. c~ qua bn [a g f e]
+=1' 8 [e)1 16 d c# 8 d e] 2 f(1
+=1, 2 A 8 rest [e d cn]
+=2' 1 d~
+=2, 4. f# 8 g# 2 a(2
 |
-=1' cro. f# qua g# min a(1
-=1, smb A
-=2' qua [e~)1 smq d~r c~# qua d~ e~] min f~(1
-=2, qua [d e~ d~ c~n] [bn a g f]
+il0.9 .30 245
+=1' 8 [f)1 e d c] [Bn A B d]
+=1, 4 Bn rest, rest, E(2
+=2' 1 e~
+=2, 4. a)2 16 [g# f#] 2 g
 |
-il0.5      245
-=1' cro. a)1 smq [g# f#] cro g gn(1
-=1, smb Bn
-=2' qua [f~)1 e~ d~ c~n] [bn a b d~]
-=2, min e(2 qua [e)2 f# g e]
+=1' 4 c e d f
+=1, 8 [E)2 E D C] [B_n A_ B_ D]
+=2' 2. ar 4 g#
+#P=2, 2 a rest,
+|
+=1' 4 e 2 c 8 [Bn A]
+=1, 4 C E A D(2
+=2' 8 [a bn a g] [f# e f a]
+=2, 2 blank 1 rest,
 
-5 systems /20-53-20/20-50-20/20-50-20/20-59-20/20-55-20/
-pagenum 14
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
-3 bars | 1b 1.3 1 1.3 1.3 1.3 1 1 1|1 1.3 1 1.3 1 1 1 1|1 1 1 1.3 1 1 1 1.3|
+4 bars | 1b 48 | 48 | 48 |
 |
-=1' treble 1b qua [g)1 fn e d] [c# Bn c e]
-=1, treble 1b cro. E qua F min G(2
-=2' bass   1b cro. c~#r qua d~ cro. e~ qua d~
-=2, bass   1b qua [bbl a g fn] min e(2
+=1' 4 Bn 2 Bb 8 [A G]
+=1, 4 D)2 D G C(2
+=2' 8 [g a g f] [e d e g]
+=2, 2 blank 1 rest,
 |
-=1' min A(1 qua [A)1 G A c]
-=1, cro. Gr)2 smq [F E] min F(2
-=2' qua [c~# d~ c~ a] min d~(1
-=2, qua [e)2 smq f g] cro f(2 qua [f)2 e f a]
+=1' 2 A 4 B c
+=1, 8 [C)2 C] 2 F 4 Eb(2
+=2' 2 f rest'
+=2, 4 rest, 8 [d eb] [d c B A]
 |
-=1 cro. B' smq [c' d'] qua [c' B' c' eb']
-=1 qua [F,)2 G, F, D,] cro. G, smq [A, B,]
-=2 qua [d~')1 e~b' d~' b'] [e~' d~'] cro c~'(1
-=2 cro. g, qua b, cro. a, qua g,
+il0.6 .15 250
+=1' 2 F B
+=1, 4 Er)2 8 [D C] 4 B_ B(2
+=2' 2 blank 1 rest'
+=2, 8 [B F B c] [d c B d]
+|
+=1' 2. f 4 eb
+=1, 4 B)2 2 A 4 c(2
+=2' 2 rest' g~b
+=2, 8 [c F c d] [eb 16 d c 8 d e]
 /
-3 bars | 1b 8 | 8 | 8 |
+4 bars | 1b 48 | 48 | 48 |
 |
-=1 treble 1b min d'(1 qua [d')1 c' d' f']
-=1 treble 1b qua [A, G, A, c,] cro. B, qua A,
-=2 bass   1b qua [c~')1 b' a' f#'] [gr' a' b' c~']
-=2 bass   1b qua [f#, g, f, d,] cro d~, qua [g, a,]
+=1' 1 d
+=1, 4 cr)2 Bn(2 8 [B)2 c] 4 d(2
+=2' 2 f~ a~b
+=2, 8 [f eb d e] 2 f(2
 |
-il1.1 250
-=1 qua [e' f' g' e'] [f' e'] cro d'(1
-=1 qua [G, A,] cro B,(2 qua [B,)2 c, B, A,]
-=2 cro. d~' qua c~#' [d~' e~'] cro f~'(1
-=2 qua [b, a,] cro g, cro. d, smq [c#, d,]
-I0.2                               tr
+=1' 1 eb
+=1, 2 dr)2(2 8 [d)2 16 c B 8 c d]
+=2' 4. g~ 8 a~ 2 b~(1
+=2, 8 [f)2 16 eb d 8 e f] 2 g(2
 |
-=1 cro d')1 qua [c' Bn'] [c' d' e' f']
-=1 min G, cro A, Bn,
-=2 qua [f~')1 bn' e~' d~'] [c~' b' a' g#']
-=2 smb e(2
-/
-4 bars |1b 1.3 1 1.2 1 1 1 1 1 |1 1 1 1.2 1 1.4 1 1|1.2 1 1.2 1 1 2.3 1 1 | 1 1.5 1 1 1 1 1 1 |
+=1' 1 f
+=1, 2 c rest,
+=2' 4. b~)1 8 b~ 4 a~ a~b(1
+=2, 8 [g)2 f eb d] [c B c e]
 |
-=1 treble 1b qua [e' a' e' d'] [c' d' e' c']
-=1 treble 1b cro. c, qua Bn, min A,
-=2' bass   1b qua [a bn] cro c~(1 qua [c~)1 b a c~]
-=2, bass   1b cro e)2 e min f(2
-|
-=1' qua [d a d c] [Bn smq c d qua c B]
-=1, min. D cro E
-=2 qua [b' c~' b' a'] cro g' rest''
-=2 cro f,)2 f#, g, g#,
-|
-=1 qua [A' Bn' c' Bb'] min A'(1
-=1 smb F
-=2 cro rest'' c~'(1 qua [c~')1 smq d~' e~b' qua d~' c~']
-=2 min a, d,
-|
-il0.7     255
-=1 qua [A')1 smq B' c' qua B' A'] min G'(1
-=1 smb E
-=2 min b'(1 qua [b')1 c~' d~' c~']
-=2 cro. g, qua f, min e,(2
-/
-4 bars | 1b 1 1 1 1.4 1.3 1 1 1.4|1 1 1 1.5 1 1 1 1| 1.4 1.1 1.1 1.4 1 1 1 1 | 1 1 1 1.2 1 1.5 1 1 |
-|
-=1 treble 1b qua [G')1 A' B' c'] [d' eb' d' B']
-=1 treble 1b smb D
-=2 bass   1b min b'(1 qua [b')1 a' b' smq c~' d~']
-=2 bass   1b cro. e,)2 smq [f#, g,] min f,(2
-|
-=1 cro. c' qua d' min eb'(1
-=1 smb A(2
-=2 cro e~b' c~' min g~'(1
-=2 qua [f,)2 g, a, b,] [c~, d~, c~, a,]
-|
-=1' qua [e)1 d c B] [A G A c]
-=1, cro A)2 D min rest,
-=2' qua [g~)1 f~# g~ b~] min e~b
-=2, cro b g min c~(2
-|
-=1' cro. F# qua G min A(1
-=2 min d~r'(1 qua [d~')1 smq c~' b'] cro c~'(1
-=2 qua [c~,)2 b, a, g,] [f#, e, f, a,]
-/
-4 bars | 1b 1 1.4 1.3 1 1 1 1 1.8 | 4.3 3.9 | 1 1.2 1.2 1 1.3 1.2 1 1 | 7.8 |
-|
-il0.5     260
-=1 treble 1b qua [A')1 D' E' F#'] [G' A' G' E']
-=2 bass   1b qua [c~')1 smq b' a' qua b' c~'] cro. d~' smq [e~' f~']
-=2 bass   1b cro. g, qua a, min b,(2
-|
-=1 cro. c#' qua d' min e'(1
-=2 qua [g~' a~'] cro b~' c~#' g~'(1
-=2 qua [b,)2 a, g, f,] [e, d, e, g,]
-|
-=1 qua [e')1 A' Bn' c#'] [d' f' e' d']
-=1 smb rest,
-=2 qua [g~')1 g~' f~' e~'] [d~' c~#' bn' d~']
-=2 cro f, qua [g, a,] [b, a,] cro g,(2
-|
-=1 cro a' rest'' min rest'
-=1 min A, D,
-=2 qua [c~#' d~'] cro e~' a' rest''
-=2 cro g,)2 qua [f, e,] [f, g, a, b,]
+il0.6 .15 255
+=1' 4. B 8 eb 4 Ab B(1
+=1, 4 blank 1 rest,,
+=2' 8 [a~)1 b~ a~b g~] [f~ e~b f~ a~]
+=2, 4 d 2 eb 4 d
 
-5 systems /20-45-20/20-45-20/20-50-20/20-45-20/20-45-20/
-pagenum 15
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+6 systems 8 /19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
-/
-4 bars | 1b 8 | 1 1 1 1 1 1.6 1 1 | 8 | 1.3 1.3 1.2 1 1 1 1.2 1 |
-|
-=1 treble 1b min rest' a'
-=1 treble 1b min F, A,
-=2 bass   1b qua [a d~ a g] [f g a f]
-|
-il0.4      265
-=1 min. d' cro e'
-=1 min B,(2 qua B,)2 cro A, qua G,
-=2 min rest'' cro rest'' c~#'
-=2 qua [g d~ g f] [e smq f g qua f e]
-|
-=1 smb f
-=1 min F,(2 qua [F,)2 E, F, G,]
-=2 min d~' bn'
-=2 qua [d, e f e,] min d,(2
-|
-=1 smb e
-=1 qua [A, G#, A, Bb,] [c, B, A, Gn,]
-=2 cro. c~' qua bb' min a'(1
-=2 qua [d,)2 smq e, f, qua e, d,] min c,(2
-/
-4 bars | 1b 1 1 1.2 1.4 1.2 1 1 1 | 8 | 8 | 1 1 1 1 1.3 1 1.2 1 |
-|
-=1 treble 1b smb d
-=1 treble 1b qua [F#, c, B, A,] [G, Fn, E, G,]
-=2 bass   1b cro. a')1 smq [b' c~'] min b'
-=2 bass   1b qua [c,)2 d, e, f#,] [g, a, g, e,]
-|
-=1 min a'(1 qua [a')1 g' f' e']
-=1 qua [F, E, D, F,] cro E, qua [A, G,]
-=2 cro. a' qua bn' cro c~' a'
-=2 cro. fn, qua g, min a,
-|
-il0.9 270
-=1 qua [d' c' d' f'] [e' d' c' B']
-=1 qua [F, E,] cro D, qua [G, F,] cro E,(2
-=2 cro bb' bn' min c~'(1
-=2 smb rest,
-|
-=1 cro A' G'(1 qua [G')1 F#' G' A']
-=1 cro E,)2 Eb, D, C,(2
-=2 qua [c~')1 a' b' c~'] [b' a' g' f#']
-=2 min A, d,
-/
-4 bars | 1b 8 | 1 1 1 1 1 1.3 1 1 | 8 | 1.1 1.4 1 1.2 1 1 1 1 |
-|
-=1 treble 1b smb D
-=1 treble 1b qua [Cr,)2 A_, B_, C,] cro D, rest,,
-=2 bass   1b qua [g' d' g' a'] [b' a' g' b']
-=2 bass   1b min B, G,
-|
-=1 min. A' cro G'
-=1 min rest, Eb,
-=2 qua [a' d' a' b'] [c~' smq b' a' qua b' c~']
-=2 min F#,(2 qua F,)2 cro G, qua A,
-|
-=1 smb F
-=1 min D, F,
-=2 qua [d~' c~' b' c~'] min d~'(1
-=2 min B,(2 qua [B,)2 c, B, A,]
-|
-il0.3     275
-=1' smb G
-=1, cro. E qua F# min G(2
-=2' qua [d~)1 smq c~ b qua c~ d~] min e~b(1
-=2, qua [G F# G B] [A G A d]
-/
-4 bars | 1b 1 1 1 1.4 1 1 1 1 | 1 1.3 1 1 1 1 1 1 | 1.3 1 1 1 1 1 1 1 | 8 |
-|
-=1 treble 1b smb A
-=1 treble 1b cro. Gr,)2 smq [F#, E,] min F,(1
-=2 bass   1b qua [e~')1 d~' c~' b'] [a' g' a' c~']
-=2 bass   1b qua [eb, f, e, c,] min d,(2
-|
-=1 smb Dr(4
-=1, qua [F#)1 G A B] [c d c A]
-=2' cro b rest'' rest'' d~
-=2, qua [d)2 e f# g] [a b a f]
-|
-=1' qua [Dr)4 c d e] [f g f d]
-=1, min B(2 qua [B)2 A] cro B(2
-=2' min. g~ cro rest'''
-=2, qua [g a b c~] [d~ e~ d~ b]
-|
-=1 qua [e' f' e' c'] [d' f' e' d']
-=1 qua [B,)2 G,] cro A,(2 A,)2 G,(2
-I0.2                        tr
-=2 qua [c~, d~, c~, a,] min b,
-/
-4 bars | 1b 8 | 8 | 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1.3 1 1 |
-|
-il0.9 .01 280
-=1 treble 1b qua [c#' e'] cro A' min rest'
-=1 treble 1b cro G,)2 qua [F, E,] [F, G, A, B,]
-=2 bass   1b min a' d'
-=2 bass   1b cro ar, rest, min rest,
-|
-=1 smb rest'
-=1 qua [A, d, A, G,] [F, G, A, F,]
-=2 min f' a'
-=2 min rest, d,
-|
-=1 min rest' c#'
-=1 qua [G, d, G, F,] qua [E, smq F, G, qua F, E,]
-=2 min b'(1 qua b')1 cro a' qua g'
-=2 min. G, cro A,
-|
-=1 min d' B'
-=1 qua [D, E, F, E,] min D,(2
-=2 min f'(1 qua [f')1 e' f#' g']
-=2 smb B
 
-5 systems /20-45-20/20-45-20/20-45-20/20-45-20/20-50-20/
-pagenum 16
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
-3 bars | 1b 4 3.5 | 1 1.7 1 1 1 1 1 1 | 1 1 1 1.7 1 1 1 1 |
+4 bars | 1b 48 | 48 | 48 |
 |
-=1 treble 1b cro. c' qua B' min A'(1
-=1 treble 1b qua [D,)2 smq Eb, F, qua E, D,] min C,(2
-=2 bass   1b qua [a' g'] cro f#'(1 qua [f')1 d' e' f']
-=2 bass   1b smb A
+=1' 4 B)1 8 [An B] 2 c(1
+=1, 4 blank 1 rest,,
+=2' 2. g~ 8 [f~# g~]
+=2, 8 [eb d c B] [A G A c]
 |
-il0.5     285
-=1 cro. A')1 smq [B' c'] cro. B' smq [c' d']
-=1 qua [C,)2 smq D, Eb,] cro D,(2 qua [D,)2 smq En, F,] cro E,(2
-=2 qua [g' f#' e' f'] cro. g' smq [a' b']
-=2 smb G
+=1' 8 [c)1 eb d c] [B A B d]
+=1, 4 blank 1 rest,,
+=2' 2. a~ 4 d~(1
+=2, 4 F# d g fn
 |
-=1 cro. c' smq [d' eb'] cro d' qua [g' f']
-=1 qua [E,)2 smq F#, G,] cro F,(2 qua [F,)2 smq G, A,] cro G,(2
-=2 cro. a' smq [b' c~'] cro. b' smq [c~' d~']
-=2 min d,(2 qua [d,)2 smq eb, f,] cro e,(2
+=1' 4 G 2 g 8 [f e]
+=1, 2 rest, 4 rest, c(2
+=2' 8 [d~)1 d~ c~ b] [a g a c~]
+=2, 4 e c f e
+|
+=1' 2. f 8 [e d]
+=1, 8 [c)2 c B A] [G F G B]
+=2' 4 f 8 [g a] 2 b(1
+=2, 2 d 4 rest, g
 /
-3 bars | 1b 1 1.3 1 1.8 1 1.7 1 1 | 1 1.3 1 1.3 1 1.3 1 1 | 1 1.2 1 1.9 1 1 1.4 1.8 |
+4 bars | 1b 48 | 48 | 48 |
 |
-=1 treble 1b cro. eb' smq [d' c#'] min d'(1
-=1 treble 1b qua [G,)2 smq A, B,] cro A,(2 qua [A,)2 smq G, F#, qua G, A,]
-=2 bass   1b cro c~' qua [f~' e~b'] cro. d~' qua c~'
-=2 bass   1b qua [e,)2 smq f, g,] cro f, cro. b, qua a,
+il1.0 260
+=1' 4 e 2 eb 8 [d c]
+=1, 8 [E B A G] [F# En F A]
+=2' 4 b)1 8 [c~ b] 2 a(1
+=2, 2. c 8 [B c]
 |
-=1 qua [d')1 en'] cro f'(1 qua [f')1 smq e' d' qua c' d']
-=1 cro. B, smq [A, G,] min A,(2
-=2 cro b' f' min rest'
-=2 qua [g, smq f, e, qua d, e,] [f, g, a, bn,]
+=1' 4 d rest' rest' 8 [B c]
+=1, 2 D rest,
+=2' 4 a)1 8 [b c~] [b a g f#]
+=2, 8 [B A G F#] 4 G rest,
 |
-=1 cro. e' smq [d' c'] qua [Bn' c'] cro d'(1
-=1 qua [A,)2 smq G, F, qua E, F#,] min G,(2
-=2 cro. c~ qua d~ cro e~(1 smq [e~)1 d~ c~ bn]
+#P=1' 8 [B A G F#] 4 G g(1
+#M=1' 8 [B A G F#] 4 rest g(1
+=1, 2 rest, Gr
+=2' 8 [g d g a] [b a g b]
+=2, 2. blank 1 rest,
+|
+=1' 4 g)1 2 f# 4 a(1
+=1, 2. d 4 c
+=2' 8 [a d a b] [c~ 16 b a 8 b c~]
+=2, 2 rest, eb
 /
-3 bars | 1b 1 1.7 1 1 1 1 1.2 1.3 | 1 1 1.2 1 1 1 1 1 | 1 1 1 1 1 1.3 1 1 |
+4 bars | 1b 48 | 48 | 48 |
 |
-il0.9     290
-=1 treble 1b qua [d')1 smq c' Bn' qua c' d'] [c' B' A' G#']
-=1 treble 1b cro G,)2 min F#, cro Fn,
-=2 bass   1b min a'r e~'
-=2 bass   1b cro a, d, min rest,
+=1' 4 a)1 g(1 8 [g)1 a] 4 b(1
+=1, 1 B
+=2' 8 [d~ c~ b c~] 2 d~(1
+=2, 2 d f
 |
-=1 qua [A E A Bn'] [c' B' A' c']
-=1 cro E, rest,, min rest,
-=2 min c~' a'
-=2 min rest, A,
+il1.0 .15 265
+=1' 2 b)1(1 8 [b)1 16 a g 8 a b]
+=1, 1 c
+=2' 8 [d~)1 16 c~ bn 8 c~ d~] 2 e~b(1
+=2, 4. e 8 f# 2 g(2
 |
-=1 qua [Bn' E' B' c'] [d' smq c' B' qua c' d']
-=1 min rest, F,
-=2 min g#'(1 qua g')1 cro a' qua bn'
-=2 min. e, cro d,
+=1' 2 a 4 rest' d(1
+=1, 1 d
+=2' 8 [e~)1 d~ c~ b] [a g a c~]
+=2, 4. g)2 16 [f# e] 4 f fn(2
+|
+=1' 8 [d)1 eb d c] 2 g
+=1, 1 G(2
+=2' 4 bn 2 c~ 4 bb(1
+=2, 8 [f)2 g f eb] [d c d f]
 /
-3 bars | 1b 1 1 1 1 1 1 1.3 1 | 1 1.6 1 1 1 1 .8 .8 | 1 1 1 1.6 1 1 1 1.3 |
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
-=1 treble 1b qua [e' d' c' d'] min e'(1
-=1 treble 1b min E, G,
-=2 bass   1b min c~'(1 qua [c~')1 d~' c~' bn']
-=2 bass   1b smb c
+=1' 4. c 8 f 2 B(1
+=1, 4 G)2 A(2 8 [Ar)2 D] 4 G(2
+=2' 8 [b)1 c~ b a] [g f g b]
+=2, 4 en 2 f 8 [e d]
 |
-=1 qua [e')1 smq d' c#' qua d' e'] min f'(1
-=1 cro. F#, qua G#, min A,(2
-=2 min a'(1 qua [a')1 bn'] cro c~'(1
-=2 smb d
+=1' 8 [B)1 E] 2 A 4 G(1
+=1, 4 G)2 8 [F G] [F E D C#]
+=2' 4 a rest' 2 rest'
+=2, 2 c# A
 |
-il0.8               295
-=1' qua [f)1 e d c] [Bn A B d(1]
-=1, cro. A)2 smq [G# F#] min G
-=2' cro c~)1 qua [bn c~] cro. d~ smq [c~ b]
-=2 smb e
+il0.7 .08 270
+=1' 4 G)1 F 2 rest'
+=1, 8 [D A_ D E] [F E D F]
+=2' 2 rest' d
+=2, 2. d 4 d
+|
+=1' 2 rest' B
+=1, 8 [E A_ E F] [G 16 F E 8 F G]
+=2' 2. a 4 g
+=2, 1 c#
 /
-3 bars | 1b 1 1 1 1 1 1.3 1 1.3 | 8 | 1 1.3 1 1 1 1 1 1 |
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
-=1' treble 1b qua [d)1 c Bb A] [G F G B(1]
-=1, treble 1b cro A D(2 qua [D)2 smq C# D] qua [E smq D E]
-=2' bass   1b cro a qua [g a] [bb a] cro g
-=2, bass   1b min. f cro e
+=1' 2 A c
+=1, 8 [Ar G F G] 2 A(2
+=2' 4 rest'' a(1 8 [a)1 d~ c~ d~]
+=2, 1 <d f>
 |
-=1 qua [B')1 A' Bn' c#'] [d' e' d' B']
-=1 cro F, qua [D, E,] [F, G,] cro A,(2
-=2 cro. f' qua g' cro a' f~'(1
-=2 smb d
+# Bad exposed parallel fifths between the outer voices :-(
+=1' 4. Bn 8 c# 2 d(1
+=1, 8 [Ar)2 16 G F# 8 G A] 2 Bb(2
+=2' 4 gr g~(1 8 [g~)1 16 f~n e~ 8 f~ g~]
+=2, 1 <e g>
 |
-=1 qua [c#' d' e' f'] [g' a' g' e']
-=1 qua [A,)2 smq B, A, qua G, F,] min E,(2
-=2 cro f~')1 qua [e~' d~'] min c~#'(1
-=2 smb e
+=1' 4. d)1 16 [c# Bn] 2 c
+=1, 8 [B)2 A G F] [E D E G]
+=2' 4 e~ rest' rest' a(1
+=2, 1 <A a>
+|
+il0.7 .08 275
+=1' 1 d(1
+=1, 4 [F# 2 G 4 G#
+=2' 4 a)1 8 [b a] 4 g d~
+=2, 2 dr(2 8 [d)2 f e d]
+=2, 1 B
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 4 d)1 c# 2 rest'
+=1, 4. A 8 B [A G F E]
+=2' 2 e~ rest'
+=2, 2 <A a> rest,
+|
+=1' 2 d 4. a 8 g
+=1, 8 [F E F G] [F E D C#]
+=2' 4. blank 1 rest'
+=2, 4. blank 1 rest,
+|
+=1' 4. f 8 e 2 d
+=1, 8 [D A_ D E] [F E D F]
+=2' 4 blank 1 rest'
+=2, 2 rest, d
+|
+=1' 2 c# 4. d 8 e
+=1, 8 [E A_ E F] [G 16 F E 8 F G]
+=2' 2 rest'' b
+=2, 2. a 4 g
 
-5 systems /20-50-20/20-45-20/20-50-20/20-50-20/20-50-20/
-pagenum 17
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+6 systems 8 /19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
 leftfoot typesetting (c) 1998 Peter Billam
+
 /
-4 bars | 1b 1 1 1 1 1 1.4 1.3 1 | 1 1.4 1 1.3 1 1 1 1.4 | 1.3 1 1 1.3 1 1 1 1 | 1 1 1.3 1 1 1 1 1 |
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
-=1' treble 1b qua [a g f e] min d(1
-=1, treble 1b cro E)2 qua [F G] [A smq B c qua B A]
-=2' bass   1b cro c~)1 qua [d~ e~] [f~ e~ d~ c~n]
-=2 bass   1b smb f
+il0.8 .21 280
+=1' 2 f(1 8 [f)1 g f e]
+=1, 8 [A G F G] 2 A(2
+=2' 2 a c~
+=2, 1 f
 |
-=1 qua [d')1 smq e' f' qua e' d'] [c#' e'] cro d'(1
-=1 cro. G, qua F, cro E, qua [F, smq G, A,]
-=2 min b'(1 qua [b')1 g'] cro a'
-=2 min. g, cro f,
+=1' 2 d 8 rest'' [a g f]
+=1, 8 [A)2 16 G F# 8 G A] 2 B(2
+=2' 4. bn 8 c~# 2 d~(1
+=2, 1 g
 |
-il1.0     301
-=1 qua [d')1 cn' B' A'] [G' A'] cro B'(1
-=1 smb G(2
-=2 qua [b' a' g' b'] cro. e~b' qua d~'
-=2 smb eb
+=1' 4 e rest' 2 rest'
+=1, 8 [B)2 A G F] [E D E G]
+=2' 4. d~)1 16 [c~# bn] 2 c~
+=2, 1 a
 |
-=1 qua [B')1 G'] cro A' cro. d' qua c'
-=1 cro G,)2 qua [F, Eb,] cro D, A,(2
-=2 min c~'(1 qua [c~')1 b'] cro a'
-=2 smb f treble
+=1' 4. blank 1 rest'
+=1, 4 F 2 A 4 G#
+=2' 8 [d~ e~ d~ c~] [bn a b d~]
+=2, 4 d rest, 2 rest
 /
-3 bars | 8 | 1.1 1.1 1.1 1.1 1.5 1.1 1.1 1.1 | 6.5 |
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
-=1 treble 1b cro B' cro. eb' qua d' cro c#'
-=1 treble 1b cro Ar,)2 qua [G, F,] cro Eb, Br,(2
-=2 treble 1b qua [D' C'] min B_' qua [G' F']
-=2 treble 1b smb G_(2
+=1' 4 rest' 8 [c d] [c Bn A G#]
+=1, 4 A rest, 2 rest,
+=2' 8 [c~ bn] 4 a 2 rest''
+=2, 2 A 4. e 8 d
 |
-=1 cro. g' qua f' [en' g'] cro b'(1
-=1 smq [B,)2 c, B, A,] [B, A, G, A,] [G, F, En, F,] [G, A, G, A,]
-=2 qua [E' D'] cro C#'(1 qua [C#')1 D' En' F']
-=2 min G_,)2 rest,,,
+il0.8 .21 285
+=1' 8 [A E A Bn] [c B A c]
+=1, 2. blank 1 rest,,
+=2' 2 rest' e
+=2, 4. c 8 Bn 2 A
 |
-il0.9     305
-=1 cro b')1 qua [a' g'] [f' e' d' c#']
-=1 smb B,(2
-=2 smb G(1
-=2 smb rest,,
+=1' 8 [Bn E B c] [d 16 c B 8 c d]
+=1, 2 rest,, F
+=2' 2. bn 4 a
+=2, 2 G# 4. A 8 Bn
+|
+=1' 8 [e d c d] 2 e(1
+=1, 2 E G
+=2' 1 g
+=2, 2 c(2 8 [c)2 d c Bn]
 /
-4 bars | 1b 8 | 8 | 1 1 1 1 1 1.3 1 1 | 8 |
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
-=1 treble 1b min d' a'
-=1 treble 1b qua [B,)2 E, F, G,] [F, E, D, C#,]
-=2 treble 1b cro G')1 qua [A' B'] min A'(1
-=2 treble 1b smb rest,,
+=1' 8 [e)1 16 d c# 8 d e] 2 f(1
+=1, 4. F# 8 G# 2 A(2
+=2' 1 a
+=2, 2 A 8 rest [e d c]
 |
-=1 min f' d'
-=1 qua [D, A_, D, E,] [F, E, D, F,]
-=2 cro A')1 rest' min rest'
-=2 min rest, bass d,
+=1' 8 [f)1 e d c] [Bn A B d]
+=1, 4. A)2 16 [G# F#] 4 G Gn(2
+=2' 1 bn
+=2, 2 d 4 e Bn
 |
-=1 min c#'(1 qua c')1 cro d' qua e'(1
-=1 qua [E, A_, E, F,] [G, smq F, E, qua F, G,]
-=2 min rest'' b'
-=2 min. a, cro g,
+il0.8 .11 290
+=1' 4 c# 2 d 4 c
+=1, 8 [G)2 A G F] [E D E G]
+=2' 4 e 8 [f g] 2 a
+=2, 1 A
 |
-=1 min f'(1 qua [f')1 g' f' e']
-=1 qua [A, G, F, G,] min A,(2
-=2 min a' c~'
-=2 smb f
+=1' 4 d rest' 2 rest'
+=1, 8 [F E D C#] 4 D rest,
+=2' 2 d~ 4. a~ 8 g~
+=2, 4 rest 8 [f g] [f e d c#]
 /
-4 bars | 1b .5 .5 1.2 .75 .5 .5 .5 .5 .65 .65 .5 .5 .5 .5 .5 .5 \
- | .5 .5 .5 .5 .5 .5 1.2 .75 .5 .5 .5 .5 .5 .5 .5 .5 \
- | 1 1 1 1.3 1 1 1.7 1 | 2 2.6 2.7 2 |
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
-il0.5   310
-=1' treble 1b min d(1 qua [d)1 c# d e]
-=1,        1b qua [A)2 smq G F# qua G A] min B(2
-=2' bass   1b cro. bn qua c~# min d~(1
-=2         1b smb g
+=1' 2 blank 1 rest'
+=1, 2 rest, D
+=2' 4. f~ 8 e~ 2 d~
+=2, 8 [d A d e] [f e d f]
 |
-=1' cro f e rest' A
-=1, qua [B)2 A G F] [E D E G]
-=2' cro. d~)1 smq [c~# bn] cro c~ c~n(1
-=2 smb a
+=1' 2 rest' B
+=1, 2. A 4 G
+=2' 2 c~# 4. d~ 8 e~
+=2, 8 [e A e f] [g 16 f e 8 f g]
 |
-=1 cro eb' d' rest' Dr'
-=1 qua [F#, G,] cro A,(2 qua [A,)2 A, G, Fn,]
-=2 cro c~')1 qua [bn' a'] min bb'(1
-=2 smb d(2
+=1' 2 A c
+=1, 1 F
+=2' 2 f~(1 8 [f~)1 g~ f~ e~]
+=2, 8 [a g f g] 2 a(2
 |
-=1 cro c' Bn' min Bb'
-=1 cro. Eb, qua D, C#, cro D, qua En,
-=2 qua [b')1 a' g' f#'] [g' smq fn' e' qua f' g']
-=2 smb d)2(2
+il0.7 .13 295
+=1' 4. Bn 8 c# 2 d(1
+=1, 1 G
+=2' 2 d~ 8 rest''' [a~ g~ f~]
+=2, 8 [a)2 16 g f# 8 g a] 2 b(2
 /
-4 bars | 1b 6.7 | .5 .5 1.1 0.8 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 \
- | .5 .5 .5 .5 .6 .6 1 1 .75 .75 1.5 2.2 .6 .6 .7 .7 | 3.3 ||
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 4. d)1 16 [c# Bn] 2 c
+=1, 1 A
+=2' 2 e~ 4 rest'' a(1
+=2, 8 [b)2 a g f] [e d e g]
+|
+=1' 8 [d e d c] [Bn A B d]
+=1, 4 D 2 F 4 E
+=2' 4 a)1 a 2 d~
+=2, 8 [f# g#] 2 ar 4 g
+|
+=1' 8 [c Bn A G#] 4 Ar rest''
+=1, 2 A 4. e 8 d
+=2' 4 rest'' 8 [c~ d~] [c~ bn a g#]
+=2, 4 a rest, 2 rest,
+|
+#P=1' 2 rest' A
+=1, 4. c 8 Bn 2 A
+=2' 8 [a e a bn] [c~ b a c~]
+=2, 4. blank 1 rest,
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+il0.7 300
+=1' 2. e 4 d
+=1, 2 G# 4. A 8 Bn
+=2' 8 [bn e b c~] [d~ 16 c~ b 8 c~ d~]
+=2, 2 rest, f
+|
+#P=1' 1 c
+=1, 2 cr(2 8 [c)2 d c Bn]
+=2' 8 [e~ d~ c~ d~] 2 e~(1
+=2, 2 e a
+|
+=1' 1 d
+=1, 2 A 8 rest, [e d c]
+=2' 8 [e~)1 16 d~ c~# 8 d~ e~] 2 f~(1
+=2, 4. f# 8 g# 2 a(2
+|
+=1' 1 e
+=1, 2 Bn 4 rest, E(2
+=2' 8 [f~)1 e~ d~ c~] [bn a b d~]
+=2, 4. a)2 16 [g# f#] 4 g gn(2
+
+6 systems 8 /19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 2 A rest'
+=1, 4 E)2 F G B
+=2' 4 c~# 2 d~ 4 c~
+=2, 8 [g)2 a g f] [e d e g]
+|
+il1.0 305
+=1' 8 rest'' [a g f] [e d e g]
+=1, 4 A rest, 2 rest,
+=2' 2. d~ 4 c~n(1
+=2, 4 f g 2 a
+|
+=1' 4 f# 2 g 4 fn(1
+=1, 8 rest, [d c B] [A G A c]
+=2' 8 [c~)1 b a g] 2 d~(1
+=2, d 4 rest, d
+|
+=1' 8 [f)1 g f e] [d c d f]
+=1, 4 Bn 2 c 4 Bb(2
+=2' 8 [d~)1 e~ d~ c~] 4 g~ rest''
+=2, 2 g 4 rest g
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 4 e 2 f 8 [e d]
+=1, 8 [B)2 G] 4 A B G(2
+=2' 8 rest' [c~ b a] [g f g b]
+=2, 2 c 4 rest, c
+|
+#P=1' 8 [e A] 2 d 4 c#
+#M=1' 8 e rest 2 d 4 c#
+=1, 8 [G)2 A G F] [E D E G]
+=2' 1 a(1
+=2, 4 c# d 2 A
+|
+il0.8 310
+=1' 4 rest' 8 [f g] [f e d c#]
+=1, 8 [F E D C#] 4 D rest,
+=2' 4 a)1 rest'' 2 a
+=2, 2 ar 4. d 8 e
+|
+=1' 8 [d A d e] [f e d f]
+=1, 2. blank 1 rest,
+=2' 2. d~ 4 d~
+=2, 4. f 8 g 2 a
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 8 [e A e f] [g 16 f e 8 f g]
+=1, 2 rest, B
+# obtrusive semitone dischord Bb/A
+=2' 1 c~#
+=2, 2 br 4. a 8 g
+|
+=1' 8 [a g f g] 2 a(1
+=1, 2 A c
+=2' 1 d~
+=2, 2 f(2 8 [f)2 d e f]
+|
+=1' 8 [a)1 16 g f# 8 g a] 2 b(1
+=1, 4. Bn 8 c# 2 d(2
+=2' 1 e~
+=2, 2 g(2 8 [g)2 16 f e 8 f g]
+|
+il1.2 .50 315
+=1' 8 [b)1 a g f] [e d e g]
+=1, 4. d)2 16 [c# Bn] 4 c cn(2
+=2' 1 a(1
+#P=2, 2 a 4 rest, A
+#M=2, 2 rest 4 rest, A
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 4 f# 2 g 4 f
+=1, 8 [c)2 d c B] [A G A c]
+=2' 8 [a)1 b a g] 2 d~(1
+=2, 2 d 4 rest, d
+|
+=1' 8 rest' [g fn eb] [d c d f]
+=1, 1 B(2
+=2' 4 d~)1 rest'' 2 rest''
+=2, 4 g a b g
+|
+=1' 1 eb(1
+=1, 8 [B)2 c B A] [G F G B]
+=2' 4. blank 1 rest'
+=2, 4 c d eb c
+|
+#P=1' 8 [e)1 f eb d] [c B c e]
+#M=1' 8 [e)1 f eb d] [c B blank e]
+=1, 4 A rest, rest, c(2
+=2' 2 rest' a(1
+#P=2, 4 f g ar f
+#M=2, 4 f g blank f
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+il0.8 320
+=1' 2. d 4 rest''
+=1, 8 [cr)2 d c B] [A G A c]
+=2' 8 [a)1 d~] 2 g 4 f#
+#P=2, 4 f# gr 2 d(2
+#M=2, 4 f# blank 2 d(2
+|
+=1' 2 d 4. Gr 8 A
+#P=1, 8 [B A G F#] 4 G rest,
+#M=1, 8 [B A G F#] 4 blank rest,
+=2' 4 rest' 8 [b c~] [b a g f#]
+=2, 4 d)2 rest, 2 d
+|
+=1' 4. B 8 c 2 d
+=1, 2 blank 1 rest,
+#P=2' 8 [g d g a] [b a g b]
+#M=2' 8 blank [d g a] [b a blank b]
+=2, 2. gr 4 g
+|
+=1' 2 eb 4. d 8 c
+=1, 2 rest, Eb
+=2' 8 [a d a b] [c~ 16 b a 8 b c~] 
+=2, 1 f#
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 2 B(1 8 [B)1 G A B]
+=1, 2 D F
+=2' 8 [d~ c~ b c~] 2 d~(1
+=2, 1 g
+|
+il0.8 325
+=1' 2 c(1 8 [c)1 16 B A 8 B c]
+=1, 4. E 8 F# 2 G(2
+=2' 8 [d~)1 16 c~ bn 8 c~ d~] 2 e~b(1
+=2, 1 a
+|
+=1' 2 A 4 rest' d
+=1, 4. Gr)2 16 [F# En] 4 F Fn(2
+=2' 8 [e~)1 d~ c~ b] [a g a c~]
+=2, 1 d(2
+|
+=1 1 G(1
+=1, 8 [Fr)2 G F Eb] [D C D F]
+=2' 4 bn 2 c~ 4 bb(1
+=2, 4 d)2 c g G
+
+6 systems 8 /19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 4 G)1 A 2 B
+#P=1, 4. Er 8 F# 2 G(2
+#M=1, 4. blank 8 F# 2 G(2
+=1, 1 E(4
+=2' 8 [b)1 c~ b a] [g f# g b]
+=2, 1 c
+|
+=1' 1 c(1
+=1, 4 G)2 8 [A G] 2 F#(2
+=1, 4 Er)4 rest,,, rest,,, A
+=2' 1 a(1
+=2, 8 rest, [g f e] [d c d f]
+|
+il0.8 330
+=1' 4 c)1 8 [B A] 2 B(1
+=1, 4 F)2 D 2 G(3
+=1, 2. Dr 8 [C# D]
+=2' 8 [a)1 a g f] [e d e g]
+=2, 2 B(2
+|
+=1' leg115 4 B)1 4 rest 2 rest
+=1, 4 G)3 2. blank
+=1, 4 Er 2. blank
+=2' leg115 4 c# 4 rest 2 rest
+=2, 4 Br)2 2. blank
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+| 2.05
+=1' leg130 4 G# 4 rest 2 rest
+=1, 4 Fr 2. blank
+=1, 4 D 2. blank
+=2' leg130 4 d 4 rest 2 rest
+=2, 4 Bn 2. blank
 | 2.1
-=1' treble 1b min A c
-=1, treble 1b min F(2 qua [F)2 G F E]
-=2' bass   1b qua [a g f g] min a(1
-=2  bass   1b smb d)2(2
-| 1.1 1.15
-il0.6       315
-=1' cro. Bn qua c# min d(1
-=1, cro D G(2 qua [G)2 A G F]
-=2' qua [a)1 smq g f# qua g a] min b
-=2 smb d)2(2
-| .6 .7 .8 .9
-=1' cro. d)1 smq [c# Bn] min c
-=1 qua [E, F, G, A,] cro Bbrl'(1 qua [B')1 smq A G]
-=1, min blank        qua [Bbrl(2 dsq B)2 A G F#] cro E
-=2' qua rest' [<c~ a> <b g> <a fn>] [<g e> <f# d> <g e> <b g>]
-=2 smb d)2(2
+=1' 1 leg100 Ar(1
+#P=1' 2 A 4. Dr 8 E
+#M=1' 2 blank 4. blank 8 E
+=1, 8 [D 16 C# B_n] 4 C D rest,,
+=2' leg100 4 rest'' 8 [f g] [fr e d c#rl]
+=2, 2 e 4. a 8 g
+=2, 1 Ar(4
 |
-=1 smb <d fermata>
-=1 smb <F# A>
-=2 smb <f# a fermata>
-=2 smb d)2
+=1' 2 A)1 rest''
+=1' 4. Fr 8 G 2 A
+=1, 2 rest,, A_
+=2' 8 [dr A d e] [f e d f]
+#P=2, 4. f 8 e 2 d
+#M=2, 4. f 8 blank 2 d
+=2, 1 Ar)4(4
+|
+il0.5 .25 335
+=1' 2 rest'' B
+=1  2 B' 4. Ar 8 G
+=1, 2. E 4 D
+=2' 8 [e A e f] [g 16 f e 8 f g]
+=2, 2 c# 4. d 8 e
+=2, 1 Ar)4(4
+/
+3 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 2 A c
+=1, 2 Fr(1 8 [F)1 D E F]
+=1, 1 Crr
+=2' 8 [a g f g] 2 a(1
+=2, 2 f(2 8 [f)2 g f e]
+=2, 1 Ar)4(4
+|
+=1' 4. Bn 8 c# 2 d(1
+=1, 2 G(2 8 [G)2 16 F E 8 F G]
+=1, 1 Dr
+=2' 8 [a)1 16 g f# 8 g a] 2 b(1
+=2, 2 d 8 rest [a g fn]
+=2, 1 Ar)4(4
+|
+=1' 4. d)1 16 [c# Bn] 4 c# cn(1
+=1, 1 <E A>
+=2' 8 [b)1 a g f] [e d e g]
+=2, 2 e rest,
+=2, 1 Ar)4
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 4 c)1 8 [B A] 2 B
+=1, 8 rest, [D E F#] 2 G(2
+=1, 4 A_ 8 [B_r Cr] 2 Dr(4
+=2' 4 f# 8 [g a] 2 g
+=2, 4 blank 1 rest,
+=2, 2 B(4 8 [B)4 A B G]
+|
+il0.5 .25 340
+=1' 2 A(1 8 [A)1 B] 4 c(1
+=1, 4. Gr)2 16 [F# E] 2 F
+=1, 2. D)4 4 rest,,
+=2' 2 a rest''
+=2, 8 rest''' [d~ c~ b] [a g a c~]
+=2, 1 d(4
+|
+=1' 4 c)1 8 [B c] [Br A G F#rll]
+=1, 2 G 4. d 8 c
+=1, 4. blank 1 rest,
+=2' 2 d~ 4. gr 8 a
+=2, 8 [b a g f#] 4 g rest
+=2, 1 dr)4(,4
+|
+=1' 8 [Gr D G A] [B A G B]
+#P=1, 4. B 8 A 2 G
+#M=1, 4. B 8 blank 2 G
+=1, 4. blank 1 rest,,,
+=2' 4. b 8 c~ 2 d~
+=2, 43 blank 23 rest 2 d
+=2, 1 dr)4(4
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+|
+=1' 8 [A D A B] [c 16 B A 8 B c]
+=1, 2 F# 4. G 8 A
+=1, 43 blank 23 rest,,, 2 Ebrll
+=2' 2 e~b 4. d~ 8 c~
+=2, 2. a 4 g
+=2, 1 dr)4(4
+| 1.08 1.11
+=1' 8 [d c B c] 2 d(1
+=1, 2 B(2 8 [B)2 c B A]
+=1, 2 Dr Fr
+=2' 2 b(1 8 [b)1 g a b]
+=2, 1 f
+=2, 1 d)4(4
+| 1.15 1.19
+il1.0 .25 345
+=1' 8 [d)1 16 c Bn 8 c d] 2 eb(1
+=1, 4. G 8 A [Bbl d c B]
+=1, 4. Er 8 F#rll 2 Gr(2
+=2' 2 c~(1 8 [c~)1 16 b a 8 b c~]
+=2, 1 g
+=2, 1 d)4(4
+| 1.24 1.30
+=1' 8 [e)1 d c B] [A G A c]
+=1, 4 A rest,,, rest,,, D
+=1, 4. Gr)2 16 [F# E] 2 F
+=2, 1 <a d~>
+=2, 1 d)4(4
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 16 ||
+| 1.35 1.40
+=1' 1 B
+=1, 8 [G A G F#] [E D E G]
+=1, 1 Er
+=2' 1 c~#
+=2, 2 dr rest'
+=2, 1 d)4(4
+| 1.47 1.56
+=1' 4 A 8 [B c] 2 d(1
+=1, 2. F# 8 [G A]
+=1, 1 Dr
+=2' 8 [c~n e~b d~ c~] [b a b d~]
+=2 2. blank 1 rest
+=2, 1 d)4(4
+| .85 .87 .90 1.2
+=1' 2 d)1(1 4. d)1 8 <Bx c#>
+=1, 8 [<E B> <A c> <G B> <F# A>] [<E G> <D F#> <E G> <E G>]
+=2' 8 [g f# g a] [b c~ b g]
+=2, 8 rest, [d e f#] [g a g e]
+=2, 1 d)4(,4
+| 5.0
+=1 1 <D F# A d-fermata>
+=2 1 <f# a-fermata>
+=2, 1 d),4
+@
+
+
+1.6
+log
+@typed in up to end
+@
+text
+@d1 1
+a1 1
+6 systems 10 /20-35-20/20-45-20/20-45-20/20-42-20/20-40-20/20-37-20/
+d8 2
+d13 3
+a15 3
+=1 treble  1b cha1 smb rest
+=2' bass   1b cha2 smb rest'
+=2, bass   1b min rest d
+d184 1
+a184 1
+6 systems /20-45-20/20-35-20/20-40-20/20-40-20 5/20-40-20/20-45-20/
+d357 1
+a357 1
+6 systems /20-45-20/20-35-20/20-45-20/20-40-20 5/20-40-20/20-45-20/
+d530 1
+a530 1
+6 systems /20-40-20/20-35-20/20-50-20/20-40-20 5/20-50-20/20-40-20/
+d693 1
+a693 1
+5 systems /20-40-20/20-35-20/20-45-20/20-45-20/20-45-20 10/
+d812 1
+a812 1
+5 systems /20-45-20/20-45-20/20-45-20/20-50-20/20-50-20/
+d931 1
+a931 1
+5 systems /20-40-20/20-45-20/20-45-20/20-45-20/20-45-20 8/
+d1051 1
+a1051 1
+6 systems /20-40-20/20-35-20/20-45-20/20-40-20/20-45-20/20-45-20/
+d1207 1
+a1207 1
+5 systems /20-45-20/20-50-20/20-45-20/20-45-20/20-45-20/
+d1211 1
+a1326 5
+
+5 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+d1345 6
+d1492 6
+a1566 5
+
+6 systems 8 /20-45-20/20-50-20/20-45-20/20-40-20/20-40-20/20-40-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+d1637 6
+a1711 6
+
+5 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+d1780 6
+a1832 6
+
+5 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+d1931 6
+a1964 6
+
+5 systems 8 /20-45-20/20-45-20/20-50-20/20-45-20/20-45-20/20-40-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+@
+
+
+1.5
+log
+@just a few bars gap remains
+@
+text
+@d10 1
+a10 1
+| 2/2 60
+d1558 1
+a1558 1
+5 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+a1677 6
+
+5 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+d1701 6
+a1797 6
+
+5 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+d1822 6
+a1925 6
+
+6 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/20-40-20/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by Zoltán Göncz
+leftfoot typesetting (c) 1998 Peter Billam
+
+d1949 1
+a1949 1
+=1' 4 B)1 4 rest 2 rest
+d1952 1
+a1952 1
+=2' 4 c# 4 rest 2 rest
+d1954 6
+d1962 2
+a1963 2
+|
+=1' 4 G# 4 rest 2 rest
+d1966 1
+a1966 1
+=2' 4 d 4 rest 2 rest
+d1968 2
+a1969 2
+|
+=1' 1 Ar(1
+d1973 1
+a1973 1
+=2' 4 rest'' 8 [f g] [fr e d c#rl]
+d1993 1
+a1993 1
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d2014 2
+a2022 2
+/
+4 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d2031 2
+a2032 2
+| 2.05
+=1' 4 c)1 8 [B c] [Br A G F#r]
+d2037 8
+a2044 4
+=2, 1 dr)4(4
+| 2.1
+=2, 1 dr)4(4
+| 2.15
+d2048 8
+a2055 1
+| 1.2 1.25
+d2057 7
+a2063 3
+=2, 1 dr)4(4
+| 1.3 1.35
+il0.5 .25 345
+d2065 6
+a2070 2
+=2, 1 dr)4(4
+| 1.4 1.45
+d2072 7
+a2078 2
+=2, 1 dr)4(4
+| 1.5 1.55
+d2085 1
+a2085 3
+/
+3 bars | 1b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 ||
+| 1.6 1.65
+d2092 1
+a2092 1
+| 1.7 1.8
+d2098 1
+a2098 1
+| 4.0
+@
+
+
+1.4
+log
+@up to bar 332
+@
+text
+@d1927 1
+a1927 1
+5 systems 8 /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+d1968 112
+a2079 1
+
+@
+
+
+1.3
+log
+@up to bar 327; last page now
+@
+text
+@d1935 34
+a1968 1
+=1' 
+@
+
+
+1.2
+log
+@up to bar 303
+@
+text
+@d1775 161
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d4 1
+a4 1
+innerhead J. S. Bach, completed by D. F. Tovey
+d183 2
+a184 2
+pagenum 5
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d356 2
+a357 2
+pagenum 6
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d529 2
+a530 2
+pagenum 7
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d692 2
+a693 2
+pagenum 8
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d811 2
+a812 2
+pagenum 9
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d930 2
+a931 2
+pagenum 10
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d1050 2
+a1051 2
+pagenum 11
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d1206 2
+a1207 2
+pagenum 12
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d1326 2
+a1327 2
+pagenum 13
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+d1441 334
+@

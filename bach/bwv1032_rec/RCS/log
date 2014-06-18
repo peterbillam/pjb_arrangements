@@ -35,3 +35,5 @@
 20001002 141215 score pjb fix bar 222 LH, use X-tr syntax for trills
 20060623 215019 bwv1032_rec pjb Bach BWV1032 transposed into C major
 20081110 101414 bwv1032_rec pjb bring muscript syntax up to date
+20140214 124641 title pjb moved to CC licence; respaced
+20140214 124710 Makefile pjb moved to update; cc_backpage

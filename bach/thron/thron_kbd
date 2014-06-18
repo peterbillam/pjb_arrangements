@@ -228,6 +228,8 @@ il0.3 .01 35
 |
 =1  8 [B_-s1-s3 C#-s2-s4] [D--s4 16 E-s1-s5 D--s4] \
  8 [C#-s1-s3 D-s2-s3] [E--s4 16 F-s1-s5 E]
+# 20140525 the gn in the last beat might be a g# ? must check
+# Scherchen thinks so, and Jagan-Nath:-('s cellist thinks so...
 =2' 8 [g 16 a g-s1] 8 [f g#] [a 16 b a-s1] 8 [gn-,-s1, a]
 =2, 4 E B A rest,
 rs0.1 .23 1 .49 1

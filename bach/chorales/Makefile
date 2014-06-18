@@ -1,14 +1,13 @@
 MUSCRIPT = /home/pbin/muscript
 NORMALIZE = /usr/bin/normalize-audio
 BLURB = /home/pjb/mus/blurb/compositions
-FREED = /home/pjb/www/mus/free
 ARRD = /home/pjb/www/mus/arr
 A4D = ${ARRD}/a4
 USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-BACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -28,36 +27,17 @@ P3_2 = p3_${PIECE2}
 dev : ${TITLE1}.a4 ${P2_1}.a4 ${PIECE1}.a4 \
  ${TITLE2}.a4 ${P2_2}.a4 ${P3_2}.a4 ${PIECE2}.a4 \
  o_welt_ich_muss.a4 o_wie_selig.a4 trumpet.a4 alan_chorales.a4 bs_chorales.a4
-all : ${FREED}/${PIECE1}.pdf \
-  ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf ${XMLD}/${PIECE1}.xml \
- ${FREED}/${PIECE2}.pdf \
-  ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf ${XMLD}/${PIECE2}.xml
+all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf ${XMLD}/${PIECE1}.xml \
+      ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf ${XMLD}/${PIECE2}.xml \
+      ${SRCD}/${PIECE1}.txt ${SRCD}/${PIECE2}.txt
 dist1:
 	upload ${A4D}/${PIECE1}.pdf
 	upload ${USD}/${PIECE1}.pdf
-	# scp -P 2223 ${XMLD}/${PIECE1}.xml ${DIST}/xml/
-	# scp -P 2223 ${XMLD}/${PIECE1}_readme.txt ${DIST}/xml/ 
-	scp -P 2223 ${PIECE1} ${DIST}/src/${PIECE1}.txt
+	upload ${SRCD}/${PIECE1}.txt
 dist2:
 	upload ${A4D}/${PIECE2}.pdf
 	upload ${USD}/${PIECE2}.pdf
-	# scp -P 2223 ${XMLD}/${PIECE2}.xml ${DIST}/xml/
-	# scp -P 2223 ${XMLD}/${PIECE2}_readme.txt ${DIST}/xml/ 
-	scp -P 2223 ${PIECE2} ${DIST}/src/${PIECE2}.txt
-
-${FREED}/${PIECE1}.pdf : ${TITLE1}.a4 ${P2_1}.a4 ${PIECE1}.a4 ${BACKPAGE}
-	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > $@
-	${ADDMESSAGE} ${PIECE1}.a4 \
-	| ${PSCAT} ${TITLE1}.a4 ${P2_1}.a4 - ${BACKPAGE} \
-	| ${A42US} -c \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-
-${FREED}/${PIECE2}.pdf : ${TITLE2}.a4 ${WARNING} ${P2_2}.a4 ${PIECE2}.a4 ${BACKPAGE}
-	${UTF2ISO} ${TITLE2} | groff -ms | ${BANNERISE} > $@
-	${ADDMESSAGE} ${PIECE2}.a4 \
-	| ${PSCAT} ${TITLE2}.a4 ${WARNING} ${P2_2}.a4 ${P3_2}.a4 - ${BACKPAGE} \
-	| ${A42US} -c \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+	upload ${SRCD}/${PIECE2}.txt
 
 ${A4D}/${PIECE1}.pdf : ${TITLE1}.a4 ${P2_1}.a4 ${PIECE1}.a4 ${BACKPAGE}
 	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > ${TITLE1}.a4

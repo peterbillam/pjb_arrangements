@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	pjb:1.1; strict;
+	pjb:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2014.05.28.08.31.17;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2013.05.17.23.54.17;	author pjb;	state Exp;
@@ -17,9 +22,9 @@ desc
 @
 
 
-1.1
+1.2
 log
-@Initial revision
+@cite Bachgesellschaft 1 via Dover as the source
 @
 text
 @.\" header = mushead
@@ -29,7 +34,7 @@ text
 .pl 11.7i
 .LP
 \&
-.sp 3.4c
+.sp 3.2c
 
 .LP
 .nh
@@ -56,6 +61,8 @@ achievements of the western musical tradition.
 .LP
 .nh
 It is offered here in a new edition, arranged for piano.
+The source was the first Bachgesellschaft edition,
+as reprinted by Dover in \f2Johann Sebastian Bach - Organ Music\fP.
 The phrasing and emphasis of all voices should accord to the text.
 The chorale melody (entering at bars 8, 19, 29 and 40)
 should be stronger and more sustained than
@@ -73,11 +80,26 @@ The long notes can be discreetly retaken, and preferably on the offbeats,
 so that for example the final G of fourteen beats could be taken as
 3 + 2 + 2 + 2 + 2 + 3 beats.
 Worth particular attention is the extraordinary beauty of the final cadence.
-.sp 1.5c
+.sp 1.2c
 
 .LP
 .ce 2
 Peter J Billam
 .br
 \f2www.pjb.com.au\fP
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d8 1
+a8 1
+.sp 3.4c
+d35 2
+d54 1
+a54 1
+.sp 1.5c
 @

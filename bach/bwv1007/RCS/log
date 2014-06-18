@@ -5,3 +5,5 @@
 20051128 190807 p2 pjb filled out; first published version
 20081110 074159 Makefile pjb Makefile for bwv1007
 20081110 074227 bwv1007 pjb bring muscript syntax up to date
+20140214 095638 title pjb title page, with CC licence
+20140214 095702 Makefile pjb use upload, and adopt cc_backpage
