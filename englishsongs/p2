@@ -1,19 +1,22 @@
 .\" header = mushead
 .AM
-.nr PS 12
-.nr VS 14
+.nr PS 14
+.nr VS 16
 .pl 11.7i
 .LP
 \&
 .sp 2.3c
 .LP
 .ce 1
-\f3\s+8Seven English Songs, for voice and guitar\s0\fP
+\f3\s+6Seven English Songs, for voice and guitar\s0\fP
 .sp 2.0c
 .LP
 I used these arrangements when I was a guitarist,
 accompanying the Swiss tenor Franz Anderegg in the late 1970's.
 .sp 1.1c
+.ce 1
+\f3I saw my Lady Weep\fP
+.sp 0.3c
 .LP
 .nf
 I saw my lady weep, and Sorrow proud to be advanced so

@@ -1,14 +1,12 @@
 MUSCRIPT = /home/pbin/muscript
 NORMALIZE = /usr/bin/normalize-audio
-BLURB = /home/pjb/mus/blurb/compositions
-FREED = /home/pjb/www/mus/free
 ARRD = /home/pjb/www/mus/arr
 A4D = ${ARRD}/a4
 USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-BACKPAGE = /home/pjb/mus/blurb/freebackpage
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -16,26 +14,17 @@ PSCAT = /home/pbin/pscat
 NROF = /home/pbin/nrof
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-DIST = pjb3265@loki.webcity.com.au:public_html/mus/arr
 PIECE = schubert_d4h
 
 dev : title.a4 p2.a4 ${PIECE}.a4 schubert_d2h.a4
-all : ${FREED}/${PIECE}.pdf \
- ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf
+all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf  ${SRCD}/${PIECE}.txt
  # ${XMLD}/${PIECE}.xml ${XMLD}/${PIECE}_readme.txt
 dist:
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf
-	# scp -P 2223 ${XMLD}/${PIECE}.xml ${DIST}/xml/
-	# scp -P 2223 ${XMLD}/${PIECE}_readme.txt ${DIST}/xml/ 
-	scp -P 2223 ${PIECE} ${DIST}/src/${PIECE}.txt
-
-${FREED}/${PIECE}.pdf : ${WARNING} p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
-	${UTF2ISO} title | groff -ms | ${BANNERISE} > title.a4
-	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 ${WARNING} p2.a4 - ${BACKPAGE}.a4 \
-	| ${A42US} -c \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+	# upload ${XMLD}/${PIECE}.xml
+	# upload ${XMLD}/${PIECE}_readme.txt
+	upload ${SRCD}/${PIECE}.txt
 
 ${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \

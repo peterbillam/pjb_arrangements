@@ -1,10 +1,15 @@
-head	1.8;
+head	1.9;
 access;
 symbols;
 locks
-	pjb:1.8;
+	pjb:1.9;
 comment	@# @;
 
+
+1.9
+date	2014.06.18.03.47.44;	author pjb;	state Exp;
+branches;
+next	1.8;
 
 1.8
 date	2008.09.15.00.07.56;	author pjb;	state Exp;
@@ -52,22 +57,23 @@ desc
 @
 
 
-1.8
+1.9
 log
-@update muscript syntax
+@squeezed onto 13 pages
 @
 text
-@6 systems /20-35-20/20-45-20/20-45-20/20-42-20/20-40-20/20-37-20/
+@6 systems 10 /19-35-19/19-40-19/19-40-19/19-40-19/19-35-19/19-35-19/
 pagenum 4
 title Contrapunctus 14
 innerhead J. S. Bach, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
-midi channel 1 patch 0
+midi channel 1 patch 0 pan75
+midi channel 2 patch 0 pan25
 /
 8 bars | 1b 2/2 4 | 4 | 3 | 3 | 3 | 4 | 4 | 4 |
 | 2/2 60
-=1 treble  1b channel1 smb rest
-=2' bass   1b channel1 smb rest'
+=1 treble  1b cha1 smb rest
+=2' bass   1b cha2 smb rest'
 =2, bass   1b min rest d
 |
 =1 smb rest
@@ -237,8 +243,8 @@ il0.3       30
 =2' min b)1 a(1
 =2, min. g qua [f# e]
 
-6 systems /20-45-20/20-35-20/20-40-20/20-40-20 5/20-40-20/20-45-20/
-pagenum 5
+6 systems /19-40-19/19-35-19/19-40-19/19-40-19 5/19-35-19/19-40-19/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
 /
@@ -410,8 +416,8 @@ il0.4      60
 =2' min d~ a
 =2, smb f
 
-6 systems /20-45-20/20-35-20/20-45-20/20-40-20 5/20-40-20/20-45-20/
-pagenum 6
+6 systems /19-40-19/19-35-19/19-45-19/19-40-19 5/19-40-19/19-35-19/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
 /
@@ -583,8 +589,8 @@ il0.4      90
 =2' smb a
 =2, smb f
 
-6 systems /20-40-20/20-35-20/20-50-20/20-40-20 5/20-50-20/20-40-20/
-pagenum 7
+6 systems /19-35-19/19-35-19/19-45-19/19-40-19 5/19-45-19/19-40-19/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
 /
@@ -746,8 +752,8 @@ il0.4      120
 =2' smb rest
 =2, smb rest,
 
-5 systems /20-40-20/20-35-20/20-45-20/20-45-20/20-45-20 10/
-pagenum 8
+5 systems /19-40-19/19-35-19/19-45-19/19-45-19/19-45-19 10/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
 /
@@ -865,8 +871,8 @@ il0.4      140
 =2' min c~ c~#
 =2, qua [A a g f] [e d e g]
 
-5 systems /20-45-20/20-45-20/20-45-20/20-50-20/20-50-20/
-pagenum 9
+5 systems /19-45-19/19-45-19/19-45-19/19-50-19/19-50-19/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
 /
@@ -984,8 +990,8 @@ il0.4         160
 =2' smb e~
 =2, cro g# min a cro g
 
-5 systems /20-40-20/20-45-20/20-45-20/20-45-20/20-45-20 8/
-pagenum 10
+5 systems /19-40-19/19-45-19/19-45-19/19-45-19/19-45-19 8/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
 /
@@ -1104,8 +1110,8 @@ il0.5      180
 =2' smb rest'
 =2, qua [G D G A] [B A G B]
 
-6 systems /20-40-20/20-35-20/20-45-20/20-40-20/20-45-20/20-45-20/
-pagenum 11
+6 systems /19-40-19/19-35-19/19-45-19/19-40-19/19-45-19/19-45-19/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
 /
@@ -1260,10 +1266,11 @@ il0.5      205
 =1, min. F qua [G F]
 =2, cro b f b a
 
-5 systems /20-45-20/20-50-20/20-45-20/20-45-20/20-45-20/
-pagenum 12
+6 systems /19-40-19/19-35-19/19-45-19/19-35-19/19-30-19/19-30-19/
+pagenum
 innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
 leftfoot typesetting (c) 1998 Peter Billam
+
 /
 5 bars | 1b 1 1 1.5 1 1 1.4 1 1 |8|8| 1 1 1 1.3 1 1 1 1|.9 .9 1.2 2.7 1.4 1 1 1|
 |
@@ -1348,7 +1355,7 @@ il0.5      220
 =2, bass   1b cro a, rest, min A
 |
 =1' min d(1 qua [d)1 f eb d]
-=1, qua [G)2 F# G A] cro B Bn
+=1, qua [G)2 F# G A] cro B Bnl
 =2' cro e qua [e f#] cro g fn
 =2, min B G
 |
@@ -1379,11 +1386,6 @@ il0.7        225
 =1, cro. Bn qua c# min d(2
 =2' min a)1(1 qua [a)1 smq g# f#] cro g(1
 =2, qua [e smq dn e] cro f(2 qua [f)2 Bn e d]
-
-5 systems /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
-pagenum 13
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
 3 bars | 1b 1 1 1 1.7 1 1.7 1 1 | 1 1.4 1 1 1 1 1 1.4 | 1 1.7 1 1 1 1.4 1 1 |
 |
@@ -1402,6 +1404,12 @@ il0.4    229
 =1, qua [d A] cro Br min A(2
 =2' cro a g(1 g)1 f(1
 =2, qua [d)2 smq e f] qua [e f] [c# A] [d cn]
+
+6 systems /19-40-19/19-45-19/19-45-19/19-40-19/19-45-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+
 /
 4 bars | 1b 1 1.4 1 1 1 1.3 1 1 | 1 1 1 1 1 1 1.3 1 | 1 1 1.3 1 1 1 1 1 | 1 1 1 1 1 1.4 1 1 |
 |
@@ -1487,11 +1495,6 @@ il0.5      245
 =1, smb Bn
 =2' qua [f~)1 e~ d~ c~n] [bn a b d~]
 =2, min e(2 qua [e)2 f# g e]
-
-5 systems /20-53-20/20-50-20/20-50-20/20-55-20/20-55-20/20-55-20/
-pagenum 14
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
 3 bars | 1b 1.3 1 1.3 1.3 1.3 1 1 1|1 1.3 1 1.3 1 1 1 1|1 1 1 1.3 1 1 1 1.3|
 |
@@ -1517,7 +1520,7 @@ leftfoot typesetting (c) 1998 Peter Billam
 =2 bass   1b qua [c~')1 b' a' f#'] [gr' a' b' c~']
 =2 bass   1b qua [f#, g, f, d,] cro d~, qua [g, a,]
 |
-il1.0 250
+il1.1 250
 =1 qua [e' f' g' e'] [f' e'] cro d'(1
 =1 qua [G, A,] cro B,(2 qua [B,)2 c, B, A,]
 =2 cro. d~' qua c~#' [d~' e~'] cro f~'(1
@@ -1528,6 +1531,12 @@ I0.2                               tr
 =1 min G, cro A, Bn,
 =2 qua [f~')1 bn' e~' d~'] [c~' b' a' g#']
 =2 smb e(2
+
+6 systems /19-40-19/19-55-19/19-40-19/19-40-19 5/19-45-19/19-45-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+
 /
 4 bars |1b 1.3 1 1.2 1 1 1 1 1 |1 1 1 1.2 1 1.4 1 1|1.2 1 1.2 1 1 2.3 1 1 | 1 1.5 1 1 1 1 1 1 |
 |
@@ -1546,13 +1555,13 @@ I0.2                               tr
 =2 cro rest'' c~'(1 qua [c~')1 smq d~' e~b' qua d~' c~']
 =2 min a, d,
 |
-il0.6     255
+il0.7     255
 =1 qua [A')1 smq B' c' qua B' A'] min G'(1
 =1 smb E
 =2 min b'(1 qua [b')1 c~' d~' c~']
 =2 cro. g, qua f, min e,(2
 /
-4 bars | 1b 1 1 1 1.4 1 1 1 1.4|1 1 1 1.5 1 1 1 1| 1.4 1.1 1.1 1.4 1 1 1 1 | 1 1 1 1.2 1 1.5 1 1 |
+4 bars | 1b 1 1 1 1.4 1.3 1 1 1.4|1 1 1 1.5 1 1 1 1| 1.4 1.1 1.1 1.4 1 1 1 1 | 1 1 1 1.2 1 1.5 1 1 |
 |
 =1 treble 1b qua [G')1 A' B' c'] [d' eb' d' B']
 =1 treble 1b smb D
@@ -1593,11 +1602,6 @@ il0.5     260
 =1 min A, D,
 =2 qua [c~#' d~'] cro e~' a' rest''
 =2 cro g,)2 qua [f, e,] [f, g, a, b,]
-
-5 systems /20-45-20/20-45-20/20-50-20/20-45-20/20-45-20/
-pagenum 15
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
 4 bars | 1b 8 | 1 1 1 1 1 1.6 1 1 | 8 | 1.3 1.3 1.2 1 1 1 1.2 1 |
 |
@@ -1633,7 +1637,7 @@ il0.4      265
 =2 cro. a' qua bn' cro c~' a'
 =2 cro. fn, qua g, min a,
 |
-il0.8 270
+il0.9 270
 =1 qua [d' c' d' f'] [e' d' c' B']
 =1 qua [F, E,] cro D, qua [G, F,] cro E,(2
 =2 cro bb' bn' min c~'(1
@@ -1666,6 +1670,12 @@ il0.3     275
 =1, cro. E qua F# min G(2
 =2' qua [d~)1 smq c~ b qua c~ d~] min e~b(1
 =2, qua [G F# G B] [A G A d]
+
+6 systems /19-45-19/19-40-19/19-40-19/19-45-19/19-35-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+
 /
 4 bars | 1b 1 1 1 1.4 1 1 1 1 | 1 1.3 1 1 1 1 1 1 | 1.3 1 1 1 1 1 1 1 | 8 |
 |
@@ -1691,7 +1701,7 @@ I0.2                        tr
 /
 4 bars | 1b 8 | 8 | 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1.3 1 1 |
 |
-il0.6     280
+il0.9 .01 280
 =1 treble 1b qua [c#' e'] cro A' min rest'
 =1 treble 1b cro G,)2 qua [F, E,] [F, G, A, B,]
 =2 bass   1b min a' d'
@@ -1711,11 +1721,6 @@ il0.6     280
 =1 qua [D, E, F, E,] min D,(2
 =2 min f'(1 qua [f')1 e' f#' g']
 =2 smb B
-
-5 systems /20-45-20/20-45-20/20-45-20/20-45-20/20-50-20/
-pagenum 16
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
 3 bars | 1b 4 3.5 | 1 1.7 1 1 1 1 1 1 | 1 1 1 1.7 1 1 1 1 |
 |
@@ -1753,7 +1758,7 @@ il0.5     285
 /
 3 bars | 1b 1 1.7 1 1 1 1 1.2 1.3 | 1 1 1.2 1 1 1 1 1 | 1 1 1 1 1 1.3 1 1 |
 |
-il0.7     290
+il0.9     290
 =1 treble 1b qua [d')1 smq c' Bn' qua c' d'] [c' B' A' G#']
 =1 treble 1b cro G,)2 min F#, cro Fn,
 =2 bass   1b min a'r e~'
@@ -1786,6 +1791,12 @@ il0.8               295
 =1, cro. A)2 smq [G# F#] min G
 =2' cro c~)1 qua [bn c~] cro. d~ smq [c~ b]
 =2 smb e
+
+6 systems /19-45-19/19-45-19/19-35-19/19-45-19/19-45-19/19-40-19/
+pagenum
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+
 /
 3 bars | 1b 1 1 1 1 1 1.3 1 1.3 | 8 | 1 1.3 1 1 1 1 1 1 |
 |
@@ -1803,17 +1814,12 @@ il0.8               295
 =1 qua [A,)2 smq B, A, qua G, F,] min E,(2
 =2 cro f~')1 qua [e~' d~'] min c~#'(1
 =2 smb e
-
-5 systems /20-50-20/20-45-20/20-50-20/20-50-20/20-50-20/
-pagenum 17
-innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
-leftfoot typesetting (c) 1998 Peter Billam
 /
-4 bars | 1b 1 1 1 1 1 1.4 1 1 | 1 1.4 1 1.3 1 1 1 1.4 | 1.3 1 1 1.3 1 1 1 1 | 1 1 1.3 1 1 1 1 1 |
+4 bars | 1b 1 1 1 1 1 1.4 1.3 1 | 1 1.4 1 1.3 1 1 1 1.4 | 1.3 1 1 1.3 1 1 1 1 | 1 1 1.3 1 1 1 1 1 |
 |
-=1 treble 1b qua [a' g' f' e'] min d'(1
-=1 treble 1b cro E,)2 qua [F, G,] [A, smq B, c, qua B, A,]
-=2 bass   1b cro c~')1 qua [d~' e~'] [f~' e~' d~' c~']
+=1' treble 1b qua [a g f e] min d(1
+=1, treble 1b cro E)2 qua [F G] [A smq B c qua B A]
+=2' bass   1b cro c~)1 qua [d~ e~] [f~ e~ d~ c~n]
 =2 bass   1b smb f
 |
 =1 qua [d')1 smq e' f' qua e' d'] [c#' e'] cro d'(1
@@ -1897,19 +1903,20 @@ il0.5   310
 =2 qua [b')1 a' g' f#'] [g' smq fn' e' qua f' g']
 =2 smb d)2(2
 /
-4 bars | 1b 6.7 | 1 1.9 1 1 1 1 1 1 | .5 .5 .5 .5 .6 .6 1 1 .75 .75 1.5 2.2 .6 .6 .7 .7 | 3.3 ||
-|
+4 bars | 1b 6.7 | .5 .5 1.1 0.8 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 .5 \
+ | .5 .5 .5 .5 .6 .6 1 1 .75 .75 1.5 2.2 .6 .6 .7 .7 | 3.3 ||
+| 2.1
 =1' treble 1b min A c
 =1, treble 1b min F(2 qua [F)2 G F E]
 =2' bass   1b qua [a g f g] min a(1
 =2  bass   1b smb d)2(2
-|
+| 1.1 1.15
 il0.6       315
 =1' cro. Bn qua c# min d(1
 =1, cro D G(2 qua [G)2 A G F]
 =2' qua [a)1 smq g f# qua g a] min b
 =2 smb d)2(2
-|
+| .6 .7 .8 .9
 =1' cro. d)1 smq [c# Bn] min c
 =1 qua [E, F, G, A,] cro Bbrl'(1 qua [B')1 smq A G]
 =1, min blank        qua [Bbrl(2 dsq B)2 A G F#] cro E
@@ -1920,6 +1927,130 @@ il0.6       315
 =1 smb <F# A>
 =2 smb <f# a fermata>
 =2 smb d)2
+@
+
+
+1.8
+log
+@update muscript syntax
+@
+text
+@d1 1
+a1 1
+6 systems /20-35-20/20-45-20/20-45-20/20-42-20/20-40-20/20-37-20/
+d6 2
+a7 1
+midi channel 1 patch 0
+d11 2
+a12 2
+=1 treble  1b channel1 smb rest
+=2' bass   1b channel1 smb rest'
+d182 2
+a183 2
+6 systems /20-45-20/20-35-20/20-40-20/20-40-20 5/20-40-20/20-45-20/
+pagenum 5
+d355 2
+a356 2
+6 systems /20-45-20/20-35-20/20-45-20/20-40-20 5/20-40-20/20-45-20/
+pagenum 6
+d528 2
+a529 2
+6 systems /20-40-20/20-35-20/20-50-20/20-40-20 5/20-50-20/20-40-20/
+pagenum 7
+d691 2
+a692 2
+5 systems /20-40-20/20-35-20/20-45-20/20-45-20/20-45-20 10/
+pagenum 8
+d810 2
+a811 2
+5 systems /20-45-20/20-45-20/20-45-20/20-50-20/20-50-20/
+pagenum 9
+d929 2
+a930 2
+5 systems /20-40-20/20-45-20/20-45-20/20-45-20/20-45-20 8/
+pagenum 10
+d1049 2
+a1050 2
+6 systems /20-40-20/20-35-20/20-45-20/20-40-20/20-45-20/20-45-20/
+pagenum 11
+d1205 2
+a1206 2
+5 systems /20-45-20/20-50-20/20-45-20/20-45-20/20-45-20/
+pagenum 12
+d1209 1
+d1294 1
+a1294 1
+=1, qua [G)2 F# G A] cro B Bn
+a1324 5
+
+5 systems /20-45-20/20-50-20/20-45-20/20-50-20/20-45-20/20-45-20/
+pagenum 13
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+d1343 6
+a1433 5
+
+5 systems /20-53-20/20-50-20/20-50-20/20-55-20/20-55-20/20-55-20/
+pagenum 14
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+d1459 1
+a1459 1
+il1.0 250
+d1470 6
+d1494 1
+a1494 1
+il0.6     255
+d1500 1
+a1500 1
+4 bars | 1b 1 1 1 1.4 1 1 1 1.4|1 1 1 1.5 1 1 1 1| 1.4 1.1 1.1 1.4 1 1 1 1 | 1 1 1 1.2 1 1.5 1 1 |
+a1540 5
+
+5 systems /20-45-20/20-45-20/20-50-20/20-45-20/20-45-20/
+pagenum 15
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+d1576 1
+a1576 1
+il0.8 270
+d1609 6
+d1640 1
+a1640 1
+il0.6     280
+a1659 5
+
+5 systems /20-45-20/20-45-20/20-45-20/20-45-20/20-50-20/
+pagenum 16
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+d1697 1
+a1697 1
+il0.7     290
+d1730 6
+a1752 5
+
+5 systems /20-50-20/20-45-20/20-50-20/20-50-20/20-50-20/
+pagenum 17
+innerhead J. S. Bach, Contrapunctus 14, completed by D. F. Tovey
+leftfoot typesetting (c) 1998 Peter Billam
+d1754 1
+a1754 1
+4 bars | 1b 1 1 1 1 1 1.4 1 1 | 1 1.4 1 1.3 1 1 1 1.4 | 1.3 1 1 1.3 1 1 1 1 | 1 1 1.3 1 1 1 1 1 |
+d1756 3
+a1758 3
+=1 treble 1b qua [a' g' f' e'] min d'(1
+=1 treble 1b cro E,)2 qua [F, G,] [A, smq B, c, qua B, A,]
+=2 bass   1b cro c~')1 qua [d~' e~'] [f~' e~' d~' c~']
+d1842 3
+a1844 2
+4 bars | 1b 6.7 | 1 1.9 1 1 1 1 1 1 | .5 .5 .5 .5 .6 .6 1 1 .75 .75 1.5 2.2 .6 .6 .7 .7 | 3.3 ||
+|
+d1849 1
+a1849 1
+|
+d1855 1
+a1855 1
+|
 @
 
 

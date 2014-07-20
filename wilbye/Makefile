@@ -1,14 +1,12 @@
 MUSCRIPT = /home/pbin/muscript
 NORMALIZE = /usr/bin/normalize-audio
-BLURB = /home/pjb/mus/blurb/compositions
-FREED = /home/pjb/www/mus/free
 ARRD = /home/pjb/www/mus/arr
 A4D = ${ARRD}/a4
 USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-BACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -23,7 +21,7 @@ TITLE2 = title_fl
 
 
 dev : ${TITLE1}.a4 ${TITLE2}.a4 p2.a4 ${PIECE1}.a4 ${PIECE2}.a4
-all : ${FREED}/${PIECE1}.pdf ${FREED}/${PIECE2}.pdf \
+all : \
  ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
  ${A4D}/${PIECE2}.pdf  ${USD}/${PIECE2}.pdf \
  ${SRCD}/${PIECE1}.txt ${SRCD}/${PIECE2}.txt \
@@ -33,14 +31,14 @@ all : ${FREED}/${PIECE1}.pdf ${FREED}/${PIECE2}.pdf \
 dist1:
 	upload ${A4D}/${PIECE1}.pdf
 	upload ${USD}/${PIECE1}.pdf
-	upload ${XMLD}/${PIECE1}.xml
-	# scp -P 2223 ${XMLD}/${PIECE1}_readme.txt
+	# upload ${XMLD}/${PIECE1}.xml
+	# upload ${XMLD}/${PIECE1}_readme.txt
 	upload ${SRCD}/${PIECE1}.txt
 dist2:
 	upload ${A4D}/${PIECE2}.pdf
 	upload ${USD}/${PIECE2}.pdf
-	upload ${XMLD}/${PIECE2}.xml
-	# scp -P 2223 ${XMLD}/${PIECE2}_readme.txt ${DIST}/arr/xml/ 
+	# upload ${XMLD}/${PIECE2}.xml
+	# upload ${XMLD}/${PIECE2}_readme.txt ${DIST}/arr/xml/ 
 	upload ${SRCD}/${PIECE2}.txt
 
 ${A4D}/${PIECE1}.pdf : ${TITLE1}.a4 p2.a4 ${PIECE1}.a4 ${BACKPAGE}
@@ -95,7 +93,7 @@ ${MP3D}/${PIECE2}.mp3 : ${PIECE2}
 ${TITLE1}.a4 : ${TITLE1}
 	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > $@
 ${TITLE2}.a4 : ${TITLE2}
-	${UTF2ISO} ${TITLE1} | groff -ms | ${BANNERISE} > $@
+	${UTF2ISO} ${TITLE2} | groff -ms | ${BANNERISE} > $@
 p2.a4 : p2
 	${UTF2ISO} p2 | groff -ms | ${BANNERISE} > $@
 ${PIECE1}.a4 : ${PIECE1}

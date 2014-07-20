@@ -1,0 +1,31 @@
+.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 5.0c
+.ce 100
+\f3\s+9\s+9Contrapunctus 14\s-9\s-9\fP
+.sp 2.5c
+\f3\s+9Die Kunst Der Fuge\s0\fP
+.sp 1.0c
+\f2\s+9by J. S. Bach\s0\fP
+.sp 1.0c
+\f2\s+4BWV 1008,19\s0\fP
+.sp 1.3c
+\f2\s+7completed by Zoltán Göncz\s0\fP
+.sp 1.3c
+\f2\s+5Typeset by Peter Billam\s0\fP
+.sp 0.7c
+\f3\s+4For Keyboard\s0\fP
+.sp 1.4c
+\(co Peter J Billam, 2014
+.sp 0.7c
+\s-1This score is offered under the \f2Creative Commons
+Attribution 4.0 International\fP licence; see \f2creativecommons.org\fP
+The copyright owner remains the composer, Peter Billam.\s0
+.sp 0.7c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.7c
+\f2www.pjb.com.au\fP

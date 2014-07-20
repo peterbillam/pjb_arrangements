@@ -1,0 +1,342 @@
+head	1.4;
+access;
+symbols;
+locks
+	pjb:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2014.07.16.03.43.47;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.07.05.03.35.23;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.06.30.06.31.27;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.06.30.03.40.19;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@My guitar arrangement of The Enterntainer
+@
+
+
+1.4
+log
+@plausibly releaseable ?
+@
+text
+@5 systems 20 / 19/ 19 8/ 19 5/ 19 5/ 19 20/
+title The Entertainer
+pagenum
+innerhead Scott Joplin
+leftfoot Arranged for guitar by Peter Billam
+midi channel 0 patch 24
+/
+2 bars | 3# 6 6 6 6 6 6 5 5 6 6 6 6 6 6 5 4 \
+ | 6 6 6 6 6 6 7 6 5 5 5 5 6 6 7 5 ||
+| .24 .22 .23 .22 .24 .22 .23 .22 .24 .22 .23 .22 .24 .22 .23 .22
+=1 treble8vab 3# cha0 leg100 \
+ 16 [b-s4-gs2 c~-s1-gs1 a-s2-gs2 f(1--s3-gs3] [f)1 g-s1-gs2 8 e-s0] \
+ 16 [B'-s0 c'-s1-gs3 A-s2-gs4 F(2-s4-gs5] [F)2 G-s1-gs3 8 E-s2-gs5]
+|
+=1 16 [B_{2-s2-gs5 C}2-s4 A_-s0 F_(2-s2-gs6] [F_)2 G_-s4 F_-s2 F_n-s1] \
+ 8 E_ rest 16 <g d~x e~-s2-s4-s1> rest [B-s0 cn-s2-gs3]
+
+/
+2 bars ||: 3# 6 5 6 7 6 5 7 6 5 5 5 5 6 6 6 4 \
+ | 6 6 6 6 6 6 6 6 5 5 5 5 6 6 7 5 |
+|
+=1' 16 [c-s2-gs3 8 a-s1 16 e] 8 [<gn-s4-s1 ax> 16 er--s0 a(1] \
+ 4 a)1 16 rest'' [a b c~n]
+=1, 8 [A_ A-s3,-gs4,] [A_ <A-s3,-gs4, gn-s4>] \
+ [<D d f> <D d f>  <D d(4 fn(2> <D d)4 f)2>]
+|
+=1' 16 [c~-s1-s4 a b c~(1] [c~)1 g-s4 8 b] \
+ 4 <c a> 16 rest' [A-s4-gs4 B-s0 cn-s2-gs3]
+=1, 8 [<E_ e> <E_ e>] [<E_ d(2> <E-s3, d)2>] [A E-s3, A_] rest,,
+/
+2 bars | 3# 6 5 6 7 6 5 7 6 5 5 5 5 6 6 6 4 \
+ | 6 6 6 6 6 6 6 6 5 5 5 5 6 6 7 5 |
+|
+b1.4 .99 C.VII
+=1' 16 [c-s2-gs3 8 a-s1 16 e] 8 [<gn-s4-s1 ax> 16 er--s0 a(1] \
+ 4 a)1 16 rest'' [a-s1 f-s4 e-s0]
+=1, 8 [A_ A-s3,-gs4,] [A_ <A-s3,-gs4, gn-s4>] \
+ [<D d f> <D d f>  <A_ c(4 e> <A_ c)4>]
+|
+=1' 16 [d# f-s1 a-s4 c~(1-s3] [c~)1 b a f] \
+ 4 <e g b--s3-s4-s1> 16 rest' [A-s2-gs4 B-s0 cn-s2-gs3]
+=1, 8 [B_-s1, B_ B_ B_] [E-s1, D-s0, C-s4,-gs6, B_-s4,-gs6,]
+/
+2 bars | 3# 6 5 6 7 6 5 7 6 5 5 5 5 6 6 7 4 \
+ | 6 6 6 6 6 6 5 5 5 5 5 5 6 6 7 5 |
+|
+=1' 16 [c-s2-gs3 8 a-s1 16 e] 8 [<gn-s4-s1 ax> 16 er--s0 a(1] \
+ 4 a)1 16 rest'' [a b c~n]
+=1, 8 [A_ A-s3,-gs4,] [A_ <A-s3,-gs4, gn-s4>] \
+ [<D d f> <D d f>  <D d(4 fn(2> <D d)4 f)2>]
+|
+=1' 16 [c~ a b c~(1] [c~)1 g-s4 8 b] \
+ 4 <c a> 16 rest' [a-s1 b-s2 c~n-s3]
+=1, 8 [<E_ e> <E_ e>] [<E_ d(2> <E-s3, d)2>] [A E-s3, A_] rest,,
+/
+2 bars | 3# 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 \
+  | 3 3 3 3 3 3 4 3 2 2 2 2 3 3 4 3 :|| 2 2 2 2 3 3 4 3 |
+|
+=1' 16 [c~-s3 a-s4 b-s1 c~(2-s3] [c~)2 a-s4 b-s1 a] [c~ a b c~(2] [c~)2 a b a]
+=1, 8 [A-s1, A Gn-s0, G] [F-s2, F Fn-s2, F]
+|
+rl2.0 .49 ____________
+bl1.2 .49 1a
+=1' 16 [c~-s3 a-s4 b-s1 c~(2-s3] [c~)2 g-s4 8 <d g b-s1-s4-s1>] \
+ 4 <c e a> 16 rest' [A-s4-gs4 B-s0 cn-s2-gs3]
+=1, 8 [E-s1, E] 4 E_ 8 [A-s3,-gs4, E-s3,-gs5, A_-s0,] rest,,
+| .24 .22 .23 .22 .24 .22 .23 .22
+rl2.0 .03 ____________
+bl1.2 .03 2a
+=1' 4 <c e a> 16 rest' [<A c-s1-s1> <B d-s3-s2> <B# d#-s3-s2>]
+=1, 8 [A-s3,-gs4, E-s3,-gs5, A_-s0,] rest,,
+
+5 systems 20 / 19/ 19 8/ 19 5/ 19 5/ 19 20 /
+pagenum
+innerhead The Entertainer,   Scott Joplin
+leftfoot Arranged for guitar by Peter Billam
+
+/
+2 bars | 3# 6 6 6 6 6 7 8 6 5 5 6 6 6 6 6 4 \
+ | 6 6 6 6 6 6 6 6 6 6 6 6.5 6 6 6 4 |
+| .24 .22 .23 .22 .24 .22 .23 .22 .24 .22 .23 .22 .24 .22 .23 .22
+=1' 16 [<c e-s2-s0> rest' <B# f-s1-s3> <c(2 e(1-s2-s0>] \
+ 16 [<c)2 e)1> <A c-s1-s1> <Bn d-s3-s2> <B#l d#-s3-s2>] \
+ 8 [<c e> 16 <B# f> <c(2 e(1>] 16 [<c)2 e)1> c-s1 A-s1 E-s1]
+=1, 8 [A_ A_ A_ E_] [A_ A_ A_] rest,,
+|
+=1' 16 [F-s3 G-s1 A-s1 B-s0] [c{'1--s1 B}'1 A B] \
+ [E c{'1 d}'1 e-s0] [f{'1--s1-s2-s4 e}'1 c-s2 d-s3]
+=1, 8 [D-s4, <D-s3,-s4, F>] [<D-s2,-s4, Fn> <D Fn>] 8 C rest,, 4 <E_ G cn>
+/
+2 bars | 3# 6 6 6 6 6 7 8 6 5 5 6 6 6 6 7 4 \
+ | 6 5 5 6 6 6 6 6 5 5 5 5 6 7 7 4 |
+|
+=1' 16 [<c e-s2-s0> rest' <B# f-s1-s3> <c(2 e(1-s2-s0>] \
+ 16 [<c)2 e)1> <A c-s1-s1> <Bn d-s3-s2> <B#l d#-s3-s2>] \
+ 8 [<c e> 16 <B# f> <c(2 e(1>] 16 [<c)2 e)1> e f-s2-s3 gn]
+=1, 8 [A_ A_ A_ E_] [A_ A_ A_ <A_#-s1, c>]
+|
+=1' 16 [g# 8 g 16 <A(2 g(1-s2-s4>] [<A)2 g)1> f-s3 d#-s4 B-s0] 4 e \
+ 16 rest' [c-s2 dn-s2 d#-s4]
+=1, 8 [<B_ B> B_] 4 B_ 8 [<E G B> D C-s4, B_-s1,]
+/
+2 bars | 3# 6 6 6 6 6 7 8 6 6 5 5 6 6 6 6 4 \
+ | 6 6 6 6 6 6 6 6 5 5 5 5 6 7 6 4 |
+|
+=1' 16 [<c e-s2-s0> rest' <B# f-s1-s3> <c(2 e(1-s2-s0>] \
+ 16 [<c)2 e)1> <A c-s1-s1> <Bn d-s3-s2> <B#l d#-s3-s2>] \
+ 8 [<c e> 16 <B# f> <c(2 e(1>] 16 [<c)2 e)1> c-s1 A-s1 E-s1]
+=1, 8 [A_ A_ A_ E_] [A_ A_ A_] rest,,
+|
+=1' 16 [F-s3 G-s1 A-s1 B-s0] [c{'1--s1 B}'1 A B] \
+ 4 A-s1-s1 16 rest [E-s2 D#{2-s1 E}2-s1]
+=1, 8 [D-s4, <D-s3,-s4, F>] [<D-s2,-s4, Fn> <D Fn>] 8 [<C-s3, E> E] 4 A_
+/
+2 bars | 3# 48 | 24 20 ||
+|
+=1' 8 [A-s1 16 F A('1] [A)'1 F-s2 A F] [E A c e('1] [e)'1 c A E]
+#P=1, 8 [<D-s3,-s4, F> <D F>] 4 D#-s4, 8. [E 16 E_(2] 4 E_)2
+#M=1, 8 [<D F> <D F>] 4 D# 8. blank 16 E_(2 4 E_)2
+|
+Il.30 .75 Da Capo
+=1' 16 [F  rest A] rest [c{'1 8 B}'1 16 <E(2 A(1>] 4. <E)2 A)1> 8 rest
+=1, 16 [B_ rest,, <B_ D#>] rest,, 8 [<E_ Dn G> E_] [A_r E_ A_] rest,,
+
+/
+3 bars | 3# 36 | 6 6 6 6 6 6 5 5 6 6 6 6 6 6 4 4 \
+ | 6 6 6 6 6 6 7 6 6 6 6 6 4 4 4 4 ||
+| .24 .22 .23 .22 .24 .22 .23 .22
+rl2.0 .03 ____________
+bl1.2 .03 3a
+=1' 4 <c e a> rest'
+=1, 8 [A-s3,-gs4, E-s3,-gs5, A_-s0,] rest,,
+| .24 .22 .23 .22 .24 .22 .23 .22 .24 .22 .23 .22 .24 .22 .23 .22
+=1 \
+ 16 [b-s4-gs2 c~-s1-gs1 a-s2-gs2 f(1--s3-gs3] [f)1 g-s1-gs2 8 e-s0] \
+ 16 [B'-s0 c'-s1-gs3 A-s2-gs4 F(2-s4-gs5] [F)2 G-s1-gs3 8 E-s2-gs5]
+|
+=1 16 [B_{2-s2-gs5 C}2-s4 A_-s0 F_(2-s2-gs6] [F_)2 G_-s4 F_-s2 F_n-s1] \
+ 8 E_ 16 <g d~x e~-s2-s4-s1> rest 4 <A_, gnl c~# f~#-s1-s4-s4>
+@
+
+
+1.3
+log
+@notes up to end of chorus; just recaps now...
+@
+text
+@d1 1
+a1 1
+6 systems 20 / 19/ 19 8/ 19 5/ 19 5/ 19/ 19 15/
+d8 2
+a9 1
+2 bars | 3# 48 | 48 ||
+d17 1
+d19 2
+a20 1
+2 bars ||: 3# 48 | 48 |
+d22 1
+a22 1
+=1' 16 [c-s2-gs3 8 a-s1 16 c] 8 [<gn ax> 16 er--s0 a(1] \
+d24 1
+a24 1
+=1, 8 [A_ A-s4,-gs4,] [A_ <A-s4,-gs4, gn-s4>] \
+d27 1
+a27 1
+=1' 16 [c~ a b c~(1] [c~)1 g 8 b] \
+d29 1
+a29 1
+=1, 8 [<E_ e> <E_ e>] [<E_ d(2> <E d)2>] [A E-s4, A_] rest,,
+d31 2
+a32 1
+2 bars | 3# 48 | 48 |
+d35 1
+a35 1
+=1' 16 [c-s2-gs3 8 a-s1 16 c] 8 [<gn ax> 16 er--s0 a(1] \
+d37 1
+a37 1
+=1, 8 [A_ A-s4,-gs4,] [A_ <A-s4,-gs4, gn-s4>] \
+d42 1
+a42 1
+=1, 8 [B_-s1, B_ B_ B_] [E-s1, D-s0, C-s4,-gs6, B_-s4]
+d44 2
+a45 1
+2 bars | 3# 48 | 48 |
+d47 1
+a47 1
+=1' 16 [c-s2-gs3 8 a-s1 16 c] 8 [<gn ax> 16 er--s0 a(1] \
+d49 1
+a49 1
+=1, 8 [A_ A-s4,-gs4,] [A_ <A-s4,-gs4, gn-s4>] \
+d52 1
+a52 1
+=1' 16 [c~ a b c~(1] [c~)1 g 8 b] \
+d54 1
+a54 1
+=1, 8 [<E_ e> <E_ e>] [<E_ d(2> <E d)2>] [A E-s4, A_] rest,,
+d56 2
+a57 1
+2 bars | 3# 48 | 3 3 3 3 3 3 4 3 2 2 2 2 3 3 4 3 :|| 2 2 2 2 3 3 4 3 |
+d59 1
+a59 1
+=1' 16 [c~-s3 a-s4 b-s1 c~(1-s3] [c~)1 a-s4 b-s1 a] [c~ a b c~(1] [c~)1 a b a]
+d62 3
+a64 3
+rl2.0 .48 ____________
+bl1.2 .48 1a
+=1' 16 [c~-s3 a-s4 b-s1 c~(1-s4] [c~)1 g-s3 8 <d g b-s1-s3-s1>] \
+d66 1
+a66 1
+=1, 8 [E-s1, E] 4 E_ 8 [A-s4,-gs4, E-s4,-gs5, A_-s0,] rest,,
+d71 7
+a77 1
+=1, 8 [A-s4,-gs4, E-s4,-gs5, A_-s0,] rest,,
+d79 2
+a80 1
+2 bars | 3# 48 | 48 |
+d83 1
+a83 1
+ 16 [<c)2 e)1> <A c-s1-s1> <Bn d-s3-s2> <B# d#-s3-s2>] \
+d87 2
+a88 1
+=1' 16 [F-s3 G-s1 A-s1 B-s0] [c{'1 B}'1 A B] [E c{'1 d}'1 e] [f{'1 e}'1 c d]
+a89 5
+
+7 systems 20 / 19/ 19 8/ 19 5/ 19 5/ 19/ 19/ 19/
+pagenum
+innerhead The Entertainer,   Scott Joplin
+leftfoot Arranged for guitar by Peter Billam
+d91 2
+a92 1
+2 bars | 3# 48 | 48 |
+d95 3
+a97 3
+ 16 [<c)2 e)1> <A c-s1-s1> <Bn d-s3-s2> <B# d#-s3-s2>] \
+ 8 [<c e> 16 <B# f> <c(2 e(1>] 16 [<c)2 e)1> e f gn]
+=1, 8 [A_ A_ A_ E_] [A_ A_ A_ <A_# c>]
+d103 2
+a104 1
+2 bars | 3# 48 | 48 |
+d107 1
+a107 1
+ 16 [<c)2 e)1> <A c-s1-s1> <Bn d-s3-s2> <B# d#-s3-s2>] \
+d111 1
+a111 1
+=1' 16 [F-s3 G-s1 A-s1 B-s0] [c{'1 B}'1 A B] \
+d115 1
+a115 1
+2 bars | 3# 48 | 48 |
+d117 2
+a118 2
+=1' 8 [A 16 F A('1] [A)'1 F A F] [E A c e('1] [e)'1 c A E]
+#P=1, 8 [<D F> <D F>] 4 D# 8. [E 16 E_(2] 4 E_)2
+d121 2
+a122 1
+=1' 16 [F  rest A] rest [c{'1 8 B}'1 16 <E(2 A(1>] 4. <E)2 A)1> 8 rest'
+d124 16
+@
+
+
+1.2
+log
+@roughly up to 10 bars
+@
+text
+@d1 1
+a1 1
+8 systems 20 / 19/ 19 8/ 19 5/ 19 5/ 19/ 19/ 19/ 19/
+d30 1
+a35 1
+I1.1 VII
+d51 1
+a51 1
+2 bars | 3# 48 | 48 :||
+d56 2
+d59 1
+a59 1
+ 4 <c e a-s2-s1-s1> 16 rest' [A-s4-gs4 B-s0 cn-s2-gs3]
+d61 51
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+10 systems 20 / 19 /
+d8 2
+a9 2
+2 bars | 3# 48 | 48 |
+| 3.6
+d17 23
+d42 3
+a44 2
+=1' 16 [c-s2 8 a-s1 16 c] 8 [<gn ax> 16 cr a(1] 4 a)1 16 rest'' [a b c~n]
+=1, 8 [A_ A-s4,-gs4,] [A_ <A-s4,-gs4, gn>] \
+d47 12
+a58 2
+=1' 16 [c~ a b c~(1] [c~)1 g 8 b] 4 <c a> 16 rest' [A B cn]
+=1, 8 [<E_ e> <E e> <E_ d(2> <E d)2>] [A E A_] rest,,
+@

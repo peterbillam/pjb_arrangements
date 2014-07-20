@@ -1,13 +1,12 @@
 MUSCRIPT = /home/pbin/muscript
 BLURB = /home/pjb/mus/blurb/compositions
-FREED = /home/pjb/www/mus/free
 ARRD = /home/pjb/www/mus/arr
 A4D = ${ARRD}/a4
 USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-BACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -15,7 +14,6 @@ PSCAT = /home/pbin/pscat
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 UPLOAD = /home/pbin/upload
-DIST = pjb3265@loki.webcity.com.au:public_html/mus/arr
 PIECE = bushband
 PLAY = reels
 
@@ -28,7 +26,7 @@ all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf  ${SRCD}/${PIECE}.txt
 dist :
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf
-	scp -P 2223 ${PIECE} ${DIST}/src/${PIECE}.txt
+	upload ${SRCD}/${PIECE}.txt
 	# upload ${MP3D}/bushband_polkas.mp3
 	# upload ${MP3D}/bushband_jigs.mp3
 	# upload ${MP3D}/bushband_waltzes.mp3

@@ -13,7 +13,7 @@ ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 UPLOAD  = /home/pbin/upload
 PIECE1  = book1
-PLAY    = f_d
+PLAY    = f_bb
 
 dev : ${PIECE1}.a4 title_${PIECE1}.a4
 

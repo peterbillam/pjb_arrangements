@@ -111,20 +111,20 @@ dist14s :
 	upload ${A4D}/${PIECE14S}.pdf
 	upload ${USD}/${PIECE14S}.pdf
 	upload ${SRCD}/${PIECE14S}.txt
-dist14gkk :
+dist14gk :
 	upload ${A4D}/${PIECE14GK}.pdf
 	upload ${USD}/${PIECE14GK}.pdf
 	upload ${SRCD}/${PIECE14GK}.txt
-dist14gkr :
+dist14gr :
 	upload ${A4D}/${PIECE14GR}.pdf
 	upload ${USD}/${PIECE14GR}.pdf
 	upload ${SRCD}/${PIECE14GR}.txt
-dist14gks :
+dist14gs :
 	upload ${A4D}/${PIECE14GS}.pdf
 	upload ${USD}/${PIECE14GS}.pdf
 	upload ${SRCD}/${PIECE14GS}.txt
 play :
-	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat trim 470
+	muscript -midi ${PLAY} | midisox_lua - - stat | aplaymidi -p TiMidity - &
 play1 :
 	${MUSCRIPT} -midi ${PIECE1} | aplaymidi - &
 play2 :
@@ -380,8 +380,10 @@ ${MP3D}/${PIECE14K}.mp3 : ${PIECE14K}
 	rm t.wav
 ${PIECE14K}.a4 : ${PIECE14K}
 	${MUSCRIPT} ${PIECE14K} > $@
+	pkill -HUP gv
 title_${PIECE14K}.a4 : title_${PIECE14K}
 	${UTF2ISO} title_${PIECE14K} | groff -ms | ${BANNERISE} > $@
+	pkill -HUP gv
 
 ${A4D}/${PIECE14R}.pdf : p2_c14.a4 p3_c14.a4 ${PIECE14R}.a4 ${BACKPAGE}
 	${UTF2ISO} title_${PIECE14R} | groff -ms | ${BANNERISE} > title_${PIECE14R}.a4

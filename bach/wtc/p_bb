@@ -71,7 +71,7 @@ rs0.7 .753 1
 |
 =1' 8 [Br-s2-s3-s5 16 A-s1-s2-s4 Gn] 8 [A A-s1-s4-s5] 8 [A 16 G-s1-s3 A] 8 [B G]
 =1, 8 [<Enlr Gn> <C F>] rest,, <C F> [<D F> <B_ D>] rest,, <B_ D>
-=2  8 [c,-s3, 16 f-s1, eb] 8 [db' c] [B B-s1,-s5,] [B B]
+=2  8 [c,-s5, 16 f-s1, eb] 8 [db' c] [B B-s1,-s5,] [B B]
 |
 il0.8 .01 10
 =1' 8 [En c(1-s2-s5] [c)1 16 B-s1-s4 A] \
@@ -96,7 +96,8 @@ il0.8 .01 10
 =2, 8 [B A] [d-s1,-s3, c] [B dr-s2,-s4, c-s2,-s5, c]
 
 
-6 systems /18-33-18/18-41-18/18-42-18/18-38-18/18-40-18/18-40-18 5/
+6 systems /18-32-18/18-41-18 4/18-42-18 \
+ /18-38-18 4/18-40-18/18-39-18 5/
 pagenum
 innerhead Prelude XXII in b-flat minor, Book 1, WTC, J. S. Bach
 /
@@ -113,7 +114,7 @@ innerhead Prelude XXII in b-flat minor, Book 1, WTC, J. S. Bach
  8 rest, 16 [<C-s1, E-s1> <D-s2, F-s2>] 4 <E-s1, G-s1>
 =2, 4 e 8 rest e 4 a-s3, 8 rest a-s3,
 /
-2 bars | 5b 80 | 80 |
+2 bars | 5b 9 10 9 10 9 10 9 10 | 80 |
 |
 il0.8  15
 =1' 4 f-s5 8 rest'-s1 16 [d-s1-s4 c-s3] 8 [B-s1-s2 B] [g-s2-s5 16 g f]
@@ -127,7 +128,7 @@ il0.8  15
 =2' 8 [g~ g~] [g~ f~] 2 blank
 =2, 8 [c~-s1,-s4, 16 c~-s1,-s3, b] 8 [an a] [e~ 16 f~-s1, e~] 8 [d~n d~]
 /
-2 bars | 5b 80 | 80 |
+2 bars | 5b 80 | 9 10 9 10 9 10 9 10 |
 |
 =1' 8 [<f gx> <e g>] [<e g> <e g>] [g f-s2-s4] [f-s2-s5 16 g-s1-s5 f]
 =1, 8 [B B] [B 16 An B] 8 [<c e> 16 <F d> <E-s2, c-s1>] 8 [<D B> <D B>]
@@ -141,7 +142,7 @@ il0.8  15
 =2, 8 [g 16 g-s2,-s4, f-s1,-s5,] 8 [e-s1,-s4, 16 e-s2, d] \
  8 [c 16 c-s1, B] 8 [An F]
 /
-2 bars | 5b 80 | 80 |
+2 bars | 5b 9 10 9 10 9 10 9 10 | 80 |
 |
 =1' 2 d(1 8 [d)1 16 g-s4 f-s5] [e-s4 d-s3 c-s1-s2-s5 B-s1-s4]
 =1, 4 <F B> 8 rest, <F B> 4 <G B> 8 rest, G
@@ -155,7 +156,7 @@ il0.6 .33 20
 =2' 8 [c~ 16 an b] 8 [c~ c~] 4 b 8 rest'' d~
 =2 8 F [f-s3,-s5, f f] [f f f f]
 /
-2 bars | 5b 80 | 80 |
+2 bars | 5b 80 | 20 20 17 19 |
 |
 =1' 8 [<Gnr B> 16 An-s1-s3 <G B>] 8 [<A c> <A c>] \
  [<A c> 16 <G B> <A c>] 8 [<B d-s4-s5> <B d>]
@@ -172,7 +173,7 @@ il0.6 .33 20
  8 [<c e> 16 <c-s1,-s2,-s3, e> <B-s2,-s4, d>] 4 <An c e> 8 rest an
 
 /
-2 bars | 5b 4/4 80 | 40 25 ||
+2 bars | 5b 4/4 80 | 9 10 9 10 6 6 6 6 ||
 | .76 .73 .76 .80 .75 .76 .75 .76
 =1' 8 [d-s2-s4 16 e-s2-s5 c-s1-s4] 8 [d-s1-s3-s5 16 c-s1-s2-s4 B-s3] 2 B(1-s5
 =1, 8 [B B] [B An] Br 16 [<Dn F-s1-s2> <E G-s1-s3>] 8 [<F Ab-s2-s4> <F A>]

@@ -1,10 +1,15 @@
-head	1.5;
+head	1.6;
 access;
 symbols;
 locks
-	pjb:1.5; strict;
+	pjb:1.6; strict;
 comment	@# @;
 
+
+1.6
+date	2013.12.14.09.11.24;	author pjb;	state Exp;
+branches;
+next	1.5;
 
 1.5
 date	2013.06.24.02.13.17;	author pjb;	state Exp;
@@ -37,9 +42,9 @@ desc
 @
 
 
-1.5
+1.6
 log
-@minor fingering tweaks
+@tiny spacing fix in no2bar25
 @
 text
 @4 systems 40 / 19-40-19 / 19-40-19 / 19-40-19 / 19-47-19 20/
@@ -128,7 +133,7 @@ i0.5 .04 déchirant
 =2' 4. vol60 <E(4-s2,-s"1 ",-s"2  ",-s"5   ", A#(2 fn(3 b(1> \
  4 <E)4(4 A)2(2 f)3(3 b)1(1>
 
-5 systems 20 / 19-40-19 / 19-35-19 / 19-40-19 / 19-35-19 / 19-40-19 18/
+5 systems 25 / 19-40-19 5/ 19-35-19 / 19-40-19 / 19-35-19 5/ 19-40-19 18/
 pagenum
 innerhead Two Preludes,  Op. 67,  Alexander Scriabin
 /
@@ -363,7 +368,7 @@ I0.4 .02 pp
 =1' 8 [<Db Gb> <B_bl Eb A>] [<En A> <C# F#l B#>]
 =2' 163 [Bb eb B c Gb c-s1,] [c# f# c d# A d]
 /
-3 bars | 5 5 5 6 5 5 5 5 6 6 5 4 \
+3 bars | 5 5 6 5 5 5 5 5 6 6 5 4 \
  | 5 5 5 5 5 6 5 5 6 5 5 4 | 5 5 5 5 5 5 5 5 5 6 5 4 |
 |
 il0.9 .01 25
@@ -413,6 +418,20 @@ i0.5 .55 cresc .  .  .
 | 3.6
 =1' 2 <B_br Enl Bb-fermata>
 =2' 2 <Cr F# e-fermata>
+@
+
+
+1.5
+log
+@minor fingering tweaks
+@
+text
+@d87 1
+a87 1
+5 systems 20 / 19-40-19 / 19-35-19 / 19-40-19 / 19-35-19 / 19-40-19 18/
+d322 1
+a322 1
+3 bars | 5 5 5 6 5 5 5 5 6 6 5 4 \
 @
 
 

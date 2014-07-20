@@ -2,10 +2,10 @@
 .AM
 .nr PS 12
 .nr VS 15
-.pl 11.7i
+.pl 29.7c
 .LP
 \&
-.sp 4.9c
+.sp 6.0c
 .ce 100
 \f3\s+9\s+9Twelve Italian Songs\s-9\s-9\fP
 .sp 3.0c
@@ -15,17 +15,14 @@
 .sp 2.8c
 \f2\s+7Arranged by Peter Billam\s0\fP
 .sp 0.7c
-\f3\s+2For guitar accompaniment\s0\fP
-.sp 1.9c
+\f3\s+4For guitar accompaniment\s0\fP
+.sp 2.8c
 \(co Peter J Billam, 1979
-.sp 0.6c
-\s-1This score may be freely photocopied, and redistributed
-in paper form.  It may be freely performed to live audiences;
-performing rights are waived.  It may not be redistributed in
-electronic form, and all other rights, such as those of recording
-and broadcast, remain reserved by the arranger, Peter Billam,
-GPO Box 669, Hobart \s-1TAS\s+1 7001, Australia.\s0
-.sp 0.6c
-\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.7c
+\s-1This score is offered under the
+\f2Creative Commons Attribution 4.0 International\fP
+licence; see \f2creativecommons.org\fP\s0
+.sp 0.7c
+\f2\s-2This edition \*(DY.\s0\fP
 .sp 0.6c
 \f2www.pjb.com.au\fP

@@ -28,7 +28,7 @@ b0.9 a 4 Voci
  | 4 5 4 5 4 4 4 5 3 3 3 2 | 4 4 4 4 5 4 4 4 5 5 5 3 |
 |
 il0.7 .03 5
-=1' 4 E)2 8 [D# E#] 4 F(2 F)2 8 [E# D# E F##]
+=1' 4 E)2 8 [D# E#-s3] 4 F(2 F)2 8 [E# D# E F##]
 =2, 8 leg99 [a# leg75 b leg99 b leg75 an leg99 a leg75 g] 2 leg99 g(1 8 [g)1 a#]
 |
 =1' 4. G-s5 8 [F# En G] [F E] 2 D#-tr
@@ -43,13 +43,13 @@ il0.7 .03 5
 |
 =1' 8 leg75 [B)1-s2-s(5) B leg99 B-s1-s5 \
  leg75 An--s4 leg99 A-s1-s5 leg75 G--s4] \
- leg99 [G-s2-s5 leg75 F-s(2)-s4 leg99 F--s5 leg75 E--s4 leg99 E--s4 leg75 D#]
+ leg99 [G-s2-s5 leg75 F--s4 leg99 F--s5 leg75 E--s4 leg99 E--s4 leg75 D#]
 =1, 4 leg95 F C B_ C 2 blank
 =2' 1 blank 4 a-,-,-s1, f-,-,-s2,
 =2, 4 rest, F-s5, G-s4, 2. A(2-s5,
 |
 =1' 8 leg99 [D#-s1-s3 leg75 E--s4 leg99 E leg75 Dn leg99 D leg75 C] \
- leg95 2 C(1-s1 8 [C)1 D#-s(1)-s2]
+ leg95 2 C(1-s1 8 [C)1-s1 D#-s2]
 =1, 2. blank 2 blank 4 C(2
 =2' 2. b 8 [e#-s1, c-,-s2,] 4 f blank
 =2, 4 A)2 8 [G-s4, A#-s3,] 2 B-s3, \
@@ -87,7 +87,7 @@ il1.0 .29 10
 il0.9 .07 15
 =1' 4 rest F-s2-s3-s4 G-s2-s4-s5 2. A(1-s1-s4-s5
 =1, 4 C-s2 D# E# 2. F(2
-=2' 8 [b)1 leg99 d~-s"3  " c~ leg75 b-s1 leg99 b leg75 a-s1] \
+=2' 8 [b)1 leg99 d~-s"1  " c~ leg75 b-s1 leg99 b leg75 a-s1] \
  leg95 [a b-s1] 2 c~-s2
 =2, 8 [A leg99 B A-s3, leg70 G leg99 G leg75 F] \
  [F-s5, f-s1, leg99 f leg75 e-s2, leg99 e leg75 d#-s3,]

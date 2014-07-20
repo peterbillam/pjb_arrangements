@@ -107,22 +107,23 @@ il1.2 .37 15
 =2' cha3 1 b
 =2, cha4 4 dn-s1,-s5, B-s4, c-s5, d-s4,
 |
-=1' cha0 2. B)1-s3-s4 4 e-s3
+=1' cha0 2. B)1-s3-s4 4 e-s5
 =1, cha1 1 G(2
 =2' cha2 4 f~)1 8 [e~-s2 d~n-s1] 2 e~(1-s"    2-1"
 =2' cha3 1 b
 =2, cha4 4 e-s1,-s3, f-,-s2, e-s3, db-s4,
 /
-6 bars | 5b 7.8 7.8 7.8 6.8 | 7.8 7.8 7.8 6.8 | 8 10 8 7 \
- | 4 5 4 4 4 5 5 4 | 9 8 8 7 | 9 8 9 7 |
+6 bars | 5b 7.8 7.8 7.8 6.8 | 7.8 7.8 7.8 6.8 \
+ | 8 10 8 7 | 6 5 4 4 4 5 5 4 | 9 8 8 7 | 9 8 9 7 |
 |
 =1' cha0 1 Ar(1-s1-s2-s3
 =1' cha1 1 G)2
-=1, cha2 1 Er)4
+#P=1, cha2 1 Er)4
+#M=2' cha3 1 e~r)1
 =2' cha3 4 c~ c d e
-=2, cha4 c-s1,-s5, A-s3,-s5, B-s2,-s4, c-s1,-s3,
+=2, cha4 c-s1,-s4, A-s3,-s5, B-s2,-s4, c-s1,-s3,
 |
-il1.1 .26 20
+il1.2 .26 20
 =1' cha0 2 <F A)1-s1-s2-s(3)> <B d-s1-s4-s5>
 =1, cha2 2 D F(2
 =2' cha3 4 f e-s3, f g-s1,
@@ -135,7 +136,7 @@ il1.1 .26 20
 |
 =1' cha0 2 f)1-s2-s3-s5 4 e-s5 d-s4
 =1' cha1 4 dr)4 c-s1-s3 2 Br
-=1, cha2 4 Br A G F
+=1, cha2 4 Brr A G F
 =2' cha3 4 g a b 8 [c~-s2, d~-s1,]
 =2, cha4 4 e-s3,-s4, f-s1,-s3, 2 g(2-s2,-s4,
 |
@@ -219,7 +220,7 @@ il1.1 .10 30
 =2' cha3 4 e~ gn a b
 =2, cha4 4 gn-s1,-s5, e-s3,-s5, fn-s2,-s4, g-s1,-s3,
 |
-il1.1 .26 35
+il1.0 .25 35
 =1' cha0 2 e a(1-s1-s4-s5
 =1' cha1 2 cb fb(3
 =1, cha2 4 A B 2 cbl
@@ -293,7 +294,7 @@ rs0.3 .29 - .55 1
 =2' cha3 1 blank
 =2, cha4 4 g)1-s2,-s(3), 8 [f-s4, e-s5,] 4 f-s4, gn-s3,
 |
-il1.1 .03 45
+il1.2 .01 45
 =1' cha0 1 blank
 =1' cha1 4 c-s4 dn-s1-s5 2 e(1--s4
 =1, cha2 4 E)2 F 2 B_(2-s1,
@@ -327,7 +328,7 @@ il1.1 .03 45
 =2' cha3 1 blank
 =2, cha4 4 rest d~-s2, c~-s1,-s3, b-s4,
 |
-il1.1 .25 50
+il1.1 .26 50
 =1' cha0 2 f-s1-s5 B-s1-s2
 =1' cha1 2 F Fr
 =1, cha2 4 Er)2 8 [Dn C] 2 D-s1,

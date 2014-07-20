@@ -1,0 +1,52 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.02.13.22.57.18;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@title page, with CC licence
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 6.0c
+.ce 100
+\f3\s+9\s+7Cello Suite II in d minor\s-7\s-9\fP
+.sp 1.5c
+\f3\s+7BWV\s+2 1008\s-9\fP
+.sp 1.5c
+\f2\s+9by J. S. Bach\s0\fP
+.sp 3.0c
+\f2\s+6Arranged for Alto Recorder or Flute\s0\fP
+.sp 0.7c
+\f2\s+6by Peter Billam\s0\fP
+.sp 2.1c
+\(co Peter J Billam, 2007
+.sp 0.7c
+\s-1This score is offered under the \f2Creative Commons
+Attribution 4.0 International\fP licence; see \f2creativecommons.org\fP
+The copyright owner remains the composer, Peter Billam.\s0
+.sp 0.7c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.7c
+\f2www.pjb.com.au\fP
+@

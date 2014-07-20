@@ -1,14 +1,12 @@
 MUSCRIPT = /home/pbin/muscript
 NORMALIZE = /usr/bin/normalize-audio
-BLURB = /home/pjb/mus/blurb/compositions
-FREED = /home/pjb/www/mus/free
 ARRD = /home/pjb/www/mus/arr
 A4D = ${ARRD}/a4
 USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 MP3D = ${ARRD}/mp3
-FREEBACKPAGE = /home/pjb/mus/blurb/freebackpage.a4
+BACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -16,7 +14,6 @@ PSCAT = /home/pbin/pscat
 NROF = /home/pbin/nrof
 ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
-DIST = pjb3265@loki.webcity.com.au:public_html/mus
 PIECE1 = scriabin_op59
 PIECE2 = scriabin_op67
 PIECE3 = scriabin_op74
@@ -29,7 +26,7 @@ TITLE4 = title_${PIECE4}
 TITLE5 = title_${PIECE5}
 PLAY   = scriabin_op59
 
-dev : t.mid ${TITLE2}.a4 p2_op67.a4 p2_op74.a4 p3_op74.a4 \
+dev : t.mid ${TITLE2}.a4 ${TITLE3}.a4 p2_op67.a4 p2_op74.a4 p3_op74.a4 \
  ${PIECE1}.a4 ${PIECE2}.a4 ${PIECE3}.a4 ${PIECE4}.a4 ${PIECE5}.a4
 all : ${A4D}/${PIECE2}.pdf ${USD}/${PIECE2}.pdf ${SRCD}/${PIECE2}.txt \
  ${A4D}/${PIECE3}.pdf ${USD}/${PIECE3}.pdf ${SRCD}/${PIECE3}.txt
@@ -53,13 +50,13 @@ ${PIECE1}.a4 : ${PIECE1}
 	${MUSCRIPT} ${PIECE1} > $@
 	pkill -HUP gv
 
-${A4D}/${PIECE2}.pdf : ${TITLE2}.a4 p2_op67.a4 ${PIECE2}.a4 ${FREEBACKPAGE}
+${A4D}/${PIECE2}.pdf : ${TITLE2}.a4 p2_op67.a4 ${PIECE2}.a4 ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE2}.a4 \
-	| ${PSCAT} ${TITLE2}.a4 p2_op67.a4 - ${FREEBACKPAGE} \
+	| ${PSCAT} ${TITLE2}.a4 p2_op67.a4 - ${BACKPAGE} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${USD}/${PIECE2}.pdf : ${TITLE2}.a4 ${PIECE2}.a4 ${FREEBACKPAGE}
+${USD}/${PIECE2}.pdf : ${TITLE2}.a4 ${PIECE2}.a4 ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE2}.a4 \
-	| ${PSCAT} ${TITLE2}.a4 p2_op67.a4 - ${FREEBACKPAGE} \
+	| ${PSCAT} ${TITLE2}.a4 p2_op67.a4 - ${BACKPAGE} \
 	| ${A42US} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 ${XMLD}/${PIECE2}.xml : ${PIECE2}
@@ -82,13 +79,13 @@ ${PIECE2}.a4 : ${PIECE2}
 	pkill -HUP gv
 
 ${A4D}/${PIECE3}.pdf : ${TITLE3}.a4 p2_op74.a4 p3_op74.a4 \
- ${PIECE3}.a4 ${FREEBACKPAGE}
+ ${PIECE3}.a4 ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE3}.a4 \
-	| ${PSCAT} ${TITLE3}.a4 p2_op74.a4 p3_op74.a4 - ${FREEBACKPAGE} \
+	| ${PSCAT} ${TITLE3}.a4 p2_op74.a4 p3_op74.a4 - ${BACKPAGE} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${USD}/${PIECE3}.pdf : ${TITLE3}.a4 ${PIECE3}.a4 ${FREEBACKPAGE}
+${USD}/${PIECE3}.pdf : ${TITLE3}.a4 ${PIECE3}.a4 ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE3}.a4 \
-	| ${PSCAT} ${TITLE3}.a4 p2_op74.a4 p3_op74.a4 - ${FREEBACKPAGE} \
+	| ${PSCAT} ${TITLE3}.a4 p2_op74.a4 p3_op74.a4 - ${BACKPAGE} \
 	| ${A42US} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 ${XMLD}/${PIECE3}.xml : ${PIECE3}
