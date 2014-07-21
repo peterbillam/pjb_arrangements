@@ -1,0 +1,158 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.03.13.07.42.19;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@small bits mostly moved out of beginnings
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@10 systems 16 / 18 25 / 18/18 25 / 18/18 25 / 18/18 10/18 25 / 18 20 / 18 20 /
+title Beethoven
+midi channel 0 patch 00
+midi off
+/
+4 bars | 3# 48 | 48 || 3b 40 | 40 ||
+| 2.0
+r0.7 .10 ( Op.75 No.1 ;   see also Op.78 )
+=1' treble 3# leg99 vol80 4. <C E A> <E G B>
+r0.3 .11 Lass .53 uns
+=2, bass   3# leg99 vol80 4. e e
+|
+=1' 4. <E A c> 4 blank
+r0.3 .01 ziehen !
+=2, 4. <A a> 4 blank
+midi pause 0.8
+|
+r0.7 .20 ( Op.90 ;   see also Op.78 )
+=1' treble 3b 4 <E G> <B_ F>
+r0.1 .28 Le .49 - .64 be .84 -
+=2  bass   3b 1 blank
+|
+=1' 4. <G_ E>
+r0.01 .01 wohl !
+=2 1 blank
+midi pause 0.8
+
+
+/
+5 bars | 3/2 5 5 5 6 5 5 5 5 5 5 5 4 || 1b 2/2 12 | 32 | 32 | 32 ||
+| 6.0
+Il0.9 Der schwergefasste Entschluss
+I0.3 .01 Grave
+=1 bass 3/2 4. g 8 e 2 ab rest
+r0.3 .06 Muss .30 es   sein ?
+| 1/4 .2
+r1.0 .70 ( Op.135  1826 ;  see also Op.79 No.1 etc)
+I0.3 .41 Allegro
+=1 treble 1b leg45 4 A
+r0.3 .50 Es
+| 2/2 0.8
+=1 2 leg95 c leg80 G
+r0.3 .02 muss .50 sein !
+|
+=1 2 rest 4 rest leg45 G
+r0.3 .75 Es
+|
+=1' 2 leg95 B leg80 F
+r0.3 .02 muss .50 sein !
+
+6 systems 10 / 19-30-19/
+/
+5 bars | 2# 3/4 18 | 8 6 6 | 8 6 6 | 8 6 6 | 24 |
+|
+bl1.4 .05  Claude Debussy,  Clair de Lune
+=1  treble 2# 3/4 cro rest <f a-s3-s5> <d(2 f(1>
+I0.5 .15 pp
+=2  treble 2# 3/4 qua rest <F(2-s1,-s3, A(1> min <F)2 A)1>
+|
+=1  qua3 [<d)2 f)1> <c-I3,-s1-s3 e> <d f>] min <c(2 e(1>
+=2  min. <G-s2,-s1, Bb'>
+|
+=1  qua3 [<c)2 e)1> <B,-I3,-s1-s3 d> <c e>] qua <B, d> cro f qua d(1
+=2  min. <F A>
+|
+=1, qua3 [d)1 <A-I3,-s1-s3 c> <B d>] min <A c(1>
+=2  min. <E G>
+|
+=1 qua3 [c)1 B,-I3, c] [B, e-I3, B,] [A B'-I3,-s3 A(2]
+=2 min <D Ex G> cro <C E G>
+/
+4 bars | 2# 8 6 6 | 24 | 8 6 6 | 18 ||
+|
+=1 treble 2# qua3 [A)2 G-I3,-s1 A-s4] cro G-s3 F(2
+=2 treble 2# min <B_ Dx E> cro <B_bl Db Ex> bass
+|
+=1  qua3 [F)2 F-I3,-s2 G] [F B'-I3, F-s3] [E F-I3, E(2]
+=2  min <ar bnx d~nl> cro <g b>
+|
+=1  qua3 [E)2 D-I3, E-s4] cro D <A_ C>
+=2  min <fr ax b> qua [e'-s1, A]
+|
+=1  cro rest <f a-s3-s5> <d f>
+=2  min. D
+
+
+5 systems 30 / 19-30-19 / 19-40-19 / 19-30-19 /
+pagenum
+title Alban Berg
+midi channel 1 patch 0 pan 80
+midi channel 2 patch 0 pan 20
+/
+3 bars | 6/4 48 | 48 | 48 |
+| 6/4 4.8
+Il0.9 Bruchstuck aus Wozzeck ; Act I  bar 139
+=1' treble 6/4 cha1 leg92 \
+ cro <C# G#> <C# G#> <C# G#> <B_ F#{'1> <E B> <Cn A}'1>
+=2  bass   6/4 cha2 leg92 cro <ebxr f a> <ebx f a> <ebx f a> \
+ <dbxl ebl g{'1> <gbxl abl c~> <dnxl enl g#}'1>
+|
+=1' cro <C# G#> <C# G#> <C# G#> <Cn A{'1> <D c#> <Eb cn}'1>
+=2, cro <ebxr f a> <ebx f a> <ebx f a> \
+ <d f#xl g#l{'1> <B fn a> <c gbl bb}'1>
+|
+=1 cro <C# G#> <Cn A{'1> <D c#'> <Eb B'}'1> <cn g> <B(2 f#(1>
+=2, cro <ebxr f a> <d g{1> <B f> <c# g}1> <e d~> <f e~b>
+/
+2 bars | 48 | 48 |
+|
+=1' qua [<B)2 f#)1 > g e fn] [d eb] cro c' min blank
+=1, qua rest,, [<F#l A#> <Fnl An> <E G#>] [<Ebl Gn> <D F#>] \
+ [<Dbl Fn> A F B_b] cro Db
+=2' smb <Eb Bb> min <Eb Bb g>
+|
+=1 qua. [Dn smq D] cro E-emph-. \
+ qua. [D smq D] cro F-emph-.  qua. [D smq D] cro Abr-emph-.
+=2 qua. [<e g#> smq <e g#>] cro <f a>-emph-. \
+ qua. [<f#l a#> smq <f#l a#>] cro <gnr b-emph-.> \
+ qua. [<ab c~> smq <ab c~>] cro <anlr c~#-emph-.> treble
+/
+2 bars | 48 | 16 16 12 ||
+|
+=1 qua. [D smq D] qua [<Abr c'-.> <G(2 B'(1-emph>] [<G)2 B')1> <An c'>] \
+ cro <A#l Bnxl'> qua <c#l g#-.> cro <cn gn-emph> qua <e b>
+=2' qua. [B_b smq B_b] qua [<B_nlr D#> <C(2 E(1-emph>] [<C)2 E)1> <Db F>] \
+ cro <Dnl F#> qua [<Ebl Fnlx A> <Enl F#lx A#l> <Fnl Gnlx B> <Gbl Ablx c>]
+|
+=1 cro <eb(2 a(1> qua3 [<eb)2 a)1> <c# g#{1-I3> <cn a>] \
+ qua [<d c~#}1> <eb b{'1>] qua. [<f c~n g~> smq <f# c~#l f~#}'1>] \
+ min <gnr c~nl f~#>
+=2' cro <G(2 Ax c(1> qua3 [<G)2 Ax c)1> <Eb Fx A{'1-I3> <D F#xl G#l>] \
+ qua [<B_ Fn A}'1> <C Gn Ax{'1>] qua. [<D G#> smq <Eb Bb d}'1>] min <Fr A eb>
+
+@

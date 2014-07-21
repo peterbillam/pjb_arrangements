@@ -1,0 +1,331 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.03.05.07.35.13;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@second mvt, now separate
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@
+3 systems 18 /19-25-19-25-19-25-19-25-19 \
+ /19-25-19-25-19-25-19-25-19 \
+ /19-25-19-25-19-25-19-25-19 /
+pagenum
+title 2
+innerhead Ten Pieces for Wind Quintet, Geörgy Ligeti
+midi channel 0 patch 73 pan 10  # alto flute
+midi channel 1 patch 69 pan 30  # cor angle
+midi channel 2 patch 71 pan 50  # Bb clarinet
+midi channel 3 patch 60 pan 70  # horn in F
+midi channel 4 patch 70 pan 90  # basoon
+midi channel 5 patch 59   # muted trumpet, as standin for horn :-(
+
+/
+3 bars | 4/4 48 | 3/4 36 | 4/4 48 |
+| 1.5
+bl0.8 .01 Presto minaccioso e burlesco
+=1 treble 4/4 tra-5 cha0 vol120 16 Cn-emph  rest 8 rest 4 rest 2 rest
+I0.7   sff
+=2 treble 4/4 tra-7 cha1 vol120 16 B_n-emph rest 8 rest 4 rest 2 rest
+I0.7   sff
+=3 treble 4/4 tra-2 cha2 vol120 leg100 16 G_n-emph rest 8 rest 4 rest 2 rest
+I0.7   sff
+=4 treble 4/4 tra-7 cha5 vol120 16 C#-emph rest 8 rest 4 rest 2 rest
+I0.7   sff
+=5 tenor  4/4       cha4 vol120 16 D#-emph rest 8 rest 4 rest 2 rest
+I0.1  sff
+| 1.125
+=1 3/4 8 rest 16 Cn-emph  rest 4 rest rest
+I0.8 .01 sff
+=2 3/4 8 rest 16 B_n-emph rest 4 rest rest
+I0.8 .01 sff
+=3 3/4 8 rest 16 G_n-emph rest 4 rest 8 rest vol70 163 [E_n F_n-I3 G_n]
+I0.8 .01 sff
+=4 3/4 8 rest 16 C#-emph  rest 4 rest rest
+I0.8 .01 sff
+=5 3/4 8 rest 16 D#-emph  rest 4 rest rest
+I0.1 .01 sff
+| 1.5
+=1 4/4 16 rest Db-emph 8 rest 4 rest 2 rest
+I0.8 .01 sff
+=2 4/4 16 rest Cn-emph 8 rest 4 rest 2 rest
+I0.8 .01 sff
+=3 4/4 16 [G_# A_n-emph] 8 rest 4 rest 2 rest
+I0.1 .12 sff
+=4 4/4 16 rest C#-emph 8 rest 4 rest 2 rest
+I0.8 .01 sff
+=5 4/4 16 rest En-emph 8 rest 4 rest 2 rest
+I0.1 .01 sff
+/
+5 bars | 2/4 4.5 4.5 4 4.5 4.5 4.5 3.5 3.5 3.5 3 3 3 \
+ | 3/4 13 | 13 | 15 5 3 4 3 3 | 4/4 19 |
+| .75
+=1 2/4 4 rest 8 rest 16 Cn-emph rest
+=2 2/4 4 rest 8 rest 16 B_n-emph rest
+=3 2/4 vol70 163 [Dn C# B_n F_n-I6 F_# G_n] 16 [G_# A_# vol120 B_n-emph] rest
+=4 2/4 4 rest 8 rest 16 C#-emph rest
+=5 2/4 4 rest 8 rest 16 D#-emph rest
+| 1.125
+il0.6 .03 5
+=1 3/4 4 blank 2. rest
+=2 3/4 4 blank 2. rest
+=3 3/4 4 blank 2. rest
+=4 3/4 4 blank 2. rest
+=5 3/4 4 blank 2. rest
+|
+=1 4 blank 2. rest
+=2 4 blank 2. rest
+=3 4 blank 2. rest
+=4 4 blank 2. rest
+=5 4 blank 2. rest
+|
+=1 8 blank 2. rest
+=2 8 blank 2. rest
+=3 vol70 163 [E_n F_n-I3 F_#] 8 rest 4 rest rest
+=4 8 blank 2. rest
+=5 8 blank 2. rest
+| 1.5
+=1 4/4 2 blank 1 rest
+=2 4/4 2 blank 1 rest
+=3 4/4 2 blank 1 rest
+=4 4/4 2 blank 1 rest
+=5 4/4 2 blank 1 rest
+
+/
+3 bars | 3/4 120 | 2/4 80 | 3/4 120 |
+| 1.125
+=1 3/4 4 rest rest 8 rest vol100 leg100 16 [f~n e~n]
+I0.8 .75 f
+=2 3/4 4 blank 2. rest
+=3 3/4 8 rest vol125 16 [g~n a~n] [b~b c~~n b~n g~#] \
+ 165 [f~# f~n e~n-I5 e~b d~n]
+i0.8 .01 sub. .20 stridente
+I0.8 .13 ff
+=4 3/4 4 blank 2. rest
+=5 3/4 4 blank 2. rest
+|
+il0.9 .55 10
+=1 2/4 16 [d~n bn bb ab] vol-5 [gb vol-5 eb vol-5 db cn]
+=2 2/4 4 blank 2 rest
+=3 2/4 165 [c~n bb an-I5 gn f#] [en eb dn-I5 db cn]
+=4 2/4 4 blank 2 rest
+=5 2/4 83 rest rest-I3 vol100 leg100 d~ [c~n vol-7 bn-I3 vol-7 an]
+| 1.5
+=1 3/4 vol126 16 Bn-emph rest 8 rest 83 rest rest-I3 vol60 Eb [Dn Db-I3 Cn]
+=2 3/4 vol126 16 fn-emph rest 8 rest 4 rest rest
+=3 3/4 vol126 16 Bn-emph rest vol65 rest Fn [Eb Dn Db B_b]  \
+ 165 vol+8 [A_n vol+8 A_b vol+8 G_b-I5 vol+8 F_n vol+8 E_n]
+I0.8 sfff .13 pp
+=4 3/4 vol126 16 f#-emph rest 8 rest 4 rest rest
+=5 3/4 vol126 16 g#-emph rest 8 rest 4 rest 83 rest vol60 [Gb-I3 Fn]
+/
+2 bars 4/4 120 | 120 |
+| 1.68
+b0.3 .01 Poco meno mosso
+r0.4 .37 (cro=144)
+=1 4/4 4 rest vol55 16 rest 8. Cn 4 rest vol60 16 Dn 16 rest 8 rest
+=2 4/4 4 rest 16 rest vol50 8 [En 16 C#(2] C)2 rest 8 rest 4 rest
+=3 4/4 4 rest vol60 83 rest [G_n-I3 G_b(2] 16 [G_)2 B_b Cn A_b] [Db G_n E_n A_n]
+=4 4/4 8 rest G_n 16 Eb rest 8 rest 83 rest En-I3 rest rest vol75 B_n-I3 rest
+=5 4/4 83 [En C#-I3 Dn] [Gn Eb-I3] rest rest rest-I3 An-emph 4 rest
+|
+=1 2 blank 83 blank 43 blank-I3 4 blank
+=1 vol55 8 rest 16 rest En(2 [E)2 rest, Eb F(2] \
+ 43 F)2 83 rest 8 rest 16 rest f#(1
+=2 2 blank 1 rest
+=3 16 [Cn G_b F_n Dn] 165 [B_n G_# A_#-I5 C# D#(2] \
+ [D)2 En Cn-I5 F_n Cn] 163 [En B_n F_n B_n-I6 Dn B_b]
+=4 2 rest 83 rest rest-I3 Gn(2 165 [G)2 F#] rest-I5 85 rest
+=5 83 rest Fn-I3 rest 4 rest rest 83 rest Fn-I3 rest bass
+/
+2 bars | 3/4 90 | 4/4 120 |
+| 1.26
+=1, 3/4 16 [f#)1 dn Gn] rest 4 rest 8 rest 16 rest c~n
+=2, 3/4 4 rest 165 rest rest 85 [gn-I5 165 eb(1] [e)1 85 Ab] 165 rest rest
+=3 3/4 163 [E_n B_b Dn A_n-I6 F_# A_n] \
+ [Fn A_n F_# C#-I6 Fn Db] [G_n Db Fn Cn-I6 G_n Cn]
+=4 3/4 vol55 4 rest 8 rest 16 rest 16 c#(1 83 [c)1 An,-I3] rest
+=5 3/4 vol55 165 rest rest rest-I3 [fn db] 16 Gb rest 8 rest 4 rest
+| .84 .79
+il0.7 .20 15
+b0.6 .50 Tempo 1o
+r0.6 .70 (cro=152)
+=1 4/4 16 [an en an] rest 4 rest 8 rest vol126 16 C#-emph rest 4 rest
+I0.7 .57 sff
+=2 4/4 2 rest 8 rest vol126 16 B_n-emph rest 4 rest
+I0.7 .57 sff
+=3 4/4 165 rest rest [g#-I5 d# Bn] [d# a# d#-I5 Bn dn] \
+ 8 rest vol126 16 G_n rest vol70 163 rest, [F_n G_b A_b-I6] rest, rest,
+I0.7 .57 sff
+=4 4/4 2 rest 8 rest vol126 16 Dn-emph rest 4 rest
+I0.7 .57 sff
+=5 4/4 83 vol55 rest, [Ab-I3 Dn] [B_b Dn-I3] rest, \
+ 8 rest vol126 16 f#-emph rest 4 rest
+I0.3 .57 sff
+
+/
+3 bars | 50 | 3/4 40 | 36 33 30 |
+| 1.58
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+| 1.185
+=1 3/4 4 blank 2. rest
+=2 3/4 4 blank 2. rest
+=3 3/4 4 blank 2. rest
+I0.8 .90 fff
+=4 3/4 4 blank 2. rest
+=5 3/4 4 blank 2. rest
+|
+=1 165 rest rest rest-I5 rest vol80 Dn(2 \
+ [D)2 vol-5 D# En-I5 vol-5 F vol-5 F#] vol-5 16 G# rest 8 rest
+I0.7 .24 p .70 ppp
+i0.6 .45 . . . dim . . .
+=2 4 blank 2. rest
+=3' vol126 163 [E_n F_n G_n A_b-I6 B_b Cn] \
+ 165 vol-5 [C# vol-6 Dn vol-6 D#-I5 vol-6 En vol-6 F#] \
+ 16 vol-6 [Gn vol-6 G# vol-6 An vol-6 Bb]
+i0.4 .39 . . . dim . . .
+I0.9 .92 pp
+=4 4 blank 2. rest
+=5 8 rest 16 rest vol80 gn(1 \
+ [g)1 vol-5 g# vol-5 an vol-5 bn] vol-5 16 c~ rest 8 rest
+I0.1 .24 p .70 ppp
+i0.1 .45 . . . dim . . .
+
+/
+3 bars | 2/4 35 | 3/4 35 30 28 | 35 30 40 |
+| 0.79
+=1 2/4 8 blank 2 rest
+I0.9 .86 sff
+=2 2/4 8 blank 2 rest
+I0.9 .86 sff
+=3 2/4 8 blank 2 rest
+I0.9 .86 sff
+=4 2/4 8 blank 2 rest
+I0.9 .86 sff
+=5 2/4 8 blank 2 rest
+I0.1 .86 sff
+| 1.185
+il0.7 .18 20
+=1 3/4 vol126 16 Cn-emph  rest 8 rest 4 rest rest
+=2 3/4 vol126 16 B_n-emph rest 8 rest 4 rest rest
+=3' 3/4 vol126 16 [G_n vol75 A_b F_n E_n] F_# rest 8 rest vol120 [Cn Bn]
+I0.2 .14 p
+I0.6 .60 ff
+=4 3/4 vol126 16 C#-emph rest 8 rest 4 rest rest
+=5, 3/4 vol126 16 d#-emph rest 8 rest vol75 83 [en g#-I3 c#] 16 a# rest 8 rest
+I0.1 .30 p
+| .395 .395 .405
+=1 16 rest vol126 Cn-emph 8 rest 4 rest vol60 16 rest 8 [e~n 16 fn(1]
+I0.9 .70 pp
+=2 16 rest vol126 B_n-emph 8 rest 4 rest rest
+=3 16 rest vol126 [G_n vol60 dn' B_b] 83 [fn B_n,-I3 f#(1] \
+ 165 [f)1 e~b gn--I5 e~b ab]
+=4 16 rest vol126 C#-emph 8 rest 4 rest rest
+=5 16 rest vol126 d#-emph 8 rest 4 rest rest tenor
+/
+2 bars | 4/4 27 30 32 30 | 3/4 18 18 28 |
+| 1.68
+=1 4/4 83 [f)1 d~n-I3 c~n] 16 e~b rest 8 rest rest 16 rest d~# [bn 8 en] 16 rest
+=2 4/4 2 blank 1 rest
+=3 4/4 16 [e~b bb e~n bn] 165  [d~ f~# gn--I5 c~n an] \
+ 163 [f~n c~# e~n c~#-I6 f# c~#] 165 [g~n c~n eb--I5 c~n a~b]
+i0.1 .55 senza sord.
+=4 4/4 cha3 vol60 2 rest 4 rest 8 rest 16 rest dn(1
+I0.9 .70 pp
+=5 4/4 vol60 4 rest 8 rest an(1 16 [a)1 c~n c~#] rest 83 rest [d~# g#(1]
+I0.1 .40 pp
+| 1.26
+=1 3/4 4 rest rest vol126 83 rest [a~n-I3 d~n]
+=2 3/4 4 rest rest vol126 83 rest [bn-I3 en]
+=3 3/4 4 blank 2. rest
+=4 3/4 2 d)1(1 83 d)1 vol126 83 [Bn'-I3 En]
+=5 3/4 2 g)1(1 83 g)1 bass vol126 83 [en'-I3 An]
+
+/
+5 bars | 4/4 7 6 4 4 2 2 2 2 2 1 2 1 2 1 2 1 \
+ | 24 | 24 | 2/4 20 | 4/4 30 30 29 22 |
+| 1.68
+=1 4/4 16 bb rest 8 rest 4 rest 2 rest
+=2 4/4 16 cn rest 8 rest 4 rest 2 rest
+=3 4/4 vol60 1 G(2
+=4 4/4 16 Cn rest 8 rest 4 rest 2 rest
+=5 4/4 16 Fn rest 8 rest 4 rest 2 rest
+|
+il0.3 .03 25
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 1 G)2(2
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 1 G)2(2
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+| 0.84
+=1 2/4 4 blank 2 rest
+=2 2/4 4 blank 2 rest
+=3 2/4 2 G)2(2
+=4 2/4 4 blank 2 rest
+=5 2/4 8 blank 2 rest tenor
+| 1.68
+=1 4/4 vol60 16 [Bn' c#' Gn En] 83 [Gn, eb-I3 Gb,] \
+ rest rest-I3 Fn(2 8 [F)2 cn'(1]
+=2 4/4 2 blank 1 rest
+=3 4/4 165 [G,)2 Bn f#-I5] rest' rest' 16 rest [Fn db' En] \
+ 83 rest 43 An-I3 8 rest Bn'(2
+=4 4/4 vol60 2 rest 8. rest 16 Fn(2 8 [F)2 en']
+=5 4/4 vol60 4 rest 83 rest rest-I3 db(1 16 [d)1 c~n ab Bb] 4 rest
+/
+4 bars | 120 | 40 | 40 | 40 ||
+|
+=1 16 [c)1 rest' rest' bb(1] 83 [b)1 ab-I3] rest \
+ vol126 rest' rest'--I3 e~(1 16 [e~)1 8. b~n]
+=2 vol126 2 rest 83 rest' rest'-I3 e~n] 16 d~# rest' 8 rest'
+=3 165 [B')2 fn' A_n-I5 en' Db] 16 [ab g~b eb c~n] \
+ 83 vol+20 [b~b vol+20 gn--I3 vol+20 d~n(1] 16 [d~)1 vol126 8. b~n]
+=4 4 rest 8 rest vol90 16 an rest \
+ 83 rest' vol126 163 bn-emph rest' 83 rest' 4 rest
+=5 165 rest' d~n rest'--I5 rest' rest' 4 rest \
+ 83 rest' vol126 163 e~b-emph rest' 83 rest' 4 rest
+|
+il0.3 .04 30
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+@

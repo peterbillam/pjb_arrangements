@@ -1,0 +1,255 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.03.05.22.41.05;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@concert-pitch version of 01
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@3 systems 18 /19-25-19-25-19-25-19-25-19  /19-25-19-25-19-25-19-25-19  /19-25-19-25-19-25-19-25-19 /
+pagenum
+title Ten Pieces for Wind Quintet
+innerhead Geörgy Ligeti
+midi channel 0 patch 73 pan 10  # alto flute
+midi channel 1 patch 69 pan 30  # cor angle
+midi channel 2 patch 71 pan 50  # Bb clarinet
+midi channel 3 patch 60 pan 70  # horn in F
+midi channel 4 patch 70 pan 90  # basoon
+/
+4 bars | 4/4 20 | 24 | 48 | 48 |
+| 6.0
+Il1.0 1: Molto Sostenuto e calme
+I0.1 .01 Alto Flute
+=1 bass 4/4 cha0 leg105 2 blank 1 rest
+I0.1 .01 Cor Anglais
+=2 bass 4/4 cha1 leg105 2 blank 1 rest
+I0.1 .01 Clarinet
+=3 bass 4/4 cha2  leg105 2 blank 1 rest
+I0.1 .01 Horn
+=4 bass 4/4 cha3  leg105 2 blank 1 rest
+I0.1 .01 Bassoon
+=5 bass    4/4 cha4  leg105 2 blank 1 rest
+I0.1 score written at sounding-pitch
+|
+=1 vol45 1 b(1
+=2 vol40 1 g(1
+=3 vol45 1 f(1
+=4 vol45 1 a(1
+=5 vol45 1 en(1
+|
+=1 4 b)1(1 83 b)1 43 bb(1-I3 2 b)1
+=2 1 g)1(1
+=3 2. f)1(1 85 [f)1 85. en(1-I5]
+=4 2. blank 83 blank 43 blank-I3
+=4 2. a)1(1 43 a)1(1 163 [a)1 bn(1]
+=5 2 e)1(1 8. [e)1 16 f#(1] 4 f)1(1
+|
+=1 83 rest 43 a(1-I3 2. a)1(1
+=2 8 g)1 4. g#(1 8 g)1 16 rest bb(1 4 b)1(1
+=3 2 blank 83 blank 43 blank-I5 4 blank
+=3 2 en)1 165 rest 45 g(1 4 g)1(1
+=4 2. bn)1(1 83 b)1 rest-I3 g#(1
+=5 4 f)1 16 rest 8. fn(1 2 f)1(1
+/
+3 bars | 48 | 48 | 48 |
+|
+il0.7 .02 5
+=1 163 [a)1 b(1] 43 b)1(1-I3 2 b)1(1 83 b)1 rest-I3 g(1
+=2 2 bb)1(1 8. [b)1 16 c~(1] 4 c~)1(1
+=3 2 blank 85 blank 85. blank-I5 4 blank
+=3 2 g)1(1 85. [g)1 85 a(1] 4 a)1(1
+=4 2. g#)1(1 163 [g)1 f#(1] 43 f)1(1-I3
+=5 4. f)1 8 eb(1 2 e)1(1
+|
+=1 2. blank 83 blank 43 blank-I3
+=1 2. g)1(1 43 g)1(1 163 [g)1 a(1]
+=2 2. c~)1 16 rest 8. bn(1
+=3 4 a)1(1 165 [a)1 rest' 85. bb(1-I5] 2 b)1(1
+=4 2 f)1 83 rest 43 e(1-I3 4 e)1(1
+=5 16 [e)1 rest 8 ab(1] 2. a)1(1
+|
+=1 2. blank 83 blank 43 blank-I3
+=1 4 a)1(1 83 [a)1 rest'-I3 bb(1] 4 b)1(1 43 b)1 83 g#(1
+=2 4.. bn)1 16 a(1 2 a)1(1
+=3 85 blank 85. blank-I5 2. blank
+=3 45 bb)1 165 ab(1 4 a)1(1 85 [a)1 165 rest'-I5 85 c~(1] 4 c~)1(1
+=4 4 e)1(1 163 [e)1 eb(1] 43 e)1(1-I3 2 e)1(1
+=5 16 [a)1 8. gn(1] 2 g)1 16 rest 8. dn(1
+/
+2 bars | 48 | 48 |
+|
+=1 2 g#)1(1 83 [g)1 rest'-I3 gn(1] 4 g)1(1
+=2 16 [a)1 rest' 8 f#(1] 2 f)1(1 8. [f)1 16 fn(1]
+=3 2 blank 85 blank 85. blank-I5 4 blank
+=3 2 c~)1(1 45 c~)1 165 bn(1 4 b)1(1
+=4 2. blank 83 blank 43 blank-I3
+=4 4 eb)1(1 83 [e)1 rest'-I3 bb(1] 4 b)1(1 43 b)1(1 163 [b)1 c~(1]
+=5 2.. d)1 8 en(1
+|
+=1 2. blank 83 blank 43 blank-I3
+=1 163 [g)1 ab(1] 43 a)1(1-I3 4 a)1 83 rest 43 b(1-I3 b)1(1 163 [b)1 c~(1]
+=2 4. f)1 16 rest e(1 4. e)1 8 g(1
+=3 85 blank 85. blank-I5 4 blank 85 blank 85. blank-I5 4 blank
+=3 85. [bn)1 165 rest' gb(1] 4 g)1(1 85. [g)1 85 eb(1] 4 e)1(1
+=4 2. c~)1 83 rest 43 f(1-I3
+=5 4 e)1 16 rest 8. bb(1 4.. b)1 16 a(1
+
+
+/
+2 bars | 48 | 48 |
+|
+il0.7 .03 10
+=1 2 c~)1(1 83 [c~)1 rest'-I3 a(1] 4 a)1(1
+=2 4. g)1 16 rest bb(1 2 b)1(1
+=3 2 blank 85 blank 85. blank-I5 4 blank
+=3 165 [eb)1 rest 85. d(1-I5] 4 d)1(1 45 d)1 165 f(1] 4 f)1(1
+=4 2 f)1(1 163 [f)1 g(1] 43 g)1(1-I3 83 [g)1 rest-I3 g#(1]
+=5 4 a)1 16 rest 8. bn(1 2 b)1(1
+|
+=1 83 blank 43 blank-I3 2. blank
+=1 43 a)1(1 163 [a)1 bb(1] 2 b 83 rest 43 g(1-I3
+=2 8 bb)1 4. bn 16 rest 4.. g#(1
+=3 2 blank 85 blank 85. blank-I5 4 blank
+=3 85. [f)1 165 rest g(1] 4 g)1(1 45 g)1 165 en(1 85. [e)1 165 rest c~(1]
+=4 4 blank 83 blank 43 blank-I3 2 blank
+=4 4 g#)1(1 43 g)1(1 163 [g)1 f#(1] 83 [f)1 rest-I3 a(1] 4 a)1(1
+=5 16 [b)1 8. c~n(1] 8 c~)1 16 rest f(1 4. f)1 8 dn(1
+/
+2 bars | 240 | 240 |
+|
+=1 4 g)1(1 83 g)1 43 a(1-I3 4 a)1 83 rest 43 b(1-I3
+=2 16 [g#)1 8. f(1] 8 [f(1 16 rest f#(1] 8 f)1 4 e 16 rest a(1
+=3 2 c~)1(1 165 c~)1 45 g#(1 4 g)1(1
+=4 4 blank 83 blank 43 blank-I3 2 blank
+=4 4 a)1(1 43 a)1(1 163 [a)1 bb(1] 83 [b)1 rest'-I3 c~(1] 4 c~)1(1
+=5 8 [d)1 16 rest eb(1] 4 e)1(1 16 e)1 4.. gn(1
+|
+=1 83 blank 43 blank-I3 83 blank 43 blank-I3 83 blank 43 blank-I3 83 blank 43 blank-I3
+=1 43 b)1(1 163 [b)1 g#(1] 43 g)1 83 bb(1 163 [b)1 gn(1] 43 g)1(1 163 g)1 43 c~ 163 a(1
+=2 4 a)1(1 16 [a)1 8. c~(1] 16 [c~)1 8. g#(1] 16 [g)1 8 e 16 bb(1]
+=3 85 blank 85. blank-I5 85 blank 85. blank-I5 85 blank 85. blank-I5 85 blank 85. blank-I5
+=3 165 [g#)1 rest 85. eb(1] 85 [e)1 gn 165 d(1] 45 d)1 165 f#(1 85. [f)1 85 bn(1]
+=4 83 blank 43 blank 83 blank 43 blank-I3 83 blank 43 blank-I3 83 blank 43 blank-I3
+=4 4 c~)1(1 163 c~)1 43 bn 163 a(1 43 a)1(1 163 [a)1 f(1] 43 f)1 83 d(1
+=5 8 [g)1 16 rest 16 a#(1] 8 [a)1 f#(1] 8. [f)1 16 bn(1] 8 [b)1 g#(1]
+/
+2 bars | 240 | 240 |
+|
+=1 83 blank 43 blank-I3 83 blank 43 blank-I3 2 blank
+=1 83 [a)1 83. g# 163 b(1] 43 b)1(1 163 [b)1 gn(1] 2 g)1(1
+i0.9 .60 morendo al niente
+=2 4 bb)1(1 16 [b)1 8. f(1] 16 f)1 4.. f#(1
+i0.9 .67 morendo al niente
+=3 85 blank 85. blank-I5 85 blank 85. blank-I5 85 blank 85. blank-I5 4 blank
+=3 85 [bn)1 85. a(1] [a)1 85 bb(1] 165 [b)1 85. d 165 eb(1] 4 e)1
+=4 83 blank 43 blank-I3 83 blank 43 blank-I3 83 blank 43 blank-I3 83 blank 43 blank-I3
+=4 43 d)1 83 e(1 163 [e)1 eb(1] 43 e)1(1 83 [e)1 rest f(1] 163 f)1 43 d 163 en(1
+=5 16 [g,)1 8. c~n(1] [c~)1 16 an(1] 8. [a)1 16 en(1] 8 [e)1 16 rest f(1]
+|
+il0.7 .05 15
+=1 8 g)1 rest 4 rest 2 rest treble
+=2 8 f#)1 rest 4 rest 2 rest treble
+=3 85 blank 85. blank-I5 85 blank 85. blank-I5 85 blank 85. blank-I5 85 blank 85. blank-I5
+=3 165 rest 85 [d en(1] 16 [e)1 85 f eb(1] [e)1 f 165 en(1] [e)1 85 eb f(1]
+=4 83 blank 43 blank-I3 83 blank 43 blank-I3 83 blank 43 blank-I3 83 blank 43 blank-I3
+=4 83 [e)1 83. f 16 eb(1] 83 [e)1 d f(1] 163 [f)1 83. en 163 d f(1] 83 [f)1 83. e 163 d(1]
+=5 16 [f)1 8 eb 16 d(1] [d)1 8 en 16 dn(1] 8 [d)1 eb(1] 16 [e)1 8 dn 16 eb(1]
+/
+2 bars | 30 30 30 30 30 20 20 20 | 20 20 20 20 30 30 30 30 |
+| 3.0 2.5
+bl0.8 .55 Poco piu mosso
+=1 2 rest vol126 16 rest 4.. c#(1
+I0.8 .50 fff
+=2 2 rest vol126 16 rest 4.. c#(1
+I0.8 .50 fff
+=3 85 blank 85. blank-I5 85 blank 85. blank-I5 2 blank
+=3 165 [f)1 85 d 165 eb f(1] 85. [f)1 165 en d(1] 16 d)1 rest 8 rest 4 rest treble
+=4 83 blank 43 blank-I3 83 blank 43 blank-I3 2 blank
+=4 83 [d)1 83. e 163 d(1] 83 [d)1 eb 163 f en(1] 16 e)1 rest 8 rest 4 rest treble
+=5 16 [eb)1 8 fn 16 en(1] 8 [e)1 16 dn eb(1] eb)1 rest 8 rest 4 rest treble
+| 5.0
+=1 2.. c#)1 8 c(1
+=2 1 c#)1(1
+=3 2 rest vol126 83 rest rest-I3 c#(1 4 c)1(1
+I0.8 .50 fff
+=4 2 rest vol126 83 rest rest-I3 c#(1 4 c)1(1
+I0.8 .50 ff
+=5 2 rest vol126 83 rest rest-I3 c#(1 4 c)1(1
+I0.2 .50 fff
+/
+3 bars | 48 | 48 | 48 |
+|
+=1 1 c#)1(1
+=2 16 c)1 4.. c#(1 2 c)1(1
+=3 1 c)1(1
+=4 2. c)1(1 83 c)1 43 c#(1-I3
+=5 1 c)1(1
+|
+=1 4 c)1(1 16 [c)1 8. c#(1] 2 c)1(1
+=2 2.. c)1 8 c#(1
+=3 2 c)1(1 83 c)1 43 c#(1-I3 4 c)1(1
+=4 1 c#)1(1
+=5 43 c)1 83 c#(1 2. c)1(1
+|
+il0.7 .04 20
+=1 2 c#)1(1 4.. c)1 16 b(1
+=2 2 c#)1(1 4.. c)1 16 Bn(1
+=3 1 c#)1(1
+=4 83 c#)1 43 d(1-I3 2. d)1(1
+=5 83 c#)1 43 dn(1-I3 2. d)1(1
+/
+5 bars | 48 | 24 16 | 20 | 20 | 20 ||
+|
+=1 1 b)1(1
+=2 1 Bn)1(1
+=3 2 blank 83 blank 43 blank-I3 4 blank
+=3 2 c)1(1 43 c)1 83 c#(1 4 c)1(1
+=4 4 blank 83 blank 43 blank--I3 2 blank
+=4 4 d)1(1 43 d)1 83 d(1 2 d)1(1
+=5 4 blank 83 blank 43 blank---I3 2 blank
+=5 4 d)1(1 43 d)1 83 eb(1 2 e)1(1
+| 1.25 1.5 1.5 1.5
+bl0.8 .20 Tempo 1o
+=1 4 b)1 vol55 2. c(1
+I0.9 .22 pp
+=2 4 B)1(1 16 B)1 rest 8 rest 2 rest
+I0.2 .21 pp
+=3 4 c)1 vol50 2. d(1
+=4 4 d)1(1 16 d)1 rest 8 rest 2 rest
+=5 4 e)1(1 16 e)1 rest 8 rest 2 rest
+| 6.0
+=1 1 c)1(1
+=2 2 blank 1 rest
+=3 1 d)1(1
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+=1 1 c)1
+=2 2 blank 1 rest
+=3 1 d)1
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+|
+il0.7 .04 25
+=1 2 blank 1 rest
+=2 2 blank 1 rest
+=3 2 blank 1 rest
+=4 2 blank 1 rest
+=5 2 blank 1 rest
+@
