@@ -4,7 +4,7 @@ A4D  = ${ARRD}/a4
 USD  = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
-BACKPAGE  = /home/pjb/mus/blurb/freebackpage.a4
+BACKPAGE  = /home/pjb/mus/blurb/cc_backpage.a4
 WARNING   = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US   = /home/pbin/a42us
@@ -22,11 +22,11 @@ all : ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf  ${SRCD}/${PIECE1}.txt
 dist1 :
 	upload ${A4D}/${PIECE1}.pdf
 	upload ${USD}/${PIECE1}.pdf
-	upload ${SRCD}/${PIECE1}.pdf
+	upload ${SRCD}/${PIECE1}.txt
 dist2 :
 	upload ${A4D}/${PIECE2}.pdf
 	upload ${USD}/${PIECE2}.pdf
-	upload ${SRCD}/${PIECE2}.pdf
+	upload ${SRCD}/${PIECE2}.txt
 play :
 	${MUSCRIPT} -midi ${PLAY} | aplaymidi - &
 play2 :
@@ -56,6 +56,7 @@ ${PIECE1}.a4 : ${PIECE1}
 	pkill -HUP gv
 title_${PIECE1}.a4 : title_${PIECE1}
 	groff -ms title_${PIECE1} | ${BANNERISE} > $@
+	pkill -HUP gv
 
 ${A4D}/${PIECE2}.pdf : title_${PIECE2}.a4 ${PIECE2}.a4 ${BACKPAGE}
 	groff -ms title_${PIECE2}.a4 | ${BANNERISE} > title_${PIECE2}.a4
@@ -76,7 +77,9 @@ ${PIECE2}.a4 : ${PIECE2}
 	pkill -HUP gv
 title_${PIECE2}.a4 : title_${PIECE2}
 	groff -ms title_${PIECE2} | ${BANNERISE} > $@
+	pkill -HUP gv
 
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
+	pkill -HUP gv
 

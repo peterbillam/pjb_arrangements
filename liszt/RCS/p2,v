@@ -1,0 +1,92 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.10.25.09.41.28;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Page 2 for Liszt's late pieces
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
+.AM
+.nr PS 14
+.nr VS 16
+.pl 11.7i
+.LP
+\&
+.sp 1.0c
+.LP
+.ce 1
+\f3\s+6\f4Nuages gris\fP, \f4Unstern\fP and \f4La lugubre gondola\s0\f1
+.sp 1.0c
+.LP
+.nh
+These pieces have been controversial.
+Peter Raabe in \f2Liszts Schaffen\fP 1931,
+disparaged \f2Nuages gris\fP and \f2Unstern\fP
+(first published in 1927),
+as symptoms of a \f2Verfall musikalischer Kräfte\fP.
+.LP
+.nh
+But then there was a flood of studies during the post-Webern-serialism years,
+for example
+Rene Leibowitz \f2Les Prophéties de Franz Liszt\fP 1951,
+Humphrey Searle \f2The Music of Liszt\fP 1954,
+Carl Dalhaus \f2Franz Liszt und die Vorgeschichte der neuen Musik\fP 1961,
+W.M. Goode 1965, P.A. Pisk 1969, R.Ch. Lee 1970,
+Dieter Rexroth \f2Zum Spätwerk Franz Liszts\fP 1970,
+Peter Schwarz \f2Studien zur Orgelmusik Franz Liszts\fP 1973,
+Harold A. Thompson \f2The Evolution of Whole-tone Sound in Liszt's Original Piano-works\fP 1974,
+Serge Gut \f2Franz Liszt: Les Eléments du Langage Musical\fP 1975,
+Dieter Torkewitz \f2Harmonisches Denken im Frühwerk Franz Lizts\fP 1978,
+Norbert Nagler \f2Die verspätete Zukunftsmusik\fP 1980.
+.LP
+.nh
+These studies mostly quoted Liszt's statement that his ambition as a
+composer was to lance his javelin as far as possible into the future
+("\f2Ma seule ambition de musicien était et serait de lancer mon javelot
+dans les espaces indéfinis de l'avenir\fP"),
+and mostly discussed Liszt's late work as atonal,
+and the herald of serialism;
+the proof, therefore, that serialism was the legitimate continuation
+of the whole western art-music tradition.
+.LP
+.nh
+The opinion of the editor is that these pieces
+are all gloomy pieces (just look at their titles),
+and it would be unwise to adopt their harmonic palette
+as the foundation for a whole style.
+.LP
+.nh
+Technically, they are very easy to play, compared with most of Liszt;
+only the low quiet tremolandos are challenging.
+But I don't think that's because of a decay in Liszt's musical powers;
+also the \f2Valse Oubliée\fP and \f2Czárdás Macabre\fP are from those years.
+I think it's because he wanted to speak of senility, disease and death,
+which will touch us all, not just the concert virtuosi among us;
+and therefore he wanted to speak to us all.
+.LP
+.nh
+The three consecutive whole-tones that end \f2Unstern\fP
+were also used by Alban Berg in the chorale in the second movement
+of his \f2Violinkonzert\fP (bar 136),
+where Berg credits them to Bach's \f2Es ist genug\fP.
+.LP
+.ce 1
+\f2Peter J Billam, \ \ www.pjb.com.au\fP
+@

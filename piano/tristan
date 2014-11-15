@@ -1,0 +1,195 @@
+5 systems 15 /19-35-19/19-35-19/19-30-19/19-30-19/19-25-19/
+title Tristan und Isolde   Act II, transition from Scene 1 to Scene 2
+midi channel 0 patch 60
+midi channel 1 patch 0
+midi pause 1.0
+/
+4 bars | 2b 16 | 48 | 3 3 3 3 3 3 3 4 3 3 3 3 3 3 3 3 \
+ | 3 3 3 3 3 3 3 7 3 3 3 3 3 3 3 3 |
+| 0.75
+=1  treble 2b cha1 leg99 vol80 83 [Bn c-I3 e]
+I0.7 .01 p
+=2  bass   2b cha1 leg99 vol75 8 <f a e~> rest
+| 3.0
+=1  8 [g f d Bb] [G A] 83 [B d-I3 c]
+=2' 2 <b d~> 4 e~ e~n
+=2, 1 f
+| 2.95
+=1' vol82 8 [B A 8. G 16 A] 8 [c B 8. A 16 B]
+=1, vol77 2 Eb F
+=2' vol77 leg130 2 c~ d~
+=2, vol77 4 rest f rest f
+| 2.9
+=1' vol84 8 [d c 8. Bn 16 c] 8 [eb d 8. c# 16 d]
+=1, vol79 2 G Abl
+=2' vol79 2 e~n f~
+=2, vol79 4 rest f rest f
+/
+4 bars | 2b 48 | 48 | 48 | 48 |
+| 2.85
+=1' vol86 8 [fn e 8. d 16 e] 8 [f en 8. d# 16 e]
+=1, vol81 2 An B
+=2' vol81 2 f~# g~
+=2, vol81 4 rest fn rest f
+| 2.8
+=1' vol88 8 [g f 8. en 16 f] 8 [ab g 8. f# 16 g]
+=1, vol83 4 A rest, Bn rest,
+=2' vol83 4 rest <F f> rest <F f>
+| 2.75
+=1' vol90 8 [b an 8. g# 16 a] 8 [c~ b 8. a 16 b]
+=1, vol85 4 c rest, c# rest,
+=2' vol85 4 rest <F f> rest <F f>
+| 2.70
+=1' vol92 8 [c~ bn 8. bb 16 bn] 8 [d~ c~ 8. b 16 c~]
+=1, vol87 4 d rest, eb rest,
+=2' vol87 4 rest <F f> rest leg99 <F f>
+/
+4 bars | 2b 48 | 48 | 48 | 48 |
+| 2.65
+=1' vol94 8 [e~ d~ 8. c~# 16 d~] 8 [e~ d~ 8. c~ 16 d~]
+=1, vol89 1 <f(4 ab>
+I0.7 .01 f
+=2  vol89 leg99 4 <F-P f'> ab b 8. [c~# 16 d~]
+| 2.60
+=1' vol96 8 [e~b d~ 8. c~# 16 d~] 8 [e~ d~ 8. c~ 16 d~]
+=1, vol91 1 <f)4 ab>
+=2  vol91 leg99 4 e~n f~ 2 a~b
+| 2.55
+=1' vol98 8 [e~ d~ 8. c~# 16 d~] 8 [e~ d~ 8. c~ 16 d~]
+=1, vol93 1 <f(4 ab>
+=2  vol93 leg99 4 <F-P f'> ab b 8. [c~# 16 d~]
+| 2.50
+=1' vol100 8 [e~b d~ 8. c~# 16 d~] 8 [e~ d~ 8. c~ 16 d~]
+=1, vol95 1 <f)4 ab>
+=2  vol95 leg99 4 e~n f~ 2 a~b
+/
+4 bars | 2b 48 | 48 | 48 | 48 |
+| 2.45
+=1' vol102 8 [e~n d~ 8. c~# 16 d~] 8 [e~n d~ 8. c~ 16 d~]
+=1, vol97 1 <f#(4 an>
+I0.7 .01 f
+=2  vol97 leg99 4 <F#-P f#'> an c~n 8. [c~# 16 d~]
+| 2.40
+=1' vol104 8 [e~n d~ 8. c~# 16 d~] 8 [e~n d~ 8. c~ 16 d~]
+=1, vol99 1 <f#)4 an>
+=2  vol99 leg99 4 e~# f~# 2 a~n
+| 2.35
+=1' vol106 8 [e~n d~ 8. c~# 16 d~] 8 [e~n d~ 8. c~ 16 d~]
+=1, vol101 1 <f#(4 an>
+=2  vol101 leg99 4 <F#-P f#'> an c~n 8. [c~# 16 d~]
+| 2.30
+=1' vol108 8 [e~n d~ 8. c~# 16 d~] 8 [e~n d~ 8. c~ 16 d~]
+=1, vol103 1 <f#)4 an>
+=2  vol103 leg99 4 e~# f~# 2 a~n treble
+/
+4 bars | 2b 48 | 48 | 48 | 48 |
+| 2.25
+=1, vol110 8 [<fn e~b> d~ 8. c~# 16 d~] 8 [<f# e~n> d~ 8. c~ 16 d~]
+=2  vol105 4. <G#rl-P Bn'> 8 <G B'> 4. <A,-P cn> 8 <A, c>
+| 2.20
+=1, vol112 8 [<fn e~b> d~ 8. c~# 16 d~] 8 [<f# e~n> d~ 8. c~ 16 d~]
+=2  vol107 4. <G#rl-P Bn'> 8 <G B'> 4. <A,-P cn> 8 <A, c>
+| 2.15
+=1, vol114 8 [<gn f~n> e~n 8. d~# 16 e~] 8 [<ab g~> f~ 8. e~ 16 f~]
+=2, vol109 4. <Bblr-P db> 8 <B d> 4. <Bnl-P dn> 8 <B d>
+| 2.10
+=1, vol116 8 [<g  f~>  e~n 8. d~# 16 e~] 8 [<ab g~> f~ 8. e~ 16 f~]
+=2, vol111 4. <Bblr-P db> 8 <B d> 4. <Bnl-P dn> 8 <B d>
+
+5 systems /19 50 19-30-19/19 40 19-30-19 \
+ /19-30-19/19-30-19/19-37-19/
+innerhead Tristan und Isolde   Act II, transition from Scene 1 to Scene 2
+
+/
+4 bars | 2b 48 | 48 | 48 | 48 |
+| 2.05
+=1  treble 2b cha0 vol120 1 rest
+=2, treble 2b cha1 vol116 \
+=2, vol118 8 [<an g~>  f~  8. e~n 16 f~] 8 [<a  g~> f~ 8. e~n 16 f~]
+=3, treble 2b cha1 vol113 4. <c-P eb> 8 <c e> 4. <c e> 8 <c e>
+| 2.00
+=1 2 rest 4. rest 8 E
+r0.8 .87 I  -
+=2, vol120 8 [<an g~>  f~  8. e~n 16 f~] 8 [<a  g~> f~] 83 [e~n f~-I3 g~]
+=3, vol115 4. <c eb> 8 <c e> 4. <c e> bass 8 rest
+| 2.00
+=1, 1 Ab(1
+r0.8 .01 so .40 - .90 -
+=2  vol122 2 <c~ e~bl a~b(1> 8 [a~)1 g~n g~b e~] treble8va
+I0.7 .01 ff
+=3  vol117 4 Ab-P 2. <ab(4 c~(2 e~(8 g~b(6>
+|
+=1  2 A)1 4 C rest
+r0.7 .50 de !
+=2 8 [c' Ab Gb E] 85 [G, A, c-I5 e gb]
+=3 4 <ab)4 c~)2 e~)8 g~b)6> rest 2 rest
+/
+4 bars | 2b 6 5 6 5 7 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 5 6 5 6 6 6 5 | 49 |
+|
+=1 1 an(1
+r0.8 .05 Tri .44 - .93 -
+=2 vol122 2 <c e an(1> 8 [a)1 g e c]
+I0.7 .01 f
+=3  vol117 4 F-P 2. <f(4 a(2 c~(3 e~(1>
+|
+=1 2 a)1 4 e 8 rest <C c'>
+r0.7 .50 tan !
+=2 8 [An Gn E C] 83 [E G-I3 A] [c e-I3 g]
+=3 4 <f)4 a)2 c~)3 e~)1> rest 2 rest
+|
+=1 1 <G(2 b(1>
+=2 vol122 2 <B(2 d(3 b(1> 8 [<B)2 d)3 b)1> g d B]
+i0.5 .01 piu
+I0.5 .15 f
+=3  vol117 4 En-P 2. <en g b d~>
+|
+=1 2 <G,)2 b)1> 4 <B_ c'> rest
+=2, vol122 83 [G B-I3 d] [g a-I3 b] 2 <c(3 c~(1>
+i0.6 .10 cresc .  . .
+I0.8 .51 ff
+=3  vol117 4. <en b d~> 8 d~b-* 4 <e bx c~> 16 [B A G F]
+/
+4 bars | 2b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+| 1.99
+=1, treble8va 2b cha1 \
+ 8 [<c)3 c~)1> <B b> <A a>] 4 <G g-emph> 8 [<F f> <F# f#> <G(3 g(1-emph>]
+=2 bass      2b cha1 4. Eb-P 8 <eb a c~> 4. <d-* b> 8 <c, e a>
+| 1.98
+=1 8 [<G,)3 g)1> fn eb] 4 d 8 [c e f#]
+=2 4. <Bn, d ab> 8 <Bbl, en g> 4. <An eb' fx'> 8 <c, e an>
+| 1.97
+=1 8 [<G, g> fn eb] 4 d 8 [c e f#]
+=2 4. <Bn, d ab> 8 <Bbl, en g> 4. <An eb' fx'> 8 <c, e an>
+| 1.96
+=1 8 [<G, g> fn eb] 4 d 8 [c# en g#]
+=2, 4. <Bn d ab> 8 <Bb enl g#> 4. <An e gn> 8 <d f bn>
+/
+3 bars | 2b 48 | 48 | 48 |
+| 1.95
+=1 8 [<A, a> gn f] 4 en 8 [d f g#]
+=2, 4. <c#rl en bb> 8 <cnl f# a> 4. <Bn fnx g> 8 <d f bn>
+| 1.94
+=1 8 [<A, a> gn f] 4 en 8 [d f g#]
+=2, 4. <c#rl en bb> 8 <cnl f# a> 4. <Bn fnx g> 8 <d f bn>
+| 1.93
+=1 8 [<A, a> gn f en] [<A, a> g f e]
+=2, 4. <c#rl en bb> 8 <cnl f# a> 4. <c#rl en bb> 8 <cnl f# a>
+/
+4 bars | 2b 48 | 48 | 48 | 15 ||
+| 1.92
+=1 8 [<A, a> gn f en] [<A, a> g f e]
+=2, 4. <c#rl en bb> 8 <cnl f# a> 4. <c#rl en bb> 8 <cnl f# a>
+| 1.91
+=1 8 [<A, a> gn f en] [<A, a> g f e]
+I0.5 .01 fff
+=2' 2 blank <gn b>
+=2, 4. <c#rl en bb> 8 cn(2 4. c)2 8 Bn(2
+| 1.90
+=1 8 [<A, a> gn f en] [<A, a> g f e]
+=2' 4 <enrl g bn> 2 c~ 8 [c~# d~]
+=2, 2 Br)2 Bb
+| 0.95
+=1  2/4 8 <Bnlr d# bn-.> rest
+=2, 2/4 <A f#lr d~#-.> rest

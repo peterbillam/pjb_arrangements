@@ -95,14 +95,63 @@ il0.7 .03 5
 =4 165 [e)1 85 c# dn]  8. rest 16 Bb'(2 [B')2 An Bn' G#] [Gn Fn Ab Fn(2]
 =5 85. [e)1 85 eb(1] 16 [e)1 dn fn dn] 8. rest 16 db(1 165 [d)1 cn Bn-I5 dn cn]
 /
-2 bars | 28 28 32 32 32 18 18 18 | 40 60 |
+2 bars | 28 28 32 32 32 18 18 18 | 35 60 |
 |
 =1 16 [Gn Fn Gb Fn-I7 F# En F#] 4.. blank blank blank
 =1 4 blank 32 [Gn F# Gn Fn Gb Fn En Fn] [Gb Ab Gb Eb] 8 rest 4 rest
 =2 4. blank 1 rest
 =3 16 [Dn Cn En Eb-I7 Dn En C#] 4.. blank blank blank
-=3 4 blank 32 [D# Dn Cn C# B_n Cn B_b Cn] [C# En Dn C#] 4. F_#-tr#
-=4 8 F)2 rest cha3 4 rest 8 rest 4. Cn
+=3 4 blank 32 [D# Dn Cn C# B_n Cn B_b Cn] [C# En Dn C#] 4. F_#(1-tr#
+=4 8 F)2 rest cha3 4 rest 8 rest 4. Cn(1
 i0.85 .45 senza sord.
 =5 163 [c# d# Bn-I3 Bb cn Bb] [An Bn c#-I3 Bn cn d(1] \
  [d)1 Bn-I3 An] 8 rest 4 rest
+|
+Il0.3 .03 10
+=1 2 rest 83 rest rest-I3 Cn(2 [C)2 83. F#-I3 163 An(2]
+I.60 .40 p
+i.60 .50 espressivo
+=2 2 rest 83 rest rest-I3 Bb(1 [B)1 83. e-I3 163 gn(1]
+I.60 .40 pp
+i.60 .50 espressivo
+=3 1 F_#)1(1-tr#
+=4 1 C)1(1
+=5' 2 rest bass 83 rest rest-I3 Gn(2 [G)2 83. c#-I3 163 en(1]
+I.20 .40 pp
+i.20 .50 espressivo
+/
+2 bars | 18 18 32 32 28 26 22 25 | 100 |
+|
+=1, 4 A)2(1 167 [A)1 Fn Ab en-I7 gn eb dn] \
+ 163 [c# Bn cn-I6 En 83 Bb(3] 8 [B)3 16 Gb fn(1]
+=2, 4 g)1(1 167 [g)1 eb f# d~-I7 f~ c~# c~n] \
+ 163 [b a bb-I6 dn 83 ab(3] 8 [ab)3 16 en d~#(1]
+=3 1 F_#)1(1-tr#
+=4 1 C)1(1
+=5, 4 e)1(1 167 [e)1 c eb b-I7 d~ bb a] \
+ 163 [g# f# gn-I6 B 83 fn(3] 8 [f)3 16 c# c~(1]
+|
+I0.2 .12 3
+=1 43 f)1 83 Ab(1 8 [A,)1 dn(1-ten] 8. d)1 16 Dn(2-trb 4 D)2(2
+I0.7 .55 pp
+i0.6 .65 possible (sempre)
+I0.2 .12 3
+=2 43 d~#)1 83 f#(1 8 [f)1 c~n(1-ten] 2 c~)1
+I0.2 .12 3
+=3 43 F_#)1 83 G_n(2-trb 8. [G_)2{2 16 G_}2(2-trn] \
+  16 [G_)2{2 8 G_#}2(2-tr 16 G_#)2(2-tr#] 85. [G_)2 85 A_n(2-trb]
+I0.2 .12 3
+=4 43 C)1 83 B_b(2 2 B_)2(2 83 B_)2 42 A_n(2-I3
+I0.2 .12 3
+=5 43 c~)1 83 eb(1 8 [e)1 an(1-ten] 2 a)1(1
+
+/
+2 bars | 80 | 32 30 28 26
+|
+=1 d D)2-trb
+=2 2 c~)1 rest
+=3 165 [A_)2(2-trb A_)2(2-trn A_#)2(2-tr] \
+ 43 A_)2(2 83 A_#)2(2-tr# 8. [A_)2 16 B_n(2-trn] \
+ 4 B_)2
+=4 85. [A_)2 85 G_#(2] 4 G_)2(2 4. G_)2 8 F_#(2
+=5 2 a)1 rest

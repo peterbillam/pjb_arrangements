@@ -1,10 +1,15 @@
-head	1.6;
+head	1.7;
 access;
 symbols;
 locks
-	pjb:1.6; strict;
+	pjb:1.7; strict;
 comment	@# @;
 
+
+1.7
+date	2014.09.21.09.58.02;	author pjb;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2013.12.14.09.11.24;	author pjb;	state Exp;
@@ -42,9 +47,9 @@ desc
 @
 
 
-1.6
+1.7
 log
-@tiny spacing fix in no2bar25
+@refinger 14 conformant with 18
 @
 text
 @4 systems 40 / 19-40-19 / 19-40-19 / 19-40-19 / 19-47-19 20/
@@ -120,11 +125,11 @@ il0.9 .20 10
 =1, 4. <Fnr(4 dbx(2 e(1-ten-s1-s4-s5> 4 <F)4(4 dx)2(2 e)1(1>
 =2, 4. <e(2-s1,-s"     3-2", bb(1> 4 <e)2(2 b)1(1>
 |
-=1' 4. <Frr)4 e)1> 4 vol60 <Ab f-ten-s"  1"-s"2"-s" 5">
-=1, 8 [dbr)2 c-s3 vol55 A-s2] vol60 [E vol65 Eb-s2]
+=1' 4. <Frr)4 e)1> 4 vol60 <Ab f-ten-s"1"-s" 5">
+=1, 8 [dbr)2 c-s3 vol55 A-s2] vol60 [E vol65 Eb-s1]
 i0.4 .40 cresc  .  .  .
 =2, 4. <er)2 bb)1> 4 vol50 \
- <G-s1,-s"2 ",-s"5  ", c# bn>
+ <G-s2,-s"1 ",-s"3  ",-s"5   ", c# bn>
 |
 il1.3 .30 15
 =1' 8 vol70 [f#-ten-s"1 "-s2-s" 5" c# d fn e]
@@ -145,7 +150,7 @@ i0.4 .30 dim  .  .  .
 =2' 4. <E)4(4 A#)2(2 f)3(3 b)1(1> 4 <E)4 A)2 f)3 b)1>
 |
 =1' 4. vol60 <E(4 c(2-ten-s1-s4-s5 d#xl(1> 4 <E)4(4 c)2(2 dx)1(1>
-=2, 4. <d#(2-s1-s2 a(1> 4 <d)2(2 a)1(1>
+=2, 4. <d#(2-s1,-s2, a(1> 4 <d)2(2 a)1(1>
 |
 =1' 4. <Er)4 d#l)1> 4 <Gn e-ten-s1-s5>
 =1, 8 [c)2 B G#] [D#l Dn-s1]
@@ -418,6 +423,24 @@ i0.5 .55 cresc .  .  .
 | 3.6
 =1' 2 <B_br Enl Bb-fermata>
 =2' 2 <Cr F# e-fermata>
+@
+
+
+1.6
+log
+@tiny spacing fix in no2bar25
+@
+text
+@d74 2
+a75 2
+=1' 4. <Frr)4 e)1> 4 vol60 <Ab f-ten-s"  1"-s"2"-s" 5">
+=1, 8 [dbr)2 c-s3 vol55 A-s2] vol60 [E vol65 Eb-s2]
+d78 1
+a78 1
+ <G-s1,-s"2 ",-s"5  ", c# bn>
+d99 1
+a99 1
+=2, 4. <d#(2-s1-s2 a(1> 4 <d)2(2 a)1(1>
 @
 
 

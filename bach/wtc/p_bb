@@ -62,7 +62,7 @@ rs0.7 .753 1
 =2, 2 b(2-s1,-s"    3-5", 8 [b)2-s1,-s5, 16 d~-s2, c~-s1,] 8 [b ab]
 |
 =1' 8 [d-s1-s3-s5 16 c-s1-s2-s4 B] 8 [c c-s1-s3-s5] \
- 8 [c 16 B-s2-s4 A] 8 [B B-s1-s3-s5]
+ 8 [c 16 B-s1-s2-s4 A] 8 [B B-s1-s3-s5]
 =1, 8 [<E B> <E Ab>] rest, <F A> [<F A> <F Gnx>] rest, <Fx G>
 # =2' 8 [e~ e~] rest, f~ [f~ f~] rest, f~
 =2, 8 [gn-s4, 16 a-s2, g-s1,] 8 [f e] [dn 16 g-s1, f-s2,] 8 [en g]
@@ -75,16 +75,16 @@ rs0.7 .753 1
 |
 il0.8 .01 10
 =1' 8 [En c(1-s2-s5] [c)1 16 B-s1-s4 A] \
- 8 [B B(1-s2-s5] [B)1 16 A-s1-s2-s5 Gn-s4]
+ 8 [B B(1-s2-s5] [B)1 16 A-s1-s2-s5 Gn--s4]
 =1, 8 [C 16 F E] 8 [F F(2] [F)2 16 En Dn] 8 [E E(2]
 =2' 8 [gn a(1] [a)1 16 g f] 8 [g g(1] [g)1 c~(1]
 =2, 8 [B A] [d-s3, d(2-s1,-s4,] [d)2 16 c-s4, B] 8 [c c-s2,]
 /
 2 bars | 5b 80 | 80 |
 |
-=1' 8 [A-s4 A(1-s1-s4-s5] [A)1 16 Gb-s1-s3 F-s2] \
+=1' 8 [A-s5 A(1-s1-s4-s5] [A)1 16 Gb-s1-s3 F-s2] \
  8 [G-s1-s3 d(1-s2-s4] [d)1 16 c B]
-=1, 8 [En)2 16 F Eb--s3] 8 [Db D] [D 16 B An] 4 B
+=1, 8 [En)2 16 F Eb---s3] 8 [Db D] [D 16 B An] 4 B
 =2' 8 [c~)1 c~(1] [c~)1 16 b a-s2,] 8 [b 16 gb f] 4 g
 =2, 8 [c-s2, F] [B-s2, B-s1,-s5,] [B B] [B B]
 |
@@ -105,14 +105,14 @@ innerhead Prelude XXII in b-flat minor, Book 1, WTC, J. S. Bach
 |
 =1' 4 f 8 rest''-s1-s3 16 [f-s5 eb-s4] 4 d-s"    3-5" 8 rest' 16 [e-s3 f]
 =1, 8 [<Bxr)2 c> 16 <A c-s1-s3> <Gn B-s1-s2>] 4 <A c> \
- 8 rest, 16 [<A-s1, cb-s1> <Gb-s4, B-s2>] 4 <F-s1, A-s1>
+ 8 rest, 16 [<A-s1, cb-s1> <Gb-s2, B-s2>] 4 <F-s1, A-s1>
 =2' 4 f 2. blank
 =2, 4 F 8 rest f-s5, 4 b-s4, 8 rest b-s2,
 |
 =1' 4 g-s5 8 rest'-s1 16 [e-s5 db-s4] 4 cn-s"    3-5" 8 rest' 16 [d-s3 e]
 =1, 8 rest, 16 [<E-s1, G-s1> <F-s2, A-s2>] 4 <G-s1, B> \
  8 rest, 16 [<C-s1, E-s1> <D-s2, F-s2>] 4 <E-s1, G-s1>
-=2, 4 e 8 rest e 4 a-s3, 8 rest a-s3,
+=2, 4 e 8 rest e 4 a-s3, 8 rest a-s2,
 /
 2 bars | 5b 9 10 9 10 9 10 9 10 | 80 |
 |
@@ -136,7 +136,7 @@ il0.8  15
  8 [an a-s1,-s5,] [b-s1,-s4, 16 b-s1,-s2, ab]
 |
 =1' 8 [e 16 e-s1-s5 d] 8 [c 16 c-s1-s2-s3 d-s2-s4] \
- 8 [e-s1-s2-s5 16 c-s1-s2-s3 d-s2-s4] 8 [e-s1-s3-s5 16 d-s1-s3-s5 c]
+ 8 [e-s1-s2-s5 16 c-s1-s2-s3 d--s2-s4] 8 [e-s1-s3-s5 16 d-s1-s3-s5 c]
 =1, 8 [B 16 An B] 8 [Br 16 A B] 8 [A 16 A B] 8 [c 16 B A]
 =2' 8 [d~ 16 c~ d~] 8 [e~ f~] [g~b g~] [f~ f~]
 =2, 8 [g 16 g-s2,-s4, f-s1,-s5,] 8 [e-s1,-s4, 16 e-s2, d] \

@@ -1,0 +1,55 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.03.10.10.31.48;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Davy Graham's Tristano, from Large as Life album
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@10 systems 15 /19/
+title Tristano
+pagenum
+innerhead Davy Graham, Large as Life and Twice as Natural
+midi channel 0 patch 25
+/
+4 bars | 10 | 48 |
+| .25
+=1 treble8vab cha0 vol100 8 E
+| 2.4
+=1' 85 [g 165 a-I5 85 g] 8 [f# e] 8 d rest' 4 rest'
+=1, 4 <B d> 8 <F_#r A# e> rest, 83 [B_ C-I3, C# D D#-I3, E]
+| 3.2
+=1' 8 rest' 83 [f 163 g f-I3 g f] 2. rest'
+=1, 8 F(2 4 <F)2 Ax B> 43 E_-P 83 C [E G# c] 8. [e-fermata 16 E]
+| 2.4
+=1' 85 [g 165 a-I5 85 g] 8 [f# e] 8 d rest' 4 rest'
+=1, 4 <B-* d> 8 <F_#r A# e> rest, 83 [B_ C-I3, C# D D#-I3, E]
+/
+3 bars | 48 | 48 | 48 |
+| 3.84
+=1' 8 rest' 83 [f 163 g f-I3 g f] 2 rest' rest'
+=1, 8 F(2 4 <F)2 Ax B> 43 E_-P 83 B_ [E G#-I3, B] 8 e 4. d-fermata
+| 2.2
+=1' 8 [E_-P B_b] 4 <E G# d>
+| 3.3
+=1, 8 <D-* G# B f> rest <F B d ab> rest <G# d f b> rest \
+ <Bb f ab d~> rest <c# g# b f~n> rest
+|
+=1 2 <e b d~ g~#>
+@

@@ -31,7 +31,7 @@ I0.7 .10 p
 =2, 8 [B d f] [b a# b] 2. e-s5,
 |
 il1.1 .44 5
-=1  8 [F-s1 A#-s2 c'-s3] [f---s5 e f] [G,-s2 B-s2 d-s4] 4. e-s5
+=1  8 [F-s1 A#-s2 c'-s3] [f---s5 e f] [G,-s1 B-s2 d-s4] 4. e-s5
 =2' 4. e~)1 2. d~(1-s2, 8 [d~)1 c~-s3, b-s1,]
 =2, 1. f(2-s"    4-5",
 /
@@ -82,10 +82,10 @@ innerhead Prelude IX in E major, Book 1, Well-Tempered Clavier, J. S. Bach
 =1, 4. F(2 4 F)2 8 En 4. D rest,,
 =2  8 [F A c] [f-s1, en-s2, f-s1,] [B,-s5, d f] [b a b]
 /
-2 bars | 4# 4 4 4 4 4 4 4 4 4 4 4 6 4 4 4 4 4 4 4 4 4 4 4 3 \
+2 bars | 4# 4 4 4 4 4 4 4 4 4 4 4 5.5 4 4 4 4 4 4 4 4 4 4 4 3 \
  | 75 |
 |
-=1' 16 [G F E F G A] [B A-s3 G A-s1 B c] [dn c B A G F] 8 E rest rest
+=1' 16 [G F E F G A] [B A-s3 G A-s1 B c] [dn c B A G-s3 F] 8 E rest rest
 =2, 8 [e-s5, g b-s2,] [e~ d~n c~] \
  4 b-s1, 8 a-s4, 16 [g-s5, d~-s2, c~ b-s1, a g]
 | 2.9
@@ -101,7 +101,7 @@ il0.8 .03 15
 =2' 4. c~(1 8 [c~)1 d~n c~] 2. b-s1,-s4,
 =2, 2. a)2(2 4. ar)2 g-s2,
 |
-=1  8 [c-s3 A,-s1 B-s2] 4. c(1-s3 8 [c)1 B-s1 A,--s4] [G-s1-s3 A--s5 F--s3]
+=1  8 [c-s3 A,-s1 B-s2] 4. c(1-s3 8 [c)1 B--s1 A,--s4] [G-s1-s3 A--s5 F--s3]
 =2' 2. blank 4 rest'' 8 f-s1, 4. b(1
 =2  8 [A c e'] [a g a] 2. d#-s2,
 |
@@ -116,7 +116,7 @@ il0.8 .03 15
 =2, 1. B(2-s"    4-5",
 |
 il0.8 .09 20
-=1' 8 [B_-s1 D F] [A G A] [B_ D F-s3] 4. Gn(2-s4
+=1' 8 [B_ D F] [A G A] [B_ D F-s3] 4. Gn(2-s4
 =2' 2. d(1 4. d)1 e(1
 =2, 4. B)2(2-s2,-s3, 4 B)2 8 F-s5, 4. Gn(2-s"    4-5", 8 [G)2 A B]
 |

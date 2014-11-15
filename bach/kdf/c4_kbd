@@ -1,4 +1,4 @@
-5 systems 15 /20-35-20/20-45-20/20-50-20/20-45-20 10/20-40-20 15/
+5 systems 18 /20-35-20/20-45-20 2/20-50-20 2/20-45-20 12/20-40-20 18/
 pagenum 2
 title Contrapunctus 4
 innerhead J. S. Bach
@@ -41,7 +41,7 @@ midi off
 5 bars | 1b 5 5 5 5 6 8 6 5 | 5 5 5 5 8 6 6 5 | 5 5 5 5 6 6 6 5 | 5 5 5 5 8 6 6 5 | 5 5 6 6 6 6 8 5 |
 |
 =1' cro B)1 E A-s3 G(1
-=1, min C#(2 qua [C)2 A_-s4, B_n C]
+=1, min C#(2 qua [C)2 A_-s5, B_n C]
 =2  smb rest
 |
 =1' cro G)1 F min B(1-s3
@@ -53,12 +53,12 @@ il0.8 .15 10
 =1, min F(2 qua [F)2 E-s3, F-s2, G-s1,]
 =2  smb rest
 |
-=1' cro d)1-s1 c-s5 min B(1-s4
+=1' cro d)1-s1-s(4) c-s5 min B(1-s4
 =1, min A(2 qua [Ar)2 G-s2 F-s1 E-s2]
 =2' min a-s3, d
 =2, smb rest,
 |
-=1' cro B)1-s1 qua [A-s3 G] min F(1
+=1' cro B)1-s1-s(4) qua [A-s3 G] min F(1
 =1, min D(2 qua [D)2 E-s1, D-s2, C#-s3,]
 =2' min f-s4, a-s5,
 =2, smb rest,
@@ -83,7 +83,7 @@ il0.8 .15 10
 =1' cro Enrl e-s3-s5 min c(1-s1-s5
 =1, cro d)2 qua [c Bn] [A G F E]
 =2' min a(1 qua [a)1 bb-s2, a-s1, g#-s2,]
-=2, min c-s1,-s"  5-4", e-s4,
+=2, min c-s1,-s"    4-5", e-s4,
 /
 5 bars | 1b 6 9 6 6 9 6 6 5 | 6 6 6 6 9 9 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 8 6 6 6 6 6 6 5 |
 |

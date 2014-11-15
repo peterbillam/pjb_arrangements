@@ -11,6 +11,8 @@ wind5tet.a4 : wind5tet
 	pkill -HUP gv
 play :
 	muscript -midi ${PLAY} | midisox_lua - -d stat
+playall :
+	muscript -midi wind5tet | midisox_lua - -d stat
 
 #concert_pitch_01 : 01
 #	transpose -A -s 1 -5 01 | transpose -A -s 2 -7 | transpose -A -s 3 -2 \

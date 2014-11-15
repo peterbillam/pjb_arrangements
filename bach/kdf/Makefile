@@ -186,6 +186,7 @@ ${SRCD}/${PIECE1}.txt : ${PIECE1}
 	cp ${PIECE1} $@
 ${PIECE1}.a4 : ${PIECE1}
 	${MUSCRIPT} ${PIECE1} > $@
+	pkill -HUP gv
 title_${PIECE1}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 1 | groff -ms | ${BANNERISE} > $@
 
@@ -205,6 +206,7 @@ ${SRCD}/${PIECE3}.txt : ${PIECE3}
 	cp ${PIECE3} $@
 ${PIECE3}.a4 : ${PIECE3}
 	${MUSCRIPT} ${PIECE3} > $@
+	pkill -HUP gv
 title_${PIECE3}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 3 | groff -ms | ${BANNERISE} > $@
 
@@ -224,6 +226,7 @@ ${SRCD}/${PIECE4}.txt : ${PIECE4}
 	cp ${PIECE4} $@
 ${PIECE4}.a4 : ${PIECE4}
 	${MUSCRIPT} ${PIECE4} > $@
+	pkill -HUP gv
 title_${PIECE4}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 4 | groff -ms | ${BANNERISE} > $@
 
@@ -258,6 +261,7 @@ ${SRCD}/${PIECE5}.txt : ${PIECE5}
 	cp ${PIECE5} $@
 ${PIECE5}.a4 : ${PIECE5}
 	${MUSCRIPT} ${PIECE5} > $@
+	pkill -HUP gv
 title_${PIECE5}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 5 | groff -ms | ${BANNERISE} > $@
 
@@ -277,6 +281,7 @@ ${SRCD}/${PIECE7}.txt : ${PIECE7}
 	cp ${PIECE7} $@
 ${PIECE7}.a4 : ${PIECE7}
 	${MUSCRIPT} ${PIECE7} > $@
+	pkill -HUP gv
 title_${PIECE7}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 7 | groff -ms | ${BANNERISE} > $@
 
@@ -296,6 +301,7 @@ ${SRCD}/${PIECE8}.txt : ${PIECE8}
 	cp ${PIECE8} $@
 ${PIECE8}.a4 : ${PIECE8}
 	${MUSCRIPT} ${PIECE8} > $@
+	pkill -HUP gv
 title_${PIECE8}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 8 | groff -ms | ${BANNERISE} > $@
 
@@ -315,6 +321,7 @@ ${SRCD}/${PIECE9}.txt : ${PIECE9}
 	cp ${PIECE9} $@
 ${PIECE9}.a4 : ${PIECE9}
 	${MUSCRIPT} ${PIECE9} > $@
+	pkill -HUP gv
 title_${PIECE9}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 9 | groff -ms | ${BANNERISE} > $@
 
@@ -334,6 +341,7 @@ ${SRCD}/${PIECE10}.txt : ${PIECE10}
 	cp ${PIECE10} $@
 ${PIECE10}.a4 : ${PIECE10}
 	${MUSCRIPT} ${PIECE10} > $@
+	pkill -HUP gv
 title_${PIECE10}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 10 | groff -ms | ${BANNERISE} > $@
 
@@ -353,6 +361,7 @@ ${SRCD}/${PIECE11}.txt : ${PIECE11}
 	cp ${PIECE11} $@
 ${PIECE11}.a4 : ${PIECE11}
 	${MUSCRIPT} ${PIECE11} > $@
+	pkill -HUP gv
 title_${PIECE11}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 11 | groff -ms | ${BANNERISE} > $@
 
@@ -409,6 +418,7 @@ ${MP3D}/${PIECE14R}.mp3 : ${PIECE14R}
 	rm t.wav
 ${PIECE14R}.a4 : ${PIECE14R}
 	${MUSCRIPT} ${PIECE14R} > $@
+	pkill -HUP gv
 title_${PIECE14R}.a4 : title_${PIECE14R}
 	${UTF2ISO} title_${PIECE14R} | groff -ms | ${BANNERISE} > $@
 
@@ -429,6 +439,7 @@ ${XMLD}/${PIECE14S}_readme.txt : p2_c14 p3_c14
 	${NROF} p2_c14 p3_c14 > $@
 ${SRCD}/${PIECE14S}.txt : ${PIECE14S}
 	cp ${PIECE14S} $@
+	pkill -HUP gv
 ${MP3D}/${PIECE14S}.mp3 : ${PIECE14S}
 	${MUSCRIPT} -midi ${PIECE14S} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
 	${NORMALIZE} --peak t.wav
@@ -456,6 +467,7 @@ ${XMLD}/${PIECE14GK}_readme.txt : p2_c14 p3_c14
 	${NROF} p2_c14 p3_c14 > $@
 ${SRCD}/${PIECE14GK}.txt : ${PIECE14GK}
 	cp ${PIECE14GK} $@
+	pkill -HUP gv
 ${MP3D}/${PIECE14GK}.mp3 : ${PIECE14GK}
 	${MUSCRIPT} -midi ${PIECE14GK} \
 	  | timidity -Ow -c /etc/timidity.cfg -o t.wav -
@@ -485,6 +497,7 @@ ${XMLD}/${PIECECAN}_readme.txt : p2_c14 p3_c14
 	${NROF} p2_c14 p3_c14 > $@
 ${SRCD}/${PIECECAN}.txt : ${PIECECAN}
 	cp ${PIECECAN} $@
+	pkill -HUP gv
 ${MP3D}/${PIECECAN}.mp3 : ${PIECECAN}
 	${MUSCRIPT} -midi ${PIECECAN} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
 	${NORMALIZE} --peak t.wav

@@ -1,10 +1,20 @@
-head	1.3;
+head	1.5;
 access;
 symbols;
 locks
-	pjb:1.3; strict;
+	pjb:1.5; strict;
 comment	@# @;
 
+
+1.5
+date	2014.07.21.09.14.23;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.07.21.01.26.35;	author pjb;	state Exp;
+branches;
+next	1.3;
 
 1.3
 date	2014.03.09.23.56.33;	author pjb;	state Exp;
@@ -27,9 +37,9 @@ desc
 @
 
 
-1.3
+1.5
 log
-@up to bar 8
+@roughly up to 13; trills not implemented yet
 @
 text
 @
@@ -121,14 +131,115 @@ il0.7 .03 5
 |
 =1  85 blank 85. blank--I5 2. blank
 =1' 165 [B)1 85 c# An(2] 16 [A)2 Bb Ab Bb(2] \
- 165 [B)2 An Ab-I5 Gn Ab] 85 rest rest-I5 165 Fn(2
+ 165 [B)2 An Ab-I5 Gn Ab] 85 rest rest-I5 165 Fn
 =2 4. blank 1 rest
 =3 83 rest 83. rest-I3 163 An(2 16 [A)2 F# En Fn] \
  165 [Eb Dn En-I5 Dn Db] 163 [C C# B_n Dn-I6 D# C#]
 =4  85 blank 85. blank-I5 2. blank
 =4 165 [e)1 85 c# dn]  8. rest 16 Bb'(2 [B')2 An Bn' G#] [Gn Fn Ab Fn(2]
-=4  85 blank 85. blank-I5 2. blank
 =5 85. [e)1 85 eb(1] 16 [e)1 dn fn dn] 8. rest 16 db(1 165 [d)1 cn Bn-I5 dn cn]
+/
+2 bars | 28 28 32 32 32 18 18 18 | 35 60 |
+|
+=1 16 [Gn Fn Gb Fn-I7 F# En F#] 4.. blank blank blank
+=1 4 blank 32 [Gn F# Gn Fn Gb Fn En Fn] [Gb Ab Gb Eb] 8 rest 4 rest
+=2 4. blank 1 rest
+=3 16 [Dn Cn En Eb-I7 Dn En C#] 4.. blank blank blank
+=3 4 blank 32 [D# Dn Cn C# B_n Cn B_b Cn] [C# En Dn C#] 4. F_#(1-tr#
+=4 8 F)2 rest cha3 4 rest 8 rest 4. Cn(1
+i0.85 .45 senza sord.
+=5 163 [c# d# Bn-I3 Bb cn Bb] [An Bn c#-I3 Bn cn d(1] \
+ [d)1 Bn-I3 An] 8 rest 4 rest
+|
+Il0.3 .03 10
+=1 2 rest 83 rest rest-I3 Cn(2 [C)2 83. F#-I3 163 An(2]
+I.60 .40 p
+i.60 .50 espressivo
+=2 2 rest 83 rest rest-I3 Bb(1 [B)1 83. e-I3 163 gn(1]
+I.60 .40 pp
+i.60 .50 espressivo
+=3 1 F_#)1(1-tr#
+=4 1 C)1(1
+=5' 2 rest bass 83 rest rest-I3 Gn(2 [G)2 83. c#-I3 163 en(1]
+I.20 .40 pp
+i.20 .50 espressivo
+/
+2 bars | 18 18 32 32 28 26 22 25 | 100 |
+|
+=1, 4 A)2(1 167 [A)1 Fn Ab en-I7 gn eb dn] \
+ 163 [c# Bn cn-I6 En 83 Bb(3] 8 [B)3 16 Gb fn(1]
+=2, 4 g)1(1 167 [g)1 eb f# d~-I7 f~ c~# c~n] \
+ 163 [b a bb-I6 dn 83 ab(3] 8 [ab)3 16 en d~#(1]
+=3 1 F_#)1(1-tr#
+=4 1 C)1(1
+=5, 4 e)1(1 167 [e)1 c eb b-I7 d~ bb a] \
+ 163 [g# f# gn-I6 B 83 fn(3] 8 [f)3 16 c# c~(1]
+|
+I0.2 .12 3
+=1 43 f)1 83 Ab(1 8 [A,)1 dn(1-ten] 8. d)1 16 Dn(2-trb 4 D)2(2
+I0.7 .55 pp
+i0.6 .65 possible (sempre)
+I0.2 .12 3
+=2 43 d~#)1 83 f#(1 8 [f)1 c~n(1-ten] 2 c~)1
+I0.2 .12 3
+=3 43 F_#)1 83 G_n(2-trb 8. [G_)2{2 16 G_}2(2-trn] \
+  16 [G_)2{2 8 G_#}2(2-tr 16 G_#)2(2-tr#] 85. [G_)2 85 A_n(2-trb]
+I0.2 .12 3
+=4 43 C)1 83 B_b(2 2 B_)2(2 83 B_)2 42 A_n(2-I3
+I0.2 .12 3
+=5 43 c~)1 83 eb(1 8 [e)1 an(1-ten] 2 a)1(1
+
+/
+2 bars | 80 | 32 30 28 26
+|
+=1 d D)2-trb
+=2 2 c~)1 rest
+=3 165 [A_)2(2-trb A_)2(2-trn A_#)2(2-tr] \
+ 43 A_)2(2 83 A_#)2(2-tr# 8. [A_)2 16 B_n(2-trn] \
+ 4 B_)2
+=4 85. [A_)2 85 G_#(2] 4 G_)2(2 4. G_)2 8 F_#(2
+=5 2 a)1 rest
+@
+
+
+1.4
+log
+@extended to 11 bars
+@
+text
+@d104 2
+a105 2
+=3 4 blank 32 [D# Dn Cn C# B_n Cn B_b Cn] [C# En Dn C#] 4. F_#(2-tr#
+=4 8 F)2 rest cha3 4 rest 8 rest 4. Cn(2
+d117 2
+a118 2
+=3 1 F_#)2(2-tr#
+=4 1 C)2(2
+d125 22
+a146 8
+=1, 4 A)2(1 blank 163 [c# Bn cn-I6 En 83 Bb(3] 8 [B)3 16 Gb fn(3]
+=1, 4.. blank 16 [A)1 Fn Ab en-I7 gn eb dn] 2.. blank
+=2, 4 g)1(1 blank 163 [b a bb-I6 dn 83 ab(3] 8 [ab)3 16 en d~#(3]
+=2, 4.. blank 16 [g)1 eb f# d~-I7 f~ c~# c~n] 2.. blank
+=3 1 F_#)2-tr#
+=4 1 C)2
+=5, 4 e)1(1 blank 163 [g# f# gn-I6 B 83 fn(3] 8 [f)3 16 c# c~(3]
+=5, 4.. blank 16 [e)1 c eb b-I7 d~ bb a] 2.. blank
+d148 10
+@
+
+
+1.3
+log
+@up to bar 8
+@
+text
+@d90 1
+a90 1
+ 165 [B)2 An Ab-I5 Gn Ab] 85 rest rest-I5 165 Fn(2
+a95 1
+=4  85 blank 85. blank-I5 2. blank
+d97 37
 @
 
 

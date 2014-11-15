@@ -2,93 +2,95 @@
 pagenum 1
 innerhead Book 1, Well-Tempered Clavier, J. S. Bach
 title Prelude I in C major
+leftfoot Fingering by Peter Billam, following Carl Czerny
+
 midi channel 0 patch 0 pan 80
 midi channel 1 patch 0 pan 20
-midi off
+
 /
 2 bars | 4/4 16 | 16 |
 |
-=1, treble 4/4 qua rest smq [G c] [e G c e] qua rest smq [G c] [e G c e]
-=2' bass   4/4 smq rest''' cro.. e~ smq rest''' cro.. e~
-=2         4/4 min c~ c~
+=1, treble cha0 4/4 8 rest 16 [G c] [e G c e] 8 rest 16 [G c] [e G c e]
+=2' bass   cha1 4/4 16 rest''' cro.. e~ 16 rest''' cro.. e~
+=2         cha1 4/4 2 c~ c~
 |
-=1, qua rest smq [A d] [f A d f] qua rest smq [A d] [f A d f]
-=2' smq rest''' cro.. d~ smq rest''' cro.. d~
-=2  min c~ c~
+=1, 8 rest 16 [A d] [f A d f] 8 rest 16 [A d] [f A d f]
+=2' 16 rest''' cro.. d~ 16 rest''' cro.. d~
+=2  2 c~ c~
 /
 3 bars | 16 | 16 | 16 |
 |
-=1, treble qua rest smq [G d] [f G d f] qua rest smq [G d] [f G d f]
-=2' bass   smq rest''' cro.. d~ smq rest''' cro.. d~
-=2         min b b
+=1, 8 rest 16 [G d] [f G d f] 8 rest 16 [G d] [f G d f]
+=2' 16 rest''' cro.. d~ 16 rest''' cro.. d~
+=2  2 b b
 |
-=1, qua rest smq [G c] [e G c e] qua rest smq [G c] [e G c e]
-=2' smq rest''' cro.. e~ smq rest''' cro.. e~
-=2  min c~ c~
+=1, 8 rest 16 [G c] [e G c e] 8 rest 16 [G c] [e G c e]
+=2' 16 rest''' cro.. e~ 16 rest''' cro.. e~
+=2  2 c~ c~
 |
 il0.6 .03 5
-=1, qua rest smq [A e] [a A e a] qua rest smq [A e] [a A e a]
-=2' smq rest''' cro.. e~ smq rest''' cro.. e~
-=2  min c~ c~
+=1, 8 rest 16 [A e] [a A e a] 8 rest 16 [A e] [a A e a]
+=2' 16 rest''' cro.. e~ 16 rest''' cro.. e~
+=2  2 c~ c~
 /
 3 bars | 16 | 16 | 16 |
 |
-=1' treble qua rest smq [F# A] [d F A d] qua rest smq [F A] [d F A d]
-=2' bass   smq rest''' cro.. d~ smq rest''' cro.. d~
-=2         min c~ c~
+=1' 8 rest 16 [F# A] [d F A d] 8 rest 16 [F A] [d F A d]
+=2' 16 rest''' cro.. d~ 16 rest''' cro.. d~
+=2  2 c~ c~
 |
-=1, qua rest smq [G d] [g G d g] qua rest smq [G d] [g G d g]
-=2' smq rest''' cro.. d~ smq rest''' cro.. d~
-=2  min b b
+=1, 8 rest 16 [G d] [g G d g] 8 rest 16 [G d] [g G d g]
+=2' 16 rest''' cro.. d~ 16 rest''' cro.. d~
+=2  2 b b
 |
-=1' qua rest smq [E G] [c E G c] qua rest smq [E G] [c E G c]
-=2' smq rest''' cro.. c~ smq rest''' cro.. c~
-=2  min b b
+=1' 8 rest 16 [E G] [c E G c] 8 rest 16 [E G] [c E G c]
+=2' 16 rest''' cro.. c~ 16 rest''' cro.. c~
+=2  2 b b
 /
 3 bars | 16 | 1 1 1.5 1  1 1 1 1  1 1 1 1  1 1 1 1 | 16 |
 |
-=1' treble qua rest smq [E G] [c E G c] qua rest smq [E G] [c E G c]
-=2' bass   smq rest'' cro.. c~ smq rest'' cro.. c~
-=2         min a a
+=1' 8 rest 16 [E G] [c E G c] 8 rest 16 [E G] [c E G c]
+=2' 16 rest'' cro.. c~ 16 rest'' cro.. c~
+=2  2 a a
 |
 il0.6 .03 10
-=1' qua rest smq [D F#] [c D F c] qua rest smq [D F] [c D F c]
-=2' smq rest'' cro.. a smq rest'' cro.. a
-=2  min d d
+=1' 8 rest 16 [D F#] [c D F c] 8 rest 16 [D F] [c D F c]
+=2' 16 rest'' cro.. a 16 rest'' cro.. a
+=2  2 d d
 |
-=1' qua rest smq [D G] [B D G B] qua rest smq [D G] [B D G B]
-=2' smq rest'' cro.. b smq rest'' cro.. b
-=2  min g g
+=1' 8 rest 16 [D G] [B D G B] 8 rest 16 [D G] [B D G B]
+=2' 16 rest'' cro.. b 16 rest'' cro.. b
+=2  2 g g
 /
 3 bars | 1.5 1 1 1.65  1 1 1 1  1 1 1 1  1 1 1 1 | 16 \
  | 1.4 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 |
 |
-=1' treble qua rest smq [E G] [c# E G c] qua rest smq [E G] [c E G c]
-=2' bass   smq rest'' cro.. bb smq rest'' cro.. b
-=2         min g g
+=1' 8 rest 16 [E G] [c# E G c] 8 rest 16 [E G] [c E G c]
+=2' 16 rest'' cro.. bb 16 rest'' cro.. b
+=2  2 g g
 |
-=1' qua rest smq [D A] [d D A d] qua rest smq [D A] [d D A d]
-=2' smq rest'' cro.. a smq rest'' cro.. a
-=2  min fn f
+=1' 8 rest 16 [D A] [d D A d] 8 rest 16 [D A] [d D A d]
+=2' 16 rest'' cro.. a 16 rest'' cro.. a
+=2  2 fn f
 |
-=1' qua rest smq [D F] [B D F B] qua rest smq [D F] [B D F B]
-=2' smq rest'' cro.. ab smq rest'' cro.. a
-=2  min f f
+=1' 8 rest 16 [D F] [B D F B] 8 rest 16 [D F] [B D F B]
+=2' 16 rest'' cro.. ab 16 rest'' cro.. a
+=2  2 f f
 /
 3 bars | 16 | 16 | 16 |
 |
 il0.6 .03 15
-=1' treble qua rest smq [C G] [c C G c] qua rest smq [C G] [c C G c]
-=2' bass   smq rest'' cro.. g smq rest'' cro.. g
-=2         min e e
+=1' 8 rest 16 [C G] [c C G c] 8 rest 16 [C G] [c C G c]
+=2' 16 rest'' cro.. g 16 rest'' cro.. g
+=2  2 e e
 |
-=1' qua rest smq [A_ C] [F A_ C F] qua rest smq [A_ C] [F A_ C F]
-=2' smq rest'' cro.. f smq rest'' cro.. f
-=2  min e e
+=1' 8 rest 16 [A_ C] [F A_ C F] 8 rest 16 [A_ C] [F A_ C F]
+=2' 16 rest'' cro.. f 16 rest'' cro.. f
+=2  2 e e
 |
-=1' qua rest smq [A_ C] [F A_ C F] qua rest smq [A_ C] [F A_ C F]
-=2' smq rest'' cro.. f smq rest'' cro.. f
-=2  min d d
+=1' 8 rest 16 [A_ C] [F A_ C F] 8 rest 16 [A_ C] [F A_ C F]
+=2' 16 rest'' cro.. f 16 rest'' cro.. f
+=2  2 d d
 
 6 systems 15 / 19-30-19/
 pagenum
@@ -96,91 +98,91 @@ innerhead Prelude I in C, Book 1, Well-Tempered Clavier, J. S. Bach
 /
 3 bars | 16 | 16 | 16 |
 |
-=1' treble qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
-=2' bass   smq rest' cro.. d smq rest' cro.. d
-=2,        min G G
+=1' 8 rest 16 [G_ B_] [F G_ B_ F] 8 rest 16 [G_ B_] [F G_ B_ F]
+=2' 16 rest' cro.. d 16 rest' cro.. d
+=2, 2 G G
 |
-=1' qua rest smq [G_ C] [E G_ C E] qua rest smq [G_ C] [E G_ C E]
-=2' smq rest' cro.. e smq rest' cro.. e
-=2, min c c
+=1' 8 rest 16 [G_ C] [E G_ C E] 8 rest 16 [G_ C] [E G_ C E]
+=2' 16 rest' cro.. e 16 rest' cro.. e
+=2, 2 c c
 |
 il0.5 .03 20
-=1' qua rest smq [B_b C] [E B_ C E] qua rest smq [B_ C] [E B_ C E]
-=2' smq rest' cro.. g smq rest' cro.. g
-=2, min c c
+=1' 8 rest 16 [B_b C] [E B_ C E] 8 rest 16 [B_ C] [E B_ C E]
+=2' 16 rest' cro.. g 16 rest' cro.. g
+=2, 2 c c
 /
 3 bars | 16 | 1 1 1 1.5  1 1 1 1  1 1 1 1  1 1 1 1 | 16 |
 |
-=1' treble qua rest smq [A_ C] [E A_ C E] qua rest smq [A_ C] [E A_ C E]
-=2' bass   smq rest' cro.. f smq rest' cro.. f
-=2,        min F F
+=1' 8 rest 16 [A_ C] [E A_ C E] 8 rest 16 [A_ C] [E A_ C E]
+=2' 16 rest' cro.. f 16 rest' cro.. f
+=2, 2 F F
 |
-=1' qua rest smq [A_ C] [Eb A_ C E] qua rest smq [A_ C] [E A_ C E]
-=2' smq rest' cro.. c smq rest' cro.. c
-=2, min F# F
+=1' 8 rest 16 [A_ C] [Eb A_ C E] 8 rest 16 [A_ C] [E A_ C E]
+=2' 16 rest' cro.. c 16 rest' cro.. c
+=2, 2 F# F
 |
-=1' qua rest smq [B_ C] [D B_ C D] qua rest smq [B_ C] [D B_ C D]
-=2' smq rest' cro.. f smq rest' cro.. f
-=2, min Ab A
+=1' 8 rest 16 [B_ C] [D B_ C D] 8 rest 16 [B_ C] [D B_ C D]
+=2' 16 rest' cro.. f 16 rest' cro.. f
+=2, 2 Ab A
 /
 3 bars | 16 | 16 | 16 |
 |
-=1' treble qua rest smq [G_ B_] [D G_ B_ D] qua rest smq [G_ B_] [D G_ B_ D]
-=2' bass   smq rest' cro.. f smq rest' cro.. f
-=2,        min G G
+=1' 8 rest 16 [G_ B_] [D G_ B_ D] 8 rest 16 [G_ B_] [D G_ B_ D]
+=2' 16 rest' cro.. f 16 rest' cro.. f
+=2, 2 G G
 |
 il0.5 .03 25
-=1' qua rest smq [G_ C] [E G_ C E] qua rest smq [G_ C] [E G_ C E]
-=2' smq rest' cro.. e smq rest' cro.. e
-=2, min G G
+=1' 8 rest 16 [G_ C] [E G_ C E] 8 rest 16 [G_ C] [E G_ C E]
+=2' 16 rest' cro.. e 16 rest' cro.. e
+=2, 2 G G
 |
-=1' qua rest smq [G_ C] [F G_ C F] qua rest smq [G_ C] [F G_ C F]
-=2' smq rest' cro.. d smq rest' cro.. d
-=2, min G G
+=1' 8 rest 16 [G_ C] [F G_ C F] 8 rest 16 [G_ C] [F G_ C F]
+=2' 16 rest' cro.. d 16 rest' cro.. d
+=2, 2 G G
 /
 3 bars | 16 | 1.5 1 1 1.6  1 1 1 1  1 1 1 1  1 1 1 1 \
  | 1.5 1 1 1  1 1 1 1  1 1 1 1  1 1 1 1 |
 |
-=1' treble qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
-=2' bass   smq rest' cro.. d smq rest' cro.. d
-=2,        min G G
+=1' 8 rest 16 [G_ B_] [F G_ B_ F] 8 rest 16 [G_ B_] [F G_ B_ F]
+=2' 16 rest' cro.. d 16 rest' cro.. d
+=2, 2 G G
 |
-=1' qua rest smq [A_ C] [F# A_ C F] qua rest smq [A_ C] [F A_ C F]
-=2' smq rest' cro.. eb smq rest' cro.. e
-=2, min G G
+=1' 8 rest 16 [A_ C] [F# A_ C F] 8 rest 16 [A_ C] [F A_ C F]
+=2' 16 rest' cro.. eb 16 rest' cro.. e
+=2, 2 G G
 |
-=1' qua rest smq [G_ C] [G G_ C G] qua rest smq [G_ C] [G G_ C G]
-=2' smq rest' cro.. en smq rest' cro.. e
-=2, min G G
+=1' 8 rest 16 [G_ C] [G G_ C G] 8 rest 16 [G_ C] [G G_ C G]
+=2' 16 rest' cro.. en 16 rest' cro.. e
+=2, 2 G G
 /
 3 bars | 16 | 16 | 1 1 1.5 1  1 1 1 1  1 1 1 1  1 1 1 1 |
 |
 il0.5 .03 30
-=1' treble qua rest smq [G_ C] [F G_ C F] qua rest smq [G_ C] [F G_ C F]
-=2' bass   smq rest' cro.. d smq rest' cro.. d
-=2,        min G G
+=1' 8 rest 16 [G_ C] [F G_ C F] 8 rest 16 [G_ C] [F G_ C F]
+=2' 16 rest' cro.. d 16 rest' cro.. d
+=2, 2 G G
 |
-=1' qua rest smq [G_ B_] [F G_ B_ F] qua rest smq [G_ B_] [F G_ B_ F]
-=2' smq rest' cro.. d smq rest' cro.. d
-=2, min G G
+=1' 8 rest 16 [G_ B_] [F G_ B_ F] 8 rest 16 [G_ B_] [F G_ B_ F]
+=2' 16 rest' cro.. d 16 rest' cro.. d
+=2, 2 G G
 |
-=1' qua rest smq [G_ B_b] [E G_ B_ E] qua rest smq [G_ B_] [E G_ B_ E]
-=2' smq rest' cro.. c smq rest' cro.. c
-=2, min C C
+=1' 8 rest 16 [G_ B_b] [E G_ B_ E] 8 rest 16 [G_ B_] [E G_ B_ E]
+=2' 16 rest' cro.. c 16 rest' cro.. c
+=2, 2 C C
 /
 3 bars | 16 | 16 | 10 ||
 |
-=1' treble qua rest,, blank smq [C F C A_] min blank
-=2' bass   qua blank smq [f a] cro blank smq [c~ a f a-s5] [f d f d]
-=2         smq rest cro.. c'(2 min c,)2
-=2,        min C(4 C)4
+=1' 8 rest,, blank 16 [C F C A_] 2 blank
+=2' 8 blank 16 [f a] cro blank 16 [c~ a f a-s5] [f d f d]
+=2  16 rest cro.. c'(2 2 c,)2
+=2, 2 C(4 C)4
 |
-=1 qua rest smq [G B'] [d f d B,] [d B, G, B,-s5] [D F E D]
-=2' smq rest cro.. B(1 min B)1
-=2, min C(2 C)2
+=1 8 rest 16 [G B'] [d f d B,] [d B, G, B,-s5] [D F E D]
+=2' 16 rest cro.. B(1 2 B)1
+=2, 2 C(2 C)2
 |
-=1 smb <E G c-fermata>
-=2 smb <C c-fermata>
+=1 1 <E G c-fermata>
+=2 1 <C c-fermata>
 
 6 systems 2 /18-38-16/18-42-18 7/18-41-18 9/18-35-18 9/18-32-18 9/18-41-18/
 pagenum
@@ -218,7 +220,7 @@ b0.6 .06 a 4 Voci
 =2, 2 blank 1 rest,
 |
 il1.2 .08 5
-=1' 8 leg80 [c-s1-s5 leg100 A-s2-s3] 16 [d-s1-s5 c B--s3 A--s5] \
+=1' 8 leg80 [c-s"( 1 )"-s5 leg100 A-s2-s3] 16 [d-s1-s5 c B--s3 A--s5] \
  8. [G-s"( 1 )"-s4 16 G-s4] [F-s1-s3 E F G]
 =1, 8 [G)2 16 Fn E-s1] 4 F(2 16 [Fr)2 F--s3 8 E--s2] 4 D
 =2' 8 [a-s5, leg100 d~(1-s2,] 16 [d~)1 e~ d~-s2, c~-s1,] \
@@ -491,8 +493,8 @@ il0.7 .03 10
 pagenum
 innerhead Prelude VI in d minor, Book 1, Well-Tempered Clavier, J. S. Bach
 /
-2 bars | 1b 4 4 4 4 4 4 4 6 4 4 6 4 4 4 4 4 4 4 4 6 4 6 4 3 \
- | 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 3 |
+2 bars | 1b 4 4 4 4 4 4 4 7 4 4 7 4 4 4 4 4 4 4 4 6.5 4 6 4 3 \
+ | 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 7 3 |
 | 3.6
 =1 163 [f-s4 d-s2  A,-s1] [F-s2 D leg100 A] leg85 \
  [F D leg100 Bn'] leg85 [F D  leg100 c#'] leg85  \
@@ -505,8 +507,8 @@ innerhead Prelude VI in d minor, Book 1, Well-Tempered Clavier, J. S. Bach
  leg100 [b-s3 leg85 f d~] leg100 [g-s2 leg85 e c~#] 
 =2 8 leg65 [b leg100 F,] [G A] leg65 [B, leg80 F,] leg65 [G, A,]
 /
-2 bars | 1b 6 4 6 4 4 4 4 4 6 6 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
- | 4 5 4  4 4 4  4 4 4  4 6 4  4 4 4 4 4 4 4 4 4 4 4 3 |
+2 bars | 1b 6 4 7 4 4 4 4 4 7 6 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 5 4  4 4 4  4 4 4  4 6 4  4 4 4 4 4 4 4 4 4 4 5 3 |
 |
 il0.3 .03 15
 =1 4 blank 163 leg85 [Eb C E] 8 F#-emph 163 [B_ G_ B_] \
@@ -520,7 +522,7 @@ il0.3 .03 15
  [B G, leg65 e] leg85 [B G, leg65 c#] leg85 
 =2, 8 leg65 [c~# d c~ d] leg55 [c~ d c~ d]
 /
-2 bars | 6 4 4 4 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+2 bars | 6 4 4 4 7 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
  | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 4 6 4 4 4 4 4 3 |
 |
 =1' 163 [A F# leg100 d] leg85 [A F leg100 eb] leg85 \
@@ -533,8 +535,8 @@ il0.3 .03 15
  leg100 [b-s4 a g] [fn en-s4 d] leg80 [c# A, c] [e c e]
 =2, 8 leg65 [b d b d] leg75 [g d g leg95 d]
 /
-2 bars | 1b 4 4 6 7 4 4 4 4 7 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
- | 4 4 4 4 5 4 6 4 4 4 4 4 4 4 4 7 4 4 7 4 4 4 4 3 |
+2 bars | 1b 4 4 7 7 4 4 4 4 7.5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 6.5 4 4 4 4 4 4 4 4 6.5 4 4 6.5 4 4 4 4 3 |
 |
 =1 163 [g-s5 leg100 e-s3 d-s1] [c#-s3 Bn A,] leg80 [G-s2 E G] [Bb' G-s1 B'-s2] \
  [c G, e] [c leg100 B leg85 e] [c leg100 A, leg85 e] [c leg100 G, leg85 e]
@@ -564,7 +566,7 @@ il0.4 .03 20
 =2' 8 leg65 [e leg95 g f e] [f e f(1] 163 [f)1 e d]
 =2, 2 leg80 Bb 4. leg100 Bn  8 Bb
 /
-2 bars | 4 4 7 4 4 4  4 4 5 7 4 4  4 4 4 4 4 4  4 4 5 4 4 3 \
+2 bars | 4 4 7.5 4 4 4  4 4 5 7 4 4  4 4 4 4 4 4  4 4 5 4 4 3 \
        | 6 4 4 4 4 7  4 4 7 4 4 5  7 4 4 7 7 6  7 7 6 4 7 3 |
 |
 =1 163 leg85 [G_)2 E_ G_] [C# G_ C] [E C E] 8 G \
@@ -578,7 +580,7 @@ il0.4 .03 20
 =2 8 leg100 vol+6 g~# vol-6 rest 4 rest 2 rest
 /
 2 bars | 6 6 6 4 6 6 6 6 6 6 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 \
- | 40 30 ||
+ | 35 27 ||
 | 1.9 2.1
 il0.5 .12 25
 =1 163 leg100 [f# leg85 eb cn] leg100 [fn leg85 d Bn]  \
@@ -667,7 +669,7 @@ il0.7 .17 10
 #P=1' 4 cn-s5 c-s2-s5 A-s1-s"  4,3"-tr
 #M=1' 4 cn c 32-s vol-10 leg150 [B A B A B A G A] leg100 vol+10
 =1, 16 rest, [G-s3 F G] 4 Eb C
-=2, 16 [f-s2, e d e] [g f eb f] [f-s1, e d e]
+=2, 16 [f-s2, e d e] [g f eb f] [f-s2, e d e]
 |
 =1' 2. Bb(1-s4
 =1, 8 rest,, [A-s3 G-s1 F-s2 En-s1 G-s2]
@@ -697,7 +699,7 @@ il0.7   15
 |
 =1  16 [d-s3 c Bn c-s4] [c B A,-s2 B-s4] [B' A G#-s2 A-s4]
 =2' 8 e~)1 rest'' 4 rest'' rest''
-=2, 8 [a A-s4,] [Bn c] [d B]
+=2, 8 [a A] [Bn-s3, c] [d B]
 /
 3 bars | 1b 4 5 4 4 4 4 4 4 4 4 4 3 \
  | 4 5 4 4 4 4 4 4 4 5 4 3 | 3 3 3 3 5 4 4 4 5 4 5 3 |
@@ -738,7 +740,7 @@ innerhead Fugue VI in d minor, Book 1, Well-Tempered Clavier, J. S. Bach
 #P=1 16 [c#-s2 e f e] 4 Gn Bb(1-s"  3,2"-tr
 #M=1 16 [c# e f e] 4 Gn 32-s vol-10 leg150 [Bb cn Bb c B c B A] leg100 vol+10
 =2' 4 blank 2. rest''
-=2, 8 [a f] [e d] [c# e]
+=2, 8 [a f-s2,] [e d] [c# e]
 |
 #P=1' 16 [B)1 A G A-s2] [A-s3 G F G-s2] [G-s3 F E F-s2]
 #M=1' 16 [B A G A-s2] [A-s3 G F G-s2] [G-s3 F E F-s2]
@@ -804,28 +806,28 @@ il1.0 .35 30
 |
 il0.9 .18 35
 =1' 8 leg60 [A-s3 leg100 F#-s2] [G-s1 A] [B G]
-=2' 8 rest'' [a gr fn-s3,] [er-s4, g]
-#P=2, 16 [f#-s2, d-s4, c#-s1,-s5, d-s4,] 4 b-s1,-s2, g--tr
+=2' 8 rest'' [a gr fn-s4,] [er g]
+#P=2, 16 [f# d-,-s5, c#-s1,-s4, d-s5,] 4 b-s3,-s2, g--tr-s"    1,2",-s5,
 #M=2, 16 [f# d c# d] 4 b 32-s vol-10 leg160 [a g a g a g f# g] vol+10 leg100
 |
 =1, 16 [A c 8 eb(1] 16 [e)1 d c B] [d c B A]
 =2' 8 [f#rl b] [a g] [f a]
-=2, 8 [a-s1,-s3, g-s2,-s4,] [f#-s1,-s3, e] [d f]
+=2, 8 [a-s1,-s3, g-s2,-s4,] [f#-s1,-s3, e] [d-s3,-s5, f-s2,-s1,]
 /
 4 bars | 1b 4 4 4 4 6 4 6 4 4 4 6 3 | 4 6 4 3 4 4 4 4 4 4 3 \
  | 4 4 4 4 4 4 4 4 4 6 4 3 | 4 6 4 4 4 6 4 4 4 4 4 3 |
 |
 =1, 16 [B d 8 f(1] 16 [f)1 en d c#] [e d c Bn]
 =2' 8 [g c~] [bn a] [g# b]
-=2, 8 [G a-s1,-s2,] [g#l-s1,-s3, f#] [e g]
+=2, 8 [G a-s1,-s2,] [g#l-s1,-s3, f#] [e g-s1,-s2,]
 |
 =1, 16 [c# e-s"1 " 8 bb(1] 16 [b)1 a g f] [a g f e]
 =2' 8 [a f~] [e~ d~] [c~# e~]
-=2, 8 [A d~-s1,-s2,] [c~#-s1,-s3, bn] [a c~]
+=2, 8 [A d~-s1,-s2,] [c~#-s1,-s3, bn] [a c~-s2,-s3,]
 |
 =1, 16 [g-s4 f e f] [f-s4 e d e] [e-s4 d c# d]
 #P=2' 8 d~ rest'' 4 rest'' rest''
-=2, 8 d~-s"    2-1", [d-s4, e f g e]
+=2, 8 d~-s1, [d-s4, e f g e]
 |
 il1.1 .20 40
 =1' 4 cn(1-s"   1-5" 16 [c)1-s1-s"(5)" B--s" 4" A-s2-s4 B--s5] \
@@ -838,9 +840,9 @@ il1.1 .20 40
  | 6.5 6 6.5 6 6.5 6 | 17 ||
 |
 =1' 2. d(1-s2-s5
-#P=1, 16 [Fn D-s1, C# D-s1,] 4 B--s4 G--s"  3,2"-tr
+#P=1, 16 [Fn D--s1 C# D-s1,] 4 B--s4 G--s"  3,2"-tr
 #M=1, 16 [Fn D C# D] 4 B-s4 32-s vol-10 leg160 [A G A G A G F G] vol+10 leg100
-=2, 8 [a-s4, b-s2,-s3,] 16 [a-s3, g f g] [g-s3, f e f]
+=2, 8 [a-s1, b-s2,-s3,] 16 [a-s3, g f g] [g-s3, f e f]
 | 1.0 1.05 1.1
 =1' 4 d)1(1-s1-s5 16 [d)1-s1 g# a d] [f-s3 e d c#-s4]
 #P=1, 8 [A B--s2] 2 E-tr,
@@ -893,7 +895,7 @@ I0.7 .10 p
 =2, 8 [B d f] [b a# b] 2. e-s5,
 |
 il1.1 .44 5
-=1  8 [F-s1 A#-s2 c'-s3] [f---s5 e f] [G,-s2 B-s2 d-s4] 4. e-s5
+=1  8 [F-s1 A#-s2 c'-s3] [f---s5 e f] [G,-s1 B-s2 d-s4] 4. e-s5
 =2' 4. e~)1 2. d~(1-s2, 8 [d~)1 c~-s3, b-s1,]
 =2, 1. f(2-s"    4-5",
 /
@@ -944,10 +946,10 @@ innerhead Prelude IX in E major, Book 1, Well-Tempered Clavier, J. S. Bach
 =1, 4. F(2 4 F)2 8 En 4. D rest,,
 =2  8 [F A c] [f-s1, en-s2, f-s1,] [B,-s5, d f] [b a b]
 /
-2 bars | 4# 4 4 4 4 4 4 4 4 4 4 4 6 4 4 4 4 4 4 4 4 4 4 4 3 \
+2 bars | 4# 4 4 4 4 4 4 4 4 4 4 4 5.5 4 4 4 4 4 4 4 4 4 4 4 3 \
  | 75 |
 |
-=1' 16 [G F E F G A] [B A-s3 G A-s1 B c] [dn c B A G F] 8 E rest rest
+=1' 16 [G F E F G A] [B A-s3 G A-s1 B c] [dn c B A G-s3 F] 8 E rest rest
 =2, 8 [e-s5, g b-s2,] [e~ d~n c~] \
  4 b-s1, 8 a-s4, 16 [g-s5, d~-s2, c~ b-s1, a g]
 | 2.9
@@ -963,7 +965,7 @@ il0.8 .03 15
 =2' 4. c~(1 8 [c~)1 d~n c~] 2. b-s1,-s4,
 =2, 2. a)2(2 4. ar)2 g-s2,
 |
-=1  8 [c-s3 A,-s1 B-s2] 4. c(1-s3 8 [c)1 B-s1 A,--s4] [G-s1-s3 A--s5 F--s3]
+=1  8 [c-s3 A,-s1 B-s2] 4. c(1-s3 8 [c)1 B--s1 A,--s4] [G-s1-s3 A--s5 F--s3]
 =2' 2. blank 4 rest'' 8 f-s1, 4. b(1
 =2  8 [A c e'] [a g a] 2. d#-s2,
 |
@@ -978,7 +980,7 @@ il0.8 .03 15
 =2, 1. B(2-s"    4-5",
 |
 il0.8 .09 20
-=1' 8 [B_-s1 D F] [A G A] [B_ D F-s3] 4. Gn(2-s4
+=1' 8 [B_ D F] [A G A] [B_ D F-s3] 4. Gn(2-s4
 =2' 2. d(1 4. d)1 e(1
 =2, 4. B)2(2-s2,-s3, 4 B)2 8 F-s5, 4. Gn(2-s"    4-5", 8 [G)2 A B]
 |
@@ -1004,13 +1006,14 @@ il0.8 .09 20
 =2 1. E-s5,
 midi pause 3.0
 
-midi on
 6 systems 15 /18-35-16/18-35-18/18-32-18/18-32-18/18-35-18/18-35-18 5/
 pagenum
 innerhead Book 1, Well-Tempered Clavier, J. S. Bach
 title Fugue IX in E major
+
 midi channel 0 bank 5,5 patch 0 pan 80
 midi channel 1 bank 5,5 patch 0 pan 20
+
 /
 3 bars | 4# 4/4 4 3 4 3 4 4 4 4 4 3 4 3 5 5 5 4 \
  | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7.5 4 | 7 5 5 5 5 7 5 5 7.5 5 5 5 5 5 5 4 |
@@ -1236,7 +1239,7 @@ il0.7    5
 2 bars | 3# 80 | 5 5 5 5 5 5 6 5 5 5 5 6 5 6 5 5 |
 |
 =1, 16 [c B A-s1 G-s2] leg120 [A-s1 B c e] \
- [G-s1 A-s2 B-s3 e-s5] [F-s1 G-s2 A-s1 d#-s5] leg85
+ [G-s1 A-s2 B-s3 e-s5] [F-s1 G-s2 A-s1 d#-s4] leg85
 =2, 8 [A-s5, 16 a-s1, b-s3,] [c~-s2, b a c~] [b-s1, a g b] [a-s2, g f a]
 |
 =1, 8 [E-.-s1 leg120 g(1-s5] 16 [g)1 e-s3 c-s2 B#-s1] \
@@ -1374,10 +1377,10 @@ il0.7 .03 5
 =2, 8 leg99 [a# leg75 b leg99 b leg75 an leg99 a leg75 g] 2 leg99 g(1 8 [g)1 a#]
 |
 =1' 4. G-s5 8 [F# En G] [F E] 2 D#-tr
-=2, 8 [b#-s1, c~-s2,] 4 d~# leg75 g-s5, 2 leg99 c~-s3, 4 b#
+=2, 8 [b#-s1, c~-s2,] 4 d~# leg75 g-s5, 2 leg99 c~-s2, 4 b#
 |
 =1' 8 [C E-s1 F G] 4 A(1--s4 8 [A)1 F-s2 G A#] 4 B(1--s5
-=1, 4. C-s3, 8 [B_n-s4, C D#] 4. E 8 [C-s2, D#-s1, E#--s1]
+=1, 4. C-s2, 8 [B_n-s4, C D#] 4. E 8 [C-s2, D#-s1, E#--s1]
 =2 1 blank 1. rest
 /
 3 bars | 3# 4 4 5 4 4 4 4 4 4 4 5 3 \
@@ -1403,7 +1406,7 @@ il1.0 .29 10
 =2' 4. c-s2, 8 [Bn An c-s2,] [B-s1, A-s2,] 2 G-tr,
 /
 3 bars | 3#  4 4 4 4 4 4 4 5 5 4 4 3 | 6 5 5 4 5 5 4 4 4 5 5 3 \
- | 6 4 4 5 4 4 4 4 4 5 5 3 |
+ | 6 4 4 6 4 4 4 4 4 5 5 3 |
 |
 =1' 2. F-s5 4 En-s4 8 [F-s2-s3 G-s1-s4] 4 A-s2-s5
 =1, 8 [B_)2 A_-s1 B_-s2  C-s3] 4. D-s3 8 [C-s1 D# E#] 4 F(2
@@ -1432,18 +1435,18 @@ il0.9 .07 15
 =2' 8 [b)1 leg99 d~-s"1  " c~ leg75 b-s1 leg99 b leg75 a-s1] \
  leg95 [a b-s1] 2 c~-s2
 =2, 8 [A leg99 B A-s3, leg70 G leg99 G leg75 F] \
- [F-s5, f-s1, leg99 f leg75 e-s2, leg99 e leg75 d#-s3,]
+ [F-s5, f-s1, leg99 f leg75 e-s3, leg99 e leg75 d#-s4,]
 |
 =1' 4 A)1 8 [G-s3 A#] 2 B-s2-s5 8 [A#-s2-s4 G-s1-s3 A-s2-s4 B#--s5]
 =1, 4 F)2 G F E# 8 [F E] 4 F
 =2' 2. b c~(1
-=2, 8 leg99 [d#-s1,-s3, leg75 e-s2, leg99 e leg75 dn-s3, leg99 d leg75 c-s4,] \
- 2 c(2-s1,-s5, 8 [c)2 leg95 d#]
+=2, 8 leg99 [d#-s1,-s4, leg75 e-s3, leg99 e leg75 dn-s4, leg99 d leg75 c-s5,] \
+ 2 c(2 8 [c)2 leg95 d#]
 /
 3 bars | 3# 5 5 4 5 5 5 4 4 4 4 4 3 \
  | 4 4 4 4 4 4 4 4 4 5 4 5 3 | 5 4 4 4 5 4 4 4 4 4 5 3 |
 |
-=1' 4. c-s1-s"   4-5" 8 [Bn-s4 An-s2-s3 c-s1-s(2)-s5] \
+=1' 4. c-s3-s5 8 [Bn-s4 An-s2-s3 c-s1-s(2)-s5] \
  [B-s(2)-s4 A-s1-s3] 2 G-s1-s"    2-4"
 =1, 2 G 4 F(2 8 [F)2 E] 4 D C(2-s"    2-1"
 =2' 8 [c~)1 d~#-s2] 4 e~#-s1 8 [f~ e~n d~n c~-s2,] [b-s1, a-s2, g b-s1,]
@@ -1457,7 +1460,7 @@ il0.9 .07 15
 =1' 8 leg99 [e)1 leg75 dn leg99 d-s5 leg75 c leg99 c-s5 leg75 B#] \
  4 B-s4 2 c(1-s5
 =1, 2. F(2 8 leg99 [F)2 leg75 F-s2 leg99 F leg75 E leg99 E--s2 leg75 D#]
-=2 8 leg75 [b' B-s5, leg99 B-s3, leg75 A leg99 A leg75 G] \
+=2 8 leg75 [b' B-s5, leg99 B-s4, leg75 A leg99 A-s4, leg75 G] \
  leg75 [G, a leg99 a leg75 g leg99 g leg75 f]
 
 6 systems 5 /18-32-18/18-32-18 7/18-35-18/18-38-18/18-45-18/18-40-18 5/
@@ -1470,7 +1473,7 @@ innerhead Fugue XIV in f-sharp minor, Book 1, WTC, J. S. Bach
 il0.8 .03 20
 =1' 4 c)1 2 B#-s2-s4 8 [c-s1-s3 d#--s4 e-s2-s5 f-s4] 4 gn(1-s"    1-2"-s5
 =1, 8 leg75 [D# G--s"  2" leg99 G leg75 F leg99 F-s2 leg75 E] 4 leg95 E c Bn
-=2 4 leg99 f-s2, leg75 g-s1, G 4. c leg99 8 [c-s5, dn' e']
+=2 4 leg99 f-s3, leg75 g-s1, G 4. c leg99 8 [c-s5, dn' e']
 |
 =1' 4 gn)1 c-s2 8 [f-s4 e-s5] [d c] 2 d-s2-s4
 =1, 2. A#(2 4 A#)2 8 [B An-s1] 4 G(2-s2
@@ -1484,7 +1487,7 @@ il0.8 .03 20
 |
 =1' 2 f)1-s2-s"(5)" en-s"    4-5" dn(1-s"    4-5"
 =1, 8 [G A-s1] 2 B-s2 c 4 F--s1
-=2, 8 [b-s2, a g d~ c~ b] [a# leg75 b leg99 b-s1, leg75 an leg99 a leg75 g]
+=2, 8 [b a g d~ c~ b] [a# leg75 b-s1, leg99 b leg75 an leg99 a leg75 g]
 /
 3 bars | 3# 5 5 5 5 5 5 5 5 5 5 6 4 \
  | 5 5 5 5 6 5 6 6 5 6 6 4 | 5 6 6 5 5 5 5 5 6 5 6 4 |
@@ -1492,17 +1495,17 @@ il0.8 .03 20
 il0.8  24
 =1' 4 d)1-s3-s(5) 2 c(1-s"    4-5" 4 c)1-s1-s"(5)" 2 B(1-s"    4-5"
 =1, 4. B 8 [E F G] 2 A 4 Dn-s2
-=2 8 leg99 [g f e b a g] [f leg75 g leg99 g-s2, leg75 f leg99 f leg75 e#] leg99
+=2 8 leg99 [g f e b a g] [f leg75 g-s1, leg99 g leg75 f leg99 f leg75 e#] leg99
 |
 =1' 8 [B)1-s1-s5 G-s2 A-s3 c-s4 f-s1-s5 d#--s4] 2. e(1-s2-s5
 =1, 2 C 4 A 8 \
  [G leg75 c---s3 leg99 c---s3 leg75 B---s1 leg99 B---s1 leg75 A#---s2]
-=2  4 e#-s2, leg75 f-s1, F leg99 8 [c,-s3, d# en f-s2, gn e]
+=2  4 e#-s3, leg75 f-s1, F leg99 8 [c,-s3, d# en f-s2, gn e]
 |
 =1' leg95 4 e)1 8 [d#-s2-s3 e#-s1-s4] 2 f-s1-s5 8 [e#-s3 d#-s2 e f##-s1-s4]
 =1, 8 leg99 [A# leg75 B-s1 leg99 B leg75 An leg99 A leg75 G-s2] \
  leg95 2 G(2-s1 8 [G)2 A#]
-=2' 8 leg75 [f-s1, F-s5, leg99 B-s3, c d B-s2,] \
+=2' 8 leg75 [f-s1, F-s5, leg99 B-s3, c d B] \
  leg75 [c-s1, C leg99 c-s1, B#-s3, c-s2, en]
 /
 3 bars | 3# 5 6 6 5 5 5 5 6 5 5 5 4 \
@@ -1579,7 +1582,7 @@ il0.9 .15 35
 =2' 4. a)1 8 [a g f] [e# b a leg75 g leg99 g-,-s2, leg75 f-,-s3,]
 =2, 2. d c(2-s4,-s5,
 |
-=1' 4 leg95 A)1 8 [G-s2-s3 A#-s1-s4] 2 B-s1-s5 8 [A-s3 G A B#-s1-s4]
+=1' 4 leg95 A)1 8 [G-s2-s3 A#-s1-s4] 2 B-s1-s5 8 [A#-s3 G A B#-s1-s4]
 =1, 8 leg99 [D# leg75 E-s1 leg99 E leg75 Dn leg99 D leg75 C-s2] \
  2 leg95 C(2-s1 8 [C)2 D#]
 =2' 8 leg99 [f leg75 g leg99 g-s2, leg75 f leg99 f-s2, leg75 e#] \
@@ -2099,7 +2102,7 @@ rs0.7 .753 1
 =2, 2 b(2-s1,-s"    3-5", 8 [b)2-s1,-s5, 16 d~-s2, c~-s1,] 8 [b ab]
 |
 =1' 8 [d-s1-s3-s5 16 c-s1-s2-s4 B] 8 [c c-s1-s3-s5] \
- 8 [c 16 B-s2-s4 A] 8 [B B-s1-s3-s5]
+ 8 [c 16 B-s1-s2-s4 A] 8 [B B-s1-s3-s5]
 =1, 8 [<E B> <E Ab>] rest, <F A> [<F A> <F Gnx>] rest, <Fx G>
 # =2' 8 [e~ e~] rest, f~ [f~ f~] rest, f~
 =2, 8 [gn-s4, 16 a-s2, g-s1,] 8 [f e] [dn 16 g-s1, f-s2,] 8 [en g]
@@ -2112,16 +2115,16 @@ rs0.7 .753 1
 |
 il0.8 .01 10
 =1' 8 [En c(1-s2-s5] [c)1 16 B-s1-s4 A] \
- 8 [B B(1-s2-s5] [B)1 16 A-s1-s2-s5 Gn-s4]
+ 8 [B B(1-s2-s5] [B)1 16 A-s1-s2-s5 Gn--s4]
 =1, 8 [C 16 F E] 8 [F F(2] [F)2 16 En Dn] 8 [E E(2]
 =2' 8 [gn a(1] [a)1 16 g f] 8 [g g(1] [g)1 c~(1]
 =2, 8 [B A] [d-s3, d(2-s1,-s4,] [d)2 16 c-s4, B] 8 [c c-s2,]
 /
 2 bars | 5b 80 | 80 |
 |
-=1' 8 [A-s4 A(1-s1-s4-s5] [A)1 16 Gb-s1-s3 F-s2] \
+=1' 8 [A-s5 A(1-s1-s4-s5] [A)1 16 Gb-s1-s3 F-s2] \
  8 [G-s1-s3 d(1-s2-s4] [d)1 16 c B]
-=1, 8 [En)2 16 F Eb--s3] 8 [Db D] [D 16 B An] 4 B
+=1, 8 [En)2 16 F Eb---s3] 8 [Db D] [D 16 B An] 4 B
 =2' 8 [c~)1 c~(1] [c~)1 16 b a-s2,] 8 [b 16 gb f] 4 g
 =2, 8 [c-s2, F] [B-s2, B-s1,-s5,] [B B] [B B]
 |
@@ -2142,14 +2145,14 @@ innerhead Prelude XXII in b-flat minor, Book 1, WTC, J. S. Bach
 |
 =1' 4 f 8 rest''-s1-s3 16 [f-s5 eb-s4] 4 d-s"    3-5" 8 rest' 16 [e-s3 f]
 =1, 8 [<Bxr)2 c> 16 <A c-s1-s3> <Gn B-s1-s2>] 4 <A c> \
- 8 rest, 16 [<A-s1, cb-s1> <Gb-s4, B-s2>] 4 <F-s1, A-s1>
+ 8 rest, 16 [<A-s1, cb-s1> <Gb-s2, B-s2>] 4 <F-s1, A-s1>
 =2' 4 f 2. blank
 =2, 4 F 8 rest f-s5, 4 b-s4, 8 rest b-s2,
 |
 =1' 4 g-s5 8 rest'-s1 16 [e-s5 db-s4] 4 cn-s"    3-5" 8 rest' 16 [d-s3 e]
 =1, 8 rest, 16 [<E-s1, G-s1> <F-s2, A-s2>] 4 <G-s1, B> \
  8 rest, 16 [<C-s1, E-s1> <D-s2, F-s2>] 4 <E-s1, G-s1>
-=2, 4 e 8 rest e 4 a-s3, 8 rest a-s3,
+=2, 4 e 8 rest e 4 a-s3, 8 rest a-s2,
 /
 2 bars | 5b 9 10 9 10 9 10 9 10 | 80 |
 |
@@ -2173,7 +2176,7 @@ il0.8  15
  8 [an a-s1,-s5,] [b-s1,-s4, 16 b-s1,-s2, ab]
 |
 =1' 8 [e 16 e-s1-s5 d] 8 [c 16 c-s1-s2-s3 d-s2-s4] \
- 8 [e-s1-s2-s5 16 c-s1-s2-s3 d-s2-s4] 8 [e-s1-s3-s5 16 d-s1-s3-s5 c]
+ 8 [e-s1-s2-s5 16 c-s1-s2-s3 d--s2-s4] 8 [e-s1-s3-s5 16 d-s1-s3-s5 c]
 =1, 8 [B 16 An B] 8 [Br 16 A B] 8 [A 16 A B] 8 [c 16 B A]
 =2' 8 [d~ 16 c~ d~] 8 [e~ f~] [g~b g~] [f~ f~]
 =2, 8 [g 16 g-s2,-s4, f-s1,-s5,] 8 [e-s1,-s4, 16 e-s2, d] \

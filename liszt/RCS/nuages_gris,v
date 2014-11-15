@@ -1,0 +1,246 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2014.10.22.22.59.01;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.10.22.10.38.43;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Nuages Gris, by Franz Liszt, 1881
+@
+
+
+1.2
+log
+@all notes typed in :-)
+@
+text
+@4 systems 55 /19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum 2
+title Nuages Gris
+innerhead Franz Liszt,  1881
+leftfoot typeset 2014 Peter J Billam
+midi channel 1 patch 0
+
+/
+6 bars | 2b 4/4 8 | 8 | 8 | 8 | 8 | 8 |
+| 4/4 3.0
+i0.6 .03 Andante
+=1  bass      2b 4/4 cha1 leg99  vol75 4 rest d vol+9 g vol+9 c~#(1
+=2  bass      2b 4/4 cha1 leg150 vol40 2 blank 1 rest
+|
+=1  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+=2  2 blank 1 rest
+|
+=1 vol75 4 rest d vol+9 g vol+9 c~#(1
+=2 2 blank 1 rest
+|
+=1  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+=2  2 blank 1 rest
+I0.4 .98 p
+|
+=1 vol75 4 rest d vol+9 g vol+9 c~#(1
+#P=2 2// [B_ B] [B_ B]
+#M=2 16 B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B 
+|
+=1  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+#P=2 2// [B_ B] [B_ B]
+#M=2 16 B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B 
+/
+5 bars | 2b 8 | 8 | 8 | 8 | 8 |
+|
+=1 vol75 4 rest d vol+9 g vol+9 c~#(1
+#P=2 2// [B_ B] [B_ B]
+#M=2 16 B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B 
+|
+=1  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+=2  2 blank 1 rest
+|
+=1 1 <f#(2 b(3 e~(1>
+i0.2 .03 tremolando
+#P=2 2// [B_-P B] [B_ B]
+#M=2 16 B_-P B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B 
+|
+=1 4 <f#)2 b)3 e~)1> rest 2 rest
+#P=2 2// [A_ A] [A_ A-,-,-*]
+#M=2 16 A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A-* 
+|
+=1 1 <f#(2 b(3 e~(1>
+#P=2 2// [B_-P B] [B_ B]
+#M=2 16 B_-P B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B
+/
+5 bars | 2b 8 | 8 | 8 | 8 | 8 |
+|
+=1 4 <f#)2 b)3 e~)1> rest 2 rest
+#P=2 2// [A_ A] [A_ A-,-,-*]
+#M=2 16 A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A-*
+|
+=1 1 <fn(2 a(3 c~#(1>
+#P=2 2// [B_-P B] [B_ B]
+#M=2 16 B_-P B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B
+|
+=1 4 <f)2 a)3 c~#)1> rest 2 rest
+#P=2 2// [A_ A] [A_ A-,-,-*]
+#M=2 16 A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A
+|
+=1 1 <enr(2 g#l(3 c~n(1>
+#P=2 2// [B_-P B] [B_ B]
+#M=2 16 B_-P B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B
+|
+=1 4 <e)2 g)3 c~)1> rest 2 rest
+#P=2 2// [A_ A] [A_ A-,-,-*]
+#M=2 16 A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A
+/
+5 bars | 2b 8 | 8 | 8 | 8 | 8 |
+|
+=1 1 <er(2 gnl(3 c~b(1>
+#P=2 2// [B_-P B] [B_ B]
+#M=2 16 B_-P B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B  B_ B B_ B B_ B B_ B
+|
+=1 4 <e)2 g)3 c~)1> rest 2 rest
+#P=2 2// [A_ A] [A_ A-,-,-*]
+#M=2 16 A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A  A_ A A_ A A_ A A_ A-*
+|
+=1 1 <d(2 f#(3 b(1>
+i0.5 .10 cresc  .   .   .
+#P=2 2// [<B_-P F#> B] [<B_ F#> B]
+#M=2 16 <B_-P F#> B vol+3 <B_ F#> B vol+3 <B_ F#> B vol+3 <B_ F#> B  vol+3 <B_ F#> B vol+3 <B_ F#> B vol+3 <B_ F#> B vol+3 <B_ F#> B  vol+3 <B_ F#> B vol+3 <B_ F#> B vol+3 <B_ F#> B vol+3 <B_ F#> B
+|
+=1 4 <d)2 f#)3 b)1> rest 2 rest
+i0.5 .05 dim  .   .   .
+#P=2 2// [<B_ F#> B] [<B_ F#> B-,-,-*]
+#M=2 16 vol-4 <B_ F#> B vol-4 <B_ F#> B vol-4 <B_ F#> B vol-4 <B_ F#> B  vol-4 <B_ F#> B vol-4 <B_ F#> B vol-4 <B_ F#> B vol-4 <B_ F#> B  vol-4 <B_ F#> B vol-4 <B_ F#> B vol-4 <B_ F#> B vol-4 <B_ F#> B-*
+|
+=1 leg99 vol70 4 rest A  vol+9 B  vol+9 c#(2
+=2 leg99 vol60 4 rest A_ vol+9 B_ vol+9 C#(2
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 15/
+
+/
+5 bars | 2b 8 | 8 | 8 | 8 | 8 |
+|
+=1' 4 c#)2 vol-9 d 2 vol-9 B
+=2  4 C#)2 vol-9 D 2 vol-9 B_
+|
+=1 vol70 4 rest A  vol+9 B  vol+9 c#(2
+=2 vol60 4 rest A_ vol+9 B_ vol+9 C#(2
+|
+=1' 4 c#)2 vol-9 d 2 vol-9 B
+=2  4 C#)2 vol-9 D 2 vol-9 B_
+|
+=1 2 rest treble vol90 leg110 2 B'
+=2  vol65 4 rest d vol+9 g vol+9 c~#(1
+|
+=1  2 A vol-8 En
+=2  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+/
+5 bars | 2b 8 | 8 | 8 | 8 | 8 |
+|
+=1  1 vol-8 F#
+=2  vol70 4 rest d vol+9 g vol+9 c~#(1
+|
+=1  2 vol-8 G rest
+=2  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+|
+=1 2 rest vol90 leg110 2 e
+=2  vol65 4 rest d vol+9 g vol+9 c~#(1
+|
+=1  2 d vol-8 G
+=2  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+|
+=1  1 vol-8 A
+=2  vol70 4 rest d vol+9 g vol+9 c~#(1
+/
+5 bars | 2b 8 | 8 | 8 | 8 | 8 |
+|
+=1  2 vol-8 B' rest
+=2  4 c~#)1 vol-9 d~ vol-9 b vol-9 g
+|
+=1, 2 rest <F#(2 f#(1>
+=2' 4 rest' f#-,-s3, <b e~> blank
+=2  2 leg150 B,{2 4 blank leg100 f'}2
+|
+=1, 2 <F#)2 f#)1> <G(2 g(1>
+=2' 4 rest' f#-,-s3, <b e~> blank
+=2  2 leg150 A,{2 4 blank leg100 f'}2
+|
+=1, 2 <G)2 g)1> <G# g#>
+=2' 4 rest' f# <b d~> blank
+=2  2 leg150 B, 4 blank leg100 f'
+i0.5 .03 sempre legato
+|
+=1, 2 <A a> <B b>
+=2' 4 rest' f# <b d~> blank
+=2  2 leg150 A, 4 blank leg100 f'
+/
+5 bars | 2b 8 | 8 | 8 | 8 | 8 |
+|
+=1, 2 rest <Bn(2 bn(1>
+=2' 4 rest' fn <a c~#> blank
+=2  2 leg150 B, 4 blank leg100 f'
+|
+=1, 2 <B)2 b)1> <cn(2 c~n(1>
+=2' 4 rest' f <a c~#> blank
+=2  2 vol-4 leg150 A, 4 blank leg100 f'
+|
+=1, 2 <c)2 c~)1> <c# c~#>
+=2' 4 rest' en <g#l c~n> blank
+=2  2 vol-4 leg150 B, 4 blank leg100 e'
+|
+=1, 2 <d d~> <eb e~b>
+=2' 4 rest' en <g# c~> blank
+=2  2 vol-4 leg150 A, 4 blank leg100 e'
+|
+=1, 2 rest <e(2 e~(1>
+=2' 4 rest' eb <gnl c~b> blank
+=2  2 vol-4 leg150 B, 4 blank leg100 e'
+/
+7 bars | 2b 2 2.5 2 2 | 7 | 6 | 5 | 6 | 6 | 5 ||
+|
+=1, 2 <e)2 e~)1> <en(2 e~n(1>
+=2' 4 rest' e <gnl c~b> blank
+=2  2 vol-4 leg150 A, 4 blank leg100 e'
+|
+=1, 2 <e)2 e~)1> <f(2 f~(1>
+=2, 4 leg120 A rest 2 rest
+|
+=1, 2 <f)2 f~)1> <f# f~#>
+=2 2 blank 1 rest
+|
+=1 2 blank 1 rest treble8va
+I0.5 .75 p
+=2 2 blank 1 rest treble
+| 3.6
+=1 1 vol75 leg99 <F#rr Bnll f#>
+i0.5 arpegg.
+=2 1 vol65 leg99 <A_r-P E G Bn>
+| 4.0
+=1 1 <Gnr(2 B(3 g(1>
+i0.5 arpegg.
+=2 1 <A_r(4-P E(2 G(3 Bn(1>
+| 4.4
+=1 1 <Gr)2 B)3 g)1>
+=2 1 <A_r)4 E)2 G)3 B)1>
+=2 1 blank 32 blank-,-,-*
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d141 67
+@

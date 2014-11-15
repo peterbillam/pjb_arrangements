@@ -1,11 +1,12 @@
 
-midi on
 6 systems 15 /18-35-16/18-35-18/18-32-18/18-32-18/18-35-18/18-35-18 5/
 pagenum
 innerhead Book 1, Well-Tempered Clavier, J. S. Bach
 title Fugue IX in E major
+
 midi channel 0 bank 5,5 patch 0 pan 80
 midi channel 1 bank 5,5 patch 0 pan 20
+
 /
 3 bars | 4# 4/4 4 3 4 3 4 4 4 4 4 3 4 3 5 5 5 4 \
  | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7.5 4 | 7 5 5 5 5 7 5 5 7.5 5 5 5 5 5 5 4 |

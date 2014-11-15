@@ -34,7 +34,7 @@ b0.6 .06 a 4 Voci
 =2, 2 blank 1 rest,
 |
 il1.2 .08 5
-=1' 8 leg80 [c-s1-s5 leg100 A-s2-s3] 16 [d-s1-s5 c B--s3 A--s5] \
+=1' 8 leg80 [c-s"( 1 )"-s5 leg100 A-s2-s3] 16 [d-s1-s5 c B--s3 A--s5] \
  8. [G-s"( 1 )"-s4 16 G-s4] [F-s1-s3 E F G]
 =1, 8 [G)2 16 Fn E-s1] 4 F(2 16 [Fr)2 F--s3 8 E--s2] 4 D
 =2' 8 [a-s5, leg100 d~(1-s2,] 16 [d~)1 e~ d~-s2, c~-s1,] \

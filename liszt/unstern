@@ -1,0 +1,637 @@
+6 systems 25 /19-25-19/19-20-19/19-30-19/19-30-19/19-30-19/19-30-19 10/
+pagenum
+title Unstern :  Sinistre,  Disastro
+innerhead Franz Liszt,  post-1880
+leftfoot typeset 2014 Peter J Billam
+midi channel 1 patch 0
+
+/
+7 bars | 4/4 8 | 8 | 8 | 8 | 8 | 8 | 8 |
+| 4/4 2.5
+i0.6 .03 Lento
+=1  bass 4/4 cha1 leg99 vol90 2 rest 4 rest e
+I0.5 .50 mf
+=2  bass 4/4 cha1 leg99 vol80 2 rest 4 rest E
+|
+=1 2 f b
+i0.5 .05 pesante
+=2 2 F B
+|
+=1 2. c~ 4 b
+=2 2. c  4 B
+|
+=1 4 c~ rest 2 c~(1-emph
+=2 4 c  rest 2 c(1-emph-P
+|
+=1 1 <f# c~)1>
+=2 1 <F# c)1>
+=2 1 blank 16 blank-*
+|
+=1 2 rest 4 rest e
+=2 2 rest 4 rest E
+|
+=1 2 f b
+=2 2 F B
+/
+9 bars | 8 | 8 | 7 | 8 | 8 | 8 | 8 | 7 | 8 |
+|
+=1 2. c~ 4 b
+=2 2. c  4 B
+|
+=1 4 c~ rest 2 c~(1-emph
+=2 4 c  rest 2 c(1-emph-P
+|
+=1 1 <f# c~)1>
+=2 1 <F# c)1>
+=2 1 blank 16 blank-*
+|
+=1 2 rest 4 rest a
+=2 2 rest 4 rest A
+|
+=1 2 bb e~
+=2 2 Bb e
+|
+=1 2. f~ 4 e~
+=2 2. f 4 e
+|
+=1 4 f~ rest 2 f~(1-emph
+=2 4 f rest 2 f(1-emph-P
+|
+=1 1 <bn f~)1>
+=2 1 <Bn f)1>
+=2 1 blank 16 blank-,-*
+|
+=1 2 rest 4 rest a
+=2 2 rest 4 rest A
+/
+7 bars | 48 | 48 | 48 | 40 \
+ | 3 3 3 3 3 3 3 3  3 3 3 3 3 3 3 8 \
+ | 3 3 3 3 3 3 3 8  3 3 3 3 3 3 3 8 \
+ | 3 3 3 3 3 3 3 8  3 3 3 3 3 3 3 8 |
+|
+=1 2 bb e~
+=2 2 Bb e
+|
+=1 2. f~ 4 e~
+=2 2. f 4 e
+|
+=1 4 f~ rest 2 f~(1-emph
+=2 4 f rest 2 f(1-emph-P
+|
+=1 1 <bn f~)1> treble
+=2 1 <Bn f)1>
+=2 1 blank 16 blank-,-*
+|
+=1 vol100 2 rest 4.. <G_# G#-iten.> 16 <G_ G>
+I0.4 .20 f
+=2 vol90  2 blank 1 rest
+=2 2 blank blank-P
+|
+=1 4.. <G_# G#-iten.> 16 <G_ G> 4.. <G_ G> 16 <G_ G>
+=2' 2 rest <F-emph, f>
+=2 1 blank 16 blank-,-*
+|
+=1 4.. <G_# G#> 16 <G_ G> 4.. <G_ G> 16 <G_ G>
+=2' 4 leg65 <E-., e> <D-., d> <E-., e> <F-., f>
+/
+6 bars | 3 3 3 3 3 3 3 8  3 3 3 3 3 3 3 8 | 24 22 | 44 | 22 24 | 40 \
+       | 3 3 3 3 3 3 3 3  3 3 3 3 3 3 3 8 |
+|
+=1' 4.. <G_# G#> 16 <G_ G> 4.. <G_ G> 16 <G_ G>
+=2' 4 leg65 <C-., c> <B_-., B> <C-., c> <D-., d>
+|
+=1' 4 <G_# G#> leg99 rest 2 <G_# C E G#-emph>
+=2' 4 <D# d#>  leg99 rest 2 <E-emph, c e>
+|
+=1' 2 <G_#r B_ D#l G#-emph> <G_ C E G-emph>
+=2' 2 <D#r-emph, B d#>       <E-emph, c e>
+|
+=1' 2. <G_#r B_ D#l G#-emph> 4 <G_ B_ D G-emph>
+=2' 2. <D#r-emph, B d#>       4 <D-emph, B d>
+=2 1 blank-,-,-,-,-P 16 blank-,-,-,-,-*
+|
+=1 1 <G_# C E G#-emph>
+=2 1 <E-emph, c e>
+=2 1 blank-,-,-,-,-P 16 blank-,-,-*
+|
+=1 2 rest 4.. <A_ A> 16 <A_ A>
+I0.4 .20 f
+=2 2 blank 1 rest
+
+/
+7 bars | 3 3 3 3 3 3 3 9  3 3 3 3 3 3 3 8 \
+       | 3 3 3 5 3 3 3 9  3 3 3 5 3 3 3 8 \
+       | 3 3 3 5 3 3 3 9  3 3 3 5 3 3 3 8 \
+       | 24 20 | 40 | 10 10 10 11 | 36 |
+|
+=1 4.. <A_ A> 16 <A_ A> 4.. <A_ A> 16 <A_ A>
+=2' 2 rest <Gb-emph, gb>
+=2 1 blank 16 blank
+|
+=1 4.. <A_ A> 16 <A_ A> 4.. <A_ A> 16 <A_ A>
+=2' 4 leg65 <F-., f> <Eb-., eb> <F-., f> <Gb-., gb>
+|
+=1' 4.. <A_ A> 16 <A_ A> 4.. <A_ A> 16 <A_ A>
+=2' 4 leg65 <Db-., db> <C-., c> <D-., d> <Eb-., eb>
+|
+=1' 4 <A_ A> leg99 rest 2 <A_ C# F A-emph>
+=2' 4 <E e> leg99 rest 2 <F-emph, c# f>
+|
+=1' 2 <A_ C El A-emph> <A_ C# F A-emph>
+=2' 2 <E-emph, cn e> <F-emph, c# f>
+|
+=1' 2. <A_ C El A-emph> 4 <A_ C E A-emph>
+=2' 2. <E-emph, cn e> 4 <E-emph, c e>
+=2 1 blank-,-,-,-,-P 16 blank-,-,-,-,-*
+|
+=1 1 <A_ C# F A-emph>
+=2 1 <F-emph, c# f>
+=2 1 blank-,-,-,-,-P 16 blank-,-,-*
+/
+5 bars | 3 3 3 3 3 3 3 9  3 3 3 3 3 3 3 8 \
+       | 3 3 3 5 3 3 3 9  3 3 3 5 3 3 3 8 \
+       | 3 3 3 5 3 3 3 9  3 3 3 5 3 3 3 8 \
+       | 3 3 3 5 3 3 3 9  3 3 3 5 3 3 3 8 \
+       | 3 3 3 3 3 3 3 9  3 3 3 3 3 3 3 8 |
+|
+=1 vol+8 2 rest 4.. <A_# A#> 16 <A_ A>
+=2 2 blank 1 rest
+|
+=1 4.. <A_# A#> 16 <A_ A> 4.. <A_ A> 16 <A_ A>
+=2' 2 rest <G-emph, g>
+=2 1 blank 16 blank
+|
+=1 4.. <A_# A#> 16 <A_ A> 4.. <A_ A> 16 <A_ A>
+=2' 4 leg65 <F#-., f#> <E-., e> <F#-., f#> <G-., g>
+|
+=1' 4.. <A_# A#> 16 <A_ A> 4.. <A_ A> 16 <A_ A>
+=2' 4 leg65 <D-., d> <C#-., c#> <D-., d> <E-., e>
+|
+=1' 4 <A_# A#> rest 4.. <B_ B> 16 <B_ B>
+=2' 4 <F# f#> <G g> 2 rest
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 15/
+pagenum
+innerhead Unstern: Sinistre, Disastro,  Franz Liszt,  post-1880
+leftfoot typeset 2014 Peter J Billam
+
+/
+5 bars | 3 3 3 3 3 3 3 9  3 3 3 3 3 3 3 8 \
+       | 3 3 3 5 3 3 3 9  3 3 3 5 3 3 3 8 \
+       | 3 3 3 5 3 3 3 9  3 3 3 5 3 3 3 8 \
+       | 3 3 3 5 3 3 3 11 3 3 3 5 3 3 3 8 \
+       | 3 3 3 3 3 3 3 9  3 3 3 3 3 3 3 8 |
+|
+=1' vol+8 4.. <B_ B> 16 <B_ B> 4.. <B_ B> 16 <B_ B>
+=2, 2 rest <Ab-emph, ab>
+=2 1 blank 16 blank
+|
+=1' 4.. <B_ B> 16 <B_ B> 4.. <B_ B> 16 <B_ B>
+=2' 4 leg65 <G-., g> <F-., f> <G-., g> <Ab-., ab>
+|
+=1' 4.. <B_ B> 16 <B_ B> 4.. <B_ B> 16 <B_ B>
+=2' 4 leg65 <Eb-., eb> <D-., d> <Eb-., eb> <F-., f>
+|
+=1' 4.. <B_ B> 16 <B_ B> 4.. <B_ D# F B> 16 <B_ D F B>
+=2  4 leg65 <G-., g'> <Ab,-., ab> leg99 4.. <An, d#l f an> 16 <A, d f a>
+|
+=1' 4.. <B_ D# F B> 16 <B_ D F B> 4.. <B_ D F B> 16 <B_ D F B>
+=2, 4.. <An d#l f an> 16 <A d f a> 4.. <A d f a> 16 <A d f a>
+/
+5 bars | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 \
+       | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 \
+       | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 \
+       | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 \
+       | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 |
+|
+=1' 2... <B_ D# F B> 16 <B_ D F B>
+=2' leg65 4 <G-., g> <F-., f> <G-., g> <A-., a>
+|
+=1' 2... <B_ D# F B> 16 <B_ D F B>
+=2' leg65 4 <F-., f> <D#-., d#> <F-., f> <G-., g>
+|
+=1' 2... <B_ D# F B> 16 <B_ D F B>
+=2' leg65 4 <D#-., d#> <C#-., c#> <D-., d> <F-., f>
+|
+=1' 2... <B_ D# F B> 16 <B_ D F B>
+=2' leg65 4 <C#-., c#> <B_-., B> <C-., c> <D#-., d#>
+|
+=1' 2... <B_ D# F B> 16 <B_ D F B>
+=2' leg65 4 <B_-., B> <A_-., A> <B_-., B> <C#-., c#>
+/
+6 bars | 12 12 12 10 |
+|
+=1' 1 <B_ D# F B>
+=2' 4 <A_-., A> <G_-., G> <A_-., A> <B_-., B>
+|
+=1 2 blank 1 rest
+=2' leg65 4 <C#-., c#> vol-2 <B_-., B> <A_-., A> vol-2 <G_-., G>
+|
+=1 2 blank 1 rest
+=2' leg65 4 <F_-., F> vol-2 <G_-., G> <A_-., A> vol-3 <B_-., B>
+|
+=1 2 blank 1 rest
+i0.4 .38 diminuendo    .   .   .
+=2' leg65 4 <C#-., c#> vol-3 <B_-., B> <A_-., A> vol-3 <G_-., G>
+|
+=1 2 blank 1 rest
+=2' leg65 4 <F_-., F> vol-3 <G_-., G> <A_-., A> vol-3 <B_-., B>
+|
+=1 2 blank 1 rest bass
+=2' leg65 4 <C#-., c#> vol-3 <B_-., B> <A_-., A> vol-3 <G_-., G>
+/
+5 bars | 12 12 12 10 |
+|
+=1, 2 rest vol60 <c# f a c~#>
+I0.7 .35 p
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol50 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+I0.8  p
+|
+=1, 2. <dr f#l bb d~> 4 <d# g bnl d~#>
+#P=2 2// [F_ F] [F_ F]
+#M=2 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+|
+=1 4 <er g#l c~n e~> rest treble 2 <F_ A_ C# F>
+#P=2 2// [F_ F] [F_ F]
+#M=2 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+|
+=1' vol+4 2. <F_#r B_bl D F#> 4 <G_ B_nl D# G>
+i0.2 .03 poco a poco cresc   .      .   .
+#P=2 2// [F_n Fn] [F_ F]
+#M=2 vol+5 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+|
+=1 vol+4 4 <G_# C E G#> rest 2 <A_ C# F A>
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+5 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+/
+5 bars | 12 12 12 10 |
+|
+=1' vol+4 2. <B_br D F#l Bb> 4 <B_n D#l G Bn>
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+5 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+|
+=1' vol+4 4 <C E G# c> rest 2 <C# F A c#>
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+5 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+|
+=1' vol+4 2. <Dr F#l Bb d> 4 <D# G Bnl d#>
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+5 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+| 2.45
+i0.9 .35 un poco accelerando
+=1  vol+5 4 <E G# c' e'> 2 <F, A, c# f> 4 <F#,(4 A#l,(2 d(3 f#(1>
+i0.3 .05 più cresc   .   .   .
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+6 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+| 2.4
+=1, vol+5 4 <F#)4 A#l)2 d)3 f#)1> 2 <G B d# g> 4 <G#(4 c(2 e(3 g#(1>
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+6 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+
+5 systems 15 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead Unstern: Sinistre, Disastro,  Franz Liszt,  post-1880
+leftfoot typeset 2014 Peter J Billam
+
+/
+5 bars | 12 12 12 10 | 12 12 12 10 \
+ | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 \
+ | 3 3 3 3 3 3 3 9  3 3 3 3 3 2 2 11 \
+ | 3 3 3 3 4 4 4 4  3 3 3 3 3 2 2 8 |
+| 2.35
+=1, vol+5 4 <G#)4 c)2 e)3 g#)1> 2 <A c# f a> 4 <A#(4 d(2 f#l(3 a#(1>
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+6 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+| 2.3
+=1, vol+5 4 <A)4 d)2 f)3 a)1> 2 <B d# g b> 4 <c(4 e(2 g#(3 c~(1>
+#P=2 2// [F_ F] [F_ F]
+#M=2 vol+6 leg150 16 F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F F_ F
+| 2.25
+=1 vol+5 4 <c)4 e)2 g#)3 c~)1> rest 4.. <c e g# c~> 16 <c e g c~>
+I0.5 .35 fff
+#P=2 2// [F_-P F] 4 rest vol125 <e e~>
+#M=2 vol+6 leg150 16 F_-P F F_ F F_ F F_ F F_ F 2 blank 8 blank
+#M=2 blank leg99 vol125 4 rest <e e~>
+I0.5 .55 fff
+| 2.2
+=1 4.. <c e g# c~> 16 <c e g c~> 4.. <c e g c~> 16 <c e g c~>
+=2 2 <f f~-emph> treble 4.. <B_ Fx G# B'-emph> 16 <B_ Fx G B'>
+=2 1 blank blank 32 blank-,-,-*
+| 2.15
+=1, 4 <c e g# c~> rest bass 4.. <c e g c~> 16 <c e g c~>
+=2  4 <B_r Fx G# B'> rest bass rest <E_ E>
+/
+5 bars | 3 3 3 3 3 3 3 9  3 3 3 3 3 2 2 8 \
+       | 3 3 3 3 5 5 5 5  3 3 3 3 3 2 2 7 \
+       | 3 3 3 3 3 3 3 9  3 3 3 3 3 2 2 8 \
+       | 3 3 3 3 5 5 5 5  3 3 3 3 3 2 2 8 \
+       | 3 3 3 3 3 3 3 9  3 3 3 3 3 2 2 8 |
+| 2.10
+=1, 4.. <c e g# c~> 16 <c e g c~> 4.. <c e g c~> 16 <c e g c~>
+=2' 2 <F_ F-emph> 4.. <B_ Fx G# B-emph> 16 <B_ Fx G B>
+| 2.05
+=1, 4 <c e g# c~> rest treble 4.. <c e g# c~> 16 <c e g c~>
+=2  4 <B_r Fx G# B'> rest rest <e e~>
+| 2.0
+=1 4.. <c e g# c~> 16 <c e g c~> 4.. <c e g c~> 16 <c e g c~>
+=2 2 <f f~-emph> treble 4.. <B_ Fx G# B'-emph> 16 <B_ Fx G B'>
+=2 1 blank blank 32 blank-,-,-*
+| 1.95
+=1, 4 <c e g# c~> rest bass 4.. <c e g c~> 16 <c e g c~>
+i0.3 .35 sempre
+I0.3 .70 fff
+=2  4 <B_ Fx G# B'> rest bass rest <E_ E>
+| 1.90
+=1, 4.. <c e g# c~> 16 <c e g c~> 4.. <c e g c~> 16 <c e g c~>
+=2' 2 <F_ F-emph> 4.. <B_ Fx G# B-emph> 16 <B_ Fx G B>
+/
+7 bars | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 \
+       | 4 4 4 3 2 2 3 9  3 3 3 3 3 2 2 8 \
+       | 13 11 12 10 \
+       | 3 3 3 3 3 3 3 3  3 3 3 3 3 2 2 8 \
+       | 13 11 12 10 | 15 | 44 ||
+|
+=1, 4 <c e g# c~> rest 4.. <c e g# c~> 16 <c e g c~>
+=2  4 <B_r Fx G# B'> rest 4.. <B_b-P Fx G Bb-emph> 16 <B_ Fx G B>
+|
+=1, 4 <c e g# c~> rest 4.. <c e g# c~> 16 <c e g c~>
+=2  4 <B_br Fx G#l Bb> rest-,-,-,-* 4.. <G_# Fx G#> 16 <G_ Fx G>
+|
+=1,  4 <c e g# c~> rest <c e g c~> rest
+=2  4 <G_# Fx G#> rest <G_ Fx G> rest
+|
+=1, 2 rest 4.. <c e g# c~> 16 <c e g c~>
+=2  2 rest 4.. <G_# Fx G#> 16 <G_ Fx G>
+|
+=1,  4 <c e g# c~> rest <c e g c~> rest
+=2  4 <G_# Fx G#> rest <G_ Fx G> rest
+|
+=1 1 rest
+=2 1 rest
+| 2.4
+=1, vol90 2 rest <c# e#ll g#l c~#> treble
+=2' vol90 2 rest <G_# G#>
+/
+11 bars | 5# 36 | 10 10 10 12 | 35 | 22 21 \
+ | 10 10 10 12 | 36 | 22 21 | 35 | 10 10 10 12 | 35 |
+| 2.8
+i0.3 .25 sostenuto, quasi Organo
+=1 treble 5# leg110 vol90 1 <B_ D>
+=2        5# leg110 vol80 1 <F_ F d f>
+|
+=1  2. <B_ E> 4 <D F>
+=2' 2. <e g>  4 <f a>
+=2, 2. <E_ E> 4 <D_ D>
+|
+=1  1 <D F>
+=2' 1 <f a>
+=2, 1 <D_ D>
+|
+=1' 2 rest F
+=2' 2 rest f
+=2, 2 blank 1 rest,,
+# r0.9 .60 con 8va bassa   .   .   .
+|
+=1'  1 <C F>
+=2'  1 <f a>
+=2,  1 <E_ E>
+|
+=1'  2. <D F> 4 <E Fx>
+=2'  2. <f a> 4 <f a>
+=2,  2. <D_ D>  4 <C_ C>
+|
+=1'  1 <E Fx>
+=2'  1 <f a>
+=2,  1 <C_ C>
+|
+=1' 2 rest F
+=2' 2 rest f
+=2, 2 blank 1 rest,,
+|
+=1  1 <B_ D>
+=2  1 <F_ F d f>
+|
+=1  2. <B_ E> 4 <D F>
+=2' 2. <e g>  4 <f a>
+=2, 2. <E_ E> 4 <D_ D>
+|
+=1  1 <D F>
+=2' 1 <f a>
+=2, 1 <D_ D>
+/
+9 bars | 5# 22 21 | 35 | 10 10 10 12 | 35 | 22 21 \
+ | 23 21 | 11 11 13 13 | 23 21 | 13 13 13 11 |
+|
+=1' 2 rest F
+=2' 2 rest f
+=2, 2 blank 1 rest,,
+|
+=1'  1 <C F>
+=2'  1 <f a>
+=2,  1 <E_ E>
+|
+=1'  2. <D F> 4 <E Fx>
+=2'  2. <f a> 4 <f a>
+=2,  2. <D_ D>  4 <C_ C>
+|
+=1'  1 <E Fx>
+=2'  1 <f a>
+=2,  1 <C_ C>
+|
+=1' 2 rest F
+=2' 2 rest f
+=2, 2 blank 1 rest,,
+|
+=1' 1 <E Gn>
+=2' 1 <gn ax>
+=2, 2 <C_ C> <C_## C##>
+|
+=1'  2. <D Gn> 4 <D G>
+=2'  2. <gn ax> 4 <g ax>
+=2,  2 <D_ D>  4 <A_ A> <D d>
+|
+=1' 1 Gn(1
+=1, 2 D-emph, Dn(2-emph,
+=2' 1 <gn(3 ax(1>
+=2, 2 d dn(2
+=2, 1 Er(4
+|
+=1' 4 G)1 rest 2 rest
+=1, 2 D)2 4 C rest,,
+=2' 4 <g)3 ax)1> 2. blank
+=2  2 d)2 4 c rest
+=2, 4 E)4 rest,, 2 rest,,
+
+5 systems 10 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 30/
+pagenum
+innerhead Unstern: Sinistre, Disastro,  Franz Liszt,  post-1880
+leftfoot typeset 2014 Peter J Billam
+
+/
+6 bars | 5# 48 | 48 |
+|
+=1' vol-5 2 Dn 4 vol-5 C vol-5 Cn
+I0.5 .02 p
+i0.5 .15 dim  .   .   .
+=2' vol-5 2 dn 4 vol-5 c vol-5 cn
+|
+=1' 4 B_ A_ A_n A_#
+=2' 4 B  A  An  A#
+|
+=1 4 B_ B_# C rest
+=2 4 B  B#  c rest
+|
+=1' 2 vol+8 Dn{2-emph  vol-8 4 C}2 rest
+=2' 2 vol+8 dn{2-emph, vol-8 4 c}2 rest
+|
+=1' 1 <E Gn>
+=2' 1 <gn ax>
+=2, 2 <C_ C> vol+5 <C_## C##>
+|
+=1'  vol+5 2. <D Gn> vol+5 4 <D G>
+=2'  2. <gn ax> vol+5 4 <g ax>
+=2,  vol-5 2 <D_ D>  vol+5 4 <A_ A> <D d>
+/
+7 bars | 5# 48 | 48 |
+|
+=1' vol+5 1 Gn(1
+=1, 2 D-emph, Dn(2-emph,
+=2' vol+5 1 <gn(3 ax(1>
+=2, 2 d dn(2
+=2, 1 Er(4
+|
+=1' 4 G)1 rest' 2 rest'
+=1, 2 D)2 4 C rest,
+=2' 4 <g)3 ax)1> 2. blank
+=2  2 d)2 4 c rest
+=2, 4 E)4 rest,, 2 rest,,
+|
+=1' vol-10 2 Dn 4 vol-5 C vol-5 Cn
+I0.5 .02 p
+i0.5 .15 dim  .   .   .
+=2' vol-10 2 dn 4 vol-5 c vol-5 cn
+|
+=1' 4 B_ A_ A_n A_#
+=2' 4 B  A  An  A#
+|
+=1 4 B_ B_# C rest
+=2 4 B  B#  c rest
+|
+=1' 2 vol+8 Dn{2-emph  vol-8 4 C}2 rest
+=2' 2 vol+8 dn{2-emph, vol-8 4 c}2 rest
+|
+=1'  1 <C F>
+=2'  1 <f a>
+=2,  1 <E_ E>
+/
+9 bars | 5# 48 | 48 |
+|
+=1'  1 <C E#>
+=2'  1 <e# a>
+=2,  2 <E_# E#> <F_ F>
+|
+=1'  1 <C En>
+=2'  1 <en a>
+=2,  2 <G_n Gn> <F_(4 F(2>
+|
+=1'  1 <C E#>
+=2'  1 <e# a>
+=2,  2 <F_)4 F)2> <E_# E#>
+|
+=1'  1 <C F>
+=2'  1 <f a>
+=2,  1 <E_n En>
+|
+=1'  1 <C E#>
+=2'  1 <e# a>
+=2,  2 <E_# E#> <F_ F>
+|
+=1'  1 <C En>
+=2'  1 <en a>
+=2,  2 <G_n Gn> <F_(4 F(2>
+|
+=1'  1 <C E#>
+=2'  1 <e# a>
+=2,  2 <F_)4 F)2> <E_# E#>
+|
+=1'  1 <C F>
+=2'  1 <f a>
+=2,  1 <E_n En>
+| 2.9
+=1'  2 blank 1 rest
+=2'  2 <G_# G#> <F_ F>
+/
+10 bars | 5# 48 | 48 |
+|
+=1'  1 <D F>
+=2'  1 <f a>
+=2,  1 <D_ D>
+|
+=1'  2 blank 1 rest vol-5
+=2'  2 <A_ A> 4 vol-4  <G_ G> <F_ F>
+|
+=1'  1 <C F>
+=2'  1 <f a>
+=2,  1 <E_ E>
+| 3.0
+=1'  2 blank 1 rest
+=2'  2 <G_ G> <F_ F>
+|
+=1'  1 <D F>
+=2'  1 <f a>
+=2,  1 <D_ D>
+|
+=1'  2 blank 1 vol-5 rest
+=2'  2 <A_ A> vol-4 4 <G_ G> <F_ F>
+|
+=1'  2 blank 1 rest
+=2'  1 <A_(4 A(2>
+|
+=1'  2 blank 1 rest
+=2'  2 <A_)4 A)2> <G_ G>
+|
+=1'  vol-10 1 <D F>
+=2'  vol-10 1 <f a>
+=2,  vol+8 1 <F_(4 F(2>
+|
+=1'  2 blank 1 rest
+=2'  2 <F_)4 F)2> <E_# E#>
+/
+10 bars | 5# 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48 ||
+|
+=1'  2 blank 1 rest
+=2'  1 <F_(4 F(2>
+|
+=1'  vol-10 1 <D F>
+=2'  vol-10 1 <f a>
+=2,  vol+10 1 <F_)4 F)2>
+|
+=1'  1 <C(2 F(1>
+=2'  1 <f(4 a(3>
+=2,  vol-4 1 <E_n(8 En(6>
+|
+=1'  1 <C)2 F)1>
+=2'  1 <f)4 a)3>
+=2,  1 <E_)8(4 E)6(2>
+|
+=1'  2 blank 1 rest
+=2'  2 <E_)4 E)2> <F_ F>
+|
+=1'  2 blank 1 rest
+=2'  2 <G_ G> <A_(4 A(2>
+|
+=1'  2 blank 1 rest
+=2'  2 <A_)4 A)2> vol-4 <G_(4 G(2>
+|
+=1'  2 blank 1 rest
+=2'  2 <G_)4 G)2> <F_(4 F(2>
+|
+=1'  2 blank 1 rest
+=2'  2 <F_)4 F)2> vol-4 <E_(4 E(2>
+|
+=1'  4 blank 1 rest-fermata
+=2'  1 <E_)4 E)2-fermata>
+
+midi pause 1.0
+

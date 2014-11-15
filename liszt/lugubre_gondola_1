@@ -1,0 +1,548 @@
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+title La Lugubre Gondola I
+innerhead Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+midi channel 1 patch 0
+
+/
+5 bars | 4b 6/8 48 | 48 | 48 | 48 | 48 |
+midi pause 0.3
+| 6/8 2.0
+i0.6 .03 Lento
+=1  treble 4b 6/8 cha1 leg110 vol90 2 blank 1 rest
+I0.5 .20 mf
+=2, bass   4b 6/8 cha1 leg180 vol55 8 [En-P c a(1] [a)1 d c]
+#P=2' 4b 6/8 4 E
+i1.1 .50 una corda
+|
+=1  2 blank 1 rest
+=2, 8 [a d c] [a d c]
+|
+=1  4. rest C(2
+i0.8 .03 marcato
+=2, 8 [En c a(1] [a)1 d c]
+#P=2' 4 E
+|
+=1  4. C)2 A
+=2, 8 [a d c] [a d c]
+|
+=1  4. rest C(2
+i0.4 .03 sempre legato
+=2, 8 [En c a(1] [a)1 d c]
+#P=2' 4 E
+/
+6 bars | 4b 48 | 48 | 48 | 48 | 48 | 48 |
+|
+=1  4. C)2 An(2
+=2, 8 [a d c] [ab d c]
+|
+=1  4. A)2 Ab
+=2, 8 [En c a(1] [a)1 d c]
+|
+=1  4. Gb Fb
+=2, 8 [a-,-* d c] [a d c]
+|
+=1  2. E(2
+=2, 8 [En-P c a(1] [a)1 d c]
+#P=2' 4 E
+| 1.0 1.06
+=1  4. E)2 8 [Fb Gb Fb]
+=2, 8 [a d c] [a-,-* d c]
+| 2.0
+=1  2. C
+=2, 8 [En-P c a(1] [a)1 d c]
+#P=2' 4 E
+/
+6 bars | 4b 48 | 48 | 48 | 48 | 48 | 48 |
+|
+=1  4. B_n 4 C leg99 8 D
+=2, 8 [a-,-* d c] [a d c]
+|
+=1  leg110 2. E(2
+=2, 8 [En-P c a(1] [a)1 d c]
+#P=2' 4 E
+| 1.0 1.06
+=1  4. E)2 8 [Fb Gb Fb]
+=2, 8 [a d c] [a-,-* d c]
+| 2.0
+=1  2. C
+=2, 8 [En-P c a(1] [a)1 d c]
+#P=2' 4 E
+|
+=1  4. B_n 4 C leg99 8 D
+=2, 8 [a d c-,-*] [a d c]
+|
+=1  leg110 2. E
+=2, 8 [En-P c a(1] [a)1 d c]
+#P=2' 4 E
+/
+5 bars | 4b 48 | 48 | 48 | 48 | 48 |
+|
+=1  4. B_n 4 C 8 D
+=2, 8 [a-,-* d c] [a d c]
+|
+=1' vol90 leg110 4 E 8 D-s1 4. c(1-s5
+=1, vol55 leg180 4. blank 8 [F D F]
+=2, 8 [F a f] [a-P f a]
+|
+=1' vol90 leg110 4. c)1 Bn
+=1, vol55 leg180 8 [D F D] [F D F]
+=2, 8 [f a f] [a-* f a]
+|
+=1' vol90 leg110 4. Bb An
+=1, vol55 leg180 8 [D F D] [F D F]
+=2, 8 [f a f] [an f a]
+|
+=1' vol90 leg110 4. Bb Bn
+=1, vol55 leg180 8 [D F D] [F D F-s3]
+=2, 8 [f b f] [a-P f a]
+/
+5 bars | 4b 48 | 48 | 48 | 48 | 48 |
+|
+=1' vol90 leg110 4 E 8 D-s1 4. c(1-s5
+=1, vol55 leg180 4. blank 8 [F D F]
+=2, 8 [F a-,-* f] [a-P f a]
+|
+=1' vol90 leg110 4. c)1 Bn
+=1, vol55 leg180 8 [D F D] [F D F]
+=2, 8 [f a f] [a-* f a]
+|
+=1' vol90 leg110 4. Bb An
+=1, vol55 leg180 8 [D F D] [F D F]
+=2, 8 [f a f] [an f a]
+|
+=1' vol90 leg110 4. B Bn
+=1, vol55 leg180 8 [D F D] [F D F-s3]
+=2, 8 [f b f] [a-P f a]
+|
+=1' vol90 leg110 4. rest' a(1-s4
+=1, vol55 leg180 8 [D vol+6 F vol+6 Bn] 4. rest,
+=2, vol55 leg180 8 [f vol+6 a vol+6 d~] 4. rest
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola I, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+/
+8 bars | 4b 8 8 12 12 8 7 | 12 12 8 8 8 7 | 48 \
+  | 21 | 7 7 7 7 7 13 | 21 | 7 7 7 7 7 13 || 6
+|
+=1' vol90 8 [a)1 vol-3 g vol-3 f] vol-3 [en-s1 vol-3 eb-s4 vol-3 d]
+=2  2. blank 1 rest-*
+|
+=1' vol-2 8 [c vol-2 Bn vol-2 Bb] vol-2 [A vol-2 G vol-2 F]
+=2  2 blank 1 rest
+|
+=1' vol-2 4 En-s4 vol-2 8 Eb-s3 vol-2 4 D vol-2 8 C-s1
+=2  2 blank 1 rest
+|
+=1' 2. B_n(2
+=2  2 blank 1 rest
+|
+=1' 4. B_)2(2 4 B_)2 16 [B_n C]
+=2, vol50 4 <f a-.> 8 rest 4. rest
+|
+=1' 2. B_n(2
+=2  2 blank 1 rest
+|
+=1' 4. B_)2(2 4 B_)2 16 [B_n C]
+=2, 4 <en g-.> 8 rest 4. rest
+#P|
+#P=1 2# 1 blank
+#P=2 2# 1 blank
+/
+6 bars | 2# 24 | 40 | 40 | 24 | 9 8 8 8 8 7 | 8 8 8 8 8 7 |
+|
+=1' 2# 2. B_(2
+=2  2# 2 blank 1 rest
+|
+=1' 2. B_)2(2
+=2, vol50 4 <d# f-.> 8 rest 4. rest
+|
+=1' 4. B_)2 A_#(2
+=2, 4 <dn f-.> 8 rest 4. rest
+|
+=1' 2. A_)2-fermata
+=2  2 blank 1 rest
+|
+=1  2 blank 1 rest
+I0.5 .03 mf
+i0.5 .25 legato
+=2, 8 [D-P A# f(1] [f)1 B A]
+#P=2' 4 D
+i1.1 .23 sempre una corda
+|
+=1  2 blank 1 rest
+=2, 8 [f B A#] [f B A]
+/
+5 bars |2# 9 8 8 8 8 7 |8 9 8 8 8 7 |9 8 8 8 8 7 |8 9 8 8 8 7 |9 8 8 8 8 7 |
+|
+=1  vol85 leg110 4. rest A_#(2
+i0.7 .03 marcato
+=2, 8 [D A# f(1] [f)1 B A]
+#P=2' 4 D
+|
+=1  4. A_)2 F
+=2, 8 [f B A#] [f B A]
+|
+=1  4. rest A_#(2
+=2, 8 [D A# f(1] [f)1 B A]
+#P=2' 4 D
+|
+=1  4. A_)2 G(2
+=2, 8 [f B A#] [f B A]
+|
+=1  4. G)2 F
+=2, 8 [D A# f(1] [f)1 B-,-* A]
+#P=2' 4 D
+/
+5 bars |2# 8 9 8 8 8 7 |9 8 8 8 8 7 |8 9 8 8 8 7 |9 8 8 8 8 7 |8 9 8 8 8 7 |
+|
+=1  4. E D
+=2, 8 [f B A#] [f B A]
+|
+=1 2. C(2
+=2, 8 [D-P A# f(1] [f)1 B-,-* A]
+#P=2' 4 D
+| 1.0 1.06
+=1  4. C)2 8 [D E D]
+=2, 8 [f B A#-,-*] [f B A]
+| 2.0
+=1 2. A_#
+=2, 8 [D-P A# f(1] [f)1 B-,-* A]
+#P=2' 4 D
+|
+=1  4. A_n 4 A_# leg99 8 B_
+=2, 8 [f B-,-* A#] [f B A]
+/
+5 bars | 2# 9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |
+|
+=1  leg110 2. C(2
+=2, 8 [D-P A# f(1] [f)1 B A]
+#P=2' 4 D
+| 1.0 1.06
+=1  4. C)2 8 [D E D]
+=2, 8 [f-,-* B A#] [f B A]
+| 2.0
+=1 2. A_#
+=2, 8 [D-P A# f(1] [f)1 B A-,-*]
+#P=2' 4 D
+| 
+=1  4. A_n 4 A_# leg99 8 B_
+=2, 8 [f B A#] [f B A]
+| 2.0
+=1  leg110 2. C
+=2, 8 [D-P A# f(1] [f)1 B A]
+#P=2' 4 D
+
+5 systems 20 /19-35-19/19-35-19/19-33-19/19-33-19/19-28-19 20/
+pagenum
+innerhead La Lugubre Gondola I, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+/
+5 bars | 2# 8 9 8 8 8 7 |8 9 13 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |
+|
+=1  4. A_n 4 A_# leg99 8 B_
+=2, 8 [f-,-* B A#] [f B A]
+|
+=1' vol90 leg110 4 C-s2 8 B_ 4. A#(1
+=1, vol55 leg180 4. blank 8 [D#l B_ D]
+=2, 8 [D# f d#] [f-P d f]
+|
+=1' vol90 leg110 4. A)1 An
+=1, vol55 leg180 8 [B_ D# B_] [D B_ D]
+=2, 8 [d# f d] [f-* d f]
+|
+=1' vol90 leg110 4. G# F##
+=1, vol55 leg180 8 [B_ D# B_] [D B_ D]
+=2, 8 [d# f d] [f d f]
+|
+=1' vol90 leg110 4. G# A
+=1, vol55 leg180 8 [B_ D# B_] [D B_ D]
+=2, 8 [d# g# d] [f-P d f]
+/
+5 bars | 2# 8 9 13 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 7 7 7 |
+|
+=1' vol90 leg110 4 C-s2 8 B_ 4. A#(1
+=1, vol55 leg180 4. blank 8 [D#l B_ D]
+=2, 8 [D# f d#-*] [f-P d f]
+|
+=1' vol90 leg110 4. A)1 An
+=1, vol55 leg180 8 [B_ D# B_] [D B_ D]
+=2, 8 [d# f d] [f-* d f]
+|
+=1' vol90 leg110 4. G# F##
+=1, vol55 leg180 8 [B_ D# B_] [D B_ D]
+=2, 8 [d# f d] [f d f]
+|
+=1' vol90 leg110 4. G# A
+=1, vol55 leg180 8 [B_ D# B_] [D B_ D]
+=2, 8 [d# g# d] [f-P d f]
+|
+=1' vol90 leg110 4. rest' f(1-emph
+=1, vol55 leg180 8 [B_ vol+6 D# vol+6 A] 4. rest,
+=2, vol55 leg180 8 [d# vol+6 f  vol+6 b] 4. rest
+/
+7 bars | 2# 8 9 8 9 8 7 | 9 8 8 9 8 7 \
+ | 5 5 5 6 6 8 | 15 | 6 6 6 6 11 | 15 | 6 6 6 6 11 |
+|
+=1' vol90 8 [f)1 vol-3 e vol-3 d#] vol-3 [c-s1 vol-3 cn-s4 vol-3 B]
+=2  2. blank 1 rest-*
+|
+=1' vol-2 8 [A vol-2 G# vol-2 F] vol-2 [E vol-2 D# vol-2 C]
+=2  2 blank 1 rest
+|
+=1' vol-2 4. Cn-s4 vol-2 4 B_-s3 vol-2 8 A_#
+=2  2 blank 1 rest
+|
+=1' 2. A_n(2
+=2  2 blank 1 rest
+|
+=1' 4. A_)2(2 4 A_)2 16 [A_ B_]
+=2, vol50 4 <d# f-.> 8 rest 4. rest
+|
+=1' 2. A_(2
+=2  2 blank 1 rest
+|
+=1' 4. A_)2(2 4 A_)2 16 [A_ B_]
+=2, 4 <dnrl fn-.> 8 rest 4. rest
+/
+7 bars | 2# 15 | 6 6 7 6 6 11 | 15 | 6 6 7 6 6 6 | 16 || 35 | 35 | 20 24 |
+|
+=1' 2. A_n(2
+=2  2 blank 1 rest
+|
+=1' 2. A_)2(2
+=2, vol50 4 <c e-.> 8 rest 4. rest
+|
+=1' 2. A_)2(2
+=2  2 blank 1 rest
+|
+=1' 4. A_)2 G_#(2
+=2, 4 <cn e-.> 8 rest 4. rest
+|
+=1' 2. G_)2-fermata
+=2  2 blank 1 rest
+|
+=1' 0 2 blank 1 rest
+I0.1 .13 p
+i0.5 .17 tremolando
+#P=2' 0 vol50 leg180 2.// [C G#]
+#P=2, 0 1 blank-,-,-P
+#M=2  0 vol45 leg180 16 C-P G# C G# C G# C G# C G# C G# C G# C G#
+|
+=1' 2 blank 1 rest bass
+#P=2' 2.// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+|
+=1 4. rest vol90 g#(1
+i0.8 .40 marcato
+#P=2' 2.// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+/
+7 bars | 48 | 48 | 48 | 48 | 48 | 44 | 44 |
+|
+=1 4. g#)1 <e e~>
+#P=2' 2// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+|
+=1 4. rest vol90 g#(1
+#P=2' 2// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+|
+=1 4. g#)1 <f(2 f~(1>
+#P=2' 2// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+=2 1 blank 32 blank-,-,-*
+|
+=1 4. <f)2 f~)1> <e e~>
+#P=2' 2// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+|
+=1 4. <eb e~b> <d d~>
+#P=2' 2// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+|
+=1' 2 blank 1 rest
+#P=2' 2.// [C G#]
+#M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
+=2 1 blank-,-,-,-P 32 blank-,-,-,-*
+|
+=1' 2 blank 1 rest
+#P=2' 2.// [B_ Gn]
+#M=2  0 vol45 leg180 16 B_ Gn B_ G B_ G B_ G B_ G B_ G B_ G B_ G
+=2 1 blank-,-,-,-P 32 blank-,-,-*
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola I, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+/
+7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+|
+=1, 4. rest vol80 <Bb(2 bb(1>
+#P=2' 2.// [B_b-P F#]
+#M=2 vol45 leg180 16 B_b-P F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F#
+|
+=1, 4. <B)2 b)1> <f# f~#>
+#P=2' 2.// [B_b F#]
+#M=2 vol45 leg180 16 B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F#
+|
+=1, 4. rest vol80 <Bb(2 bb(1>
+#P=2' 2.// [B_b F#]
+#M=2 vol45 leg180 16 B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F#
+|
+=1, 4. <B)2 b)1> <g(2 g~(1>
+#P=2' 2.// [B_b F#]
+#M=2 vol45 leg180 16 B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F#
+|
+=1, 4. <g)2 g~)1> <f# f~#>
+#P=2' 2.// [B_b F#-,-*]
+#M=2 vol45 leg180 16 B_b F# B_b F# B_b F# B_b F#-* B_b F# B_b F# B_b F# B_b F#
+|
+=1, 4. <fn f~n> <e e~>
+#P=2' 2.// [B_b F#]
+#M=2 vol45 16 B_b-* F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F#
+|
+=1, 2 blank 1 rest
+#P=2' 2.// [B_b F#]
+#M=2 vol45 leg180 16 B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F# B_b F#
+=2 1 blank-,-,-,-P 32 blank-,-,-*
+/
+7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+|
+=1  2 blank 1 rest
+#P=2' 2.// [A_ Fn]
+#M=2 vol45 leg180 16 A_ F A_ F A_ F A_ F A_ F A_ F A_ F A_ F
+=2 1 blank-,-,-,-P 16 blank-,-,-,-,-*
+|
+=1, 4. rest vol85 <c(2 c~(1>
+i0.3 .06 crescendo   .   .   .
+#P=2' 2.// [A_b-P F#]
+#M=2 vol51 leg180 16 A_b-P E A_b E A_b E A_b E A_b E A_b E A_b E A_b E
+|
+=1, vol90 4. <c)2 c~)1> <ab a~b>
+#P=2' 2.// [A_b E]
+#M=2 vol54 leg180 16 A_b E A_b E A_b E A_b E A_b E A_b E A_b E A_b E
+|
+=1, 4. rest vol100 <c(2 c~(1>
+#P=2' 2.// [A_b E]
+#M=2 vol60 leg180 16 A_b E A_b E A_b E A_b E A_b E A_b E A_b E A_b E
+|
+=1, vol104 4. <c)2 c~)1> <an(2 a~n(1-emph>
+#P=2' 2.// [A_b E] bass8vab
+#M=2 vol66 leg180 16 A_b E A_b E A_b E A_b E A_b E A_b E A_b E A_b E bass8vab
+|
+=1, vol107 4. <a)2 a~)1> <ab a~b>
+#P=2' 2.// [<Ab-,-* c> e]
+#M=2 vol72 leg180 16 <Ab-* c> e <Ab c> e <Ab c> e <Ab c> e-* <Ab c> e <Ab c> e <Ab c> e <Ab c> e
+|
+=1, vol110 4. <gb g~b> <fb f~b>
+#P=2' 2.// [<Ab c> e]
+#M=2 vol78 leg180 16 <Ab c> e <Ab c> e <Ab c> e <Ab c> e-* <Ab c> e <Ab c> e <Ab c> e <Ab c> e
+/
+6 bars | 44 | 8 8 8 9 8 7 | 44 | 48 | 44 | 8 8 8 9 8 7 |
+|
+=1, vol113 2. <eb(2 e~b(1-emph>
+i0.6 .02 rinforzando molto
+#P=2' 2.// [<En-P Ab> en]
+#M=2 vol85 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+| 1.0 1.07
+=1, vol116 4. <e)2 e~)1> 8 [<fb f~b> <gb g~b> <f f~>]
+#P=2' 2.// [<E Ab> e-,-*]
+#M=2 vol92 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e-* <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+| 2.0
+=1, vol119 2. <c c~-emph>
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol100 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+=2 1 blank 16 blank-,-*
+|
+=1, vol122 4. <B b> 4 <c c~> 8 <db d~b>
+#P=2' 2.// [<E Ab> e]
+#M=2 vol105 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, vol125 2. <eb(2 e~b(1-emph>
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol110 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+| 1.0 1.07
+=1, 4. <e)2 e~)1> 8 [<fb f~b> <gb g~b> <f f~>]
+#P=2' 2.// [<E Ab> e-,-*]
+#M=2 vol115 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e-* <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+/
+7 bars | 46 | 48 | 46 | 48 | 48 | 48 | 46 |
+| 2.0
+=1, vol120 2. <c c~-emph>
+i0.7 .10 dim   .    .    .
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol105 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+=2 1 blank 16 blank-,-*
+|
+=1, vol115 4. <B b> 4 <c c~> 8 <db d~b>
+#P=2' 2.// [<E Ab> e]
+#M=2 vol95 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, vol110 2. <eb e~b>
+i0.7 .06 diminuendo   .    .    .
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol85 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, vol105 4. <B b> 4 <c c~> 8 <db d~b>
+#P=2' 2.// [<E Ab> e]
+#M=2 vol75 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, vol100 2. <eb(2 e~b(1>
+i0.7 .06 .    .    .
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol65 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, vol95 4. <e)2 e~)1> <db d~b>
+#P=2' 2.// [<E-* Ab> e]
+#M=2 vol55 leg180 16 <E-* Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, vol90 2. <Bb(2 bb(1>
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol45 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+/
+7 bars | 48 | 46 | 46 | 48 | 48 | 46 | 48 ||
+|
+=1, vol85 4. <B)2 b)1> <Bn bn>
+#P=2' 2.// [<E-* Ab> e]
+#M=2 vol45 leg180 16 <E-* Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, vol80 2. <c c~>
+I0.5 .10 p
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol42 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+=2 1 blank 16 blank-,-,-*
+|
+=1, vol75 2. <db d~b>
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol39 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+=2 1 blank 16 blank-,-,-*
+|
+=1, vol70 2. <c(2 c~(1>
+I0.5 .10 pp
+#P=2' 2.// [<E-P Ab> e]
+#M=2 vol36 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+=2 1 blank 16 blank-,-,-*
+|
+=1, vol65 4. <c)2 c~)1> 4. rest
+#P=2' 2.// [<E Ab> e]
+#M=2 vol33 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, 2 blank 1 rest
+I0.4 .01 ppp
+#P=2' 2.// [<E Ab> e]
+#M=2 vol31 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+|
+=1, 2 blank 1 rest-fermata
+=2, 2 blank 1 blank---fermata
+#P=2' 2.// [<E Ab> e]
+#M=2 vol28 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e vol25 <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+
+midi pause 2.0
+

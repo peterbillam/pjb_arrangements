@@ -82,8 +82,8 @@ il0.7 .03 10
 pagenum
 innerhead Prelude VI in d minor, Book 1, Well-Tempered Clavier, J. S. Bach
 /
-2 bars | 1b 4 4 4 4 4 4 4 6 4 4 6 4 4 4 4 4 4 4 4 6 4 6 4 3 \
- | 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 3 |
+2 bars | 1b 4 4 4 4 4 4 4 7 4 4 7 4 4 4 4 4 4 4 4 6.5 4 6 4 3 \
+ | 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 7 3 |
 | 3.6
 =1 163 [f-s4 d-s2  A,-s1] [F-s2 D leg100 A] leg85 \
  [F D leg100 Bn'] leg85 [F D  leg100 c#'] leg85  \
@@ -96,8 +96,8 @@ innerhead Prelude VI in d minor, Book 1, Well-Tempered Clavier, J. S. Bach
  leg100 [b-s3 leg85 f d~] leg100 [g-s2 leg85 e c~#] 
 =2 8 leg65 [b leg100 F,] [G A] leg65 [B, leg80 F,] leg65 [G, A,]
 /
-2 bars | 1b 6 4 6 4 4 4 4 4 6 6 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
- | 4 5 4  4 4 4  4 4 4  4 6 4  4 4 4 4 4 4 4 4 4 4 4 3 |
+2 bars | 1b 6 4 7 4 4 4 4 4 7 6 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 5 4  4 4 4  4 4 4  4 6 4  4 4 4 4 4 4 4 4 4 4 5 3 |
 |
 il0.3 .03 15
 =1 4 blank 163 leg85 [Eb C E] 8 F#-emph 163 [B_ G_ B_] \
@@ -111,7 +111,7 @@ il0.3 .03 15
  [B G, leg65 e] leg85 [B G, leg65 c#] leg85 
 =2, 8 leg65 [c~# d c~ d] leg55 [c~ d c~ d]
 /
-2 bars | 6 4 4 4 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+2 bars | 6 4 4 4 7 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
  | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 4 6 4 4 4 4 4 3 |
 |
 =1' 163 [A F# leg100 d] leg85 [A F leg100 eb] leg85 \
@@ -124,8 +124,8 @@ il0.3 .03 15
  leg100 [b-s4 a g] [fn en-s4 d] leg80 [c# A, c] [e c e]
 =2, 8 leg65 [b d b d] leg75 [g d g leg95 d]
 /
-2 bars | 1b 4 4 6 7 4 4 4 4 7 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
- | 4 4 4 4 5 4 6 4 4 4 4 4 4 4 4 7 4 4 7 4 4 4 4 3 |
+2 bars | 1b 4 4 7 7 4 4 4 4 7.5 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+ | 4 4 4 4 4 4 6.5 4 4 4 4 4 4 4 4 6.5 4 4 6.5 4 4 4 4 3 |
 |
 =1 163 [g-s5 leg100 e-s3 d-s1] [c#-s3 Bn A,] leg80 [G-s2 E G] [Bb' G-s1 B'-s2] \
  [c G, e] [c leg100 B leg85 e] [c leg100 A, leg85 e] [c leg100 G, leg85 e]
@@ -155,7 +155,7 @@ il0.4 .03 20
 =2' 8 leg65 [e leg95 g f e] [f e f(1] 163 [f)1 e d]
 =2, 2 leg80 Bb 4. leg100 Bn  8 Bb
 /
-2 bars | 4 4 7 4 4 4  4 4 5 7 4 4  4 4 4 4 4 4  4 4 5 4 4 3 \
+2 bars | 4 4 7.5 4 4 4  4 4 5 7 4 4  4 4 4 4 4 4  4 4 5 4 4 3 \
        | 6 4 4 4 4 7  4 4 7 4 4 5  7 4 4 7 7 6  7 7 6 4 7 3 |
 |
 =1 163 leg85 [G_)2 E_ G_] [C# G_ C] [E C E] 8 G \
@@ -169,7 +169,7 @@ il0.4 .03 20
 =2 8 leg100 vol+6 g~# vol-6 rest 4 rest 2 rest
 /
 2 bars | 6 6 6 4 6 6 6 6 6 6 4 4 3 3 3 3 3 3 3 3 3 3 3 3 3 \
- | 40 30 ||
+ | 35 27 ||
 | 1.9 2.1
 il0.5 .12 25
 =1 163 leg100 [f# leg85 eb cn] leg100 [fn leg85 d Bn]  \

@@ -1,0 +1,40 @@
+.\" header = mushead
+.AM
+.nr PS 12
+.nr VS 15
+.pl 11.7i
+.LP
+\&
+.sp 5.0c
+.ce 100
+\f3\s+9\s+9Die verspätete Zukunftsmusik\s-9\s-9\fP
+.sp 1.5c
+\f4\s+6\s+9The Music of the Future\s-9\s-6\fP
+.sp 2.0c
+\f4\s+4\s+9by Franz Liszt\s-4\s-9\fP
+.sp 2.0c
+\f3\s+2La \ Lugubre \ Gondola \ I
+.br
+.sp 0.2c
+La Lugubre Gondola II
+.br
+.sp 0.2c
+Fugue on BACH
+.br
+.sp 0.2c
+Nuages Gris
+.br
+.sp 0.2c
+Unstern\s0\fP
+.sp 2.0c
+\f2\s+3Typeset by Peter Billam\s0\fP
+.sp 0.6c
+\(co Peter J Billam, 2014
+.sp 0.6c
+\s-1This score is offered under the
+\f2Creative Commons Attribution 4.0 International\fP
+licence; see \f2creativecommons.org\fP\s0
+.sp 0.5c
+\f2\s-2This printing \*(DY.\s0\fP
+.sp 0.5c
+\f2www.pjb.com.au\fP

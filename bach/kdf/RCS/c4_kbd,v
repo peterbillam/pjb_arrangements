@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	pjb:1.10; strict;
+	pjb:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2014.09.05.09.28.34;	author pjb;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2009.09.21.11.23.41;	author pjb;	state Exp;
@@ -62,12 +67,12 @@ desc
 @
 
 
-1.10
+1.11
 log
-@clarify fingering in 132
+@tiny fingering adjustments
 @
 text
-@5 systems 15 /20-35-20/20-45-20/20-50-20/20-45-20 10/20-40-20 15/
+@5 systems 18 /20-35-20/20-45-20 2/20-50-20 2/20-45-20 12/20-40-20 18/
 pagenum 2
 title Contrapunctus 4
 innerhead J. S. Bach
@@ -110,7 +115,7 @@ midi off
 5 bars | 1b 5 5 5 5 6 8 6 5 | 5 5 5 5 8 6 6 5 | 5 5 5 5 6 6 6 5 | 5 5 5 5 8 6 6 5 | 5 5 6 6 6 6 8 5 |
 |
 =1' cro B)1 E A-s3 G(1
-=1, min C#(2 qua [C)2 A_-s4, B_n C]
+=1, min C#(2 qua [C)2 A_-s5, B_n C]
 =2  smb rest
 |
 =1' cro G)1 F min B(1-s3
@@ -122,12 +127,12 @@ il0.8 .15 10
 =1, min F(2 qua [F)2 E-s3, F-s2, G-s1,]
 =2  smb rest
 |
-=1' cro d)1-s1 c-s5 min B(1-s4
+=1' cro d)1-s1-s(4) c-s5 min B(1-s4
 =1, min A(2 qua [Ar)2 G-s2 F-s1 E-s2]
 =2' min a-s3, d
 =2, smb rest,
 |
-=1' cro B)1-s1 qua [A-s3 G] min F(1
+=1' cro B)1-s1-s(4) qua [A-s3 G] min F(1
 =1, min D(2 qua [D)2 E-s1, D-s2, C#-s3,]
 =2' min f-s4, a-s5,
 =2, smb rest,
@@ -152,7 +157,7 @@ il0.8 .15 10
 =1' cro Enrl e-s3-s5 min c(1-s1-s5
 =1, cro d)2 qua [c Bn] [A G F E]
 =2' min a(1 qua [a)1 bb-s2, a-s1, g#-s2,]
-=2, min c-s1,-s"  5-4", e-s4,
+=2, min c-s1,-s"    4-5", e-s4,
 /
 5 bars | 1b 6 9 6 6 9 6 6 5 | 6 6 6 6 9 9 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 8 6 6 6 6 6 6 5 |
 |
@@ -860,17 +865,17 @@ il0.8 .22 130
 5 bars | 1b 8 8 6 8 6 8 6 6 | 6 6 6 6.5 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 8 6 7 8 6 6 6 | 24 ||
 midi on
 |
-=1' 8 [d)1-s1 f-s5 e-s4 d-s5] [c#-s2-s4 d Bn c]
+=1' 8 [d)1-s1 f-s5 e-s4 d-s3] [c#-s1-s2 d--s4 Bn-s2 c]
 =1, 2 F A
 =2' 8 [a Bn c# d] [e-s1, f-s2, g e-s3,]
 =2, 1 A-s1,-s5,
 |
-=1' 4. d 8 c# 4. d-s1-s5 8 c
-=1, 2 Bb 4 A G
+=1' 4. d-s2-s4 8 c# 4. d-s"    1-2"-s4 8 c
+=1, 2 Bb 4 A G--s1
 =2' 8 [f# a] 4 g(1 8 [g)1 f] 4 b(1
 =2, 1 d(2-s2,-s"  4-5",
 | 1.1 1.2
-=1' 4. d-s1-s"   5-4" 8 eb-s5 4 A--s3 rest'
+=1' 4. d-s1-s4 8 eb-s5 4 A--s3 rest'
 =1, 2 F#(2 8 [F)2 D--s1 E--s2 F--s3]
 =2' 8 [b)1 a] 2 c~ 8 [bn a]
 =2, 1 d)2(2
@@ -884,6 +889,39 @@ midi on
 =1, 1 F#-fermata,
 =2' 1 a-fermata
 =2, 1 d)2-fermata,
+@
+
+
+1.10
+log
+@clarify fingering in 132
+@
+text
+@d1 1
+a1 1
+5 systems 15 /20-35-20/20-45-20/20-50-20/20-45-20 10/20-40-20 15/
+d44 1
+a44 1
+=1, min C#(2 qua [C)2 A_-s4, B_n C]
+d56 1
+a56 1
+=1' cro d)1-s1 c-s5 min B(1-s4
+d61 1
+a61 1
+=1' cro B)1-s1 qua [A-s3 G] min F(1
+d86 1
+a86 1
+=2, min c-s1,-s"  5-4", e-s4,
+d794 1
+a794 1
+=1' 8 [d)1-s1 f-s5 e-s4 d-s5] [c#-s2-s4 d Bn c]
+d799 2
+a800 2
+=1' 4. d 8 c# 4. d-s1-s5 8 c
+=1, 2 Bb 4 A G
+d804 1
+a804 1
+=1' 4. d-s1-s"   5-4" 8 eb-s5 4 A--s3 rest'
 @
 
 
