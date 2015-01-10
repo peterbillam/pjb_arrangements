@@ -1,0 +1,693 @@
+head	1.9;
+access;
+symbols;
+locks
+	pjb:1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2015.01.05.10.10.09;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2015.01.04.23.53.52;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2015.01.04.10.41.26;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2015.01.04.06.01.30;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2015.01.03.10.44.51;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2015.01.03.05.47.31;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2015.01.02.23.56.57;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2015.01.02.07.55.52;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.01.02.00.17.57;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Faure's Nocturne no.9 op.97
+@
+
+
+1.9
+log
+@typed in up to end; needs spacing
+@
+text
+@6 systems 10 /19-25-19/19-30-19/19-30-19 \
+ /19-35-19/19-35-19/19-35-19/
+pagenum 1
+title Neuvième Nocturne
+innerhead Gabriel Fauré   Op.97   1908
+midi channel 0 patch 0
+/
+3 bars | 2# 3/2 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 6 6 6 5 |
+| 4.2
+I1.0 .01 Quasi adagio
+i0.5 .06 sostenuto
+=1' treble 2# 3/2 cha0 leg110 vol90 4 B c 4. d 8 B 2 c
+=1, 2# 3/2 leg95  vol60 8 rest, 4 D E F G F(2 8 F)2
+I0.5 .03 p
+=2, bass   2# 3/2 cha0 leg99 vol60 \
+ 8 rest b rest g rest <f a> rest <e b> rest <f a#> 4 rest
+|
+=1' leg110 vol90 4 B c 4. d 8 f 2 leg99 e
+=1, leg95 vol60 8 rest, 4 D E F G# A(2 8 A)2
+=2, leg99 vol60  8 rest g rest <e g> rest <d an> rest <e d~> rest <a c~> 4 rest
+|
+=1' leg110 vol90 4 e f 4. d 8 B 2 leg99 c
+=1, leg95 vol60 8 rest, 4 A# An G# F E#(2 8 E)2
+=2, leg99 vol60 8 rest <g c~> rest <d c~n> \
+ rest <f b> rest <g# d~> rest <c g> 4 rest
+/
+3 bars | 2# 6 6 6 6 6 6 6 7 6 6 6 5 \
+ | 6 6 6 6 6 8 6 9 7 6 6 5 | 6 6 6 6 7 6 6 9 6 6 6 11 |
+|
+=1' leg110 vol90 4 c d 4. B 8 A# 2 B
+=1, leg95 vol60 8 rest, 4 F En D C B_(2 8 B_)2
+=2  leg99 vol60 8 rest <d a> rest <A, gn> \
+ rest <G f'> rest <F e'> rest <B_ d'> 4 rest
+|
+Il0.7 .02 5
+=1' leg99 vol115 8 rest f#(1 4 f)1 8 rest A_#(2 \
+ 4 <A_)2 F A#> 8 rest [<D An> F_ <D_ F_>]
+=1, 8 blank d(2 [d)2 F#] 2 blank blank
+I0.5 .02 f
+=2  leg110 vol115 4 B_b Cn 4. D 8 E 4 F# 8 [G A]
+|
+=1' 8 rest f~#(1 4 f~)1 2 blank 8 rest [<d{2 an> F}2 <D F>]
+=1, 8 blank d~(2 [d~)2 f#] 8 rest A#(2 4 <A)2 f a#> 2 blank
+=2' 4 <B_b Bb> <Cn cn> 4. <D d> 8 <E e> 4 <F# f#> 8 [<G g> <A a>] treble
+/
+3 bars | 2# 6 6 7 6 6 6 7 9 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1' 8 rest f~n(1 4 f~)1 8 rest bb(1 4 b)1 8 rest d(1 4 d)1
+=1, 8 blank d~(2 [d~)2 fn] blank f(2 [f)2 Bb] blank B(2 [B)2 vol80 D]
+=2  treble 2# 4 B_b Cn 4. D 8 E 4 F# 8 [G A]
+|
+=1' vol115 8 rest d(1 4 d)1 8 rest d(1 4 d)1 8 rest d(1 4 d)1
+=1, vol90 8 blank G(2 [G)2 E] blank G(2 [G)2 E] blank G(2 [G)2 E]
+=2  2 leg99 Bb B B
+|
+=1' 8 rest vol103 d(1 4 d)1 8 rest vol91 d(1 4 d)1 8 rest vol79 d(1 4 d)1
+=1, 8 blank vol103 F(2 [F)2 E] blank vol91 F(2 [F)2 E] blank vol79 F(2 [F)2 E]
+i0.2 .03 dimin .  .  .
+=2  2 vol103 A# vol91 A vol79 A bass
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 7 6 5 4 \
+ | 6 6 6 6 6 6 6 7 6 6 5 4 | 6 6 6 6 6 6 6 6 7 6 5 4 |
+|
+Il0.7 .02 10
+=1' leg95 vol60 8 rest <D B> rest <E c> rest <F d> rest <G B> rest <F c> 4 rest
+=1, leg110 vol90 4 B_ C 4. D 8 B_ 2 C
+I0.5 .01 p
+=2, leg99 vol60 4 rest 8 rest g rest <f a> rest e rest <f a#> 4 rest
+|
+=1' leg95 vol60 8 rest <D B> rest <E c> rest <F d> rest <G# f> rest <A e> 4 rest
+=1, leg110 vol90 4 B_ C 4. D 8 Fr 2 E(2
+=2, 8 rest g rest <e g> rest <d a> rest <e d~> rest <a c~> 4 rest
+|
+=1' leg95 vol60 8 rest <A# e> rest <An f> rest <G# d> \
+ rest <F B> rest <E# c> 4 rest
+=1, leg110 vol90 4 E)2 F 4. D 8 B_ 2 C(2
+=2, 8 rest <gn c~> rest <d c~> rest <f b> rest <g# d~> rest <c g> 4 rest
+/
+3 bars | 2# 6 6 7 6 6 6 6 6 7 6 5 4 \
+ | 7 7 5 6 6 7 5 6 7 7 5 4 \
+ | 6 7 6 6 7 6 6 8 7 7 6 5 |
+|
+=1' leg95 vol60 8 rest <F c> rest <En d> rest <D B> \
+ rest <D G> rest <Cn A> 4 rest
+=1, leg110 vol90 4 C)2 D 4. B_ 8 G_ 2 A_(2
+=2, 8 rest <d a> rest <A g> rest <G f> rest <B e> rest <F e> 4 rest
+|
+=1' leg95 vol60 8 rest <F A> rest <G B> rest <E G> \
+ rest <D Ex> rest <C# F> 4 rest
+=1, leg110 vol90 4 A_)2 B_ 4. G_ 8 E_ 2 F_
+=2 8 rest <E cn> rest <D# B> rest <Dn B> rest <B, g> rest <A# e'> 4 rest
+|
+Il0.6 .02 15
+=1' leg110 vol90 4 F G 4. E 8 D 4. E 8 F
+=1, leg95 vol60 8 rest,, <C E> rest,, <C E> \
+ rest,, <G_ Cn> rest,, <G_r C> rest,, <G_ B_b> rest,, <F_ B_>
+=2' 8 rest [A_#{2 G_## A_}2] rest [Bb{2 A B}2] rest [Cn{2 B_n C}2]
+/
+2 bars | 2# 7 6 6 6 7 7 6 6 6 7 6 5 \
+ | 7 6 7 6 7 7 7 7 7 7 6 5 |
+|
+=1' leg110 vol90 2 G F(1 4. F)1 8 rest'
+=1, leg95 vol60 8 rest,, Cn rest,, C \
+ rest,, <E_ C#> rest,, <E_ C> rest,, <B_ E> rest,, <B_ E>
+=2' 8 rest' e rest' e 2 blank blank
+=2  8 rest [Bb,{,2 A, B,},2] rest [A_#{2 G_## A_}2] rest [D{2 C# D}2]
+|
+=1' leg110 vol90 4 G Ab 4. E 8 E# 2 F
+=1, leg95 vol60 8 rest,, <B_b E> rest,, <A_b E> rest,, G_ \
+ rest,, B_nl rest,, A_# rest,, A_
+=2' 2 blank 8 rest' cnl rest' d rest' e rest' e
+=2  8 rest, [Cn{2 B_ C}2] rest, [Bbrl,{,2 A, G#,},2] rest [c#,{,2 B#, c,},2]
+
+6 systems 10 /19-35-19/19-30-19/19-30-19 \
+ /19-40-19/19-45-19/19-50-19/
+pagenum
+innerhead Neuvième Nocturne,  Gabriel Fauré,  Op.97  1908
+
+/
+2 bars | 2# 7 6 6 6 7 9 6 7 6 7 6 5 | 7 6 6 6 7 7 6 6 6 7 6 5 |
+|
+=1' leg110 vol90 4 B cn 4. A 8 G 4. A 8 B
+=1, leg95 vol60 8 rest,, <A_n F> rest,, <A_ F> rest,, Cn \
+ rest,, C rest,, C rest,, B_
+=2' 2 blank 8 rest' fnl rest' f rest' e rest' e
+=2  8 rest [D#{2 C## D}2] rest, [ebrl{,2 dn er},2] rest, [Fn,{,2 En, F,},2]
+|
+=1' leg110 vol90 2 cn B(1 4. B)1 8 rest'
+=1, leg95 vol60 8 rest,, Fn rest,, F \
+ rest,, <A_ F#> rest,, <A_ F> rest,, <A_ E> rest,, <A_ E>
+=2' 8 rest' a rest' a 2 blank blank
+=2  8 rest [eb{,2 d e},2] rest [D#{2 C## D}2] rest [G{2 F# G}2]
+/
+2 bars 7 6 7 6 7 7 7 7 7 7 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+Il0.7 .09 20
+=1' leg110 vol90 4 cn db 4. A 8 A# 4. B 8 rest'
+=1, leg95 vol60 8 rest,, <A_ Eb> rest,, <A_ Db> rest,, Cn rest,, Enl rest,, D# rest,, D#
+=2' 2 blank 8 rest' fnl rest' g rest' a rest' a
+=2 8 rest, [Fn{2 E F}2] rest, [eblr{,2 d c#,},2] rest [f#{,2 e# f},2]
+|
+=1' leg110 vol90 4 d eb 4. B 8 B# 4. c# 8 rest'
+=1, leg95 vol60 8 rest,, <B_ Fn> rest,, <B_ Eb> rest,, D rest,, F#l rest,, E# rest,, E
+=2' 2 blank 8 rest' g rest' a rest' b rest'' b
+=2 8 rest [G{2 F# G}2] rest, [frl{,2 e d#},2] rest, [g#{,2 f## g},2]
+/
+2 bars | 2# 7 6 6 6 7 7 6 6 6 7 7 7 \
+ | 6 6 6 6  6 6 6 7  6 6 6 7 |
+|
+=1' leg99 vol125 4 <E# e#> <F f> <F f> <G g> 4. <B_n Bn> 8 <A_r A>
+=1, vol100 8 rest,, Gn rest,, G rest,, eb rest,, e rest,,, Dn rest,, D
+I0.5 .02 f
+=2' leg110 vol115 8 rest' b rest' b rest' bb rest' b rest' f# rest' f
+=2,  8 rest, [d{,2 c d},2]  rest, [db{,2 cn d},2]  rest, [c{,2 Bn c},2] 
+|
+=1' leg99 vol125 4. <B_ B> 8 <A_r A> 4. <B_ B> 8 <A_r A> 4. <B_ B> 8 <A_r A>
+=1, vol100 8 rest,,, Fn rest,, F rest,,, [E C# D] rest,,, G rest,, G
+=2' leg110 vol115 8 rest d rest d rest G rest G rest cn rest c
+=2,  8 rest, [G{,2 F# G},2]  rest, [Fnrl{,2 E Fr},2]  rest, [E{,2 D# E},2] 
+/
+2 bars | 2# 7 6 6 6 7 6 6 6 6 6 6 7 \
+ | 6 6 6 7  6 7 6 7  6 6 6 7 |
+|
+=1' leg99 vol125 4 B B# B c 4. Fn 8 Eb
+=1, vol100 8 rest,, C# rest,, C rest, A rest, A rest,, A_b rest,, A_
+I0.5  f
+i0.5     sempre
+=2' leg110 vol115 8 rest'' e~# rest'' e~ \
+ rest'' e~n rest'' e~ rest'' c~n rest'' c~
+=2,  8 rest [g#{,2 f## g},2]  rest [gn{,2 f# g},2]  rest [gb{,2 fn g},2]
+|
+Il0.5 .04 25
+=1' leg99 vol125 4. Fn 8 Eb 4. F 8 E 4. F 8 E
+=1, vol100 8 rest,, Cb rest,, C rest,, [B_b G_ A_b] rest,, Db rest,, Dbrl
+=2' leg110 vol115 8 rest' ab rest' a rest' d rest' d rest' gb rest' g
+=2,  8 rest, [db{,2 cn d},2]  rest, [cbrl{,2 Bb cr},2]  rest, [B{,2 An B},2]
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+i0.5 .03 meno .24 espressivo
+I0.5 .18 f
+=1' leg110 vol90 4 En Fn(1 4. F)1 8 E 4. F 8 E
+=1, vol70 8 rest,, B_ rest,, Cn rest,, B_ rest,, C rest,, B_b rest,, A_
+=2' leg110 vol95 2 rest' 4 dn{'1 eb vol+10 d~b vol-10 c~n}'1
+=2, vol100 1 An 2 vol80 eb
+|
+=1' leg110 vol90 4 E# F#(1 4. F)1 8 E 4. F 8 E
+=1, vol70 8 rest,, B_# rest,, C# rest,, B_ rest,, C rest,, B_n rest,, A_#
+=2' leg110 vol95 2 rest' 4 d#{'1 en vol+10 d~n vol-10 c~}'1
+=2, vol100 1 A# 2 vol80 e
+|
+=1' leg110 vol90 4 F G 4. E 8 E# 2 F
+=1, vol70 8 rest,, C rest,, D rest,, B_ rest,, E_# rest,, D rest,, C#
+=2' leg110 vol95 4 rest' 4 fn g a 2 a#
+=2, vol80 2 B cn e
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+i0.5 .03 cresc  .   .   .
+=1' leg110 vol90 4 G Ab vol+10 4. Fn 8 F# vol+10 2 G
+=1, vol70 8 rest,, D rest,, vol+10 Eb rest,, Cn rest,, F_# rest,, vol+10 Eb rest,, D
+=2' leg110 vol95 4 rest' 4 gb vol+10 ab bb 2 vol+10 bn
+=2, vol80 2 cn vol+10 dbl vol+10 fnl
+|
+Il0.7 .10 30
+=1' leg110 vol85 4 G# A(1 4. A)1 8 G 4. A 8 G
+=1, vol65 8 rest,, D# rest,, En rest,, D rest,, E rest,, Dn rest,, C#
+I0.4 .03 p
+=2' leg110 vol95 2 rest' 4 f#{'1 g vol+10 f~n vol-10 e~}'1
+=2, vol90 1 c# 2 vol80 g
+|
+=1' vol85 4 A Bb(1 4. B)1 8 A 4. B 8 A
+=1, vol65 8 rest,, E rest,, Fn rest,, E rest,, F rest,, Eb rest,, D
+=2' leg110 vol95 2 rest' 4 g{'1 ab 2 blank
+=2, vol90 1 d treble 2 blank
+=2' 1 blank 4 Gb Fn}'1
+=2, 1 blank 2 A_b bass
+
+6 systems 5 /19-45-19/19-30-19/19-30-19 \
+ /19-40-19/19-45-19/19-50-19/
+pagenum
+innerhead Neuvième Nocturne,  Gabriel Fauré,  Op.97  1908
+
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 9 |
+|
+=1' leg110 vol85 4 Bb cb 4. Ab 8 An 2 B
+=1, vol65 8 rest,, Fn rest,, Gb rest,, Eb rest,, A_n rest,, G rest,, F
+=2' vol95 4 rest'' bbb c~b d~b 2 d~n
+=2, vol80 2 eb fb abl
+|
+i0.5 .03 cresc  .   .   .
+=1' leg110 vol85 4 Bn cn 4. A 8 A# 2 B
+=1, vol65 8 rest,, F# rest,, G rest,, E rest,, A_# rest,, G rest,, F
+=2' vol95 4 rest'' bb c~n d~n 2 d~#
+=2, vol80 2 en fnl a
+|
+=1' vol70 8 rest <D B> rest <E c> rest <F d> rest <F B> rest <E# c> rest <A c>
+=1, vol90 4 B_ C 4. D 8 B_ 2 C
+I0.4 .06 mp
+=2' vol65 4 rest'' 8 rest'' b rest'' a rest'' d~ 2 rest''
+=2, vol90 2 g 4 f g# 4. a 8 f treble
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+Il0.7 .10 35
+=1' vol75 8 rest <F B> rest <A c> rest <B d> rest <A f> rest' <G# e> rest' <c e>
+=1, vol95 4 B_ C 4. D 8 F 2 E(2
+=2' vol70 8 rest D rest E rest F rest D 4. rest 8 G#
+=2, vol95 2 G_(2 4 G_)2 B_ 4. C 8 A_
+|
+=1' vol80 8 rest' <B e> rest' <d f> rest' <e gn> rest' <d b> rest' <c# a> rest' <f a>
+=1, vol100 4 E)2 F 4. Gn 8 B 2 A(2
+=2' vol75 8 rest Gn rest A rest B rest G 4. rest' 8 c#
+=2, vol100 2 Cn(2 4 C)2 E 4. F 8 D
+|
+=1' vol85 8 rest' <e a> rest' <g b> rest' <a c~n> rest'' <g e~> rest'' <fn d~> rest'' <b d~>
+=1, vol105 4 A)2 B 4. cn 8 e leg99 4. d leg110 8 d
+i0.6 .10 poco .40 a .70 poco
+=2' vol80 8 rest' cn rest' d rest' e rest' c 4. rest' 8 fn
+=2, vol105 2 Fn(2 4 F)2 A 4. B 8 G
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 6 6 6 6 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 9 |
+|
+=1' vol85 8 rest'' <g e~b> rest'' vol+4 <c~n e~> rest'' vol+4 <g# e~n> \
+  rest'' vol+4 <c~# e~> rest'' vol+4 <a f~n> rest'' vol+4 <d~ f~>
+=1, vol105 leg99 4. eb 8 e vol+7 4. en 8 e 4. vol+7 fn 8 f
+i0.6 .01 cresc  .   .   .
+=2' vol80 4. rest'' 8 g 4. rest'' vol+8 8 g# 4. rest'' vol+8 8 a
+=2, vol105 4 cn Ab vol+6 c# An vol+6 d Bb bass
+|
+=1' 8 rest f~#(1 4 f~)1 2 blank 8 rest [<d{2 an> F}2 <D F>]
+=1, 8 blank d~(2 [d~)2 f#] 8 rest A#(2 4 <A)2 f a#> 2 blank
+I0.5 .02 f
+=2  leg110 vol115 4 B_b Cn 4. D 8 E 4 F# 8 [G A]
+|
+Il0.7 .02 40
+=1' leg99 vol115 8 rest f#(1 4 f)1 8 rest A_#(2 \
+ 4 <A_)2 F A#> 8 rest [<D An> F_ <D F>]
+=1, 8 blank d(2 [d)2 F#] 2 blank blank
+=2' 4 <B_b Bb> <Cn cn> 4. <D d> 8 <E e> 4 <F# f#> 8 [<G g> <A a>] treble
+/
+3 bars | 2# 6 6 7 6 6 6 7 9 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1' 8 rest f~n(1 4 f~)1 8 rest bb(1 4 b)1 8 rest d(1 4 d)1
+=1, 8 blank d~(2 [d~)2 fn] blank f(2 [f)2 Bb] blank B(2 [B)2 vol80 D]
+i0.5 .01 sempre
+I0.5 .20 f
+=2  treble 2# 4 B_b Cn 4. D 8 E 4 F# 8 [G A]
+|
+=1' vol115 8 rest d(1 4 d)1 8 rest d(1 4 d)1 8 rest d(1 4 d)1
+=1, vol90 8 blank G(2 [G)2 E] blank G(2 [G)2 E] blank G(2 [G)2 E]
+=2' 2 leg99 Bb B B bass
+|
+=1' vol65 leg110 8 rest'' 4 <f#l bb{1> 8 Bb}1 \
+ rest'' 4 <f b{1> 8 B}1 rest'' 4 <f b{1> leg99 8 B}1
+=1, vol100 1 d(2-emph, 2  d),2
+I0.5 .01 p
+=2' vol75 leg99 2 bb bb bb
+=2, leg110 8 rest [f# d] rest rest [f# d] rest rest [f# d] rest treble
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 6 6 6 6 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+=1' vol115 8 rest d(1 4 d)1 8 rest d(1 4 d)1 8 rest d(1 4 d)1
+=1, vol90 8 blank G(2 [G)2 E] blank G(2 [G)2 E] blank G(2 [G)2 E]
+I0.5 .03 mf
+=2' 2 leg99 Bb B B bass
+|
+Il0.9 .02 45
+=1' vol65 leg110 8 rest'' 4 <g a#xl{1> 8 A#}1 \
+ rest'' 4 <g ax{1> 8 A}1 rest'' 4 <g ax{1> leg99 8 A}1
+=1, vol100 1 d(2-emph, 2 d),2
+I0.5 .01 p
+=2' vol75 leg99 2 a# a a
+=2, leg110 8 rest, [e F] rest, rest, [e F] rest, rest, [e F] rest, treble
+|
+=1' 8 rest vol103 d(1 4 d)1 8 rest vol91 d(1 4 d)1 8 rest vol79 d(1 4 d)1
+=1, 8 blank vol103 F(2 [F)2 E] blank vol91 F(2 [F)2 E] blank vol79 F(2 [F)2 E]
+=2  2 leg99 vol103 A# vol91 A vol79 A bass
+/
+3 bars | 2# 6 6 6 6 6 6 6 6 6 6 6 6 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 ||
+|
+=1' vol65 leg110 8 rest'' e#(1 [e)1 E#] rest'' e(1 [e)1 E] rest'' e(1 [e)1 E]
+=1, 8 blank dr(2 4 dr)2 8 blank dr(2 4 dr)2 8 blank dr(2 4 dr)2
+=1, vol100 1 B,(2-emph, 2 B),2
+rs0.5 .01 really ?  e# f# and g ?  why ?
+=2' vol75 leg99 2 gn g g
+=2, leg110 8 rest, [d F] rest, rest, [d F] rest, rest, [d F] rest, treble
+|
+=1' 8 rest vol79 B(1 4 B)1 8 rest vol91 B(1 4 B)1 8 rest vol103 B(1 4 B)1
+=1, 8 blank vol79 G(2 [G)2 E] blank vol91 G(2 [G)2 E] blank vol103 G(2 [G)2 E]
+i0.5 .01 poco .40 a .75 poco
+=2  2 leg79 vol103 c vol91 c vol103 c bass
+|
+=1' vol105 leg110 8 rest'' b(1 [b)1 B] \
+ rest'' vol+10 b(1 [b)1 B] rest'' vol+10 b(1 [b)1 B]
+=1, vol105 8 blank e#(2 4 e)2 vol+10 8 blank e(2 4 e)2 vol+10 8 blank e(2 4 e)2
+=1, vol120 1 d(,2 2 d),2
+i0.6 .10 cresc  .   .    .
+=2' vol105 leg99 2 e~# vol+10 e~ vol+10 e~
+=2, vol95 leg110 8 rest [g# c] rest \
+ vol+10 rest [g c] rest vol+10 rest [g c] rest
+
+6 systems 5 /19-40-19/19-40-19/19-40-19 \
+ /19-40-19/19-40-19/19-40-19/
+pagenum
+innerhead Neuvième Nocturne,  Gabriel Fauré,  Op.97  1908
+
+/
+3 bars | 5# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+il0.5 .08 50
+=1' treble 5# leg99 vol125 1 d 4 leg110 d B
+=1, 5# leg110 vol100 8 rest, <D A> rest, <D A> \
+ rest, <D A> rest, <D A> rest, leg99 <D B> rest, leg110 <B_ D>
+I0.5 .02 f
+=2' bass   5# leg110 vol100 8 rest' [<d f> a d] \
+ rest' [<d f> a <d f>] rest' [<d f> leg99 b leg110 <d f>]
+=2,        5# leg110 vol110 2 F G An
+|
+=1' leg110 vol125 2 f d 4 f d
+=1, leg110 vol100 8 rest, <F A> rest, <F A> \
+ rest, leg99 <D F> rest, leg110 <D F> rest, <F A> rest, <D F>
+=2' leg110 vol100 8 rest' [<f a> c~## <f a>] \
+ rest' [<f a> leg90 d~ leg110 <f a>] rest' [<f a> leg90 d~ leg110 <f a>]
+=2, leg110 vol115 2 A# B B#
+|
+=1' leg110 vol125 2 a f 4 a f
+=1, leg110 vol100 8 rest, <A f> rest, leg90 <A f> \
+ rest, leg110 <F A> rest, <F A> rest, leg90 <A f> rest, leg110 <F d>
+=2' leg110 vol100 8 rest' [<f a> e~ <f a>] \
+ rest' [<f a> c~## <f a>] rest' [<f a> d~ <f a>]
+=2, leg110 vol120 2 c c## d
+/
+2 bars | 5# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+=1' leg110 vol125 2 c~ 2. b 4 gn
+=1, leg110 vol100 8 rest <c f a> rest leg99 <c f a> rest \
+ leg110 <B d g> rest <B d g> rest, leg99 <B dnl gn> rest, leg110 <Gn B d>
+=2' leg110 vol100 8 rest'' [<a c~> f~ <a c~>] rest'' \
+ [<b d~> g~ <b d~>] rest'' [<b d~> leg99 g~n leg110 <b d~>]
+=2, leg110 vol125 2 e fn(2 f)2
+|
+=1' leg110 vol125 2 an fn 4 gn e
+=1, leg110 vol100 8 rest, <Anx B fn> rest, leg99 <A Bx f> rest, leg90 \
+ <Fn B> rest, leg110 <F B> rest, leg90 <Gn B e> rest, leg110 <E G B>
+=2' leg110 vol100 8 rest'' [<gn b> f~n <g b>] \
+ rest'' [<g b> leg99 f~ leg110 <g b>] rest'' [<g b> leg90 e~ leg110 <g b>]
+=2, leg110 vol120 2 dn(2 d)2 cn
+/
+2 bars | 5# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+il0.5 .12 55
+=1' leg110 vol125 2 fn dn 4 e B
+=1, leg110 vol100 8 rest, <Fn Anl cn> rest, <F A c> \
+ rest, <Dn F c> rest, <D F c> rest, leg99 <E B> rest, leg110 <B_ E>
+I0.6 .02 f
+i0.6 .08 sempre
+=2' leg110 vol100 8 rest' [<fnl an> c~n <f a>] \
+ rest' [<f a> c~ <f a>] rest' [gn leg99 b leg110 g]
+=2, leg110 vol110 2 Gn(2 G)2 leg99 Fn
+|
+=1' leg110 vol125 2 cn 4 A c B Gn
+=1, leg110 vol100 8 rest, <Cnl E An> rest, leg99 <C E A> rest, <A_ C E> \
+ leg110 rest, <C E A> rest, leg99 <B_ Dnl Gn> rest,, leg110 <G_n B_ D>
+=2' leg110 vol100 8 rest' [e an e] \
+ rest' [e a e] rest' [dn leg99 gn leg110 d]
+=2, leg99 vol110 2 Fn(2 F)2 F
+/
+2 bars | 5# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+|
+=1' leg110 vol125 2 G# leg99 1 F
+=1, leg110 vol100 8 rest,, <G_# B_> rest,, <G_ B_> rest,, <F_# B_> \
+ rest,, <F_ B_> rest,, <B_ E> rest,, <B_ E>
+=2' leg110 vol100 8 rest' d# rest' d rest' d rest' d rest F rest F
+=2, leg99 vol110 1 F# 2 C#
+|
+=1' leg110 vol125 2. F 4 G 2 F(1
+=1, leg110 vol100 8 rest,, <B_ D> rest,, <B_ D> rest,, <B_ D> \
+ rest,, <B_ D> rest,, <F_ D> rest,, <F_ D>
+=2' leg110 vol100 8 rest F rest F rest F rest F rest A rest A
+=2, leg99 vol110 1 B_ 2 D
+/
+3 bars | 5# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 | 15 ||
+|
+=1' leg110 vol115 4 F)1 G 1 leg99 F(1
+=1, leg110 vol90 8 rest,, <Cn E> rest,, <C E> rest,, <A_ E> \
+ rest,, <A_ E> rest,, <F_ D#> rest,, <F_ D>
+=2' leg110 vol90 8 rest An rest A rest cn rest c rest A# rest A
+=2, leg99 vol100 1 Dn 2 D#
+|
+il0.5 .12 60
+=1' leg90 vol105 1 F)1 2 F(1
+=1, leg110 vol80 8 rest,, <B_ D> rest,, <B_ D> rest,, vol-5 <B_ D> \
+ rest,, <B_ D> rest,, vol-5 <B_ D> rest,, leg99 <B_ D>
+I0.4 .03 p
+=2' leg110 vol80 8 rest F rest vol-5 F rest F rest vol-5 F rest F rest leg99 F
+=2, leg99 vol90 1 B_ vol80 2 B_
+|
+=1 vol105 1. F)1
+=1 vol60 1. <B_ D>
+=2 vol60 1. <B_ F f>
+@
+
+
+1.8
+log
+@up to 55 bars
+@
+text
+@d395 1
+a395 2
+3 bars | 5# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6  6 6 6 6  6 6 6 5 \
+d406 2
+a407 2
+=1, leg110 vol100 8 rest, <Anx B fn> rest, leg99 <A Bx f> \
+ rest, leg110 leg90 <Fn B> rest, leg110 <F B> rest, leg90 <G B e> rest, leg110 <E G B>
+d411 3
+d423 44
+a466 1
+=2, leg110 vol110 2 Gn(2 G)2 Fn
+@
+
+
+1.7
+log
+@up to bar 49
+@
+text
+@d362 60
+@
+
+
+1.6
+log
+@up to 46 bars
+@
+text
+@d307 1
+a307 1
+=2  2 leg99 Bb B B bass
+d311 1
+a311 1
+=1, vol90 1 d(2-emph, 2  d),2
+d323 1
+a323 1
+=2  2 leg99 Bb B B bass
+d328 1
+a328 1
+=1, vol90 1 d(2-emph, 2 d),2
+d331 1
+a331 1
+=2, leg110 8 rest [e F] rest rest [e F] rest rest [e F] rest treble
+d335 26
+a360 1
+=2  2 vol103 A# vol91 A vol79 A bass
+@
+
+
+1.5
+log
+@up to 37 bars, 155 sec
+@
+text
+@d234 1
+a234 1
+ | 6 6 6 6  6 6 6 6  6 6 6 5 |
+d270 1
+d273 64
+@
+
+
+1.4
+log
+@up to bar 30, half-way
+@
+text
+@d189 1
+a189 1
+=2' leg110 vol80 2 rest' 4 dn{'1 eb vol+10 d~b vol-10 c~n}'1
+d194 1
+a194 1
+=2' leg110 vol80 2 rest' 4 d#{'1 en vol+10 d~n vol-10 c~}'1
+d199 1
+a199 1
+=2' leg110 vol80 4 rest' 4 fn g a 2 a#
+d209 1
+a209 1
+=2' leg110 vol80 4 rest' 4 gb vol+10 ab bb 2 vol+10 bn
+d216 1
+a216 1
+=2' leg110 vol75 2 rest' 4 f#{'1 g vol+10 f~n vol-10 e~}'1
+d218 12
+d231 41
+@
+
+
+1.3
+log
+@up to bar 25
+@
+text
+@d117 1
+a117 1
+ /19-40-19/19-35-19/19-35-19/
+d180 38
+@
+
+
+1.2
+log
+@up to 21 bars
+@
+text
+@d5 1
+a5 1
+innerhead Gabriel Fauré  Op.97
+d101 2
+a102 3
+3 bars | 2# 7 6 6 6 7 7 6 6 6 7 6 5 \
+ | 7 6 7 6 7 7 7 7 7 7 6 5 \
+ | 7 6 6 6 7 9 6 7 6 7 6 5 |
+d115 8
+a128 10
+
+6 systems 10 /19-35-19/19-30-19/19-30-19 \
+ /19-35-19/19-35-19/19-35-19/
+pagenum
+innerhead Neuvième Nocturne,  Gabriel Fauré,  Op.97
+
+/
+3 bars | 2# 7 6 6 6 7 7 6 6 6 7 6 5 \
+ | 7 6 7 6 7 7 7 7 7 7 6 5 \
+ | 6 7 6 6  7 8 7 9  7 7 6 5 |
+d135 3
+d147 1
+a147 1
+=2' 2 blank 8 rest' g rest' a rest' b rest' b
+d149 32
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 2
+a2 1
+6 systems 10 /19-25-19/19-30-19/19-30-19/19-25-19/19-25-19/19-25-19/
+d29 1
+a29 1
+ | 6 6 6 6 6 8 6 9 6 6 6 5 | 6 6 6 6 7 6 6 9 6 6 6 11 |
+d64 1
+a64 1
+ | 6 6 6 6 6 6 6 7 6 6 5 4 | 6 6 6 6 6 6 6 6 6 6 5 4 |
+d69 1
+a69 1
+I0.5 .02 p
+d73 1
+a73 1
+=1, leg110 vol90 4 B_ C 4. D 8 Fr 2 E
+d75 74
+@

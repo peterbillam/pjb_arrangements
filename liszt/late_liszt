@@ -1092,7 +1092,9 @@ i0.8 .10 sempre legato
 =1, 2. <An c)3 f)1 an> 4 <c c~>
 =2 8 [C-,-P c] [f c~ f~ c~ f c,-,-*]
 /
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+          | 6 6 6 6 6 6 6 5 | 6 6 6 7 6 6 6 5 \
+          | 6 6 8 6 6 6 6 5 |
 |
 #P=1 1 <d# f(3 b(1 d~#>
 #M=1 leg99 323 d# f(3 b(1 d~# 1 blank
@@ -1118,7 +1120,9 @@ innerhead La Lugubre Gondola II, Franz Liszt,  1882
 leftfoot typeset 2014 Peter J Billam
 
 /
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+5 bars | 2# 6 6 9 6 6 6 6 5 | 6 6 9 6 6 6 6 5 \
+          | 6 6 9 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+          | 6 6 6 6 6 6 6 5 |
 |
 =1' 2. F 4 D#
 =2' 8 [C)2 F B d#(2] [d)2 B F C(2-*]
@@ -1595,10 +1599,10 @@ leftfoot typeset 2014 Peter J Billam
 =1 vol70 4 rest A  vol+9 B  vol+9 c#(2
 =2 vol60 4 rest A_ vol+9 B_ vol+9 C#(2
 |
-=1' 4 c#)2 vol-9 d 2 vol-9 B
+=1' 4 c#)2 vol-9 d 2 vol-9 B treble
 =2  4 C#)2 vol-9 D 2 vol-9 B_
 |
-=1 2 rest treble vol90 leg110 2 B'
+=1 2 rest vol90 leg110 2 B'
 =2  vol65 4 rest d vol+9 g vol+9 c~#(1
 |
 =1  2 A vol-8 En
@@ -1871,7 +1875,7 @@ I0.4 .20 f
 =1' 4 <A_# A#> rest 4.. <B_ B> 16 <B_ B>
 =2' 4 <F# f#> <G g> 2 rest
 
-5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 15/
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-37-19/19-30-19 15/
 pagenum
 innerhead Unstern: Sinistre, Disastro,  Franz Liszt,  post-1880
 leftfoot typeset 2014 Peter J Billam
@@ -1941,7 +1945,8 @@ i0.4 .38 diminuendo    .   .   .
 =1 2 blank 1 rest bass
 =2' leg65 4 <C#-., c#> vol-3 <B_-., B> <A_-., A> vol-3 <G_-., G>
 /
-5 bars | 12 12 12 10 |
+5 bars | 12 12 12 10 | 12 12 12 10 \
+ | 6 6 6 8 6 6 5 5 | 12 12 12 10 | 12 12 12 10 |
 |
 =1, 2 rest vol60 <c# f a c~#>
 I0.7 .35 p
@@ -2194,7 +2199,8 @@ i0.5 .15 dim  .   .   .
 =2'  2. <gn ax> vol+5 4 <g ax>
 =2,  vol-5 2 <D_ D>  vol+5 4 <A_ A> <D d>
 /
-7 bars | 5# 48 | 48 |
+7 bars | 5# 12 12 12 11 | 12 12 12 11 | 12 12 14 11 | 12 15 14 11 \
+          | 14 12 12 11 | 12 12 12 11 | 11 11 11 11 |
 |
 =1' vol+5 1 Gn(1
 =1, 2 D-emph, Dn(2-emph,
@@ -2226,7 +2232,7 @@ i0.5 .15 dim  .   .   .
 =2'  1 <f a>
 =2,  1 <E_ E>
 /
-9 bars | 5# 48 | 48 |
+9 bars | 5# 24 23 | 24 23 | 24 23 | 44 | 24 23 | 24 23 | 24 23 | 44 | 24 23 |
 |
 =1'  1 <C E#>
 =2'  1 <e# a>
@@ -2263,7 +2269,9 @@ i0.5 .15 dim  .   .   .
 =1'  2 blank 1 rest
 =2'  2 <G_# G#> <F_ F>
 /
-10 bars | 5# 48 | 48 |
+10 bars | 5# 44 | 12 12 14 12 | 44 \
+ | 24 23 | 44 | 12 12 14 12 \
+ | 44 | 24 23 | 44 | 25 23 |
 |
 =1'  1 <D F>
 =2'  1 <f a>
@@ -2299,7 +2307,7 @@ i0.5 .15 dim  .   .   .
 =1'  2 blank 1 rest
 =2'  2 <F_)4 F)2> <E_# E#>
 /
-10 bars | 5# 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48 | 48 ||
+10 bars | 5# 44 | 44 | 44 | 44 | 24 22 | 24 22 | 24 22 | 24 22 | 24 22 | 44 ||
 |
 =1'  2 blank 1 rest
 =2'  1 <F_(4 F(2>

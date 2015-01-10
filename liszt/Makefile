@@ -12,7 +12,7 @@ SRCD  = ${ARRD}/src
 PIECE = late_liszt
 PLAY = lugubre_gondola_2
 
-dev : title.a4 p2.a4 p3.a4 ${PIECE}.a4
+dev : title.a4 p2.a4 ${PIECE}.a4
 all : ${A4D}/${PIECE}.pdf ${USD}/${PIECE}.pdf ${SRCD}/${PIECE}.txt
 dist :
 	upload ${A4D}/${PIECE}.pdf
@@ -25,13 +25,13 @@ ${PIECE} : fugue_on_bach lugubre_gondola_1 lugubre_gondola_2 \
 	  nuages_gris unstern > $@
 
 ${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
-	groff -ms title | ${BANNERISE} > title.a4
+	utf2iso title | groff -ms | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
-${USD}/${PIECE}.pdf : title.a4 p2.a4 p3.a4 ${PIECE}.a4 ${BACKPAGE}.a4
+${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
-	| ${PSCAT} title.a4 p2.a4 p3.a4 - ${BACKPAGE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| ${A42US} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 ${XMLD}/${PIECE}.xml : ${PIECE}
@@ -51,9 +51,6 @@ title.a4 : title
 	pkill -HUP gv
 p2.a4 : p2
 	utf2iso p2 | groff -ms | ${BANNERISE} > $@
-	pkill -HUP gv
-p3.a4 : p3
-	utf2iso p3 | groff -ms | ${BANNERISE} > $@
 	pkill -HUP gv
 play :
 	muscript -midi ${PLAY} | midisox_lua - - stat \

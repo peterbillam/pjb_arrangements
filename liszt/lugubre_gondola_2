@@ -353,7 +353,9 @@ i0.8 .10 sempre legato
 =1, 2. <An c)3 f)1 an> 4 <c c~>
 =2 8 [C-,-P c] [f c~ f~ c~ f c,-,-*]
 /
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+          | 6 6 6 6 6 6 6 5 | 6 6 6 7 6 6 6 5 \
+          | 6 6 8 6 6 6 6 5 |
 |
 #P=1 1 <d# f(3 b(1 d~#>
 #M=1 leg99 323 d# f(3 b(1 d~# 1 blank
@@ -379,7 +381,9 @@ innerhead La Lugubre Gondola II, Franz Liszt,  1882
 leftfoot typeset 2014 Peter J Billam
 
 /
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+5 bars | 2# 6 6 9 6 6 6 6 5 | 6 6 9 6 6 6 6 5 \
+          | 6 6 9 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+          | 6 6 6 6 6 6 6 5 |
 |
 =1' 2. F 4 D#
 =2' 8 [C)2 F B d#(2] [d)2 B F C(2-*]

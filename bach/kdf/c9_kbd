@@ -1,4 +1,4 @@
-5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
+5 systems 20 /20-35-20/20-40-20/20-40-20/20-45-20/20-48-20 10/
 pagenum 2
 title Contrapunctus 9,  alla Duodecima
 innerhead J. S. Bach
@@ -41,7 +41,7 @@ rs0.7  1323
 =2  2 blank 1 rest
 |
 =1' 4 rest' leg50 A 2 leg85 a(1
-=1, 8 [D G F-s1,-s1 E] [F, E D C]
+=1, 8 [D G F-s1,-s1 E] [F E D C]
 =2  2 blank 1 rest
 |
 =1' 4 a)1 8 [g# f#] [e d c-s3 Bn]
@@ -68,7 +68,7 @@ rs1.5 .03 4232
 =1, 2 A-s1, 4 rest, G#-s2,
 =2 2 blank 1 rest
 |
-=1' 8 [c-s2 f e d] [e d c-s1 Bb-s3]
+=1' 8 [c-s2 f-s4 e d] [e d c-s1 Bb-s3]
 =1, 2 A 4 rest, E-s1,
 =2 2 blank 1 rest
 /
@@ -104,7 +104,7 @@ rs1.5 .03 4232
 =2, 4 b{2 a}2-s4, 8 rest [a g a]
 rs0.01 .06 1323
 |
-il0.8 .13 20
+il1.3 .13 20
 =1' 4 d-s1-s5 f-s4 16 [e{'1 f 8 g}'1] 4 B-s1-s2
 =1, 4 D rest, rest, E
 =2' 2 blank 1 rest''
@@ -118,20 +118,20 @@ il0.8 .13 20
 =1' 2 F-s1-s2 4 rest'-s3 c-s1-s5
 =1, 2 D 4 rest, E
 =2' 4 rest'' leg50 a 2 leg85 a~(1
-=2, 8 [d g f-s1,-s3, e] [f-s3, e-s1, d c]
+=2, 8 [d g f-s1,-s3, e] [f-s2, e d c]
 
 5 systems 10 /20-55-20/20-40-20/20-50-20/20-45-20/20-40-20 10/
 pagenum
 innerhead Contrapunctus 9 alla Duodecima, J. S. Bach
 leftfoot typesetting (c) 1998 Peter Billam
 /
-4 bars | 1b 7 7 8 7 7 8 8 6 \
- | 8 7 8 7 7 7 7 6 | 8 7 7 7 7 8 7 6 | 7 7 7 9 8 8 7 6 |
+4 bars | 1b 7 7 8 7 8 8 8 6 | 8 7 8 7 7 7 7 6 \
+ | 8 7 7 7 7 8 7 6 | 7 7 7 9 8 8 7 6 |
 |
 =1' 2 Bn-s2-s"( 3 )"-s4 4 rest' G#-s2-s4
-=1, 4 F D-s1-s3 8 rest, [F--s3 E D--s1]
+=1, 4 F D-s1-s3 8 rest, [Fn--s3 E D--s1]
 =2' 4 a~)1 8 [g~# f~#-s2] [e~-s1 d~-s1, c~-s2, bn-,-s1,]
-=2, 4 d Bn 2 e
+=2, 4 d-s4, Bn-s5, 2 e-s5,
 |
 =1' 1 A(1-s2-s5
 =1, 8 [C B_n C D-s1-s3] [E-s2-s4 C-s1 D E]
@@ -139,7 +139,7 @@ leftfoot typesetting (c) 1998 Peter Billam
 =2, 2 A-s1,-s5, rest,
 |
 =1' 1 A)1-s2-s4-s"( 5 )"
-=1, 4 F rest, 2 rest.
+=1, 4 F rest,, 2 rest,,
 =2' 8 [d~ c~#-s1 d~ e~] [f~ d~-s2 e~-s1 f~]
 =2, 8 rest [g-s1, f e] [d-s1, c Bn A-s1,]
 |

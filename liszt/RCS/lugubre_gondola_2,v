@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	pjb:1.10; strict;
+	pjb:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2014.11.16.10.42.04;	author pjb;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2014.10.31.02.37.45;	author pjb;	state Exp;
@@ -62,20 +67,20 @@ desc
 @
 
 
-1.10
+1.11
 log
-@typed in up to end
+@as released
 @
 text
 @5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
-pagenum 2
+pagenum
 title La Lugubre Gondola II
 innerhead Franz Liszt,  1882
 leftfoot typeset 2014 Peter J Billam
 midi channel 1 patch 0
 
 /
-6 bars | 4/4 48 | 48 | 48 | 48 | 48 | 48 |
+6 bars | 4/4 48 | 48 | 24 22 | 44 | 48 | 48 |
 midi pause 0.3
 | 4/4 2.73
 i1.0 .03 andante mesto, non troppo lento
@@ -102,7 +107,7 @@ I0.8 .10 mf
 #P=2, 2 rest 4 <F# eb a-.> rest
 #M=2, 2 rest leg500 163 F# eb a 83 blank 4 rest
 /
-7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+7 bars | 48 | 48 | 24 22 | 48 | 48 | 44 | 22 24 |
 |
 =1 4 c~)1 vol+10 2 c~ vol+10 leg110 4 d~b
 i0.7 .10 cresc  .   .   .
@@ -131,7 +136,7 @@ I0.5 .20 mp
 =2 2 Ab F
 =2 1 blank 8 blank-,-*
 /
-6 bars | 48 | 48 | 48 | 48 | 48 || 4b 48 |
+6 bars |6 6 6 6 6 6 6 7 |48 |48 |12 11 11 11 |10 10 12 10 || 4b 12 12 12 10 |
 |
 i0.5 .03 recitando
 =1 4 rest vol90 B_ vol+10 4. Ab 8 F
@@ -159,7 +164,8 @@ i0.6 .20 dim  .   .   .
 =2' 4b 4 rest en  d~ g(1
 =2, 4b 4 rest En-P d G(2
 /
-7 bars | 4b 13 12 12 11 | 24 20 | 40 | 48 | 48 | 48 | 48 |
+7 bars | 4b 13 12 12 11 | 13 12 10 10 | 21 19 \
+ | 6 6 6 6 6 6 6 7.5 | 12 10 10 12 | 6 6 6 6 6 6 6 7.5 | 12 10 10 12 |
 |
 =1  2 blank
 =2' 4 g)1 en d~ g(1
@@ -215,7 +221,8 @@ i0.5 .10 sempre legato
 =1 2 vol+5 B_ vol+5 B_n
 =2 2 blank 1 rest
 
-5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+6 systems 10 /19-25-19 10/19-30-19 10/19-30-19 \
+ /19-30-19 5/19-30-19 11/19-30-19 20/
 pagenum
 innerhead La Lugubre Gondola II, Franz Liszt,  1882
 leftfoot typeset 2014 Peter J Billam
@@ -224,7 +231,7 @@ leftfoot typeset 2014 Peter J Billam
 5 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
  | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 9 7 6 6 5 |
 |
-i1.0 .03 accentato il canto
+i0.5 .19 accentato il canto
 =1' vol90 2 C D(2
 =2, vol60 8 [En-P c a d(1-s2,] [d)1 c-s3, a-s1, c-s3,]
 i1.1 .45 sempre legato
@@ -254,7 +261,7 @@ i1.1 .45 sempre legato
 =1' 4 En Eb 4. D 8 F
 =2, 8 [F c a d(1-s2,] [d)1 en-s1, f-s2, a-s1,]
 | 2.5
-i0.9 .20 piangendo
+i0.6 .20 piangendo
 =1' vol90 leg110 2. c 4 Bn-s5
 =1, vol50 leg180 4 rest,, 8 [D F D F D F]
 =2  vol50 leg180 4 F-P 8 [f a f a f-* a]
@@ -263,8 +270,8 @@ i0.9 .20 piangendo
 =1, vol50 leg180 8 [D F D F D F D F]
 =2  vol50 leg180 8 [f a f an f b f ab]
 /
-8 bars | 4b 7 7 8 8 8 9 8 7 | 8 9 8 8 8 8 8 7 | 7 7 7 7 8 10 10 7 \
- | 48 | 48 | 33 | 48 || 3
+4 bars | 4b 7 7 8 8 8 9 8 7 | 8 9 8 8 8 8 8 7 | 7 7 7 7 8 10 10 7 \
+ | 9 8 9 8 8 9 9 7 |
 |
 =1' vol90 leg110 4 rest 2 c-emph 4 Bn-s5
 =1, vol50 leg180 4 blank 8 [D F D F D F]
@@ -282,6 +289,8 @@ i0.8 .60 dim   .   .   .
 |
 =1  8 [dn vol-5 db c Bn] [A vol-5 F En Eb]
 =2  2 blank 1 rest-*
+/
+5 bars | 4b 44 | 40 | 44 || 1# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 =1 4 Dn vol-5 Db C vol-5 B_n
 =2  2 blank 1 rest
@@ -292,17 +301,14 @@ I0.8 .25 p
 |
 =1 4 G_ vol+7 A_ vol+7 A_n vol+7 A_#
 =2  2 blank 1 rest
-#P |
-#P =1 1#
-#P =2 1#
-/
-5 bars | 48 | 48 | 48 | 48 | 48 |
 |
 =1  1# 2 B_ C(2
 =2, 1# 8 [D#-P B g c(1] [c)1 B g B]
 |
 =1 4 C)2 A_# B_ G
 =2, 8 [D# B g c(1] [c)1-,-,-* B g B]
+/
+4 bars | 1# 48 | 48 | 48 | 48 |
 |
 =1  2. F-emph 4 E
 =2, 8 [E-P B g c(1] [c)1 B g-,-,-* B]
@@ -312,11 +318,11 @@ I0.8 .25 p
 |
 =1  4. B_ 16 [C D] 8 C rest 4 C(2-emph
 =2, 8 [D#-P B g c(1] [c)1 B g B]
-/
-5 bars | 48 | 48 | 48 | 48 | 48 |
 |
 =1 4 C)2 A_# B_ An(2
 =2, 8 [D# B g c(1] [c)1-,-,-* B g B]
+/
+4 bars | 1# 48 | 48 | 48 | 48 |
 |
 =1 4 A)2 G F E
 =2, 8 [E-P B g c(1] [c)1 B g-,-,-* B]
@@ -324,7 +330,7 @@ I0.8 .25 p
 =1 4 D# Dn 4. C 8 E
 =2, 8 [E B g c(1] [c)1 B g B]
 | 2.5
-i0.9 .20 piangendo
+i0.6 .20 piangendo
 =1' vol90 leg110 2. B-emph 4 A#-s4
 =1, vol50 leg180 4 rest,, 8 [C E C E C E]
 =2  vol50 leg180 4 E-P 8 [e g e g e-* g]
@@ -332,9 +338,15 @@ i0.9 .20 piangendo
 =1' vol90 leg110 4 An-s5 G#-s4 A-s5 A#-s4
 =1, vol50 leg180 8 [C E C E C E C E]
 =2  vol50 leg180 8 [e g e g# e a e gn]
+
+5 systems 15 /19-30-19/19-40-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola II, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
 /
-8 bars | 1# 7 7 8 8 8 9 8 7 | 8 9 8 8 8 8 8 7 | 7 7 7 7 8 10 10 7 \
- | 48 | 48 | 33 | 48 || 3
+4 bars | 1# 7 7 8 8 8 9 8 7 | 8 9 9 8 8 8 9 7 \
+ | 8 7 8 7 8 9 9 7 | 9 8 9 8 8 9 9 7 |
 |
 =1' vol90 leg110 4 rest 2 B-emph 4 A#-s4
 =1, vol50 leg180 4 blank 8 [C E C E C E]
@@ -352,6 +364,9 @@ i0.8 .60 dim   .   .   .
 |
 =1  8 [c# vol-5 cn B A#,] [G vol-5 E D# Dn]
 =2  2 blank 1 rest-*
+/
+5 bars | 1# 11 10 11 9 | 17 16 | 9 11 11 9 \
+ || 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 =1 4 C# vol-5 Cn B_ vol-5 A_#
 =2  2 blank 1 rest
@@ -362,20 +377,17 @@ I0.8 .25 p
 |
 =1 4 A_# vol+7 B_ vol+7 B_# vol+7 C#
 =2  2 blank 1 rest
-#P|
-#P=1 2# 1 blank
-#P=2 2# 1 blank
-/
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 | 2.36
 r0.5 .04 Un poco meno lento    mm=104
 #P=1 2# 1 <A_# C(3 F(1 A#>
 #M=1 2# leg99 323 A_# C(3 F(1 A# 1 blank
-i0.3 .15 dolcissimo,  dolente
+i0.5 .15 dolcissimo,  dolente
 =2' 2# 8 [C-P F-s4, c-s2, f(2-s1,] [f)2 c-s2, F-s4, C(2-,-*]
 |
 =1 1 <A_n C)3 F)1 An>
 =2' 8 [C)2-,-P F-s4, c-s2, f(2-s1,] [f)2 c-s2, F-s4, C(2-,-*]
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 #P=1 1 <A_# C(3 F(1 A#>
 #M=1 323 A_# C(3 F(1 A# 1 blank
@@ -387,8 +399,6 @@ i0.3 .15 dolcissimo,  dolente
 #P=1 1 <D# F(3 B(1 d#>
 #M=1 323 D# F(3 B(1 d# 1 blank
 =2' 8 [C)2-,-P F c f(2] [f)2 c F C(2-,-*]
-/
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 =1 1 <Dn F)3 B)1 dn>
 =2' 8 [C)2-,-P F c f(2] [f)2 c F C(2-,-*]
@@ -396,6 +406,8 @@ i0.3 .15 dolcissimo,  dolente
 #P=1 1 <D# F(3 B(1 d#>
 #M=1 323 D# F(3 B(1 d# 1 blank
 =2' 8 [C)2-,-P F c f(2] [f)2 c F C(2-,-*]
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 =1  2. <Dn F)3 B')1 dn'> 4 <F, f>
 =2' 8 [C)2-,-P F c f(2] [f)2 c F C(2-,-*]
@@ -406,8 +418,6 @@ i0.3 .15 dolcissimo,  dolente
 |
 =1 1 <An c)3 f)1 an>
 =2 8 [C-,-P c-,-s1,] [f-s4, c~-s2, f~-s1, c~-s2, f-s4, c,-s1,-,-*]
-/
-6 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 #P=1 1 <A# c(3 f(1 a#>
 #M=1 leg99 323 A# c(3 f(1 a# 1 blank
@@ -416,6 +426,10 @@ i0.8 .10 sempre legato
 |
 =1, 2. <An c)3 f)1 an> 4 <c c~>
 =2 8 [C-,-P c] [f c~ f~ c~ f c,-,-*]
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+          | 6 6 6 6 6 6 6 5 | 6 6 6 7 6 6 6 5 \
+          | 6 6 8 6 6 6 6 5 |
 |
 #P=1 1 <d# f(3 b(1 d~#>
 #M=1 leg99 323 d# f(3 b(1 d~# 1 blank
@@ -430,12 +444,20 @@ i0.8 .10 sempre legato
 |
 =1 1 <d)4 f)2 b)1 d~)3>
 =2 8 [C c] [f b d~# b f c,]
-/
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 i0.2 .40 espressivo
 =1 2 rest B_
 =2' 8 [C F B d#(2] [d)2 B F C(2]
+
+5 systems 15 /19-37-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola II, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+/
+5 bars | 2# 6 6 9 6 6 6 6 5 | 6 6 9 6 6 6 6 5 \
+          | 6 6 9 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+          | 6 6 6 6 6 6 6 5 |
 |
 =1' 2. F 4 D#
 =2' 8 [C)2 F B d#(2] [d)2 B F C(2-*]
@@ -448,20 +470,14 @@ i0.2 .40 espressivo
 |
 #P=1 1 <G_# B_(3 E(1 G#>
 #M=1 leg99 323 G_# B_(3 E(1 G# 1 blank
-i0.3 .15 sempre dolcissimo
+i0.4 .15 sempre dolcissimo
 =2' 8 [B_-P E B e(2] [e)2 B E B_(2-,-*]
-
-5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
-pagenum
-innerhead La Lugubre Gondola II, Franz Liszt,  1882
-leftfoot typeset 2014 Peter J Billam
-
-/
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 #P=1 1 <G_n B_)3 E)1 Gn>
 #M=1 leg99 323 G_n B_)3 E)1 Gn 1 blank
 =2' 8 [B_)2-,-P E B e(2] [e)2 B E B_(2-,-*]
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 #P=1 1 <G_# B_(3 E(1 G#>
 #M=1 leg99 323 G_# B_(3 E(1 G# 1 blank
@@ -479,12 +495,12 @@ leftfoot typeset 2014 Peter J Billam
 #P=1' 1 <Cn E)3 A)1 cn>
 #M=1' leg99 323 Cn E)3 A)1 cn 1 blank
 =2' 8 [B_)2-,-P E B e(2] [e)2 B E B_(2-,-*]
-/
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 #P=1' 1 <C E(3 A(1 c>
 #M=1' leg99 323 C E(3 A(1 c 1 blank
 =2' 8 [B_)2-,-P E B e(2] [e)2 B E B_(2-,-*]
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 #P=1' 2. <Cn E)3 A)1 cn> 4 <E e>
 #M=1' leg99 323 Cn E)3 A)1 cn 1 blank
@@ -501,11 +517,11 @@ leftfoot typeset 2014 Peter J Billam
 #P=1 1 <G# B(3 e(1 g#>
 #M=1 leg99 323 G# B(3 e(1 g# 1 blank
 =2  8 [B_-,-P B-,-s1,] [e-s4, b e~ b e B,-,-*]
-/
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 =1, 1 <Gn B)3 e)1 gn>
 =2 8 [B_-,-P B] [e b e~ b e B,-,-*]
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 #P=1 1 <c e(3 a(1 c~>
 #M=1 leg99 323 c e(3 a(1 c~ 1 blank
@@ -520,13 +536,13 @@ leftfoot typeset 2014 Peter J Billam
 |
 =1 1 <c)4 e)2 a)1 c~)3> 
 =2 8 [B_ B] [e a c~ a e B,]
-/
-5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
- | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 || 6
 |
-i0.2 .40 espressivo   .    .    .
+i0.2 .30 espressivo  .  .  .
 =1 2 rest A_
 =2' 8 [B_ E A c(2] [c)2 A E B_(2]
+/
+4 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 || 4b 6 6 6 6 6 6 6 5 |
 |
 =1 2. E 4 C
 =2' 8 [B_)2 E A c(2] [c)2 A E B_(2-,-*]
@@ -536,18 +552,21 @@ i0.2 .40 espressivo   .    .    .
 |
 =1 2 G_# G_n(2
 =2' 8 [B_)2 E A c(2] [c)2 A E B_]
-#P|
-#P=1 4b 1 blank
-#P=2 4b 1 blank
-/
-4 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
- | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 | 2.28
 =1' 4b 4 G_)2 vol110 <C c> 2 <D(2 d(1-emph>
 I0.1 .20 mf
-i0.4 .35 appassionato
+i0.3 .35 appassionato
 =2  4b 4 vol100 leg170 <E_n-P En> vol-20 8 [<A, en a> <c,-s4, e a> \
  <c, e a> <dx e-s3, a> <dx e a> <c,-s4,-,-* e a>]
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola II, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+/
+4 bars | 4b 6 5 6 6 7 6 6 5 | 6 5 6 6 6 6 6 5 \
+ | 6 5 6 6 6 6 6 5 | 6 5 6 7.5 7 6 6 5 |
 |
 =1 4 <D)2 d')1> <B_n Bn'> <C c'> <A, a>
 i0.3 .30 cresc   .    .    .
@@ -561,19 +580,13 @@ i0.3 .30 cresc   .    .    .
 =1' 4 <En en> <Eb eb> <D d> <B_n Bn>
 =2, 8 [<A f a> <c f a> <c f a> <d f a> \
  <d f a> <c f a> <A f a>] rest
-
-5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
-pagenum
-innerhead La Lugubre Gondola II, Franz Liszt,  1882
-leftfoot typeset 2014 Peter J Billam
-
-/
-4 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
- | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 =1' 4. vol110 <C c> 16 [<D d> <E e>] 8 <D d> rest 4 <D(2 d(1-emph>
 =2  4  vol100 leg170 <E_n-P En> vol-20 8 [<A, en a> <c,-s4, e a> \
  <c, e a> <dx e-s3, a> <dx e a> <c,-s4,-,-* e a>]
+/
+4 bars | 4b 6 5 6 6 7 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 7 6 6 6 5 | 6 5 6 6 6 6 6 5 |
 |
 =1 4 <D)2 d')1> <B_n Bn'> <C c'> <Bb(2 bb(1>
 =2  4 vol100 <E_n-P En> vol-20 8 [<A, en a> <c,-s4, e a> \
@@ -588,14 +601,14 @@ leftfoot typeset 2014 Peter J Billam
  <Eb eb-s4> <D d-s3> <F f> <A a-s4>]
 =2, 8 [<A f a> <c f a> <c f a> <d f a> \
  <d f a> <f a> <f a>] rest
-/
-4 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
- | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 | 2.26
 =1 vol115 2. <c c~-emph> 4 <Bn bn>
 i0.7 .30 rinforzando
 =2 vol105 4 <F_-P F> vol-20 8 [<f a d~> <f a d~> \
  <f a d~> <f a d~> <f a d~> <f-,-* a d~>]
+/
+4 bars | 4b 6 7 6 6 6 7 6 5 | 6 5 6 6 6 6 6 5 \
+ | 6 7 6 6 6 7 6 5 | 6 6 6 6 6 7 7 5 |
 |
 =1, 4 <Bb bb> <An an> <B b> <Bn bn>
 =2, 8 [<f a d~> <f a d~> <f an d~> <f a d~> \
@@ -609,15 +622,15 @@ I0.7 .03 ff
 =1, 4 <Bb bb> <An an> <B b> <Bn bn>
 =2, 8 [<f a d~ f~> <f a d~ f~> <f an d~ f~> <f a d~ f~> \
  <f b d~ f~> <f b d~ f~> <f ab d~ f~> <f a d~ f~>]
-/
-5 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
- | 6 6 6 6 6 6 6 5 | 10 10 10 9 | 10 10 10 9 |
 | 2.18
 =1 4 rest' vol125 <a(2 a~(1-emph> \
  8 [<a)2 a~)1> <f f~> <en e~n> <eb e~b>]
 I0.7 .03 fff
-i0.9 .30 legato
+i0.9 .55 legato
 =2 8 <f-P a d~ f~> rest' 4 a~(2 8 [a~)2 f~ e~n e~b]
+/
+4 bars | 4b 6.5 6 6.5 6 6 6.5 6.5 5 \
+ | 6.5 6 6.5 6 6 6.5 6.5 5 | 10 10 10 9 | 10 10 10 9 |
 |
 =1, 8 [<dn d~n> <db d~b> <c c~> <Bn bn> <A a> <F f> <En en> <Eb eb>]
 =2  8 [d~n d~b c~ bn ab f en-,-* eb]
@@ -632,15 +645,15 @@ i0.9 .30 legato
 I0.4 .03 ff
 =2' 4 vol95 rest A-P f Bn(2-,-*
 /
-6 bars | 4b 10 10 10 9 | 10 10 10 9 | 10 10 10 9 \
-          | 10 10 10 9 | 10 10 10 9 | 8 6 5 5 5 5 5 6 |
+6 bars | 4b 10 11 10 9 | 11 10 10 9 | 10 11 11 9 \
+          | 10 11 10 9 | 10 11 10 9 | 8 6 5 5 5 5 5 6 |
 |
 =1 4 B_n)2 vol-5 G_  En B_(2
-=2 4 Bn)2  vol-5 G-P en B,(1
+=2 4 Bn)2  vol-5 G-P en B(2
 | 2.45
 =1  4 B_)2    vol-5 4 F_# 2 Dn
 i0.2 .70 diminuendo   .    .    .
-=2' 4 B)1-,-* vol-5 F#-P 2 dn
+=2' 4 B)2-,-* vol-5 F#-P 2 dn
 | 2.50
 =1 4 B_n vol-5 A_ F_n Db
 =2' 4 Bn vol-5 A-,-* Fn db
@@ -654,8 +667,15 @@ i0.2 .70 diminuendo   .    .    .
 i0.4 .20 recitando
 =1' 8 <E_n B_ D> rest 4 D 4. B 8 G
 =2' 8 <En-P B d> rest 4 rest 2 rest-,-*
+
+6 systems 10 /19-25-19/19-25-19 7/19-25-19 15/19-25-19 5/19-25-19/19-25-19 10/
+pagenum
+innerhead La Lugubre Gondola II, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
 /
-5 bars | 4b 48 | 48 |
+5 bars | 4b 11 10 10 10 | 10 10 9 11 \
+ | 10 9 9 9 | 10 10 9 11 | 11 11 11 9 |
 |
 =1' 4 F 2 En 4 D
 =2  2 blank 1 rest
@@ -671,14 +691,9 @@ i0.4 .20 recitando
 |
 =1' 4 C B_n B_b Eb(2-emph
 =2 2 blank 1 rest
-
-5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
-pagenum
-innerhead La Lugubre Gondola II, Franz Liszt,  1882
-leftfoot typeset 2014 Peter J Billam
-
 /
-5 bars | 4b 48 | 48 | 48 || 4b 48 | 48 |
+5 bars | 4b 10 10 11 9 | 11 11 10 9 | 36 \
+  || 4b 20 19 | 20 19 |
 | 2.70
 i0.2 .80 un poco ritenuto   .    .    .
 =1  4 E)2 vol-5 D C B_n
@@ -750,7 +765,8 @@ i0.4 .60 pesante
 =1 2 vol-5 g# vol-10 b
 =2 2 blank 1 rest
 /
-7 bars | 48 |
+7 bars | 12 13 13 11 | 22 21 | 22 21 | 22 21 \
+ | 36 | 22 21 | 11 11 12 11 |
 |
 =1 4 vol60 rest b d~# vol-5 gn
 I0.4 .20 pp
@@ -803,6 +819,179 @@ i0.7 .35 ritenuto  .    .    .
 =1 1 vol-4 g#r-fermata
 =2 2 blank 1 rest
 
+midi pause 2.0
+
+@
+
+
+1.10
+log
+@typed in up to end
+@
+text
+@d2 1
+a2 1
+pagenum 2
+d9 1
+a9 1
+6 bars | 4/4 48 | 48 | 48 | 48 | 48 | 48 |
+d36 1
+a36 1
+7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+d65 1
+a65 1
+6 bars | 48 | 48 | 48 | 48 | 48 || 4b 48 |
+d93 2
+a94 1
+7 bars | 4b 13 12 12 11 | 24 20 | 40 | 48 | 48 | 48 | 48 |
+d150 2
+a151 1
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+d160 1
+a160 1
+i1.0 .03 accentato il canto
+d190 1
+a190 1
+i0.9 .20 piangendo
+d199 2
+a200 2
+8 bars | 4b 7 7 8 8 8 9 8 7 | 8 9 8 8 8 8 8 7 | 7 7 7 7 8 10 10 7 \
+ | 48 | 48 | 33 | 48 || 3
+d218 2
+a229 5
+#P |
+#P =1 1#
+#P =2 1#
+/
+5 bars | 48 | 48 | 48 | 48 | 48 |
+d236 2
+a246 2
+/
+5 bars | 48 | 48 | 48 | 48 | 48 |
+d250 2
+d259 1
+a259 1
+i0.9 .20 piangendo
+d267 6
+d274 2
+a275 2
+8 bars | 1# 7 7 8 8 8 9 8 7 | 8 9 8 8 8 8 8 7 | 7 7 7 7 8 10 10 7 \
+ | 48 | 48 | 33 | 48 || 3
+d293 3
+a305 5
+#P|
+#P=1 2# 1 blank
+#P=2 2# 1 blank
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d310 1
+a310 1
+i0.3 .15 dolcissimo,  dolente
+d315 2
+a327 2
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d335 2
+a346 2
+/
+6 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d355 4
+a372 2
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d377 10
+d399 1
+a399 1
+i0.3 .15 sempre dolcissimo
+a400 8
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola II, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d405 2
+a423 2
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d428 2
+a445 2
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d449 2
+a464 3
+/
+5 bars | 2# 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 || 6
+d466 1
+a466 1
+i0.2 .40 espressivo   .    .    .
+d469 3
+a480 6
+#P|
+#P=1 4b 1 blank
+#P=2 4b 1 blank
+/
+4 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d484 1
+a484 1
+i0.4 .35 appassionato
+d487 9
+a508 9
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola II, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+/
+4 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d513 3
+a529 3
+/
+4 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d535 3
+a550 3
+/
+5 bars | 4b 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 5 | 10 10 10 9 | 10 10 10 9 |
+d555 1
+a555 1
+i0.9 .30 legato
+d557 3
+d574 2
+a575 2
+6 bars | 4b 10 10 10 9 | 10 10 10 9 | 10 10 10 9 \
+          | 10 10 10 9 | 10 10 10 9 | 8 6 5 5 5 5 5 6 |
+d578 1
+a578 1
+=2 4 Bn)2  vol-5 G-P en B,(1
+d582 1
+a582 1
+=2' 4 B)1-,-* vol-5 F#-P 2 dn
+d596 6
+d603 2
+a604 1
+5 bars | 4b 48 | 48 |
+a619 6
+
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+pagenum
+innerhead La Lugubre Gondola II, Franz Liszt,  1882
+leftfoot typeset 2014 Peter J Billam
+
+d621 2
+a622 1
+5 bars | 4b 48 | 48 | 48 || 4b 48 | 48 |
+d694 2
+a695 1
+7 bars | 48 |
+d747 2
 @
 
 

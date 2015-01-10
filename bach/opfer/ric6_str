@@ -10,7 +10,7 @@ midi channel 4 patch 41 pan 23 reverb 95
 midi channel 5 patch 42 pan 59 reverb 95
 midi channel 6 patch 42 pan 95 reverb 95
 /
-3 bars | 8.8 | 8 | 8 |
+3 bars | 3b 8.8 | 8 | 8 |
 | 4/2 3.4
 =1 treble 3b 4/2 cha1 leg90 smb rest rest
 I0.8      Violin 1 . . .
@@ -39,7 +39,7 @@ I0.2      Cello 2 . . .
 =5 smb rest rest
 =6 smb rest rest
 /
-3 bars | 8.8 | 1 1.4 1 1 1 1 1 1 | 1 1.3 1 1 1 1 1 1 |
+3 bars | 3b 8.8 | 1 1.4 1 1 1 1 1 1 | 1 1.3 1 1 1 1 1 1 |
 |
 =1 smb rest rest
 =2 smb rest rest
@@ -63,7 +63,7 @@ il0.4    5
 =5 smb rest rest
 =6 smb rest rest
 /
-3 bars | 1.1 1.1 1.1 1.4 1.4 1.1 1.1 1.1 | 8 | 1 1.4 1 1 1 1 1 1 |
+3 bars | 3b 1.1 1.1 1.1 1.4 1.4 1.1 1.1 1.1 | 8 | 1 1.4 1 1 1 1 1 1 |
 |
 =1 smb rest rest
 =2 min Bn, Bb,(1 cro B,)1 An Ab G
@@ -115,7 +115,7 @@ il0.4        10
 =5 cro Bn G c f min e d
 =6 smb rest rest
 /
-3 bars | 1.1 1.4 1.1 1.1 1.1 1.4 1.1 1.1 | 1 1.3 1 1.3 1 1 1 1 | 1 1.3 1 1.3 1.3 1 1 1 |
+3 bars | 3b 1.1 1.4 1.1 1.1 1.1 1.4 1.1 1.1 | 1 1.3 1 1.3 1 1 1 1 | 1 1.3 1 1.3 1.3 1 1 1 |
 |
 =1 smb rest rest
 =2 cro F)2 E rest B e qua [d c] cro Bn c
@@ -139,7 +139,7 @@ il0.4   15
 =5 cro g d rest qua [g fn] [eb d] cro c rest e
 =6 smb rest rest
 /
-3 bars | 1.1 1.1 1.1 1.4 1.4 1.1 1.1 1.1 | 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1.3 1 1 |
+3 bars | 3b 1.1 1.1 1.1 1.4 1.4 1.1 1.1 1.1 | 1 1 1 1 1 1.3 1 1 | 1 1 1 1 1 1.3 1 1 |
 |
 =1 smb rest rest
 =2 cro c)1 F# G An qua [B' An] min G cro F#
@@ -167,7 +167,7 @@ pagenum 6
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-3 bars | .55 .55 .7 1.1 .55 .55 .55 .55 .55 .55 .5 .5 .5 .5 .55 .55 | 1 1 1 1.3 1 1 1 1 | 1 1.3 1 1 1.3 1 1 1 |
+3 bars | 3b .55 .55 .7 1.1 .55 .55 .55 .55 .55 .55 .5 .5 .5 .5 .55 .55 | 1 1 1 1.3 1 1 1 1 | 1 1.3 1 1 1.3 1 1 1 |
 |
 =1 min c e g a
 =2 min c qua rest [c B, A,] cro G min c cro d(1
@@ -191,7 +191,7 @@ il0.4    20
 =5 cro c~ min c qua [d, e] smb f(1
 =6 smb rest rest
 /
-3 bars | 1.1 1.4 1.1 1.4 1.1 1.4 1.1 1.1 | 8 | 1.3 1 1.3 1.3 1.3 1 1 1 |
+3 bars | 3b 1.1 1.4 1.1 1.4 1.1 1.4 1.1 1.1 | 8 | 1.3 1 1.3 1.3 1.3 1 1 1 |
 |
 =1 cro Bn G c  f min e d
 =2 cro G rest rest qua [c Bn,] min. c qua [Bb' A]
@@ -214,7 +214,7 @@ il0.4    20
 =5 min g)1 f(1 f)1 cro e qua [d' c]
 =6 smb rest rest
 /
-3 bars | 8.8 | 1 1.3 1 1.3 1 1.3 1 1.3 | 1 1.3 1 1 1 1.3 1 1 |
+3 bars | 3b 8.8 | 1 1.3 1 1.3 1 1.3 1 1.3 | 1 1.3 1 1 1 1.3 1 1 |
 |
 il0.4        25
 =1 smb d(1 min d)1 c(1
@@ -243,7 +243,7 @@ pagenum 7
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-3 bars | 8.8 | 8 | 8 |
+3 bars | 3b 8.8 | 8 | 8 |
 |
 =1 cro c)1 qua [d c] cro B An min B c(1
 =2 min An(2 qua A)2 cro G qua F# min G An
@@ -267,7 +267,7 @@ il0.4   30
 =5 smb d e
 =6 smb B c
 /
-3 bars | 8.8 | 8 | 8 |
+3 bars | 3b 8.8 | 8 | 8 |
 |
 =1 min c)1 cro B A min. G qua [An B']
 =2 smb F(2 min F)2 cro E qua [F G]
@@ -290,7 +290,7 @@ il0.4   30
 =5 min. d qua [c d'] min. e qua [d, e]
 =6 min c)2 Bn smb c
 /
-3 bars | 8.8 | 8 | 8 |
+3 bars | 3b 8.8 | 8 | 8 |
 |
 =1 min e)1 d(1 d)1 cro c B
 =2 min c)1 cro Bb Ab smb G(2
@@ -319,7 +319,7 @@ pagenum 8
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-3 bars | 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.4 | 8 | 8 |
+3 bars | 3b 1.1 1.1 1.1 1.1 1.1 1.1 1.1 1.4 | 8 | 8 |
 |
 =1 cro e)1 qua [f g] min a(1 a)1 g
 =2 min. c qua [d e] min f e(1
@@ -470,12 +470,13 @@ il0.4   50
 =5 min rest f min. g cro an
 =6 smb rest rest
 
-3 systems /17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/
+3 systems /17-20-17 25 17-20-17 25 17-17-17/17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/
 pagenum 10
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-2 bars | 8.8 | 8 |
+2 bars | 3b 6 5 6 6 6 6 6 6 6 6 6 6 6 5 5 5 \
+ | 6 5 6 6 6 6 6 6 6 6 6 6 6 5 5 5 |
 |
 il0.4       55
 =1 cro F rest min rest smb rest
@@ -492,7 +493,9 @@ il0.4       55
 =5 cro a)1 qua [g f] [g b] cro c~b(1 qua [c~)1 b a g] cro a B
 =6 smb rest rest
 /
-3 bars | 1.1 1.3 1.1 1.3 1.1 1.3 1.1 1.1 | 1 1.2 1 1.2 1.2 1 1 1 | 1 1.2 1 1.2 1.2 1.2 1 1 |
+3 bars | 3b 5 4 7 5 5 5 7 5 5 5 7 5 5 4 4 4 \
+ | 5 5 7 5 5 5 7 5 7 7 5 5 5 4 5 4 \
+ | 5 5 5 7 5 5 7 5 7 5 7 5 5 4 5 5 |
 |
 =1 cro a e min c~ bn bb(1
 =2 cro d)1 qua [c db] [e g] cro a(1 qua [a)1 g f en] cro f g
@@ -515,10 +518,10 @@ il0.4       55
 =5 cro rest qua [b a] cro g qua [a g] [f en] min f cro c~(1
 =6 qua [b)1 a g f] cro en f min. dn cro en
 /
-3 bars | 3b 7 6 5 5 5 7 5 7  5 6 7 6 5 5 5 5 \
- | 5 5 5 5 5 5 7 5  7 7 5 7 5 5 5 5 | 5 5 5 5 5 7 5 5  5 5 5 5 5 5 5 5 |
+3 bars | 3b 7 6 5 5 5 7 5 7  5 6 7 6 5 5 5 4 \
+ | 5 5 5 5 5 5 7 5  7 7 5 8 5 5 5 4 | 5 5 5 5 5 7 5 5  5 5 5 5 5 5 5 4 |
 |
-il0.4          60
+il0.5 .09 60
 =1 smb c(1 cro c)1 qua [B, c] [B' A G A]
 =2 cro g)1 cro. f qua [eb db c] smb db
 =3 min an ab(1 cro a)1 g gb f
@@ -545,8 +548,9 @@ pagenum 11
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-3 bars | 3b 5 5 5 5 7 5 5 5  5 5 7 5 5 7 5 5 \
- | 5 7 5 5 7 5 5 7  5 5 7 5 5 7 5 5 | 5 5 5 7 6 6 6 5  5 5 5 7 5 7 5 5 |
+3 bars | 3b 5 5 5 5 8 5 5 5  5 5 8 5 5 7 5 4 \
+ | 5 8 5 5 7 5 5 7  5 5 8 5 5 7 5 4 \
+ | 5 5 5 7 6 6 6 5  5 5 5 7 5 7 5 4 |
 |
 =1 min rest e c A
 =2 cro rest B' G E min Gb E(2
@@ -570,8 +574,9 @@ il0.4    65
 =5 cro g)1 min e cro a(1 qua [a)1 f g a] [b c~ d~b b]
 =6 cro c e c Ab smb db(1
 /
-3 bars | 3b 5 7 5 7 5 5 5 5  7 5 7 5 5 5 5 5 \
- | 6 6 7 5 5 5 7 5  6 5 5 5 5 5 5 5 | 7 5 7 5 5 5 5 7  7 5 5 5 7 5 5 5 |
+3 bars | 3b 5 7.5 5 7.5 5 5 5 5  7.5 5 7.5 5 5 5 5 4 \
+ | 6 6 7.5 5 5 5 7 5  6 5 5 5 5 5 5 4 \
+ | 7 5 7.5 5 5 5 5 7  7 5 5 5 7.5 5 5 4 |
 |
 =1 min e g a c~
 =2 cro. B qua c [db c] cro B A qua [e db] cro e a(1
@@ -594,8 +599,9 @@ il0.4    65
 =5 smb rest rest
 =6 cro B qua [c db'] [e d, c, e,] cro A qua [a g] cro a c~b
 /
-3 bars | 3b 7 5 5 7 5 5 7 5  5 5 5 5 7 5 7 5 \
- | 5 5 5 5 5 5 7 7  5 7 5 5 5 7 7 5 | 7 5 5 5 7 5 5 7  5 7 5 5 5 5 7 5 |
+3 bars | 3b 7.5 5 5 7.5 5 5 7.5 5  5 5 5 5 7 5 7 4 \
+ | 5 5 5 5 5 5 7 7  5 7 5 5 5 7 7.5 4 \
+ | 7 5 5 5 7 5 5 7  5 7 5 5 5 5 7 4 |
 |
 =1 cro d B, e a min g f
 =2 qua [A cb' B' A] [Gn F E Dn] cro E min e qua [d cn]
@@ -624,7 +630,8 @@ pagenum 12
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-2 bars | 8.8 | 8 |
+2 bars | 3b 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
 |
 =1 cro B,)1 qua [e db] cro c B, qua [An G A B'] [c db e c]
 =2 min. Gb cro e(1 e)1 c min F(2
@@ -640,7 +647,8 @@ leftfoot transcribed for strings 2000 Peter Billam
 =5 cro b ab min g qua [an f g a] [b c~ d~b b]
 =6 smb f)1(1 f)1(1
 /
-2 bars | 8.8 | 8 |
+2 bars | 3b 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
 |
 =1 qua [c gb f e] min db(1 qua [d)1 e db c] [d B,] cro f(1
 =2 min c(1 qua [c)1 c B, An,] min B, cro rest qua rest c
@@ -649,7 +657,7 @@ leftfoot transcribed for strings 2000 Peter Billam
 =5 cro f~ c~ qua [f~ e~ d~b c~] [b c~ b an] cro b c~(1
 =6 min f)1 cro rest f min. gn cro an
 |
-il0.4    75
+il0.6 .18 75
 =1 qua [f)1 e dn c] min B,(1 B,)1 qua rest [e f gb]
 =2 min F(2 qua F)2 cro En qua F [G F En F] min Gb
 =3 smb rest rest
@@ -657,7 +665,8 @@ il0.4    75
 =5 cro c~)1 f b ab min g cro rest b
 =6 cro b ab g f min en eb(1
 /
-2 bars | 8.8 | 8 |
+2 bars | 3b 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
 |
 =1 qua [c e db c] cro B An min B' rest
 =2 min F(2 qua [F)2 F Eb F] [Gb Ab G F] [E F G E]
@@ -673,13 +682,14 @@ il0.4    75
 =5 cro a)1 qua [g f] min g(1 g)1 f(1
 =6 cro dn min e cro en f eb min db
 
-3 systems /17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/
+3 systems /17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/17-18-17 20 17-20-17 28 17-15-17/
 pagenum 13
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-3 bars | 3b 5 6 6 5 5 7 5 5  5 7 5 5 5 6 5 5 \
- | 5 5 7 5 5 7 6 6  7 5 5 5 5 5 5 5 | 7 5 5 5 5 5 5 7  5 7 5 5 5 5 5 5 |
+3 bars | 3b 6 6 6 6 6 8 6 6 6 8 6 6 6 6 6 5 \
+ | 6 6 8 6 6 8 6 6 8.5 6 6 6 6 6 6 5 \
+ | 8.5 6 6 6 6 6 6 8.5 6 8.5 6 6 6 6 6 5 |
 |
 =1 smb rest qua rest [d en f] [g a b g]
 =2 smb c rest
@@ -695,7 +705,7 @@ leftfoot transcribed for strings 2000 Peter Billam
 =5 min rest cro rest A min B(2 qua [B)2 B A B]
 =6 smb F G
 |
-il0.4    80
+il0.6 .13 80
 =1 min g)1 cro f e smb db(1
 =2 smb c(1 cro c)1 c min B,(1
 =3 cro b)1 b min a(1 a)1 cro g f
@@ -703,7 +713,9 @@ il0.4    80
 =5 min c(2 qua [c)2 c B c] min db,(1 qua [d')1 d' c d']
 =6 smb A B
 /
-3 bars | 1.1 1.1 1.1 1.4 1.1 1.1 1.1 1.1 | 1 1 1 1.3 1 1 1 1 | 8 |
+3 bars | 3b 6 6 6 6 5 5 8 6 5 5 6 6 5 5 6 5 \
+ | 5 5 5 5 5 5 5 8 5 5 6 6 5 5 6 5 \
+ | 5 5 5 5 5 5 6 6 5 5 5 5 5 5 6 5 |
 |
 =1 min db)1 c f g
 =2 min B,)1 A smb db
@@ -726,7 +738,8 @@ il0.4    80
 =5 min A c e rest
 =6 min A rest smb rest
 /
-2 bars | 8.8 | 8 |
+2 bars | 3b 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
 |
 =1 min d en qua [f g a f] [d a g f]
 =2 smb rest rest
@@ -735,7 +748,7 @@ il0.4    80
 =5 cro rest min b qua [a g] cro a f min g
 =6 smb rest rest
 |
-il0.5    85
+il0.7 .03 85
 =1 min eb(1 qua [e)1 d c Bn,] [c' Bb' A G] min A
 =2 smb rest rest
 =3 qua [c~ bb a g] cro f a min g(1 qua [g)1 g f e]
@@ -743,12 +756,13 @@ il0.5    85
 =5 qua [a g] min f qua [e d] cro e en f f~(1
 =6 smb rest rest
 
-3 systems /17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/
+3 systems /17-20-17 20 17-20-17 27 17-20-17/17-20-17 20 17-20-17 20 17-20-17/17-20-17 20 17-20-17 20 17-20-17/
 pagenum 14
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-2 bars | 8.8 | 8 |
+2 bars | 3b 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 \
+ | 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 |
 |
 =1 min G rest cro rest c(1 qua [c')1 B' An G]
 =2 min G Bn c e
@@ -764,7 +778,9 @@ leftfoot transcribed for strings 2000 Peter Billam
 =5 min an cro d rest smb rest
 =6 qua [c)2 e' d' c] [Bb An G F] cro En en f# d
 /
-3 bars | 1.4 1.4 1.4 1.1 1.1 1.1 1.1 1.4 | 1 1 1.3 1.3 1 1 1 1 | 8 |
+3 bars | 3b 6 6 8 6 6 6 6  6 6 6 5 6 8 6 8 5 \
+ | 6 6 6 6 8 6 8 6 6 6 6 6 5 5 6 5 \
+ | 5 5 5 5 5 5 5 5 5 5 6 6 6 6 5 4 |
 |
 =1 smb rest rest
 =2 min Bn, Bb,(1 cro B)1 An Ab G
@@ -780,7 +796,7 @@ leftfoot transcribed for strings 2000 Peter Billam
 =5 cro d f# g rest min rest cro rest an
 =6 min d e(1 qua [e')1 d' c B] cro c d
 |
-il0.4    90
+il0.4 .15 90
 =1 cro g rest min rest smb rest
 =2 cro G d B e An qua [Bn, c] min d
 =3 cro b rest min g f# fn
@@ -788,7 +804,9 @@ il0.4    90
 =5 cro b rest rest g min an bn
 =6 cro g rest min rest smb rest
 /
-3 bars | 1.1 1.4 1.1 1.1 1.1 1.4 1.1 1.4 | 1 1 1 1 1 1.3 1 1.3 | 1 1.3 1 1 1 1.3 1 1.3 |
+3 bars | 3b 5 5 8 8 6 6 5 5 5 5 6 8 5 5 8 5 \
+ | 5 5 5 5 6 6 5 5 5 5 8 6 5 5 8 5 \
+ | 5 5 8 6 5 5 6 6 5 5 8 8 6 6 8 8 |
 |
 =1 smb rest rest
 =2 cro G qua [An Bn'] min c Bn Bb
@@ -816,7 +834,9 @@ pagenum 15
 innerhead Ricercare a 6, Musikalisches Opfer, J. S. Bach
 leftfoot transcribed for strings 2000 Peter Billam
 /
-3 bars | 1.1 1.4 1.1 1.1 1.1 1.1 1.1 1.1 | 1 1.3 1 1 1 1.3 1 1.3 | 1 1.2 1 1.2 1 1 1 1.3 |
+3 bars | 3b 5 5 6 8 5 5 6 6 5 5 6 6 5 5 6 5 \
+ | 5 5 8 6 5 5 6 6 5 5 8 8 5 5 8 5 \
+ | 5 5 8 6 5 5 8 6 5 5 6 6 5 5 8 5 |
 |
 =1 cro g rest min rest smb rest
 =2 cro B,)1 qua [Ab B'] cro c qua [db c] min. B cro F
@@ -840,7 +860,9 @@ il0.4    95
 =5 cro f qua [g an] cro b qua [a b] cro c~ an ab qua [b a]
 =6 min d g f# fn
 /
-3 bars | 1.1 1.1 1.1 1.1 1.1 1.4 1.1 1.1 | 1 1.2 1 1.3 1 1 1 1.2 | 7.6 |
+3 bars | 3b 5 5 5 5 5 5 5 5 5 5 8 6 5 5 6 5 \
+ | 5 5 8 6 5 5 8 6 5 5 6 6 6 6 8 5 \
+ | 10 10 10 10 10 10 10 9 |
 |
 =1 cro db)1 min c cro B,(1 B,)1 qua [A G] cro A f
 =2 cro B min A cro G(2 G)2 min c qua [d c]
@@ -863,7 +885,9 @@ il0.4    95
 =5 cro rest a g c~(1 c~)1 bn min c~
 =6 min c e g a
 /
-4 bars | 1.1 1.1 1.1 1.4 1.1 1.1 1.1 1.1 | 8 | 1 1 1 1 1 1 1.3 1 | 3 ||
+4 bars | 3b 5 5 6 6  5 5 8 6  5 5 5 5 5 5 5 4 \
+ | 10 10 10 10 10 10 10 9 \
+ | 5 5 5 5 5 5 5 5 6 6 5 5 8 6 5 4 | 25 ||
 |
 il0.5          100
 =1 cro f)1 qua [g f] min e(1 cro e)1 e min d(1
@@ -899,7 +923,7 @@ midi off
 12 systems /18/18/18/18/18/18/18/18/18/18/18/18/
 title Ricercare a 6 - Violin 1 part
 /
-9 bars | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+9 bars | 3b 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 |
 =1 treble 3b 4/2 smb rest rest
 i0.1      Viola 1 . . .
@@ -923,7 +947,7 @@ i0.1  Violin 2 . . .
 =1 smb rest rest
 i0.1  Bass . . .
 /
-9 bars | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+9 bars | 3b 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 |
 il0.1        10
 =1 treble 3b smb rest rest
@@ -946,7 +970,7 @@ il0.1   15
 |
 =1 smb rest rest
 /
-4 bars | 8.8 | 8 | 8 | 8 |
+4 bars | 3b 8.8 | 8 | 8 | 8 |
 |
 =1 treble 3b min c e g a
 |
@@ -957,7 +981,7 @@ il0.2    20
 |
 =1 cro Bn G c  f min e d
 /
-4 bars |1 1 1 1.7 1.2 1.7 1.2 1.2 |1 1.5 1.9 1.9 1.5 .8 .8 1.5 |2.5 3.2 |6.4 |
+4 bars | 3b 1 1 1 1.7 1.2 1.7 1.2 1.2 |1 1.5 1.9 1.9 1.5 .8 .8 1.5 |2.5 3.2 |6.4 |
 |
 =1 treble 3b min. c qua [B, c] cro d qua [c d] cro e d
 |
@@ -968,7 +992,7 @@ il0.4           25
 |
 =1 min c)1 B,(1 B,)1 An(2
 /
-4 bars | 1.2 2.1 1.2 1.7 .9 .9 .9 .9 | 1 1.5 1 1 .8 .8 .8 .8 | 2 1.6 1.6 2 | 1.3 1.3 2 1.6 |
+4 bars | 3b 1.2 2.1 1.2 1.7 .9 .9 .9 .9 | 1 1.5 1 1 .8 .8 .8 .8 | 2 1.6 1.6 2 | 1.3 1.3 2 1.6 |
 |
 =1 treble 3b cro A)2 qua [G F#] cro G qua [An B'] smb c(1
 |
@@ -979,7 +1003,7 @@ il0.4           25
 il0.4   30
 =1 smb d(1 cro d)1 db min c(1
 /
-4 bars | 1 1 1.2 1.2 1 1 1 1.7 | 1 1.5 1 1.5 .7 .7 .7 .7 | 5.2 | 1.6 1.6 1.6 2 |
+4 bars | 3b 1 1 1.2 1.2 1 1 1 1.7 | 1 1.5 1 1.5 .7 .7 .7 .7 | 5.2 | 1.6 1.6 1.6 2 |
 |
 =1 treble 3b min c)1 cro B A min. G qua [An B']
 |
@@ -989,7 +1013,7 @@ il0.4   30
 |
 =1 min e)1 d(1 d)1 cro c B
 /
-4 bars | 8 | .8 .8 1 1 1 1.5 .8 .8 | 1 1.5 .8 .8 .8 .8 .8 .8 | .7 .7 .7 .7 1 .8 .8 1.5 |
+4 bars | 3b 8 | .8 .8 1 1 1 1.5 .8 .8 | 1 1.5 .8 .8 .8 .8 .8 .8 | .7 .7 .7 .7 1 .8 .8 1.5 |
 |
 il0.4  35
 =1 treble 3b min A a(1 a)1 g(1
@@ -1000,7 +1024,7 @@ il0.4  35
 |
 =1 smb c~ cro f min b qua [a g]
 /
-4 bars | 8.8 | 5 | 8 | 8 |
+4 bars | 3b 8.8 | 5 | 8 | 8 |
 |
 =1 treble 3b cro f g min a(1 cro a)1 g min rest
 |
@@ -1012,7 +1036,7 @@ i0.8 .56 ( An ? )
 |
 =1 cro a)1 g min gb min. f cro b
 /
-5 bars | 8 | 2.7 3.5 | 1 1 .8 .8 1 .8 .8 1.5 | 2.7 3.5 |
+5 bars | 3b 8 | 2.7 3.5 | 1 1 .8 .8 1 .8 .8 1.5 | 2.7 3.5 |
 |
 =1 treble 3b min en f g an
 |
@@ -1023,7 +1047,7 @@ il0.6     45
 |
 =1 min g rest smb rest
 /
-3 bars | 1.8 1.8 2.4 2 | 1 .8 .8 1.5 1 .8 .8 1 | 1 1.5 .8 .8 1 1.5 1 1 |
+3 bars | 3b 1.8 1.8 2.4 2 | 1 .8 .8 1.5 1 .8 .8 1 | 1 1.5 .8 .8 1 1.5 1 1 |
 |
 =1 treble 3b smb rest cro rest g min c~(1
 |
@@ -1031,7 +1055,7 @@ il0.6     45
 |
 =1 cro an qua [b a] min g(1 cro g)1 qua [an g] cro f# a
 /
-3 bars | 1 1 1.2 1.7 1 1 1.2 1.7 | 1 1.9 .8 .8 .8 .8 .8 .8 | 6.4 |
+3 bars | 3b 1 1 1.2 1.7 1 1 1.2 1.7 | 1 1.9 .8 .8 .8 .8 .8 .8 | 6.4 |
 |
 il0.4   50
 =1 treble 3b min. d qua [c# d] min. en qua [f# g]
@@ -1040,7 +1064,7 @@ il0.4   50
 |
 =1 min g g f# fn(1
 /
-3 bars |1.2 1.7 1.7 1.2 1.7 2.1 1.2 1.2|1 1.9 1.6 1.9 1.6 .8 .8 1|2.2 1.8 1.5 1.5|
+3 bars | 3b 1.2 1.7 1.7 1.2 1.7 2.1 1.2 1.2|1 1.9 1.6 1.9 1.6 .8 .8 1|2.2 1.8 1.5 1.5|
 |
 =1 treble 3b cro f)1 qua [en d] [e g] cro ab(1 qua [a)1 g f en] cro f g
 |
@@ -1053,7 +1077,7 @@ il0.4       55
 pagenum 2
 innerhead Violin 1 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 /
-4 bars | 2 2 2 2.4 | 2 1.6 1.6 1.6 | 1 1 1.5 1.9 .7 .7 .7 .7 | .8 .8 1 1 1.5 1.9 1 1 |
+4 bars | 3b 2 2 2 2.4 | 2 1.6 1.6 1.6 | 1 1 1.5 1.9 .7 .7 .7 .7 | .8 .8 1 1 1.5 1.9 1 1 |
 |
 =1 treble 3b min rest e min. f cro g
 |
@@ -1063,7 +1087,7 @@ innerhead Violin 1 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 |
 =1 min rest cro rest a(1 qua [a)1 g f en] cro f g
 /
-4 bars | .9 .9 .9 .9 1.2 1.7 1.7 1.7 | .8 .8 1 1 1 .8 .8 1 | 6.4 | 6.4 |
+4 bars | 3b .9 .9 .9 .9 1.2 1.7 1.7 1.7 | .8 .8 1 1 1 .8 .8 1 | 6.4 | 6.4 |
 |
 il0.4          60
 =1 treble 3b smb c(1 cro c)1 qua [B, c] [B' A G A]
@@ -1074,7 +1098,7 @@ il0.4          60
 |
 =1 min rest e c A
 /
-6 bars | 5 | 4 | 6.4 | .8 .8 1 1.2 .8 .8 .8 .8 | .8 .8 .8 .8 1 1.2 1 1 | 4 3.2 |
+6 bars | 3b 5 | 4 | 6.4 | .8 .8 1 1.2 .8 .8 .8 .8 | .8 .8 .8 .8 1 1.2 1 1 | 4 3.2 |
 |
 =1 treble 3b smb rest rest
 |
@@ -1089,7 +1113,7 @@ il0.4    65
 |
 =1 cro d B, e a min g f
 /
-3 bars | 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.7 | 1 1 .8 .8 1.9 1.5 .8 .8 | 1 1.9 1 1 1.5 1.5 1.9 1.5 |
+3 bars | 3b 1.2 1.2 1.2 1.2 1.2 1.2 1.2 1.7 | 1 1 .8 .8 1.9 1.5 .8 .8 | 1 1.9 1 1 1.5 1.5 1.9 1.5 |
 |
 il0.4  70
 =1 treble 3b cro e g b e a f db qua [e f]
@@ -1098,7 +1122,7 @@ il0.4  70
 |
 =1 cro B,)1 qua [e db] cro c B, qua [An G A B'] [c db e c]
 /
-3 bars | 3.4 3.4 2 2.4 | 1.9 1.8 .8 .8 1.9 1.5 1.5 1 | 1.9 1.5 .8 .8 .8 .8 1.5 1.9 |
+3 bars | 3b 3.4 3.4 2 2.4 | 1.9 1.8 .8 .8 1.9 1.5 1.5 1 | 1.9 1.5 .8 .8 .8 .8 1.5 1.9 |
 |
 =1 treble 3b qua [db e d c] [B, c d B,] min. c cro B
 |
@@ -1107,7 +1131,7 @@ il0.4  70
 il0.4    75
 =1 qua [f)1 e dn c] min B,(1 B,)1 qua rest [e f gb]
 /
-4 bars | 5.5 3.5 | 2.5 | 2 5 | 2 2.5 |
+4 bars | 3b 5.5 3.5 | 2.5 | 2 5 | 2 2.5 |
 |
 =1 treble 3b qua [c e db c] cro B An min B' rest
 |
@@ -1117,7 +1141,7 @@ il0.4    75
 |
 =1 smb a(1 cro a)1 a min g(1
 /
-5 bars | 1.1 1.1 1.1 1.4 1.1 1.1 1.1 1.1 | 6 | 6 | .75 .8 .7 .75 1 .8 .8 1.2 | 4 6 |
+5 bars | 3b 1.1 1.1 1.1 1.4 1.1 1.1 1.1 1.1 | 6 | 6 | .75 .8 .7 .75 1 .8 .8 1.2 | 4 6 |
 |
 il0.6    80
 =1 treble 3b min g)1 cro f e smb db(1
@@ -1130,7 +1154,7 @@ il0.6    80
 |
 =1 min d en qua [f g a f] [d a g f]
 /
-3 bars | 1 1 1.2 1.6 1.6 1.2 1 1 | .7 .6 .7 .6 1.1 1.1 1.5 1.1 | 1.1 1.1 1.1 1.4 .7 .7 .7 .7 |
+3 bars | 3b 1 1 1.2 1.6 1.6 1.2 1 1 | .7 .6 .7 .6 1.1 1.1 1.5 1.1 | 1.1 1.1 1.1 1.4 .7 .7 .7 .7 |
 |
 il0.5    85
 =1 treble 3b min eb(1 qua [e)1 d c Bn,] [c' Bb' A G] min A
@@ -1153,7 +1177,7 @@ il0.4 .20 90
 |
 =1 cro rest f d g c qua [d en] min f(1
 /
-4 bars | 1.2 1.7 1.2 1.7 1.2 2.5 1.2 2.5 | 2 1.6 1.1 1.1 | .8 .8 1 1 1 2.1 1 1 | 1 1 1 1 1.2 1.5 1 1 |
+4 bars | 3b 1.2 1.7 1.2 1.7 1.2 2.5 1.2 2.5 | 2 1.6 1.1 1.1 | .8 .8 1 1 1 2.1 1 1 | 1 1 1 1 1.2 1.5 1 1 |
 |
 =1 treble 3b cro f)1 qua [eb f] cro B qua [c d] cro e smq [f{1 e d e}1] cro f smq [g{1 f e f}1]
 |
@@ -1164,7 +1188,7 @@ il0.4    95
 |
 =1 cro f)1 dn B e An qua [Bn, c] cro d db(1
 /
-3 bars | 1.2 1 1 1.2 1.2 1.7 1.2 1.2 | 1 1 1 1.9 .8 .8 1 1.5 | 8 |
+3 bars | 3b 1.2 1 1 1.2 1.2 1.7 1.2 1.2 | 1 1 1 1.9 .8 .8 1 1.5 | 8 |
 |
 =1 treble 3b cro db)1 min c cro B,(1 B,)1 qua [A G] cro A f
 |
@@ -1172,7 +1196,7 @@ il0.4    95
 |
 =1 cro e Bn c rest rest e c f(1
 /
-4 bars | 1.1 1.3 1 1 1.1 1.1 1 1 | 8 | 8 | 5 ||
+4 bars | 3b 1.1 1.3 1 1 1.1 1.1 1 1 | 8 | 8 | 5 ||
 |
 il0.5          100
 =1 treble 3b cro f)1 qua [g f] min e(1 cro e)1 e min d(1
@@ -1186,7 +1210,7 @@ il0.5          100
 13 systems /18/18/18/18/18/18/18/18/18/18/18/18/18/
 title Ricercare a 6 - Violin 2 part
 /
-7 bars | 5 | 3.5 | 3.5 | 3.5 | 8 | 2 2.4 2 2 | 4 4.8 |
+7 bars | 3b 5 | 3.5 | 3.5 | 3.5 | 8 | 2 2.4 2 2 | 4 4.8 |
 |
 =1 treble 3b 4/2 smb rest rest
 |
@@ -1203,7 +1227,7 @@ il0.4    5
 |
 =1 min Bn, Bb,(1 cro B,)1 An Ab G
 /
-3 bars | 8.8 | 1 1.9 1 1 1 1 1 1 | 1 1.5 1 1 1 1 1 1 |
+3 bars | 3b 8.8 | 1 1.9 1 1 1 1 1 1 | 1 1.5 1 1 1 1 1 1 |
 |
 =1 treble 3b cro F# D G c min B An
 |
@@ -1212,7 +1236,7 @@ il0.4    5
 il0.4        10
 =1 cro f)1 qua [e d] min e(1 cro e)1 d An Bn
 /
-3 bars | 2.2 2.8 2.8 2.2 | 4.6 4 | 2 2 2.5 2 |
+3 bars | 3b 2.2 2.8 2.8 2.2 | 4.6 4 | 2 2 2.5 2 |
 |
 =1 treble 3b cro c G rest qua [c Bb,] [An G] cro F rest Ab
 |
@@ -1220,7 +1244,7 @@ il0.4        10
 |
 =1 cro F)2 E rest B e qua [d c] cro Bn c
 /
-4 bars | 1 1 1 2.3 1.2 1.2 1.2 1.2 | .8 .8 .8 1.5 .9 .9 .9 .9 | 1 1 1 1 1.9 1 1 1 | 7 |
+4 bars | 3b 1 1 1 2.3 1.2 1.2 1.2 1.2 | .8 .8 .8 1.5 .9 .9 .9 .9 | 1 1 1 1 1.9 1 1 1 | 7 |
 |
 =1 treble 3b min. d qua [en f] cro en f# g an
 |
@@ -1231,7 +1255,7 @@ il0.4   15
 |
 =1 min G rest cro rest F min f(1
 /
-3 bars | 1.2 1 1 1.6 1 1 1 1.6 | .8 .8 1.5 1.5 1 .8 .8 1 | 1 1 1 1.6 1 1 1 1 |
+3 bars | 3b 1.2 1 1 1.6 1 1 1 1.6 | .8 .8 1.5 1.5 1 .8 .8 1 | 1 1 1 1.6 1 1 1 1 |
 |
 =1 treble 3b cro f)1 min e qua [d c] min. d qua [e d]
 |
@@ -1240,7 +1264,7 @@ il0.4   15
 il0.4    20
 =1 cro d)1 qua [g f] [e d c Bb,] cro An qua [Bn, c] min d(1
 /
-3 bars | 1.2 2 1 1 2 1 1 1.2 | 1 1 1 1.8 .8 .8 .8 1.6 |1 1.6 1 1.6 .7 .7 .7 .7|
+3 bars | 3b 1.2 2 1 1 2 1 1 1.2 | 1 1 1 1.8 .8 .8 .8 1.6 |1 1.6 1 1.6 .7 .7 .7 .7|
 |
 =1 treble 3b cro d)1 qua [c Bn,] min c(1 qua [c)1 Bb,] min Ab cro F
 |
@@ -1248,7 +1272,7 @@ il0.4    20
 |
 =1 cro G qua [F G] cro A qua [G A] smb B
 /
-4 bars | .8 .8 .8 .8 1.2 1.6 1 1 | .8 .8 .8 .8 .8 .8 .8 1.5 | .8 .8 .8 1.9 .8 .8 .8 1.9 | 1 1 .8 .8 1 1.9 1 1 |
+4 bars | 3b .8 .8 .8 .8 1.2 1.6 1 1 | .8 .8 .8 .8 .8 .8 .8 1.5 | .8 .8 .8 1.9 .8 .8 .8 1.9 | 1 1 .8 .8 1 1.9 1 1 |
 |
 =1 treble 3b smb A cro. G qua Bn min c(1
 |
@@ -1259,7 +1283,7 @@ il0.4        25
 |
 =1 cro F# D min G(2 cro G)2 qua [An G] cro F# G
 /
-4 bars | 1 1 1.3 1.5 1 1 1 1 | 1.5 1.3 1.3 1.5 | 6 | 1.5 1.5 1.5 2.5 |
+4 bars | 3b 1 1 1.3 1.5 1 1 1 1 | 1.5 1.3 1.3 1.5 | 6 | 1.5 1.5 1.5 2.5 |
 |
 =1 treble 3b min An(2 qua A)2 cro G qua F# min G An
 |
@@ -1270,7 +1294,7 @@ il0.4   30
 |
 =1 smb F(2 min F)2 cro E qua [F G]
 /
-5 bars | 2 2 2.4 2 | 2.5 3.2 | 1.6 2 1.3 1.3 | 2 1.6 1.6 2 | 5.2 |
+5 bars | 3b 2 2 2.4 2 | 2.5 3.2 | 1.6 2 1.3 1.3 | 2 1.6 1.6 2 | 5.2 |
 |
 =1 treble 3b min F B(1 cro B)1 Bn min c
 |
@@ -1283,7 +1307,7 @@ il0.4  35
 |
 =1 smb c B
 /
-5 bars |1 1 1 1.7 1 1 1 1 |1 1.5 1 1 .8 .8 .8 .8 |6.4 |2.5 3.2 |2 1.6 2 1.6 |
+5 bars | 3b 1 1 1 1.7 1 1 1 1 |1 1.5 1 1 .8 .8 .8 .8 |6.4 |2.5 3.2 |2 1.6 2 1.6 |
 |
 =1 treble 3b min. c qua [d e] min f e(1
 |
@@ -1296,7 +1320,7 @@ il0.4   40
 |
 =1 cro e)1 d min db(1 cro d)1 c min cb
 /
-4 bars | 1 1 1 1.2 1.2 2 1 1 | 1 1 1 1.9 1 1 1 1.7 | 1 1 1 1.9 1 1 1 1 | 1 1 1 1.6 1 1 1 1 |
+4 bars | 3b 1 1 1 1.2 1.2 2 1 1 | 1 1 1 1.9 1 1 1 1.7 | 1 1 1 1.9 1 1 1 1 | 1 1 1 1.6 1 1 1 1 |
 |
 =1 treble 3b min. B cro e(1 e)1 qua [d c] min B,
 |
@@ -1307,7 +1331,7 @@ il0.4   40
 il0.5      45
 =1 min. f)1 qua [e d] min c rest
 /
-4 bars | 2 2 2.4 2 | 1 .8 .8 1.5 1 .8 .8 1.5 | 2 3 2 2 | 1 1.5 1 1.2 .8 .8 1 1 |
+4 bars | 3b 2 2 2.4 2 | 1 .8 .8 1.5 1 .8 .8 1.5 | 2 3 2 2 | 1 1.5 1 1.2 .8 .8 1 1 |
 |
 =1 treble 3b min c e cro g d min g(1
 |
@@ -1317,7 +1341,7 @@ il0.5      45
 |
 =1 cro c)1 qua [d c] cro B, G min en cro rest An(2
 /
-3 bars | 1.2 2.3 1.2 .9 .9 .8 .8 | 1 1 1 1.6 1.6 1 .8 .8 | 1 1 .8 .8 1.6 2 1 1 |
+3 bars | 3b 1.2 2.3 1.2 .9 .9 .8 .8 | 1 1 1 1.6 1.6 1 .8 .8 | 1 1 .8 .8 1.6 2 1 1 |
 |
 il0.4    50
 =1 treble 3b cro A)2 qua [G F#] cro G rest smb rest
@@ -1331,7 +1355,7 @@ il0.4    50
 pagenum 2
 innerhead Violin 2 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 /
-4 bars | 1.2 2.1 1.7 2.1 1.7 1 1 1.2 | 2.4 2 1.6 1.6 | .8 .8 1 1 .8 .8 .8 1 | 2 1.6 1.6 1.6 |
+4 bars | 3b 1.2 2.1 1.7 2.1 1.7 1 1 1.2 | 2.4 2 1.6 1.6 | .8 .8 1 1 .8 .8 .8 1 | 2 1.6 1.6 1.6 |
 |
 =1 treble 3b cro. G qua Bb [Ab G F En] [F G] min A cro G
 |
@@ -1342,7 +1366,7 @@ il0.4       55
 |
 =1 cro e B, min e dn db(1
 /
-3 bars | 1.2 2.1 1.7 1.2 1.7 2.1 1.2 1.2 | .8 .8 .8 .8 1 .8 .8 1.5 | 1.5 1 1.5 1.9 1.5 .8 .8 1 |
+3 bars | 3b 1.2 2.1 1.7 1.2 1.7 2.1 1.2 1.2 | .8 .8 .8 .8 1 .8 .8 1.5 | 1.5 1 1.5 1.9 1.5 .8 .8 1 |
 |
 =1 treble 3b cro d)1 qua [c db] [e g] cro a(1 qua [a)1 g f en] cro f g
 |
@@ -1350,7 +1374,7 @@ il0.4       55
 |
 =1 qua [G A] cro B,(1 qua [B,)1 g f en] [f g] min a cro g(1
 /
-4 bars | 1.2 1.2 2.1 2.1 .8 .8 .8 .8 | 3.2 4 | 4 3.5 | 4 3.5 |
+4 bars | 3b 1.2 1.2 2.1 2.1 .8 .8 .8 .8 | 3.2 4 | 4 3.5 | 4 3.5 |
 |
 il0.5            60
 =1 treble 3b cro g)1 cro. f qua [eb db c] smb db
@@ -1361,7 +1385,7 @@ il0.5            60
 |
 =1 cro rest B' G E min Gb E(2
 /
-3 bars | 1 1 1.2 1.2 1.6 2.1 2.1 1.6 | 3 6 | 1 1.7 1.5 1 1 1.7 1 1 |
+3 bars | 3b 1 1 1.2 1.2 1.6 2.1 2.1 1.6 | 3 6 | 1 1.7 1.5 1 1 1.7 1 1 |
 |
 =1 treble 3b min E)2 cro rest c(1 qua [c')1 F G An] [B, c db B,]
 |
@@ -1370,13 +1394,13 @@ il0.5  65
 |
 =1 cro. B qua c [db c] cro B A qua [e db] cro e a(1
 /
-2 bars | 1.7 1.7 1.7 2.1 2.1 1.7 1.7 1.7 | 1.9 1.7 1.7 2.1 2.1 1.7 2.1 1.7 |
+2 bars | 3b 1.7 1.7 1.7 2.1 2.1 1.7 1.7 1.7 | 1.9 1.7 1.7 2.1 2.1 1.7 2.1 1.7 |
 |
 =1 treble 3b qua [a)1 c~ b a] [g f e dn] [c gb f e] [d c B, c]
 |
 =1 qua [db fb e d] [c B, A, B,] [cb db c B,] [A Gb F G]
 /
-3 bars | 2.1 2.1 1.7 2.1 1.2 1 1 2.1 | .8 .8 .8 1.5 .8 .8 .8 1.5 | .8 .8 .8 1 .8 .8 .8 1 |
+3 bars | 3b 2.1 2.1 1.7 2.1 1.2 1 1 2.1 | .8 .8 .8 1.5 .8 .8 .8 1.5 | .8 .8 .8 1 .8 .8 .8 1 |
 |
 =1 treble 3b qua [A cb' B' A] [Gn F E Dn] cro E min e qua [d cn]
 |
@@ -1397,7 +1421,7 @@ il0.4  70
 il0.4    75
 =1 min F(2 qua F)2 cro En qua F [G F En F] min Gb
 /
-4 bars |1 1 2.3 2.3 2.3 1.7 1.7 1.7| 1 .8 .8 .8 2.1 1.9 1.5 1.5 | 3.6 | 1.4 1.9 .8 .8 .8 .8 1 1 |
+4 bars | 3b 1 1 2.3 2.3 2.3 1.7 1.7 1.7| 1 .8 .8 .8 2.1 1.9 1.5 1.5 | 3.6 | 1.4 1.9 .8 .8 .8 .8 1 1 |
 |
 =1 treble 3b min F(2 qua [F)2 F Eb F] [Gb Ab G F] [E F G E]
 |
@@ -1407,7 +1431,7 @@ il0.4    75
 |
 =1 qua rest [c d en] min f(1 f)1 cro eb db
 /
-6 bars | 1.6 1.6 2.4 2 | 3.2 2.5 | 1.6 2 1.3 1.3 | 1 .8 .8 1.5 1 1 .8 .8 | 3.5 | 3.5 |
+6 bars | 3b 1.6 1.6 2.4 2 | 3.2 2.5 | 1.6 2 1.3 1.3 | 1 .8 .8 1.5 1 1 .8 .8 | 3.5 | 3.5 |
 |
 il0.4    80
 =1 treble 3b smb c(1 cro c)1 c min B,(1
@@ -1437,7 +1461,7 @@ il0.5    85
 il0.4 .20 90
 =1 cro G d B e An qua [Bn, c] min d
 /
-4 bars | 1.2 2.3 .9 .9 .9 .9 .9 .9 | .8 .8 1 1 .8 .8 1 1.9 | 1.6 1.6 1.6 2 | 1 1.4 1 1.4 .7 .7 .8 1 |
+4 bars | 3b 1.2 2.3 .9 .9 .9 .9 .9 .9 | .8 .8 1 1 .8 .8 1 1.9 | 1.6 1.6 1.6 2 | 1 1.4 1 1.4 .7 .7 .8 1 |
 |
 =1 treble 3b cro G qua [An Bn'] min c Bn Bb
 |
@@ -1447,7 +1471,7 @@ il0.4 .20 90
 |
 =1 cro B,)1 qua [Ab B'] cro c qua [db c] min. B cro F
 /
-4 bars | 1.2 1 1 1.7 1.2 1.2 1.2 2.4 | .8 .8 .8 .8 1 .8 .8 2 | 1 .8 .8 1 1 .8 .8 1.4 | 1 1 1 2 .8 .8 1.4 1.9 |
+4 bars | 3b 1.2 1 1 1.7 1.2 1.2 1.2 2.4 | .8 .8 .8 .8 1 .8 .8 2 | 1 .8 .8 1 1 .8 .8 1.4 | 1 1 1 2 .8 .8 1.4 1.9 |
 |
 il0.4    95
 =1 treble 3b cro En min c qua [B' A] cro G c F qua [G An]
@@ -1458,7 +1482,7 @@ il0.4    95
 |
 =1 cro Bn c rest qua [Ab Bb'] min c(1 qua [c)1 d c Bn,]
 /
-5 bars | 2.2 1.7 1.7 2.2 | 1 .8 .8 2.1 .8 .8 .8 1 | 1 .8 .8 1 1 .8 .8 1 | .7 .7 .7 1 .8 .8 .8 .8 | 4.5 ||
+5 bars | 3b 2.2 1.7 1.7 2.2 | 1 .8 .8 2.1 .8 .8 .8 1 | 1 .8 .8 1 1 .8 .8 1 | .7 .7 .7 1 .8 .8 .8 .8 | 4.5 ||
 |
 =1 treble 3b cro c F G rest min rest cro rest A
 |
@@ -1474,7 +1498,7 @@ il0.5          100
 13 systems /18/18/18/18/18/18/18/18/18/18/18/18/18/
 title Ricercare a 6 - Viola 1 part
 /
-4 bars | 8 | 1.6 2 1.6 1.6 | 3.3 4 | 4 3.3 |
+4 bars | 3b 8 | 1.6 2 1.6 1.6 | 3.3 4 | 4 3.3 |
 |
 =1 alto 3b 4/2 min c e g a
 |
@@ -1484,7 +1508,7 @@ title Ricercare a 6 - Viola 1 part
 |
 =1 cro Bn' G c f min e d
 /
-3 bars | 1.2 2.3 1.5 1.2 1.2 1.2 1.2 1.2 | 1 1.8 .8 .8 1 1 1 1 | 1 1 1 1.8 1.6 1 1 1 |
+3 bars | 3b 1.2 2.3 1.5 1.2 1.2 1.2 1.2 1.2 | 1 1.8 .8 .8 1 1 1 1 | 1 1 1 1.8 1.6 1 1 1 |
 |
 il0.4    5
 =1 alto 3b cro c qua [e smq d c] cro d g e a g c~(1
@@ -1493,7 +1517,7 @@ il0.4    5
 |
 =1 cro g d rest qua [g fn] [eb d] cro c rest e
 /
-4 bars |1.2 1.5 1.2 1.2 1.2 1.2 1.2 1.2| 1.6 2 2 2 | 4.4 4 | 1 1.5 1.5 1.5 1 2 .8 .8 |
+4 bars | 3b 1.2 1.5 1.2 1.2 1.2 1.2 1.2 1.2| 1.6 2 2 2 | 4.4 4 | 1 1.5 1.5 1.5 1 2 .8 .8 |
 |
 =1 alto 3b cro. d qua c cro B An G g c d
 |
@@ -1504,7 +1528,7 @@ il0.4        10
 |
 =1 cro G qua [g a] [g f e d] cro c qua [d en] min f(1
 /
-3 bars |1.2 1.2 1.2 1.7 1 1 1.2 1.2| 1 1 1.5 1 1 1 .8 .8 | 1 2.1 .8 .8 1 1 1 1 |
+3 bars | 3b 1.2 1.2 1.2 1.7 1 1 1.2 1.2| 1 1 1.5 1 1 1 .8 .8 | 1 2.1 .8 .8 1 1 1 1 |
 |
 =1  alto 3b cro f)1 Bn c' A  min  G cro An Bn
 |
@@ -1512,7 +1536,7 @@ il0.4        10
 |
 =1 cro an qua [g f#] min g(1 cro g)1 an b a(1
 /
-3 bars |1.2 2.1 1 1 1.2 1.7 1.2 1.2|.8 .8 1 1.9 1.9 1.5 1 1.5|1 1 .8 .8 1 1.5 .8 .8|
+3 bars | 3b 1.2 2.1 1 1 1.2 1.7 1.2 1.2|.8 .8 1 1.9 1.9 1.5 1 1.5|1 1 .8 .8 1 1.5 .8 .8|
 |
 il0.4   15
 =1 alto 3b cro a)1 qua [g f#] min g(1 cro g)1 qua [an g] cro f# g
@@ -1521,7 +1545,7 @@ il0.4   15
 |
 =1 cro B G min g(1 cro g)1 qua [f g] min ab
 /
-4 bars |1 1 1 1.7 1 1 1 1.7|1 2.3 1 1 1 .8 .8 1.5|2.4 2.4 2 2.4|1 .8 .8 1.5 1.5 .8 .8 1|
+4 bars | 3b 1 1 1 1.7 1 1 1 1.7|1 2.3 1 1 1 .8 .8 1.5|2.4 2.4 2 2.4|1 .8 .8 1.5 1.5 .8 .8 1|
 |
 =1 alto 3b min. g qua [f e] min. f qua [g f]
 |
@@ -1532,7 +1556,7 @@ il0.4    20
 |
 =1 cro g)1 min g qua [f g] [a g] min f cro a
 /
-5 bars | 1.2 2.3 1 1 1.2 1.6 1 1 | 2.5 3.2 | 2 2.4 2 2 | 4 3.2 | 5 |
+5 bars | 3b  1.2 2.3 1 1 1.2 1.6 1 1 | 2.5 3.2 | 2 2.4 2 2 | 4 3.2 | 5 |
 |
 =1 alto 3b cro d qua [c Bn,] min c cro. g qua f# min g
 |
@@ -1545,7 +1569,7 @@ il0.4       25
 |
 =1 smb rest rest
 /
-4 bars |1.2 1 1 1.7 .9 .9 .9 .9| .8 .8 .8 1 1 1.6 .8 1.6 | 6.4 | 1.6 2 1.4 1.4 |
+4 bars | 3b 1.2 1 1 1.7 .9 .9 .9 .9| .8 .8 .8 1 1 1.6 .8 1.6 | 6.4 | 1.6 2 1.4 1.4 |
 |
 =1 alto 3b cro rest min d qua [c d] smb e
 |
@@ -1556,7 +1580,7 @@ il0.4       25
 il0.5     30
 =1 min a)1 cro g f smb e(1
 /
-4 bars | 8 | .8 .8 .8 .8 1 1.3 1 1.5 | .8 .8 .8 .8 .8 .8 .8 1.5 | 2.5 3.2 |
+4 bars | 3b  8 | .8 .8 .8 .8 1 1.3 1 1.5 | .8 .8 .8 .8 .8 .8 .8 1.5 | 2.5 3.2 |
 |
 =1 alto 3b min e)1 d(1 d)1 c(1
 |
@@ -1566,7 +1590,7 @@ il0.5     30
 |
 =1 smb f(1 min f)1 e(1
 /
-5 bars | 4 3.3 | .8 .8 1 1 .8 .8 1 1.5 | .7 .7 .7 .7 1 .8 .8 1.9 | 5.2 | 2.5 3.2 |
+5 bars | 3b  4 3.3 | .8 .8 1 1 .8 .8 1 1.5 | .7 .7 .7 .7 1 .8 .8 1.9 | 5.2 | 2.5 3.2 |
 |
 il0.4  35
 =1 alto 3b min e)1 d smb b(1
@@ -1579,7 +1603,7 @@ il0.4  35
 |
 =1 smb b)1(1 min b)1 rest
 /
-4 bars | 1 1 1 1.2 1 1 1 1.2 | 1 1.5 1 1 1 1.9 1 1 | .8 .8 .8 .8 .8 .8 .8 1.5 | 1 1.5 .8 .8 .8 .8 .8 .8 |
+4 bars | 3b  1 1 1 1.2 1 1 1 1.2 | 1 1.5 1 1 1 1.9 1 1 | .8 .8 .8 .8 .8 .8 .8 1.5 | 1 1.5 .8 .8 .8 .8 .8 .8 |
 |
 il0.4       40
 =1 alto 3b min. f cro b min. e cro a
@@ -1590,7 +1614,7 @@ il0.4       40
 |
 =1 cro g qua [f g] min a b rest
 /
-4 bars | 1.2 1 1 2.1 1 1 1 1.7 | 3.2 2.5 | 1 1 .8 .8 1 .8 .8 1.5 | 1 1.3 1 1.5 1 1 .8 .8 |
+4 bars | 3b  1.2 1 1 2.1 1 1 1 1.7 | 3.2 2.5 | 1 1 .8 .8 1 .8 .8 1.5 | 1 1.3 1 1.5 1 1 .8 .8 |
 |
 =1 alto 3b cro rest min b qua [c~ d~b] min. e~ qua [d~n c~]
 |
@@ -1601,7 +1625,7 @@ il0.5      45
 |
 =1 cro. a qua g cro a qua [b a] cro g rest min rest
 /
-4 bars | 5.5 | 4 | 1 1 .8 .8 1 1.5 1 2 | .8 .8 .8 1 1 1 1.6 1 |
+4 bars | 3b  5.5 | 4 | 1 1 .8 .8 1 1.5 1 2 | .8 .8 .8 1 1 1 1.6 1 |
 |
 =1 alto 3b smb rest rest
 |
@@ -1616,7 +1640,7 @@ il0.4   50
 pagenum 2
 innerhead Viola 1 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 /
-4 bars | 2.4 2 1.6 1.6 | .8 .8 1 1 .8 .8 .8 1 | 2 1.6 1.6 1.6 | 1 1.5 1.8 1 1.5 1.5 1 1 |
+4 bars | 3b  2.4 2 1.6 1.6 | .8 .8 1 1 .8 .8 .8 1 | 2 1.6 1.6 1.6 | 1 1.5 1.8 1 1.5 1.5 1 1 |
 |
 =1 alto 3b cro c~)1 b min rest smb rest
 |
@@ -1627,7 +1651,7 @@ innerhead Viola 1 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 il0.4       55
 =1 cro e)1 qua [d c] [d f] cro gb(1 qua [g)1 f e d] cro e f
 /
-4 bars | 1.2 2 1.8 1.7 1.7 1 1 1.2 | 2 1.6 1.4 1.3 | 6.4 | 1.6 2 1.6 1.6 |
+4 bars | 3b  1.2 2 1.8 1.7 1.7 1 1 1.2 | 2 1.6 1.4 1.3 | 6.4 | 1.6 2 1.6 1.6 |
 |
 =1 alto 3b cro B qua [e~b d~b] [c~b b a g] [a b] min c~b cro b
 |
@@ -1637,7 +1661,7 @@ il0.4       55
 |
 =1 min en cro rest c~ min bn bb
 /
-4 bars | 2 2.4 2 2 | 4 3.2 | 3.2 4 | 3.2 4 |
+4 bars | 3b  2 2.4 2 2 | 4 3.2 | 3.2 4 | 3.2 4 |
 |
 il0.6    60
 =1 alto 3b min an ab(1 cro a)1 g gb f
@@ -1667,7 +1691,7 @@ il0.4    65
 il0.4  70
 =1 smb rest rest
 /
-7 bars | 6 | 4 | 4 | 4 | 4 | 4 | 7 4 |
+7 bars | 3b  6 | 4 | 4 | 4 | 4 | 4 | 7 4 |
 |
 =1 alto 3b smb rest rest
 |
@@ -1684,7 +1708,7 @@ il0.4    75
 |
 =1' qua rest [c B A] [G A B G] min A rest
 /
-3 bars | 1.8 1.7 2 1.7 1 1 .8 .8 | .8 .8 1.8 1.6 .7 .7 .7 .7 | 2 1.6 2 2 |
+3 bars | 3b  1.8 1.7 2 1.7 1 1 .8 .8 | .8 .8 1.8 1.6 .7 .7 .7 .7 | 2 1.6 2 2 |
 |
 =1 alto 3b qua rest [c~ b, a,] [g f en g] cro c rest min rest
 |
@@ -1693,7 +1717,7 @@ il0.4    75
 il0.7 .10 80
 =1 cro b)1 b min a(1 a)1 cro g f
 /
-3 bars |1 1 1 2 1.2 1.7 1 1|1 1 1 1.4 1.1 1 1 1.5|1 .8 .8 1.5 1 .8 .8 1.5 |
+3 bars | 3b 1 1 1 2 1.2 1.7 1 1|1 1 1 1.4 1.1 1 1 1.5|1 .8 .8 1.5 1 .8 .8 1.5 |
 |
 =1 alto 3b min. e qua [f gb] cro f qua [gn a] min b
 |
@@ -1701,7 +1725,7 @@ il0.7 .10 80
 |
 =1 cro c~ min c~ qua [b a] cro g min b qua [a g]
 /
-3 bars | 2 2 2.4 2 | 1.8 1.5 1 1 .8 .8 1.5 1.5 | 1.8 1.5 1 1 1 1 1 1 |
+3 bars | 3b  2 2 2.4 2 | 1.8 1.5 1 1 .8 .8 1.5 1.5 | 1.8 1.5 1 1 1 1 1 1 |
 |
 =1 alto 3b min f g cro c c~ min bn
 |
@@ -1710,7 +1734,7 @@ il0.7 .20 85
 |
 =1 qua [d c Bn, A,] cro G d c e g rest
 /
-3 bars | 1.2 1.2 1 1 1.7 2 .8 .8 | 1 1.9 1 1.4 1.6 1 1 1 | .7 .7 .7 .7 1 1 1 1.6 |
+3 bars | 3b  1.2 1.2 1 1 1.7 2 .8 .8 | 1 1.9 1 1.4 1.6 1 1 1 | .7 .7 .7 .7 1 1 1 1.6 |
 |
 =1 alto 3b cro rest d min g(1 qua [g)1 b an g] min a(1
 |
@@ -1718,7 +1742,7 @@ il0.7 .20 85
 |
 =1 smb rest cro rest d~ e~ qua [d~ c~]
 /
-4 bars | 2.4 2 2 2 | .8 .8 1 1 1 1 1 1.9 | 1 1 1.5 1 .8 .8 1 1 | 3.2 4 |
+4 bars | 3b  2.4 2 2 2 | .8 .8 1 1 1 1 1 1.9 | 1 1 1.5 1 .8 .8 1 1 | 3.2 4 |
 |
 il0.5    90
 =1 alto 3b cro b rest min g f# fn
@@ -1742,7 +1766,7 @@ il0.4 .18 95
 |
 =1 cro g c min f cro en qua [f g] min f
 /
-6 bars | 1 1 1 1.8 1 1 1 1.8| 3.5 2.7 | 4.2  | .8 .8 1 1 1 .8 .8 1| 1.6 2 1.6 1.6 | 4 ||
+6 bars | 3b  1 1 1 1.8 1 1 1 1.8| 3.5 2.7 | 4.2  | .8 .8 1 1 1 .8 .8 1| 1.6 2 1.6 1.6 | 4 ||
 |
 =1 alto 3b min. g qua [f g] min. a qua [g f]
 |
@@ -1760,7 +1784,7 @@ il0.5          100
 11 systems 7 /18/18/18/18/18/18/18/18/18/18/18/
 title Ricercare a 6 - Viola 2 part
 /
-8 bars | 6 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+8 bars | 3b  6 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 |
 =1 alto 3b 4/2 smb rest rest
 i0.1      Viola 1 . . .
@@ -1781,7 +1805,7 @@ i0.1  Violin 2 . . .
 |
 =1 smb rest rest
 /
-6 bars | 5 | 3.5 | 3.5 | 3.5 | 6.4 | 1.6 2 1.6 1.6 |
+6 bars | 3b  5 | 3.5 | 3.5 | 3.5 | 6.4 | 1.6 2 1.6 1.6 |
 |
 =1 alto 3b smb rest rest
 i0.1  Cello 1 . . .
@@ -1797,7 +1821,7 @@ il0.4 .01 10
 |
 =1 min F# cro rest d min c# cn
 /
-4 bars | 4 4.7 | 4 3.2 | 1 .8 .8 1 1 .8 .8 1 | 1 1.5 .8 .8 1 1.9 .8 .8 |
+4 bars | 3b  4 4.7 | 4 3.2 | 1 .8 .8 1 1 .8 .8 1 | 1 1.5 .8 .8 1 1.9 .8 .8 |
 |
 il0.4   15
 =1 alto 3b min Bn' Bb'(2 cro B')2 An Ab G
@@ -1808,7 +1832,7 @@ il0.4   15
 |
 =1 cro Bn qua [c d] min c(1 cro c)1 qua [Bn' An] min B
 /
-3 bars | 1.2 3 1 1 1.2 1.2 1.2 1.2 | 1 1.5 .8 .8 1 1 1 1 | 1 1 .8 .8 1 1.5 1 1|
+3 bars | 3b  1.2 3 1 1 1.2 1.2 1.2 1.2 | 1 1.5 .8 .8 1 1 1 1 | 1 1 .8 .8 1 1.5 1 1|
 |
 =1 alto 3b cro c qua [d{1 smq c Bn,}1] min c(1 cro c)1 e c f(1
 |
@@ -1817,7 +1841,7 @@ il0.4    20
 |
 =1 cro c G min c(1 cro c)1 qua [d e] cro f A
 /
-4 bars | 1 1 1 1.2 1.2 1.2 1.2 1.7 | 1 1.5 .8 .8 1 1.5 1 1.2 | 1.9 1.5 .8 .8 .7 .7 .7 .7 | .7 .7 .7 .7 1 1.5 1 1 |
+4 bars | 3b  1 1 1 1.2 1.2 1.2 1.2 1.7 | 1 1.5 .8 .8 1 1.5 1 1.2 | 1.9 1.5 .8 .8 .7 .7 .7 .7 | .7 .7 .7 .7 1 1.5 1 1 |
 |
 =1 alto 3b min. G cro F G c d qua [en f]
 |
@@ -1828,7 +1852,7 @@ il0.4    20
 il0.4   25
 =1 smb G)1(1 cro G)1 qua [An B'] cro c e
 /
-4 bars | .9 .9 .9 .9 1.2 1 1 1.7 | 2 1.6 2 1.6 | .8 .8 1 1 1 .8 .8 1 | 2 1.6 2 1.6 |
+4 bars | 3b  .9 .9 .9 .9 1.2 1 1 1.7 | 2 1.6 2 1.6 | .8 .8 1 1 1 .8 .8 1 | 2 1.6 2 1.6 |
 |
 =1 alto 3b smb d cro en min eb qua [d c]
 |
@@ -1838,7 +1862,7 @@ il0.4   25
 |
 =1 cro G D min E(2 cro E)2 En min F(2
 /
-4 bars | 2.4 2 2.4 2 | 2 1.6 2 2 | 1.6 2 1.6 2 | 1 1.5 .8 .8 1 1 .8 .8 |
+4 bars | 3b  2.4 2 2.4 2 | 2 1.6 2 2 | 1.6 2 1.6 2 | 1 1.5 .8 .8 1 1 .8 .8 |
 |
 il0.4   30
 =1 alto 3b cro F)2 F# min G(2 cro G)2 G min Ab(2
@@ -1849,7 +1873,7 @@ il0.4   30
 |
 =1 cro F qua [E F] min G(2 cro G)2 G min A(2
 /
-4 bars | 2.4 2 2.4 2 | 2 1.6 2 1.6 | 2 1.6 1.6 2 | 5.3 |
+4 bars | 3b  2.4 2 2.4 2 | 2 1.6 2 1.6 | 2 1.6 1.6 2 | 5.3 |
 |
 =1 alto 3b cro A)2 An min B,(2 cro B,)2 Bn min c(1
 |
@@ -1860,7 +1884,7 @@ il0.4  35
 |
 =1 smb c B
 /
-5 bars | 1.6 1.6 2 2.4 | 2.6 3.2 | 2 1.6 2 1.6 | 1.6 2 1.6 2 | 1.4 1.4 2 1.6 |
+5 bars | 3b  1.6 1.6 2 2.4 | 2.6 3.2 | 2 1.6 2 1.6 | 1.6 2 1.6 2 | 1.4 1.4 2 1.6 |
 |
 =1 alto 3b smb A(2 min A)2 cro G A
 |
@@ -1873,7 +1897,7 @@ il0.4       40
 |
 =1 smb B(1 cro B)1 c min db
 /
-5 bars | 1 1 1 1.7 1 1 1 1 | 4.5 | 1.6 1.6 2 1.6 | 1 .8 .8 1.5 .8 .8 .8 1.9 | 1 1.2 1 1 1 1 .8 .8 |
+5 bars | 3b  1 1 1 1.7 1 1 1 1 | 4.5 | 1.6 1.6 2 1.6 | 1 .8 .8 1.5 .8 .8 .8 1.9 | 1 1.2 1 1 1 1 .8 .8 |
 |
 =1 alto 3b min. c qua [db c] min B, c
 |
@@ -1904,7 +1928,7 @@ il0.4 .02 50
 pagenum 2
 innerhead Viola 2 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 /
-3 bars | 1 1 1.2 1.5 1 1 1 1.2 | 2 1.6 1.6 1.6 | 1 1.5 1.8 1 1.5 1.9 1 1 |
+3 bars | 3b  1 1 1.2 1.5 1 1 1 1.2 | 2 1.6 1.6 1.6 | 1 1.5 1.8 1 1.5 1.9 1 1 |
 |
 =1 alto 3b min rest cro rest G min. An cro Bn
 |
@@ -1912,7 +1936,7 @@ innerhead Viola 2 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 |
 =1 cro B)1 qua [An G] [A, c] cro db(1 qua [d)1 c B, An,] cro B c(1
 /
-4 bars | 1.2 2.3 1.4 1.4 2.5 1.1 1.1 1.2 | 1.4 1.4 1.7 2.0 | 1 1.4 1 1 .8 .8 1 1 | 1.5 1.9 1.5 1.5 .8 .8 .9 1.4 |
+4 bars | 3b  1.2 2.3 1.4 1.4 2.5 1.1 1.1 1.2 | 1.4 1.4 1.7 2.0 | 1 1.4 1 1 .8 .8 1 1 | 1.5 1.9 1.5 1.5 .8 .8 .9 1.4 |
 |
 il0.4   55
 =1 alto 3b cro c)1 qua [B' Ab] [Gb F E D] [E F] min Gb cro F
@@ -1923,7 +1947,7 @@ il0.4   55
 |
 =1 qua [c)1 B, c db] [c' B' A G] min. A qua [G F]
 /
-4 bars | 1 1 1 1.3 .8 .8 .8 1.2 | 1.9 .8 .8 1 1 1 .8 .8 | 1 1 1 1 1 2.2 .8 .8 | 2 1.6 1.35 1.35 |
+4 bars | 3b  1 1 1 1.3 .8 .8 .8 1.2 | 1.9 .8 .8 1 1 1 .8 .8 | 1 1 1 1 1 2.2 .8 .8 | 2 1.6 1.35 1.35 |
 |
 =1 alto 3b min. c qua [F G] cro A rest rest qua rest G
 |
@@ -1985,7 +2009,7 @@ il0.4 .10 75
 il0.4 .10 80
 =1 qua [E)2 En D E] min F(2 qua [F)2 F En F] min G(2
 /
-4 bars | 1.7 1.7 1 1 1 1 1.2 1.7 | 3.2 2.7 | 6.4 | 1.5 1.5 1.9 1.5 1 .8 .8 1.9 |
+4 bars | 3b  1.7 1.7 1 1 1 1 1.2 1.7 | 3.2 2.7 | 6.4 | 1.5 1.5 1.9 1.5 1 .8 .8 1.9 |
 |
 =1 alto 3b qua [G)2 G F G] min A(2 A)2 cro G qua [A B']
 |
@@ -1995,7 +2019,7 @@ il0.4 .10 80
 |
 =1 qua [B, c d B,] [G, db c B,] cro c min f qua [e dn]
 /
-3 bars | 1.2 1.4 1.2 1.2 1 1 2 1.7 | 1.5 1.5 1.9 1.5 1 1 .8 .8 | .7 .7 .7 .7 .8 .8 1.9 1.9 |
+3 bars | 3b  1.2 1.4 1.2 1.2 1 1 2 1.7 | 1.5 1.5 1.9 1.5 1 1 .8 .8 | .7 .7 .7 .7 .8 .8 1.9 1.9 |
 |
 il0.5    85
 =1 alto 3b cro. c qua B cro A f min c(1 qua [c)1 eb d c]
@@ -2004,7 +2028,7 @@ il0.5    85
 |
 =1 smb rest min rest qua rest [g f# en]
 /
-3 bars | 2.4 2.4 1.2 1.2 1 1 2.4 2.4 | 1.2 1 1 1 1 1 1 1 | 1 1 1 1 1 1.5 1.5 1 |
+3 bars | 3b  2.4 2.4 1.2 1.2 1 1 2.4 2.4 | 1.2 1 1 1 1 1 1 1 | 1 1 1 1 1 1.5 1.5 1 |
 |
 =1 alto 3b qua [d c Bn, An,] cro G Bb min c(1 qua [c')1 F# G An]
 |
@@ -2013,7 +2037,7 @@ il0.5    85
 il0.4    90
 =1 cro d rest rest B c qua [d e] [d c] cro d(1
 /
-5 bars | 2.4 2 2 2.4 | .8 .8 .8 .8 .8 .8 .8 1.5 | 1 2.3 .8 .8 .8 .8 .8 .8 | 1 1 .8 .8 .7 .7 .7 .7 | 1 1 1.3 1 1 1.5 .8 .8 |
+5 bars | 3b  2.4 2 2 2.4 | .8 .8 .8 .8 .8 .8 .8 1.5 | 1 2.3 .8 .8 .8 .8 .8 .8 | 1 1 .8 .8 .7 .7 .7 .7 | 1 1 1.3 1 1 1.5 .8 .8 |
 |
 =1 alto 3b cro d)1 c min rest rest cro rest G
 |
@@ -2026,7 +2050,7 @@ il0.4    90
 il0.4    95
 =1 cro rest c A db G qua [A B'] min c
 /
-4 bars | 1 1 1 2.2 1.2 1.2 1.2 1.2 | 2 2 1.6 2 | 1 1.9 .8 .8 .8 .8 .8 .8 | .8 .8 1 1 1 .8 .8 1 |
+4 bars | 3b  1 1 1 2.2 1.2 1.2 1.2 1.2 | 2 2 1.6 2 | 1 1.9 .8 .8 .8 .8 .8 .8 | .8 .8 1 1 1 .8 .8 1 |
 |
 =1 alto 3b min. B qua [c dn] cro e d rest B,(1
 |
@@ -2036,7 +2060,7 @@ il0.4    95
 |
 =1 min rest cro rest e d min g cro f
 /
-4 bars | 2.4 2 2.4 2.4 | 1 .8 .8 1 1 .8 .8 1 | 1 1 1 1 1.6 .7 .8 .7 | 4 ||
+4 bars | 3b  2.4 2 2.4 2.4 | 1 .8 .8 1 1 .8 .8 1 | 1 1 1 1 1.6 .7 .8 .7 | 4 ||
 |
 il0.5          100
 =1 alto 3b cro g rest min rest cro rest c d An
@@ -2050,7 +2074,7 @@ il0.5          100
 11 systems /18/18/18/18/18/18/18/18/18/18/18/
 title Ricercare a 6 - Cello 1 part
 /
-9 bars | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 8 |
+9 bars | 3b  4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 8 |
 |
 =1 bass   3b 4/2 smb rest rest
 i0.1      Viola 1 . . .
@@ -2073,7 +2097,7 @@ i0.1  Violin 2 . . .
 |
 =1 min c e g a
 /
-4 bars | 2 2.4 2 2 | 3.2 4 | 4 3.2 | 1 2.3 1 1 1 1 1 1 |
+4 bars | 3b  2 2.4 2 2 | 3.2 4 | 4 3.2 | 1 2.3 1 1 1 1 1 1 |
 |
 il0.4        10
 =1 bass   3b min Bn cro rest g min f# fn
@@ -2084,7 +2108,7 @@ il0.4        10
 |
 =1 cro c qua [e' smq d' c'] cro d' g e a g c~(1
 /
-3 bars |1.2 2.1 1 1 1.2 1.2 1.2 1.2|1 1 1 1.9 1.5 1 1 1 | 1 1.4 1 1 1 1 1 1 |
+3 bars | 3b 1.2 2.1 1 1 1.2 1.2 1.2 1.2|1 1 1 1.9 1.5 1 1 1 | 1 1.4 1 1 1 1 1 1 |
 |
 =1 bass   3b cro c~)1 qua [b an] min b(1 cro b)1 an en f#
 |
@@ -2093,7 +2117,7 @@ il0.4   15
 |
 =1 cro. d qua c cro B An G g c d
 /
-5 bars | 1 1 1 1 1 1 1.2 1.7 | 5 | .8 .8 .8 1.5 .8 .8 .8 .8 | .8 .8 1 1 1 .8 .8 1 | 1 .8 .8 1.5 .7 .6 .7 .6 |
+5 bars | 3b  1 1 1 1 1 1 1.2 1.7 | 5 | .8 .8 .8 1.5 .8 .8 .8 .8 | .8 .8 1 1 1 .8 .8 1 | 1 .8 .8 1.5 .7 .6 .7 .6 |
 |
 =1 bass   3b min e en min. f qua [eb d]
 |
@@ -2106,7 +2130,7 @@ il0.4    20
 |
 =1 cro c~ min c qua [d, e] smb f(1
 /
-4 bars | 1.2 1.7 1.2 1.2 1.2 2.1 1 1 | 6.4 | .8 .8 .8 .8 .8 .8 1 1.5 | 2.5 3.2 |
+4 bars | 3b  1.2 1.7 1.2 1.2 1.2 2.1 1 1 | 6.4 | .8 .8 .8 .8 .8 .8 1 1.5 | 2.5 3.2 |
 |
 =1 bass   3b cro f)1 qua [e d,] cro e a g qua [b an] min b(1
 |
@@ -2117,7 +2141,7 @@ il0.4    20
 il0.4        25
 =1 smb d min e g
 /
-4 bars | 1.2 2.2 1 1 1.2 2.1 1 1 | .8 .8 1 1.5 .8 .8 .8 .8 | 1 .8 .8 1 1 1.5 .8 .8 | 1.6 2 1.3 1.3 |
+4 bars | 3b  1.2 2.2 1 1 1.2 2.1 1 1 | .8 .8 1 1.5 .8 .8 .8 .8 | 1 .8 .8 1 1 1.5 .8 .8 | 1.6 2 1.3 1.3 |
 |
 =1 bass   3b cro d qua [en f#] min g(1 cro g)1 qua [f# g] min an
 |
@@ -2127,7 +2151,7 @@ il0.4        25
 |
 =1 min d cro rest B smb c
 /
-5 bars | 7 | 1.3 1.3 1.6 2 | 5.2 | .8 .8 .8 1.5 .8 .8 .8 1.5 | .8 .8 .8 1.5 .8 .8 .8 1.5 |
+5 bars | 3b  7 | 1.3 1.3 1.6 2 | 5.2 | .8 .8 .8 1.5 .8 .8 .8 1.5 | .8 .8 .8 1.5 .8 .8 .8 1.5 |
 |
 il0.4   30
 =1 bass   3b smb d e
@@ -2140,7 +2164,7 @@ il0.4   30
 |
 =1 min. f qua [e f] min. g qua [f g]
 /
-5 bars | 1 1 1 1.7 1 1 1 1.7 | 3.2 2.6 | .8 .8 .8 1 1 1.5 .8 .8 | 2 1.6 1.6 1.6 | 3.2 2.6 |
+5 bars | 3b  1 1 1 1.7 1 1 1 1.7 | 3.2 2.6 | .8 .8 .8 1 1 1.5 .8 .8 | 2 1.6 1.6 1.6 | 3.2 2.6 |
 |
 il0.4  35
 =1 bass   3b min. a qua [g a] min. b qua [a b]
@@ -2153,7 +2177,7 @@ il0.4  35
 |
 =1 smb f min e rest
 /
-5 bars | 5 | 4 | 2.5 3.2 | 2 1.6 1.6 1.6 | .7 .7 .7 .7 1 1.5 .8 .8 |
+5 bars | 3b  5 | 4 | 2.5 3.2 | 2 1.6 1.6 1.6 | .7 .7 .7 .7 1 1.5 .8 .8 |
 |
 il0.4       40
 =1 bass   3b smb rest rest
@@ -2166,7 +2190,7 @@ il0.4       40
 |
 =1 smb f cro e qua [d e] min f(1
 /
-5 bars |8|1 1.4 1.5 1 1 1.4 .8 .8|1.5 .8 .8 1 .8 .8 .8 .8|6.4|.8 .8 1 1.3 .8 .8 .8 .8|
+5 bars | 3b 8|1 1.4 1.5 1 1 1.4 .8 .8|1.5 .8 .8 1 .8 .8 .8 .8|6.4|.8 .8 1 1.3 .8 .8 .8 .8|
 |
 il0.5      45
 =1 bass   3b min f)1 rest f a
@@ -2179,7 +2203,7 @@ il0.5      45
 |
 =1 min f# cro rest d~ min c~# c~n
 /
-5 bars | 4 4.8 | 4 3.2 | 3.2 2.6 | 5.2 | 1.6 1.6 1.6 2 |
+5 bars | 3b  4 4.8 | 4 3.2 | 3.2 2.6 | 5.2 | 1.6 1.6 1.6 2 |
 |
 il0.4   50
 =1 bass   3b min bn bb(1 cro b)1 an ab g
@@ -2196,7 +2220,7 @@ il0.4   50
 pagenum 2
 innerhead Cello 1 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 /
-4 bars | 2.4 2 2 2 | 1 1.5 1.9 1 1.5 1.5 1 1 | 1 1 1.5 1.9 1.5 .8 .8 1 | 3.2 2.5 |
+4 bars | 3b  2.4 2 2 2 | 1 1.5 1.9 1 1.5 1.5 1 1 | 1 1 1.5 1.9 1.5 .8 .8 1 | 3.2 2.5 |
 |
 il0.4       55
 =1 bass   3b cro b f min b an ab(1
@@ -2207,14 +2231,14 @@ il0.4       55
 |
 =1 min f rest smb rest
 /
-2 bars | 10 | 8 |
+2 bars | 3b  10 | 8 |
 |
 =1 bass   3b cro rest qua [b a] cro g qua [a g] [f en] min f cro c~(1
 |
 il0.5          60
 =1 qua [c~)1 d~b c~ b] cro c~ a qua [b c~ d~ e~b] cro d~ b
 /
-3 bars | 3.2 4.8 | 2 1.6 3 3 | 1 1 .8 .8 1.5 1.9 1.9 1.5 |
+3 bars | 3b  3.2 4.8 | 2 1.6 3 3 | 1 1 .8 .8 1.5 1.9 1.9 1.5 |
 |
 =1 bass   3b smb c~(1 cro c~)1 f g c~(1
 |
@@ -2253,7 +2277,7 @@ il0.4 .02 70
 |
 =1 cro f~ c~ qua [f~ e~ d~b c~] [b c~ b an] cro b c~(1
 /
-4 bars | 2.4 2.4 2 2.4 | 1 1 .7 .7 1 .8 .8 1 | 1 1.6 .8 .8 .8 .8 .8 .8 | 1.6 1 1.3 1.4 |
+4 bars | 3b  2.4 2.4 2 2.4 | 1 1 .7 .7 1 .8 .8 1 | 1 1.6 .8 .8 .8 .8 .8 .8 | 1.6 1 1.3 1.4 |
 |
 il0.5 75
 =1 bass   3b cro c~)1 f b ab min g cro rest b
@@ -2264,7 +2288,7 @@ il0.5 75
 |
 =1 min f)1 cro en rest smb rest
 /
-4 bars | 2 2.4 2 3.5 | .8 .8 1.5 1.9 .8 .8 1.5 1.5 | 5.2 | .8 .8 .8 .8 1 1.5 .8 .8 |
+4 bars | 3b  2 2.4 2 3.5 | .8 .8 1.5 1.9 .8 .8 1.5 1.5 | 5.2 | .8 .8 .8 .8 1 1.5 .8 .8 |
 |
 =1 bass   3b min rest cro rest A min B(2 qua [B)2 B A B]
 |
@@ -2275,7 +2299,7 @@ il0.4 .10 80
 |
 =1 min c cb(2 cro c)2 qua [B A] min B
 /
-4 bars | 8 | 1 .8 .8 1.5 1 1 .8 .8 | 1.5 .8 .8 1.5 1 1 1 1 | 1.5 1.5 1 1 1 .8 .8 1.5 |
+4 bars | 3b  8 | 1 .8 .8 1.5 1 1 .8 .8 | 1.5 .8 .8 1.5 1 1 1 1 | 1.5 1.5 1 1 1 .8 .8 1.5 |
 |
 =1 bass   3b min A c e rest
 |
@@ -2286,7 +2310,7 @@ il0.5    85
 |
 =1 qua [f~)1 e~ d~ c~] cro d~ rest rest min g qua [an b]
 /
-4 bars | 2 2.4 1.6 1.6 | .8 .8 1.5 1.5 1 1.5 .8 .8 | 2 2 1.6 2 | 4 3.2 |
+4 bars | 3b  2 2.4 1.6 1.6 | .8 .8 1.5 1.5 1 1.5 .8 .8 | 2 2 1.6 2 | 4 3.2 |
 |
 =1 bass   3b min an cro d rest smb rest
 |
@@ -2297,7 +2321,7 @@ il0.5    85
 il0.4 .18 90
 =1 cro b rest rest g min an bn
 /
-4 bars | 1.2 2.3 1.7 1.2 1.2 2.3 1.2 1.2 | 2 2 1.6 2 | 1 1 1 1 1 1.5 1.5 1 | .8 .8 1 1 1 1 1 1.5 |
+4 bars | 3b  1.2 2.3 1.7 1.2 1.2 2.3 1.2 1.2 | 2 2 1.6 2 | 1 1 1 1 1 1.5 1.5 1 | .8 .8 1 1 1 1 1 1.5 |
 |
 =1 bass   3b cro c~ qua [c d'] [eb c,] cro ab(1 a)1 qua [g f] cro en c
 |
@@ -2337,7 +2361,7 @@ il0.5 .45 100
 11 systems 8 /18/18/18/18/18/18/18/18/18/18/18/
 title Ricercare a 6 - Cello 2 part
 /
-8 bars | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+8 bars | 3b  4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 |
 =1 bass   3b 4/2 smb rest rest
 i0.1      Viola 1 . . .
@@ -2358,7 +2382,7 @@ i0.1  Violin 2 . . .
 |
 =1 smb rest rest
 /
-8 bars | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+8 bars | 3b  4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 |
 =1 bass   3b smb rest rest
 i0.1  Bass . . .
@@ -2380,7 +2404,7 @@ il0.4   15
 |
 =1 smb rest rest
 /
-8 bars | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+8 bars | 3b  4 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 |
 =1 bass   3b  smb rest rest
 |
@@ -2400,7 +2424,7 @@ il0.4    20
 |
 =1 smb rest rest
 /
-4 bars | 8.8 | 8 | 8 | 8 |
+4 bars | 3b  8.8 | 8 | 8 | 8 |
 |
 il0.4        25
 =1 bass   3b min G B c e
@@ -2411,7 +2435,7 @@ il0.4        25
 |
 =1 cro F# D G c min B An
 /
-4 bars | 8.8 | 8 | 8 | 8 |
+4 bars | 3b  8.8 | 8 | 8 | 8 |
 |
 =1 bass   3b smb G An
 |
@@ -2422,7 +2446,7 @@ il0.4   30
 |
 =1 min e)1 d,(1 d,)1 c(2
 /
-4 bars | 8.8 | 8 | 8 | 8 |
+4 bars | 3b  8.8 | 8 | 8 | 8 |
 |
 =1 bass   3b min c)2 Bn smb c
 |
@@ -2433,7 +2457,7 @@ il0.4  35
 |
 =1 smb a(1 min a)1 g(1
 /
-6 bars | 2.2 2.8 2.2 2.2 | 7 | 3.5 4 | 6 | 6 | 6 |
+6 bars | 3b  2.2 2.8 2.2 2.2 | 7 | 3.5 4 | 6 | 6 | 6 |
 |
 =1 bass   3b min g)1 cro f e min d e
 |
@@ -2448,7 +2472,7 @@ il0.4       40
 |
 =1 smb rest rest
 /
-5 bars | 8.8 | 7 | 6 | 5 | 6 |
+5 bars | 3b  8.8 | 7 | 6 | 5 | 6 |
 |
 =1 bass   3b min rest f(1 cro f)1 en min eb(1
 |
@@ -2461,7 +2485,7 @@ il0.5      45
 |
 =1 smb rest min c e
 /
-4 bars | 1.8 1.8 2.4 2 | 5.5 | .8 .8 1 1.5 .8 .8 .8 .8 | .8 .8 1 1 .7 .7 .7 .7 |
+4 bars | 3b  1.8 1.8 2.4 2 | 5.5 | .8 .8 1 1.5 .8 .8 .8 .8 | .8 .8 1 1 .7 .7 .7 .7 |
 |
 =1 bass   3b smb g(1 cro g)1 f min e
 |
@@ -2472,7 +2496,7 @@ il0.4   50
 |
 =1 min c)2 cro B c smb d
 /
-6 bars | 8.8 | 6 | 6 | 6 | 6 | 8 |
+6 bars | 3b  8.8 | 6 | 6 | 6 | 6 | 8 |
 |
 =1 bass   3b min G rest smb rest
 |
@@ -2487,7 +2511,7 @@ il0.4       55
 |
 =1 min rest c min. d cro en
 /
-3 bars | .9 .9 .9 .9 2.1 1.7 1.2 1.2 | 1.5 1.5 1 1 .8 .8 .8 1 | 1 1.4 1 1 .7 .7 .7 .7 |
+3 bars | 3b  .9 .9 .9 .9 2.1 1.7 1.2 1.2 | 1.5 1.5 1 1 .8 .8 .8 1 | 1 1.4 1 1 .7 .7 .7 .7 |
 |
 =1 bass   3b smb f(1 qua [f)1 eb db, c,] cro B b(1
 |
@@ -2500,7 +2524,7 @@ il0.4          60
 pagenum 2
 innerhead Cello 2 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 /
-3 bars | 1.7 1.7 1.7 2.1 2.1 1.7 1 1 | 1.5 1.5 1.9 1.5 .8 .8 .8 .8 | 1.5 1.5 1.9 1.5 .8 .8 .8 .8 |
+3 bars | 3b  1.7 1.7 1.7 2.1 2.1 1.7 1 1 | 1.5 1.5 1.9 1.5 .8 .8 .8 .8 | 1.5 1.5 1.9 1.5 .8 .8 .8 .8 |
 |
 =1 bass   3b qua [b)1 g c~ b] [a g f en] [f eb db, c,] cro B c
 |
@@ -2508,7 +2532,7 @@ innerhead Cello 2 part, Ricercare a 6, Musikalisches Opfer, J. S. Bach
 |
 =1 qua rest [a g f] [e' db' c B] smb A
 /
-3 bars | 8.8 | 4 3 | 1.9 1.5 1.5 1.5 1.9 1.5 1.5 1.5 |
+3 bars | 3b  8.8 | 4 3 | 1.9 1.5 1.5 1.5 1.9 1.5 1.5 1.5 |
 |
 =1 bass   3b  cro An c A F B db' B G
 |
@@ -2517,7 +2541,7 @@ il0.4    65
 |
 =1 qua [d,)1 e db, c,] [B A G B] [c db' c B] [A G F A]
 /
-3 bars | 1.2 2.1 1.7 1.2 1.7 1.7 1.7 1.7 | 1 1.9 1.5 1.5 1 1.5 1 1 | .7 .7 .7 .7 1.5 1.5 1.9 1.5 |
+3 bars | 3b  1.2 2.1 1.7 1.2 1.7 1.7 1.7 1.7 | 1 1.9 1.5 1.5 1 1.5 1 1 | .7 .7 .7 .7 1.5 1.5 1.9 1.5 |
 |
 =1 bass   3b cro B qua [c dn'] [e f] cro g(1 qua [g)1 c, d, e] [f e d, f]
 |
@@ -2525,14 +2549,14 @@ il0.4    65
 |
 =1 smb b(1 qua [b)1 e f g] [a c~n b a]
 /
-2 bars | 1.7 1.7 1.7 2.1 2.1 1.7 2.1 1.7 | 1.9 1.5 1.9 1.9 1.5 1.5 1.5 1.9 |
+2 bars | 3b  1.7 1.7 1.7 2.1 2.1 1.7 2.1 1.7 | 1.9 1.5 1.9 1.9 1.5 1.5 1.5 1.9 |
 |
 il0.4  70
 =1 bass   3b qua [g f e f] [g b a gb] [f e db, e] [f a gb f]
 |
 =1 qua [e db, c, d,] [e gb f e] [db' c B c] [d, e f dn,]
 /
-4 bars | 2.1 1.7 2.1 1.7 .9 .9 .9 .9 | 5.2 | 1.6 2 1.6 2 | 4 3.2 |
+4 bars | 3b  2.1 1.7 2.1 1.7 .9 .9 .9 .9 | 5.2 | 1.6 2 1.6 2 | 4 3.2 |
 |
 =1 bass   3b qua [e db, c, d,] [e f gb e] smb f(1
 |
@@ -2543,7 +2567,7 @@ il0.4  70
 il0.5     75
 =1 cro b ab g f min en eb(1
 /
-5 bars | 1.2 2.1 1.2 1.2 1 1 1 1 | 1.2 1 1 1.2 1.2 1.2 1 1 | 1.6 2 1.6 1.6 | 5 | 5 |
+5 bars | 3b  1.2 2.1 1.2 1.2 1 1 1 1 | 1.2 1 1 1.2 1.2 1.2 1 1 | 1.6 2 1.6 1.6 | 5 | 5 |
 |
 =1 bass   3b cro e)1 qua [f e] cro db c min B c
 |
@@ -2556,7 +2580,7 @@ il0.5     75
 il0.4    80
 =1 smb A B
 /
-6 bars | 3.2 4 | 2 1.6 1.4 1.4 | 3.2 2.6 | 4 | 4 | 1 1.5 1.5 1.5 1.5 2.3 .8 .8 |
+6 bars | 3b  3.2 4 | 2 1.6 1.4 1.4 | 3.2 2.6 | 4 | 4 | 1 1.5 1.5 1.5 1.5 2.3 .8 .8 |
 |
 =1 bass   3b smb c(2 min c)2 B
 |
@@ -2571,7 +2595,7 @@ il0.5    85
 |
 =1 cro rest g(1 qua [g)1 f e d,] [e' d' c Bn] min c(2
 /
-3 bars | 1.7 2.1 2.1 2.1 1.2 1.2 1.2 1.2 | .8 .8 .8 .8 1.5 .8 .8 1.5 | 1.6 1.6 3 2.4 |
+3 bars | 3b  1.7 2.1 2.1 2.1 1.2 1.2 1.2 1.2 | .8 .8 .8 .8 1.5 .8 .8 1.5 | 1.6 1.6 3 2.4 |
 |
 =1 bass   3b qua [c)2 e' d' c] [Bb An G F] cro En en f# d
 |
@@ -2579,7 +2603,7 @@ il0.5    85
 |
 =1 min d e(1 qua [e')1 d' c B] cro c d
 /
-6 bars | 1.2 1.2 1 1 .8 .8 .8 .8 | 5 | 5 | 5 | 6.4 | 6.4 |
+6 bars | 3b  1.2 1.2 1 1 .8 .8 .8 .8 | 5 | 5 | 5 | 6.4 | 6.4 |
 |
 il0.4    90
 =1 bass   3b  cro g rest min rest smb rest
@@ -2595,7 +2619,7 @@ il0.4    90
 il0.4    95
 =1 min c f en eb
 /
-4 bars | 8 | 1 1 1 1 1 1.9 .8 .8 | 1 1 .8 .8 1 1.5 .8 .8 | 6.4 |
+4 bars | 3b  8 | 1 1 1 1 1 1.9 .8 .8 | 1 1 .8 .8 1 1.5 .8 .8 | 6.4 |
 |
 =1 bass   3b min d g f# fn
 |
@@ -2605,7 +2629,7 @@ il0.4    95
 |
 =1 min c e g a
 /
-4 bars | 2 2.4 2 2 | 3.2 4 | 4 3.2 | 5 ||
+4 bars | 3b  2 2.4 2 2 | 3.2 4 | 4 3.2 | 5 ||
 |
 il0.5          100
 =1 bass   3b min Bn cro rest g min f# fn

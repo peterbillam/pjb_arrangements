@@ -1,4 +1,28 @@
-.\" header = mushead
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.11.16.10.43.07;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Title page for late_liszt
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
 .AM
 .nr PS 12
 .nr VS 15
@@ -38,3 +62,4 @@ licence; see \f2creativecommons.org\fP\s0
 \f2\s-2This printing \*(DY.\s0\fP
 .sp 0.4c
 \f2www.pjb.com.au\fP
+@

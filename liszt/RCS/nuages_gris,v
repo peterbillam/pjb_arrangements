@@ -1,10 +1,15 @@
-head	1.2;
+head	1.3;
 access;
 symbols;
 locks
-	pjb:1.2; strict;
+	pjb:1.3; strict;
 comment	@# @;
 
+
+1.3
+date	2014.11.16.10.42.17;	author pjb;	state Exp;
+branches;
+next	1.2;
 
 1.2
 date	2014.10.22.22.59.01;	author pjb;	state Exp;
@@ -22,13 +27,13 @@ desc
 @
 
 
-1.2
+1.3
 log
-@all notes typed in :-)
+@as released
 @
 text
 @4 systems 55 /19-30-19/19-30-19/19-30-19/19-30-19 25/
-pagenum 2
+pagenum
 title Nuages Gris
 innerhead Franz Liszt,  1881
 leftfoot typeset 2014 Peter J Billam
@@ -127,6 +132,9 @@ i0.5 .05 dim  .   .   .
 =2 leg99 vol60 4 rest A_ vol+9 B_ vol+9 C#(2
 
 5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 15/
+pagenum
+innerhead Nuages Gris,  Franz Liszt,  1881
+leftfoot typeset 2014 Peter J Billam
 
 /
 5 bars | 2b 8 | 8 | 8 | 8 | 8 |
@@ -137,10 +145,10 @@ i0.5 .05 dim  .   .   .
 =1 vol70 4 rest A  vol+9 B  vol+9 c#(2
 =2 vol60 4 rest A_ vol+9 B_ vol+9 C#(2
 |
-=1' 4 c#)2 vol-9 d 2 vol-9 B
+=1' 4 c#)2 vol-9 d 2 vol-9 B treble
 =2  4 C#)2 vol-9 D 2 vol-9 B_
 |
-=1 2 rest treble vol90 leg110 2 B'
+=1 2 rest vol90 leg110 2 B'
 =2  vol65 4 rest d vol+9 g vol+9 c~#(1
 |
 =1  2 A vol-8 En
@@ -223,17 +231,55 @@ i0.5 .03 sempre legato
 I0.5 .75 p
 =2 2 blank 1 rest treble
 | 3.6
-=1 1 vol75 leg99 <F#rr Bnll f#>
+#P=1 1 vol75 leg99 <F#rr Bnll f#>
+#M=1 1 vol75 leg99 16. blank 16 F#rr Bn f# 1 blank
 i0.5 arpegg.
-=2 1 vol65 leg99 <A_r-P E G Bn>
+#P=2 1 vol65 leg99 <A_r-P E G Bn>
+#M=2 1 vol65 leg99 16 A_r-P E G Bn 1 blank
 | 4.0
-=1 1 <Gnr(2 B(3 g(1>
+#P=1 1 <Gnr(2 B(3 g(1>
+#M=1 vol65 16. blank 16 Gnr(2 B(3 g(1 1 blank
 i0.5 arpegg.
-=2 1 <A_r(4-P E(2 G(3 Bn(1>
+#P=2 1 <A_r(4-P E(2 G(3 Bn(1>
+#M=2 vol55 16 A_r(4-P E(2 G(3 Bn(1 1 blank
 | 4.4
 =1 1 <Gr)2 B)3 g)1>
 =2 1 <A_r)4 E)2 G)3 B)1>
 =2 1 blank 32 blank-,-,-*
+
+midi pause 2.0
+
+@
+
+
+1.2
+log
+@all notes typed in :-)
+@
+text
+@d2 1
+a2 1
+pagenum 2
+d101 3
+d114 1
+a114 1
+=1' 4 c#)2 vol-9 d 2 vol-9 B
+d117 1
+a117 1
+=1 2 rest treble vol90 leg110 2 B'
+d200 2
+a201 1
+=1 1 vol75 leg99 <F#rr Bnll f#>
+d203 2
+a204 1
+=2 1 vol65 leg99 <A_r-P E G Bn>
+d206 2
+a207 1
+=1 1 <Gnr(2 B(3 g(1>
+d209 2
+a210 1
+=2 1 <A_r(4-P E(2 G(3 Bn(1>
+d215 3
 @
 
 

@@ -1,4 +1,4 @@
-5 systems 15 /20-45-20/20-45-20/20-45-20/20-45-20/20-45-20 10/
+5 systems 15 /20-45-20/20-45-20/20-45-20 10/20-45-20 10/20-45-20 10/
 pagenum 2
 title Contrapunctus 11
 innerhead J. S. Bach
@@ -248,7 +248,7 @@ il0.7  40
 =2' 4. blank 1 rest''
 =2, 8 leg85 [f-s2, leg99 e-s4, f g] 4 leg85 a leg99 A-s4,
 
-5 systems 5 /20-45-20/20-45-20/20-40-20/20-50-20/20-45-20 10/
+5 systems 5 /20-45-20 5/20-45-20 5/20-40-20/20-50-20/20-45-20 10/
 pagenum
 innerhead Contrapunctus 11, J. S. Bach
 leftfoot typesetting (c) 2010 Peter Billam
@@ -372,7 +372,7 @@ il0.7   60
 =2' 8 leg85 [d~ a-,-s3,] leg99 2 d~-s2, 4 c~n-s3,
 =2, 4 leg99 d-s1,-s5, 2. rest
 
-5 systems 15 /20-45-20/20-55-20/20-45-20/20-45-20/20-45-20 10/
+5 systems 15 /20-45-20/20-55-20 5/20-45-20/20-45-20 5/20-45-20 10/
 pagenum
 innerhead Contrapunctus 11, J. S. Bach
 leftfoot typesetting (c) 2010 Peter Billam
@@ -1029,7 +1029,7 @@ rs0.69 .04 5
 =2' 8 leg85 [b)1 leg99 g-s2, leg75 ab-s1, a] 2 leg85 a(1
 =2, 4 leg99 fn-s3, 8 rest c-s1,-s5, 4 db-s1,-s4, dn-s3,
 
-5 systems 5 /20-45-20/20-50-20/20-35-20/20-45-20/20-45-20 15/
+5 systems 5 /20-45-20/20-50-20/20-35-20 7 /20-45-20 7/20-45-20 15/
 pagenum
 innerhead Contrapunctus 11, J. S. Bach
 leftfoot typesetting (c) 2010 Peter Billam

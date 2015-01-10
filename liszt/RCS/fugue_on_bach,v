@@ -1,10 +1,15 @@
-head	1.5;
+head	1.6;
 access;
 symbols;
 locks
-	pjb:1.5; strict;
+	pjb:1.6; strict;
 comment	@# @;
 
+
+1.6
+date	2014.11.16.10.41.42;	author pjb;	state Exp;
+branches;
+next	1.5;
 
 1.5
 date	2014.11.01.05.26.22;	author pjb;	state Exp;
@@ -37,9 +42,9 @@ desc
 @
 
 
-1.5
+1.6
 log
-@extended to bar 122
+@as released
 @
 text
 @4 systems 35 /19-30-19/19-30-19/19-30-19/19-30-19 35/
@@ -50,7 +55,8 @@ leftfoot typeset 2014 Peter J Billam
 midi channel 1 patch 0
 
 /
-5 bars | 2b 4/4 10 | 48 | 48 | 48 |
+5 bars | 2b 4/4 9 | 10 11 10 12 | 7 7 7 6 7 6 5 5 \
+ | 5 5 5 5 6 7 7 5 | 6 7 6 7 7 7 6 5 |
 midi pause 0.3
 | 4/4 1.2
 i1.0 .03 Andante
@@ -107,15 +113,15 @@ il1.0 .10 100
 =2' 8 leg90 [Bn leg110 Fn leg90 En leg110 Bb] \
  leg90 [A  leg110 Eb leg90 D leg110 d]
 /
-3 bars | 2b 48 | 9 6 6 6 6 6 6 5 | 48 |
+3 bars | 2b 7 6 6 6 6 6 6 5 | 10 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 il0.7 .04 105
-=1' 8 <B_)4 F)2 Gx)1> 4 leg110 <C# En A> leg90 <D# G#> leg110 <Dnl G Bn> \
+=1' 8 <B_)4 F)2 Gx)1> 4 leg110 <C#l En A> leg90 <D#l G#> leg110 <Dnl G Bn> \
  8 leg90 <C#(4 Gnll(2 A#xll(1>
 =2' 8 leg90 [c# leg110 G leg90 F# leg110 cn] \
  leg90 [Bn leg110 Fn leg90 En leg110 en]
 |
-=1' 8 <C#r)4 G)2 A#xll)1> 4 leg110 <D# F#l Bn> leg90 <E# A#> leg110 <En A#l c#> 8 leg90 <F# Anll d#>
+=1' 8 <C#r)4 G)2 A#xll)1> 4 leg110 <D# F#ll Bn> leg90 <E#l A#> leg110 <En A#ll c#> 8 leg90 <F# Anll d#>
 =2' 8 leg90 [d# leg110 A leg90 G# leg110 dn] leg90 [c# leg110 Gn leg90 F# leg110 cn]
 |
 =1' 8 rest leg110 [a leg90 g#] leg110 [dn leg90 c#] \
@@ -123,7 +129,7 @@ il0.7 .04 105
 =1, 8 blank 4 d# G# c# 8 Gnl(2
 =2  4 leg90 Bn leg110 Fn leg90 En leg110 Bb
 
-5 systems 30 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 35/
+5 systems 20 /19-35-19/19-35-19/19-30-19/19-30-19/19-30-19 35/
 pagenum
 innerhead Fugue on the Theme BACH: Exposition,  Franz Liszt
 leftfoot typeset 2014 Peter J Billam
@@ -145,7 +151,7 @@ il0.7 .04 110
 =1, 8 leg110 [B_n C] 2 leg90 E 4 leg110 F#
 =2  4 leg90 eb leg110 g leg90 f# leg110 a
 /
-3 bars | 2b 48 | 48 | 48 |
+3 bars | 2b 6 8 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
 |
 =1' 8 leg110 [c-s3 leg90 Bn-s2] leg110 4 f 2 blank
 =1, 4 leg90 Fn leg110 <Abxl Bnl> leg90 <G Bbl en> leg110 <c# e b-s2-s3-s5>
@@ -189,7 +195,7 @@ il0.7 .04 115
 =2' 4 leg110 <G#llr g#l> 2 leg90 <Gnllr gnl> 4 leg110 <F#llr f#l>
 =2, 8 leg110 [e leg90 d] leg110 [d leg90 c#] leg110 [c leg90 d] leg110 [d e]
 =2 4 blank-,-,-* blank-,-,-P blank-,-,-* 8 blank-,-,-P blank-,-,-*
-|
+| 1.1 0.9 0.8 0.8
 =1' 4 leg110 <ab(2 c~(1> 83 [<ab)2 c~)1> bn-I3 blank 2 blank
 =1, 4 leg110 e 83 d blank blank 2 blank
 =1 2 blank treble 83 blank 2 blank
@@ -200,14 +206,14 @@ il0.7 .04 115
 =2' 4 blank 83 blank blank F_-s2, \
  [E_n-s3, G_-s1,-I3 F_-s4,] [A_b-s2, G_-s3,-I3 B_b-s1,]
 =2 4 blank-,-,-P blank-,-,-*
-|
+| 0.8 0.75 0.7 0.65
 =1' 83 [F-s1 Ab G] [Bb' A c'] [Bn d c#] [eb d f]
 =2 83 [A_b-s4, C-s2,-I3 B_n-s3,] [D-s1, C-s4, E-s2,] \
  [D-s3, F-s1, En-s3,] [G-s1, F-s4, Ab]
 /
 3 bars | 4 5 5 4 4 5 5 4 5 4 4 3 \
  | 5 4 5 4 5 5 5 4 4 4 5 3 | 5 4 4 5 5 5 4 3 3 3 3 3 ||
-|
+| 0.7 0.75 0.8 0.8
 il1.0   120
 =1' 83 [en g f] 4 ab 43 c# 83 g{'1 4 f#}'1
 #P=1, 4 blank 83 [ab Bn d] [c# Bb g] [f# An c]
@@ -215,20 +221,65 @@ il1.0   120
 #P=2' 83 [G B Ab] 8 [F A] [En G] [Eb F#]
 #M=2' 83 [G B Ab] 8 blank A blank G blank F#
 =2, 4 blank F En Eb
-|
+| 3.0
 =1' 43 Bn 83 fn{'1 4 en}'1 43 An 83 eb{'1 4 d}'1
 #P=1, 83 [Bn Ab fn] [en G Bb] [An F# eb] [d Fn Ab]
 #M=1, 83 blank Ab blank blank G B blank F# blank blank Fn Ab
 #P=2' 8 [D Fn] 8 [Db En] [C Eb] [B_n Dn]
 #M=2' 8 blank Fn blank En blank Eb blank Dn
 =2, 4 D Db C B_n
-|
+| .85 1.0 1.2 1.2
 =1' 43 G 83 db{'1 4 vol+15 c}'1(1 c)1 vol-20 Bn
 #P=1, 83 [G En db] [c Eb F#] 2 Fn
 #M=1, 83 blank En blank blank Eb F# 2 Fn
 #P=2' 8 [B_b Db] 8 [A_n C] 2 Dn
 #M=2' 8 blank Db blank C 2 Dn
 =2, 4 B_b A_n 2 A_bl
+
+midi pause 2.0
+
+@
+
+
+1.5
+log
+@extended to bar 122
+@
+text
+@d9 2
+a10 1
+5 bars | 2b 4/4 10 | 48 | 48 | 48 |
+d67 1
+a67 1
+3 bars | 2b 48 | 9 6 6 6 6 6 6 5 | 48 |
+d70 1
+a70 1
+=1' 8 <B_)4 F)2 Gx)1> 4 leg110 <C# En A> leg90 <D# G#> leg110 <Dnl G Bn> \
+d75 1
+a75 1
+=1' 8 <C#r)4 G)2 A#xll)1> 4 leg110 <D# F#l Bn> leg90 <E# A#> leg110 <En A#l c#> 8 leg90 <F# Anll d#>
+d83 1
+a83 1
+5 systems 30 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 35/
+d105 1
+a105 1
+3 bars | 2b 48 | 48 | 48 |
+d149 1
+a149 1
+|
+d160 1
+a160 1
+|
+d167 1
+a167 1
+|
+d175 1
+a175 1
+|
+d182 1
+a182 1
+|
+d189 3
 @
 
 

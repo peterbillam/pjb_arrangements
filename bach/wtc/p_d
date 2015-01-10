@@ -62,7 +62,7 @@ il0.7   5
 il0.7 .03 10
 =1' 163 [E C A] [E C c] [D F Bb] [Gn E B] \
  [A-s5 F-s3 A] [C-s2 A_ A] [D B_n G] [E C# G]
-=2 8 [A, a] [a g] leg60 [f'-s1, leg95 F] [F E-s4,]
+=2 8 [A, a] [a g] leg60 [f'-s1, leg95 F-s5,] [F-s3, E]
 /
 2 bars | 1b 4 4 4 4 4 4 4 4 6 4 4 4 4 4 4 4 4 4 6 4 4 6 4 3 \
  | 4 4 4 4 4 6 4 4 4 4 4 5 4 4 6 4 4 4 4 4 4 4 4 3  |
@@ -71,7 +71,7 @@ il0.7 .03 10
  [B G, leg100 eb] leg85  [cn A, leg100 e] leg85 \
  [d B leg100 d-s5] leg85 [F-s2 D leg100 d'] leg85 \
  [G-s2 En leg100 c'] leg85 [A-s3 F#-s2 leg100 c'] leg85
-=2 8 leg65 [D leg95 d'] [d' c-s3,] leg65 [B, leg95 b] [b a]
+=2 8 leg65 [D leg95 d'] [d'-s3, c] leg65 [B, leg95 b] [b a]
 |
 =1, 163 [B-s3 G d] [B-s2 G g-s5] leg100 [eb leg85  G g] leg100 [d leg85 G g] leg100 \
  [c# leg85 A g] [en c leg100 b] leg85 [e c leg100 a] leg85 [e c leg100 g-s5] 

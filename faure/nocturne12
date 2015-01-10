@@ -1,0 +1,81 @@
+6 systems 10 /19-40-19/19-30-19/19-45-19 \
+ /19-35-19/19-35-19/19-35-19/
+pagenum 1
+title Douxième Nocturne
+innerhead Gabriel Fauré   Op.107   1916
+midi channel 0 patch 0
+/
+2 bars | 1# 12/8 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 |
+| 4.14
+I0.9 .01 Andante moderato
+=1' treble 1# 12/8 cha0 leg99 vol110 \
+ 4. B(1-emph 8 B)1 4 G# 4. B(1 8 B)1 4 B(1-emph
+=1, 1# 12/8 leg95  vol85 \
+ 8 [G# B_ G] [B_ E G_#] [G B_ G] [B_ G B_]
+I0.5 .03 f
+=2' bass   1# 12/8 cha0 leg99 vol100 \
+ cc64=127 2. rest 4. rest <E(2 e(1> cc64=0
+|
+=1' vol80 4 B)1 8 A(1 A)1 4 G(1 G)1 8 F(1 F)1 4 E
+=1, vol55 8 [Gn B_ F] [A_ E G_] [E G_ D] [F_ C E_]
+I0.3 .01 p
+=2' vol100 cc64=127 4. <E)2 e)1> vol60 <B_ B> cc64=0 \
+ cc64=127 <C c> <G_ G> cc64=0
+/
+2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1' vol80 4 E 8 D(1 D)1 4 E(1 8 [E)1 D vol85 Fn(1] F)1 4 E
+=2' vol55 8 [f c~ f] [b g b] [g fn d~] [c~ e g]
+=2, vol60 cc64=127 4. <A_ A> <E_ E> cc64=0 vol70 <B_b Bb> cc64=127 <A_(2 A(4>
+|
+=1' vol85 4 E 8 D(1 D)1 4 E 2. B_
+=2' vol55 8 [f# c~ f] [c~ b e] [a e a] [d# a g]
+=2, vol70 4. <A_)2 A)4> cc64=0 cc64=127 <G_(2 G(4> \
+ 8 <G_)2 G)4> cc64=0 4 <F_ F> <F_n Fnl> 8 <E_ E>
+/
+2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1' vol80 8 [B_ C D Eb] vol+5 [Fnl vol+5 G vol+5 A vol+5 B]
+=1, vol55 16 [A_r F_n] 8 blank 16 [A_ F_] 8 blank \
+ vol+5 16 [Eblr A_] 8 blank vol+10 16 [Fn D#] 8 blank
+=2' vol55 8 blank 16 [fn A] 8 blank 16 [f A] \
+ vol+5 8 [f vol+5 g vol+5 a vol+5 b]
+#P=2, vol55 2 blank 8 blank 16 [fr A] 8 blank 16 [f# A]
+#M=2, vol55 2 blank 8 blank 16 [fn A] 8 blank 16 [f# A]
+=2, vol60 cc64=127 4 Eb cc64=0 cc64=127 vol+5 D cc64=0 \
+ cc64=127 vol+5 C cc64=0 cc64=127 vol+5 B_n cc64=0 
+
+|
+=1' leg99 vol110 4. dn(1-emph 8 d)1 4 B 4. d(1 8 d)1 4 d(1-emph
+=1, leg95 vol85 8 [B Dn B] [D G B_] [B D B] [D B D]
+I0.5 .03 f
+=2' leg99 vol100 cc64=127 4. rest <G(2 d(1> <G)2 d)1> d cc64=0
+/
+2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1' vol80 4 d)1 8 c(1 c)1 4 Bb(1 Bb)1 8 G#(1 G#)1 4 Gn
+=1, vol55 8 [Bb D G#] [C Gn B_b] [G B_b F] [G_# Eb G_n]
+I0.3 .01 p
+=2' vol60 cc64=127 4. <G g> <D d> cc64=0 cc64=127 <Eb eb> <B_b Bb> cc64=0
+|
+=1' vol80 4 G 8 F(1 F)1 4 G(1 8 [G)1 F vol85 G#(1] G#)1 4 Gn
+=2' vol55 8 [g# e~b g#] [d~ bb d~] [bb g# f~] [e~b gn bb]
+=2, vol60 cc64=127 4. <C c> <G_ G> cc64=0 vol70 <Db db> cc64=127 <C(2 c(4>
+/
+2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1' vol85 4 G 8 F(1 F)1 4 G 2. D
+=2' vol55 8 [a e~b a] [e~b d~ g] [c~ g c~] [f# c~ bb]
+=2, vol70 4. <C)2 c)4> cc64=0 cc64=127 <B_b(2 Bb(4> 8 <B_b)2 Bb)4> cc64=0 4 <A_ A> <A_b Abl> 8 <G_ G>
+|
+=1' vol80 8 [D Eb F F#] vol+5 [G# vol+5 Bb vol+5 c vol+5 d]
+=1, vol55 16 [Cr G_#] 8 blank 16 [C G_#] 8 blank vol+5 16 [Gr C] 8 blank vol+10 16 [G# F#] 8 blank
+=2' vol55 8 blank 16 [g# c] 8 blank 16 [g# c] vol+5 8 [g# vol+5 bb vol+5 c~ vol+5 d~]
+=2, vol55 2 blank 8 blank 16 [g#r c] 8 blank 16 [a c]
+=2, vol60 cc64=127 4 F# cc64=0 cc64=127 vol+5 Fn cc64=0 cc64=127 vol+5 Eb cc64=0 cc64=127 vol+5 D cc64=0
+

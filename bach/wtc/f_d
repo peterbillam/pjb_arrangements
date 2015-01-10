@@ -80,12 +80,12 @@ il0.7 .17 10
 |
 =1' 8 [B)1-s1-s"(4)" A--s2] [Bn-s1-s3 c#-s1-s4] 8 [d-s5 B-s3]
 =1, 4 C# 8 [D E] 4 A_
-=2, 4 a(1 16 [a)1 g f en] [g-s1,-s2, f-s3, e-s4, d-s5,]
+=2, 4 a(1 16 [a)1 g f en] [g-s1,-s2, f e d]
 |
 #P=1' 16 [c#-s5 A--s3 G#-s1-s2 A--s2] 4 f-s5 d-s"  3,2"-tr
 #M=1' 16 [c# A G# A] 4 f 32-s vol-10 leg150 [e d e d e d c d] leg100 vol+10
 =1, 8 rest,, E [D C#] [B_n D]
-=2, 8 [e-s3, c#-s5,] [d-s1,-s5, e-s1,-s4,] [f-s1,-s3, d-s1,-s5,]
+=2, 8 [e-s4, c#-s5,] [d-s1,-s5, e-s1,-s4,] [f-s1,-s3, d-s1,-s5,]
 /
 3 bars | 1b 4 4 4 4 4 5 4 4 4 4 4 3 \
  | 4 5 4 6 4 5 5 4 5 5 5 3 | 4 5 4 4 4 4 4 4 4 5 4 3 |
@@ -97,7 +97,7 @@ il0.7   15
 |
 =1, 16 [eb c~ 8 b] 16 rest' [a-s4 g# f#] [a g f en]
 =2' 16 [b d~-s1, e~b-s2, d~-s1,] 4 bn e~n(1
-=2, 4 g-s2,-s5, 8 [g#l-s2,-s5, f#-s4,] [e g#]
+=2, 4 g-s2,-s5, 8 [g#l-s2,-s3, f#-s4,] [e g#]
 |
 =1  16 [d-s3 c Bn c-s4] [c B A,-s2 B-s4] [B' A G#-s2 A-s4]
 =2' 8 e~)1 rest'' 4 rest'' rest''

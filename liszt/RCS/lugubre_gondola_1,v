@@ -1,10 +1,15 @@
-head	1.7;
+head	1.8;
 access;
 symbols;
 locks
-	pjb:1.7; strict;
+	pjb:1.8; strict;
 comment	@# @;
 
+
+1.8
+date	2014.11.16.10.41.56;	author pjb;	state Exp;
+branches;
+next	1.7;
 
 1.7
 date	2014.10.27.04.47.05;	author pjb;	state Exp;
@@ -47,13 +52,13 @@ desc
 @
 
 
-1.7
+1.8
 log
-@typed in up to end, including the cresc/dim
+@as released
 @
 text
 @5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
-pagenum 2
+pagenum
 title La Lugubre Gondola I
 innerhead Franz Liszt,  1882
 leftfoot typeset 2014 Peter J Billam
@@ -207,7 +212,7 @@ leftfoot typeset 2014 Peter J Billam
 #P=1 2# 1 blank
 #P=2 2# 1 blank
 /
-6 bars | 2# 24 | 40 | 40 | 24 | 48 | 48 |
+6 bars | 2# 24 | 40 | 40 | 24 | 9 8 8 8 8 7 | 8 8 8 8 8 7 |
 |
 =1' 2# 2. B_(2
 =2  2# 2 blank 1 rest
@@ -226,12 +231,12 @@ I0.5 .03 mf
 i0.5 .25 legato
 =2, 8 [D-P A# f(1] [f)1 B A]
 #P=2' 4 D
-i1.1 .20 sempre una corda
+i1.1 .23 sempre una corda
 |
 =1  2 blank 1 rest
-=2, 8 [f B A#] [f B A#]
+=2, 8 [f B A#] [f B A]
 /
-5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+5 bars |2# 9 8 8 8 8 7 |8 9 8 8 8 7 |9 8 8 8 8 7 |8 9 8 8 8 7 |9 8 8 8 8 7 |
 |
 =1  vol85 leg110 4. rest A_#(2
 i0.7 .03 marcato
@@ -239,68 +244,68 @@ i0.7 .03 marcato
 #P=2' 4 D
 |
 =1  4. A_)2 F
-=2, 8 [f B A#] [f B A#]
+=2, 8 [f B A#] [f B A]
 |
 =1  4. rest A_#(2
 =2, 8 [D A# f(1] [f)1 B A]
 #P=2' 4 D
 |
 =1  4. A_)2 G(2
-=2, 8 [f B A#] [f B A#]
+=2, 8 [f B A#] [f B A]
 |
 =1  4. G)2 F
 =2, 8 [D A# f(1] [f)1 B-,-* A]
 #P=2' 4 D
 /
-5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+5 bars |2# 8 9 8 8 8 7 |9 8 8 8 8 7 |8 9 8 8 8 7 |9 8 8 8 8 7 |8 9 8 8 8 7 |
 |
 =1  4. E D
-=2, 8 [f B A#] [f B A#]
+=2, 8 [f B A#] [f B A]
 |
 =1 2. C(2
 =2, 8 [D-P A# f(1] [f)1 B-,-* A]
 #P=2' 4 D
 | 1.0 1.06
 =1  4. C)2 8 [D E D]
-=2, 8 [f B A#-,-*] [f B A#]
+=2, 8 [f B A#-,-*] [f B A]
 | 2.0
 =1 2. A_#
 =2, 8 [D-P A# f(1] [f)1 B-,-* A]
 #P=2' 4 D
 |
 =1  4. A_n 4 A_# leg99 8 B_
-=2, 8 [f B-,-* A#] [f B A#]
+=2, 8 [f B-,-* A#] [f B A]
 /
-5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+5 bars | 2# 9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |
 |
 =1  leg110 2. C(2
 =2, 8 [D-P A# f(1] [f)1 B A]
 #P=2' 4 D
 | 1.0 1.06
 =1  4. C)2 8 [D E D]
-=2, 8 [f-,-* B A#] [f B A#]
+=2, 8 [f-,-* B A#] [f B A]
 | 2.0
 =1 2. A_#
 =2, 8 [D-P A# f(1] [f)1 B A-,-*]
 #P=2' 4 D
 | 
 =1  4. A_n 4 A_# leg99 8 B_
-=2, 8 [f B A#] [f B A#]
+=2, 8 [f B A#] [f B A]
 | 2.0
 =1  leg110 2. C
 =2, 8 [D-P A# f(1] [f)1 B A]
 #P=2' 4 D
 
-5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+5 systems 20 /19-35-19/19-35-19/19-33-19/19-33-19/19-28-19 20/
 pagenum
 innerhead La Lugubre Gondola I, Franz Liszt,  1882
 leftfoot typeset 2014 Peter J Billam
 
 /
-5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+5 bars | 2# 8 9 8 8 8 7 |8 9 13 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |
 |
 =1  4. A_n 4 A_# leg99 8 B_
-=2, 8 [f-,-* B A#] [f B A#]
+=2, 8 [f-,-* B A#] [f B A]
 |
 =1' vol90 leg110 4 C-s2 8 B_ 4. A#(1
 =1, vol55 leg180 4. blank 8 [D#l B_ D]
@@ -318,7 +323,7 @@ leftfoot typeset 2014 Peter J Billam
 =1, vol55 leg180 8 [B_ D# B_] [D B_ D]
 =2, 8 [d# g# d] [f-P d f]
 /
-5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+5 bars | 2# 8 9 13 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 8 8 7 |9 8 8 7 7 7 |
 |
 =1' vol90 leg110 4 C-s2 8 B_ 4. A#(1
 =1, vol55 leg180 4. blank 8 [D#l B_ D]
@@ -340,7 +345,8 @@ leftfoot typeset 2014 Peter J Billam
 =1, vol55 leg180 8 [B_ vol+6 D# vol+6 A] 4. rest,
 =2, vol55 leg180 8 [d# vol+6 f  vol+6 b] 4. rest
 /
-7 bars | 2# 48 | 48 | 5 5 5 6 6 8 | 15 | 6 6 6 6 11 | 15 | 6 6 6 6 11 |
+7 bars | 2# 8 9 8 9 8 7 | 9 8 8 9 8 7 \
+ | 5 5 5 6 6 8 | 15 | 6 6 6 6 11 | 15 | 6 6 6 6 11 |
 |
 =1' vol90 8 [f)1 vol-3 e vol-3 d#] vol-3 [c-s1 vol-3 cn-s4 vol-3 B]
 =2  2. blank 1 rest-*
@@ -396,7 +402,7 @@ i0.8 .40 marcato
 #P=2' 2.// [C G#]
 #M=2  0 vol45 leg180 16 C G# C G# C G# C G# C G# C G# C G# C G#
 /
-7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+7 bars | 48 | 48 | 48 | 48 | 48 | 44 | 44 |
 |
 =1 4. g#)1 <e e~>
 #P=2' 2// [C G#]
@@ -482,7 +488,7 @@ i0.3 .06 crescendo   .   .   .
 #P=2' 2.// [A_b E]
 #M=2 vol54 leg180 16 A_b E A_b E A_b E A_b E A_b E A_b E A_b E A_b E
 |
-=1, 4. rest vol100 1 <c(2 c~(1>
+=1, 4. rest vol100 <c(2 c~(1>
 #P=2' 2.// [A_b E]
 #M=2 vol60 leg180 16 A_b E A_b E A_b E A_b E A_b E A_b E A_b E A_b E
 |
@@ -498,10 +504,10 @@ i0.3 .06 crescendo   .   .   .
 #P=2' 2.// [<Ab c> e]
 #M=2 vol78 leg180 16 <Ab c> e <Ab c> e <Ab c> e <Ab c> e-* <Ab c> e <Ab c> e <Ab c> e <Ab c> e
 /
-6 bars | 48 | 48 | 48 | 48 | 48 | 48 |
+6 bars | 44 | 8 8 8 9 8 7 | 44 | 48 | 44 | 8 8 8 9 8 7 |
 |
 =1, vol113 2. <eb(2 e~b(1-emph>
-i0.6 .05 rinforzando molto
+i0.6 .02 rinforzando molto
 #P=2' 2.// [<En-P Ab> en]
 #M=2 vol85 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
 | 1.0 1.07
@@ -526,7 +532,7 @@ i0.6 .05 rinforzando molto
 #P=2' 2.// [<E Ab> e-,-*]
 #M=2 vol115 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e-* <E Ab> e <E Ab> e <E Ab> e <E Ab> e
 /
-7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+7 bars | 46 | 48 | 46 | 48 | 48 | 48 | 46 |
 | 2.0
 =1, vol120 2. <c c~-emph>
 i0.7 .10 dim   .    .    .
@@ -556,11 +562,11 @@ i0.7 .06 .    .    .
 #P=2' 2.// [<E-* Ab> e]
 #M=2 vol55 leg180 16 <E-* Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
 |
-=1, vol90 2. <Bb(2 bb(2>
+=1, vol90 2. <Bb(2 bb(1>
 #P=2' 2.// [<E-P Ab> e]
 #M=2 vol45 leg180 16 <E-P Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
 /
-7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 ||
+7 bars | 48 | 46 | 46 | 48 | 48 | 46 | 48 ||
 |
 =1, vol85 4. <B)2 b)1> <Bn bn>
 #P=2' 2.// [<E-* Ab> e]
@@ -595,8 +601,99 @@ I0.4 .01 ppp
 =1, 2 blank 1 rest-fermata
 =2, 2 blank 1 blank---fermata
 #P=2' 2.// [<E Ab> e]
-#M=2 vol28 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
+#M=2 vol28 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e vol25 <E Ab> e <E Ab> e <E Ab> e <E Ab> e
 
+midi pause 2.0
+
+@
+
+
+1.7
+log
+@typed in up to end, including the cresc/dim
+@
+text
+@d2 1
+a2 1
+pagenum 2
+d156 1
+a156 1
+6 bars | 2# 24 | 40 | 40 | 24 | 48 | 48 |
+d175 1
+a175 1
+i1.1 .20 sempre una corda
+d178 1
+a178 1
+=2, 8 [f B A#] [f B A#]
+d180 1
+a180 1
+5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+d188 1
+a188 1
+=2, 8 [f B A#] [f B A#]
+d195 1
+a195 1
+=2, 8 [f B A#] [f B A#]
+d201 1
+a201 1
+5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+d204 1
+a204 1
+=2, 8 [f B A#] [f B A#]
+d211 1
+a211 1
+=2, 8 [f B A#-,-*] [f B A#]
+d218 1
+a218 1
+=2, 8 [f B-,-* A#] [f B A#]
+d220 1
+a220 1
+5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+d227 1
+a227 1
+=2, 8 [f-,-* B A#] [f B A#]
+d234 1
+a234 1
+=2, 8 [f B A#] [f B A#]
+d240 1
+a240 1
+5 systems 25 /19-30-19/19-30-19/19-30-19/19-30-19/19-30-19 25/
+d246 1
+a246 1
+5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+d249 1
+a249 1
+=2, 8 [f-,-* B A#] [f B A#]
+d267 1
+a267 1
+5 bars | 2# 48 | 48 | 48 | 48 | 48 |
+d289 2
+a290 1
+7 bars | 2# 48 | 48 | 5 5 5 6 6 8 | 15 | 6 6 6 6 11 | 15 | 6 6 6 6 11 |
+d346 1
+a346 1
+7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+d432 1
+a432 1
+=1, 4. rest vol100 1 <c(2 c~(1>
+d448 1
+a448 1
+6 bars | 48 | 48 | 48 | 48 | 48 | 48 |
+d451 1
+a451 1
+i0.6 .05 rinforzando molto
+d476 1
+a476 1
+7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 |
+d506 1
+a506 1
+=1, vol90 2. <Bb(2 bb(2>
+d510 1
+a510 1
+7 bars | 48 | 48 | 48 | 48 | 48 | 48 | 48 ||
+d545 3
+a547 1
+#M=2 vol28 leg180 16 <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e <E Ab> e
 @
 
 
