@@ -1,0 +1,44 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.05.08.01.08.27;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@minimal makefile, using just ${PLAY}
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#PLAY = fly_on_acoustic
+#PLAY = emily_has_gone
+PLAY = river_man
+WAVDIR = /home/pjb/wav/folk
+WAV = ${WAVDIR}/${PLAY}.wav
+dev : ${PLAY}.a4
+
+${PLAY}.a4 : ${PLAY}
+	muscript ${PLAY} > $@@
+	pkill -HUP gv
+
+play :
+	muscript -midi ${PLAY} | midisox_lua - -d stat
+
+${WAV} : ${PLAY}
+	muscript -midi ${PLAY} | timidity -Ow -o $@@ -
+	normalize $@@
+	ls -l $@@
+
+@

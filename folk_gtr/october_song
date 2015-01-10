@@ -1,0 +1,129 @@
+6 systems 10 / 19 30 19/ 19 35 19/ 19 30 19/
+title October Song
+pagenum
+innerhead Incredible String Band
+midi channel 0 patch 90
+midi channel 1 patch 25
+/
+4 bars | 2# 48 | 48 |
+| 1.6
+=1  treble8vab 2# cha0 vol110 4. blank 1 rest
+=2' treble8vab 2# cha1 vol110 2 d 8 rest' 4. e-r4
+=2, 2# 4 D_-P 8 [D A] 4 D_ 8 [D A]
+|
+=1  4. blank 1 rest
+b0.2 i
+=2' 8 f-s4 4 a-s2 8 e(1 2 e)1
+=2, 4 D_ 8 [D A-P] 4 A_ 8 [E A]
+|
+=1  4. blank 1 rest
+=2' 8 rest' 4 <c# e-up> 8 e 2 <c# e>
+=2, 4 A_ 8 E 4 A 8 [A_ E A]
+|
+=1  4. blank 1 rest
+=2' 4. b 8 b 4. b 8 b-up
+=2, 4 D-P d 4 D 8 [G_ D G]
+|
+il0.2 .20 5
+=1  4. blank 1 rest
+=2' 4 a b 8 e 4 f 8 f(1
+=2, 8 G_-P 4 D 8 G 4 D_-P 8 [D A]
+|
+=1  4. blank 1 rest
+=2' 4. f)1 8 f 16 [g-s2 f-s1 8 e-s3 e-s0 d-s3]
+=2, 8 [D_ D] 4 A 4 D_-* D
+|
+=1  4. blank 1 rest
+=2' 4. <c# e-up> 8 e 4. <c# e> 8 e
+=2, 4 A_-P E A_ 4 G
+|
+=1  4. blank 1 rest
+=2' 16 [f-s4 e-s1 8 d-s3 d e-s0] 2 <A d-up>
+=2, 4 A_ A 4 D_ 8 [D-P A]
+|
+=1  2. rest 4 D
+r0.6 .75 I'll
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D_ 8 [D A] 4 D_ 8 [D A]
+|
+il0.7 .02 10
+=1  4 D F# 2 G(1
+r0.6 .01 sing .25 you .50 this
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D_ 8 [D A] 4 D_ 8 [D G]
+|
+=1  2 G)1 83-s d' 4 G{2 F}2 83-s A
+r0.6 .50 Oc .80 -
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 B_ 8 [D A] 4 D_ 8 [D G]
+|
+=1 4. G F# 4 D(1
+r0.6 .01 to .20 - .37 ber .75 song
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 Cn 8 [D A] 4 D 8 [D G]
+|
+=1 2 D)1 43 rest D-I3 D
+r0.6 .67 for .83 there
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D_ 8 [D A] 4 D_ 8 [D G]
+|
+=1 4 E 83-s E 4 G 8 [F E] 4 D
+r0.6 .01 is .25 no .50 song .75 be .88 -
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D_-P 8 [E A] 4 A_ 8 [E A]
+|
+=1 43 E{2 F}2-I3 A(2 2 A)2(2
+r0.6 .01 fore .34 it
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D 8 [D A] 4 D_ 8 [D G]
+|
+=1  2 A)2 4 rest 4 D
+r0.6 .75 The
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D_ 8 [D A] 4 D_ 8 [D A]
+|
+=1  4 D F# 2 G(1
+r0.6 .01 words .25 and .50 tune
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D_ 8 [D A] 4 D_ 8 [D G]
+|
+=1  4 G)1 F# 43 G G-I3 F#
+r0.6 .50 are none of my
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 B_ 8 [D A] 4 Cn 8 [D G]
+|
+=1 2 D 4 rest 8 [D D]
+r0.6 .75 for my
+r0.6 .01 own
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D 8 [D A] 4 D_ 8 [D G]
+|
+=1 4 E E 43 E{2 D}2-I3 C#
+r0.6 .01 joys .25 and .50 sorrows
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 A_-P 8 [E A] 4 Cn 8 [E A]
+|
+=1 4. D 8 D(2 2 D)2(2
+r0.6 .01 bore .38 it
+=2' 8 rest' 4. d 8 rest' 4. d
+=2, 4 D_ 8 [D-P A] 4 D_ 8 [D G]
+|
+=1 2 D)2 4 rest A
+r0.6 .75 be .90 -
+=2' 8 rest' 4. d 8 rest' 4. a-s4
+=2, 4 D_ 8 [D A] 4 D_ 8 [D d]
+|
+=1 4 A cn 8 c{1 4. d}1(1
+r0.6 .01 side .25 the .50 sea
+=2' 8 rest' 4. c~ 8 rest' 4. c~
+=2, 4 D_ 8 [d a] 4 A_ 8 [d a]
+|
+=1 2 d)1(1 43 d)1 G{2-I3 F#}2
+r0.6 .75 the
+=2' 8 rest' 4. d~ 8 rest' 4. d~
+=2, 4 D 8 [d a] 4 D 8 [d a]
+|
+=1 83-s d' 2 G 4 G{2 F#}2
+r0.6 .01 bram .30 - .50 bly
+=2' 8 rest' 4. g 8 rest' 4 g 8 f#
+=2, 4 D 8 [A d] 4 D 8 [G d]

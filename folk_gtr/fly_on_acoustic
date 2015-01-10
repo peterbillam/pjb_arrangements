@@ -1,0 +1,285 @@
+6 systems / 19 30 19/ 19 35 19/ 19 35 19/ 19 35 19/ 19 30 19/ 19 35 19/
+title Fly on Home
+innerhead Peter Billam
+midi channel 0 patch 90
+midi channel 1 patch 26
+/
+3 bars | 24 |
+| 4/4 3.5
+=1 treble8vab cha0 2 blank 1 rest
+=2' treble8vab cha1 leg100 \
+ 4 rest 8 <A c e-up> 4 rest 8 <A(2 c(3 e(1-up> 2. <A)2(5 c)3(3 e)1(1>
+=2, treble8vab cha1 \
+ 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D--up
+|
+=1 2 blank 1 rest
+=2  4. blank 8 blank blank-s2-s1-s0 blank 2. blank
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1-up> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1 2 blank 1 rest
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+/
+3 bars | 72 | 72 | 8 7 6 6 6 6 6 6 6 6 6 5 |
+|
+=1 2 blank 4 rest 16 rest [D E D]
+r0.6 .70 It's getting
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+
+|
+=1  2. F# 8 rest 16 [D E]
+r0.6 .01 late .80 hasn't
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2 c)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1  2 Fn 8 A 4 G 8 F
+r0.7 .01 been .52 this  late .88 be -
+=2  8 blank 4 blank-s4-s3-s2 8 blank blank-s0-s1-s4 blank 2. blank
+=2' 4 rest 8 <c eb g> 4 rest 8 <D(5 B(3 f(1> 2. <D)5 B)3 f)1>
+=2, 4. F_-s1, 4 F_ 8 rest,, 4. G_-s2, 4 G_ 8 G
+/
+3 bars | 7 7 6 6 6 6 6 6 6 6 6 6 | 72 | 72 |
+|
+=1  1 E(1
+r0.7 .01 fore
+=2  8 blank 4 blank-s1-s3-s2 8 blank blank blank 2. blank
+=2' 4 rest 8 <G c# e> 4 rest 8 <G(2 c#(3 e(1> 2. <G)2 c)3 e)1>
+=2, 4. A_ 4 A_ 8 rest,, 4. A_ 4 A_ 8 A-s4,
+|
+=1  4 E)1 2. rest
+=2  8 blank 4 blank-s0-s2-s4 8 blank blank blank 2. blank
+=2' 4 rest 8 <G e b> 4 rest 8 <G(2 c#(3 e(1> 2. <G)2 c)3 e)1>
+=2, 4. A_ 4 A_ 8 rest,, 4. A_ 4 A_ 8 A
+|
+=1  4 F 8 F 4. F 8 [E D]
+r0.7 .01 Now .25 there's no .75 more
+=2' 4 rest 8 <Ab c f> 4 rest 8 <Ab(2 c(3 f(1> 2. <Ab)2 c)3 f)1>
+=2, 4. B_b 4 B_b 8 rest,, 4. B_b 4 B_b 8 Bb
+/
+3 bars | 72 | 72 | 72 |
+|
+=1  4 E 8 F 2 E 8 rest
+r0.7 .01 oil .27 to burn
+=2' 4 rest 8 <G e b> 4 rest 8 <G(2 c#(3 e(1> 2. <G)2 c)3 e)1>
+=2, 4. A_ 4 A_ 8 rest,, 4. A_ 4 A_ 8 A
+|
+=1  4 F 8 F 4. F 8 [E D]
+r0.7 .01 Now .25 it's time .75 for the
+=2' 4 rest 8 <Ab c f> 4 rest 8 <Ab(2 c(3 f(1> 2. <Ab)2 c)3 f)1>
+=2, 4. B_b 4 B_b 8 rest,, 4. B_b 4 B_b 8 A
+|
+=1  4 E 8 F 4. E 8 [F G]
+r0.7 .01 great .25 return .75 fly on
+=2' 4 rest 8 <Bb dx e> 4 rest 8 <G(2 Bn(3 e(1> 2. <G)2 B)3 e)1>
+=2, 4. C 4 C 8 rest,, 4. C# 8 [C# G A_]
+/
+3 bars | 5 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3\
+ | 72 | 7 6 6 6 6 6 6 6 6 6 6 5 |
+|
+=1  16 [G{2 F#}2 8 D(2] 2. D)2
+r0.5 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1 2. rest 8 [A A]
+r0.5 .75 fly on
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1  83 [G{2 F#}2-I3 D(2] 2. D)2
+r0.5 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+/
+3 bars | 72 | 6 8 6 7 6 6 6 8 6 7 6 5 | 8 6 6 6 8 6 6 6 6 8 6 5 |
+|
+=1 2. rest 8 rest 16 [E D]
+r0.7 .80 Every
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+
+|
+=1 4 E 8 rest 16 [E D] 4. E 8 rest
+r0.7 .01 bird .42 to its nest
+=2' 8 [E_-P-s3 D G#-s2 B G#-P D] [E_ D G# B G#-* D]
+|
+=1 2. rest 8 [F G]
+r0.7 .77 fly on
+=2' 8 [F_-P Eb A c A-* Eb] [G_-P F B A_-P c# g]
+
+5 systems / 19-35-19/ 19-35-19/ 19-35-19/ 19-35-19/ 19-35-19/
+/
+3 bars | 7 6 6 6 6 6 6 6 6 6 6 5 \
+ | 6 6 6 6 6 6 6 6 6 6 6 7 | 6 8 6 8 6 7 6 8 6 8 6 5 |
+|
+=1  83 [G{2 F#}2-I3 D(2] 2. D)2
+r0.6 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_-* 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1 2. rest 8 rest 16 [E D]
+r0.6 .80 Every
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1 8 [E E] rest 16 [E D] 4. E 8 rest
+r0.6 .01 baby .38 to its  breast
+=2' 8 [E_-P D G# B G#-P D] [E_ D G# B G#-* D]
+/
+3 bars | 8 6 6 6 8 6 6 6 6 8 6 5 | 7 6 6 6 6 6 6 6 6 6 6 5 | 72 |
+|
+=1 2. rest 8 [F G]
+r0.7 .73 fly   on
+=2' 8 [F_-P Eb A c A-* Eb] [G_-P F B A_-P c# g]
+|
+=1  83 [G{2 F#}2-I3 D(2] 2. D)2
+r0.7 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_-* 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1 2 rest 8 rest D(2 83 [D)2 E D]
+r0.5 .66 I'm getting
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+/
+3 bars | 72 | 72 | 72 |
+|
+=1  2. F# 8 rest 16 [D E]
+r0.7 .01 tired .80 haven't
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2 c)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 F
+|
+=1  2 Fn 8 A 4 G 8 F
+r0.7 .01 been .50 this  tired .88 be -
+=2' 4 rest 8 <c eb g> 4 rest 8 <D(2 B(3 f(1> 2. <D)2 B)3 f)1>
+=2, 4. F_ 4 F_ 8 rest,, 4. G_ 4 G_ 8 A
+|
+=1  1 E(1
+r0.7 .01 fore
+=2' 4 rest 8 <G c# e> 4 rest 8 <G(2 c#(3 e(1> 2. <G)2 c)3 e)1>
+=2, 4. A_ 4 A_ 8 rest,, 4. A_ 4 A_ 8 A
+/
+3 bars | 72 | 72 | 72 |
+|
+=1  4 E)1 rest rest 8 [D E]
+r0.6 .75 of  the
+=2' 4 rest 8 <G e b> 4 rest 8 <G(2 c#(3 e(1> 2. <G)2 c)3 e)1>
+=2, 4. A_ 4 A_ 8 rest,, 4. A_ 4 A_ 8 A
+|
+=1  8 F 4. F 4 rest 83 rest [E-I3 D]
+r0.6 .01 torture .79 and the
+=2' 4 rest 8 <Ab c f> 4 rest 8 <Ab(2 c(3 f(1> 2. <Ab)2 c)3 f)1>
+=2, 4. B_b 4 B_b 8 rest,, 4. B_b 4 B_b 8 Bb
+|
+=1  2 E 4 rest 16 rest [D E D]
+r0.6 .01 greed .78 of all the
+=2' 4 rest 8 <G e b> 4 rest 8 <G(2 c#(3 e(1> 2. <G)2 c)3 e)1>
+=2, 4. A_ 4 A_ 8 rest,, 4. A_ 4 A_ 8 A
+/
+3 bars | 6 6 6 6 6 7 6 6 6 6 6 5 \
+ | 4.5 4.5 4.5 4.5  4.5 4.5 4.5 4.5  4.5 4.5 4.5 4.5 4.5 4.5 7 4.5 \
+ | 5.5 3 3 3  3 3 3 3  3 3 3 3  3 3 3 3  3 3 3 3  3 3 3 2 |
+|
+=1  4. F 8 rest 8 F 4 E 8 D
+r0.7 .01 wealth .50 and  all .87 the
+=2' 4 rest 8 <Ab c f> 4 rest 8 <Ab(2 c(3 f(1> 2. <Ab)2 c)3 f)1>
+=2, 4. B_b 4 B_b 8 rest,, 4. B_b 4 B_b 8 A
+|
+=1  4. E 8 rest 4 rest 8 [A 16 A{2 G#}2]
+r0.7 .01 need .75 Fly  on
+=2' 4 rest 8 <Bb dx e> 4 rest 8 <G(2 Bn(3 e(1> 2. <G)2 B)3 e)1>
+=2, 4. C 4 C 8 rest,, 4. C# 8 [C# G A_]
+|
+=1  16 [G{2 F#}2 8 D(2] 2. D)2
+r0.6 .01 Home
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(2 c)3(3 e)1(1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+
+5 systems / 19-35-19/ 19-35-19/ 19-35-19/ 19-35-19/ 19-35-19 15/
+
+/
+3 bars | 6 6 6 6 6 6 6 5 6 6 6 7 \
+ | 7 6 6 6 6 6 6 5 6 6 6 5 | 9 9 9 10 9 9 9 12 |
+|
+=1 2. rest 8 [F 16 G{2 A}2]
+r0.5 .75 fly  on
+=2' 4 <A)2 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1  83 [G{2 F#}2-I3 D(2] 2. D)2
+r0.5 .01 Home
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1 2 rest 4 rest 8 rest 16 [E D]
+r0.5 .83 Every
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+/
+3 bars | 6 8 6 7 6 7 6 8 6 7 6 6 \
+ | 8 6 6 6 8 6 6 6 6 8 6 6 | 7 6 6 6 6 6 6 6 6 6 6 6 |
+|
+=1 8 E 4 E 16 [E D] 83 [E E] rest 8 rest 16 [F E]
+r0.7 .01 bullet .40 to its  trigger .85 every
+=2' 8 [E_-P D G# B G#-P D] [E_ D G# B G#-* D]
+|
+=1 8 [F F(2] 83 [F)2 F-I3 E] 8 F rest [F# 16 G A]
+r0.7 .01 insult .37 to its face .77 fly on
+=2' 8 [F_-P Eb A c A-* Eb] [G_-P F B A_-P c# g]
+|
+=1  83 [G{2 F#}2-I3 D(2] 2. D)2
+r0.6 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_-* 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+/
+3 bars | 6 6 6 6 6 7 6 5 6 6 6 7 \
+ | 6 8 6 8 6 6 6 8 6 8 6 7 | 8 6 6 6 8 6 6 6 6 8 6 7 |
+|
+=1 2. rest 8 rest 16 [E D]
+r0.5 .80 Every
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+
+|
+=1 4 E(2 83 [E)2 E-I3 D] 83 [E E] rest 8 rest 16 [F E]
+r0.6 .01 bomb .42 to its maker .85 every
+=2' 8 [E_-P D G# B G#-P D] [E_ D G# B G#-* D]
+|
+=1 8 [F F(2] 83 [F)2 E-I3 F] 8 G rest [A 16 G#{2 A}2]
+r0.7 .01 missile .37 to its base .76 fly on
+=2' 8 [F_-P Eb A c A-* Eb] [G_-P F B A_-P c# g]
+/
+3 bars | 7 6 6 6 6 6 6 5 6 6 6 5 | 72 | 7 6 6 6 6 6 6 5 6 6 6 5 |
+|
+=1  83 [G{2 F#}2-I3 D(2] 2. D)2
+r0.5 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_-* 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1 2 rest 4 rest 8 [A A]
+r0.5 .75 Fly on
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1  83 [G{2 F#}2-I3 D(2] 2. D)2
+r0.5 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_-* 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+/
+3 bars | 72 | 72 | 72 ||
+|
+=1 2 blank 1 rest
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <B(2 dx(3 e(1> 2. <B)2 dx)3 e)1>
+=2, 4. D_ 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1  8 [G{2 F#}2] 2. D
+r0.5 .01 home . . .
+=2' 4 rest 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2(5 c)3(3 e)1(1>
+=2, 4. D_-* 4 D_ 8 rest,, 4. D_ 4 D_ 8 D
+|
+=1  2 blank 1 rest
+=2' 4 <A)5 c)3 e)1> 8 <A c e> 4 rest 8 <A(2 c(3 e(1> 2. <A)2 c)3 e)1>
+=2, 4. D_-* 4 D_ 8 rest,, 2. D_
+

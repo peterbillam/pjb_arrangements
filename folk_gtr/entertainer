@@ -1,0 +1,83 @@
+9 systems 10 / 19 / 19 /
+title The Entertainer in A ; better in G !
+midi channel 1 patch 25
+/
+4 bars | 3# 48 | 48 |
+| .28 .25 .26 .25 .27 .25 .26 .25
+=1 treble8vab 3# cha1 vol110 leg150 \
+ 8 [b-s4-gs2, c~#-s1 a-s2] 4 f#-s3-gs3, 8 [g#-s1 e-s0] rest
+|
+=1' 8 [B-s0 c#-s1-gs3, A-s2-gs4,] 4 F#-s4-gs5, 8 [G#-s1 E-s2] rest
+|
+=1 8 [B_-s1 C#-s3 A_-s0] 4 F_#{2-s1 8 [G_#}2-s3 F_#-s1 F_n-s1]
+|
+=1 4 E_ rest 4 <g#l d~x e~> 8 [B-s0 cn-s3-gs4,]
+
+/
+4 bars ||: 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 c#-s3-gs4 4 a-s2 8 e-s0 4 a 8 [e-s0 a(1-s2]
+=1, 4 A_ A-s4,-so, C#-s1, A-so,
+|
+=1' 2 a)1 8 rest' [a-s4 b-s1 c~n-s3]
+=1, 4 <D-s1,-s0, F#> <D F#> <D-s2,-s0, Fn> rest,
+|
+=1' 8 [<e c~#-s2-s3> a-s4 b-s1] 4 c~# 8 g# 4 <d b-s2-s4>
+=1, 4 E_ E-s1, E_ E_
+|
+=1' 2 <c# a> 8 rest' [A B cn]
+=1, 4 A E A_ rest,,
+
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 c#-s3-gs4 4 a-s2 8 e-s0 4 a 8 [e-s0 a(1-s2]
+=1, 4 A_ A-s4,-so, C#-s1, A-so,
+|
+=1' 2 a)1 8 [e a-s4 f#-s1 e-s0]
+=1, 4 <D-s1,-s0, F#> <D F#> C#-s2, A_
+|
+=1' 8 [d# f# a] 4 c~# 8 [b a f#]
+=1, 4 B_ D# F# B
+|
+=1' 2 <g# b> 8 rest' [A B cn]
+=1, 4 E D C# B_
+
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 c#-s3-gs4 4 a-s2 8 e-s0 4 a 8 [e-s0 a(1-s2]
+=1, 4 A_ A-s4,-so, C#-s1, A-so,
+|
+=1' 2 a)1 8 rest' [a-s4 b-s1 c~n-s3]
+=1, 4 <D-s1,-s0, F#> <D F#> <D-s2,-s0, Fn> rest,
+|
+=1' 8 [<e c~#-s2-s3> a-s4 b-s1] 4 c~# 8 g# 4 <d b-s2-s4>
+=1, 4 E_ E-s1, E_ E_
+|
+=1' 2 <c# a> 8 rest' [a b c~n]
+=1, 4 A E A_ rest,,
+
+/
+5 bars | 3# 48 | 48 | 48 | 48 :|| 24 |
+|
+=1' 8 [c~#-s3 a-s4 b-s1] 4 c~#-s3 8 [a-s4 b-s1 a]
+=1, 4 A-s1, A Gn-s0 Gn
+|
+=1' 8 [c~#-s3 a-s4 b-s1] 4 c~#-s3 8 [a-s4 b-s1 a]
+=1, 4 F#-s2, F# Fn-s2, Fn
+|
+=1' 8 [c~#-s3 a-s4 b-s1] 4 c~#-s3 8 g# 4 <d b>
+=1, 4 E-s1, E E_ E_
+|
+=1' 2 <c# a> 8 rest' [A B cn]
+=1, 4 A E A_ rest,,
+| 1.05
+=1' 8 rest [<A c#> <B d> <cn eb>]
+=1, 2 A_
+
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+| 2.1
+=1' 4 <c# e> 8 <c# f#> 4 <c# e> 8 [<A c#> <B d> <cn eb>]
+=1,

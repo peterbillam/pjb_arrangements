@@ -1,0 +1,180 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2014.02.25.04.07.11;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.02.25.02.13.11;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@My Home Town, for steelstrung guitar and pick
+@
+
+
+1.2
+log
+@almost first verse
+@
+text
+@6 systems 10 / 19 30 19 /
+title My Home Town
+pagenum
+innerhead Bruce Springsteen
+midi channel 0 patch 93
+midi channel 1 patch 25
+/
+4 bars | 3# 48 | 48 |
+| 2.05
+=1  treble8vab 3# cha0 2. rest 8 [A A]
+r0.6 .75 I  was
+=2' treble8vab 3# cha1 leg230 8 [A_ E A A_] [A_ E A c#]
+|
+=1  8 [B c#] rest 4. c 8 rest A
+r0.6 .01 eight years .38 old .87 and
+=2' 8 [A_ E A A_] [A_ E A c#]
+|
+=1  8 [B c#] rest 4. c 4 rest
+r0.6 .01 running .38 with 
+=2' 8 [A_ E A A_] [A_ E A c#]
+|
+=1  2 d 8 c 4 c 8 B(1
+r0.6 .01 dime .50 in  my .88 hand
+=2' 8 [A_ F# d A_] [A_ E c# A]
+|
+=1 4. B)1 8 rest 4 rest 83 rest [G#-I3 A]
+r0.6 .84 to the
+=2' 8 [E_ G# B E_] [E_ E G# B]
+
+|
+=1' 8 A 4 B 8 B 4. B 8 rest
+r0.6 .01 bus stop .38 to pick
+=2' 8 [E_ E G# E_] [E_ E G# B]
+|
+=1  4 A 8 B' 4 B' 4 B' 8 B 
+r0.6 .01 up .25 a  .44 paper .88 for
+=2' 8 [E_ E G# E_] [E_ E G# B]
+|
+=1 2 c 8 B'{2 4. A}2
+r0.6 .01 my .50 old 
+=2' 8 [A_ E c# A_] [E_ E G# B]
+|
+=1 83 [A E-I3 F#{2] 4 F#}2 2 rest
+r0.6 .08 man
+=2' 8 [D A d D] [D A d f#]
+
+|
+=1  8 [B c# c] 4. c 83 rest [A-I3 A]
+r0.6 .01 Sit on his lap .80 in that
+=2' 8 [A_ E A A_] [A_ E A c#]
+|
+=1  8 [B c#] rest 4. c 83 rest rest-I3 d(1
+r0.6 .01 big old ute
+=2' 8 [A_ E A A_] [A_ E c# A]
+|
+=1  4 d)1 8 [d d] c 4 c 8 B(1
+r0.6 steer as we drove through
+=2' 8 [A_ F# d A_] [A_ E c# A]
+|
+=1 4. B)1 8 rest 2 rest
+r0.6 .01 town
+=2' 8 [E_ G# B E_] [E_ E G# B]
+
+|
+=1' 8 [A B B] 2 B 8 rest
+r0.6 .01 Tousle my hair
+=2' 8 [E_ E G# E_] [E_ E G# B]
+|
+=1  8 A 4 B' 4. B' 8 rest B
+r0.6 .01 say son .38 take .88 a
+=2' 8 [E_ E G# E_] [E_ E G# B]
+|
+=1 2 c 8 B' 4. A
+r0.6 .01 good .50 look  a .76 -
+=2' 8 [A_ E c# A_] [E_ E G# B]
+|
+=1 8 A{2 4. F#}2 4 rest 83 rest [D-I3 D]
+r0.6 .05 - round .83 this is
+=2' 8 [D A d D] [D A] 4 d
+
+|
+=1  8 D 4 E 8 E(2 2 E)2
+r0.6 .01 your home town
+=2' 8 [A_ E A A_] [A_ E A c#]
+|
+=1  2. rest 8 [c# c]
+r0.6 .75 this is
+=2' 8 [A_ E A A_] [A_ E A c#]
+|
+=1  2 d 4. c# 8 B(1
+r0.6 .01 your .50 home .87 town
+=2' 8 [A_ F# d A_] [A_ E A c#]
+|
+=1' 2 B)1 4 rest 83 rest [G#-I3 A]
+r0.6 .83 this is
+=2' 8 [E_ E G# E_] [E_ E G# B]
+|
+=1' 8 B 4 B 4. B 4 rest
+r0.6 .01 your home town
+=2' 8 [E_ E G# E_] [E_ E G# B]
+|
+=1' 2. rest 8 [B B]
+r0.6 .75 this is
+=2' 8 [E_ E G# E_] [E_ E G# B]
+|
+=1 2 c 8 B'{2 4. A}2
+r0.6 .01 your .50 own
+=2' 8 [A_ E c# A_] [E_ E G# B]
+|
+=1 8 A{2 2. F#}2 8 rest
+r0.6 .05 town
+=2' 8 [D A d D] [D A] 4 d
+
+|
+=1  2 blank 1 rest
+=2' 8 [A_ E A A_] [A_ E A c#]
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d5 1
+a5 1
+midi channel 0 patch 60
+d9 1
+a9 1
+| 2.2
+d35 1
+a35 1
+=1  4 A 8 B 4 B 4 B 8 B 
+d43 1
+a43 1
+=1 8 A{2 4. F#}2 2 rest
+d52 1
+a52 1
+=1  8 [B c#] rest 4. c 4 rest
+d54 1
+a54 1
+=2' 8 [A_ E A A_] [A_ E A c#]
+d56 1
+a56 1
+=1  4 d 8 [d d] c 4 c 8 B(1
+d70 1
+a70 1
+r0.6 .01 say son take .88 a
+d84 32
+@

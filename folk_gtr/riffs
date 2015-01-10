@@ -1,0 +1,64 @@
+7 systems 50 / 19 30/19 30/19/19 30/
+midi channel 0 patch 25
+
+# 20140317
+/
+4 bars | 48 |
+| .3 .2 .3 .2 .3 .2 .3 .2
+i3.3 .01 pick, swung
+=1' treble8vab cha0 4 <G b d~-s4-s2-up> <a# c~#-s3-s1-up> \
+ <G b d~-s4-s2-up> <a# c~#-s3-s1-up>
+=1,            8 rest,, 4 D-down, D-down, D-down, 8 D-down,
+|
+=1' 4 <G b d~-s4-s2-up> 8 [<a# c~#-s3-s1-up> <G b d~-s4-s2-up>] 2 rest'
+=1, 8 rest,, 4. D-down, 8 rest D 83 [F D-I3 F#]
+|
+=1' 4 <G b d~-s4-s2-up> <a# c~#-s3-s1-up> <G b d~-s4-s2-up> <a# c~#-s3-s1-up>
+=1, 8 rest,, 4 D-down, D-down, D-down, 8 D-down,
+|
+=1' 8 [<G b d~-s4-s2-up> <bb d~b-s3-s1>] [<a c~> <g bn-s2-s1>] 2 rest''
+
+midi pause 2.0
+# 20140401
+/
+2 bars | 48 |
+| 2.4
+=1 8 <e G, c~ e-s3-s0-s1-s0> 16 A_ 8 <dx G, bb e> \
+ 8. <c# G, a e> 16 A_ 8 <B G, g e> 16 A_
+|
+=1 8 [<c#' G a' e'> 16 A_] 8 [<dx G, bb e> 16 <c# G, a e>] \
+ 8 [A_ 16 A] [E_{4 F_#}4 A_]
+
+midi pause 2.0
+# 20140401
+/
+2 bars | 48 |
+| 2.8
+i0.9 .30 20141102  morse_thue?four:three?
+=1 16 [E_-P G#-s3-gs4 B'-s0 e'-s0] [F#-s3 A B'] [G#,-s3 B-s0 e] [A,-s3 c# B e]
+|
+=1 16 [G#, B-s0 e] [A, c# B-s0 e] [B-s3 d# B-s0 e] [c#-s3 e B-s0]
+|
+=1 16 [B-s3 d# e] [c#-s3 e B-s0 e] [d#-s3 f# B-s0 e] [c# e B]
+|
+=1 16 [d# f# B e] [e-s3 g# B] [d# f# B] [e g# B e-*]
+
+midi pause 2.0
+# 20141129
+/
+5 bars | 5/4 12 | 60 | 60 |
+| .25
+=1' treble8vab 5/8 rest
+=1, treble8vab 5/8 8 E_(2
+| 1.25
+=1'  4. <B_ D A> 4 <A_ D G>
+=1, 4 E_)2 E_ 8 E_(2
+|
+=1'  4. <A_ D A> 4 <A_ D G>
+=1, 4 E_)2 E_ 8 E_(2
+|
+=1'  4. <B_ D A> 4 <A_ D G>
+=1, 4 E_)2 E_ 8 E_(2
+|
+=1'  4. <A_ D A> 4 <A_ D G>
+=1, 4 E_)2 E_ 8 E_

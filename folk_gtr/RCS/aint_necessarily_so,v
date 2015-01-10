@@ -1,0 +1,158 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.11.27.03.29.06;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@It Ain't Neccessarily So, Gershwin
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@6 systems 10 / 19 20 19/ 19 20 19/ 19 30 19/ 19 30 19/ 19 30 19/ 19 30 19/
+title It Aint Necessarily So
+pagenum
+innerhead Geroge Gershwin
+midi channel 0 patch 93
+midi channel 1 patch 25
+midi channel 2 patch 46
+/
+4 bars | 48 | 48 |
+| .19 .19 .19 .28 .19 .19 .19 .28 .19 .19 .19 .28
+=1  treble8vab cha0 vol110 cc11=100 2 blank 1 rest
+=2  treble8vab cha2 cc11=60
+=2' treble8vab cha1+2 vol90 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2,                       4.. E_ 16 E_(1 8. [E_)1 16 E_]
+|
+=1  2 blank 1 rest
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_(1]
+|
+=1  2 blank 1 rest
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_)1 16 E_(1 4 E_)1
+|
+=1  2 blank 1 rest
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_]
+/
+4 bars | 48 | 48 |
+|
+=1  2 blank 1 rest
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_(1]
+|
+=1  2 blank 1 rest
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_)1 16 E_(1 4 E_)1
+|
+=1  2 blank 1 rest
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_]
+|
+=1  4. rest E
+r0.4 .51 It
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_(1]
+/
+4 bars | 48 | 48 |
+|
+=1' 4 B Bb E
+r0.6 .01 ain't .35 ne - .68 ce -
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_)1 16 E_(1 4 E_)1
+|
+=1  4 A Ab E
+r0.6 .01 sa - .33 ri - .67 ly
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_]
+|
+=1  8 [G{2 E}2(2] 2 E)2(2
+r0.6 .01 so ;
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_(1]
+|
+=1  4 E)2 rest E
+r0.6 .65 It
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_)1 16 E_(1 4 E_)1
+/
+4 bars | 48 | 48 |
+|
+=1' 4 B Bb E
+r0.6 .01 ain't .35 ne - .68 ce -
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_]
+|
+=1  4 A Ab E
+r0.6 .01 sa - .33 ri - .67 ly
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_(1]
+|
+=1  2. G(2
+r0.6 .01 so ;
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_)1 16 E_(1 4 E_)1
+|
+=1  8 G)2 rest rest 4. E
+r0.6 .48 These
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_ 16 E_(1 8. [E_)1 16 E_]
+/
+4 bars | 48 | 48 |
+|
+=1' 4 B Bb E
+r0.6 .01 things .35 that .65 you're
+=2' 8. rest' 4 <D G B> 16 rest' 4 <D G B>
+=2, 4.. E_ 16 G_(,2 8. [G_),2 16 A_(1]
+|
+=1  4 A Ab G
+r0.6 .01 li - a - .33 ble .67 to
+=2' 8. rest' 4 <E G c#> 16 rest' 4 <E G c#>
+=2, 4.. A_)1 16 A_#(,2 8. [A_),2 16 B_(2]
+|
+=1  4 E G 8 [E G(2]
+r0.6 .01 read .36 in .60 the .85 Bi
+=2' 8. rest' 4 <D G B e> 16 rest' 4 <G B e>
+=2, 4.. B_)2 16 Cn(,2 8. [C),2 16 C#(,2]
+|
+=1  4 G)2 8. E 16 rest 4 G
+r0.6 .10 - .36 ble , .69 they
+=2' 8. rest' 4 <E A c# e> 16 rest' 4 <E A c# e>
+=2, 4.. C#),2 16 C#(,2 8. [C),2 16 Cn(1]
+/
+4 bars | 48 | 48 |
+|
+=1' 2 E 8 [G E]
+r0.6 .01 ain't  .65 nec - ces  -
+=2' 8. rest' 4 <E Bb d> 16 rest' 4 <E Bb d>
+=2, 4.. C)1 16 C(,2 8. [C),2 16 B_(2]
+|
+=1  4 D(2 43 D)2 B_-I3 D
+r0.5 .01 a .25 - .55 ri .67 - .77 ly
+=2' 8. rest' 4 <D# A dn> 16 rest' 4 <D# A dn>
+=2, 4.. B_)2 16 B_(,2 83 [B_),2 G_-I3, F_#]
+|
+=1  2. E(2
+r0.5 .01 so
+=2' 8. rest' 4 <D G B e> 16 rest' 4 <D G B>
+=2, 4.. E_ 16 E_(,2 4 E_),2
+|
+=1  4 E)2 rest 4 E
+r0.6 .69 well
+=2' 8. rest' 4 <E A c#> 16 rest' 4 <E A c#>
+=2, 4.. E_ 16 E_(,2 8. [E_),2 16 E_(1]
+@

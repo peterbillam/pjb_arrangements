@@ -1,0 +1,42 @@
+6 systems /19 25 19/
+title ~/wav/nick_drake/02_river_man.wav
+# file:///home/pjb/html/lyrics/nick_drake.html
+midi channel 1 patch 91
+midi channel 2 patch 25
+$GTR = {
+  =2' 8 [$N1 16 <$N2(2 $N3(3 $N4(1>] \
+    8 [<$N2)2 $N3)3 $N4)1> 16 $N1] 8 [<$N2 $N3 $N4> 16 <$N2 $N3 $N4>] \
+    8 [$N1 16 $N1] 8 [<$N2 $N3 $N4> 16 <$N2 $N3 $N4>]
+
+}
+$N1-4 = <E_ A_> : E : A : c#
+/
+2 bars | 75 | 75 |
+| 15/16 .172 .172 .191 .172 .172 .191 .172 .172 .191 .172 .172 .191 \
+ .172 .172 .191
+=1 treble8vab cha1 leg145  1 rest
+=2 treble8vab cha2 leg145 tra+3 1 blank
+b1.0 .01 capo on 3rd
+$GTR
+|
+$GTR
+$N1-4 = <E_ A_> : E : A : c
+|
+$GTR
+|
+$GTR
+$N1-4 = G_ : D : Bb : cx
+|
+$GTR
+|
+$GTR
+$N1-4 = <F_ A_> : D : A : c
+|
+$GTR
+|
+$GTR
+$N1-4 = <E_ A_> : E : A : c#
+|
+$GTR
+|
+$GTR
