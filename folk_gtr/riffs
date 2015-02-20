@@ -1,4 +1,4 @@
-7 systems 50 / 19 30/19 30/19/19 30/
+7 systems 50 / 19 30/19 30/19/19 30/19 30/
 midi channel 0 patch 25
 
 # 20140317
@@ -48,7 +48,7 @@ midi pause 2.0
 /
 5 bars | 5/4 12 | 60 | 60 |
 | .25
-=1' treble8vab 5/8 rest
+=1' treble8vab 5/8 8 rest
 =1, treble8vab 5/8 8 E_(2
 | 1.25
 =1'  4. <B_ D A> 4 <A_ D G>
@@ -62,3 +62,14 @@ midi pause 2.0
 |
 =1'  4. <A_ D A> 4 <A_ D G>
 =1, 4 E_)2 E_ 8 E_
+
+midi pause 2.0
+# 20150215
+/
+4 bars | 60 | 60 |
+| 1.7
+=1' treble8vab 8 cc64=99 [d-s3 A-s2 D c-s1] cc64=0 \
+ cc64=99 [B-s4 D cc64=0 cc64=99 c-s1] [A-s2 D]
+|
+=1' 8 [d-s3 A-s2 D c-s1] cc64=0 cc64=99 \
+ [B-s4 D cc64=0 cc64=99 c-s1] [A-s2 D] cc64=0

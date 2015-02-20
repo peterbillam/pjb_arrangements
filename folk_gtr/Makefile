@@ -1,7 +1,8 @@
 #PLAY = fly_on_acoustic
 #PLAY = emily_has_gone
-PLAY = buddy_can_you_spare_a_dime
+#PLAY = buddy_can_you_spare_a_dime
 #PLAY = aint_necessarily_so
+PLAY = riffs
 WAVDIR = /home/pjb/wav/folk
 WAV = ${WAVDIR}/${PLAY}.wav
 

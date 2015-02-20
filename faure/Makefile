@@ -50,6 +50,6 @@ ${PIECE}.a4 : ${PIECE}
 	${MUSCRIPT} ${PIECE} > $@
 	pkill -HUP gv
 play :
-	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat trim 230
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
