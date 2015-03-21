@@ -1,10 +1,30 @@
-head	1.11;
+head	1.15;
 access;
 symbols;
 locks
-	pjb:1.11; strict;
+	pjb:1.15; strict;
 comment	@# @;
 
+
+1.15
+date	2015.03.01.02.47.56;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2015.03.01.02.18.42;	author pjb;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2015.02.26.10.01.29;	author pjb;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2015.02.22.00.14.47;	author pjb;	state Exp;
+branches;
+next	1.11;
 
 1.11
 date	2015.02.20.00.09.31;	author pjb;	state Exp;
@@ -67,9 +87,9 @@ desc
 @
 
 
-1.11
+1.15
 log
-@up to 67
+@typed in up to end op107=107bars
 @
 text
 @6 systems 10 /18-40-18/18-30-18 8/18-45-18 \
@@ -78,6 +98,7 @@ pagenum 1
 title Douxième Nocturne
 innerhead Gabriel Fauré   Op.107   1916
 midi channel 0 patch 0
+$PED = cc64=0 cc64=127
 
 /
 2 bars | 1# 12/8 6 6 6 6 6 6 6 6 6 6 6 5 \
@@ -107,7 +128,7 @@ I0.3 .01 p
 |
 =1' vol85 4 E D E 2. B_
 =2' vol55 8 [f# c~ f] [c~ b e] [a e a] [d# a g]
-=2, vol70 4. <A_)2 A)4> cc64=0 cc64=127 <G_(2 G(4> \
+=2, vol70 4. <A_)2 A)4> $PED <G_(2 G(4> \
  8 <G_)2 G)4> cc64=0 4 <F_ F> <F_n Fnl> 8 <E_ E>
 /
 2 bars | 1# 8 6 6 6 6 6 6 6 6 6 6 5 \
@@ -121,8 +142,8 @@ il0.4 .04 5
  vol+5 8 [f vol+5 g vol+5 a vol+5 b]
 #P=2, vol55 2 blank 8 blank 16 [fr A] 8 blank 16 [f# A]
 #M=2, vol55 2 blank 8 blank 16 [fn A] 8 blank 16 [f# A]
-=2, vol60 cc64=127 4 Eb cc64=0 cc64=127 vol+5 D cc64=0 \
- cc64=127 vol+5 C cc64=0 cc64=127 vol+5 B_n cc64=0 
+=2, vol60 cc64=127 4 Eb $PED vol+5 D cc64=0 \
+ cc64=127 vol+5 C $PED vol+5 B_n cc64=0 
 
 |
 =1' leg99 vol110 4. dn(1-emph 8 d)1 4 B 4. d(1 8 d)1 4 d(1-emph
@@ -138,7 +159,7 @@ I0.2 .20 f
 =1' vol80 4 d)1 8 c(1 c)1 4 Bb(1 B)1 8 A(1 A)1 4 G
 =1, vol55 8 [Bb D A] [C G B_b] [G B_b Fn] [A_ Eb G_]
 I0.3 .01 p
-=2' vol60 cc64=127 4. <G g> <D d> cc64=0 cc64=127 <Eb eb> <B_b Bb> cc64=0
+=2' vol60 cc64=127 4. <G g> <D d> $PED <Eb eb> <B_b Bb> cc64=0
 |
 =1' vol80 4 G 8 Fn(1 F)1 4 G(1 8 [G)1 F vol85 Ab(1] A)1 4 G
 =1, vol55 8 [A_ Eb A_] [D B_b D] [B_ A_b Fnl] [E G_ B_]
@@ -149,14 +170,14 @@ I0.3 .01 p
 |
 =1' vol85 4 G 8 Fn(1 F)1 4 G 2. D
 =1, vol55 8 [A_n Eb A_] [Ebrl D G_] [Cr G_ C] [F_# C B_b]
-=2' vol70 4. <C)2 c)1> cc64=0 cc64=127 <B_b(2 Bb(1> 8 <B_b)2 Bb)1> cc64=0 4 <A_ A> <A_b Abl> 8 <G_ G>
+=2' vol70 4. <C)2 c)1> $PED <B_b(2 Bb(1> 8 <B_b)2 Bb)1> cc64=0 4 <A_ A> <A_b Abl> 8 <G_ G>
 |
 il0.4 .03 10
 =1' vol80 8 [D Eb Fn Gb] vol+5 [Abl vol+5 Bb vol+5 c vol+5 d]
 =1, vol55 16 [Cr A_b] 8 blank 16 [C A_] 8 blank vol+5 16 [Gbrl C] 8 blank vol+10 16 [An F#] 8 blank
 =2' vol55 8 blank 16 [ab c] 8 blank 16 [a c] vol+5 8 [a vol+5 bbl vol+5 c~ vol+5 d~]
 =2, vol55 2 blank 8 blank 16 [abrl c] 8 blank 16 [an c]
-=2, vol60 cc64=127 4 Gb cc64=0 cc64=127 vol+5 Fn cc64=0 cc64=127 vol+5 Eb cc64=0 cc64=127 vol+5 D cc64=0
+=2, vol60 cc64=127 4 Gb $PED vol+5 Fn $PED vol+5 Eb $PED vol+5 D cc64=0
 
 /
 2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
@@ -186,7 +207,7 @@ innerhead Douxième Nocturne, Gabriel Fauré   Op.107   1816
 =1, vol95 8 [c e] 4 d# 8 [c F] [Fn B A] [D# E E#]
 i0.4 .01 sempre
 I0.4 .15 f
-=2' vol99 cc64=127 4. <A_ A> <A a> cc64=0 cc64=127 <G g> <G_ G>
+=2' vol99 cc64=127 4. <A_ A> <A a> $PED <G g> <G_ G>
 |
 =1' vol115 4 B A 4. B 8 A 4 c B
 =1, vol95 8 F# 4. G 8 F 4 G Fn 8 [F# G G#(2]
@@ -207,7 +228,7 @@ i0.3 .10 dim  .   .26 .   .   .
 =1, vol55 16 [Dr B_b] 8 blank vol+7 16 [D B_] 8 blank vol+7 16 [Abrl D] 8 blank vol+10 16 [Bn G#] 8 blank
 =2' vol55 8 blank 16 [bb d] 8 blank vol+7 16 [b d] vol+7 8 [bb vol+7 c~ vol+7 d~ vol+5 e~]
 =2, vol55 2 blank 8 blank 16 [bbrl d] 8 blank 16 [bn d]
-=2, vol60 cc64=127 4 Ab cc64=0 cc64=127 vol+7 G cc64=0 cc64=127 vol+7 Fn cc64=0 cc64=127 vol+7 E cc64=0
+=2, vol60 cc64=127 4 Ab $PED vol+7 G $PED vol+7 Fn $PED vol+7 E cc64=0
 /
 2 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 \
  | 9 8 8  8 8 8  8 8 8  8 8 7 |
@@ -236,7 +257,7 @@ i0.2 .33 .   .   .
 il0.4 .07 20
 =1' vol95 4. E)2(2 8 E)2 vol-5 4 E(2 4. E)2(2 8 E)2 4 E bass
 =2' vol65 8 [<g b> e <g b>] [e <g b> e] vol-5 [<g# b> e <g b>] [e <g b> e]
-=2, vol65 8 cc64=0 [E cc64=127 dr E] [dr E cc64=0 dr] vol-5 cc64=127 [E dr E] [dr E dr]
+=2, vol65 8 $PED [E dr E] [dr E cc64=0 dr] vol-5 cc64=127 [E dr E] [dr E dr]
 /
 2 bars | 1# 6 4 5 4 4 4  4 4 5 4 4 4  4 4 5 4 4 4  4 4 5 4 4 3 \
        |    4 4 5 4 4 4  4 4 5 4 4 4  4 4 5 4 4 4  4 4 5 4 4 7 |
@@ -246,16 +267,16 @@ il0.4 .07 20
 =1, vol55 leg110 8 blank 16 [e~r d~ c~ d~] 8 blank 16 [d~r c~ b c~] \
  8 blank 16 [c~r b a b] 8 blank 16 [d~r c~ b a]
 I0.6 .02 p
-=2' vol55 leg99 cc64=0 16 [e cc64=127 fn] 4 blank cc64=0 16 [d cc64=127 e] 4 blank \
- cc64=0 16 [c cc64=127 d] 4 blank cc64=0 16 [d cc64=127 e] 4 blank
+=2' vol55 leg99 $PED 16 [e fn] 4 blank $PED 16 [d e] 4 blank \
+ $PED 16 [c d] 4 blank $PED 16 [d e] 4 blank
 =2, vol85 leg99 2. A(2 A)2
 |
 =1' vol95 leg140 8 blank 4 <g g~n> 8 blank 4 <f~n f~> \
  8 blank 4 <d d~> 8 blank 4 <e e~>
 =1, vol55 leg110 8 blank 16 [f~nllr e~ d~ e~] 8 blank 16 [e~r d~ c~ d~] \
  8 blank 16 [c~r b a b] 8 blank 16 [d~r c~ b a] treble
-=2' vol55 leg99 cc64=0 16 [fn cc64=127 g] 4 blank cc64=0 16 [e cc64=127 f] 4 blank \
- cc64=0 16 [c cc64=127 d] 4 blank cc64=0 16 [d cc64=127 e] 4 blank
+=2' vol55 leg99 $PED 16 [fn g] 4 blank $PED 16 [e f] 4 blank \
+ $PED 16 [c d] 4 blank $PED 16 [d e] 4 blank
 =2, vol85 leg99 2. A(2 A)2
 /
 2 bars | 1# 4 4 6 6 4 4  4 4 6 4 4 4  4 4 6 4 4 4  4 4 6 4 4 3 \
@@ -265,16 +286,16 @@ I0.6 .02 p
  vol+5 8 blank 4 <A_ A> 8 blank 4 <B_ B>
 =1, vol55 leg110 8 blank 16 [Ar G Fn G] 8 blank 16 [Fr E D E] \
  vol+5 8 blank 16 [Gr F E F] 8 blank 16 [Ar G F G]
-=2' vol55 leg99 cc64=0 16 [<d a> cc64=127 b] 4 blank cc64=0 16 [<B fn> cc64=127 g] 4 blank \
- vol+5 cc64=0 16 [<c g> cc64=127 a] 4 blank cc64=0 16 [<d a> cc64=127 b] 4 blank
+=2' vol55 leg99 $PED 16 [<d a> b] 4 blank $PED 16 [<B fn> g] 4 blank \
+ vol+5 $PED 16 [<c g> a] 4 blank $PED 16 [<d a> b] 4 blank
 =2, vol90 leg99 2. A(2 A)2
 |
 =1' vol105 leg140 8 blank 4 <C c> 8 blank 4 <G_# G#> \
  vol+5 8 blank 4 <B_ B> 8 blank 4 <C c>
 =1, vol65 leg110 8 blank 16 [Br A G# A] 8 blank 16 [F##rll E# En E#] \
  vol+5 8 blank 16 [Ar G F## G] 8 blank 16 [Br A G A]
-=2' vol65 leg99 cc64=0 16 [<fn b> cc64=127 c~] 4 blank cc64=0 16 [<e#l f##xl> cc64=127 g#] 4 blank \
- vol+5 cc64=0 16 [<d# a> cc64=127 b] 4 blank cc64=0 16 [<dnl e#lx b> cc64=127 c~] 4 blank
+=2' vol65 leg99 $PED 16 [<fn b> c~] 4 blank $PED 16 [<e#l f##xl> g#] 4 blank \
+ vol+5 $PED 16 [<d# a> b] 4 blank $PED 16 [<dnl e#lx b> c~] 4 blank
 =2, vol100 leg99 2. A(2 A)2 cc64=0
 
 6 systems 5 /18-36-18/18-30-18 12/18-45-18 \
@@ -292,7 +313,7 @@ I0.6 .33 2
 =1, vol105 2. blank 16 [Br A G Fn G F] [E F F# G G# A]
 i0.3 .55 cresc  .   .   .
 =2' vol80 16 rest' [c e g bb a] [g f e d c Bb] 2. e
-=2, vol115 cc64=127 2. G cc64=0 cc64=127 4. A(2 16 [A)2 c-s1, Bn cc64=0 Bb A-s1, G#-s3,]
+=2, vol115 cc64=127 2. G $PED 4. A(2 16 [A)2 c-s1, Bn cc64=0 Bb A-s1, G#-s3,]
 |
 I0.9 .31 2
 =1' vol120 43. <Fn d fn> 8 [<D B d-.> <E dx e-.>] \
@@ -300,7 +321,7 @@ I0.9 .31 2
 I0.5 .03 f
 #P=2' vol95 16 rest' [d fn bn a g] [f e d c Bb A] rest'' [c~n bn bb a g#] rest'' [c~# c~n bb a g-s4,] 
 #M=2' vol95 16 rest' [d fn bn a g] [f e d c Bb A] rest'' [c~n bn bb a g#] rest'' [c~# c~n bb a gn] 
-=2, vol115 cc64=127 2. G cc64=0 cc64=127 4. G cc64=0 cc64=127 gn cc64=0
+=2, vol115 cc64=127 2. G $PED 4. G $PED gn cc64=0
 /
 2 bars | 1# 6 4 6 6 4 4  4 4 6 4 4 4  4 4 6 4 4 4  4 4 6 4 4 3 \
        |    7 4 6 4 4 4  4 4 6 6 4 4  6 4 8 4 4 4  4 4 6 6 4 3 |
@@ -360,7 +381,7 @@ I1.0 .10 2 .35 2 .84 2
 =1, 4 d blank 163 [d#rll c# B A G# E] 4 blank
 =2' vol95 16 rest' [e g# d~ c~# c~n-s3,] [b-s1, a g f-s4, e d-s3,] \
  4. blank 16 [d~#-s2, c~ b-s4, a g# e]
-=2, vol115 cc64=127 2. B-emph, cc64=0 cc64=127 <c# g> cc64=0
+=2, vol115 cc64=127 2. B-emph, $PED <c# g> cc64=0
 /
 2 bars | 1# 7 4 6 6 4 4  4 4 6 4 4 4  4 4 6 4 4 4  6 4 6 4 4 3 \
        |    6 4 8 4 4 4  4 4 6 4 4 4  6 4 6 4 4 4  6 4 6 4 4 3 |
@@ -372,7 +393,7 @@ I1.0 .10 2 .35 2 .84 2
 I0.8 .01 p
 =2' vol60 leg99 16 [f g#] 4 blank 16 [e f] 4 blank \
  16 [f g] 4 blank 16 [g a#] 4 blank
-=2, vol90 leg99 cc64=127 2. <B#rl e> cc64=0 cc64=127 <dnrxl e> cc64=0
+=2, vol90 leg99 cc64=127 2. <B#rl e> $PED <dnrxl e> cc64=0
 |  .35 .345 .335 .35 .345 .335 .35 .345 .335 .35 .345 .335
 =1' vol95 leg140 8 blank 4 <B b> 8 blank 4 <An a> \
  8 blank 4 <B b> 8 blank 4 <c# c~#>
@@ -381,7 +402,7 @@ I0.8 .01 p
 i0.85 .05 poco .25 a .45 poco .70 cresc  .   .   .
 =2' vol65 leg99 16 [anl b] 4 blank 16 [g a] 4 blank \
  16 [a b] 4 blank 16 [b c~#] 4 blank
-=2, vol95 leg99 cc64=127 2. <d#r gnl> cc64=0 cc64=127 <fnxrl g> cc64=0
+=2, vol95 leg99 cc64=127 2. <d#r gnl> $PED <fnxrl g> cc64=0
 /
 2 bars | 1# 5 4 6 6 4 4  4 4 6 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
        |    4 4 5 4 6 4  4 4 4 4 4 6  6 4 4 4 4 5  6 4 4 4 4 3 |
@@ -415,13 +436,13 @@ innerhead Douxième Nocturne, Gabriel Fauré   Op.107   1816
 I0.8 .01 f
 =2 vol125 16 [cn,-emph d g# a] treble [C D G# A] 8 <F A#> 83 rest,, 163 blank bass \
  16 [B,-emph d# a# b] 4 blank 8 rest rest
-#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+#M=2 2. cc64=127 blank $PED blank cc64=0
 |  .335 .330 .325 .335 .330 .325 .335 .330 .325 .335 .330 .325
 =1  vol127 2 <dnr bbll d~n-emph> 4 <A#' a#l'>  2 <d bn d~-emph> 4 <B' b'>
 =1, 2 blank 16 [f#rl e dn c] 4 blank 16 [G_ B_n F# G] [anrl g d B]
 =2 vol127 16 [Ab,-emph Bb, e fn] treble [A_b B_b En Fn] 8 <D F#> 83 rest,, 163 blank bass \
  16 [G,-emph Bn, f# g] 4 blank 8 rest rest
-#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+#M=2 2. cc64=127 blank $PED blank cc64=0
 
 /
 2 bars | 1# 6 6 6 4  4 6 4 6  8 6 4 6  4 6 6 4  4 6 6 4  8 4 4 3 \
@@ -431,14 +452,14 @@ I0.8 .01 f
 =1, 2 blank 16 [c##rl B# A# F] 2 blank 16 [B#rl A# G E(2]
 =2 vol122 16 [E-emph, F# B# c#] [e f# b# c~#] 8 <a#l c~##> 8 rest \
  16 [D-emph, E A# B] [d e a# bn] 4 blank
-#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+#M=2 2. cc64=127 blank $PED blank cc64=0
 |  .325 .320 .320 .330 .325 .325 .335 .330 .330 .345 .335 .335
 il0.6 .13 40
 =1' vol115 2 <E)2 cn e)1> 4 <C c>  2 <D Bb d> 4 <B_b B>
 =1, 2 blank 16 [G#rl F# E C] 2 blank 16 [Frl E D B_]
 =2 vol115 16 [B_b-emph, C F# Gn] [Bb, c, f# gn] 8 <e g#> 8 rest \
  16 [A_b-emph, B_ E Fn] [Ab B e' fn'] 8 <d f#> rest
-#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+#M=2 2. cc64=127 blank $PED blank cc64=0
 /
 2 bars | 1# 10 8 8 8 10 8 10 8 8 9 10 7 | 10 8 8 8 10 8 10 8 8 9 10 7 |
 |  .335 .33 .33 .335 .33 .33 .335 .33 .33 .335 .33 .33
@@ -464,8 +485,8 @@ I0.4     p
 |
 =1' vol90 4 E D E(1 8 [E)1 D Fn(1] 8 F)1 4 E
 =1, vol75 8 [F_ C F_] [B_ G_ B_] [G_ F_n D] [C E_ G_]
-=2' vol75 cc64=99 4. <A_ A> cc64=0 cc64=99 <E_ E> cc64=0 \
- cc64=99 <B_b Bb> cc64=0 cc64=99 <A_(2 A(1>
+=2' vol75 cc64=99 4. <A_ A> $PED <E_ E> cc64=0 \
+ cc64=99 <B_b Bb> $PED <A_(2 A(1>
 /
 2 bars | 1# 8 8 8 8 8 8 8 9 8 8 8 7 \
  | 8 8 8 8 8 8 8 8 8 8 8 7 |
@@ -473,7 +494,7 @@ I0.4     p
 il0.6 .13 45
 =1' vol90 4 E D E 2. B_
 =2' vol75 8 [f# c~ f] [c~ b e] [a e a] [d# a g]
-=2, 4. <A_)2 A)1> cc64=0 cc64=99 <G_(2 G(4> \
+=2, 4. <A_)2 A)1> $PED <G_(2 G(4> \
  8 <G_)2 G)4> cc64=0 4 <F_ F> <F_n Fnl> 8 <E_ E>
 |
 =1' vol80 8 [B_ C D Eb] vol+5 [Fnl vol+5 G vol+5 A vol+5 B]
@@ -483,8 +504,8 @@ il0.6 .13 45
  vol+5 8 [f vol+5 g vol+5 a vol+5 b]
 #P=2, vol55 2 blank 8 blank 16 [fr A] 8 blank 16 [f# A]
 #M=2, vol55 2 blank 8 blank 16 [fn A] 8 blank 16 [f# A]
-=2, vol60 cc64=127 4 Eb cc64=0 cc64=127 vol+5 D cc64=0 \
- cc64=127 vol+5 C cc64=0 cc64=127 vol+5 B_n cc64=0 
+=2, vol60 cc64=127 4 Eb $PED vol+5 D cc64=0 \
+ cc64=127 vol+5 C $PED vol+5 B_n cc64=0 
 /
 2 bars | 1# 8 6 6 6 6 6 6 6 6 6 6 5 \
  | 6 6 6 6 6 6 6 6 6 6 6 5 |
@@ -500,7 +521,7 @@ I0.2 .20 f
 =1' vol80 4 d)1 8 c(1 c)1 4 Bb(1 B)1 8 A(1 A)1 4 G
 =1, vol55 8 [Bb D A] [C G B_b] [G B_b Fn] [A_ Eb G_]
 I0.3 .01 p
-=2' vol60 cc64=127 4. <G g> <D d> cc64=0 cc64=127 <Eb eb> <B_b Bb> cc64=0
+=2' vol60 cc64=127 4. <G g> <D d> $PED <Eb eb> <B_b Bb> cc64=0
 /
 2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
  | 6 6 6 6 6 6 6 6 6 6 6 5 |
@@ -512,7 +533,7 @@ I0.3 .01 p
 il0.4 .03 50
 =1' vol85 4 G 8 Fn(1 F)1 4 G 2. D
 =1, vol55 8 [A_n Eb A_] [Ebrl D G_] [Cr G_ C] [F_# C B_b]
-=2' vol70 4. <C)2 c)1> cc64=0 cc64=127 <B_b(2 Bb(1> 8 <B_b)2 Bb)1> cc64=0 4 <A_ A> <A_b Abl> 8 <G_ G>
+=2' vol70 4. <C)2 c)1> $PED <B_b(2 Bb(1> 8 <B_b)2 Bb)1> cc64=0 4 <A_ A> <A_b Abl> 8 <G_ G>
 /
 2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
  | 8 6 6 6 6 6 6 6 6 6 6 5 |
@@ -521,7 +542,7 @@ il0.4 .03 50
 =1, vol55 16 [Cr A_b] 8 blank 16 [C A_] 8 blank vol+5 16 [Gbrl C] 8 blank vol+10 16 [An F#] 8 blank
 =2' vol55 8 blank 16 [ab c] 8 blank 16 [a c] vol+5 8 [a vol+5 bbl vol+5 c~ vol+5 d~]
 =2, vol55 2 blank 8 blank 16 [abrl c] 8 blank 16 [an c]
-=2, vol60 cc64=127 4 Gb cc64=0 cc64=127 vol+5 Fn cc64=0 cc64=127 vol+5 Eb cc64=0 cc64=127 vol+5 D cc64=0
+=2, vol60 cc64=127 4 Gb $PED vol+5 Fn $PED vol+5 Eb $PED vol+5 D cc64=0
 
 |
 =1' leg99 vol110 4. fn(1-emph 8 f)1 4 d 4. f(1 8 f)1 4 d
@@ -542,7 +563,7 @@ I0.3 .20 f
 =1, vol95 8 [c e] 4 d# 8 [c F] [Fn B A] [D# E E#]
 i0.4 .01 sempre
 I0.4 .15 f
-=2' vol99 cc64=127 4. <A_ A> <A a> cc64=0 cc64=127 <G g> <G_ G>
+=2' vol99 cc64=127 4. <A_ A> <A a> $PED <G g> <G_ G>
 /
 2 bars | 1# 6 6 6 6 6 6 6 6 6 6 6 5 \
  | 6 6 6 6 6 6 6 6 6 6 6 5 |
@@ -566,7 +587,7 @@ i0.3 .10 dim  .   .26 .   .   .
 =1, vol55 16 [Dr B_b] 8 blank vol+7 16 [D B_] 8 blank vol+7 16 [Abrl D] 8 blank vol+10 16 [Bn G#] 8 blank
 =2' vol55 8 blank 16 [bb d] 8 blank vol+7 16 [b d] vol+7 8 [bb vol+7 c~ vol+7 d~ vol+5 e~]
 =2, vol55 2 blank 8 blank 16 [bbrl d] 8 blank 16 [bn d]
-=2, vol60 cc64=127 4 Ab cc64=0 cc64=127 vol+7 G cc64=0 cc64=127 vol+7 Fn cc64=0 cc64=127 vol+7 E cc64=0
+=2, vol60 cc64=127 4 Ab $PED vol+7 G $PED vol+7 Fn $PED vol+7 E cc64=0
 |
 =1' leg99 vol118 4. gn(1-emph 8 g)1 4 e 4 g 8 e 4 d 8 Bb
 =1, leg99 vol95 8 [e G e] [G c E] [e G B] [Bb F# G]
@@ -632,36 +653,597 @@ I1.0 .10 2 .35 2 .84 2
 =1, 4 Fnrl blank 163 [F#rll E D C B_ G_] 4 blank
 =2' vol95 16 rest' [G Bn fn e eb] [d c B A G Fn] \
  4. blank 16 [f# e d c B G]
-=2, vol115 cc64=127 2. D cc64=0 cc64=127 <En B> cc64=0
+=2, vol115 cc64=127 2. D $PED <En B> cc64=0
+/
+2 bars | 1# 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
+       |    5 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+|
+il0.3 .10 65
+=1' vol95 2 <B_r B> vol85 2. <B_r B> 4 <B_r B>
+=1, vol72 8 [G E G(2] [G)2 G E] [G D# G(2] [G)2 G D]
+=2' vol72 8 [e B e(2] [e)2 e B] [d# B d#(2] [d)2 d# B]
+=2, vol95 cc64=99 2. E $PED G(2
+|
+=1' vol95 leg140 8 blank 4 <F_b Fbl> 8 blank 4 <E_b Eb> vol+5 8 blank 4 <D_b Db> 8 blank 4 <E_ E>
+=1, vol55 leg110 8 blank 16 [Ebrll Db Cb D] 8 blank 16 [Dr C B_b C] vol+5 8 blank 16 [Cr B_ A_b B_] 8 blank 16 [Dr C B_ C]
+=2' vol55 leg99 cc64=0 16 [ebr cc64=127 fb] 4 blank cc64=0 16 [db cc64=127 e] 4 blank \
+ vol+5 $PED 16 [cbr d] 4 blank $PED 16 [d e] 4 blank
+=2, vol90 leg99 2. <Gr)2 cbl> <Gr c>
 /
 2 bars | 1# 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
        |    4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
 |
-il0.3 .10 65
-=1' vol95 2 <B_r B> vol85 2. <B_r B> 4 <B_r B>
-=1, vol72 8 [G E G(2] [G)2 G E] [G D# G(2] [G)2 G D] bass
-=2' vol72 8 [e B e(2] [e)2 e B] [d# B d#(2] [d)2 d# B]
-=2, vol95 cc64=99 2. E cc64=0 cc64=99 G(2
+=1' vol105 leg140 8 blank 4 <G_b Gbl> 8 blank 4 <F_b Fb> vol+5 8 blank 4 <D_b Db> 8 blank 4 <E_b Eb>
+=1, vol65 leg110 8 blank 16 [Fblr Eb Db E] 8 blank 16 [Er D Cb Db] vol+5 8 blank 16 [Cr B_ A_b B_] 8 blank 16 [Dr C B_ C]
+=2' vol65 leg99 cc64=0 16 [fb cc64=127 gb] 4 blank cc64=0 16 [eb cc64=127 g] 4 blank \
+ vol+5 $PED 16 [cb d] 4 blank $PED 16 [d e] 4 blank
+=2, vol100 leg99 2. <Ab(4 cb(2> <Ar)4 c)2>
 |
+=1' vol95 leg140 8 blank 4 <B_b Bbl> 8 blank 4 <G_b Gb> \
+ 8 blank 4 <A_b Ab> 8 blank 4 <B_ B>
+=1, vol55 leg110 8 blank 16 [Ablr Gb Fb G] 8 blank 16 [Fr E Db E] \
+ 8 blank 16 [Gr F E F] 8 blank 16 [Ar G F G]
+I0.8 .01 p
+=2' vol55 leg99 $PED 16 [<db ab> bb] 4 blank $PED 16 [<Bb fb> gb] 4 blank \
+ $PED 16 [<cb g> a] 4 blank $PED 16 [<d a> b] 4 blank
+=2, vol85 leg99 2. Ab(4 A)4
+
+/
+2 bars | 1# 6 4 6 6 4 4  4 4 6 4 4 4  4 4 6 4 4 4  4 4 6 4 4 3 \
+       |    7 4 6 4 4 4  4 4 6 6 4 4  6 4 8 4 4 4  4 4 6 6 4 3 |
+|
+=1' vol95 leg140 8 blank 4 <Cb cbl> 8 blank 4 <G_ G> \
+ 8 blank vol+7 4 <B_b Bbl> 8 blank vol+7 4 <C c>
+=1, vol55 leg110 8 blank 16 [Bbllr Ab G A] 8 blank 16 [Gbr Fn Eb F] \
+ 8 blank vol+7 16 [Ar Gn F# G] 8 blank vol+7 16 [Br A G A]
+=2' vol55 leg99 $PED 16 [<fb bb> c~b] 4 blank $PED 16 [<f gbxll> gn] 4 blank \
+ vol+7 $PED 16 [<d ab> b] 4 blank vol+7 $PED 16 [<db f b> c~] 4 blank
+=2, vol85 leg99 2. Ab(4 A)4
+
+#|  .35 .35 .335 .35 .35 .335 .35 .35 .335 .35 .35 .335
+|  .345 .340 .335 .345 .340 .335 .345 .340 .335 .345 .340 .335
+il0.3 .05 70
+i0.5 .15 cresc .37 .   .   . .62 .   .   . .87 .   .   .
+=1' vol95 leg140 8 blank 4 <B_n Bnl> 8 blank 4 <G_ G> 8 blank vol+7 4 <A_ A> 8 blank vol+7 4 <B_ B>
+=1, vol55 leg110 8 blank 16 [Ar G F# G] 8 blank 16 [Fnr E D E] 8 blank vol+7 16 [Gr F E F] 8 blank vol+7 16 [Ar G F G]
+=2' vol55 leg99 $PED 16 [<dn an> bn] 4 blank $PED 16 [<B fnl> g] 4 blank vol+7 $PED 16 [<c g> a] 4 blank vol+7 $PED 16 [<d a> b] 4 blank
+=2, vol85 leg99 2. An(4 A)4
+
+/
+2 bars | 1# 6 4 6 6 4 4  4 4 6 4 4 4  4 4 6 4 4 4  4 4 6 4 4 3 \
+       |    7 4 6 4 4 4  4 4 6 6 4 4  6 4 8 4 4 4  4 4 6 6 4 3 |
+|  .340 .335 .330 .340 .335 .330 .340 .335 .330 .340 .335 .330
+=1' vol95 leg140 8 blank 4 <C c> 8 blank 4 <G_# G#> 8 blank vol+7 4 <B_ B> 8 blank vol+7 4 <C c>
+=1, vol55 leg110 8 blank 16 [Br A G# A] 8 blank 16 [F##rl E# En E#] 8 blank vol+7 16 [Ar G F## G] 8 blank vol+7 16 [Br A G A]
+=2' vol55 leg99 $PED 16 [<fn b> bn] 4 blank $PED 16 [<e# f##x> g#] 4 blank vol+7 $PED 16 [<d# a> b] 4 blank vol+7 $PED 16 [<dnl e#xl b> c~] 4 blank
+=2, vol85 leg99 2. A(4 A)4
+|  .335 .330 .325 .335 .330 .325 .335 .330 .325 .335 .330 .325
+i0.5 .38 sempre cresc .70 .   .   .
+=1' vol105 leg140 8 blank 4 <C# c#> 8 blank 4 <B_ B> 8 blank vol+7 4 <C c> 8 blank vol+7 4 <D# d#>
+=1, vol65 leg110 8 blank 16 [Br A G# A] 8 blank 16 [Ar G F G] 8 blank vol+7 16 [Br A G A] 8 blank vol+7 16 [cr B A B]
+=2' vol65 leg99 $PED 16 [b c~#] 4 blank $PED 16 [a b] 4 blank vol+7 $PED 16 [b c~] 4 blank vol+7 $PED 16 [c~ d~#] 4 blank
+=2, vol95 leg99 2. <e#rx a> <gnrx a>
+
+6 systems 5 /18-36-18/18-40-18 12/18-35-18 \
+ /18-40-18 9/18-45-18/18-35-18/
+pagenum
+innerhead Douxième Nocturne, Gabriel Fauré   Op.107   1816
+
+/
+2 bars | 1# 4 4 4 6 4 4  4 4 4 4 6 4  4 4 6 4 4 4  4 4 4 4 4 3 \
+       |    6 4 6 4 4 6  4 4 4 4 4 4  7 6 6 6 4 4  6 5 4 6 6 3 |
+|  .330 .320 .315 .330 .320 .315 .330 .320 .315 .330 .320 .315
+=1' vol115 leg140 8 blank 4 <E e> 8 blank 4 <D d> 8 blank vol+7 4 <E e> 8 blank vol+7 4 <F# f#>
+=1, vol75 leg110 8 blank 16 [dnlr cn B c] 8 blank 16 [cr B A B] 8 blank vol+7 16 [dr c B c] 8 blank vol+7 16 [er d c d]
+=2' vol75 leg99 $PED 16 [d~ e~] 4 blank $PED 16 [c~ d~] 4 blank vol+7 $PED 16 [d~ e~] 4 blank vol+7 $PED 16 [e~ f~#] 4 blank
+=2, vol105 leg99 2. <g#rx c~nl> <bbrx c~>
+|  .330 .325 .320 .330 .325 .320 .330 .325 .320 .330 .325 .320
+I1.4 .33 2
+=1' vol115 43. <B g b> 8 [<A a> <B b>] 23. <B b(1>
+=1, vol105 2. blank 16 [a#rl g# d# c# d B(2] 4. B)2(2
+=2' 2. blank 4. blank 16 [a~# g~# d~# b a# g#]
+=2 vol80 cc64=0 16 rest cc64=99 [<Bn, d> g bn a g] [fn' e' d' c B A] \
+ $PED 2. <G#r d#'>
+/
+2 bars | 1# 4 4 6 4 4 4  6 4 4 6 6 6  7 4 6 6 4 4  4 4 4 4 4 3 \
+       ||   4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+|  .320 .315 .310 .320 .315 .310 .320 .315 .310 .320 .315 .310
+I1.4 .10 2 .35 2
+il1.1 75
+=1' vol120 8 [<B)2 b)1> <c# c~#>] 8 [<A a> <B ax b>] \
+ 23. <B b>
+=1, 4 anrl blank 163 [gnrll dn B Gn Dn B_] [G_ B_ E G B e]
+=2, vol115 16 rest''' [d~# a~ g~# f~ e~-s1,] [d~ c~# b-s1, a-s2, g# gn] 2. blank
+=2, vol125 cc64=127 2. f# $PED 4. fn e cc64=0
+| 2.0
+I1.2 .01 Allegro ma non troppo  (mm=126)
+=1' vol120 4 b a g(1 2. g)1
+=1, vol95  8 [g B gr] [A fr G] [fr G fn-s4] [G e-s3 G]
+I0.5 .03 f
+=2' vol95  8 [g b g] [b g b] [f b fn] [b e b]
+=2, vol120 2. cc64=127 d# $PED dn cc64=0
+/
+2 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+=1' vol120 4 g fn e(1 2. e)1
+=1, vol95  8 [d# G d] [Fn dr E] [dr E dn-s4] [E c-s3 E]
+=2' vol95  8 [d# g fn] [g d g] [d e dn] [e c e]
+=2, vol120 2. cc64=127 cr $PED B cc64=0
+|
+I1.1 .33 2
+=1' vol120 43. e 8 [<D F# d> <E c e>] 23. e(1
+=1, vol90  8 [c E c] 4. blank 8 [B E A] [E B E]
+=2' vol90  8 [c e c] [a f# A] [B e A] [e B e]
+=2, vol120 2. cc64=127 A $PED E cc64=0
+/
+3 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+=1' vol120 8 [<Bn e)1> <E c e>] [<D Fn d> <F d fn>] 43. f{1 e}1
+=1, vol90  4. blank blank 8 [c E c#] [E d E]
+=2' vol90  8 [Br e c] [bb fn Bn] [c f c#] [e d e]
+=2, vol120 2. cc64=127 A# $PED An cc64=0
+|
+il0.8 .15 80
+=1' vol120 4. g blank 2. g(3
+=1, vol90  83 [eb G e] 8 [<Fn A fn> <G e g>] 83 [d G c] [G d G]
+=2' vol90  8 [eb g e] [c~ a c] [d g c] [g d g]
+=2, vol120 2. cc64=127 c $PED G cc64=0
+|
+=1' vol120 2. blank 4. ab{1 g}1
+=1, vol90  8 [<dn g)3> <G eb g>] [<Fn Abl fn> <A f ab>] 83 [eb A en] [G f F]
+=2' vol90  8 [dr g eb] [d~b ab dn] [e a en] [g fn g]
+=2, vol120 2. cc64=127 c# $PED cn cc64=0
+/
+3 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+=1' vol120 2. blank 4. c~{1 b}1
+=1, vol90  8 [f# <B g b>] [<A c a> <c a c~>] 83 [g c f#] [B g# B]
+=2' vol90  8 [f#l b g] [f~n c~ f#] [g c~ f#] [b g# b]
+=2, vol120 2. cc64=127 e#rl $PED 4. en d cc64=0
+|
+=1' vol120 4 e~ d~ c~(1 c~)1 bb a(1
+=1, vol90  8 [a e a] [d a c] [g c g] [Bb f# A]
+i0.8 .01 sempre
+I0.8 .22 f
+=2' vol90  8 rest' [a e~] rest' [c e] rest' [g d~] rest' [d d~]
+=2, vol120 4. cc64=127 c C $PED 4. d c cc64=0
+|
+=1' vol120 4 a)1 g fn(1 f)1 e d#
+=1, vol90  8 [fn A fr] [G B Fn] [G F G] [E A D#]
+=2' vol90  8 rest' [d bb] rest' [g bn] rest' [g b] rest' [f# a]
+=2, vol120 4. cc64=127 Bb $PED d c $PED Bn cc64=0
+/
+3 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+il0.8 .15 85
+=1' vol120 4 b a g(1 g)1 fn e(1
+=1, vol90  8 [e B e] [A e G] [d G d] [Fn c# E]
+=2' vol90  8 rest' [e b] rest' [G B] rest' [d a] rest' [A a]
+=2, vol120 4. cc64=127 G G_ $PED 4. A G cc64=0
+|
+=1' vol120 4 e)1 d c(1 c)1 B B(1
+=1, vol90  8 [cn E cr] [D Br D] [A C Ar] [B_ Ar B_]
+=2' vol90  8 rest' [A fn] rest' [G e] rest' [F d] rest' [F# d#]
+=2, vol120 4. cc64=127 Fn $PED E D $PED D# cc64=0
+| 1.86
+b1.0 Con anima
+=1' vol120 43. <B_ G# B> 8 [<A_ A> <B_ B_>] 23. <B_(2 B(1>
+=1, vol90  23. blank 43. Gnrl 8 [F G]
+i0.5 .01 sempre
+I0.5 .22 f
+=2' vol90  8 rest' [B e] rest' [e f] rest' [d g] rest' [d# a]
+=2, vol120 4. cc64=127 E $PED F $PED Gn A cc64=0
+
+6 systems 5 /18-36-18/18-40-18 12/18-25-18 \
+ /18-40-18 9/18-35-18/18-35-18/
+pagenum
+innerhead Douxième Nocturne, Gabriel Fauré   Op.107   1816
+
+/
+3 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+=1  vol120 8 [<B_)2 G# B')1> <D# d#'> <G# g#'> <B' b'>] \
+ 43. <B e ax b> <B_ D Ax B'>
+=2' vol90  8 rest' [d# b] rest' [B d] rest' [B g#] rest' [B f]
+=2, vol120 4. cc64=127 B $PED D# $PED G# F cc64=0
+|
+=1' vol120 8 rest' <B_ B> 8 [<A_ A(2> <B_ B_>] 23. <B_(2 B(1>
+=1, vol90  43. G# blank 8 blank Gn [F G]
+=2' vol90  8 rest' [B e] rest' [e f] rest' [d g] rest' [d# a]
+=2, vol120 4. cc64=127 E $PED F $PED Gn A cc64=0
+|
+il0.8 .03 90
+=1  vol120 8 [<B_)2 G# B')1> G# <B_ B'>] [<D# d#'> <G# g#'> <B' b'>] \
+ 4. <B e ax b> <B_ D Ax B'>
+=2' vol90  8 rest' [d# B] rest' [B d] rest' [B g#] rest' [B f]
+=2, vol120 4. cc64=127 B $PED D# $PED G# F cc64=0
+/
+2 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 | 8 8 8  8 8 8  8 8 8  8 8 7 |
+| 1.74
+b1.0 Piu mosso
+=1' vol120 4 <E_ E-emph> <D_ D> <F_n Fn> <E_b Eb-emph> <G_b Gb> <F_b Fb>
+=1, vol90  8 blank <G_ B_> blank <F_ B_b> blank <A_b Db> \
+ blank <G_b Cb> blank <B_bb Ebb> blank <A_bb Dbb>
+i0.2 .05 mm=138
+=2' vol90  rest <G B> rest <Fn Bb> rest <Ab db> \
+ rest <Gbl cb> blank <Bbb ebb> rest <Abb dbb>
+=2, vol120 4 E-emph, D F Eb-emph, Gb Fb
+|
+=1' vol120 4 <A_b Ab-emph> <G_ G> <B_b Bb> \
+ 4. <B_n Bn(1-emph> 4 B)1 8 <B_ B>
+=1, vol90  8 blank <Cb Fb> blank <B_b Eb> blank <Db Gb> \
+ blank [<Dn Gn> B_n] [<D#r A> B_] blank
+=2' vol90  rest' <cb fb> rest' <Bb eb> rest' <db gb> \
+ rest' [<dn gn> Bn] [<d# a> B] blank
+=2, vol120 4 Ab-emph, Gn Bb 4. Bn-emph, 4 blank 8 B
+/
+2 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 | 8 8 8  8 8 8  8 8 8  8 8 7 |
+| 1.74
+=1' vol120 4 <E e-emph> <D d> <Fn fn> <Eb eb-emph> <Gb gb> <Fb fb>
+=1, vol90 8 blank <G B> blank <F Bb> blank <Ab db> \
+ blank <Gb cb> blank <Bbb ebb> blank <Abb dbb>
+=2' vol90  blank <G B> blank <Fn Bb> blank <Ab db> \
+ blank <Gbl cb> blank <Bbb ebb> blank <Abb dbb>
+=2, vol120 4 <E-emph, e> <D d> <F f> <Eb-emph, eb> <Gb gb> <Fb fb>
+|
+=1' vol120 4 <Ab ab-emph> <G g> <Bb bb> 4. <Bn bn(1-emph> 4 b)1 8 <B b>
+=1, vol90 8 blank <cb fb> blank <Bb eb> blank <db gb> \
+ blank [<dn gn> Bn] [<d#r a> B] blank
+=2' vol90  blank <cb fb> blank <Bb eb> blank <db gb> \
+ blank [<dn gn> Bn] [<d# a> B] blank
+=2, vol120 4 <Ab-emph, ab> <Gn gn> <Bb bb> 4. <Bn-emph, bn> 4 blank 8 <B b>
+/
+3 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 \
+ | 8 8 8  8 8 8  8 8 8  8 8 7 \
+ | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+il0.8 .16 95
+=1' vol125 2 b(1-emph 4 g# 2 b 4 B(1-emph
+=1, vol90  8 [g# B g] [B B G#] [g B g] [B G B_]
+i0.5 .01 sempre
+I0.5 .22 ff
+=2' 8 rest [B e] blank [b e] rest [B e] blank [b e]
+=2, vol120 cc64=127 4. E-emph, $PED e E-emph, $PED e
+|
+=1' vol125 2 B)1 4 G 2. B
+=1, vol90  8 [Gn B_ G] [B_ B_ G_] vol-10 [G B_ G] vol-10 [B_ G B_]
+i0.2 .52 dim . . .
+=2' vol90 8 rest [B e] blank [B E] vol-10 rest [B e] vol-10 blank [B E]
+=2, vol125 4. E-emph, E E-emph, vol-15 E
+|
+=1' bass 4 rest 1 blank
+=1' vol65 4 blank 2 c~ 4 rest 2 b
+=1, vol55 4 blank 8 br [a g a] blank blank ar [g f g]
+I0.7 .01 p
+=2' vol55 8 [B c] blank 4. blank 8 [A B] blank 4. blank
+=2, vol70 $PED 2. E $PED D
+/
+3 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 \
+ | 8 8 8  8 8 8  8 8 8  8 8 7 \
+ | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+=1' vol65 4 rest 2 a 4 rest 2 <a bx>
+=1, vol55 4 blank 8 gr [f e f] blank blank e [d# c## d] treble
+=2' vol55 8 [G A] blank 4. blank 8 [E F] blank 4. blank
+=2, vol70 2. $PED C $PED B_
+|
+=1' vol125 2 B 4 G# 2 B 4 B-emph
+=1, vol90  8 [G# B_ G] [B_ B_ G_#] [G B_ G]  [B_ G B_]
+I0.1 .01 ff
+=2' vol90 8 rest [B e] blank [B E] rest [B e]  blank [B E]
+=2, vol125 $PED 4. E-emph, E E-emph, E
+|
+il0.8 .03 100
+=1' vol125 2 B 4 G 2. B
+=1, vol90  8 [Gn B_ G] [B_ B_ G_n] vol-10 [G B_ G] vol-10 [B_ G B_] bass
+i0.2 .52 dim . . .
+=2' vol90 8 rest [B e] blank [B E] vol-10 rest [B e] vol-10 blank [B E]
+=2, vol125 $PED 4. E-emph, E E-emph, vol-15 E
+/
+3 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 \
+ | 8 8 8  8 8 8  8 8 8  8 8 7 \
+ | 8 8 8  8 8 8  8 8 8  8 8 7 |
+|
+=1' 4 rest 1 blank
+=1' vol65 4 blank 2 <b f~n> 4 rest 2 <a e~>
+=1, vol55 4 blank 8 e~r [d~ c~# d~] blank blank d~r [c~n b c~]
+I0.7 .01 p
+=2' vol55 8 [e fn] blank 4. blank 8 [d e] blank 4. blank
+=2, vol70 $PED 2. G $PED F#
+|
+=1' vol65 4 rest 2 <a d~> 4 rest 2 <c~ e~>
+=1, vol55 4 blank 8 c~r [b a b] blank blank e [f e f]
+=2' vol55 8 [c d] blank 4. blank 8 [d e] blank 4. blank
+=2, vol70 2. $PED Fn $PED A
+|
+=1' vol115 2 b 4 g 2. br(1
+=1, vol85  8 [g e g] [e blank e] [a d# a] [d a d]
+I0.2 .01 f
+=2' vol85 8 rest [B E] [B E B] [F B F] [B F B]
+=2, vol120 $PED 2. E $PED Er
+/
+4 bars | 1# 8 8 8  8 8 8  8 8 8  8 8 7 \
+ | 48 30 | 30 | 24 ||
+|
+=1' vol110 2 b vol-5 4 g 2. br(1
+=1, vol80  8 [g e g] vol-5 [e blank e] vol-5 [a d# a] vol-5 [d a d]
+i0.4 .03 dim  .   .   .
+=2' vol80 8 rest [B E] vol-5 [B E B] vol-5 [F B F] vol-5 [B F B]
+=2, vol115 $PED 2. E $PED vol-10 Er
+|
+=1' vol90 2. b)1 blank
+=1, vol60 2. <e g> vol-5 <e(4 g#(2 b(1>
+I0.5 .01 p
+=2' vol60 8 rest [B E] vol-5 [B E B(1] 2. <E(2 B)1(1>
+=2, vol95 $PED 2. E $PED blank
+|
+=1, vol55 <e)4 g#)2 b)1> <B(4 e(2 gn(3 b(1>
+I0.5 .51 pp
+=2' 2. <E)2 B)1> vol-10 <E_ E>
+| 3.0
+=1, 1. <B)4 e)2 g)3 b)1-fermata>
+=2' 2. <E_ E-fermata>
+@
+
+
+1.14
+log
+@up to bar 100
+@
+text
+@d825 1
+a825 1
+=2, vol70 2. E D
+d834 1
+a834 1
+=2, vol70 2. C B_
+d840 1
+a840 1
+=2, vol125 4. E-emph, E E-emph, E
+d843 3
+a845 2
+=1' vol125 2 B 4 G 2 B 4 B-emph
+=1, vol90  8 [Gn B_ G] [B_ B_ G_n] vol-10 [G B_ G] vol-10 [B_ G B_]
+d847 45
+a891 1
+=2, vol125 4. E-emph, E E-emph, vol-15 E
+@
+
+
+1.13
+log
+@up to bar 81
+@
+text
+@d7 1
+d37 1
+a37 1
+=2, vol70 4. <A_)2 A)4> cc64=0 cc64=127 <G_(2 G(4> \
+d51 2
+a52 2
+=2, vol60 cc64=127 4 Eb cc64=0 cc64=127 vol+5 D cc64=0 \
+ cc64=127 vol+5 C cc64=0 cc64=127 vol+5 B_n cc64=0 
+d68 1
+a68 1
+=2' vol60 cc64=127 4. <G g> <D d> cc64=0 cc64=127 <Eb eb> <B_b Bb> cc64=0
+d79 1
+a79 1
+=2' vol70 4. <C)2 c)1> cc64=0 cc64=127 <B_b(2 Bb(1> 8 <B_b)2 Bb)1> cc64=0 4 <A_ A> <A_b Abl> 8 <G_ G>
+d86 1
+a86 1
+=2, vol60 cc64=127 4 Gb cc64=0 cc64=127 vol+5 Fn cc64=0 cc64=127 vol+5 Eb cc64=0 cc64=127 vol+5 D cc64=0
+d116 1
+a116 1
+=2' vol99 cc64=127 4. <A_ A> <A a> cc64=0 cc64=127 <G g> <G_ G>
+d137 1
+a137 1
+=2, vol60 cc64=127 4 Ab cc64=0 cc64=127 vol+7 G cc64=0 cc64=127 vol+7 Fn cc64=0 cc64=127 vol+7 E cc64=0
+d166 1
+a166 1
+=2, vol65 8 cc64=0 [E cc64=127 dr E] [dr E cc64=0 dr] vol-5 cc64=127 [E dr E] [dr E dr]
+d176 2
+a177 2
+=2' vol55 leg99 cc64=0 16 [e cc64=127 fn] 4 blank cc64=0 16 [d cc64=127 e] 4 blank \
+ cc64=0 16 [c cc64=127 d] 4 blank cc64=0 16 [d cc64=127 e] 4 blank
+d184 2
+a185 2
+=2' vol55 leg99 cc64=0 16 [fn cc64=127 g] 4 blank cc64=0 16 [e cc64=127 f] 4 blank \
+ cc64=0 16 [c cc64=127 d] 4 blank cc64=0 16 [d cc64=127 e] 4 blank
+d195 2
+a196 2
+=2' vol55 leg99 cc64=0 16 [<d a> cc64=127 b] 4 blank cc64=0 16 [<B fn> cc64=127 g] 4 blank \
+ vol+5 cc64=0 16 [<c g> cc64=127 a] 4 blank cc64=0 16 [<d a> cc64=127 b] 4 blank
+d203 2
+a204 2
+=2' vol65 leg99 cc64=0 16 [<fn b> cc64=127 c~] 4 blank cc64=0 16 [<e#l f##xl> cc64=127 g#] 4 blank \
+ vol+5 cc64=0 16 [<d# a> cc64=127 b] 4 blank cc64=0 16 [<dnl e#lx b> cc64=127 c~] 4 blank
+d222 1
+a222 1
+=2, vol115 cc64=127 2. G cc64=0 cc64=127 4. A(2 16 [A)2 c-s1, Bn cc64=0 Bb A-s1, G#-s3,]
+d230 1
+a230 1
+=2, vol115 cc64=127 2. G cc64=0 cc64=127 4. G cc64=0 cc64=127 gn cc64=0
+d290 1
+a290 1
+=2, vol115 cc64=127 2. B-emph, cc64=0 cc64=127 <c# g> cc64=0
+d302 1
+a302 1
+=2, vol90 leg99 cc64=127 2. <B#rl e> cc64=0 cc64=127 <dnrxl e> cc64=0
+d311 1
+a311 1
+=2, vol95 leg99 cc64=127 2. <d#r gnl> cc64=0 cc64=127 <fnxrl g> cc64=0
+d345 1
+a345 1
+#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+d351 1
+a351 1
+#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+d361 1
+a361 1
+#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+d368 1
+a368 1
+#M=2 2. cc64=127 blank cc64=0 cc64=127 blank cc64=0
+d394 2
+a395 2
+=2' vol75 cc64=99 4. <A_ A> cc64=0 cc64=99 <E_ E> cc64=0 \
+ cc64=99 <B_b Bb> cc64=0 cc64=99 <A_(2 A(1>
+d403 1
+a403 1
+=2, 4. <A_)2 A)1> cc64=0 cc64=99 <G_(2 G(4> \
+d413 2
+a414 2
+=2, vol60 cc64=127 4 Eb cc64=0 cc64=127 vol+5 D cc64=0 \
+ cc64=127 vol+5 C cc64=0 cc64=127 vol+5 B_n cc64=0 
+d430 1
+a430 1
+=2' vol60 cc64=127 4. <G g> <D d> cc64=0 cc64=127 <Eb eb> <B_b Bb> cc64=0
+d442 1
+a442 1
+=2' vol70 4. <C)2 c)1> cc64=0 cc64=127 <B_b(2 Bb(1> 8 <B_b)2 Bb)1> cc64=0 4 <A_ A> <A_b Abl> 8 <G_ G>
+d451 1
+a451 1
+=2, vol60 cc64=127 4 Gb cc64=0 cc64=127 vol+5 Fn cc64=0 cc64=127 vol+5 Eb cc64=0 cc64=127 vol+5 D cc64=0
+d472 1
+a472 1
+=2' vol99 cc64=127 4. <A_ A> <A a> cc64=0 cc64=127 <G g> <G_ G>
+d496 1
+a496 1
+=2, vol60 cc64=127 4 Ab cc64=0 cc64=127 vol+7 G cc64=0 cc64=127 vol+7 Fn cc64=0 cc64=127 vol+7 E cc64=0
+d562 1
+a562 1
+=2, vol115 cc64=127 2. D cc64=0 cc64=127 <En B> cc64=0
+d571 1
+a571 1
+=2, vol95 cc64=99 2. E cc64=0 cc64=99 G(2
+d576 1
+a576 1
+ vol+5 cc64=0 cc64=127 16 [cbr d] 4 blank cc64=0 cc64=127 16 [d e] 4 blank
+d585 1
+a585 1
+ vol+5 cc64=0 cc64=127 16 [cb d] 4 blank cc64=0 cc64=127 16 [d e] 4 blank
+d593 2
+a594 2
+=2' vol55 leg99 cc64=0 cc64=127 16 [<db ab> bb] 4 blank cc64=0 cc64=127 16 [<Bb fb> gb] 4 blank \
+ cc64=0 cc64=127 16 [<cb g> a] 4 blank cc64=0 cc64=127 16 [<d a> b] 4 blank
+d605 2
+a606 2
+=2' vol55 leg99 cc64=0 cc64=127 16 [<fb bb> c~b] 4 blank cc64=0 cc64=127 16 [<f gbxll> gn] 4 blank \
+ vol+7 cc64=0 cc64=127 16 [<d ab> b] 4 blank vol+7 cc64=0 cc64=127 16 [<db f b> c~] 4 blank
+d615 1
+a615 1
+=2' vol55 leg99 cc64=0 cc64=127 16 [<dn an> bn] 4 blank cc64=0 cc64=127 16 [<B fnl> g] 4 blank vol+7 cc64=0 cc64=127 16 [<c g> a] 4 blank vol+7 cc64=0 cc64=127 16 [<d a> b] 4 blank
+d624 1
+a624 1
+=2' vol55 leg99 cc64=0 cc64=127 16 [<fn b> bn] 4 blank cc64=0 cc64=127 16 [<e# f##x> g#] 4 blank vol+7 cc64=0 cc64=127 16 [<d# a> b] 4 blank vol+7 cc64=0 cc64=127 16 [<dnl e#xl b> c~] 4 blank
+d630 1
+a630 1
+=2' vol65 leg99 cc64=0 cc64=127 16 [b c~#] 4 blank cc64=0 cc64=127 16 [a b] 4 blank vol+7 cc64=0 cc64=127 16 [b c~] 4 blank vol+7 cc64=0 cc64=127 16 [c~ d~#] 4 blank
+d634 1
+a634 1
+ /18-40-18 9/18-23-18/18-35-18/
+d644 1
+a644 1
+=2' vol75 leg99 cc64=0 cc64=127 16 [d~ e~] 4 blank cc64=0 cc64=127 16 [c~ d~] 4 blank vol+7 cc64=0 cc64=127 16 [d~ e~] 4 blank vol+7 cc64=0 cc64=127 16 [e~ f~#] 4 blank
+d652 1
+a652 1
+ cc64=0 cc64=99 2. <G#r d#'>
+d663 1
+a663 1
+=2, vol125 cc64=127 2. f# cc64=0 cc64=127 4. fn e cc64=0
+d670 1
+a670 1
+=2, vol120 2. cc64=127 d# cc64=0 cc64=127 dn cc64=0
+d677 1
+a677 1
+=2, vol120 2. cc64=127 cr cc64=0 cc64=127 B cc64=0
+d683 1
+a683 1
+=2, vol120 2. cc64=127 A cc64=0 cc64=127 E cc64=0
+d690 1
+a690 1
+=2, vol120 2. cc64=127 A# cc64=0 cc64=127 An cc64=0
+d696 1
+a696 1
+=2, vol120 2. cc64=127 c cc64=0 cc64=127 G cc64=0
+d701 1
+a701 1
+=2, vol120 2. cc64=127 c# cc64=0 cc64=127 cn cc64=0
+d705 37
+a741 14
+=1' vol120 
+=1, vol90  
+=2' vol90  
+=2, vol120 
+|
+=1' vol120 
+=1, vol90  
+=2' vol90  
+=2, vol120 
+|
+=1' vol120 
+=1, vol90  
+=2' vol90  
+=2, vol120 
+d743 2
+a744 2
+6 systems 5 /18-36-18/18-43-18 12/18-45-18 \
+ /18-35-18 9/18-23-18/18-35-18/
+d748 99
+@
+
+
+1.12
+log
+@up to bar 72
+@
+text
+@d608 2
+a609 1
+|
+d620 1
+a620 1
+|
+d625 88
+d714 4
+a717 5
+i0.5 .45 sempre cresc .77 .   .   .
+=1' vol95 leg140 8 blank 4 <C# c#> 8 blank 4 <B_ B> 8 blank vol+7 4 <C c> 8 blank vol+7 4 <D# d#>
+=1, vol55 leg110 8 blank 16 [Br A G# A] 8 blank 16 [Ar G F G] 8 blank vol+7 16 [Br A G A] 8 blank vol+7 16 [cr B A B]
+=2' vol55 leg99 cc64=0 cc64=127 16 [b c~#] 4 blank cc64=0 cc64=127 16 [a b] 4 blank vol+7 cc64=0 cc64=127 16 [b c~] 4 blank vol+7 cc64=0 cc64=127 16 [c~ d~#] 4 blank
+=2, vol85 leg99 2. <e#rx a> <gnrx a>
+@
+
+
+1.11
+log
+@up to 67
+@
+text
+@d564 1
+a564 1
+       |    4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
+d568 1
+a568 1
+=1, vol72 8 [G E G(2] [G)2 G E] [G D# G(2] [G)2 G D] bass
+d572 4
+a575 6
 =1' vol95 leg140 8 blank 4 <fb f~bl> 8 blank 4 <eb e~b> \
  vol+5 8 blank 4 <db d~b> 8 blank 4 <e e~>
 =1, vol55 leg110 8 blank 16 [e~brll d~b c~b d~] 8 blank 16 [d~r c~ bb c~] \
  vol+5 8 blank 16 [c~r b ab b] 8 blank 16 [d~r c~ b c~]
 =2' vol55 leg99 cc64=0 16 [eb cc64=127 fb] 4 blank cc64=0 16 [db cc64=127 e] 4 blank \
  vol+5 cc64=0 16 [cbr cc64=127 d] 4 blank cc64=0 16 [d cc64=127 e] 4 blank
-=2, vol90 leg99 2. <Gr)2 cbl> <Gr c>
-/
-2 bars | 1# 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 \
-       |    4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 3 |
-|
+d581 2
+a582 4
 =1' vol105 leg140 8 blank 4 <gb g~bl> 8 blank 4 <fb f~b> \
  vol+5 8 blank 4 <db d~b> 8 blank 4 <eb e~b>
 =1, vol65 leg110 8 blank 16 [f~blr e~b d~b e~] 8 blank 16 [e~r d~ c~b d~b] \
  vol+5 8 blank 16 [c~r b ab b] 8 blank 16 [d~r c~ b c~]
-=2' vol65 leg99 cc64=0 16 [fb cc64=127 gb] 4 blank cc64=0 16 [eb cc64=127 g] 4 blank \
+d584 1
+a584 1
  vol+5 cc64=0 16 [cb cc64=127 d] 4 blank cc64=0 16 [d cc64=127 e] 4 blank
-=2, vol100 leg99 2. <Ab(4 cb(2> <Ar)4 c)2>
-
+d586 49
 @
 
 

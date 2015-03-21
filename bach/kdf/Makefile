@@ -6,6 +6,7 @@ USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
 SRCD = ${ARRD}/src
 BACKPAGE = /home/pjb/mus/blurb/cc_backpage.a4
+FREED = /home/pjb/www/mus/free
 WARNING = /home/pjb/mus/blurb/mus_free_warning_arr.a4
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
@@ -364,6 +365,11 @@ ${PIECE11}.a4 : ${PIECE11}
 	pkill -HUP gv
 title_${PIECE11}.a4 : title_cNNN_kbd
 	./title_cNNN_kbd 11 | groff -ms | ${BANNERISE} > $@
+
+${FREED}/${PIECE14K}.pdf :
+	${ADDMESSAGE} ${PIECE14K}.a4 \
+	| ${PSCAT} title_${PIECE14K}.a4 ${WARNING} - ${BACKPAGE} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
 
 ${A4D}/${PIECE14K}.pdf : p2_c14.a4 p3_c14.a4 ${PIECE14K}.a4 ${BACKPAGE}
 	${UTF2ISO} title_${PIECE14K} | groff -ms | ${BANNERISE} > title_${PIECE14K}.a4

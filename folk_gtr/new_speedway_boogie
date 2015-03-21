@@ -1,0 +1,223 @@
+5 systems 10 / 19-25-19/ 19-30-19/ 19-30-19/ 19-35-19/ 19-45-19/
+pagenum
+title New Speedway Boogie
+innerhead Jerry Garcia, Robert Hunter
+midi channel 0 patch 66
+midi channel 1 patch 25
+midi channel 2 patch 87
+
+/
+5 bars | 2# 5 7 5 3 | 4 3 5 4 3 5 4 3 5 4 3 5 | 4 3 5 4 3 5 4 3 5 7 5 5 \
+ | 4 3 5 4 3 5 4 3 5 4 3 5 | 4 3 5 4 3 5 4 3 5 7 5 5 |
+| 0.67
+=1  treble8vab 2# cha0 vol110 cc11=100 2 blank 1 rest
+=2  treble8vab 2# cha2 cc11=70
+=2' treble8vab 2# cha1+2 vol90 16 E_-up [A_{2-down A_#}2 B_-up]
+=2, 
+| 2.0
+=1 2 blank 1 rest
+=2' 8 [E_ 16 E_-down] 8 [<B_ D-up> 16 E_] \
+ 8 [<B_ D-up> 16 <B_ D-up>] 8 [E_ 16 <B_(2 D(1-up>]
+|
+=1 2 blank 1 rest
+=2' 8 [<B_)2 D)1> 16 E_] 8 [<B_ D-up> 16 E_] 8 <A_ D-up> 4 <B_ E-up>
+=2, 8. blank blank rest,,, 16 [A_{,2-down A_# B_},2]
+|
+=1 2 blank 1 rest
+=2' 8 [E_ 16 E_-down] 8 [<B_ D-up> 16 E_] \
+ 8 [<B_ D-up> 16 <B_ D-up>] 8 [E_ 16 <B_(2 D(1-up>]
+|
+=1 2 blank 1 rest
+=2' 8 [<B_)2 D)1> 16 E_] 8 [<B_ D-up> 16 E_] 8 <A_ D-up> 4 <B_ E-up>
+=2, 8. blank blank rest,,, 16 [A_{,2-down A_# B_},2]
+/
+4 bars | 2# 4 3 4 4 3 4 4 3 5 5 5 4 | 4 3 7 5 5 5 5 5 5 4 3 4 \
+ | 4 3 4 4 3 5 5 5 5 4 3 4 | 4 3 5 4 3 5 4 3 4 7 5 4 |
+|
+=1 8. g e 8 [e 16 d] [e{1 d}1 B]
+r0.50 .01 Please .25 don't .50 dominate the
+#=2' 8 [E_ 16 B_] 8 [<B_ D> 16 E_] 8 [<B_ D> 16 <B_ D>] 8 [E_ 16 B_]
+=2' 8 [<E_-Ped B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E]
+|
+=1 8 e 16 rest 8 e 16 rest 8 rest [B' B']
+r0.55 .01 rap, .25 Jack, .67 If you've
+=2' 8 [E_-* 16 <B_ E>] [D{2 E}2 <D(2 G(1>] \
+ 8 [<D)2 G)1> 16 E_] 8 [<B_ E> 16 E_-Ped-down]
+|
+=1 8. d 8 [B' 16 B'] [B'{2 A G}2] 8 [A 16 G(2]
+r0.55 .01 got .25 nothing new .75 to
+=2' 8 [B_-down 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [E_ 16 B_-down]
+|
+=1 8 G)2 16 rest 8. rest 4. rest
+r0.55 .01 say.
+=2  8 [<B_ E-up> 16 E_-*] 8 [<B' e'> 16 E_] \
+ 8 [<A, d-up> 16 <B e-up>] [A_{2 A_# B_}2]
+/
+4 bars | 2# 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 7 5 5 5 5 5 5 4 3 4 \
+          | 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 5 4 3 5 4 3 5 7 5 5 |
+|
+=1 8. g 8 [e 16 e(1] 8. e)1 8 [d 16 B]
+r0.5 .01 If .24 you please, don't back
+=2' 8 [<E_-Ped B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E]
+|
+=1 8. d e 16 [B'{2 A G}2] rest 8 B'
+r0.5 .01 up .25 the .54 track .82 This
+=2' 8 [E_-* 16 <B_ E>] [Bb{2 A}2 <E(2 G(1>] \
+ 8 [<E)2 G)1> 16 E_] 8 [<B_ E> 16 E_-Ped]
+|
+=1 8. B' 8 [A 16 G] 8. A 8 [G 16 E(2]
+r0.5 .01 train's got  to run .75 to -
+=2' 8 [B_ 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [E_ 16 B_]
+|
+=1 8. E)2 8. rest rest 8 rest 16 B'
+r0.5 .01 day. .93 I 
+=2  8 [<B_ E> 16 E_-*] 8 [<B' e'> 16 E_] 8 [<A, d> 16 <B e>] [A_{2 A_# B_}2]
+/
+4 bars | 2# 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 7 4 3 5 5 5 5 4 3 4 \
+          | 4 3 5 4 3 5 5 5 5 4 3 4 | 4 3 4 4 3 4 4 3 5 7 5 5 |
+|
+=1 8 [g 16 e] 8 [e 16 d] 8 [e 16 d] 8. B
+r0.6 .01 spent a little .50 time on the 
+=2' 8 [<E_-Ped B_> 16 E] 8 [<E_ B_> 16 E] \
+ 8 [<E_ B_> 16 E] 8 [<E_ B_-down> 16 E-down]
+|
+=1 8 e 16 rest 8. e(1 8 [e)1 16 d] 8 B 16 rest
+r0.6 .01 moun  -  tain,
+=2' 8 [<G# dx e> 16 E_] 4. <G# dx e> 8. rest'
+=2, 4. rest,, 8. <E_ B_> 8 [E_ 16 E]
+|
+=1 8 [d 16 B] 8 [B' 16 B'] [B'{2 A}2 G] 8 [A 16 G(2]
+r0.6 .01 spent a  little .50 time .75 on the 
+=2' 8 [B_ 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [E_ 16 B_]
+|
+=1 8 G)2 16 rest 8. rest rest 8 rest 16 B'
+r0.6 .01 hill, .93 I 
+=2' 8 [E_ 16 <B_ E>] 8 [E_ 16 d] 8 [E_ 16 B] 8 [<E A> 16 G]
+/
+4 bars | 2# 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 5 5 5 5 4 3 5 4 3 4 \
+          | 4 3 5 4 3 5 4 3 5 4 3 4 | 4 3 4 4 3 5 4 3 5 7 5 4 |
+|
+=1 8. g 8 [e 16 e(1] 8. e)1 8 [d 16 B]
+r0.7 .01 heard .25 some say .70 "Better 
+=2' 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E]
+|
+=1 8. d 8 [e 16 e(1] 8 e)1 16 rest 8. rest
+r0.7 .01 run .25 away",
+=2' 8 [E_-* 16 <B_ E>] [<A_{2 D> <B_}2 E> <D(2 G(1>] \
+ 8 [<D)2 G)1> 16 E_] 8 [<B_ E> 16 E_]
+|
+=1 8 [B' 16 A] 8 B' 16 cc11=120 rest 8 [A 16 G] 8 [B' 16 A(2]
+r0.7 .01 Others say .50 "Better stand 
+=2' 8 rest' 8. <G B g> 8. <A d f> <A d f> 16 <A c e>
+=2, 8. G_-P G_ D-P D
+|
+=1 8. A)2 8. rest rest 8 rest 16 B
+r0.7 .01 still".  .85 Now 
+=2' 8 [<A_-P E> 16 <A c a>] 8 [<A_ E> 16 A] \
+ 8 [<c-P g> 16 <A(2 c(3 a(1>] 8. <A)2 c)3 a)1>
+=2, 8. blank blank blank 16 [A_{,2 A_# B_},2]
+
+5 systems / 19-45-19/ 19-45-19/ 19-30-19/ 19-30-19/ 19-30-19/
+pagenum
+innerhead New Speedway Boogie
+
+/
+4 bars | 2# 4 3 4 4 3 7 4 3 5 5 5 4 | 4 3 4 4 3 7 4 3 5 5 5 4 \
+          | 4 3 5 4 3 5 4 3 5 4 3 4 | 4 3 4 4 3 5 4 3 5 7 5 4 |
+|
+=1 8 [e 16 e] 8 rest 16 e(1] 8 [e)1 16 d] 8. B
+r0.7 .01 I don't .45 know, .75 but 
+=2' 8 [<E_-P B_> 16 <G# B e>] 8 [<E_ B_> 16 E] \
+ 8 [<G#-P d> 16 <B(2 e(1>] 8. <B)2 e)1>
+=2, 8. blank blank blank 16 [A_{,2 B_ E},2]
+|
+=1 8 [d 16 e] 8 rest 16 e(1] 8 e)1 16 rest 8. G
+r0.7 .01 I been .45 told .75 It's 
+=2' 8 [<E_-P B_> 16 <G# B e>] 8 [<E_ B_> 16 E] \
+ 8 [<G#-P d> 16 <B(2 e(1>] 8. <B)2 e)1>
+=2, 8. blank blank blank 16 [A_{,2 B_ D},2]
+|
+=1' 8. B 8 [B 16 A(2] 8. A)2 8 [A 16 A]
+r0.7 .01 hard .25 to run .70 with the 
+=2' 8 rest' 8. <G B g> 8. <A d f> <A d f> 16 <A c e>
+=2, 8. G_-P G_ D-P D
+|
+=1' 8 [B 16 A] 8 [G 16 B(2] 8. B)2 rest
+r0.7 .01 weight of  gold,
+=2' 8 [<A_-P E> 16 <A c a>] 8 [<A_ E> 16 A] \
+ 8 [<c-P g> 16 <A(2 c(3 a(1>] 8. <A)2 c)3 a)1>
+=2, 8. blank blank blank 16 [A_{,2 A_# B_},2]
+/
+4 bars | 2# 4 3 4 4 3 7 4 3 5 5 5 4 | 4 3 4 4 3 7 4 3 5 5 5 4 \
+          | 4 3 5 4 3 5 4 3 5 4 3 4 | 4 3 4 4 3 5 4 3 5 7 5 4 |
+|
+=1 8 [e 16 e] 8 rest 16 e(1] 8 e)1 16 rest 8 [d 16 B]
+r0.7 .01 Other .45 hand .75 I have 
+=2' 8 [<E_-P B_> 16 <G# B e>] 8 [<E_ B_> 16 E] \
+ 8 [<G#-P d> 16 <B(2 e(1>] 8. <B)2 e)1>
+=2, 8. blank blank blank 16 [A_{,2 B_ E},2]
+|
+=1 8 [d 16 e] 8 rest 16 e(1] 8 e)1 16 rest rest 8 G
+r0.7 .01 heard it .45 said, .80 It's 
+=2' 8 [<E_-P B_> 16 <G# B e>] 8 [<E_ B_> 16 E] \
+ 8 [<G#-P d> 16 <B(2 e(1>] 8. <B)2 e)1>
+=2, 8. blank blank blank 16 [A_{,2 B_ D},2]
+|
+=1' 8. B 8 [B 16 A(2] 8. A)2 8 [A 16 A]
+r0.7 .01 just .25 as .45 hard  with the 
+=2' 8 rest' 8. <G B g> 8. <A d f> <A d f> 16 <A c e>
+=2, 8. G_-P G_ D-P D
+|
+=1' 8 [B 16 A] 8 [G 16 B(2] 4. B)2(2
+r0.7 .01 weight of  lead.
+=2' 8 [<A_-P E> 16 <A c a>] 8 [<A_ E> 16 A] \
+ 8 [<c-P g> 16 <A(2 c(3 a(1>] 8. <A)2 c)3 a)1>
+=2, 8. blank blank blank 16 [A_{,2 A_# B_},2]
+/
+4 bars | 2# 4 3 4 4 3 5 4 3 5 7 5 4 | 4 3 5 4 3 5 4 3 5 7 5 4 \
+          | 4 3 5 4 3 5 4 3 5 4 3 4 | 4 3 5 4 3 5 4 3 5 4 3 4 |
+|
+=1' 4. B)2 rest
+=2' 8 [<A_-P E> 16 <A c a>] 8 [<A_ E> 16 A] \
+ 8 [<c-P g> 16 <A(2 c(3 a(1>] 8. <A)2 c)3 a)1>
+=2, 8. blank blank blank 16 [A_{,2 A_# B_},2]
+|
+=1 4 4 blank 2. rest
+=2' 8 <A_-* E c a> 16 rest 4. < <A_-P E c a> 16 [A_{,2 A_# B_},2]
+midi off
+
+#Who can deny, who can deny,
+#It's not just a change in style?
+#One step done and another begun
+#And I wonder how many miles.
+#I spent a little time on the mountain,
+#I spent a little time on the hill,
+#Things went down we don't understand,
+#But I think in time we will.
+#
+#Now, I don't know, but I was told
+#In the heat of the sun a man died of cold.
+#Keep on coming or stand and wait,
+#With the sun so dark and the hour so late.
+#
+#You can overlook the lack, Jack,
+#Of any other highway to ride.
+#It's got no signs or dividing lines
+#And very few rules to guide.
+#I spent a little time on the mountain,
+#I spent a little time on the hill,
+#I saw things gettin out of hand,
+#I guess they always will.
+#
+#Now I don't know, but I been told
+#If the horse don't pull you got to carry the load.
+#I don't know whose back's that strong,
+#Maybe find out before too long.
+#
+#One way or another, one way or another,
+#One way or another, this darkness got to give.
+#One way or another, one way or another,
+#One way or another, this darkness got to give.
+#One way or another, one way or another,
+#One way or another, this darkness got to give.
+#

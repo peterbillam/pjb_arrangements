@@ -1,10 +1,25 @@
-head	1.6;
+head	1.9;
 access;
 symbols;
 locks
-	pjb:1.6; strict;
+	pjb:1.9; strict;
 comment	@# @;
 
+
+1.9
+date	2015.03.21.07.09.41;	author pjb;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2015.03.16.00.02.39;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2015.03.14.05.56.46;	author pjb;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2014.11.16.10.41.42;	author pjb;	state Exp;
@@ -42,9 +57,9 @@ desc
 @
 
 
-1.6
+1.9
 log
-@as released
+@improve a few fingerings
 @
 text
 @4 systems 35 /19-30-19/19-30-19/19-30-19/19-30-19 35/
@@ -75,35 +90,36 @@ il0.3 .20 95
 =1, 4 rest f{1 leg90 en}1 leg110 g{1
 =2' 2 db(2 8 [d)2 c Bn Bb(2]
 |
-=1, 4 f#}1 8 rest leg110 c~ leg90 [bn leg110 fn leg90 en leg110 bb]
-=2' 8 [B)2 vol60 A] 2 Ab 4 G
+=1, 4 f#}1 8 rest leg110 c~ leg90 [bn leg110 fn leg90 en leg110 bb-s5]
+=2' 8 [B)2 vol60 A-s1,] 2 Ab-s3, 4 G
 /
 3 bars | 2b 48 | 48 | 6 6 6 7 7 6 6 5 |
 |
-=1, 8 leg90 [a leg110 eb] leg90 4 d leg110 4. ab 8 g
-=2' 4. leg90 F# leg110 8 c leg90 [Bn leg110 Fn leg90 En leg110 Bb]
+=1, 8 leg90 [a leg110 eb] leg90 4 d leg110 4. ab-s5 8 g
+=2' 4. leg90 F# leg110 8 c leg90 [Bn leg110 Fn leg90 En leg110 Bb-s1,]
 |
-il1.0 .10 100
-=1' leg110 vol70 4 rest'' b{1 leg90 a}1 leg110 c~{1
-=1, leg110 8 [f# vol60 fn en leg90 eb(2] [e)2 leg110 d d# en(2]
+il1.1 .05 100
+=1' leg110 vol70 4 rest'' b{1-s1-s5 leg90 a}1-s4 leg110 c~{1
+=1, leg110 8 [f# vol60 fn en leg90 eb(2---s2] [e)2 leg110 d d# en(2-s1]
 =2' 8 [A Ab] 4 G 4. F# 8 G
 |
-=1' 4 leg90 bn}1 8 rest''' leg110 f~ leg90 [e~n leg110 bb leg90 an leg110 e~b]
-=1, 8 [e)2 f leg90 a leg110 g#(2] g)2 4 gnl 8 f#(2
-=2' 4 G# 8 rest d 4 c# cn
+=1' 4 leg90 bn}1 8 rest'' leg110 f~ leg90 \
+ [e~n leg110 bb-s1-s3 leg90 an--s3 leg110 e~b-s2-s5]
+=1, 8 [e)2 f--s1 leg90 a---s2 leg110 g#(2] g)2 4 gnl 8 f#(2
+=2' 4 G# 8 rest d 4 c# cn-s3,
 /
 3 bars | 2b 7 6 6 6 6 6 6 5 | 48 | 9 6 6 6 6 6 6 5 |
 |
-=1' leg90 8 [d~ leg110 ab] leg90 4 g vol60 2 d~b(1
-=1, 8 f#)2 4 fnl 8 en(2 [e)2 f g ab]
-=2' 4 leg90 Bn leg110 Bb(1 8 [B)1 Ab leg90 B leg110 Bn(1]
-=2, 2 rest,, 4 rest,, vol70 leg110 F{2-,-emph,
+=1' leg90 8 [d~-s(2)-s5 leg110 ab-s2-s3] leg90 4 g--s3 vol60 2 d~b(1
+=1, 8 f#)2 4 fnl 8 en(2-s1 [e)2 f g-s1 ab]
+=2' 4 leg90 Bn leg110 Bb(1 8 [B)1 Ab leg90 B leg110 Bn(1-s2,]
+=2, 2 rest,,-s1, 4 rest,, vol70 leg110 F{2-emph,-s2,-s4,
 |
-=1' 8 [d~)1 leg90 c~] 4 leg110 e~b(1 8 [e~)1 d~ leg90 c~ <e~(2 f~#xll(1>]
-#P=1, 8 leg90 [g leg110 c~ bn bb] 2 a(4
+=1' 8 [d~)1 leg90 c~-s2] 4 leg110 e~b(1 8 [e~)1 d~ leg90 c~ <e~(2-s3-s5 f~#xll(1>]
+#P=1, 8 leg90 [g leg110 c~ bnl bb] 2 a(4
 #M=1, 8 leg90 [g blank leg110 bn bb] 2 a(4
 =2' vol60 8 B)1 leg90 4 c leg110 c# 8 d 4 eb
-=2, vol70 leg90 4 En}2-emph, leg110 G{2-emph, leg90 F#}2-emph, 8 rest, cn
+=2, vol70 leg90 4 En}2-emph, leg110 G{2-emph,-s4, leg90 F#}2-emph, 8 rest,-s2, cn-s1,
 |
 =1' 8 <e~)2 f~x)1>] 2.. blank
 =1, 8 a)4 2.. blank
@@ -124,12 +140,12 @@ il0.7 .04 105
 =1' 8 <C#r)4 G)2 A#xll)1> 4 leg110 <D# F#ll Bn> leg90 <E#l A#> leg110 <En A#ll c#> 8 leg90 <F# Anll d#>
 =2' 8 leg90 [d# leg110 A leg90 G# leg110 dn] leg90 [c# leg110 Gn leg90 F# leg110 cn]
 |
-=1' 8 rest leg110 [a leg90 g#] leg110 [dn leg90 c#] \
- leg110 [g# leg90 gn] leg110 c#
+=1' 8 rest leg110 [a-s2-s5 leg90 g#] leg110 [dn-s1-s3 leg90 c#] \
+ leg110 [g# leg90 gn] leg110 c#-s1-s2
 =1, 8 blank 4 d# G# c# 8 Gnl(2
 =2  4 leg90 Bn leg110 Fn leg90 En leg110 Bb
 
-5 systems 20 /19-35-19/19-35-19/19-30-19/19-30-19/19-30-19 35/
+5 systems 23 /19-35-19/19-35-19/19-30-19/19-30-19/19-30-19 35/
 pagenum
 innerhead Fugue on the Theme BACH: Exposition,  Franz Liszt
 leftfoot typeset 2014 Peter J Billam
@@ -137,34 +153,35 @@ leftfoot typeset 2014 Peter J Billam
 /
 3 bars | 2b 48 | 48 | 48 |
 |
-=1' 8 leg90 cn leg110 [g leg90 f# leg110 d-s1-s2] \
- [c-s2-s3-s5 Bb-s2-s4 A-s1-s2-s3 G-s1-s2]
+=1' 8 leg90 cn-s(1)-s2 leg110 [g leg90 f# leg110 d-s3-s5] \
+ [c-s1-s3-s5 Bb-s2-s4 A-s1-s3-s5 G-s2-s4]
 =1, 8 G)2 4 leg90 c 8 leg110 Bb [<F# A> leg90 G leg110 <C F#> C#]
 =2 4 leg90 A 2. leg110 Eb
 |
-=1' 4 F# leg90 2. G(1
-=1, 8 leg110 [D Cn B_n B_b] [A_ leg90 B_ leg110 C# Cn]
+=1' 4 F#-s1-s3 leg90 2. G(1-s1-s5
+=1, 8 leg110 [D Cn B_n B_b] [A_ leg90 B_ leg110 C#-s3 Cn-s1]
 =2  4 leg90 D leg110 d' leg90 c# leg110 en
 |
-il0.7 .04 110
-=1' 4 G)1 8 leg110 [c-s5 Bn Bb leg90 A] leg110 [e-s5 d-s4]
+il1.0 .48 110
+=1' 4 G)1-s2-s(5) 8 leg110 [c-s"      2 - 1"-s5 Bn Bb leg90 A] \
+ leg110 [e-s5 d-s4]
 =1, 8 leg110 [B_n C] 2 leg90 E 4 leg110 F#
 =2  4 leg90 eb leg110 g leg90 f# leg110 a
 /
-3 bars | 2b 6 8 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+3 bars | 2b 6 7 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 7 6 6 6 6 6 6 5 |
 |
 =1' 8 leg110 [c-s3 leg90 Bn-s2] leg110 4 f 2 blank
-=1, 4 leg90 Fn leg110 <Abxl Bnl> leg90 <G Bbl en> leg110 <c# e b-s2-s3-s5>
+=1, 4 leg90 Fn leg110 <Abxrl Bnl> leg90 <G Bbl en> leg110 <c# e b-s1-s3-s5>
 =2' 4 blank 8 rest'' leg90 d~ leg110 [d~-,-,-P leg90 c~#] leg110 [c~ leg90 g]
 =2, 4 leg90 ab 2. <D-P d>
 |
-=1  4 leg90 <cnrl eb a-s1-s2-s5> leg110 <F#l, An, e-s2-s3-s5> \
- leg90 <Fnl Ab d'-s1-s2-s5> leg110 <Bn d ab-s2-s3-s5>
+=1  4 leg90 <cnrl eb a-s1-s2-s5> leg110 <F#l, An, e--s1-s3-s5> \
+ leg90 <Fnl Ab d'-s1-s2-s5> leg110 <Bn d ab-s1-s3-s5>
 =2' 8 leg110 [g leg90 f#] [f leg90 c~n] leg110 [c~-,-,-P leg90 bn] leg110 [b leg90 fn]
 =2, 4 leg90 blank-,-P 2. D
 |
-=1  4 leg90 <Bblrrx c#l g> 2 leg110 <Enl G c#'-s1-s3-s5> \
- 4 leg90 <Ebl G cn'>
+=1  4 leg90 <Bblrrx-s1-s2-s5 c#l g> 2 leg110 <Enl G c#'-s1-s3-s5> \
+ 4 leg90 <Ebl G cn'-s2-s3-s5>
 =2' 8 leg110 [fnr leg90 en] [e leg90 bb] leg110 [b leg90 a] leg110 [a-,-,-P leg90 eb]
 =2, 4 leg90 blank-,-P 2. D
 /
@@ -176,13 +193,15 @@ il0.7 .04 110
 |
 il0.7 .04 115
 =1' 4 blank leg110 <Br b> leg90 <Ar a> leg110 <cnllr c~n>
-=1, 8 leg110 [e leg90 d] leg110 [d leg90 c#-s2] leg110 [c leg90 d-s2] leg110 [d leg90 e-s3]
+=1, 8 leg110 [e leg90 d] leg110 [d leg90 c#-s2] \
+ leg110 [c leg90 d-s2] leg110 [d---s1-s1-s5 leg90 e-s2]
 =2' 4 blank leg110 <Gr g> leg90 <F#llr f#> leg110 <Ar a>
 =2, 4 rest 8 leg110 [d leg90 c#] leg110 [c leg90 d] leg110 [d leg90 e]
 =2 4 blank blank-,-,-P blank-,-,-* blank-,-,-P
 |
 =1' 4 leg90 <Bnllr bn> leg110 <Bbllr bb> leg90 <Ar a> leg110 <cnllr c~n>
-=1, 8 leg110 [e leg90 d] leg110 [d leg90 c#-s2] leg110 [c leg90 d-s2] leg110 [d leg90 e-s3]
+=1, 8 leg110 [e leg90 d] leg110 [d leg90 c#-s2] \
+ leg110 [c leg90 d-s2] leg110 [d---s1-s1-s5 leg90 e-s2]
 =2' 4 leg110 <G#llr g#l> leg90 <Gnllr gnl> leg110 <F#llr f#l> leg90 <Ar a>
 =2, 8 leg110 [e leg90 d] leg110 [d leg90 c#] leg110 [c leg90 d] leg110 [d leg90 e]
 =2 4 blank-,-,-* blank-,-,-P blank-,-,-* blank-,-,-P
@@ -201,11 +220,11 @@ il0.7 .04 115
 =1 2 blank treble 83 blank 2 blank
 =1' 4 blank 83 blank blank D] \
  [C#-s2 Eb-s4-I3, D-s1] [F-s3 En-s2 G-s4]
-=2' 4 <Fnr(2 Abl(3 fn(1> 83 <F)2 A)3 f)1> rest-I3-,-* blank 2 blank
+=2' 4 <Fnr(2 Abl(3 fn(1> 83 <F)2 A)3 f)1> rest-I3 blank 2 blank
 =2 2 blank treble 83 blank 2 blank
 =2' 4 blank 83 blank blank F_-s2, \
  [E_n-s3, G_-s1,-I3 F_-s4,] [A_b-s2, G_-s3,-I3 B_b-s1,]
-=2 4 blank-,-,-P blank-,-,-*
+=2 4 blank-,-,-P 2 blank-,-,-*
 | 0.8 0.75 0.7 0.65
 =1' 83 [F-s1 Ab G] [Bb' A c'] [Bn d c#] [eb d f]
 =2 83 [A_b-s4, C-s2,-I3 B_n-s3,] [D-s1, C-s4, E-s2,] \
@@ -238,6 +257,130 @@ il1.0   120
 
 midi pause 2.0
 
+@
+
+
+1.8
+log
+@a few extra fingerings on the first page
+@
+text
+@d84 1
+a84 1
+5 systems 20 /19-35-19/19-35-19/19-30-19/19-30-19/19-30-19 35/
+d93 1
+a93 1
+ [c-s2-s3-s5 Bb-s2-s4 A-s1-s2-s3 G-s1-s2]
+d98 1
+a98 1
+=1, 8 leg110 [D Cn B_n B_b] [A_ leg90 B_ leg110 C# Cn]
+d101 3
+a103 2
+il0.7 .04 110
+=1' 4 G)1 8 leg110 [c-s5 Bn Bb leg90 A] leg110 [e-s5 d-s4]
+d110 1
+a110 1
+=1, 4 leg90 Fn leg110 <Abxrl Bnl> leg90 <G Bbl en> leg110 <c# e b-s2-s3-s5>
+d114 2
+a115 2
+=1  4 leg90 <cnrl eb a-s1-s2-s5> leg110 <F#l, An, e--s2-s3-s5> \
+ leg90 <Fnl Ab d'-s1-s2-s5> leg110 <Bn d ab-s2-s3-s5>
+d119 2
+a120 2
+=1  4 leg90 <Bblrrx c#l g> 2 leg110 <Enl G c#'-s1-s3-s5> \
+ 4 leg90 <Ebl G cn'>
+d132 2
+a133 1
+=1, 8 leg110 [e leg90 d] leg110 [d leg90 c#-s2] leg110 [c leg90 d-s2] leg110 [d leg90 e-s3]
+d139 2
+a140 1
+=1, 8 leg110 [e leg90 d] leg110 [d leg90 c#-s2] leg110 [c leg90 d-s2] leg110 [d leg90 e-s3]
+d163 1
+a163 1
+=2 4 blank-,-,-P blank-,-,-*
+@
+
+
+1.7
+log
+@added a few fingerings
+@
+text
+@d29 2
+a30 2
+=1, 4 f#}1 8 rest leg110 c~ leg90 [bn leg110 fn leg90 en leg110 bb]
+=2' 8 [B)2 vol60 A] 2 Ab 4 G
+d35 1
+a35 1
+=2' 4. leg90 F# leg110 8 c leg90 [Bn leg110 Fn leg90 En leg110 Bb]
+d37 1
+a37 1
+il1.1 .07 100
+d42 1
+a42 1
+=1' 4 leg90 bn}1 8 rest''' leg110 f~ leg90 \
+d44 2
+a45 2
+=1, 8 [e)2 f leg90 a leg110 g#(2] g)2 4 gnl 8 f#(2
+=2' 4 G# 8 rest d 4 c# cn
+d51 2
+a52 2
+=2' 4 leg90 Bn leg110 Bb(1 8 [B)1 Ab leg90 B leg110 Bn(1]
+=2, 2 rest,, 4 rest,, vol70 leg110 F{2-,-emph,
+d58 1
+a58 1
+=2, vol70 leg90 4 En}2-emph, leg110 G{2-emph, leg90 F#}2-emph, 8 rest, cn
+d80 1
+a80 1
+ leg110 [g# leg90 gn] leg110 c#
+d92 1
+a92 1
+=1' 8 leg90 cn leg110 [g leg90 f# leg110 d-s1-s2] \
+d106 1
+a106 1
+3 bars | 2b 6 8 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 5 |
+d109 1
+a109 1
+=1, 4 leg90 Fn leg110 <Abxl Bnl> leg90 <G Bbl en> leg110 <c# e b-s2-s3-s5>
+d113 1
+a113 1
+=1  4 leg90 <cnrl eb a-s1-s2-s5> leg110 <F#l, An, e-s2-s3-s5> \
+d156 1
+a156 1
+=2' 4 <Fnr(2 Abl(3 fn(1> 83 <F)2 A)3 f)1> rest-I3-,-* blank 2 blank
+@
+
+
+1.6
+log
+@as released
+@
+text
+@d34 1
+a34 1
+=1, 8 leg90 [a leg110 eb] leg90 4 d leg110 4. ab 8 g
+d37 3
+a39 3
+il1.0 .10 100
+=1' leg110 vol70 4 rest'' b{1 leg90 a}1 leg110 c~{1
+=1, leg110 8 [f# vol60 fn en leg90 eb(2] [e)2 leg110 d d# en(2]
+d42 2
+a43 1
+=1' 4 leg90 bn}1 8 rest''' leg110 f~ leg90 [e~n leg110 bb leg90 an leg110 e~b]
+d49 2
+a50 2
+=1' leg90 8 [d~ leg110 ab] leg90 4 g vol60 2 d~b(1
+=1, 8 f#)2 4 fnl 8 en(2 [e)2 f g ab]
+d54 2
+a55 2
+=1' 8 [d~)1 leg90 c~] 4 leg110 e~b(1 8 [e~)1 d~ leg90 c~ <e~(2 f~#xll(1>]
+#P=1, 8 leg90 [g leg110 c~ bn bb] 2 a(4
+d79 1
+a79 1
+=1' 8 rest leg110 [a leg90 g#] leg110 [dn leg90 c#] \
+d97 1
+a97 1
+=1' 4 F# leg90 2. G(1
 @
 
 

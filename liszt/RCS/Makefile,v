@@ -1,4 +1,28 @@
-MUSCRIPT = /home/pbin/muscript
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.03.14.05.57.26;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@makefile for late_liszt
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@MUSCRIPT = /home/pbin/muscript
 BANNERISE = /home/pbin/bannerise
 A42US = /home/pbin/a42us
 PSCAT = /home/pbin/pscat
@@ -21,39 +45,40 @@ dist :
 
 ${PIECE} : fugue_on_bach lugubre_gondola_1 lugubre_gondola_2 \
  nuages_gris unstern
-	chmod 644 $@
+	chmod 644 $@@
 	cat fugue_on_bach lugubre_gondola_1 lugubre_gondola_2 \
-	  nuages_gris unstern > $@
-	chmod 444 $@
+	  nuages_gris unstern > $@@
+	chmod 444 $@@
 
 ${A4D}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	utf2iso title | groff -ms | ${BANNERISE} > title.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@@ -
 ${USD}/${PIECE}.pdf : title.a4 p2.a4 ${PIECE}.a4 ${BACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE}.a4 \
 	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE}.a4 \
 	| ${A42US} \
-	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@@ -
 ${XMLD}/${PIECE}.xml : ${PIECE}
-	${MUSCRIPT} -xml ${PIECE} > $@
+	${MUSCRIPT} -xml ${PIECE} > $@@
 ${SRCD}/${PIECE}.txt : ${PIECE}
-	cp ${PIECE} $@
+	cp ${PIECE} $@@
 ${PIECE}.a4 : ${PIECE} ${MUSCRIPT}
-	${MUSCRIPT} ${PIECE} > $@
+	${MUSCRIPT} ${PIECE} > $@@
 	pkill -HUP gv
 
 ${PLAY}.a4 : ${PLAY} ${MUSCRIPT}
-	${MUSCRIPT} ${PLAY} > $@
+	${MUSCRIPT} ${PLAY} > $@@
 	pkill -HUP gv
 
 title.a4 : title
-	utf2iso title | groff -ms | ${BANNERISE} > $@
+	utf2iso title | groff -ms | ${BANNERISE} > $@@
 	pkill -HUP gv
 p2.a4 : p2
-	utf2iso p2 | groff -ms | ${BANNERISE} > $@
+	utf2iso p2 | groff -ms | ${BANNERISE} > $@@
 	pkill -HUP gv
 play :
 	muscript -midi ${PLAY} | midisox_lua - - stat \
 	  | aplaymidi -p TiMidity - &
+@
