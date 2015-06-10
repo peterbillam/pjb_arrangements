@@ -58,4 +58,4 @@ ${PIECE}.a4 : ${PIECE}
 	pkill -HUP gv
 play :
 	# ${MUSCRIPT} -midi ${PIECE} | aplaymidi - &
-	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat trim 420.0 tempo 1.1
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat tempo 1.1

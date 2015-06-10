@@ -3,8 +3,8 @@ pagenum 4
 title Von Himmel hoch, da komm' ich her
 innerhead J. S. Bach,  BWV769
 leftfoot Typeset and annotated by Peter Billam
-midi channel 1 patch 19 pan 65 reverb 95 vibrato 0
-midi channel 2 patch 19 pan 35 reverb 95 vibrato 0
+midi channel 1 patch 68 pan 65 reverb 95 vibrato 0
+midi channel 2 patch 69 pan 35 reverb 95 vibrato 0
 midi channel 3 patch 19 pan 50 reverb 95
 midi off
 /

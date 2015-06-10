@@ -9,9 +9,9 @@ midi channel 1 bank 6,0 patch 42  # 23 ? 42 ?
 midi channel 3 bank 6,0 patch 42  # oberwerk
 midi channel 4 bank 6,0 patch 118 # ped (reedier)
 #midi channel 5 bank 6,0 patch 121 # ped 121 ?
-midi channel 0 bank 5 patch 0 pan 80
-midi channel 2 bank 5 patch 0 pan 20
-midi channel 5 bank 5 patch 0 pan 50
+midi channel 0 bank 5 patch 4 pan 80
+midi channel 2 bank 5 patch 4 pan 20
+midi channel 5 bank 5 patch 4 pan 50
 /
 9 bars | 2/2 48 | 48 |
 | 4/4 .26 .25 .26 .243 .26 .247 .26 .24

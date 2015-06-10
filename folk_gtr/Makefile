@@ -2,7 +2,8 @@
 #PLAY = emily_has_gone
 #PLAY = buddy_can_you_spare_a_dime
 #PLAY = aint_necessarily_so
-PLAY = new_speedway_boogie
+#PLAY = new_speedway_boogie
+PLAY = fingerpicker_rag
 WAVDIR = /home/pjb/wav/folk
 WAV = ${WAVDIR}/${PLAY}.wav
 

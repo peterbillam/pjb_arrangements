@@ -164,7 +164,7 @@ leftfoot Arranged for Flute or Alto Recorder by Peter Billam
 3 bars | 1# 4/4 1.5 | 3 4 4 4 | 4 4 4 4 |
 | 1/16 .26
 il1.2    Allemande
-=1 treble 1# 4/4 channel1 leg90 smq b
+=1 treble 1# 4/4 cha1 leg90 smq b
 | 4/4 3.9
 =1 smq3-s [G, d] cro b(1 smq [b)1{1 a}1 g{1 f}1] [g d e f] [g a b c~]
 | 4/4 3.6
@@ -287,7 +287,7 @@ midi pause 2.9
 4 bars | 1# 0.5 | 2 | 2 | 2 |
 | 1/8 .3
 il0.9 .10 Courante
-=1 treble 1# 3/4 channel1 leg85 qua g
+=1 treble 1# 3/4 cha1 leg85 qua g
 | 3/4 2.0
 =1 qua [g d,] G smq [b c~] [d~{1 c~}1 b a]
 |

@@ -1,10 +1,15 @@
-head	1.9;
+head	1.10;
 access;
 symbols;
 locks
-	pjb:1.9; strict;
+	pjb:1.10; strict;
 comment	@# @;
 
+
+1.10
+date	2015.03.23.04.44.01;	author pjb;	state Exp;
+branches;
+next	1.9;
 
 1.9
 date	2015.03.21.07.09.41;	author pjb;	state Exp;
@@ -57,9 +62,9 @@ desc
 @
 
 
-1.9
+1.10
 log
-@improve a few fingerings
+@small fingering addition in bar 103
 @
 text
 @4 systems 35 /19-30-19/19-30-19/19-30-19/19-30-19 35/
@@ -101,7 +106,7 @@ il0.3 .20 95
 il1.1 .05 100
 =1' leg110 vol70 4 rest'' b{1-s1-s5 leg90 a}1-s4 leg110 c~{1
 =1, leg110 8 [f# vol60 fn en leg90 eb(2---s2] [e)2 leg110 d d# en(2-s1]
-=2' 8 [A Ab] 4 G 4. F# 8 G
+=2' 8 [A Ab] 4 G-s4, 4. F# 8 G
 |
 =1' 4 leg90 bn}1 8 rest'' leg110 f~ leg90 \
  [e~n leg110 bb-s1-s3 leg90 an--s3 leg110 e~b-s2-s5]
@@ -115,7 +120,7 @@ il1.1 .05 100
 =2' 4 leg90 Bn leg110 Bb(1 8 [B)1 Ab leg90 B leg110 Bn(1-s2,]
 =2, 2 rest,,-s1, 4 rest,, vol70 leg110 F{2-emph,-s2,-s4,
 |
-=1' 8 [d~)1 leg90 c~-s2] 4 leg110 e~b(1 8 [e~)1 d~ leg90 c~ <e~(2-s3-s5 f~#xll(1>]
+=1' 8 [d~)1 leg90 c~-s2] 4 leg110 e~b(1-s1-s4 8 [e~)1 d~ leg90 c~ <e~(2-s3-s5 f~#xll(1>]
 #P=1, 8 leg90 [g leg110 c~ bnl bb] 2 a(4
 #M=1, 8 leg90 [g blank leg110 bn bb] 2 a(4
 =2' vol60 8 B)1 leg90 4 c leg110 c# 8 d 4 eb
@@ -214,49 +219,94 @@ il0.7 .04 115
 =2' 4 leg110 <G#llr g#l> 2 leg90 <Gnllr gnl> 4 leg110 <F#llr f#l>
 =2, 8 leg110 [e leg90 d] leg110 [d leg90 c#] leg110 [c leg90 d] leg110 [d e]
 =2 4 blank-,-,-* blank-,-,-P blank-,-,-* 8 blank-,-,-P blank-,-,-*
+
 | 1.1 0.9 0.8 0.8
-=1' 4 leg110 <ab(2 c~(1> 83 [<ab)2 c~)1> bn-I3 blank 2 blank
+=1' 4 leg110 <ab(2 c~(1-s1-s2-s4> 83 [<ab)2 c~)1> bn-I"    3" blank 2 blank
 =1, 4 leg110 e 83 d blank blank 2 blank
 =1 2 blank treble 83 blank 2 blank
-=1' 4 blank 83 blank blank D] \
- [C#-s2 Eb-s4-I3, D-s1] [F-s3 En-s2 G-s4]
+=1' 4 blank 83 blank blank D-s5] \
+ [C#-s1 Eb-s3-I3, D-s2] [F-s4 En-s1 G-s3]
 =2' 4 <Fnr(2 Abl(3 fn(1> 83 <F)2 A)3 f)1> rest-I3 blank 2 blank
 =2 2 blank treble 83 blank 2 blank
 =2' 4 blank 83 blank blank F_-s2, \
  [E_n-s3, G_-s1,-I3 F_-s4,] [A_b-s2, G_-s3,-I3 B_b-s1,]
 =2 4 blank-,-,-P 2 blank-,-,-*
+
 | 0.8 0.75 0.7 0.65
-=1' 83 [F-s1 Ab G] [Bb' A c'] [Bn d c#] [eb d f]
-=2 83 [A_b-s4, C-s2,-I3 B_n-s3,] [D-s1, C-s4, E-s2,] \
- [D-s3, F-s1, En-s3,] [G-s1, F-s4, Ab]
+=1' 83 [F Ab G-s1] [Bb' A c'] [Bn-s1 d c#] [eb d-s1 f]
+=2 83 [A_b-s4, C-s2,-I3 B_n-s3,] [D-s1, C-s4, E] \
+ [D F En-s4,] [G F Ab]
 /
 3 bars | 4 5 5 4 4 5 5 4 5 4 4 3 \
  | 5 4 5 4 5 5 5 4 4 4 5 3 | 5 4 4 5 5 5 4 3 3 3 3 3 ||
 | 0.7 0.75 0.8 0.8
 il1.0   120
 =1' 83 [en g f] 4 ab 43 c# 83 g{'1 4 f#}'1
-#P=1, 4 blank 83 [ab Bn d] [c# Bb g] [f# An c]
+#P=1, 4 blank 83 [ab Bn d-s3] [c# Bb g] [f# An c-s3]
 #M=1, 4 blank 83 blank Bn d blank Bb blank blank An c
-#P=2' 83 [G B Ab] 8 [F A] [En G] [Eb F#]
+#P=2' 83 [G-s3, B Ab] 8 [F A] [En G] [Eb F#]
 #M=2' 83 [G B Ab] 8 blank A blank G blank F#
 =2, 4 blank F En Eb
 | 3.0
-=1' 43 Bn 83 fn{'1 4 en}'1 43 An 83 eb{'1 4 d}'1
-#P=1, 83 [Bn Ab fn] [en G Bb] [An F# eb] [d Fn Ab]
+=1' 43 Bn 83 fn{'1 4 en}'1 43 An 83 eb{'1---s5 4 d}'1---s5
+#P=1, 83 [Bn Ab fn] [en G Bb-s3] [An F# eb] [d Fn Ab]
 #M=1, 83 blank Ab blank blank G B blank F# blank blank Fn Ab
 #P=2' 8 [D Fn] 8 [Db En] [C Eb] [B_n Dn]
 #M=2' 8 blank Fn blank En blank Eb blank Dn
 =2, 4 D Db C B_n
 | .85 1.0 1.2 1.2
-=1' 43 G 83 db{'1 4 vol+15 c}'1(1 c)1 vol-20 Bn
-#P=1, 83 [G En db] [c Eb F#] 2 Fn
-#M=1, 83 blank En blank blank Eb F# 2 Fn
+=1' 43 G 83 db{'1---s5 4 vol+15 c}'1(1---s5 c)1 vol-20 Bn
+#P=1, 83 [G En db] [c Eb Gb] 2 F
+#M=1, 83 blank En blank blank Eb Gb 2 F
 #P=2' 8 [B_b Db] 8 [A_n C] 2 Dn
 #M=2' 8 blank Db blank C 2 Dn
 =2, 4 B_b A_n 2 A_bl
 
 midi pause 2.0
 
+@
+
+
+1.9
+log
+@improve a few fingerings
+@
+text
+@d40 1
+a40 1
+=2' 8 [A Ab] 4 G 4. F# 8 G
+d54 1
+a54 1
+=1' 8 [d~)1 leg90 c~-s2] 4 leg110 e~b(1 8 [e~)1 d~ leg90 c~ <e~(2-s3-s5 f~#xll(1>]
+d153 1
+d155 1
+a155 1
+=1' 4 leg110 <ab(2 c~(1> 83 [<ab)2 c~)1> bn-I3 blank 2 blank
+d158 2
+a159 2
+=1' 4 blank 83 blank blank D] \
+ [C#-s2 Eb-s4-I3, D-s1] [F-s3 En-s2 G-s4]
+d165 1
+d167 3
+a169 3
+=1' 83 [F-s1 Ab G] [Bb' A c'] [Bn d c#] [eb d f]
+=2 83 [A_b-s4, C-s2,-I3 B_n-s3,] [D-s1, C-s4, E-s2,] \
+ [D-s3, F-s1, En-s3,] [G-s1, F-s4, Ab]
+d176 1
+a176 1
+#P=1, 4 blank 83 [ab Bn d] [c# Bb g] [f# An c]
+d178 1
+a178 1
+#P=2' 83 [G B Ab] 8 [F A] [En G] [Eb F#]
+d182 2
+a183 2
+=1' 43 Bn 83 fn{'1 4 en}'1 43 An 83 eb{'1 4 d}'1
+#P=1, 83 [Bn Ab fn] [en G Bb] [An F# eb] [d Fn Ab]
+d189 3
+a191 3
+=1' 43 G 83 db{'1 4 vol+15 c}'1(1 c)1 vol-20 Bn
+#P=1, 83 [G En db] [c Eb F#] 2 Fn
+#M=1, 83 blank En blank blank Eb F# 2 Fn
 @
 
 

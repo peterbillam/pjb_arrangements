@@ -8,7 +8,8 @@ PLAY=/usr/bin/play
 MPLAYER=/usr/bin/mplayer
 
 ${MUSCRIPT} -midi $1 > $1.mid
-${TIMIDITY} -Ow -o $1.wav $1.mid
+#${TIMIDITY} -Ow -o $1.wav $1.mid
+/home/pbin/fluadity $1.mid $1.wav
 rm $1.mid
 ${NORMALISE} $1.wav
 # ${NORMALISE} --peak $1.wav

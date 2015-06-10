@@ -1,4 +1,4 @@
-5 systems 10 / 19-25-19/ 19-30-19/ 19-30-19/ 19-35-19/ 19-45-19/
+5 systems 10 / 19-25-19/ 19-35-19/ 19-35-19/ 19-45-19/ 19-45-19/
 pagenum
 title New Speedway Boogie
 innerhead Jerry Garcia, Robert Hunter
@@ -36,62 +36,64 @@ midi channel 2 patch 87
 |
 =1 8. g e 8 [e 16 d] [e{1 d}1 B]
 r0.50 .01 Please .25 don't .50 dominate the
-#=2' 8 [E_ 16 B_] 8 [<B_ D> 16 E_] 8 [<B_ D> 16 <B_ D>] 8 [E_ 16 B_]
-=2' 8 [<E_-Ped B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E]
+=2' 8 [E_-Ped 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>]
 |
 =1 8 e 16 rest 8 e 16 rest 8 rest [B' B']
 r0.55 .01 rap, .25 Jack, .67 If you've
 =2' 8 [E_-* 16 <B_ E>] [D{2 E}2 <D(2 G(1>] \
- 8 [<D)2 G)1> 16 E_] 8 [<B_ E> 16 E_-Ped-down]
+ 8 [<D)2 G)1> 16 E_] 8 [<B_ E> 16 E_(2-Ped-down]
 |
 =1 8. d 8 [B' 16 B'] [B'{2 A G}2] 8 [A 16 G(2]
 r0.55 .01 got .25 nothing new .75 to
-=2' 8 [B_-down 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [E_ 16 B_-down]
+=2' 8 [E_)2 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 B_-down]
 |
 =1 8 G)2 16 rest 8. rest 4. rest
 r0.55 .01 say.
-=2  8 [<B_ E-up> 16 E_-*] 8 [<B' e'> 16 E_] \
- 8 [<A, d-up> 16 <B e-up>] [A_{2 A_# B_}2]
+=2'  8 [E-up 16 E_-*] 8 [<B e> 16 E_] \
+ 8 [<A d-up> 16 <B(2 e(1-up>] 8. <B)2 e)1>
+=2, 8. blank blank blank 16 [A_{1 A_# B_}1]
 /
 4 bars | 2# 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 7 5 5 5 5 5 5 4 3 4 \
           | 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 5 4 3 5 4 3 5 7 5 5 |
 |
 =1 8. g 8 [e 16 e(1] 8. e)1 8 [d 16 B]
 r0.5 .01 If .24 you please, don't back
-=2' 8 [<E_-Ped B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E]
+=2' 8 [E_-Ped 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>]
 |
 =1 8. d e 16 [B'{2 A G}2] rest 8 B'
 r0.5 .01 up .25 the .54 track .82 This
-=2' 8 [E_-* 16 <B_ E>] [Bb{2 A}2 <E(2 G(1>] \
- 8 [<E)2 G)1> 16 E_] 8 [<B_ E> 16 E_-Ped]
+=2' 8 [E_-* 16 <B_ E>] [Bb{2 A}2 <D(2 G(1>] \
+ 8 [<D)2 G)1> 16 E_] 8 [<B_ E> 16 E_(2-Ped]
 |
 =1 8. B' 8 [A 16 G] 8. A 8 [G 16 E(2]
 r0.5 .01 train's got  to run .75 to -
-=2' 8 [B_ 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [E_ 16 B_]
+=2' 8 [E_)2 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [E_ 16 B_]
 |
 =1 8. E)2 8. rest rest 8 rest 16 B'
 r0.5 .01 day. .93 I 
-=2  8 [<B_ E> 16 E_-*] 8 [<B' e'> 16 E_] 8 [<A, d> 16 <B e>] [A_{2 A_# B_}2]
+=2'  8 [E-up 16 E_-*] 8 [<B e> 16 E_] \
+ 8 [<A d-up> 16 <B(2 e(1-up>] 8. <B)2 e)1>
+=2, 8. blank blank blank 16 [A_{1 A_# B_}1]
 /
 4 bars | 2# 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 7 4 3 5 5 5 5 4 3 4 \
           | 4 3 5 4 3 5 5 5 5 4 3 4 | 4 3 4 4 3 4 4 3 5 7 5 5 |
 |
 =1 8 [g 16 e] 8 [e 16 d] 8 [e 16 d] 8. B
-r0.6 .01 spent a little .50 time on the 
-=2' 8 [<E_-Ped B_> 16 E] 8 [<E_ B_> 16 E] \
- 8 [<E_ B_> 16 E] 8 [<E_ B_-down> 16 E-down]
+r0.8 .01 spent a little .50 time on the 
+=2' 8 [E_-Ped 16 <B_ E>] 8 [E_ 16 <B_ E>] \
+ 8 [E_ 16 <B_ E>] 8 [E_-down> 16 E-down]
 |
 =1 8 e 16 rest 8. e(1 8 [e)1 16 d] 8 B 16 rest
-r0.6 .01 moun  -  tain,
-=2' 8 [<G# dx e> 16 E_] 4. <G# dx e> 8. rest'
+r0.8 .01 moun  -  tain,
+=2' 8 [<G# dx e-up> 16 E_] 4. <G# dx e> 8. rest'
 =2, 4. rest,, 8. <E_ B_> 8 [E_ 16 E]
 |
 =1 8 [d 16 B] 8 [B' 16 B'] [B'{2 A}2 G] 8 [A 16 G(2]
-r0.6 .01 spent a  little .50 time .75 on the 
-=2' 8 [B_ 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [E_ 16 B_]
+r0.7 .01 spent a  little .50 time .75 on the 
+=2' 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 B_]
 |
 =1 8 G)2 16 rest 8. rest rest 8 rest 16 B'
-r0.6 .01 hill, .93 I 
+r0.7 .01 hill, .93 I 
 =2' 8 [E_ 16 <B_ E>] 8 [E_ 16 d] 8 [E_ 16 B] 8 [<E A> 16 G]
 /
 4 bars | 2# 4 3 4 4 3 4 4 3 4 4 3 4 | 4 3 5 5 5 5 4 3 5 4 3 4 \
@@ -99,7 +101,7 @@ r0.6 .01 hill, .93 I
 |
 =1 8. g 8 [e 16 e(1] 8. e)1 8 [d 16 B]
 r0.7 .01 heard .25 some say .70 "Better 
-=2' 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E] 8 [<E_ B_> 16 E]
+=2' 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>] 8 [E_ 16 <B_ E>]
 |
 =1 8. d 8 [e 16 e(1] 8 e)1 16 rest 8. rest
 r0.7 .01 run .25 away",
@@ -114,7 +116,7 @@ r0.7 .01 Others say .50 "Better stand
 =1 8. A)2 8. rest rest 8 rest 16 B
 r0.7 .01 still".  .85 Now 
 =2' 8 [<A_-P E> 16 <A c a>] 8 [<A_ E> 16 A] \
- 8 [<c-P g> 16 <A(2 c(3 a(1>] 8. <A)2 c)3 a)1>
+ 8 [<c-P g> 16 <A c a(1>] 8. a)1
 =2, 8. blank blank blank 16 [A_{,2 A_# B_},2]
 
 5 systems / 19-45-19/ 19-45-19/ 19-30-19/ 19-30-19/ 19-30-19/
