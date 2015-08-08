@@ -1,0 +1,24 @@
+boundingbox 555 157
+midi channel 0 patch 40 reverb 45 pan 40
+
+midi channel 0 patch 0
+1 system 3 /27-35-27/
+/
+4 bars | 2b 23 21 | 23 21 | 6 6 6 6  6 6 7 5 | 24 21 :||
+| .96
+b0.6 75b
+r0.6 .20 Op.126 no.2
+=1' treble    2b cha0 leg100 vol90 4 D leg80 F
+=1, 2b 4 vol80 blank B_
+=2  bass 2b cha0 4 vol80 <B_ B> <A_b Ab>
+|
+=1' vol97 4 E vol114 leg100 B(1
+=1, 4 vol87 leg100 B_ leg80 E
+=2  4 vol90 <G_ G> <G_b Gb>
+|
+=1' 8 B)1 4 vol121 d 16 vol100 [c A]
+=1, 4 vol94 D blank
+=2  4 vol95 <F_ F> 8 vol80 leg55 <f e~> rest
+|
+=1' 8 vol110 B rest 4 rest
+=2, 8 <b d~> rest 4 rest

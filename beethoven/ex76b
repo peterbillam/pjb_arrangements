@@ -1,0 +1,20 @@
+boundingbox 585 85
+midi channel 0 patch 40
+midi channel 1 patch 41
+midi channel 2 patch 42
+1 systems 9 /27/
+/
+5 bars | 3b 16 16 12 | 18 16 12 | 20 16 12 | 16 18 12 | 11 8 8 8 8 6 |
+| 1.0
+b0.6 76b
+r0.6 .15 Third Symphony
+=1' treble    3b cha0 leg50 vol60 4 rest <C E Gbxl Anl> <C E Gx A>
+| .98
+i0.1 .15 100
+=1' vol+9 4 rest <D F B> <F Abxl Bnl>
+| .96
+=1' vol+9 4 rest <F An c> <F Bb d>
+| .95
+=1, vol+9 4 <F c e> <F d f> <F d f#>
+| .94
+=1, vol-9 8 leg115 [g leg60 fn e d c d]

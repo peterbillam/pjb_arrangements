@@ -1,0 +1,19 @@
+boundingbox 650 85
+midi channel 0 patch 40 reverb 45 pan 40
+1 system 6 /27/
+/
+5 bars | 1b 36 | 20 | 36 | 20 | 7 4 4 4 7.7 4 2 1 1 1 1  |
+| 2/4 1.5
+b0.8 74a.
+r0.8 .17 N. II.  p.485
+=1  treble 1b cha0 leg99 vol+10 163 [f g f] vol-10 [e d c] [B c B] [A G F]
+i0.03 .01 Allegretto
+|
+=1  leg85 8 vol+10 [E  vol-10 E G] rest
+|
+=1  leg99 vol+10 163 [g a g] vol-10 [f e d] [c d c] [B' A G]
+|
+=1  leg85 8 vol+10 [F  vol-10 F A] rest
+|
+=1, leg99 163 [c Bn c] [d c Bb] 8 [A leg85 f]
+i0.3 .90 etc...

@@ -1,0 +1,25 @@
+boundingbox 650 85
+midi channel 0 patch 40 reverb 45 pan 40
+1 system 6 /27/
+/
+8 bars | 5 5 5 7 7 6 | 9 9 11 | 5 5 5 7 7 6 | 30 | 9 9 11 \
+ | 5 5 5 6 6 5 | 5 4 4 4 6 6 | 12
+| 3/4 0.9
+b0.8 73c.
+r0.8 .17 Op. 132
+=1' treble cha0 leg95 4. vol+10 A vol-10 8 [E c A]
+i0.03 .03 Allegro appassionato
+|
+=1' 2 vol+10 A 4 vol-10 G#
+|
+=1  4. A 8 [B c d]
+|
+=1, 4 e-. e-. e-.
+|
+=1, vol+10 2 e vol-10 4 e
+|
+=1, vol+10 4. g 8 vol-10 [f e d]
+|
+=1, 2 vol+10 c 8 vol-10 leg70 [e leg50 d] leg100 
+| .45 
+=1, 4 vol+10 d 

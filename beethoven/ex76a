@@ -1,0 +1,24 @@
+boundingbox 585 85
+midi channel 0 patch 40
+midi channel 1 patch 41
+midi channel 2 patch 42
+1 systems 9 /27/
+/
+7 bars | 3b 16 16 12 | 18 16 12 | 20 16 12 | 16 18 12 | 16 18 12| 16 22 12  | 8 8 9 9 9 6 |
+| 1.0
+b0.6 76a
+r0.6 .30 N.80  p.13
+=1' treble    3b cha0 leg60 vol60 4 rest <C En G> <C E G>
+| .99
+=1' vol+7 4 rest <C E G#> <C E G>
+# #M=1' vol+7 4 rest <C En G#> <C E G>
+| .98
+=1' vol+7 4 rest <Ebll Gbxl Anl> <E Gx A>
+| .97
+=1' vol+7 4 rest <Db F B> <D F Bn>
+| .96
+=1' vol+7 4 rest <F An c> <A c#>
+| .95
+=1, vol+7 4 rest <B db> <Bnl dn>
+| .94
+=1, vol-7 8 [e d c d e f]

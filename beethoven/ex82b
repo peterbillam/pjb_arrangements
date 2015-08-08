@@ -1,0 +1,27 @@
+boundingbox 520 150
+midi channel 0 patch 40 reverb 45
+2 systems 9 /27/27/
+/
+5 bars | 1b 4 3 | 6 6 4 4 4 3 | 6 4 4 4 4 3 | 4 4 6 4 4 3 | 7 6 6 |
+| 0.33
+b0.7 82b
+r0.9 .36 Eighth Symphony, bar 38
+=1  treble 1b cha0 leg105 vol90 8 [A-. A(2]
+| 0.99
+=1' 8 [A)2 Bn c# d] [A-. A(2]
+|
+=1' 8 [A)2 c# d e] [A-. A(2]
+|
+=1  8 [A)2 d' e' f#'] [g f]
+|
+=1  4 leg80 e 2 leg105 a(1
+/
+4 bars | 1b 4 4 4 6 4 3 | 4 4 4 6 4 3 | 4 6 4 4 4 3 | 6 4 4 6 4 3 |
+|
+=1  8 [a)1 g d e] 4 fn(1
+| .36 .39 .43
+=1  8 [f)1 e c d] 4 eb
+| 0.99
+=1  8 rest [d Bn c d B]
+|
+=1  8 [G, Bn d f en d]

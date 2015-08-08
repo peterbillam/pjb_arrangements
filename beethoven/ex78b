@@ -1,0 +1,37 @@
+boundingbox 550 135
+midi channel 0 patch 40 reverb 25
+midi channel 1 patch 41 reverb 25
+midi channel 2 patch 42 reverb 25
+midi channel 3 patch 43 reverb 25
+2 systems 6 /27/27/
+/
+5 bars | 4b 7 | 24 22 | 3 3 3 2 3 3 3 5.3 3 2 2 2 2 2 2 2 \
+ | 3 3 3 2 3 3 3 5.3 3 3 3 2 3 3 2 2 | 6 6 10 6 4 4 3 3 |
+| 7.2
+b0.7 78a.
+i0.5 .30 Op.59 No.1   III
+=1 treble 4b cha1 leg99 vol85 8 rest
+i0.01     Antecedent .  .  .
+|
+=1 8 [c 16. e 32 d] 8 [F leg75 En]
+|
+=1' 8 leg99 [F 16. c 32 G] 8 [B leg75 A]
+|
+#P=1 8.. leg99 [c 32 f] 8 [f 16 en f-tr]
+#M=1 8.. leg99 [c 32 f] 8 [f 16 en 647 leg130 f g f g f e f]
+|
+=1 16 leg99 [g{1-cre27 c}1-cre27 c-.-cre27 Bn-.-cre27] 8 [B leg75 c-dim27]
+/
+4 bars | 4b 3 3 3 2 3 3 3 5.3 3 3 3 2 3 3 2 2 \
+ | 3 3 3 3 3 3 3 5.3 2 2 2 2 2 2 2 2 \
+ | 2 2 2 2 2 2 2 2 3 2 2 2 3 3 3 5 \
+ | 22 17 |
+|
+=1 8 leg99 [d 16. B 32 e] 8. [e 16 c]
+i0.2     Continuation .  .  .
+|
+=1 16 [e d 16. B 32 e] 4 e
+|
+=1, 4 <c en> 8.. [<c f> 32 F]
+|
+=1 8 [d{1 c}1] 4 c

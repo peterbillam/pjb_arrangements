@@ -1,0 +1,28 @@
+boundingbox 455 135
+midi channel 0 patch 0
+2 systems 12 /27/27/
+/
+5 bars |6 6 5 | 4 4 4 4 5 5 5 4 \
+ |4 4 4 4 6 6 6 5 |7 5 5 5 5 5 5 4 | 5 5 5 4 4 4 4 3 |
+| 0.51
+b0.6 79b
+r0.6 .30 Concerto Op.15
+=1  treble    cha0 leg99 vol90 8 [c{1 B c}1]
+| 1.36
+=1  2 a 4 leg80 a a leg99
+|
+=1  2 c~ 8 [c~{1 b a g}1]
+|
+=1  16-s g' 4 f-. f-. f-. f-.
+|
+=1 4 e rest 2 rest
+/
+4 bars |4 4 4 4 5 5 5 4 | 2 2 2 2 2 2 2 2 1 1 1 1 4 4 4 3 | 10 10 10 9 | 12
+|
+=1  2 2 d 4 leg80 d d leg99
+|
+=1  2. g 16 [f e d c]
+|
+=1  4 vol+14 [c# vol-14 d leg80 f B]
+| 0.8
+=1 2 leg99 cn

@@ -1,0 +1,181 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 225 150
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           This EPS is Copyright (c) 2015, Peter J Billam              %
+%                                                                       %
+% Permission is granted  to any individual or institution to use, copy, %
+% modify or redistribute this software, so long as it is not resold for %
+% profit,  and provided this notice is retained.   Neither Peter Billam %
+% nor  PJB Computing  make any representations about the suitability of %
+% this software for any purpose.    It is provided "as is", without any %
+% express or implied warranty.                http://www.pjb.com.au     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%EndComments
+%%BeginProlog
+%%BeginResource: procset muscript
+/blackblob {	% usage: x y staveheight blackblob
+	gsave 3 1 roll translate
+	dup 0.17 mul exch 0.113 mul scale newpath
+	0 0 1 0 360 arc fill grestore
+} bind def
+
+/barline {	% usage: x y_top y_bot staveheight barline
+	0.02 mul setlinewidth /y_bot exch def /y_top exch def /x exch def
+	newpath x y_bot moveto x y_top lineto stroke
+} bind def
+
+/notestem {	% usage: x y_top y_bot staveheight notestem
+	0.02 mul setlinewidth /y_bot exch def /y_top exch def /x exch def
+	newpath x y_bot moveto x y_top lineto stroke
+} bind def
+
+/beam { % usage: x_mid_left y_mid_left x_mid_right y_mid_right staveheight beam
+	/staveheight exch def /y_mid_right exch def /x_mid_right exch def
+	/y_mid_left exch def /x_mid_left exch def
+	/halfbeamwidth staveheight 0.13 mul 0.5 mul def
+	newpath
+	x_mid_left  y_mid_left  halfbeamwidth add moveto
+	x_mid_left  y_mid_left  halfbeamwidth sub lineto
+	x_mid_right y_mid_right halfbeamwidth sub lineto
+	x_mid_right y_mid_right halfbeamwidth add lineto
+	closepath fill
+} bind def
+
+/timesig {	% usage (eg. for 6/8): x y_top staveheight (6) (8) timesig
+	/botnum exch def /topnum exch def
+	/staveheight exch def /y_top exch def /x exch def
+	gsave /Times-Bold findfont  staveheight 0.6 mul scalefont  setfont
+	x topnum stringwidth pop 0.5 mul sub y_top staveheight 0.45 mul sub moveto
+	topnum show
+	x botnum stringwidth pop 0.5 mul sub y_top staveheight 0.95 mul sub moveto
+	botnum show grestore
+} bind def
+
+/rightshow {	% usage: x y font fontsize (string) rightshow
+	/s exch def /fontsize exch def /font exch def /y exch def /x exch def
+	gsave font findfont  fontsize scalefont  setfont
+	x s stringwidth pop sub  y moveto s show grestore
+} bind def
+
+/leftshow {	% usage: x y font fontsize (string) leftshow
+	/s exch def /fontsize exch def /font exch def /y exch def /x exch def
+	gsave font findfont  fontsize scalefont  setfont
+	x y moveto s show grestore
+} bind def
+
+/centreshow { % usage: x y font fontsize (string) centreshow
+	/s exch def /fontsize exch def /font exch def 
+	gsave moveto font findfont fontsize scalefont setfont
+	gsave s false charpath flattenpath pathbbox grestore
+	exch 4 -1 roll pop pop s stringwidth pop -0.5 mul  % dx/2
+	3 1 roll sub 0.5 mul % dy/2
+	rmoveto s show grestore
+} bind def
+
+/centrexshow {  % usage: x y font fontsize (string) centrexshow
+	/s exch def /fontsize exch def /font exch def /y exch def /x exch def
+	gsave font findfont  fontsize scalefont  setfont
+	x s stringwidth pop 0.5 mul sub  y moveto s show grestore
+} bind def
+
+/barnumber {	% usage: x y staveheight (string) barnumber
+	/s exch def /staveheight exch def /y exch def /x exch def
+	gsave Helvetica-Bold findfont  staveheight 0.6 mul scalefont setfont
+	0.8 setgray x s stringwidth pop 0.5 mul sub  y moveto
+	s show grestore
+} bind def
+
+%%EndResource
+
+/Times-Roman findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-Roman-ISO exch definefont pop
+
+/Times-Bold findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall 
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-Bold-ISO exch definefont pop
+	
+/Times-BoldItalic findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall 
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-BoldItalic-ISO exch definefont pop
+	
+/Times-Italic findfont dup length dict begin
+	{ 1 index /FID ne { def } { pop pop } ifelse } forall 
+	/Encoding ISOLatin1Encoding def currentdict
+end /Times-Italic-ISO exch definefont pop
+
+%%EndProlog
+
+/cro {  % x y staveheight cro
+	/cro_sh exch def /cro_y exch def /cro_x exch def
+	cro_x cro_y cro_sh blackblob
+	cro_x cro_sh 0.16 mul add  cro_y cro_sh add  cro_y  cro_sh notestem
+} def
+/single_bar { % x y staveheight single_bar
+	/bar_sh exch def /bar_y exch def /bar_x exch def
+	bar_x bar_y bar_sh 1.55 mul add /Times-Bold fs 0.5 mul (1) centrexshow
+	bar_x bar_sh 0.9 mul sub bar_y bar_sh cro
+	bar_x bar_y bar_sh 1.05 mul add bar_y bar_sh 0.65 mul sub bar_sh barline
+	bar_x bar_sh 0.9 mul add bar_y bar_sh cro
+	newpath
+		bar_x bar_sh 1.10 mul sub bar_y bar_sh 1.20 mul add moveto
+		0 bar_sh 0.2 mul rlineto
+		bar_sh 2.30 mul 0 rlineto
+		0 bar_sh -0.2 mul rlineto
+	stroke
+} def
+/up_brace { % x1 x2 y2 staveheight up_brace
+	/brace_sh exch def /brace_y exch def /brace_x2 exch def /brace_x1 exch def
+	newpath
+		brace_x1 brace_y brace_sh .20 mul add moveto
+		0 brace_sh -0.20 mul rlineto
+		brace_x2 brace_y lineto
+		0 brace_sh 0.20 mul rlineto
+	stroke
+} def
+
+/x_size 225 def /y_size 150 def
+/staveheight y_size .11 mul def
+/midline x_size 0.5 mul def
+/fs y_size .09 mul def
+3 setlinewidth
+% /Times-Roman findfont fs setfont
+
+/x1 x_size .06 mul def
+/x2 x_size .16 mul def
+/x4 x_size .45 mul def
+/x5 x_size .55 mul def
+/x7 x_size .84 mul def
+/x8 x_size .94 mul def
+
+/y1 y_size .10 mul def
+/y2 y_size .19 mul def
+/y3 y_size .28 mul def
+/y4 y_size .37 mul def
+/y5 y_size .47 mul def
+/y6 y_size .55 mul def
+/y7 y_size .64 mul def
+/y8 y_size .73 mul def
+/y9 y_size .82 mul def
+/y10 y_size .91 mul def
+
+newpath x1 y8 moveto midline y10 lineto x8 y8 lineto stroke
+newpath x1 y5 moveto x2 y6 lineto x2 y3 lineto midline y5 lineto
+ x7 y3 lineto x8 y4 lineto x8 y2 lineto stroke
+
+x4 y9 /Times-Bold fs (4) centreshow
+x5 y9 /Times-Bold fs (5) centreshow
+x1 y7 /Times-Bold fs (1) centreshow
+x8 y7 /Times-Bold fs (8) centreshow
+
+x1 y2 /Times-Bold fs (1) centreshow
+x2 y2 /Times-Bold fs (2) centreshow
+x4 y4 /Times-Bold fs (4) centreshow
+x5 y4 /Times-Bold fs (5) centreshow
+x7 y2 /Times-Bold fs (7) centreshow
+x8 y1 /Times-Bold fs (8) centreshow
+
+%%EOF

@@ -1,0 +1,27 @@
+boundingbox 475 160
+midi channel 0 patch 0
+2 systems 16 /27 8/27/
+/
+5 bars | 3# 7 | 3 3 3 3 5 5 5 4 | 5 5 5 4 5 5 5 4 | 5 5 5 4 5 5 5 4 | 20
+| 0.26
+b1.0 80a
+r1.0 .80 N. II p.343
+=1  treble 3#   cha0 leg99 vol90 8 <e e~>
+| 1.04
+=1  4 <c(1 c~> 16 [c)1{1 d}1 e-. f-.]
+|
+=1, 16 [B c d e] [A B c d]
+|
+=1' 16 [G A B c] [F G A B]
+| .79
+=1 8 [A E] rest
+/
+4 bars | 3# 7 | 3 3 3 3 8 5 5 4 | 5 8 5 4 5 5 5 4 | 5 5 5 4 5 5 5 4 |
+| 0.26
+=1 8 <a a~>
+| 1.04
+=1 4 <f(1 f~> 16 [f)1 gn a b]
+|
+=1 16 [e f gn a] [d e f g]
+|
+=1 16 [c d e f] [B c d e]

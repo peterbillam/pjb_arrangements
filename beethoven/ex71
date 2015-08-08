@@ -1,0 +1,35 @@
+boundingbox 550 165
+midi channel 0 patch 0 reverb 45
+2 systems 5 /27 10/27/
+/
+5 bars | 3b 4 3 3 4 | 4 4 4 4 5 5 5 4 | 4 4 4 4 8 5 5 4 | 5 8 5 5 5 5 5 4 | 8 6
+| 0.9
+b0.7 71.
+r0.6 .15 Beethoven,  Op. 7
+=1, treble 3b cha0 leg95 vol85 8. [f 16 e]
+| 1.8
+=1 8 vol+10 [e vol-10 d(1] 16 [d)1 f e c]
+|
+=1 8 vol+10 [c vol-10 B(1] 16 [B)1 Bn c leg80 A,]
+|
+=1' 16 leg95 [A G leg80 Bb E] [E D leg80 F E(2]
+| 0.45 0.6
+=1 8 vol+10 [<E)2 G> vol-15 <D F>]
+midi pause 2.0
+/
+5 bars | 2# 5 4 |4 4 4 4 5 4 |4 4 4 4 5 4 |5 5 5 5 5 4 |3 4 3.5 4 3 2 2 2 2 1 |
+| 0.4
+r0.8 .07 Ph. E. Bach.  Jalowetz p.458
+=1' treble 2#  leg95 vol85 8 [d d]
+=1, 2# vol75 8 [<F A> <F A>]
+| 1.2
+=1' 4 vol95 d{1 vol85 leg80 c}1 leg95 8 [B B]
+=1, 2 vol75 <E G> 8 [<D F> <D F>]
+|
+=1' 4 vol95 B{1 vol85 leg80 A}1 leg95 8 [G G]
+=1, 2 vol75 <C E> 4 blank
+|
+=1 8 vol95 leg95 [G vol85 leg80 F] \
+ vol95 leg95 [F vol85 leg80 E] vol95 leg95 [E vol85 leg80 D]
+|
+=1 16 leg99 [E C G F] 8-s F vol-15 4 E
