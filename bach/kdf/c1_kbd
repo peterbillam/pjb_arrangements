@@ -111,11 +111,11 @@ il0.8  10
 il0.9 .37 20
 =1' qua [f)1-s1-s(5) d--s4] cro e A-s3 d(1
 =1, min G(2 qua [Gr)2 E-s1] cro F
-=2, cro bn-s3, qua [c~ b] cro c~#-s2, qua [d~-s1, g#-s5,]
+=2, cro bn-s3, qua [c~ b] cro c~#-s2, qua [d~-s1, g#-s3,]
 |
 =1' qua [d)1 Bn-s4] cro c F Bb-s5
 =1, cro. E qua A cro. D qua E--s2
-=2, min a(2-s1,-s4, qua [a)2 f] cro g(2
+=2, min a(2-s2, qua [a)2 f] cro g(2
 
 5 systems 5 /20-45-20 8/20-53-20 3/20-45-20/20-48-20/20-45-20 10/
 pagenum
@@ -141,7 +141,7 @@ leftfoot typesetting (c) 1998 Peter Billam
 =1' min A-s2-s5 rest
 =1, min C# cro D-s4 E-s1-s5
 =2' qua rest' e-s1, cro a(1-s1 qua [a)1 b-s2 a g-s2]
-=2, cro. A qua G-s4, [F-s3, G-s2, F E]
+=2, cro. A qua G-s4, [F-s5, G-s2, F E]
 /
 4 bars | 1b 4 4 4 4 4 4 4 3 | 4 5 4 4 4 4 4 3.5 | 5 4 4 4 5 4 4 3 | 4 4 4 5 4 4 5 3 |
 |
@@ -200,7 +200,7 @@ il0.8  30
 =2' smb rest'
 =2, min B(2 qua [B)2 c B A-s1,]
 |
-=1 cro. G qua E cro. C#-s1-s"  3-2" qua A
+=1 cro. G qua E cro. C#-s1-s2 qua A
 =1, qua [C)2 A_-s1] cro B_-s2 min A_(2
 =2' smb rest'
 =2, min G(2 qua [G)2 E-s4,] cro F-s5,
@@ -228,7 +228,7 @@ il0.7 .30 40
 =2' min e a
 =2, cro. A-s3,-s5, qua g-s2, [f-s1,-s3, e d-s5, c#-s3,]
 |
-=1' qua [e)1 c#] cro d(1-s5 cro. d)1 qua e-s4
+=1' qua [e)1 c#-s4] cro d(1 cro. d)1 qua e-s4
 =1, min A)2(2 qua [A)2 F-s2] cro G-s1
 =2' min f d
 =2, cro. d-s1,-s2, qua F min B-s2,-s4,
@@ -236,7 +236,7 @@ il0.7 .30 40
 /
 4 bars | 1b 4 4 4 4 4 4 4 3 | 4 4 4 4 5 5 4 3 | 4 4 4 4 5 5 4 3 | 4 4 4 4.5 4 4 4 4 |
 |
-=1' qua [f-s1-s5 e--s4] cro g(1-s5 qua [g)1-s1 f e-s1-s3 d--s5]
+=1' qua [f-s1-s5 e--s4] cro g(1-s5 qua [g)1-s1 f--s5 e-s1-s4 d--s5]
 =1, cro. A qua B----s2 cro A G(2
 =2' min c# cro d-,-,-s1, e-,-,-s2,
 =2, smb A(2-s3,-s5,
@@ -303,7 +303,7 @@ il0.8 50
 /
 4 bars | 1b 4 4 4 5 4 4 4 3 | 5 4 5 4 4 4 4 3 | 4 4 4 4 5 5 4 3 | 5 4 5 4 4 4 4 3 |
 |
-=1' min B(1-s3 qua [B)1-s1-s(3) B-s5 A-s4 G]
+=1' min B(1-s1-s3 qua [B)1-s1-s(3) B-s5 A-s4 G]
 =1, cro. G qua F-s2 min E(2
 =2' qua [f~)1-s1,-s(2), f~-,-s2, e~-,-s3, d~-,-s4,] min c~#-,-s5,
 =2, smb rest,
