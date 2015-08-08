@@ -1,0 +1,51 @@
+boundingbox 370 280
+midi channel 0 patch 0 reverb 45
+4 system 5 /27/27/27/27/
+/
+5 bars |5b 7 | 21 | 21 | 20 | 15
+| 1/8 .32
+b0.7 68.
+r0.7 .20 Op.10  no.2  2nd mvt, Trio
+=1  treble 5b cha0 leg99 vol80 4 F
+| 3/4 0.96
+=1  2 F 4 F
+|
+=1  vol+5 2 F 4 F
+|
+=1  vol+10 2. F{2
+| 0.64
+=1  vol-10 2 E}2
+/
+5 bars | 5b 6 4 | 21 | 21 | 18 | 15
+| 0.32
+=1  8 [E F]
+| 0.96
+=1  2 G 4 G
+|
+=1  vol+5 2 G 4 G
+|
+=1  vol+10 2. G{2
+| 0.64
+=1  vol-10 4 F}2 rest
+/
+5 bars | 5b 10 4 | 7 6 7 | 7 6 7 | 17 | 7 6 7 |
+| 0.32
+=1  8 [F Gn]
+| 0.96
+=1  2 A 4 A
+|
+=1  vol+5 2 A 4 A
+|
+=1  vol+10 2. d(1
+|
+=1 2 d)1 vol-10 4 c
+/
+4 bars | 5b 21 | 21 | 18 | 15
+|
+=1 4 c vol-5 B A
+|
+=1 2 A{2 vol-10 4 Gn}2
+|
+=1 vol+5 2.  B'{2
+|
+=1 4 vol-15 A}2 rest

@@ -86,7 +86,19 @@ all: motifs.tgz \
  ${D}/ex67.jpg  ${D}/ex67.mp3  ${D}/ex68.jpg  ${D}/ex68.mp3 \
  ${D}/ex69a.jpg ${D}/ex69a.mp3 ${D}/ex69b.jpg ${D}/ex69b.mp3 \
  ${D}/ex70a.jpg ${D}/ex70a.mp3 ${D}/ex70b.jpg ${D}/ex70b.mp3 \
- ${D}/diag51.jpg
+ ${D}/ex71.jpg  ${D}/ex71.mp3 ${D}/diag51.jpg ${D}/ex72.jpg ${D}/ex72.mp3 \
+ ${D}/ex73a.jpg ${D}/ex73a.mp3 ${D}/ex73b.jpg ${D}/ex73b.mp3 \
+ ${D}/ex73c.jpg ${D}/ex73c.mp3 \
+ ${D}/ex74a.jpg ${D}/ex74a.mp3 ${D}/ex74b.jpg ${D}/ex74b.mp3 \
+ ${D}/ex75a.jpg ${D}/ex75a.mp3 ${D}/ex75b.jpg ${D}/ex75b.mp3 \
+ ${D}/ex76a.jpg ${D}/ex76a.mp3 ${D}/ex76b.jpg ${D}/ex76b.mp3 \
+ ${D}/ex77a.jpg ${D}/ex77a.mp3 ${D}/ex77b.jpg ${D}/ex77b.mp3 \
+ ${D}/ex78a.jpg ${D}/ex78a.mp3 ${D}/ex78b.jpg ${D}/ex78b.mp3 \
+ ${D}/ex79a.jpg ${D}/ex79a.mp3 ${D}/ex79b.jpg ${D}/ex79b.mp3 \
+ ${D}/ex80a.jpg ${D}/ex80a.mp3 ${D}/ex80b.jpg ${D}/ex80b.mp3 \
+ ${D}/diag65.jpg ${D}/ex81.jpg ${D}/ex81.mp3 \
+ ${D}/ex82a.jpg ${D}/ex82a.mp3 ${D}/ex82b.jpg ${D}/ex82b.mp3 \
+
 
 disti:
 	upload ${D}/index.html
@@ -546,6 +558,75 @@ distex70a:
 distex70b:
 	upload ${D}/ex70b.jpg
 	upload ${D}/ex70b.mp3
+distex71:
+	upload ${D}/ex71.jpg
+	upload ${D}/ex71.mp3
+distex72:
+	upload ${D}/ex72.jpg
+	upload ${D}/ex72.mp3
+distex73a:
+	upload ${D}/ex73a.jpg
+	upload ${D}/ex73a.mp3
+distex73b:
+	upload ${D}/ex73b.jpg
+	upload ${D}/ex73b.mp3
+distex73c:
+	upload ${D}/ex73c.jpg
+	upload ${D}/ex73c.mp3
+distex74a:
+	upload ${D}/ex74a.jpg
+	upload ${D}/ex74a.mp3
+distex74b:
+	upload ${D}/ex74b.jpg
+	upload ${D}/ex74b.mp3
+distex75a:
+	upload ${D}/ex75a.jpg
+	upload ${D}/ex75a.mp3
+distex75b:
+	upload ${D}/ex75b.jpg
+	upload ${D}/ex75b.mp3
+distex76a:
+	upload ${D}/ex76a.jpg
+	upload ${D}/ex76a.mp3
+distex76b:
+	upload ${D}/ex76b.jpg
+	upload ${D}/ex76b.mp3
+distex77a:
+	upload ${D}/ex77a.jpg
+	upload ${D}/ex77a.mp3
+distex77b:
+	upload ${D}/ex77b.jpg
+	upload ${D}/ex77b.mp3
+distex78a:
+	upload ${D}/ex78a.jpg
+	upload ${D}/ex78a.mp3
+distex78b:
+	upload ${D}/ex78b.jpg
+	upload ${D}/ex78b.mp3
+distex79a:
+	upload ${D}/ex79a.jpg
+	upload ${D}/ex79a.mp3
+distex79b:
+	upload ${D}/ex79b.jpg
+	upload ${D}/ex79b.mp3
+distex80a:
+	upload ${D}/ex80a.jpg
+	upload ${D}/ex80a.mp3
+distex80b:
+	upload ${D}/ex80b.jpg
+	upload ${D}/ex80b.mp3
+distdiag65:
+	upload ${D}/diag65.jpg
+distex81:
+	upload ${D}/ex81.jpg
+	upload ${D}/ex81.mp3
+distex82a:
+	upload ${D}/ex82a.jpg
+	upload ${D}/ex82a.mp3
+distex82b:
+	upload ${D}/ex82b.jpg
+	upload ${D}/ex82b.mp3
+
 
 distmotifs : motifs.tgz
 	upload ${D}/motifs.tgz
@@ -1154,4 +1235,95 @@ ${D}/ex70b.jpg: ex70b
 	bash src2jpg ex70b $@
 ${D}/ex70b.mp3: ex70b
 	bash src2mp3 ex70b $@
+${D}/ex71.jpg: ex71
+	bash src2jpg ex71 $@
+${D}/ex71.mp3: ex71
+	bash src2mp3 ex71 $@
+${D}/ex72.jpg: ex72
+	bash src2jpg ex72 $@
+${D}/ex72.mp3: ex72
+	bash src2mp3 ex72 $@
+${D}/ex73a.jpg: ex73a
+	bash src2jpg ex73a $@
+${D}/ex73a.mp3: ex73a
+	bash src2mp3 ex73a $@
+${D}/ex73b.jpg: ex73b
+	bash src2jpg ex73b $@
+${D}/ex73b.mp3: ex73b
+	bash src2mp3 ex73b $@
+${D}/ex73c.jpg: ex73c
+	bash src2jpg ex73c $@
+${D}/ex73c.mp3: ex73c
+	bash src2mp3 ex73c $@
+${D}/ex74a.jpg: ex74a
+	bash src2jpg ex74a $@
+${D}/ex74a.mp3: ex74a
+	bash src2mp3 ex74a $@
+${D}/ex74b.jpg: ex74b
+	bash src2jpg ex74b $@
+${D}/ex74b.mp3: ex74b
+	bash src2mp3 ex74b $@
+${D}/ex75a.jpg: ex75a
+	bash src2jpg ex75a $@
+${D}/ex75a.mp3: ex75a
+	bash src2mp3 ex75a $@
+${D}/ex75b.jpg: ex75b
+	bash src2jpg ex75b $@
+${D}/ex75b.mp3: ex75b
+	bash src2mp3 ex75b $@
+${D}/ex76a.jpg: ex76a
+	bash src2jpg ex76a $@
+${D}/ex76a.mp3: ex76a
+	bash src2mp3 ex76a $@
+${D}/ex76b.jpg: ex76b
+	bash src2jpg ex76b $@
+${D}/ex76b.mp3: ex76b
+	bash src2mp3 ex76b $@
+${D}/ex77a.jpg: ex77a
+	bash src2jpg ex77a $@
+${D}/ex77a.mp3: ex77a
+	bash src2mp3 ex77a $@
+${D}/ex77b.jpg: ex77b
+	bash src2jpg ex77b $@
+${D}/ex77b.mp3: ex77b
+	bash src2mp3 ex77b $@
+${D}/ex78a.jpg: ex78a
+	bash src2jpg ex78a $@
+${D}/ex78a.mp3: ex78a
+	bash src2mp3 ex78a $@
+${D}/ex78b.jpg: ex78b
+	bash src2jpg ex78b $@
+${D}/ex78b.mp3: ex78b
+	bash src2mp3 ex78b $@
+${D}/ex79a.jpg: ex79a
+	bash src2jpg ex79a $@
+${D}/ex79a.mp3: ex79a
+	bash src2mp3 ex79a $@
+${D}/ex79b.jpg: ex79b
+	bash src2jpg ex79b $@
+${D}/ex79b.mp3: ex79b
+	bash src2mp3 ex79b $@
+${D}/ex80a.jpg: ex80a
+	bash src2jpg ex80a $@
+${D}/ex80a.mp3: ex80a
+	bash src2mp3 ex80a $@
+${D}/ex80b.jpg: ex80b
+	bash src2jpg ex80b $@
+${D}/ex80b.mp3: ex80b
+	bash src2mp3 ex80b $@
+${D}/diag65.jpg: diag65.eps
+	eps2jpg diag65.eps > $@
+${D}/ex81.jpg: ex81
+	bash src2jpg ex81 $@
+${D}/ex81.mp3: ex81
+	bash src2mp3 ex81 $@
+${D}/ex82a.jpg: ex82a
+	bash src2jpg ex82a $@
+${D}/ex82a.mp3: ex82a
+	bash src2mp3 ex82a $@
+${D}/ex82b.jpg: ex82b
+	bash src2jpg ex82b $@
+${D}/ex82b.mp3: ex82b
+	bash src2mp3 ex82b $@
+
 

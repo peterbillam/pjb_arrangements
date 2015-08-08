@@ -1,0 +1,28 @@
+boundingbox 500 140
+midi channel 0 patch 0 reverb 45
+2 system 10 /27 13/27/
+/
+5 bars | 1# 6 5 | 4 4 5 5 4 3 | 5 5 4 5 4 3 | 4 4 4 3 7.5 5 | 4 4 4 4 7 5 |
+| 1/8 .25
+b0.7 63.
+r0.7 .30 Op.14  no.2   Scherzo
+=1  treble 1# cha0 leg95 vol90 16 [B_ C]
+| 3/8 .75
+=1  8 D-., 16 [E F 8 G]
+|
+i0.7 .20 Allegro assai
+=1  16 [A, B 8 c-.] c#-.
+|
+=1  4 d 16 16 [e c#]
+|
+=1  8 d rest 16 [B cn]
+/
+4 bars | 2# 6 6 7 7 6 6 | 6 6 6 6 6 5 | 7 5 5 5 6 5 | 5 4
+|
+=1  8 d-. 16 [e f 8 g-.]
+|
+=1  16 [a b 8 c~-.] c~#-.
+| .77
+=1  16-s d' 4 d~ 16 [c~n a]
+| 1/8 .3
+=1  8 g

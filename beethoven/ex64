@@ -1,0 +1,30 @@
+boundingbox 630 150
+midi channel 0 patch 0 reverb 45
+2 system /27/27/
+/
+5 bars |3b 8 5 5 5 4 |4 4 5 8 5 5 5 4 |4 4 5 8 5 5 5 4 |4 4 5 5 5 5 5 4 |12
+| 5/8 .75
+b0.7 64.
+r0.7 .20 Op.10  no.1
+=1  treble 3b cha0 leg95 vol100 8 C [B_n C F-., F-.,]
+| 2/2 1.2
+i0.7 .02 Prestissimo 
+=1  4 E 8 rest C [B_n C A-. A-.]
+|
+=1' 4 G 8 rest C [B_n C c-. c-.]
+|
+=1  4 c-turn 8 [e d]  [f e d c]
+| .45
+=1  4 Bn 8 rest
+/
+5 bars | 3b 8 5 5 5 4 | 4 4 5 8 5 5 5 4 | 4 4 5 9 5 7.5 5 4 |5 5 5 5 5 5 5 4 |7
+| 0.75
+=1  8 G_ 8 [F_# G_ C-. C-.]
+| 1.2
+=1  4 B_n 8 rest, G_ [F_# G_ E-., E-.,]
+|
+=1  4 D 8 rest, G_ [B_n-., D-., Fn-. A-.]
+|
+=1  8 [Bn-. d-. f-. a-.] [g-. f-. e-. d-.]
+| 0.45
+=1 4 c

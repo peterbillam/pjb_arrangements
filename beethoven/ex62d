@@ -1,0 +1,26 @@
+boundingbox 450 160
+midi channel 0 patch 40 reverb 45
+2 system 8 /27/27/
+/
+4 bars | 1b 3/4 6 6 5 12 6 5 | 11 7 7 | 6 6 5 12 6 5 | 11 7 7 |
+| 4/4 1.4
+b0.9 62d.
+r0.9 .07 Op.18 no.1
+i0.3 .09 Allegro con brio
+=1  treble 1b 3/4  cha0 leg100 vol90 4. F 16 [G F] 8 leg80 [E-., F-.,]
+|
+=1  4 C rest rest
+|
+=1 4. leg100 F 16 [G F] 8 leg80 [E-., F-.,]
+|
+=1  4 D rest rest
+/
+4 bars | 1b 6 6 5 12 6 5 | 10 10 9 | 5 5 5 5 6 8 | 10 10 9 |
+|
+=1 4. leg100 f 16 [g f] 8 leg80 [e-. f-.]
+|
+=1  2 leg100 g{1 4 B}1
+|
+=1 2 A 8. [d{1 16 B}1]
+|
+=1 2 A 4 G

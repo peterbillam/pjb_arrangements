@@ -1,0 +1,28 @@
+boundingbox 625 153
+midi channel 0 patch 40 reverb 45
+2 system 5 /27 5/27 3/
+/
+4 bars | 5 4 5 4 6 6 6 5 | 16 20 | 5 4 5 4 6 6 6 5 | 16 20 |
+| 4/4 2.0
+b0.7 70b.
+r0.7 .20 Mozart K.V.465
+=1, treble cha0 leg99 vol80 2 c(1 8 [c)1 c{1 d e}1]
+|
+=1  2 g{1 4 f}1 rest
+|
+=1  2 d(1 8 [d)1 d{1 e f}1]
+|
+=1  2 a{1 4 g}1 rest
+/
+5 bars | 3# 5 4 5 4 6 6 6 5 | 7 6 6 5 5 6 6 5 \
+ | 7 6 6 6 6 6 9.5 5 | 6 6 6 9.5 6 9.5 6 5 | 12
+|
+=1 2 g(1 8 [g)1 g{1 a b}1]
+|
+=1 8 [c~{1 e}1] 4. f 8 [e-. f-. g-.]
+|
+=1, 8 [a vol-5 c# d e] [f vol-5 A d vol-5 cn]
+|
+=1' 8 [c B A vol-5 G] [F# vol-5 G Fn vol-5 D]
+| 1.0
+=1 2 C

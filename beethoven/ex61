@@ -1,0 +1,53 @@
+boundingbox 600 455
+midi channel 0 patch 0  reverb 45
+midi channel 1 patch 0  reverb 15
+6 systems 20 /27 5/27/27/27/27/27/
+/
+3 bars | 4# 4 | 3 3 3 2.5 3 2.5 3 2.5 3 3 3 2.5 3 2.5 3 2.5 \
+ | 3 3 3 2.5 3 3 3 3 3 3 3 2.5 3 3 3 2.5 |
+| 2/4 0.32
+b1.0 61.
+i0.4 .25 antecedent . . .
+=1  treble 4#  cha0 leg80 vol90 8 B
+| 4/4 2.56
+r1.0 .20 J.S.Bach  Allemande,  French Suite no.6,  BWV817
+=1, 16 leg105 [G leg80 A B e] [E e F e] leg105 [G leg80 A B e] [E e F e]
+|
+b1.0 .75 C-type
+=1, 16 [G e f g] [A leg105 g leg80 f e] leg105 [d leg80 e f b] [B b dn b]
+/
+2 bars | 4# 4 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 | 12 12 9
+|
+=1, 16 leg105 [c leg80 d# e a] [A a c a] [B a e g] leg105 [A leg80 B c f]
+| 2.08
+=1, 16 [G e B e] leg105 [F leg80 G A d] 4 e(1 16 e)1
+/
+3 bars | 4# 2.5 3 2 | 3 3 3 3 2.5 3 2.5 4.5 3 3 3 3 2.5 3 2.5 2 \
+ | 3 3 3 3 2.5 3 4 3 3 3 3 3 2.5 3 2.5 2 |
+| 0.48
+i0.4 .25 continuation . . .
+=1 16 [g d f]
+| 2.56
+=1  leg105 [e leg80 d c e] [g c e B] leg105 [A# leg80 G F A] [c F, e F,]
+|
+=1  leg105 [d leg80 c B d] [f B d An,] leg105 [G leg80 F E G] [B E, d E,]
+/
+2 bars | 4# 3 3 3 3 3 3 3 3 4 3 3 3 3 3 3 2 | 3 2 2 3 3 2 2 3 3 2 3 2 3 2 4 2 |
+|
+=1  16 leg105 [c leg80 d e leg105 g] [f leg80 e d c] \
+ leg105 [b a# leg80 g f] leg105 [e leg80 d e c]
+|
+=1, 8. [d-tr 16 e] 8. [c-tr 16 B] 8 [B f] [d 16 f leg105 A#]
+/
+2 bars | 4# 3 2 3 4 3 2 3 3 3 2 3 2 3 2 3 2 | 3 2 3 2 3 2 3 2 3 2 3 2 4 3 3 2.5 |
+|
+i0.4 .23 conclusion . . .
+=1, 8 leg80 [B 16 d leg105 16 G] leg80 8 [An 16 d leg105 F] 8 leg60 G leg90 4 e 8 c
+|
+=1 8 leg60 A# leg90 4 f 8 d leg80 [B leg105 g(1] 16 [g)1 leg80 a# b g]
+/
+2 bars | 3# 48 | 12 12 10
+|
+=1, 16 leg105 [e leg80 d 8 e(1] 16 [e)1 leg105 g leg80 f e] [d c B g] 8 leg105 [B 16. A#-tr 32 B]
+| .65 .65 .70
+=1 16 leg105 [B leg80 c d f] [b f d f] 4 B

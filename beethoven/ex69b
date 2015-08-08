@@ -1,0 +1,28 @@
+boundingbox 585 170
+midi channel 0 patch 0
+1 systems 9 /27-37-27/
+/
+5 bars | 2b 6 5 |4 4 4 4 5 4 6 5 |5 4 4 4 5 4 6 5 |5 5 6 6 6 6 6 5 |12 12 10
+| .41
+b1.1 69b.
+r1.1 .30 Op.106
+=1' treble    2b cha0 leg100 vol90 8 [B{'1 c]
+=1,           2b cha0 leg100 4 rest,,
+=2' bass      2b cha0 leg100 vol60 4 rest
+| 1.6
+=1' vol+7 2 d vol-5 4 leg80 c}'1 8 leg100 [c{'1 d]
+=1, 4 rest, G A Ab
+=2  vol75 4 rest e~n f~ bn
+i0.01 .04 bar 5
+|
+=1' vol+7 2 e vol-5 4 leg80 d}'1 8 leg100 [d{'1 e]
+=1, 4 leg80 G leg100 An B G
+=2  4 leg80 c~ leg100 f# g eb
+| .81 .85
+=1' vol+7 4. f 8 g f 4 e}'1 vol-7 8 f
+=1, 4 leg80 F leg100 B G A
+=2'  4 d db leg85 c vol-8 leg100 Fn
+| .45 .51 1.3
+=1' 8 [e d f e] 4 vol+8 c-fermata
+=1, 4 <F B> vol-5 leg90 <G c> leg100 A
+=2  4 leg85 B vol-10 leg100 E F-fermata
