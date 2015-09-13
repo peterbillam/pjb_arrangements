@@ -98,6 +98,8 @@ all: motifs.tgz \
  ${D}/ex80a.jpg ${D}/ex80a.mp3 ${D}/ex80b.jpg ${D}/ex80b.mp3 \
  ${D}/diag65.jpg ${D}/ex81.jpg ${D}/ex81.mp3 \
  ${D}/ex82a.jpg ${D}/ex82a.mp3 ${D}/ex82b.jpg ${D}/ex82b.mp3 \
+ ${D}/ex83a.jpg ${D}/ex83a.mp3 ${D}/ex83b.jpg ${D}/ex83b.mp3 \
+ ${D}/ex83c.jpg ${D}/ex83c.mp3
 
 
 disti:
@@ -626,6 +628,15 @@ distex82a:
 distex82b:
 	upload ${D}/ex82b.jpg
 	upload ${D}/ex82b.mp3
+distex83a:
+	upload ${D}/ex83a.jpg
+	upload ${D}/ex83a.mp3
+distex83b:
+	upload ${D}/ex83b.jpg
+	upload ${D}/ex83b.mp3
+distex83c:
+	upload ${D}/ex83c.jpg
+	upload ${D}/ex83c.mp3
 
 
 distmotifs : motifs.tgz
@@ -1325,5 +1336,17 @@ ${D}/ex82b.jpg: ex82b
 	bash src2jpg ex82b $@
 ${D}/ex82b.mp3: ex82b
 	bash src2mp3 ex82b $@
+${D}/ex83a.jpg: ex83a
+	bash src2jpg ex83a $@
+${D}/ex83a.mp3: ex83a
+	bash src2mp3 ex83a $@
+${D}/ex83b.jpg: ex83b
+	bash src2jpg ex83b $@
+${D}/ex83b.mp3: ex83b
+	bash src2mp3 ex83b $@
+${D}/ex83c.jpg: ex83c
+	bash src2jpg ex83c $@
+${D}/ex83c.mp3: ex83c
+	bash src2mp3 ex83c $@
 
 
