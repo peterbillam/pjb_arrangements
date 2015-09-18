@@ -1,6 +1,7 @@
 MUSCRIPT = /home/pbin/muscript
 NORMALIZE = /usr/bin/normalize-audio
 ARRD = /home/pjb/www/mus/arr
+FREED = /home/pjb/www/mus/free
 A4D = ${ARRD}/a4
 USD = ${ARRD}/us
 XMLD = ${ARRD}/xml
@@ -40,6 +41,11 @@ dist2:
 	upload ${SRCD}/${PIECE2}.txt
 	#upload ${XMLD}/${PIECE2}.xml
 	#upload ${XMLD}/${PIECE2}_readme.txt
+
+warn1 : ${FREED}/${PIECE1}.pdf
+	upload ${FREED}/${PIECE1}.pdf
+warn2 : ${FREED}/${PIECE2}.pdf
+	upload ${FREED}/${PIECE2}.pdf
 
 ${A4D}/${PIECE1}.pdf : ${TITLE1}.a4 p2.a4 p3.a4 ${PIECE1}.a4 ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE1}.a4 \
@@ -86,6 +92,13 @@ ${MP3D}/${PIECE2}.mp3 : ${PIECE2}
 	${NORMALIZE} --peak t.wav
 	lame -h t.wav $@
 	rm t.wav
+
+${FREED}/${PIECE1}.pdf : ${WARNING}
+	${A42US} -c ${WARNING} \
+	  | /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${FREED}/${PIECE2}.pdf : ${WARNING}
+	${A42US} -c ${WARNING} \
+	  | /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 
 ${PIECE2}.a4 : ${PIECE2}
 	${MUSCRIPT} ${PIECE2} > $@

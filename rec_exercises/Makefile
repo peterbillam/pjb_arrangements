@@ -39,6 +39,21 @@ distb:
 	upload ${USD}/${PIECE_B}.pdf
 	upload ${SRCD}/${PIECE_B}.txt
 
+warnc: ${FREED}/${PIECE_C}.pdf
+	upload ${FREED}/${PIECE_C}.pdf
+warnf: ${FREED}/${PIECE_F}.pdf
+	upload ${FREED}/${PIECE_F}.pdf
+warnb: ${FREED}/${PIECE_B}.pdf
+	upload ${FREED}/${PIECE_B}.pdf
+${FREED}/${PIECE_C}.pdf : ${WARNING}
+	${A42US} -c ${WARNING} \
+	  | /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${FREED}/${PIECE_F}.pdf : ${WARNING}
+	${A42US} -c ${WARNING} \
+	  | /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${FREED}/${PIECE_B}.pdf : ${WARNING}
+	${A42US} -c ${WARNING} \
+	  | /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
 
 ${A4D}/${PIECE_C}.pdf : title_C.a4 p2.a4 ${PIECE_C}.a4 ${BACKPAGE}
 	${ADDMESSAGE} ${PIECE_C}.a4 \
