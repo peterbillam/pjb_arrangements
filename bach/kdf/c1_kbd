@@ -351,7 +351,8 @@ pagenum
 innerhead Contrapunctus 1, J. S. Bach
 leftfoot typesetting (c) 1998 Peter Billam
 /
-4 bars | 1b 5 4 4 5 4 4 4 4 | 5 4 4 5 4 4 5 3 | 5 4 4 4 4 4 4 4 | 5 4 4 4.5 5 4 4 4 |
+4 bars | 1b 5 4 4 5 4 4 4 4 | 5 4 4 5 4 4 5 3 \
+ | 5 4 4 4 4 4 4 4 | 5 4 4 4.5 5 5 4 4 |
 |
 =1' qua [c)1-s1-s3-s(5) A-s2-s4 B-s2-s3 d-s5] cro eb-s4 d-s1-s3
 =1, qua [G F#] cro G rest, B(2
@@ -368,7 +369,7 @@ leftfoot typesetting (c) 1998 Peter Billam
 =2' cro rest' qua [f d] cro. g qua c#
 =2' smb A)2(2
 |
-=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn] cro c(1
+=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn] cro cn(1
 =1, cro. A qua F--s2 cro. E qua G--s3
 =2' cro. f qua d min a
 =2, min. A)2 cro A

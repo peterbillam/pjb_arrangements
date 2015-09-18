@@ -1,10 +1,15 @@
-head	1.9;
+head	1.10;
 access;
 symbols;
 locks
-	pjb:1.9; strict;
+	pjb:1.10; strict;
 comment	@# @;
 
+
+1.10
+date	2015.09.18.06.08.01;	author pjb;	state Exp;
+branches;
+next	1.9;
 
 1.9
 date	2015.08.31.07.32.04;	author pjb;	state Exp;
@@ -57,9 +62,9 @@ desc
 @
 
 
-1.9
+1.10
 log
-@more footling fingering
+@fix the c-natural in bar 65 (embarrasing)
 @
 text
 @5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
@@ -226,7 +231,7 @@ leftfoot typesetting (c) 1998 Peter Billam
 |
 =1' min A-s(1)-s2-s3 e-s1-s"   4-5"
 =1, cro. F# qua d-s5 min G#
-=2' qua [e~)1 a-s3,] cro d~(1-s1, qua [d~)1 d~ c~ bn]
+=2' qua [e~)1 a-s3,] cro d~(1-s1, qua [d~)1 d~-s1, c~-s2, bn-s1,]
 =2, min rest, e
 /
 4 bars | 1b 4 4 4 4.3 4 4 4 3 | 4 4 4 4 4 4.5 5 3 | 5 5 4 4 4 4 5 3 | 4 4 4 4 4 4 5 3 |
@@ -235,7 +240,7 @@ il0.8  30
 =1' min c-s2-s4 A-s5
 =1, cro A E(2 qua [E)2 E-s2 D-s1 C-s2]
 =2' qua [c~ d~] rest'' a-s2, cro c~ a
-=2, min a-s2,-s4, f(2-s1,-s4,
+=2, min a-s2,-s3, f(2-s1,-s4,
 |
 =1' min G# cro A-s1-s2-s4 Bn-s2-s5
 =1, cro D F-s3 E D
@@ -415,7 +420,8 @@ pagenum
 innerhead Contrapunctus 1, J. S. Bach
 leftfoot typesetting (c) 1998 Peter Billam
 /
-4 bars | 1b 5 4 4 5 4 4 4 4 | 5 4 4 5 4 4 5 3 | 5 4 4 4 4 4 4 4 | 5 4 4 4.5 5 4 4 4 |
+4 bars | 1b 5 4 4 5 4 4 4 4 | 5 4 4 5 4 4 5 3 \
+ | 5 4 4 4 4 4 4 4 | 5 4 4 4.5 5 5 4 4 |
 |
 =1' qua [c)1-s1-s3-s(5) A-s2-s4 B-s2-s3 d-s5] cro eb-s4 d-s1-s3
 =1, qua [G F#] cro G rest, B(2
@@ -432,7 +438,7 @@ leftfoot typesetting (c) 1998 Peter Billam
 =2' cro rest' qua [f d] cro. g qua c#
 =2' smb A)2(2
 |
-=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn] cro c(1
+=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn] cro cn(1
 =1, cro. A qua F--s2 cro. E qua G--s3
 =2' cro. f qua d min a
 =2, min. A)2 cro A
@@ -510,6 +516,26 @@ il0.8  70
 =2, smb a-fermata
 =2, smb d)2-s1,-s(5),
 
+@
+
+
+1.9
+log
+@more footling fingering
+@
+text
+@d165 1
+a165 1
+=2' qua [e~)1 a-s3,] cro d~(1-s1, qua [d~)1 d~ c~ bn]
+d174 1
+a174 1
+=2, min a-s2,-s4, f(2-s1,-s4,
+d354 2
+a355 1
+4 bars | 1b 5 4 4 5 4 4 4 4 | 5 4 4 5 4 4 5 3 | 5 4 4 4 4 4 4 4 | 5 4 4 4.5 5 4 4 4 |
+d372 1
+a372 1
+=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn] cro c(1
 @
 
 
