@@ -188,6 +188,8 @@ il0.5 .03 30
 pagenum
 innerhead Book 1, Well-Tempered Clavier, J. S. Bach
 title Fugue I in C major
+midi channel 0 patch 0
+
 /
 3 bars | 4/4 5 5 5 5 5 5 5 5 5 6 6 10 5 6 5 6 \
  | 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 5 \
@@ -2678,7 +2680,7 @@ il0.9 .35 65
 =1  cha1 2 F, B_
 =1, cha2 2 Cr B_
 =2' cha3 2 an rest'
-=2, cha4 4 f-s1,-s3, e-,-s3, d-s1,-s4, c-s5,
+=2, cha4 4 f-s1,-s2, e-,-s3, d-s1,-s4, c-s5,
 /
 7 bars | 5b 8 8 9 8 | 9 9 9 8 | 7 6 5 4 4 4 4 3 \
  | 5 5 4 4 7 7.5 5 4 | 8 8 8 7 | 10 9 9 7 | 10 ||
