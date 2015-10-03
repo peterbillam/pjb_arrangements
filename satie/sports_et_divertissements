@@ -1,0 +1,293 @@
+5 systems 30 /18-30-18/18-35-18 30/ 18-30-18/18-35-18/18-30-18 30/
+title Sports et Divertissements
+pagenum
+innerhead Eric Satie
+midi channel 0 patch 0
+
+midi off
+
+/
+1 bars | 100
+| 1 1 1 1 1 1.2 1 1 1.3 1 1 1.6 1 1 1 1 1 1 1.4
+Il1.1  Choral inappétisant
+i0.4 .02 Grave
+=1' treble cha0 vol100 leg100 4 Cr 2 D 4 F 2 E \
+  4 Gr 2 A  4 Bn 2 c-fermata \
+  4 f 2 e 4 d 2 e
+=1,  4 B_b A_ vol90 A_b vol100 G_ 2 C \
+  4 Fn 2 E 4 Ar 2 G \
+  4 A G vol90 G# vol100 A 2 Bn
+=2' bass   cha0 vol100 leg100 4 g 2 f 4 dr f# g \
+  4 c~r 2 c~r 4 e~r 2 e~r \
+  4 d~ 2 c~# 4 d~ d~ vol90 c~#
+=2,  vol100 4 eb 2 Bb 4 c 2 d \
+  4 bb bb vol90 a vol100 d~ d~ vol85 c~ \
+  vol100 4 bn 2 br 4 bb 2 a
+/
+1 bars | 100
+| 1 1 1 1.2 1 1.4 1 1 1.1 1.1 1.2 1.3 1.5 1.6 2.2
+=1' 4 A 2 cn 4 Bn 2 A \
+  vol125 4 Gn 2 c 4 d 2 e 4 B 2 c
+=1, vol100 4 Fn F#l vol90 G# vol100 4 E 2 F# \
+  vol125 4 E 2 D 4 D 2 D 4 D# D# vol100 E-fermata
+=2' vol100 4 d~ 2 d~ 4 d~ 2 d~# \
+  vol125 4 b bb a g# g# a  ab 2 gn
+=2, vol100 4 bb 2 e 8 [f# g#] 4 c~r vol85 bn-fermata \
+  vol125 4 e 2 f#l 4 Bnl 2 c 4 fnl 2 c
+
+midi pause 3.0
+
+/
+1 bars | 100
+| .9 .9 .9 .9  .9 .9 .9 .9  .9 .9 .9 .9  .9 .9
+Il1.1  La Balancoire
+i0.4 .02 Lent
+$A = vol65 E-., vol75 e~-.
+=1 bass cha0 vol85 leg105 4 g a b 2 c~# 4 f# 2 a 4 blank d~ c~# c~n 2 b treble
+=2 bass cha0 leg85 8 $A $A $A $A $A $A $A $A $A $A $A $A $A $A
+| .9 .9 .9 .9  .9 .9 .9 .9  .9 .9 .9 .9  .9 .9 .9
+=1 4 blank A G F# D C# B_ 2 A_ 4 blank bass g a b 2 c~#
+=2 8 $A $A $A $A  $A $A $A $A  $A $A $A $A  $A $A $A
+| .9 .9 .9 .9  .9 .9 .9 .9  .9 .9   .9 .9 .9
+=1 4 a vol+5 2. b 2. vol+10 d~(1 2 d~)1 4 blank blank 2 blank
+=2 8 $A $A $A $A  $A vol-4 $A $A vol-4 $A  $A vol-4 $A 4 blank 2 blank
+
+midi pause 3.0
+
+6 systems 30 /18-25-18/18-30-18/18-30-18 50/ 18-25-18/18-40-18/18-30-18 10/
+pagenum
+innerhead Sports et Divertissements,   Eric Satie
+midi channel 0 patch 0
+
+/
+1 bars | 100
+| 5.1
+Il1.6  La Chasse
+i0.9 Vif
+=1' treble cha0 vol80 leg75 4 e-. 8 e{'1 4 a}'1 8 a{'1 4 e}'1 8 e{'1 4 d}'1 \
+ 8 rest vol70 [d f an] [f d f] [a f d] 4 f 8 rest \
+ 8 vol80 [A_n C E] [A E C] [A_ C E] A rest rest
+=1, 4. <Ab c> <G Bb> <F Ab> 4 <G Bb> 8 blank \
+ 4. <Abrl c> <G Bb> <Ab c> 4 <G Bb> 8 blank 2. blank blank
+=2 bass cha0 vol70 leg75 2. blank blank blank blank \
+ 4 g-. 8 e{1 4 d}1 8 e{1 4 g}1 8 e{1 4 d}1 8 blank
+| 5.1
+=1' vol105 4 d~-. 8 b{'1 4 a}'1 8 b{'1 4 d~}'1 8 b{'1 4 a}'1 8 rest  \
+ vol125 4 e-. 8 e-. 4 e-. 8 f{'1 4 e}'1 8 e-. 4 e-. 8 rest \
+ vol70 2. blank blank
+=1, vol105 8 [A_ D F#] [A F# D] [A_ D F#] 4 A 8 blank \
+ vol125 4 A-., 8 A-., 4 A-., 8 Bb{,2 4 A},2 8 A-., 4 A-., 8 rest \
+ vol70 2. blank blank
+=2' vol70 2. blank blank  blank blank \
+  4 <g-. ax> 8 blank 4 <g-. ax> 8 blank 4 <g-. ax> 8 blank 4 <g-. ax> 8 rest
+=2, 2. blank blank  blank blank \
+  4 e-., 8 d{,2 4 e},2 8 d{,2 4 e},2 8 d{,2 4 e},2 8 blank
+| 4.80
+=1 1 blank
+=2' vol80 4 d~-., 8 b{'1 4 c~#}'1 8 b{'1 4 a}'1 8 b{'1 4 c~n}'1 8 rest \
+ 8 vol105 [G A c] [A G A] [c A G] [A c A] 4 G 8 rest 4 rest 8 rest \
+ 4 vol125 G-. 8 blank
+=2, vol70 4 <f a> 8 blank 4 <e a> 8 blank 4 f 8 blank 4 <e g> 8 blank \
+ 2. blank blank blank 4. blank
+=2, vol70 4 <D_-., D> 8 blank 4 <A_-., A> 8 blank 4 <D_-., D> 8 blank \
+ 4 <C_-., C> 8 blank  vol105 \
+ 4 <E_-., E> 8 blank 4 <E_b-., Eb> 8 blank 4 <D_-., D> 8 blank \
+ 4 <D_b-., Db> 8 blank 4 <C_-., C> 8 blank 4. blank \
+ 4 vol125 <C_-., C> 8 blank
+
+midi pause 3.0
+
+/
+1 bars | 2 3 2 2 2 3 2 2 2 3 2 2 1 6 2 2 2 3 6 6 3 2 6 6 3 2
+| .8 .8 .8 .8  .8 .8 .8 .8  .8 .8 .8 .8  .8
+Il1.6  La Comédie Italienne
+i0.9 .01 A la napolitaine
+=1' treble cha0 vol90 leg90 8. [C{'1 16 E] 4 G}'1 8. [G{'1 16 F] 4 D}'1 \
+  8. [F{'1 16 E] 4 C(2 8.. [C)2 32 E D] 4 C}'1 \
+  8. vol100 [c 16 A] [G 32 A G F# G vol120 A B] 8 c rest \
+  16 vol100 [D 32 E D C# D vol110 E Fn] 8 G rest
+=2, bass cha0 vol80 leg90 4 blank 8 <bb d~> blank <a c~> blank \
+  <g-., bb> blank <f-., a> blank <e g> blank <f a> blank <g bb> blank 4 blank \
+  4 <e g c~> vol70 8 <f# a d~#> blank 4 vol80 <fnx g bn> 8 vol70 <e g c~n> blank
+/
+1 bars | 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+| .8 .8 .8 .8  .8 .8 .8 .8  .8 .8 .8 .8  .8 .8 .8
+=1' 16 [G A F G] [E F D E] 8. [C 32 E G] 8 c rest \
+  vol110 2 D 8. [E 16 F#-.] 8. [G-. 16 A] 4 B(1 8. [B)1 16 A] 4 G \
+  vol90 8. [d 16 B] 4 A 8. [c 16 A] 4 G
+#P=1, 8 [A_ B_ Cn B_] 4 C(2 8 C)2 blank \
+  2 vol100 A_b{2 8 G_}2 blank 4 blank D 8 [F# E] 4 D \
+  4 vol85 blank 8 C blank 4 blank 8 B_ blank
+#M=1, 8 [A_ B_ Cn B_] 2 blank \
+  2 vol100 A_b{2 8 G_}2 blank 4 blank D 8 [F# E] 4 D \
+  4 vol85 blank 8 C blank 4 blank 8 B_ blank
+=2' 8 [c# d e f] 4 e(1 8 e)1 blank \
+  vol100 8. [<A_# A#> 16 <B_ B>] 8. [<D# d#> 16 <B_ B>] 8 <Cn cn> 4. blank \
+  83 [g a-I3 b] 4 c~ b \
+  vol80 4 blank blank blank blank
+=2, vol80 8 [Br A] 4 G cn(2 8 c)2 blank \
+  vol100 1 blank 2 d 4 g vol80  blank 8 <ebx f> 4. blank 8 <d f> blank
+| .8 .8 .8 .8  .8 .8 .8 1.0  .85 .9 .95 1.0  1.1 1.2
+=1' 8. [D-. 16 D-.] vol110 4 D(1-emph 16 [D)1 32 E D C# D vol120 E F#] 4 G \
+  8. [G{'1 16 Fn] [E}'1 F-. G-. A-.] [B-. c-. d-. e-.] 4 f-emph \
+  vol110 8. [F 16 D] 4 E 8. [E 16 G] 4 Cn C-emph blank
+=1, 4 blank 8 vol105 <G_ B_> blank <F_# A_> blank <G_ D> 4. blank \
+  8 <G_ Cn> 4. blank 8 <F d> 4. blank \
+  8 <G_ B_> blank <A_ C> blank <F_nl A_> blank <E_ G_> 4. blank
+=2 4 blank vol100 8 <D d'> blank <C c> blank <B_ B> 4. blank \
+  vol110 8 <C c> 4. blank 8 <ab d~> 4. blank vol100  8 <E_-., E> blank \
+  <F_-., F> blank 8. [<G_ G> 16 <A_ A>] 8. [<C c> 16 <G_ G>] 4 <C_ C-emph>
+
+midi pause 3.0
+
+6 systems 10 /18-34-18 10/18-34-18/18-34-18 30 \
+ / 18-23-18/18-30-18 30/18-30-18 10/
+pagenum
+innerhead Sports et Divertissements,   Eric Satie
+midi channel 0 patch 0
+
+/
+1 bars | 10 10 10 10 10 10 10 10 12 8 12 9 11 11 11 11 
+| 2.2 2.2 2.2 2.2
+Il1.1  Le Réveil de la Mariée
+i0.4 .01 Vif , sans trop
+=1' treble cha0 vol120 leg90 1 blank blank \
+  16 [c# e 8 f#] 4 b-emph 16 [c# e 8 f#] 8 b-emph vol105 D-. \
+  8 [G 16 A G] 8 [D D-.] 8 [G 16 A G] 8 [D D-.]
+=1, 1 blank blank \
+  8 [<E F#x A> <E G B>] 4 <E A c#> 8 [<E F#x A> <E G B>] 8 <E A c#> blank \
+  1 blank
+=2' bass cha0 vol100 leg85 \
+  8 [br-. e~-. br-. e~-.] 32-s c~ 4 <a(2 bx(1> 8 <a)2 bx)1> 16. blank \
+  8 [br-. e~-. br-. e~-.] 32-s c~ 4 <a(2 bx(1> 8 <a)2 bx)1> 16. blank \
+  1 blank blank
+=2, 4 a-emph a-emph blank blank a-emph a-emph 2 blank 1 blank leg65 \
+  vol-15 8 [<bbxl c~#l-.,> <bx c~-.,> <bx c~-.,> <bx c~-.,>] \
+  8 [<bx c~-.,> <bx c~-.,> <bx c~-.,> <bx c~-.,>] vol+15
+=2, 8 [D-., <A-., f>] [D-., <A-., f>] [D-., <A-., f>] [D-., <A-., f>] \
+ [D-., <A-., f>] [D-., <A-., f>] [D-., <A-., f>] [D-., <A-., f>] \
+ 1 blank blank
+/
+1 bars | 140
+| 1.1 1.1 1.1 1.1 1.1 1.1 1.1
+=1 8 [G 16 A G] 8 [D G] 4. A-emph 8 rest \
+  1 blank blank 2 blank
+=2' 1 blank \
+  8 [<f#l bn-.> blank <f# b-.>] blank [<f#l b-.> blank <f# b-.>] blank \
+  8 [<g ax-.> <d~ e~x-.> <g ax-.> <c~ d~x-.>] \
+    [<g ax-.> <d~ e~x-.> <g ax-.> <c~ d~x-.>] \
+  8 vol85 [g-. <d f-.> g-. <d f-.>]
+=2, vol100 8 [<bbxl c~#l-.,> <bx c~-.,> <bx c~-.,> <bx c~-.,>] \
+  8 [<bx c~-.,> <bx c~-.,> <bx c~-.,> <bx c~-.,>] \
+  8 blank [<A-., d> blank <A-., d>] blank [<A-., d> blank <A-., d>] \
+  8 [D-., <Abl-., fn>] [D-., <Ab-., f>] [D-., <Ab-., f>] [D-., <Ab-., f>] \
+  vol105 leg99 8 [A_n 16 B_ C] 4 A_
+/
+1 bars | 170
+| .55 .55 .55 .55  .55 .55 .55 .55  .55 .55 .55 .55  .55 .55 .55 .55  .55
+=1' 2 blank vol95 leg99 8 [C 16 D Eb] 8 [C F-.] 4 A G# F# G# 4. <D F# A> \
+  8 rest 1 blank 2. blank
+=1, 1 blank 8 blank <C Eb> blank <C Eb> blank <C Eb> blank <C Eb> \
+  2 blank 1 blank 2. blank
+=2' 8 vol85 leg85 [g-. <d f-.> g-. <d f-.>] 1 blank blank \
+  vol125 leg99 8. [gn 16 a] 8 [c~ leg85 d~-.] [e~-. d~-. c~-. a-.] \
+  leg99 8. [c~ 16 a] 8. [c~ 16 a] 8 c~ blank
+=2, vol105 leg99 8 [A_n 16 B_ C] 4 A_ \
+  vol75 leg85 8 [F-., <c-., a>] [F-., <c-., a>] \
+  leg99 4 a g# f# g# leg85 8 [<ax b-.,> A-., <ax b-.,> A-.,] \
+  vol115 8 [B_-., <F# e-.,>] [B_-., <F# e-.,>] [B_-., <F# e-.,>] \
+  [B_-., <F# e-.,>] [B_-., <F# e-.,>] [B_-., <F# e-.,>] 8 <C_' C'-.,> blank
+
+midi pause 3.0
+
+/
+1 bars | 8 8 5 4 4 4 4 4 4 5 4 5 4 5 4 4  8 8 6 4 5 4 5 5 5 5 5 5 5 5 5 4
+| 2.8 2.8 2.8 2.8
+Il1.1  Collin - Maillard
+i0.4 .01 Petitement
+=1' treble cha0 vol80 leg50 1 blank \
+  8 [<E-. e> <D-. d> <E-. e> <D-. d>] [<E-. e> <D-. d> <E-. e> <D-. d>] \
+  vol100 leg95 16 [b c~# f~# c~#] 8 b blank 2 blank vol60 \
+  163-s c~# 83 blank 163-s b 83 blank 163-s a 83 blank 163-s g# 83 blank \
+  163-s f# 83 blank 163-s e 83 blank 163-s d 83 blank 163-s c# 8 blank
+=1, 1 blank blank vol80 8 [ar-., g#-., ar-., g#-.,] \
+  [a-., vol75 g#-., vol70 a-., vol65 g#-.,] \
+  leg50 163-s blank vol60 8 [<f#-., a> <e-., g#> <d-., f#> <c#-., e>] \
+  [<B-., d> <A-., c#> <G#-., B> <F#-., A>]
+=2' bass cha0 vol80 leg90 \
+  16 [f# g# c~# g#] 8 f# blank 2 blank 1 blank blank blank 163-s blank
+=2, 8 vol75 leg50 [<Er-., e> <D-., d> <Er-., e> <D-., d>] \
+  8 [<E-., e> <D-., d> <E-., e> <D-., d>] \
+  8 [c~#-., a-., c~#-., a-.,] [c~#-., a-., c~#-., a-.,] \
+  1 blank blank 163-s blank
+/
+1 bars | 8 8 4 3 4 3 4 4  5 5 5 5 4 5 5 4 5 5 5 5 5 5 5 5 8 8 8 8 8 8 5 4
+| 2.8 2.8 2.8 2.8
+=1' 1 blank vol70 8 \
+  blank <F# A d> blank <E G#l c#> blank <D F# B> blank <C# E A> \
+  blank <B_ D G#> blank vol-5 <A_ C#l F#> blank vol-5 <G_# B_ E> 4 blank 1 blank
+=1, 1 blank vol75 leg95 4 D C# B_ A_ G_# F_# vol-5 E_ blank 1 blank
+=2' vol80 leg90 \
+  16 [d e g# e] 8 d blank 2 blank 1 blank blank \
+  16 vol60 leg99 [c# d e f#] [g# f# e d] [c# d e f#] 8 g# blank
+=2, 8 vol75 leg50 [B_-., B-., B_-., B-.,] [B_-., B-., B_-., B-.,] \
+  8 [c~#-., b-., a-., vol-5 g#-.,] [f#-., e-., d-., vol-5 c#-.,] \
+    [B-., A-., G#-., vol-5 F#-.,] [G#-., F#-.,  G#-., vol-5 F#-.,] \
+  8 [<B_r-., B> <A_-., A> <B_-., B> <A_-., A>] \
+    [<B_r-., B> <A_-., A> <B_-., B> <A_-., A>]
+/
+1 bars | 5 5 4 5 5 5 4 4 5  5 5 5 5 5 5 5 4  4 4 4 4 3 3 3 3  4 4 5 4 5 5 3 3
+| .71 .7 .7 .7  .71 .7 .7 .7  .71 .7 .7 .7  .72 .75 .80 2.3
+=1' vol75 leg99 8 [<g# b e~> e <f# a d~> d] [<g# b e~> e <f# a d~> d] 1 blank \
+  vol110 2 <F_#(4 B_x(2 C#l(3 F#(1> 4 <F_)4 B_x)2 C)3 F)1> 4 blank \
+  2. blank vol80 4 G#-fermata
+=1, vol80 leg99 8 [d c# B A] [d c# B A] 1 blank blank \
+  2 blank 8 [B_(2 C#(1] 4 <B_x)2 C)1>
+=2' 1 blank vol75 8 [<ax b> c~# e~ c~#] [<ax b> c~# e~ c~#] 1 blank \
+  4. blank vol95 f#(1 4 f)1
+=2, 1 blank vol70 8 [<F#-., f#> <E-., e> <F#-., f#> <E-., e>] \
+  [<F#-., f#> <E-., e> <F#-., f#> <E-., e>] \
+  vol100 [<B_-., B> <B_-., B>] rest, <B_-., B> 4 <B_-., B> rest \
+  leg100 8 [A_(6 E(4] 2 <A_)6(6 E)4(4 c#(2> 4 <A_)6 E)4 c)2>
+
+midi pause 3.0
+
+midi on
+
+6 systems 30 /18-32-18 10/18-25-18/18-34-18 30 \
+ / 18-23-18 / 18-23-18 / 18-23-18 /
+pagenum
+innerhead Sports et Divertissements,   Eric Satie
+midi channel 0 patch 0
+
+/
+1 bars | 3  4 3 4 4 4 3  4 4 4 3 4 3  4 3 4 3 4 3 \
+  3 3 3 3 3 3  5 6 5 3 3 4  5 6 5 3 3 3
+| 8.4 8.4
+Il1.7  La Pêche
+i1.0 .01 Calme
+=1' treble cha0 vol70 leg90 8 e [e f# e] [a g# f#] [e d cn] 4. B(1 8 B)1 \
+ 4 blank 4. blank 2. blank 1. blank
+$A = [<Dx E> <C# G> <Dx E>] [<C# G> <Dx E> <C# G>]
+=1, vol55 8 blank  $A $A vol-10 $A 2. blank 1. blank
+=2' bass cha0 vol65 leg65 8 blank 2. blank 1. blank \
+  8 [f#-.-* f-. f-.] vol69 [f-. f-. f-.] \
+  vol73 [f-. f-. f-.] vol77 [f-. f-. f-.] \
+  16 rest'' leg120 vol85 [g a bb c~ d~] 4 e~ 8 blank
+=2, leg99 8 blank 2. blank-P 1. blank 2. blank \
+  16 rest, vol70 leg105 [Fn G A Bb c] 4 d 8 blank \
+  8 vol70 leg85 [f#-., f-., f-.,] [f#-., vol-4 f-., vol-4 f-.,]
+/
+1 bars | 6 7 5 3 3 3 3 3 3 3 3 3 4 3 4 3 4 3 3 3 4 \
+ 3 3 4 3 3 4  3 3 4 3 3 4  5 6 5 3 3 3
+| 9.2 9.2
+=1' vol85 leg110 16 rest [C# D E F# G] \
+  vol80 8 [A-. vol-4 A-. A-.] [A-. vol-4 A-. A-.] [A-. vol-4 A-. A-.] \
+  16 [<f# a> <f a> 8 <e b> <d c~>] 8 [<eb a> c~ 16 eb d] \
+  8 [<eb a> c~ 16 eb d] 8 [<eb a> c~ 16 eb d] \
+  1. blank 2. blank
+=1, 1. blank 8 [<E c#l> <Gx A> <D Bb>] \
+  4 <Fnx-emph, G> 8 blank 4 <Fx-emph, G> 8 blank 4 <Fx-emph, G> 8 blank \
+  1. blank 2. blank
+=2, vol65 leg110 16 f# vol85 [g a bn c~# d~] 4 e~ 8 blank 2. blank \
+ 4. blank blank-P 2. blank 1. blank 2. blank
