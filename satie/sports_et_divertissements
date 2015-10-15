@@ -278,16 +278,19 @@ $A = [<Dx E> <C# G> <Dx E>] [<C# G> <Dx E> <C# G>]
   16 rest, vol70 leg105 [Fn G A Bb c] 4 d 8 blank \
   8 vol70 leg85 [f#-., f-., f-.,] [f#-., vol-4 f-., vol-4 f-.,]
 /
-1 bars | 6 7 5 3 3 3 3 3 3 3 3 3 4 3 4 3 4 3 3 3 4 \
- 3 3 4 3 3 4  3 3 4 3 3 4  5 6 5 3 3 3
+1 bars | 6 7 5 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3  \
+ 3 3 3 3 3 3  3 3 3 3 3 3  3 3 3 3 3 3
 | 9.2 9.2
 =1' vol85 leg110 16 rest [C# D E F# G] \
   vol80 8 [A-. vol-4 A-. A-.] [A-. vol-4 A-. A-.] [A-. vol-4 A-. A-.] \
   16 [<f# a> <f a> 8 <e b> <d c~>] 8 [<eb a> c~ 16 eb d] \
   8 [<eb a> c~ 16 eb d] 8 [<eb a> c~ 16 eb d] \
-  1. blank 2. blank
+  8 <B d#> 4 <A#l c#> 8 <B d#> 4 <A#l c#> 8 <B d#> 4 <A#l c#> \
+  8 [<B d#> <A#l c#> <B d#>] 2. blank
 =1, 1. blank 8 [<E c#l> <Gx A> <D Bb>] \
-  4 <Fnx-emph, G> 8 blank 4 <Fx-emph, G> 8 blank 4 <Fx-emph, G> 8 blank \
-  1. blank 2. blank
-=2, vol65 leg110 16 f# vol85 [g a bn c~# d~] 4 e~ 8 blank 2. blank \
- 4. blank blank-P 2. blank 1. blank 2. blank
+  4 <Fnxr G-emph,> 8 blank 4 <Fxr G-emph,> 8 blank 4 <Fxr G-emph,> 8 blank \
+  1. blank 8 [F#-., F-., F-.,] [F-., F-., F-.,]
+=2  vol65 leg110 16 f# vol85 [g a bn c~# d~] 4 e~ 8 blank 2. blank \
+ 4. blank blank-P 2. blank treble \
+ 8 [Fn Gn An] 4 F 8 F# [F# G# A#] 4 F# 8 blank bass 2. blank-*
+
