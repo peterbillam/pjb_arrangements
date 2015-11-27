@@ -1,0 +1,234 @@
+4 systems / 18-20-18 33 18-20-18/ 18-20-18 33 18-20-18 \
+ / 18-20-18 33 18-20-18 / 18-20-18 33 18-20-18/
+midi channel 0 patch 0
+/
+3 bars | 48 | 48 | 48 ||
+| 1.47
+bl0.4    66
+=1' treble    4/4 cha0 leg95 vol90  1 d(1
+=1, treble    4/4 cha0 leg95 vol80  2. Ab 4 F#
+=2' treble    4/4 cha0 leg95 vol90  1 D(1
+=2, treble    4/4 cha0 leg95 vol80  2. A_b 4 F_#
+=3' bass      4/4 cha0 leg75 vol70 \
+ 8 <Ab d> rest <Ab d> rest <Ab d> rest <Ab d> rest
+=4' bass      4/4 cha0 leg75 vol70 \
+ 8 rest D rest D rest D rest D
+|
+=1' 1 d)1(1
+=1, 2. Ab 4 G
+=2' 1 D)1(1
+=2, 2. A_b 4 G_
+=3' 8 <Ab d> rest <Ab d> rest <Ab d> rest <Ab d> rest
+=4' 8 rest D rest D rest D rest D
+| 
+bl0.3 .96 67
+=1' 4 d)1 rest'' rest'' Anrll
+=1, 4 Ab Bb db Bbll
+=2' 4 D)1 rest rest A_nrll
+=2, 4 A_b B_b Db B_bll
+=3' 8 <Ab d> rest <Ab d> rest <Ab d> rest <Ab d> rest
+=4' 8 rest D rest D rest D rest D
+
+
+/
+3 bars | 48 | 48 |
+| 1.47
+Il0.7 Le Cortège du Sage
+=1' treble    cha0 leg95 vol90  4 d c 2 d(1
+=1, treble    cha0 leg95 vol90  2. Ab 4 G
+=2' treble    cha0 leg95 vol90  4 D C 2 D(1
+=2, treble    cha0 leg95 vol90  2. A_b 4 G_
+=3' bass      cha0 leg75 vol80 \
+ 8 <Ab d> rest <Abl Bbxl d ex> rest <Abl c# dx> rest <Abl Bbxl d ex> rest
+=4' bass      cha0 leg75 vol80 \
+ 8 rest <D Ab> rest <D Ab> rest <D G> rest <D Ab>
+|
+=1' 2 d)1 rest
+=1, 2. Ab 4 G
+=2' 2. D)1 rest
+=2, 2. A_b 4 G_
+=3' 8 <G c# dx> rest <G# B> rest <G# d> rest <G# B> rest
+=4' 8 rest <D G> rest <D F#> rest <D A#> rest <D An>
+|
+=1' 2. Ab 4 F#
+=2' 2. A_b 4 F_#
+=3' 8 <Ab d> rest <Abl Bbxl d ex> rest <Abl c# dx> rest <Abl Bbxl d ex> rest
+=4' 8 rest <D Ab> rest <D Ab> rest <D G> rest <D Ab>
+/
+3 bars | 48 | 48 |
+|
+=1' 4 Ar d cr dn(1
+=1, 4 G# Bb db Bbl
+=2' 4 A_r D Cr Dn(1
+=2, 4 G_# B_b Db B_bl
+=3' 8 <G c# dx> rest <G# B> rest <G# d> rest <G# B> rest
+=4' 8 rest <D G> rest <D F#> rest <D A#> rest <D An>
+
+|
+bl0.4  68
+=1' 1 d)1(1
+=1, 2. Ab 4 G
+=2' 1 D)1(1
+=2, 2. A_b 4 G_
+=3, 8 rest [d <Bb e> d] rest [d <Bb e> d]
+=4' 8 [<B_b E> Ab] rest [Ab <B_b E> Ab] rest Ab
+|
+=1' 2. d)1 4 rest'
+=1, 2. Ab 4 F#
+=2' 2. D)1 4 rest
+#=2, 2. A_b 4 F_#
+=2, 2. A_b 4 blank
+=3, 8 rest [f <c# g> f] rest [f <d gb> f]
+=4' 8 [<C# G> Bn] rest [B <D Ab> c] rest A
+|
+=1' 4 rest' 2. d(1
+=1, 2. Ab 4 F#
+=2' 4 rest 2. D(1
+=2, 2. A_b 4 F_#
+=3, 8 rest [c# d# c#] rest [d# e d#]
+=4' 8 <A_ D#> [Bn A B] <B_b E> [cn Bb A]
+|
+# bl0.5 .95 69
+=1' 2 d)1 4 Ar d
+=1, 4 G# Bb db Bbl
+=2' 2 D)1 4 A_r D
+=2, 4 G_# B_b Db B_bl
+=3, 8 rest [f <c# g> f] rest [f <c# g> f]
+=4' 8 [<C# G> B] rest [B <C# G> B] rest Ab
+|
+bl0.6 69
+=1' 4 c 2. dn(1
+=1, 2. Ab 4 G
+=2' 4 C 2. Dn(1
+=2, 2. A_b 4 G_
+=3, 8 rest [d <Bb e> d] rest [d <Bb e> d]
+=4' 8 [<A_# E> G#] rest [G# <A_# E> G#] rest G#
+|
+=1' 2 d)1 rest'
+=1, 2. Ab 4 F#
+=2' 2 D)1 rest
+#=2, 2. A_b 4 G_b
+=2, 2 A_b rest,
+=3, 8 rest [f <c# g> f] rest [g <d f#> g]
+=4' 8 [<C# G> B] rest [B <D Ab> B] rest Ab
+|
+=1' 2 rest' d(1
+=1, 2. Ab 4 F#
+=2' 2 rest D(1
+=2, 2. A_b 4 F_#
+=3, 8 rest [c# <A d#> c#] rest [d# <Bb e> d#]
+=4' 8 [<A_ Eb> G] rest [G <B_b E> G] rest G
+|
+=1' 4 d)1 Ar dr cnrll
+=1, 4 G# Bb c# Bblll
+=2' 4 D)1 A_r Dr Cnrll
+=2, 4 G_# B_b C# B_blll
+=3, 8 rest [f <c# g> f] rest [f <c# g> f]
+=4' 8 [<C# G> B] rest [B <C# G> B] rest B
+
+
+# midi off
+
+/
+2 bars | 48 | 4 4 4 4 4 4 4 4 4 6 4 4 |
+| 2.2
+bl0.5 .01 70
+=1  treble    6/4 cha0 vol127 4 f# 2. d~ 4 g# <a d~(1>
+=2  treble    6/4 cha0 vol127 1 d(2 4 d)2 A
+=3, bass      6/4 cha0 leg75 vol90 8 [<f b> <d ab>] [<a e~b> <f# c~>] \
+ [<g c~#> <e a#>] [<b f~> <ab d~>] [<fn b> <d g>] [<gb c~> <ebl ab>]
+=4' bass      6/4 cha0 leg75 vol85 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, bass      6/4 cha0 leg75 vol75 \
+ 8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+|
+=1 2 d~)1  4 f# 2. d~
+=2 4 d <c c~> 1 d(2
+=3 8 [<g c~#> <e a>] [<a e~b> <f# b>] [<ab d~> <fn b>] \
+ [<c~ f~#> <anl d~#>] [<bbl e~n> <g c~#>] treble [<D Ab> <B_ F>]
+=4' 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, 8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+/
+2 bars | 48 | 48 ||
+| 2.2
+=1  treble    cha0 vol127 4 g# 2. d~ 4 f# d~(1
+=2, treble    cha0 vol127 4 d)2 4 <A a> d <c c~>  2 d(2
+=3' treble    cha0 leg75 vol90 8 [<G_ D> <F_ B_>] [<A_bl Eb> <G_b C>] \
+ [<A_nl En> <G_nl C#>] [<B_ F#> <A_ D#>] [<B_ Fn> <A_b D>] [<Eb A> <C F#>]
+=4' bass      cha0 leg75 vol85 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, bass      cha0 leg75 vol75 \
+ 8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+|
+=1  2 d~)1  4 g# 2. d~ treble8va
+=2, 2. d)2  4 <A a> d  <c c~>
+=3' 8 [<Db G> <B_b E>] [<F Bn> <Dnl Ab>] [<B_n F> <G_ D>] \
+ [<C Gb> <A_bl Eb>] [<C# G> <A_nl En>] [<D#l An> <B_ F#>]
+=4' vol100 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, vol90  8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+
+/
+2 bars | 48 | 48 |
+| 2.2
+=1  4 f# 2. d~ 4 g# d~(1
+=2  1 <d(2 d~(1> 4 <d)2 d~)1> a
+=3' 8 [<D Ab> <B_ F>] [<Ebl An> <C Gb>] \
+ [<Enl Bb> <C#l Gn>] [<F Bn> <D Ab>] [<F B> <D G>] [<Gb c> <Ebl An>]
+=4' vol105 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, vol95  8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+|
+=1  2 d~)1  4 f# 2. d~
+=2 4 <d d~> <c c~> 1 d~(1
+=2 2 blank d rest
+=3' 8 [<G c#> <E A>] [<A d#> <F# B>] [<Fn B> <D Ab>] \
+ [<F#l cn> <Ebl An>] [<G c#> <Enl Bb>] [<G# d> <Fnl Bn>]
+=4' vol110 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, vol100 8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+/
+3 bars | 48 | 48 | 12 ||
+|
+=1 4 g# 2. d~ 4 f# d~(1
+=2 4 d~)1 a d~ c~ 2 d~(1
+=3' 8 [<Gn d> <F B>] [<Abl eb> <Gb c>] [<Anl en> <Gnl c#>] \
+ [<B f#> <A d#>] [<Abl dn> <F B>] [<Anl eb> <F# c>]
+=4' vol115 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, vol105 8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+|
+bl0.2 .99 71
+=1  2 d~)1  4 g# 2. d~
+=2 2. d~)1 4 a d~ c~
+=3, 8 [<Bb e> <G c#>] [<Bn f> <Ab d>] [<B f> <G d>] \
+ [<c gb> <Abl eb>] [<c#l gn> <Anl en>] [<d# a> <B f#>]
+=4' vol120 4 <G# d> <G# d> <G# d> <G# d> <G# d> <G# d>
+=4, vol110 8 rest,, D rest,, D rest,, D rest,, D rest,, D rest,, D
+| 4.0
+=1 4/4 2 blank 1 rest-fermata
+=2 4/4 2 blank 1 rest-fermata
+=3 4/4 2 blank 1 rest-fermata
+=4 4/4 2 blank 1 rest-fermata
+/
+4 bars | 48 | 48 | 48 | 48 ||
+| 5.6
+Il0.2 .04 L'Adoration de la Terre
+=1 vol60 2 blank 1 rest
+b0.5 .03 Lento   cro=42
+=2 vol60 2 <C E> vol50 <C(2 E(1>
+=3  bass vol60 4 rest 8 [f f] 4 rest 8 [f f]
+=4' vol60 2 db dn(1
+=4, vol80 1 Bbl(2
+|
+=1 vol60 2 blank 1 rest
+=2 vol50 2 <C)2 E)1> vol45 <C(2 E(1>
+=3 vol60 4 rest 8 [f f] 2 rest
+=4' vol60 2 d)1 db(1
+=4, 1 Bb)2(2
+|
+=1 vol60 2 blank 1 rest
+=2 vol60 2. <C)2 E)1> 4 rest
+=3 vol60 4 rest 8 [f f] 2 rest
+=4' 2. dbr)1 4 rest'
+=4, vol80 1 Bbrl)2
+|
+bl0.4 .96 72
+=1  vol68 4 rest 2. <d# b>
+=2, vol60 4 rest 2. <G# c f#>
+=3  vol52 4 rest 2. g
+=4  vol45 4 rest 2. C

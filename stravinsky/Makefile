@@ -19,9 +19,14 @@ UTF2ISO = /home/pbin/utf2iso
 DIST = pjb3265@loki.webcity.com.au:public_html/mus
 PIECE = rite_of_spring
 TITLE = title_${PIECE}
-PLAY   = rite_of_spring
+PLAY   = rite_2_79
 
-dev : t.mid ${TITLE}.a4 p2.a4 ${PIECE}.a4
+dev : ${TITLE}.a4 p2.a4 ${PIECE}.a4 ${PLAY}.a4
+edit :
+	vi ${PLAY}
+	muscript ${PLAY} > ${PLAY}.a4
+	pkill -HUP gv
+	muscript -midi ${PLAY} | midisox_lua - -d stat
 all : ${A4D}/${PIECE}.pdf ${USD}/${PIECE}.pdf ${SRCD}/${PIECE}.txt
 	date
 mp3 : ${MP3D}/${PIECE}.mp3
@@ -75,8 +80,8 @@ www : scriabin_op59 op74
 	  -sOutputFile=/home/pjb/www/mus/scriabin/op74analysis.pdf -
 
 
-t.mid : ${PLAY}
-	${MUSCRIPT} -midi ${PLAY} > t.mid
 play :
-	midisox_lua t.mid -d trim 66
-
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat
+${PLAY}.a4 : ${PLAY}
+	muscript ${PLAY} > ${PLAY}.a4
+	pkill -HUP gv
