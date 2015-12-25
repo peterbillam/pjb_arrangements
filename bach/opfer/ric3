@@ -9,8 +9,8 @@ midi channel 2 patch 0 pan 70
 /
 7 bars | 3b 2/2 4 | 4 | 4.2 | 4 | 4 | 5 | 5.5 |
 | 2/2 2.0
-=1 treble channel1 3b 2/2 min c e
-=2 bass   channel2 3b 2/2 smb rest
+=1 treble cha1 3b 2/2 min c e
+=2 bass   cha2 3b 2/2 smb rest
 |
 =1 min g a
 =2 smb rest
@@ -307,7 +307,7 @@ il1.1 .30 60
 =2 cro e~-s1,-s2, c~ rest' f(2
 /
 4 bars | 3b 1 1 1 1 1 1 1.3 1 | 1 1 1 1 1 1.3 1 1 \
- | 1.3 1 1 1 1.3 1 1 1 1 | 1.3 1 1 1 1 1 1.3 1 |
+ | 1.3 1 1 1  1.3 1.3 1 1 | 1.3 1 1 1 1 1 1.3 1 |
 |
 =1' cro g G qua [c-s3 d] cro e(1
 =1, min blank cro rest, G
@@ -320,7 +320,7 @@ il1.1 .30 60
 |
 =1' cro d)1-s1 G-s2 qua [An Bb] cro c(1
 =1, min En Ebl(2
-=2' qua [G Bn c d] [c Bb A G-s1,]
+=2' qua [G Bn c d] [c Bb An G-s1,]
 |
 =1' qua [c)1 An B c] [B-s1-s4 A-s5 G F#]
 =1, cro E)2 D Db C
@@ -436,7 +436,8 @@ il1.1     80
 il0.5 .04 85
 =1' qua [d c] cro f(1 qua [f)1 d e f]
 =1, qua [F E D C] [D F G A]
-=2 cro a)1 an min b(2
+#P=2 cro a)1 an min b(2
+#M=2 cro a)2 an min b(2
 |
 =1' qua [e d] cro g(1 qua [g)1 e f d]
 =1, qua [G F E D] [E G An Bn]
@@ -672,11 +673,11 @@ il0.8             130
 =1 cro F, min E, cro Dn,
 =2 cro db, e, qua [f e] cro f
 /
-4 bars |3b 1 1.3 1 1 1.3 1 1 1 | 1 1 1 1.3 1.6 1 1 1 \
+4 bars |3b 1 1.3 1 1 1.3 1 1 1 | 1 1 1 1.3 1.7 1 1 1 \
  | 1 1.3 1.3 1 1.3 1.3 1.3 1 | 1.3 1.3 1 1.3 1.3 1 1.3 1 |
 |
 =1' cro B min e cro db(1
-=1, cro G qua rest, Gb cro F, Fb,
+=1, cro G qua rest, Gb cro F, Fbl,
 =2' qua [e F Gb A] [B Gn A B]
 |
 =1' qua [d)1 c B A] [Gb Bbb A G]
@@ -696,7 +697,9 @@ il0.8             130
 |
 il0.4     135
 =1 min F cro rest B(1
-=2' qua [c~)1 c~ bb a] [gb f enrl f]
+#M=1 8 C)2 4. blank 2 blank
+#P=2' qua [c~)1 c~ bb a] [gb f enrl f]
+#M=2' qua blank [c~ bb a] [gb f enrl f]
 =2, cro Db F B dbl
 |
 =1' qua [B)1 A G F] [En db c B]
@@ -740,7 +743,8 @@ leftfoot transcribed 1998 Peter Billam
 4 bars | 3b 8 | 1 1 1 1.3 1 1.3 1 1 \
  | 1.3 1 1 1.3 1.3 1.3 1 1 | 1.3 1 1 1 1.3 1 1.3 1 |
 |
-=1' qua [f)1 d e f] cro rest'' g
+#P=1' qua [f)1 d e f] cro rest'' g
+#M=1' qua [f)2 d e f] cro rest'' g
 =1, min Bn qua [e d c B]
 =2 cro g G qua [c' d'] cro e,(1
 |
