@@ -1,0 +1,18 @@
+7 systems 25 / 20 / 20 /
+title The Square Rag
+innerhead Peter Billam, 2015
+midi channel 0 patch 25
+/
+4 bars | 2# 48 | 48 | 48 | 48 |
+| 2.4
+=1' treble8vab 2# cha0
+=1' 8 [<d f#> 16 fn 8 f# 16 fn] 8 [f# 16 a(2 8. a)2]
+=1, 8. cc64=127 [D A_] [D A_]
+|
+=1' 8 [<d f#> 16 fn 8 f# 16 fn] 8 [f# 16 d(2 8. d)2]
+=1, 8. cc64=127 [D A_] [D A_]
+|
+=1' 8 [B 16 A# 8 B 16 A#] 8 [An 16 d 8 c# 16 d]
+=1, 8. cc64=0 [G_ G_#] [A_ B_]
+|
+=1' 8. [f# 8 fn 16 e(2] 4. e)2

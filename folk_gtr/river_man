@@ -1,6 +1,7 @@
 6 systems /19 25 19/
 title ~/wav/nick_drake/02_river_man.wav
 # file:///home/pjb/html/lyrics/nick_drake.html
+pagenum
 midi channel 1 patch 91
 midi channel 2 patch 25
 $GTR = {

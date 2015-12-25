@@ -3,11 +3,12 @@
 #PLAY = buddy_can_you_spare_a_dime
 #PLAY = aint_necessarily_so
 #PLAY = new_speedway_boogie
-PLAY = fingerpicker_rag
+#PLAY = london_rag
+PLAY = square_rag
 WAVDIR = /home/pjb/wav/folk
 WAV = ${WAVDIR}/${PLAY}.wav
 
-dev : ${PLAY}.a4
+dev : ${PLAY}.a4 folk_gtr.a4
 
 edit :
 	vi ${PLAY}
@@ -19,6 +20,18 @@ ${PLAY}.a4 : ${PLAY}
 
 play :
 	muscript -midi ${PLAY} | midisox_lua - -d stat
+
+folk_gtr.a4 : folk_gtr
+	muscript folk_gtr > $@
+	pkill -HUP gv
+
+folk_gtr : october_song aint_necessarily_so \
+  dedicated_to_you_but_you_werent_listening buddy_can_you_spare_a_dime \
+  emily_has_gone entertainer_gtr my_home_town river_man new_speedway_boogie
+	cat october_song aint_necessarily_so \
+	  dedicated_to_you_but_you_werent_listening buddy_can_you_spare_a_dime \
+	  emily_has_gone entertainer_gtr my_home_town river_man \
+	  new_speedway_boogie > $@
 
 ${WAV} : ${PLAY}
 	muscript -midi ${PLAY} | timidity -Ow -o $@ -
