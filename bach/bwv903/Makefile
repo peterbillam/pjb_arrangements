@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 NORMALIZE = /usr/bin/normalize-audio
 BLURB = /home/pjb/mus/blurb/compositions
 FREED = /home/pjb/www/mus/free
@@ -30,7 +30,7 @@ dist:
 
 edit :
 	vi ${PLAY}
-	muscript -midi ${PLAY} | midisox_lua - -d stat trim 300
+	muscript_lua -midi ${PLAY} | midisox_lua - -d stat trim 300
 	make ${PIECE}.a4
 	
 
@@ -66,4 +66,4 @@ ${PIECE}.a4 : fantasia fugue
 	${MUSCRIPT} ${PIECE} > $@
 	pkill -HUP gv
 play :
-	muscript -midi fugue | midisox_lua - -d
+	muscript_lua -midi fugue | midisox_lua - -d

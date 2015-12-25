@@ -4,12 +4,14 @@ pagenum 4
 innerhead J. S. Bach
 title Passacaglia and Fugue
 leftfoot Arranged for Piano Four Hands by Peter J Billam.
+midi channel 0 patch 0 pan 90
+midi channel 1 patch 0 pan 10
 /
 10 bars |3b 3/4 18| 48| 48| 48| 48| 48| 48| 40| 16 16 20| 20 16 20|
-|
-=1 bass 3b 3/4 cro c
-=2 bass 3b 3/4 cro rest
-|
+| 0.85
+=1 bass 3b 3/4 cha1 cro c
+=2 bass 3b 3/4 cha1 cro rest
+| 2.4
 =1 min g cro e
 =2 min. rest
 |
@@ -173,10 +175,10 @@ leftfoot Arranged for Piano Four Hands by Peter J Billam.
 /
 12 bars |3b 3/4 4 | 6|6|6|6|6|6|6|3 6 | 1 1 1 2.6 1 1 1 1 1 1 1 1\
  | 1 1 1 1.6 1 1 1 1 1 1 1 1| 1 1 1 1.6 1 1 1 1 1 1 1 1 |
-|
-=1 treble 3b 3/4 cro rest
-=2 treble 3b 3/4 cro rest
-|
+| 0.85
+=1 treble 3b 3/4 cha0 cro rest
+=2 treble 3b 3/4 cha0 cro rest
+| 2.4
 =1 min. rest
 =2 min. rest
 |
@@ -473,8 +475,8 @@ il0.5          48
 =1 cro c rest smq rest [An, Bn, c]
 =2 cro rest smq rest [D E F] cro G(2
 /
-4 bars |3b 3 3 3 3 4 6 6 4 4 4 4 4| 3 3 3 3 6 6 4 4 4 6 7 4\
- | 3 3 3 3 4 6 6 4 4 4 4 4| 3 3 3 3 5 7 6 5 4 4 4 4|
+4 bars |3b 3 3 3 3 4 6 6 4 4 4 4 3| 3 3 3 3 6 6 4 4 4 6 7 3 \
+ | 3 3 3 3 4 6 6 4 4 4 4 3| 3 3 3 3 5 6.2 5 6.2 4 4 4 3|
 |
 =1 treble 3b cro Bn rest smq rest [e f g]
 =2 treble 3b cro G)2 qua rest smq [An Bn'] cro c(1
@@ -487,7 +489,7 @@ il0.5          48
 |
 =1 cro Bn rest smq rest [E F G]
 =2 cro G smq rest [A_n B_n C] cro D
-=2, cro blank qua. blank smq A_ cro B_
+=2, cro blank qua. blank smq A_ cro B_n
 /
 4 bars |3b 3 3 3 3 4 4 4 4 6 4 4 4| 3 3 3 3 4 4 4 6 6 4 4 4\
  | 16 12 16| 4 4 4 4 4 4 4 4 5 4 4 4|
@@ -1161,7 +1163,7 @@ leftfoot Arranged for Piano Four Hands by Peter J Billam.
 |
 =1' qua rest' cro. g(1 qua [g)1-. fn]
 =1, smq rest, [f g d] cro e qua [d d]
-=2' cro rest  qua rest' c(1 [c)1-. B]
+=2' cro rest  qua rest' c(1 [c)1-. Bn]
 =2, cro blank smq rest, [Bn c F#] qua [G-. G]
 |
 il0.9          136
@@ -1179,12 +1181,12 @@ il0.9          136
 =2  min. rest 
 /
 2 bars |3b 4.5 4.5 4.5 4 4 4  4 4 4 4 4 4  4 5 4.5 5 5 4\
- | 5 5 4 4 4 4.5  4 4 4 4 4 4  4 4 4 4 4 4|
+ | 5 5 4 4 4 4.5  4 4 4 4 5 4  4 4 4 4 4 4|
 |
 =1  treble 3b smq3 [c~ b-I3 a] [a g f] [f e d] [d e f] [f g an] [a bn c~]
 =2' treble 3b qua rest smq3 [c B-I3 A] [A G F] [F E D] [D E F] [F G Ab]
 |
-=1 qua. [bn dsq3 blank smq3 an] qua b smq3 [f g a] [a g f] [f e d]
+=1 qua. [bn dsq3 blank smq3 an] qua b smq3 [f g ab] [a g f] [f e d]
 =2 smq3 [G An-I3 Bn'] [B, c d] [d e f] qua rest rest B_n
 /
 2 bars |3b 4 4 4 4 4 4  5 5 4 4 4 4  4 4 4 4 4 4\
@@ -1439,7 +1441,7 @@ innerhead Passacaglia and Fugue, BWV582, J. S. Bach
 leftfoot Arranged for Piano Four Hands by Peter J Billam.
 /
 5 bars |3b 15 | 15 | 15 | 24 | 2.5 3 3 2.3 2 2 2 2 2.3 2.3 2.3 2 |
-|
+| 2.2
 Il0.5 .3 Fugue
 =1 bass 3b min. rest
 =2 bass 3b min. rest
@@ -2039,8 +2041,8 @@ pagenum 22
 innerhead Passacaglia and Fugue, BWV582, J. S. Bach
 leftfoot Arranged for Piano Four Hands by Peter J Billam.
 /
-4 bars | 3b 5 5 5 5 5 5 5 5 5 5 4.5 4| 3 3 3 3 4.5 4.5 5 5 3 3 3 3\
- | 3 3 3 3 4.5 4.5 5 5 4.5 4.5 4.5 4.5| 4 3 4 3 4 4 4 4 4.5 6 4 4|
+4 bars | 3b 5 5 5 5 5 5 5 5 5 5 4.5 3| 3 3 3 3 4.5 4.5 5 5 3 3 3 3\
+ | 3 3 3 3 4.5 4.5 5 5 6 4.5 4.5 4| 4 3 4 3 4 4 4 4 4.5 6 4 3|
 |
 =1 bass 3b smq [F A G B] [A c B d'] [c, e d, f]
 =2 bass 3b smq [F_ A_ G_ B_] [A_ C B_ D] [C E D F]
@@ -2049,7 +2051,7 @@ leftfoot Arranged for Piano Four Hands by Peter J Billam.
 =2' cro E(2 smq [E)2 F D E] cro C
 |
 il0.6     245
-=1' cro blank f# smq [g a f g]
+=1' cro blank f# smq [g an f g]
 =1, cro d(2 smq [d)2 e c d] cro rest,
 =2' cro D(2 smq [D)2 E C D] cro <B_ B>
 |
@@ -2446,7 +2448,7 @@ il0.9 .3 285
 =2' smq [c c B c] qua [G G A A]
 =2, cro G
 /
-4 bars | 3b 16 14 14| 6 5 5 4.5 4 6 4 4.5 4 3 4 3\
+4 bars | 3b 16 14 14| 6 5 5 4.5 6 6 4 4.5 4 3 4 3\
  | 5 6.5 5 6.5 4 6 4 4.5 5 5 5 5| 30||
 |
 =1  treble 3b cro g qua rest [g a a]
@@ -2455,7 +2457,7 @@ il0.9 .3 285
 il0.8       290
 =1 smq [g b a b] cro. g qua <f a f~(1>
 I0.6 .75 Adagio
-=2' smq [c db c d] rest, [E Dn E(1] qua [E)1 <F A(1>]
+=2' smq [c db c d] rest, [En Dn E(1] qua [E)1 <F A(1>]
 =2, cro En B' C
 |
 =1 smq [<a f~)1> <a f~> <g e~n> <a f~>] cro bn'(1 \

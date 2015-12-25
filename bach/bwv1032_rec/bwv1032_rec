@@ -9,9 +9,9 @@ midi channel 2 patch 6
 3 bars | 4/4 16 | 4 4 3.2 4 | .8 .8 1 1 1 1 1 1 1 1 1 1 1 1.6 1 1.6 |
 | 4/4 2.8
 Il0.6        Vivace
-=1 treble channel1 vol100 4/4 smb rest
-=2 treble channel2 vol90 4/4 smq rest [G A B'] [c d e c] [d c B, d] [c d e c]
-=3' bass  channel2 vol90 4/4 cro blank qua rest  c~' [b d~ g c~]
+=1 treble cha1 vol100 4/4 smb rest
+=2 treble cha2 vol90  4/4 smq rest [G A B'] [c d e c] [d c B, d] [c d e c]
+=3' bass  cha2 vol90  4/4 cro blank qua rest  c~' [b d~ g c~]
 =3,        4/4 cro <c e g c~> qua blank c [g f e c]
 |
 =1 smb rest

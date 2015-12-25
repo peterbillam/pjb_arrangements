@@ -12,7 +12,6 @@ midi channel 2 patch 0 pan 20
 =1,         1b 2/2 cha1 leg95 smb rest,,
 =2' bass    1b 2/2 cha2 leg95 smb rest
 =2,         1b 2/2 cha2 leg95 smb blank
-midi off
 |
 =1' min F A
 =1, smb rest,,

@@ -1,10 +1,15 @@
-head	1.3;
+head	1.4;
 access;
 symbols;
 locks
-	pjb:1.3; strict;
+	pjb:1.4; strict;
 comment	@# @;
 
+
+1.4
+date	2015.12.25.01.50.05;	author pjb;	state Exp;
+branches;
+next	1.3;
 
 1.3
 date	2009.01.16.07.55.59;	author pjb;	state Exp;
@@ -27,12 +32,12 @@ desc
 @
 
 
-1.3
+1.4
 log
-@up to bar 55
+@improved spacing
 @
 text
-@5 systems 20 /20-40-20/20-50-20/20-50-20/20-50-20/20-45-20 10/
+@5 systems 25 /20-45-20/20-50-20/20-45-20/20-45-20/20-45-20 5/
 pagenum 2
 title Contrapunctus 7, per Augmentationem et Diminutionem
 innerhead Kunst der Fuge,  J. S. Bach
@@ -40,17 +45,18 @@ leftfoot typesetting (c) 2009 Peter Billam
 midi channel 1 patch 0 pan 80
 midi channel 2 patch 0 pan 20
 /
-3 bars | 1b 4/4 5 5 5 5 5 5 5 6 5 5 5 6 5 5 5 5 | 5 5 5 5 5 5 5 6 5 5 5 5 6 6 6 17 | 9 6 5 5 6 9 9 6 9 6 5 6 6 6 9 5 |
+3 bars | 1b 4/4 5 5 5 4 5 5 5 6 5 5 5 6 5 5 5 4 \
+ | 5 5 5 4 5 5 5 6 5 5 5 5 6 6 6 14 | 10 6 5 5 6 10 10 6 10 6 5 6 6 6 10 5 |
 | 4/4 3.0
 =1' treble  1b 4/4 cha1 leg98 2 blank 1 rest
 =1,         1b 4/4 cha1 leg98 1 blank
 =2' treble  1b 4/4 cha2 leg98 4 D 8. [A 16 G] 8. [F 16 E] 4 D
-=2,         1b 4/4 cha2 leg98 2 blank 1 rest,,
+=2,         1b 4/4 cha2 leg98 4 blank 1 rest,,,
 |
 =1' 2 a 4. d 8 e
 =1, 2 blank 1 rest,
 =2' 4 C# 8. [D 16 E] 4 F(1 16 [F)1 G F E]
-=2, 2 blank 1 rest,, bass
+=2, 4 blank 1 rest,,, bass
 |
 =1' 4. f 8 g 2 a
 =1, 4 d 8. [A 16 Bn] 8. [c 16 d] 4 e
@@ -58,7 +64,7 @@ midi channel 2 patch 0 pan 20
 =2, 2 blank 1 rest,,
 
 /
-2 bars | 1b 96 | 96 |
+2 bars | 1b 7 6 6 6 7 6 6 7 6 6 6 7 6 7 6 5 | 6 6 6 6 6 7 7 6 6 7 7 6 6 6 6 5 |
 |
 =1' 2 b 4. a 8 g
 =1, 4 f 8. [e 16 d] 4 c#(2 16 [c)2 A Bn c]
@@ -69,6 +75,8 @@ midi channel 2 patch 0 pan 20
 =1, 16 [d B A G] 4 F(2 16 [F)2 A Bn c#] 4 d(2
 =2' 4 d(1 16 [d)1 a bn c~#] 4 d~(1 16 [d~)1 a g f]
 =2, 1 dr
+/
+2 bars | 1b 6 6 7 6 6 6 6 6 7 6 6 7 6 6 6 5 | 6 6 7 6 7 7 7 6 6 6 6 6 6 6 6 5 |
 |
 =1' 4 a(1 16 [a)1 g f e] 4 d(1 16 [d)1 d e f] 
 =1, 16 [d)2 d c Bn] 4 c(2 16 [cr)2 c B A] 4 G#
@@ -79,6 +87,8 @@ midi channel 2 patch 0 pan 20
 =1, 4 A 8. [e 16 d] 8. [c 16 Bn] 4 A
 =2' 16 [c d 8 e(1] 16 [e)1 e f# g#] 4 a rest''
 =2, 2. cr 4 d
+/
+2 bars | 1b 7 6 6 6 6 6 7 6 6 6 6 6 6 6 7 5 | 6 6 6 6 6 7 7 6 6 6 6 6 7 7 6 5 |
 |
 =1' 4 Bn rest'' 16 rest'' [d e f] 4 g(1
 =1, 4 G# 8. [A 16 Bn] 4 c(2 16 [c)2 d c Bb]
@@ -89,8 +99,10 @@ midi channel 2 patch 0 pan 20
 =1, 4 A(2 16 [A)2 A Bn c#] 4 d(2 16 [d)2 cn Bb A]
 =2' 4 a 8. [d 16 e] 8. [f 16 g] 4 a
 =2, 1 f
+/
+2 bars | 1b 6 6 6 7 6 6 6 6 6 6 6 6 6 6 7 5 | 6 6 6 6 6 6 6 6 7 7 6 6 6 6 6 5 |
 |
-il0.8 .35 10
+il0.8 .30 10
 =1' 16 [d)1 f e d] 4 c#(1 16 [c)1 c d e] 4 f(1
 =1, 4 G(2 16 [G)2 E F G] 4 A(2 16 [A)2 G A Bn]
 =2' 4 b 8. [a 16 g] 4 f(1 16 [f)1 e f g]
@@ -101,12 +113,13 @@ il0.8 .35 10
 =2' 4 a(1 16 [a)1 g a b] 8. [c~ 16 g] 8. [c~ 16 b]
 =2, 1 c(2
 
-5 systems 20 /20-55-20/20-50-20/20-50-20/20-50-20/20-45-20 10/
+5 systems 15 /20-50-20/20-45-20/20-55-20/20-50-20/20-45-20 10/
 pagenum
 innerhead Contrapunctus 7,  Kunst der Fuge,  J. S. Bach
 leftfoot typesetting (c) 2009 Peter Billam
+
 /
-2 bars | 1b 96 | 96 |
+2 bars | 1b 7 6 6 6 6 6 7 6 7 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 7 6 6 6 6 6 6 5 |
 |
 =1' 4 f#(1 16 [f)1 f g a] 4 d eb
 =1, 16 [er)2 d c B] 4 c(2 16 [cr)2 c B A] 8 [G c]
@@ -117,6 +130,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 16 [F# D E F] 4 G(2 16 [Gr)2 G F E] 4 F
 =2' 4 b(1 16 [b)1 a b c~] 4 d~(1 16 [d~)1 c~ b a]
 =2, 2 d rest
+/
+2 bars | 1b 6 6 6 7 6 6 6 6 6 6 6 6 6 6 7 5 | 6 6 6 7 6 6 6 6 6 6 6 7 7 6 6 7 |
 |
 =1' 8. [B 16 A] 4 G F# 8. [G 16 A]
 =1, 8. [G 16 Fn] 4 Eb 2 D
@@ -127,9 +142,12 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 4. G_ 8 A_ 8. [B_ 16 C] 4 D
 =2' 8 blank 1 rest'
 =2, 16 [G B c d] 4 eb(2 16 [e)2 e d c] 8. [Bn-tr 32 A B]
+/
+2 bars | 1b 7 6 7 6 6 7 6 6 6 6 6 6 6 6 7 5 | 7 6 6 6 7 6 6 6 6 6 6 7 6 6 6 5 |
 |
 =1' 16 [Eb G A Bb] 4 c(1 16 [c)1 c B A] [B c d eb]
-=1, 2 Ebrl 4. D 8 C
+#P=1, 2 Erl 4. D 8 C
+#M=1, 2 Ebrl 4. D 8 C
 =2' 4 blank 1 rest''
 =2, 4 c(2 16 [c)2 d eb f] 4 g 8. [f 16 e]
 |
@@ -137,6 +155,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 2 B_(2 8 [B_)2 A_ B_ C]
 =2' 4 b 8. [f~ 16 e~b] 8. [d~ 16 c~] 4 b
 =2, 4 d(2 16 [d)2 eb d c] 8 [B d] 4 G
+/
+2 bars | 1b 6 6 6 6 6 6 7 6 6 6 6 6 7 6 7 5 | 7 7 6 6 7 6 6 6 7 7 6 6 6 6 7 5 |
 |
 =1' 4. F 8 B(1 16 [B)1 B A G] 8 [A 16 Bnl c]
 =1, 4 D rest,, 4. rest,, 8 Abrl
@@ -147,8 +167,10 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 8 G rest, rest,, c(2 16 [cr)2 c Bb A] 4 B(2
 =2' 16 [bn d~ e~b f~] 4. g~ 8 d~(1 16 [d~)1 d~ c~ bb]
 =2, 4 f)2(2 16 [f)2 eb d c] 2 g
+/
+2 bars | 1b 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 7 6 6 6 6 6 7 6 6 5 |
 |
-il0.8 .15 20
+il0.8 .10 20
 =1' 2 f(1 8. [f)1 16 eb] 4 d(1
 =1, 16 [B)2 B A G] [A B 8 c(2] 16 [c)2 B 8 A(2] 16 [A)2 D 8 G(2]
 =2' 4 c~ 8. [f~ 16 e~b] 8. [d~ 16 c~] 4 b
@@ -158,6 +180,14 @@ il0.8 .15 20
 =1, 8 [G)2 16 F G] 4 A(2 16 [A)2 B c A] 4 B(2
 =2' 4. a 16 [b c~] 4 d~(1 16 [d~)1 e~b d~ c~]
 =2, 8. [d 16 eb] 2 f 4 g(2
+
+5 systems 10 /20-45-20/20-40-20/ 20-40-20/20-40-20/20-45-20 15/
+pagenum
+innerhead Contrapunctus 7,  Kunst der Fuge,  J. S. Bach
+leftfoot typesetting (c) 2009 Peter Billam
+
+/
+2 bars | 1b 6 6 7 6 6 6 6 6 7 6 7 6 6 6 7 5 | 6 6 6 6 7 6 6 6 6 6 6 6 7 6 6 5 |
 |
 =1' 4 d(1 16 [d)1 d c B] [A eb 8 d] 4 c(1
 =1, 16 [B)2 B A G] 2 F(2 16 [F)2 G F En]
@@ -168,6 +198,8 @@ il0.8 .15 20
 =1, 4 F 8. [c 16 B] 8. [A 16 G] 4 F
 =2' 16 [a g f e] 2. f
 =2, 4 f)2 16 rest, [B A G] [F A B c] 4 d
+/
+2 bars | 1b 6 6 6 6 6 6 6 6 6 6 6 6 7 6 6 5 | 6 6 6 6 6 6 7 6 7 6 6 6 6 6 6 5 |
 |
 =1' 4 G rest' c 8. [Fr 16 G]
 =1, 4 E 8. [F 16 G] 4 A(2 16 [A)2 B A G]
@@ -178,6 +210,8 @@ il0.8 .15 20
 =1, 4 F(2 16 [F)2 G F Eb] [D En 8 F(2] 16 [F)2 F 8 E(2]
 =2' 2. a 4 g
 =2, 16 [d)2 d c B] 8. [A 16 A] 8. [B 16 Bn] 8. [c 16 c#]
+/
+2 bars | 1b 6 6 7 6 6 6 6 6 6 6 6 6 6 6 7 5 | 6 6 6 6 6 7 7 6 6 6 6 7 7 6 6 5 |
 |
 =1' 4 A(1 16 [A)1 G A B] 4 c(1 16 [c)1 d c Bn]
 =1, 16 [E)2 E D C#] 4 D 16 [Cn E F G] 4 A
@@ -188,6 +222,8 @@ il0.8 .15 20
 =1, 8. [G 16 A] [B D C# B_n] 4 C 16 rest, [Bb A G]
 =2' 1 er
 =2, 8 g rest, 2. rest,
+/
+2 bars | 1b 6 6 6 6 6 7 7 6 6 6 7 7 6 6 6 5 | 6 6 6 6 6 6 7 6 6 6 6 6 7 6 7 6 |
 |
 =1' 4 d 16 rest' [A Bn c#] [d e] 4 f 8 e(1
 =1, 16 [A G F E] 8 D rest, 16 rest, [A d cn] [Bb A B G]
@@ -198,8 +234,10 @@ il0.8 .15 20
 =1, 8 E rest, 4 rest, D 8. [A 16 G]
 =2' 1 a(1
 =2, 4 c# 8. [d 16 e] 4 f(2 16 [f)2 g f e]
+/
+2 bars | 1b 7 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 7 6 6 6 6 6 6 6 6 6 6 6 5 |
 |
-il0.8 .15 30
+il0.8 .05 30
 =1' 16 [Dr A 8 d(1] 16 [d)1 f e d] [e 8 a 16 A] [B d g G]
 =1, 8. [F 16 E] 4 D C# 8. [D 16 E]
 =2' 4 a)1 b a g
@@ -214,8 +252,9 @@ il0.8 .15 30
 pagenum
 innerhead Contrapunctus 7,  Kunst der Fuge,  J. S. Bach
 leftfoot typesetting (c) 2009 Peter Billam
+
 /
-2 bars | 1b 96 | 96 |
+2 bars | 1b 6 6 6 6 6 6 6 6 6 6 7 6 6 6 6 5 | 7 7 6 6 6 6 6 6 6 6 6 6 6 6 6 5 |
 |
 =1' 8 [f Bb(1] 16 [B)1 c B A] 8 [G g(1] 16 [g)1 b a g]
 =1, 2 blank 1 rest,,
@@ -226,6 +265,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 2 blank 1 rest,,
 =2' 16 [d~ c~n bn a] 8 [b bb(1] 16 [b)1 d~ c~ b] 8 [a a~(1]
 =2, 8 d rest g rest c rest f rest
+/
+2 bars | 1b 6 6 6 6 6 6 7 6 6 6 6 6 6 7 6 5 | 6 6 6 7 6 6 6 6 6 6 6 6 6 6 6 5 |
 |
 =1' 4 d 8 [c# cn(1] 16 [c)1 8 B 16 A] [G f en d]
 =1, 2 blank 1 rest,,
@@ -236,6 +277,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 1 A
 =2' 16 [g~)1 f~ e~ d~] 8 [c~# e~] a rest'' rest'' c#
 =2, 4 a(2 16 [a)2 b a g] 8. [f 16 g] 8 a rest,,
+/
+2 bars | 1b 6 6 6 6 6 6 7 6 6 6 6 6 6 6 7 5 | 7 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 |
 |
 =1' 16 [F G F E] [D F B A] [G F E F] [G B d c#]
 =1, 2. D 4 E
@@ -246,6 +289,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 2. F 4 G
 =2' 4. a 8 g 4. f 8 e
 =2, 16 [d c# d e] 4 f 16 rest, [F G A] 8 [B G]
+/
+2 bars | 1b 6 6 6 6 6 6 6 6 7 6 6 6 6 6 6 5 | 7 6 6 6 6 6 7 6 7 6 6 6 6 6 6 5 |
 |
 =1' 16 [f g f e] 4 d 4. a 8 g
 =1, 1 A
@@ -256,6 +301,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 1 Bb
 =2' 4. dr 8 e 2 f(1
 =2, 16 [f e f g] [f e dr c#] [d cn B A] [G A B G]
+/
+2 bars | 1b 6 6 6 6 6 6 7 6 7 6 6 6 6 6 6 6 7 6 6 6 6 7 7 6 6 6 6 6 6 6 6 5 |
 |
 il0.6 .15 40
 =1' 2 c# 4 d e
@@ -268,12 +315,13 @@ il0.6 .15 40
 =2' 4 dr)'1 8 rest'' c#(1 16 [c)1 e d c] [d e f g]
 =2, 16 [a g f e] [d c Br A] 4 Br A(2
 
-5 systems 20 /20-45-20/20-50-20/20-50-20/20-50-20/20-45-20 10/
+5 systems 15 /20-48-20/20-48-20/20-50-20/20-50-20/20-48-20 10/
 pagenum
 innerhead Contrapunctus 7,  Kunst der Fuge,  J. S. Bach
 leftfoot typesetting (c) 2009 Peter Billam
+
 /
-2 bars | 1b 96 | 96 |
+2 bars | 1b 6 6 6 6 6 6 7 6 7 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 7 6 6 6 6 6 6 5 |
 |
 =1' 16 [d A 8 d(1] 16 [d)1 e d c#] 8 [d a] 8. [d 16 e]
 =1, 4 F)2 E F G
@@ -284,6 +332,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 4 A 8. [D 16 E] 8. [F 16 G] 4 A
 =2' 4 d~ 8 rest'' d~(1 16 [d~)1 c~# d~ e~] [f~ g~ f~ e~]
 =2, 16 rest [b a g] [f e 8 d] 2 rest,
+/
+2 bars | 1b 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 | 7 6 6 6 6 6 6 6 6 6 7 7 6 6 6 5 |
 |
 =1' 4 f(1 16 [f)1 e f g] [a f e d] 8 c rest'
 =1, 4 B 8. [A 16 G] 4 F(2 16 [F)2 E F G]
@@ -294,6 +344,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 4 A 8. [d 16 c] 8. [B 16 A] 4 G
 =2' 16 [c~)1 e~b d~ c~] 8. [b 16 a] 4 g 8 rest'' e~b
 =2, 4 f# 16 rest, [d e f] [g d g fn] [eb d c B]
+/
+2 bars | 1b 7 6 6 6 6 6 7 6 6 6 6 6 7 6 6 5 | 6 6 6 6 7 6 6 6 6 6 6 7 7 7 6 5 |
 |
 =1' 8 blank 1 rest'
 =1, 4 F# 8. [G 16 A] 4 B(1 16 [B)1 c B A]
@@ -304,6 +356,8 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 4 G(2 16 [G)2 F# G A] [B c B A] [G Fn En D]
 =2' 4 d~ e~b 8. [d~ 16 c~] 4 bb(1
 =2, 16 [b g a b] 8 [c~ c] 4 g 8 rest, G
+/
+2 bars | 1b 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 6 6 6 6 7 6 6 5 |
 |
 =1' 8 blank 1 rest'
 =1, 4 E(2 16 [E)2 E F G] 8 A 4 D 16 [C B_]
@@ -314,8 +368,10 @@ leftfoot typesetting (c) 2009 Peter Billam
 =1, 16 [A_ C D E] [F G A B] 8 [c Eb(1] 16 [E)1 G F E]
 =2' 4 c rest' 16 rest'' [d~ c~ b] 4 a(1
 =2, 8. [F 16 G] 4 A(2 16 [A)2 B A G] [F eb d c]
+/
+2 bars | 1b 6 6 7 6 6 6 6 7 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 7 6 6 6 6 6 7 7 5 |
 |
-il0.5 .25 50
+il0.4 .15 50
 =1' 1 d
 =1, 4 D rest, 16 rest, [A B c] [B A G F]
 =2' 16 [a)1 d e f#] 8 g rest'' 4 rest'' 16 rest'' [f~ e~ d~]
@@ -325,6 +381,14 @@ il0.5 .25 50
 =1, 8 [E e] 8. [A 16 Bn] 8. [c# 16 d] 4 e
 =2' 4 c~#(1 16 [c~)1 a 8 d~] 16 [e~ f~ e~ d~] 8 c~ rest''
 =2, 16 [g)2 g f e] 8. [f 16 d] 4 a 16 rest, [A Bn c#]
+
+5 systems 5 /20-48-20/20-48-20 5/20-43-20 5/20-42-20/20-48-20 20/
+pagenum
+innerhead Contrapunctus 7,  Kunst der Fuge,  J. S. Bach
+leftfoot typesetting (c) 2009 Peter Billam
+
+/
+2 bars | 1b 6 7 7 6 6 6 6 7 6 6 6 6 6 7 6 5 | 6 6 6 6 6 6 6 6 6 6 7 6 6 6 6 5 |
 |
 =1' 2. fr 4 e
 =1, 4 f 8. [e 16 d] 4 c#(2 16 [c)2 A Bn c]
@@ -335,6 +399,8 @@ il0.5 .25 50
 =1, 4 d 4. A 16 [G A] 8 [B G(2]
 =2' 4 f~ rest'' 16 rest'' [d e f#] [g a b a]
 =2, 16 rest [b a g] [f e d f] 2 B
+/
+2 bars | 1b 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 |
 |
 =1' 1 c#
 =1, 16 [G)2 A G F] [E D E F] 8 [G B] 4 E
@@ -345,7 +411,129 @@ il0.5 .25 50
 =1, 8. [A 16 G] 8. [F 16 E] 4 D C#
 =2' 4 a 8. [d~ 16 c~] 8. [b 16 a] 4 g
 =2, 16 [f g f e] [d e 8 f(2] 16 [f)2 a g f] [e a g a]
+/
+2 bars | 1b 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 | 6 6 6 6 6 7 7 6 7 7 6 6 6 6 6 5 |
 |
+=1' 1 f('3
+=1' 16 rest [d c B] 4 A(1 16 [A)1 B A G] 8 [F 16 G A]
+=1, 8. [D 16 E] 4 F(2 16 [F)2 G F E] 4 D(2
+=2' 4 f(1 16 [f)1 f g a] 4 b(1 16 [b)1 c~ b a]
+=2, 4 d rest, 2 rest,
+|
+=1' 4 f)3 g f e
+=1  8 [Br' d' c#r'] 4 e d 8 c
+=1, 8 D)2 4 B 16 [Ar G] 8 [A Fr G Er]
+=2' 8 g rest'' 4 rest'' 16 rest'' [Bn c# d] [e f g e]
+=2, 16 rest, [a g f] [e d c# e] 2 A(2
+/
+2 bars | 1b 6 6 6 6 6 6 6 7 6 6 7 6 6 6 6 5 | 6 6 6 6 7 6 7 6 6 6 6 6 6 6 6 5 |
+| 1.5 1.6
+=1' 2 dr('1 16 [d)'1 e d c#] [d e f e]
+=1, 16 [d B A G] [F 8 A 16 G#] 8 Bn rest, 4 rest,
+=2' 8 <a f~> rest'' rest'' 4 <f d~> 8 rest' 4 rest'
+=2, 16 [A)2 g f e] [d c B d] 4 G# rest,
+| .85 .9 1.0 1.1
+=1' 16 [g f e d] [e c# 8 d(1] 4 d)1 c
+=1, 4 rest, 8 rest, F(2 16 [F)2 D E F] [G A B G]
+=2' 4 rest' 8 rest' 16 [dr e] 4 fr e
+=2, 4 rest, 8 rest, <Bb g#> 2 <A a>
+/
+2 bars | 1b 96 | 48 36 ||
+| 4.6
+il0.7 .15 60
+=1' 4. d 8 d [c# cn(1] 16 [c)1 eb d c]
+=1, 16 [F# A G F] 4 G(2 8 [<E G)2> <Gr B>] 4 A
+=2' 4 dr 2 blank 8 [d~ a]
+=2' 4 b(1 16 [b)1 c~ b a] [g f# e g] 4 f,
+=2, 1 d(2
+| 1.2 1.5 1.5 1.5
+=1' 16 [B A G B(1] [B)1 B A G] 2 <D F#-fermata>
+=1, 4 D C# 2 blank
+=1, 2 blank A_
+=2' 4 b e 2 d-fermata
+=2' 2 gr blank
+=2, 2 d)2 D-fermata,
+@
+
+
+1.3
+log
+@up to bar 55
+@
+text
+@d1 1
+a1 1
+5 systems 20 /20-40-20/20-50-20/20-50-20/20-50-20/20-45-20 10/
+d9 2
+a10 1
+3 bars | 1b 4/4 5 5 5 5 5 5 5 6 5 5 5 6 5 5 5 5 | 5 5 5 5 5 5 5 6 5 5 5 5 6 6 6 17 | 9 6 5 5 6 9 9 6 9 6 5 6 6 6 9 5 |
+d15 1
+a15 1
+=2,         1b 4/4 cha2 leg98 2 blank 1 rest,,
+d20 1
+a20 1
+=2, 2 blank 1 rest,, bass
+d28 1
+a28 1
+2 bars | 1b 96 | 96 |
+d39 2
+d51 2
+d63 2
+d66 1
+a66 1
+il0.8 .35 10
+d77 1
+a77 1
+5 systems 20 /20-55-20/20-50-20/20-50-20/20-50-20/20-45-20 10/
+d81 1
+d83 1
+a83 1
+2 bars | 1b 96 | 96 |
+d94 2
+d106 2
+d110 2
+a111 1
+=1, 2 Ebrl 4. D 8 C
+d119 2
+d131 2
+d134 1
+a134 1
+il0.8 .15 20
+d144 8
+d162 2
+d174 2
+d186 2
+d198 2
+d201 1
+a201 1
+il0.8 .15 30
+d216 1
+d218 1
+a218 1
+2 bars | 1b 96 | 96 |
+d229 2
+d241 2
+d253 2
+d265 2
+d279 1
+a279 1
+5 systems 20 /20-45-20/20-50-20/20-50-20/20-50-20/20-45-20 10/
+d283 1
+d285 1
+a285 1
+2 bars | 1b 96 | 96 |
+d296 2
+d308 2
+d320 2
+d332 2
+d335 1
+a335 1
+il0.5 .25 50
+d345 8
+d363 2
+d375 2
+d378 19
+a396 15
 =1' 1 f(1
 =1, 
 =2' 
@@ -361,18 +549,19 @@ il0.5 .25 50
 =2' 
 =2, 
 |
-=1' 16 [g f e d] [e c# 8 d(1] 4 d)1 c
+d398 6
+a403 4
 =1, 
 =2' 
 =2, 
 |
-il0.7 .15 60
-=1' 4. d 8 d [c# cn(1] 16 [c)1 eb d c]
+d406 5
+a410 4
 =1, 
 =2' 
 =2, 
 |
-=1' 16 [B A G B(1] [B)1 B A G] 2 <D F#-fermata>
+d412 5
 @
 
 
