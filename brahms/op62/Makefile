@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 NORMALIZE = /usr/bin/normalize-audio
 ARRD = /home/pjb/www/mus/arr
 A4D = ${ARRD}/a4
@@ -19,8 +19,8 @@ WAV = /home/pjb/wav/brahms/${PIECE}.wav
 
 dev : title.ps p2.ps ${PIECE}.ps
 
-all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf ${SRCD}/${PIECE}.txt \
- ${MP3D}/${PIECE}.mp3
+all : ${A4D}/${PIECE}.pdf  ${USD}/${PIECE}.pdf ${SRCD}/${PIECE}.txt
+#   ${MP3D}/${PIECE}.mp3
 dist:
 	upload ${A4D}/${PIECE}.pdf
 	upload ${USD}/${PIECE}.pdf

@@ -8,7 +8,7 @@ midi channel 2 patch 85 pan 60
 midi channel 3 patch 85 pan 40
 midi channel 4 patch 85 pan 80
 
-midi off
+#midi off
 /
 5 bars | 2b 3/4 6 | 36 | 36 | 36 | 36 |
 | 1/8 .35
@@ -165,7 +165,7 @@ r0.2 .01 schön."
 =4 4 G rest rest 8 rest
 midi pause 2.0
 
-midi off
+#midi off
 3 systems 25 / 19 30 19 30 19 30 19 5 / 19 35 19 35 19 30 19 \
  / 19 45 19 40 19 50 19 20 /
 pagenum
@@ -714,7 +714,7 @@ r0.40 .01 trab .37 her-für.
 r1.00 .01 trab .37 für-baß.
 midi pause 2.0
 
-midi off
+#midi off
 2 systems 15 / 19 50 19 40 19 50 19 / 19 55 19 60 19 58 19 25 /
 pagenum
 title 3.  Waldesnacht
@@ -1157,7 +1157,7 @@ r1.14 .01 ein.
 r1.70 .01 Nacht
 midi pause 2.0
 
-midi off
+#midi off
 2 systems 40 / 19 45 19 35 19 43 19 \
  / 19 50 19 40 19 50 19 35/
 pagenum
@@ -1487,7 +1487,7 @@ r0.75 .01 schlossen.
 r0.25 .01 schlossen.
 midi pause 2.0
 
-midi off
+# midi off
 1 systems / 19 65 19 65 19 65 19 65 19 65 19 /
 pagenum
 title 5.  All meine Herzgedanken
@@ -2088,7 +2088,7 @@ r0.96 .01 nicht.
 r1.62 .01 sind !
 midi pause 2.0
 
-midi off
+#midi off
 3 systems 20 / 19 40 19 40 19 40 19 \
  / 19 35 19 35 19 35 19 \
  / 19 35 19 45 19 40 19 15 /

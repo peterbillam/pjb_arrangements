@@ -1981,7 +1981,7 @@ b1.0 .57 Loc.
 pagenum
 innerhead Suite for Piano, Op. 14,  Béla Bartók, 1916
 /
-4 bars | 48 |
+4 bars |6 6 7 7 6 7 7 5 |6 6 7 7 13 7 7 5| 6 7 7 7 6 7 7 5| 7 7 6 6 7 7 6 5 |
 |
 =1, 8 [<Bb bb-emph-s4> <A a-s5> e-s4 eb-s3 Bb-s2 A-s1 G#-s4 Eb-s2]
 =2' 8 [bb-emph-s2, a-s1, e-s2, eb-s3, Bb-s5, A-s1, G#-s2, Eb-s4,]
@@ -1996,7 +1996,8 @@ i1.0 .50 sempre più mosso
 =1' 2 rest 8 [A{2-emph G# Eb D}2]
 =2' 8 [A_{2-emph G_# E_b D_}2] 2 rest
 /
-5 bars | 48 | 30 | 48 | 30 | 48 |
+5 bars | 7 7 6 6 7 7 6 5 | 30 | 7 7 6 6 7 7 6 10 \
+ | 30 | 7 7 6 6 7 7 6 10 |
 | .91
 =1' 2 rest treble 8 [A{2-emph,-s4 G#-s3 Eb-s1 D}2-s1,]
 =2, 8 [a{1-emph g# eb d}1] 2 rest
@@ -2014,7 +2015,7 @@ I0.8 .01 sff
 =2' 2. vol127 <f a{1> 4 vol-10 <ab c~}1>
 =2, 1  vol127 d-s2,-s3,-s5,
 | .90
-=1, 2 rest bass 8 [a{1-emph-s4 g#-s3 eb-s1 d}1-s1,] treble
+=1, 2 rest bass 8 [a{1-emph-s4 g#--s3 eb--s1 d}1-s1,] treble
 =2' 8 [A{2-emph G# Eb D}2] 2 rest
 /
 4 bars | 48 |
@@ -2035,7 +2036,7 @@ I0.8 .01 sff
 I0.6 .45 sf
 =2 8 [A{2-emph G# Eb D}2] 4 c~b{1 ab}1
 /
-4 bars | 48 |
+4 bars |7 7 6 6 6 6 6 5 | 7 7 6 6 7 7 6 5 | 7 7 6 6 7 7 6 5 | 7 7 7 8 6 6 6 5 |
 |
 =1' 2 rest 4 <Cbl Eb{'1-s1-s3-s5> <A_bl Cn}'1-s1-s3-s5>
 I0.6 .45 sf
@@ -2049,16 +2050,17 @@ i0.7 .20 cresc .   .   .
 =2' 8 [A_{2-emph G_# E_b D_}2] 2 blank
 |
 =1 2 blank 1 rest
-=2' 2 blank 8 [a{1-emph g# eb d}1]
+=2, 2 blank 8 [a{1-emph g# eb d}1]
 =2' 8 [A{2-emph G# Eb D}2] 2 blank
 |
 =1' vol127 4 rest'' 8 [<c ab c~> <c ab c~>] \
  4 <eb c~bl e~b-ten-emph> 8 [<cn a c~n> <c a c~>]
-=1, 2 rest, 4 <Cbl E~ cbl> 8 [<A_bl Cn Abl> <A_ C A>]
+=1, 2 rest, 4 <Cbl E cbl> 8 [<A_bl Cn Abl> <A_ C A>]
 I0.7 .20 ff
 =2, vol127 8 [a{1-emph g# eb d(3] 4 d)3}'1 rest
 /
-4 bars | 48 | 48 | 48 | 48 ||
+4 bars |6 6 6 8 6 6 6 5 |8.5 6 6 6.5 6 6 6 5 \
+ |6 6 6 6 6 6 6 5 | 6 6 6 6 7 7 6 6 ||
 |
 =1' 4 <eb c~bl e~b-ten-emph> 8 [<cn a c~n> <c a c~>] \
  4 <eb c~bl e~b-ten-emph> 8 [<cn a c~n> <c a c~>]
@@ -2066,8 +2068,8 @@ I0.7 .20 ff
     4 <Cbl Eb cbl> 8 [<A_bl Cn Abl> <A_ C A>]
 =2 2 blank 1 rest
 |
-=1' 4 <eb c~bl e~b-ten-emph>] 8 [<cn a c~n> <c a c~>] 2 rest
-=1, 4 <Cbl Eb cbl>] 4 rest,, 2 blank
+=1' 4 <ebr c~bl e~b-ten-emph>] 8 [<cn a c~n> <c a c~>] 2 rest
+=1, 4 <Cblr Eb cbl>] 4 rest,, 2 blank
 =2' 2 rest' 4 <Eb eb-ten-emph> rest'
 =2, 4 rest,,, 8 [<D_ D> <D_ D>] 4 rest,,, 8 [<D_ D> <D_ D>]
 |

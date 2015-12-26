@@ -7,10 +7,10 @@ midi channel 1 patch 74
 /
 5 bars | 1 1 1 1 | 1 1 1 1 | 1 1 1 1 | 1 1 1 1 | 1 1 1 1 |
 | 4/4 126
-=1 treble 1b channel1 min. f qua [e d]
-=2 treble 1b channel1 smb rest
-=3 bass8va 1b channel1 min f cro f g
-=4 bass8va 1b channel1 min f cro d e
+=1 treble 1b cha1 min. f qua [e d]
+=2 treble 1b cha1 smb rest
+=3 bass8va 1b cha1 min f cro f g
+=4 bass8va 1b cha1 min f cro d e
 |
 =1 min c d
 =2 min F cro F G
@@ -136,8 +136,8 @@ midi pause 3.9
 =3 treble8va 2b 4/4 cro d
 r0.6                O
 =4 treble 2b 4/4 cro b
-=5 channel1 treble 2b 4/4 cro f
-=6 channel1 bass8va   2b 4/4 cro B
+=5 cha1 treble 2b 4/4 cro f
+=6 cha1 bass8va   2b 4/4 cro B
 | 4/4 80
 =1 qua [d' e'] cro f' qua [g' a'] cro b'(1
 =1 qua [F, G,] cro A, B, f,
@@ -1796,7 +1796,7 @@ I0.1 .78 '
 |
 =1 min. <F, c'> cro rest rest
 
-10 systems /22 10/22/22/22/22 50/22 10/22/22/22/22 50/
+10 systems 25/22 10/22/22/22/22 50/22 10/22/22/22/22 25/
 pagenum
 innerhead Choralvorspiele, Johannes Brahms
 title O Welt, ich muss dich lassen

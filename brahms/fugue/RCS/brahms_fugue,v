@@ -1,4 +1,28 @@
-3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2015.12.26.04.55.15;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@improved the spacing in the score
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@3 systems /21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/21 26 21 26 21 26 21 26 21/
 lefthead Johannes Brahms
 title Fugue in Ab minor
 righthead SATB recorders, Viola de Gamba
@@ -1357,3 +1381,4 @@ il0.25 55
 =1 min g# a d d#
 |
 =1 smb e A
+@
