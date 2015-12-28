@@ -3,13 +3,17 @@ title Kyrie, La Messe de Nostre Dame
 lefthead Arranged for ATBB Recorders
 righthead Guillaume de Machaut (1300-1370)
 leftfoot Arrangement (c) 1999 Peter J Billam
+midi channel 1 patch 74 pan 95
+midi channel 2 patch 74 pan 65
+midi channel 3 patch 74 pan 35
+midi channel 4 patch 74 pan 5
 /
 6 bars |5|6|6|6|6|1 1.4 1 1 1 1|
-|
-=1 treble  3/2 smb. a
-=2 treble  3/2 smb. d
-=3 bass8va 3/2 smb. a
-=4 bass8va 3/2 smb. d
+| 3.0
+=1 treble  3/2 cha1 smb. a
+=2 treble  3/2 cha2 smb. d
+=3 bass8va 3/2 cha3 smb. a
+=4 bass8va 3/2 cha4 smb. d
 |
 =1 min a b g
 =2 min e B, c

@@ -4,12 +4,13 @@ title 1.
 innerhead Fantasia 1. in A major, Georg Philipp Telemann
 leftfoot arranged for C recorder (c) 2001 Peter J Billam
 midi channel 1 patch 74 reverb 80
-midi off
+# midi off
+# tempi ?
 /
 2 bars | 4/4 8 | 8 |
 |
 I0.6 .05 Vivace
-=1 treble 1# 4/4 cro G(1 smq [G)1 A G D] [G B' G D] [G A G D]
+=1 treble 1# 4/4 cha1 cro G(1 smq [G)1 A G D] [G B' G D] [G A G D]
 |
 =1 smq [G B' G D] [G d' G D] [G,-ten d e{1 c}1] [d{1 B,}1 c{1 A,}1]
 /
@@ -2583,7 +2584,7 @@ is0.7 .44 (F# ?)
   .65 .65 .5 .5 .5 .5 .5 .5  .5 .5 .70 .70 .55 .55 .5 .5 |
 |
 =1 treble 1b smq [e a qua g#] rest smq [g{1 a}1] [bn e{1 d}1 b] [c a Bn, b]
-midi off
+# midi off
 |
 =1, smq [A dsq c~{1 bn}1 qua a] smq rest [b{1 c~}1 Gn{1] \
  [F#}1 eb{1 d}1 a] [D c~ bb{1 a}1]

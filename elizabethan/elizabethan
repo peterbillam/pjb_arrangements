@@ -6,7 +6,7 @@ leftfoot Canzonets to 2 voyces, 1593
 midi channel 1 patch 53 pan 50
 midi channel 2 patch  6 pan 90
 midi channel 3 patch  6 pan 10
-midi off
+
 /
 4 bars | 1 | 1 | 1 |
 | 2/2 84
@@ -295,6 +295,7 @@ leftfoot Canzonets to 2 voyces, 1593
 midi channel 1 patch 53 pan 50
 midi channel 2 patch  6 pan 90
 midi channel 3 patch  6 pan 10
+
 /
 4 bars | 1b 1 | 1 | 1 | 1 |
 | 2/2 74

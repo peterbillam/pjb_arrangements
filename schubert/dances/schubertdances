@@ -9,9 +9,9 @@ midi channel 2 patch 24
 5 bars |: 2b 3/4 2 | 6 | 6 | 6 | 6 |
 | 1/4 .35
 rl0.9  No. 1
-=1  treble    2b 3/4 channel1 cro f
+=1  treble    2b 3/4 cha1 cro f
 I0.6                p
-=2 treble8vab 3# 3/4 channel2 transpose+1 cro rest
+=2 treble8vab 3# 3/4 cha2 tra+1 cro rest
 i0.4   Capo on 1st fret . . .
 | 3/4 170 180 180 180 180 180
 =1 qua [d f d~ f d f]
@@ -624,7 +624,7 @@ midi pause 4.0
 | 2/4 160 166 162 166
 rl0.9  No. 1
 =1  treble    2# 2/4 smq-s A blank cro f qua [e d]
-=2' treble8vab 2# 2/4 transpose+0 smq blank cro D_ qua [<D A d f> <D A d f>]
+=2' treble8vab 2# 2/4 tra+0 smq blank cro D_ qua [<D A d f> <D A d f>]
 i0.4 6e en Ré . . .
 |
 =1 qua [c d e d]
@@ -1123,14 +1123,14 @@ midi pause 4.0
  | 1.7 1.7 2 | 2.6 2.6 2 | 1.7 1.7 2 |
 | 3/4 170 180 180 180 180 180
 i0.3      Alto solo
-=1  treble 3/4 channel1 min. e{2
+=1  treble 3/4 cha1 min. e{2
 I0.8         p
 i0.1      Alto
-=2' treble 3/4 channel1 min. c
-=2, treble 3/4 channel1 min. G
+=2' treble 3/4 cha1 min. c
+=2, treble 3/4 cha1 min. G
 i0.9     Tenore
 I0.3         p
-=3  bass   3/4 channel1 transpose+12 min. c(2
+=3  bass   3/4 cha1 tra+12 min. c(2
 i0.1      Bassi
 |
 =1  min. g}2
@@ -1313,7 +1313,7 @@ i0.9       Alto
 I0.6                f
 =2  treble    3/4 cro c qua [A B'] cro c
 i0.9      Tenor
-=3' treble8vab 3/4 transpose0 channel2 min e cro e
+=3' treble8vab 3/4 tra0 cha2 min e cro e
 =3,            3/4 cro <A_ E> A <A_ E>
 |
 =1  cro d min B

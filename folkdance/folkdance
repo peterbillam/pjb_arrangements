@@ -3,14 +3,14 @@ pagenum 3
 title Folk Dance Tunes
 innerhead for tin whistle or recorder and guitar
 leftfoot arrangement (c) 1986 Peter J Billam
-midi channel 0 patch 78
+midi channel 0 patch 79
 midi channel 1 patch 25
 /
 5 bars |: 1# 2/4 8 | 8 | 8 | 8 | 8|
 | 2/4 1.1
 Il0.8       Davvy Davvy Knick Knack
-=1 treble 1# 2/4 channel0 transpose+12 smq [G F G A] qua [B' B']
-=2 treble 1# 2/4 channel1 transpose-12 qua [d-so-is3, d~-is1,] [d d~]
+=1 treble 1# 2/4 cha0 tra+12 smq [G F G A] qua [B' B']
+=2 treble 1# 2/4 cha1 tra-12 qua [d-so-is3, d~-is1,] [d d~]
 I0.2         p
 |
 =1 smq [G F G A] qua [B' B']
@@ -873,9 +873,9 @@ midi channel 2 patch 24
 7 bars | 1# 6/8 3 ||: 6 | 6 | 6 | 6 | 6 | 6 |
 | 3/8 .19 .14 .17
 Il0.7         The Humours of Bandon
-=1  treble 1# 6/8 channel0 transpose+12 qua [G F E]
-=2 treble 1# 6/8 channel1 transpose-12 cro. rest
-=3 treble 1# 6/8 channel2 transpose-12 cro. rest
+=1 treble 1# 6/8 cha0 tra+12 qua [G F E]
+=2 treble 1# 6/8 cha1 tra-12 cro. rest
+=3 treble 1# 6/8 cha2 tra-12 cro. rest
 | 6/8 .19 .14 .17 .19 .14 .17
 =1  qua [D G G] [G F G]
 =2, qua [G B g] [G B g]

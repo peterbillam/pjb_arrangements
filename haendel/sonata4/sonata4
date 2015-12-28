@@ -15,7 +15,7 @@ Il0.6        Largetto
 =3' bass  1b 3/4 cha2 min f cro rest
 |
 =1 min. c(1
-=2' cro rest qua [A_(2 C)2 B_(2 E)2]
+=2' cro rest qua [A_{2 C}2 B_{2 E}2]
 =3, cro rest F G
 |
 =1 cro c)1 c d
@@ -23,7 +23,7 @@ Il0.6        Largetto
 =3' cro A A B
 |
 =1 min e cro f
-=2' cro <C E G> qua [E(2 G)2 F(2 B)2]
+=2' cro <C E G> qua [E{2 G}2 F{2 B}2]
 =3, cro c c d
 |
 il0.7 .15 5
@@ -35,7 +35,7 @@ il0.7 .15 5
 |
 =1, cro b g c~
 =2' cro <F)2 B d)1> min <G c>
-=2, cro blank Fr(2 E)2
+=2, cro blank Fr{2 E}2
 =3 cro g c~ c
 |
 =1 cro. a qua g cro leg140 f
@@ -53,13 +53,13 @@ il0.7 .15 5
 |
 il0.7 .15 10
 =1 min. c(1
-=2' cro rest qua [A_(2 leg55 B_)2 leg85 B_(2 leg55 C)2]
+=2' cro rest qua [A_{2 leg55 B_}2 leg85 B_{2 leg55 C}2]
 =3, cro rest F G
 /
 4 bars | 1b 12 | 12 | 12 |
 |
 =1 cro c)1 c d
-=2 cro leg85 C smq [C(2 D)2 E F] qua [D G]
+=2 cro leg85 C smq [C{2 D}2 E F] qua [D G]
 =3' cro A A B
 |
 =1 min e cro f
@@ -80,7 +80,7 @@ il0.7 .15 10
 |
 il0.7 .15 15
 =1 cro f cro. d-tr qua c
-=2' cro <D A c> c(1 Bn)1
+=2' cro <D A c> c{1 Bn}1
 =2, cro blank min <D G>
 =3 cro f g G
 |
@@ -94,7 +94,7 @@ il0.7 .15 15
 =3 cro a A B
 |
 =1 qua. [e smq d] cro c rest
-=2' cro. <E G> qua [E(2 F Bn)2]
+=2' cro. <E G> qua [E{2 F Bn}2]
 =3 cro c c d
 |
 =1 cro rest c~ a
@@ -444,12 +444,12 @@ Il0.6        Alla Siciliana
  | 2 2 2.8 2 2 2.6 2 2 2.1 2 2 2 \
  | 1.7 1.7 2.6 1.7 1.7 1.7 1.7 1.7 2.2 1.7 1.7 1.7 |
 |
-=1 qua [f(1 e)1 g] qua. [f smq e qua d] cro. d cro rest qua g
+=1 qua [f{1 e}1 g] qua. [f smq e qua d] cro. d cro rest qua g
 =2' qua [<F d> A <D(2 G>] cro <D)2 F> qua <C# E> cro D-., qua F cro. Gr
 =2, min. blank cro. blank cro F qua E
 =3  cro d qua b cro a qua A cro d qua d~ cro b qua c~
 | 12/8 .53 .52 .52  .52 .51 .5  .52 .5 .5  .51 .5 .5
-=1 qua [a(1 g)1 b] qua. [a smq g qua f] cro. f cro. rest
+=1 qua [a{1 g}1 b] qua. [a smq g qua f] cro. f cro. rest
 =2' qua [<C A> G <F(2 B>] cro <C F)2 A> qua <B_ E G> \
  cro <A_ F> qua C cro <A_ D> qua <D F A>
 =3  qua [f e d,] cro c qua C cro F qua a cro f qua d
@@ -474,12 +474,12 @@ Il0.6        Alla Siciliana
 =2, min. blank cro. blank qua. [A smq G qua F]
 =3 cro rest qua e cro a qua c# cro d qua e qua. [f smq e qua d]
 | 12/8 .53 .52 .52  .52 .51 .5  .52 .5 .5  .52 .52 .52
-=1 qua [e f g] qua. [f smq e qua d] cro leg70 d qua leg90 g [g(1 f#)1 c~]
+=1 qua [e f g] qua. [f smq e qua d] cro leg70 d qua leg90 g [g{1 f#}1 c~]
 =2' qua [B A G] cro <D F> cro A G qua G cro F#
 =2, cro. D cro blank qua <C# E> cro. <D F> <Cnl Eb>
 =3 qua [g a b] cro a qua A cro. B A
 | 12/8 .54 .54 .55 .56 .57 .58 .59 .60 .61 .62 .63 .64
-=1 qua [c~(1 leg80 b)1 leg90 d] [d(1 leg80 c#)1 leg90 a] \
+=1 qua [c~{1 leg80 b}1 leg90 d] [d{1 leg80 c#}1 leg90 a] \
  cro d~ qua f cro. g-tr
 =2' qua A cro B cro. <Ex A> <D A> qua. [G smq F E D]
 =2, cro. <D Gr> qua D cro C# cro. blank D
@@ -529,7 +529,7 @@ Il0.6        Allegro
 =2, min. blank cro. blank cro G qua A
 =3 cro. f a g cro e qua f
 |
-=1 qua [g(1 f)1 e] [f e d] min. leg70 c leg85
+=1 qua [g{1 f}1 e] [f e d] min. leg70 c leg85
 =2' cro <G Bn> cro. <G c> qua <F B> [c G E] cro. C
 =2, cro blank qua E cro. D min. blank
 =3 cro g qua c cro g qua G min. c
@@ -563,12 +563,12 @@ midi channel 2 patch 6
  | 1 1 1.1 1 1 1.3 1.1 1.7 1.6 1.1 1.2 1.1 \
  | 1.1 1.7 1.1 1.7 1.1 1.3  1.1 1.1 1.1 1.1 1.1 1.1 |
 |
-=1 qua [b(1 a)1 g] [f e d] cro leg70 c# qua leg85 b cro. a(1
+=1 qua [b{1 a}1 g] [f e d] cro leg70 c# qua leg85 b cro. a(1
 =2' cro. B(1 cro B)1 qua G cro. <C# E A> cro rest qua leg95 <F A(1>
 =2, min. D blank
 =3  cro. g B A cro rest qua leg95 d~
 |
-=1 cro a)1 smq3 [g(1 a b] cro. a)1(1 cro a)1 smq3 [g(1 a b] cro a)1 qua g
+=1 cro a)1 smq3 [g{1 a b] cro. a}1(1 cro a)1 smq3 [g{1 a b] cro a}1 qua g
 =2' cro. leg85 <E A)1> cro rest qua leg95 <F A(1> \
  cro. leg85 <E A)1> cro rest qua <A c#>
 =3 cro. leg85 c~# cro rest qua leg95 d~ cro. leg85 c~# cro rest qua a
@@ -581,17 +581,17 @@ midi channel 2 patch 6
 =1 cro e qua d~ cro d~ qua d~ [d~ c~ bn] cro leg70 c~ qua leg85 c~
 =2' cro. d(1 cro d)1 qua d min. c
 =2, cro. Bn(2 cro B)2 qua B cro. leg95 Br leg85 A
-=3, qua [g# a bn] [e f# g] [a(1 e)1 c] [A e a]
+=3, qua [g# a bn] [e f# g] [a{1 e}1 c] [A e a]
 /
 4 bars | 1b 12 | 12 | 5.5 6 | .9 .9 1 .9 .9 1 .9 .9 1 .9 .9 1 |
 |
 =1 cro d qua c~ cro c~ qua c~ [c~ bb a] cro leg70 b qua leg85 b
 =2' cro. c(1 cro c)1 qua c min. B
 =2, cro. A(2 cro A)2 qua A cro. leg95 Ar leg85 G
-=3  qua [f# g a] [d e f] [g(1 d,)1 B,] [G d' g']
+=3  qua [f# g a] [d e f] [g{1 d,}1 B,] [G d' g']
 |
 =1 cro c qua b cro b qua b [b a g] [a b c~]
-=2' cro. B(1 cro B)1 qua B cro. A(1 cro A)1 qua F
+=2' cro. B{1 cro B}1 qua B cro. A(1 cro A)1 qua F
 =2, cro. G(2 cro G)2 qua G cro. Gr cro F qua blank
 =3  qua [e f g] [c d' e'] [f' c A] cro F qua a
 |

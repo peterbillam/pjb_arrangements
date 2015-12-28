@@ -4,7 +4,7 @@ pagenum
 innerhead Eric Satie
 midi channel 0 patch 0
 
-midi off
+# midi off
 
 /
 1 bars | 100

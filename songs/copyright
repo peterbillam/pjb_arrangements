@@ -2,14 +2,14 @@
  / 17 35 17-25-17 / 17 35 17-25-17 / 17 30 17-25-17 /
 title Any Place I Hang my Hat is Home
 lefthead ?
-midi channel1 patch 53
-midi channel2 patch 0
+midi channel 1 patch 53
+midi channel 2 patch 0
 /
 3 bars | 4b 12/8 1 1 1.2 1 1 1 1 1 1.2 1 1 1 | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
 | 4/4 72
-=1  treble 4b 4/4 channel1 vol125 min blank smb rest
-=2  treble 4b 12/8 channel2 min blank smb. rest
-=3 bass 4b 12/8 channel2 leg100 \
+=1  treble 4b 4/4 cha1 vol125 min blank smb rest
+=2  treble 4b 12/8 cha2 min blank smb. rest
+=3 bass 4b 12/8 cha2 leg100 \
  qua [A-s1, e'-s2, f'-s1,] [gb f e] [A e' f'] [gb f e]
 |
 =1 min blank smb rest
@@ -20,7 +20,8 @@ midi channel2 patch 0
 =2' qua [<Gb cb-.> rest <E(2 A(1>] min. <E)2 A)1> cro. rest
 =3  qua [A e' f'] [gb f e] [A e' f'] [gb f e]
 /
-3 bars | 4b 1 1 1.2 1 1 1 1 1 1.2 1 1 1 ||: 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
+3 bars | 4b 1 1 1.2 1 1 1 1 1 1.2 1 1 1 ||: 1 1 1.2 1 1 1 1 1 1.2 1 1 1 \
+ | 1 1 1.2 1 1 1 1 1 1.2 1 1 1 |
 |
 =1 min blank smb rest
 =2' smb. <Cr Dx Gb>
@@ -168,10 +169,10 @@ midi channel 1 patch 0
 /
 4 bars | 4/4 8 | 8 | 8 | 8 |
 | 4/4 4
-=1' treble 4/4 channel0 leg95 cro G_ G_ qua A_ cro C qua A_
+=1' treble 4/4 cha0 leg95 cro G_ G_ qua A_ cro C qua A_
 r0.5 .14 Ol'  .29 man .57 river , .88 dat
-=2 bass 4/4 channel1 smq blank cro <c~ e~> <c~ e~> <c~ e~> <c~ e~>
-=3  bass   4/4 channel1 smq blank cro g g a a
+=2 bass 4/4 cha1 smq blank cro <c~ e~> <c~ e~> <c~ e~> <c~ e~>
+=3  bass   4/4 cha1 smq blank cro g g a a
 |
 =1' cro G_ G_ qua A_ cro C qua D
 r0.5 .02 ol'  .24 man .51 river , .87 he
@@ -346,12 +347,12 @@ r0.5 .01 just .25 keeps .54 rollin'
 =2' min E D
 =3, min <d fn a c~> <G(2 f ax b(1>
 |
-=1 min rest qua rest cro D(2 qua C)2
+=1 min rest qua rest cro D{2 qua C}2
 r0.5 .63 a .86 -
 =2' smb C bass
 =3, smb <G)2 f ax b)1>
 |
-=1 qua D(2 min.. C)2(2
+=1 qua D{2 min.. C}2(2
 r0.5 .03 long .
 =2' cro g g min <f a>
 =2, cro e e er d
@@ -373,28 +374,28 @@ midi pause 4
 /
 4 bars | 2b 4/4 24 | 24 | 24 | 24 |
 | 4/4 103
-=1  treble  4/4 channel3 transpose-2 vol95 \
- qua [a c~] [a a(1] cro. a)1(1 qua ab)1
+=1  treble  4/4 cha3 tra-2 vol95 \
+ qua [a c~] [a a(1] cro. a)1{1 qua ab}1
 r0.9 .02 Clr in Bb
-=2  treble 2b 4/4 vol110 channel1 min blank smb rest
-=3  treble 2b 4/4 channel2 vol90 smb// <E G>
+=2  treble 2b 4/4 vol110 cha1 min blank smb rest
+=3  treble 2b 4/4 cha2 vol90 smb// <E G>
 r0.5 .08 Cm .54 F7
-=4  bass   2b 4/4 channel2 vol90 cro C <c, e g> G_ <c, ex f>
+=4  bass   2b 4/4 cha2 vol90 cro C <c, e g> G_ <c, ex f>
 |
-=1  cro g qua [a ab] [g e(1 d#)1 c(1]
+=1  cro g qua [a ab] [g e{1 d#}1 c(1]
 =2  min blank smb rest
 =3  min.// <E G> cro// <C# F>
 r0.5 .01 Cm .50 F
 =4  cro C <c, e g> F A
 |
-=1  qua c)1 rest qua3 [e d#-I3 e] cro. g qua d#(1
+=1  qua c)1 rest qua3 [e d#-I3 e] cro. g qua d#{1
 =2  min blank smb rest
 =3' cro// <D F> qua3 [F E-I3 F] min B
 =3, cro blank min. D
 r0.5 .01 Bb
 =4  cro B b ab g
 |
-=1  smq [e d qua c)1] qua. [c smq e] cro c rest
+=1  smq [e d qua c}1] qua. [c smq e] cro c rest
 =2  min blank smb rest
 =3 cro D qua [Db C] min B_
 =4' min b
@@ -415,7 +416,7 @@ r0.6 .64 I've got  a
 =3, qua [Cn B_n B_b G_] cro. A_ qua blank
 =4  qua [ab g gb en] min f
 |
-=1  min e(1 eb
+=1  min e{1 eb
 I0.9 .02 p
 =2 cro. F qua F cro En qua rest E
 r0.6 .04 love - sick .49 tale .87 to
@@ -423,7 +424,7 @@ r0.6 .04 love - sick .49 tale .87 to
 r0.1 .01 Bb .50 A
 =4 cro B f A en
 |
-=1 min d cro. c#)1 qua rest
+=1 min d cro. c#}1 qua rest
 =2 cro. Eb qua C# cro. D qua rest
 r0.6 .01 tell .37 to .50 you
 =3 min// <A_b C E> <G_ B_n D>
@@ -438,9 +439,9 @@ lefthead Harold Arlen
  | 1.7 1.7 1.7  2.5 3.2 3.2  1.7 1.7 2.2  3.0 2.5 2.2 \
  | 9 12 | 2 2 2  3.2 2.5 3.2  1.7 1.7 1.7  3.2 2.5 2.2 |
 |
-=1' treble 4/4 min. blank smb rest
+=1' treble 4/4 min. tra0 blank smb rest
 =2' treble 4/4 min rest smq3-s D# blank cro E qua3 [F# G-I3 A]
-=3, bass 4/4 smb <e g bx c~>
+=3, bass   4/4 smb <e g bx c~>
 |
 =1  min. blank smb rest
 =2 cro Bb' qua3 [F# A-I3 Bb'] qua. [c' smq G#] qua3 [A, c-I3 d]
@@ -454,7 +455,7 @@ r0.4 .43 Don't .74 know
 |
 =1 min. G qua3 rest [D#-I3 E]
 r0.4 .01 why .73 there's no
-=2' min B_ <Bb_ Db>
+=2' min B_ <B_b Db>
 =3' min <e g> <e g>
 =3, qua rest, C qua3 [E G-I3, B] cro Bb qua [E Eb]
 /
@@ -470,18 +471,18 @@ r0.4 .01 sun up  in the sky . . . .78 stormy
 =1 qua G cro. G_ min rest
 r0.4 .01 weather . . .
 =2 smb G
-=2, min. blank cro <Bb_x C>
+=2, min. blank cro <B_bx C>
 =3 cro <er gl bx c~l> <e gl bx c~l> <e gl bx c~l> <ebl gb>
 |
 =1 qua [D D(2] qua3 [D)2 D-I3 D] cro D qua3 rest [C-I3 A_]
 r0.4 since my man and I .79 ain't to -
-=2 cro <A_ C> <A_ C> <Ab_ C> <A_n C>
+=2 cro <A_ C> <A_ C> <A_b C> <A_n C>
 =3' cro <d f> <d f> <d f> <d f>
 =3, cro rest, A Ab G
 |
-=1 smq [C(2 A_)2] cro. G_(1 cro. G_)1 qua rest
+=1 smq [C{2 A_}2] cro. G_(1 cro. G_)1 qua rest
 r0.4  -  gether,
-=2 cro <E_ G_ B_> <E_ G_ C> min <F#_ Bb_l Cx>
+=2 cro <E_ G_ B_> <E_ G_ C> min <F_# B_bl Cx>
 =3 qua rest c qua3 [A G-I3 E] qua [Eb c'] qua3 [Ab Gb-I3 Eb]
 /
 3 bars | 24 | 1.7 1.7 1.7  2 2 2.3  1.2 1.2 1.2 2 2.6 2.6 2.0 \
@@ -497,7 +498,7 @@ r0.4 .11 keeps raining all .85 the
 =1 min. G cro rest
 r0.4 .01 time .
 =2' cro rest' qua g cro. G smq3-s G# blank qua3 [A c-I3 eb]
-=2, cro <B_r Cx> <B_r Cx> <Bb_x C> qua3 blank cro <Bb_x C>
+=2, cro <B_r Cx> <B_r Cx> <B_bx C> qua3 blank cro <B_bx C>
 =3 cro <e g> <e g> <ebl g> qua3 blank cro <ebl g>
 |
 =1 min. rest qua [D# E]
@@ -508,9 +509,9 @@ r0.4 .74 Can't go
 /
 3 bars | 24 | 2 2 2  2.1 2.4 2.4  2 2 2  2.2 2 2  | 24 |
 |
-=1 treble min. G qua3 rest [D#-I3(2 E)2]
+=1 treble min. G qua3 rest [D#{2-I3 E}2]
 r0.4 .01 on .78 when
-=2' treble min B_ qua rest cro. <Bb_l Db>
+=2' treble min B_ qua rest cro. <B_bl Db>
 =3' bass min <e g> qua rest' cro. <e g>
 =3, qua rest, D# qua3 [E G-I3, B] cro Bb qua [E Eb]
 |
@@ -523,7 +524,7 @@ r0.4 .01 all I   have is gone . . . .78 stormy
 =1 qua G cro. G_ min rest
 r0.4 .01 weather . . .
 =2 smb G
-=2, min. blank cro <Bb_x C>
+=2, min. blank cro <B_bx C>
 =3 cro <er gl bx c~l> <e gll bx c~l> <e gll bx c~l> <ebl gb>
 
 4 systems 10 /19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/19 40 19-35-19/
@@ -533,13 +534,13 @@ lefthead Stormy Weather, Harold Arlen
 |
 =1 treble qua [D D(2] qua3 [D)2 D-I3 D] cro D qua3 rest [C-I3 A_]
 r0.4 .03 since my .33 man and I .79 ain't to -
-=2 treble cro <A_ C> <A_ C> <Ab_ C> <A_n C>
+=2 treble cro <A_ C> <A_ C> <A_b C> <A_n C>
 =3' bass cro <d f> <d f> <d f> <d f>
 =3, cro rest, A Ab G
 |
-=1 smq [C(2 A_)2] cro. G_(1 cro. G_)1 qua rest
+=1 smq [C{2 A_}2] cro. G_{1 cro. G_}1 qua rest
 r0.4 .01 gether,
-=2 cro <E_ G_ B_> <E_ G_ C> min <F#_ Bb_l Cx>
+=2 cro <E_ G_ B_> <E_ G_ C> min <F_# B_bl Cx>
 =3 qua rest c qua3 [A G-I3 E] qua [Eb c'] qua3 [Ab Gb-I3 Eb]
 |
 =1 qua rest, [F_ A_ C] cro. D# qua E
@@ -551,14 +552,14 @@ r0.4 .11 keeps raining all .85 the
 /
 3 bars | 24 | 2 2 2 2 2 2 2 2 2 2.3 2.3 2 | 24 |
 |
-=1 treble qua E(2 cro. C)2 cro rest C
+=1 treble qua E{2 cro. C}2 cro rest C
 r0.4 .01 time , .75 the
 =2' treble min <E_ A_ C> <G_ C E>
 =3' bass cro c B A G
 |
-=1 qua A_(2 cro. G_)2 min rest
+=1 qua A_{2 cro. G_}2 min rest
 r0.3 .01 time
-=2 min <G_ A_x D> <F#_ Bb_l Cx>
+=2 min <G_ A_x D> <F_# B_bl Cx>
 =3 cro F E qua [Eb c'] qua3 [Ab Gb-I3 Eb]
 | 
 =1 qua rest, [F_ A_ C] cro. D# qua E
@@ -572,9 +573,9 @@ r0.4 .11 keeps raining all .85 the
  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2.3  2.1 2.3 2.1 \
  | 2.3 2 2  2.3 2.3 2.1  2.3 2 2    2.3 2.3 2.1 |
 |
-=1 treble qua E(2 cro. C)2 min rest
+=1 treble qua E{2 cro. C}2 min rest
 r0.4 .01 time .
-=2' treble min <E_ G_ C> qua rest cro. <G_ Bb_ D>
+=2' treble min <E_ G_ C> qua rest cro. <G_ B_b D>
 =3' bass cro A qua [G F] cro E qua3 [C D#-I3, E]
 |
 =1 qua [A_ B_] qua3 [C D-I3 C(2] qua. [C)2 smq C] qua. [C smq C]
@@ -626,20 +627,20 @@ r0.4   - .04 bove .37 will let  me
 =1 cro G qua [E D] cro C qua rest A_
 r0.4 .01 walk .24 in the .49 sun .85 once
 =2' cro G qua [E D] cro C C
-=2, cro G_ qua [G_ G_] cro G_ qua [G_ F#_]
+=2, cro G_ qua [G_ G_] cro G_ qua [G_ F_#]
 =3' cro e qua [c c] cro c c
 =3, cro c qua [G F] cro E Eb
 |
 =1 min D cro rest qua [D# E]
 r0.4 .01 more . .72 Can't go
-=2 min <F_ A_ C> qua A_ cro Ab_ qua G_
+=2 min <F_ A_ C> qua A_ cro A_b qua G_
 =2, min blank <D_ F_>
 =3' cro D qua3 [c A-I3, Ab] cro G G_
 /
 3 bars | 2 2 2 2.2 2.1 2.3 1.8 1.8 1.8  2.3 2.1 2.1 \
  | 2 2 2 2.1 2.3 2.3 1.8 1.8 1.8 2.3 2.1 2 | 6 5.5 5.5 5.5 |
 |
-=1 treble min. G qua3 rest [D#-I3(2 E)2]
+=1 treble min. G qua3 rest [D#{2-I3 E}2]
 r0.4 .01 on .78 when
 =2' treble min B_ <B_bl Db>
 =3' bass min <e g> <e g>
@@ -654,20 +655,20 @@ r0.4 .01 all .12 I .30 have is gone . . . .78 stormy
 =1 qua G cro. G_ min rest
 r0.4 .01 weather . . .
 =2 smb G
-=2, min. blank cro <Bb_x C>
+=2, min. blank cro <B_bx C>
 =3 cro <er gl bx c~l> <e gll bx c~l> <e gll bx c~l> <ebl gb>
 /
 3 bars | 24 | 2 2 2  2.3 2.1 2.3  2 2 2  2.3 2.3 2 | 24 |
 |
 =1 qua [D D(2] qua3 [D)2 D-I3 D] cro D qua3 rest [C-I3 A_]
 r0.4 .03 since my .33 man and I .79 ain't to -
-=2 cro <A_ C> <A_ C> <Ab_ C> <A_n C>
+=2 cro <A_ C> <A_ C> <A_b C> <A_n C>
 =3' cro <d f> <d f> <d f> <d f>
 =3, cro rest, A Ab G
 |
-=1 smq [C(2 A_)2] cro. G_(1 cro. G_)1 qua rest
+=1 smq [C{2 A_}2] cro. G_{1 cro. G_}1 qua rest
 r0.4  gether,
-=2 cro <E_ G_ B_> <E_ G_ C> min <F#_ Bb_l Cx>
+=2 cro <E_ G_ B_> <E_ G_ C> min <F_# B_bl Cx>
 =3 qua rest c qua3 [A G-I3 E] qua [Eb c'] qua3 [Ab Gb-I3 Eb]
 |
 =1 qua rest, [F_ A_ C] cro. D# qua E
@@ -679,7 +680,7 @@ r0.4 .11 keeps raining all .85 the
 /
 3 bars | 2 2 2  1.9 1.9 1.9  1.9 1.9 1.9 2.1 2.3 2 | 24 | 24 ||
 |
-=1 treble qua E(2 cro. G')2 min rest
+=1 treble qua E{2 cro. G'}2 min rest
 r0.4 .01 time ,
 =2' treble min <G_ B_ E> <G_ C E>
 =3' bass cro c B A qua3 [G E-I3, Eb]
@@ -691,7 +692,7 @@ r0.4 .11 keeps raining all .85 the
 =3' min c cro eb d
 =3, cro. D qua A-s3, cro <Abl c> <G B>
 |
-=1 qua E(2 cro. C)2 min rest
+=1 qua E{2 cro. C}2 min rest
 r0.4 .01 time .
 I0.2 .38 ppp
 =2' min rest' qua g cro. G
@@ -799,10 +800,10 @@ lefthead words by Ira Gershwin, music by George Gershwin
 4 bars | 1# 4/4 16 | 1 1 1 1.5  1 1 1 1.5  1 1 1 1  1 1 1 1 \
  | 16 | 1 1 1 1.5  1 1 1 1.5  1 1 1 1  1 1 1 1 |
 |
-=1' treble 1# 4/4 cro G_ G_ G_ G_
+=1' treble 1# 4/4 cha0 cro G_ G_ G_ G_
 r0.4 .14 When .38 the .62 mellow
-=2' treble 1# 4/4 cro <B_ G> <B_ G> <B_ G> <B_ G>
-=3' bass 1# 4/4 cro <G d> <G d> <G d> <G d>
+=2' treble 1# 4/4 cha1 cro <B_ G> <B_ G> <B_ G> <B_ G>
+=3' bass   1# 4/4 cha1 cro <G d> <G d> <G d> <G d>
 |
 =1 qua. F_ smq G_ qua. A_ smq B_ min C
 r0.4 .01 moon begins to beam,
@@ -880,14 +881,14 @@ r0.5 .01 that a dream comes true,
 r0.6 .30 To .52 me .76 it's
 =2' treble 1# cro rest f e d
 =2, 1# cro blank <A d> min <F A>
-=3' bass 1# smq-s g#(2 blank smb a)2
+=3' bass 1# smq-s g#{2 blank smb a}2
 =3, 1# cro rest,, min A cro A
 |
 =1 smb E
 r0.6 .01 clear
 =2' qua. rest'' smq [f qua. g smq f] qua. [a smq g qua. f smq e]
 =2, smb <Gr Bbl c#xll e>
-=3' smq-s g#(2 blank smb a)2
+=3' smq-s g#{2 blank smb a}2
 =3, cro rest,, min A cro A
 |
 =1' cro rest D C B_
@@ -1088,7 +1089,7 @@ r0.6 .14 He'll build a little home,
 =1' qua rest D E D min Fn
 r0.6 .07 just meant for two,
 =2' qua rest' [D E D] min Fn
-=2, min. <B_b Bb> cro <Bb_ Bb>
+=2, min. <B_b Bb> cro <B_b Bb>
 =3' min. <G d> cro <G d>
 |
 =1' qua rest D E D E D cro Fn
@@ -1163,7 +1164,7 @@ lefthead Duke Ellington and Billy Strayhorn
 =2 treble cro <C E Gx A> qua <C E Gx A> cro <C Ex F# A> cro. <C Ex F# A>
 =3 bass   qua [A-s4, B] cro c d' D-s3,
 |
-=1' qua rest cro. Bb_ cro Ab_ qua [B_ G_(2]
+=1' qua rest cro. B_b cro A_b qua [B_ G_(2]
 =2 cro <B_r D# Gbxl Abl> qua <B_r D Gbxl Abl> \
  min <B_ D# F Ab> qua <B_(2 Cx E G(1>
 =3 qua [Eb F] cro Gb-s5, qua [Ab Bb] cro Bn
@@ -1172,7 +1173,7 @@ I0.9        _____________________
 I0.6  1a
 =1 smb G_)2(2
 =2' min <B_)2 Cx E G)1> <C E G B>
-=3 cro c C-s4, B_ Bb_-s4,
+=3 cro c C-s4, B_ B_b-s4,
 |
 =1 min. G_)2 cro rest
 =2' qua rest min. <C# E G B> qua rest
@@ -1193,12 +1194,12 @@ I0.2 .7 Fine
 I0.5 .65 p
 =3 bass   qua [D-.-emph, F#-. G-.-emph, c-.-emph,] cro rest qua [Bb-s3, A]
 |
-=1 cro C qua. [Bb_ smq A_] qua. [G_ smq A_] cro B_
+=1 cro C qua. [B_b smq A_] qua. [G_ smq A_] cro B_
 =2' smb <Gx Bb>
 =2, min <D F> <D Ex>
 =3 cro G qua [A Bb] [c d'] cro c
 |
-=1 cro C qua. [Bb_ smq A_] qua. [G_ smq A_] qua [B_ C(1]
+=1 cro C qua. [B_b smq A_] qua. [G_ smq A_] qua [B_ C(1]
 =2' smb <Gx Bb>
 =2, min <D F> <D Ex>
 =3 cro G qua [A Bb] [c d'] [e,-s2, f(1]
@@ -1239,10 +1240,10 @@ lefthead George Gershwin
 /
 6 bars | 4b 3/4 12 | 12 ||: 12 | 12 | 12 | 12 |
 |
-=1' treble 4b 3/4 min. f-emph(1
+=1' treble 4b tra0 3/4 min. f(1-emph
 =1,        4b 3/4 cro rest, Ab F
 I0.5 .01 pp
-=2' bass   4b 3/4 min c~ cro bn
+=2' bass   4b tra0 3/4 min c~ cro bn
 =2, bass   4b 3/4 min. f
 |
 =1' min. f)1
@@ -1250,7 +1251,7 @@ I0.5 .01 pp
 =2' min bb cro bn
 =2, min. f
 |
-=1' min. f-emph(1
+=1' min. f(1-emph
 =1, cro F Ab F
 =2' min c~ cro bn
 =2, min. f
@@ -1348,7 +1349,7 @@ r0.4 .01 sa  - .34 ri  - .67 ly
 /
 6 bars | 4b 12 | 12 :|| 12 | 12 | 12 | 12 |
 |
-=1' min. f-emph(1
+=1' min. f(1-emph
 =1, cro F Ab F
 I0.9 .01 pp
 r0.4 .10 so   .   .   .
@@ -1371,7 +1372,7 @@ lefthead George Gershwin
 6 bars | 3b 3/4 12 | 12 || Segno 12 | 12 | 12 | 12 |
 | 3/4 90
 =1  treble 3b 3/4 cha1 leg100 min. rest
-=2' treble 3b 3/4 cha2 leg100 min. c-emph(1
+=2' treble 3b 3/4 cha2 leg100 min. c(1-emph
 =2, 3b 3/4 cro rest, Eb C
 I0.5 .01 pp
 =3' bass 3b 3/4 cha2 leg100 min g cro f#
@@ -1384,7 +1385,7 @@ I0.5 .01 pp
 =3, min. c
 |
 =1  min. rest
-=2' min. c-emph(1
+=2' min. c(1-emph
 =2, cro C Eb C
 =3' min g cro f#
 =3, min. c
@@ -1506,7 +1507,7 @@ I0.9 .01 pp
 =3, min. c
 |
 =1  min. rest
-=2' min. c-emph(1
+=2' min. c(1-emph
 =2, cro C Eb C
 =3' min g cro f#
 =3, min. c
@@ -1624,7 +1625,7 @@ I0.9 .01 pp
 =3, min. c
 |
 =1  min. rest
-=2' min. c-emph(1
+=2' min. c(1-emph
 =2, cro C Eb C
 =3' min g cro f#
 =3, min. c
@@ -1724,7 +1725,7 @@ lefthead George Gershwin
 =3' min e~b cro b b
 =3, cro a a min d
 |
-=1 cro rest qua [F E] [F(2 G)2] cro E
+=1 cro rest qua [F E] [F{2 G}2] cro E
 =2' min <Eb Gx A> Br
 =2, min blank cro Abl G
 =3' cro c~ c~ d~ e~b
@@ -1737,24 +1738,24 @@ lefthead George Gershwin
 /
 5 bars | 2 2 2 2 2 2 3 2 | 2 2 3 2 2 2 2 2 | 16 | 16 | 16 :||
 |
-=1 treble 3b cro rest C C qua [B_ Bb_(2]
+=1 treble 3b cro rest C C qua [B_ B_b(2]
 =2' treble cro G A B c
 =2, min Eb <Eb G>
 I0.6 .6 f
 =3' bass cro c~ c~ blank c~
 =3, min <eb a> a
 |
-=1 cro Bb_)2 qua [G_ Bb_] C cro E qua rest
+=1 cro B_b)2 qua [G_ B_b] C cro E qua rest
 =2' min <Eb G Bb> <C Eb G>
 =3' cro rest'' min g cro g
 =3, min <Eb eb> <C c>
 |
-=1 qua Gb(2 cro. F)2 cro E C
+=1 qua Gb{2 cro. F}2 cro E C
 =2' min <Eb Gx A> <F Ax B>
 =3' cro rest'' min c~ cro e~b
 =3, min <F f> <G g>
 |
-=1 qua E(2 min.. C)2
+=1 qua E{2 min.. C}2
 =2' min <Eb G c> <F A>
 I0.3 .1 p
 =3 min a b
@@ -1793,7 +1794,7 @@ rl0.9 .01 F7 .50 E7b9
 =1' qua rest cro. G-emph cro G-. G-.
 |
 rl0.9 .01 Eb7 .25 E7b9  F6
-=1' cro G-ten qua [G G-emph(2] min G)2
+=1' cro G-ten qua [G G(2-emph] min G)2
 /
 4 bars | 6 | 8 | 6 | 7 |
 |
@@ -1828,13 +1829,13 @@ rl0.8 .01 Gm7
 =1' treble cro. rest qua E [G E G B(2]
 |
 rl0.8 .01 Bbm(maj7)
-=1' qua B)2 cro. B qua3 rest rest-I3 B' [G(2 Eb-I3 C)2]
+=1' qua B)2 cro. B qua3 rest rest-I3 B' [G{2 Eb-I3 C}2]
 |
 rl0.8 .01 F6
 =1' cro B_ qua rest E [G E G B(2]
 |
 rl0.8 .01 G9
-=1  min B')2 qua3 rest rest-I3 B' [G(2 E-I3 C#)2]
+=1  min B')2 qua3 rest rest-I3 B' [G{2 E-I3 C#}2]
 /
 4 bars | 8 | 8 | 8 | 8 |
 |
@@ -1848,7 +1849,7 @@ rl0.9 .01 F7 .50 E7b9
 =1' qua rest cro. G-emph cro G-. G-.
 |
 rl0.9 .01 Eb7  E7b9 F6
-=1' cro G-ten qua [G G-emph(2] min G)2
+=1' cro G-ten qua [G G(2-emph] min G)2
 /
 4 bars | 24 | 2 2 2 2 2 2 2.5 3.3 2.5 2.5 2.5 2.5 | 24 | 24 ||
 |
@@ -1856,7 +1857,7 @@ rl0.9 .01 F7 .50 E7b9
 =1' treble qua rest cro. G-emph cro G-. G-.
 |
 rl0.9 .01 Eb7  E7b9 F6
-=1  cro G-ten qua [G G-emph] qua3 rest rest-I3 A# [B,(1 d-blank-I3 e)1]
+=1  cro G-ten qua [G G-emph] qua3 rest rest-I3 A# [B,{1 d-blank-I3 e}1]
 |
 rl0.9 .01 F7 .50 E7b9
 =1  qua g-. cro. g-emph cro g-. g-.
@@ -1911,7 +1912,7 @@ r0.6 since my man and I .79 ain't to -
 =3' cro <f ab> <f ab> <f ab> <f ab>
 =3, cro rest, c B Bb
 |
-=1 smq [F(2 D)2] cro. C(1 cro. C)1 qua rest
+=1 smq [F{2 D}2] cro. C(1 cro. C)1 qua rest
 r0.6  -  gether,
 =2 cro <G_ B_b D> <G_ B_b Eb> min <A_ Dbl Ebx>
 =3 qua rest eb qua3 [c Bb-I3 G] qua [F# eb'] qua3 [Bn A-I3 F#]
@@ -1939,7 +1940,7 @@ r0.6 .75 Can't go
 /
 4 bars | 24 | 24 | 24 | 24 |
 |
-=1  treble min. c qua3 rest [G#-I3(2 A)2]
+=1  treble min. c qua3 rest [G#{2-I3 A}2]
 r0.6 .01 on .78 when
 =2' treble min D <C# E>
 =3' bass   min <g bb> <g bb>

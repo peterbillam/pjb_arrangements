@@ -1,10 +1,15 @@
-head	1.1;
+head	1.2;
 access;
 symbols;
 locks
-	pjb:1.1; strict;
+	pjb:1.2; strict;
 comment	@# @;
 
+
+1.2
+date	2015.12.27.03.22.53;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2005.12.14.09.40.29;	author pjb;	state Exp;
@@ -17,9 +22,9 @@ desc
 @
 
 
-1.1
+1.2
 log
-@Initial revision
+@update syntax
 @
 text
 @% stop
@@ -39,7 +44,7 @@ Il0.6        Largetto
 =3' bass  1b 3/4 cha2 min f cro rest
 |
 =1 min. c(1
-=2' cro rest qua [A_(2 C)2 B_(2 E)2]
+=2' cro rest qua [A_{2 C}2 B_{2 E}2]
 =3, cro rest F G
 |
 =1 cro c)1 c d
@@ -47,7 +52,7 @@ Il0.6        Largetto
 =3' cro A A B
 |
 =1 min e cro f
-=2' cro <C E G> qua [E(2 G)2 F(2 B)2]
+=2' cro <C E G> qua [E{2 G}2 F{2 B}2]
 =3, cro c c d
 |
 il0.7 .15 5
@@ -59,7 +64,7 @@ il0.7 .15 5
 |
 =1, cro b g c~
 =2' cro <F)2 B d)1> min <G c>
-=2, cro blank Fr(2 E)2
+=2, cro blank Fr{2 E}2
 =3 cro g c~ c
 |
 =1 cro. a qua g cro leg140 f
@@ -67,7 +72,7 @@ il0.7 .15 5
 =3  cro f c d
 |
 =1 qua rest leg95 g cro G qua. [A smq B']
-=2' qua rest <Dr Fx G(1> min <C G)1>
+=2' qua rest <D F Gx(1> min <Cr G)1>
 =2, cro blank F E
 =3 cro B c C
 |
@@ -77,13 +82,13 @@ il0.7 .15 5
 |
 il0.7 .15 10
 =1 min. c(1
-=2' cro rest qua [A_(2 leg55 B_)2 leg85 B_(2 leg55 C)2]
+=2' cro rest qua [A_{2 leg55 B_}2 leg85 B_{2 leg55 C}2]
 =3, cro rest F G
 /
 4 bars | 1b 12 | 12 | 12 |
 |
 =1 cro c)1 c d
-=2 cro leg85 C smq [C(2 D)2 E F] qua [D G]
+=2 cro leg85 C smq [C{2 D}2 E F] qua [D G]
 =3' cro A A B
 |
 =1 min e cro f
@@ -104,7 +109,7 @@ il0.7 .15 10
 |
 il0.7 .15 15
 =1 cro f cro. d-tr qua c
-=2' cro <D A c> c(1 Bn)1
+=2' cro <D A c> c{1 Bn}1
 =2, cro blank min <D G>
 =3 cro f g G
 |
@@ -118,7 +123,7 @@ il0.7 .15 15
 =3 cro a A B
 |
 =1 qua. [e smq d] cro c rest
-=2' cro. <E G> qua [E(2 F Bn)2]
+=2' cro. <E G> qua [E{2 F Bn}2]
 =3 cro c c d
 |
 =1 cro rest c~ a
@@ -255,14 +260,15 @@ il0.7 .15 40
 =2' min. <C G c e>
 =3 min. c
 
-5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+5 systems /13 25 20-32-20/13 25 20-35-20/13 25 20-30-20 \
+ /13 25 20-30-20/13 25 20-39-20 8/
 pagenum
 innerhead Flute Sonata No. 4 in F major, G. F. Haendel
 leftfoot Arrangement (c) 2005 Peter J Billam
 midi channel 1 patch 74
 midi channel 2 patch 6
 /
-4 bars | 1b 4/4 3 | 12 | 12 |
+4 bars | 1b 4/4 4 | 16 | 16 | 16 |
 | 1/8 105
 Il0.6        Allegro
 =1 treble 1b 4/4 cha1 leg75 qua c
@@ -282,7 +288,7 @@ Il0.6        Allegro
 =2, min blank qua blank B_ cro C
 =3, qua [f leg90 c leg70 d leg90 B] leg70 [c leg90 g leg70 a leg90 e]
 /
-3 bars | 1b 16 | 16 | 16 |
+3 bars | 1b 4 4 3 4 | 4 3 4 4 | 1 1 1 1 1 1 1 1 1 1 1 1.5 1 1 1 1 |
 |
 =1 qua [a e f g] [e smq f g qua leg60 c leg85 b]
 =2' qua [<C A> <E G>] [F smq E D] cro E qua [F G]
@@ -290,10 +296,10 @@ Il0.6        Allegro
 =3, qua leg70 [f leg90 c~ leg70 d~ leg90 b] leg70 [c~ leg90 g leg70 a leg90 e]
 |
 il0.7 .15 5
-=1 qua [a smq g f] qua. e smq f] cro f qua rest a
+=1 qua [a smq g f] qua. [e smq f] cro f qua rest a
 =2' qua [A smq B A] cro <E G> smq [F c B c] [A c B c]
 =2, qua [C D] min. blank
-=3' qua leg70 [f B c C] [F f a f]
+=3  qua leg70 [f B,] [c C] [F f' a' f']
 |
 =1 smq [g c~ b c~] [g c~ b c~] [f d~ c~ d~] [bn c~ a b]
 =2' min c(1 qua [c)1 smq d c] cro <G Bn>
@@ -308,7 +314,7 @@ il0.7 .15 5
 |
 =1 smq [e c d e] [f d e f] [g e f g] [c g f g]
 =2' qua. [E smq G] qua. [F smq Bn] min c
-=2, min blank qua leg90 [G F leg70 G E]
+=2, min blank qua leg90 [G F] leg70 [G E]
 =3, qua [c~ leg90 c leg70 d d~] leg90 [e~ d~ leg70 e~ c~]
 |
 =1 smq [a f e f] [d a g a] [bn g f g] [e g a b]
@@ -316,9 +322,9 @@ il0.7 .15 5
 =2, cro. blank qua D(2 cro D)2  qua blank qua E(2
 =3 cro f qua rest leg90 d cro leg70 g qua rest leg90 e
 /
-3 bars | 1b 16 | 16 | 16 |
+2 bars | 1b 16 | 16 |
 |
-il0.7 .15 10
+il0.8 .12 10
 =1 smq [c~ a bn g] [a f g e] cro. leg70 f qua leg80 d~
 =2' cro <A c> qua rest leg90 <E A c> cro leg70 <F A d> blank
 =2, cro E)2 min blank smq [G Bn d f]
@@ -328,31 +334,31 @@ il0.7 .15 10
 =2' min blank cro. f qua g
 =2, qua [<G e> <G c> <A d> <Bn d>] [c smq B A] qua [B d]
 =3, qua [c~ leg90 e f g] leg70 [a d~ g leg90 bn]
+/
+3 bars | 1b 16 | 16 | 16 :||
 |
 =1 qua [e smq d c] qua [Bn, c] cro. F qua f
 =2' cro blank <D G Bn> cro. F qua G
 =2, qua [<c e> <A d>] cro blank qua [C smq B_n A_] qua [B_ D]
 =3 qua leg70 [c~ leg90 f leg70 g leg90 G,] leg70 [A d' G Bn]
-/
-3 bars | 1b 16 | 16 | 16 |
 |
 =1 qua [e smq d c] qua [Bn bn] [c~ smq b a] qua [g f]
 =2' qua [G smq F E] cro leg60 <B_n D> <C F> <D G>
 =2, qua [E A_] min. blank
-=3 qua [c leg90 f' leg70 g' leg90 G] leg70 [A, leg90 a leg70 bn leg90 Bn,]
+=3 qua [c, leg90 f] leg70 [g' leg90 G] leg70 [A, leg90 a leg70 bn leg90 Bn,]
 | 7/8 210
 =1 qua [e smq d c] qua [G Bn'] cro. c
 =2' qua [<E G> <F A>] cro <B_n D G> cro. <C E G>
 =3  qua leg70 [c leg90 f' leg70 g' G] cro. c
 
-5 systems 08 /13 25 20-40-20/13 25 20-30-20 \
- / 13 25 20-30-20/ 13 25 20-30-20/13 25 20-35-20 15/
+5 systems 08 /13 25 20-32-20/13 25 20-28-20 \
+ / 13 25 20-35-20/ 13 25 20-30-20/13 27 20-32-20 15/
 pagenum
 innerhead Flute Sonata No. 4 in F major, G. F. Haendel
 leftfoot Arrangement (c) 2005 Peter J Billam
 midi pause .07
 /
-4 bars | 1b 2.8 | 16 | 16 |
+4 bars ||: 1b 2.8 | 16 | 16 | 1 1 1 1 1 1 1 1.6 1 1 1 1 1 1.6 1 1 |
 | 1/8 210
 =1 cha1 leg75 qua g
 =2 cha2 leg70 qua rest
@@ -372,16 +378,18 @@ il0.7 .15 15
 =2 qua <G B'> rest rest smq [g f] [eb d c B,] [A G qua F#]
 =3 qua leg70 [g leg90 d~ leg70 e~b leg90 b] leg70 [c~ a f# d]
 /
-3 bars | 1b 16 | 16 | 16 |
+2 bars | 1b 16 | 16 |
 |
 =1 qua [b smq a g] qua. [f#-tr smq g] cro g smq rest [g a b]
-=2' qua <D G> <Eb A> cro <F# A> <B_ D G> qua rest <D B>
+=2' qua [<D G> <Eb A>] cro <F# A> <B_ D G> qua rest <D B>
 =3, qua [g leg90 c~ leg70 d~ d] [g a b g]
 |
 =1 smq [c~ e f g] [c g a b] [a c d e] leg95 [f e leg80 f c]
 =2' min. c qua rest <C F>
 =2, qua leg90 [G F leg70 G E] cro A blank
 =3  qua leg90 [e d, leg70 e c,] cro f qua rest A
+/
+3 bars | 1b 16 | 16 | 16 |
 |
 il0.7 .15 20
 =1 smq [d f g a] [b a g f] [e d qua c] smq rest [f e f]
@@ -397,6 +405,8 @@ il0.7 .15 20
 =2' cro <D F A> qua rest leg90 <D G B> \
  cro leg70 <C G c> qua rest leg90 <E G c>
 =3 cro d qua rest leg90 g cro leg70 e qua rest leg90 c
+/
+3 bars | 1b 16 | 16 | 16 |
 |
 =1, smq [a g a f] [d~ c~ d~ f] [g f g e] [c~ b c~ e]
 =2' cro <F A c> qua rest leg90 <F A d> cro leg70 <G d> qua rest leg90 <G c>
@@ -412,6 +422,8 @@ il0.7 .15 25
 =2' qua [<C F A> <D G>] cro <E G> cro. B qua B
 =2, min blank qua [F smq E D] qua [E C]
 =3, qua [f leg90 b leg70 c~ leg90 c] leg70 [d g c e]
+/
+3 bars | 1b 16 | 16 | 8 6 :||
 |
 =1, qua [A f G e] cro. b smq [a g]
 =2' qua [<C A> <C F>] [<D G> <E G>] cro. B qua <G B>
@@ -426,14 +438,16 @@ il0.7 .15 25
 =2' qua [<F A c> <C F> <D G> <C E G>] cro. <A_ C F>
 =3' qua [f A B c] cro. F
 
-5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+5 systems /13 25 19-30-19/13 25 19-35-19/13 25 19-33-19 10 \
+ /13 25 20-30-20/13 25 20-35-20/
 pagenum
 innerhead Flute Sonata No. 4 in F major, G. F. Haendel
 leftfoot Arrangement (c) 2005 Peter J Billam
 midi channel 1 patch 74
 midi channel 2 patch 6
 /
-3 bars | 1b 4/4 12 | 12 | 12 |
+3 bars | 1b 4/4 2 2 2  2 2 2  2 2 2.3  2 2 2 | 2 2 2  2 2 2  2 2 2.3  2 2 2 \
+ | 1 1 1 1 1 1  1 1 1 1 1.3 1.3  1 1 1 1 1 1 1 1 1 1.5 1 1 |
 | 12/8 .52 .5 .5  .52 .51 .5  .52 .5 .5  .51 .5 .5
 Il0.6        Alla Siciliana
 =1 treble 1b 12/8 cha1 leg90 \
@@ -446,22 +460,25 @@ Il0.6        Alla Siciliana
 =1 qua. [f smq g qua f] cro leg70 c~ leg90 qua f \
  cro leg98 f qua e cro rest qua a
 =2 cro <A, cn f> qua <B_ E> cro <C F> qua <D G(1> \
- cro <F Gx)1> cro. <E G> qua <F A(1>
+ cro <F Gx)1> cro. <E G> qua <F(2 A>
 =3 cro f qua g cro a qua b cro c~ qua c cro c~ qua f
 |
 =1 leg90 cro d qua c# qua. [d smq f qua e] cro. c# cro d qua e
-=2 cro <F A)1 d'> qua <G(2 c#'> cro <G)2 d'> qua <D B'> \
- cro. <C# E A> qua. [D smq A qua c#']
+=2 cro <F(2 A d'> qua <G(2 c#'> cro <G)2 d'> qua <D B'> \
+ cro. <C# E A> qua. [D smq A qua c']
 =3 cro b qua a cro b qua g cro a qua g cro f qua e
 /
-4 bars | 1b 4/4 12 | 12 | 12 |
+4 bars | 1b 2 2 2 1.8 1.8 2.6 1.8 1.8 2.1 2 2 2 \
+ | 2 2 2 1.8 1.8 2.6 1.8 1.8 2.3 1.8 1.8 2 \
+ | 2 2 2.8 2 2 2.6 2 2 2.1 2 2 2 \
+ | 1.7 1.7 2.6 1.7 1.7 1.7 1.7 1.7 2.2 1.7 1.7 1.7 |
 |
-=1 qua [f(1 e)1 g] qua. [f smq e qua d] cro. d cro rest qua g
-=2' qua [<F d> A <D(2 G>] cro <D)2 F> qua <C# E> D rest F cro. Gr
+=1 qua [f{1 e}1 g] qua. [f smq e qua d] cro. d cro rest qua g
+=2' qua [<F d> A <D(2 G>] cro <D)2 F> qua <C# E> cro D-., qua F cro. Gr
 =2, min. blank cro. blank cro F qua E
 =3  cro d qua b cro a qua A cro d qua d~ cro b qua c~
 | 12/8 .53 .52 .52  .52 .51 .5  .52 .5 .5  .51 .5 .5
-=1 qua [a(1 g)1 b] qua. [a smq g qua f] cro. f cro. rest
+=1 qua [a{1 g}1 b] qua. [a smq g qua f] cro. f cro. rest
 =2' qua [<C A> G <F(2 B>] cro <C F)2 A> qua <B_ E G> \
  cro <A_ F> qua C cro <A_ D> qua <D F A>
 =3  qua [f e d,] cro c qua C cro F qua a cro f qua d
@@ -476,21 +493,24 @@ Il0.6        Alla Siciliana
 =2' cro. <F B d)1> <E c> <E A c> <D B>
 =3 cro g qua G cro. c cro rest qua f cro. b
 /
-4 bars | 1b 4/4 12 | 12 | 12 | 6 ||
+4 bars | 1b 1 1 1 1 1 1  1 1 1 1 1.2 1.2  1 1 1 2.4 1 1  1 1 1 1.6 1 1 \
+ | 2 2 2  2 2 2  2 2 2  3 2 2 \
+ | 1.3 1.3 1 1 1 1   1.6 1.6 1 1 1 1  1 1 1 1 1 1  1 1 1 1.5 1.5 1.5 \
+ | 10 ||
 |
 =1 cro. g(1 qua. [g)1 smq b qua a] qua. [f smq e qua d] cro rest qua a
 =2' cro. <D G B> cro <C# A> qua E qua. [F smq A qua c#] cro. d
 =2, min. blank cro. blank qua. [A smq G qua F]
 =3 cro rest qua e cro a qua c# cro d qua e qua. [f smq e qua d]
 | 12/8 .53 .52 .52  .52 .51 .5  .52 .5 .5  .52 .52 .52
-=1 qua [e f g] qua. [f smq e qua d] cro leg70 d qua leg90 g [g(1 f#)1 c~]
+=1 qua [e f g] qua. [f smq e qua d] cro leg70 d qua leg90 g [g{1 f#}1 c~]
 =2' qua [B A G] cro <D F> cro A G qua G cro F#
-=2, cro. D cro blank qua <C# E> cro. <D F> <Cn Eb>
+=2, cro. D cro blank qua <C# E> cro. <D F> <Cnl Eb>
 =3 qua [g a b] cro a qua A cro. B A
 | 12/8 .54 .54 .55 .56 .57 .58 .59 .60 .61 .62 .63 .64
-=1 qua [c~(1 leg80 b)1 leg90 d] [d(1 leg80 c#)1 leg90 a] \
+=1 qua [c~{1 leg80 b}1 leg90 d] [d{1 leg80 c#}1 leg90 a] \
  cro d~ qua f cro. g-tr
-=2' qua A cro B cro. <Er A> <D A> qua. [G smq F E D]
+=2' qua A cro B cro. <Ex A> <D A> qua. [G smq F E D]
 =2, cro. <D Gr> qua D cro C# cro. blank D
 =3  cro. G A min. B
 |
@@ -499,7 +519,9 @@ Il0.6        Alla Siciliana
 =3 smb. A
 
 /
-4 bars | 1b 4/4 12 | 12 | 12 |
+4 bars | 1b 4/4 .9 .9 .9 .9 .9 1.2 .8 .8 .8 .8 .8 .8 \
+ | .9 .9 .9 .9 .9 .9 1.1 1 1 1 1 1 \
+ | .9 .9 1.2 .9 .9 1.2 1 1 1 1 1 1 | .9 .9 1.2 .9 .9 1.1 1 1 1 1 1 1 |
 | 12/8 .19 .15 .17 .19 .15 .17 .19 .15 .17 .19 .15 .17
 Il0.6        Allegro
 =1, treble 1b 12/8 cha1 leg85 qua [f a f] [c A c] leg80 [f a f] [c A c]
@@ -507,7 +529,7 @@ Il0.6        Allegro
 =3 bass   1b 12/8 cha2 leg85 cro. f e d a
 |
 =1 qua leg85 [g b g] [e c e] [a g f] cro rest qua a
-=2 cro. <D F Gx(2> <E G)2> A rest
+=2 cro. <D F Gx(1> <E G)1> A rest
 =3 cro. b c~ qua [f~ c~ a] [f a f~]
 |
 =1 qua [g a b] [c~ b c~] cro. f cro rest qua f
@@ -518,7 +540,9 @@ Il0.6        Allegro
 =2' cro. <E G> <E A> <D F B> cro rest qua D
 =3, cro d~ qua d~ cro c~ qua c~ [b f d] [B f b]
 /
-4 bars | 1b 12 | 12 | 12 |
+4 bars | 1b .9 .9 1 .9 .9 1 .9 .9 1 .9 .9 1 \
+ | .9 .9 1 1 1 1  .9 .9 1 1 1 1 | .8 .8 .8 .9 .9 .9 .8 .8 .8 .9 .9 1 \
+ | .9 .9 1.2 .9 .9 1.2 1 1 1 .8 .8 .8 :||
 |
 =1 qua [c d e] [f g a] [b a g] [a g f]
 =2' cro. leg60 E F G A
@@ -534,7 +558,7 @@ Il0.6        Allegro
 =2, min. blank cro. blank cro G qua A
 =3 cro. f a g cro e qua f
 |
-=1 qua [g(1 f)1 e] [f e d] min. leg70 c leg85
+=1 qua [g{1 f}1 e] [f e d] min. leg70 c leg85
 =2' cro <G Bn> cro. <G c> qua <F B> [c G E] cro. C
 =2, cro blank qua E cro. D min. blank
 =3 cro g qua c cro g qua G min. c
@@ -544,6 +568,9 @@ innerhead Flute Sonata No. 4 in F major, G. F. Haendel
 leftfoot Arrangement (c) 2005 Peter J Billam
 midi channel 1 patch 74
 midi channel 2 patch 6
+/
+4 bars ||: 1b 1 1 1 1 1 1  1 1 1.3 1 1 1 | 1 1 1 1 1 1 1 1 1.7 1.1 1.1 1.1 \
+ | 12 | 1 1 1 1 1 1 1.2 1.1 1.1 1.1 1.1 1.1 |
 |
 =1, qua [c e g] [e c G] [c e g] [c~ g e]
 =2  min. <E G> cro rest qua C(2 cro. <C)2 G>
@@ -558,15 +585,19 @@ midi channel 2 patch 6
 =3 cro. f e d a
 |
 =1 qua leg85 [g b g] [e c e] [a g f] cro rest qua a
-=2 cro. <D F Gx(2> <E G)2> A cro rest qua <F A>
+=2 cro. <D F Gx(1> <E G)1> A cro rest qua <F A>
 =3 cro. b c~ qua [f~ c~ a] [f a f~]
+/
+4 bars | 1b 1 1 1 1 1 1.2  1 1 1 1 1 1.1 | 1 1 1 1 1 1.7 1 1 1 1 1 1 \
+ | 1 1 1.1 1 1 1.3 1.1 1.7 1.6 1.1 1.2 1.1 \
+ | 1.1 1.7 1.1 1.7 1.1 1.3  1.1 1.1 1.1 1.1 1.1 1.1 |
 |
-=1 qua [b(1 a)1 g] [f e d] cro leg70 c# qua leg85 b cro. a(1
+=1 qua [b{1 a}1 g] [f e d] cro leg70 c# qua leg85 b cro. a(1
 =2' cro. B(1 cro B)1 qua G cro. <C# E A> cro rest qua leg95 <F A(1>
 =2, min. D blank
 =3  cro. g B A cro rest qua leg95 d~
 |
-=1 cro a)1 smq3 [g(1 a b] cro. a)1(1 cro a)1 smq3 [g(1 a b] cro a)1 qua g
+=1 cro a)1 smq3 [g{1 a b] cro. a}1(1 cro a)1 smq3 [g{1 a b] cro a}1 qua g
 =2' cro. leg85 <E A)1> cro rest qua leg95 <F A(1> \
  cro. leg85 <E A)1> cro rest qua <A c#>
 =3 cro. leg85 c~# cro rest qua leg95 d~ cro. leg85 c~# cro rest qua a
@@ -579,15 +610,17 @@ midi channel 2 patch 6
 =1 cro e qua d~ cro d~ qua d~ [d~ c~ bn] cro leg70 c~ qua leg85 c~
 =2' cro. d(1 cro d)1 qua d min. c
 =2, cro. Bn(2 cro B)2 qua B cro. leg95 Br leg85 A
-=3, qua [g# a bn] [e f# g] [a(1 e)1 c] [A e a]
+=3, qua [g# a bn] [e f# g] [a{1 e}1 c] [A e a]
+/
+4 bars | 1b 12 | 12 | 5.5 6 | .9 .9 1 .9 .9 1 .9 .9 1 .9 .9 1 |
 |
 =1 cro d qua c~ cro c~ qua c~ [c~ bb a] cro leg70 b qua leg85 b
 =2' cro. c(1 cro c)1 qua c min. B
 =2, cro. A(2 cro A)2 qua A cro. leg95 Ar leg85 G
-=3  qua [f# g a] [d e f] [g(1 d,)1 B,] [G d' g']
+=3  qua [f# g a] [d e f] [g{1 d,}1 B,] [G d' g']
 |
 =1 cro c qua b cro b qua b [b a g] [a b c~]
-=2' cro. B(1 cro B)1 qua B cro. A(1 cro A)1 qua F
+=2' cro. B{1 cro B}1 qua B cro. A(1 cro A)1 qua F
 =2, cro. G(2 cro G)2 qua G cro. Gr cro F qua blank
 =3  qua [e f g] [c d' e'] [f' c A] cro F qua a
 |
@@ -600,6 +633,10 @@ midi channel 2 patch 6
 =2' cro. leg65 F G E F
 =2, min. leg85 D C
 =3 cro c~ qua c~ cro b qua b cro b qua b cro a qua a
+/
+4 bars | 1b .9 .9 1 .9 .9 1.1 1.1 1 1 1 1.1 1 \
+ | .9 .9 1.1 .9 .9 1.1 1 1 1 1 1 1 | .9 .9 1.1 .9 .9 1.1 1 1 1 1 1 1 \
+ | .9 .9 1 .9 .9 1 .9 .9 1 .9 .9 1 |
 |
 =1, qua [b c~ d~] [c~ d~ b] cro. a cro rest qua a
 =2' cro. <F B> <G c> min. <A c>
@@ -617,6 +654,10 @@ midi channel 2 patch 6
 =2' cro. leg60 E F G A
 =2, leg85 min C blank
 =3 cro b qua b cro a qua a cro g qua e~ cro f qua d~
+/
+4 bars | 1b .9 .9 1 .9 .9 1 .9 .9 1 1 1 1 | 1 1 1 1 1 1.3 1 1 1 1 1 1 \
+ | 1 1 1  .9 .9 1 .9 .9 1 .9 .9 1 \
+ | .9 .9 1 .9 .9 1.2 .8 .8 .8 .8 .8 .8 :||
 |
 =1 qua [g f e] [f e d] [e d leg60 c] leg85 [f g a]
 =2 cro. G F E leg85 F
@@ -634,9 +675,163 @@ midi channel 2 patch 6
 | 6/8 .19 .18 .21 .20 .19 .22 .20 .19 .22 .21 .20 .23
 =1 qua [g e f] [c f e] min. f
 =2' cro <D G> qua <B_ F> cro <G_ F> qua <C E> min. <A_ C F>
-=3 qua cro B qua d' cro c qua C min. F
+=3 cro B qua d' cro c qua C min. F
 
 
 
 % stop
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d18 1
+a18 1
+=2' cro rest qua [A_(2 C)2 B_(2 E)2]
+d26 1
+a26 1
+=2' cro <C E G> qua [E(2 G)2 F(2 B)2]
+d38 1
+a38 1
+=2, cro blank Fr(2 E)2
+d46 1
+a46 1
+=2' qua rest <Dr Fx G(1> min <C G)1>
+d56 1
+a56 1
+=2' cro rest qua [A_(2 leg55 B_)2 leg85 B_(2 leg55 C)2]
+d62 1
+a62 1
+=2 cro leg85 C smq [C(2 D)2 E F] qua [D G]
+d83 1
+a83 1
+=2' cro <D A c> c(1 Bn)1
+d97 1
+a97 1
+=2' cro. <E G> qua [E(2 F Bn)2]
+d234 2
+a235 1
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+d242 1
+a242 1
+4 bars | 1b 4/4 3 | 12 | 12 |
+d262 1
+a262 1
+3 bars | 1b 16 | 16 | 16 |
+d270 1
+a270 1
+=1 qua [a smq g f] qua. e smq f] cro f qua rest a
+d273 1
+a273 1
+=3' qua leg70 [f B c C] [F f a f]
+d288 1
+a288 1
+=2, min blank qua leg90 [G F leg70 G E]
+d296 1
+a296 1
+3 bars | 1b 16 | 16 | 16 |
+d298 1
+a298 1
+il0.7 .15 10
+d308 2
+a314 2
+/
+3 bars | 1b 16 | 16 | 16 |
+d319 1
+a319 1
+=3 qua [c leg90 f' leg70 g' leg90 G] leg70 [A, leg90 a leg70 bn leg90 Bn,]
+d325 2
+a326 2
+5 systems 08 /13 25 20-40-20/13 25 20-30-20 \
+ / 13 25 20-30-20/ 13 25 20-30-20/13 25 20-35-20 15/
+d332 1
+a332 1
+4 bars | 1b 2.8 | 16 | 16 |
+d352 1
+a352 1
+3 bars | 1b 16 | 16 | 16 |
+d355 1
+a355 1
+=2' qua <D G> <Eb A> cro <F# A> <B_ D G> qua rest <D B>
+d362 2
+d379 2
+d396 2
+d412 2
+a413 1
+5 systems /13 25 20-40-20/13 25 20-35-20/13 25 20-30-20/13 25 20-30-20/13 25 20-35-20/
+d420 2
+a421 1
+3 bars | 1b 4/4 12 | 12 | 12 |
+d434 1
+a434 1
+ cro <F Gx)1> cro. <E G> qua <F A(1>
+d438 2
+a439 2
+=2 cro <F A)1 d'> qua <G(2 c#'> cro <G)2 d'> qua <D B'> \
+ cro. <C# E A> qua. [D smq A qua c#']
+d442 4
+a445 1
+4 bars | 1b 4/4 12 | 12 | 12 |
+d447 2
+a448 2
+=1 qua [f(1 e)1 g] qua. [f smq e qua d] cro. d cro rest qua g
+=2' qua [<F d> A <D(2 G>] cro <D)2 F> qua <C# E> D rest F cro. Gr
+d452 1
+a452 1
+=1 qua [a(1 g)1 b] qua. [a smq g qua f] cro. f cro. rest
+d467 4
+a470 1
+4 bars | 1b 4/4 12 | 12 | 12 | 6 ||
+d477 1
+a477 1
+=1 qua [e f g] qua. [f smq e qua d] cro leg70 d qua leg90 g [g(1 f#)1 c~]
+d479 1
+a479 1
+=2, cro. D cro blank qua <C# E> cro. <D F> <Cn Eb>
+d482 1
+a482 1
+=1 qua [c~(1 leg80 b)1 leg90 d] [d(1 leg80 c#)1 leg90 a] \
+d484 1
+a484 1
+=2' qua A cro B cro. <Er A> <D A> qua. [G smq F E D]
+d493 3
+a495 1
+4 bars | 1b 4/4 12 | 12 | 12 |
+d503 1
+a503 1
+=2 cro. <D F Gx(2> <E G)2> A rest
+d514 3
+a516 1
+4 bars | 1b 12 | 12 | 12 |
+d532 1
+a532 1
+=1 qua [g(1 f)1 e] [f e d] min. leg70 c leg85
+d542 3
+d559 1
+a559 1
+=2 cro. <D F Gx(2> <E G)2> A cro rest qua <F A>
+d561 4
+d566 1
+a566 1
+=1 qua [b(1 a)1 g] [f e d] cro leg70 c# qua leg85 b cro. a(1
+d571 1
+a571 1
+=1 cro a)1 smq3 [g(1 a b] cro. a)1(1 cro a)1 smq3 [g(1 a b] cro a)1 qua g
+d584 3
+a586 1
+=3, qua [g# a bn] [e f# g] [a(1 e)1 c] [A e a]
+d591 1
+a591 1
+=3  qua [f# g a] [d e f] [g(1 d,)1 B,] [G d' g']
+d594 1
+a594 1
+=2' cro. B(1 cro B)1 qua B cro. A(1 cro A)1 qua F
+d607 4
+d628 4
+d649 1
+a649 1
+=3 qua cro B qua d' cro c qua C min. F
 @

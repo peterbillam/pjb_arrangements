@@ -1,31 +1,33 @@
 6 systems 15 /19 30 19 /19 30 19 8 /19 30 19 /19 30 19 8 /19 30 19 /19 30 19 15/
 title Gavotte S/A
 innerhead Edward Grieg
+midi channel 0 patch 74
+
 /
 5 bars | 1# 2/2 4 | 8 | 8 | 8 | 8 |
-|
+| 2.0 
 Il0.6 .20 A
-=1 treble8va 1# 2/2 cro G(2 A)2-.
-=2 treble    1# 2/2 min <G, g>
+=1 treble8va 1# 2/2 cha0 cro G{2 A}2-.
+=2 treble    1# 2/2 cha0 min <G, g>
 |
-=1 cro A(2 c')2-. c(1 e)1-.
-=2 min g cro g(1 c~)1-.
+=1 cro A{2 c'}2-. c{1 e}1-.
+=2 min g cro g{1 c~}1-.
 |
-=1 min e qua [d-tr(1 c] cro B)1
+=1 min e qua [d{1-tr c] cro B}1
 =2 min c~ cro b g
 |
-=1 cro c A qua [B'-tr(2 A] cro G)2
+=1 cro c A qua [B'{2-tr A] cro G}2
 =2 cro g f g d
 |
-=1 min A cro G(2 A)2-.
+=1 min A cro G{2 A}2-.
 =2 min f g
 /
 5 bars | 1#  8 | 8 | 8 | 8 | 4 ||
 |
-=1 cro A(2 c')2-. c(1 e)1-.
-=2 min g cro g(1 c~)1-.
+=1 cro A{2 c'}2-. c{1 e}1-.
+=2 min g cro g{1 c~}1-.
 |
-=1 min e qua [d-tr(1 c] cro B)1
+=1 min e qua [d{1-tr c] cro B}1
 =2 min c~ cro b g
 |
 =1 cro c A qua [B' c' A G]
@@ -44,21 +46,21 @@ Il0.6 .20 B
 =1 treble8va 1# cro A d
 =2 treble    1# cro d f
 |
-=1 cro B' A qua [A(2 F A)2 d'-.]
+=1 cro B' A qua [A{2 F A}2 d'-.]
 =2 min d cro d f
 |
-=1 cro B-tr# A qua [A(2 F A)2 d'-.]
+=1 cro B-tr# A qua [A{2 F A}2 d'-.]
 =2 min d d
 |
-=1 qua [A(2 F A)2 d'-.] [G(2 E G)2 d'-.]
+=1 qua [A{2 F A}2 d'-.] [G{2 E G}2 d'-.]
 =2 smb d(1
 /
 3 bars | 1#  8 | 8 | 4 ||
 |
-=1 qua [E(2 D E)2 d'-.] [D(2 C# D)2 d'-.]
+=1 qua [E{2 D E}2 d'-.] [D{2 C# D}2 d'-.]
 =2 min d)1 A(2
 |
-=1 qua [D(2 C# D)2 d'-.] [D(2 C# D)2 d'-.]
+=1 qua [D{2 C# D}2 d'-.] [D{2 C# D}2 d'-.]
 =2 smb A)2
 |
 I0.3 .20 Da Capo
@@ -107,10 +109,10 @@ innerhead Edward Grieg
 5 bars | 1# 2/2 4 | 8 | 8 | 8 | 8 |
 |
 Il0.6 .20 A
-=1 treble    1# 2/2 cro B(1 c)1-.
+=1 treble    1# 2/2 cro B{1 c}1-.
 =2 bass8va   1# 2/2 min rest
 |
-=1 cro c(1 e)1-. e(1 f)1-.
+=1 cro c{1 e}1-. e{1 f}1-.
 =2 min blank smb rest
 |
 =1 min f cro g e
@@ -120,13 +122,13 @@ Il0.6 .20 A
 =2 min blank smb rest
 |
 bl0.2 .40 ,
-=1 cro d D B(1 c)1-.
-=2 min rest cro. g(1 qua f)1-.
+=1 cro d D B{1 c}1-.
+=2 min rest cro. g{1 qua f}1-.
 /
 5 bars | 1#  8 | 8 | 8 | 8 | 4 ||
 |
-=1 cro c(1 e)1-. e(1 f)1-.
-=2 cro. e(1 qua d)1-. cro. c(2 qua B)2-.
+=1 cro c{1 e}1-. e{1 f}1-.
+=2 cro. e{1 qua d}1-. cro. c{2 qua B}2-.
 |
 =1 min f cro d e
 =2 min A cro B e

@@ -10,9 +10,9 @@ midi channel 2 patch 87
 5 bars | 2# 5 7 5 3 | 4 3 5 4 3 5 4 3 5 4 3 5 | 4 3 5 4 3 5 4 3 5 7 5 5 \
  | 4 3 5 4 3 5 4 3 5 4 3 5 | 4 3 5 4 3 5 4 3 5 7 5 5 |
 | 0.67
-=1  treble8vab 2# cha0 vol110 cc11=100 2 blank 1 rest
-=2  treble8vab 2# cha2 cc11=70
-=2' treble8vab 2# cha1+2 vol90 16 E_-up [A_{2-down A_#}2 B_-up]
+=1  treble8vab 2# tra0 cha0 vol110 cc11=100 2 blank 1 rest
+=2  treble8vab 2# tra0 cha2 cc11=70
+=2' treble8vab 2# tra0 cha1+2 vol90 16 E_-up [A_{2-down A_#}2 B_-up]
 =2, 
 | 2.0
 =1 2 blank 1 rest

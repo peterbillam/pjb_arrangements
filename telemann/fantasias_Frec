@@ -3,11 +3,12 @@ pagenum 4
 title 1.
 innerhead Fantasia 1. in A major, Georg Philipp Telemann
 leftfoot arranged for C recorder (c) 2001 Peter J Billam
+midi channel 1 patch 74 reverb 80
 /
 2 bars | 4/4 8 | 8 |
 |
 I0.6         Vivace
-=1, treble  4/4 cro c(1 smq [c)1 d c G] [c e c G] [c d c G]
+=1, treble  4/4 cha1 cro c(1 smq [c)1 d c G] [c e c G] [c d c G]
 |
 =1, smq [c e c G] [c g c G] [c-ten g a{1 f}1] [g{1 e}1 f{1 d}1]
 /

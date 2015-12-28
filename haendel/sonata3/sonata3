@@ -43,17 +43,17 @@ Il0.6        Largetto
 =2, cro blank C(2 C)2 qua [D D]
 =3 qua [d, g leg60 e leg85 c,] [F f'] cro Bn
 |
-=1 qua [e smq d(1 dsq e f)1] qua. [B,-tr smq c] leg60 qua [c leg85 e] cro g(1
+=1 qua [e smq d{1 dsq e f}1] qua. [B,-tr smq c] leg60 qua [c leg85 e] cro g(1
 =2' qua [G A] cro <B_ D> C blank
 =2, qua [E smq D C] min blank qua rest <G d>
 =3 qua [c f' g' G'] cro c qua rest b
 |
-=1 qua [g)1 smq f# a] qua [c~ c~] smq. [c~(1 dsq a)1 qua b] rest' b
+=1 qua [g)1 smq f# a] qua [c~ c~] smq. [c~{1 dsq a}1 qua b] rest' b
 =2' cro. c qua <A c> [<A c> <G B>] rest <D G B>
-=2, qua [G F# G D cro D blank
-=3 qua [a d, e f#] [g' G B G]
+=2, qua [G F# G D] cro D blank
+=3 qua [a d, e f#] [g' G B' G]
 |
-=1 qua [b smq a(1 dsq b c~)1] qua. [a smq g] smq. [f# dsq e qua d] cro d(1
+=1 qua [b smq a{1 dsq b c~}1] qua. [a smq g] smq. [f# dsq e qua d] cro d(1
 =2' qua [B A] rest <A_ E G> cro <A_ D F#> qua rest <D F B>
 =2, cro E min. blank
 =3 cro c qua rest c# cro d qua rest B
@@ -68,18 +68,18 @@ Il0.6        Largetto
 =2, qua. [G)2 smq Fn] cro blank C qua [B_ A_]
 =3 qua. [e smq d] qua [c B] [A d' e' c]
 |
-=1 qua [g)1 smq a(1 dsq b c~)1] qua. [f#-tr smq g] \
+=1 qua [g)1 smq a{1 dsq b c~}1] qua. [f#-tr smq g] \
  qua leg60 [g leg85 d] cro b(1
 =2' qua [<G)1 B_> <A_ E A>] cro <A_ D F#> \
- <B_ D G> qua rest smq d dsq3-s [c(2 B A)2]
+ <B_ D G> qua rest smq d dsq3-s [c{2 B A}2]
 =3 qua [d' c d' D] cro G qua rest f
 |
 =1 smq. [b)1 dsq g# smq. a dsq b] qua leg60 [d d] leg85 [d-tr c] cro c~(1
-=2' qua [G# A leg60 B <E B d>] leg85 [<B d> <A c>] rest smq F# dsq3-s [Gn(2 F E)2]
+=2' qua [G# A leg60 B <E B d>] leg85 [<B d> <A c>] rest smq F# dsq3-s [Gn{2 F E}2]
 =3, qua [e f# g# e] [a A] rest a
 |
 =1 smq. [c~)1 dsq d# smq. e dsq f#] qua leg65 [B, a] leg85 [a-tr g] cro bb(1
-=2' cro. D# qua <B_ F# A> [<F A> <E G>] qua. G dsq3-s [Fn(2 E Dn)2]
+=2' cro. D# qua <B_ F# A> [<F A> <E G>] qua. G dsq3-s [Fn{2 E Dn}2]
 =2, min blank cro B_ blank
 =3 qua [f#' B d#' B] cro. e qua g
 |
@@ -99,13 +99,13 @@ Il0.6        Largetto
 |
 =1, qua [f)1 smq e d] qua [e smq g f#] qua [g G] cro d(1
 =2' cro <F Gx> qua [<E G> <C F# A>] \
- cro <D G B> qua rest smq B dsq3-s [c(2 B A)2]
+ cro <D G B> qua rest smq B dsq3-s [c{2 B A}2]
 =2, min.. blank qua G
 =3  qua [B G c A] cro G qua rest fn
 |
 =1, smq. [d)1 dsq G smq. c dsq e] qua [f smq. e dsq d] \
  qua leg60 [e leg85 c] cro c~(1
-=2' qua G cro c qua B cro <E c> qua rest smq <E G> dsq3-s [F(2 E D)2]
+=2' qua G cro c qua B cro <E c> qua rest smq <E G> dsq3-s [F{2 E D}2]
 =2, qua blank E cro F blank blank
 =3  qua [e a d, g] cro c qua rest Bb
 |
@@ -122,7 +122,7 @@ Il0.6        Largetto
 =2, min.. blank qua F
 =3 qua [g a g G,] cro c qua rest d
 | 4/4 1.48 1.5 1.53 1.56
-=1 smq. rest' dsq [c smq. B dsq A] cro G \
+=1 smq. rest' dsq [c' smq. B' dsq A] cro G \
  smq. rest dsq [g smq. f dsq e] qua [d g]
 =2' cro <C G> smq. rest dsq <E G> smq. [<D F> dsq <C E>] \
  cro <B_ D> qua rest <E G e>
@@ -422,7 +422,7 @@ il0.7 .25 60
 =3, qua leg95 [b leg55 a leg95 g]
 |
 =1 smq leg85 [a g qua. f#-tr smq e]
-=2' qua leg55 <Ex)1 F#> cro leg85 F
+=2' qua leg55 <Ex)2 F#> cro leg85 F
 =2, qua blank leg85 [Er D#]
 =3' qua leg55 [a leg95 b leg65 B]
 |
@@ -497,15 +497,15 @@ il0.7 .25 80
 |
 =1 cro. leg85 c~(1
 =2 qua leg60 A leg95 [<f a> leg85 <e g>]
-=3, smq leg100 [f~ leg80 c~ leg95 f~ leg80 a~ leg95 g~ leg80 bb~]
+=3, smq leg100 [f~ leg80 c~ leg95 f~ leg80 a~ leg95 g~ leg80 b~b]
 |
 =1 cro. c~)1(1
 =2 qua leg60 f smq leg95 [a leg80 f leg95 g leg80 e]
-=3, smq leg100 [f~ leg80 c~ leg95 f~ leg80 a~ leg95 g~ leg80 bb~]
+=3, smq leg100 [f~ leg80 c~ leg95 f~ leg80 a~ leg95 g~ leg80 b~b]
 |
 =1 smq leg95 [c~)1 leg80 bb a g f e]
 =2 qua f rest C
-=3 qua leg95 a~ leg70 f~ leg85 a
+=3 qua leg95 [a~ leg70 f~ leg85 a]
 |
 =1 qua [d smq leg95 g leg80 f e d]
 =2 cro. D
@@ -553,7 +553,7 @@ il0.7 .25 90
 |
 =1 cro. leg95 e
 =2 qua E cro E
-=3 smq leg80 [g c leg95 c~ leg80 bb a g]
+=3, smq leg80 [g c leg95 c~ leg80 bb a g]
 |
 il0.7 .25 95
 =1 cro. leg80 f
@@ -566,15 +566,15 @@ il0.7 .25 95
 |
 =1 cro. leg80 a
 =2 cro. <F A>
-=3 smq leg80 [F c leg95 f leg80 e d c]
+=3' smq leg80 [F c leg95 f leg80 e d c]
 |
 =1 cro. leg95 b
-=2 cro. <F B>
-=3 smq leg80 [d G leg95 g leg80 f e d]
+=2' cro. <F B>
+=3' smq leg80 [d G leg95 g leg80 f e d]
 |
 =1 qua leg60 [c~ leg85 c c]
 =2' qua [<G c> smq leg95 F leg80 E D C]
-=3 smq leg80 [e c leg95 a leg80 g f e]
+=3, smq leg80 [e c leg95 a leg80 g f e]
 |
 il0.7 .25 100
 =1 qua leg65 [d qua. leg95 d dsq c d]
@@ -605,7 +605,7 @@ il0.7 .25 105
 |
 =1 smq rest leg85 [a qua. a-tr smq g]
 =2' qua <E G Ax> qua [G F#]
-=2, qua rest leg85 cro D
+=2, qua rest,, leg85 cro D
 =3' qua leg55 [c leg95 d leg65 D]
 |
 =1 qua. leg60 [g smq leg85 d e B]
@@ -687,7 +687,7 @@ il0.7 .25 120
 =3 qua [c~ smq leg95 f~ leg80 e~ d~ c~]
 |
 =1 cro. leg95 b
-=2 qua [F smq leg95 B leg80 A G F]
+=2' qua [F smq leg95 B leg80 A G F]
 =3 smq [d~ g leg95 g~ leg80 f~ e~ d~]
 |
 =1 qua. leg85 [c~ smq b a g]
@@ -758,7 +758,7 @@ Il0.6        Largetto
 |
 il0.7 .25 5
 =1 min. leg95 e(1
-=2 min A(2 qua [A) B']
+=2 min A(2 qua [A)2 B']
 =3 cro A leg97 c~ b
 |
 =1 min e)1 cro a
@@ -968,7 +968,7 @@ Il0.6        A Tempo di Gavotta
 =2 cro <B_ D> rest
 =3 qua leg95 [g leg80 a b g]
 |
-=1 qua leg95 [g leg75 e c G]
+=1, qua leg95 [g leg75 e c G]
 =2 cro rest G
 =3 min e
 | 4/4 1.8
@@ -1097,9 +1097,9 @@ Il0.6        A Tempo di Gavotta
 =2 cro <G_ D)1> C <B_ F> <C E>
 =3 cro leg60 e leg85 a d c
 |
-=1 min d qua leg95 [g leg75 e c G]
-=2 cro <B_ D> <G_ C>
-=3 qua leg95 [g leg80 a b g] cro. e qua e
+=1, min d qua leg95 [g leg75 e c G]
+=2  cro <B_ D> <G_ C>
+=3  qua leg95 [g leg80 a b g] cro. e qua e
 | 4/4 1.8
 =1, qua leg60 [A leg95 c leg60 d leg95 A] leg60 [B leg95 d leg60 e leg95 B]
 =2' cro C F D G
@@ -1411,7 +1411,7 @@ il0.7 .20 45
 |
 =1  smq leg80 [a b leg95 qua. b-tr dsq a b]
 =2' qua leg70 [A smq leg95 B leg80 A G F]
-=3' smq [f~ d~ leg95 g~ leg80 f~ e~ d~]
+=3  smq [f~ d~ leg95 g~ leg80 f~ e~ d~]
 |
 =1 qua leg60 [c~ c] rest
 =2' smq leg95 [G leg80 F E D C B_]

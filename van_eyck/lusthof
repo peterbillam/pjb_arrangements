@@ -2,6 +2,7 @@
 title Wat zal men op den Avond doen
 innerhead Der Fluiten-Lusthof, Jakob van Eyck
 leftfoot  Arranged and typeset Peter J Billam, 2004
+midi channel 1 patch 74
 /
 6 bars | 2/2 2 | 8 | 8 | 8 | 6 :|| 7 |
 |
@@ -303,11 +304,11 @@ Il0.05 .63 '
  | 2 2 2 3.5 2 2 2 3 2 2 2 1 :||
 |
 Il0.05 .63 '
-=1, qua. [f-emph(1 smq e)1 qua. f smq g] qua. [a smq d qua. g smq f]
+=1, qua. [f{1-emph smq e}1 qua. f smq g] qua. [a smq d qua. g smq f]
 |
-=1 qua. [e smq A, qua. d smq F,] qua. [G smq d' qua. E smq c#'(1]
+=1 qua. [e smq A, qua. d smq F,] qua. [G smq d' qua. E smq c#'{1]
 |
-=1 qua. [d')1 smq A qua. F# smq D] cro d
+=1 qua. [d'}1 smq A qua. F# smq D] cro d
 
 
 

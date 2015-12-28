@@ -8,8 +8,8 @@ midi channel 1 patch 32
  | 3 3 3 3  3 3 3 3  4 4 4 4  3 3 3 3  3 3 3 3  3 3 3 3  5 5 5 9 3 3 2 2 \
  | 4 4 4  9 6 6  4 4 4  4 4 4  4 4 4  4 4 4  4 4 4  4 4 2 |
 | 1.8
-=1 treble 3b 8 rest [G 163 F# G B'] 8 [b b] [B' A F#]
-=2 bass   3b  2 blank 1 rest
+=1 treble 3b cha0 8 rest [G 163 F# G B'] 8 [b b] [B' A F#]
+=2 bass   3b cha0 2 blank 1 rest
 |
 =1, 8 [G e 163 B e B 8 G] [A f 32 B e B G 8 F#]
 =2, 2 blank 1 rest

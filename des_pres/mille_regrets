@@ -1,12 +1,12 @@
 6 systems /19-30-19/
 title Mille Regrets
 innerhead Josquin Des Prez
-
+midi channel 0 patch 85
 /
 7 bars |3# 7|8|2 2 2 2.3|1 1 1 1.3 1 1 1 1 | 8 | 8 | 8 |
 |
-=1' treble 3# smb C
-=2 bass   3#  smb c
+=1' treble 3# cha0 leg95 smb C
+=2 bass    3# cha0 leg95 smb c
 |
 =1' min F F
 =1, min A_ D
