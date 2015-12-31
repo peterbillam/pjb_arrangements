@@ -21,7 +21,8 @@ midi channel 1 bank 6 patch 22 pan 20
 /
 2 bars | 3# 6 5 5 5 5 5 5 6 5 5 5 5 5 5 5 5 | 80 |
 |
-=1 8 [c-.-s2 e-.-s4] 16 [A-s1 G-s2 F-s1 A-s2] 8 [Bn-.-s3 d-.] 16 [G-s3 F E G-s2]
+=1 8 [c-.-s2 e-.-s4] 16 [A-s1 G-s3 F-s2 A-s1] \
+ 8 [Bn-.--s3 d-.] 16 [G-s3 F E G-s2]
 =2 16 [e-s3, d# c, e-s3,] 8 [f-.-s2, a-.-s1,] \
  16 [dn'-s3, c B d'] 8 [e-.-s2, g-.-s1,]
 |
@@ -32,7 +33,7 @@ midi channel 1 bank 6 patch 22 pan 20
 2 bars | 3# 80 | 80 |
 |
 il0.7    5
-=1 8 [F-.,-s1 A-.,-s2] 16 [B-s3 c d B] 8 [G-.,-s2 B'-.,-s1] 16 [c-s2 d e c]
+=1 8 [F-.,-s1 A-.,-s2] 16 [B-s3 c d B] 8 [G-.,-s1 B'-.,-s2] 16 [c-s3 d e c]
 =2 16 [A-s3, G F-s5, A-s4,] 8 [d-.-s2, f-.-s1,] \
  16 [B-s3, A G-s5, B-s4,] 8 [e-.-s2, g-.-s1,]
 |
@@ -43,7 +44,7 @@ il0.7    5
 2 bars | 3# 80 | 5 5 5 5 5 5 6 5 5 5 5 6 5 6 5 5 |
 |
 =1, 16 [c B A-s1 G-s2] leg120 [A-s1 B c e] \
- [G-s1 A-s2 B-s3 e-s5] [F-s1 G-s2 A-s1 d#-s4] leg85
+ [G-s1 A-s2 B-s3 e-s5] [F-s1 G-s2 A-s3 d#-s5] leg85
 =2, 8 [A-s5, 16 a-s1, b-s3,] [c~-s2, b a c~] [b-s1, a g b] [a-s2, g f a]
 |
 =1, 8 [E-.-s1 leg120 g(1-s5] 16 [g)1 e-s3 c-s2 B#-s1] \
@@ -58,14 +59,14 @@ il0.7    5
 =2, 8 [g-.-s5, e~-.-s1,] [f-. d~#-.] [e-. c~-.] [d#-. b#-.]
 |
 il0.7 .06 10
-=1  16 [e d# c-s1 e] 8 [g-.-s5 Bn-s.-s2] \
- 16 [A-s1 G-s3 F-s2 A-s1] 8 [f-s.-s5 d#-.-s4]
+=1  16 [e d# c-s1 e] 8 [g-.-s5 Bn-s.-s1] \
+ 16 [A-s3 G-s2 F-s1 A-s2] 8 [f-.-s5 d#-.-s4]
 =2, 8 [c-. c~-.] 16 [e-s4, f g e] [f-s3, g a f-s2,] [d#-s4, e f d]
 /
-2 bars | 3# 6 5 5 6 5 5 6 5 5 5 5 5 5 6 5 5 | 6 5 5 6 5 5 5 5 5 4 5 4 5 5 5 5 |
+2 bars | 3# 6 5 5 6 5 5 6 5 5 5 5 5 5 6 6 5 | 6 5 5 6 5 5 5 5 5 4 5 4 5 5 5 5 |
 |
 =1 16 [B#-s3 A#,-s2 G,-s1 e-s5] [An-s1 G-s3 F-s2 d#'-s5] \
- [G-s3 F E c'-s5] [F-s3 E-s2 D#-s1 B'-s5]
+ [G-s3 F E c'-s5] [F-s3 E-s2 D#-s1 B#'-s5]
 =2 8 [g-.-s1, c,-.] [f-. B#,-.] [e-. c,-.] [d#'-., G-.,]
 |
 =1 16 [c-s4 B#-s1 c-s2 f-s4] 8. [d#-s"  3,2"-tr 16 c-s1] 2 c'(1-s5
