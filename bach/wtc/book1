@@ -1212,7 +1212,7 @@ midi channel 1 bank 6 patch 22 pan 20
 =2' bass   3# 4/4 8 a-. rest' b-. rest' a-. rest' g-. rest'
 =2,        3# 4/4 cha1 leg90 1 f-s2,-s4,
 | .18 .15 .16 .15 .17 .15 .16 .15 .17 .15 .16 .15 .17 .15 .16 .15
-=1 16 [A G F-s2 A-s1] 8 [c-.-s2 a-.-s5] [B#-.-s1 g-.-s4] [G,-.-s1 f-.-s5]
+=1 16 [A G F-s2 A-s1] 8 [c-.--s2 a-.-s5] [B#-.-s1 g-.-s4] [G,-.-s1 f-.-s5]
 =2' 8 f-. rest'' 2. blank
 =2, 8 [F-s5, f-s2,] 16 [a-s1, g f a] \
  [g-s2, f e g] [f-s3, e d# f-s2,]
@@ -1224,7 +1224,7 @@ midi channel 1 bank 6 patch 22 pan 20
 =2 16 [e-s3, d# c, e-s3,] 8 [f-.-s2, a-.-s1,] \
  16 [dn'-s3, c B d'] 8 [e-.-s2, g-.-s1,]
 |
-=1, 8 [A-.-s3 c-.] leg120 16 [B-s1 c d f] [A-s1 B c f] [G-s2 A-s1 B-s3 e#-s5]
+=1, 8 [A-.--s3 c-.] leg120 16 [B-s1 c d f] [A-s1 B c f] [G-s2 A-s1 B-s3 e#-s5]
 =2 16 [c-s3, B A c] [d'-s2, c B d'] \
  [c B A c-s2,] [B A G B-s2,]
 /
@@ -1254,7 +1254,7 @@ il0.7    5
 |
 =1, 16 [B#-s1 d#-s3 g-s5 c-s1] [a-s4 g f a-s4] \
  [g f e g-s3] [f e d#-s2 f-s4]
-=2, 8 [g-.-s5, e~-.-s1,] [f-. d~#-.] [e-. c~-.] [d#-. b#-.]
+=2, 8 [g-.-s4, e~-.-s1,] [f-. d~#-.] [e-. c~-.] [d#-. b#-.]
 |
 il0.7 .06 10
 =1  16 [e d# c-s1 e] 8 [g-.-s5 Bn-s.-s1] \

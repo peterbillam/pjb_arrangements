@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 ARRD = /home/pjb/www/mus/arr
 A4D  = ${ARRD}/a4
 USD  = ${ARRD}/us

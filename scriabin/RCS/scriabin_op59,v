@@ -1,10 +1,40 @@
-head	1.1;
+head	1.7;
 access;
 symbols;
 locks
-	pjb:1.1; strict;
+	pjb:1.7; strict;
 comment	@# @;
 
+
+1.7
+date	2016.01.02.02.17.25;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2016.01.01.08.17.39;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2016.01.01.07.09.09;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2016.01.01.05.48.46;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.01.01.02.28.50;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.01.01.00.07.55;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2011.03.13.23.29.17;	author pjb;	state Exp;
@@ -17,53 +47,296 @@ desc
 @
 
 
-1.1
+1.7
 log
-@Initial revision
+@up to end :-)
 @
 text
-@5 systems 35 / 19-40-19 / 19-40-19 / 19-40-19 / 19-40-19 / 19-45-19 15/
+@5 systems 35 / 19-40-19 / 19-45-19 / 19-45-19 / 19-40-19 / 19-45-19 15/
 title 1.  Poème
 pagenum 3
 innerhead Deux Morceaux,  Op. 59 (1910),  Alexander Scriabin
 midi channel 0 patch 0 pan 80 reverb 90
 midi channel 1 patch 0 pan 50 reverb 90
 midi channel 2 patch 0 pan 20 reverb 90
+
+
 /
 4 bars |6/8 36 | 36 | 36 |
-| 6/8 2.0
-i1.8  .01 Avec grâce et douceur
-Il0.9 .01 Allegretto
-=1, treble 6/8 cha0 vol70 leg99 8 rest [c# d#(1] [d)1 8. c~# 16 g#]
+| 6/8 1.4
+i1.8  .05 Avec grâce et douceur
+Il0.9 Allegretto
+% bar Poeme   Avec grace et douceur
+=1, treble 6/8 cha1 vol80 leg99 8 rest [c# d#(1] [d)1 8. c~# 16 g#]
 I0.8 .01 p
-midi off
-=2' bass   6/8 cha1 vol60 leg99 2. g~r
-midi on
-=2  bass   6/8 cha2 vol60 leg99 42 g~#-P d~# 4 a 8 B
+#P=2' bass   6/8 cha1 vol70 leg99 2. g~r
+=2  bass   6/8 cha2 vol60 leg99 cc64=127 42 g~# d~# 4 a 8 vol-8 B cc64=0
+I0.01 .19 2
 |
-=1' cha0 2. a
-=1, cha1 4 Gn-P 8 G 4 d 8 c#
-=2  8 [g~n-P e~b a] [eb' F] rest
+=1' vol80 2. a
+=1, vol70 4 Gn 8 G 4 d 8 c#
+=2  vol60 cc64=127 8 [g~n e~b a] [eb' vol-8 F] rest cc64=0
 |
-=1, cha0 8 rest [c# d#(1] [d)1 8. c~# 16 g#]
-midi off
-=2' cha1 2. g~r
-midi on
-=2  cha2 42 g~#-P d~# 4 a 8 B
+=1, vol80 8 rest [c# d#(1] [d)1 8. c~# 16 g#]
+#P=2' 2. g~r
+=2  vol60 cc64=127 42 g~# d~# 4 a 8 vol-8 B
+I0.01 .15 2
 |
-=1' cha0 2. b
-=1, cha1 4 Ab-P 8 An 4 e 8 d#
-=2  cha2 8 [a~b-P f~ b] [f' G] rest
+=1' vol80 2. b
+=1, vol70 4 Ab 8 An 4 e 8 d#
+=2  vol60 8 [a~b f~ cc64=0 b] [f' vol-8 G] cc64=127 rest
 /
 4 bars | 36 | 36 | 36 | 36 |
 |
-=1, cha0 8 rest [d# e#(1] [e)1 d~# a#]
-=2' cha1 4. a~#(1 4 a~)1(1 16 [a~)1 a~]
-=2, cha2 42 a~#-P e~# 4 b 8 c#
+il0.7 .10 5
+% bar 5
+=1, vol80 8 rest [d# e#(1] [e)1 d~# a#]
+#P=2' vol70 4. a~#(1 4 a~)1(1 16 [a~)1 a~]
+#M=2' vol70 4. a~#(1 4 a~)1 16 blank a~
+=2, vol60 42 a~# e~# 4 b 8 c# cc64=0
+I0.01 .14 2
 |
-midi pause 2.0
+=1, vol80 8 rest [g# a#(1] [a)1 d~# a~#]
+#P=2' vol70 4. d~~#(1 4 d~~)1(1 16 [d~~)1 d~~]
+#M=2' vol70 4. d~~#(1 4 d~~)1 16 blank d~~
+=2, vol60 8 cc64=127 [d~~# e~# b] [c# vol-8 F#] rest, cc64=0
+|
+=1, vol80 8 rest [b~b a(1] [a)1 g# e~]
+=2' vol70 2. d~~r
+#P=2, vol60 8 cc64=127 [d~~n b~b e~] [bb c] rest,
+#M=2, vol60 8 cc64=127 blank [b~b e~] [bb c] rest,
+|
+=1, vol80 2. d
+#P=2' vol70 2. g~r
+#M=2' vol70 2. g~#
+#P=2, vol60 8 [g~# e~ vol-7 a#] [e vol-7 F#] rest, cc64=0
+#M=2, vol60 8 blank [e~ vol-7 a#] [e vol-7 F#] rest, cc64=0
+/
+4 bars | 36 | 36 | 36 | 36 |
+|
+% liquidate last two bars
+=1, vol80 8 rest [b~b a(1] [a)1 g# e~]
+=2' vol70 2. d~~r
+#P=2, vol60 8 cc64=127 [d~~n b~b e~] [bb c] rest,
+#M=2, vol60 8 cc64=127 blank [b~b e~] [bb c] rest,
+|
+il0.7 .10 10
+% bar 10
+=1, vol80 4. d(1 4 d)1 8 c#
+#P=2' vol70 4. g~r(1 4 g~)1(1 16 [g~)1 g~]
+#M=2' vol70 4. g~#(1 4 g~)1 16 blank g~#
+#P=2, vol60 8 [g~# e~ vol-7 a#] [e vol-7 F#] rest,
+#M=2, vol60 8 blank [e~ vol-7 a#] [e vol-7 F#] rest,
+|
+% liquidate last bar
+=1, vol76 4. d(1 4 d)1 8 c#
+#P=2' vol66 4. g~r(1 4 g~)1(1 16 [g~)1 g~]
+#M=2' vol66 4. g~#(1 4 g~)1 16 blank g~#
+#P=2, vol56 8 [g~# e~ vol-7 a#] [e vol-7 F#] rest, cc64=0
+#M=2, vol56 8 blank [e~ vol-7 a#] [e vol-7 F#] rest, cc64=0
+|
+% repeat, but veer up one semtione to loop back to the beginning
+=1, vol72 2. d#(1
+#P=2' vol62 4. g~r(1 4 g~)1(1 16 [g~)1 g~]
+#M=2' vol62 4. g~#(1 4 g~)1 16 blank g~#
+#P=2, vol52 cc64=127 8 [g~#   c~# vol-3 a] [d# vol-7 E#] rest, cc64=0
+#M=2, vol52 cc64=127 8 blank [c~# vol-3 a] [d# vol-3 E#] rest, cc64=0
+/
+4 bars | 36 | 36 | 36 | 36 |
+|
+% repeat theme
+=1, vol80 leg99 8 [d#)1 c# d#(1] [d)1 8. c~# 16 g#]
+#P=2' cha1 vol70 leg99 2. g~r
+#M=2' cha1 vol70 leg99 2. g~#
+#P=2  cha2 vol60 leg99 cc64=127 42 g~# d~# 4 a 8 vol-8 B cc64=0
+#M=2  cha2 vol60 leg99 cc64=127 42 blank d~# 4 a 8 vol-8 B cc64=0
+I0.01 .19 2
+|
+=1' vol80 2. a
+=1, vol70 4 Gn 8 G 4 d 8 c#
+=2  vol60 cc64=127 8 [g~n e~b a] [eb' vol-8 F] rest cc64=0
+|
+% veer up one semitone
+il0.7 .10 15
+% bar 15
+=1, vol80 8 rest [c# d#(1] 4. blank
+=1, 2 blank 8 [d)1 c~# 8. g# 16 a]
+I0.90 .73 4
+#P=2' 2. g~r
+=2  vol60 cc64=127 42 g~# d~# 4 a 8 vol-8 B
+I0.01 .15 2
+|
+=1' vol80 2. c~
+=1, vol70 4 Bb 8 Bb 4 f 8 e
+=2, vol60 8 [b~b g~b cc64=0 c~] [gb vol-8 Ab] cc64=127 rest
+/
+4 bars | 36 | 36 | 36 | 36 |
+|
+=1, vol80 8 rest [e f#(1] [f)1 e~ b]
+#P=2' vol70 4. b~(1 4 b~)1(1 16 [b~)1 b~]
+#M=2' vol70 4. b~(1 4 b~)1 16 blank b~
+=2, vol60 42 b~ f~# 4 c~ 8 d cc64=0
+I0.01 .14 2
+|
+=1, vol80 8 rest [a b(1] [b)1 e~ b~]
+=2' vol70 4 e~~ 8 rest''' 4 rest''' 16 rest''' e~~
+#P=2, vol60 8 cc64=127  [e~~  f~# c~] [d vol-8 G] rest, cc64=0
+#M=2, vol60 8 cc64=127 blank [f~# c~] [d vol-8 G] rest, cc64=0
+|
+=1, vol80 8 rest [c~~b bb(1] [b)1 bbb f~]
+=2' vol70 2. e~~br
+#P=2, vol60 8 cc64=127 [e~~b  c~~b f~n] [c~b db] rest,
+#M=2, vol60 8 cc64=127 blank [c~~b f~n] [c~b db] rest,
+|
+il0.9 .10 20
+% bar 20
+=1, vol80 4. eb(1 4 e)1 8 rest
+=2' vol70 4. a~(1 4 a~)1 8 e~~b
+#P=2, vol60 8 [a~    f~ vol-7 b] [f vol-7 G] rest, cc64=0
+#M=2, vol60 8 blank [f~ vol-7 b] [f vol-7 G] rest, cc64=0
+
+5 systems 10 / 19-45-19 / 19-50-19 / 19-45-19 / 19-40-19 / 19-45-19 25/
+pagenum
+innerhead Poème,  Deux Morceaux,  Op.59 No.1  Alexander Scriabin
+
+/
+4 bars | 36 | 36 | 36 | 36 |
+|
+% back down one semtone to the pitch of the theme
+=1, vol80 8 rest [b~b a(1] [a)1 g# e~]
+=2' vol70 2. d~~r
+#P=2, vol60 8 cc64=127 [d~~n b~b e~] [bb c] rest,
+#M=2, vol60 8 cc64=127 blank [b~b e~] [bb c] rest,
+|
+=1, vol80 2. d
+=2' vol70 4. g~r(1 4 g~)1 8 d~~
+#P=2, vol60 8  [g~#  e~ vol-7 a#] [e vol-7 F#] rest, cc64=0
+#M=2, vol60 8 blank [e~ vol-7 a#] [e vol-7 F#] rest, cc64=0
+|
+% down another semitone
+=1, vol80 8 rest [a~ g#(1] [g#)1 f## d~#]
+#P=2' vol70 2. c~~r
+#M=2' vol70 2. c~~#
+#P=2, vol60 8 cc64=127 [c~~#  a~ d~#] [a vol-4 d# vol-4 E#]
+#M=2, vol60 8 cc64=127 blank [a~ d~#] [a vol-4 d# vol-4 E#]
+|
+=1, vol72 2. c#
+=2, vol52 8 [B a vol+4 d~#] vol+4 4 g~# vol-5 8 g~n
+/
+4 bars | 3 3 3 3 3 3 4 3 3 3 3 2 | 6 6 6 6 6 5 \
+ | 4 4 4 4 4 4 4 5 4 3 3 3 | 4.5 4.5 4.5 4.5 5 5 5 4 |
+|
+% as in bar 15, he squeezes the previous destination-note into this bar
+il0.9    25
+% bar 25
+=1, vol80 8 rest [a~ g#(1] 4. blank
+#P=1, vol80 4 blank 16 [g)1 f## d~# c#]
+#M=1, vol80 4 blank 16 [g#)1 f## d~# c#]
+#P=2' vol70 2. c~~r
+#M=2' vol70 2. c~~#
+#P=2, vol60 8 cc64=127 [c~~#  a~ d~#] [a vol-4 d# vol-4 En]
+#M=2, vol60 8 cc64=127 blank [a~ d~#] [a vol-4 d# vol-4 En]
+|
+=1, vol80 4 <G# a> vol-4 8 <Gnl d#> 4 <G# a> vol-4 8 <Gnl d#>
+=2' 4. c~# blank
+#P=2 8 [c~ a d#] E# rest rest
+#M=2 8 blank [a cc64=0 d#] E# rest rest
+|
+=1, vol80 16 rest' [d~~b bb a f~ eb] rest c~b [Bb 8 A 16 f]
+#P=2' vol70 2. e~~r
+#M=2' vol70 2. e~~b
+#P=2, vol60 8 cc64=127 [e~~b  c~~b f~] [c~b vol-4 db] rest
+#M=2, vol60 8 cc64=127 blank [c~~b f~] [c~b vol-4 db] rest
+|
+=1' vol80 4. Eb(2 4 E)2 8 rest
+=2' vol70 4. a~(1 blank
+=2' vol70 2 blank 8 [a~)1 a~b a~n e~~b]
+#P=2, 8 vol60   [a~  f~ b] vol-4 [f vol-4 G] rest
+#M=2, 8 vol60 blank [f~ b] vol-4 [f vol-4 G] rest
+/
+3 bars | 4 4 4 4 4 4 4 5 4 3 3 3 | 4.5 4.5 4.5 4.5 5 5 5 4 \
+ | 4 4 4 4 4 4 4 5 4 3 3 3 |
+|
+=1, vol80 16 rest' [b~b a g# e~ d] rest bb [A 8 G# 16 e]
+=2' vol70 2. d~~
+#P=2, vol60 8 cc64=127  [d~~  b~b e~] [bb vol-4 c] rest
+#M=2, vol60 8 cc64=127 blank [b~b e~] [bb vol-4 c] rest
+|
+il0.7 .15 30
+% bar 30
+=1' vol80 4. D(2 4 D)2 8 rest
+=2' vol70 4. g~#(1 blank
+#P=2' vol70 2 blank 8 [g~)1 g~n g~# d~~]
+#M=2' vol70 2 blank 8 [g~#)1 g~n g~# d~~]
+#P=2, 8 vol60   [g~  e~ a#] vol-4 [e vol-4 F#] rest
+#M=2, 8 vol60 blank [e~ a#] vol-4 [e vol-4 F#] rest
+|
+=1  vol80 16 rest' [a~ g# f## d~# c#] rest a [G# 8 F## 16 d#']
+#P=2' vol70 2. c~~r
+#M=2' vol70 2. c~~#
+#P=2, vol60 8 cc64=127  [c~~# a~ d~#] [a vol-4 d# vol-4 E#]
+#M=2, vol60 8 cc64=127 blank [a~ d~#] [a vol-4 d# vol-4 E#]
+/
+4 bars | 6 6 7 7 6 6 | 4 5 6 4 4 4 4 5 6 4 4 3 | 7 7 7 7 7 6 | 7 7 6 6 7 5 |
+|
+=1' vol80 2. C#
+=2' vol70 4. rest''' 4 g~# 8 f~##
+#P=2, 8 vol60 [B a d~#] 4 g~ 8 f~
+#M=2, 8 vol60 [B a d~#] 4. blank
+|
+% as in bars 15 and 25, he squeezes the previous destination-note into this bar
+=1, vol80 16 rest' [a~ g# f## d~# c#] rest [a G# F## d# C#]
+#P=2' vol70 2. c~~r
+#M=2' vol70 2. c~~#
+#P=2, vol60 8 cc64=127  [c~~# a~ d~#] [a vol-4 d# vol-4 E#]
+#M=2, vol60 8 cc64=127 blank [a~ d~#] [a vol-4 d# vol-4 E#]
+|
+% and here he squeezes cro,qua into qua,qua,qua
+=1, vol80 8 [<G# a> <Gnl dn> vol-4 <G# a>] \
+ vol-4 [<Gn d> vol-4 <G# a> vol-4 <Gn d>]
+=2' vol60 4. c~# blank
+#P=2 8 [c~ a d#] E# rest rest
+#M=2 8 blank [a cc64=0 d#] E# rest rest
+|
+il0.7 .10 35
+% bar 35
+=1, vol65 8 rest [c# d#(1] [d)1 c~# g#]
+#P=2, 4 <Br a d~#l g~#> 8 rest 4. rest treble
+#M=2, 16. blank 4. g~# 8 blank
+#M=2, 16  blank 4. d~# 8 blank
+#M=2, 32  blank 4. a 8 blank
+#M=2, cc64=127 4. Br cc64=0 8 blank
+/
+4 bars | 7 6 6 6 6 5 | 22 | 6 3 3 3 3 2 2 | 49 ||
+|
+=1  vol60 8 b [C# D#(2] [D)2 c#' G#]
+#M=2'  treble 8  blank 4 g# 8 blank
+#M=2' 16. blank 8 c# 8 blank
+#M=2' 16  blank 8 A  8 blank
+#M=2' 32  blank 8 D# 8 blank
+#M=2' cc64=127 8 E_# cc64=0 8 blank
+#P=2' 8 <E_#r D# A c#l g#> rest'' 2 blank
+=2 vol55 4 blank bass 8 E# vol+4 [d# a vol+4 c~#]
+|
+=1' vol70 2. B
+=2 8 g~# rest rest 4 rest 8 rest
+|
+=1' 8-s vol70 <C# G# B> vol50 2. <Bx c# g#l b>
+#P=1, 8-s blank 2. <C G>
+#M=1, 8-s blank 2. <C# G#>
+I0.5  mf .27 ppp
+=2' 8-s vol50 <E#(4 d#(2 a(1> 2. <E#)4 d#)2 a)1>
+| .55 .6 .65 .68 .71 .74 .77 .80 1.8
+i0.4 .04 ad libitum
+=1 8-s vol60 <A_ C#l D#xl G#> 2. blank vol50 \
+ 4 D#, G#, A, c# vol+4 d# vol+4 g#-fermata
+=2 8-s vol60 cc64=127 <B_ B(2> vol50 4 B)2 a c~# \
+ 2. blank 2 blank vol40 4 <B__ B_-fermata>
+
+midi pause 3.0
 
 midi on
+
 5 systems 20 / 19-50-19 / 19-47-19 / 19-53-19 / 19-45-19 / 19-45-19 10 /
 title 2.  Prélude
 pagenum
@@ -76,12 +349,13 @@ midi channel 2 patch 0 pan 20 reverb 90
  | 24 24 20 22 20 18 | 12 12 14 14 12 17 12 12 12 10 |
 | 3/8 .25 .2 .25
 Il1.2  Sauvage, belliqueux
-=1' treble 6/8 cha0 vol60 leg80 4. <G_ C F#-ten>
+% bar Prelude   Sauvage, belliqueux
+=1' treble 6/8 cha0 cc64=0 vol60 leg80 4. <G_ C F#-ten>
 I0.3 .01 p
-=2' bass   6/8 cha2 vol60 leg80 16 [<A_ A-*> <E_b Eb>] 8 rest rest
+=2' bass   6/8 cha2 cc64=0 vol60 leg80 16 [<A_ A-*> <E_b Eb>] 8 rest rest
 | 6/8 .25 .2 .25 .25 .2 .25
 =1' cha0 8 <B_rl Eb-ten>  4 <D d-emph> 4. <G_ F#r-ten>
-=1, cha1 4. blank 8 [C C# Cn]
+=1, cha1 cc64=0 4. blank 8 [C C# Cn]
 =2  cha2 16 [<C c> <G_ G>] 8 <eb bbl e~b-emph> rest \
  16 [<A_ A> <E_b Eb>] 8 rest rest
 |
@@ -101,10 +375,12 @@ i0.3 .50 cresc . . .
  | 22 19 19 21 19 17 |
 |
 =1' cha0 vol+5 4 Eb-ten 8 <D(2 d(1-emph> [<D)2 d)1> Bb A]
-=1, cha1 8 [B_ B_b] rest,, 4. blank
+=1, cha1 8 [B_ B_b] blank 4. blank
 =2  cha2 vol+5 16 [<C c> <G_ G>] 8 rest <eb(2 bbl(3 e~b(1-emph> \
  <e)2 b)3 e~)1> rest rest
 |
+il0.8 .45 5
+% bar 0
 =1' cha0 vol+5 8 [d Bb A-I4 F#] 4. <B_brll A-ten> 8 blank
 =1, cha1 4. blank 8 [Eb En Eb]
 =2' cha2 vol+5 4 rest 8 rest 16 [<c C> <A_ A>] 8 rest rest
@@ -132,6 +408,8 @@ i0.3 .50 cresc . . .
 =2  cha2 vol+5 16 [<B_# B#> <F_# F#>] 8 rest <a e~ a~-emph> \
  16 [<D# d#'> <A_ A>] 8 rest rest
 |
+il0.8 .17 10
+% bar 10
 =1  cha0 vol+5 4 <A_r A-ten>  8 <G#, g#-emph> 4 <A_r A-ten>  8 <G#, g#-emph>
 =1, cha1 8 [E# En] rest,,, 8 [E# En] rest,,,
 =2  cha2 vol+5 16 [<B_# B#> <F_# F#>] 8 rest <a e~ a~-emph> \
@@ -159,6 +437,8 @@ I0.8 .01 f
 =1' cha0 4. <B_# E Ax B#-emph> 16 cha1 [E_{2 A_ B_ E G# A]
 =2, cha2 4. <e a-emph> rest
 |
+il0.8 .25 15
+% bar 15
 =1' cha1 16 [B# A G# E B_# A_] 8 E_}2 rest rest
 =2 cha2 4. rest 8 rest [<B_# B#-emph> <F_# F#-emph>]
 /
@@ -166,7 +446,7 @@ I0.8 .01 f
  | 7 7 7 8 7 8 12 12 11 15 11 11 \
  | 11 15 11 12 12 12 10 10 10 10 9 9 |
 |
-=1' cha0 vol120 8 [g#r-emph 8. e-emph 16 d#-emph] 4. g(1
+=1' cha0 vol120 8 [g#r-emph 8. e-emph 16 d#-emph] 4. g(1-emph
 =1, cha1 vol120 4. <G#r B#l> <G(4 B(2>
 =2, cha2 <a e~ a~-emph> <a(2 e~(3 a~(1-emph>
 |
@@ -180,4 +460,413 @@ I0.8 .01 f
 =1' cha1 16 [B# A G# E B_# A_] 8 E_}2 rest rest
 =2 cha2 4. rest 8 rest [<F_## F##-emph> <C_# C#-emph>]
 
+5 systems 15 / 19-45-19 / 19-45-19 / 19-45-19 / 19-45-19 / 19-45-19 10 /
+pagenum
+innerhead Prélude,  Deux Morceaux,  Op. 59 No.2,  Alexander Scriabin
+
+/
+4 bars | 23 18 20 15 15 15 | 15 15 20 20 20 16 \
+ | 9 9 11 16 10 10 10 10 10 10 9 9 | 9 9 11 16 10 10 10 10 10 10 9 9 |
+|
+il1.2 .35 20
+% bar 20
+=1' cha0 vol120 8 [d#r-emph 8. Bn-emph 16 A#-emph] 4. d(1-emph
+=1, cha1 vol120 4. <D#r F##l> <D(4 F(2>
+=2, cha2 <e b e~-emph> <e(2 b(3 e~(1-emph>
+|
+=1' cha0 4 d)1 8 B-emph [A#-emph F##-emph E-emph]
+=1, cha1 4. <D)4 F)2> rest,,
+=2  cha2 4. <e)2 b)3 e~)1-emph> 8 rest [<C# c#-emph> <G_# G#-emph>]
+|
+=1' cha0 8 <F_## B_ Ex F##-emph> 16 cha1 [F_{2 B_ D# E] [F E D B_] 8 F_}2
+=2' cha2 4 <B e-emph> 8 rest rest [<C# c#-emph> <G_# G#-emph>]
+|
+=1' cha0 8 <F_## B_ Ex F##-emph> 16 cha1 [F_{2 B_ D# E] [F E D B_] 8 F_}2
+=2' cha2 4 <B e-emph> 8 rest rest [<C# c#-emph> <G_# G#-emph>]
+/
+4 bars | 9 9 11 16 10 10 10 10 10 10 9 9 | 10 10 11 10 10 10  10 10 10 14 9 9 \
+ | 12 12 12 18 12 11 | 18 12 12 18 12 11 |
+|
+=1' cha0 8 <F_## B_ Ex F##-emph> 16 cha1 [F_{2 B_ D# E] [F E D B_] 8 F_}2
+=2' cha2 4 <B e#-emph> 8 rest rest [<C# c#-emph> <G_n Gn-emph>]
+|
+il0.7 .25 25
+% bar 25
+=1' cha0 8 <A_br B_x Fnl Ab-emph> 16 cha1 [A_{2 B_ E F] [A F E A_#] 8 G_#}2
+=2' cha2 4 <Br fn-emph> 8 rest rest [<B_# B#-emph> <F_# F#-emph>]
+|
+=1' 4. <Er G#l B#> vol55 <C#l F# B-ten>
+I0.5 .40 p
+=2  4. <er a#> vol65 16 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+|
+=1' 4. vol+5 <C#r F#l B#-ten> vol+5 <C F B-ten>
+i0.5 .10 cresc   .   .   .
+=2  16 vol+4 [<D#{2 d#'> <A_}2 A>] 8 rest rest \
+ 16 vol+4 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+/
+4 bars | 9 9 9 18 11 10 | 10 9 6 6 6 6 9 9 6 6 5 5 \
+ | 10 8 6 6 6 5 6 5 6 6 5 5 | 7 8 8 8 8 9 9 9 6 6 6 5 |
+|
+=1' 4. rest 4. vol+5 <C#r F#l B#-ten>
+I0.4 .40 mp
+=2  4. rest 16 vol+4 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+|
+=1  8 vol+5 <E A-ten> 4 <G#, g#-emph> 4. <C#rll B#'-ten>
+=1, 4. blank 8 [F#l F## F#]
+=2  16 vol+4 [<F#{2 f#'> <C#}2 c#>] 4 <a e~ a~-emph> \
+ 16 vol+4 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+|
+il0.9 .20 30
+% bar 30
+=1' 4 vol+5 <A_r A-ten> blank blank
+=1, 8 [E#l En] <G#(2 g#(1-emph> [<G)2 g)1> e d#]
+=2  16 vol+4 [<F#{2 f#'> <C#}2 c#>] 8 rest vol+4 <a(2 e~(4 a~(1-emph> \
+ <a)2 e~)4 a~)1> rest rest 
+|
+=1' 4. blank vol+5 <C#rll B#-ten>
+=1, 8 [g# e d#-I5, B# A] blank 2 blank
+=1, 4. blank 8 [F#l F## F#]
+i0.5 .40 cresc   .   .   .
+=2  4. rest 16 vol+4 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+/
+4 bars | 10 8 6 6 6 5 6 5 6 6 5 5 | 6 7 7 7 7 6 10 9 6 6 6 5 \
+ | 9 8 6 6 6 5 6 5 6 6 5 5 | 6 7 7 7 7 7 10 9 6 6 6 5 |
+|
+=1' 4 vol+5 <A_r A-ten> blank blank
+=1, 8 [E#l En] <G#(2 g#(1-emph> [<G)2 g)1> e d#]
+=2  16 vol+4 [<F#{2 f#'> <C#}2 c#>] 8 rest vol+4 <a(2 e~(4 a~(1-emph> \
+ <a)2 e~)4 a~)1> rest rest
+|
+=1, 8 [g# e d#-I"4     ", B#] 2 blank
+=1' 4. blank vol+5 <Er d#-ten>
+=1, 4. blank 8 [A A# An]
+=2  4. rest 16 vol+4 [<F#{2 f#'> <Cn}2 cn>] 8 rest rest
+|
+=1' 4 vol+5 <Cr c-ten> blank blank
+=1, 8 [G# Gn] <B(2 b(1-emph> [<B)2 b)1> g f#]
+=2  16 vol+4 [<A{2 a'> <E}2 e'>] 8 rest vol+4 <c~(2 g~(4 c~~(1-emph> \
+ <c~)2 g~)4 c~~)1> rest rest
+|
+il0.9 .15 35
+% bar 35
+=1, 8 [<B b> g f#-I"4     ", d#] 2 blank
+=1, 4. blank vol+5 4 <G c f#-ten> 8 rest
+=2  4. rest 16 vol+4 [<A{2 a'> <Eb}2 eb'>] 8 rest rest
+/
+4 bars | 9 12 6 6 6 5 11 8 6 6 6 5 | 9 8 6 6 6 5 11 8 6 6 6 5 \
+ | 9 8 6 6 6 5  9 8 6 6 6 5 | 10 10 12 12 12 10 |
+|
+=1  8 vol+5 <Ebr, Bbl eb-ten> 4 <d d~-emph> 4. <Gr f#'-ten>
+=1, 4. blank 8 [c c# c]
+=2  16 vol+4 [<F#{2 f#'> <C}2 c>] 4 <bb e~bl b~b-emph> \
+ 16 vol+4 [<A{2 a'> <Eb}2 eb'>] 8 rest rest
+|
+=1' 4 vol+5 <Ebrl eb-ten> 8 <d d~-emph> 4. <Gr f#-ten>
+=1, 8 [Bn Bb] rest, 8 [c c# cn]
+=2  16 vol+4 [<F#{2 f#'> <C}2 c>] 8 rest <bb e~bl b~b-emph> \
+ 16 vol+4 [<A{2 a'> <Eb}2 eb'>] 8 rest rest
+|
+=1' 4 vol+5 <Ebrl eb-ten> 8 <d d~-emph> 4 vol+5 <Ebrl eb-ten> 8 <d d~-emph>
+=1, 8 [Bn Bb] rest, 8 [Bn Bb] rest,
+=2 16 vol+4 [<F#{2 f#'> <C}2 c>] 8 rest <bb e~bl b~b-emph> \
+ 16 vol+4 [<F#{2 f#'> <C}2 c>] 8 rest <bb e~bl b~b-emph>
+|
+=1 vol65 4 rest 8 <d f# d~-emph> vol+10 \
+ [<d f d~-emph> vol+10 <d f d~-emph> vol+10 <d f d~-emph>]
+I0.9 .25 p
+i0.7 .65 cresc . . .
+=2, vol65 4 rest 8 <bb e~bl b~b-emph> vol+10 \
+ [<b e~ b~-emph> vol+10 <F# f#-emph> vol+10 <C c-emph>]
+
+5 systems 15 / 19-45-19 / 19-45-19 / 19-45-19 / 19-45-19 / 19-45-19 10 /
+pagenum
+innerhead Prélude,  Deux Morceaux,  Op. 59 No.2,  Alexander Scriabin
+
+/
+4 bars | 23 18 20 15 15 15 | 16 16 20 20 20 16 \
+ | 7 7 7 8 7 8 15 11 11 11 11 11 \
+ | 14 11 14 13 14 13 10 10 9 9 9 8 |
+|
+il1.1 40
+% bar 40
+i1.2 .23 avec défi
+=1' cha1 vol120 4. f#rll fr(1
+=1, cha1 vol120 8 [<d d~-emph> 8. <Bb bb-emph> 16 <A a-emph>] \
+ 4. <d(2 d~(3-emph>
+I0.8    f
+=2, cha2 <bb e~bl b~b-emph> <b(2 e~(3 b~(1-emph>
+|
+=1, cha1 4 <d)2 f)1 d~)3> 8 <Bb bb-emph> [<A a-emph> <F# f#-emph> <Eb eb-emph>]
+=2  cha2 4 <b)2 e~)3 b~)1> 8 rest rest [<C c-emph> <G_ G-emph>]
+|
+=1  cha0 4. <F#,rr Bbl ebxl f#l-emph> 16 cha1 [B_b{2 Eb F B'-s1 d' e']
+=2, cha2 4. <er a-emph> rest
+|
+=1  cha1 16 [f#-s4 eb d Bb-s1 F#, Eb,] 8 B_b}2 rest rest
+=2' cha2 4. rest 8 rest [<F# f#-emph> <C c-emph>]
+/
+4 bars | 23 18 20 15 15 15 | 16 16 20 20 20 16 \
+ | 7 7 7 8 7 8 15 11 11 11 11 11 \
+ | 14 11 14 13 14 13 10 10 9 9 9 8 |
+|
+=1' cha1 vol120 4. f#rll fr(1
+=1, cha1 vol120 8 [<d d~-emph> 8. <Bb bb-emph> 16 <A a-emph>] \
+ 4. <d(2 d~(3-emph>
+=2, cha2 <bb e~bl b~b-emph> <b(2 e~(3 b~(1-emph>
+|
+il1.1 .13 45
+% bar 45
+=1, cha1 4 <d)2 f)1 d~)3> 8 <Bb bb-emph> [<A a-emph> <F# f#-emph> <Eb eb-emph>]
+=2  cha2 4 <b)2 e~)3 b~)1> 8 rest rest [<C c-emph> <G_ G-emph>]
+|
+=1  cha0 4. <F#,rr Bbl ebxl f#l-emph> 16 cha1 [B_b{2 Eb F B' d' e']
+=2, cha2 4. <er a-emph> rest
+|
+=1  cha1 16 [f# eb d Bb F#, Eb,] 8 B_b}2 rest rest
+=2' cha2 4. rest 8 rest [<C# c#-emph> <G_ G-emph>]
+/
+4 bars | 23 18 20 15 15 15 | 16 16 20 20 20 16 \
+ | 11 11 11 11 11 11 11 11 11 11 8 8 | 11 11 11 11 11 11 11 11 11 11 8 8 |
+|
+=1' cha1 vol120 4. c#rll cr(1
+=1, cha1 vol120 8 [<A a-emph> 8. <Fn fn-emph> 16 <E e-emph>] \
+ 4. <A(2 a(3-emph>
+=2, cha2 <fn bbl f~n-emph> <f(2 b(3 f~(1-emph>
+|
+=1, cha1 4 <A)2 c)1 a)3> 8 <Fn fn-emph> [<E e-emph> <C# c#-emph> <B_b Bb-emph>]
+=2  cha2 4 <f)2 b)3 f~)1> 8 rest rest [<G_ G-emph> <D_ D-emph>]
+|
+il1.1 .25 50
+% bar 50
+=1' cha0 8 <C#r F Bbl-emph c#lx> 16 cha1 [C{2 F A B] [c B A F] 8 C}2
+=2  cha2 4 <Bbr, f bb-emph> 8 rest rest [<G_ G> <D_ D>]
+|
+=1' cha0 8 <C#r F Bbl-emph c#lx> 16 cha1 [C{2 F A B] [c B A F] 8 C}2
+=2  cha2 4 <Bbr, f bb-emph> 8 rest rest [<G_ G> <D_ D>]
+/
+4 bars |20 21 21 21 21 16 |11 11 11 15 11 11 11 15 14 11 7 7 \
+ | 7 7 7 7 7 7 15 11 8 7 7 7 | 15 11 8 7 7 7 8 7 8 7 7 7 |
+|
+=1' cha0 8 <C# F Bbl-emph c#lx> 16 cha1 [C{2 F A B] [c B A F] 8 C}2
+=2  cha2 4 <Bn, f bn-emph> 8 rest rest [<F_## F##> <C_# C#>]
+|
+=1' cha0 8 <Dx E# B-emph> 16 cha1 [D{2 E A# B] [d B A# En] 8 D}2
+=2  cha2 4 <B, e# b-emph> 8 rest rest [<F_# F#> <C_n Cn>]
+|
+=1' 4. <Dr Ex Bb d-emph> vol70 <B_b E A-ten>
+=2  4. <Bbr, enl bb-emph> vol75 16 [<C{2 c> <F_#}2 F#>] 8 rest rest
+|
+il0.8 .30 55
+% bar 55
+=1' 4. vol+8 <B_b E A-ten> vol+8 <B_ E A-ten>
+=2  16 vol+6 [<C{2 c> <F_#}2 F#>] 8 rest rest vol+6 rest [<F_ F> <C_ C>]
+/
+6 bars | 8 7 8 7 8 7 15 11 7 7 7 6 | 15 11 8 7 8 7 7 7 7 7 7 6 \
+ | 8 7 7 7 7 9 6 6 6 6 6 6 | 6 6 6 6 7 7 6 6 6 6 11 10 \
+ | 8 4 4 4 4 4 4 4 4 4 4 4 4 | 24 ||
+|
+=1' 4. vol+8 <D Ex Bb d-emph> vol+8 <B_b E A-ten>
+=2  8 vol+6 <Bb, e bb-emph> rest rest vol+6 16 [<C{2 c> <F_#}2 F#>] 8 rest rest
+|
+=1' 4. vol+8 <B_b E A-ten> vol+8 <B_ E A-ten>
+=2  16 vol+6 [<C{2 c> <F_#}2 F#>] 8 rest rest vol+6 rest [<F_ F> <C_ C>]
+|
+=1' cha0 vol120 8 [d-emph 8. Bb-ten> 16 A-ten] 4. d(1-emph
+=1, cha1 vol120 4. <Dx E> <Dx(2 E(3>
+=2, cha2 vol120 4. <Bb e bb-emph> <B(2 e(3 b(1-emph>
+|
+=1' cha0 4 d)1 vol125 8 Bb-emph 4 A-emph 16 rest F#-emph-s3
+=1, cha1 4. <Dx)2 E)3> blank
+=2, cha2 4 <B)2 e)3 b)1> 8 rest 4 rest 8 rest
+|
+=1' cha0 vol127 8-s blank 2. <Db(2 Ex(3 A(1-emph>
+=2' cha2 vol127 8-s <C_(2 C(4> 2. <C_)2(2 C)4(4 Bb(6 e(1 bb(3-emph>
+|
+=1' cha0 2. <Db)2 Ex)3 A)1>
+=2' cha2 2. <C_)2 C)4 Bb)6 e)1 bb)3>
+@
+
+
+1.6
+log
+@up to bar 39, two pages
+@
+text
+@a8 1
+midi off
+d520 1
+a520 1
+=1 vol70 4 rest 8 <d f# d~-emph> vol+10 \
+d524 1
+a524 1
+=2, vol70 4 rest 8 <bb e~bl b~b-emph> vol+10 \
+d526 107
+@
+
+
+1.5
+log
+@up to bar 35
+@
+text
+@d16 1
+d39 1
+d71 1
+d108 1
+d139 1
+d178 1
+d213 1
+d249 1
+d299 1
+d330 1
+d359 1
+d388 1
+d419 1
+d441 1
+d451 2
+a452 2
+=2  16 vol+5 [<D#{2 d#'> <A_}2 A>] 8 rest rest \
+ 16 vol+5 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+d459 1
+a459 1
+=2  4. rest 16 vol+5 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+d463 2
+a464 2
+=2  16 vol+5 [<F#{2 f#'> <C#}2 c#>] 4 <a e~ a~-emph> \
+ 16 vol+5 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+d467 1
+d470 2
+a471 2
+=2  16 vol+5 [<F#{2 f#'> <C#}2 c#>] 8 rest vol+5 <a(2 e~(4 a~(1-emph> \
+ <a)2 e~)4 a~)1-emph> rest rest 
+d477 1
+a477 1
+=2  4. rest 16 vol+5 [<D#{2 d#'> <A_}2 A>] 8 rest rest
+d484 1
+a484 1
+=2  16 vol+5 [<F#{2 f#'> <C#}2 c#>] 8 rest vol+5 <a(2 e~(4 a~(1-emph> \
+d490 1
+a490 1
+=2  4. rest 16 vol+5 [<F#{2 f#'> <Cn}2 cn>] 8 rest rest
+d494 1
+a494 1
+=2  16 vol+5 [<A{2 a'> <E}2 e'>] 8 rest vol+5 <c~(2 g~(4 c~~(1-emph> \
+d498 1
+d501 26
+a526 1
+=2  4. rest 16 vol+5 [<A{2 a'> <Eb}2 eb'>] 8 rest rest
+@
+
+
+1.4
+log
+@prelude up to bar 31
+@
+text
+@d463 23
+@
+
+
+1.3
+log
+@poeme seems finished
+@
+text
+@d8 3
+d14 2
+a15 2
+i1.8  .01 Avec grâce et douceur
+Il0.9 .01 Allegretto
+d140 1
+a140 1
+5 systems 10 / 19-45-19 / 19-50-19 / 19-50-19 / 19-40-19 / 19-45-19 15/
+d268 1
+a268 1
+| .55 .6 .65 .7 .75 .80 .85
+d273 1
+a273 1
+ 2. blank 2 blank vol40 4 <B_ B-fermata> cc64=0
+a274 1
+midi off
+d277 2
+a278 1
+# start no2
+d316 1
+a316 1
+=1, cha1 8 [B_ B_b] rest,, 4. blank
+d320 1
+d348 1
+d376 1
+d384 1
+a384 1
+=1' cha0 vol120 8 [g#r-emph 8. e-emph 16 d#-emph] 4. g(1
+d398 65
+@
+
+
+1.2
+log
+@the poem is up to bar 28
+@
+text
+@d194 77
+d273 1
+a273 1
+midi pause 2.0
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+5 systems 35 / 19-40-19 / 19-40-19 / 19-40-19 / 19-40-19 / 19-45-19 15/
+d10 1
+a10 1
+| 6/8 2.0
+d13 1
+a13 1
+=1, treble 6/8 cha0 vol70 leg99 8 rest [c# d#(1] [d)1 8. c~# 16 g#]
+d15 115
+a129 8
+midi off
+=2' bass   6/8 cha1 vol60 leg99 2. g~r
+midi on
+=2  bass   6/8 cha2 vol60 leg99 42 g~#-P d~# 4 a 8 B
+|
+=1' cha0 2. a
+=1, cha1 4 Gn-P 8 G 4 d 8 c#
+=2  8 [g~n-P e~b a] [eb' F] rest
+d131 10
+a140 9
+=1, cha0 8 rest [c# d#(1] [d)1 8. c~# 16 g#]
+midi off
+=2' cha1 2. g~r
+midi on
+=2  cha2 42 g~#-P d~# 4 a 8 B
+|
+=1' cha0 2. b
+=1, cha1 4 Ab-P 8 An 4 e 8 d#
+=2  cha2 8 [a~b-P f~ b] [f' G] rest
+d144 44
+a187 3
+=1, cha0 8 rest [d# e#(1] [e)1 d~# a#]
+=2' cha1 4. a~#(1 4 a~)1(1 16 [a~)1 a~]
+=2, cha2 42 a~#-P e~# 4 b 8 c#
+d189 7
+d198 1
+a198 1
+midi on
+d211 1
+a211 1
+=1' treble 6/8 cha0 vol60 leg80 4. <G_ C F#-ten>
+d213 1
+a213 1
+=2' bass   6/8 cha2 vol60 leg80 16 [<A_ A-*> <E_b Eb>] 8 rest rest
+d216 1
+a216 1
+=1, cha1 4. blank 8 [C C# Cn]
 @

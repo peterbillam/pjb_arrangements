@@ -1,4 +1,4 @@
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 NORMALIZE = /usr/bin/normalize-audio
 BLURB = /home/pjb/mus/blurb/compositions
 ARRD = /home/pjb/www/mus/arr
