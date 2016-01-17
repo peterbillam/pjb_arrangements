@@ -1,0 +1,44 @@
+boundingbox 465 155
+midi channel 0 patch 60 reverb 45
+2 systems 9 /27 5/27/
+/
+8 bars | 3b 5 | 4 4 3 | 5 5 4 | 4 4 3 | 4 4 4 | 4 4 4 | 4 4 4 | 5 5 4 |
+| 0.24
+b0.7 86b
+r0.7 .26 Third Symphony
+=1 treble 3b cha0 leg85 vol80 4 B_
+| 0.68
+=1 vol90 2. B_(2
+|
+=1  2 B_)2 4 vol-10 leg75 E vol+10 leg85
+|
+=1' 2 E 4 vol-10 leg75 G vol+10 leg85
+|
+=1' 2 G 4 vol-10 leg75 B vol+10 leg85
+|
+=1' 2 B 4 vol-10 leg75 G vol+10 leg85
+|
+=1 2 E 4 leg75 G leg85
+|
+=1 4 F rest rest
+/
+8 bars | 3b 4 4 5 | 5 6 4 | 5 13 4 | 5 6 4 | 4 3 4| 5 5 4 | 4 4 4 | 4 1
+|
+=1, bass 3b 2 rest 4 e
+| 
+=1, 4 e{1 B}1 b-.
+|
+=1, 4 b{1 g}1 blank
+=1 2 blank treble 16 blank
+=1 2 blank 4 vol-10 leg75 G vol+10 leg85
+| 
+=1  4 G{2 E}2 B-.
+| 
+=1  2. B(1
+| 
+=1  4 B)1 rest vol-10 B vol+10
+|
+=1, 2 c 4 vol-10 d vol+10
+| .55
+=1 4 e blank
+

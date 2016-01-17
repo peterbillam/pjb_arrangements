@@ -1,0 +1,27 @@
+boundingbox 480 145
+midi channel 0 patch 40 reverb 45
+2 systems 9 /27/27/
+/
+4 bars |3 3 3 3 3 3 3 3 6 6 6 5|13 12 12|13 12 12|5 4 4 4 4 4 5 4 8 6 5 5|
+| 1.6
+b0.7 88c
+r0.7 .26 Op.59 No.3
+=1, treble cha0 leg90 vol90 2 c{1 vol-10 16 [B c d e}1]
+|
+i0.7 .10 Menuetto, Grazioso
+=1 vol90 leg90 2 f{1 4 leg70 e}1
+|
+=1 vol90 leg70 2 d 4 leg90 a(1
+|
+=1 vol90 leg70 8 a)1 leg90 4 g leg90 8 f# 83 [g{1 fn}1 leg50 d-.]
+/
+4 bars | 3 3 3 3 3 3 3 3 6 6 6 5|13 13 14|7 7 7 8 8 7\
+ |3 3 3 3 3 3 3 7 4 3 3 3 |
+|
+=1 leg90 vol90 2 c{1 vol-10 16 [B c d e}1]
+|
+=1 vol90 leg90 2 f{1 4 leg90 e}1
+| 
+=1  leg70 4. d vol-10 leg90 8 [a{1 g}1 f-.]
+|
+=1 vol90 4.. e 16 d 4 c

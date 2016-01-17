@@ -1,0 +1,50 @@
+boundingbox 500 270
+midi channel 0 patch 40 reverb 45
+4 systems 9 /27 5/27/27 5/27/
+/
+5 bars |2b 5 5 4 |5 5 5 5 5 4 |8 5 5 5 5 4 |8 5 5 5 5 4 |8 5 5 5 8 4 |
+| 0.50
+b0.7 87d
+r0.7 .26 Op. 18 No.6
+=1, treble 2b cha0 leg85 vol80 16 [F{1 d}1 c-.]
+| 0.96
+i0.7 .65 Allegretto quasi Allegro
+=1, vol90 16 [B{1 A}1 B-. vol-10 c-. d-. e-.] vol+10
+|
+=1, vol90 16 [c{1 Bn}1 c-. vol-10 F-. e-. d-.]
+|
+=1, vol90 16 [c{1 Bn}1 c-. vol-10 d-. e-. f-.]
+|
+=1, vol90 16 [d{1 Bb}1 b vol-10 B b ab]
+/
+4 bars | 2b 5 5 7 5 7 4 | 5 5 5 5 5 4 | 5 5 5 5 5 4 | 5 5 5
+|
+=1, 16 [ab{1 g}1 g f# vol-10 g fn] vol+10
+|
+=1, 16 [f{1 e}1 e d vol-10 e d] vol+10
+|
+=1, 16 [c{1 g}1 f vol-10 e d c] vol+10
+| 0.48
+=1' 16 [B{2 A}2 vol-10 G]
+/
+5 bars |2b 5 5 4|5 5 5 5 5 4 | 8 5 5 5 5 4 | 8 5 5 5 5 4 | 8 5 5 5 8 4 |
+|
+=1, 16 [F d c] vol+10
+| 0.96
+=1, 16 [B{1 A}1 B-. vol-10 c-. d-. e-.] vol+10
+|
+=1, vol90 16 [c{1 Bn}1 c-. vol-10 F-. e-. d-.] vol+10
+|
+=1, 16 [c{1 Bn}1 c vol-10 d e f] vol+10
+|
+=1, 16 [d{1 Bb}1 b vol-10 B b ab] vol+10
+/
+4 bars | 2b 5 5 7 5 7 4 | 5 5 5 5 5 4 | 5 5 5 5 5 4 | 10
+|
+=1 16 [ab{1 g}1 g f# g fn]
+|
+=1 16 [f{1 e}1 e d e d]
+|
+=1 16 [c{1 g}1 f vol-10 e d c] vol+10
+| .68
+=1 4 B

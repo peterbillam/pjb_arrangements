@@ -1,0 +1,46 @@
+boundingbox 450 140
+midi channel 0 patch 68 reverb 45
+midi channel 1 patch 70 reverb 45
+midi channel 2 patch 60 reverb 45
+2 systems 9 /27/27/
+/
+5 bars | 2# 15 | 30 | 30 | 36 | 24
+| 0.32
+b0.7 85b
+r0.7 .26 Second Symphony
+=1  treble 2# cha0 leg99 vol90 8 [d e]
+| 0.9
+=1  2. <d f>
+#M=2 bass cha1 leg99 vol80 2. d~
+|
+=1  2. <d g>
+#M=2 2. <b d~>
+|
+=1, 4 <d a> <A g> leg70 <A f>
+#M=2, 4 <f# d~> <e c~#> leg70 <d d~>
+| 0.63
+=1, 4 leg99 <A e> rest
+#M=2, 4 leg99 <a c~#> rest
+/
+5 bars | 1# 15 | 30 | 30 | 36 | 24
+| .31
+=1  4 f
+#M=2' 4 <f# d~#>
+| 0.9
+=1, 2. <B g>
+#M=2' 2. <e e~>
+| 
+=1, vol+10 leg70 2. <c a>
+#M=2, vol+10 leg70 2. <A c~#>
+#M=3  alto cha2 vol100  leg99 2. <A e>
+| 
+#P=1, vol-15 leg99 4 <F d f> <G e g> leg70 <E c e>
+#M=1, vol-15 leg99 4 <d f#> leg80 <e g> leg75 <c e>
+#M=2, vol-15 leg99 4 <d d~> leg80 <G b> leg75 <A g>
+#M=3, vol-15 leg99 4 <d f#> leg75 <e g> leg65 <A e>
+| 0.63
+#P=1' leg99 4 <D F d> rest
+#M=1' leg99 4 d rest
+#M=2  leg99 4 <d f#> rest
+#M=3  leg99 4 <F# d> rest
+
