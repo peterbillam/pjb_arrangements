@@ -1,0 +1,30 @@
+boundingbox 480 155
+midi channel 0 patch 40 reverb 45
+2 systems 6 /27/27 11/
+/
+5 bars |1b 5 4 5 6 5 4 |5 4 5 6 5 4 |5 4 5 6 5 4 |5 5 6 11 5 4 | 11 12 28 |
+| 1.6
+b0.7 95b
+r0.6 .26 N. II. p.87
+=1  treble 1b cha0 leg90 vol90 4. A vol-5 8 G vol-5 4 F
+|
+=1 vol90 4. c vol-5 8 B vol-5 4 A
+|
+i0.5 .35 (?)
+=1' vol90 4. B vol-5 8 A vol-5 4 G
+|
+=1 vol90 4. d vol-5 8 c# vol-5 4 Bn
+|
+#P=1 vol90 4 c# vol-5 A vol-5 16 [G# A vol+5 B' c']
+#M=1 vol90 4 c# vol-5 A vol-5 16 [G# A vol+5 Bn' c']
+/
+4 bars |1b 10 10 12 | 3 3 3 4 3 2 3 2 3 2 2 2 \
+ | 3 2 3 2 3 2 3 2 3 3 3 4 | 10 10 24 |
+|
+=1 vol90 2 d 4 vol-10 c
+|
+=1 vol90 leg80 8. [B vol-5 16 d] vol-5 4 A G#
+| 
+=1 vol90 leg90 2 A vol-5 8. [B' 16 G]
+|
+=1 2 F vol-10 16 [E F G A]

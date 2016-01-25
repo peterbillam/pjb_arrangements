@@ -1,0 +1,35 @@
+boundingbox 520 175
+midi channel 0 patch 0 reverb 45
+1 systems /27-35-27 9/
+/
+4 bars |4b 5 5 5 5 5 5 5 5 6 6 9 12 5 5 5 5 | 48 40 \
+         | 5 5 5 5 5 5 5 5 6 6 9 12 5 5 5 5 | 48 40 |
+| 4.2
+b0.7 94a
+r0.7 .26 N. II. p.241
+$A = 32 [<a c~> e <a c~> e <a c~> e <a c~> e <a c~> e <a c~> e <a c~> e <a c~> e]
+$B = 32 [A_ A A_ A A_ A A_ A A_ A A_ A A_ A A_ A]
+=1, treble 4b cha0 leg95 vol120 2 blank 8 blank 16 rest <A c> vol127 4 <c e>
+#P=2' bass   4b 2/// [<a c~> e] 1 blank
+#P=2' 4b 2 blank 8 <c a> rest 4 rest
+#P=2,        4b 2/// [A_ A]   1 blank
+#P=2, 4b 2 blank 8 <A_ A> rest 4 rest
+#M=2' bass   4b cha0 leg95 vol80 $A vol100 8 <c a> rest 4 rest
+#M=2,        4b cc64=127 $B vol100 8 <A_ A> cc64=0 blank 4 blank
+|
+=1 1 blank
+=2' vol-5 8 <b d~> rest' vol-8 <a c~> rest' 4 vol-8 <g b> rest'
+=2, vol-5 8 <G e>  rest, vol-8 <A e>  rest, 4 vol-8 <E e> rest,
+|
+=1, vol120 2 blank 8 blank 16 rest <A c> vol127 4 <c e>
+#P=2' 2/// [<a c~> e] 1 blank
+#P=2' 2 blank 8 <c a> rest 4 rest
+#P=2, 2/// [A_ A]   1 blank
+#P=2, 2 blank 8 <A_ A> rest 4 rest
+#M=2' vol80 $A vol100 8 <c a> rest 4 rest
+#M=2, cc64=127 $B vol100 8 <A_ A> cc64=0 blank 4 blank
+|
+=1 1 blank
+=2' vol-5 8 <b d~> rest' vol-8 <a c~> rest' 4 vol-8 <g b> rest'
+#M=2, vol-5 8 <G e>  rest, vol-8 <A e>  rest, 4 vol-8 <E e> rest,
+

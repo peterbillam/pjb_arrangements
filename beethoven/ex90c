@@ -1,0 +1,15 @@
+boundingbox 520 70
+midi channel 0 patch 48 reverb 
+1 systems 6 /27/
+/
+4 bars |4b 4 3 | 3 3 4 4 4 3 | 3 3 4 4 4 3 | 3 3 4 4 4 3 |
+| .70
+b0.6 90c
+r0.6 .26 N. I. p.63
+=1 bass 4b cha0 leg80 vol90 16 [A vol-10 B]
+| 2.15
+=1 vol90 leg80 8 [c leg99 16 c B 16 vol-10 leg90 A c]
+|
+=1, vol90 leg80 8 [e leg99 16 e d 16 vol-10 leg90 c e]
+|
+=1, vol90 leg80 8 [a leg99 16 a e 16 vol-10 leg90 c e]

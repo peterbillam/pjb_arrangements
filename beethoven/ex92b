@@ -1,0 +1,27 @@
+boundingbox 470 130
+midi channel 0 patch 0 reverb 
+2 systems 9 /27/27/
+/
+4 bars |3b 5 5 5 4 | 5 5 4 3 | 5 5 5 4 | 5.5 5 5 5 |
+| 4.2
+b0.7 92b
+r0.7 .21 Op.96
+i0.7 .70 Adagio espressivo
+=1 treble 3b cha0 leg120 vol80 8 [G E F G]
+|
+=1' vol+5 8 [A vol+5 c] leg99 vol-5 4 F
+|
+=1' leg120 vol-5 8 [F G A leg99 B]
+|
+=1' leg99 8 [B An] leg120 8. [B 16 Ab]
+/
+4 bars | 3b 5 5 5 4 | 5 5 4 3 | 5 6 5 4 | 5 5 5 2
+|
+=1 leg120 vol80 8 [G E F G]
+|
+=1 8 [D E] 4 leg99 F
+| 1.05 1.2 1.1 1.05
+=1 8 [G vol+10 16 A F] 8 vol-5 [E vol-5 F]
+| 3.8
+=1 8 [G vol-5 F] vol-5 E 16 blank
+

@@ -1,6 +1,6 @@
 D = /home/pjb/www/mus/beethoven
 EPS2JPG = /home/pbin/eps2jpg
-MUSCRIPT = /home/pbin/muscript
+MUSCRIPT = /home/pbin/muscript_lua
 TIMIDITY = /usr/bin/timidity
 
 all: motifs.tgz \
@@ -108,7 +108,15 @@ all: motifs.tgz \
  ${D}/ex88c.jpg ${D}/ex88c.mp3 \
  ${D}/ex89a.jpg ${D}/ex89a.mp3 ${D}/ex89b.jpg ${D}/ex89b.mp3 \
  ${D}/ex89c.jpg ${D}/ex89c.mp3 ${D}/ex89d.jpg ${D}/ex89d.mp3 \
- ${D}/ex89e.jpg ${D}/ex89e.mp3
+ ${D}/ex89e.jpg ${D}/ex89e.mp3 \
+ ${D}/ex90a.jpg ${D}/ex90a.mp3 ${D}/ex90b.jpg ${D}/ex90b.mp3 \
+ ${D}/ex90c.jpg ${D}/ex90c.mp3 ${D}/ex90d.jpg ${D}/ex90d.mp3 \
+ ${D}/ex91a.jpg ${D}/ex91a.mp3 ${D}/ex91b.jpg ${D}/ex91b.mp3 \
+ ${D}/ex92a.jpg ${D}/ex92a.mp3 ${D}/ex92b.jpg ${D}/ex92b.mp3 \
+ ${D}/ex93a.jpg ${D}/ex93a.mp3 ${D}/ex93b.jpg ${D}/ex93b.mp3 \
+ ${D}/ex94a.jpg ${D}/ex94a.mp3 ${D}/ex94b.jpg ${D}/ex94b.mp3 \
+ ${D}/ex95a.jpg ${D}/ex95a.mp3 ${D}/ex95b.jpg ${D}/ex95b.mp3 \
+ ${D}/ex95c.jpg ${D}/ex95c.mp3 \
 
 
 
@@ -698,6 +706,51 @@ distex89d:
 distex89e:
 	upload ${D}/ex89e.jpg
 	upload ${D}/ex89e.mp3
+distex90a:
+	upload ${D}/ex90a.jpg
+	upload ${D}/ex90a.mp3
+distex90b:
+	upload ${D}/ex90b.jpg
+	upload ${D}/ex90b.mp3
+distex90c:
+	upload ${D}/ex90c.jpg
+	upload ${D}/ex90c.mp3
+distex90d:
+	upload ${D}/ex90d.jpg
+	upload ${D}/ex90d.mp3
+distex91a:
+	upload ${D}/ex91a.jpg
+	upload ${D}/ex91a.mp3
+distex91b:
+	upload ${D}/ex91b.jpg
+	upload ${D}/ex91b.mp3
+distex92a:
+	upload ${D}/ex92a.jpg
+	upload ${D}/ex92a.mp3
+distex92b:
+	upload ${D}/ex92b.jpg
+	upload ${D}/ex92b.mp3
+distex93a:
+	upload ${D}/ex93a.jpg
+	upload ${D}/ex93a.mp3
+distex93b:
+	upload ${D}/ex93b.jpg
+	upload ${D}/ex93b.mp3
+distex94a:
+	upload ${D}/ex94a.jpg
+	upload ${D}/ex94a.mp3
+distex94b:
+	upload ${D}/ex94b.jpg
+	upload ${D}/ex94b.mp3
+distex95a:
+	upload ${D}/ex95a.jpg
+	upload ${D}/ex95a.mp3
+distex95b:
+	upload ${D}/ex95b.jpg
+	upload ${D}/ex95b.mp3
+distex95c:
+	upload ${D}/ex95c.jpg
+	upload ${D}/ex95c.mp3
 
 
 distmotifs : motifs.tgz
@@ -1477,4 +1530,64 @@ ${D}/ex89e.jpg: ex89e
 	bash src2jpg ex89e $@
 ${D}/ex89e.mp3: ex89e
 	bash src2mp3 ex89e $@
+${D}/ex90a.jpg: ex90a
+	bash src2jpg ex90a $@
+${D}/ex90a.mp3: ex90a
+	bash src2mp3 ex90a $@
+${D}/ex90b.jpg: ex90b
+	bash src2jpg ex90b $@
+${D}/ex90b.mp3: ex90b
+	bash src2mp3 ex90b $@
+${D}/ex90c.jpg: ex90c
+	bash src2jpg ex90c $@
+${D}/ex90c.mp3: ex90c
+	bash src2mp3 ex90c $@
+${D}/ex90d.jpg: ex90d
+	bash src2jpg ex90d $@
+${D}/ex90d.mp3: ex90d
+	bash src2mp3 ex90d $@
+${D}/ex91a.jpg: ex91a
+	bash src2jpg ex91a $@
+${D}/ex91a.mp3: ex91a
+	bash src2mp3 ex91a $@
+${D}/ex91b.jpg: ex91b
+	bash src2jpg ex91b $@
+${D}/ex91b.mp3: ex91b
+	bash src2mp3 ex91b $@
+${D}/ex92a.jpg: ex92a
+	bash src2jpg ex92a $@
+${D}/ex92a.mp3: ex92a
+	bash src2mp3 ex92a $@
+${D}/ex92b.jpg: ex92b
+	bash src2jpg ex92b $@
+${D}/ex92b.mp3: ex92b
+	bash src2mp3 ex92b $@
+${D}/ex93a.jpg: ex93a
+	bash src2jpg ex93a $@
+${D}/ex93a.mp3: ex93a
+	bash src2mp3 ex93a $@
+${D}/ex93b.jpg: ex93b
+	bash src2jpg ex93b $@
+${D}/ex93b.mp3: ex93b
+	bash src2mp3 ex93b $@
+${D}/ex94a.jpg: ex94a
+	bash src2jpg ex94a $@
+${D}/ex94a.mp3: ex94a
+	bash src2mp3 ex94a $@
+${D}/ex94b.jpg: ex94b
+	bash src2jpg ex94b $@
+${D}/ex94b.mp3: ex94b
+	bash src2mp3 ex94b $@
+${D}/ex95a.jpg: ex95a
+	bash src2jpg ex95a $@
+${D}/ex95a.mp3: ex95a
+	bash src2mp3 ex95a $@
+${D}/ex95b.jpg: ex95b
+	bash src2jpg ex95b $@
+${D}/ex95b.mp3: ex95b
+	bash src2mp3 ex95b $@
+${D}/ex95c.jpg: ex95c
+	bash src2jpg ex95c $@
+${D}/ex95c.mp3: ex95c
+	bash src2mp3 ex95c $@
 

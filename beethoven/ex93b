@@ -1,0 +1,71 @@
+boundingbox 550 330
+midi channel 0 patch 00 reverb 
+5 systems 9 /25/25 11/25 6/25 3/25/
+/
+5 bars |2b 10 10 12 17 |11 13 9 8 |10 10 12 17 \
+ |11 13 9 8 |7 7 8 8 8 12 8 7 |
+| 1.40
+b0.7 93b
+r0.7 .20 Op.97
+i0.7 .65 Allegro moderato
+#P=1 treble 2b cha0 leg95 vol90 4 D vol-10 32-s [E{2 64 blank 32-s F] \
+ 64 blank 83 [E}2 16. D 32 E]
+#M=1 treble 2b cha0 leg95 vol90 4 D vol-10 32-s [E{2 F] 83 [E}2 16. D 32 E]
+|
+=1 vol90 8 F rest 4 rest
+|
+#P=1' leg95 vol90 4 G vol-10 32-s [Ab{2 64 blank 32-s B] \
+ 64 blank 83 [A}2 16. G 32 A]
+#M=1' leg95 vol90 4 G vol-10 32-s [Ab{2 B] 83 [A}2 16. G 32 A]
+| 
+=1 vol90 8 B' rest 4 rest
+|
+#P=1, vol90 8 [B-tr 16 e d] [c B An G]
+#M=1, vol90 163 [B c B 16 e d] [c B An G]
+/
+5 bars |2b 24 19 | 12 12 12 11 | 36 | 100 | 14 11 9 8 |
+|
+=1' 8 [F{2 leg75 B}2] leg95 4 D
+|
+=1 8 [D{2 F}2 E leg65 C]
+|
+=1 4 leg95 B_ rest
+|
+=1 167 [D E D C-I7 D E F] [E F E D-I7 E F G]
+|
+=1' vol90 8 F rest 4 rest
+/
+3 bars |2b 11 7 7 7 7 7 7 7 7 7 7 7 7 6 \
+ | 3 3 3 3 3 3 4 4 4 11 7 5 | 6 6 7 6 6 6 6 6 11 7 6 5 |
+|
+=1' 167 [G Ab G F-I7 G A B] [A B A G-I7 A B c]
+|
+=1' vol90 4 B 8 rest 163 [B Ab-I3 G]
+|
+=1 163 [e d c] [g f e] [d c B] [An B' G]
+/
+6 bars |2b 7 7 12 7 7 5 3 3 2 3 3 2 |9 9 9 8 |10 8 7 7 |20 16 |20 16 |20 16|
+|
+=1' 163 [F G F] [En G B] 4 D(2
+|
+=1' 8 [D)2 F leg80 E leg70 C]
+|
+=1' leg95 8 B_ rest 4 rest
+|
+=1, 8 [A{1 leg65 c}1] leg90 4 e
+|
+=1, 8 [d{1 leg65 f}1] leg90 4 b
+|
+=1, 8 [a{1 leg55 c~}1] leg90 4 e~
+/
+5 bars |2b 65 | 64 | 64 | 48 | 12
+| 1.30
+=1 16 [e~ d~ c~ b] [c~ b a g]
+| 1.25
+=1 16 [a g f e] [f e d c]
+| 1.30
+=1 16 [e d c B] [c' B' A G]
+| 1.40
+=1' 8 [F{2 B}2 A-. c-.]
+| .80
+=1 8 B'

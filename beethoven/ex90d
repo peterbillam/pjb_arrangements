@@ -1,0 +1,31 @@
+boundingbox 520 135
+midi channel 0 patch 48 reverb 
+2 systems 9 /27/27/
+/
+5 bars |4b 8 | 2 2 2 1 2 2 2 3 2 2 2 2 | 2 2 2 1 2 2 3 4 2 2 2 2 \
+ | 2 2 2 4 2 2 2 3 2 2 2 2 | 2 2 2 4 2 2 1 1
+| .80
+b0.7 90d
+r0.7 .26 Fifth Symphony
+=1 bass   4b cha0 leg80 vol90 16. [a vol-10 32 b]
+| 2.4
+i0.7 .75 Andante con moto
+=1 vol90 leg70 8 [c~ 16. c~ 32 vol-10 b vol+10 16. a 32 vol-10 c~]
+|
+=1 vol90 leg70 8 [f(1 16. f)1 32 vol-10 an vol+10 16. b 32 vol-10 c~]
+|
+=1 vol90 leg90  16. [d~ 32 c~ 16. b 32 vol-10 d~ 16. g 32 b]
+| 1.6
+=1 vol90 leg99 16. [en 32 g leg70 8 c~]
+/
+5 bars |4b 2 2 2 2 |2 2 2 3 2 2 1 1 2 2 1 1 |2 2 2 4 2 2 1 1 2 2 1 1 |16 |8
+| 0.8
+=1 vol90 leg90 16. [c~ vol-10 32 b]
+| 2.4
+=1 vol90 leg99 16. [an 32 f] 8. [b vol-10 16 d~]
+|
+=1 vol90 leg99 16. [g vol-10 32 e] 8 leg70 [ab vol+10 leg99 16. a 32 c~]
+|
+=1 vol90 leg99 4. e~
+| 1.2
+=1 vol80 leg99 8 c~ 16 blank
