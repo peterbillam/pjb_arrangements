@@ -1,0 +1,48 @@
+boundingbox 480 210
+midi channel 0 patch 40 reverb 45
+midi channel 1 patch 41 reverb 46
+3 systems 6 /27 5/27/27/
+/
+4 bars |3# 4 | 3 3 4 3 3 4 | 3 3 4 3 3 4 | 3 3 4 3 3 4 |
+| .15
+b0.7 97a
+r0.7 .26 N. II. p.102
+=1  treble 3# cha0 leg90 vol90 8 A_
+| 0.9
+#P=1 16-s A_ 16. blank 4 C 8 A_ 4 rest 8 C
+#M=1 vol100 16-s A_ 4 C vol-10 8 A_ 4 rest 8 C
+|
+#P=1 16-s C 16. blank 4 E 8 C 4 rest 8 E
+#M=1 vol100 16-s C 4 E vol-10 8 C 4 rest 8 E
+|
+#P=1 16-s E 16. blank 4 A 8 E 16-s A 16. blank 4 c' 8 A
+#M=1 vol100 16-s E 4 A vol-10 8 E vol100 16-s A 4 c vol-10 8 A
+/
+4 bars |3# 24 | 24 | 24 | 24 |
+|
+#P=1 16-s c' 16. blank 4 e 8 c 16-s e' 16. blank 4 a 8 e
+#M=1 vol100 16-s c' 4 e vol-10 8 c vol100 16-s e' 4 a vol-10 8 e
+| 
+#P=1 16-s a' 16. blank 8 [c~ b a] [g  a f]
+#M=1 vol100 16-s a' leg99 8 [c~ leg75 b a] [g  a f]
+|
+=1' vol100 2. e(1
+=1, cha1 vol90 4 rest, 8 E 4 A 8 A
+|
+=1' cha0 vol100 2. e)1(1
+=1, cha1 vol90 4 A 8 G 4 B 8 d
+/
+5 bars |3# 3 3 3 4.5 4.5 3 |4 4 4.5 4 4 3 \
+ |4 3 6  4 3 4 |4 3 6 4 3 3 |4 3 6 4 3 3 |
+|
+=1' cha0 vol100 4. e)1(1 4 e)1 8 blank
+=1, cha1 vol90 4. blank 8 rest, [A c]
+|
+=1, vol100 cha1 8 leg99 [c leg75 vol-10 B A] [A G F]
+|
+=1' vol90 cha0 4 rest' 8 E vol+10 4 A 8 vol-10 A
+=1, vol100 cha1 4 A 2 blank
+|
+=1  vol100 cha0 4 A 8 vol-10 G 4 vol+10 B 8 vol-10 d
+|
+=1  vol100 cha0 4 c 8 vol-10 e 4 vol+10 a 8 vol-10 a

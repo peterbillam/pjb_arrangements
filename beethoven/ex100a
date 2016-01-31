@@ -1,0 +1,32 @@
+boundingbox 460 135
+midi channel 0 patch 48 reverb 45
+2 systems 12 /27/27/
+/
+5 bars |3b 36 | 12 12 19 | 36 | 36 | 36 |
+| 0.96
+b0.7 100a
+r0.7 .26 Müller-Reuter
+r0.2 .36 Appendix 1, p.17
+=1 treble 3b cha0 leg90 vol90 2 B 4 d
+|
+=1 2 B 4 F bass
+|
+bl0.3 .25 X
+=1 2 ab 4 c~b
+|
+bl0.3 .35 X
+=1 2 a 4 f
+|
+=1 2 a 4 c~b
+/
+5 bars |1b 36 | 36 | 36 | 36 | 36 :||
+|
+=1 2 a 4 f
+| 
+=1 2 d 4 c~b
+|
+=1 2 an 4 b
+|
+=1 2 e 4 g
+|
+=1 2 e 4 B

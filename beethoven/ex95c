@@ -1,8 +1,8 @@
-boundingbox 480 210
+boundingbox 480 185
 midi channel 0 patch 40 reverb 45
 midi channel 1 patch 41 reverb 45
 midi channel 2 patch 42 reverb 45
-3 systems 6 /27/27/27/
+3 systems 12 /27/27 4/27/
 /
 3 bars | 9 9 14 | 7 13 14 | 11 14 11 |
 | 1.6
@@ -16,12 +16,12 @@ r0.6 .16 Op.59 No.3
 /
 2 bars | 1b 48 | 4 4 4 4 4 4 4 9 4 4 4 4 |
 | .533 .533 .52
-=1, vol85 16 [B c vol+5 d e] vol+5 [f g vol+5 a g] vol-5 [f e vol-5 d c]
+=1, vol85 16 [B c vol+5 d e] vol+5 [f g vol+5 leg99 a g] vol-5 [f e vol-5 d c]
 | .515 .51 .515
 =1 vol85 16 [B' A G F] [E D vol-5 C B_] bass cha1 [a g f e]
 /
 2 bars |1b 14 14 14 | 9 9 14 |
 | .52 .53 .533
-=1 16 cha2 [d' c B A] [G A B c'] vol+5 [d e f d]
+=1 16 cha2 [d' c B A] leg90 [G A B c'] vol+5 [d e f d]
 | 1.6
 =1 2 c vol-10 16 [B c d' e']

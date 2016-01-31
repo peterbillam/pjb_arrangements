@@ -1,0 +1,39 @@
+boundingbox 480 145
+midi channel 0 patch 40 reverb 45
+midi channel 1 patch 41 reverb 46
+2 systems 6 /27/27/
+/
+4 bars |1b 4 | 4 5 3 | 4 4 3 | 4 4 3 | 4 4 3 |
+| .15
+b0.7 97b
+r0.7 .66 N. II.
+=1  treble 1b cha0 leg90 vol90 4 f
+| 0.45
+r0.7 .25 p.107
+#P=1 16-s f' 16. blank 4 a 8 f rest' 4 a
+#M=1 vol100 16-s f 4 a vol-10 8 f rest 4 a
+|
+#P=1 16-s a' 16. blank 4 c~ leg70 a leg90 4 c~
+#M=1 vol100 16-s a 4 c~ vol-10 leg70 a leg90 4 c~
+|
+=1 leg60 4 f~ f~ d~
+|
+=1 4 c~ c~ d~
+/
+5 bars |1b 4 4 3 | 4 4 3 ||: 4 4 3 | 4 4 3 :|| 7
+|
+=1 vol100 4 c~ c~ b
+| 
+=1 vol100 4 a a b
+$A = {
+|
+=1, 4 a a g
+i0.01 .10 3 times.
+|
+=1, 4 f f g
+}
+$A
+#M $A
+#M $A
+| .75
+=1  leg99 2 a-fermata

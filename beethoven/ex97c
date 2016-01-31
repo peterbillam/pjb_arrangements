@@ -1,0 +1,68 @@
+boundingbox 480 255
+midi channel 0 patch 48 reverb 45
+4 systems 12 /27/27/27/27
+/
+6 bars |1b 4 | 3 2 2 4 3 2 1 | 3 2 2 3 3 2 1 | 4 4 3 | 4 4 3 | 4 4 3 |
+| .15
+b0.7 97c
+r0.7 .66 Seventh Symphony
+=1 treble 1b cha0 leg90 vol90 4 F
+| 0.45
+#P=1 16-s F' 16. blank 4 A 8 F rest 4 A
+#M=1 vol100 16-s F 4 A vol-10 8 F rest 4 A
+|
+#P=1 16-s A' 16. blank 4 c    leg70 8 A rest 4 leg90 4 c
+#M=1 vol100 16-s A 4 c vol-10 leg70 8 A rest 4 leg90 4 c
+|
+=1 4 f-. vol-3 f-. e-.
+|
+=1 4 d-. vol-3 d-. c-.
+|
+=1' 4 B-. vol-3 B-. A-.
+/
+7 bars |1b 8 | 4 4 3 | 4 4 3 | 4 4 3 | 8 | 4 4 3 | 9 |
+|
+=1 2. G
+| 
+=1 vol100 4 g-. vol-3 g-. f-.
+|
+=1 4 e-. vol-3 e-. d-.
+|
+=1 4 c-. vol-3 c-. B-.
+|
+=1 2. A
+|
+=1 vol100 4 G-. vol-3 G-. vol+3 F-.
+|
+=1 2 B'{2 4 A}2
+/
+6 bars |1b 4 4 3 | 9 | 9 | 9 | 10 | 4 5 3 |
+|
+=1 vol100 4 G-. vol-3 G-. vol+3 F-.
+|
+=1 2 B'{2 4 A}2
+|
+=1 2 vol+3 d{1 4 c#}1
+|
+=1 2 vol+3 f{1 4 e}1
+|
+#P=1 2. g#-tr 16-s [f# blank g] blank
+#M=1 2. g#-tr 16-s [f# g]
+|
+=1 4 a-. e-. c#-.
+/
+6 bars | 10 | 4 4 3 | 10 | 4 5 3 | 4 5 3 | 4 3
+|
+#P=1 2. d-tr 16-s [c# blank d] blank
+#M=1 2. d-tr 16-s [c# d]
+|
+=1 4 c#-. e-. a-.
+|
+#P=1 2. g#-tr 16-s [f# blank g] blank
+#M=1 2. g#-tr 16-s [f# g]
+|
+=1 4 a-. e-. c#-.
+|
+=1 4 A-. E-. C#-.
+| .75
+=1  leg99 4 A_ rest

@@ -1,0 +1,69 @@
+boundingbox 490 545
+midi channel 0 patch 0 reverb 
+8 systems 9 /27 12/27/27 10/27/27/27 16/27 5/27
+/
+3 bars |4b 3 2 3 3 5 4 | 3 2 2 2 2 2 2 2 2 2 2 2 3 2 2 3 2 2 3 2 2 2 5 4 \
+                       | 3 2 2 3 2 2 3 2 3 3 5 5 3 2 2 3 2 2 3 2 2 3 2 2 |
+| 0.56
+b0.7 96b
+r0.6 .26 Op.57
+=1 treble 4b cha0 leg85 vol80 4 C(2 16 [C)2 A_]
+| 2.24
+i0.6 .03 Allegro Assai
+=1 2. F_(1 4. F_)1 4 A_(2 16 [A_)2 C]
+|
+=1 4. F 4 A(2 16 [A)2 c'] 4. f F
+/
+2 bars |4b 3 2 2 3 2 2 3 2 3 2 3 5 3 2 2 3 2 2 3 2 3 6 4 3 \
+ | 5 5 5  4 4 4  4 4 4  5 5 8 |
+|
+#P=1 4. c(1 4 c)1 83 dn 16-s  c' 4. d(1-tr 8. [d)1 16 c en d]
+#M=1 4. c(1 4 c)1 83 dn 163-s c' 4. d(1-tr 8. [d)1 16 c en d]
+|
+=1 4 c 8 rest 4. rest rest 4 Db(2 16 [D)2 B_]
+/
+2 bars |4b 3 2 2 2 2 2 3 2 2 2 2 2 3 2 2 3 2 2 3 2 3 3 5 4 \
+ | 3 2 2 3 2 2 3 2 3 3 5 5 3 2 2 3 2 2 3 2 2 2 2 2 |
+|
+=1 2. G_b(1 4. G_)1 4 B_(2 16 [B_)2 D]
+|
+=1 4. Gb 4 B(1 16 [B)1 d] 4. gb G
+/
+2 bars |4b 3 2 2 3 2 2 3 2 3 2 3 5 3 2 2 3 2 2 3 2 3 4 4 3 \
+ | 6 5 5 4 4 4 4 4 4 4 4 3 |
+|
+#P=1 4. d(1 4 d)1 83 e 16-s  d' 4. e(1-tr 8. [e)1 16 d f e]
+#M=1 4. d(1 4 d)1 83 e 163-s d' 4. e(1-tr 8. [e)1 16 d f e]
+| 
+=1 4 d 8 rest 4. rest rest rest
+/
+2 bars |4b 3 2 2 3 2 2 3 2 3 2 3 5 3 2 2 3 2 2 3 2 3 6 4 3 \
+ | 6 5 5 4 4 4 4 4 4 4 4 3 |
+|
+#P=1 4. c(1 4 c)1 83 dn 16-s  c' 4. d(1-tr 8. [d)1 16 c en d]
+#M=1 4. c(1 4 c)1 83 dn 163-s c' 4. d(1-tr 8. [d)1 16 c en d]
+|
+=1 4 c 8 rest 4. rest rest rest
+/
+2 bars |4b 3 2 2 3 2 2 3 2 3 2 3 5 3 2 2 3 2 2 3 2 3 4 4 3 \
+ | 6 5 5 4 4 4 4 4 4 5.5 5.5 4.5 |
+|
+#P=1 4. en(1 4 e)1 83 f 16-s  e' 4. f(1-tr 8. [f)1 16 e g f]
+#M=1 4. en(1 4 e)1 83 f 163-s e' 4. f(1-tr 8. [f)1 16 e g f]
+|
+=1 4 en 8 rest 4. rest rest 8 [<e g> <e g> <e g>]
+/
+2 bars |4b 5 5 6 4 4 4 4 4 4 6 6 3 \
+  | 4 5 4 5 4 4 5 4 5 4 5 5 5 4 5 4 5 5 5 4 5 4 5 3 |
+|
+=1 4 <g b> 8 rest 4. rest vol100 rest 8 [<g b> <g b> <g b>]
+| 2.24
+=1 vol+120 16 [e~n b g~ e~ b~ g~] [e~ g~ b e~ g b] \
+ [en g B e G, B] [En G B_ E G_ B_]
+/
+2 bars |4b 48 35 | 35
+|
+#P=1 bass 4b 16 [en' g' B d' G_ B_] 32. blank 16 [En G B d' e' g'] 323 blank 8 b rest rest <d a d~> rest rest
+#M=1 bass 4b 16 [en' g' B d' G_ B_] [En G B d' e' g'] 8 b rest rest <d a d~> rest rest
+|
+=1 vol75 2. <en(2 g(4 c~(6> 4. <e)2 g)4 c~)6>

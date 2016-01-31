@@ -1,0 +1,66 @@
+boundingbox 460 400
+midi channel 0 patch 48 reverb 45
+6 systems 12 /27/27 10/27 3/27 3/27/27/
+/
+4 bars |3b 32 | 36 | 32 | 36 |
+| 0.96
+b0.7 100b
+r0.6 .26 Third Symphony
+=1 treble 3b cha0 leg80 vol90 4 blank 2. rest
+|
+=1 vol-20 4 B{1 vol+10 db vol+10 en}1
+|
+=1 leg50 2. f
+|
+=1 leg80 vol-20 4 B{1 vol+10 db vol+10 en}1(1
+/
+4 bars |1b 12 12 9 | 12 12 9 | 12 12 9 | 12 12 9 |
+|
+=1 4 en)1 leg55 eb leg80 db(1
+| 
+=1 4 db)1 leg55 Bn leg80 c(1
+|
+=1 4 c)1 leg50 F leg80 e(1
+|
+=1 4 e)1 c# dn(1
+/
+4 bars |1b 6 6 11 6 6 4 | 10 6 6 6 6 4 | 6 9 6 6 6 4 | 6 6 6 6 6 4 | 
+|
+=1' 8 [d)1 vol-20 F# vol+4 G vol+4 Bn vol+4 c vol+4 d] vol+4
+|
+=1, 8 [e f# g e d c]
+|
+=1, 8 [B d fn b d~ leg35 f~]
+|
+=1 8 [f~ f~ f~ f~ f~ f~]
+/
+4 bars |1b 36 | 36 | 36 | 36 | 
+|
+=1 leg80 4 <B b> rest rest
+|
+=1 4 <B b> rest rest
+|
+=1 4 <B b> rest rest
+| 0.32 0.34 0.37
+=1 leg55 4 <B b> <B b> <B b>
+/
+4 bars |1b 36 | 36 | 36 | 36 | 
+| 0.37 0.37 0.35
+=1 2 <B b> vol-5 4 d~
+| 1.05
+=1 2 b vol-5 4 f
+|
+=1 2 Ab vol-5 4 cb
+|
+=1 2 A vol-5 4 F
+/
+4 bars |1b 36 | 12 12 17 | 36 | 36 ||
+|
+=1 2 D vol-5 4 Cb
+| .35 .35 .38
+=1 2 A_n vol-5 4 A_b bass
+| 1.06
+=1 vol+10 leg90 2 e 4 g
+|
+=1 2 e 4 B
+
