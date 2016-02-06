@@ -1,0 +1,41 @@
+boundingbox 480 148
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 40 reverb 45
+midi channel 2 patch 42 reverb 45
+2 systems 12 /27 7/27/
+/
+6 bars | 2b 20 19 | 8 8 8 11 | 12 12 12 11 | 24 18 | 22 19 | 48 |
+| 1.36
+b0.7 105b
+r0.7 .36 Op.11
+=1 treble 2b cha0 leg99 vol90 2 f vol+6 f#
+|
+i0.7 .01 Allegro con brio
+=1 vol+6 2. g vol-6 4 e-.
+|
+=1 vol-5 c-. vol-5 A-. vol-5 F-. vol+5 E-.
+|
+=1' vol+5 4 D vol-10 4 B 2 rest
+|
+=1' 4 blank 2 rest'
+=1, vol75 2 F F#
+|
+=1' 2. g 4 e
+=1, 4 G rest, 2 rest,
+/
+6 bars | 2b 12 12 9 8  | 10 10 9 9 | 24 19 | 10 9 9 18 | 18 9 9 11 | 12
+|
+=1' 4 c rest'' 2 rest''
+=1, 2 A e
+|
+=1' 2. b 4 d
+=1, 4 d rest, 2 rest,
+|
+#P=1' 4 c 2. blank
+=1, 2 cr g
+|
+=1, 4 g 2 f 8 [e d]
+|
+=1 8 [d c] 2 vol+10 e leg70 4 vol-10 A
+| .40
+=1' 4 B

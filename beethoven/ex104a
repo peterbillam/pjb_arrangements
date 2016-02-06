@@ -1,0 +1,28 @@
+boundingbox 440 135
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 40 reverb 45
+midi channel 2 patch 42 reverb 45
+2 systems 12 /27/27/
+/
+4 bars | 5 5 4 | 2 2 2 2 3 2 | 3 3 3 3 3 2 | 3 3 3 2 2 2 |
+| .81
+b0.7 104a
+r0.7 .36 N.II p.269
+=1 treble  cha0 leg75 vol90 4 c e c
+|
+i0.6 .35 Sonate facile
+=1 2 g 8 [f e]
+|
+=1 8 leg99 [d leg80 c B c e c]
+| .27 .27 .28
+=1 8 vol+10 [c vol-10 B] 4 B vol-10 B
+/
+4 bars | 5 5 4 | 2 2 2 2 3 3 | 3 3 3 3 3 2 | 5 5 4 |
+| .81
+=1 vol90 4 B d B
+|
+=1 2 f 8 [e d]
+|
+=1, 8 leg99 [c leg80 B d B G B]
+|
+=1 4 vol+10 c vol-10 c c

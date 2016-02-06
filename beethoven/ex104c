@@ -1,0 +1,31 @@
+boundingbox 440 135
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 40 reverb 45
+midi channel 2 patch 42 reverb 45
+2 systems 16 /27/27/
+/
+4 bars |1# 5 5 4 | 2 2 2 2 3 2 | 3 3 3 3 3 2 | 3 3 3 2
+| 0.81
+b0.7 104c
+r0.9 .26 Op.79
+i0.9 .90 Presto alla tedesca
+=1 treble 1# cha0 leg90 vol90 4 g-. b-. g-.
+|
+=1 2 d~ 8 [c~ b]
+|
+=1 8 leg99 [a leg80 g f g b g]
+| .54
+=1 4 vol+10 f{1 vol-10 e}1]
+
+/
+5 bars |1# 3 2 | 3 4.5 3 3 3 2 | 2 2 2 2 3 2 | 5 5 4 | 5
+| .28
+=1 vol-10 8 [d c]
+| .81
+=1' vol90 8 leg99 [B leg80 A G# A c A]
+|
+=1 vol95 2 leg75 F 4 A-.
+|
+=1 4 c-. A-. F-.
+| .30
+=1 8 G

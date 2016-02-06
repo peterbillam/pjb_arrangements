@@ -1,0 +1,48 @@
+boundingbox 480 235
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 40 reverb 45
+midi channel 2 patch 42 reverb 45
+4 systems 12 /27/27/27/27/
+/
+4 bars |2b 7 6 6 | 7 6 5 | 6 6 5 | 14 |
+| 0.78
+b0.7 102d
+r0.7 .50 Op.97
+i0.7 .90 Scherzo
+=1' bass   2b cha0 leg90 vol90 8 [B-. c-.] leg50 4 d d
+| .78
+=1 leg90 8 [d-. e-.] 2 f
+|
+=1 4 f-. g-. a-.
+| .75
+=1 2. b treble
+/
+4 bars |2b 7 6 5 | 7 5 5 | 7 6 5 | 12 |
+| .78
+=1 cha1 8 [e-. d-.] 4 c-. c-.
+|
+=1 8 [d c] 2 B
+|
+=1 8 [A-. B'-.] 4 c-. En-.
+| .765
+=1 2. F
+/
+4 bars |2b 7 6 6 | 7 6 5 | 6 6 5 | 14 |
+| .78
+=1 cha1 8 [F-. G-.] 4 A-. A-.
+|
+=1 8 [A B'] 2 c
+|
+=1 4 c-. d-. en-.
+| .75
+=1 2. f tenor
+/
+4 bars |2b 7 6 5 | 7 5 5 | 7 6 5 | 12 |
+| .78
+=1 cha2 8 [g-. f-.] 4 e-. e-.
+|
+=1 8 [d-. c-.] 2 B
+|
+=1 8 [c-. d-.] 4 e-. A-.
+|
+=1 2. B
