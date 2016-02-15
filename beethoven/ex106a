@@ -1,0 +1,60 @@
+boundingbox 550 250
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 40 reverb 45
+midi channel 2 patch 42 reverb 45
+2 systems 12 /25-20-25/25-20-25/
+/
+8 bars | 3b 5 5 4 | 5 5 5 4 |
+| 0.54
+b0.7 106a
+r0.7 .36 N.I p.11
+=1 treble 3b cha0 leg85 vol100 8 [G G G]
+=2 bass   3b cha0 leg85 vol100 8 rest 4 rest
+| 0.72 
+=1 vol110 2 E
+=2 vol100 8 rest [c~ c~ c~]
+|
+=1 vol100 8 rest [F F F]
+=2 vol110 4. a 8 rest
+|
+=1 vol110 2 D
+=2 vol100 8 rest [b b b]
+|
+=1' vol100 8 rest [<G B> <G B> <G B>]
+=2  vol110 4. g 8 rest
+|
+=1 vol110 2 <E G>
+=2 vol100 8 rest [c~ c~ c~]
+|
+=1' vol100 8 rest [<F A> <F A> <F A>]
+=2  vol110 4. a 8 rest
+|
+=1 vol110 2 <D F>
+=2 vol100 8 rest [b b b]
+/
+8 bars | 3b 5 5 5 4 | 5 5 5 4 | 5 5 5 4 | 5 5 5 4 \
+ | 5 5 5 4 | 5 5 5 4 | 5 5 5 4 | 8 5 5 4 |
+|
+=1, vol100 8 rest [<G B e> <G B e> <G B e>]
+=2  vol110 4. e 8 rest
+|
+=1' vol110 2 <E A c>
+=2 vol100 8 rest [a a a]
+|
+=1' vol100 8 rest [<D A d> <D A d> <D A d>]
+=2  vol110 4. f 8 rest
+|
+=1' vol110 2 <D Ax Bn>
+=2 vol100 8 rest [f f f]
+|
+=1' vol100 8 rest [<C c> <C c> <C c>]
+=2  vol110 4. e 8 rest
+|
+=1 vol110 4 A B'
+=2 8 rest f rest d
+|
+=1 vol110 4 G A
+=2, 8 rest e rest c
+|
+=1 2 <A_ Db F>
+=2 8 rest [db d d]

@@ -1,0 +1,28 @@
+boundingbox 420 155
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 89 reverb 45
+midi channel 2 patch 48 reverb 45
+2 systems 9 /25/25/
+/
+4 bars | 4 4 4 5 | 3 3 3 3 3 3 4 3 | 5 4 6 5 | 6 6 6 5 |
+| 1.25
+b0.7 108b
+r0.6 .30 Op.138
+=1  treble cha2 leg85 vol85 2. G_ 4 G
+|
+i0.6 .10 Andante con moto
+=1  vol+5 4 A B' c 8 [d c]
+|
+=1  vol+5 2. B 4 c
+|
+=1  vol+5 4 d e f g
+/
+4 bars | 3 3 3 2 2 2 4 3 | 3 3 4 4 4 4 4 3 | 4 4 4 4 4 4 4 3 | 12
+|
+=1  vol+5 4 g# 2 a 8 [gn f]
+|
+=1 4 e 8 [d e] 4 g 8 [f e]
+|
+=1, 8 [d c vol-5 B c] [e d vol-5 c{1 A}1]
+|
+=1 2. G

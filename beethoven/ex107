@@ -1,0 +1,24 @@
+boundingbox 480 95
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 89 reverb 45
+midi channel 2 patch 42 reverb 45
+1 systems 10 /25/
+/
+5 bars | 3b 5 5 5 4 | 5 5 5 4 | 5 5 5 4 | 15 | 7
+| 0.72
+b0.7 107
+r0.7 .20 Schmilz,  p.79
+=1' treble 3b cha0 leg85 vol100 8 rest [G G G]
+=1,        3b cha1 leg85 vol100 2 blank
+| 0.72 
+=1 cha0 vol110 8 [E A A A]
+=1, cha1 vol90 2 <Cr(6 E(4>
+|
+=1' cha0 vol100 8 [G e e e]
+=1, cha1 vol90 2 <Cr)6(6 E)4(4 G(2>
+|
+=1' cha0 vol100 2 c(1
+=1, cha1 vol90 2 <C)6(6 E)4(4 G)2(2>
+|
+=1' cha0 vol100 4 c)1
+=1, cha1 vol90  4 <C)6 E)4 G)2>

@@ -1,0 +1,97 @@
+boundingbox 550 365
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 40 reverb 45
+midi channel 2 patch 42 reverb 45
+3 systems 10 /25-25-25/25-30-25/25-30-25/
+/
+7 bars | 3b 5 5 5 4 | 8 | 5 5 5 4 | 8 | 8 | 5 5 5 4 | 5 5 5 4 |
+| 0.72
+b0.7 106b
+r0.8 .26 Fifth Symphony
+=1'   treble 3b cha0 leg85 vol100 8 rest  [G G G]
+#P=1, treble 3b cha0 leg85 vol100 8 blank [G G G]
+=2    alto   3b cha0 leg85 vol100 8 rest  [G G G]
+| 2.2
+=1'   vol110 2 E-fermata
+#P=1, vol110 2 E
+=2    vol110 2 E
+| .72
+=1'   vol100 8 rest [F F F]
+#P=1, vol100 8 rest [F F F]
+=2    vol100 8 rest [F F F]
+|
+=1'   vol110 2 D(1
+#P=1, vol110 2 D(2
+=2    vol110 2 D(2
+| 2.7
+=1'   2 D)1-fermata
+#P=1, 2 D)2
+=2    2 D)2
+| .72
+=1' vol80 4 blank 2 rest'
+=1, vol80 8 rest, [G G G]
+=2  vol80 4 blank 2 rest
+|
+=1' vol80 4 blank 2 rest'
+=1, vol80 2 E(2
+=2  vol80 8 rest [a a a]
+/
+7 bars | 3b 5 5 5 4 | 10 | 5 5 5 4 | 5 5 5 4 | 5 5 5 4 | 10 | 5 5 5 4 |
+|
+=1' vol80 8 rest' [e e e]
+=1, vol80 2 E)2(2
+=2  vol80 2 g(2
+|
+=1' 2 c(1
+=1, vol80 2 E)2(2
+=2  vol80 2 g)2(2
+|
+=1' 4 c)1 rest'
+=1, 8 E)2 [G G G]
+=2  4 g)2 rest
+|
+=1' vol80 4 blank 2 rest'
+=1, vol80 2 D(1
+=2  vol80 8 rest [a a a]
+|
+=1' vol80 8 rest' [f f f]
+=1, vol80 2 D)1
+=2  vol80 2 g
+|
+=1' 2 d(1
+=1, vol80 2 G(2
+=2  vol80 2 d(2
+|
+=1' 8 [d)1 g g f]
+=1, 2 G)2(2
+=2  2 d)2
+/
+7 bars | 3b 5 5 5 4 | 5 5 5 4| 5 5 5 4 | 5 5 5 4 | 8 7 | 8 7 | 9 8 |
+|
+=1' 2 e
+=1, 8 [G)2 E E F]
+=2  8 [e e e f]
+|
+=1' 8 [d g g f]
+=1, 2 G(2
+=2  2 g(2
+|
+=1' 2 e
+=1, 8 [G)2 E E F]
+=2  8 [g)2 e e f]
+|
+=1' 8 [d vol110 g g f]
+=1, 8 vol100 [G vol110 d d G]
+=2  4. g vol00 8 d
+|
+=1' 4 e rest
+=1, 4 <C G> blank
+=2  4 e rest
+|
+=1' 4 c rest
+=1, 4 <A_ F#> blank
+=2  4 A rest
+| 1.0 2.5
+=1' 2 g
+=1, 4 <G_ D Bn> rest,-fermata
+=2  4 G rest-fermata
