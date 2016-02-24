@@ -546,31 +546,31 @@ il0.5 .07 90
 =2, 4 leg85 B F leg99 c-s1,-s4, c#-s1,-s3,
 |
 =1' 4 blank 1 rest'
-=1, 8 leg99 [B_)2 leg85 A_ leg75 C C] leg99 [C leg85 B_n leg75 D D]
+=1, 8 leg99 [B_)2 leg85 A_ leg75 C C] leg99 [C leg85 B_n-s1 leg75 D-s3 D]
 =2' 8 leg99 [g leg85 f# leg75 a a] leg99 [a leg85 g# leg75 bn b]
 =2, 4 leg85 d-s1,-s3, A 2 leg99 e-s1,-s3,
 /
 4 bars | 1b 8 6 8 6 7 6 6 5| 6 6 6 8 6 6 6 5| 6 6 6 8 8 7 6 5| 8 6 8 7 6 6 6 5|
 |
-=1' 2. blank 1 rest'
-=1, 8 leg99 [D C#-s3 D-s1 E] leg85 [F leg99 E F G--s4]
-=2' 8 leg99 [bn a-s"3   ", b c~#-s"1   ",] leg85 [d~ leg99 g# a b-,-s2,]
-=2, 4 leg99 f-s1,-s5, e-s2,-s4, 8 [d-s1,-s5, e] 4 leg85 d-s1,-s5,
+=1' 4 blank 1 rest
+=1, 8 leg99 [D C#-s2 D-s1-s3 E-s2-s4] leg85 [F-s1-s5 leg99 E-s3 F G-s5]
+=2' 8 leg99 [bn a b c~#] leg85 [d~ leg99 g# a b-,-s2,]
+=2, 4 leg99 f-s1,-s5, e-s4, 8 [d-s1,-s5, e] 4 leg85 d-s1,-s5,
 |
 =1' 2. rest' 4 leg99 B(1-s1-s4
-=1, 8 leg85 [E--s1 leg99 G F E-s1] 4 D-s2 E
+=1, 8 leg85 [E--s1 leg99 G F E] 4 D-s2 E
 =2' 4. leg85 c~ 8 leg99 c~ [bb a b c~-s1,]
 =2, 8 leg85 [a-s1,-s3, e] 2 leg99 a 4 g-s2,-s4,
 |
 =1' 8 leg99 [B)1-s2 leg85 A-s3 leg75 c c] \
- leg99 [c-s1-s2-s5 leg85 Bn-s3 leg75 d-s2-s5 d]
+ leg99 [c-s1-s2-s5 leg85 Bn-s4 leg75 d-s3-s5 d]
 =1, 4 leg85 F C leg99 G G#
 =2' 4 leg85 d~ a-s1, 2 leg99 e~(1
 =2, 4. leg99 f-s2,-s5, 16 [g-s2, f] 8 [e d-s5,] 4 e-s2,
 |
 il1.3 .42 95
 rs1.0 .60 2 - 1
-=1' 8 leg99 [d-s2-s5 leg85 c#-s3 leg75 e-s1-s5 e] \
+=1' 8 leg99 [d-s(1)-s2-s5 leg85 c#--s3 leg75 e-s1-s5 e] \
  leg99 [e--s5 leg85 d--s3 leg75 f--s5 f]
 =1, 4 leg85 A E 2 leg99 Bn
 =2' 4 leg99 e~)1 8 [d~ leg85 c~#] 4 f~-s1, rest''
@@ -578,12 +578,12 @@ rs1.0 .60 2 - 1
 /
 4 bars | 1b 6 8 8 6 6 6 4 5| 8 6 6 6 6 8 6 5| 9 7 7 8 7 6 6 5| 9 6 6 6 7 8 6 5|
 |
-=1' 8 leg99 [f-s2-s5 e-s3 f#-s1-s4 g#-s5] [a-s1-s5 g-s1-s4] 4 a(1
+=1' 8 leg99 [f-s2-s5 e--s3 f#-s1-s4 g#--s5] [a-s1-s5 g-s1-s4] 4 a(1
 =1, 4 leg99 cn Bn 8 [A B] 4 leg85 A
 =2' 4 rest''' leg99 d~ c~#-s2, c~n(1
 =2, 2 leg99 a-s3, 4 rest d#-s1,-s5,
 |
-=1' 8 leg99 [a)1-s3-s"( 5 )" leg85 f#-s4 leg75 g g] \
+=1' 8 leg99 [a)1-s3-s"( 5 )" leg85 f#--s4 leg75 g g] \
  leg99 [g leg85 e leg75 fn-s1-s2-s4 f]
 =1, 2 leg99 e 4 rest, d(2
 =2' 4 leg85 c~)1 leg99 bn-s3, leg85 c~ g~
@@ -602,7 +602,7 @@ rs1.0 .60 2 - 1
 /
 4 bars | 1b 8 6 6 8 7 8 7 5| 8 6 6 8 6 6 6 8| 7 6 6 6 6 6 6 5| 6 6 6 6 6 6 6 5|
 |
-il1.0 100
+il1.1 100
 =1' 8 leg85 [B)1-s1-s"( 3 )" leg99 G#-s2 leg85 A-s2 leg99 c-s4] \
  leg85 [Bn-s1-s3 leg99 d leg85 c#l-s2-s4 leg99 e]
 =1, 2 leg99 E 4 leg85 F#l leg99 Bbrl
@@ -621,8 +621,8 @@ il1.0 100
 =2' 4 leg99 d~ rest'' rest'' g~
 =2, 8 leg85 [e-s1,-s4, leg99 c#-s5, d-s5, e] leg85 [f leg99 e f leg85 g-s2,]
 |
-=1' 8 leg85 [B)1-s2-s"( 5 )" leg99 G-s4 leg75 A-s1-s5 A] \
- leg85 [A-s1-s5 leg99 F-s3 leg75 G-s2-s4 G]
+=1' 8 leg85 [B)1-s2-s"( 5 )" leg99 G--s4 leg75 A-s1-s5 A] \
+ leg85 [A-s1-s5 leg99 F--s3 leg75 G-s2-s4 G]
 =1, 4 rest,, leg99 C# D E
 =2' 4 leg85 e~ leg99 g-,-,-s2, leg85 f-,-,-s1, leg99 c#
 =2, 4 leg99 c#-s5, rest, rest, Br(2-s3,-s4,

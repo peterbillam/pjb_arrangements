@@ -85,8 +85,8 @@ innerhead Prelude XIV in f-sharp minor, Book 1, WTC, J. S. Bach
 =1, 16 [G F E G--s3] [F--s2 E--s1 D#--s2 F--s3] 8 E 4. blank
 =2, 8 e rest d# rest 16 [c-s5, e-s4, f-s3, g] [a g f a-s1,]
 |
-=1' leg120 16 [E-s1 F-s2 G-s3 c-s5] [D#-s1 E-s2 F-s3 B#-s5] leg85 \
- 8 [c-.,-s4 C-.,] <F c-.> rest
+=1' leg120 16 [E-s1 F-s2 G-s3 c-s5] [D#-s2 E-s1 F-s2 B#-s4] leg85 \
+ 8 [c-.,-s5 C-.,] <F c-.> rest
 =1, 2. blank 8 Er blank
 =2 16 [g-s2, f e g] [f-s3, e d#-s5, f-s2,] \
  [e'-s1, d#' c Bn-s4,] [A#-s5, B c A-s5,]
