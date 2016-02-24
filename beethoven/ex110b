@@ -1,0 +1,73 @@
+boundingbox 580 235
+midi channel 0 patch 0 reverb 45
+3 systems 12 / 25 10 / 25 / 25 /
+/
+8 bars | 3b 6 6 5 |6 6 5 |6 6 5 |3 3 4 5 5 10 \
+ |3 3 3 3 5 3 | 3 3 3 3 5 3 | 3 3 3 3 5 4 | 3 3 3 3 5 4 |
+| 3/8 .55 .58 .55
+b0.9 110b
+r1.2 .37 Op.126 No.3
+=1, bass 3b cha0 leg99 vol90 8 rest' [<g e~> <a c~>]
+=1, 3b 4. E
+| .60 .55 .55
+i1.0 .80 Andante
+=1 8 [<c~ a~> <a c~ f~> <g b e~>]
+| .55 .58 .55
+=1 8 [<f a e~> <f a d~> <f a c~>]
+|
+=1' 8 [<a c~> <ax b>  b]
+=1, 8 [f f 16 g a] treble
+|
+#P=1' 8 [B_ E D]
+#M=1' 8 blank [E D]
+=1, 4 B_ 16 [A_ B_]
+|
+#P=1' 8 [C B A]
+#M=1' 8 blank [B A]
+=1, 4 C 16 [D E]
+|
+=1' 4 A 16 [G A]
+=1, 8 [E F] 16 [B_ C]
+|
+=1' 8 [<E G> <D F>] 16 [<E G> <F A>]
+/
+8 bars | 3b 6 6 5 |6 6 5 |6 6 5 |6 6 5 \
+ |6 6 5 |3 3 3 3 5 3 |3 3 3 5 5 4 |6 6 5 |
+|
+=1' 8 [B e c]
+=1, 4 E 8 C
+| .60 .55 .55
+=1, 8 [<A a> <F f> <E e>]
+| .55 .58 .55
+=1  8 [e d c]
+|
+=1  8 [c B B]
+|
+=1  8 [B e d]
+|
+=1 8 [c b] 16 [b a]
+|
+=1, 8. [<d a> 16 <e g> <f a> <A f>]
+|
+=1, 8 [<A f> <G e>] rest
+/
+8 bars | 3b 6 6 5 |6 6 5 |6 6 5 |3 3 5 5 5 4 \
+ | 3 3 3 2 5 4 | 3 3 3 3 5 4 | 6 8 6 | 8
+|
+=1, 8 rest [<G e> <A f>]
+|
+=1, 8 [<G e> <F d>] rest
+|
+#P=1 treble8va 4. blank
+#M=1 treble8va 3b 4. blank
+=1 8 blank [<E G> <F A>]
+|
+=1' 8 [<E G> 16 <D F>] [<G B> <A c> <F d>]
+| .55 .55 .60
+=1,  4 <G e> 16 [<B g> <A c f>]
+| .60 .55 .55
+=1, 8 [<A c f> <G B e>] 16 [<F A d> <E G c>]
+| .55 .57 .59
+=1' 8 [<E G c> <D F B> <E Fx An>]
+|
+=1' 4 <B_ F Ab>

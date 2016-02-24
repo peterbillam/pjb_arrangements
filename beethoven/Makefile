@@ -134,6 +134,8 @@ all: motifs.tgz \
  ${D}/ex107.jpg  ${D}/ex107.mp3 \
  ${D}/ex108a.jpg ${D}/ex108a.mp3 ${D}/ex108b.jpg ${D}/ex108b.mp3 \
  ${D}/ex109.jpg  ${D}/ex109.mp3 \
+ ${D}/ex110a.jpg ${D}/ex110a.mp3 ${D}/ex110b.jpg ${D}/ex110b.mp3 \
+ ${D}/ex111a.jpg ${D}/ex111a.mp3 ${D}/ex111b.jpg ${D}/ex111b.mp3 \
 
 
 
@@ -855,6 +857,18 @@ distex108b:
 distex109:
 	upload ${D}/ex109.jpg
 	upload ${D}/ex109.mp3
+distex110a:
+	upload ${D}/ex110a.jpg
+	upload ${D}/ex110a.mp3
+distex110b:
+	upload ${D}/ex110b.jpg
+	upload ${D}/ex110b.mp3
+distex111a:
+	upload ${D}/ex111a.jpg
+	upload ${D}/ex111a.mp3
+distex111b:
+	upload ${D}/ex111b.jpg
+	upload ${D}/ex111b.mp3
 
 
 distmotifs : motifs.tgz
@@ -1810,4 +1824,20 @@ ${D}/ex109.jpg: ex109
 	bash src2jpg ex109 $@
 ${D}/ex109.mp3: ex109
 	bash src2mp3 ex109 $@
+${D}/ex110a.jpg: ex110a
+	bash src2jpg ex110a $@
+${D}/ex110a.mp3: ex110a
+	bash src2mp3 ex110a $@
+${D}/ex110b.jpg: ex110b
+	bash src2jpg ex110b $@
+${D}/ex110b.mp3: ex110b
+	bash src2mp3 ex110b $@
+${D}/ex111a.jpg: ex111a
+	bash src2jpg ex111a $@
+${D}/ex111a.mp3: ex111a
+	bash src2mp3 ex111a $@
+${D}/ex111b.jpg: ex111b
+	bash src2jpg ex111b $@
+${D}/ex111b.mp3: ex111b
+	bash src2mp3 ex111b $@
 
