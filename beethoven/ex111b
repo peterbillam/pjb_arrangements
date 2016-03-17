@@ -1,9 +1,9 @@
-boundingbox 480 330
+boundingbox 480 380
 midi channel 0 patch 40 reverb 45
-5 system 7 / 25 / 25 / 25 / 25 / 25/
+6 system 7 / 25 / 25 / 25 / 25 / 25/
 /
-5 bars | 13 | 21 24 | 9 9 9 9 15 | 8 8 11 8 8 8 | 21 24 |
-| 3/4 1.7
+4 bars | 13 | 21 24 | 9 9 9 9 15 | 8 8 11 8
+| 3/4 1.65
 b0.7 111b
 r0.6 .77 Op.18 No.2
 =1  treble cha0 leg99 vol75 4 G
@@ -12,10 +12,52 @@ r0.6 .77 Op.18 No.2
 |
 #P=1 vol90 43 C vol80 B_ 43 C 32-s [D C B_ C]
 #M=1 vol90 4 C vol80 B_ 43 C 323-s [D C B_ C]
-|
-=1 vol90 4 E vol80 8 D rest rest F
-|
-=1 vol90 4. f 8 vol-5 [d vol-5 B vol-5 c]
+| .9 .85 .8 .8
+=1 vol90 4 E vol80 8 D rest
 /
-3 bars | 48 | 48 | 48 |
+4 bars  | 7 8 | 20 22 | 16 16 37 | 13 16
+| .83 .87
+=1 vol80 8 rest F
+| .9 .85 .8 .8 .83 .87
+=1 vol90 4. f 8 vol-5 [d vol-5 B vol-5 c]
 |
+#P=1 4 D 16-s  [D F] 4 A(2 16 [A)2 32 G F E D C B_]
+#M=1 4 D 163-s [D F] 4 A(2 16 [A)2 32 G F E D C B_]
+| .9 .85 .8 .8
+=1 4 D{2 8 vol-10 C}2 rest
+/
+3 bars | 11 | 2 1 1 1 2 1 1 1  2 2 2 2 2 2 2 2 3.8 2 2 3.8 2 2 2 1.5 | 8 9
+| .83 .87
+=1 vol75 16 [C E G c']
+| .9 .85 .8 .8 .83 .87
+=1 vol90 4 e(1  32 [e)1 d c B c d e f] [g f# a g fn e d c]
+| .9 .85 .8 .8
+=1 4 e 8 vol-10 d rest
+/
+3 bars | 11 | 2 1 1 1 2 1 1 1 2 2.4 3.8 2.4 2 2.4 2 2.4  2 2.4 2 2 2 2 2 1.5 \
+ | 6 7 7 5
+| .83 .87
+=1 vol75 16 [C E G c']
+| .9 .85 .8 .8 .83 .87
+=1 vol90 4 e(1  32 [e)1 c g f#] [g e c~ b] vol100 [c~ vol90 e e~ c~ g e d c]
+| .9 .85 .8 .8
+#P=1 83 [e 32-s vol-25 [f' e' d'] 64 blank vol+25 \
+ 32 e vol-5 64 blank 32 f 163 blank 32 f# 323 blank 32 g] 83 d 83 rest
+#M=1 83 [e 323-s vol-25 [f' e' d'] vol+25 32 e vol-5 f f# g] 8 d rest
+/
+3 bars | 16 | 2 1 1 1  1 1 1 1  2 1 1 1  2 2 2 3 2 2 2 3 2 2 2 2 \
+ | 2 1 1 1  1 1 1 1  2 1 1 1  2 2 2 3  2 2 2 3  2 2 2 2 |
+| .83 .87
+#P=1 vol75 16-s c#' 8 [d 16-s c#' 8 d]
+#M=1 vol75 323-s c#' 8 [d 323-s c#' 8 d]
+| .9 .85 .8 .8 .83 .87
+=1 4. d 16. [e 32 d] 16. [g 32 d 16. b 32 d]
+|
+=1 4. d 16. [e 32 d] 16. [g 32 d 16. b 32 d#]
+/
+2 bars | 48 | 10 
+| 5.4
+#P =1 32 [f# e d c] [B A, e-. e-.] 83 [e G,(2] 83 G)2 323-s [A G F# G A B' c' d'] 16 [e' 32 rest F#]
+#M =1 32 [f# e d c] [B A, e-. e-.] 8 [e G,(2] 83 G)2  323-s [A G F# G A B' c' d'] 16 [e' 32 rest F#]
+| .9 .85 .8
+=1 4 A 8 G
