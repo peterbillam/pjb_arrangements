@@ -1,0 +1,24 @@
+#! /usr/bin/perl
+
+chdir('/home/pjb/www/mus/beethoven/');
+$jpg = $ARGV[$[].'.jpg';
+$mp3 = $ARGV[$[].'.mp3';
+$iden = `identify $jpg`;
+$iden =~ /^.*JPEG (\d+)x(\d+).*$/;
+$width = $1 ; $height = $2;
+print "<A HREF=\"$mp3\">\n  <IMG ALIGN=\"right\" SRC=\"$jpg\" WIDTH=$width HEIGHT=$height> </A><BR>\n";
+
+exit;
+
+#convert -crop 3300x771+248+970 \
+# -monochrome -enhance -resize 554x131 \
+# -rotate 180 diag57.jpg  /home/pjb/www/mus/beethoven/diag57.jpg
+# 3551 1751
+#
+#exit
+#
+#display -rotate 0.7 -crop 3428x804+156+1152 \
+# -monochrome -enhance -resize 571x134 \
+# gedc0969.jpg
+#
+# -monochrome -normalize -enhance gedc0969.jpg
