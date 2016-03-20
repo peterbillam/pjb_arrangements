@@ -1,10 +1,15 @@
-head	1.12;
+head	1.13;
 access;
 symbols;
 locks
-	pjb:1.12; strict;
+	pjb:1.13; strict;
 comment	@# @;
 
+
+1.13
+date	2016.03.19.10.14.50;	author pjb;	state Exp;
+branches;
+next	1.12;
 
 1.12
 date	2016.03.10.00.13.55;	author pjb;	state Exp;
@@ -72,9 +77,9 @@ desc
 @
 
 
-1.12
+1.13
 log
-@fingering in 54 mor consisten with 55
+@refine bar 54 fingering again
 @
 text
 @5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
@@ -372,7 +377,7 @@ il0.8 50
 =2, smb rest,
 |
 =1' min f(1-s5 qua [f)1-s1 g-s5 f-s1-s4 e-s5]
-=1, qua [D A---s1 d---s3 Bn---s2] [G E] cro c(2
+=1, qua [D A---s1 d---s3 Bn---s2] [G E-s1,] cro c(2
 =2' cro d~-s2, qua [bn-s4, g-s5,] cro c~-s2, qua [a-s4, f-s5,]
 =2, smb rest,
 |
@@ -383,9 +388,9 @@ il0.8 50
 /
 4 bars |1b 4 4 4 5 4 4 4 3 |5 4 5 4 4 4 4 3 |4 4 4 4 5 5 4 3 |5 4 5 4 4 4 4 3 |
 |
-=1' min B(1-s2 qua [B)1 B-s5 A-s4 G]
+=1' min B(1-s2 qua [B)1-s1-s(2) B-s5 A-s4 G]
 =1, cro. G qua F min E(2
-=2' qua [f~)1-s1,-s(2), f~-,-s2, e~-,-s3, d~-s2,-s4,] min c~#-s3,-s5,
+=2' qua [f~)1-s1,-s(2), f~-,-s2, e~-,-s3, d~-s2,-s4,] min c~#-,-s5,
 =2, smb rest,
 |
 =1' min F B-s5
@@ -408,7 +413,7 @@ il0.8 50
 =1' qua [g)1 e a g] [f-s5 e-s1-s4 d-s2-s5 c#-s1-s4]
 =1, min A(2 qua [A)2 G F E]
 =2' min e cro f g
-=2, min c#-s3,-s4, cro d-s1,-s5, e-s2,-s4,
+=2, min c#-s2,-s4, cro d-s1,-s5, e-s2,-s4,
 |
 =1' qua [d-s1-s5 cn B A-s5] min G(1
 =1, min. D cro E
@@ -528,6 +533,26 @@ il0.8  70
 =2, smb a-fermata
 =2, smb d)2-s1,-s(5),
 
+@
+
+
+1.12
+log
+@fingering in 54 mor consisten with 55
+@
+text
+@d296 1
+a296 1
+=1, qua [D A---s1 d---s3 Bn---s2] [G E] cro c(2
+d307 1
+a307 1
+=1' min B(1-s2 qua [B)1 B-s5 A-s4 G]
+d309 1
+a309 1
+=2' qua [f~)1-s1,-s(2), f~-,-s2, e~-,-s3, d~-s2,-s4,] min c~#-s3,-s5,
+d332 1
+a332 1
+=2, min c#-s3,-s4, cro d-s1,-s5, e-s2,-s4,
 @
 
 
