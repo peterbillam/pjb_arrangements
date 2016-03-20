@@ -1,0 +1,61 @@
+boundingbox 450 240
+midi channel 0 patch 48 reverb 45
+midi channel 1 patch 71 reverb 45
+4 systems 13 / 25 / 25 4 / 25 / 25 /
+/
+5 bars | 2b 40 | 5 5 5 5 6 6 6 9 | 48 | 12 16 12 14 | 12 15 12 10 |
+| 5.4
+b0.7 113d
+r0.6 .23 Ninth Symphony
+=1  treble 2b cha0 leg99 vol60 2 d vol75 A
+i0.05    Adagio molto e cantabile
+|
+=1' 2 B 4. F 8 E
+|
+=1  4 D F 4. B 8 c
+|
+=1 4 d 8 [f e] 4 leg90 c rest,
+=1' 2. blank 8 rest' vol-15 c
+|
+=1' 4 leg99 d 8 [f e] 4 leg90 c rest''
+=1, 2. rest, 4 leg90 vol+15 c
+/
+4 bars | 2b 20 24 | 12 10 10 9 \
+ | 4 3 3 2 5 5 9 7 3 3 3 2 7 6 4 4 | 6 5 5 8  8 8 12 7 |
+|
+=1 2 leg99 c 4. B 8 leg85 f
+|
+=1 4 leg99 f 2 e 4 d
+|
+=1 4 leg90 c 8 leg99 [c 16 d e] 4 d 8 [c leg85 c#]
+|
+=1 4. leg99 c# 8 leg90 d 4 d rest,
+=1' 2. blank vol-15 8 [cn c#]
+/
+4 bars | 2b 6 5 5 9 5 5 5 5 | 18 24 | 6 6 5 4 5 4 7 6 | 6 5 5 5  8 10 5 5 |
+|
+=1' 4. leg99 c# 8 leg85 d 4 leg90 d rest''
+=1, 2. rest, 4 vol+15 leg99 d
+|
+=1 2 cn 4. B 8 f
+|
+=1, 4 leg99 f 2 e 4 d
+#P=1' 2. blank 8 vol-15 [d leg85 f]
+#M=1' 2. blank 8 vol-15 rest leg85 f
+|
+#P=1' 4 f 4. e 8 d 4 blank
+#M=1' 4 leg99 f 4. e blank
+=1, vol+15 2 rest, 8 rest, d 4 leg90 g
+/
+4 bars | 2b 5 5 5 5 7 7 7 6 | 6 5 5 7 6 5 7 6 | 6 5 5 7 6 5 7 6 | 6 5 5 7 5 5
+| 2.7 2.9
+=1 leg99 2 g(1 8 leg85 [g)1 leg99 g a leg85 b]
+| 2.8 2.7
+=1 leg95 4. b 8 leg99 d 4 f 8 [e leg85 c]
+| 5.4
+=1 leg99 4. c 8 d 4 B rest,
+=1' 2. blank vol-15 8 [e leg85 c]
+| 4.3
+#P=1' 4. leg99 c 8 d 4 B
+#M=1' 4. leg99 c 8 d 4 B 16 blank
+=1, 2. rest,
