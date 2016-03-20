@@ -1,0 +1,379 @@
+4 systems 12 / 18-23-18 23 18-23-18 / 18-23-18 23 18-23-18 \
+ / 18-23-18 23 18-23-18 / 18-23-18 23 18-23-18 /
+# title Rhythmetic
+pagenum
+title Bartok, Music for Strings Percussion and Celeste, II, 187-242
+midi channel 0 patch 0
+
+/
+8 bars | 6 | 24 | 24 | 24 | 24 | 24 | 24 |
+| 0.21
+=1  treble cha0 vol120 8 rest
+=2  treble cha0 vol120 8 rest
+=3  bass   cha0 vol80 leg70 8 rest
+=4  bass   cha0 vol80 leg70 8 G{2
+| 0.8
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3  4 blank 2 rest
+=4  8 Bb}2 rest rest G
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=4' 8 [Bb G B db]
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3, 4. rest 8 c#{1
+=4' 8 [eb db Bb G]
+|
+Il0.2 .03 190
+=1  4 blank 2 rest
+=2 8 E rest 4 rest 
+=3, 8 [e}1 c# e g]
+=4 8 E rest 4 rest
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3, 8 [a g e c#]
+=4 4. rest 8 G{2
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3  8 a# 43 rest treble 83 blank 8 C#{2
+=4' 8 [Bb}2 G B db]
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3' 8 [E}2 C# E G]
+=4' 8 [eb db Bb G]
+/
+7 bars | 24 | 24 | 24 | 24 | 24 | 24 | 24 |
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3' 8 [A G E C#]
+=4 8 E rest 4 rest
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3' 8 [A_# An G E]
+=4 4 rest 8 [eb db]
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3' 8 [C# A_# An G]
+=4 8 [Bb G En] 8 bb
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3' 8 [E C# A_# An]
+=4, 8 [a g e <c# g>]
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3' 8 [G E C# A_#]
+=4, 8 [bb a g e]
+
+| 0.8
+=1  cha0 vol120 4 <bbl e~b-.> 8 rest' <b e~-.>
+I0.7 .07 f
+i0.7 .17 secco
+=2  cha0 vol110 4 g 8 rest g-.
+=3  cha0 vol80 leg70 8 [An G E C#]
+=4, cha0 vol80 leg70 8 [c# bb a g]
+|
+Il0.7 .03 200
+=1  4 rest 8 [<bbl e~b-.> <b e~-.>]
+=2  4 rest 8 [g-. g-.]
+=3  8 [A_# An G E]
+=4, 8 [e <c# g> bb a]
+/
+7 bars | 24 | 24 | 24 | 24 | 24 | 24 | 24 |
+|
+=1  4 rest 8 rest <bbl e~b-.>
+=2  4 rest 8 rest g-.
+=3  8 [C# A_# An G]
+#=4' 8 [Bb G En eb]
+=4, 8 [g e <c# g> bb]
+|
+=1  4 rest 8 [<a d~> <f# b>]
+i0.6  .30 simile
+=2  4 rest 8 [f# d#]
+=3  8 [E C# A_# An]
+#=4' 8 [db Bb G En]
+=4, 8 [a g e <c# g>]
+|
+=1  8 rest 4 <g c~> 8 rest
+=2  8 rest 4 e 8 rest 
+=3  8 [G E C# A_#]
+#=4' 8 [eb db Bb G]
+=4, 8 [bb a g e]
+|
+=1  4 <abl d~b> rest
+=2  4 f rest 
+=3  8 [An G E C#]
+#=4' 8 [En eb db Bb]
+=4, 8 [<c# g> bb a g]
+
+|
+=1  4 <bbl e~b-.> 8 rest' <b e~-.>
+=2  4 g 8 rest g
+=3  8 [A_# An G E]
+=4, 8 [e <c# g> bb a]
+|
+=1  4 rest 8 [<bbl e~b-.> <b e~-.>]
+=2  4 rest 8 [g-. g-.]
+=3  8 [C# A_# An G]
+=4, 8 [g e <c# g> bb]
+|
+=1  4 rest 8 rest <bbl e~b-.>
+=2  4 rest 8 rest g-.
+=3  8 [E C# A_# An]
+=4, 8 [a g e <c# g>]
+/
+7 bars | 24 | 24 | 24 | 24 | 24 | 24 | 24 |
+|
+=1  4 rest 8 [<bnl e~n> <d~ g~>]
+=2  4 rest 8 [g# b]
+=3  8 [G E C# A_#]
+=4, 8 [bb a g e]
+|
+=1  4 blank 2 rest
+=2  4 blank 2 rest
+=3  8 [An G E C#]
+=4, 8 [<c# g> bb a g]
+|
+=1  4 vol120 <a# c~#l f~#> 8 rest' <a c~l f~>
+i0.7 .04 piu
+I0.7 .25 f
+=2, 4 vol120 <A# c#l f#> 8 rest' <A cl f>
+=3  8 [A_# An G E]
+=4, 8 [e <c# g> bb a]
+|
+Il0.7 .03 210
+=1  4 rest 8 [<a# c~#l f~#> <a c~ f~>]
+=2, 4 rest 8 [<A# c#l f#> <A c f>]
+=3  8 [C# A_# An G]
+=4, 8 [g e <c# g> bb]
+|
+=1  4 rest 8 rest <a# c~#l f~#>
+=2, 4 rest 8 rest 32 blank 8 <A# c#l f#> 643 blank
+=3  8 [E C# A_# An]
+=4, 8 [a g e <c# g>]
+|
+=1  4 rest 8 [<b d~ g~> <d~ f~ b~b>]
+=2  4 rest 8 [<B d  g>  <d  f  bb>]
+=3  8 [G E C# A_#]
+=4, 8 [bb a g e]
+|
+=1  8 rest 4 <c~# e~ a~> 8 rest
+=2, 8 rest 4 <c#  e  a>  8 rest
+=3  8 [An G E C#]
+=4, 8 [<c# g> bb a g]
+
+4 systems 12 / 18-23-18 23 18-23-18 / 18-23-18 25 18-23-18 3 \
+ / 18-23-18 23 18-23-18 / 18-21-18 23 18-23-18 /
+pagenum
+innerhead Music for Strings Percussion and Celeste, II
+
+/
+7 bars | 6 6 6 5 | 7 6 6 5 | 6 6 6 7 | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 |
+|
+=1  4 <c~ e~bl a~b> rest
+=2  4 <c  ebl  ab>  rest
+=3  8 [A_# An G E]
+=4, 8 [e <c# g> bb a]
+|
+=1  8 rest 4 <a# c~#l f~#> 8 rest
+=2, 8 rest 4 <A# c#l  f#>  8 rest
+=3  8 [C# A_# An G]
+=4, 8 [g e <c# g> bb]
+|
+=1  8 [<an c~nl f~n> <f# a d~>] 4 rest
+#P=2, 323 blank 8 [<An cnl  fn>  <F# A d>] 4 rest
+#M=2, 8 [<An cnl  fn>  <F# A d>] 4 rest
+=3  8 [E C# A_# G_] bass
+=4, 8 [a g e c#]
+|
+=1  4 <g bbl e~b> 8 rest <a c~ f~>
+#P=2, 323 blank 4 <G Bbl eb> 8 rest <A c f>
+#M=2, 4 <G Bbl eb> 8 rest <A c f>
+# =3  8 [G E C# A_#]
+# =4, 8 [bb a g e]
+=3, 8 [bb a g e]
+=4' 8 [eb db Bb G]
+|
+=1  4 rest <g b d~ g~>
+i0.7  .20 cresc .  .  .
+=2' 4 rest <D G B d>
+# =3  8 [An G E C#]
+# =4, 8 [<c# g> bb a g]
+=3, 8 [<c# g> bb a g]
+=4' 8 [En eb db Bb]
+|
+Il0.7 .35 220
+=1  4 <a c~# e~ a~> 43 rest 163 blank treble8va blank
+I0.7  .01 ff
+=2, 4 <E A   c# e>  rest
+# =3  8 [A_# An G E]
+# =4, 8 [e <c# g> bb a]
+=3, 8 [e <c# g> bb a]
+=4' 8 [G En eb db]
+| 0.8
+=1, 4 <A c# e a> 8 rest <A c e a>
+=2' 4 <E A c# e> 8 rest <E A c e>
+#=3  8 [C# A_# An G]
+#=4, 8 [g e <c# g> bb]
+=3, 8 [g e <c# g> bb]
+=4' 8 [Bb G En eb]
+/
+7 bars | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 | 7 6 6 5 | 6 6 6 5 | 6 6 6 5 | 6 6 6 8 |
+|
+=1, 4 rest 8 [<A c# e a> <A c e a>]
+=2, 4 rest 8 [<E A c# e> <E A c e>]
+#=3  8 [E C# A_# An]
+#=4, 8 [a g e <c# g>]
+=3, 8 [a g e <c# g>]
+=4' 8 [db Bb G En]
+|
+=1, 4. rest 8 <A c# e a>
+=2' 4. rest 8 <E A c# e>
+# =3  8 [G E C# A_#]
+# =4, 8 [bb a g e]
+=3, 8 [bb a g e]
+=4' 8 [eb db Bb G]
+|
+=1, 4 rest <A c# e a>
+=2' 4 rest <E A c# e>
+# =3  8 [An G E C#]
+# =4, 8 [<c# g> bb a g]
+=3, 8 [<c# g> bb a g]
+=4' 8 [En eb db Bb]
+|
+=1, 8 [<Bb d f bb> <c#l e# g#l c~#>] rest <d f a d~>
+=2, 8 [<F Bb d f> <G#l c# e#l g#>] rest <A d f a>
+# =3  8 [A_# An G E]
+# =4, 8 [e <c# g> bb a]
+=3, 8 [e <c# g> bb a]
+=4' 8 [G En eb db]
+|
+=1, 8 rest [<eb g bbl e~b> rest <c en g c~>]
+=2, 8 rest [<Bb ebl g bb> rest <G c en g>]
+# =3  8 [C# A_# An G]
+# =4, 8 [g e <c# g> bb]
+=3, 8 [g e <c# g> bb]
+=4' 8 [Bb G En eb]
+|
+=1, 4 rest <B d#l f# b>
+=2' 4 rest <F# B d#l f#>
+# =3  8 [E C# A_# An]
+# =4, 8 [a g e <c# g>]
+=3, 8 [a g e <c# g>]
+=4' 8 [db Bb G En]
+|
+=1, 4 <Bb d f bb> 8 rest <c e g c~-emph> treble
+I0.6 .60 f
+=2, 4 <F Bb d f> 8 rest <G c e g-emph>
+# =3  8 [G E C# A_#]
+# =4, 8 [bb a g e]
+=3, 8 [bb a g e]
+=4' 8 [eb db Bb G]
+/
+7 bars | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 | 7 6 6 5 | 6 6 6 5 | 7 6 6 5 |
+|
+=1, 8 rest 4 <a c~# e~ a~> 8 rest
+=2' 8 rest 4 <E A c# e> 8 rest
+# =3  8 [An G E C#]
+# =4, 8 [<c# g> bb a g]
+=3, 8 [<c# g> bb a g]
+=4' 8 [En eb db Bb]
+|
+Il1.2 .20 230
+=1, 8 [<ab c~ e~bl a~b> rest' <g b d~ g~>] rest'
+=2' 8 [<Ebr Abl c eb>   rest <D G B  d>]  rest
+# =3  8 [A_# An G E]
+# =4, 8 [e <c# g> bb a]
+=3, 8 [e <c# g> bb a]
+=4' 8 [G En eb db]
+|
+=1, 8 rest' 4 <a c~# e~ a~-emph> 8 <f# a#l c~ f~#>
+=2' 8 rest 4 <E A   c# e-emph,>  8 <C# F#l A# c>
+# =3  8 [C# A_# An G]
+# =4, 8 [g e <c# g> bb]
+=3, 8 [g e <c# g> bb]
+=4' 8 [Bb G En eb]
+|
+=1, 4 rest <d f# a d~>
+=2' 4 rest <A_ D F# A>
+# =3  8 [E C# A_# An]
+# =4, 8 [a g e <c# g>]
+=3, 8 [a g e c#]
+=4' 8 [db Bb G En]
+|
+=1, [<db f abl d~b> <eb g bbl e~b>] rest' <g# bnl e~n>
+i0.7 .50 dim .  .  .
+=2  [<A_b Dbl F Ab> <B_b Ebl G Bb'>] rest' <G#, Bnl en>
+# =3  8 [G E C# A_#]
+# =4, 8 [bb a g e]
+=3, 8 8 [d# c# g e]
+=4' 8 rest rest [Bb G]
+|
+=1, 8 rest 4 <f# a d~> 8 rest
+=2' 8 rest 4 <F# A d>  8 rest
+# =3  8 [An G E C#]
+# =4, 8 [<c# g> bb a g]
+=3, 8 [g bb a g]
+=4' 8 [En eb db Bb]
+|
+=1, 8 [<f abl d~b> <g bbl e~b>] rest' <g# bnl e~n>
+#P=2' 64 blank 8 [<F Abl db>  <G Bbl eb>]  rest' <G# Bnl en>
+#M=2' 8 [<F Abl db>  <G Bbl eb>]  rest' <G# Bnl en>
+# =3  8 [A_# An G E]
+# =4, 8 [e <c# g> bb a]
+=3, 8 [e d~b bb a]
+=4' 8 [G En eb db]
+/
+7 bars | 6 6 6 5 | 6 6 7 5 | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 | 6 6 6 5 ||
+|
+=1, 8 rest 4 <b d~ g~> 8 <f# a d~>
+=2  8 rest 4 <B d  g>  8 <F# A d'>
+# =3  8 [C# A_# An G]
+# =4, 8 [g e <c# g> bb]
+=3, 8 [g e d~b bb]
+=4' 8 [Bb G En eb]
+|
+=1, 4 rest 8 [<f abl d~b> <g bbl e~b>]
+=2' 4 rest 8 [<F Abl db>  <G Bbl eb>]
+# =3  8 [E C# A_# E]
+# =4, 8 [a g e <c# g>]
+=3, 8 [a g e d~b]
+=4' 8 [db Bb G En]
+|
+=1, 4 rest <bbl e~b>
+=2, 4 rest g
+# =3  8 [C# A_# vol-5 A_n G_] bass
+# =4, 8 [bb a g e]
+=3, 8 [bb a g e]
+=4' 8 [eb db Bb G]
+|
+=1 4. rest 8 <bbl e~b>
+=2 4. rest 8 g
+=3, 8 [d~b bb g en]
+=4' 8 [En eb db Bb]
+|
+Il0.9 .02 240
+=1, 4 rest <bbl e~b>
+=2, 4 rest g
+=3  8 [eb d~b vol-5 bb g]
+=4' 8 [G vol-5 En eb db]
+|
+=1 4. rest 8 <bbl e~b>
+=2 4. rest 8 g
+=3, 8 [en eb vol-5 db Bb]
+=4' 8 [Bb vol-5 G En Eb]
+|
+=1 4 blank 2 rest
+=2 4 blank 2 rest
+=3' 8 [G En] 4 rest
+=4' 8 [Db vol-5 B_b G_ E_]
