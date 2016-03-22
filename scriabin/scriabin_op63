@@ -1,0 +1,136 @@
+6 systems 25 /19-35-19 /19-35-19 /19-35-19 /19-35-19 /19-35-19 /19-35-19 10/
+title Deux Poèmes,   Op.63,  No.1,   Masque
+pagenum 3
+innerhead Alexander Scriabin, 1911-12
+midi channel 0 patch 0 pan 80 reverb 90
+
+/
+5 bars |6/8 12 | 36 | 36 | 36 | 36 |
+| 2/8 0.6
+r1.2 Allegretto
+i0.6  .05 avec une douceur cachée
+% bar avec une douceur cachée
+=1' treble 6/8 cha0 vol80 leg99 cc64=0 8 [A F#]
+I0.5 .02 p
+=2, bass   6/8 cha0 vol70 leg99 8 rest cc64=127 <c bb>
+| 6/8 0.9 1.0
+=1' vol80 8 [Bb A F#] [Bb A F#]
+=2,  vol70 4 d~ 8 vol80 d~b(1 cc64=0 d~)1 rest cc64=127 <c bb>
+| 0.9 0.95
+=1, vol80 8 [Bb d e(1] [e)1 c A]
+=2  vol70 4. d~n 8 vol80 d~b cc64=0 rest cc64=127 <eb d~b>
+| 0.5 0.53 0.56 0.64
+=1, vol80 8 [db f g(1] [g)1 <c# f> a]
+=2  vol70 4. f~n 8 vol80 f~b 16 [b~ g~ c~ g]
+| 1.0 0.9
+=1 4. b 8 rest cc64=0 [E C#]
+=2 4. A 4 rest 8 cc64=127 <A, g>
+/
+5 bars | 36 | 36 | 36 | 36 | 36 |
+| 0.6 0.62 0.7
+il0.7 .03 5
+=1' vol80 8 [F F# D#] [G G# Fn(4]
+=1, 2 blank 4 C#l(2
+=2' vol70 4 b 8 vol80 bb(1 4. b)1
+=2, 4. blank cc64=0 8 rest, cc64=127 4 eb(2
+| 0.35 0.32 0.3 0.32 0.32 0.33
+=1' 8 [A db eb(1] [e)1 F# D#]
+=1, 4. <Db)2(2 F)4(4> 8 <Db)2 F)4> 4 blank
+=2, 4. eb)2(2 blank
+=2' 4. a(1 8 <F e)2 a)1> cc64=0 rest cc64=127 <Bn a>
+| 0.9 1.0
+=1' 8 [G G# E#] [A G# E#]
+=2, 42 c~# c~n(1 8 c~)1 cc64=0 rest cc64=127 <c# b>
+|
+=1' 8 [A A# F##] [B Bb G]
+=2, 42 d~# d~n(1 4. d~)1
+|
+=1' 8 [Bn Bb G] [Bn Bb G]
+=2 4 blank 2. rest
+=2 2 blank 4 cc64=0 blank
+/
+6 bars | 20 | 5 5 5 8 6 5 | 36 | 36 | 20 | 5 5 5 8 6 5 |
+|
+il1.0 10
+i0.5     bizarre
+=1' 2. <Cb F Bb>
+=2' 2. <G db>
+|
+=1 4. <D(2 G#lr(4 c#'(1> 8 <D)2 G#lr)4 c#')1> [f bb-s4]
+=2 4. <E(2 A#(1> 8 <E)2 A#)1> cc64=127 [<Dbl, Gn,> <f c~b f~>]
+|
+=1 8 [a-s5 f eb] [cb' Bb'-s3 Gn]
+=2 4. cc64=127 e~b rest
+|
+=1' 8 [cb Bb G] [cb Bb G]
+=2 4 blank 2. rest
+=2 2 blank 4 cc64=0 blank
+|
+=1' 2. <Cb F Bb>
+=2' 2. <G db>
+|
+il0.7 .03 15
+=1 4. <D(2 G#lr(4 c#'(1> 8 <D)2 G)4 c')1> [f bb-s4]
+=2 4. <E(2 A#(1> 8 <E)2 A#)1> cc64=127 [<Dbl, Gn,> <f c~b f~>]
+/
+6 bars | 36 | 36 | 20 | 15 18 | 36 | 36 |
+|
+=1 8 [a-s5 f eb] [cb' Bb'-s3 Gn]
+=2 4. cc64=127 e~b rest
+|
+=1, 8 [cb d Bn] [eb d B]
+=2 4 blank 2. rest
+=2 2 blank 4 cc64=0 blank
+| 0.9 0.9
+=1' 2. <Eb A d>
+=2, 2. <B f>
+| 0.9 0.9
+=1, 4. <Gb(2 c(3 f(1> 8 <Gb)2 c)3 f)1> [an d~-s5]
+=2 4. <Ab(2 d'(1> 8 <A)2 d')1> cc64=127 [<F, B,> <anl e~b a~>]
+| 0.85 0.9
+il0.7 .23 20
+=1 8 [c~#-s4 a g] [eb-s3 d B]
+=2 4. cc64=127 g~ rest
+| 0.85 0.85
+=1 8 [eb d B] eb [c~n f~]
+=2, 4. rest 8 cc64=0 rest cc64=127 [<Ab d> <c~ g~b c~~>]
+/
+5 bars | 36 | 36 | 36 | 36 | 36 |
+| 0.8 0.85
+=1 8 [e~n c~ bb] [gb f d]
+=2 4. b~b rest
+| 0.85 0.9
+=1 8 [gb db Bb] [dn' A F#]
+=2 4 blank 2. rest
+| 0.9 0.95
+=1' 8 [Bb A F#] [Bb cc64=0 A F#]
+=2, 4. rest 4 rest 8 cc64=127 <c bb>
+| 0.9 1.0
+il0.7 .23 25
+=1' vol80 8 [Bb A F#] [Bb A F#]
+=2,  vol70 4 d~ 8 vol80 d~b(1 cc64=0 d~)1 rest cc64=127 <c bb>
+| 0.9 0.95
+=1, vol80 8 [Bb d e(1] [e)1 c A]
+=2  vol70 4. d~n 8 vol80 d~b cc64=0 rest cc64=127 <eb d~b>
+/
+5 bars | 12 12 15 | 15 18 | 12 12 15 | 10 10 16 | 24 ||
+| 0.5 0.53 0.56 0.64
+=1, vol80 8 [db f g(1] [g)1 <c# f> a]
+=2  vol70 4. f~n 8 vol80 f~b 16 [b~ g~ c~ g]
+| 1.0 0.9
+=1, 4. b 8 rest cc64=0 [c A]
+=2  4. A 4 rest 8 cc64=127 <eb d~b>
+| 0.5 0.53 0.56 0.64
+i0.7 .60 riten.
+=1, vol80 8 [db f g(1] [g)1 <c# f> a]
+=2  vol70 4. f~n 8 vol80 f~b 16 [b~ g~ c~ g]
+| 1.0 1.50
+i1.1 .33 lento
+=1' 2 blank 4 c~#rl
+=1, 4. b 8 rest cc64=0 [<f f~> <a a~>]
+=2  4. A 8 rest 165 cc64=127 vol-15 [b~ g~ c~#-I5 g A,]
+| 3.0 1.0
+=1 4. <b b~> rest
+=2 vol+10 4. A_ cc64=0 rest
+
+

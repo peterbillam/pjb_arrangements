@@ -16,6 +16,7 @@ ADDMESSAGE = /home/pbin/add_free_message
 UTF2ISO = /home/pbin/utf2iso
 PIECE1 = scriabin_op59
 PIECE2 = scriabin_op61
+PIECE7 = scriabin_op63
 PIECE3 = scriabin_op67
 PIECE4 = scriabin_op74
 PIECE5 = flammes_sombres
@@ -26,10 +27,12 @@ TITLE3 = title_${PIECE3}
 TITLE4 = title_${PIECE4}
 TITLE5 = title_${PIECE5}
 TITLE6 = title_${PIECE6}
-PLAY   = scriabin_op71
+TITLE6 = title_${PIECE&}
+PLAY   = scriabin_op61
 
-dev : t.mid ${TITLE2}.a4 ${TITLE4}.a4 p2_op67.a4 p2_op74.a4 p3_op74.a4 \
- ${PIECE1}.a4 ${PIECE2}.a4 ${PIECE3}.a4 ${PIECE4}.a4 ${PIECE5}.a4 ${PIECE6}.a4
+dev : ${TITLE2}.a4 ${TITLE4}.a4 p2_op67.a4 p2_op74.a4 p3_op74.a4 \
+ ${PIECE1}.a4 ${PIECE2}.a4 ${PIECE3}.a4 ${PIECE4}.a4 ${PIECE5}.a4 \
+ ${PIECE6}.a4 ${PIECE7}.a4
 all : ${A4D}/${PIECE2}.pdf ${USD}/${PIECE2}.pdf ${SRCD}/${PIECE2}.txt \
  ${A4D}/${PIECE3}.pdf ${USD}/${PIECE3}.pdf ${SRCD}/${PIECE3}.txt
 	date
@@ -170,14 +173,16 @@ www : scriabin_op59 op74
 	 | /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter \
 	  -sOutputFile=/home/pjb/www/mus/scriabin/op74analysis.pdf -
 
+${PIECE7}.a4 : ${PIECE7}
+	${MUSCRIPT} ${PIECE7} > $@
+	pkill -HUP gv
+
 edit :
 	vi ${PLAY}
 	muscript_lua ${PLAY} > ${PLAY}.a4
 	pkill -HUP gv
 	muscript_lua -midi ${PLAY} | midisox_lua - -d stat
 
-t.mid : ${PLAY}
-	${MUSCRIPT} -midi ${PLAY} > t.mid
-play : t.mid
-	aplaymidi t.mid &
+play :
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat
 
