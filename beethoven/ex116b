@@ -1,0 +1,42 @@
+boundingbox 490 160
+midi channel 0 patch 0  reverb 45
+midi channel 1 patch 71 reverb 45
+2 systems 13 / 27 / 27 /
+/
+5 bars | 1b 5 5 6 5 | 6 6 6 6 5 5 5 4 | 10 10 10 9 \
+ | 5 5 4 6 6 6 6 5 | 10 9
+| .57 .57
+b0.7 116b
+r0.7 .35 Op.83 No.3
+=1' treble 1b cha0 leg95 vol70 4 A 8 [B c]
+r0.10 .15 Kleine
+| .6 .57 .55 .57
+i0.6 .50 Leichtlich und mit Grazie vorgetragen
+=1' vol80 8 [c B] 8 [A G] 4 F G
+r0.10 Blumen, kleine
+|
+=1 4 A 4 leg70 F leg95 B' d
+r0.10 .03 Blätter .55 streuen
+|
+=1, 4. c 8 B [A f] [c B]
+r0.15 mir mit .60 leichter
+| .6 .6
+=1 4 A{2 vol-10 leg60 G}2 vol+10 
+r0.15 .13 Hand
+/
+5 bars | 1b 5 4 4 6 | 5 5 4 7 6 6 6 5 | 5 5 5 5 6 6 6 5 | 6 6 6 6 5 5 5 4 | 10
+|  .57 .57
+=1 leg95 4. G 8 G
+r0.15 .25 gute
+| .60 .57 .55 .57
+=1 4. A 8 A [B c] [d e]
+r0.15 .05 junge .60 Frühlingsgötter
+| .65 .57 .55 .57
+=1, 4 f leg70 c leg95 8 [f leg75 e] leg95 [d leg75 c]
+r0.15 .50 tändelnd
+| .60 .57 .55 .57
+=1' 8 leg95 [B leg75 A] leg95 [G F] 4 E G
+r0.15 .05 auf ein   lüftig
+| .60 .20
+=1 4 F 16 blank
+r0.15 .01 Band.

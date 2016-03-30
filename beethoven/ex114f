@@ -1,0 +1,45 @@
+boundingbox 400 220
+midi channel 0 patch 48 reverb 45
+midi channel 1 patch 71 reverb 45
+4 systems 13 / 25 7/ 25 / 25 7/ 25 /
+/
+2 bars | 24 18 | 18 18 |
+| 1.2
+b0.7 114e
+r0.6 .13 Overture Op. 115
+i0.5 .80 Allegro assai vivace
+=1' treble cha0 leg65 vol60 16 [c C C C C C] 4 D{2 8 C}2
+| 1.2
+=1' 8 [F{2 D}2 E-.] 4 F 8 E
+/
+3 bars | 18 18 | 18 18 | 15
+|
+=1 8 [A{2 G}2] rest 8 [A{2 G}2] rest
+|
+=1 8 [A{2 G}2] rest 8 [F-. D-. E-.]
+| 0.6
+=1' 4. C
+/
+5 bars | 21 | 15 15 | 15 15 | 15 15 | 15
+|
+=1' 8 [B_ A_ G_]
+| 1.2
+=1 4. C D
+|
+=1 4. E G
+|
+=1 4. c d
+| 0.6
+=1 4. c
+/
+5 bars | 21 | 15 15 | 15 15 | 15 15 | 15
+|
+=1' 8 [B A G]
+| 1.2
+=1 4. c d
+|
+=1 4. e g
+|
+=1 4. c~ d~
+| 0.8
+=1 4. c~ 16 blank

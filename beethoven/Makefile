@@ -139,6 +139,11 @@ all: motifs.tgz \
  ${D}/ex112a.jpg ${D}/ex112a.mp3 ${D}/ex112b.jpg ${D}/ex112b.mp3 \
  ${D}/ex113a.jpg ${D}/ex113a.mp3 ${D}/ex113b.jpg ${D}/ex113b.mp3 \
  ${D}/ex113c.jpg ${D}/ex113c.mp3 ${D}/ex113d.jpg ${D}/ex113d.mp3 \
+ ${D}/ex114a.jpg ${D}/ex114a.mp3 ${D}/ex114b.jpg ${D}/ex114b.mp3 \
+ ${D}/ex114c.jpg ${D}/ex114c.mp3 ${D}/ex114d.jpg ${D}/ex114d.mp3 \
+ ${D}/ex114e.jpg ${D}/ex114e.mp3 ${D}/ex114f.jpg ${D}/ex114f.mp3 \
+ ${D}/ex115a.jpg ${D}/ex115a.mp3 ${D}/ex115b.jpg ${D}/ex115b.mp3 \
+ ${D}/ex116a.jpg ${D}/ex116a.mp3 ${D}/ex116b.jpg ${D}/ex116b.mp3 \
 
 
 
@@ -890,6 +895,36 @@ distex113c:
 distex113d:
 	upload ${D}/ex113d.jpg
 	upload ${D}/ex113d.mp3
+distex114a:
+	upload ${D}/ex114a.jpg
+	upload ${D}/ex114a.mp3
+distex114b:
+	upload ${D}/ex114b.jpg
+	upload ${D}/ex114b.mp3
+distex114c:
+	upload ${D}/ex114c.jpg
+	upload ${D}/ex114c.mp3
+distex114d:
+	upload ${D}/ex114d.jpg
+	upload ${D}/ex114d.mp3
+distex114e:
+	upload ${D}/ex114e.jpg
+	upload ${D}/ex114e.mp3
+distex114f:
+	upload ${D}/ex114f.jpg
+	upload ${D}/ex114f.mp3
+distex115a:
+	upload ${D}/ex115a.jpg
+	upload ${D}/ex115a.mp3
+distex115b:
+	upload ${D}/ex115b.jpg
+	upload ${D}/ex115b.mp3
+distex116a:
+	upload ${D}/ex116a.jpg
+	upload ${D}/ex116a.mp3
+distex116b:
+	upload ${D}/ex116b.jpg
+	upload ${D}/ex116b.mp3
 
 
 distmotifs : motifs.tgz
@@ -1885,4 +1920,44 @@ ${D}/ex113d.jpg: ex113d
 	bash src2jpg ex113d $@
 ${D}/ex113d.mp3: ex113d
 	bash src2mp3 ex113d $@
+${D}/ex114a.jpg: ex114a
+	bash src2jpg ex114a $@
+${D}/ex114a.mp3: ex114a
+	bash src2mp3 ex114a $@
+${D}/ex114b.jpg: ex114b
+	bash src2jpg ex114b $@
+${D}/ex114b.mp3: ex114b
+	bash src2mp3 ex114b $@
+${D}/ex114c.jpg: ex114c
+	bash src2jpg ex114c $@
+${D}/ex114c.mp3: ex114c
+	bash src2mp3 ex114c $@
+${D}/ex114d.jpg: ex114d
+	bash src2jpg ex114d $@
+${D}/ex114d.mp3: ex114d
+	bash src2mp3 ex114d $@
+${D}/ex114e.jpg: ex114e
+	bash src2jpg ex114e $@
+${D}/ex114e.mp3: ex114e
+	bash src2mp3 ex114e $@
+${D}/ex114f.jpg: ex114f
+	bash src2jpg ex114f $@
+${D}/ex114f.mp3: ex114f
+	bash src2mp3 ex114f $@
+${D}/ex115a.jpg: ex115a
+	bash src2jpg ex115a $@
+${D}/ex115a.mp3: ex115a
+	bash src2mp3 ex115a $@
+${D}/ex115b.jpg: ex115b
+	bash src2jpg ex115b $@
+${D}/ex115b.mp3: ex115b
+	bash src2mp3 ex115b $@
+${D}/ex116a.jpg: ex116a
+	bash src2jpg ex116a $@
+${D}/ex116a.mp3: ex116a
+	bash src2mp3 ex116a $@
+${D}/ex116b.jpg: ex116b
+	bash src2jpg ex116b $@
+${D}/ex116b.mp3: ex116b
+	bash src2mp3 ex116b $@
 
