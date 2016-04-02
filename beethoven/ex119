@@ -1,0 +1,37 @@
+boundingbox 640 140
+midi channel 0 patch  0 reverb 45
+midi channel 1 patch 71 reverb 45
+2 systems 8 / 27 / 27 /
+/
+5 bars | 1b 24 | 10 10 12 12 12 10 | 10 10 12 12 12 10 \
+ | 6 6 8 7 6 6 8 7 6 6 8 6 | 30
+| 1.4
+b0.7 119
+r0.7 .35 Op.2 No.1
+=1' treble 1b cha0 leg99 vol70 8. [C 16 C]
+| 4.2
+i0.7 .35 Adagio
+=1' vol80 4 A 163-s vol-5 c 8 [B vol-5 A G vol-5 F]
+=1 8 blank blank-turn 2 blank
+|
+=1 4 vol+10 F 8 vol-5 leg75 E leg99 vol-5 [C{2 D vol+5 E}2]
+|
+=1 8 vol75 [F{2 vol-5 16 c'}2] rest \
+ 8 vol+5 [c{1 16 vol-10 B}1] rest 8 vol+8 [B'{2 16 vol-10 A}2] rest
+| 1.75
+=1 vol70 4 A{2 vol-10 16 G}2
+/
+5 bars | 1b 7 7 7 11 7 11 6| 16 19 19| 4 4 4 4 4 4 4 4 6 6 6 5 \
+ | 6 6 6 6 5 5 5 7 6 6 6 6| 30
+| 2.45
+midi pause .05
+=1 16 [C vol+5 D E] vol+5 [F F# vol+5 G G#]
+| 4.2
+=1' vol80 4 A 163-s vol-5 c 8 [B vol-5 A G vol-5 F]
+=1 8 blank blank-turn 2 blank
+| .7  .71 .73 .74 .75 .74
+=1 4 vol+5 d vol+5 e 16 vol+5 [g f vol-5 e f]
+|
+=1 16 [e d vol-5 c B] 8. [A 16 A-turn] [c' B' leg85 G leg99 E]
+| 2.2
+=1 4 G{2 8 vol-10 F}2 32 blank

@@ -1,0 +1,52 @@
+boundingbox 490 330
+midi channel 0 patch 0 reverb 45
+midi channel 1 patch 71 reverb 45
+2 systems 12 / 27-45-27 / 27-45-27/
+/
+5 bars | 2# 12 12 10 ||: 12 12 10 | 12 12 10 | 12 12 15 | 12 12 10 |
+| .39 .38 .38
+b0.7 121
+r0.7 .35 Op.28
+=1 treble 2# cha0 leg99 vol85 4 blank 2. rest
+=2 bass   2# cha0 leg99 vol60 4 D D D
+|
+i0.6 Allegro
+=1' vol85 2. A
+=1, vol-15 2. <Cn F>
+=2 4 vol+5 D D D
+|
+=1' vol90 4 A{1 vol85 2 G}1(1
+=1, vol-15 2. <B_ D>
+=2 4 vol+5 D D D
+| .38 .38 .40
+=1' 2 G)1 8 vol80 [F E]
+=1, vol70 2 <B_ D> vol65 4 <G_ B_>
+=2 4 vol+5 D D D
+| .39 .38 .38
+=1' vol80 2 D 4 C
+=1, vol70 2. G_
+=2' 2. e
+=2, 4 vol+5 D D vol-6 D
+/
+5 bars | 2# 12 12 10 | 12 12 10 | 12 12 10 | 12 12 15 | 12 12 10 |
+|
+=1' 2 vol85 B_ 4 vol80 A_
+=1, 2. vol75 G_
+=2' 2. c
+=2, 4 D D vol-6 D
+| .41 .39 .38
+=1' vol80 2. <F_ A_>
+=2' vol70 2. d
+=2, 4 D vol-6 D D
+| .39 .38 .38
+=1' vol85 2. <A_ D>
+=2' vol+10 2. F
+=2, 4 vol-5 D D D
+| .38 .38 .41
+=1' vol90 2 <C E> 8 vol85 [<D F> <E G>]
+=2' vol+10 2. A
+=2, 4 vol-5 D D D
+| 1.2
+=1  4 vol80 leg190 <D F> rest rest
+=2' 4 leg190 d 2 blank
+=2, 4 leg99 vol+5 D vol-4 D vol-4 D 83 blank

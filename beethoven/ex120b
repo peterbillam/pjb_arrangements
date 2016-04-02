@@ -1,0 +1,33 @@
+boundingbox 490 140
+midi channel 0 patch 0 reverb 45
+midi channel 1 patch 71 reverb 45
+2 systems 10 / 27 / 27 /
+/
+5 bars ||: 4b 10 | 10 11 9 | 10 12 12 | 10 11 9 | 10 9
+| .24
+b0.7 120b
+r0.7 .35 Op.10 No.2
+=1 bass 4b cha0 leg95 vol70 4 c
+| .72
+i0.6 .40 Allegretto
+=1 4 f a en
+|
+=1 4 f leg65 a leg95 c~ treble
+|
+=1 4 D B_ En
+| .48
+=1  4 F leg60 C leg95
+/
+5 bars | 4b 9 | 11 10 9 | 10 12 9 | 10 10 9 | 9 9 :||
+| .24
+=1, 4 G
+| .72
+=1' 2 A 4 B
+=1, 4 Ar F leg60 Eb leg95
+|
+=1' 2 <A c> 16-s e 4 <B d>
+=1, 4 E 2 F
+|
+=1' 2 <E A c> 4 <D G B>
+| .48
+=1 4 <C A> rest

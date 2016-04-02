@@ -144,6 +144,11 @@ all: motifs.tgz \
  ${D}/ex114e.jpg ${D}/ex114e.mp3 ${D}/ex114f.jpg ${D}/ex114f.mp3 \
  ${D}/ex115a.jpg ${D}/ex115a.mp3 ${D}/ex115b.jpg ${D}/ex115b.mp3 \
  ${D}/ex116a.jpg ${D}/ex116a.mp3 ${D}/ex116b.jpg ${D}/ex116b.mp3 \
+ ${D}/ex117a.jpg ${D}/ex117a.mp3 ${D}/ex117b.jpg ${D}/ex117b.mp3 \
+ ${D}/ex118a.jpg ${D}/ex118a.mp3 ${D}/ex118b.jpg ${D}/ex118b.mp3 \
+ ${D}/ex119.jpg  ${D}/ex119.mp3 \
+ ${D}/ex120a.jpg ${D}/ex120a.mp3 ${D}/ex120b.jpg ${D}/ex120b.mp3 \
+ ${D}/ex121.jpg  ${D}/ex121.mp3 \
 
 
 
@@ -925,6 +930,30 @@ distex116a:
 distex116b:
 	upload ${D}/ex116b.jpg
 	upload ${D}/ex116b.mp3
+distex117a:
+	upload ${D}/ex117a.jpg
+	upload ${D}/ex117a.mp3
+distex117b:
+	upload ${D}/ex117b.jpg
+	upload ${D}/ex117b.mp3
+distex118a:
+	upload ${D}/ex118a.jpg
+	upload ${D}/ex118a.mp3
+distex118b:
+	upload ${D}/ex118b.jpg
+	upload ${D}/ex118b.mp3
+distex119:
+	upload ${D}/ex119.jpg
+	upload ${D}/ex119.mp3
+distex120a:
+	upload ${D}/ex120a.jpg
+	upload ${D}/ex120a.mp3
+distex120b:
+	upload ${D}/ex120b.jpg
+	upload ${D}/ex120b.mp3
+distex121:
+	upload ${D}/ex121.jpg
+	upload ${D}/ex121.mp3
 
 
 distmotifs : motifs.tgz
@@ -1960,4 +1989,36 @@ ${D}/ex116b.jpg: ex116b
 	bash src2jpg ex116b $@
 ${D}/ex116b.mp3: ex116b
 	bash src2mp3 ex116b $@
+${D}/ex117a.jpg: ex117a
+	bash src2jpg ex117a $@
+${D}/ex117a.mp3: ex117a
+	bash src2mp3 ex117a $@
+${D}/ex117b.jpg: ex117b
+	bash src2jpg ex117b $@
+${D}/ex117b.mp3: ex117b
+	bash src2mp3 ex117b $@
+${D}/ex118a.jpg: ex118a
+	bash src2jpg ex118a $@
+${D}/ex118a.mp3: ex118a
+	bash src2mp3 ex118a $@
+${D}/ex118b.jpg: ex118b
+	bash src2jpg ex118b $@
+${D}/ex118b.mp3: ex118b
+	bash src2mp3 ex118b $@
+${D}/ex119.jpg: ex119
+	bash src2jpg ex119 $@
+${D}/ex119.mp3: ex119
+	bash src2mp3 ex119 $@
+${D}/ex120a.jpg: ex120a
+	bash src2jpg ex120a $@
+${D}/ex120a.mp3: ex120a
+	bash src2mp3 ex120a $@
+${D}/ex120b.jpg: ex120b
+	bash src2jpg ex120b $@
+${D}/ex120b.mp3: ex120b
+	bash src2mp3 ex120b $@
+${D}/ex121.jpg: ex121
+	bash src2jpg ex121 $@
+${D}/ex121.mp3: ex121
+	bash src2mp3 ex121 $@
 
