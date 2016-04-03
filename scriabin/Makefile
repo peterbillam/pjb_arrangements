@@ -206,5 +206,5 @@ edit :
 	muscript_lua -midi ${PLAY} | midisox_lua - -d stat
 
 play :
-	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat trim 332
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat trim 333
 

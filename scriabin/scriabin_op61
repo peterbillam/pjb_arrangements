@@ -675,7 +675,8 @@ pagenum
 innerhead Poème-Nocturne   Op. 61   (1911-12),   Alexander Scriabin
 
 /
-3 bars | 72 | 8 6 6 8 8 6  4 4 4 4 4 4  4 8 5 4 4 3 | 72 |
+3 bars | 4 3 4 3 4 3  8 6 6 8 8 6  4 8 5 4 4 3 \
+ | 8 6 6 8 8 6  4 4 4 4 4 4  4 8 5 4 4 3 | 72 |
 | 2.7
 il0.7 .10 110
 =1 4. Ebb)2(2 8. [E)2 16 Eb Bb' cb'] 4 f 8 Ebb(2
@@ -687,7 +688,7 @@ i0.5 .55 poco cresc
 =2  16 [f~ c~b db] rest 8 rest 16 [c~ f G,] rest \
  vol70 8 rest 16 [f' G Db] rest 8 rest
 |
-is0.8 .50 last 4 bars up 2 semitones  .   .   .
+% is0.8 .50 last 4 bars up 2 semitones  .   .   .
 =1'  vol85 83 blank 4. <B_b F#ll Bbl-s1-s2-s3-s5 c#xl(1> 8 c)1 4 A B 8 c
 #P=1, 83 blank 4. blank 8 [B_ A F] [B F c]
 #M=1, vol70 83 blank 4. blank 8 [B_b blank F#] blank F blank vol85
@@ -713,10 +714,10 @@ i0.5 .55 poco cresc
 =2 16 [g~ d~b eb] rest 8 rest 16 [c~ g A,] rest \
  vol70 8 rest 16 [g' A Eb] rest 8 rest
 /
-3 bars | 5 4 5 8 8 6  5 5 5 5 4 4  6 8 6 4 4 4 | 3/4 60 | 60 |
+3 bars | 4 5 4 5 8 8 6  5 5 5 5 4 4  6 8 6 4 4 4 | 3/4 60 | 60 |
 |
 =1 vol85 83 blank 8. [<C G#l cx' d#'> 16  Gn dn' eb'] 4 a 8 Gb,(1 [G,)1 eb d]
-I0.5 .03 mp .15 p
+I0.5 .03 mp .20 p
 =2 8-s <B_(2 E#(1> 4 <B_)2 E)1 c f#'> 8 rest \
  16 [e~b a B,] rest vol70 8 rest 16 [a' B Fn] rest 8 rest
 |
@@ -964,7 +965,68 @@ I0.7   p
 =2, vol-5 2. dblr
 =2' 2 abr 4 vol-5 g
 /
-5 bars | 40 | 30 | 30 | 30 | 40 |
+5 bars | 16 10 10 9 9 9 9 9 9 | 30 | 30 | 30 | 30 25 30 |
 |
 % as bar 24 up six semitones
-=1 1 blank
+i1.1 .03 cristallin, perlé
+=1 83 <Eb Fx cbl' eb'> treble8va 163 [Eb-s1 F-I3, G Bb'] \
+ 83 [cb-.-s5 eb-.-I3,-s1 f-.] [g-. bb-. 323-s [e' f' g' b'] 83 c~b-ten] treble
+=2, 2. dbl
+=2' 2 c~b 4 vol-4 bb
+|
+il0.9 .25 160
+=1' 2. <Ebbr(4 Fx(2 Bblr(3 ebb(1>
+=2' 2 ab{1 4 vol-4 g}1
+=2, 2. db(2
+|
+=1' 2. <Ebbr)4 Fx)2 Bblr)3 ebb)1>
+=2' 2 ab{1 4 vol-4 g}1
+=2, 2. db)2
+|
+=1' 2. <Ebbr Fx Bblr ebb>
+=2' 2 ab{1 4 vol-4 g}1
+=2, 2. db
+|
+=1 83 <Eb Fx cbl' eb'> 163 [Eb-s1 F-I3, G Bb'] \
+ 83 [cb-.-s5 eb-.-I3,-s1 f-.] [g-. bb-. 323-s [e' f' g' b'] 83 c~b-ten]
+=2' 83 c~br  rest  rest  4 rest  rest
+=2, 83 dbrl blank blank 4 blank blank
+/
+5 bars | 14 | 14 | 14 | 36 | 10 |
+|
+=1' 2. <F_(2 B_blr(3 Ebb(1>
+=2' 2 vol55 Ab{1 4 vol-4 G}1
+=2, 2. Db(2
+|
+il0.9 .25 165
+=1' 2. <F_)2 B_blr)3 Ebb)1>
+=2' 2 Ab{1 4 vol-4 G}1
+=2, 2. Db)2
+|
+=1' 2. <F_ B_blr Ebb>
+=2' 2 Ab{1 4 vol-4 G}1
+=2, 2. Db
+| 2.35
+=1 83 <Eb Fx cbl' eb'> 163 [Eb-s1 F-I3, G Bb'] \
+ 83 [cb-.-s5 eb-.-I3,-s1 f-.] [g-. bb-. 323-s [E F G B' e' f' g' b'] 83 c~b-ten]
+=2' 83 <Dbrl cb>  rest  rest  4 rest  rest
+|
+=1 2. Ebbr
+=2 4 blank 2. rest
+/
+4 bars | 36 | 4 4 12 | 10 | 10 ||
+| 2.35
+=1 83 [<Cbl Eb Fx> 163 Eb-s1 F-I3, G Bb'] \
+ 83 [cb-.-s5 eb-.-I3,-s1 f-.] [g-. bb-. 323-s [E F G B' c' e' f' g' b'] 83 c~b-ten]
+=2' 83 <Dbl cb>  rest  rest  4 rest  rest
+|
+=1 2 Ebbr(2 83 [E,)2 323-s [Eb F G Bb' cb' eb' f' g' bb'] 83 c~b-ten]
+=2 4 blank 2. rest
+|
+=1 2. Ebbr(2
+I0.4 .03 pp
+i0.4 .30 smorz.
+=2 4 blank 2. rest
+|
+=1 2. Ebbr)2
+=2 4 blank 2. rest
