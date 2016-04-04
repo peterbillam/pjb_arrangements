@@ -1,0 +1,40 @@
+boundingbox 590 139
+midi channel 0 patch 0 reverb 45
+midi channel 1 patch 71 reverb 45
+2 systems  9 / 27 / 27 /
+/
+7 bars | 12 | 20 30 | 20 24 | 20 30 | 20 24 \
+ | 6 6 6 6 6 6 6 15 | 12 12 12 10 |
+| 0.25
+b0.7 127a
+r0.7 .80 Schenker p.60
+=1 treble cha0 leg75 vol85 8 e
+| 1.0
+=1 4 c(1 16 [c)1 d e f]
+|
+=1 4 B 8 rest d
+|
+=1 4 B(1 16 [B)1 c d e]
+|
+=1 4 A 8 rest c
+|
+=1 8 [f e] 8. [d 32 c d]
+|
+=1 8 [e d] [c c~]
+/
+7 bars | 20 40 | 20 24 | 20 40 | 20 24 \
+ | 6 6 6 6 6 6 6 16 | 12 12 12 10 | 12 12 12 10 |
+|
+=1 4 E(2 16 [E)2 F G A]
+|
+=1 4 D 8 rest F
+|
+=1 4 D(2 16 [D)2 E F G]
+|
+=1 4 C 8 rest G
+|
+=1 8 [c B] 8. [A-tr 32 G A]
+|
+=1' 8 [B A G e]
+|
+=1' 8 [F e F d]

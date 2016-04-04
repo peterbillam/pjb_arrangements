@@ -149,6 +149,12 @@ all: motifs.tgz \
  ${D}/ex119.jpg  ${D}/ex119.mp3 \
  ${D}/ex120a.jpg ${D}/ex120a.mp3 ${D}/ex120b.jpg ${D}/ex120b.mp3 \
  ${D}/ex121.jpg  ${D}/ex121.mp3 \
+ ${D}/ex122.jpg  ${D}/ex122.mp3 \
+ ${D}/ex123.jpg  ${D}/ex123.mp3 \
+ ${D}/ex124.jpg  ${D}/ex124.mp3 \
+ ${D}/ex125.jpg  ${D}/ex125.mp3 \
+ ${D}/ex126.jpg  ${D}/ex126.mp3 \
+ ${D}/ex127a.jpg ${D}/ex127a.mp3 ${D}/ex127b.jpg ${D}/ex127b.mp3 \
 
 
 
@@ -954,6 +960,27 @@ distex120b:
 distex121:
 	upload ${D}/ex121.jpg
 	upload ${D}/ex121.mp3
+distex122:
+	upload ${D}/ex122.jpg
+	upload ${D}/ex122.mp3
+distex123:
+	upload ${D}/ex123.jpg
+	upload ${D}/ex123.mp3
+distex124:
+	upload ${D}/ex124.jpg
+	upload ${D}/ex124.mp3
+distex125:
+	upload ${D}/ex125.jpg
+	upload ${D}/ex125.mp3
+distex126:
+	upload ${D}/ex126.jpg
+	upload ${D}/ex126.mp3
+distex127a:
+	upload ${D}/ex127a.jpg
+	upload ${D}/ex127a.mp3
+distex127b:
+	upload ${D}/ex127b.jpg
+	upload ${D}/ex127b.mp3
 
 
 distmotifs : motifs.tgz
@@ -2021,4 +2048,33 @@ ${D}/ex121.jpg: ex121
 	bash src2jpg ex121 $@
 ${D}/ex121.mp3: ex121
 	bash src2mp3 ex121 $@
+${D}/ex122.jpg: ex122
+	bash src2jpg ex122 $@
+${D}/ex122.mp3: ex122
+	bash src2mp3 ex122 $@
+${D}/ex123.jpg: ex123
+	bash src2jpg ex123 $@
+${D}/ex123.mp3: ex123
+	bash src2mp3 ex123 $@
+${D}/ex124.jpg: ex124
+	bash src2jpg ex124 $@
+${D}/ex124.mp3: ex124
+	bash src2mp3 ex124 $@
+${D}/ex125.jpg: ex125
+	bash src2jpg ex125 $@
+${D}/ex125.mp3: ex125
+	bash src2mp3 ex125 $@
+${D}/ex126.jpg: ex126
+	bash src2jpg ex126 $@
+${D}/ex126.mp3: ex126
+	bash src2mp3 ex126 $@
+${D}/ex127a.jpg: ex127a
+	bash src2jpg ex127a $@
+${D}/ex127a.mp3: ex127a
+	bash src2mp3 ex127a $@
+${D}/ex127b.jpg: ex127b
+	bash src2jpg ex127b $@
+${D}/ex127b.mp3: ex127b
+	bash src2mp3 ex127b $@
+
 

@@ -1,0 +1,32 @@
+boundingbox 490 255
+midi channel 0 patch 40 reverb 45
+midi channel 1 patch 41 reverb 45
+midi channel 2 patch 42 reverb 45
+midi channel 3 patch 43 reverb 45
+1 systems / 25-31-25-28-25-29-25 /
+/
+4 bars | 3b 6 6 6 6 6 6 | 6 6 5 7 6 9 | 9 6 6 6 9 5 | 5 5 5 7 8 9 |
+| 6.3
+b0.8 123
+r0.8 .17 Op.130   Cavatina
+=1' treble 3b cha0 leg99 vol70 4 rest rest 8. [B_{2 vol+5 16 G}2]
+=2' treble 3b cha1 leg99 vol60 8 [G B c B A G]
+=3' alto   3b cha2 leg99 vol60 2 G 8 [F D]
+=4' bass   3b cha3 leg99 vol60 4 E En 8 [F B]
+|
+i0.8 .25 Adagio molto espressivo
+=1' vol80 4. G 8 A 8 [B 16 A G]
+=2' 4 leg90 B_ B_ B_ leg99 
+=3' 4 E D E
+=4' 8 [eb Eb] 4 F G
+|
+=1' 16 [G vol-5 8. F] 4 rest rest
+=2' 8 [C Bn d c A G]
+=3' 8 [C G] 4 F 8 [C E]
+=4' 4. leg90 A 8 [A leg99 A An]
+|
+=1' vol70 4. F 8 G vol+5 [A vol-10 16 G F]
+=2' 4 F E vol-5 D
+=3' 8 [D B(2] 4 B)2 vol-10 B
+=4' 2 Br 4 blank
+=4, 4 B vol-10 E 8 [F Ab]

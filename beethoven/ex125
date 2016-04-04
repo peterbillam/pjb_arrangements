@@ -1,0 +1,42 @@
+boundingbox 490 280
+midi channel 0 patch 0 reverb 45
+midi channel 1 patch 71 reverb 45
+2 systems 20 / 27-45-27 / 27-27-27/
+/
+5 bars | 10 7 6 | 36 | 6 6 7 7 7 6 | 36 | 6 6 7 10 7 6 |
+| .375
+b1.0 125
+r1.0 .35 Op.2 No.3   Scherzo
+=1 treble cha0 leg99 vol75 8 [g{1 f# g}1]
+i0.6 .01 Allegro
+=2 bass   cha0 leg99 vol75 8 rest 4 rest
+| .75
+=1 vol85 4 a-. g-. vol-5 fn-.
+=2 4 blank 2. rest
+|
+=1' 4 e-. d-. c-.
+=1, 4 rest, 8 rest, [E{,2 D E},2]
+=2 4 blank 2. rest
+|
+=1' 2. B
+=1, 4 F-., D-., G--.,
+=2 4 blank 2. rest
+|
+=1' 2. c
+#P=1, 4 E-., D-., C
+#M=1, 4 E-., D-., C-.,
+=2, 4 rest 8 rest [g{1 f# g}1]
+/
+4 bars | 36 | 36 | 36 | 18 
+|
+=1' 2. vol85 <G B d>
+=2  vol85 4 a-. g-. vol-5 fn-.
+|
+=1' vol90 2. <G c e>
+=2  4 e-. d-. vol-5 c-.
+|
+=1' vol95 4 <G d g> vol-5 <G B f> vol+5 <G c e>
+=2  vol+5 4 B-. G-. vol+5 c-.
+| .50
+=1' vol+5 4 <G B d> 8 rest
+=2' vol+5 4 G-. 8 rest

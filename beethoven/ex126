@@ -1,0 +1,52 @@
+boundingbox 550 280
+midi channel 0 patch 0 reverb 45
+midi channel 1 patch 71 reverb 45
+2 systems 10 / 27-30-27 / 27-35-27 3/
+/
+7 bars | 1b 12 | 12 12 12 10 | 12 12 12 10 | 24 36 \
+ | 6 6 6 6 16 9 9 9 | 12 18 12 12 | 12 12 12 10 |
+| .20
+b0.8 126
+r0.7 .55 Op.10 No.2
+=1 treble 1b cha0 leg99 vol75 8 rest
+=2 bass   1b cha0 leg99 vol75 8 c-.
+| .80
+=1 4 blank 2 rest
+=2, vol85 8 [f-. f-. f-. c-.]
+|
+i0.6 .03 Presto
+=1 4 blank 2 rest
+=2 8 [a-. a-. a-. f-.]
+|
+=1 4 blank 2 rest
+=2 8 [c~-. c~-. 16 c~{1 d~ c~ b}1]
+|
+=1 4. rest 8 C-.
+=2 8 [a-. a-. 16 a{1 bb a g}1]
+|
+=1  vol85 8 [F-. F-. F-. C-.]
+=2, 8 [a-. 16 c~{1 b}1] 8 [a-. g-.]
+|
+=1  8 [A-. A-. A-. F-.]
+=2  8 [f-. e-. f-. d-.]
+/
+6 bars | 24 36 | 12 12 18 18 | 12 12 12 10 | 16 12 12 10 | 24 36 | 12 9
+|
+=1  8 [c-. c-. 16 c{1 d c B}1]
+=2,  8 [e-. c-. d-. e-.]
+|
+=1' 8 [A-. A-.] rest' G
+=1, 4 blank 16 [G A G F]
+=2  8 [f-., g-., a-., bn-.,] treble
+|
+=1, 8 [c-. c-. c-. G-.]
+=2  8 [<C-., E> <D-., F> <E-., G> <D-., F>]
+|
+=1, 8 [e-. e-. e-. c-.]
+=2  8 [<C-., E> <B_n-., D> <C-., E> <A_-., C>]
+|
+=1, 8 [g-. g-.] 16 [g{1 a g f}1]
+=2  8 [<B_n-., D> <G_-., B_> <A_-., C> <B_-., D>]
+| .50
+=1  8 [e-. e-.] 32 blank
+=2' 8 [<C-., E> <D-., F>] 32 blank

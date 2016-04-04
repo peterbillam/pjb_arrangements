@@ -1,0 +1,37 @@
+boundingbox 290 210
+midi channel 0 patch 0 reverb 45
+midi channel 1 patch 71 reverb 45
+3 systems 12 / 27 /
+/
+2 bars | 3b 3 3 3 4 3 2 3 2 3 2 2 2 | 3 3 3 4 3 2 3 2 3 2 2 2 |
+| 1.11
+b0.8 122
+r0.8 .17 Op.31 No.3
+i0.8 .90 Allegro
+=1' treble 3b cha0 leg85 vol85 8. [c vol-10 16 F] 4 F rest
+I0.01 .20 Fmin7
+|
+=1' vol85 8. [c vol-10 16 F] 4 F rest
+I0.01 .07 Fmin7
+/
+4 bars | 3b 12 12 10 | 20 | 12 12 10 | 20 |
+| 1.13
+i0.2 .08 ritard .  .  .
+=1 vol65 4 F vol+5 F vol+5 F
+I0.01 .30 Fmin7
+| 1.16
+=1 vol+5 2. Gb
+I0.01 .07 F7b9
+| 1.28
+=1 vol+5 4 Gb G G
+| 1.87
+=1 vol+5 2. Gn-fermata
+I0.01 .07 Eb
+/
+2 bars | 3 2 3 2 3 3 5 3 3 2 2 2 | 7
+| 1.11
+=1' vol80 8 [G F] leg99 16 [F G F En] leg85 8 [F vol-10 G]
+I0.01 .15 Bb7
+| .45
+=1  4 E 8 blank
+I0.01 .07 Eb
