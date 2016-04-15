@@ -1,0 +1,34 @@
+5 systems 30 / 18-25-18 / 18-25-18 / 18-25-18 / 18-25-18 / 18-25-18 10/
+title Two Poèmes,  Op. 71  (1914)
+pagenum 3
+innerhead Alexander Scriabin
+midi channel 1 patch 0 pan 50 reverb 90
+/
+4 bars | 6/8 72 | 72 | 30 48 | 48 30 |
+| 6/8 1.7
+Il1.0 .01 Fantastique
+=1' treble 6/8 cha1 vol90 leg90  8 [Gb D 16 rest, G] 4. F(2
+I0.3 .01 p
+=2' bass   6/8 cha1 vol80 leg90 4. <Gnr ebl bb> 4 rest 8 vol-10 G_n
+|
+=1 8 [F)2 A F] vol+5 [Gb, vol+5 Bbb vol+5 db]
+=2, 8 [G vol+5 eb bb] vol+5 d~ rest rest
+|
+=1 4. <D F# A c#' dx'> 83 [D, 163 F,] [A, c-I3 d] [f# a-I3 c~#]
+=2, 4. <B d# a#> 4 rest 8 e
+
+midi pause 2.5
+
+5 systems 30 / 19-45-19 / 19-30-19 / 19-30-19 / 19-30-19 / 19-35-19 8/
+title No. 2
+pagenum
+innerhead Two Poèmes,  Op. 71,  Alexander Scriabin
+/
+3 bars | 4/8 5 5 5 7 5 5 5 5 5 7 5 5 \
+ | 7 5 5 7 5 7 7 5 7 5 5 5 | 5 5 7 5 5 5 5 5 7 7 5 5 |
+| 3/4 3.6
+Il1.2 En rêvant, avex une grande douceur
+=1' treble 3/4 cha1 vol70 leg120 8 rest' 4 eb en 8 a
+=1, treble 3/4 cha1 vol60 leg120 4 rest, 2 Bb
+I0.4 .02 p
+=2 bass 3/4 cha1 vol50 leg120 8 cc64=127 [d c~ f~#] rest [f~ c~] [f~ c~ d] cc64=0

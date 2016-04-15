@@ -974,7 +974,7 @@ i1.1 .03 cristallin, perlé
 =2, 2. dbl
 =2' 2 c~b 4 vol-4 bb
 |
-il0.9 .25 160
+il0.9 .35 160
 =1' 2. <Ebbr(4 Fx(2 Bblr(3 ebb(1>
 =2' 2 ab{1 4 vol-4 g}1
 =2, 2. db(2
@@ -1008,7 +1008,8 @@ il0.9 .25 165
 =2, 2. Db
 | 2.35
 =1 83 <Eb Fx cbl' eb'> 163 [Eb-s1 F-I3, G Bb'] \
- 83 [cb-.-s5 eb-.-I3,-s1 f-.] [g-. bb-. 323-s [E F G B' e' f' g' b'] 83 c~b-ten]
+ 83 [cb'-.-s5 eb'-.-I3,-s1 f'-.] \
+ [g'-. bb'-. 323-s [E, F, G, B c e f g b] 83 c~b'-ten]
 =2' 83 <Dbrl cb>  rest  rest  4 rest  rest
 |
 =1 2. Ebbr
@@ -1017,7 +1018,8 @@ il0.9 .25 165
 4 bars | 36 | 4 4 12 | 10 | 10 ||
 | 2.35
 =1 83 [<Cbl Eb Fx> 163 Eb-s1 F-I3, G Bb'] \
- 83 [cb-.-s5 eb-.-I3,-s1 f-.] [g-. bb-. 323-s [E F G B' c' e' f' g' b'] 83 c~b-ten]
+ 83 [cb'-.-s5 eb'-.-I3,-s1 f'-.] \
+ [g'-. bb'-. 323-s [E, F, G, B c e f g b] 83 c~b'-ten]
 =2' 83 <Dbl cb>  rest  rest  4 rest  rest
 |
 =1 2 Ebbr(2 83 [E,)2 323-s [Eb F G Bb' cb' eb' f' g' bb'] 83 c~b-ten]
