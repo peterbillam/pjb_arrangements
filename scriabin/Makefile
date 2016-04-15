@@ -21,9 +21,9 @@ PIECE65 = scriabin_op65
 PIECE67 = scriabin_op67
 PIECE69 = scriabin_op69
 PIECE71 = scriabin_op71
+PIECE72 = scriabin_op72
+PIECE73 = scriabin_op73
 PIECE74 = scriabin_op74
-PIECE73 = flammes_sombres
-PIECE72 = vers_la_flamme
 TITLE59 = title_${PIECE59}
 TITLE61 = title_${PIECE61}
 TITLE63 = title_${PIECE63}
@@ -34,7 +34,7 @@ TITLE71 = title_${PIECE71}
 TITLE72 = title_${PIECE72}
 TITLE73 = title_${PIECE73}
 TITLE74 = title_${PIECE74}
-PLAY   = scriabin_op61
+PLAY   = scriabin_op73
 
 dev : ${TITLE61}.a4 ${TITLE74}.a4 p2_op67.a4 p2_op74.a4 p3_op74.a4 \
  ${PIECE59}.a4 ${PIECE61}.a4 ${PIECE67}.a4 ${PIECE74}.a4 ${PIECE73}.a4 \
@@ -198,13 +198,19 @@ www : scriabin_op59 op74
 	perl -pe 's/^#A //;' op74 | muscript -us \
 	 | /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter \
 	  -sOutputFile=/home/pjb/www/mus/scriabin/op74analysis.pdf -
+wav61 :
+	muscript_lua -midi scriabin_op61 | midisox_lua - - tempo 1.1 \
+	  | fluadity - /home/cds/clas/scriabin/op61_poeme_nocturne.wav
+	# then cd /home/cds/clas/scriabin/
+	# and  sox op61_poeme_nocturne.wav -n stats
+	# and  sox op61_poeme_nocturne.wav t.wav vol 0.98 gain -b
 
 edit :
 	vi ${PLAY}
 	muscript_lua ${PLAY} > ${PLAY}.a4
 	pkill -HUP gv
-	muscript_lua -midi ${PLAY} | midisox_lua - -d stat
+	muscript_lua -midi ${PLAY} | midisox_lua - -d stat # trim 65
 
 play :
-	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat trim 333
+	${MUSCRIPT} -midi ${PLAY} | midisox_lua - -d stat # trim 65
 
