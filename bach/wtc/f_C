@@ -101,8 +101,8 @@ il0.8 .10 10
 =2, 8 leg80 B-s5, 4 leg100 e-s3, 8 d-s1,-s4, \
  leg80 c-s1,-s5, 4 leg100 fn-s4, 8 e(2-s1,-s5,
 |
-=1' 8 leg80 [c-s1-s5 leg100 f-s1-s5] [e-s2-s5 d(1-s2-s5] \
- [d)1-s2-s(5) 16 c-s3 B-s2] 8. [B-tr 16 A-s1]
+=1' 8 leg80 [c-s1-s5 leg100 f-s1-s5] [e-s2-s5 d(1-s2-s4] \
+ [d)1-s2-s(4) 16 c-s3 B-s2] 8. [B-tr 16 A-s1]
 =1, 16 [A G#-s2 A B-s3] [G# F#-s1 G A--s1] 8 B rest, 4 rest,
 =2' 8 leg80 [f#-s"4 ",-s(5), leg100 b(1] 16 [b)1 c~-s1, b a-s1,] \
  8 g#-s2,-s3, 4 a 8 g-s1,
