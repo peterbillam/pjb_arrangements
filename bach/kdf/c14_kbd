@@ -740,7 +740,7 @@ il1.0  125
 =2' smb rest'
 =2, qua [d A d e] [f e d f]
 /
-4 bars | 1b 6 6 6 7 6 8 6 5 | 6 6 6 6 6 6 6 5 \
+4 bars | 1b 6 6 6 7 6 8 6 5 | 6 6 6 6 6 6 7 5 \
  | 3 3 6 4 3 3 3 3 3 3 3 3 3 3 3 2 | 6 6 6 6 6 6 6 5 |
 |
 il0.6    130
@@ -749,7 +749,7 @@ il0.6    130
 =2' bass   1b smb rest'
 =2, bass   1b qua [e A e f] [g smq f e qua f g]
 |
-=1' qua [f b a g] [f e d c]
+=1' qua [f b a g] [f e d cn]
 =1, cro C# cro. D qua [C F E]
 =2' smb rest''
 =2, qua [a g f g] min a(2

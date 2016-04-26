@@ -34,7 +34,7 @@ TITLE71 = title_${PIECE71}
 TITLE72 = title_${PIECE72}
 TITLE73 = title_${PIECE73}
 TITLE74 = title_${PIECE74}
-PLAY   = scriabin_op73
+PLAY   = scriabin_op63
 
 dev : ${TITLE61}.a4 ${TITLE74}.a4 p2_op67.a4 p2_op74.a4 p3_op74.a4 \
  ${PIECE59}.a4 ${PIECE61}.a4 ${PIECE67}.a4 ${PIECE74}.a4 ${PIECE73}.a4 \
@@ -204,6 +204,14 @@ wav61 :
 	# then cd /home/cds/clas/scriabin/
 	# and  sox op61_poeme_nocturne.wav -n stats
 	# and  sox op61_poeme_nocturne.wav t.wav vol 0.98 gain -b
+wav63 :
+	muscript_lua -midi scriabin_op63 \
+	  | fluadity - /home/cds/clas/scriabin/op63_deux_poemes/t1.wav
+	# then cd /home/cds/clas/scriabin/op63_deux_poemes/
+	# and  sox t1.wav -n stats
+	# and  sox t1.wav t2.wav vol 0.98 gain -e stats
+	# sox t2.wav op63_no_1_masque.wav fade 0 64.5 0
+	# sox t2.wav op63_no_2_etrangete.wav trim 64.5
 
 edit :
 	vi ${PLAY}
