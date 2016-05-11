@@ -56,6 +56,15 @@ ${PIECE}.a4 : ${PIECE}
 title.a4 : title
 	groff -ms title | ${BANNERISE} > $@
 
+compromise :
+	${ADDMESSAGE} ${PIECE}.a4 \
+	| ${PSCAT} title.a4 p2.a4 - ${BACKPAGE} \
+	| ${A42US} -c \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sOutputFile=/tmp/bushband.pdf -
+	# now:
+	#  yencee -n alt.binaries.sheet-music -s 'Australian folkdances' \
+	#  /tmp/bushband.pdf
+
 polkas.mid: polkas
 	sed 's/^# //' polkas | ${MUSCRIPT} -midi > $@
 polkas.wav: polkas.mid
