@@ -937,7 +937,7 @@ i0.4 .10 sehr kräftig und gehalten
 midi pause 2.0
 
 6 systems 20 / 19-25-19/ 19-30-19 22 \
- / 19-25-19 / 19-30-19 / 19-30-19 / 19-30-19 8 /
+ / 19-25-19 / 19-30-19 3 / 19-30-19 / 19-30-19 8 /
 title Johannes Brahms
 pagenum
 leftfoot Arranged for piano by Peter Billam
@@ -1037,54 +1037,54 @@ I0.4 .03 p
 =2 bass   1# cha0 leg99 vol70 4 rest
 | 1.6
 =1, 2 <G g> 4 rest e
-=2  8 [E-P B g' b'] [e g b e~-*]
+=2  8 [E-P B-s2, g' b'] [e g b e~-,-*]
 |
 =1, 2 <c c~> 4 rest <A a>
-=2  8 [E-P c e' a'] [e a c~ e~-*]
+=2  8 [E-P c-s2, e' a'] [e a c~ e~-,-*]
 |
 =1, 2 <F f> 4 rest d#
-=2  8 [E-P B f' a'] [B, a d~# f~-*]
+=2  8 [E-P B-s1, f' a'] [B, a d~# f~-,-*]
 |
 =1, 2 <B b> 4 rest <e e~>
-=2  8 [E-P B d#' g'] [e g b e-*]
+=2  8 [E-P B-s1, d#' g'] [e g b e-s2,-,-*]
 /
 5 bars | 1# 8 8 8 8 8 8 8 6 | 8 8 8 8 8 8 8 6 \
  | 8 11 8 8 8 8 8 6 | 8 8 8 8 8 8 8 6 | 8 12 8 8 8 8 8 6 |
 |
 =1  2 <E e'> 4 rest <G, g>
-=2  8 [C-P G e' g'] [c, e g c~-*]
+=2  8 [C-P G-s2, e' g'] [c, e g c~-,-*]
 |
 =1, 2 <B b> 4 rest <d d~>
-=2, 8 [G-P d g b] [d g b g-*]
+=2, 8 [G-,-P d-s3, g b] [d g b g-s2,-,-*]
 |
 =1  2 <D d'> 4 rest <Fn, fn>
-=2  8 [D-P A fn' a'] [d, f a d~-*]
+=2  8 [D-P A-s2, fn' a'] [d, f a d~-,-*]
 |
 =1, 2 <A a> 4 rest <c c~-.>
-=2, 8 [A-P e a c~] [e a c~ e-*]
+=2, 8 [A-P e-s3, a c~] [e a c~ e-s2,-,-*]
 |
 =1' 2 <C(3 c(1> 8 [<C)3 c)1> B c A]
 i0.5 .60 cresc . . .
-=2' 8 [D#-P c f# a] 4 c <D d#>
+=2' 8 [D#-P c-s1, f# a] 4 c <D d#>
 /
 5 bars | 1# 8 8 8 8 8 8 8 6 | 8 12 8 8 8 8 8 6 \
  | 8 12 8 8 8 11 8 6 | 8 8 8 8 8 8 8 6 | 8 8 8 11 8 10 8 6 |
 |
 =1, 2 <c(2 c~(1> 8 [<c)2 c~)1> a e d]
-=2' 8 [E-P c e a] 4 c <E e>
+=2' 8 [E-,-P c-s1, e a] 4 c <E e>
 |
 =1' 2 <C(3 c(1> 8 [<C)3 c)1> B c A]
-=2' 8 [Fn-P c fn a] 4 c <F f>
+=2' 8 [Fn-,-P c-s3, fn a] 4 c <F f>
 |
 =1, 2 <c(2 c~(1> 8 [<c)2 c~)1> a eb d]
 i0.5 .01 dim . . .
-=2' 8 [F#-P c eb a] 4 c <F f>
+=2' 8 [F#-,-P c-s3, eb a] 4 c <F f>
 |
 =1  4 <En c'> 8 rest en' 4 <Fn B'> 8 rest d
-=2, 8 [G-P en c~] rest [G#-P fn b] rest
+=2, 8 [G-,-P en-s2, c~] rest [G#-,-P fn-s2, b] rest
 |
 =1  vol95 4 <E A> 8 rest c' 4 <D G#> 8 rest B
-=2, 8 [A-P e c~] rest [B-P d g#] rest
+=2, 8 [A-,-P e-s2, c~] rest [B-P d g#] rest
 /
 5 bars | 1# 8 8 8 10 8 8 8 6 | 10 8 10 8 8 8 8 6 \
  | 8 8 8 8 8 8 8 6 | 6 6 3 17 6 5 5 5 | 10
@@ -1092,13 +1092,13 @@ i0.5 .01 dim . . .
 =1' vol100 4 A G F# E
 =1, 2 E blank
 i0.8 .15 cresc . . .
-=2' 8 [C-P c e a] 2 <e a#>
+=2' 8 [C-P c-s1, e a] 2 <e a#>
 =2, 2 blank 4 c C
 |
 =1' vol105 4 A# G F E
 =1, 2 <C# E> blank
 I0.5 .94 f
-=2' 8 [F#-P c# e a#] 2 <c e a>
+=2' 8 [F#-P c#-s3, e a#] 2 <c e a>
 =2, 2 blank 4 rest,, F
 |
 =1' vol110 4. B_ 8 B 2 B(1
