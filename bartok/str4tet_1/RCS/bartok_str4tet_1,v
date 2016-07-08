@@ -1,0 +1,67 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2016.06.28.11.46.02;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@first mvt of str4tet_1 arr for piano
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@6 systems 12 / 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/ 19-25-19/
+title String Quartet No. 1,  Lento
+pagenum 1
+innerhead Belá Bartók   Op. 7   1909
+leftfoot Arranged for piano  Peter Billam  2016
+midi channel 0 patch 0
+/
+4 bars | 4/4 48 | 48 | 48 | 48 |
+| 8.0
+I0.7 .03 Lento
+i0.7 .30 qua = 58-63
+=1 treble cha0 leg99 4/4 4 f 2 Ab(2 8 [A)2 vol-10 G]
+I0.5 .04 p
+i0.4 .20 molto espress.
+=2 treble cha0 leg99 4/4 2 rest 4 c E(2
+|
+=1 2 vol+10 d 8 vol-10 db 4 en 8 f(1
+=2' 4 E)2 8 vol-10 Eb 4. vol+10 Bb 8 vol-10 [A Ab]
+|
+=1 8 [f)1 f#] 4. vol+10 B 8 vol-10 [Bb db dn]
+=2 4. vol+10 eb 8 vol-15 d 4. vol+15 G 8 Gb(2
+|
+=1 4 eb 4. vol+10 Ab 8 vol-10 [Bb db c]
+=2' 4. G)2 8 vol-10 Bn 4. vol+10 E 8 vol-10 Eb(2
+/
+5 bars | 48 | 48 | 2/4 24 | 4/4 48 | 48 |
+|
+il0.5 .03 5
+=1 8 F# 4 vol+10 G Eb G 8 C(2
+=2' 8 [E)2 Bb A Db] [C B A B_b]
+|
+=1' 4 C)2 8. [A_b 16 A_n] [B_b rest 8 D(2] 16 [D)2 8 G 16 Bn]
+=2 8 [En Eb Gb F] 16 [G_ rest 8 B_n(2] 16 [B_)2 8 Eb 16 Ab]
+| 4.0
+=1' 2/4 8. [f# 16 g#] 4 en(1
+=1, 2/2 4 d 8. [c# 16 cn]
+=2 2/4 8 blank 2 rest
+| 8.0
+=1' 4/4 8 e)1 4. eb(1 8 [e)1 en c db]
+=1, 4/4 4 B(2 16 [B)2 8 Bb 16 Ab] 4. Gb 8 E
+=2' 4/4 4 F 2 A_b(1 8 [A_)1 G_]
+=2, 4/4 2 rest,,, 4 C E_
+@

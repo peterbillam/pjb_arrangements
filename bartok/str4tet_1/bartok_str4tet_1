@@ -1,0 +1,94 @@
+6 systems 12 / 19-25-19/ 19-25-19 5/ 19-35-19/ 19-40-19/ 19-25-19/ 19-25-19/
+title String Quartet No. 1,  Lento
+pagenum 1
+innerhead Belá Bartók   Op. 7   1909
+leftfoot Arranged for piano  Peter Billam  2016
+midi channel 0 patch 0
+/
+4 bars | 4/4 48 | 48 | 48 | 48 |
+| 8.0
+I0.7 .03 Lento
+i0.7 .30 qua = 58-63
+=1 treble cha0 leg99 4/4 4 f 2 Ab(2 8 [A)2 vol80 G]
+I0.5 .04 p
+i0.4 .20 molto espress.
+=2 treble cha0 leg99 4/4 2 rest 4 c E(2
+|
+=1 2 vol90 d 8 vol80 c# 4 e 8 f(1
+=2' 4 E)2 8 vol80 D# 4. vol90 Bb 8 vol80 [A Ab]
+|
+=1 8 [f)1 f#] 4. vol90 B 8 vol80 [A#, c# d]
+=2 4. vol90 eb 8 vol-15 d 4. vol+15 G 8 F#(2
+|
+=1 4 eb 4. vol90 Ab 8 vol80 [Bb db c]
+=2' 4. F)2 8 vol80 B 4. vol90 E 8 vol80 Eb(2
+/
+5 bars | 48 | 48 | 2/4 24 | 4/4 48 | 48 |
+|
+il0.5 .03 5
+=1 8 F# 4 vol90 G Eb G 8 C(2
+=2' 8 [E)2 vol80 Bb vol70 A vol80 Db] vol70 [C B A B_b]
+|
+=1' 4 C)2 8. [A_b 16 A_n] vol75 [B_b rest 8 vol90 D(2] 16 [D)2 vol80 8 G 16 Bn]
+=2 8 [En Eb Gb F] 16 vol75 [G_ rest 8 vol90 B_n(2] 16 [B_)2 8 Eb 16 Ab]
+| 4.0
+=1' 2/4 vol80 8. [f# 16 g#] 4 vol90 en(1
+=1, 2/2 vol80 4 d 8. [c# 16 cn]
+=2 2/4 8 blank 2 rest
+| 8.0
+=1' 4/4 8 vol90 e)1 4. eb(1 8 [e)1 vol80 en c db]
+=1, 4/4 4 vol90 B(2 16 [B)2 8 vol80 Bb 16 Ab] 4. vol90 Gb 8 vol80 E
+=2' 4/4 4 vol90 F 2 A_b(1 8 [A_)1 vol80 G_]
+=2, 4/4 2 rest,,, 4 vol90 C E_(2
+|
+=1' 2 vol90 B 4. db 8 vol80 cr
+=1, 8 vol80 [F G Ab] 4 vol90 f 8 vol80 [gb e f]
+=2' 2 vol90 D 8 vol80 [Db E] 4 vol90 F(1
+=2, 4 E_)2 8 vol80 E_b 4. vol90 B_b 8 vol80 [A_ A_b]
+/
+4 bars | 8 6 6 6 6 6 8 5 | 30 24 | 48 | 48 |
+|
+il0.7 .23 10
+=1' 4 vol90 ab B 8 vol80 [f vol-5 db vol-5 A Bbl(1]
+=1, 4 vol90 B 4. Ar 4 vol80 F 8 vol70 Ablr
+=2' 8 vol80 [Fr)1 F#] 4. vol90 B_ 8 vol80 [B_b C# vol75 D]
+=2, 4. vol90 Eb 8 vol80 D 4. G_ 8 vol70 F_#
+|
+=1' 16 vol70 [B)1 8 Bn vol75 c vol80 d 16 e] 4. vol90 f 8 g
+=1, 8 vol70 G rest, 4 vol75 B vol80 c 16 [e 8 vol90 eb 16 db]
+=2' 8 vol70 E rest 4 vol80 G 2 vol90 A
+=2, 8 vol70 D_ rest 4 vol80 Eb(2 16 [E)2 8 D 16 C] 4 vol90 B_b bass
+|
+=1' 4. vol100 ab 8 vol90 bb 4. ab 8 vol80 g
+=1, 2 vol100 c 8 vol90 [eb vol80 db c B(2]
+=2' 8 vol100 [e~ e~b vol110 g~ g~b] [d~b vol100 e~b] 4 vol90 e~n(1
+=2, 4 vol100 f 8 [d eb] 4 f g(2
+|
+=1' 4 vol80 c#(1 16 [c)1 8 e 16 d#] 4 f#(1 16 [f)1 8 e 16 d#]
+=1, 8 vol80 [Br)2 A#] 4. G# 8 Gn 4 B
+=2' 4. e~)1 c~# 4 g~
+=2, 4 g)2 g#(2 16 [g)2 8 b# 16 a#] 8 [d~n c~#(2]
+/
+4 bars | 48 | 9 9 9 12 | 9 9 9 12 | 10 12 12 11 |
+|
+=1' 4 vol90 g#(1 16 [g)1 8 f# 16 e] 4 a(1 16 [a)1 8 g# 16 f#]
+=1, 16 [d# 8 c# 16 cn] 8 [e c(2] 16 [c)2 8 B 16 A] 4 c
+=2' 8 [f~# e~#] [g~# a~#] 16 [e~# 8 d~# 16 c~#] 8 [f~# 16 f~## g~#]
+=2, 4 c~#)2 8 [b gn] [f# e] 4 d#
+|
+=1' 4 vol100 c~# 2 vol90 c~n(1 16 [c~)1 8 B 16 c]
+=1, 2 vol100 <A e> vol80 4 <Ab c> <C G>
+=2, 2 vol100 <e a e~> 4 vol80 e eb
+|
+=1' 4 vol90 bb 2 vol80 ab(1 16 [a)1 8 vol70 G 16 Ab]
+=1, 2 vol90 <D#lr F#> 4 vol80 d# c#(2
+=2  2 vol70 <Cr Ab ebl' ab'> 4 vol70 treble <B_ D#> <A_ En>
+|
+=1' 4 vol90 e vol80 eb(1 16 [e)1 8 B 16 c] 4 bb(1
+=1, 4 c#)2(2 16 [c)2 8 D# 16 E] 4 vol90 g gb(2
+=2' 2 Ab 4 Bb(1 16 [B)1 8 G 16 A]
+=2, 4 A_ B_b F_ E_b(2
+/
+3 bars | 48 | 48 | 48 |
+|
+=1
