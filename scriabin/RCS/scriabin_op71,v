@@ -1,5 +1,34 @@
-5 systems 30 / 18-25-18 / 18-35-18 / 18-35-18 / 18-25-18 / 18-25-18 10/
-title Deux Poèmes,  Op. 71  (1914)
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2016.07.08.03.17.42;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.07.08.01.42.33;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Scriabin op71, Deux Poemes
+@
+
+
+1.2
+log
+@up to bar 18
+@
+text
+@5 systems 30 / 18-25-18 / 18-35-18 / 18-35-18 / 18-25-18 / 18-25-18 10/
+title Two Poèmes,  Op. 71  (1914)
 pagenum 3
 innerhead Alexander Scriabin
 midi channel 1 patch 0 pan 50 reverb 90
@@ -49,7 +78,7 @@ i0.6 .40 dim . . .
 il1.0 .20 10
 =1' 4. ab 8 [c-s1-s2 e-s3 gn-s4]
 =1, 4. c G#
-=2, 4 rest 8 cc64=127 e~ [a c#] cc64=0 rest
+=2, 4 rest 8 e~ [a c#] rest
 |
 =1' 4. bb(1 4 b)1 8 a
 =1, 2. <Bn g>
@@ -83,26 +112,16 @@ I0.5 .40 mf
 =1, 4. vol90 <c# f# c~#> vol100 <c#(4 f#(2 c~#(1>
 =2' 4. vol85 <D# A e> vol95 <D#(4 A(2 e(1>
 |
-=1' 4 c~#)1 8 vol95 a(6-emph 4. e~(1-emph
-=1, 4 <c#r)4 f#l)2> 8 vol95 e(4 4. <e)4(4 a)6(2>
+=1' 4 c~#)1 8 vol80 a(6-emph 4. c~#(1-emph
+=1, 4 <c#r)2 f#l)4> 8 vol75 e(4 4. <e)4(4 a)6(2>
 I0.7 .25 p
 i0.6 .60 cresc . . .
 =2' 4 <D#)4 A)2 e)1> bass 8 rest 4. blank
 =2' 2 blank 85 cc64=127 vol60 [C F# db-I5 F c]
 |
-=1' 4 blank 8 vol100 a(6-emph 4. e~(3-emph
-=1, 4 vol95 <e)4 a)2 e~)1> 8 vol90 e(4 4. <e)4(4 a)6(2>
+=1' 4 blank 8 vol90 a(6-emph 4. e~(3-emph
+=1, 4 vol75 <e)4 a)2 e~)1> 8 vol80 e(4 4. <e)4(4 a)6(2>
 =2 85 vol70 [g c, f#--I5 d~b f] treble vol80 [C G C--I5 vol-10 F# db'] cc64=0
-|
-=1, 4. vol100 <e)4 a)2  e~)3>  vol105 <g c~ e~ g~>
-=2, 4. rest vol95 <A d# bb>
-|
-il1.2 .25 20
-=1, 4. vol105 <g c~ e~ g~> vol110 <g c~ e~ g~>
-=2, 4. vol90 <A d# bb> vol95 <A d# bb>
-/
-6 bars | 90 |
-
 
 
 
@@ -114,7 +133,7 @@ midi pause 2.5
 5 systems 30 / 19-45-19 / 19-30-19 / 19-30-19 / 19-30-19 / 19-35-19 8/
 title No. 2
 pagenum
-innerhead Deux Poèmes,  Op. 71,  Alexander Scriabin
+innerhead Two Poèmes,  Op. 71,  Alexander Scriabin
 /
 3 bars | 4/8 5 5 5 7 5 5 5 5 5 7 5 5 \
  | 7 5 5 7 5 7 7 5 7 5 5 5 | 5 5 7 5 5 5 5 5 7 7 5 5 |
@@ -124,3 +143,34 @@ Il1.2 En rêvant, avex une grande douceur
 =1, treble 3/4 cha1 vol60 leg120 4 rest, 2 Bb
 I0.4 .02 p
 =2 bass 3/4 cha1 vol50 leg120 8 cc64=127 [d c~ f~#] rest [f~ c~] [f~ c~ d] cc64=0
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d11 1
+a11 1
+I0.3 .01 p
+d46 1
+a46 1
+i0.4 .40 dim . . .
+d57 1
+a57 1
+i0.4 .40 dim . . .
+d64 1
+a64 1
+=1' 4 vol110 c~# 8 vol80 f#(2-emph 4. c~#(1-emph~
+d71 1
+a71 1
+=1, 4 blank 8 vol90 f#(6-emph 4. c~#(3-emph~
+d73 1
+a73 1
+=2, 85 vol70 [e A d#--I5 bb d] vol80 [a e~ a--I5 d~# b~b] cc64=0
+d77 20
+a96 2
+=1, 4 vol80 <c#)4 f#)2 c~#)3>
+=2, 4. rest
+@

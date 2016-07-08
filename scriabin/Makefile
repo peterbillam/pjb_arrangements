@@ -34,11 +34,11 @@ TITLE71 = title_${PIECE71}
 TITLE72 = title_${PIECE72}
 TITLE73 = title_${PIECE73}
 TITLE74 = title_${PIECE74}
-PLAY   = scriabin_op63
+PLAY   = scriabin_op71
 
 dev : ${TITLE61}.a4 ${TITLE74}.a4 p2_op67.a4 p2_op74.a4 p3_op74.a4 \
  ${PIECE59}.a4 ${PIECE61}.a4 ${PIECE67}.a4 ${PIECE74}.a4 ${PIECE73}.a4 \
- ${PIECE72}.a4 ${PIECE63}.a4
+ ${PIECE71}.a4 ${PIECE72}.a4 ${PIECE63}.a4
 all : ${A4D}/${PIECE61}.pdf ${USD}/${PIECE61}.pdf ${SRCD}/${PIECE61}.txt \
  ${A4D}/${PIECE67}.pdf ${USD}/${PIECE67}.pdf ${SRCD}/${PIECE67}.txt
 	date
