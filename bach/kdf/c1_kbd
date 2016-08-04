@@ -367,11 +367,11 @@ leftfoot typesetting (c) 1998 Peter Billam
 =2, smb A(2-s1,-s"  4-5",
 |
 =1' qua [g)1 c#] cro f(1 qua [f)1 d-s4] cro e(1
-=1, cro A qua [d A] cro. B qua G--s2
+=1, cro A qua [d A] cro. B qua G--s1
 =2' cro rest' qua [f d] cro. g qua c#
 =2' smb A)2(2
 |
-=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn-s4] cro cn(1
+=1' qua [e)1-s2-s(5) c#-s4] cro d(1 qua [d)1 Bn-s4] cro cn(1
 =1, cro. A qua F--s2 cro. E qua G--s3
 =2' cro. f qua d min a
 =2, min. A)2 cro A
@@ -383,8 +383,8 @@ leftfoot typesetting (c) 1998 Peter Billam
 =2' cro d min d~ qua [a f]
 =2, cro. B-s2,-s4, qua G min d(2-s3,
 |
-=1' qua [d-s(1)-s4 f-s2-s5 e-s1-s3 g] [f e-s3] cro d(1-s4
-=1, qua [F)2 d] cro c(2 cro. c)2 qua c--s1
+=1' qua [d-s(1)-s4 f-s2-s5 e-s1-s3 g] [f e-s5] cro d(1
+=1, qua [F)2 d] cro c(2 cro. c)2 qua c--s3
 =2' min b(1 qua [b)1 g#-s2,] cro a-s2,
 =2, qua [d)2-s1,-s(3), B-s4,] cro c-s5, min f(2-,-s3,
 |
@@ -440,7 +440,7 @@ il0.8  70
 =2, smb d)2(2
 |
 =1' qua [a)1 smq g a] qua [b c#] min d(1-s5
-=1, cro D G_(2-s3, qua [G_)2 B--s3 A G(2]
+=1, cro D G_(2-s4, qua [G_)2 B--s3 A G(2]
 =2' min b(1-s1,-s2,-s(5), qua [b)1 d~-s1, c~-s2, b-s3,]
 =2, smb d)2(2
 |

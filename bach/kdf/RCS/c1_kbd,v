@@ -1,10 +1,25 @@
-head	1.13;
+head	1.16;
 access;
 symbols;
 locks
-	pjb:1.13; strict;
+	pjb:1.16; strict;
 comment	@# @;
 
+
+1.16
+date	2016.08.04.01.56.40;	author pjb;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2016.07.28.00.54.46;	author pjb;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2016.07.28.00.50.27;	author pjb;	state Exp;
+branches;
+next	1.13;
 
 1.13
 date	2016.03.19.10.14.50;	author pjb;	state Exp;
@@ -77,9 +92,9 @@ desc
 @
 
 
-1.13
+1.16
 log
-@refine bar 54 fingering again
+@LH 4th-finger on G_ in 2nd-last bar
 @
 text
 @5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
@@ -368,7 +383,7 @@ il0.7 .30 40
 il0.8 50
 =1' min f-s5 d-s4
 =1, qua [er)2 A] cro d--s4 qua rest, F cro B(2
-=2' cro d-s5, qua [f d] cro b-s1, qua [g-s3, e-s5,]
+=2' cro d-s5, qua [f d] cro b-s2, qua [g-s4, e-s5,]
 =2, qua. blank smb rest,,
 |
 =1' min c#-s3 cro d-s3 e-s4
@@ -431,7 +446,7 @@ il0.8 .40 60
 =2' qua [g a] cro b rest' c~
 =2, min B(2-s2,-s5, qua [B)2 c-s2, B A]
 
-4 systems 20 /20-45-20/20-45-20/20-45-20/20-55-20 20/
+4 systems 20 /20-45-20/20-45-20/20-45-20/20-57-20 19/
 pagenum
 innerhead Contrapunctus 1, J. S. Bach
 leftfoot typesetting (c) 1998 Peter Billam
@@ -451,11 +466,11 @@ leftfoot typesetting (c) 1998 Peter Billam
 =2, smb A(2-s1,-s"  4-5",
 |
 =1' qua [g)1 c#] cro f(1 qua [f)1 d-s4] cro e(1
-=1, cro A qua [d A] cro. B qua G--s2
+=1, cro A qua [d A] cro. B qua G--s1
 =2' cro rest' qua [f d] cro. g qua c#
 =2' smb A)2(2
 |
-=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn-s4] cro cn(1
+=1' qua [e)1-s2-s(5) c#-s4] cro d(1 qua [d)1 Bn-s4] cro cn(1
 =1, cro. A qua F--s2 cro. E qua G--s3
 =2' cro. f qua d min a
 =2, min. A)2 cro A
@@ -465,10 +480,10 @@ leftfoot typesetting (c) 1998 Peter Billam
 =1' cro c)1 B-s1-s3-s5 cro. A qua A
 =1, qua [F# D] cro G(2 qua [Gr)2 E-s2] cro Fn(2-s1
 =2' cro d min d~ qua [a f]
-=2, cro. B qua G min d(2-s3,
+=2, cro. B-s2,-s4, qua G min d(2-s3,
 |
-=1' qua [d-s4 f-s2-s5 e-s1-s3 g] [f e-s3] cro d(1-s4
-=1, qua [F)2 d] cro c(2 cro. c)2 qua c--s1
+=1' qua [d-s(1)-s4 f-s2-s5 e-s1-s3 g] [f e-s5] cro d(1
+=1, qua [F)2 d] cro c(2 cro. c)2 qua c--s3
 =2' min b(1 qua [b)1 g#-s2,] cro a-s2,
 =2, qua [d)2-s1,-s(3), B-s4,] cro c-s5, min f(2-,-s3,
 |
@@ -524,7 +539,7 @@ il0.8  70
 =2, smb d)2(2
 |
 =1' qua [a)1 smq g a] qua [b c#] min d(1-s5
-=1, cro D G_(2-s3, qua [G_)2 B--s3 A G(2]
+=1, cro D G_(2-s4, qua [G_)2 B--s3 A G(2]
 =2' min b(1-s1,-s2,-s(5), qua [b)1 d~-s1, c~-s2, b-s3,]
 =2, smb d)2(2
 |
@@ -533,6 +548,55 @@ il0.8  70
 =2, smb a-fermata
 =2, smb d)2-s1,-s(5),
 
+@
+
+
+1.15
+log
+@more polishing in bar 67
+@
+text
+@d370 1
+a370 1
+=1, cro A qua [d A] cro. B qua G--s2
+d374 1
+a374 1
+=1' qua [e)1-s1-s(5) c#-s4] cro d(1 qua [d)1 Bn-s4] cro cn(1
+d443 1
+a443 1
+=1, cro D G_(2-s3, qua [G_)2 B--s3 A G(2]
+@
+
+
+1.14
+log
+@tiny change in bar 67
+@
+text
+@d386 2
+a387 2
+=1' qua [d-s(1)-s4 f-s2-s5 e-s1-s3 g] [f e-s5] cro d(1-s4
+=1, qua [F)2 d] cro c(2 cro. c)2 qua c--s1
+@
+
+
+1.13
+log
+@refine bar 54 fingering again
+@
+text
+@d287 1
+a287 1
+=2' cro d-s5, qua [f d] cro b-s1, qua [g-s3, e-s5,]
+d350 1
+a350 1
+4 systems 20 /20-45-20/20-45-20/20-45-20/20-55-20 20/
+d384 1
+a384 1
+=2, cro. B qua G min d(2-s3,
+d386 1
+a386 1
+=1' qua [d-s4 f-s2-s5 e-s1-s3 g] [f e-s3] cro d(1-s4
 @
 
 
