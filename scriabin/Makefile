@@ -212,6 +212,12 @@ wav63 :
 	# and  sox t1.wav t2.wav vol 0.98 gain -e stats
 	# sox t2.wav op63_no_1_masque.wav fade 0 64.5 0
 	# sox t2.wav op63_no_2_etrangete.wav trim 64.5
+wav71 :
+	muscript_lua -midi scriabin_op71 | midisox_lua - - tempo 1.1 \
+	  | fluadity - /home/cds/clas/scriabin/op71_deux_poemes.wav
+	# then cd /home/cds/clas/scriabin/
+	# and  sox op71_deux_poemes.wav -n stats
+	# and  sox op71_deux_poemes.wav t.wav vol 0.98 gain -b
 
 edit :
 	vi ${PLAY}
