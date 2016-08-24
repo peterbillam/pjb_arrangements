@@ -1,0 +1,76 @@
+8 systems 30 / 20 / 20 /
+title The Vatican Rag
+innerhead Tom Lehrer, 1965
+lefthead needs major surgery. Listen to Lehrer!
+midi channel 0 patch 25
+/
+2 bars | 48 | 48 ||
+| .23 .20 .23 .20 .23 .20 .23 .20 .23 .20 .23 .20 .23 .20 .23 .20
+=1' treble8vab cha0 16 rest' [e-s4 g G--bi] \
+ [e g rest' e] [g G f-s4 g(2-s2] 4 g)2
+=1' 2. blank 16 blank  [G d G]
+=1, 8 [C-s1, G-,-bP,] [C#-s3, G] [D G] [G_-s1, D]
+|
+=1' 16 rest' [e-s4 g G--bi] [e g rest' e] [g G f g(2-emph] 4 g)2
+=1, 8 [C-s1, G-bP,] [C#-s3, G] [D G] [G_-s1, D]
+/
+2 bars | 48 |
+|
+=1' 16 [c#{2-s1 d}2 g c#{2] [d}2 g c#{2 d}2] [g c#{2 d}2 g] [c#{2 d}2 8 g]
+=1, 8 [G_-s2, G G_ D] [G_ D G_ G]
+|
+=1' 16 [d#{2-s2 e}2 a d#{2] [e}2 a d#{2 e}2] [a d#{2 e}2 a] [d#{2 e}2 8 a]
+=1, 8 [C-s1, G G_ G] [C G G_ G]
+/
+2 bars | 48 |
+|
+=1' 16 [e{2-s2 f}2 b e{2] [f}2 b e{2 f}2] [b e{2 f}2 b] [e{2 f}2 8 b]
+=1, 8 [D G G_ G] [D G G_ G]
+|
+=1' 16 rest [G 8 <e g>] 16 [G 8 <e g> 16 G] \
+ 8 [<f gx> 16 G <f(2 gx(1>] 4 <f)2 gx)1>
+=1, 8. [C C# D 8 D 16 G_(4] 8 [G_)4 G]
+/
+2 bars | 48 |
+|
+=1' 16 [c#{2-s1 d}2 g c#{2] [d}2 g c#{2 d}2] [g c#{2 d}2 g] [c#{2 d}2 8 g]
+=1, 8 [G_-s2, G G_ D] [G_ D G_ G]
+|
+=1' 16 [d#{2-s2 e}2 a d#{2] [e}2 a d#{2 e}2] [a d#{2 e}2 a] [d#{2 e}2 8 a]
+=1, 8 [C-s1, G G_ G] [C G G_ G]
+/
+2 bars | 48 | 48 ||
+|
+=1' 16 rest [A 8 c] 16 [D c d c] 16 rest [G 8 <c e>] 16 rest [c e G]
+=1, 8. [F_ 16 F_#(2] 4 F_)2 8. [G_ 16 A_(1] 4 A_)1
+|
+=1' 16 rest [A 8 <c f>] 16 [G 8 <B g> 16 G] 4 rest' 8 rest' <c e>
+=1, 8. [D G_ 8 D] 16 [C A_ G_ C(1] 4 C)1
+
+/
+2 bars | 48 | 48 |
+|
+=1' 8. [<f b> <f a> 8 <f ab>] [<f gx> 16 <f an> 8. <f a#> 8 <f b>]
+=1, 16 rest, [D 8 G] 16 [D 8 G 16 D] 16 rest, 8. [D 16 G 8 D 16 G]
+|
+=1' 8. [<e c~-s3-s2> <e a-s0-s4> 8 <e g#-s0-s3>] \
+ [<e gn-s0-s2> 16 <e g#> 8. <e a> 8 <e a#>]
+=1, 16 rest, [C 8 G] 16 [C 8 G 16 C] 16 rest, 8. [C 16 G 8 C 16 G]
+/
+2 bars | 48 | 48 |
+|
+=1' 8. [<f b> <f a> 8 <f ab>] [<f gx> 16 <f an> 8. <f a#> 8 <f b>]
+=1, 16 rest, [D 8 G] 16 [D 8 G 16 D] 16 rest, 8. [D 16 G 8 D 16 G]
+|
+=1' 16 rest [G 8 <e g>] 16 [G 8 <e g> 16 G] \
+ 8 [<f gx> 16 G <f(2 gx(1>] 4 <f)2 gx)1>
+=1, 8. [C C# D 8 D 16 G_(4] 8 [G_)4 G]
+/
+2 bars | 48 | 48 |
+|
+=1' 8. [<f b> <f a> 8 <f ab>] [<f gx> 16 <f an> 8. <f a#> 8 <f b>]
+=1, 16 rest, [D 8 G] 16 [D 8 G 16 D] 16 rest, 8. [D 16 G 8 D 16 G]
+|
+=1' 8. [<e c~-s3-s2> <e a-s0-s4> 8 <e g#-s0-s3>] \
+ [<e gn-s0-s2> 16 <e a> 8. <e a#> 8 <e b>]
+=1, 16 rest, [C 8 G] 16 [C 8 G 16 C] 16 rest, 8. [C 16 G 8 C 16 G]

@@ -4,7 +4,11 @@
 #PLAY = aint_necessarily_so
 #PLAY = new_speedway_boogie
 #PLAY = london_rag
-PLAY = square_rag
+#PLAY = square_rag
+PLAY = vatican_rag
+# cd /home/cds/song/tom_lehrer/1965_that_was_the_year_that_was/
+# play  14_the_vatican_rag.wav tempo 0.5
+
 WAVDIR = /home/pjb/wav/folk
 WAV = ${WAVDIR}/${PLAY}.wav
 
