@@ -1,10 +1,15 @@
-head	1.16;
+head	1.17;
 access;
 symbols;
 locks
-	pjb:1.16; strict;
+	pjb:1.17; strict;
 comment	@# @;
 
+
+1.17
+date	2016.08.24.06.28.41;	author pjb;	state Exp;
+branches;
+next	1.16;
 
 1.16
 date	2016.08.04.01.56.40;	author pjb;	state Exp;
@@ -92,9 +97,9 @@ desc
 @
 
 
-1.16
+1.17
 log
-@LH 4th-finger on G_ in 2nd-last bar
+@more practical fingering in bar 62
 @
 text
 @5 systems 20 /20-35-20/20-40-20/20-45-20/20-45-20/20-45-20 10/
@@ -457,13 +462,13 @@ leftfoot typesetting (c) 1998 Peter Billam
 |
 =1' qua [c)1-s1-s3-s(5) A-s2-s4 B-s2-s3 d-s5] cro eb-s4 d-s1-s3
 =1, qua [G F#] cro G rest, B(2
-=2' min d~ qua rest' cro g-,-s1, qua f-,-s2,
+=2' min d~ qua rest' cro g qua f-,-s1,
 =2, min. G cro G-s5,
 |
 =1' cro c#-s2 a(1-s3-s5 qua [a)1 d] cro g(1-s3-s5
 =1, qua [Br)2 A--s1 f d] cro Bn qua [e c#]
 =2' cro e rest' min rest'
-=2, smb A(2-s1,-s"  4-5",
+=2, smb A(2-,-s2,-s"  4-5",
 |
 =1' qua [g)1 c#] cro f(1 qua [f)1 d-s4] cro e(1
 =1, cro A qua [d A] cro. B qua G--s1
@@ -523,7 +528,7 @@ il0.8  70
 =1' cro. d-s2-s5 qua cn cro. B qua A-s3
 =1, qua [F# G--s1] cro A(2-s2 qua [Ar)2 G] cro c(3-s5
 =2' min a d~-s1,
-=2, smb d(2-s"    1  -2",-s" 3-5",
+=2, smb d(2-s"    1  -2",-s"  3-5",
 /
 4 bars | 1b 6.5 4 4 5 4 4 4 3 \
  | 4 4 5 4 4 5 4 3 | 4 5 4.5 4 4 4 4 3 | 5 4 4 4 3 3 3 3 ||
@@ -548,6 +553,23 @@ il0.8  70
 =2, smb a-fermata
 =2, smb d)2-s1,-s(5),
 
+@
+
+
+1.16
+log
+@LH 4th-finger on G_ in 2nd-last bar
+@
+text
+@d361 1
+a361 1
+=2' min d~ qua rest' cro g-,-s1, qua f-,-s2,
+d367 1
+a367 1
+=2, smb A(2-s1,-s"  4-5",
+d427 1
+a427 1
+=2, smb d(2-s"    1  -2",-s" 3-5",
 @
 
 
