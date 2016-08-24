@@ -19,13 +19,15 @@ UTF2ISO = /home/pbin/utf2iso
 PIECE_C = rec_exercises_C
 PIECE_F = rec_exercises_F
 PIECE_B = rec_exercises_B
+PIECE_G = rec_exercises_G
 
 dev : title_C.a4 title_F.a4 ${PIECE_C}.a4 ${PIECE_F}.a4 p2.a4 f_min.a4 \
- title_B.a4 ${PIECE_B}.a4
+ title_B.a4 ${PIECE_B}.a4 title_G.a4 ${PIECE_G}.a4
 all : ${FREED}/${PIECE_C}.pdf ${FREED}/${PIECE_F}.pdf \
  ${A4D}/${PIECE_C}.pdf  ${USD}/${PIECE_C}.pdf ${SRCD}/${PIECE_C}.txt \
  ${A4D}/${PIECE_F}.pdf  ${USD}/${PIECE_F}.pdf ${SRCD}/${PIECE_F}.txt \
- ${A4D}/${PIECE_B}.pdf  ${USD}/${PIECE_B}.pdf ${SRCD}/${PIECE_B}.txt
+ ${A4D}/${PIECE_B}.pdf  ${USD}/${PIECE_B}.pdf ${SRCD}/${PIECE_B}.txt \
+ ${A4D}/${PIECE_G}.pdf  ${USD}/${PIECE_G}.pdf ${SRCD}/${PIECE_G}.txt
 distc:
 	upload ${A4D}/${PIECE_C}.pdf
 	upload ${USD}/${PIECE_C}.pdf
@@ -38,6 +40,10 @@ distb:
 	upload ${A4D}/${PIECE_B}.pdf
 	upload ${USD}/${PIECE_B}.pdf
 	upload ${SRCD}/${PIECE_B}.txt
+distg:
+	upload ${A4D}/${PIECE_G}.pdf
+	upload ${USD}/${PIECE_G}.pdf
+	upload ${SRCD}/${PIECE_G}.txt
 
 warnc: ${FREED}/${PIECE_C}.pdf
 	upload ${FREED}/${PIECE_C}.pdf
@@ -118,12 +124,35 @@ ${MP3D}/${PIECE_B}.mp3 : ${PIECE_B}
 	lame -h t.wav $@
 	rm t.wav
 
+${A4D}/${PIECE_G}.pdf : title_G.a4 p2.a4 ${PIECE_G}.a4 ${BACKPAGE}
+	${ADDMESSAGE} ${PIECE_G}.a4 \
+	| ${PSCAT} title_G.a4 p2.a4 - ${BACKPAGE} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+${USD}/${PIECE_G}.pdf : title_G.a4 p2.a4 ${PIECE_G}.a4 ${BACKPAGE}
+	${ADDMESSAGE} ${PIECE_G}.a4 \
+	| ${PSCAT} title_G.a4 p2.a4 - ${BACKPAGE} \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${XMLD}/${PIECE_G}.xml : ${PIECE_G}
+	${MUSCRIPT} -xml ${PIECE_G} > $@
+${XMLD}/${PIECE_G}_readme.txt : p2
+	${NROF} p2 > $@
+${SRCD}/${PIECE_G}.txt : ${PIECE_G}
+	cp ${PIECE_G} $@
+${MP3D}/${PIECE_G}.mp3 : ${PIECE_G}
+	${MUSCRIPT} -midi ${PIECE_G} | timidity -Ow -c /etc/timidity.cfg -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@
+	rm t.wav
+
 title_C.a4 : title
 	sed 's/X/C/' title | groff -ms | ${BANNERISE} > $@
 title_F.a4 : title
 	sed 's/X/F/' title | groff -ms | ${BANNERISE} > $@
 title_B.a4 : title
 	sed 's/Recorder in X/Bass Recorder/' title | groff -ms | ${BANNERISE} > $@
+title_G.a4 : title
+	sed 's/Recorder in X/Great-Bass Recorder/' title | groff -ms | ${BANNERISE} > $@
 p2.a4 : p2
 	groff -ms p2 | ${BANNERISE} > $@
 ${PIECE_C}.a4 : ${PIECE_C}
@@ -134,6 +163,9 @@ ${PIECE_F}.a4 : ${PIECE_F}
 	pkill -HUP gv
 ${PIECE_B}.a4 : ${PIECE_B}
 	${MUSCRIPT} ${PIECE_B} > $@
+	pkill -HUP gv
+${PIECE_G}.a4 : ${PIECE_G}
+	${MUSCRIPT} ${PIECE_G} > $@
 	pkill -HUP gv
 
 f_min.a4 : f_min
