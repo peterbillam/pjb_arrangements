@@ -1,0 +1,1139 @@
+head	1.8;
+access;
+symbols;
+locks
+	pjb:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2016.08.26.10.50.00;	author pjb;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2016.08.21.01.44.01;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2016.08.20.10.59.43;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2016.08.18.03.41.34;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2016.08.17.08.32.27;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.08.13.11.43.49;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.07.10.02.00.53;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.07.10.01.39.20;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Whisper Not, by Benny Golson
+@
+
+
+1.8
+log
+@more adjustments of the guitar fingering
+@
+text
+@6 systems 20 /19-25-19 8/19-29-19/19-32-19 8/19-27-19/19-32-19 8/19-25-19 5/
+pagenum
+title Whisper Not
+innerhead Benny Golson,  LeRoy Jackson
+midi channel 0 patch 11
+midi channel 1 patch 32
+
+midi off
+
+/
+4 bars | 48 | 48 | 48 | 6 6 8 7 6 5 6 5 ||
+| .39 .30 .39 .30 .39 .30 .39 .30
+r0.7 .02 Cm .45 Cm/Bb   Cm7
+=1' treble cha0 vol100 \
+  4 leg60 <C Eb G c> leg99 <C Eb G c> leg80 <C Eb G c> leg99 <C Eb G Bb>
+=2' bass   cha1 vol100 leg85 2 <C c> leg99 Bb
+|
+r0.7 Am7(b5)  .45 AbMaj7
+=1' 4 leg60 <G_ C Eb G> leg99 <G_ C Eb G> leg80 <G_ C Eb G> leg99 <G_ C F>
+=2' 2 leg85 A leg99 Ab
+|
+r0.7 .01 Cm/G  .45 D7(b9)
+=1' 4 leg60 <G_ C Eb> leg99 <G_ C Eb> leg80 <F_# C Eb> leg99 <F_# A_ C>
+=2' 2 leg85 G leg99 4 rest F#
+=2, 2 leg85 blank leg99 F_#
+|
+r0.7 .01 G7
+=1' 2. <F_n G_x B_ D> 8 [C G(2]
+=2' 4 G 16 [D G 8 D] 2 G_
+/
+4 bars | 48 |
+|
+r0.7 .02 Cm7
+=1' 2. G)2 8 [C G(2]
+=1, 4 blank 2 <B_bl Eb> 4 blank
+=2' 2 C <B_b Bb>
+|
+r0.7 .01 Am7(b5) .48 D7(b9)
+=1' 2. G)2 8 [A Bb(2]
+=1, 4 blank 2 <C Eb> 4 blank
+=2' 2 <A_ A> D
+|
+r0.7 .02 Gm7
+=1' 2. B)2 8 [A G]
+=1, 4 blank 2 <D F> 4 blank
+=2' 2 G <F f>
+|
+r0.7 .01 Em7(b5) .48 A7(b9)
+=1' 2 Bb 4 rest' 8 [A G]
+=1, 4 blank 8 [D C#(2] 4 C)2 blank
+=2' 2 <E e> 4 A A_
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r0.7 .02 Dm7
+=1' 4 <C F A> 8 d 4 <D F Ab> 8 F [G--s5 <D(2 G(1-s3-s5>]
+=2' 2 D <C c>
+|
+r0.8 .02 Em7 .40 A7
+=1' 2. G)1 8 [F D(1]
+=1, 8 D)2 4 B_-s2 2 <G_x A_ C#l> 8 rest,,
+=2' 2 <B_ B> <A_ A>
+|
+r0.7 .02 Dm7 .47 Em7
+=1' 2 D)1 E
+=1, 4 blank <F_ A_ C> blank <G_ B_ D>
+=2' 2 D <E e>
+|
+r0.8 .02 Fm7 .40 G7
+=1' 2 F 4 rest' 8 [C G(1]
+=1, 4 rest,, 8 <A_bl C Eb-s2-s3-s4> 2 <F_ G_x B_ D> 8 rest,,
+=2' 2 F 4 G G_
+/
+4 bars | 48 | 6 6 6 5 6 5 7 5 | 48 | 6 6 7 6 6 6 6 5 |
+|
+r0.7 .02 Cm7
+=1' 2. G)1 8 [C G(2]
+=1, 4 blank 2 <B_bl Eb> 4 blank
+=2' 2 C <B_b Bb>
+|
+r0.7 .01 Am7(b5) .48 D7(b9)
+=1' 2. G)2 8 [A Bb(2]
+=1, 4 blank 2 <C Eb> 4 blank
+=2' 2 <A_ A> D
+|
+r0.7 .02 Gm7
+=1' 2 B)2(1 43 B)1 A-I3 G
+=1, 4 blank 2 <D F> 4 blank
+=2' 2 G <F f>
+|
+r0.7 .01 Em7(b5) .48 A7(b9)
+=1' 2. Bb 8 [A G]
+=1, 4 blank 8 [D C#(2] 4. C)2 8 rest,,
+=2' 2 <E e> 4 A A_
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r0.7 .02 Dm7
+=1' 4 <C F A> 8 d 4 <D F Ab> 8 F [G--s5 <D(2 G(1-s3-s5>]
+=2' 2 D <C c>
+|
+r0.7 .02 Em7 .40 A7
+=1' 2. G)1 8 [E F(1]
+=1, 8 D)2 4 B_ 2 <G_x A_ C#l> 8 rest,,
+=2' 2 <B_ B> <A_ A>
+|
+r0.7 .02 Dm7 .47 Em7
+=1' 2 F)1 G
+=1, 4 blank 2 <A_ C> 4 <B_ D>
+=2' 2 D <E e>
+|
+r0.7 .02 Fm7 .40 Bb7
+=1' 4 Ab 8 [<C Eb-s2-s3> <A_b(2 D(1>] 2 <A_)2 D)1>
+=2' 2 <F f> 4 Bb B_b
+$S = {
+/
+4 bars | Segno 4 4 3 4 4 4 4 4 4 6 6.2 4 | 6 5 7 6 6 5 7 5 | 21 24 | 21 24 |
+|
+r0.7 .04 Am7(b5)
+=1' 4 rest 8 [<C Eb> G] [c G] 83 [F En-I3 F#(2]
+=2' 4. A_ A 4 A_
+|
+r0.7 .01 D7(b9)
+=1' 4 F)2 8 [<C Eb> F#] 4 G 8 [A Bb(2]
+=2' 4. D d 4 D
+|
+r0.7 .01 Gm7
+=1' 2 B')2(1 43 B)1 c-I3 A
+=1, 4 rest,, 2. <D F>
+=2' 4. G G_ 4 G
+|
+r0.7 .01 C7
+=1' 2 Bb(1 43 B)1 c-I3 A
+=1, 4 rest,, 2. <C E> 
+=2' 4. c C 4 c
+
+6 systems 10 /19-25-19/19-30-19/19-30-19 10/19-30-19/19-25-19 8/19-35-19 8/
+pagenum
+innerhead Whisper Not,  Benny Golson and LeRoy Jackson
+/
+4 bars | 48 | 6 6 6 6 6 6 7 5 | 6 6 6 6 6 6 7 5 | 48 |
+|
+r0.7 .03 Em7(b5)
+=1' 2 Bb' 8 rest' D [G B(2]
+=1, 4 rest,, 4. <D G> blank
+=2' 4. E e 4 E
+|
+r0.7 .01 A7(b9)
+=1' 2. B)2 8 [A Ab]
+=1, 4 rest,, 2 <C# G> 4 blank
+=2' 4. A A_ 4 A
+|
+r0.7 .01 Dm7(b5)
+=1' 2 Ab' 8 rest' C [F Ab(2]
+=1, 4 rest,, 4. <C F> blank
+=2' 4. D d 4 D
+|
+r0.7 .01 G7(b9)
+=1' 2. A)2 8 [C G(1]
+=1, 4 rest,, 2 <B_ F> 4 blank
+=2' 4. G G_ 4 G
+/
+4 bars | 48 | 6 6 6 6 6 6 7 5 | 48 | 6 6 7 6 6 6 6 5 |
+|
+r0.7 .01 Cm7
+=1' 2. G)1 8 [C G(2]
+=1, 4 rest,, 2 <B_bl Eb> 4 blank
+=2' 2 C <B_b Bb>
+|
+r0.7 .03 Am7(b5) .47 D7(b9)
+=1' 2. G)2 8 [A Bb(2]
+=1, 4 rest,, 2 <C Eb> 4 blank
+=2' 2 <A_ A> D
+|
+r0.7 .01 Gm7
+=1' 2 B)2(1 43 B)1 A-I3 G
+=1, 4 rest,, 2 <D F> 4 blank
+=2' 2 G <F f>
+| 
+r0.7 .03 Em7(b5) .47 A7(b9)
+=1' 2. Bb 8 [A G]
+=1, 4 rest,, 8 [D C#(2] 4. C)2 8 rest,,
+=2' 2 <E e> 4 A A_ 
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r0.7 .03 Dm7
+=1' 4 <C F A> 8 d 4 <D F Ab> 8 F [G--s5 <D(2 G(1-s3-s5>]
+=2' 2 D <C c>
+|
+r0.7 .03 Em7 .48 A7
+=1' 2. G)1 8 [F D(1]
+=1, 8 D)2 4 B_-s2 2 <G_x A_ C#l> 8 rest,,,
+=2' 2 <B_ B> <A_ A>
+|
+r0.7 .03 Dm
+=1' 4 rest' <F A d> <F c> <F A>
+=1, 1 D)1
+=2' 2 <D d> A_
+|
+Il0.9 .84 Fine
+=1  4. <D F A d'> 8 <f(2 b(1> 2 <f)2 b)1>
+=2' 4 D A_ 2 D_
+}
+$S
+
+$M = {
+/
+3 bars ||: 4 4 3 5 4 4 4 4 4 4 4 3 | 4 4 4  4 5 5  4 4 3  5 5 3 \
+ | 4 4 3 4 4 5 4 4 4 4 4 3 |
+|
+r0.8 .02 Cm .48 Cm7
+=1' 4 rest 83 [C Eb-I3 G] 8 [<E G c> eb] [c G]
+=2' 4 rest' c 2 <B_b Bb>
+=2, 2 C blank
+|
+r0.9 .01 Am7(b5) .48 D7(b9)
+=1' 8 [<Eb G c> G-s2] 83 [E C-I3 F#(1] 2 Fr)1
+=1, 2 blank <C Eb>
+=2' 2 <A_ A> 4 D 83 [D Eb-I3 F#]
+|
+r0.8 .01 Gm .48 Gm7
+=1' 4 rest 83 [B_b D-I3 G] 8 [<D G Bb> d] [B G]
+=2' 4 rest' g 2 <Fn fn'>
+=2, 2 G blank
+
+/
+3 bars | 48 | 48 | 48 |
+|
+r0.7 .02 Em7(b5) .48 A7
+=1' 8 [<D G Bb> D] [G B] [C# E] [A G]
+=2' 2 <E e> 4 A A_
+|
+r0.7 .01 Dm7
+=1' 8 <Cn F A> 4 <A_ D F> 8 rest rest [A_ D F]
+=2' 4. D 8 E 4 <F f> <D d>
+|
+r0.7 .01 Em7 .48 A7
+=1' 8 [<D Ab> F] 4 G 8 rest <G_ A_x> [D-s2 F-s4]
+=2' 4. <E e> 8 <A_(2 A(1> 2 <A_)2 A)1>
+/
+3 bars | 12 11 11 10 | 3 3 3 3 3 2 3 3 4.5 3 3 3 3 4 3 3 :|| 24 20 ||
+|
+r0.7 .02 Dm7 .48 Em7
+=1' 8 [<A_ G> D] 4 <A_ F> <G_ B_> <B_ D>
+=2' 2 <D d> <E e>
+}
+$M
+|
+r1.7 ________________________
+bl0.8 1a . . .
+r0.2 .02 Fm7
+r0.5 .37 G7
+=1 8 <A_b C> 4 <A_ C Eb> 8 <B_(4 Fx(2 G(1> \
+ 83 [<B_)4 Fx)2 G)1> Ab-I3 G(2] 16 [G)2 F Eb D]
+=2' 2 <F f> 4 <G g> 16 [G F Eb D]
+#M $M
+|
+r1.7 ________________________
+bl0.8 2a . . .
+r0.2 .02 Fm7
+r0.5 .40 Bb7
+I0.5 .70 D.S. al Fine
+=1' 8 <A_b C F> 4 <A_ C Eb> 8 <A_(2 D(1> 2 <A_)2 D)1>
+=2' 2 <F f> 4 Bb B_b
+
+#M $S
+
+midi on
+
+6 systems 35 /19 /19 /19 /19 /19 25/
+pagenum
+title Whisper Not
+innerhead Benny Golson,  LeRoy Jackson
+leftfoot  arranged for guitar Peter Billam
+midi channel 2 patch 26 transpose 3
+/
+4 bars | 48 | 48 | 48 | 6 6 8 7 6 5 6 5 ||
+| .39 .30 .39 .30 .39 .30 .39 .30
+r1.1 .02 Am .45 Am/G
+=1' treble8vab cha2  vol100 4 leg70 a leg85 a leg99 a g-gs2-s3
+=1, treble8vab cha2  vol80  2 <A c e> <G c e>
+|
+r1.0 F#m7(b5)  .45 FMaj7
+=1' vol100 4 leg70 e leg85 e leg99 <c e> d
+=1, vol80 2 leg85 <F# A c> <Fn A>
+|
+r1.0 .01 Am/E  .45 B7(b9)
+=1' vol100 4 leg70 c leg85 c leg99 4 <A c> 8 [A <G#(2 B(1-s2-s0>]
+=1, vol80  2 leg85 <E A> D#
+|
+r0.9 .01 G7
+=1' vol100 2. leg90 <G#)2 B)1> 8 [A--s2 e(1]
+=1, vol80  4 E-s4, 83 [B_ E-I3, B_] 2 E_
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+r1.1 .02 Am7
+=1' vol100 2. e)1 8 [A e(1]
+=1, vol80 83 blank 43 rest 2 <G c> 4 blank
+=1, 2 A_ G_
+|
+r1.1 .01 F#m7(b5) .48 B7(b9)
+=1' vol100 2. e)1 8 [f# g(1]
+=1, vol80 83 blank 43 rest 2 <A c> 4 blank
+=1, 2 F_# B_
+|
+r1.3 .02 Em7
+=1' vol100 2. g)1 8 [f#-s2 e]
+=1, vol80 4 rest 2 <G B> 4 blank
+=1, 2 E D
+|
+r1.6 .10 C#m7(b5)
+r1.3 .54 F#7(b9)
+=1' vol100 2. g-s3 8 [f# e]
+=1, vol80 4 rest 8 [B-s0 A#(2-s2] 4 A)2 blank
+=1, 2 C#-s4, F_#-s1,
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r1.1 .02 Bm7
+=1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
+=1, vol80  4 B_ rest, 2 A_
+|
+r1.1 .02 C#m7 .53 F#7
+=1' vol100 2. e)1 8 [d B(1]
+=1, vol80  8 B)2 4 G# 2 <E-s2-s3 A#> 8 rest,
+=1, 2 G_# F_#
+|
+r0.7 .02 Bm7 .47 C#m7
+=1' vol100 2 B)1 c#
+=1, vol80 83 blank 43 rest, 4 <D-s4,-s0, A> 83 blank 43 rest, 4 <E-s4,-s1, B>
+=1, 2 B_-s3, C#-s1,-s3,
+|
+r0.8 .02 Dm7 .40 E7
+=1' vol100 4. d 8 rest' 4 rest' 8 [A e(1]
+=1, vol80  83 blank 43 rest 8 <F c> 2 <G# B> 8 rest,
+=1, 4. D 8 rest,,, 4 E E_
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+r1.1 .02 Am7
+=1' vol100 2. e)1 8 [A e(1]
+=1, vol80 83 blank 43 rest 2 <G c> 4 blank
+=1, 2 A_ G_
+|
+r1.1 .01 F#m7(b5) .48 B7(b9)
+=1' vol100 2. e)1 8 [f# g(1]
+=1, vol80 83 blank 43 rest 2 <A c> 4 blank
+=1, 2 F_# B_
+|
+r1.3 .02 Em7
+=1' vol100 2 g)1(1 43 g)1 f#-I3 e
+=1, vol80 4 rest 2 <G B> 4 blank
+=1, 2 E_ D
+|
+r1.6 .10 C#m7(b5)
+r1.3 .54 F#7(b9)
+=1' vol100 2. g-s3 8 [f# e]
+=1, vol80 4 rest 8 [B A#(2-s2] 4 A)2 blank
+=1, 2 C#-s4, F_#
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r1.1 .02 Bm7
+=1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
+=1, vol80  4 B_ rest,, 2 A_
+|
+r1.0 .02 C#m7 .50 F#7
+=1' vol100 2. e)1 8 [c#-s2 d(1-s3]
+=1, vol80  8 B)2 4 G# 2 <E A#-s2-s3> 8 rest,
+=1, 2 G_# F_#
+|
+r0.9 .02 Bm7 .47 C#m7
+=1' vol100 2 d)1 e
+=1, vol80 83 blank 43 rest 2 <F# A> 4 <G# B>
+=1, 2 B_ C#
+|
+r1.0 .02 Dm7 .40 G7
+=1' vol100 4 f 8 [<A c> <F(2 B(1>] 2 <Fr)2 B)1>
+=1, vol80  2 D 4 G G_
+$S = {
+/
+4 bars | Segno 4 4 3 4 4 4 4 4 4 6 6.2 4 | 6 5 7 6 6 5 7 5 | 21 24 | 21 24 |
+|
+r1.6 .05 F#m7(b5)
+=1' vol100 4 rest 8 [<A c-s4-s1> e] [a e] 83 [d-s4 c#--I3 d#(2]
+=1, vol80  4. F_#-s2, 4 F#-,-s3, 8 rest,, 4 F_#
+|
+r1.3 .01 B7(b9)
+=1' vol100 4 d)2 8 [<A c-s3-s1> d#-s4] 4 e-s0 8 [f#-s3 g(2-s3]
+=1, vol80  4. B_-s2, B_-s2, 8 B_ rest,,
+|
+r1.3 .01 Em7
+=1' vol100 2 g')2(1 43 g)1 a-I3 f#
+=1, vol80  83 blank 43 rest 2. <B d>
+=1, 4. E E_ 4 E
+|
+r1.3 .01 A7
+=1' vol100 2 g(1 43 g)1 a-I3 f#
+=1, vol80  4 blank 2. <A c#>
+=1, 4. A_ A_ 4 A
+
+6 systems 35 /19 /19 /19 8 /19 /19 15/19 20 /
+pagenum
+innerhead Whisper Not,    Benny Golson, LeRoy Jackson
+leftfoot  arranged for guitar Peter Billam
+
+/
+4 bars | 48 | 6 6 6 6 6 6 7 5 | 6 6 6 6 6 6 7 5 | 48 |
+|
+r1.7 .12 C#m7(b5)
+=1' vol100 4 g-s1 4. <B e-s3-s4> 8 B--s0 [e-s0 g(2-s2]
+=1, vol80  4. C#-s2, 4 C# 8 rest,, 4 C#-s3,
+|
+r1.4 .01 F#7(b9)
+=1' vol100 4 g)2 blank rest'' 8 [f# fn]
+=1, vol80  83 blank 43 rest 2 <A# e-s2-s0> 4 blank
+=1, 4. F#-s3, F_#-s1, 4 F#-s4,
+|
+r1.6 .01 Bm7(b5)
+=1' vol100 4 f 4. <A d-s3-s4> 8  A [d f(2]
+=1, vol80  4. B_-s2, B_ 4 B_
+|
+r1.3 .01 E7(b9)
+=1' vol100 2. f)2 8 [A e(1]
+=1, vol80  83 blank 43 rest 2 <G# d> 4 blank
+=1, 4. E 8 E_(3 4. E_)3 8 rest,,
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+r1.0 .02 Am7
+=1' vol100 2. e)1 8 [A e(1]
+=1, vol80 83 blank 43 rest 2 <G c> 4 blank
+=1, 2 A_ G_
+|
+r1.0 .01 F#m7(b5) .48 B7(b9)
+=1' vol100 2. e)1 8 [f# g(1]
+=1, vol80 83 blank 43 rest 2 <A c> 4 blank
+=1, 2 F_# B_
+|
+r1.1 .02 Em7
+=1' vol100 2 g)1(1 43 g)1 f#-I3 e
+=1, vol80 4 rest 2 <G B> 4 blank
+=1, 2 E D
+|
+r1.6 .10 C#m7(b5)
+r1.3 .54 F#7(b9)
+=1' vol100 2. g-s3 8 [f# e]
+=1, vol80 4 rest 8 [B A#(2-s2] 4 A)2 blank
+=1, 2 C#-s4, F_#
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r1.1 .02 Bm7
+=1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
+=1, vol80  4 B_ rest,, 2 A_
+|
+r1.0 .02 C#m7 .50 F#7
+=1' vol100 2. e)1 8 [d B(1]
+=1, vol80  8 B)2 4 G# 2 <E A#> 8 rest,,
+=1, 2 G_# F_#
+|
+r0.7 .03 Bm
+=1' 4 B)1 <d f# b-s2-s3-s4> <d a-s1-s4> f#-s1
+=1, 2 B_-gs6,-s1, <F#-s3,-s2, B>
+|
+Il0.9 .82 Fine
+=1' 4. <d f# b> 8 <g#(2 d~(1-s3-s4> 2 <g)2 d~)1>
+=1, 4 B-s3, F#-s2, 2 B_
+}
+$S
+
+$M = {
+/
+3 bars ||: 4 4 3 5 4 4 4 4 4 4 4 3 | 4 4 4  4 5 5  4 4 3  5 5 3 \
+ | 4 4 3 4 4 5 4 4 4 4 4 3 |
+|
+r1.4 .02 Am
+r1.7 .48 Am7
+=1' vol100 4 rest 83 [A c-I3 e] 8 [a c~-s4] [a{'1-s4 e}'1]
+=1, vol80  2 A_ 4 <G c e> rest,
+|
+r1.8 .01 F#m7(b5)
+r1.6 .48 B7(b9)
+=1' vol100 8 [<c e a{'1> e}'1--s0] \
+ 83 [c-gs3,-s2, A-,-,-,-s4,-I3 eb(1-s1] 4 e)1 rest'
+=1, vol80  4. F# 8 rest, 4 <B_-s2,-s4,-s3, A c> \
+ 83 [B_{,2-,-s3, C},2-,-s3,-I3 D#-,-s1,]
+|
+r1.5 .01 Em
+r1.8 .48 Em7
+=1' vol100 4 rest' 83 [G-s0, B-I3 e] 8 [g-s1 b] [g{'1 e}'1--s0]
+=1, vol80  2 E-gs5,-s2, <D-s3,-s2,-s0, B e>
+/
+3 bars | 48 | 48 | 48 |
+|
+r1.8 .10 C#m7(b5)
+r1.5 .52 F#7
+=1' vol100 8 [g-s1 B-s0] [e-s0 g] [A#-s3 c#-s2] [f#{'1 e}'1]
+=1, vol80  2 <C#-s2, G> 4 F#l-s4, F_#
+|
+r1.3 .10 Bm7
+=1' vol100 8 <A d f#-s1-s2-s1> 4 <F# A d> 8 rest rest [F# B d-s3]
+=1, vol80  4. B_-s1, 8 C#-s3, 4 D-s3, B_-s1,
+|
+r1.5 .10 C#m7
+r1.1 .48 F#7
+=1' vol100 8 [<B f-s0-s1> d] 4 e 8 rest E-s2 [B d-s3]
+=1, vol80  4. C#-s4, 8 F_#(2 2 F_#)2
+/
+3 bars | 12 11 11 10 | 3 3 3 3 3 2 3 3 4.3 3 3 3 3 3 3 3 :|| 24 20 ||
+|
+r1.1 .02 Bm7 .48 C#m7
+=1' vol100 8 [<F# e> B] 4 <F# d> <E G#> <G# B>
+=1, vol80  2 B_ C#
+}
+$M
+|
+r2.5 ________________________
+bl1.5 1a . . .
+r0.6 .02 Dm7
+r0.9 .37 E7
+=1' vol100 8 A 4 <A c> 8 <G#(4 dx(2 e(1> \
+ 83 [<G)4 dx)2 e)1> f-I3 e(2] 16 [e)2 d c B]
+=1, vol80  8 D-s0, 4 F-s1,-s2,-s3,  8 rest,,, 4 E_ E
+#M $M
+|
+r2.5 ________________________
+bl1.5 2a . . .
+r0.7 .02 Dm7
+r0.8 .40 G7
+I0.5 .70 D.S. al Fine
+=1' vol100 8 <F A d> 4 <D A c> 8 <F(2 B(1> 2 <Fr)2 B)1>
+=1, vol80  2 blank 4 G G_
+
+#M $S
+@
+
+
+1.7
+log
+@better fingering on last page
+@
+text
+@d298 1
+a298 1
+r1.0 .02 Am7
+d303 1
+a303 1
+r1.0 .01 F#m7(b5) .48 B7(b9)
+d308 1
+a308 1
+r1.1 .02 Em7
+d313 5
+a317 5
+r1.6 .04 C#m7(b5)
+r1.1 .50 F#7(b9)
+=1' vol100 2. g 8 [f# e]
+=1, vol80 4 rest 8 [B-s0 A#(2-s3] 4 A)2 blank
+=1, 2 C#-s3,-s4, F_#-s1,
+d333 1
+a333 1
+=1, 2 B_-s2, C#-s1,-s3,
+d338 1
+a338 1
+=1, 2 D 4 E E_
+d342 1
+a342 1
+r1.0 .02 Am7
+d347 1
+a347 1
+r1.0 .01 F#m7(b5) .48 B7(b9)
+d352 1
+a352 1
+r1.1 .02 Em7
+d357 5
+a361 4
+r1.1 .01 C#m7(b5) .48 F#7(b9)
+=1' vol100 2. g 8 [f# e]
+=1, vol80 4 rest 8 [B A#(2] 4 A)2 blank
+=1, 2 C# F_#
+d370 2
+a371 2
+=1' vol100 2. e)1 8 [c# d(1]
+=1, vol80  8 B)2 4 G# 2 <E A#> 8 rest,
+d386 7
+a392 7
+r1.1 .06 F#m7(b5)
+=1' vol100 4 rest 8 [<A c> e] [a e] 83 [d c#-I3 d#(2]
+=1, vol80  4. F_# F# 4 F_#
+|
+r1.0 .01 B7(b9)
+=1' vol100 4 d)2 8 [<A c> d#] 4 e 8 [f# g(2-s3]
+=1, vol80  4. B_ B_ 4 B_
+d394 1
+a394 1
+r1.2 .01 Em7
+d399 1
+a399 1
+r1.2 .01 A7
+d404 1
+a404 1
+6 systems 35 /19 /19 /19 /19 /19 25/
+d412 12
+a423 12
+r1.1 .03 C#m7(b5)
+=1' vol100 4 g 4. <B e> 8 B [e g(2]
+=1, vol80  4. C# C# 4 C#
+|
+r1.0 .01 F#7(b9)
+=1' vol100 2. g)2 8 [f# fn]
+=1, vol80  83 blank 43 rest 2 <A# e> 4 blank
+=1, 4. F# F_# 4 F#
+|
+r1.0 .01 Bm7(b5)
+=1' vol100 4 f 4. <A d> 8  A [d f(2]
+=1, vol80  4. B_ B_ 4 B_
+d425 1
+a425 1
+r1.0 .01 E7(b9)
+d447 5
+a451 4
+r1.1 .01 C#m7(b5) .48 F#7(b9)
+=1' vol100 2. g 8 [f# e]
+=1, vol80 4 rest 8 [B A#(2] 4 A)2 blank
+=1, 2 C# F_#
+d461 1
+a461 1
+=1, vol80  8 B)2 4 G# 2 <E A#> 8 rest,
+d465 2
+a466 2
+=1' 4 B)1 <d f# b> <d a-s1-s4> f#-s1
+=1, 2 B_ <F#-s3,-s2, B>
+d500 2
+a501 2
+=1' vol100 8 [<B e g-s3-s4-s1> B-s0] [e-s0 g] [A#-s3 c#-s2] [f#{'1 e}'1]
+=1, vol80  2 C#-s2, 4 F#l-s4, F_#
+d512 1
+a512 1
+3 bars | 12 11 11 10 | 3 3 3 3 3 2 3 3 4.5 3 3 3 3 4 3 3 :|| 24 20 ||
+d520 2
+a521 2
+r2.3 ________________________
+bl1.3 1a . . .
+d524 1
+a524 1
+=1' vol100 8 <F A> 4 <F A c> 8 <G#(4 dx(2 e(1> \
+d526 1
+a526 1
+=1, vol80  2 D 4 E_ E
+d529 2
+a530 2
+r2.4 ________________________
+bl1.4 2a . . .
+@
+
+
+1.6
+log
+@more guitar fingering refinements
+@
+text
+@d293 1
+a293 1
+=1' vol100 2. leg90 <G#)2 B)1> 8 [A e(1]
+d417 1
+a417 1
+=1, vol80  83 blank 43 rest 2 <Bb e> 4 blank
+d427 1
+a427 1
+=1, 4. E E_ 4 E
+d455 1
+a455 1
+=1, vol80  2 B_ A_
+d463 2
+a464 2
+=1' 4 B)1 <d f# b> <d a> <d f#>
+=1, 2 B_ F_#
+d467 2
+a468 2
+=1' 4. <d f# b> 8 <g#(2 d~(1> 2 <g)2 d~)1>
+=1, 4 B F# 2 B_
+d498 2
+a499 2
+=1' vol100 8 [<B e g-s3-s4-s1> B-s0] [e-s0 g] [A# c#] [f#{'1 e}'1]
+=1, vol80  2 C#-s2, 4 F#l-s3,-s4, F_#
+d502 2
+a503 2
+=1' vol100 8 <A d f#-s1-s2-s1> 4 <F# B d> 8 rest rest [F# B d]
+=1, vol80  4. B_-s1, 8 C#-s3, 4 D-s0, B_
+d505 4
+a508 3
+r1.2 .01 C#m7 .48 F#7
+=1' vol100 8 [<B f> d] 4 e 8 rest <E F#lx> [B-s2 d-s4]
+=1, vol80  4. C# 8 F_#(2 2 F_#)2
+d532 2
+a533 2
+=1' vol100 8 <F A d> 4 <F A c> 8 <F(2 B(1> 2 <Fr)2 B)1>
+=1, vol80  2 D 4 G G_
+@
+
+
+1.5
+log
+@guitar version typed in up to end
+@
+text
+@d280 2
+a281 2
+r1.1 .02 Am .45 Am/G    Am7
+=1' treble8vab cha2  vol100 4 leg70 a leg85 a leg99 a g
+d285 2
+a286 2
+=1' vol100 4 leg70 e leg85 e leg99 e d
+=1, vol80 2 leg85 <F# A c> <Fn A c>
+d289 2
+a290 2
+=1' vol100 4 leg70 c leg85 c leg99 4 c 8 [A <G#(2 B(1>]
+=1, vol80  2 leg85 <E A> <D# A>
+d294 1
+a294 1
+=1, vol80  4 E 83 [B_ E-I3, B_] 2 E_
+d309 1
+a309 1
+=1' vol100 2. g)1 8 [f# e]
+d313 2
+a314 1
+r1.1 .01 C#m7(b5) .48 F#7(b9)
+d316 2
+a317 2
+=1, vol80 4 rest 8 [B A#(2] 4 A)2 blank
+=1, 2 C# F_#
+d323 1
+a323 1
+=1, vol80  2 B_ A_
+d325 1
+a325 1
+r1.0 .02 C#m7 .50 F#7
+d327 1
+a327 1
+=1, vol80  8 B)2 4 G# 2 <E A#> 8 rest,
+d332 2
+a333 2
+=1, vol80 83 blank 43 rest, 4 <D A> 83 blank 43 rest, 4 <E B>
+=1, 2 B_ C#
+d366 1
+a366 1
+=1, vol80  2 B_ A_
+d385 1
+a385 1
+r1.0 .04 F#m7(b5)
+d390 1
+a390 1
+=1' vol100 4 d)2 8 [<A c> d#] 4 e 8 [f# g(2]
+d477 16
+a492 11
+r1.3 .02 Am .48 Am7
+=1' vol100 4 rest 83 [A c-I3 e] 8 [<c e a> c~] [a e]
+=1, vol80  2 A_ G_
+|
+r1.3 .01 F#m7(b5) .48 B7(b9)
+=1' vol100 8 [<c e a> e-s2] 83 [c A-I3 eb(1] 2 <A c eb)1>
+=1, vol80  2 F_# 4 B_ 83 [B_ C-I3 D#]
+|
+r1.3 .01 Em .48 Em7
+=1' vol100 4 rest' 83 [G B-I3 e] 8 [<B e g> b] [g e]
+=1, vol80  2 E D
+d496 8
+a503 7
+r1.2 .02 C#m7(b5) .48 F#7
+=1' vol100 8 [<B e g> B] [e g] [A# c#] [f# e]
+=1, vol80  2 C# 4 F#l F_#
+|
+r1.1 .01 Bm7
+=1' vol100 8 <A d f#> 4 <F# B d> 8 rest rest [F# B d]
+=1, vol80  4. B_ 8 C# 4 D B_
+d506 1
+a506 1
+=1' vol100 8 [<B f> d] 4 e 8 rest <E F#x> [B-s2 d-s4]
+d517 2
+a518 2
+r2.1 ________________________
+bl1.1 1a . . .
+d523 1
+a523 1
+=1, vol80  2 D 4 E_ 16 [E D C B_]
+d526 2
+a527 2
+r2.2 ________________________
+bl1.2 2a . . .
+@
+
+
+1.4
+log
+@first 16 bars of a guitar arrangement
+@
+text
+@d271 1
+a271 1
+9 systems 20 /19/19/19/19/19/19/19/19/19/
+d380 148
+@
+
+
+1.3
+log
+@split treble into two lines
+@
+text
+@d7 3
+d14 3
+a16 2
+=1' treble cha0 vol100 leg99 4 <C Eb G c> <C Eb G c> <C Eb G c> <C Eb G Bb>
+=2' bass   cha1 vol100 leg99 2 <C c> <B_b Bb>
+d19 2
+a20 2
+=1' 4 <G_ C Eb G> <G_ C Eb G> <G_ C Eb G> <G_ C F>
+=2' 2 <A_ A> <A_b Ab>
+d23 3
+a25 2
+=1' 4 <G_ C Eb> <G_ C Eb> <F_# C Eb> <F_# A_ C>
+=2' 2 <G_ G> <G_b Gb>
+d41 1
+a41 1
+=2' 2 <A_ A> <D d>
+d46 1
+a46 1
+=2' 2 <G g> <F f>
+d56 1
+a56 1
+=1' 4 <C F A> 8 d 4 <D F Ab> 8 F [G <D(2 G(1>]
+d59 1
+a59 1
+r0.7 .02 Em7 .40 A7
+d61 1
+a61 1
+=1, 8 D)2 4 B_ 2 <G_x A_ C#l> 8 rest,,
+d67 1
+a67 1
+=2' 2 <D d> <E e>
+d69 1
+a69 1
+r0.7 .02 Fm7 .40 G7
+d71 2
+a72 2
+=1, 4 blank 8 <A_bl C Eb> 2 <F_ G_x B_ D> 8 rest,,
+=2' 2 <F f> 4 G G_
+d79 1
+a79 1
+=2' 2 <C c> <B_b Bb>
+d84 1
+a84 1
+=2' 2 <A_ A> <D d>
+d87 1
+a87 1
+=1' 2. B)2 8 [A G]
+d89 1
+a89 1
+=2' 2 <G g> <F f>
+d99 1
+a99 1
+=1' 4 <C F A> 8 d 4 <D F Ab> 8 F [G <D(2 G(1>]
+d110 1
+a110 1
+=2' 2 <D d> <E e>
+d113 1
+a113 1
+=1' 4 Ab 8 [<C Eb> <A_b(2 D(1>] 2 <A_)2 D)1>
+d125 1
+a125 1
+=2' 4. D D_ 4 D
+d130 1
+a130 1
+=2' 4. G_ G 4 G_
+d137 1
+a137 1
+6 systems 10 /19-25-19/19-30-19/19-30-19 10/19-25-19/19-25-19/19-35-19 8/
+d168 1
+a168 1
+=2' 2 <C c> <B_b Bb>
+d173 1
+a173 1
+=2' 2 <A_ A> <D d>
+d176 1
+a176 1
+=1' 2. B)2 8 [A G]
+d178 1
+a178 1
+=2' 2 <G g> <F f>
+d188 2
+a189 2
+=1' 4 <C F A> 8 d 4 <D F Ab> 8 F [G <D(2 G(1>]
+=2' 2 <D d> <C c>
+d193 1
+a193 1
+=1, 8 D)2 4 B_ 2 <G_x A_ C#l> 8 rest,,,
+d197 3
+a199 2
+=1' 4 D)1 <F A d> <F c> <F A>
+=2' 2 <D d> <A_ A>
+d202 1
+a202 1
+=1  4. <D F A d'> 8 <ax(2 b(3 f~(1> 2 <ax)2 b)3 f~)1>
+d212 1
+a212 1
+r0.7 .02 Cm .48 Cm7
+d214 2
+a215 1
+=2' 2 <C c> <B_b Bb>
+d217 2
+a218 2
+r0.7 .01 Am7(b5) .48 D7(b9)
+=1' 8 [<Eb G c> G] 83 [E C-I3 F#(1] 2 Fr)1
+d222 1
+a222 1
+r0.7 .01 Gm .48 Gm7
+d224 2
+a225 1
+=2' 2 <G g> <Fn fn>
+d236 1
+a236 1
+=2' 4. <D d> 8 <E e> 4 <F f> <D d>
+d239 2
+a240 2
+=1' 8 [<D Ab> F] 4 G 8 rest <G_ A_x> [D F]
+=2' 2 <E e> <A_ A>
+d268 112
+@
+
+
+1.2
+log
+@minor spacing adjustments
+@
+text
+@d1 1
+a1 1
+6 systems 25 /19-25-19 8/19-25-19/19-25-19 8/19-25-19/19-25-19 8/19-25-19 8/
+d23 2
+a24 2
+=1' 2 <F_n G_x B_ D> 4 rest 8 [C G(2]
+=2' 4 G 16 [D G 8 D] 2 <G_ B d g>
+d29 3
+a31 2
+=1' 4 G)2 2 <B_bl Eb> 8 [C G(2]
+=2' 2 <C c> <B_b Bb>
+d34 2
+a35 1
+=1' 4 G)2 2 <C Eb> 8 [A Bb(2]
+d39 2
+a40 1
+=1' 4 B)2 2 <D F> 8 [A G]
+d44 2
+a45 1
+=1' 4 Bb 8 [D C#(2] 4 C)2 8 [A G]
+d52 1
+a52 1
+=2' 2 <D d> <C c>
+d55 2
+a56 1
+=1' 8 <D)2 G)1> 4 B_ 4. <G_ A_x C#> 8 [F D(2]
+d60 2
+a61 1
+=1' 4 D)2 <F_ A_ C> E <G_ B_ D>
+d65 2
+a66 1
+=1' 4 F 8 <A_bl C Eb> 4. <F_ G_x B_ D> 8 [C G(2]
+d72 2
+a73 1
+=1' 4 G)2 2 <B_bl Eb> 8 [C G(2]
+d77 2
+a78 1
+=1' 4 G)2 2 <C Eb> 8 [A Bb(2]
+d82 2
+a83 1
+=1' 4 B)2 2 <D F> 8 [A G]
+d87 2
+a88 1
+=1' 4 Bb 8 [D C#(2] 4 C)2 8 [A G]
+d95 1
+a95 1
+=2' 2 <D d> <C c>
+d98 2
+a99 1
+=1' 8 <D)2 G)1> 4 B_ 4. <G_ A_x C#> 8 [E F(2]
+d103 2
+a104 1
+=1' 4 F)2 <A_ C> G <B_ D>
+d116 1
+a116 1
+=2' 4. <A_ A> A 4 A_
+d123 3
+a125 2
+=1 4 B')2 <D(2 F(1> 43 <D)2 F)1> c-I3 A
+=2' 4. <G_ G> G 4 G_
+d128 5
+a132 3
+=1 4 Bb' <C(2 E(1> 43 <C)2 E)1> c-I3 A
+=2' 4. C C_ 4 C
+6 systems 10 /19-25-19/19-25-19/19-25-19 10/19-25-19/19-25-19/19-35-19 8/
+d139 3
+a141 2
+=1' 4 Bb' 4. <D G> 8 D [G B(2]
+=2' 4. E_ E 4 E_
+d144 2
+a145 1
+=1' 4 B)2 2 <C# G> 8 [A Ab]
+d149 3
+a151 2
+=1' 4 Ab' 4. <C F> 8 C [F Ab(2]
+=2' 4. D_ D 4 D_
+d154 3
+a156 2
+=1' 4 A)2 2 <B_ F> 8 [C G(2]
+=2' 4. G_ G 4 G
+d161 2
+a162 1
+=1' 4 G)2 2 <B_bl Eb> 8 [C G(2]
+d166 2
+a167 1
+=1' 4 G)2 2 <C Eb> 8 [A Bb(2]
+d171 2
+a172 1
+=1' 4 B)2 2 <D F> 8 [A G]
+d176 2
+a177 1
+=1' 4 Bb 8 [D C#(2] 4 C)2 8 [A G]
+d187 2
+a188 1
+=1' 8 <D)2 G)1> 4 B_ 4. <G_ A_x C#> 8 [F D(2]
+d192 1
+a192 1
+=1' 4 D)2 <F A d> <F c> <F A>
+d197 1
+a197 1
+=2' 4 D_ A_ 2 D_
+d203 1
+a203 1
+3 bars ||: 4 4 3 5 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 3 5 5 3 \
+d211 2
+a212 1
+=1' 8 [<Eb G c> G] [E C] 2 <C Ex F#>
+d218 1
+d242 4
+a245 2
+r1.5 ________________________
+bl0.6 1a . . .
+d251 4
+a254 2
+r1.5 ________________________
+bl0.6 2a . . .
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d99 1
+a99 1
+4 bars | Segno 4 4 3 4 4 4 4 4 4 6 6 4 | 6 6 7 6 6 6 7 5 | 48 | 48 |
+d120 1
+a120 1
+4 bars | 48 | 48 | 48 | 48 |
+d138 1
+a138 1
+4 bars | 48 |
+d171 1
+a171 1
+=1  4. <D F A d'> 2 <b f~ a~> 8 blank
+d178 2
+a179 1
+3 bars ||: 48 | 48 | 48 |
+d207 1
+a207 1
+3 bars | 24 20 | 3 3 3 3 3 2 3 3 4 3 3 3 3 4 3 3 :|| 24 20 ||
+@
