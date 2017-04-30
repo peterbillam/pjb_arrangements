@@ -324,7 +324,7 @@ r1.1 .02 Bm7
 |
 r1.1 .02 C#m7 .53 F#7
 =1' vol100 2. e)1 8 [d B(1]
-=1, vol80  8 B)2 4 G# 2 <E-s2-s3 A#> 8 rest,
+=1, vol80  8 B)2 4 <D G#> 2 <E-s2-s3 A#> 8 rest,
 =1, 2 G_# F_#
 |
 r0.7 .02 Bm7 .47 C#m7
@@ -333,9 +333,9 @@ r0.7 .02 Bm7 .47 C#m7
 =1, 2 B_-s3, C#-s1,-s3,
 |
 r0.8 .02 Dm7 .40 E7
-=1' vol100 4. d 8 rest' 4 rest' 8 [A e(1]
-=1, vol80  83 blank 43 rest 8 <F c> 2 <G# B> 8 rest,
-=1, 4. D 8 rest,,, 4 E E_
+=1' vol100 4 d rest'' 4 rest' 8 [A e(1]
+=1, vol80  83 blank 43 rest 8 <A c> 2 <G# B> 8 rest,
+=1, 2 D 4 E E_
 /
 4 bars | 48 | 48 | 48 | 48 |
 |
@@ -346,7 +346,7 @@ r1.1 .02 Am7
 |
 r1.1 .01 F#m7(b5) .48 B7(b9)
 =1' vol100 2. e)1 8 [f# g(1]
-=1, vol80 83 blank 43 rest 2 <A c> 4 blank
+=1, vol80 4 rest, 2 <A c> 4 blank
 =1, 2 F_# B_
 |
 r1.3 .02 Em7
@@ -368,13 +368,13 @@ r1.1 .02 Bm7
 |
 r1.0 .02 C#m7 .50 F#7
 =1' vol100 2. e)1 8 [c#-s2 d(1-s3]
-=1, vol80  8 B)2 4 G# 2 <E A#-s2-s3> 8 rest,
+=1, vol80  8 B)2 4 <D G#> 2 <E A#-s2-s3> 8 rest,
 =1, 2 G_# F_#
 |
 r0.9 .02 Bm7 .47 C#m7
 =1' vol100 2 d)1 e
 =1, vol80 83 blank 43 rest 2 <F# A> 4 <G# B>
-=1, 2 B_ C#
+=1, 2 B_ C#-s4,
 |
 r1.0 .02 Dm7 .40 G7
 =1' vol100 4 f 8 [<A c> <F(2 B(1>] 2 <Fr)2 B)1>
@@ -384,7 +384,7 @@ $S = {
 4 bars | Segno 4 4 3 4 4 4 4 4 4 6 6.2 4 | 6 5 7 6 6 5 7 5 | 21 24 | 21 24 |
 |
 r1.6 .05 F#m7(b5)
-=1' vol100 4 rest 8 [<A c-s4-s1> e] [a e] 83 [d-s4 c#--I3 d#(2]
+=1' vol100 4 rest 8 [<A c-s4-s1> e] [a e] 83 [d c#--I3 d#(2-s4]
 =1, vol80  4. F_#-s2, 4 F#-,-s3, 8 rest,, 4 F_#
 |
 r1.3 .01 B7(b9)
@@ -398,7 +398,7 @@ r1.3 .01 Em7
 |
 r1.3 .01 A7
 =1' vol100 2 g(1 43 g)1 a-I3 f#
-=1, vol80  4 blank 2. <A c#>
+=1, vol80  4 rest 2. <A c#>
 =1, 4. A_ A_ 4 A
 
 6 systems 35 /19 /19 /19 8 /19 /19 15/19 20 /
@@ -458,7 +458,7 @@ r1.1 .02 Bm7
 |
 r1.0 .02 C#m7 .50 F#7
 =1' vol100 2. e)1 8 [d B(1]
-=1, vol80  8 B)2 4 G# 2 <E A#> 8 rest,,
+=1, vol80  8 B)2 4 <D G#> 2 <E A#> 8 rest,,
 =1, 2 G_# F_#
 |
 r0.7 .03 Bm
@@ -497,7 +497,7 @@ r1.8 .48 Em7
 |
 r1.8 .10 C#m7(b5)
 r1.5 .52 F#7
-=1' vol100 8 [g-s1 B-s0] [e-s0 g] [A#-s3 c#-s2] [f#{'1 e}'1]
+=1' vol100 8 [g-s1 B-s0] [e-s4 g] [A#-s3 c#-s2] [f#{'1 e}'1]
 =1, vol80  2 <C#-s2, G> 4 F#l-s4, F_#
 |
 r1.3 .10 Bm7
@@ -513,7 +513,7 @@ r1.1 .48 F#7
 |
 r1.1 .02 Bm7 .48 C#m7
 =1' vol100 8 [<F# e> B] 4 <F# d> <E G#> <G# B>
-=1, vol80  2 B_ C#
+=1, vol80  2 B_ C#l
 }
 $M
 |

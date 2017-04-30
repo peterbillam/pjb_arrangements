@@ -1,0 +1,271 @@
+6 systems 35 /19 /19 /19 /19 /19 25/
+pagenum
+title Whisper Not
+innerhead Benny Golson,  LeRoy Jackson
+leftfoot  arranged for guitar Peter Billam
+midi channel 2 patch 26 transpose 3
+/
+4 bars | 48 | 48 | 48 | 6 6 8 7 6 5 6 5 ||
+| .39 .30 .39 .30 .39 .30 .39 .30
+r1.3 .02 Am .45 Am/G
+=1' treble8vab cha2  vol100 4 leg70 a leg85 a leg99 <e a> g-gs2-s3
+=1, treble8vab cha2  vol80  2 <A c e> <G c>
+|
+r1.0 F#m7(b5)  .45 FMaj7
+=1' vol100 4 leg70 e leg85 e leg99 <c e> d
+=1, vol80 2 leg85 <F# A c> <Fn A>
+|
+r1.0 .01 Am/E  .45 B7(b9)
+=1' vol100 4 leg70 c leg85 c leg99 4 <A c> 8 [A <G#(2 B(1>]
+=1, vol80  2 leg85 <E A> D#
+|
+r0.9 .01 G7
+=1' vol100 2. leg90 <G#)2 B)1> 8 [A--s2 e(1]
+=1, vol80  4 E 83 [B_ E-I3, B_] 2 E_
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+r1.1 .02 Am7
+=1' vol100 2. e)1 8 [A e(1]
+=1, vol80 83 blank 43 rest 2 <G c> 4 blank
+=1, 2 A_ G_
+|
+r1.1 .01 F#m7(b5) .48 B7(b9)
+=1' vol100 2. e)1 8 [f# g(1]
+=1, vol80 4 rest, 2 <A c> 4 blank
+=1, 2 F_# B_
+|
+r1.3 .02 Em7
+=1' vol100 2. g)1 8 [f#-s2 e]
+=1, vol80 4 rest 2 <G B> 4 blank
+=1, 2 E D
+|
+r1.6 .10 C#m7(b5)
+r1.3 .54 F#7(b9)
+=1' vol100 2. g-s3 8 [f# e]
+=1, vol80 4 rest 8 [B-s0 A#(2-s2] 4 A)2 blank
+=1, 2 C#-s4, F_#-s1,
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r1.1 .02 Bm7
+=1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
+=1, vol80  4 B_ rest, 2 A_
+|
+r1.1 .02 C#m7 .53 F#7
+=1' vol100 2. e)1 8 [d B(1]
+=1, vol80  8 B)2 4 <D G#> 2 <E-s2-s3 A#> 8 rest,
+=1, 2 G_# F_#
+|
+r0.7 .02 Bm7 .47 C#m7
+=1' vol100 2 B)1 c#
+=1, vol80 83 blank 43 rest, 4 <D-s4,-s0, A> 83 blank 43 rest, 4 <E-s4,-s1, B>
+=1, 2 B_-s3, C#-s2,-s3,
+|
+r0.8 .02 Dm7 .40 E7
+=1' vol100 4 d rest'' 4 rest' 8 [A e(1]
+=1, vol80  83 blank 43 rest 8 <A c> 2 <G# B> 8 rest,
+=1, 2 D 4 E E_
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+r1.1 .02 Am7
+=1' vol100 2. e)1 8 [A e(1]
+=1, vol80 83 blank 43 rest 2 <G c> 4 blank
+=1, 2 A_ G_
+|
+r1.1 .01 F#m7(b5) .48 B7(b9)
+=1' vol100 2. e)1 8 [f# g(1]
+=1, vol80 4 rest, 2 <A c> 4 blank
+=1, 2 F_# B_
+|
+r1.3 .02 Em7
+=1' vol100 2 g)1(1 43 g)1 f#-I3 e
+=1, vol80 4 rest 2. <G B>
+=1, 2 E_ D
+|
+r1.6 .10 C#m7(b5)
+r1.3 .54 F#7(b9)
+=1' vol100 2. g-s3 8 [f# e]
+=1, vol80 4 rest 8 [B A#(2-s2] 4 A)2 blank
+=1, 2 C#-s4, F_#
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r1.1 .02 Bm7
+=1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
+=1, vol80  4 B_ rest,, 2 A_
+|
+r1.0 .02 C#m7 .50 F#7
+=1' vol100 2. e)1 8 [c#-s2 d(1-s3]
+=1, vol80  8 B)2 4 <D G#> 2 <E A#-s2-s3> 8 rest,
+=1, 2 G_# F_#
+|
+r0.9 .02 Bm7 .47 C#m7
+=1' vol100 2 d)1 e
+=1, vol80 83 blank 43 rest 2 <F# A> 4 <G# B>
+=1, 2 B_ C#-s4,
+|
+r1.0 .02 Dm7 .40 G7
+=1' vol100 4 f 8 [<A c> <F(2 B(1>] 2 <Fr)2 B)1>
+=1, vol80  2 D 4 G G_
+$S = {
+/
+4 bars | Segno 4 4 3 4 4 4 4 4 4 6 6.2 4 | 6 5 7 6 6 5 7 5 | 21 24 | 21 24 |
+|
+r1.6 .05 F#m7(b5)
+=1' vol100 4 rest 8 [<A c-s4-s1> e] [a e] 83 [d c#--I3 d#(2-s4]
+=1, vol80  4. F_#-s2, 4 F#-,-s3, 8 rest,, 4 F_#
+|
+r1.3 .01 B7(b9)
+=1' vol100 4 d)2 8 [<A c-s3-s1> d#-s4] 4 e-s0 8 [f#-s3 g(2-s3]
+=1, vol80  4. B_-s2, B_-s2, 8 B_ rest,,
+|
+r1.3 .01 Em7
+=1' vol100 2 g')2(1 43 g)1 a-I3 f#
+=1, vol80  83 blank 43 rest 2. <B d>
+=1, 4. E E_ 4 E
+|
+r1.3 .01 A7
+=1' vol100 2 g(1 43 g)1 a-I3 f#
+=1, vol80  4 rest 2. <A c#>
+=1, 4. A_ A_ 4 A
+
+6 systems 35 /19 /19 /19 8 /19 /19 15/19 20 /
+pagenum
+innerhead Whisper Not,    Benny Golson, LeRoy Jackson
+leftfoot  arranged for guitar Peter Billam
+
+/
+4 bars | 48 | 6 6 6 6 6 6 7 5 | 6 6 6 6 6 6 7 5 | 48 |
+|
+r1.7 .12 C#m7(b5)
+=1' vol100 2 g-s1 8 rest'' B--s0 [e-s0 g(2-s2]
+=1, vol80  4 rest 4.  <B e-s3-s4> blank
+=1, vol80  4. C#-s2, 4 C# 8 rest,, 4 C#-s3,
+|
+r1.4 .01 F#7(b9)
+=1' vol100 4 g)2 blank rest'' 8 [f# fn]
+=1, vol80  83 blank 43 rest 2 <A# e-s2-s0> 4 blank
+=1, 4. F#-s3, F_#-s1, 4 F#-s4,
+|
+r1.6 .01 Bm7(b5)
+=1' vol100 2 f 8  rest'' A [d f(2]
+=1, vol80  83 blank 43 rest 4. <A d-s3-s4> blank
+=1, vol80  4. B_-s2, B_ 4 B_
+|
+r1.3 .01 E7(b9)
+=1' vol100 2. f)2 8 [A e(1]
+=1, vol80  83 blank 43 rest 2 <G# d> 4 blank
+=1, 4. E 8 E_(3 4. E_)3 8 rest,,
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+r1.0 .02 Am7
+=1' vol100 2. e)1 8 [A e(1]
+=1, vol80 83 blank 43 rest, 2 <G c> 4 blank
+=1, 2 A_ G_
+|
+r1.0 .01 F#m7(b5) .48 B7(b9)
+=1' vol100 2. e)1 8 [f# g(1]
+=1, vol80 4 rest, 2 <A c> 4 blank
+=1, 2 F_# B_
+|
+r1.1 .02 Em7
+=1' vol100 2 g)1(1 43 g)1 f#-I3 e
+=1, vol80 4 rest 2. <G B>
+=1, 2 E D
+|
+r1.6 .10 C#m7(b5)
+r1.3 .54 F#7(b9)
+=1' vol100 2. g-s3 8 [f# e]
+=1, vol80 4 rest 8 [B A#(2-s2] 4. A)2 8 blank
+=1, 2 C#-s4, F_#
+/
+4 bars | 48 | 48 | 48 | 48 ||
+|
+r1.1 .02 Bm7
+=1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
+=1, vol80  4 B_ rest,, 2 A_
+|
+r1.0 .02 C#m7 .50 F#7
+=1' vol100 2. e)1 8 [d B(1]
+=1, vol80  8 B)2 4 <D G#> 2 <E A#> 8 rest,
+=1, 2 G_# F_#
+|
+r0.7 .03 Bm
+=1' 4 B)1 <d f# b-s2-s3-s4> <d a-s1-s4> f#-s1
+=1, 2 B_-gs6,-s1, <F#-s3,-s2, B>
+|
+Il0.9 .82 Fine
+=1' 4. <d f# b> 8 <g#(2 d~(1-s3-s4> 2 <g)2 d~)1>
+=1, 4 B-s3, F#(1-s2, 2 <B_ F)1>
+}
+$S
+
+$M = {
+/
+3 bars ||: 4 4 3 5 4 4 4 4 4 4 4 3 | 4 4 4  4 5 5  4 4 3  5 5 3 \
+ | 4 4 3 4 4 5 4 4 4 4 4 3 |
+|
+r1.4 .02 Am
+r1.7 .48 Am7
+=1' vol100 4 rest 83 [A c-I3 e] 8 [a c~-s4] [a{'1-s4 e}'1]
+=1, vol80  2 A_ 4 <G c e> rest,
+|
+r1.8 .12 F#m7(b5)
+r1.6 .48 B7(b9)
+=1' vol100 8 [<c e a{'1--s2-s3-s4> e}'1--s0] \
+ 83 [c-gs3,-s2, A-,-,-,-s4,-I3 eb(1-s1] 4 e)1 rest'
+=1, vol80  4. F#-s1, 8 rest, 4 <B_-s2,-s4,-s3, A c> \
+ 83 [B_{,2-,-s3, C},2-,-s3,-I3 D#-,-s1,]
+|
+r1.5 .01 Em
+r1.8 .48 Em7
+=1' vol100 4 rest' 83 [G-s0, B-I3 e] 8 [g-s1 b] [g{'1 e}'1--s0]
+=1, vol80  2 E-gs5,-s2, <D G B>
+/
+3 bars | 48 | 48 | 48 |
+|
+r1.8 .10 C#m7(b5)
+r1.5 .52 F#7
+=1' vol100 8 [g-s1 B-s0] [e-s4 g] [A#-s3 c#-s2] [f#{'1 e}'1]
+=1, vol80  2 <C#-s2, G> 4 F#l-s4, F_#
+|
+r1.3 .10 Bm7
+=1' vol100 8 <A d f#-s1-s2-s1> 4 <F# A d> 8 rest rest [F# B d-s3]
+=1, vol80  4. B_-s1, 8 C#-s3, 4 D-s3, B_-s1,
+|
+r1.5 .10 C#m7
+r1.1 .48 F#7
+=1' vol100 8 [<B f-s0-s1> d] 4 e 8 rest E-s2 [B d-s3]
+=1, vol80  4. C#-s4, 8 F_#(2 2 F_#)2
+/
+3 bars | 12 11 11 10 | 3 3 3 3 3 2 3 3 4.3 3 3 3 3 3 3 3 :|| 24 20 ||
+|
+r1.1 .18 Bm7 .48 C#m7
+=1' vol100 8 [<F# e-s4-s0> B] 4 <F# d> <E G#> <G# B>
+=1, vol80  2 B_-s1, C#l
+}
+$M
+|
+r2.5 ________________________
+bl1.5 1a . . .
+r0.6 .02 Dm7
+r0.9 .37 E7
+=1' vol100 8 A 4 <A c> 8 <G#(4 dx(2 e(1> \
+ 83 [<G)4 dx)2 e)1> f-I3 e(2] 16 [e)2 d c B]
+=1, vol80  8 D-s0, 4 F-s1,-s2,-s3,  8 rest,,, 4 E_ E
+#M $M
+|
+r2.5 ________________________
+bl1.5 2a . . .
+r0.7 .02 Dm7
+r0.8 .40 G7
+I0.5 .70 D.S. al Fine
+=1' vol100 8 <F A d> 4 <D A c> 8 <F(2 B(1> 2 <Fr)2 B)1>
+=1, vol80  2 blank 4 G G_
+
+#M $S
+
+midi pause 3.0

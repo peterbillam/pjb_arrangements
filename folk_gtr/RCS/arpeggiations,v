@@ -1,0 +1,120 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2017.01.04.07.36.56;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.12.20.05.08.50;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@some alternative picking patterns
+@
+
+
+1.2
+log
+@changed some notes round
+@
+text
+@8 systems 23 / 19 / 19 / 19 / 19 25 / 19 / 19 25 / 19 / 19 /
+title Arpeggiations
+midi channel 0 patch 25 reverb 80
+midi off
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+midi pause 1.0
+$A = {
+| 3.2
+=1, treble8vab cha0  vol110 cc64=127 16 [F# g# F# Bb] [F# Bb c Bb] [c g# F# g#] [c# Bn c# B]
+|
+=1, 16 [F# g# F# c] [F# c d c] [d g# F# g#] [eb c# eb c#]
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 ||
+|
+=1,  16 [F# g# F# d] [F# d e d] [e g# F# g#] [eb c# eb c#]
+|
+=1, 16 [F# g# F# c] [F# c d c] [d g# F# g#] [c# B c# B]
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1, 16 [F# g# F# Bb] [F# Bb c Bb] [c gn Fn g] [c Bb c Bb]
+|
+=1, 16 [E f# E Bb] [E Bb c Bb] [c fn Eb f] [c Bb c Bb]
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 ||
+|
+=1, 16 [D e D Bb] [D Bb c Bb] [c f Eb f] [c Bb c Bb]
+|
+=1, 16 [E f# E Bb] [E Bb c Bb] [c g Fn g] [c Bb c Bb] cc64=0
+}
+$A
+#M $A
+
+midi on
+midi pause 1.0
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 2.4
+=1, treble8vab 3/4 cha0  vol110 cc64=127 16 [F# g# F# Bb] [c Bb c g#] [c# g# c# Bn]
+|
+=1, 16 [F# g# F# c] [d c d g#] [eb g# eb c#]
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+|
+=1, 16 [F# g# F# d] [e d e a] [Gn a e d]
+|
+=1, 16 [Ab bb Ab d] [e d e bn] [An b e d]
+
+/
+4 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 \
+       | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 1.6
+=1, 2/4 16 [Bb c~ d e] [c~ Bb f eb]
+|
+=1, 16 [Bb c~ e f#] [c~ Bb g fn]
+|
+=1, 16 [Bb c~ f# g#] [c~# Bn g# f#]
+|
+=1, 16 [c d~ f# g#] [d~# c# g# f#] cc64=0
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+8 systems 23 / 19 / 19 / 19 / 19 / 19 / 19 / 19 / 19 /
+d4 1
+d7 2
+d10 26
+d37 4
+a40 2
+=1, treble8vab cha0 vol110 cc64=127 \
+ 16 [F A F g] [F A B A] [B g F g] [c Bb c Bb]
+d42 1
+a42 1
+=1, 16 [F B F g] [F B c# B] [c# g F g] [d cn d c]
+d44 13
+a56 1
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 ||
+d58 1
+a58 1
+=1, 16 [F c# F g] [F c# d# c#] [d# g F g] [dn cn d c]
+d60 1
+a60 1
+=1, 16 [F B F g] [F B c# B] [c# g F g] [cn Bb c Bb]
+@

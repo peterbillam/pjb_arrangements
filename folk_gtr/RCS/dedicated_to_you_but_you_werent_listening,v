@@ -1,4 +1,28 @@
-5 systems 20 /19 48 19/19 42 19/19 39 19/19 54 19/19 42 19 10/
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2016.12.29.05.10.46;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@from Soft Machine volume 2
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@5 systems 20 /19 48 19/19 42 19/19 39 19/19 54 19/19 42 19 10/
 title Dedicated to You but You Weren't Listening
 pagenum
 innerhead Hugh Hopper
@@ -344,3 +368,4 @@ r0.7 .12 face my mirror, .63 elec - tricity ...
 =2' 2. d
 =2' 8 Abrl 4 G(1 4. G)1
 =2, 2. E)2
+@

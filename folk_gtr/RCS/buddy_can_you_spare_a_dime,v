@@ -1,10 +1,15 @@
-head	1.3;
+head	1.4;
 access;
 symbols;
 locks
-	pjb:1.3; strict;
+	pjb:1.4; strict;
 comment	@# @;
 
+
+1.4
+date	2016.12.29.08.31.22;	author pjb;	state Exp;
+branches;
+next	1.3;
 
 1.3
 date	2014.12.28.09.10.20;	author pjb;	state Exp;
@@ -27,9 +32,9 @@ desc
 @
 
 
-1.3
+1.4
 log
-@finish off back to D
+@added words
 @
 text
 @6 systems 5 / 19 20 19/ 19 20 19/ 19 30 19/ 19 30 19/ 19 30 19/ 19 30 19 10/
@@ -53,38 +58,44 @@ midi channel 2 patch 46
 =2, 8. D_             8 D_   16 rest,,, 8 [D_ 16 D] [F_{1 F_#}1 A_]
 |
 =1' 8 [D 16 E] [F G A(2] 8 [A)2 16 d(2] 8 d)2 16 rest
+r0.6 .01 Once I built a .44 railroad,
 =2' 8 rest 16 <D A c> 8 rest 16 <D(2 A(4 c(1> 4. <D)2 A)4 c)1>
 =2, 8. D_             8 D_   16 rest,,, 8 [D_ 16 D] [E_{1 F_}1 G_]
 /
 3 bars | 48 | 48 | 48 |
 |
 =1 16 rest 8. c# 8 A 4. cn
+r0.6 .08 made .34 it .50 run
 =2' 8 rest 16 <E A c#> 8 rest 16 <D(2 A(4 cn(1> \
     8. <D)2 A)4 c)1> rest
 =2, 8. A_             8 A_   16 rest,,, 8 [D_ 16 D] [D_{1 F_}1 F_#]
 |
 =1  16 rest 8. B' 8 G [Bb 16 c] 8 [Bb' 16 A(2]
+r0.6 .08 Made it .51 race against .92 time
 =2' 8 rest  16 <D(2 G(4 B(1> 8. <D)2 G)4 B)1> \
     8 rest  16 <E(4 Bb(1> 8. <E)4 B)1>
 =2, 8. G_  16 [A_ B_b B_n] 8. C 16 [C A_ G_]
 |
 =1 4. A)2 rest
 =2' 8 rest 16 <F(4 A(1> 8. <F)4 A)1> \
-    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F#)4 A)1>
+    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F)4 A)1>
 =2, 8. F_  16 [F_ E_ E_b] 8. D_(2  16 [D_)2 F_ F_#]
 /
 3 bars | 48 | 48 | 48 |
 |
 =1' 8 [G 16 F] [E F G(2] 8 [G)2 16 A(2] 8 A)2 16 rest
+r0.6 .01 Once I .25 built a .44 railroad,
 =2' 8 rest 16 <D G B> 8 rest 16 <E(2 G(4 c#(1> 4. <E)2 G)4 c)1>
 =2, 8. G_ 8 G_ 16 rest,,, 8 [A_ 16 E] [A_ C C#]
 |
 =1 16 rest 8. F 8 D 4. F
+r0.6 .08 now .33 it's .50 done
 =2' 8 rest 16 <F(4 cx(2 d(1> 8. <F)4 cx)2 d)1> 4. <F B d>
 =2, 8. D 8 [A_ 16 G_(2] 8. G_)2 16 [G_ G_b F_]
 |
 =1  16 [E D] rest rest [C# D] 8. E 8 [F 16 E(2]
-=2' 8 rest 16 <D G# B> 8 rest 16 <D(2 G#(4 c> 4. <D)2 G#)4 B>
+r0.6 .01 Brother, .34 can you spare .75 a .90 dime
+=2' 8 rest 16 <D G# B> 8 rest 16 <D(2 G#(4 c> 4. <D)2 G)4 B>
 =2, 8. E_             8 E_   16 rest,,, 8 [E_ 16 D] [E_ G_{1 G_#}1]
 /
 3 bars | 48 | 48 | 48 |
@@ -94,10 +105,12 @@ midi channel 2 patch 46
 =2, 8. A_             8 A_   16 rest,,, 4. A_
 |
 =1' 8 [D 16 E] [F G A(2] 8 [A)2 16 d(2] 8 d)2 16 rest
-=2' 8 rest 16 <D A c> 8 rest 16 <F#(2 A(4 c(1> 4. <F#)2 A)4 c)1>
+r0.6 .01 Once I .25 built a .43 tower
+=2' 8 rest 16 <D A c> 8 rest 16 <F#(2 A(4 c(1> 4. <F)2 A)4 c)1>
 =2, 8. D_             8 D_   16 rest,,, 8 [D_ 16 D] [E_{1 F_}1 G_]
 |
 =1 16 rest 8. c# 8 A 4. cn
+r0.6 .08 made .33 it .50 strong
 =2' 8 rest 16 <E A c#> 8 rest 16 <D(2 A(4 cn(1> \
     8. <D)2 A)4 c)1> rest
 =2, 8. A_             8 A_   16 rest,,, 8 [D_ 16 D] [D_{1 F_}1 F_#]
@@ -105,34 +118,38 @@ midi channel 2 patch 46
 3 bars | 48 | 48 | 48 |
 |
 =1  16 rest 8. B' 8 G [Bb 16 c] 8 [Bb' 16 A(2]
+r0.6 .08 Brick .33 and .52 rivet .75 and .90 lime
 =2' 8 rest  16 <D(2 G(4 B(1> 8. <D)2 G)4 B)1> \
     8 rest  16 <E(4 Bb(1> 8. <E)4 B)1>
 =2, 8. G_  16 [A_ B_b B_n] 8. C 16 [C A_ G_]
 |
 =1 4. A)2 rest
 =2' 8 rest 16 <F(4 A(1> 8. <F)4 A)1> \
-    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F#)4 A)1>
+    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F)4 A)1>
 =2, 8. F_  16 [F_ E_ E_b] 8. D_(2  16 [D_)2 F_ F_#]
 |
 =1' 8 [G 16 F] [E F G(2] 8 [G)2 16 A(2] 8 A)2 16 rest
+r0.6 .01 Once I .25 built a .43 to .55 - .67 wer
 =2' 8 rest 16 <D G B> 8 rest 16 <E(2 G(4 c#(1> 4. <E)2 G)4 c)1>
 =2, 8. G_ 8 G_ 16 rest,,, 8 [A_ 16 E] [A_ C C#]
 /
 3 bars | 48 | 48 | 48 |
 |
 =1 16 rest 8. F 8 D 4. F
+r0.6 .08 now .33 it's .50 done
 =2' 8 rest 16 <F(4 cx(2 d(1> 8. <F)4 cx)2 d)1> 4. <F B d>
 =2, 8. D 8 [A_ 16 G_(2] 8. G_)2 16 [G_ G_b F_]
 |
 =1  16 [E D] rest rest [C# D] 8. E 8 [F 16 D(2]
-=2' 8 rest 16 <D G# B> 8 rest 16 <E(2 Gnl(4 c#(1> 4. <E)2 G)4 c#)1>
+r0.6 .01 Brother, .33 can you spare .75 a .90 dime
+=2' 8 rest 16 <D G# B> 8 rest 16 <E(2 Gnl(4 c#(1> 4. <E)2 G)4 c)1>
 =2, 8. E_             8 E_   16 rest,,, 8. A_ 16 rest [G_{1 F_#}1]
 |
 =1' 4. D)2 rest
 =2' 8 rest 16 <F# A c> 8 rest 8. <F# A c> 16 <F# A c> 8 rest 16 <F#(4 A(3 c(1>
 =2, 8. D_             8 D_   16 rest,,, 8. D_ 8 D_ 16 rest,,,
 
-6 systems / 19 20 19/ 19 20 19/ 19 30 19/ 19 30 19/ 19 30 19/ 19 30 19 15/
+6 systems / 19 35 19/ 19 25 19/ 19 30 19/ 19 30 19/ 19 30 19/ 19 30 19 15/
 pagenum
 innerhead Buddy, can you spare a dime ?
 leftfoot lyrics by Yip Harburg, music by Jay Gorney (1931)
@@ -140,18 +157,21 @@ leftfoot lyrics by Yip Harburg, music by Jay Gorney (1931)
 3 bars | 48 | 48 | 48 |
 |
 =1  16 [D rest, E] [F# G A(2] 8 A)2 16 rest 8 rest 16 c(1
-=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F# Gx c> rest 8. <F# A c> \
- 16 <F# Gx c>] [<F# Gx c> rest <F#(4 A(3 c(1>]
+r0.6 .01 Once .17 in khaki suits, .90 gee
+=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F Gx c> rest 8. <F# A c> \
+ 16 <F# Gx c>] [<F Gx c> rest <F#(4 A(3 c(1>]
 =2, 8 D_ 16 rest,,, 8 D_ 16 rest,,, 8 D_ 16 rest,,, 8 D_ 16 rest,,,
 |
-=1  8 [c)1 16 B] [A F# A(2] 8 A)2 16 rest 8 rest 16 c(1
-=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F# Gx c> rest 8. <F# A c> \
- 16 <F# Gx c>] [<F# Gx c> rest <F#(4 A(3 c(1>]
+=1  8 [c)1 16 B] [A{'1 F#}'1 A(2] 8 A)2 16 rest 8 rest 16 c(1
+r0.6 .15 we looked  swell .90 full
+=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F Gx c> rest 8. <F# A c> \
+ 16 <F# Gx c>] [<F Gx c> rest <F#(4 A(3 c(1>]
 =2, 8 D_ 16 rest,,, 8 D_ 16 rest,,, 8 D_ 16 rest,,, 8 D_ 16 rest,,,
 |
 =1  8 [c)1 16 B] 8 [c 16 d(1] 8 [d)1 16 c] 8 [B' 16 A(2]
-=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F# Gx c> rest 8. <F# A c> \
- 16 <F# Gx c>] [<F# Gx c> rest <F#(4 A(3 c(1>]
+r0.6 .17 of that .43 Yankee  -  doo - dum
+=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F Gx c> rest 8. <F# A c> \
+ 16 <F# Gx c>] [<F Gx c> rest <F#(4 A(3 c(1>]
 =2, 8 D_ 16 rest,,, 8 D_ 16 rest,,, 8 D_ 16 rest,,, 8 D_ 16 rest,,,
 /
 3 bars | 48 | 48 | 48 |
@@ -163,11 +183,13 @@ leftfoot lyrics by Yip Harburg, music by Jay Gorney (1931)
  325-s [F_-emph, G_b F_ G_b F_ 16 D_] 325-s [F_-emph, G_b F_ G_b F_ 16 D_]
 |
 =1  16 [D rest, E] [Fn G A(2] 8 A)2 16 rest 8 A 16 rest
+r0.6 .01 Half .17 a million boots .75 went
 =2' 8 rest 16 <F Gx B> [<F Gx B> rest 8. <F Gx B> \
  16 <F Gx B>] [<F Bx c> rest <F(4 Gx(3 B(1>]
 =2, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 G_ 16 rest,,
 |
 =1  8 [c 16 B] [A rest A(2] 8 A)2 16 rest 8 rest 16 A
+r0.6 .01 sloggin' through Hell .92 and
 =2' 16 [<F)4 Gx)3 B)1> rest <F Gx B>] [<F Gx B> rest 8. <F Gx B> \
  16 <F Gx B>] [<F Bx c> rest <F(4 Gx(3 B(1>]
 =2, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 G_ 16 rest,,
@@ -175,48 +197,57 @@ leftfoot lyrics by Yip Harburg, music by Jay Gorney (1931)
 3 bars | 48 | 48 | 48 |
 |
 =1 8 [c B c] 8. d 16 rest [c d]
+r0.6 .01 I .17 was .34 the .50 kid .80 with the
 =2' 16 [<F)4 Gx)3 B)1> rest <F Gx B>] [<F Gx B> rest 8. <F Gx B> \
  16 <F Gx B>] [<F Bx c> rest <F(4 Gx(3 B(1>]
-=2, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 F_ 16 rest,,
+=2, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 F_ 16 rest,, 8 F_ 16 rest,,
 |
 =1 4. e(1 4 e)1 8 rest
+r0.6 .01 drum
 =2' 8 <F)4 Gx)3 B)1> 16 <E G d> 8 rest \
  [<E G B> 16 <G#{4 c{'1> <A}4 c#}'1>] [e{'1 f}'1 Gn]
 =2, 8 E_ 16 rest,, [E_ G_ G_#] 8 A_ 16 rest,, [A_ C C#]
 |
 =1 8. f 16 [e d c#] 8 [d' 16 A] 8. rest
+r0.6 .01 Say, .25 don't you remember,
 =2' 8 rest 16 <A c> 8 rest 16 <A(4 c(1> 4. <A)4 c)1>
 =2, 4. D             8 [D_ 16 D] [E_{1 F_}1 G_]
 /
 3 bars | 48 | 48 | 48 |
 |
-=1 16 rest 8 c# 8 [c# 16 A,] 8. cn rest
+=1 16 rest 8 c# 8 [c#' 16 A] 8. cn rest
+r0.6 .08 they called .43 me "Al"
 =2' 8 rest 16 <E A c#> 8 rest 16 <D(2 A(4 cn(1> \
     8. <D)2 A)4 c)1> rest
 =2, 8. A_             8 A_   16 rest,,, 8 [D_ 16 D] [D_{1 F_}1 F_#]
 |
-=1 16 rest 8 B 8 [B' 16 G] 8 [Bb c Bb]
+=1 16 rest 8 B' 8 [B' 16 G] 8 [Bb c Bb]
+r0.6 .08 they called .41 me "Al" .67 all .84 the
 =2' 8 rest  16 <D(2 G(4 B(1> 8. <D)2 G)4 B)1> \
     8 rest  16 <E(4 Bb(1> 8. <E)4 B)1>
 =2, 8. G_  16 [A_ B_b B_n] 8. C 16 [C A_ G_]
 |
 =1 4. A(1 4 A)1 8 rest
+r0.6 .01 time,
 =2' 8 rest 16 <F(4 A(1> 8. <F)4 A)1> \
-    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F#)4 A)1>
+    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F)4 A)1>
 =2, 8. F_  16 [F_ E_ E_b] 8. D_(2  16 [D_)2 F_ F_#]
 /
 3 bars | 48 | 48 | 48 |
 |
 =1 8. G 16 [F E F] 8 [G 16 A] 8. rest
+r0.6 .01 Say, .25 don't you remember,
 =2' 8 rest 16 <D G B> 8 rest 16 <E(2 G(4 c#(1> 4. <E)2 G)4 c)1>
 =2, 8. G_ 8 G_ 16 rest,,, 8 [A_ 16 E] [A_ C C#]
 |
 =1 16 rest 8. F 8 D 4. F
+r0.6 .08 I'm .33 your .50 pal
 =2' 8 rest 16 <F(4 cx(2 d(1> 8. <F)4 cx)2 d)1> 4. <F B d>
 =2, 8. D 8 [A_ 16 G_(2] 8. G_)2 16 [G_ G_b F_]
 |
 =1  16 [E D] rest rest [C# D] 8. E 8 [F 16 D(2]
-=2' 8 rest 16 <D G# B> 8 rest 16 <E(2 Gnl(4 c#(1> 4. <E)2 G)4 c#)1>
+r0.6 .01 Buddy, .33 can you spare .75 a .90 dime
+=2' 8 rest 16 <D G# B> 8 rest 16 <E(2 Gnl(4 c#(1> 4. <E)2 G)4 c)1>
 =2, 8. E_             8 E_   16 rest,,, 8 [A_ G_ 16 F_{1 E_}1]
 |
 =1' 4. D)2 rest
@@ -226,6 +257,77 @@ leftfoot lyrics by Yip Harburg, music by Jay Gorney (1931)
 =1  2 blank 1 rest
 =2' 8 rest 16 <D A c> 8 rest 16 <D(2 A(4 c(1> 4. <D)2 A)4 c)1>
 =2, 8. D_             8 D_   16 rest,,, 8 [D_ 16 D] [F_{1 F_#}1 A_]
+@
+
+
+1.3
+log
+@finish off back to D
+@
+text
+@d22 1
+d29 1
+d35 1
+d42 1
+a42 1
+    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F#)4 A)1>
+d48 1
+d53 1
+d58 2
+a59 1
+=2' 8 rest 16 <D G# B> 8 rest 16 <D(2 G#(4 c> 4. <D)2 G#)4 B>
+d69 2
+a70 1
+=2' 8 rest 16 <D A c> 8 rest 16 <F#(2 A(4 c(1> 4. <F#)2 A)4 c)1>
+d74 1
+d82 1
+d89 1
+a89 1
+    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F#)4 A)1>
+d93 1
+d100 1
+d105 2
+a106 1
+=2' 8 rest 16 <D G# B> 8 rest 16 <E(2 Gnl(4 c#(1> 4. <E)2 G)4 c#)1>
+d113 1
+a113 1
+6 systems / 19 20 19/ 19 20 19/ 19 30 19/ 19 30 19/ 19 30 19/ 19 30 19 15/
+d121 3
+a123 2
+=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F# Gx c> rest 8. <F# A c> \
+ 16 <F# Gx c>] [<F# Gx c> rest <F#(4 A(3 c(1>]
+d126 4
+a129 3
+=1  8 [c)1 16 B] [A F# A(2] 8 A)2 16 rest 8 rest 16 c(1
+=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F# Gx c> rest 8. <F# A c> \
+ 16 <F# Gx c>] [<F# Gx c> rest <F#(4 A(3 c(1>]
+d133 3
+a135 2
+=2' 16 [<F#)4 A)3 c)1> rest <F# Gx c>] [<F# Gx c> rest 8. <F# A c> \
+ 16 <F# Gx c>] [<F# Gx c> rest <F#(4 A(3 c(1>]
+d147 1
+d153 1
+d161 1
+d164 1
+a164 1
+=2, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 G_ 16 rest,, 8 F_ 16 rest,,
+d167 1
+d173 1
+d179 2
+a180 1
+=1 16 rest 8 c# 8 [c# 16 A,] 8. cn rest
+d185 2
+a186 1
+=1 16 rest 8 B 8 [B' 16 G] 8 [Bb c Bb]
+d192 1
+d194 1
+a194 1
+    8 rest 16 <C(2 F#(4 A(1> 8. <C)2 F#)4 A)1>
+d200 1
+d205 1
+d210 2
+a211 1
+=2' 8 rest 16 <D G# B> 8 rest 16 <E(2 Gnl(4 c#(1> 4. <E)2 G)4 c#)1>
 @
 
 

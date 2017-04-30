@@ -1,0 +1,62 @@
+8 systems 25 / 20 5 / 20 /
+title Blackpool
+innerhead Roy Harper, 1966
+midi channel 1 patch 25 transpose +5
+/
+4 bars | 54 | 48 |
+| 3.5
+r1.5 standard tuning but capo on 5th fret
+=1' treble8vab cha1 leg100 8 vol110 <F# d#-emph> 4 <G(2 e(1> 2 <G)2 e)1>
+=1, 4. cc64=0 rest,, 2 E_
+| 1.5 1.1
+=1' 8 <F# d#-emph> 4 <G e> 8-s vol70 [G-gs4 16-s G-gs3 e-gs1 8-s G-gs3]
+=1, 4 rest,, cc64=127 8 E_(4 4. E_)4(4
+| 2.2
+=1' 8-s [e G-gs3 G-gs4] 8-s [e 16-s e-gs2 G-gs3 8-s G]
+=1, 2. E_)4(4
+|
+=1' 8-s vol70 [e 16-s G-gs3 e-gs2 8-s G-gs4] 8-s [e 16-s e-gs2 G-gs3 8-s G]
+=1, 2. vol110 E_)4(4
+/
+4 bars | 48 |
+|
+il0.8 5
+=1' 8-s vol70 [e G G] 8-s [e 16-s G e 8-s G]
+=1, 2. vol110 E_)4
+|
+=1, 16 [F#{1 cc64=0 G}1 e-sa G-sp 8 G-s0] 4 <A f#> 8 <A f>
+|
+Is0.2 .45 pp
+=1' 2. <B g#-gs4-gs2>
+=1' 4. blank 8-s vol60 [Gn-Isi 16-s B-Isp e-Isa 8-s G-Isi]
+=1, 4 cc64=127 rest,, 2 vol110 E_
+|
+=1' 4 vol100 <B g#> 8 rest' 4. <Gn e-s3-s4>
+=1, 8-s rest,, vol60 [Gn-Isi, B-Isp,] rest,, 16-s [G-Isi, e-Isa, 8-s G-Isi,]
+/
+4 bars | 48 |
+|
+=1' 4 vol100 <e c~#>  8 rest' 4 <d b> 8 rest'
+=1, 4 cc64=0 rest,, 4. E_ 8 E_(2
+|
+il0.8 .20 10
+=1' 4 <cn a>  8 rest' 4. <A# g>
+=1, 4 E_)2 4. E_ 8 E_(2
+|
+=1' 8 <A# g{'1> 4 <B g#}'1> 8-s vol60 [B-Isi 16-s g#-Ism B-Isp 8-s B-Isi]
+=1, 4 vol100 E_)2 8 cc64=127 E_(2 4. E_)2(2
+|
+=1' 8-s vol60 [<B g#-Isp-Ism> 16-s g#-Ism B-Isp 8-s B-Isi] \
+    8-s vol60 [<B g#-Isp-Ism> 16-s g#-Ism B-Isp 8-s B-Isi]
+=1, 2. vol100 E_)2
+/
+4 bars | 48 |
+|
+=1' 8-s vol60 G# vol100 8 <G_# B> cc64=0 rest 4 <F_# A> 8 <G_# B>
+|
+is0.6 .40 bend the G up and down
+=1' 4 <F_# A> 2 cc64=127 <E_ Gn>
+|
+=1 4 E 8 E_ 4. e
+|
+=1' 8 B 4 A#(2 4. A)2

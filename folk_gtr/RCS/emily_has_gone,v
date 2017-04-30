@@ -1,10 +1,20 @@
-head	1.1;
+head	1.3;
 access;
 symbols;
 locks
-	pjb:1.1; strict;
+	pjb:1.3; strict;
 comment	@# @;
 
+
+1.3
+date	2017.01.05.09.53.46;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.12.30.09.02.29;	author pjb;	state Exp;
+branches;
+next	1.1;
 
 1.1
 date	2014.02.27.03.39.15;	author pjb;	state Exp;
@@ -17,120 +27,560 @@ desc
 @
 
 
-1.1
+1.3
 log
-@Initial revision
+@minor tweaks
 @
 text
-@6 systems 10 / 19 30 19/ 19 35 19/ 19 30 19/
+@6 systems 10 / 19 30 19/ 19 45 19/ 19 45 19/ 19 35 19/ 19 35 19/ 19 35 19/
 title Emily has gone
 pagenum
 innerhead Tony Maude
 midi channel 0 patch 93
 midi channel 1 patch 25
 /
-4 bars | 4# 48 | 48 |
+4 bars |4# 4 5 4 4 4 4 4 3 |4 5 4 4 4 4 4 3 |4 5 4 4 4 4 4 4 |4 5 4 4 4 4 4 3 |
 | 2.3
 =1  treble8vab 4# cha0 vol110 2 blank 1 rest
-=2' treble8vab 4# cha1 vol90 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+=2' treble8vab 4# cha1 vol90 8 cc64=127 [E_ E G# B] [E_ E] 4 <E A Bx e>
 |
 =1  2 blank 1 rest
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
 |
 =1  4 rest 8 [G# G] 4 G 8 [F# G(2]
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+r0.7 .27 Emi - ly .75 has gone
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
 |
 =1  2. G#)2 4 rest
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
-
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
+/
+4 bars |4# 4 5 4 4 4 4 4 4 |4 4 5 4 4 5 4 3 |4 5 5 4 4 5 4 4 |4 5 4 4 4 5 4 3 |
 |
 =1  4 rest 8 [G# G] 4 G 8 [F# G]
-=2' 8 [E_-P E G# B] [E_-P E e B]
+r0.7 .31 that's a cue .77 for  a
+=2' 8 [E_ E G# B] [E_ E e B]
 |
 =1  4. c 8 B(1 2 B)1
-=2' 8 [<E_-P A_> E <A Bx e> G#-,-,-,-P] [<E_ B_> E] 4 <G# B e>
+r0.7 .01 sad .37 song
+=2' 8 [<E_ A_> E <A Bx e> G#] [<E_ B_> E] 4 <G# B e>
 |
 =1  4 rest 8 [E F#] 4 E C#
-=2' 8 [A_-P A-s3, c#-s2, e-s"1 0",] [A_-P A] 4 <A c# e>
+r0.7 .25 to  a .50 man .75 who
+=2' 8 [A_ A-s3,-gs4 c#-s2, <e ex>] [A_ A] 4 <A c# e ex>
 |
 =1  8 E 4 E 8 F# 4 E C#
-=2' 8 [A_-P A dn-s4, e] [A_-P A] 4 <A c# e>
-
+r0.7 .01 says I .37 will paint you
+=2' 8 [A_ A dn-s4, <e ex>] [A_ A] 4 <A c# e ex>
+/
+4 bars |4# 4 5 4 4 4 4 4 3 |4 5 4 4 4 5 4 4 |4 5 4 4 4 5 4 3 |4 5 4 4 4 5 4 4 |
 |
 =1  4 rest G# G F#
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+r0.7 .32 with .58 no .75 clothes
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
 |
 =1  2. G# 8 rest E
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+r0.7 .02 on .83 and
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
 |
 =1  4. E 8 F# 4 E C#
-=2' 8 [A_-P A-s3, c#-s2, e-s"1 0",] [A_-P A] 4 <A c# e>
+r0.7 .03 I .34 will  take .73 you
+=2' 8 [A_ A-s3, c#-s2, <e ex>] [A_ A] 4 <A c# e ex>
 |
 =1  4 E F# 4. E 8 F
-=2' 8 [A_-P A dn-s4, e] [A_-P A] 4 <A c# e>
-
+r0.7 .03 in .25 my .50 yacht .87 to
+=2' 8 [A_ A dn-s4, e] [A_ A] 4 <A c# e>
 /
-4 bars | 4# 48 | 48 | 24 | 48 |
+4 bars | 4# 6 7 6 6 6 6 6 5 | 6 7 6 6 6 6 6 5 | 6 7 6 6 | 6 7 6 6 6 7 6 6 |
 |
 =1  8 G# 4 G 8 G 4 G F#
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+r0.7 .11 cities .43 beneath .75 the
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
 |
 =1  2. G# 4 rest
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+r0.7 .01 sun ,
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
 | 1.15
 =1  4 rest  E
+r0.7 .50 and
 =2' 8 [E_ E G# B]
 | 2.3
 =1  1 F#(2
-=2' 8 [B_-P B d# <B e>] [B_ B d# <B e>]
-
+r0.7 .01 I
+=2' 8 [B_-s1,-gs6 B-s4, d#-s2, <B-s0,-s0, e>] [B_ B d# <B e>]
 /
-4 bars | 4# 48 | 48 | 48 | 48 |
+4 bars | 4# 4 5 4 5 4 3 4 3| 4 5 4 4 4 4 4 3| 4 5 4 4 4 4 4 3| 5 4 4 4 5 4 4 3|
 |
 =1  2 F#)2 4 rest E
+r0.6 .75 will
 =2' 8 [B_ B d# <B e>] 2 <B_ B d#>
 |
 =1  4. F# 8 E(2 2 E)2(2
-=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+r0.6 .01 pay .37 you
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
 |
 =1  4 E)2 rest rest e
-=2' 8 [E_-P E G# B] [E_-P E B e]
+r0.7 .73 and
+=2' 8 [E_ E G# B] [E_ E B e]
 | 2.2
 =1 8 e 4 e 4. d# 4 c#
-=2' 8 [A-s3,-P c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
+r0.7 .01 Emi .20 -  .37 ly .71 stands
+=2, 8 [A-s3,-gs4 c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
+/
+4 bars | 4# 32 | 5 4 4 5.5 5 4 4 3 | 5.5 4 4 4 4 4 4 3 | 5 4 4 4 5 4 4 3 |
+|
+=1 4 B' G# rest 8 rest E
+r0.7 .16 naked .87 be -
+=2, 8 [B-s3,-gs4 e-s4,-gs3 B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+|
+=1 4. F# 8 E 8 F# 4. E
+r0.7 .01 hind .37 a .50 painter's
+=2, 8 [B-s3, d#-s2, B-s0, e-s0,] [B-s3, d#-s2, B-s0, e-s0,]
+|
+=1 8 F# 4. G# 4 rest e
+r0.7 .03 door, .73 and
+=2, 8 [B-s3, e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+|
+=1 4 e e 4 d# c#
+r0.7 .01 all .25 her .47 clothes are
+=2, 8 [A-s3, c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
+
+6 systems 10 / 19 30 19/ 19 45 19/ 19 35 19 \
+  / 19 35 19/ 19 42 19/ 19 42 19/
+pagenum
+innerhead Emily has gone, Tony Maude
+
+/
+4 bars | 4# 32 | 32 | 4 4 4 4 4 4 4 3 | 16 |
+|
+=1 4 B' G# rest 8 rest G#
+r0.6 .13 lying .87 u  -
+=2, 8 [B-s3, e-s4, B-s0, e-s0,] [E-s1, B-s3, e-s4, B-s0,]
+|
+=1 4. A 8 G# 4 F# 8 [E F(2]
+r0.6 .01 pon .37 a .52 painter's .82 floor
+=2, 8 [F# A e B] [F# A e B]
+|
+=1 2. F#)2 4 rest
+=2, 8 [F#-s3,-gs5 B-s4, d#-s2, <B-s0,-s0, e>] [F# B d# <B e>]
+| 1.1
+=1 4 rest 8 [E E]
+r0.6 .50 and the
+=2, 8 [F# B d# <B e>]
+/
+4 bars | 4# 4 4 4 4 4 4 4 3| 4 4 4 4 4 4 4 3| 4 4 4 4 4 4 4 3| 4 4 4 4 4 4 4 3|
+| 2.2
+=1 4 E E E G#
+r0.7 .11 young  girls  move .75 like
+=2, 8 [<B-s0,-s3, e-gs5-gs1> <e-s2,-s4, b> <B e> <e b>] \
+ [<B e> <e b> <A-s0,-s1, e> <e b>]
+|
+=1 2 B' 8 rest 4 e 8 e
+r0.7 .01 songs .63 with their
+=2 8 [<B-s0,-s3, e> <e-s2,-s4, b> <B e> <e b>] [<B e> <e b> <B e> <e b>]
+|
+=1 4. e 4 e 4. c#
+r0.7 .01 long .39 dresses
+=2, 8 [<A-s1,-s0, e> <e b> <A e> <e b>] [<A e> <e b> <A e> <e b>]
+|
+=1 2. B' 4 G#
+r0.7 .01 on , .73 each
+=2, 8 [<B e> <e b> <B e> <e b>] [<B e> <e b> <E e> <e b>]
+/
+4 bars | 4# 5.5 5 4 4.4 4 5 4 3|4 4.5 4 4 4 4 4 3 \
+ |4 5 4 4 4 4 4 3|4 5 4 4 4 4 4 4|
+|
+=1 8 F# 4 F# F# 8 rest 4 G#
+r0.6 .13 telling .52 me .76 that
+=2, 8 [F# B d# <B e>] [F# B d# <B e>]
+|
+=1 8 A 4 A 4. G# 4 F#
+r0.6 .02 Emi  - .38 ly .75 has
+=2, 8 [B_ <F# B> d# <B e>] [B_ F#] 4 <B d#x e>
+|
+=1  2 E rest
+r0.6 .01 gone .
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
+|
+=1  2.. rest 8 F#
+r0.6 .83 Well
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
+/
+4 bars | 4# 4 5 4 4 4 5 4 4|4 5 4 4 4 4 4 4 \
+ |4 5 4 4 4 4 4 4|4 5 4 4 4 4 4 3|
+|
+=1  4. G# 8 G 4 G 8 [F# G(2]
+r0.7 .13 I .45 am sixty  - .85 four
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+|
+=1  2 G#)2 4. rest 8 E
+r0.7 .84 I've
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
+|
+=1  4 G# G G 8 [F# G(2]
+r0.7 .01 not .28 painted .75 before
+=2' 8 [E_ E G# B] [E_ E e B]
+|
+=1  4 G#)2 rest 4 rest E
+r0.7 .77 I
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+
+/
+4 bars | 4# 4 5 4 4 5 5 4 4 | 4 5 4 4 5 5 4 4 \
+ | 4 5 4 4 4 4 4 4 | 4 5 4 4 4 4 4 4 |
+|
+=1  8 E 4 E 8 F# E 4 C# 8 C
+r0.7 .10 missed my  vocation .89 be -
+=2' 8 [A_ A-s3, c#-s2, <e-s1, ex>] [A_ A] 4 <A c# e ex>
+|
+=1  8 [E E E F] E 4 C# 8 F#
+r0.7 .01 cause of my relations, .84 and
+=2' 8 [A_ A dn-s4, e] [A_ A] 4 <A c# e ex>
+
+|
+=1  4 G# 2 G 8 rest F#
+r0.7 .01 then .25 came .85 the
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+|
+=1  2 G# 4 rest 8 [E E]
+r0.7 .01 war , .73 and you
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+
+/
+4 bars | 4# 4 5 4 4 4 5 4 4 | 4 5 4 5 4 5 4 4 \
+ | 4 5 4 4 4 4 5 4 | 4 5 4 4 4 4 4 3 |
+|
+=1  4 E F# 4. E 8 C#
+r0.6 .14 don't .34 get .52 time .87 to
+=2' 8 [A_ A-s3, c#-s2, <e-s1, ex>] [A_ A] 4 <A c# e ex>
+|
+=1  8 E 4 E 8 E 4 F# 8 [E F]
+r0.6 .01 follow   your line .75 sticking
+=2' 8 [A_ A dn-s4, e] [A_ A] 4 <A c# e ex>
+|
+=1  8 G# G 4 G  G 8 [F# G#(2]
+r0.6 .01 bayonets .50 in .75 the Boers
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+|
+=1  2 G#)2 4 rest E
+r0.6 .75 and
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+
+6 systems 10 / 19 45 19/ 19 35 19/ 19 30 19 \
+  / 19 30 19/ 19 45 19/ 19 35 19/
+pagenum
+innerhead Emily has gone, Tony Maude
+
+/
+4 bars |4# 4 5 4 5.5 4 5 4 4|4 5 4 5 4 5 5 4|4 5 4 4 4 4 4 3|4 5 4 4 4 4 4 3|
+|
+=1  8 E 4 E 8 E F# 4 E 8 C#
+r0.6 .09 then came the germans, and
+=2' 8 [A_ A-s3, c#-s2, <e-s1, ex>] [A_ A] 4 <A c# e ex>
+|
+=1  4 E 8 [E E] [F# E E F#]
+r0.6 .01 then .25 the  Italians .75 and the
+=2' 8 [A_ A dn-s4, e] [A_ A] 4 <A c# e ex>
+|
+=1  8 G# 4 G G  8 rest 4 F#
+r0.6 .01 Japa .25 - .37 nese .75 and
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+|
+=1  2 G# 4 rest E
+r0.6 .01 more .75 but
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+/
+4 bars | 4# 32 | 4 5.5 4 4.5 4 4 3 3 | 4 4.5 4 4 4 4 4 3 | 4 4.5 4 4 |
+|
+=1 2. F# 4 rest
+r0.6 .12 now
+=2' 8 [B_ B d# <B e>] [B_ B d# <B e>]
+|
+=1 4. rest 8 E F# 4. E
+r0.6 .39 the .56 battle's
+=2 8 [B_ B'] 2. <B d#x e>
+|
+=1  4 F# 2 E 4 rest
+r0.6 .03 ov   - .27 er
+=2' 8 [E_ E G# B] [E_ E] 4 <E A Bx e>
+| 1.15
+=1  4 rest e
+r0.6 .50 and
+=2' 8 [E_ E G# B]
+/
+4 bars | 4# 5 4 4 4 5 4 4 3|32|5 4 4 5.5 5 4 4 3|5.5 4 4 4 4 4 4 4 3|
+| 2.2
+=1 8 e 4 e 4. d# 4 c#
+r0.6 .15 Emi  - .46 ly .75 stands
+=2, 8 [A-s3, c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
 
 |
 =1 4 B' G# rest 8 rest E
-=2' 8 [B-s3,-P e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+r0.6 .01 na - ked .87 be -
+=2, 8 [B-s3, e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
 |
 =1 4. F# 8 E 8 F# 4. E
-=2' 8 [B-s3,-P d#-s2, B-s0, e-s0,] [B-s3, d#-s2, B-s0, e-s0,]
+r0.6 hind .37 a .50 painter's
+=2, 8 [B-s3, d#-s2, B-s0, e-s0,] [B-s3, d#-s2, B-s0, e-s0,]
 |
-=1 8 F# 4. G# 4 rest e
-=2' 8 [B-s3,-P e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
-|
-=1 4 e e 4 d# c#
-=2' 8 [A-s3,-P c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
+=1 8 F#{2 4. G#}2 4 rest e
+r0.6 .01 door .75 and
+=2, 8 [B-s3, e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
 /
-4 bars | 4# 48 | 48 | 48 | 24 |
+4 bars | 4# 4.5 4 4 4 4.5 4 4 3|4 4 4 4 4 4 4.5 3 \
+ |4 4 4 5.5 4 4 4 4| 4 4.5 4 4.5 4 4.5 4 3|
+|
+=1 4 e e d# c#
+r0.6 .13 all .33 her .50 clothes .78 are
+=2, 8 [A-s3, c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
 |
 =1 4 B' G# rest 8 rest G#
-=2' 8 [B-s3,-P e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+r0.6 .04 lying .87 up -
+=2, 8 [B-s3, e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
 |
 =1 4. A 8 G# 4 F# 8 [E F(2]
-=2' 8 [F#-P A e B] [F# A B e]
+r0.6 .01 on .37 a .50 painter's .87 floor
+=2, 8 [F# A e B] [F# A B e]
 |
 =1 2. F#)2 4 rest
-=2, 8 [F#-P B d# <B e>] [F# B d# <B e>]
+=2, 8 [F#-s3,-gs5 B-s4, d#-s2, <B-s0,-s0, e>] [F# B d# <B e>]
+
+/
+4 bars | 4# 16 | 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 3 |
 | 1.1
 =1 4 rest 8 [E E]
+r0.75 .50  and the
 =2, 8 [F# B <d# B> e]
-/
-4 bars | 4# 48 | 48 | 48 | 48 |
-| 2.2
+| 2.2 
 =1 4 E E E G#
-=2, 8 [<B e> <e b> <B e> <e b>] [<B e> <e b> <A e> <e b>]
+r0.75 .01 young .25 girls .50 move .75 like
+=2, 8 [<B-s0,-s3, e-gs5-gs1> <e-s2,-s4, b> <B e> <e b>] \
+ [<B e> <e b> <A-s0,-s1, e> <e b>]
 |
+=1 2 B' 8 rest 4 e 8 e
+r0.75 .01 songs .63 with   their
+=2 8 [<B-s0,-s3, e> <e-s2,-s4, b> <B e> <e b>] [<B e> <e b> <B e> <e b>]
+|
+=1 4. e 4 e 4. c#
+r0.75 .01 long .39 dres - ses
+=2, 8 [<A-s3,-s1, e> <e b> <A e> <e b>] [<A e> <e b> <A e> <e b>]
+/
+4 bars | 4# 4 4 4 4 4 4 4 4|5.5 4.5 4 4.5 4 4.5 4 3 \
+ | 4.5 4.5 4 4 4.5 4.5 4 3 | 4 5 4 4 4 4 4 3 |
+| 
+=1 2. B' 4 G#
+r0.7 .13 on, .75 each
+=2, 8 [<B-s0,-s3, e> <e b> <B e> <e b>] [<B e> <e b> <E-s0,-s1, e> <e b>]
+|
+=1 8 F# 4 F# F# 8 rest 4 G#
+r0.7 .01 telling .39 me .75 that
+=2, 8 [F#-s3,-gs5 B-s4, d#-s2, <B-s0,-s0, e>] [F# B d# <B e>]
+|
+=1 8 A 4 A 4. G# 4 F#
+r0.7 .03 Emi .25 - .37 ly .75 has 
+=2, 8 [B_ <F# B> d# <B e>] [B_ F#] 4 <B d#x e>
+|
+=1  2 E rest
+r0.7 .01 gone
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+
+@
+
+
+1.2
+log
+@fingered and spaced
+@
+text
+@d17 1
+a17 1
+r0.7 .25 Emily .75 has gone
+d26 1
+a26 1
+r0.7 .28 that's a cue .75 for  a
+d44 1
+a44 1
+r0.7 .29 with .54 no .75 clothes
+d48 1
+a48 1
+r0.7 .02 on .80 and
+d85 1
+a85 1
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+d98 1
+a98 1
+r0.7 .14 naked .87 be -
+d113 2
+a114 2
+6 systems 10 / 19 30 19/ 19 45 19/ 19 30 19 \
+  / 19 35 19/ 19 45 19/ 19 45 19/
+d123 1
+a123 1
+=2, 8 [B-s3, e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+d127 1
+a127 1
+=2, 8 [F# A e B] [F# A B e]
+d134 1
+a134 1
+=2, 8 [F# B <d# B> e]
+d143 1
+a143 1
 =1 2 B 8 rest 4 e 8 e
+d149 1
+a149 1
+=2, 8 [<A-s3,-s1, e> <e b> <A e> <e b>] [<A e> <e b> <A e> <e b>]
+d159 1
+a159 1
+r0.6 .13 telling me .75 that
+d163 1
+a163 1
+r0.6 .01 Emi - ly .75 has
+d183 1
+a183 1
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+d190 1
+a190 1
+r0.7 .75 I
+d247 1
+a247 1
+r0.6 .01 then .25 the Italians and the
+d251 1
+a251 1
+r0.6 .01 Japa - nese .75 and
+d265 1
+a265 1
+r0.6 .37 the .50 battle's
+d269 2
+a270 2
+r0.6 .03 ov   - .25 er
+=2' 8 [E_ E G# B] [E_ E] 4 <A Bx e>
+d279 1
+a279 1
+r0.6 .13 Emi - ly .75 stands
+d317 1
+a317 1
+r0.7 .50  and the
+d321 1
+a321 1
+r0.7 .01 young .25 girls .50 move .75 like
+d326 1
+a326 1
+r0.7 .01 songs .63 with   their
+d330 1
+a330 1
+r0.7 .01 long .37 dres - ses
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+6 systems 10 / 19 30 19/ 19 35 19/ 19 30 19/
+d8 1
+a8 1
+4 bars | 4# 48 | 48 |
+d11 1
+a11 1
+=2' treble8vab 4# cha1 vol90 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d14 1
+a14 1
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d17 2
+a18 1
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d21 3
+a23 2
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+
+d26 2
+a27 1
+=2' 8 [E_-P E G# B] [E_-P E e B]
+d30 2
+a31 1
+=2' 8 [<E_-P A_> E <A Bx e> G#-,-,-,-P] [<E_ B_> E] 4 <G# B e>
+d34 2
+a35 1
+=2' 8 [A_-P A-s3, c#-s2, e-s"1 0",] [A_-P A] 4 <A c# e>
+d38 4
+a41 2
+=2' 8 [A_-P A dn-s4, e] [A_-P A] 4 <A c# e>
+
+d44 2
+a45 1
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d48 2
+a49 1
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d52 2
+a53 1
+=2' 8 [A_-P A-s3, c#-s2, e-s"1 0",] [A_-P A] 4 <A c# e>
+d56 2
+a57 2
+=2' 8 [A_-P A dn-s4, e] [A_-P A] 4 <A c# e>
+
+d59 1
+a59 1
+4 bars | 4# 48 | 48 | 24 | 48 |
+d62 2
+a63 1
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d66 2
+a67 1
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d70 1
+d74 2
+a75 2
+=2' 8 [B_-P B d# <B e>] [B_ B d# <B e>]
+
+d77 1
+a77 1
+4 bars | 4# 48 | 48 | 48 | 48 |
+d80 1
+d84 2
+a85 1
+=2' 8 [E_-P E G# B] [E_-P E] 4 <A Bx e>
+d88 2
+a89 1
+=2' 8 [E_-P E G# B] [E_-P E B e]
+d92 4
+a95 2
+=2' 8 [A-s3,-P c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
+
+d98 2
+a99 1
+=2' 8 [B-s3,-P e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+d102 2
+a103 1
+=2' 8 [B-s3,-P d#-s2, B-s0, e-s0,] [B-s3, d#-s2, B-s0, e-s0,]
+d106 2
+a107 1
+=2' 8 [B-s3,-P e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+d110 8
+a117 1
+=2' 8 [A-s3,-P c#-s2, e-s1, e-s0,] 8 [A-s3, c#-s2, e-s1, e-s0,]
+d119 1
+a119 1
+4 bars | 4# 48 | 48 | 48 | 24 |
+d122 2
+a123 1
+=2' 8 [B-s3,-P e-s4, B-s0, e-s0,] [B-s3, e-s4, B-s0, e-s0,]
+d126 2
+a127 1
+=2' 8 [F#-P A e B] [F# A B e]
+d130 1
+a130 1
+=2, 8 [F#-P B d# <B e>] [F# B d# <B e>]
+d133 1
+d136 1
+a136 1
+4 bars | 4# 48 | 48 | 48 | 48 |
+d139 3
+a141 1
+=2, 8 [<B e> <e b> <B e> <e b>] [<B e> <e b> <A e> <e b>]
+d144 208
+a351 1
 =2 8 [<B e> <e b> <B e> <e b>] [<B e> <e b> <B e> <e b>]
 @

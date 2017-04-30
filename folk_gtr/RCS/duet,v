@@ -1,0 +1,70 @@
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2017.01.06.09.18.49;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@as put together last night unable to sleep
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@5 systems 23 / 19 25 19 / 19 25 19 / 19 25 19 / 19 25 19 / 19 25 19 /
+title Duet ?
+midi channel 0 patch 25 reverb 80 pan 10
+midi channel 1 patch 25 reverb 80 pan 90
+$A= {
+/
+2 bars ||: 4/4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 2/4 4 4 4 4 4 4 4 3 |
+| 3.2
+=1, treble8vab  4/4 cha0 vol110 cc64=127 16 [Bb c~ Bb f] [g f g f] \
+ [g c~ Bb c~] [g f g f] cc64=0
+=2, treble8vab  4/4 cha1 vol110 cc64=127 16 [F g F Bb] [F Bb c Bb] \
+ [c g F g] [c Bb c Bb] cc64=0
+| 1.6
+=1, 2/4 16 cc64=127 [Bb c~ e f#] [c~ Bb f# e] cc64=0
+=2, 2/4 16 cc64=127 [E f# Bb c] [f# E c Bb] cc64=0
+/
+2 bars | 4/4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 2/4 4 4 4 4 4 4 4 3 |
+| 3.2
+=1,  4/4 cc64=127 16 [Bb c~ Bb eb] [f eb f eb] [f c~ Bb c~] [f eb f eb] cc64=0
+=2,  4/4 cc64=127 16 [Eb f Eb Bb] [Eb Bb c Bb] [c f Eb f] [c Bb c Bb] cc64=0
+| 1.6
+=1, 2/4 16 cc64=127 [Bb c~ e f#] [c~ Bb f# e] cc64=0
+=2, 2/4 16 cc64=127 [E f# Bb c] [f# E c Bb] cc64=0
+/
+2 bars | 4/4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 2/4 4 4 4 4 4 4 4 3 |
+| 3.2
+=1, 4/4 cc64=127 16 [Bb c~ Bb f] [g f g f] \
+ [g c~ Bb c~] [g f g f] cc64=0
+=2, 4/4 cc64=127 16 [F g F Bb] [F Bb c Bb] \
+ [c g F g] [c Bb c Bb] cc64=0
+| 1.6
+=1, 2/4 16 cc64=127 [Bn c~# f g] [c~# B g f] cc64=0
+=2, 2/4 16 cc64=127 [F g Bn c#] [g F c# B] cc64=0
+/
+2 bars | 4/4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 2/4 4 4 4 4 4 4 4 3 :||
+| 3.2
+=1, 4/4 cc64=127 16 [c d~ c f] [g f g f] \
+ [g d~ c d~] [g f g f] cc64=0
+=2, 4/4 cc64=127 16 [F g F c] [F c d c] \
+ [c g F g] [d c d c] cc64=0
+| 1.6
+=1, 2/4 16 cc64=127 [Bn c~# f g] [c~# B g f] cc64=0
+=2, 2/4 16 cc64=127 [F g Bn c#] [g F c# B] cc64=0
+}
+$A $A
+@

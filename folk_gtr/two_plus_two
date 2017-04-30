@@ -1,0 +1,104 @@
+10 systems 20 / 19/19 23 / 19/19 23 / 19 23 /19/19/19 23 / 19 23 / 19 /
+title Two plus Two
+midi channel 0 patch 25 reverb 80
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 |
+| 3.6
+midi pause 1.0
+=1, treble8vab cha0 vol110 cc64=127 \
+ 16 [A-s3, c#-s2, d#-s1, b-s4,] [A-s2, dn-s3, e-s1,  b-s4,] \
+    [A-s2, eb-s4, f-s1,  b-s3,] [A-s1, en-s4, f#-s1, b-s1,]
+|
+=1, 16 [A-s1, f-s4, g-s2, b-s1,] [A-s1, e-s4, f#-s1, b-s1,] \
+       [A-s2, eb-s4, fn-s1,  b-s3,] [A-s2, d-s3, en-s1, b-s4,] cc64=0
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 ||
+| 3.6
+=1, cc64=127 16 [A-s3, c#-s2, d#-s1, b-s4,] [Ab-s2, c#-s3, d#-s1, bb-s4,] \
+                [G-s2, c#-s4, d#-s1, a-s3,] [F#-s1, c#-s4, d#-s1, g#-s1,]
+|
+=1, 16 [F-s1, c#-s4, d#-s2, g-s1,] [F#-s1, c#-s4, d#-s1, g#-s1,] \
+        [G-s2, c#-s4, d#-s1, a-s3,] [G#-s2, c#-s3, d#-s1, a#-s4,] cc64=0
+
+midi off
+
+/
+2 bars | 16 | 16 ||
+| 2.7
+midi pause 1.0
+Il0.8 .03 A + B
+=1' cc64=127 16 [D-s0, A-s3, B-s0, e-s0,] \
+ [D#-s1, A-s3, B-s0, f-s2,] [E-s2, A-s3, B-s0, f#-s4,]
+|
+=1' 16 [F-s3, A-s2, B-s0, g-s4,] [E-s2, A-s3, B-s0, f#-s4,] \
+ [D#-s1, A-s3, B-s0, fn-s2,] cc64=0
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 ||
+| 3.375
+midi pause 0.5
+=1' cc64=127 16 [A_ D-s0, A-s3, B-s0, e-s0,] \
+ [A_ D#-s1, A-s3, B-s0, f-s2,] [A_ E-s2, A-s3, B-s0, f#-s4,]
+|
+=1' 16 [A_ F-s3, A-s2, B-s0, g-s4,] [A_ E-s2, A-s3, B-s0, f#-s4,] \
+ [A_ D#-s1, A-s3, B-s0, fn-s2,] cc64=0
+
+/
+2 bars | 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 3 ||
+| 3.6
+midi pause 1.0
+Il0.8   E_ + D
+=1' cc64=127 16 [E_ D G# f#] [E_ D A g] [E_ D A# g#] [E_ D B a]
+|
+=1' 16 [E_ D c bb] [E_ D B a] [E_ D Bb ab] [E_ D A g] cc64=0
+
+/
+2 bars | 16 | 16 ||
+| 2.7
+midi pause 1.0
+Il0.9 .01 g + A
+=1' cc64=127 16 [D-s0, A-s2, c-s1, g-s4,] \
+ [D#-s1, A-s2, c#-s3,  g-s4,] [E-s1, A-s1, d-s3,  g-s4,]
+|
+=1' 16 [F-s2, A-s1, eb-s4, g-s3,] \
+  [E-s1, A-s1, d-s3,  g-s4,] [D#-s1, A-s2, c#-s3,  g-s4,] cc64=0
+/
+2 bars | 16 | 16 ||
+| 3.375
+midi pause 0.5
+=1' cc64=127 16 [A_ D-s0, A-s2, c-s1, g-s4,] \
+ [A_ D#-s1, A-s2, c#-s3,  g-s4,] [A_ E-s1, A-s1, d-s3,  g-s4,]
+|
+=1' 16 [A_ F-s2, A-s1, eb-s4, g-s3,] \
+  [A_ E-s1, A-s1, d-s3,  g-s4,] [A_ D#-s1, A-s2, c#-s3,  g-s4,] cc64=0
+midi on
+/
+2 bars | 16 | 16 ||
+| 2.7
+midi pause 0.5
+=1' cc64=127 16 [A_ D G c-s3,] [A_ D#-s1, G c#-s3,] [A_ E-s1, G d-s3,]
+|
+=1' 16 [A_ F-s1, G eb-s3,] [A_ E-s1, G d-s3,] [A_ D#-s1, G c#-s3,] cc64=0
+midi off
+
+/
+2 bars | 16 | 16 ||
+| 2.7
+midi pause 1.0
+Il0.9 .01 D + c
+=1' cc64=127 16 [D G c-s2, f-s3,] [D G#-s1, c-s2, f#-s4,] \
+ [D A-s3, c-s2, g-s4,]
+|
+=1' 16 [D Bb-s3, c-s1, ab-s4,] [D A-s3, c-s2, g-s4,] \
+ [D G#-s1, c-s2, f#-s4,] cc64=0
+
+
+/
+2 bars | 4 4 4 5 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4 3 ||
+| 3.6
+midi pause 1.0
+Il0.8 .01 G + f
+=1' cc64=127 16 [A_ G B f-s4,] [A_#-s2, G c-s3, f-s4,] \
+ [B_-s2, G c#-s3, f-s1,] [C-s3, G d-s4, f-s1,]
+|
+=1' 16 [Db-s3, G eb-s4, f-s1,] [C-s3, G d-s4, f-s1,] \
+ [B_-s2, G db-s3, f-s1,] [B_b-s2, G c-s3, f-s4,] cc64=0

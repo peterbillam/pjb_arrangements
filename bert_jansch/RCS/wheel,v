@@ -1,0 +1,860 @@
+head	1.7;
+access;
+symbols;
+locks
+	pjb:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2017.04.12.10.11.48;	author pjb;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2017.04.11.03.47.44;	author pjb;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2017.04.10.08.49.08;	author pjb;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2017.04.09.03.49.46;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2017.04.08.01.19.24;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2017.04.06.07.32.12;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2017.04.06.04.43.52;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@The Wheel, from the 2nd album
+@
+
+
+1.7
+log
+@add some fingering
+@
+text
+@9 systems 15 /20/20/20/20/20/20/20 4/20 4/ 20 10/
+title The Wheel
+pagenum
+innerhead Bert Jansch, 2nd album
+midi channel 0 patch 25 transpose +3
+/
+4 bars | 48 | 48 | 48 | 48 |
+| 1.5
+r1.1   mm 160    capo on 3rd
+=1' treble8vab cha0 leg99 vol100 
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. blank cc64=0
+#=1' vol80  8. blank 8 blank 16-s E 8 blank 16-s D 8 blank 16-s D
+=1' vol80  8. blank 8 blank 16-s E 8-s [D 16-s D(6] 8-s [D)6 16-s D]
+#=1, vol100 4. A_ 8. [G_ E_]
+=1, vol100 4. A_(2 8. [A_)2 E_]
+|
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. blank cc64=0
+=1' vol80  8. blank 8 blank 16-s E 8-s [D 16-s D(6] 8-s [D)6 16-s D]
+=1, vol100 4. A_(2 8. [A_)2 E_]
+|
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. blank cc64=0
+=1' vol80  8. blank 8 blank 16-s E 8-s [D 16-s D(6] 8-s [D)6 16-s D]
+=1, vol100 4. A_(2 8. [A_)2 E_]
+|
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. blank cc64=0
+=1' vol80  8. blank 8 blank 16-s E 8-s [D 16-s D(6] 8-s [D)6 16-s D]
+=1, vol100 4. A_(2 8. [A_)2 E_]
+/
+4 bars | 3 3 3 3 3 4 3 3 3 3 3 3 | 3 3 3 3 3 4 3 3 3 3 3 3 \
+ | 3 3 3 3 3 4 3 3 3 3 3 3 | 3 3 3 3 3 4 3 3 3 3 3 3 |
+|
+il0.6    5
+=1' vol100 8 rest' 16 [<D(4-,-s0, B-s0> 8. <D)4 B-s4>] cc64=127 \
+ 4. <C A-s3-s1> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2-s2, 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4-,-s0, B-s0> 8. <D)4 B-s4>] \
+ cc64=127 4. <C A-s3-s1> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2-s2, 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+/
+4 bars | 3 3 3 3 3 4 3 3 3 3 3 3 | 3 3 3 3 3 4 3 3 3 3 3 3 \
+ | 3 3 3 3 3 4 3 3 3 3 3 3 || 9/16 3 3 3 3 3 4.8 3 3 3 |
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+il0.6 .43 10
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] \
+ cc64=127 8 <C A> cc64=0 4 G(1-emph
+=1' vol80  8. blank 8 blank 16-s D 8. blank 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+=1' vol100 8 G)1 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+| 1.125
+=1' 9/16 vol80 16 cc64=127 [G_-s1, G-s0 G-s4] [D G-s0 G-s4] \
+ [Bb-s2 rest G-s4] cc64=0
+=1, 9/16 8. blank [D-s3, C#-s3,]
+I0.5 p
+/
+4 bars | 3 3 3 3 3 4 3 3 3 | 3 3 3 3 3 4 3 3 3 \
+ | 3 3 3 3 3 4 3 3 3 | 3 3 3 3 3 4 3 3 3 |
+|
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb-s2 rest G-s4] cc64=0
+=1, 8. blank [D-s3, C#-s3,]
+|
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb-s2 rest G-s4] cc64=0
+=1, 8. blank [D C#]
+=1, 8. blank [D-s3, C#-s3,]
+|
+il0.6 .01 15
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+|
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+/
+4 bars | 36 | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 \
+ | 9/16 4 4 4 4 4 6 4 4 4 | 36 |
+|
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] rest' vol90 [B-s0 B-s3] cc64=0
+=1, 8. blank [D-s3, C#-s2,]
+| 1.5
+=1' 12/16 vol100 16 rest' [e-s0 e-s4] rest' [e e] \
+ rest' [B-s0 cc64=0 B-s4] rest' [G-s0 F#-s2]
+=1, 12/16 cc64=127 8. [Cn D] [C#-s3, D-s3,] cc64=0
+| 1.125
+=1' 9/16 vol85 16 cc64=127 [G_-s1, G-s0 G-s4] \
+ [D G-s0 G-s4] [Bb-s2 rest G-s4] cc64=0
+=1, 9/16 8. blank [D-s3, C#-s3,]
+|
+il0.7 .03 20
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] rest' vol90 [e-s0 e-s4] cc64=0
+=1, 8. blank [D-s3, C#-s2,]
+/
+4 bars | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 9/16 4 4 4 4 4 6 4 4 4 \
+ | 36 | 4 4 4 3.5 4 4 3.5 6 4 |
+| 1.5
+=1' 12/16 vol100 16 rest' [e e] rest' [B-s0 B-s4] \
+ rest' [B cc64=0 B] rest' [G-s0 F#-s2]
+=1, 12/16 cc64=127 8. [Cn-s1, D] [C#-s3, D-s3,] cc64=0
+| 1.125
+=1' 9/16 vol85 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+|
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] rest' vol90 [e-s0 e-s4] cc64=0
+=1, 8. blank [D Cn]
+|
+=1' vol100 16 rest' [e e] rest' [B cc64=0 B] rest' [G F#]
+=1, cc64=127 8. [D C#] E_ cc64=0
+/
+4 bars | 4 4 4 4 4 6.0 4 4 4 || 12/16 3 3 4 4 3 4 4 3 4 3 3 4 \
+ | 3 3 4 4 3 4 4 3 4 3 3 4 | 3 3 4 4 3 4 4 3 4 3 3 4 |
+|
+il0.6 .01 25
+=1' vol85 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+| 1.5
+=1' 12/16 vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] \
+ cc64=127 4. <C A-s3-s1> cc64=0
+=1' 12/16 vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, 12/16 vol100 4. G_(2-s2, 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+/
+4 bars | 3 3 4 4 3 4 4 3 4 3 3 4 | 3 3 4 4 3 4 4 3 4 3 3 4 \
+ | 9/16 4 4 4 4 4 6 4 4 4 | 4 4 4 4 4 6 4 4 4 |
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+il0.5 .43 30
+#i0.4 .75 52sec
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+| 1.125
+=1' 9/16 vol80 8 cc64=127 [G_ 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
+=1, 9/16 8. blank [D-s3, C#-s2,]
+|
+=1' vol80 8 cc64=127 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+/
+4 bars | 4 4 4 4 4 6 4 4 4 | 12/16 48 | 48 | 48 |
+|
+=1' vol80 8 cc64=127 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+| 1.5
+=1' 12/16 8 [G_ 16 G] 8 [D 16 B] rest [c-im c-ii] rest [c-im c-ii]
+=1, 12/16 cc64=127 8. blank [D cc64=0 cc64=127 Cn] A_
+|
+il0.7 .01 35
+#i0.9 .90 60sec
+=1' 16 [G_ G G] [D B B] rest [c c] rest [c c]
+=1, 8. cc64=127 blank [D cc64=0 cc64=127 Cn] A_
+|
+=1' 16 [G_ G-s0 G-s4] [D G G] rest [e-s0 e-s4] rest [e e]
+=1, 8. [G_ D-s3,] cc64=0 [C#-s2, Cn-s1,]
+# should consistentise barlengths with 17-18 ? or, better, the other way round
+
+10 systems / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 10 /
+pagenum
+innerhead The Wheel Bert,  Jansch, 2nd album
+
+/
+4 bars | 9/16 4 4 4 4 4 4 4 6 4 | 4 4 4 4 4 6 4 4 4 \
+ | 4 4 4 4 4 6 4 4 4 | 12/16 48 |
+| 1.125
+=1' 9/16 16 rest [B-s0 B-s3] rest [G-s0 G-s4] rest [G-s0 F#-s2]
+=1, 9/16 8. [D C#-s2, D-s3,]
+|
+=1'  vol85 16 cc64=127 [G_-s1, G-s0 G-s4] [D G-s0 G-s4] [Bb-s2 rest G-s4] cc64=0
+=1, 8. blank [D-s3, C#-s3,]
+|
+=1'  vol85 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+| 1.5
+il0.5 .01 40
+=1' 12/16 8 [G_ 16 G] 8 [D 16 B] rest [c c] rest [c c]
+=1, 12/16 cc64=127 8. blank [D cc64=0 cc64=127 Cn] A_
+/
+4 bars | 4 3 4 4 3 4 4 4 4 4 4 4 | 4 3 4 4 3 4 4 4 4 4 4 4 \
+ | 9/16 4 4 4 4 4 6.5 4 4 4 || 12/16 4 3 4 4 3 4 4 3 4 3 3 4 |
+|
+=1' 8 [G_ 16 G] 8 [D 16 B] rest [c c] rest [c c]
+=1, cc64=127 8. blank [D cc64=0 cc64=127 Cn] A_
+|
+=1' 8 [G_ 16 G] 8 [D 16 B] rest [c c] rest [c c]
+=1, cc64=127 8. blank [D cc64=0 cc64=127 Cn] A_
+| 1.125
+=1' 9/16 vol85 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+| 1.5
+=1' 12/16 vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' 12/16 vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, 12/16 vol100 4. G_(2 8. [G_)2 E_]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+il0.5 .01 45
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] \
+ cc64=127 8 <C A> cc64=0 8. D-emph 16 blank
+=1' vol80  8. blank 8 blank 16-s D 8. blank 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+/
+4 bars | 48 | 48 | 9/16 4 4 4 4 4 6 4 4 4 | 4 4 4 4 4 6 4 4 4
+|
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] \
+ cc64=127 8 <C A> cc64=0 8. D-emph 16 blank
+=1' vol80  8. blank 8 blank 16-s D 8. blank 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+|
+il0.6 .01 50
+#i0.6 .90 88 sec
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. G_(2 8. [G_)2 E_]
+| 1.125
+=1' 9/16 vol85 16 cc64=127 8 [G_ 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
+=1, 9/16 8. blank [D-s3, C#-s2,]
+i0.8 .84 accel . . .
+| 1.12
+=1' vol82 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+/
+4 bars | 4 4 4 4 4 6 4 4 4 | 4 4 4 4 4 6 4 4 4 | 10 11 12 | 4 4 4 4 4 6 4 4 4 |
+| 1.08
+=1' vol79 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+i0.8 .10 dim . . .
+| 1.064
+=1' vol76 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+|
+il0.6 .06 55
+=1' 8. rest 8 [B-s3 16 B-s0] [G{'1 A}'1 B]
+=1, 8. [G_ D] rest,,
+| 1.0616
+=1' vol74 16 cc64=127 8 [G_ 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
+=1, 8. blank [D-s3, C#-s2,]
+/
+4 bars | 12/16 9 11 12 12 | 9/16 4 3 4 4 4 6 4 4 4 \
+ | 4 3 4 4 4 6 4 4 4 | 12/16 9 11 12 12 |
+| 1.408
+#i0.6 .90 97 sec
+=1' 12/16 8. rest 8 [B-s3 16 B-s0] [G{'1 A}'1 B] [D{'1 E}'1 G]
+=1, 12/16 8. [G_ D] rest,, blank
+| 1.056
+=1' 9/16 vol79 16 cc64=127 8 [G_ 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
+=1, 9/16 8. blank [D-s3, C#-s2,]
+|
+=1' vol76 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+| 1.408
+il0.6 .07 60
+=1' 12/16 8. rest 8 [B-s3 16 B-s0] [G{'1 A}'1 B] [D{'1 E}'1 G]
+=1, 12/16 8. [G_ D] rest,, blank
+/
+4 bars | 9/16 4 3 4 4 4 6 4 4 4 | 4 3 4 4 4 4 4 4 3 \
+ | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 48 |
+| 1.056
+=1' 9/16 vol79 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+|
+=1' vol79 16 cc64=127 8 [G_ 16 G] [D G G] rest [e e] cc64=0
+=1, 8. blank [D C#]
+| 1.408
+#i0.6 .90 108 sec
+=1' 12/16 16 rest [e e] rest [B B] rest [G G] rest [G F#]
+=1, 12/16 8. [Cn D] [C# D]
+|
+=1' 16 [G_ G G] rest [G G] rest [G G] [G A c]
+=1, 8. blank [D Cn] rest,,
+/
+4 bars | 4 4 4 4 4 4 5 4 4 4 5 4 | 9/16 4 3 4 4 3 5.5 4 4 4 \
+ | 4 3 4 4 3 5.5 4 4 4 | 36 |
+|
+il0.7 .03 65
+=1' 16 rest [A c] [d c A] rest [F# A] [c 8 B]
+=1, 8. D blank 4. C
+| 1.056
+=1' 9/16 vol79 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+|
+#i0.6 .90 116 sec
+=1' vol79 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+|
+=1' vol79 16 cc64=127 8 [G_ 16 G] [D G G] rest [G G] cc64=0
+=1, 8. blank [D C#]
+/
+4 bars | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 9/16 4 3 4 4 3 5.5 4 4 4 \
+ | 4 3 4 4 3 5.5 4 4 4 | 4 3 4 4 3 5.5 4 4 4 |
+| 1.408
+=1' 12/16 16 rest [e e] rest [B B] rest [G G] rest [G F#]
+=1, 12/16 8. [Cn D] [C# D]
+| 1.056
+=1' 9/16 vol79 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+|
+=1' vol79 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+i0.9 .85 dim e accel . . .
+| 1.048
+=1' vol75 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+/
+4 bars | 4 3 4 4 3 5.5 4 4 4 | 4 3 4 4 3 5.5 4 4 4 \
+ | 4 3 4 4 3 5.5 4 4 4 ||: 4 3 4 4 3 5.5 4 4 4 :||
+| 1.04
+=1' vol70 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+i0.9 .85 sempre . . .
+| 1.032
+=1' vol75 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+| 1.024
+=1' vol65 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+| 1.016
+=1' vol60 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+i0.9 .02 fade out . . .
+#M | 1.27
+#M =1' vol52 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+#M =1, 8. blank [D C#]
+#M | 1.26
+#M =1' vol44 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+#M =1, 8. blank [D C#]
+#M | 1.25
+#M =1' vol36 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+#M =1, 8. blank [D C#]
+#M | 1.24
+#M =1' vol28 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
+#M =1, 8. blank [D C#]
+
+
+
+
+
+@
+
+
+1.6
+log
+@typed in up to end
+@
+text
+@d1 1
+a1 1
+9 systems 10 /20/20/20/20/20/20/20/20/ 20 10/
+d8 2
+a9 2
+| 1.875
+r1.1   mm 128    capo on 3rd
+d33 2
+a34 1
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+d36 1
+a36 1
+=1, vol100 4. G_(2 8. [G_)2 E_]
+d38 2
+a39 1
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+d41 1
+a41 1
+=1, vol100 4. G_(2 8. [G_)2 E_]
+d52 1
+a52 1
+ | 3 3 3 3 3 4 3 3 3 3 3 3 || 9/16 3 3 3 3 3 4.5 3 3 3 |
+d58 1
+a58 1
+il0.6 .01 10
+d67 4
+a70 3
+| 1.40625
+=1' 9/16 vol80 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+d76 2
+a77 2
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+d79 1
+a79 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+d81 1
+d84 1
+a84 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+d87 1
+a87 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+d93 10
+a102 8
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] rest' vol90 [B-s3 B-s0] cc64=0
+=1, 8. blank [D C#]
+| 1.875
+=1' 12/16 vol100 16 rest' [e e] rest' [e e] rest' [B cc64=0 B] rest' [G F#]
+=1, 12/16 cc64=127 8. [Cn D] [C# D] cc64=0
+| 1.40625
+=1' 9/16 vol85 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+d105 2
+a106 2
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] rest' vol90 [e-s0 e-s4] cc64=0
+=1, 8. blank [D C#]
+d110 6
+a115 5
+| 1.875
+=1' 12/16 vol100 16 rest' [e e] rest' [B B] rest' [B cc64=0 B] rest' [G F#]
+=1, 12/16 cc64=127 8. [Cn D] [C# D] cc64=0
+| 1.40625
+=1' 9/16 vol85 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+d118 1
+a118 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] rest' vol90 [e-s0 e-s4] cc64=0
+d128 1
+a128 1
+=1' vol85 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+d130 3
+a132 2
+| 1.875
+=1' 12/16 vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+d134 1
+a134 1
+=1, 12/16 vol100 4. G_(2 8. [G_)2 E_]
+d151 2
+a152 2
+il0.5 30
+i0.4 .75 52sec
+d156 3
+a158 3
+| 1.40625
+=1' 9/16 vol80 8 cc64=127 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+d167 2
+a168 2
+| 1.875
+=1' 12/16 8 [G_ 16 G] 8 [D 16 B] rest [c c] rest [c c]
+d172 1
+a172 1
+i0.9 .90 60sec
+d176 2
+a177 2
+=1' 16 [G_ G G] [D G G] rest [e e] rest [e e]
+=1, 8. [G_ D] cc64=0 [C# Cn]
+d181 2
+d187 3
+a189 3
+| 1.40625
+=1' 9/16 16 rest [B B] rest [G G] rest [G F#]
+=1, 9/16 8. [D C# D]
+d191 2
+a192 2
+=1'  vol85 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+d194 1
+a194 1
+=1'  vol85 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+d196 1
+a196 1
+| 1.875
+d209 2
+a210 2
+| 1.40625
+=1' 9/16 vol85 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb rest G] cc64=0
+d212 1
+a212 1
+| 1.875
+d245 1
+a245 1
+i0.6 .90 88 sec
+d249 3
+a251 3
+| 1.40625
+=1' 9/16 vol85 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+d253 1
+a253 1
+| 1.4
+d258 1
+a258 1
+| 1.35
+d262 1
+a262 1
+| 1.33
+d267 1
+a267 1
+=1' 8. rest 8 [B 16 B] [G{'1 A}'1 B]
+d269 3
+a271 3
+| 1.327
+=1' vol74 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 8. blank [D C#]
+d275 3
+a277 3
+| 1.76
+i0.6 .90 97 sec
+=1' 12/16 8. rest 8 [B 16 B] [G{'1 A}'1 B] [D{'1 E}'1 G]
+d279 3
+a281 3
+| 1.32
+=1' 9/16 vol79 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D C#]
+d285 1
+a285 1
+| 1.76
+d287 1
+a287 1
+=1' 12/16 8. rest 8 [B 16 B] [G{'1 A}'1 B] [D{'1 E}'1 G]
+d292 1
+a292 1
+| 1.32
+d298 2
+a299 2
+| 1.76
+i0.6 .90 108 sec
+d312 1
+a312 1
+| 1.32
+d316 1
+a316 1
+i0.6 .90 116 sec
+d325 1
+a325 1
+| 1.76
+d328 1
+a328 1
+| 1.32
+d335 1
+a335 1
+| 1.31
+d341 1
+a341 1
+| 1.30
+d345 1
+a345 1
+| 1.29
+d348 1
+a348 1
+| 1.28
+d351 1
+a351 1
+| 1.27
+@
+
+
+1.5
+log
+@up to bar 67
+@
+text
+@d1 1
+a1 1
+10 systems 10 /20/20/20/20/20/20/20/20/20 / 20 10/
+d5 1
+a5 1
+midi channel 0 patch 25 transpose -1
+d172 2
+a189 3
+
+10 systems / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 / 20 /
+
+d306 1
+d309 52
+@
+
+
+1.4
+log
+@approx up to bar 57
+@
+text
+@d1 1
+a1 1
+10 systems 20 /20/20/20/20/20/20/20/20/20 / 20 10/
+a171 2
+9 systems / 20 /
+
+d189 2
+d257 1
+a257 1
+il0.7 .01 55
+d264 42
+a305 1
+4 bars | 48 | 48 | 48 | 48 |
+d307 3
+a309 3
+i0.6 .90 97 sec
+=1' 8. rest 8 [B 16 B] [G{'1 A}'1 B]
+=1, 8. [G_ D] rest,,
+@
+
+
+1.3
+log
+@up to bar 30
+@
+text
+@d1 1
+a1 1
+9 systems 20 /20/20/20/20/20/20/20/20/20 10/
+d32 1
+a32 1
+il0.7 .03 5
+d56 1
+a56 1
+il0.7 .03 10
+d67 1
+a67 1
+=1, 9/16 4. blank 8. C#
+d74 1
+a74 1
+=1, 4. blank 8. C#
+d77 1
+a77 1
+=1, 4. blank 8. C#
+d79 1
+a79 1
+il0.7 .03 15
+d81 1
+a81 1
+=1, 4. blank 8. C#
+d84 1
+a84 1
+=1, 4. blank 8. C#
+d86 2
+a87 2
+4 bars | 36 | 12/16 3 3 3 3 3 3 3 3 3 3 5 3 \
+ | 9/16 3 3 3 3 3 5 3 3 3 | 36 |
+d90 1
+a90 1
+=1, 4. blank 8. C#
+d93 1
+a93 1
+=1, 12/16 cc64=127 8. Cn D C# D cc64=0
+d96 1
+a96 1
+=1, 9/16 4. blank 8. C#
+d100 1
+a100 1
+=1, 4. blank 8. C#
+d102 2
+a103 1
+3 bars | 12/16 4 4 4 4 4 4 4 4 4 4 5 4 | 9/16 4 4 4 4 4 5 4 4 4 | 36 |
+d105 2
+a106 2
+=1' 12/16 vol100 16 rest' [e e] rest' [e e] rest' [B cc64=0 B] rest' [G F#]
+=1, 12/16 cc64=127 8. Cn D C# D cc64=0
+d109 1
+a109 1
+=1, 9/16 4. blank 8. C#
+d112 62
+a173 1
+=1, 4. blank 8. C#
+d175 11
+a185 2
+4 bars |12/16 4 4 4 4 4 4 3.5 4 4 3.5 6.0 4 |9/16 4 4 4 4 4 6.0 4 4 4 \
+ || 12/16 3 3 4 4 3 4 4 3 4 3 3 4 | 3 3 4 4 3 4 4 3 4 3 3 4 |
+d187 13
+a199 2
+=1' 12/16 vol100 16 rest' [e e] rest' [e e] rest' [B cc64=0 B] rest' [G F#]
+=1, 12/16 cc64=127 8. Cn D C# E_ cc64=0
+a200 1
+il0.7 .03 25
+d202 1
+a202 1
+=1, 9/16 4. blank 8. C#
+d207 2
+d210 1
+a213 2
+/
+4 bars | 48 | 48 | 48 | 48 |
+d223 14
+a236 1
+il0.7 .01 30
+d240 29
+@
+
+
+1.2
+log
+@sketched up to 20 bars
+@
+text
+@d11 17
+a27 15
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s E 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. A_ 8. [G_ E_]
+|
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s E 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. A_ 8. [G_ E_]
+|
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s E 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. A_ 8. [G_ E_]
+|
+=1' vol100 8 rest' 16 <E(4 c#{'1> cc64=127 4. <E)4 B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s E 8 blank 16-s D 8 blank 16-s D
+=1, vol100 4. A_ 8. [G_ E_]
+d50 1
+a50 1
+ | 3 3 3 3 3 4 3 3 3 3 3 3 | 9/16 3 3 3 3 3 4.5 3 3 3 |
+d66 1
+a66 1
+=1' 9/16 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb G-s4 G-s0] cc64=0
+d68 1
+d73 1
+a73 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb G-s4 G-s0] cc64=0
+d76 1
+a76 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb G-s4 G-s0] cc64=0
+d80 1
+a80 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb G-s4 G-s0] cc64=0
+d83 1
+a83 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb G-s4 G-s0] cc64=0
+d89 1
+a89 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] rest' [B-s3 B-s0] cc64=0
+d92 2
+a93 2
+=1' 12/16 16 rest' [e e] rest' [e e] rest' [B cc64=0 B] rest' [G F#]
+=1, 12/16 cc64=127 8. Cn C D cc64=127 C# cc64=0
+d95 1
+a95 1
+=1' 9/16 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] [Bb G-s4 G-s0] cc64=0
+d99 1
+a99 1
+=1' 16 cc64=127 [G_ G-s4 G-s0] [D G-s0 G-s4] rest' [e-s0 e-s4] cc64=0
+d101 44
+a144 1
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d8 2
+a9 2
+| 1.94
+r1.1   mm 124    capo on 3rd
+d11 2
+a12 2
+=1' vol100 8 rest' 16 <A c#{'1> cc64=127 4. <G B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+d15 2
+a16 2
+=1' vol100 8 rest' 16 <A c#{'1> cc64=127 4. <G B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+d19 2
+a20 2
+=1' vol100 8 rest' 16 <A c#{'1> cc64=127 4. <G B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+d23 2
+a24 2
+=1' vol100 8 rest' 16 <A c#{'1> cc64=127 4. <G B}'1> 8. rest' cc64=0
+=1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
+d48 1
+a48 1
+ | 3 3 3 3 3 4 3 3 3 3 3 3 | 3 3 3 3 3 4 3 3 3 3 3 3 |
+d55 6
+a60 1
+=1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
+d63 35
+a97 1
+
+@

@@ -1,0 +1,125 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.06.05.11.35.10;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.06.01.11.12.42;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Roy Harper's Blackpool, form Sophisticated Begger
+@
+
+
+1.2
+log
+@OK up to bar 12
+@
+text
+@8 systems 25 / 20 5 / 20 /
+title Blackpool
+innerhead Roy Harper, 1966
+midi channel 1 patch 25 transpose +5
+/
+4 bars | 54 | 48 |
+| 3.5
+r1.5 standard tuning but capo on 5th fret
+=1' treble8vab cha1 leg100 8 vol110 <F# d#-emph> 4 <G(2 e(1> 2 <G)2 e)1>
+=1, 4. cc64=0 rest,, 2 E_
+| 1.5 1.1
+=1' 8 <F# d#-emph> 4 <G e> 8 vol70 [G-gs4 16 G-gs3 e-gs1 8 G-gs3]
+=1, 4 rest,, cc64=127 8 E_(4 4. E_)4(4
+| 2.2
+=1' 8 [e G-gs3 G-gs4] 8 [e 16 e-gs2 G-gs3 8 G]
+=1, 2. E_)4(4
+|
+=1' 8 vol70 [e 16 G-gs3 e-gs2 8 G-gs4] 8 [e 16 e-gs2 G-gs3 8 G]
+=1, 2. vol110 E_)4(4
+/
+4 bars | 48 |
+|
+il0.8 5
+=1' 8 vol70 [e G G] 8 [e 16 G e 8 G]
+=1, 2. vol110 E_)4
+|
+=1, 16 [F#{1 cc64=0 G}1 e-sm e-sa G-sp G-s0] 4 <A f#> 8 <A f>
+|
+Is0.2 .45 pp
+=1' 2. <B g#-gs4-gs2>
+=1' 4. blank 8-s vol60 [Gn-Isi 16-s B-Isp e-Isa 8-s G-Isi]
+=1, 4 cc64=127 rest,, 2 vol110 E_
+|
+=1' 4 vol100 <B g#> 8 rest' 4. <Gn e-s3-s4>
+=1, 8-s rest,, vol60 [Gn-sIsi, B-Isp,] rest,, 16-s [G-Isi, e-Isa, 8-s G-Isi,]
+/
+4 bars | 48 |
+|
+=1' 4 vol100 <e c~#>  8 rest' 4 <d b> 8 rest'
+=1, 4 cc64=0 rest,, 4. E_ 8 E_(2
+|
+il0.8 .20 10
+=1' 4 <cn a>  8 rest' 4. <A# g>
+=1, 4 E_)2 4. E_ 8 E_(2
+|
+=1' 8 <A# g{'1> 4 <B g#}'1> 8-s vol60 [B-Isi 16-s g#-Ism B-Isp 8-s B-Isi]
+=1, 4 vol100 E_)2 8 E_(2 4. E_)2(2
+|
+=1' 8-s vol60 [<B g#-Isp-Ism> 16-s B-Isi g#-Ism 8-s B-Isi] \
+    8-s vol60 [<B g#-Isp-Ism> 16-s B-Isi g#-Ism 8-s B-Isi]
+=1, 2. vol100 E_)2
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+9 systems 25 / 20 /
+d6 2
+a7 2
+4 bars | 48 |
+| 3.0
+d9 3
+a11 3
+=1' treble8vab cha1 leg100 8 vol110 <F# d#-emph> 4 <G(2 e(1> 4. <G)2 e)1>
+=1, 4. cc64=0 rest,, E_
+| 1.5 1.0
+d14 2
+a15 2
+| 2.0
+=1' 8 [e 16 G-gs3 e-gs2 8 G-gs4] 8 [e 16 e-gs2 G-gs3 8 G]
+d23 1
+d27 1
+a27 1
+=1' 4 e 8 cc64=0 <G e> 4 <A f#> 8 <A f>
+d29 4
+a32 2
+=1' 4. <B g#>  4. blank
+=1, 4 cc64=127 rest,, 2 E_(4
+d34 2
+a35 2
+=1' 4. <B g#>  4. <Gn e>
+=1, 2. vol110 E_)4
+d39 1
+a39 1
+=1' 4 <e c~#>  8 rest' 4 <d b> 8 rest'
+d42 1
+d46 6
+a51 2
+=1' 8 <A# g> 4 <B(4 g#(1> 4. <B)4 g#)1>
+=1, 4 E_)2 4. E_ 8 blank
+@

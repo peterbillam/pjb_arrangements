@@ -1,0 +1,23 @@
+6 systems 40 /20/
+title Hors d'Oeuvre
+midi channel 0 patch 25
+/
+2 bars | 48 | 48 |
+| 2.4
+i1.9 .01 6e en Re, plectrum
+=1' cha0 treble8vab vol70 \
+ 8 rest' 16 [<D G c g-down> <G c g-up> <G c g-down> <G c g-up>] \
+ 8 rest' 16 [<D G c g-down> <G c g-up> <G c g-down> <G c g-up>]
+=1, cha0 vol110 4. cc64=127 C B_
+|
+=1' vol70 8 rest' 16 [<D G c g-down> <G c g-up> <G c g-down> <G c g-up>] \
+    8 rest' 16 [<D cx B g-down> <cx B g-up> <cx B g-down> <cx B g-up>]
+=1, vol110 4. A_ G_-s3,
+|
+=1' vol70 8 rest' 16 [<D cx B g-down> <cx B g-up> <cx B g-down> <cx B g-up>] \
+    8 rest' 16 [<D Ax B g-down> <Ax B g-up> <Ax B g-down> <Ax B g-up>]
+=1, vol115 4. F_# E_-s3,
+|
+=1' vol70 8 rest' 16 [<A d f#-down> <A d g-up> <A d g{1-down> f#}1] \
+          8 [D 16 <A dx e-down> <A d f#-up> <A d g{1-down> f#}1]
+=1, vol120 2. D_ cc64=0

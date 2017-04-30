@@ -1,13 +1,15 @@
-6 systems /19 25 19/
-title ~/wav/nick_drake/02_river_man.wav
+6 systems /19 25 19/19 30 19/19 30 19/19 35 19/19 30 19/19 40 19/
+title /home/cds/folk/nick_drake/five_leaves_left/02_river_man.wav
 # file:///home/pjb/html/lyrics/nick_drake.html
 pagenum
-midi channel 1 patch 91
-midi channel 2 patch 25
+midi channel 1 patch 91  # voice
+midi channel 2 patch 25  # guitar
+midi channel 3 patch 32  # bass
+midi channel 5 patch 41  # violas
 $GTR = {
-  =2' 8 [$N1 16 <$N2(2 $N3(3 $N4(1>] \
-    8 [<$N2)2 $N3)3 $N4)1> 16 $N1] 8 [<$N2 $N3 $N4> 16 <$N2 $N3 $N4>] \
-    8 [$N1 16 $N1] 8 [<$N2 $N3 $N4> 16 <$N2 $N3 $N4>]
+  =2' cc64=127 8 [$N1 16 <$N2(2 $N3(4 $N4(1>] \
+    8 [<$N2)2 $N3)4 $N4)1> 16 $N1] 8 [<$N2 $N3 $N4> 16 <$N2 $N3 $N4>] \
+    8 [$N1 16 $N1] 8 [<$N2 $N3 $N4> 16 <$N2 $N3 $N4>] cc64=0
 
 }
 $N1-4 = <E_ A_> : E : A : c#
@@ -15,29 +17,179 @@ $N1-4 = <E_ A_> : E : A : c#
 2 bars | 75 | 75 |
 | 15/16 .172 .172 .191 .172 .172 .191 .172 .172 .191 .172 .172 .191 \
  .172 .172 .191
-=1 treble8vab cha1 leg145  1 rest
-=2 treble8vab cha2 leg145 tra+3 1 blank
+=1 treble8vab cha1 leg99  vol125 2 blank 1 rest
+=2 treble8vab cha2 leg145 tra+3 vol70 1 blank
 b1.0 .01 capo on 3rd
 $GTR
+#M =3 bass8vab cha3 vol80
+#M =4 alto cha5 vol50 leg99
 |
+=1 2 blank 1 rest
 $GTR
+|
+=1 2 blank 1 rest
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
+
+midi off 
+|
+=1 2 blank 1 rest
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
+|
 $N1-4 = <E_ A_> : E : A : c
-|
+=1 4 rest rest rest 8 [G F] [G F]
+r0.6 .62 Betty .78 came .90 by
 $GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
 |
+=1 8 [G c'] 1 c(1
+r0.6 .01 on .10 her .20 way,
 $GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
+|
 $N1-4 = G_ : D : Bb : cx
-|
+=1
+=1 2 c)1 4 rest 8 [Bb c] [G F]
+r0.6 .60 said .70 she .80 had .90 a
 $GTR
+#M =3 4. f(2 8 [f)2 16 f] 8 [Bb 16 Bb] 8. f
 |
+=1 4 Bb' 8 c' 2.. G
+r0.6 .01 word .20 to .30 say
 $GTR
+#M =3 4. f(2 8 [f)2 16 f] 8 [Bb 16 Bb] 8. f
+|
 $N1-4 = <F_ A_> : D : A : c
-|
+=1 4 rest rest rest rest 8 rest Eb
+r0.6 .87 About
 $GTR
+#M =3 4. ab(2 8 [a)2 16 ab] 8 [eb 16 eb] 8. ab
 |
+=1 4 F 8 G 2.. Eb(2
+r0.6 .01 things .22 today,
 $GTR
+#M =3 4. ab(2 8 [a)2 16 ab] 8 [eb 16 eb] 8. ab
+|
 $N1-4 = <E_ A_> : E : A : c#
-|
+=1 4 Eb)2 rest rest rest 4 G_
+r0.4 .80 and
 $GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
 |
+=1 8 [G_ C] 2.. C
+r0.4 .03 fallen .20 leaves. 
 $GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
+
+6 systems /19 30 19/19 35 19/19 30 19/19 40 19/19 35 19/19 35 19/
+/
+2 bars | 75 | 75 |
+|
+$N1-4 = <E_ A_> : E : A : c
+=1 4 rest rest rest 8 [G F] [G F]
+r0.6 .60 said .70 she .82 hadn't
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8 [G 16 G] 8. c
+|
+=1 8 [G c'] 1 c(1
+r0.6 .01 heard  the .20 news,
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8 [G 16 G] 8. c
+|
+$N1-4 = G_ : D : Bb : cx
+=1
+=1 2 c)1 4 rest 8 [Bb c] [G F]
+r0.6 .60 Hadn't  .80 had .90 the
+$GTR
+#M =3 4. f(2 8 [f)2 16 f] 8 [Bb 16 Bb] 8. f
+|
+=1 4 Bb' 8 c' 2.. G
+r0.6 .01 time .20 to .30 choose
+$GTR
+#M =3 4. f(2 8 [f)2 16 f] 8 [Bb 16 Bb] 8. f
+|
+$N1-4 = <F_ A_> : D : A : c
+=1 4 rest rest rest rest 8 rest Eb
+r0.6 .90 A
+$GTR
+#M =3 4. ab(2 8 [a)2 16 ab] 8 [eb 16 eb] 8. ab
+|
+=1 4 F 8 G 2.. Eb(2
+r0.6 .01 way .20 to .30 lose
+$GTR
+#M =3 4. ab(2 8 [a)2 16 ab] 8 [eb 16 eb] 8. ab
+|
+$N1-4 = <E_ A_> : E : A : c#
+=1 4 Eb)2 rest rest rest 8 rest G_
+r0.4 .90 but
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8 [G 16 G] 8. c
+|
+=1 8 [G_ C] 2.. C
+r0.4 .01 she .13 believes. 
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8 [G 16 G] 8. c
+
+midi on
+
+/
+2 bars | 75 | 75 |
+|
+$N1-4 = <E_ A_> : E : A : c
+i0.4 .05 strings . . .
+=1 4 rest rest rest 8 [G F] [G F]
+r0.6 .62 gonna .80 see .90 the
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8 [G 16 G] 8. c
+#M =4 alto cha5 vol65 <Eb(4 G(2 eb(1 g(3>
+|
+=1 8 [G c'] 1 c(1
+r0.6 .01 river .20 man,
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8 [G 16 G] 8. c
+#M =4 <Eb)4 G)2 eb)1 g)3>
+|
+$N1-4 = G_ : D : Bb : cx
+=1
+=1 2 c)1 4 rest 8 [Bb c] [G F]
+r0.6 .62 gonna  .80 tell .90 him
+$GTR
+#M =3 4. f(2 8 [f)2 16 f] 8 [Bb 16 Bb] 8. f
+#M =4 <Eb(4 Bb(2 db(1 f(3>
+|
+=1 4 Bb' 8 c' 2.. G
+r0.6 .01 all .20 I .30 can
+$GTR
+#M =3 4. f(2 8 [f)2 16 f] 8 [Bb 16 Bb] 8. f
+#M =4 <Eb)4 Bb)2 db)1 f)3>
+
+6 systems /19 35 19/19 40 19/19 30 19/19 40 19/19 35 19/19 35 19/
+/
+2 bars | 75 | 75 |
+|
+$N1-4 = <F_ A_> : D : A : c
+=1 4 rest rest rest rest 8 rest Eb
+r0.6 .90 a  .97 -
+$GTR
+#M =3 4. ab(2 8 [a)2 16 ab] 8 [eb 16 eb] 8. ab
+#M =4 <F(4 Ab(2 c(1 eb(3>
+|
+=1 4 F 8 G 2.. Eb(2
+r0.6 .01 bout .20 the .30 plan
+$GTR
+#M =3 4. ab(2 8 [a)2 16 ab] 8 [eb 16 eb] 8. ab
+#M =4 <F)4 Ab)2 c)1 eb)3>
+|
+$N1-4 = <E_ A_> : E : A : c#
+=1 4 Eb)2 rest rest rest 8 rest G_
+r0.4 .89 for
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
+#M =4 <C(4 G(2 c(1 en(3>
+|
+=1 8 [G_ C] 2.. C
+r0.4 .04 lilac .22 time
+$GTR
+#M =3 4. c(2 8 [c)2 16 c] 8. G c
+#M =4 <C)4 G)2 c)1 e)3>

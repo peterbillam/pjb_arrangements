@@ -1,4 +1,4 @@
-7 systems 50 / 19 30/19 30/19/19 30/19 30/
+10 systems 50 / 19 30/19 30/19/19 30/19 30/19 30/ 19/19 30/19/19 20 /
 midi channel 0 patch 25
 
 # 20140317
@@ -18,6 +18,8 @@ i3.3 .01 pick, swung
 |
 =1' 8 [<G b d~-s4-s2-up> <bb d~b-s3-s1>] [<a c~> <g bn-s2-s1>] 2 rest''
 
+midi off
+
 midi pause 2.0
 # 20140401
 /
@@ -35,13 +37,14 @@ midi pause 2.0
 2 bars | 48 |
 | 2.8
 i0.9 .30 20141102  morse_thue?four:three?
-=1 16 [E_-P G#-s3-gs4 B'-s0 e'-s0] [F#-s3 A B'] [G#,-s3 B-s0 e] [A,-s3 c# B e]
+=1 16 cc64=127 \
+ [E_ G#-s3-gs4 B'-s0 e'-s0] [F#-s3 A B'] [G#,-s3 B-s0 e] [A,-s3 c# B e]
 |
 =1 16 [G#, B-s0 e] [A, c# B-s0 e] [B-s3 d# B-s0 e] [c#-s3 e B-s0]
 |
 =1 16 [B-s3 d# e] [c#-s3 e B-s0 e] [d#-s3 f# B-s0 e] [c# e B]
 |
-=1 16 [d# f# B e] [e-s3 g# B] [d# f# B] [e g# B e-*]
+=1 16 [d# f# B e] [e-s3 g# B] [d# f# B] [e g# B e]
 
 midi pause 2.0
 # 20141129
@@ -69,7 +72,51 @@ midi pause 2.0
 4 bars | 60 | 60 |
 | 1.7
 =1' treble8vab 8 cc64=99 [d-s3 A-s2 D c-s1] cc64=0 \
- cc64=99 [B-s4 D cc64=0 cc64=99 c-s1] [A-s2 D]
+ cc64=99 [B-s4 D] cc64=0 cc64=99 [c-s1 A-s2 D]
 |
 =1' 8 [d-s3 A-s2 D c-s1] cc64=0 cc64=99 \
- [B-s4 D cc64=0 cc64=99 c-s1] [A-s2 D] cc64=0
+ [B-s4 D] cc64=0 cc64=99 [c-s1 A-s2 D] cc64=0
+
+midi pause 2.0
+# 20170111
+/
+4 bars | 60 | 60 |
+| 1.7
+=1, treble8vab 2 cc64=99 leg99 <Bb e g d~> 4 e~ cc64=0
+|
+=1, cc64=127 2 <A eb g c~> 4 a cc64=0
+|
+=1, cc64=127 2 <Ab d f c~> 4 d~ cc64=0
+|
+=1, cc64=127 2. <G db f bb> cc64=0
+/
+4 bars | 60 | 60 |
+|
+=1, cc64=127 2 leg99 <Gbr c ebl bb> 4 c~ cc64=0
+|
+=1, cc64=127 2 <Fr B ebl ab> 4 f cc64=0
+|
+=1, cc64=127 2 <Er Bbl db ab> 4 bb cc64=0
+|
+#=1, cc64=127 2. <Ebr A dbl gb> cc64=0
+=1, cc64=127 2. <D c f# c~> cc64=0
+
+midi pause 2.0
+midi on
+# 20170208
+/
+2 bars | 60 | 60 |
+| 1.8
+=1, treble8vab cc64=99 8 [A_-s2,-gs6 16 A_-gs5 A-s4,-gs4] \
+ [A_-gs5 A-s4, c#-s3,-gs3 A-s4,] [c#-s3, b-gs2 c#-s3, b]
+|
+=1, 8 [e-gs1 16 b-gs2 c#-s3,] [b-gs2 c#-s3, A-s4, c#-s3,] \
+ [A-s4, A_-gs5 A-s4, A_-gs5] cc64=0
+/
+2 bars | 55 | 55 |
+| 1.55
+=1, treble8vab cc64=99 16 [A_-s2,-gs6 16 A_-gs5 A-s4,-gs4 A_-gs5] \
+ [A-s4, c#-s3,-gs3 A-s4, c#-s3,] [b-gs2 c#-s3, b]
+|
+=1, 16 [e-gs1 b-gs2 c#-s3, b-gs2] [c#-s3, A-s4, c#-s3, A-s4,] \
+ [A_-gs5 A-s4, A_-gs5] cc64=0
