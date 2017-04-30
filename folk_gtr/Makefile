@@ -62,14 +62,24 @@ instrumentals.a4 : instrumentals
 	muscript instrumentals > $@
 	pkill -HUP gv
 
-instrumentals : ../davey_graham/angi ../bert_jansch/smokey_river \
-  ../bert_jansch/wheel ../davey_graham/cry_me_a_river \
-  ../davey_graham/blue_monk london_rag whisper_not entertainer
+instrumentals : ../davey_graham/angi \
+  ../bert_jansch/smokey_river \
+  ../bert_jansch/veronica \
+  ../davey_graham/blue_monk \
+  ../bert_jansch/wheel \
+  whisper_not \
+  ../bert_jansch/alices_wonderland \
+  entertainer \
+  ../davey_graham/cry_me_a_river \
+  london_rag
 	cat ../davey_graham/angi \
 	  ../bert_jansch/smokey_river \
+	  ../bert_jansch/veronica \
 	  ../davey_graham/blue_monk \
 	  ../bert_jansch/wheel \
-	  whisper_not entertainer \
+	  whisper_not \
+	  ../bert_jansch/alices_wonderland \
+	  entertainer \
 	  ../davey_graham/cry_me_a_river \
 	  london_rag > $@
 
