@@ -1,10 +1,15 @@
-head	1.6;
+head	1.7;
 access;
 symbols;
 locks
-	pjb:1.6; strict;
+	pjb:1.7; strict;
 comment	@# @;
 
+
+1.7
+date	2017.05.01.04.14.50;	author pjb;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2017.04.23.07.01.49;	author pjb;	state Exp;
@@ -42,9 +47,9 @@ desc
 @
 
 
-1.6
+1.7
 log
-@a few adjustments to the fingering
+@minor spacing adjustments
 @
 text
 @7 systems 30 / 20 / 20 / 20 / 20 / 20 / 20 / 20 20/
@@ -66,10 +71,10 @@ r1.1   mm 120    capo on 3rd
 =1' 4 e-s4 8 e(2-s0 4 e)2 8 d(2-s2 4. d)2
 =1, 2. C-s1, 4 D cc64=0 cc64=127 8 E_
 |
-=1' 8 [B c# e(2] 4 e)2 8 d(2 4. d)2
+=1' 8 [B{'1 c#}'1--s2 e(2] 4 e)2 8 d(2-s2 4. d)2
 =1, 2. B_ 4 D cc64=0 cc64=127 8 E_
 |
-=1' 4 e-s4 8 e(2-s0 4 e)2 8 d(2 4. d)2
+=1' 4 e-s4 8 e(2-s0 4 e)2 8 d(2-s2 4. d)2
 =1, 2. C 4 D cc64=0 cc64=127 8 E_
 /
 4 bars | 6 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 3 | 6 4 4 4 4 4 4 4 3 | 16 13 16 |
@@ -85,7 +90,7 @@ il0.7  5
 =1, 2. B_ 4 D cc64=0 cc64=127 8 E_
 |
 =1' 4 e-s4 8 e(2-s0 2. e)2
-=1, 2. C-s2, 4 D cc64=0 cc64=127 8 E_
+=1, 2. C-s1, 4 D cc64=0 cc64=127 8 E_
 /
 4 bars | 48 | 48 | 48 | 48 |
 |
@@ -134,7 +139,7 @@ il0.7 .01 15
 |
 il0.7 .01 20
 =1' 4 rest' 8 <E(2 B(1-s1-s4> 4 B)1 8 B(1--s0 4. B)1
-=1' 4. blank 2. E)2
+=1' 4. blank 4. E)2 blank
 =1, 2. C-s2, 4 D cc64=0 cc64=127 8 E_
 /
 4 bars | 2 2 2 2 5.4 3.5  2 2 2 2 2 2  2 2 2 2 2 1 | 4 4 4 4 4 4 4 4 3 \
@@ -145,7 +150,7 @@ il0.7 .01 20
 =1, 2. B_-s2, 4 D 8 E_
 |
 =1' 4 rest' 8 <E(2 B(1-s1-s4> 4 B)1 8 B(1--s0 4. B)1
-=1' 4. blank 2. E)2
+=1' 4. blank 4. E)2 blank
 =1, 2. C-s2, 4 D cc64=0 cc64=127 8 E_
 |
 =1' 4 rest' 8 c#(1 4 c)1 8 e(2 4. e)2
@@ -153,7 +158,7 @@ il0.7 .01 20
 =1, 2. B_-s2, 4 D 8 E_
 |
 =1' 4 rest' 8 <E(2 B(1-s1-s4> 4 B)1 8 B(1--s0 4. B)1
-=1' 4. blank 2. E)2
+=1' 4. blank 4. E)2 blank
 =1, 2. C-s2, 4 D cc64=0 cc64=127 8 E_
 /
 4 bars | 48 | 48 | 48 | 48 |
@@ -228,7 +233,7 @@ il0.7 .01 40
 =1, 2. B_-s2, 4 D 8 E_
 |
 =1' 4 rest' 8 <E(2 B(1-s1-s4> 4 B)1 8 B(1--s0 4. B)1
-=1' 4. blank 2. E)2
+=1' 4. blank E)2 blank
 =1, 2. C-s2, 4 D cc64=0 cc64=127 8 E_
 |
 =1' 4 rest' cc64=0 8 c#(1 4 c)1 8 cc64=127 <G#(2 e(1> 4. <G)2 e)1>
@@ -237,7 +242,7 @@ il0.7 .01 40
 =1, 2. B_-s2, 4 D 8 E_
 |
 =1' 4 rest' 8 <E(2 B(1-s1-s4> 4 B)1 8 B(1--s0 4. B)1
-=1' 4. blank 2. E)2
+=1' 4. blank E)2 blank
 =1, 2. C 4 D cc64=0 cc64=127 8 E_
 /
 4 bars | 4 4 4 4 4 4 4 4 3 | 4 4 5 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 3 | 48 |
@@ -293,6 +298,38 @@ i0.7 .13 molto rit . . .
 
 
 
+@
+
+
+1.6
+log
+@a few adjustments to the fingering
+@
+text
+@d20 1
+a20 1
+=1' 8 [B c# e(2] 4 e)2 8 d(2 4. d)2
+d23 1
+a23 1
+=1' 4 e-s4 8 e(2-s0 4 e)2 8 d(2 4. d)2
+d39 1
+a39 1
+=1, 2. C-s2, 4 D cc64=0 cc64=127 8 E_
+d88 1
+a88 1
+=1' 4. blank 2. E)2
+d99 1
+a99 1
+=1' 4. blank 2. E)2
+d107 1
+a107 1
+=1' 4. blank 2. E)2
+d182 1
+a182 1
+=1' 4. blank 2. E)2
+d191 1
+a191 1
+=1' 4. blank 2. E)2
 @
 
 
