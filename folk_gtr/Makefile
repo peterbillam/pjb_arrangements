@@ -34,20 +34,20 @@ PLAY = river_man
 WAVDIR = /home/pjb/wav/folk
 WAV = ${WAVDIR}/${PLAY}.wav
 
-dev : ${PLAY}.a4 songs.a4 instrumentals.a4 p2_instrumentals.a4
+dev : ${PLAY}.ps songs.ps folk_gtr_solos.ps p2_folk_gtr_solos.ps
 
 edit :
 	vi ${PLAY}
 	make dev play
 
-${PLAY}.a4 : ${PLAY}
+${PLAY}.ps : ${PLAY}
 	muscript ${PLAY} > $@
 	pkill -HUP gv
 
 play :
 	muscript -midi ${PLAY} | midisox_lua - -d stat
 
-songs.a4 : songs
+songs.ps : songs
 	muscript songs > $@
 	pkill -HUP gv
 
@@ -58,11 +58,7 @@ songs : october_song aint_necessarily_so \
 	  dedicated_to_you_but_you_werent_listening buddy_can_you_spare_a_dime \
 	  emily_has_gone my_home_town river_man new_speedway_boogie > $@
 
-instrumentals.a4 : instrumentals
-	muscript instrumentals > $@
-	pkill -HUP gv
-
-instrumentals : ../davey_graham/angi \
+folk_gtr_solos : ../davey_graham/angi \
   ../bert_jansch/smokey_river \
   ../bert_jansch/veronica \
   ../davey_graham/blue_monk \
@@ -83,15 +79,43 @@ instrumentals : ../davey_graham/angi \
 	  ../davey_graham/cry_me_a_river \
 	  london_rag > $@
 
-duet.a4 : duet
+folk_gtr_solos.ps : folk_gtr_solos
+	muscript folk_gtr_solos > $@
+	pkill -HUP gv
+
+${A4D}/folk_gtr_solos.pdf : title_folk_gtr_solos.ps p2_folk_gtr_solos.ps \
+  folk_gtr_solos.ps ${BACKPAGE}
+	${ADDMESSAGE} folk_gtr_solos.ps \
+	| ${PSCAT} title_folk_gtr_solos.ps p2_folk_gtr_solos.ps - ${BACKPAGE} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
+${USD}/folk_gtr_solos.pdf : title_folk_gtr_solos.ps p2_folk_gtr_solos.ps \
+  folk_gtr_solos.ps ${BACKPAGE}
+	${ADDMESSAGE} folk_gtr_solos.ps \
+	| ${PSCAT} title_folk_gtr_solos.ps p2_folk_gtr_solos.ps - ${BACKPAGE} \
+	| ${A42US} \
+	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=letter -sOutputFile=$@ -
+${XMLD}/folk_gtr_solos.xml : folk_gtr_solos
+	${MUSCRIPT} -xml folk_gtr_solos > $@
+${XMLD}/folk_gtr_solos_readme.txt : p2_folk_gtr_solos
+	${NROF} p2_folk_gtr_solos > $@
+${SRCD}/folk_gtr_solos.txt : folk_gtr_solos
+	cp folk_gtr_solos $@
+${MP3D}/folk_gtr_solos.mp3 : folk_gtr_solos
+	${MUSCRIPT} -midi folk_gtr_solos | timidity -Ow -o t.wav -
+	${NORMALIZE} --peak t.wav
+	lame -h t.wav $@
+	rm t.wav
+
+
+duet.ps : duet
 	muscript duet > $@
 	pkill -HUP gv
 
-p2_instrumentals.a4 : p2_instrumentals
-	groff -ms p2_instrumentals | ${BANNERISE} > $@
+p2_folk_gtr_solos.ps : p2_folk_gtr_solos
+	groff -ms p2_folk_gtr_solos | ${BANNERISE} > $@
 
-title_instrumentals.a4 : title_instrumentals
-	groff -ms title_instrumentals | ${BANNERISE} > $@
+title_folk_gtr_solos.ps : title_folk_gtr_solos
+	groff -ms title_folk_gtr_solos | ${BANNERISE} > $@
 
 ${WAV} : ${PLAY}
 	muscript -midi ${PLAY} | timidity -Ow -o $@ -

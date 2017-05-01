@@ -11,18 +11,18 @@
 
 # PLAY = tristano
 # PLAY = blue_monk
-# PLAY = angi
-PLAY = cry_me_a_river
+PLAY = angi
+# PLAY = cry_me_a_river
 SRCDIR = /home/cds/folk/davey_graham
 ANGIWAV = ${SRCDIR}/1963_the_guitar_player/01_angi.wav
 TRISTANOWAV = ${SRCDIR}/1969_large_as_life_and_twice_as_natural/03_tristano.wav
 MONKWAV = ${SRCDIR}/1965_folk_roots_new_routes/04_blue_monk.wav
 CHARLIEWAV = ${SRCDIR}/1970_holly_kaleidoscope/02_charlie.wav
-dev : ${PLAY}.a4
+dev : ${PLAY}.ps
 
 all : ${TRISTANOWAV}
 
-${PLAY}.a4 : ${PLAY}
+${PLAY}.ps : ${PLAY}
 	muscript ${PLAY} > $@
 	pkill -HUP gv
 
@@ -33,11 +33,11 @@ ${PLAY}.a4 : ${PLAY}
 
 dev :
 	vi ${PLAY}
-	muscript ${PLAY} > ${PLAY}.a4
+	muscript ${PLAY} > ${PLAY}.ps
 	pkill -HUP gv
 edit :
 	vi ${PLAY}
-	muscript ${PLAY} > ${PLAY}.a4
+	muscript ${PLAY} > ${PLAY}.ps
 	pkill -HUP gv
 	muscript -midi ${PLAY} | midisox - -d tempo 1.00
 play :

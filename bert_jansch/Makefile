@@ -16,17 +16,17 @@ WHEELWAV  = ${SRCDIR}/1965_it_dont_bother_me/05_the_wheel.wav
 
 all : ${TRISTANOWAV}
 
-${PLAY}.a4 : ${PLAY}
+${PLAY}.ps : ${PLAY}
 	muscript ${PLAY} > $@
 	pkill -HUP gv
 
 dev :
 	vi ${PLAY}
-	muscript ${PLAY} > ${PLAY}.a4
+	muscript ${PLAY} > ${PLAY}.ps
 	pkill -HUP gv
 edit :
 	vi ${PLAY}
-	muscript ${PLAY} > ${PLAY}.a4
+	muscript ${PLAY} > ${PLAY}.ps
 	pkill -HUP gv
 	muscript -midi ${PLAY} | midisox - -d # tempo 1.12
 play :
