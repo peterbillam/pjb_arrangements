@@ -50,7 +50,7 @@ b1.4 .99 C.VII
  [<D d f> <D d f>  <D d(4 fn(2> <D d)4 f)2>]
 |
 =1' 16 [c~ a b c~(1] [c~)1 g-s4 8 b] \
- 4 <c a> 16 rest' [a-s1 b-s2 c~n-s3]
+ 4 <c a> 16 rest' [a-s1 b-s3 c~n-s3]
 =1, 8 [<E_ e> <E_ e>] [<E_ d(2> <E-s3, d)2>] [A E-s3, A_] rest,,
 /
 2 bars | 3# 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 \

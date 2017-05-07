@@ -36,6 +36,15 @@ WAV = ${WAVDIR}/${PLAY}.wav
 
 dev : ${PLAY}.ps songs.ps folk_gtr_solos.ps p2_folk_gtr_solos.ps
 
+all : \
+ ${A4D}/folk_gtr_solos.pdf  ${USD}/folk_gtr_solos.pdf \
+ ${SRCD}/folk_gtr_solos.txt ${XMLD}/folk_gtr_solos.xml
+
+dist :
+	upload ${A4D}/folk_gtr_solos.pdf
+	upload ${USD}/folk_gtr_solos.pdf
+	upload ${SRCD}/folk_gtr_solos.txt
+
 edit :
 	vi ${PLAY}
 	make dev play

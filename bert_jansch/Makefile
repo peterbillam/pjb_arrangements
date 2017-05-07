@@ -1,5 +1,6 @@
 # 02_smokey_river.wav 05_finches.wav 10_alices_wonderland.wav 13_casbah.wav
 
+# PLAY = tinkers_blues    D_ A_ D ? A d  :-(  capo on 3rd
 # PLAY = veronica
 # PLAY = wheel
 # PLAY = smokey_river
@@ -7,12 +8,13 @@
 PLAY = alices_wonderland
 # PLAY = casbah
 SRCDIR = /home/cds/folk/bert_jansch
-SMOKEYWAV = ${SRCDIR}/02_smokey_river.wav
-FINCHEWAV = ${SRCDIR}/05_finches.wav
-VERONIWAV = ${SRCDIR}/07_veronica.wav
-ALICESWAV = ${SRCDIR}/10_alices_wonderland.wav
-CASBAHWAV = ${SRCDIR}/13_casbah.wav
-WHEELWAV  = ${SRCDIR}/1965_it_dont_bother_me/05_the_wheel.wav
+SMOKEYWAV  = ${SRCDIR}/02_smokey_river.wav
+FINCHEWAV  = ${SRCDIR}/05_finches.wav
+VERONIWAV  = ${SRCDIR}/07_veronica.wav
+ALICESWAV  = ${SRCDIR}/10_alices_wonderland.wav
+CASBAHWAV  = ${SRCDIR}/13_casbah.wav
+WHEELWAV   = ${SRCDIR}/1965_it_dont_bother_me/05_the_wheel.wav
+TINKERSWAV = ${SRCDIR}/1965_it_dont_bother_me/03_tinkers_blues.wav
 
 all : ${TRISTANOWAV}
 
@@ -45,6 +47,8 @@ casbah_slow.wav : ${CASBAHWAV}
 	sox ${CASBAHWAV} $@ speed 0.83
 wheel_slow.wav : ${WHEELWAV}
 	sox ${WHEELWAV} $@ speed 0.7834
+tinkers_blues_slow.wav : ${TINKERSWAV}
+	sox ${TINKERSWAV} $@ speed 0.7834
 clean :
 	rm -f smokey_river_slow.wav
 	rm -f finches_slow.wav

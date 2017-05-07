@@ -1,7 +1,7 @@
 9 systems 20 /20/20/20/20/20/20/20/20/20 10/
 title Smokey River
 pagenum
-innerhead Bert Kansch, 1st album
+innerhead Bert Jansch, 1st album
 midi channel 0 patch 25 transpose +3
 /
 3 bars | 4 4 5 4 4 4  5 4 4 4 4 3 | 4 4 5 4 4 4  5 4 4 4 4 3 \
@@ -125,7 +125,7 @@ il0.5 .03 25
 
 9 systems 5 /20/20/20/20/20/20/20/20/20 10/
 pagenum
-innerhead Smokey River, Bert Kansch
+innerhead Smokey River, Bert Jansch
 
 /
 3 bars | 5 5 6 5 5 5 6 5 | 2/4 5 5 6 5 \
@@ -295,7 +295,7 @@ il0.9 .20 60
 
 9 systems 5 /20/20/20/20/20/20/20/20/20 10/
 pagenum
-innerhead Smokey River, Bert Kansch
+innerhead Smokey River, Bert Jansch
 
 # tempos up to here ...
 
