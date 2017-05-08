@@ -1,14 +1,38 @@
-.\" header = mushead
+head	1.1;
+access;
+symbols;
+locks
+	pjb:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2017.05.08.01.04.33;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@page 2 for folk_gtr_solos
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@.\" header = mushead
 .AM
 .nr PS 12
 .nr VS 14
 .pl 11.7i
 .LP
 \&
-.sp 1.2c
+.sp 1.4c
 .ce 1
-\f3\s+6Finger-style Folk-guitar Instrumentals\s0\fP
-.sp 1.1c
+\f3\s+6Finger-style Instrumentals\s0\fP
+.sp 1.2c
 .LP
 .nh
 These scores are something I always wanted to have when I was figerpicking
@@ -18,21 +42,18 @@ steel-strung guitars in the the folk clubs of London in the 1960s.
 Included are instrumentals for solo guitar,
 all in standard tuning, including a couple of my own,
 but mostly from the early albums of Bert Jansch and Davey Graham.
-Everyone trying to play the folk guitar must own these album !
-not to mention those by John Renbourn, Al Stewart, John Martyn,
-Stefan Grossman, Roy Harper, the Incredible String Band, Dando Shaft ...
-This was a moment of great creative flowering.
-.\" with no rules, no teaching tradition;
-.\" these people just took up the guitar
-.\" and worked out 'hmm, what can I do with this thing?'.
+.LP
+.nh
+This was a moment of great creativity,
+because there were no rules, no teaching tradition;
+these people just took up the guitar
+and asked 'hmm, what can I do with this thing?'.
 .LP
 .nh
 They played usually with a Capo on the third fret,
 and mostly in triplet-rhythm,
 which I have notated in 12/16 and 9/16
-so I can make the beats clearer by grouping them under the same beam. \ 
-If anyone makes a tablature edition of these pieces, please let me know.
-
+so I can make the beats clearer by grouping them under the same beam.
 .LP
 .nh
 Bert Jansch was exploring the sound of alternating between an open string
@@ -40,19 +61,10 @@ and the same note fingered on the next lower string, letting both vibrate.
 He later described 'The Wheel' as "the sort of thing most guitarists
 have up their sleeves, little bits and pieces they throw away or forget".
 In the classical tradition, this splicing together of 
-repeated motifs ('little bits') is associated with Russian music  -
-Stravinsky's \f2 The Rite of Spring \fP is a example -
+repeated motifs ('little bits') is associated with the Russian tradition  -
+Stravinsky's \f2 The Rite of Spring \fP is a good example -
 and it was also much used on 'progressive rock' albums,
 in that case usually by splicing the tape.
-.LP
-.nh
-Davey Graham was
-playing jazz standards - tune, chords and bass -
-just as a piano trio could.
-And not so much by brute virtuosity, as by intelligence:
-by letting the arrangement grow out from the guitar.
-Just consult \f2 Cry Me a River \fP on \f2 youtube \fP to see
-how naturally the playing lies on Davey's six strings.
 
 .LP
 .nh
@@ -61,9 +73,7 @@ from Davey Graham's first album, iconic and indispensible.
 .br
 .sp 0.1c
 \f2Smokey River\fP \ 
-from Bert Jansch's first album.
-The intro, and the title, refer to Jim Hall's playing on \f2 The Train and the River \fP
-with the Jimmy Giuffre trio.
+from Bert Jansch's first album
 .br
 .sp 0.1c
 \f2Veronica\fP \ 
@@ -100,9 +110,10 @@ BBC TV arts series \f2 Monitor, \fP made by Ken Russell.
 written by Peter Billam
 
 .LP
-.sp 0.2c
+.sp 0.5c
 .ce 1
 \f2Peter J Billam\fP
 .LP
 .ce 1
 \f2www.pjb.com.au\fP
+@
