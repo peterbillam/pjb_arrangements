@@ -103,7 +103,7 @@ il0.3 .12 15
 il0.5 .12 20
 =1 8 a 16 rest' 8 [<C E Bbxl' c'> 16 <B_ D# Ax Bn'>] 8 rest, 16 [E_ 8 G_ 16 E_]
 |
-=1 16 vol-15 <B_ E G> vol+15 rest 16 e [f# g B(1] 8 [B)1 16 c# 8 d# 16 e]
+=1 16 vol-15 <E G B'> vol+15 rest 16 e [f# g B(1] 8 [B)1 16 c# 8 d# 16 e]
 |
 #P=1 8 [f# 16 e 32-s f#' 323 blank 8 g 16 f#] \
  83. rest 16 rest [B_(2 32 blank 16 <B_)2 G#>]
