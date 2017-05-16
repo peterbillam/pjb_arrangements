@@ -298,10 +298,10 @@ il0.6 .07 60
 =1, 8. blank [D C#]
 | 1.408
 #i0.6 .90 108 sec
-=1' 12/16 16 rest [e e] rest [B B] rest [G G] rest [G F#]
-=1, 12/16 8. [Cn D] [C# D]
+=1' 12/16 16 rest [e e] rest [B-s0 B-s3] rest [G-s0 G-s4] rest [G-s0 F#-s2]
+=1, 12/16 8. [Cn D-s0,] [C#-s2, D-s3,]
 |
-=1' 16 [G_ G G] rest [G G] rest [G G] [G A c]
+=1' 16 [G_ G G] rest [G G] rest [G G-s4] [G{'1 A}'1 c]
 =1, 8. blank [D Cn] rest,,
 /
 4 bars | 4 4 4 4 4 4 5 4 4 4 5 4 | 9/16 4 3 4 4 3 5.5 4 4 4 \
@@ -324,9 +324,9 @@ il0.7 .03 65
 4 bars | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 9/16 4 3 4 4 3 5.5 4 4 4 \
  | 4 3 4 4 3 5.5 4 4 4 | 4 3 4 4 3 5.5 4 4 4 |
 | 1.408
-=1' 12/16 16 rest [e-s0 e-s4] rest [B-s0 B-s4] \
+=1' 12/16 16 rest [e-s0 e-s4] rest [B-s0 B-s3] \
  rest [G-s0 G-s4] rest [G-s0 F#-s2]
-=1, 12/16 8. [Cn D-s0,] [C#-s3, D-s3,]
+=1, 12/16 8. [Cn D-s0,] [C#-s2, D-s3,]
 | 1.056
 =1' 9/16 vol79 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
 =1, 9/16 8. blank [D C#]

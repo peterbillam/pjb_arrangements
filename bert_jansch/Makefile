@@ -2,10 +2,10 @@
 
 # PLAY = tinkers_blues    D_ A_ D ? A d  :-(  capo on 3rd
 # PLAY = veronica
-# PLAY = wheel
+PLAY = wheel
 # PLAY = smokey_river
 # PLAY = finches
-PLAY = alices_wonderland
+# PLAY = alices_wonderland
 # PLAY = casbah
 SRCDIR = /home/cds/folk/bert_jansch
 SMOKEYWAV  = ${SRCDIR}/02_smokey_river.wav
