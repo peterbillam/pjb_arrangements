@@ -1,4 +1,4 @@
-8 systems 15 /20 5/20 4/20 3/20/20 3/20/20/20 10/
+8 systems 15 /20 5/20 4/20 3/20/20 3/20/20/20 15/
 title Angi
 pagenum
 innerhead Davey Graham
@@ -150,7 +150,7 @@ I0.4 .16 f
 =1, 15/16 8. rest,,, 8 rest,,, 16 [A_ 8. G_] [F_ E_]
 I1.1 .35 p
 
-8 systems 5 /20/20 4/20/20/20/20 4/20/20/
+8 systems 5 /20/20 4/20/20/20/20 4/20/20 20 /
 pagenum
 innerhead Anji   Davey Graham
 midi channel 0 patch 25 transpose +3
@@ -417,7 +417,7 @@ I0.5 .87 f
 |
 =1' 2. <A c g#>
 =1, 2. A_
-9 systems 20 /20/20/20/20/20/20/20/20/20 10/
+9 systems 20 /20/20/20/20/20/20/20/20/20 14/
 title Smokey River
 pagenum
 innerhead Bert Jansch, 1st album
@@ -542,7 +542,7 @@ il0.5 .03 25
  8 rest 8. [<B_ E Bn> 16 <B_ E> <B_ E B> <B_ E>]
 =1, 2 E_ 4 E_ E_
 
-9 systems 5 /20/20/20/20/20/20/20/20/20 10/
+9 systems 5 /20/20/20/20/20/20/20/20/20 14/
 pagenum
 innerhead Smokey River, Bert Jansch
 
@@ -1098,7 +1098,7 @@ i0.7 .13 molto rit . . .
 
 
 
-8 systems 15 /20/20/20/20/20/20/20/20/
+8 systems 15 /20/20/20/20/20/20/20/20 10/
 title Blue Monk
 pagenum
 innerhead arr Davey Graham
@@ -1213,7 +1213,7 @@ il0.9 20
 =1' 16 [<c)2 e)1> 8 <c e> <c e> 16 <c(2 e(1>] 8 [<c)2 e)1> 16 c 8 A 16 G]
 =1, 8. [A_ A_] [A_ A_]
 
-8 systems 15 /20/20/20/20/20/20/20/20/
+8 systems 15 /20/20/20/20/20/20/20/20 15/
 pagenum
 innerhead Blue Monk, arr Davey Graham
 /
@@ -1320,7 +1320,7 @@ il0.9 .37 45
 =1' 8. [A A] A blank
 =1, 32-s [D Eb 8 D] 32-s [D Eb 8 D] 8 [D 16 C] [A_{1 G_}1 A_]
 
-8 systems 15 /20/20/20/20/20/20/20/20/
+8 systems 15 /20/20/20/20/20/20/20/20 15/
 pagenum
 innerhead Blue Monk, arr Davey Graham
 /
@@ -1559,7 +1559,7 @@ il0.8 .16 100
 |
 =1' 2. <G c# g>
 =1, 2. A_
-9 systems 15 /20/20/20/20/20/20/20 4/20 4/ 20 10/
+9 systems 15 /20/20/20/20/20/20/20 4/20 4/ 20 15/
 title The Wheel
 pagenum
 innerhead Bert Jansch, 2nd album
@@ -2203,7 +2203,7 @@ I0.5 .70 D.S. al Fine
 #M $S
 
 midi pause 3.0
-9 systems 20 /20/20/20/20/20/20/20/20/20 10/
+9 systems 20 /20/20/20/20/20/20/20/20/20 15/
 title Alice's Wonderland
 pagenum
 innerhead Bert Jansch, 1st album
@@ -2951,7 +2951,7 @@ bl1.4 2a
  8 [Bb{'1 16 G}'1] 8 [A{'1 16 cc64=0 G}'1]
 =1, cc64=127 8. D rest,, 4. rest,,
 |
+I0.7 .67 p
 =1' 8 [E{'1 16 D}'1 8 B_b 16 G_(2] 8. G_)2 8. <er-fermata B Gx F G_>
-I0.7 .73 p
 
 midi pause 3.0
