@@ -1,3 +1,4 @@
+# trying to remove this file ...
 PLAY = tristano
 WAVDIR = /home/pjb/wav/folk
 TRISTANOWAV = ${WAVDIR}/tristano.wav
