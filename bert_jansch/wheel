@@ -248,7 +248,7 @@ il0.6 .01 50
 =1' vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D
 =1, vol100 4. G_(2 8. [G_)2 E_]
 | 1.125
-=1' 9/16 vol85 16 cc64=127 8 [G_ 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
+=1' 9/16 vol85 16 cc64=127 8 [G_-s1, 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
 =1, 9/16 8. blank [D-s3, C#-s2,]
 i0.8 .84 accel . . .
 | 1.12
