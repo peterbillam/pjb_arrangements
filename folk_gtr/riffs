@@ -1,6 +1,8 @@
 10 systems 50 / 19 30/19 30/19/19 30/19 30/19 30/ 19/19 30/19/19 20 /
+pagenum
 midi channel 0 patch 25
 
+midi off
 # 20140317
 /
 4 bars | 48 |
@@ -101,8 +103,6 @@ midi pause 2.0
 #=1, cc64=127 2. <Ebr A dbl gb> cc64=0
 =1, cc64=127 2. <D c f# c~> cc64=0
 
-midi pause 2.0
-midi on
 # 20170208
 /
 2 bars | 60 | 60 |
@@ -120,3 +120,76 @@ midi on
 |
 =1, 16 [e-gs1 b-gs2 c#-s3, b-gs2] [c#-s3, A-s4, c#-s3, A-s4,] \
  [A_-gs5 A-s4, A_-gs5] cc64=0
+
+8 systems 30 / 20 10/20 35/20/20/20/20/20/20/20/
+pagenum
+midi channel 0 patch 25
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+| 2.2
+Il2.0 see book AQ p.1,  ~/mus/midi/20170224_loop_30
+=1' treble8vab cha0 leg99 8. rest' 4. <c# g b> 8 <c# g b> 16 rest'
+=1  4 blank 32. blank 2 blank-s1-s4-s3
+=1, vol110 8 [E_ 16 E(1-s2,] 8 [E)1 16 E_] 8 [E 16 E_] 8 rest,, 16 E_(1
+|
+=1' 8. rest' 4. <c# g b> 8 <c# g b> 16 rest'
+=1, 8 [E_)1 16 E(1] 8 [E)1 16 E_] 8 [E 16 E_] 8. rest,,
+| 2.2
+=1' 8. rest' 4. <c# g b> 8 <c# g b> 16 rest'
+=1, 8 [E_ 16 E(1] 8 [E)1 16 E_] 8 [E 16 E_] 8 rest,, 16 E
+|
+=1' 8. rest'' 8 [<c# g b> 16 <d(4 g(2 bb(1>] 4. <d)4(4 g)2(2 b)1(1>
+=1, 8 [e-s4, 16 E] 8 [E_ 16 B_b(6] 8. B_)6 rest,,
+/
+4 bars | 48 | 48 | 48 | 24 :||
+|
+=1' 8. <d)4 g)2 bb)1> 4. <c# g bn> 8 <c# g b> 16 rest'
+=1  4 blank 32. blank 2 blank-s1-s4-s3
+=1, 8 [E_ 16 E(1-s2,] 8 [E)1 16 E_] 8 [E 16 E_] 8 rest,, 16 E_(1
+| 
+=1' 8. rest' 4. <c# g b> 8 <c# g b> 16 rest'
+=1, 8 [E_)1 16 E(1] 8 [E)1 16 E_] 8 [E 16 E_] 8. rest,,
+|
+=1' 8. rest' 4. <c# g b> 8 <c# g b> 16 rest'
+=1, 8 [E_ 16 E(1] 8 [E)1 16 E_] 8 [E 16 E_] 8 rest,, 16 E
+| 1.1
+=1' 8. rest'' <c f# a>
+=1, 8 [e-s4, 16 E] 8 E_ 16 rest,,
+
+midi on
+
+/
+3 bars | 50 | 50 | 50 |
+| 2.0
+Il2.0 see book AQ p.2
+=1 treble8vab cha0 cc64=127 8 [e~' 16 e'-s1 E_ B'-s0] [d~ e~ c~{1 b}1 cc64=0 a]
+|
+=1 cc64=127 8 [b' 16 B'-s0 E_ e'-s3] [a-s4 b g{1 f#}1 cc64=0 e]
+|
+=1 cc64=127 8 [f#'-s4 16 G A_ A'-s3] [e f# d{1 c}1 cc64=0 B]
+/
+3 bars | 30 | 30 | 50 |
+| 1.2
+=1 16 cc64=127 [c-s4 B-s0 c-s4] [A{'1 cc64=0 G}'1 F#]
+|
+=1 16 cc64=127 [G-s0 F#-s3 G-s0] [E{'1 cc64=0 D}'1 C]
+| 2.0
+=1 cc64=127 8 [D 16 E_ A_ E_] [C D B_{'1 A_}'1 cc64=0 G_]
+/
+3 bars | 50 | 50 | 50 |
+|
+=1 cc64=127 8 [A_ 16 G-s1 d'-s4 B'-s0] 8 [a-s2 16 B d G,] cc64=0
+|
+=1 cc64=127 8 [A_ 16 G-s1 d'-s4 B'-s0] 8 [a-s2 16 G, d B] cc64=0
+|
+=1 cc64=127 8 [c' 16 A_ G F] [B'{'1 c'}'1 A{'1 G}'1 cc64=0 F]
+/
+3 bars | 40 | 40 | 40 |
+| 1.6
+=1 cc64=127 8 [G 16 E_ F G] [E{'1 D}'1 cc64=0 C]
+|
+=1 cc64=127 16 [D F_ C] 8 [D cc64=0 cc64=127 16 A_b-s4 C-s3 D-s0] cc64=0
+|
+=1 cc64=127 16 [E G# c'] 8. e(1 8 e)1 cc64=0
+
