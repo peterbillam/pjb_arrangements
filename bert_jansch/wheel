@@ -118,7 +118,7 @@ il0.7 .03 20
 =1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] rest' vol90 [e-s0 e-s4] cc64=0
 =1, 8. blank [D Cn]
 |
-=1' vol100 16 rest' [e e] rest' [B cc64=0 B] rest' [G F#-s4]
+=1' vol100 16 rest' [e e] rest' [B cc64=0 B] rest' [G F#-s2]
 =1, cc64=127 8. [D C#] E_ cc64=0
 /
 4 bars | 4 4 4 4 4 6.0 4 4 4 || 12/16 3 3 4 4 3 4 4 3 4 3 3 4 \
