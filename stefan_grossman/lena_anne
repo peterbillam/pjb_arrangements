@@ -1,0 +1,235 @@
+9 systems 30 /20/20/20/20 /20/20/20/20/20 5/
+title Lena Anne
+pagenum
+innerhead Stefan Grossman, 1972 live album
+midi channel 0 patch 25 transpose -1  # +3
+/
+4 bars | 4/4 26 | 3 4 4 5.5 3 3 3 3 3 2 3 2 3 3 3 2 \
+ | 6 7 6 6 5 5 6 5 | 3 3 3 2 3 3 3  4 4 3 5.5 3  3 3 3 2 |
+| 2.069
+r0.8 .01 mm 116
+=1' treble8vab cha0 leg99 vol95 
+=1' 4/4 2 rest <E-s0, A-s0>
+b0.5 capo on 2nd
+|
+=1' 8 [b 16 c~# b 8 g# b] [b e B e]
+=1, 2 <e g#> d#
+|
+=1' 8 [b e bb a(1] [a)1 e B e]
+=1, 4. d 8 c#(2 2 c)2
+|
+=1' 8 [g# f# B e] [f# 16 g# f# 8 B e]
+=1, 2 B A
+/
+3 bars | 48 | 3 3 4 5 3 3 3 3 3 3 3 3 3 3 3 2 | 48 |
+|
+il0.7  5
+=1' 8 [e B c# e] [b g# e d#]
+=1, 4 G# 8 E-s., rest, 2 rest,
+| 2.069
+=1' 8 [b 16 c~# b 8 g# b] [b e B e]
+=1, 2 <e g#> d#
+|
+=1' 8 [b e bb a(1] [a)1 e B e]
+=1, 4. d 8 c#(2 2 c)2
+/
+3 bars | 3 3 3 2 3 2 3 3 3 3 5 3 3 2 3 2 | 5 5 5 5 5 6 6 6 | 48 |
+|
+=1' 8 [g# f# B e] [f# 16 g# f# 8 B e]
+=1, 2 B A
+|
+r1.0  mm 120
+=1, 4 G# 2. blank
+=1' 4 e vol+20 <A_ D Gn> 8 <E_ E G#-.> 8 rest [<A c#> <D# Gn>]
+I0.6 .18 f
+i0.8 .99 bend
+|
+il0.7 .03 10
+I0.6 .81 p
+=1 8 [<C{2 E A> A_}2 G_ E_] [G_ A_ C#] vol-15 a
+/
+3 bars | 3/4 36 | 4/4 48 | 4 3 4 5 3 3 4 3 3 4 3 3 3 3 3 2 |
+| 1.5 
+I0.7 .81 p
+=1, 3/4 8 [e d] vol+15 <G_ Ax B e-.-emph> rest \
+ [<A_ G c#--emph> <E_ D>]
+=1' 3/4 2 blank 8 blank A(1
+I0.6 .29 f
+| 2.0
+=1' 4/4 8 A)1 vol-15 [a e d] 4 blank 8 blank 8 A(1
+=1, 4/4 4 <A_ E> rest, 8 vol+15 <G_ Ax B e-.-emph> rest \
+ [<A_ G c#--emph> <E_ D>]
+I0.6 .18 f
+|
+=1' 8 A)1 16 [<d f#-s4-s3> <c e-s1-s0>] 8 [<d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
+=1, 8 <A_-., E> rest,, 2 blank 8 rest,, E_
+/
+3 bars | 48 | 5/4 60  | 4/4 48 |
+|
+=1' 8 rest [<G cn-s1> <A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+=1, 4 A_ 2. blank
+| 2.5 
+il0.5 .05 15
+=1, 5/4 8 [G_' A_' C#'] [a e d] \
+ vol+15 <G_ Ax B e-.-emph> rest [<A_ G c#--emph> <E_ D>]
+| 2.0
+=1' 4/4 8 rest' vol-15 [a e d] 4. blank  8 A
+=1, 4/4 4 <A_ E> 4 rest, 8 vol+15 <G_ Ax B e-.-emph> rest [<A_ G c#--emph> <E_ D>]
+/
+3 bars | 3 3 4 5 3 3 4 3 3 4 3 3 3 3 3 2 | 48 || 48 |
+|
+=1' 8 rest' 16 [<d f#-s4-s3> <c e> 8 <d f> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
+=1, 8 <A_ E> rest,, 2 blank 8 rest,, E_
+|
+=1' 8 rest [<G cn> <A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+=1, 8 A_ 8 rest,, 2. blank
+| 2.07
+I0.5 p
+=1' vol-20 8 [d B A B] [c B A B]
+=1, 2 F# Fn
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+il1.2 .20 20
+I0.7   mf
+=1' 8 [e g e <A d>] <B e> rest' 4 <G c-emph>
+=1, 4 <C G> 8 rest,, B_ E_ rest,, 4 A_
+|
+=1' 8 [e d A d] [e B A c]
+=1, 2 G_ 4 F_# 8 rest,, F_n
+|
+=1' 8 [d f e d] 4 <G B e> <B g>
+=1, 2 <B_b Ab> C
+|
+=1' 8 rest' [g e g] e rest' <Bx e c~#-s0-s3-s4> rest'
+=1, 4 <C G B> 2 blank 8 [A-s1, E_]
+I0.3 .65 f
+/
+3 bars | 48 | 5/4 60 | 4/4 48 |
+|
+=1' 8 rest' [<G cn--s1> <A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+=1, 8 A_ 8 rest,, 2. blank
+| 2.5
+il0.5 .05 25
+=1, 5/4 8  [G_' A_' C#'] [a e d] vol+15 <G_ Ax B e-.-emph> rest [<A_ G c#--emph> <E_ D>]
+| 2.0
+=1' 4/4 8 rest' vol-15 [a e d] 4. blank  8 A
+=1, 4/4 4 <A_ E> 4 rest, 8 vol+15 <G_ Ax B e-.-emph> rest [<A_ G c#--emph> <E_ D>]
+/
+3 bars | 3 3 4 5 3 3 4 3 3 4 3 3 3 3 3 2 | 48 | 24 21 ||
+|
+=1' 8 rest' 16 [<d f#-s4-s3> <c e> 8 <d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
+=1, 8 <A_-., E> rest,, 2 blank 8 rest,, E_
+|
+=1' 8 rest [<G cn> <A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+=1, 8 A_ 8 rest,, 2. blank
+|
+=1' 8 rest B_ 4 C# 2 a
+=1, 4 G_ A_ rest,,, vol-20 E_
+
+8 systems 35 /20/20/20 /20/20/20/20/20 35/
+innerhead Lena Anne,   Stefan Grossman,  1972 live album
+
+/
+3 bars | 3 3 4 5 3 2 3 2   3 3 3 2 3 2 3 3 \
+ | 48 | 3 3 3 2 3 2 3 3 3 3 5 4 3 2 3 2 |
+# Da Capo
+| 2.069
+il1.4  30
+=1' 8 [b 16 c~# b 8 g# b] [b e B e]
+=1, 2 <e g#> d#
+|
+=1' 8 [b e bb a(1] [a)1 e B e]
+=1, 4. d 8 c#(2 2 c)2
+|
+=1' 8 [g# f# B e] [f# 16 g# f# 8 B e]
+=1, 2 B A
+/
+3 bars | 48 | 3 3 4 5 3 2 3 2   3 3 3 2 3 2 3 3 | 48 |
+|
+=1' 8 [e B c# e] [b g# e d#]
+=1, 4 G# 8 E-s., rest, 2 rest,
+| 2.069
+=1' 8 [b 16 c~# b 8 g# b] [b e B e]
+=1, 2 <e g#> d#
+|
+il1.5 .13 35
+=1' 8 [b e bb a(1] [a)1 e B e]
+=1, 4. d 8 c#(2 2 c)2
+/
+3 bars | 3 3 3 2 3 2 3 3 3 3 5 4 3 2 3 2 | 48 | 48 |
+|
+=1' 8 [g# f# B e] [f# 16 g# f# 8 B e]
+=1, 2 B A
+|
+r1.0  mm 120
+=1, 4 G# 2. blank
+=1' 4 e vol+20 <A_ D Gn> 8 <E_ E G#-.> 8 rest [<A c#> <D#l Gn>]
+I0.6 .18 f
+i0.8 .99 bend
+|
+I0.6 .81 p
+=1 8 [<C{2 E A> A_}2 G_ E_] [G_ A_ C#] vol-15 a
+/
+3 bars | 48 | 48 | 48 |
+|
+I0.7 .81 p
+=1, 8 [e d] vol+15 <G_ Ax B e-.-emph> rest \
+ [<A_ G c#--emph> <E_ D>] 4 <A_ E>
+=1' 2 blank 8 blank 4 A 8 vol-15 a
+I0.6 .18 f
+|
+il1.0 .13 40
+=1' 8 [e d] 4 blank 8 blank 4 A 16 [<d f#-s4-s3> <c e>]
+=1, 4 rest, 8 vol+15 <G_ Ax B e-.-emph> rest \
+ [<A_ G c#--emph> <E_ D>] 8 <A_-., E> rest,
+I0.6 .18 f
+|
+=1' 8 [<d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#> 8 rest <G cn>
+=1, 2 blank 8 rest,, E_ 4 A_
+/
+3 bars | 3/4 36  || 4/4 48 | 12 12 12 13 |
+| 1.5
+=1' 3/4 8 [<A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+| 2.07
+I0.5 p .99 mf
+=1' 4/4 vol-20 8 [d B A B] [c B A B]
+=1, 4/4 2 F# Fn
+|
+=1' 8 [e g e <A d>] <B e> rest' 4 <G c>
+=1, 4 <C G> 8 rest,, B_ E_ rest,, 4 A_
+/
+3 bars | 48 | 48 | 12 12 12 11 |
+|
+il0.8   45
+=1' 8 [e d A d] [e B A c]
+=1, 2 G_ 4 F_# 8 rest,, F_n
+|
+=1' 8 [d f e d] 4 <G B e> <B g>
+=1, 2 <B_b Ab> C
+|
+=1' 8 rest' [g e g] e rest' <Bx e c~#-s0-s3-s4> rest'
+=1, 4 <C G B> 2 blank 8 [A-s1, E_]
+/
+3 bars | 48 | 5/4 60 | 4/4 48 |
+|
+=1' 8 rest' [<G cn> <A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+=1, 8 A_ 8 rest,, 2. blank
+| 2.5
+=1, 5/4 8  [G_' A_' C#'] [a e d] vol+15 <G_ Ax B e-.-emph> rest [<A_ G c#--emph> <E_ D>]
+| 2.0
+il0.7 .03 50
+=1' 4/4 8 rest' vol-15 [a e d] 4. blank  8 A
+=1, 4/4 4 <A_ E> 4 rest, 8 vol+15 <G_ Ax B e-.-emph> rest [<A_ G c#--emph> <E_ D>]
+/
+3 bars | 3 3 4 5 3 3 4 3 3 4 3 3 3 3 3 2 | 48 | 24 19 ||
+|
+=1' 8 rest' 16 [<d f#-s4-s3> <c e> 8 <d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
+=1, 8 <A_-., E> rest,, 2 blank 8 rest,, E_
+|
+=1' 8 rest [<G cn> <A c#> <E A>] [<Cn A> A_ F_# E_]
+=1, 8 A_ 8 rest,, 2. blank
+| 0.52 .55 .59 .65
+=1' 8 rest B_ 4 C# 2 a
+=1, 4 G_ A_ rest,, A_
+I0.7 .69 p

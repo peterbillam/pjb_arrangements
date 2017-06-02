@@ -1,0 +1,266 @@
+head	1.3;
+access;
+symbols;
+locks
+	pjb:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2017.05.27.09.44.29;	author pjb;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2017.05.27.08.37.10;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2017.05.27.03.56.06;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Powder Rag from the 1972 live album
+@
+
+
+1.3
+log
+@up to bar 48, almost the end of the middle 8
+@
+text
+@8 systems 25 /20/20/20/20 /20/20/20/20 15/
+title Powder Rag
+pagenum
+innerhead Stefan Grossman, 1972 live album
+midi channel 0 patch 25 transpose -1  # +3
+/
+5 bars |3# 2/4 9| 10 12 12 10 |3/4 11 10 9 9 11 9|| 2/4 40| 8 6 6 6  6 6 6 5|
+| .3
+r1.0 .01 mm 100
+=1' treble8vab 3# cha0 leg99 vol100 
+# midi off
+=1' 3# 2/4 16 [c d]
+| 1.2
+=1' 8 leg60 [e-. e-.] [e-. e-.]
+=1, 8 [<A-., c> <A-., c>] [<A#-., c> <A#l-., c>]
+| 1.8
+=1' 3/4 8 leg60 e 4 leg99 f 8 [<A c> <B d> <cnl eb>]
+=1, 3/4 4. B blank
+=1, 3/4 8 rest,,, B_ 2 E_
+| 1.2
+=1' 2/4 8 leg60 [e e] [e e]
+=1, 2/4 2 c
+=1, 2/4 8 [A_ E] [E_ E]
+|
+=1' 16 leg99 [e d# leg60 e leg99 a(2] [a)2 g 8 f]
+=1, 8 [A_ E] [E_ E]
+/
+4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
+|
+il0.7 .09 5
+=1' 8 leg60 [c c] [<A c> <A c>]
+=1, 8 [A G F E]
+|
+=1' 16 leg99 [c B# leg60 c leg99 f(2] [f)2 e 8 c]
+=1, 8 [A_ E] [E_ E]
+|
+=1' 8 leg60 [B B] [B B]
+=1, 8 [E_ D] [E_ D(4]
+|
+=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 d 8 B]
+=1, 8 [<E_ D)4> D] [E_ E]
+/
+4 bars | 3# 11 11 11 10 | 7 7 6 6 6 6 7 6 | 48 | 7 6 6 6 6 6 6 5 |
+|
+il0.7 .09 9
+=1' 8 leg60 [A  leg99 A] [f gn]
+=1, 8 leg60 [A_ leg99 E] [C Cn]
+|
+=1' 16 leg99 [g gn leg60 g# leg99 e(2] [e)2 c d d#]
+=1, 8 leg60 [B_ E] [E_ E]
+|
+=1' 8 leg60 [e e] [e e]
+=1, 2 c
+=1, 8 [A_ E] [E_ E]
+|
+=1' 16 leg99 [e d# leg60 e leg99 a(2] [a)2 g 8 f]
+=1, 8 [A_ E] [E_ E]
+/
+4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
+|
+=1' 8 leg60 [c c] [<A c> <A c>]
+=1, 8 [A_ G_ F_ E_]
+|
+=1' 16 leg99 [c B# leg60 c leg99 f(2] [f)2 e 8 c]
+=1, 8 leg60 [A_ E] [F_ F]
+|
+il0.7 .01 15
+=1' 8 leg60 [B 16 leg99 B A#] 8 leg60 [B 16 leg99 B A#]
+=1, 8 leg60 [B_ F] [B_ F]
+|
+=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 d 8 c]
+=1, 8 leg60 [B_ F] [E_ E]
+/
+4 bars | 3# 11 12 12 12 | 11 11 12 10 || 11 11 11 10 | 7 6 6 6 6 6 6 5 |
+|
+=1' 8 [A 16 leg99 f e(2] [e)2 d c B]
+=1, 8 leg60 [A_ 16 F E(4] [E)4 D C B_]
+|
+=1' 8 leg60 A  leg99 [c d eb]
+=1, 8 leg60 A_ leg99 [A B cnl]
+| 1.2
+=1' 8 leg60 [e e] [e e]
+=1, 2 c
+=1, 8 [A_ E] [E_ E]
+|
+il1.0 .01 20
+=1' 16 leg99 [e d# leg60 e leg99 a(2] [a)2 g 8 f]
+=1, 8 [A_ E] [E_ E]
+/
+4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
+|
+=1' 8 leg60 [c c] [<A c> <A c>]
+=1, 8 [A G F E]
+|
+=1' 16 leg99 [c B# leg60 c leg99 f(2] [f)2 e 8 c]
+=1, 8 [A_ E] [E_ E]
+|
+=1' 8 leg60 [B B] [B B]
+=1, 8 [E_ D] [E_ D(4]
+|
+=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 16. f c]
+=1, 8 [<E_ D)4> D] [E_ E]
+/
+4 bars | 3# 11 11 11 10 | 7 7 6 6 6 6 7 6 | 48 | 7 6 6 6 6 6 6 5 |
+|
+il0.7 .09 25
+=1' 8 leg60 [A  leg99 A] [f gn]
+=1, 8 leg60 [A_ leg99 E] [C Cn]
+|
+=1' 16 leg99 [g gn leg60 g# leg99 e(2] [e)2 c d d#]
+=1, 8 leg60 [B_ E] [E_ E]
+| 1.2
+=1' 8 leg60 [e e] [e e]
+=1, 2 c
+=1, 8 [A_ E] [E_ E]
+|
+=1' 16 leg99 [e d# leg60 e leg99 a(2] [a)2 g 8 f]
+=1, 8 [A_ E] [E_ E]
+/
+4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
+|
+=1' 8 leg60 [c c] [<A c> <A c>]
+=1, 8 [A G F E]
+|
+il0.8 .01 30
+=1' 16 leg99 [c B# leg60 c leg99 f(2] [f)2 e 8 c]
+=1, 8 [A_ E] [E_ F]
+|
+=1' 8 leg60 [B 16 leg99 B A#] 8 leg60 [B 16 leg99 B A#]
+=1, 8 leg60 [B_ F] [B_ F]
+|
+=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 d 8 c]
+=1, 8 leg60 [B_ F] [E_ E]
+/
+4 bars | 3# 11 12 12 12 | 11 11 12 10 || 11 11 11 10 | 7 6 6 6 6 6 6 5 |
+|
+=1' 8 [A 16 leg99 D#-emph E] rest [B_#-emph 8 C]
+=1, 8 leg60 A_ 4. blank
+|
+=1' 8 <A_-emph, A> leg99 [A c leg60 e]
+|
+# middle 8
+il0.6 .01 35
+=1' 8 rest' <d b> rest' <d b>
+=1, 4 D D 
+|
+=1' 8 rest' 16 [<d b> a(2] [a)2 b 8 <d a>]
+=1, 4 D D 
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 leg60 [e <c f>] [e <c f>]
+=1, 8 [A_ E] [E_ E]
+|
+=1' 8 [e 16 leg99 <c f> e(2] [e)2 f 8 <c e>]
+=1, 8 leg60 [F_ G_ A_ A_#]
+|
+=1' 4 <B d#> <B d#>
+=1, 8 rest,, leg60 <B_ F> rest,, <B_ F>
+|
+il0.6 .01 40
+=1' 16 leg99 [B 8 c 16 e(2] [e)2 c 8 B]
+=1, 8  leg60 [E_ E] [E_ E]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 [c 16 A B(2] 4 B)2
+=1, 8  leg60 [A_ leg99 E] leg60 [E_ leg99 E]
+|
+=1' 8 [c 16 c B#(2] [B)2 8 c] 16 rest'
+=1, 8  leg60 [A_ leg99 E] leg60 [D# leg99 E]
+|
+=1' 8 rest' <d b> rest' <d b>
+=1, 4 D D
+|
+=1' 8 rest' 16 [<d b> a(2] [a)2 b 8 <d a>]
+=1, 4 D D
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+il0.6 .01 45
+=1' 8 leg60 [e <c f>] [e <c f>]
+=1, 8 [A_ E] [E_ E]
+|
+=1' 8 [e 16 leg99 <c f> e(2] [e)2 f 8 <c e>]
+=1, 8 leg60 [F_ G_ A_ A_#]
+|
+=1' 4 <B d#> <B d#>
+=1, 8 rest,, leg60 <B_ F> rest,, <B_ F>
+|
+=1' 16 leg99 [B 8 c 16 e(2] [e)2 c 8 B]
+=1, 8  leg60 [E_ E] [E_ E]
+@
+
+
+1.2
+log
+@up to bar 36
+@
+text
+@d1 1
+a1 1
+9 systems 25 /20/20/20/20 /20/20/20/20/20 15/
+d144 1
+a144 1
+=1' 8 rest' <f b> rest' <f b>
+d147 1
+a147 1
+=1' 8 rest' 16 [<f b> a(2] [a)2 b 8 <d a>]
+d149 44
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d46 1
+a46 1
+=1' 8 leg60 [A  leg99 e] [f gn]
+d71 1
+a71 1
+=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 d 8 B]
+d101 1
+a101 1
+=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 d 8 B]
+d103 46
+a148 2
+
+
+@
