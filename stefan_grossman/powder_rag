@@ -1,4 +1,4 @@
-9 systems 25 /20/20/20/20 /20/20/20/20/20 15/
+9 systems 25 /20 5/20 5/20 5/20/20/20/20/20/20 5/
 title Powder Rag
 pagenum
 innerhead Stefan Grossman, 1972 live album
@@ -6,23 +6,25 @@ midi channel 0 patch 25 transpose -1  # +3
 /
 5 bars |3# 2/4 9| 10 12 12 10 |3/4 11 10 9 9 11 9|| 2/4 40| 8 6 6 6  6 6 6 5|
 | .3
-r1.0 .01 mm 100
+r1.0 mm 100
 =1' treble8vab 3# cha0 leg99 vol100 
-=1' 3# 2/4 16 [c d]
+=1' 3# 2/4 16 [c-s3 d-s4]
+rs0.1 .95 3
+rs0.5 .95 2
 | 1.2
 =1' 8 leg60 [e-. e-.] [e-. e-.]
-=1, 8 [<A-., c> <A-., c>] [<A#-., c> <A#l-., c>]
+=1, 8 [<A-., c> <A-., c>] [<A#-.,-s4, c> <A#l-., c>]
 | 1.8
-=1' 3/4 8 leg60 e 4 leg99 f 8 [<A c> <B d> <cnl eb>]
-=1, 3/4 4. B blank
-=1, 3/4 8 rest,,, B_ 2 E_
+=1' 3/4 8 leg60 e 4 leg99 f-s2 8 [<A c> <B d-s4-s3> <cnl eb>]
+=1, 3/4 4. <B dr---s4-s3> blank
+=1, 3/4 8 rest,,, B_-s1, 2 E_
 | 1.2
-=1' 2/4 8 leg60 [e e] [e e]
+=1' 2/4 8 leg60 [e-s2-s0 e] [e e]
 =1, 2/4 2 c
 =1, 2/4 8 [A_ E] [E_ E]
 |
-=1' 16 leg99 [e d# leg60 e leg99 a(2] [a)2 g 8 f]
-=1, 8 [A_ E] [E_ E]
+=1' 16 leg99 [e d#-s3 leg60 e leg99 a(2-s4] [a)2 g-s4 8 f-s2]
+=1, 8 [A_ E-s1,] [E_ E-s1,]
 /
 4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
 |
@@ -30,8 +32,8 @@ il0.7 .09 5
 =1' 8 leg60 [c c] [<A c> <A c>]
 =1, 8 [A G F E]
 |
-=1' 16 leg99 [c B# leg60 c leg99 f(2] [f)2 e 8 c]
-=1, 8 [A_ E] [E_ E]
+=1' 16 leg99 [c{2-s3 B#}2-s1 leg60 c leg99 f(2] [f)2 e 8 c]
+=1, 8 [A_ E-s2,] [E_ E]
 |
 =1' 8 leg60 [B B] [B B]
 =1, 8 [E_ D] [E_ D(4]
@@ -42,11 +44,12 @@ il0.7 .09 5
 4 bars | 3# 11 11 11 10 | 7 7 6 6 6 6 7 6 | 48 | 7 6 6 6 6 6 6 5 |
 |
 il0.7 .09 9
-=1' 8 leg60 [A  leg99 A] [e f]
-=1, 8 leg60 [A_ leg99 E] [C Cn]
+=1' 8 leg60 [A  leg99 A] [e f-s2]
+=1, 8 leg60 [A_ leg99 E] [C-s4, Cn-s3,]
 |
-=1' 16 leg99 [g gn leg60 g# leg99 e(2] [e)2 c d d#]
-=1, 8 leg60 [B_ E] [E_ E]
+rs0.7 4
+=1' 16 leg99 [g{'1 gn}'1 leg60 g# leg99 e(2] [e)2 c-s2 d-s3 d#]
+=1, 8 leg60 [B_-s1, E] [E_ E-s1,]
 |
 =1' 8 leg60 [e e] [e e]
 =1, 2 c
@@ -55,7 +58,7 @@ il0.7 .09 9
 =1' 16 leg99 [e d# leg60 e leg99 a(2] [a)2 g 8 f]
 =1, 8 [A_ E] [E_ E]
 /
-4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
+4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 6 5 7 6 6 5 7 5 | 7 6 6 6 6 6 6 5 |
 |
 =1' 8 leg60 [c c] [<A c> <A c>]
 =1, 8 [A_ G_ F_ E_]
