@@ -1,4 +1,4 @@
-10 systems 50 / 19 30/19 30/19/19 30/19 30/19 30/ 19/19 30/19/19 20 /
+9 systems 50 / 19 30/19/19 30/19 30/19 30/ 19/19 30/19 10/19 5 /
 pagenum
 midi channel 0 patch 25
 
@@ -19,26 +19,15 @@ i3.3 .01 pick, swung
 =1, 8 rest,, 4 D-down, D-down, D-down, 8 D-down,
 |
 =1' 8 [<G b d~-s4-s2-up> <bb d~b-s3-s1>] [<a c~> <g bn-s2-s1>] 2 rest''
-
-midi off
-
 midi pause 2.0
-# 20140401
-/
-2 bars | 48 |
-| 2.4
-=1 8 <e G, c~ e-s3-s0-s1-s0> 16 A_ 8 <dx G, bb e> \
- 8. <c# G, a e> 16 A_ 8 <B G, g e> 16 A_
-|
-=1 8 [<c#' G a' e'> 16 A_] 8 [<dx G, bb e> 16 <c# G, a e>] \
- 8 [A_ 16 A] [E_{4 F_#}4 A_]
+
 
 midi pause 2.0
 # 20140401
 /
 2 bars | 48 |
 | 2.8
-i0.9 .30 20141102  morse_thue?four:three?
+i1.2 .30 20141102  morse_thue?four:three?
 =1 16 cc64=127 \
  [E_ G#-s3-gs4 B'-s0 e'-s0] [F#-s3 A B'] [G#,-s3 B-s0 e] [A,-s3 c# B e]
 |
@@ -107,21 +96,23 @@ midi pause 2.0
 /
 2 bars | 60 | 60 |
 | 1.8
-=1, treble8vab cc64=99 8 [A_-s2,-gs6 16 A_-gs5 A-s4,-gs4] \
- [A_-gs5 A-s4, c#-s3,-gs3 A-s4,] [c#-s3, b-gs2 c#-s3, b]
+=1 treble8vab cc64=99 8 [A_-s2-gs6 16 A_-gs5 A-s4,-gs4] \
+ [A_-gs5 A-s4, c#'-s3,-gs3 A-s4,] [c#-s3, b-gs2 c#-s3, b]
 |
-=1, 8 [e-gs1 16 b-gs2 c#-s3,] [b-gs2 c#-s3, A-s4, c#-s3,] \
+=1 8 [e-gs1 16 b-gs2 c#-s3,] [b-gs2 c#-s3, A,-s4, c#-s3,] \
  [A-s4, A_-gs5 A-s4, A_-gs5] cc64=0
 /
 2 bars | 55 | 55 |
 | 1.55
-=1, treble8vab cc64=99 16 [A_-s2,-gs6 16 A_-gs5 A-s4,-gs4 A_-gs5] \
- [A-s4, c#-s3,-gs3 A-s4, c#-s3,] [b-gs2 c#-s3, b]
+=1 treble8vab cc64=99 16 [A_-s2,-gs6 16 A_-gs5 A-s4,-gs4 A_-gs5] \
+ [A,-s4, c#-s3,-gs3 A,-s4, c#-s3,] [b-gs2 c#-s3, b]
 |
-=1, 16 [e-gs1 b-gs2 c#-s3, b-gs2] [c#-s3, A-s4, c#-s3, A-s4,] \
+=1 16 [e-gs1 b-gs2 c#-s3, b-gs2] [c#-s3, A,-s4, c#-s3, A,-s4,] \
  [A_-gs5 A-s4, A_-gs5] cc64=0
 
-8 systems 30 / 20 10/20 35/20/20/20/20/20/20/20/
+midi on
+
+8 systems 30 / 20 15/20 35/20 35/20/20/20/20/20/20/
 pagenum
 midi channel 0 patch 25
 
@@ -157,7 +148,17 @@ Il2.0 see book AQ p.1,  ~/mus/midi/20170224_loop_30
 =1' 8. rest'' <c f# a>
 =1, 8 [e-s4, 16 E] 8 E_ 16 rest,,
 
-midi on
+# 20140401
+/
+2 bars | 48 |
+| 2.2
+=1 cha0 8 <e G, c~ e-s3-s0-s1-s0> 16 A_ 8 <dx G, bb e> \
+ 8. <c# G, a e> 16 A_ 8 <B G, g e> 16 A_
+|
+=1 8 [<c#' G a' e'> 16 A_] 8 [<dx G, bb e> 16 <c# G, a e>] \
+ 8 [A_ 16 A] [E_{4 F_#}4 A_]
+
+midi off
 
 /
 3 bars | 50 | 50 | 50 |
@@ -191,5 +192,5 @@ Il2.0 see book AQ p.2
 |
 =1 cc64=127 16 [D F_ C] 8 [D cc64=0 cc64=127 16 A_b-s4 C-s3 D-s0] cc64=0
 |
-=1 cc64=127 16 [E G# c'] 8. e(1 8 e)1 cc64=0
+=1 cc64=127 16 [E G# c'] 8 [e(1 8. e)1] cc64=0
 
