@@ -8,7 +8,7 @@
 # 20_matesa.wav      sounds in D; could be opne, or capo in 2nd
 # 22_powder_rag.wav  in A; no capo
 
-PLAY = powder_rag
+PLAY = matesa
 SRCDIR = /home/cds/folk/stefan_grossman/1972_live
 LENAWAV    = ${SRCDIR}/04_lena_anne.wav
 DALLASWAV  = ${SRCDIR}/17_dallas_rag.wav
@@ -37,7 +37,7 @@ lena_anne_slow.wav : ${LENAWAV}
 dallas__rag_slow.wav : ${DALLASWAV}
 	sox ${DALLASWAV} $@ speed 0.7071  # standard tuning, capo on 5th
 matesa_slow.wav : ${MATESAWAV}
-	sox ${MATESAWAV} $@ speed 0.8409  # standard tuning, capo on 2nd ?
+	sox ${MATESAWAV} $@ speed 0.8409 tempo 0.75  # standard tuning, capo on 2nd ?
 powder_rag_slow.wav : ${POWDERWAV}
 	sox ${POWDERWAV} $@ speed 0.9439 tempo 0.8
 clean :
