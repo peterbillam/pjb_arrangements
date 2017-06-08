@@ -1,0 +1,181 @@
+head	1.2;
+access;
+symbols;
+locks
+	pjb:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2017.06.08.03.35.50;	author pjb;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2017.06.07.08.15.48;	author pjb;	state Exp;
+branches;
+next	;
+
+
+desc
+@Dallas Rag, from the 1972 live album
+@
+
+
+1.2
+log
+@34 bars - but is it in C with copa on 2nd ?
+@
+text
+@9 systems 25 /20 5/20 5/20 5/20/20/20/20/20/20 5/
+title Dallas Rag
+pagenum
+innerhead Stefan Grossman, 1972 live album
+midi channel 0 patch 25 transpose -1  # +3
+/
+4 bars | 3# 2/4 20 15 | 20 15 | 20 15 | 13 15 ||
+| .135 .123 .135 .123 .135 .123 .135 .123
+b0.9 capo on 5th   (or in C with capo on 2nd ?)
+=1' treble8vab 3# cha0 leg99 vol100  cc64=0
+=1' 3# 2/4 16 [E{'1 D E F}'1] 8 [E 16-s <B_ E G>] rest
+=1, 3# 2/4 4 E_ E_
+r0.9 mm 116
+|
+=1' 16 [E{'1 D E F}'1] 8 [E 16-s <B_ E G>] rest
+=1, 4 E_ E_
+|
+=1' 16 [E 8 E 16 E] 8 [F Gn]
+=1, 4 E_ E_
+|
+=1' 4 G# 8 <E_ Dn G B e-.> rest
+=1, 4 E_ blank
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 [E F] [G 16 d{2 c}2]
+=1, 8 [E_ D] [E_ D]
+|
+=1' 16 [d{2 c d}2 e] 8 [c B]
+=1, 8 [E_ D] [F_ G_]
+|
+=1' 8 [A 16 B c] 8 [c c]
+=1, 8 [A_ E] [A_ E]
+|
+=1' 16 rest' 8 [f 16 f(2]  [f)2 8. g]
+=1, 8 [A_ A] [A_ A]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 rest' 16 [g{2 f##}2] [g 8 e 16 f##]
+=1, 8 [E d] [E d]
+|
+=1' 16 [g{2 f##}2 g e(2] 4 e)2
+=1, 8 [E d] [E d]
+|
+=1' 16 [b# c~ rest' g] 8 a rest'
+=1, 8 A rest, rest, 16-s <E A> 16 rest,
+|
+=1' 16 [e f e B#] [c A F E]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' [E 8 F] [G 16 d{2 c}2]
+=1, 8 [E_ D] [E_ D]
+|
+=1' 16 [d{2 c d}2 e] 8 [c B]
+=1, 8 [E_ D] [F_ G_]
+|
+=1' 8 [A 16 B c] 8 [c c]
+=1, 8 [A_ E] [A_ E]
+|
+=1' 16 rest' 8 [f 16 f(2]  [f)2 8. g]
+=1, 8 [A_ A] [A_ 16-s <E A>] 16 rest,
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 [a a] 16 [a 8. f]
+=1, 8 [D 16-s <D A>] 16 rest, 8 [D E]
+|
+=1' 16 [e d# e f(2] [f)2 e 8 c]
+=1, 8 [A G] [F Fn]
+|
+=1' 8 [E F] [G c]
+=1, 8 [E D] [C B_]
+|
+=1' 8 [A-. c] [d d#]
+=1, 8 [A_ G_] [F_ F_n]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 rest e 16 rest' 8. e
+=1, 8 [E_ D] [E_ D]
+|
+=1' 16 rest' e 8 rest' 16 rest' 8. e
+=1, 8 [E_ D] [E_ D]
+|
+=1' 8 [e e] 8 [c e]
+=1, 8 [A_ E] [A_ 16-s <E A>] rest,
+|
+=1' 16 rest' e 8 rest' 16 rest' 8. e
+=1, 8 [A_ E] [A_ E]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' 8 e 16 rest' [c 8. B]
+=1, 8 [E_ D] [E_ D]
+|
+=1' 16 rest' e 8 rest' 16 rest' 8 e 32-s [f## g]
+=1, 8 [E_ D] [E_ D]
+|
+=1' 16 [a f e c] [B A F E]
+|
+=1' 8 [<B_ D> <G_# D>] [<F_# D B> <E_ D B>]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' 8 e 16 rest' [c 8. B]
+=1, 8 [E_ D] [E_ D]
+|
+=1' 16 rest' e 8 rest' 16 rest' 8. e
+=1, 8 [E_ D] [E_ D]
+|
+=1' 8 [e e] 16 [c 8. e]
+=1, 8 [A_ E] [A_ 16-s <E A>] rest,
+|
+=1' 8 rest' [A G Gn]
+=1,  8 [A_ B_ Cn C#]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 4 <D_ A> <D_ B>
+=1, 8 blank <D-., F> blank <D-., F>
+|
+=1' 4 <E_ c> <F_ e>
+=1, 8 blank <E-., A> blank <E-., A#>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d8 3
+a10 3
+| 1.034
+b0.9 capo on 5th
+=1' treble8vab 4# cha0 leg99 vol100  cc64=0
+d40 1
+a40 1
+=1' 8 rest' 16 [g{2 gn}2] [g# 8 e 16 gn]
+d43 1
+a43 1
+=1' 16 [g{2 gn}2 g# e(2] 4 e)2
+d63 1
+a63 1
+=1, 8 [A_ A] [A_ A]
+d68 1
+a68 1
+=1, 8 [D A] [D E]
+d78 48
+@
