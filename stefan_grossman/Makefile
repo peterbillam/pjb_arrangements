@@ -35,9 +35,9 @@ playslow : ${PLAY}_slow.wav
 lena_anne_slow.wav : ${LENAWAV}
 	sox ${LENAWAV}   $@ speed 0.8409  # standard tuning, capo on 2nd
 dallas_rag_slow.wav : ${DALLASWAV}
-	sox ${DALLASWAV} $@ speed 0.7071  # standard tuning, capo on 5th
+	sox ${DALLASWAV} $@ speed 0.8409 tempo 0.75 # standard tuning, capo on 5th
 matesa_slow.wav : ${MATESAWAV}
-	sox ${MATESAWAV} $@ speed 0.8409 tempo 0.75  # standard tuning, capo on 2nd ?
+	sox ${MATESAWAV} $@ speed 0.8409 tempo 0.75  # standard tuning, capo on 2nd
 powder_rag_slow.wav : ${POWDERWAV}
 	sox ${POWDERWAV} $@ speed 0.9439 tempo 0.8
 clean :

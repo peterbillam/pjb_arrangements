@@ -1,10 +1,20 @@
-head	1.2;
+head	1.4;
 access;
 symbols;
 locks
-	pjb:1.2; strict;
+	pjb:1.4; strict;
 comment	@# @;
 
+
+1.4
+date	2017.06.10.08.01.41;	author pjb;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2017.06.10.05.58.19;	author pjb;	state Exp;
+branches;
+next	1.2;
 
 1.2
 date	2017.06.08.03.35.50;	author pjb;	state Exp;
@@ -22,9 +32,9 @@ desc
 @
 
 
-1.2
+1.4
 log
-@34 bars - but is it in C with copa on 2nd ?
+@roughly up to bar 68
 @
 text
 @9 systems 25 /20 5/20 5/20 5/20/20/20/20/20/20 5/
@@ -35,121 +45,425 @@ midi channel 0 patch 25 transpose -1  # +3
 /
 4 bars | 3# 2/4 20 15 | 20 15 | 20 15 | 13 15 ||
 | .135 .123 .135 .123 .135 .123 .135 .123
+b1.1 capo on 2nd
+r1.1 .40 mm 116
+=1' treble8vab  cha0 leg99 vol100 cc64=0
+=1' treble8vab 2/4 16 [G{'1 F G A}'1] 8 [G 16-s <D G B>] rest
+=1, treble8vab 2/4 4 G_ G_
+|
+=1' 16 [G{'1 F G A}'1] 8 [G 16-s <D G B>] rest
+=1, 4 G_ G_
+|
+=1' 16 [G 8 G 16 G] 8 [A Bb]
+=1, 4 G_ G_
+|
+=1' 4 B 8 <G_ F B d g-.> rest
+=1, 4 G_ blank
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+il0.7 .03 5
+=1' 8 [G A] [B 16 f{2 e}2]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 [f{2 e f}2 g] 8 [e d]
+=1, 8 [G_ F] [A_ B_]
+|
+=1' 8 [c 16 d e] 8 [e e]
+=1, 8 [C G] [C G]
+|
+=1' 16 rest' 8 [a 16 a(2] [a)2 8. b]
+=1, 8 [C c] [C c]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+il0.7 .03 9
+=1' 8 rest' 16 [b{2 a#}2] [b 8 g 16 a#]
+=1, 8 [G f] [G f]
+|
+=1' 16 [b{2 a#}2 b g(2] 4 g)2
+=1, 8 [G f] [G f]
+|
+=1' 16 [d~# e~ rest'' b] 8 c~ rest''
+=1, 8 c rest, rest, 16-s <G c> 16 rest,
+|
+=1' 16 [g a g d#] [e c A G]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' [G 8 A] [B 16 f{2 e}2]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 [f{2 e f}2 g] 8 [e d]
+=1, 8 [G_ F] [A_ B_]
+|
+il0.8 .01 15
+=1' 8 [c 16 d e] 8 [e e]
+=1, 8 [C G] [C G]
+|
+=1' 16 rest' 8 [a 16 a(2] [a)2 8. b]
+=1, 8 [C c] [C 16-s <G c>] 16 rest,
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 [c~ c~] 16 [c~ 8. a]
+=1, 8 [F 16-s <F c>] 16 rest, 8 [F G]
+|
+=1' 16 [g f# g a(2] [a)2 g 8 e]
+=1, 8 [c B] [A G#]
+|
+=1' 8 [G A] [B e]
+=1, 8 [G F] [E D]
+|
+il0.8 .02 20
+=1' 8 [c-. e] [f f#]
+=1, 8 [C B_] [A_ G_#]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 rest' g 16 rest' 8. g
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 rest' g 8 rest' 16 rest' 8. g
+=1, 8 [G_ F] [G_ F]
+|
+=1' 8 [g g] 8 [e g]
+=1, 8 [C G] [C 16-s <G c>] rest,
+|
+=1' 16 rest' g 8 rest' 16 rest' 8. g
+=1, 8 [C G] [C G]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+il0.7   25
+=1' 16 rest' 8 g 16 rest' [e 8. d]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 rest' g 8 rest' 16 rest' 8 g 32-s [a# b]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 [c~ a g e] [c A G E]
+|
+=1' 8 [D <B_ G>] [<A_ F d> <G_ F d>]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' 8 g 16 rest' [e 8. d]
+=1, 8 [G_ F] [G_ F]
+|
+il0.7 .01 30
+=1' 16 rest' g 8 rest' 16 rest' 8. g
+=1, 8 [G_ F] [G_ F]
+|
+=1' 8 [g g] 16 [e 8. g]
+=1, 8 [C G] [C 16-s <G c>] rest,
+|
+=1' 8 rest' [c B Bb]
+=1, 8 [C D D# E]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 4 <F_ c> <F_# d>
+=1, 8 blank <F-., A> blank <F-., A>
+|
+=1' 4 <G_ e> <A_ g>
+=1, 8 blank <G-., c> blank <G-., c#>
+|
+il0.5 .20 35
+=1' 4 <F_# A> <G_ e>
+=1, 8 blank F#-., blank <G-., B>
+|
+=1' 4 c rest'
+=1, 8 [C G_] [C D]
+
+9 systems 25 /20 5/20 5/20 5/20/20/20/20/20/20 5/
+pagenum
+innerhead Dallas Rag,  Stefan Grossman, 1972 live album
+
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 [G A] [B 16 f{2 e}2]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 [f{2 e f}2 g] 8 [e d]
+=1, 8 [G_ F] [A_ B_]
+|
+=1' 8 [c 16 d e] 8 [e e]
+=1, 8 [C G] [C G]
+|
+il0.9 .01 40
+=1' 16 rest' 8 [a 16 a(2] [a)2 8. b]
+=1, 8 [C c] [C c]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' 16 [a# b{2 a#}2] [b 8 g 16 a#]
+=1, 8 [G f] [G f]
+|
+=1' 16 [b{2 a#}2 b g(2] 4 g)2
+=1, 8 [G f] [G f]
+|
+=1' 16 [d~# e~ rest'' b] 8 c~ rest''
+=1, 8 c rest, rest, 16-s <G c> 16 rest,
+|
+=1' 16 [g a g d#] [e c A G]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+il0.7 .03 45
+=1' 16 rest' [G 8 A] [B 16 f{2 e}2]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 [f{2 e f}2 g] 8 [e d]
+=1, 8 [G_ F] [A_ B_]
+|
+=1' 8 [c 16 d e] 8 [e e]
+=1, 8 [C G] [C G]
+|
+=1' 16 rest' 8 [a 16 a(2] [a)2 8. b]
+=1, 8 [C c] [C 16-s <G c>] 16 rest,
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 8 [c~ c~] 16 [c~ 8 a 16 e]
+=1, 8 [F 16-s <F c>] 16 rest, 8 [F G]
+|
+=1' 16 [g f# g a(2] [a)2 g 8 e]
+=1, 8 [c B] [A G#]
+|
+il0.7 .03 51
+=1' 8 [G A] [B e]
+=1, 8 [G F] [E D]
+|
+=1' 8 [c-. e] [f f#]
+=1, 8 [<C G> B_] [<A_ B> G_#]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' 8 g 16 rest' [e 8 d 16 B(2]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 rest' g 8 rest' 16 rest' 8. g
+=1, 8 [<G_ B)2> F] [G_ F]
+|
+il0.9 .40 55
+=1' 16 rest' 8 g 16 rest'  16 [g e d c(2]
+=1, 8 [C G] [C G]
+|
+=1' 16 [c)2 8 g 16 e] 16 rest' [g e d(2]
+=1, 8 [C G] [C G]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 [d)2 8 g] 16 rest' rest' 8 [d 16 B(2]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 rest' g 8 rest' 16 rest' 8 g 16 rest'
+=1, 8 [<G_ B)2> F] [G_ F]
+|
+=1' 8 [g-emph 16 f# g] [e c 8 A]
+|
+il0.7 .01 60
+# =1' 8 [D <B_ G>] [<A_ F d> <G_ F d>]
+=1' 16 [D#-emph 8 E 16 D#-emph] 8 [E E-emph]
+=1, 8. [<G_rx C> 16 <G_rx(2 C(4>] 8 [<G_)2 C)4> <G_ C>]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+=1' 16 rest' 8 g 16 rest' [e 8. d]
+=1, 8 [G_ F] [G_ F]
+|
+=1' 16 rest' g 8 rest' 16 rest' 8. g
+=1, 8 [G_ F] [G_ F]
+|
+=1' 8 [g g] 16 [e 8. c]
+=1, 8 [C G] [C G]
+|
+=1' 8 rest' [c B Bb]
+=1, 8 [C D D# E]
+/
+4 bars | 3# 48 | 48 | 48 | 48 |
+|
+il0.5 .02 65
+=1' 4 <F_ c> <F_# d>
+=1, 8 blank <F-., A> blank <F-., A>
+|
+=1' 4 <G_ e> <A_ g>
+=1, 8 blank <G-., c> blank <G-., c#>
+|
+=1' 4 <F_# A> <G_ e>
+=1, 8 blank F#-., blank <G-., B>
+|
+=1' 4 c rest'
+=1, 8 [C G_] [C D]
+@
+
+
+1.3
+log
+@in C because of the F_ in bar 37
+@
+text
+@d26 1
+d41 1
+d61 1
+d79 1
+d99 1
+d106 1
+a106 1
+=1' 16 [c~ a g e] [d c A G]
+d108 1
+a108 1
+=1' 8 [<D F> <B_ G>] [<A_ F d> <G_ F d>]
+d115 1
+d127 1
+a127 1
+=1' 4 <F_ c> <F_ d>
+d133 1
+d136 125
+@
+
+
+1.2
+log
+@34 bars - but is it in C with copa on 2nd ?
+@
+text
+@d9 5
+a13 5
 b0.9 capo on 5th   (or in C with capo on 2nd ?)
 =1' treble8vab 3# cha0 leg99 vol100  cc64=0
 =1' 3# 2/4 16 [E{'1 D E F}'1] 8 [E 16-s <B_ E G>] rest
 =1, 3# 2/4 4 E_ E_
 r0.9 mm 116
-|
+d15 2
+a16 2
 =1' 16 [E{'1 D E F}'1] 8 [E 16-s <B_ E G>] rest
 =1, 4 E_ E_
-|
+d18 2
+a19 2
 =1' 16 [E 8 E 16 E] 8 [F Gn]
 =1, 4 E_ E_
-|
+d21 2
+a22 2
 =1' 4 G# 8 <E_ Dn G B e-.> rest
 =1, 4 E_ blank
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d26 2
+a27 2
 =1' 8 [E F] [G 16 d{2 c}2]
 =1, 8 [E_ D] [E_ D]
-|
+d29 2
+a30 2
 =1' 16 [d{2 c d}2 e] 8 [c B]
 =1, 8 [E_ D] [F_ G_]
-|
+d32 2
+a33 2
 =1' 8 [A 16 B c] 8 [c c]
 =1, 8 [A_ E] [A_ E]
-|
+d35 2
+a36 2
 =1' 16 rest' 8 [f 16 f(2]  [f)2 8. g]
 =1, 8 [A_ A] [A_ A]
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d40 2
+a41 2
 =1' 8 rest' 16 [g{2 f##}2] [g 8 e 16 f##]
 =1, 8 [E d] [E d]
-|
+d43 2
+a44 2
 =1' 16 [g{2 f##}2 g e(2] 4 e)2
 =1, 8 [E d] [E d]
-|
+d46 2
+a47 2
 =1' 16 [b# c~ rest' g] 8 a rest'
 =1, 8 A rest, rest, 16-s <E A> 16 rest,
-|
+d49 1
+a49 1
 =1' 16 [e f e B#] [c A F E]
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d53 2
+a54 2
 =1' 16 rest' [E 8 F] [G 16 d{2 c}2]
 =1, 8 [E_ D] [E_ D]
-|
+d56 2
+a57 2
 =1' 16 [d{2 c d}2 e] 8 [c B]
 =1, 8 [E_ D] [F_ G_]
-|
+d59 2
+a60 2
 =1' 8 [A 16 B c] 8 [c c]
 =1, 8 [A_ E] [A_ E]
-|
+d62 2
+a63 2
 =1' 16 rest' 8 [f 16 f(2]  [f)2 8. g]
 =1, 8 [A_ A] [A_ 16-s <E A>] 16 rest,
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d67 2
+a68 2
 =1' 8 [a a] 16 [a 8. f]
 =1, 8 [D 16-s <D A>] 16 rest, 8 [D E]
-|
+d70 2
+a71 2
 =1' 16 [e d# e f(2] [f)2 e 8 c]
 =1, 8 [A G] [F Fn]
-|
+d73 2
+a74 2
 =1' 8 [E F] [G c]
 =1, 8 [E D] [C B_]
-|
+d76 2
+a77 2
 =1' 8 [A-. c] [d d#]
 =1, 8 [A_ G_] [F_ F_n]
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d81 2
+a82 2
 =1' 8 rest e 16 rest' 8. e
 =1, 8 [E_ D] [E_ D]
-|
+d84 2
+a85 2
 =1' 16 rest' e 8 rest' 16 rest' 8. e
 =1, 8 [E_ D] [E_ D]
-|
+d87 2
+a88 2
 =1' 8 [e e] 8 [c e]
 =1, 8 [A_ E] [A_ 16-s <E A>] rest,
-|
+d90 2
+a91 2
 =1' 16 rest' e 8 rest' 16 rest' 8. e
 =1, 8 [A_ E] [A_ E]
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d95 2
+a96 2
 =1' 16 rest' 8 e 16 rest' [c 8. B]
 =1, 8 [E_ D] [E_ D]
-|
+d98 2
+a99 2
 =1' 16 rest' e 8 rest' 16 rest' 8 e 32-s [f## g]
 =1, 8 [E_ D] [E_ D]
-|
+d101 1
+a101 1
 =1' 16 [a f e c] [B A F E]
-|
+d103 1
+a103 1
 =1' 8 [<B_ D> <G_# D>] [<F_# D B> <E_ D B>]
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d107 2
+a108 2
 =1' 16 rest' 8 e 16 rest' [c 8. B]
 =1, 8 [E_ D] [E_ D]
-|
+d110 2
+a111 2
 =1' 16 rest' e 8 rest' 16 rest' 8. e
 =1, 8 [E_ D] [E_ D]
-|
+d113 2
+a114 2
 =1' 8 [e e] 16 [c 8. e]
 =1, 8 [A_ E] [A_ 16-s <E A>] rest,
-|
+d116 2
+a117 2
 =1' 8 rest' [A G Gn]
 =1,  8 [A_ B_ Cn C#]
-/
-4 bars | 3# 48 | 48 | 48 | 48 |
-|
+d121 2
+a122 2
 =1' 4 <D_ A> <D_ B>
 =1, 8 blank <D-., F> blank <D-., F>
-|
+d124 5
+a128 2
 =1' 4 <E_ c> <F_ e>
 =1, 8 blank <E-., A> blank <E-., A#>
 @
