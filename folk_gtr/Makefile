@@ -69,6 +69,7 @@ songs : october_song aint_necessarily_so \
 
 folk_gtr_solos : ../davey_graham/angi \
   ../bert_jansch/smokey_river \
+  ../stefan_grossman/matesa \
   ../bert_jansch/veronica \
   ../davey_graham/blue_monk \
   ../bert_jansch/wheel \
@@ -79,6 +80,7 @@ folk_gtr_solos : ../davey_graham/angi \
   london_rag
 	cat ../davey_graham/angi \
 	  ../bert_jansch/smokey_river \
+	  ../stefan_grossman/matesa \
 	  ../bert_jansch/veronica \
 	  ../davey_graham/blue_monk \
 	  ../bert_jansch/wheel \
