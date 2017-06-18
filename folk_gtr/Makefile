@@ -68,26 +68,29 @@ songs : october_song aint_necessarily_so \
 	  emily_has_gone my_home_town river_man new_speedway_boogie > $@
 
 folk_gtr_solos : ../davey_graham/angi \
-  ../bert_jansch/smokey_river \
-  ../stefan_grossman/matesa \
-  ../bert_jansch/veronica \
   ../davey_graham/blue_monk \
+  ../davey_graham/cry_me_a_river \
+  ../stefan_grossman/matesa \
+  ../stefan_grossman/lena_anne \
+  ../bert_jansch/alices_wonderland \
+  ../bert_jansch/veronica \
+  ../bert_jansch/smokey_river \
   ../bert_jansch/wheel \
   whisper_not \
-  ../bert_jansch/alices_wonderland \
   entertainer \
-  ../davey_graham/cry_me_a_river \
   london_rag
-	cat ../davey_graham/angi \
-	  ../bert_jansch/smokey_river \
-	  ../stefan_grossman/matesa \
-	  ../bert_jansch/veronica \
+	cat \
+	  ../davey_graham/angi \
 	  ../davey_graham/blue_monk \
+	  ../davey_graham/cry_me_a_river \
+	  ../stefan_grossman/matesa \
+	  ../stefan_grossman/lena_anne \
+	  ../bert_jansch/alices_wonderland \
+	  ../bert_jansch/veronica \
+	  ../bert_jansch/smokey_river \
 	  ../bert_jansch/wheel \
 	  whisper_not \
-	  ../bert_jansch/alices_wonderland \
 	  entertainer \
-	  ../davey_graham/cry_me_a_river \
 	  london_rag > $@
 
 folk_gtr_solos.ps : folk_gtr_solos
