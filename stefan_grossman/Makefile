@@ -8,7 +8,7 @@
 # 20_matesa.wav      sounds in D; could be opne, or capo in 2nd
 # 22_powder_rag.wav  in A; no capo
 
-PLAY = dallas_rag
+PLAY = lena_anne
 SRCDIR = /home/cds/folk/stefan_grossman/1972_live
 LENAWAV    = ${SRCDIR}/04_lena_anne.wav
 DALLASWAV  = ${SRCDIR}/17_dallas_rag.wav
