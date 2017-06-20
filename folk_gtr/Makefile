@@ -71,6 +71,7 @@ folk_gtr_solos : ../davey_graham/angi \
   ../davey_graham/blue_monk \
   ../davey_graham/cry_me_a_river \
   ../stefan_grossman/matesa \
+  ../stefan_grossman/powder_rag \
   ../stefan_grossman/lena_anne \
   ../bert_jansch/alices_wonderland \
   ../bert_jansch/veronica \
@@ -84,6 +85,7 @@ folk_gtr_solos : ../davey_graham/angi \
 	  ../davey_graham/blue_monk \
 	  ../davey_graham/cry_me_a_river \
 	  ../stefan_grossman/matesa \
+	  ../stefan_grossman/powder_rag \
 	  ../stefan_grossman/lena_anne \
 	  ../bert_jansch/alices_wonderland \
 	  ../bert_jansch/veronica \

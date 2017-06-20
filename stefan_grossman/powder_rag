@@ -15,8 +15,8 @@ rs0.5 .95 2
 =1' 8 leg60 [e-. e-.] [e-. e-.]
 =1, 8 [<A-., c> <A-., c>] [<A#-.,-s4, c> <A#l-., c>]
 | 1.8
-=1' 3/4 8 leg60 e 4 leg99 f-s2 8 [<A c> <B d-s4-s3> <cnl eb>]
-=1, 3/4 4. <B dr---s4-s3> blank
+=1' 3/4 8 leg60 e-s4-s3-s0 4 leg99 f-s2 8 [<A c> <B d-s4-s3> <cnl eb>]
+=1, 3/4 4. <Brx d> blank
 =1, 3/4 8 rest,,, B_-s1, 2 E_
 | 1.2
 =1' 2/4 8 leg60 [e-s2-s0 e] [e e]
@@ -29,7 +29,7 @@ rs0.5 .95 2
 4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
 |
 il0.7 .09 5
-=1' 8 leg60 [c c] [<A c> <A c>]
+=1' 8 leg60 [c-s2-s3 c] [<A c-s4-s1-s1> <A c>]
 =1, 8 [A G F E]
 |
 =1' 16 leg99 [c{2-s3 B#}2-s1 leg60 c leg99 f(2] [f)2 e 8 c]
@@ -45,7 +45,7 @@ il0.7 .09 5
 |
 il0.7 .09 9
 =1' 8 leg60 [A  leg99 A] [e f-s2]
-=1, 8 leg60 [A_ leg99 E] [C-s4, Cn-s3,]
+=1, 8 leg60 [A_ leg99 E] [C-s3, Cn-s3,]
 |
 rs0.7 4
 =1' 16 leg99 [g{'1 gn}'1 leg60 g# leg99 e(2] [e)2 c-s2 d-s3 d#]
@@ -63,20 +63,20 @@ rs0.7 4
 =1' 8 leg60 [c c] [<A c> <A c>]
 =1, 8 [A_ G_ F_ E_]
 |
-=1' 16 leg99 [c B# leg60 c leg99 f(2] [f)2 e d c]
-=1, 8 leg60 [A_ E] [F_ F]
+=1' 16 leg99 [c{2 B#}2 leg60 c leg99 f(2] [f)2 e d-s2 c]
+=1, 8 leg60 [A_ E] [F_ F-s3,]
 |
 il0.7 .01 15
-=1' 8 leg60 [B 16 leg99 B A#] 8 leg60 [B 16 leg99 B A#]
-=1, 8 leg60 [B_ F] [B_ F]
+=1' 8 leg60 [B 16 leg99 B A#-s3] 8 leg60 [B 16 leg99 B A#]
+=1, 8 leg60 [B_-s2, F-s4,] [B_ F]
 |
 =1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 d 8 c]
 =1, 8 leg60 [B_ F] [E_ E]
 /
 4 bars | 3# 11 12 12 12 | 11 11 12 10 || 11 11 11 10 | 7 6 6 6 6 6 6 5 |
 |
-=1' 8 [A 16 leg99 f e(2] [e)2 d c B]
-=1, 8 leg60 [A_ 16 F E(4] [E)4 D C B_]
+=1' 8 [A 16 leg99 f-s2 e(2] [e)2 d-s3 c-s2 B]
+=1, 8 leg60 [A_ 16 F-s4, E(4] [E)4 D C-s4, B_]
 |
 =1' 8 leg60 A  leg99 [c d eb]
 =1, 8 leg60 A_ leg99 [A B cnl]
@@ -109,7 +109,7 @@ il0.7 .09 25
 =1' 8 leg60 [A  leg99 A] [e f]
 =1, 8 leg60 [A_ leg99 E] [C Cn]
 |
-=1' 16 leg99 [g gn leg60 g# leg99 e(2] [e)2 c d d#]
+=1' 16 leg99 [g{2 gn}2 leg60 g# leg99 e(2] [e)2 c d{'1 d#}'1]
 =1, 8 leg60 [B_ E] [E_ E]
 | 1.2
 =1' 8 leg60 [e e] [e e]
@@ -126,7 +126,7 @@ il0.7 .09 25
 =1, 8 [A G F E]
 |
 il0.8 .01 30
-=1' 16 leg99 [c B# leg60 c leg99 f(2] [f)2 e 8 c]
+=1' 16 leg99 [c{2 B#}2 leg60 c leg99 f(2] [f)2 e 8 c]
 =1, 8 [A_ E] [E_ F]
 |
 =1' 8 leg60 [B 16 leg99 B A#] 8 leg60 [B 16 leg99 B A#]
@@ -162,8 +162,8 @@ innerhead Powder Rag,  Stefan Grossman, 1972 live album
 =1' 8 leg60 [e <c f>] [e <c f>]
 =1, 8 [A_ E] [E_ E]
 |
-=1' 8 [e 16 leg99 <c f> e(2] [e)2 f 8 <c e>]
-=1, 8 leg60 [F_ G_ A_# F_]
+=1' 8 [e 16 leg99 <c f-s1-s1> e(2] [e)2 f-s4 8 <c e>]
+=1, 8 leg60 [F_-s2, G_-s4, A_#-s1, F_]
 |
 =1' 4 <B d#> <B d#>
 =1, 8 rest,, leg60 <B_ F> rest,, <B_ F>
@@ -174,11 +174,11 @@ il0.6 .01 40
 /
 3 bars | 3# 48 | 48 | 48 |
 |
-=1' 8 [c 16 A B(2] 4 B)2
+=1' 8 [c-s4 16 A B(2] 4 B)2
 =1, 8  leg60 [A_ leg99 E] leg60 [E_ leg99 E]
 |
-=1' 8 [c 16 c B#(2] [B)2 8 c] 16 rest'
-=1, 8  leg60 [A_ leg99 E] leg60 [D# leg99 E]
+=1' 8 [c-s4 16 c{'1 B#}'1(2-s"   2"] [B)2 8 c-s4] 16 rest'
+=1, 8  leg60 [A_ leg99 E-s3,] leg60 [D#-s1, leg99 E]
 |
 =1' 8 leg60 rest' <d b> rest' <d b>
 =1, 4 D D
@@ -254,7 +254,7 @@ il0.8 .03 55
 =1' 8 leg60 [A  leg99 A] [e f]
 =1, 8 leg60 [A_ leg99 E] [C Cn]
 |
-=1' 16 leg99 [g gn leg60 g# leg99 e(2] [e)2 c d d#]
+=1' 16 leg99 [g{2 gn}2 leg60 g# leg99 e(2] [e)2 c d{'1 d#}'1]
 =1, 8 leg60 [B_ E] [E_ E]
 /
 4 bars | 3# 11 11 11 10 | 7 6 6 6 6 6 6 5 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
