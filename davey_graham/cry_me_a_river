@@ -46,11 +46,11 @@ il0.8 .12 5
 3 bars | 4 3 3  4 3 4  4 3 4  4 3 3 | 4 3 4 4 3 4.5 4 4 4 4 3 3 \
  || 4 4 4 4 4 4.5 4 4 4 4 4 3 |
 |
-=1, 8. [d)1 8 d 16 c] 8 [d 16 c 8 A 16 c(1]
+=1, 8. [d)1 8 d 16 c] 8 [d 16 c 8 A 16 c(1-s1]
 =1, 16 E_ 8 blank 8. blank 4. blank
 |
-=1' 8 [<A c)1> 16 <A_ E c>] 8. rest 16 [G#(4 B(6 e(2 8. <G)4 B)6 e)2>]
-=1, 8. rest,, vol-15 8 [E_ 16 E] vol+15 8. rest,, rest,,
+=1' 8 [<A-s3, c)1> 16 <A_ E c>] 8. rest 16 [G#(4 B(6 e(2 8. <G)4 B)6 e)2>]
+=1, 8. rest,,, vol-15 8 [E_ 16 E] vol+15 8. rest,, rest,,
 |
 =1, 16 cc64=127 [A-s3 c-s1 e-s1 b-s4 e c] cc64=0 \
        cc64=127 [G#-s2 c-s1 e-s1 b-s4 e c] cc64=0
@@ -90,8 +90,9 @@ il0.3 .12 15
 |
 =1 16 <E_ Gn B' e'-emph> rest e [f# 8 g] 8 [B 16 c# 8 d# 16 e]
 |
-#P=1 8 [f# 16 e 32-s f#' 323 blank 8 g 16 f#] \
- 8 rest vol-15 16 <C E Bbxl' c'> 32. blank 16 <B_ D# Ax Bn'> 32 blank vol+15 16 rest 16 e
+#P=1 8 [f# 16 e 32-s f#' 323 blank 8 g 16 f#] 8 rest vol-15 \
+ 16 <C-s4,-s2,-s3, E Bbxl' c'-s1> 32. blank 16 <B_-s4,-s2,-s3, D# Ax Bn'> \
+ 32 blank vol+15 16 rest 16 e
 #M=1 8 [f# 16 e 32-s f#' 8 g 16 f#] \
  8 rest vol-15 16 <C E Bbxl' c'> <B_ D# Ax Bn'> vol+15 rest 16 e
 /
@@ -101,7 +102,7 @@ il0.3 .12 15
 #P=1  8 [g 16 g(1 8 g)1 16 a] 32-s a#' 323 blank 8 [b 16 an(1 8 a)1 163 g]
 #M=1  8 [g 16 g(1 8 g)1 16 a] 32-s a#' 8 [b 16 an(1 8 a)1 16 g]
 |
-il0.5 .12 20
+il0.6 .12 20
 =1 8 a 16 rest' 8 [<C E Bbxl' c'> 16 <B_ D# Ax Bn'>] 8 rest, 16 [E_ 8 G_ 16 E_]
 |
 =1 16 vol-15 <E G B'> vol+15 rest 16 e [f# g B(1] 8 [B)1 16 c# 8 d# 16 e]
@@ -117,7 +118,7 @@ il0.5 .12 20
 #P=1 16 [<D)4 A)2 f#'> e' 323 blank 16 f#'(1] 8 [f)1 16 e] 323 blank 8 [f# 16 e] 32-s f#' 323 blank 8. <D, A, c g>
 #M=1 16 [<D)4 A)2 f#'> e' f#'(1] 8 [f)1 16 e] 8 [f# 16 e] 32-s f#' 8. <D, A, c g>
 |
-il0.7   25
+il0.7 .41 25
 =1, 16 cc64=127 [A-s3 c-s1 e-s1 b-s4 e c] cc64=0 \
        cc64=127 [G#-s2 c-s1 e-s1 b-s4 e c] cc64=0
 /
@@ -151,7 +152,7 @@ il0.5 .06 30
 |
 =1 8 [A-s3 16 <E A c'> 8 A_ 16 C-s3] 8 [<F A c'> 16 F] 8 rest 16 d(1
 |
-=1, 8. [d)1 8 d 16 c] 8 [d 16 c 8 A 16 c]
+=1, 8. [d)1 8 d 16 c] 8 [d 16 c 8 A-s3 16 c]
 =1, 16 E_ 8 blank 8. blank 4. blank
 |
 =1 8 [A_ cc64=127 C-s4, E-,-s2,] [A,-s3, c-s1, e]
