@@ -101,6 +101,7 @@ folk_gtr_solos.ps : folk_gtr_solos
 
 ${A4D}/folk_gtr_solos.pdf : title_folk_gtr_solos.ps p2_folk_gtr_solos.ps \
   folk_gtr_solos.ps ${BACKPAGE}
+	groff -ms title_folk_gtr_solos | ${BANNERISE} > title_folk_gtr_solos.ps
 	${ADDMESSAGE} folk_gtr_solos.ps \
 	| ${PSCAT} title_folk_gtr_solos.ps p2_folk_gtr_solos.ps - ${BACKPAGE} \
 	| /usr/bin/gs -q -sDEVICE=pdfwrite -sPAPERSIZE=a4 -sOutputFile=$@ -
