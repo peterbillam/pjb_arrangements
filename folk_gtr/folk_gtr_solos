@@ -3237,7 +3237,7 @@ i0.9 .02 fade out . . .
 
 
 
-6 systems 35 /19 /19 /19 /19 /19 25/
+6 systems 40 /20/20 3/20 5/20 /20 /20 30/
 pagenum
 title Whisper Not
 innerhead Benny Golson,  LeRoy Jackson
@@ -3370,7 +3370,7 @@ r1.3 .01 A7
 =1, vol80  4 rest 2. <A c#>
 =1, 4. A_ A_ 4 A
 
-6 systems 35 /19 /19 /19 8 /19 /19 15/19 20 /
+6 systems 35 /20 /20 /20 8 /20 /20 15/20 25/
 pagenum
 innerhead Whisper Not,    Benny Golson, LeRoy Jackson
 leftfoot  arranged for guitar Peter Billam
@@ -3711,7 +3711,7 @@ $A = {
 =1, 8 [G 16 cc64=0 F#{,2 cc64=127 8 G},2 16 D] 8 [E 16 rest, 8. B_-s1,]
 |
 =1' 8 [<c# a> 16 g#{'1 8 a}'1] 16 rest'' 8 [<A d f#> 16 d 8 e 16 f#-s4]
-=1, 8 [A_ 16 cc64=0 Cn{,2 cc64=127 8 C#},2 16 A_] 8. [D A_]
+=1, 8 [A_ 16 cc64=0 Cn{1 cc64=127 8 C#}1 16 A_] 8. [D A_]
 |
 bl1.4 .97 1a
 =1' 8 [<B g-s4> 16 e 8 d 16 B] 8 [<G# e> 16 d 8 c 16 cc64=0 B]
