@@ -76,15 +76,15 @@ I0.5 p
 =1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb-s1 rest G-s4] cc64=0
 =1, 8. blank [D-s3, C#-s2,]
 |
-=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb-s1 rest G-s4] cc64=0
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
 =1, 8. blank [D-s3, C#-s2,]
 |
 il0.6 .01 15
-=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1' 16 cc64=127 [G_ G G] [D G G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
 |
-=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
+=1' 16 cc64=127 [G_ G G] [D G G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
 /
 4 bars | 36 | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 \
@@ -112,10 +112,10 @@ il0.7 .03 20
  rest' [B cc64=0 B] rest' [G-s0 F#-s2]
 =1, 12/16 cc64=127 8. [Cn-s1, D] [C#-s3, D-s3,] cc64=0
 | 1.125
-=1' 9/16 vol85 16 cc64=127 [G_-s1, G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
-=1, 9/16 8. blank [D-s4, C#]
+=1' 9/16 vol85 16 cc64=127 [G_-s1, G-s0 G-s4] [D G G] [Bb rest G] cc64=0
+=1, 9/16 8. blank [D-s3, C#]
 |
-=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] rest' vol90 [e-s0 e-s4] cc64=0
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G G] rest' vol90 [e-s0 e-s4] cc64=0
 =1, 8. blank [D Cn]
 |
 =1' vol100 16 rest' [e e] rest' [B-s0 cc64=0 B-s4] rest' [G F#-s2]
@@ -125,8 +125,8 @@ il0.7 .03 20
  | 3 3 4 4 3 4 4 3 4 3 3 4 | 3 3 4 4 3 4 4 3 4 3 3 4 |
 |
 il0.6 .01 25
-=1' vol85 16 cc64=127 [G_-s1, G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
-=1, 8. blank [D-s4, 8 C#] 16 rest,,
+=1' vol85 16 cc64=127 [G_-s1, G-s0 G-s4] [D G G] [Bb rest G] cc64=0
+=1, 8. blank [D-s3, 8 C#] 16 rest,,
 | 1.5
 =1' 12/16 vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] \
  cc64=127 4. <C A-s3-s1> cc64=0
@@ -209,7 +209,7 @@ il0.5 .01 40
 =1, cc64=127 8. blank [D cc64=0 cc64=127 Cn] A_
 | 1.125
 =1' 9/16 vol85 16 cc64=127 [G_-s1, G-s0 G-s4] [D G-s0 G-s4] [Bb rest G] cc64=0
-=1, 9/16 8. blank [D-s4, 8 C#] 16 rest,,
+=1, 9/16 8. blank [D-s3, 8 C#] 16 rest,,
 | 1.5
 =1' 12/16 vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] cc64=127 4. <C A> cc64=0
 =1' 12/16 vol80  8. blank 8 blank 16-s D 8 blank 16-s D 8 blank 16-s D

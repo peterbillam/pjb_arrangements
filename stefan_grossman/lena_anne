@@ -1,4 +1,4 @@
-9 systems 30 /20/20/20/20 /20/20/20/20/20 5/
+9 systems 30 /20/20/20 5/20 5/20 3/20 3/20 5/20/20 15/
 title Lena Anne
 pagenum
 innerhead Stefan Grossman, 1972 live album
@@ -38,15 +38,15 @@ il0.7  5
 =1' 8 [g# f# B e] [f# 16 g# f# 8 B e]
 =1, 2 B A
 |
-r1.0  mm 120
+r1.1  mm 120
 =1, 4 G# 2. blank
-=1' 4 e vol+20 <A_ D Gn> 8 <E_ E G#-.> 8 rest [<A c#> <D# Gn>]
+=1' 4 e vol+20 <A_ D Gn--emph> 8 <E_ E G#-.-emph> 8 rest [<A c#> <D# Gn>]
 I0.6 .18 f
 i0.8 .99 bend
 |
 il0.7 .03 10
 I0.6 .81 p
-=1 8 [<C{2 E A> A_}2 G_ E_] [G_ A_ C#] vol-15 a
+=1 8 [<C{2 E A> A_}2 G_ E_] [G_-s1, A_ C#] vol-15 a
 /
 3 bars | 3/4 36 | 4/4 48 | 4 3 4 5 3 3 4 3 3 4 3 3 3 3 3 2 |
 | 1.5 
@@ -60,7 +60,9 @@ I0.6 .29 f
  [<A_ G c#--emph> <E_ D>]
 I0.6 .18 f
 |
-=1' 8 A)1 16 [<d{2 f#-s4-s3> <c}2 e-s1-s0>] 8 [<d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
+rs1.1 .14 3
+rs0.8 .14 4
+=1' 8 A)1 16 [<d{2 f#> <c}2 e-s1-s0>] 8 [<d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
 =1, 8 <A_-., E> rest,, 2 blank 8 rest,, E_
 /
 3 bars | 48 | 5/4 60  | 4/4 48 |
