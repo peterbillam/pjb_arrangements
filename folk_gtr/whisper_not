@@ -62,10 +62,11 @@ r0.7 .02 Bm7 .47 C#m7
 =1, vol80 83 blank 43 rest, 4 <D-s4,-s0, A> 83 blank 43 rest, 4 <E-s4,-s1, B>
 =1, 2 B_-s3, C#-s2,-s3,
 |
-r0.8 .02 Dm7 .40 E7
+r1.0 .02 Dm7 .40 E7
+rs0.5 .01 3
 =1' vol100 4 d rest'' 4 rest' 8 [A e(1]
-=1, vol80  83 blank 43 rest 8 <A c> 2 <G# B> 8 rest,
-=1, 2 D 4 E E_
+=1, vol80  83 blank 43 rest 8 <A-s1,-s2, c> 2 <G#-s0,-s2, B> 8 rest,
+=1, 2 D 4 E-,-s3, E_
 /
 4 bars | 48 | 48 | 48 | 48 |
 |
@@ -234,7 +235,7 @@ r1.5 .52 F#7
 |
 r1.3 .10 Bm7
 =1' vol100 8 <A d f#-s1-s2-s1> 4 <F# A d> 8 rest rest [F# B d-s3]
-=1, vol80  4. B_-s1, 8 C#-s3, 4 D-s4, B_-s1,
+=1, vol80  4. B_-s1, 8 C#-s3, 4 D-s4, 8 B_-s1, rest,,
 |
 r1.5 .10 C#m7
 r1.1 .48 F#7
@@ -254,8 +255,8 @@ bl1.5 1a . . .
 r0.6 .02 Dm7
 r0.9 .37 E7
 =1' vol100 8 A 4 <A c> 8 <G#(4 dx(2 e(1> \
- 83 [<G)4 dx)2 e)1> f-I3 e(2] 16 [e)2 d c B]
-=1, vol80  8 D-s0, 4 F-s1,-s2,-s3,  8 rest,,, 4 E_ E
+ 83 [<G)4 dx)2 e)1> f-I3 e(2] 16 [e)2 d c{'1 B}'1]
+=1, vol80  8 D-s0, 4 F-s1,-s2,-s3,  8 rest,,, 4 E_ E-s2,
 #M $M
 |
 r2.5 ________________________
