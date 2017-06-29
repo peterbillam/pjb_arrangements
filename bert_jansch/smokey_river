@@ -106,7 +106,9 @@ il0.7  20
 =1' 8 rest 8. [<E B-s1-s0> 16 G 8 <D d-s0-s4>] 8 rest 8. [<E B> 16 G 8 <D d>]
 =1, 4 E_ E_ E_ E_
 |
-=1' 8 rest [<G e-s3-s4> <G e> <B g>] 8 rest [<G e> <G e> <F# d>]
+rs0.85 .15 4
+rs0.5  .15 3
+=1' 8 rest [<G e> <G e> <B g>] 8 rest [<G e> <G e> <F# d>]
 =1, 2 E_ E_
 /
 3 bars | 6 6 8 7 6 5 6.5 6.5 | 5 5 5 5 6 5 6 5 | 6 6 8 7 6 5 6.5 6.5 |
