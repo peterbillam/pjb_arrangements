@@ -1809,26 +1809,30 @@ i0.8 .99 bend
 I0.6 .81 p
 =1 8 [<C{2 E A> A_}2 G_ E_] [G_ A_ C#] vol-15 a
 /
-3 bars | 48 | 3 3 3 3 3 3 3 3  3 3 3 3 3 3 4 3| 3 3 4 3 3 4 3 3 3 3 3 3 3 3 3 3|
-|
-I0.7 .81 p
-=1, 8 [e d] vol+15 <G_ Ax B e-.-emph> rest \
- [<A_ G c#--emph> <E_ D>] 4 <A_ E>
-=1' 2 blank 8 blank 4 A 8 vol-15 a
-I0.6 .18 f
-|
-il1.0 .13 40
-=1' 8 [e d] 4 blank 8 blank 4 A 16 [<d{2 f#-s4-s3> <c}2 e>]
-=1, 4 rest, 8 vol+15 <G_ Ax B e-.-emph> rest \
- [<A_ G c#--emph> <E_ D>] 8 <A_-., E> rest,,
-I0.6 .18 f
-|
-=1' 8 [<d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#> 8 rest <G cn>
-=1, 2 blank 8 rest,, E_ 4 A_
-/
-3 bars | 3/4 36  || 4/4 48 | 12 12 12 13 |
+3 bars |3/4 36 | 4/4  3 3 3 3 3 3 3 3  3 3 3 3 3 3 3 3 \
+ | 4 3 4 5  3 3 3 4  3 3 3 3  3 3 3 3 |
 | 1.5
-=1' 3/4 8 [<A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+I0.7 .81 p
+=1, 3/4 8 [e d] vol+15 <G_ Ax B e-.-emph> rest \
+ [<A_ G c#--emph> <E_ D>]
+=1' 3/4 2 blank 8 blank 8 A(1
+I0.6 .18 f
+| 2.0 
+il1.0 .03 40
+=1' 4/4 8 A)1 vol-15 a 8 [e d] 4 blank 8 blank A(1
+=1, 4/4 4 <A_ E> 4 rest, 8 vol+15 <G_ Ax B e-.-emph> rest \
+ [<A_ G c#--emph> <E_ D>]
+I0.6 .18 f
+|
+rs1.0  .14 3
+rs0.65 .14 4
+=1' 8 A)1 16 [<d{2 f#> <c}2 e>] 8 [<d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
+=1, 8 <A_-., E> rest,, 2 blank 8 rest,, E_
+/
+3 bars | 48 || 48 | 12 12 12 13 |
+|
+=1' 8 rest [<G cn> <A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
+=1, 4 A_
 | 2.07
 I0.5 p .99 mf
 =1' 4/4 vol-20 8 [d-s2 B A B] [c B A B]
