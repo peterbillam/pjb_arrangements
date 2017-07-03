@@ -15,7 +15,7 @@ rs0.6 .99 2
 =1' 8 leg60 [e-. e-.] [e-. e-.]
 =1, 8 [<A-., c> <A-., c>] [<A#-.,-s4, c> <A#l-., c>]
 | 1.8
-=1' 3/4 8 leg60 e-s4-s3-s0 4 leg99 f-s2 8 [<A c> <B d-s4-s3> <cnl eb>]
+=1' 3/4 8 leg60 e-s4-s3-s0 4 leg99 f-s2 8 [<A c> <B d-s3-s2> <cnl eb>]
 =1, 3/4 4. <Brx d> blank
 =1, 3/4 8 rest,,, B_-s1, 2 E_
 i0.2 .6 lightly swung
@@ -34,7 +34,7 @@ il0.7 .01 5
 =1' 8 leg60 [c-s1-s2 c-s1-s2] [<A c-s1-s1> <A c>]
 =1, 8 [A G F-s4, E]
 |
-=1' 16 leg99 [c{2-s3 B#}2-s1 leg60 c leg99 f(2] [f)2 e c A]
+=1' 16 leg99 [c{2-s3 B#}2-s1 leg60 c leg99 f(2] [f)2 e c-s3 A-s1]
 =1, 8 [A_ E-s2,] [E_ E]
 |
 =1' 8 [B 16 B G] 8 [B 16 B G]
