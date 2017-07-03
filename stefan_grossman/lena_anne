@@ -193,14 +193,14 @@ rs0.65 .14 4
 =1' 8 A)1 16 [<d{2 f#> <c}2 e>] 8 [<d f#> 16 A 8 <c e> 16 A 8 <G d>] 4 <G c#>
 =1, 8 <A_-., E> rest,, 2 blank 8 rest,, E_
 /
-3 bars | 48 || 48 | 12 12 12 13 |
+3 bars | 48 || 46 | 12 12 12 13.5 |
 |
 =1' 8 rest [<G cn> <A c#-s3-s4> <E A>] [<Cn A> A_ F_# E_]
 =1, 4 A_
 | 2.07
 I0.5 p .99 mf
-=1' 4/4 vol-20 8 [d-s2 B A B] [c B A B]
-=1, 4/4 2 F#-s3, Fn
+=1' vol-20 8 [d-s2 B A B] [c B A B]
+=1, 2 F#-s3, Fn
 |
 =1' 8 [e g e <A d>] <B e> rest' 4 <G c>
 =1, 4 <C G> 8 rest,, B_ E_ rest,, 4 A_
