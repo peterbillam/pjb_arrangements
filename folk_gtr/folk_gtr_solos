@@ -423,10 +423,10 @@ pagenum
 innerhead arr Davey Graham
 midi channel 0 patch 25
 /
-4 bars | 12 | 4 3 5.5 4 3 4 4 3 3 4 3 3 | 4 3 5.5 4 3 4 4 4 4 4 4 3 \
- | 4 4 6 5 5 4 4 3 4 4 3 4 |
+4 bars | 3 3 3 | 4 3 5.5 4 3 4 3 3 3 4 3 3 | 4 3 5.5 4 3 4 4 4 4 4 3 3 \
+ | 4 4 6 5 5 4 4 3 4 4 4 4 |
 | 0.55
-=1, treble8vab cha0 vol110 leg99 8. rest 16 A_(4
+=1, treble8vab cha0 vol110 leg99 8 rest 16 A_(4
 # midi off
 | 2.2
 =1' 8 [<E c#-s1-s2> 16 <F d-s1-s2> 8 <F# d#-s3-s4> 16 <G(2 e(3-s3-s4>] \
@@ -442,17 +442,19 @@ i1.3 .65 gliss
 =1, 8. blank 8 [G# 16 Gb] 4. blank
 =1, 4. E_)4 8 rest,,, 16 E_(4 8. E_)4(4
 /
-3 bars | 48 | 4 4 5 4 3 4 4 3 4 4 3 3 | 4 4 4 4 3 4 4 3 4 4 3 3 |
+3 bars | 48 | 4 4 5 4 3 4 4 3 4 4 3 3 | 4 3 4 4 3 4 4 3 4 4 3 3 |
 |
 =1' 8 [<E}2 c#'}1> <Ebl cn> <D(3 B(1>] \
  16 [<D)3 B)1> vol-15 32-s <D B> <Eb c> 16-s <D(3 B(1>] \
  16 <D)3 B)1> vol+15 rest' rest'
 =1, 4. E_)4 8. [G_(4-s4, 8 G_)4 16 A_(4]
 |
-=1' 8 [<A f#> 16 <Bb g> 8 <Bn g#> 16 <c(2 a(3>] 4 <c)2 a)3> 8 rest'
+=1' 8 [<A f#-s1-s2> 16 <Bb g-s1-s2> 8 <Bn g#-s3-s4> 16 <c(2 a(3-s3-s4>] \
+ 4 <c)2 a)3> 8 rest'
 =1, 4. A_)4(4 8 [A_)4 16 D(5 8 D)5 16 D(4]
 |
-=1' 8 [<c a> 16 <c# a#> 8 <d b> 16 <eb(2 c~(3>] 8 <e)2 c~)3> 16 rest'' 8. rest''
+=1' 8 [<c a-s1-s2> 16 <c# a#-s1-s2> 8 <d b-s3-s4> 16 <eb(2 c~(3-s3-s4>] \
+ 8 <e)2 c~)3> 16 rest'' 8. rest''
 =1, 8. D)4 rest,, 8 rest,, 16 A(5 8 [A)5 16 E_(4]
 /
 3 bars | 4 4 5 4 5 4 4 3 4 4 3 4 | 4 4 3 4 4 3 4 4 4 4 4 4 \
@@ -637,7 +639,7 @@ il0.9 .37 45
 =1, 8. A_ 8 rest,, 32-s [D Eb] 16 [D C D] 8 [C 16 A_]
 |
 =1' 8. [A A] A blank
-=1, 32-s [D Eb 8 D] 32-s [D Eb 8 D] 8 [D 16 C] [A_{1 G_}1 A_]
+=1, 32-s [D Eb 8 D] 32-s [D Eb 8 D] 8 [D 16 C] [A_{1-s0 G_}1-s2 A_-s4]
 
 8 systems 15 /20/20/20/20/20/20/20/20 15/
 pagenum
