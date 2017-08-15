@@ -921,7 +921,7 @@ r0.8   mm=89
  8 [<E_)2 G)4 B e)1> 16 e 8 <G#l d#> 16 e]
 =1, 16 E_ 8 blank 8. blank 4. blank
 |
-il0.8 .12 5
+il0.8 .11 5
 #P =1  8. [a 32-s a' 16 blank 64 blank 8 bb 16 a] 64 blank 8 [bb 16 a] 16 E_  rest 64 blank 16 <G, c# f>
 #M =1  8. [a 32-s a' 8 bb 16 a] 8 [bb 16 a] 16 E_  rest <G, c# f>
 |
@@ -931,10 +931,10 @@ il0.8 .12 5
 3 bars | 4 3 3  4 3 4  4 3 4  4 3 3 | 4 3 4 4 3 4.5 4 4 4 4 3 3 \
  || 4 4 4 4 4 4.5 4 4 4 4 4 3 |
 |
-=1, 8. [d)1 8 d 16 c] 8 [d 16 c 8 A 16 c(1-s1]
+=1, 8. [d)1 8 d 16 c] 8 [d 16 c 8 A-s3 16 c(1-s1]
 =1, 16 E_ 8 blank 8. blank 4. blank
 |
-=1' 8 [<A-s3, c)1> 16 <A_ E c>] 8. rest 16 [G#(4 B(6 e(2 8. <G)4 B)6 e)2>]
+=1' 8 [<A c)1> 16 <A_ E c>] 8. rest 16 [G#(4 B(6 e(2 8. <G)4 B)6 e)2>]
 =1, 8. rest,,, vol-15 8 [E_ 16 E] vol+15 8. rest,, rest,,
 |
 =1, 16 cc64=127 [A-s3 c-s1 e-s1 b-s4 e c] cc64=0 \
