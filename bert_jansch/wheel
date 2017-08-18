@@ -178,7 +178,7 @@ il0.7 .07 35
 =1, 8. [G_-s1, D-s3,] cc64=0 [C#-s2, Cn-s1,]
 # should consistentise barlengths with 17-18 ? or, better, the other way round
 
-10 systems / 20 3 / 20 3 / 20 5 / 20 5 / 20 5 / 20 5 / 20 / 20 / 20 / 20 10 /
+10 systems / 20 3 / 20 3 / 20 5 / 20 5 / 20 5 / 20 6 / 20 2/ 20 / 20 / 20 10 /
 pagenum
 innerhead The Wheel Bert,  Jansch, 2nd album
 
@@ -236,7 +236,7 @@ il0.5 .01 45
 =1' vol80  8. blank 8 blank 16-s D 8. blank 8 blank 16-s D
 =1, vol100 4. G_(2 8. [G_)2 E_]
 /
-4 bars | 48 | 48 | 9/16 4 4 4 4 4 6 4 4 4 | 4 4 4 4 4 6 4 4 4
+4 bars | 48 | 48 | 9/16 4 4 4 4 4 6 5 4 4 | 4 4 4 4 4 6 5 4 4
 |
 =1' vol100 8 rest' 16 [<D(4 B-s0> 8. <D)4 B-s4>] \
  cc64=127 8 <C A> cc64=0 8. D-emph 16 blank
@@ -256,7 +256,7 @@ i0.8 .84 accel . . .
 =1' vol82 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
 /
-4 bars | 4 4 4 4 4 6 4 4 4 | 4 4 4 4 4 6 4 4 4 | 10 11 12 | 4 4 4 4 4 6 4 4 4 |
+4 bars | 4 4 4 4 4 6 4 4 4 | 4 4 4 4 4 6 4 4 4 | 10 11 12 | 4 3 4 4 4 6 4 4 4 |
 | 1.08
 =1' vol79 16 cc64=127 8 [G_ 16 G] 8 [D 16 G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
@@ -266,7 +266,7 @@ i0.8 .10 dim . . .
 =1, 8. blank [D C#]
 |
 il0.6 .06 55
-=1' 8. rest 8 [B-s3 16 B-s0] [G{'1 A}'1 B]
+=1' 8. rest 8 [B-s3 16 B-s0] [G{'1 A B}'1-s"  3"]
 =1, 8. [G_ D] rest,,
 | 1.0616
 =1' vol74 16 cc64=127 8 [G_ 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
@@ -276,7 +276,7 @@ il0.6 .06 55
  | 4 3 4 4 4 6 4 4 4 | 12/16 9 11 12 12 |
 | 1.408
 #i0.6 .90 97 sec
-=1' 12/16 8. rest 8 [B-s3 16 B-s0] [G{'1 A B}'1--s3] [D{'1 E G}'1--s4]
+=1' 12/16 8. rest 8 [B-s3 16 B-s0] [G{'1 A B}'1-s"  3"] [D{'1 E G}'1-s"  4"]
 =1, 12/16 8. [G_ D] rest,, blank
 | 1.056
 =1' 9/16 vol79 16 cc64=127 8 [G_ 16 G-s0] 8 [D 16 G-s4] [Bb-s1 rest G-s4] cc64=0
@@ -286,7 +286,7 @@ il0.6 .06 55
 =1, 8. blank [D C#]
 | 1.408
 il0.6 .07 60
-=1' 12/16 8. rest 8 [B-s3 16 B-s0] [G{'1 A B}'1] [D{'1 E G}'1--s4]
+=1' 12/16 8. rest 8 [B-s3 16 B-s0] [G{'1 A B}'1-s"  3"] [D{'1 E G}'1-s"  4"]
 =1, 12/16 8. [G_ D] rest,, blank
 /
 4 bars | 9/16 4 3 4 4 4 6 4 4 4 | 4 3 4 4 4 4 4 4 3 \
@@ -302,7 +302,7 @@ il0.6 .07 60
 =1' 12/16 16 rest [e e] rest [B-s0 B-s3] rest [G-s0 G-s4] rest [G-s0 F#-s2]
 =1, 12/16 8. [Cn D-s0,] [C#-s2, D-s3,]
 |
-=1' 16 [G_ G G] rest [G G] rest [G G-s4] [G{'1 A}'1 c]
+=1' 16 [G_ G G] rest [G G] rest [G G-s4] [G{'1 A}'1-s"  2" c]
 =1, 8. blank [D Cn] rest,,
 /
 4 bars | 4 4 4 4 4 4 5 4 4 4 5 4 | 9/16 4 3 4 4 3 5.5 4 4 4 \
