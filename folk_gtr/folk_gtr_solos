@@ -3558,7 +3558,7 @@ midi channel 0 patch 24
 =1, 8 [A_ A-s3,-gs4,] [A_ <A-s3,-gs4, gn-s4>] \
  [<D d f> <D d f>  <D d(4 fn(2> <D d)4 f)2>]
 |
-=1' 16 [c~-s1-s4 a b c~(1] [c~)1 g-s4 8 b] \
+=1' 16 [c~-s1-s4 a b c~(1] [c~)1 g-s3 8 b] \
  4 <c a> 16 rest' [A-s4-gs4 B-s0 cn-s2-gs3]
 =1, 8 [<E_ e> <E_ e>] [<E_ d(2> <E-s3, d)2>] [A E-s3, A_] rest,,
 /
@@ -3583,7 +3583,7 @@ b1.4 .99 C.VII
 =1, 8 [A_ A-s3,-gs4,] [A_ <A-s3,-gs4, gn-s4>] \
  [<D d f> <D d f>  <D d(4 fn(2> <D d)4 f)2>]
 |
-=1' 16 [c~ a b c~(1] [c~)1 g-s4 8 b] \
+=1' 16 [c~ a b c~(1] [c~)1 g-s3 8 b] \
  4 <c a> 16 rest' [a-s1 b-s3 c~n-s3]
 =1, 8 [<E_ e> <E_ e>] [<E_ d(2> <E-s3, d)2>] [A E-s3, A_] rest,,
 /
