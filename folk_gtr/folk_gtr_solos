@@ -3314,11 +3314,11 @@ r1.1 .02 C#m7 .53 F#7
 |
 r0.7 .02 Bm7 .47 C#m7
 =1' vol100 2 B)1 c#
-=1, vol80 83 blank 43 rest, 4 <D-s4,-s0, A> 83 blank 43 rest, 4 <E-s4,-s1, B>
-=1, 2 B_-s3, C#-s2,-s3,
+=1, vol80 83 blank 43 rest, 4 <D-s4,-s0, A> 83 blank 43 rest, 4 <E B>
+=1, 2 B_-s3, C#
 |
 r1.0 .02 Dm7 .40 E7
-rs0.5 .01 3
+rs0.5 .01 4
 =1' vol100 4 d rest'' 4 rest' 8 [A e(1]
 =1, vol80  83 blank 43 rest 8 <A-s1,-s2, c> 2 <G#-s0,-s2, B> 8 rest,
 =1, 2 D 4 E-,-s3, E_
