@@ -1880,7 +1880,7 @@ il0.7 .03 50
 =1' 8 rest B_ 4 C# 2 a
 =1, 4 G_-s3, A_ rest,, A_
 I0.7 .69 p
-9 systems 20 /20/20/20/20/20/20/20/20/20 15/
+9 systems 20 /20/20 4/20/20/20/20/20/20/20 15/
 title Alice's Wonderland
 pagenum
 innerhead Bert Jansch, 1st album
@@ -1910,7 +1910,8 @@ midi off
 |
 il0.5 .03 5
 =1' 8 rest 16-s cc64=127 [A c{'1] 83 c#}'1 cc64=0 163 blank 4. e
-=1, 2 A_ 8 [C C#]
+=1, 2 A_ 8 [C{1 C#}1]
+rs0.5 .62 4
 |
 =1' 8 rest 16-s  [A c{'1] 8 [c#}'1 f# 83 e{'1 8 f#}'1--s4] cc64=0
 =1, 2. cc64=127 E_
@@ -1923,7 +1924,8 @@ b1.0 .67 C I
 |
 #P=1' 8 rest 16-s [A--s3 323 blank 16-s c#{'1--s4] 8 B}'1 4. A
 #M=1' 8 rest 16-s [A c#] 8 B 4. A
-=1, 2 E-s2 83 [F{1 8 F#}1]
+#P=1, 2 E-s2 83 [F{1-s4 643 blank 8 F#}1]
+#M=1, 2 E-s2 83 [F{1 8 F#}1]
 /
 5 bars | 36  | 2/4 4 4 4.5 6 4 4 4 3 | 8 8 8 7 \
  | 4 4 4.5 6 4 4 4 3 | 4 4 4.5 4 4 4 4 3 |
@@ -1988,7 +1990,7 @@ il0.6 .55 20
 =1' 8 rest 16-s [Fn A] 2 c
 =1, 2 cc64=127 F_ 8 [D cc64=0 C]
 |
-il0.5 .03 25
+il0.4 .03 25
 =1' 8 rest 16-s cc64=127 [E G{'1] 4 G#}'1 B cc64=0
 =1, 2. cc64=127 E_ cc64=0
 /
@@ -3260,7 +3262,7 @@ innerhead Benny Golson,  LeRoy Jackson
 leftfoot  arranged for guitar Peter Billam
 midi channel 2 patch 26 transpose 3
 /
-4 bars | 48 | 48 | 48 | 6 6 8 7 6 5 6 5 ||
+4 bars | 48 | 48 | 6 6 6 6 6 6 7 6 | 6 6 8 7 6 5 6 5 ||
 | .39 .30 .39 .30 .39 .30 .39 .30
 r1.3 .02 Am .45 Am/G
 =1' treble8vab cha2  vol100 4 leg70 a leg85 a leg99 <e a> g-gs2-s3
@@ -3278,7 +3280,7 @@ r0.9 .01 E7
 =1' vol100 2. leg90 <G#)2 B)1> 8 [A--s2 e(1]
 =1, vol80  4 E 83 [B_ E-I3, B_] 2 E_
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 48 | 48 | 48 | 6 6 7 6 6 6 6 6 |
 |
 r1.1 .02 Am7
 =1' vol100 2. e)1 8 [A e(1]
@@ -3301,7 +3303,7 @@ r1.3 .54 F#7(b9)
 =1, vol80 4 rest 8 [B-s0 A#(2-s2] 4 A)2 blank
 =1, 2 C#-s4, F_#-s1,
 /
-4 bars | 48 | 48 | 48 | 48 ||
+4 bars | 48 | 7 6 6 6 6 6 6 6 | 48 | 6 6 7 6 6 6 6 6 ||
 |
 r1.1 .02 Bm7
 =1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
@@ -3323,7 +3325,7 @@ rs0.5 .01 4
 =1, vol80  83 blank 43 rest 8 <A-s1,-s2, c> 2 <G#-s0,-s2, B> 8 rest,
 =1, 2 D 4 E-,-s3, E_
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 48 | 48 | 48 | 6 6 7 6 6 6 6 6 |
 |
 r1.1 .02 Am7
 =1' vol100 2. e)1 8 [A e(1]
@@ -3346,7 +3348,7 @@ r1.3 .54 F#7(b9)
 =1, vol80 4 rest 8 [B A#(2-s2] 4 A)2 blank
 =1, 2 C#-s4, F_#
 /
-4 bars | 48 | 48 | 48 | 48 ||
+4 bars | 48 | 7 6 6 6 6 6 6 6 | 48 | 48 ||
 |
 r1.1 .02 Bm7
 =1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
@@ -3415,7 +3417,7 @@ r1.3 .01 E7(b9)
 =1, vol80  83 blank 43 rest 2 <G# d> 4 blank
 =1, 4. E 8 E_(3 4. E_)3 8 rest,,
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 48 | 48 | 48 | 6 6 7 6 6 6 6 6 |
 |
 r1.0 .02 Am7
 =1' vol100 2. e)1 8 [A e(1]
@@ -3439,7 +3441,7 @@ rs0.9 3
 =1, vol80 4 rest 8 [B A#(2-s2] 4. A)2 8 blank
 =1, 2 C#-s4, F_#
 /
-4 bars | 48 | 48 | 48 | 48 ||
+4 bars | 48 | 7 6 6 6 6 6 6 6 | 48 | 48 ||
 |
 r1.1 .02 Bm7
 =1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]

@@ -5,7 +5,7 @@ innerhead Benny Golson,  LeRoy Jackson
 leftfoot  arranged for guitar Peter Billam
 midi channel 2 patch 26 transpose 3
 /
-4 bars | 48 | 48 | 48 | 6 6 8 7 6 5 6 5 ||
+4 bars | 48 | 48 | 6 6 6 6 6 6 7 6 | 6 6 8 7 6 5 6 5 ||
 | .39 .30 .39 .30 .39 .30 .39 .30
 r1.3 .02 Am .45 Am/G
 =1' treble8vab cha2  vol100 4 leg70 a leg85 a leg99 <e a> g-gs2-s3
@@ -23,7 +23,7 @@ r0.9 .01 E7
 =1' vol100 2. leg90 <G#)2 B)1> 8 [A--s2 e(1]
 =1, vol80  4 E 83 [B_ E-I3, B_] 2 E_
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 48 | 48 | 48 | 6 6 7 6 6 6 6 6 |
 |
 r1.1 .02 Am7
 =1' vol100 2. e)1 8 [A e(1]
@@ -46,7 +46,7 @@ r1.3 .54 F#7(b9)
 =1, vol80 4 rest 8 [B-s0 A#(2-s2] 4 A)2 blank
 =1, 2 C#-s4, F_#-s1,
 /
-4 bars | 48 | 48 | 48 | 48 ||
+4 bars | 48 | 7 6 6 6 6 6 6 6 | 48 | 6 6 7 6 6 6 6 6 ||
 |
 r1.1 .02 Bm7
 =1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
@@ -68,7 +68,7 @@ rs0.5 .01 4
 =1, vol80  83 blank 43 rest 8 <A-s1,-s2, c> 2 <G#-s0,-s2, B> 8 rest,
 =1, 2 D 4 E-,-s3, E_
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 48 | 48 | 48 | 6 6 7 6 6 6 6 6 |
 |
 r1.1 .02 Am7
 =1' vol100 2. e)1 8 [A e(1]
@@ -91,7 +91,7 @@ r1.3 .54 F#7(b9)
 =1, vol80 4 rest 8 [B A#(2-s2] 4 A)2 blank
 =1, 2 C#-s4, F_#
 /
-4 bars | 48 | 48 | 48 | 48 ||
+4 bars | 48 | 7 6 6 6 6 6 6 6 | 48 | 48 ||
 |
 r1.1 .02 Bm7
 =1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
@@ -160,7 +160,7 @@ r1.3 .01 E7(b9)
 =1, vol80  83 blank 43 rest 2 <G# d> 4 blank
 =1, 4. E 8 E_(3 4. E_)3 8 rest,,
 /
-4 bars | 48 | 48 | 48 | 48 |
+4 bars | 48 | 48 | 48 | 6 6 7 6 6 6 6 6 |
 |
 r1.0 .02 Am7
 =1' vol100 2. e)1 8 [A e(1]
@@ -184,7 +184,7 @@ rs0.9 3
 =1, vol80 4 rest 8 [B A#(2-s2] 4. A)2 8 blank
 =1, 2 C#-s4, F_#
 /
-4 bars | 48 | 48 | 48 | 48 ||
+4 bars | 48 | 7 6 6 6 6 6 6 6 | 48 | 48 ||
 |
 r1.1 .02 Bm7
 =1' vol100 4 <d f#> 8 b 4 <B fn> 8 d [e <B(2 e(1>]
