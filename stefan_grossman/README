@@ -6,5 +6,23 @@
 
 # 04_lena_anne.wav   capo on 2nd
 # 17_dallas_rag.wav  capo on 5th
-# 20_matesa.wav      sounds in D; could be opne, or capo in 2nd
+# 20_matesa.wav      sounds in D; could be open, or capo in 2nd
+#                    on Ragtime Cowboy Jew it sounds in G ! as if capo on 7th !
 # 22_powder_rag.wav  in A; no capo
+
+and in Ragtime Cowboy Jew:
+cd /home/cds/folk/stefan_grossman/1970_the_ragtime_cowboy_jew/
+
+  play 04_odyssey.wav fade 0 201 1        # first 3min20sec only!
+  06_georgia_camp_meeting.wav
+  08_waterfalls.wav           # but two guitars
+  12_morning_blues.wav        # bottleneck
+  14_high_society.wav
+  15_soldiers_march.wav
+  21_make_believe_stunt.wav   # rag
+also some songs:
+  09_new_pony_blues.wav             # authentic, but not an instrumental
+  13_satisfied_and_tickled_too.wav  # nice picking, but not an instrumental
+  20_little_sally_walker.wav        # nice song
+  23_yonder_comes_the_blues.wav     # authentic, with harp - who's playing ?
+
