@@ -9,11 +9,11 @@ midi channel 2 patch 26 transpose 3
 | .39 .30 .39 .30 .39 .30 .39 .30
 r1.3 .02 Am .45 Am/G
 =1' treble8vab cha2  vol100 4 leg70 a leg85 a leg99 <e a> g-gs2-s3
-=1, treble8vab cha2  vol80  2 <A c e> <G c>
+=1, treble8vab cha2  vol80  2 <A c e> 4. <G c> 8 rest,
 |
 r1.0 F#m7(b5)  .45 FMaj7
 =1' vol100 4 leg70 e leg85 e leg99 <c e> d
-=1, vol80 2 leg85 <F# A c> <Fn A>
+=1, vol80 2 leg85 <F# A c> 4. <Fn A> 8 rest,
 |
 r1.0 .01 Am/E  .45 B7(b9)
 =1' vol100 4 leg70 c leg85 c leg99 4 <A c> 8 [A <G#(2 B(1>]

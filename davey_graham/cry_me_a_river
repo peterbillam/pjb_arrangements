@@ -37,11 +37,11 @@ r0.8   mm=89
 =1, 16 E_ 8 blank 8. blank 4. blank
 |
 il0.8 .11 5
-#P =1  8. [a 32-s a' 16 blank 64 blank 8 bb 16 a] 64 blank 8 [bb 16 a] 16 E_  rest 64 blank 16 <G, c# f>
-#M =1  8. [a 32-s a' 8 bb 16 a] 8 [bb 16 a] 16 E_  rest <G, c# f>
+#P =1  8. [a 32-s a' 16 blank 64 blank 8 bb 16 a] 64 blank 8 [bb 16 a] 16 E_  rest 64 blank 16 <G, c# f{1>
+#M =1  8. [a 32-s a' 8 bb 16 a] 8 [bb 16 a] 16 E_  rest <G, c# f{1>
 |
-#P=1 8 <F#, cn e> 32-s d#' blank 16 [e 323 blank 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
-#M=1 8 <F#, cn e> 32-s d#' 16 [e 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
+#P=1 8 <F#, cn e}1> 32-s d#' blank 16 [e 323 blank 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
+#M=1 8 <F#, cn e}1> 32-s d#' 16 [e 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
 /
 3 bars | 4 3 3  4 3 4  4 3 4  4 3 3 | 4 3 4 4 3 4.5 4 4 4 4 3 3 \
  || 4 4 4 4 4 4.5 4 4 4 4 4 3 |
@@ -72,11 +72,11 @@ il0.7 .37 10
 /
 3 bars | 48 | 48 | 4 3 3 4 4 4 4 4 4 4 4 3 |
 |
-#P=1 83. [a 32-s a' 16 blank 64 blank 8 bb 16 a] 32-s a' 16 blank 64 blank 8 [bb 16 a] E_ rest 32 blank 16 <G, c# f>
-#M=1 8. [a 32-s a' 8 bb 16 a] 32-s a' 8 [bb 16 a] E_ rest 16 <G, c# f>
+#P=1 83. [a 32-s a' 16 blank 64 blank 8 bb 16 a] 32-s a' 16 blank 64 blank 8 [bb 16 a] E_ rest 32 blank 16 <G, c# f{1>
+#M=1 8. [a 32-s a' 8 bb 16 a] 32-s a' 8 [bb 16 a] E_ rest 16 <G, c# f{1>
 |
-#P=1 8 <F#, cn e> 32-s d#' 64. blank 16 [e 64. blank 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
-#M=1 8 <F#, cn e> 32-s d#' 16 [e 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
+#P=1 8 <F#, cn e}1> 32-s d#' 64. blank 16 [e 64. blank 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
+#M=1 8 <F#, cn e}1> 32-s d#' 16 [e 8 dn 16 c] 8 [d 16 e] 8 E_ 16 d(1
 |
 il0.3 .12 15
 =1, 8. [d)1 8 d 16 c] 8 [d 16 c 8 A 16 c]
