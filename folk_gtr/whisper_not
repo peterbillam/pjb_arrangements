@@ -67,7 +67,7 @@ r0.7 .02 Bm7 .47 C#m7
 =1, 2 B_-s3, C#
 |
 r1.0 .02 Dm7 .40 E7
-rs0.5 .01 4
+# rs0.5 .01 4
 =1' vol100 4 d rest'' 4 rest' 8 [A e(1]
 =1, vol80  83 blank 43 rest 8 <A-s1,-s2, c> 2 <G#-s0,-s2, B> 8 rest,
 =1, 2 D 4 E-,-s3, E_
