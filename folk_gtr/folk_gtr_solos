@@ -3277,13 +3277,13 @@ rs0.7 .72 3
 =1, treble8vab cha2  vol80  2 <A c e> 4. <G c> 8 rest,
 |
 r1.0 F#m7(b5)  .45 FMaj7
-rs0.4 .99    2
 =1' vol100 4 leg70 e leg85 e leg99 <c e> d
 =1, vol80 2 leg85 <F# A c> 4. <Fn A> 8 rest,
 rs0.1 .99   4
 rs0.5 .99   3
 |
 r1.0 .01 Am/E  .45 B7(b9)
+rs0.4 1 .25 2
 =1' vol100 4 leg70 c leg85 c leg99 4 <A c> 8 [A <G#(2 B(1>]
 =1, vol80  2 leg85 <E A> D#
 |
