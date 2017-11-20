@@ -219,7 +219,7 @@ $M = {
 |
 r1.4 .02 Am
 r1.7 .48 Am7
-=1' vol100 4 rest 83 [A c-I3 e] 8 [a c~-s4] [a{'1-s4 e}'1]
+=1' vol100 4 rest 83 [A c-I3 e] 8 [a c~-s4] [a e]
 =1, vol80  2 A_ 4 <G c e> rest,
 |
 r1.8 .12 F#m7(b5)
