@@ -1,0 +1,196 @@
+
+5 systems 15 / 19-40-19 / 19-40-19 / 19-40-19 /
+title 4.
+pagenum
+innerhead Suite for Piano, Op. 14, Béla Bartók, 1916
+midi channel 1 patch 0 pan 70
+midi channel 2 patch 0 pan 30
+/
+5 bars | 6/8 36 | 36 |
+| 3.1
+Il0.8  Sostenuto
+i0.8 .85 ( qua = 120-110 )
+=1, treble cha1 6/8 vol70 leg99 8 rest 4 <F B f{1-.> <F c f-.>  8 <F cb f}1-.>
+I0.4 .02 p
+i0.4 .11 dolce
+=2  bass   cha2 6/8 vol70 leg99 8 D 4 <d f b{1-.>    <d f c~-.> 8 <d f c~b}1-.>
+|
+=1, 8 rest 4 <F Bb f{1-.> <F db f-.>   8 <F B f}1-.>
+=2  8  D   4 <d f bb{1-.> <dn f d~b-.> 8 <d f b}1-.>
+|
+=1, 8 rest 4 <F Bn f{1-.> <F c f-.>  8 <F cb f}1-.>
+=2  8  D   4 <d f bn{1-.> <d f c~-.> 8 <d f c~b}1-.>
+|
+=1, 8 rest 4 <F Bb f{1-.> vol+10 <F ex f-.> 8 vol-10 <F B f}1-.>
+=2  8  D   4 <d f bb{1-.> vol+10 <d f e~-.> 8 vol-10 <d f b}1-.>
+|
+=1, 8 rest 4 <F A f{1-.>   vol+10 <F ex f-.>  8 vol-10 <F A f}1-.>
+=2  8  C#  4 <cn, e a{1-.> vol+10 <c, e e~-.> 8 vol-10 <d, f b}1-.>
+/
+4 bars | 36 |
+|
+=1, 8 rest 4 <F Ab f{1--.>   vol+10 <En enx f}1--.>  8 vol-10 <A f(1--emph>
+=2  8  Cn  4 <c, eb ab{1-.> vol+10 <c, eb-.>      8 vol-10 <c, e a}1-.>
+|
+i1.1 .01 dolce
+=1' 8 [f)1 f# g#] [f g e(1]
+=1, 2. G
+=2' 2. <B_ d>
+|
+=1' 8  e)1  vol75 4 f{1-. fr}1-. 8 f{'3(1--emph
+=1, 8 rest, vol75 4 <F Ab>      vol+10 8 [en vol-5 d A]
+=2' 8 rest' vol75 4 ab          vol+10 8 [e~n d~ vol-5 a]
+=2  8  Cn   vol75 4 <c,{,2-., eb> vol+10 <c,-., eb> 8 vol-5 <c,},2-., e>
+|
+=1' 8 [f)1 gb ab] [bbb gb db]
+=1, 2. Gn
+=2' 2. <B_n(2 d(1>
+/
+4 bars | 36 |
+|
+=1, 2. Bb}''3(1
+I0.6 .02 p
+=2' 8 rest''        vol70 4 <d~ g~> <d~ a~b> 8 <d~ g~>
+=2  4 <B_n)2 d')1> 8 rest 4. bn
+|
+=1, 4 B)1 Bb B(1
+=2  8 Bn 4 <b d~#l f~#{1--.> <b d~ a~-.> 8 <b d~ f~}1--.>
+|
+=1, 4 B)1 Bb B(1
+=2  8 A 4 <a c~ f~n{1--.> <a c~ g~b-.> 8 <a c~ f~}1--.>
+|
+=1, 4 B)1 163-s bb' 4 Bb B(1
+i0.8 .01 poco cresc  .  .  .
+=2  8 G# 4 <g#l bn e~{1--.> <g b g~n-.> 8 <g b e~}1--.>
+/
+4 bars | 36 |
+|
+=1, 4 Bb)1 163-s b~b' 4 bb 163-s bb' 4 B(1
+=2  8 F# 4 <f#l a d~{1--.> <f# a f~n-.> 8 <f a d~}1--.>
+|
+=1, 43 Bb)1 163-s b~b' 4. bb 163-s bb'{3 8 Bb(1
+=2' 8 E [c~{'1 d~] [e~b d~ e~b]
+=2, 8 rest'' 4 <en g> <en g> 8 <en g>
+|
+i0.6 .10 dolce
+=1, 8 B)1}3 4 cb{'3 fb 8 c(1
+=2' 4 d~b 2 bb}'1
+=2, 2. <dn f>
+|
+=1, 8 c)1 4 Bb(1 4. B)1(1
+=2' 8 En [c~{'1 e~b] [g~b e~ c~]
+=2, 8 rest''blank 4 <en(2 g(4> 4. <e)2 g)4>
+/
+4 bars | 36 |
+|
+i1.0 .10 perdendosi
+=1, 8 [Bb)1}'3 vol-5 cb{'1 vol-5 fb] 4 vol-5 gb 8 vol-5 ab}1
+=2' 2 d~b 4 vol-15 bb}'1
+=2, 2. <dn f>
+|
+=1 2 blank 2. rest vol70 leg99 
+I0.2 .13 p
+=2' 2 blank 2. rest'' vol70 leg99 
+=2, 8 rest [f#{,2-,-s3, g#] [a# f-s2, dn-s4,]
+|
+=1 2 blank 2. rest vol70
+i0.8 .08 espr.
+=2' 8 rest'' 4 <d~ f~n> <c~ e~> 8 <a c~>
+=2, 2. Bn},2(2
+| .54 .55 .57 .60 .59 .60
+i1.2 .16 ritard  .   . .85 al .  .
+=1, 8 rest [<c e{1--s1-s3> <d f>] [<e g> <c e> <A c>]
+i0.8 .16 molto espr.
+=2' 2. <f(1 a(3-s1,-s2,>
+=2, 2. B)2(2
+
+5 systems 15 / 19-40-19 / 19-45-19 / 19-40-19 / 19-40-19 / 19-40-19 /
+pagenum
+innerhead Suite for Piano, Op. 14, Béla Bartók, 1916
+/
+2 bars | 9/8 54 | 54 |
+| 5.4
+Il1.0  Più sostenuto
+i0.8 .35 ( qua = 100 )
+=1' 9/8 4 <E G#> 8 <Ebl Gn}'1> \
+ rest [<D{2 F#> <Dbl}2 Fn>] rest [<G#l{2 B#> <Gnl}2 Bn>]
+I0.7 .06 p
+i0.7 .16 dolcissimo
+=2' 9/8 8 [<f)1 a)3> <f{2 a> <f#l}2 a#>] \
+ rest [<eb{2 g> <enl}2 g#>] rest [<anl{2 c~#> <a#l}2 c~##>] 
+=2, 9/8 4. B)2  A_n D#
+|
+=1  8 rest [<E{2 G#> <Ebl}2 Gn>] \
+ rest [<D{2 F#> <Dbl}2 Fn>] rest [<c#l e#{1> <cnl en}1>]
+=2' 8 rest' [<f{2 an> <f#l}2 a#>] \
+ rest' [<eb{2 g> <enl}2 g#>] rest' [<d~{2 f~#> <d~#l}2 f~##>]
+=2, 4. B_ A_n G#
+/
+2 bars | 6/8 36 | 9/8 54 |
+| .6 .58 .56 .54 .52 .50
+i0.9 .16 poco stringendo  .   .   .
+=1  6/8 8 rest [<Ab{2 c'> <Abbl}2 cb'>] rest [<db f{1> <dbbl fb}1>]
+i0.9 .14 cresc  .   .   .
+=2' 6/8 8 rest' [<bbb{2 d~b> <bbl}2 d~n>] rest' [<e~bbl{2 g~b> <e~bl}2 g~n>]
+=2, 6/8 4. Eb Ab
+| .48 .46 .44 .42 .41 .42 .44 .48 .52
+i1.0 .61 poco rit  .   .   .
+=1  9/8 8 rest [<Ab{2 c'> <Abbl}2 cb'>] rest [<fnl bb{1> <cnl en}1>] \
+ [<fnl bb{1> <c en}1>] <fn b>
+i0.9 .61 dim  .   .   .
+=2' 9/8 8 rest' [<bbb{2 d~b> <bbl}2 d~n>] rest' [<d~{2 f~#> <e~bl}2 g~>] \
+ [<d~{2 f~#> <e~bl}2 g~>] <d~ f~#>
+=2, 9/8 4. Eb Ab an
+/
+3 bars | 6/8 36 | 46 | 46 |
+| 3.1
+Il1.0  Tempo I.
+=1, 6/8 2. <c en> 163-s a#'{1
+=2' 6/8 8 rest'''' 4 bb{'1 c~b 8 b}'1
+=2, 6/8 2. <ab e~b g~>
+|
+=1' 2. <Bnlr d#}1> 163-s eb'{1
+=1, 8 rest, 4 Bb{,2-,-ten, A-ten, 8 B},2
+i0.3 .16 dolce  .   .   .
+=2, 2. <g d~nl f~#>
+|
+i1.4 .02 dolcissimo
+=1' 8 rest'' 4 <Bn bn{'3> <c c~> <cb c~b>
+=1, 2. <B_bxrrl(8 C#l(6 Gbxl(4 Anl}1(2>
+=2, 2. <fnr(2 d~(1>
+/
+3 bars | 36 | 36 | 36 |
+|
+=1' 8 [<Bbrl bb> <cb c~b> <fb f~b>] [<fn f~n> <fb f~b> <c c~}'3>]
+=1, 2. <B_bxrrl)8 C#l)6 Gbxl)4 Anl)2>
+=2, 2. <fnr)2 d~)1>
+|
+i1.8 .90 sempre più tranquillo
+=1' 8 rest'' 4 <Bn bn{'3> <c c~> 8 <cb c~b>
+=1, 2. <B_bxrrl C#l Gbxl Anl>
+i0.3 .12 sempre dim .   .   .
+=2' 2. <E g>
+|
+=1' 8 rest'' [<Bbrl bb{'3> <cb c~b>] [<fb f~b> <bbb b~bb> <f f~}'3>]
+=1, 2. <B_bxrrl C#l Gbxl Anl>
+=2' 2. <D f>
+/
+4 bars | 36 | 36 | 30 | 20 ||
+|
+=1' 8 rest'' [<cb c~b{'3> <fb f~b>] [<bbb b~bb> <f f~> <c c~}'3>]
+=1, 2. <B_bxrrl C#l Gbxl Anl>
+=2' 2. <C e>
+|
+=1' 8 rest'' 4 <c~bl f~b{'1-.> <f~ b~bb-.> 8 <c~bl f~b}'1-.>
+=1, 8 blank  4 <cbl{,2 fb-.,> <f bbb-.,> 8 <cbl},2 fb-.,>
+=1, 2. <B_bxrrl C#l Gbxl Anl>
+=2' 2. <B_b d>
+I0.2 .99 ppp
+| 1.55 1.6
+=1' 4 rest 8 rest 4. vol50 <Cbl Fb>
+=2' 2. vol60 <Bbrrl(1 c#xl(3 gbl(5 anxl(7>
+=2, 2. <B_brrrrr(2 d(4>
+| 1.65 2.9
+=1  4. vol+5 <cblr fb> vol-15 <Cbl Fb>
+=2' 2. <Br)1 cx)3 g)5 ax)7>
+=2, 2. <B_rrrr)2 d)4>

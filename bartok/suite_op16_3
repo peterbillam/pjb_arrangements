@@ -1,0 +1,615 @@
+
+5 systems 15 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 /
+title 3.
+pagenum
+innerhead Suite for Piano, Op. 14, Béla Bartók, 1916
+#midi channel 1 patch 0 pan 70
+#midi channel 2 patch 0 pan 30
+/
+4 bars | 2/2 48 | 48 | 48 | 48 |
+| 0.97
+Il0.8  Allegro molto
+i0.8 .85 ( min = 124 )
+=1, bass   cha1 6/8 vol75 leg70 2. blank 1 rest
+I0.3 .22 p
+i0.3 .51 non legato
+=2  bass   cha2 6/8 vol75 leg70 8 [D_, E,] [F G] [Ab G F] E,
+|
+=1, 2. blank 1 rest
+=2  8 [D_, E,] [F G] [Ab G F] E,
+|
+=1, 2. blank 1 rest
+=2  8 [D_, E,] [F G] [Ab Bb cb B]
+|
+=1, 2. blank 1 rest
+=2  8 [cb Bb Ab B] [A G F] E,
+/
+5 bars | 48 |
+|
+I0.4 .05 pp
+=1, 4 rest vol65 8 [d-s2 d-s1] 4 eb-ten-s3 8 [d-s2 d-s1]
+=2' 8 vol65 [D_ E vol70 F vol75 G] [Ab G vol70 F E]
+|
+=1, 4 rest vol65 8 [d d] 4 eb-ten 8 [d d]
+=2' 8 vol65 [D_ E vol70 F vol75 G] [Ab G vol70 F E]
+|
+=1, 2. blank 1 rest
+=2  8 [D_, E,] [F G] [Ab Bb cb B]
+|
+=1, 2. blank 1 rest
+=2  8 [cb Bb Ab B] [A G F] E,
+|
+I0.4 .05 mp
+=1, 4 rest vol85 8 [d d] 4 eb-ten 8 [d d]
+=2  8 vol85 [D_,-emph, vol70 E,] vol75 [F vol80 G] [G# vol75 Gn vol70 F] E,
+/
+4 bars | 48 |
+|
+=1, 4 eb-ten vol85 8 [d d] 4 eb-ten 8 [d-s2 d]
+=2' 8 vol85 [D_-emph, vol70 E-s1, vol75 F-s1, vol80 G] [G# vol75 Gn vol70 F E]
+|
+=1, 4 eb-ten vol85 8 [d-s2 d-s1] [a-emph-s5 g#-s4 e-s2 d-s1]
+=2' 8 vol85 [D_-emph, vol70 F-s1, vol75 G-s3, vol80 G#] [A vol75 G vol70 F E]
+|
+=1, 4 eb-ten-s3 vol85 8 [d-s2 d-s1] [a-emph g# e d]
+=2' 8 vol85 [D_-emph, vol70 F-s1, vol75 G-s3, vol80 G#] [A vol75 G vol70 Gn F]
+|
+=1' 4 rest treble vol95 8 [D-s2 D-s1] 4 Eb-ten,-s3 8 [D D]
+=2' 8 vol85 [D_-emph, vol80 E-s1, vol75 F-s1, vol90 G] [G# vol85 Gn vol80 F E]
+/
+4 bars | 48 |
+|
+=1' 4 Eb vol95 8 [D-s2 D-s1] 4 Eb-ten,-s3 8 [D D]
+=2' 8 vol85 [D_-emph, vol80 E-s1, vol75 F-s1, vol90 G] [G# vol85 Gn vol80 F E]
+|
+=1' 4 Eb vol95 8 [D-s2 D-s1] [A-emph-s5 G#-s4 E-s2 D-s1]
+=2' 8 vol85 [D_-emph, vol80 E-s1, vol75 G-s3, vol90 G#] [A vol85 G vol80 Gn F]
+|
+=1' 4 Eb-s3 vol95 8 [D-s2 D-s1] [A-emph-s5 G#-s4 E-s2 D-s1]
+=2' 8 vol85 [D_-emph, vol70 F-s1, vol75 G-s3, vol80 G#] [A vol75 G vol70 Gn F-s4,]
+|
+=1' 4 rest vol95 8 [d-s2 d-s1] [a-emph-s5 g#-s4 eb-s2 d-s1]
+i0.5 .15 cresc .   .   .
+=2, 8 vol85 [D vol75 f-s1, vol80 g-s3, vol85 g#] [a vol80 g vol75 gn f-s1,]
+/
+4 bars | 48 |
+|
+=1, 4 rest vol100 8 [d~-s2 d~-s1] [a~-emph-s5 g~#-s4 e~b-s2 d~-s1]
+=2, 8 vol90 [D vol80 f-s1, vol85 g-s3, vol90 g#] [a vol85 g vol80 gn f-s1,]
+|
+=1' 4 rest vol105 8 [d-s2 d-s1] [a-emph-s5 g#-s4 eb-s2 d-s1]
+=2, 8 vol95 [D vol85 f-s1, vol90 g-s3, vol95 g#] [a vol90 g vol85 gn f-s1,]
+|
+=1' 4 rest vol70 8 [D-s2 D-s1] [A-emph-s5 G#-s4 Eb-s2 D-s1]
+=2' 8 vol100 [D vol90 F-s4, vol95 G vol100 G#] [A vol95 G vol90 Gn F-s4,]
+|
+=1, 8 rest'' bass vol65 [f-s1 vol+5 g vol+5 g#-s3] [a-s1 vol+5 b vol+5 c~-s3 b]
+=2, 8 vol80 [D vol65 F-s4, vol+5 G-s3, vol+5 G#] \
+ [A vol+5 B-s3, vol+5 c B]
+
+5 systems 5 / 19-45-19 / 19-40-19 / 19-40-19 / 19-40-19 / 19-40-19 /
+pagenum
+innerhead Suite for Piano, Op. 14,  Béla Bartók, 1916
+/
+4 bars | 36 |
+|
+=1, 8 vol+5 [c~ vol-5 b a-s1 vol-5 b-s4] [a vol-5 g f vol-5 eb-s2]
+=2' 8 vol+5 [c vol-5 B A-s4, vol-5 B-s1,] [A vol-5 G-s3, F-s1, vol-5 Eb-s3,]
+|
+=1, 8 [d f-s2 vol+5 g g#-s4] vol+5 [a-s1 b vol+5 c~ b]
+=2' 8 [D-s5, F-s4, vol+5 G G#] vol+5 [A-s1, B-s3, vol+5 c B]
+|
+=1, 8 vol+5 [c~-s1 d~ vol+5 e~b d~] vol+5 [e~ d~ c~-s1 vol-5 d~-s4]
+=2' 8 vol+5 [c d-s1, vol+5 eb-s2, d-s3,] vol+5 [e d c-s4, vol-5 d-s1,]
+|
+=1, 8 [c~ vol-5 b a-s1 vol-5 b-s4] [a vol-5 g f vol-5 eb-s2]
+=2' 8 [c vol-5 B A-s4, vol-5 B-s1,] [A vol-5 G-s3, F-s1, vol-5 Eb-s3]
+/
+4 bars | 48 |
+|
+=1, 8 [d f-s2 vol+3 g g#-s4] vol+3 [a-s1 b vol+3 c~ b] treble
+=2' 8 [D-s5, F-s4, vol+3 G G#] vol+3 [A-s1, B-s3, vol+3 c B]
+|
+=1' 8 vol+3 [C-s1 D vol+3 Eb D-s1] vol+3 [E F vol+3 Gb-s4 F-s1]
+=2, 8 vol+3 [c d-s1, vol+3 eb-s2, d-s3,] vol+3 [e f vol+3 gb-s3, f-s1,]
+|
+=1' 8 vol+3 [Gb F vol+3 G Ab] vol+3 [G F vol+3 G A]
+=2, 8 vol+3 [gb-s3, f-s4, vol+3 g ab] vol+3 [g f vol+3 g a]
+|
+=1  8 vol+3 [Gb F vol+3 G Ab] vol+3 [G F vol+3 G] Bbb-emph-s4
+I0.7 .86 f
+=2, 8 vol+3 [gb-s3, f-s4, vol+3 g ab] vol+3 [g f vol+3 g] bbb-emph-s1,
+/
+4 bars | 48 |
+|
+=1' 8 [Ab Gb F Gb] [F-s1 Eb-s2 F-s3] Gb
+=2, 8 [ab gb f gb] [f-s1, eb-s3, f] gb
+|
+=1' 8 [F Eb D Eb] [D-s1 C-s2 D-s3] Eb
+=2, 8 [f eb d eb-s3,] [d-s1, c-s3, d-s3] eb-s1,
+|
+=1' 8 [D vol-5 C B_ vol-5 C] [B_-s1 vol-5 A_-s2 B_-s3] vol-5 C
+i0.4 .03 dim .   .   .
+=2' 8 [d vol-5 c B vol-5 c-s3,] [B-s1, vol-5 A-s3, B-s3] vol-5 c-s1,
+|
+=1' 8 [B_-s3 vol-5 A_-s1 G_#-s2 vol-5 A_-s3] [G_# vol-5 G_n-s1 F_-s3 vol-5 E_b]
+=2' 8 [B A vol-5 G#-s4, vol-5 A-s1,] [G#-s2, vol-5 Gn-s1, F vol-5 Eb]
+/
+4 bars | 48 |
+|
+=1' 4 rest vol95 8 [<A_ D-s1-s4> <A_ D-s1-s4>] \
+ 4 <B_bl-ten, Eb-s2-s5> 8 [<A_ D> <A_ D>]
+I0.4 .05 mf (mp)
+=2  8 vol85 [D_, vol70 E,] vol75 [F vol80 G] [G# vol75 Gn vol70 F] E,
+|
+=1' 4 <B_bl Eb-ten,> 8 [<A_ D> <A_ D>] 4 <B_bl Eb-ten,> 8 [<A_ D> <A_ D>]
+=2' 8 vol85 [D_ vol70 E-s1, vol75 F-s1, vol80 G] [G# vol75 Gn vol70 F E]
+|
+=1' 4 <B_bl Eb-ten,> 8 [<A_ D-s1-s2> <A_ D>] \
+ [A-s1-s5 G#--s4 E-s1-s3 D-s1-s2]
+=1, 2 blank 4 B_b-ten, 8 [A_ A_]
+=2' 8 vol85 [D_ vol70 F-s1, vol75 G-s3, vol80 G#] [A vol75 G vol70 F E]
+|
+=1' 4 <B_bl Eb-ten,-s1-s3> 8 [<A_ D-s1-s2> <A_ D>] \
+ [A-emph-s1-s5 G#--s4 E-s1-s3 D-s1-s2]
+=1, 2 blank 4 B_b-ten, 8 [A_ A_]
+=2' 8 vol85 [D_ vol70 F-s1, vol75 G-s3, vol80 G#] [A vol75 G vol70 Gn F]
+/
+4 bars | 48 |
+|
+=1, 4 rest vol95 8 [<A d> <A d>] 4 <Bb eb-ten> 8 [<A d> <A d>]
+I0.4 .05 f
+=2' 8 vol95 [D vol-5 e-s1, vol+5 f-s1, vol+5 g] [g# vol-5 gn vol-5 f e]
+|
+=1, 4 <Bb eb-ten> vol95 8 [<A d> <A d>] 4 <Bb eb-ten> 8 [<A d> <A d>]
+=2' 8 vol95 [D vol-5 e-s1, vol+5 f-s1, vol+5 g] [g# vol-5 gn vol-5 f e]
+|
+=1' 2 blank 8 [a-s1-s5 g#--s4 e-s1-s3 d-s1-s2]
+=1, 4 <Bb eb-ten> vol95 8 [<A d-s1-s2> <A d>] 4 Bb-ten, 8 [A A]
+=2' 8 vol95 [D vol-5 e-s1, vol+5 g-s3, vol+5 g#] [a vol-5 g vol-5 gn f]
+|
+=1' 2 blank 8 [a g# e d]
+=1, 4 <Bb eb-ten-s3> vol95 8 [<A d-s1-s2> <A d>] 4 Bb-ten, 8 [A A]
+=2' 8 vol95 [D vol-5 f-s1, vol+5 g-s3, vol+5 g#] [a vol-5 g vol-5 gn f-s4,]
+
+5 systems 5 / 19-45-19 / 19-40-19 / 19-40-19 / 19-40-19 / 19-40-19 /
+pagenum
+innerhead Suite for Piano, Op. 14,  Béla Bartók, 1916
+/
+4 bars | 48 |
+|
+=1' 2 blank 8 [a~-emph g~# e~b-s1-s3 d~-s1-s2]
+=1, 4 rest vol95 8 [<a d~-s1-s2> <a d~>] 4 bb-ten, 8 [a a]
+=2, 8 vol95 [D vol-5 f-s1, vol+5 g-s3, vol+5 g#] [a vol-5 g vol-5 gn f-s1,]
+|
+=1' 2 blank 8 [d~-emph c~# g#-s1-s3 gn-s1-s2]
+=1, 4 rest vol95 8 [<d a-s1-s3> <d a>] 4 eb-ten, 8 [d d]
+=2' 8 vol95 [D vol-5 e-s1, vol+5 f-s1, vol+5 g] [g# vol-5 gn vol-5 f e]
+|
+=1' 2 blank 8 [a-emph g# eb-s1-s3 d-s1-s2]
+=1, 4 rest vol95 8 [<A d-s1-s2> <A d>] 4 Bb-ten, 8 [A A]
+=2' 8 vol95 [D vol-5 f-s1, vol+5 g-s3, vol+5 g#] [a vol-5 g vol-5 gn f]
+|
+=1' 4 rest vol95 8 [<D A-s1-s3> <D A>] 8 [d-emph c# G#-s1-s3 Gn-s1-s2]
+=1, 2 blank 4 Eb-ten, 8 [D D]
+=2' 8 vol95 [D vol-5 e-s1, vol+5 f-s1, vol+5 g] [g# vol-5 gn vol-5 f e]
+/
+4 bars | 48 |
+|
+=1' 4 rest vol95 8 [<A_ D-s1-s2> <A_ D>] 8 [A-emph G# Eb-s1-s3 D-s1-s2]
+=1, 2 blank 4 B_b-ten, 8 [A_ A_]
+=2' 8 vol95 [D vol-5 F-s4, vol+5 G vol+5 G#] [A vol-5 G vol-5 Gn F]
+|
+=1, 4 rest bass vol95 8 [<d a-s1-s3> <d a>] 4 eb-ten, 8 [d d]
+=1' 2 blank 8 [d~-emph c~# g#-s1-s3 gn-s1-s2]
+=2' 8 vol95 [D vol-5 E-s4, vol+5 F vol+5 G] [G# vol-5 Gn vol-5 F E]
+|
+=1, 4 rest 8 [d-s2 d-s2] [a-emph g# eb d]
+=2' 8 vol95 [D vol-5 F-s4, vol+5 G vol+5 G#] [A-emph vol-5 G vol-5 Eb D]
+|
+=1, 8 [a-emph g# eb d] [a-emph g# eb d] treble
+i0.5 .02 sempre
+I0.5 .32 f
+=2' 8 vol95 [A-emph vol-5 G vol-5 Eb D] [A-emph vol-5 G vol-5 Eb D]
+/
+7 bars | 18 | 18 | 48 | 48 | 18 | 18 | 48 |
+|
+=1 1 vol127 <C#(2 A(1 c#(3-s1-s3-s5>
+I0.5 .02 ff
+=2 1 vol127 <f#(2-s1,-s3, a(1>
+|
+=1 1 <C#)2 A)1 c#)3>
+=2 1 <f#)2 a)1>
+|
+=1 1 blank
+=2' 2 rest' 4 <cb c~b-ten> rest''
+=2, 4 rest, 8 [<B_b Bb> <B_ B>] 4 rest,, 8 [<B_ B> <B_ B>]
+|
+=1 1 blank
+=2' 4 <cb c~b-ten> rest'' <cb c~b-ten> rest''
+=2, 4 rest,, 8 [<B_b Bb> <B_ B>] 4 rest,, 8 [<B_ B> <B_ B>]
+|
+=1 1 vol127 <E(2 cn(1 e(3-s1-s3-s5>
+I0.5 .02 ff
+=2 1 vol127 <a(2-s1,-s3, c~n(1>
+|
+=1 1 <E)2 c)1 e)3>
+=2 1 <a)2 c~)1>
+|
+=1 1 blank
+=2' 2 rest' 4 <G g-ten> rest'
+=2, 4 rest,, 8 [<F_# F#> <F_ F>] 4 rest,,, 8 [<F_ F> <F_ F>]
+/
+5 bars | 48 | 18 | 18 | 12 6 6 6 6 6 6 6 | 12 6 6 6 6 6 6 6 |
+| .25 .26 .27 .29
+i0.4 .40 poco allarg . . .
+=1 1 blank
+=2' 4 <G g-ten> rest'' <G g-ten> rest''
+=2, 4 rest,,, 8 [<F_# F#> <F_ F>] 4 rest,,, 8 [<F_ F> <F_ F>] treble
+| 1.2
+=1 1 vol127 <c(2 eb(1 g(3-s1-s2-s3-s5>
+I0.5 .02 fff
+=2 1 vol127 <C(2-s1,-s3, Eb(4 G(1>
+|
+=1 1 <c)2 e)1 g)3>
+=2 1 <C)2 E)4 G)1>
+| 0.85
+b0.7 .01 Poco più mosso
+r0.7 .71 (min = 160)
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+I0.2 .04 ff
+i0.2 .20 martellato
+=2' 8 vol110 [Enrrr rest G rest A rest G] rest
+=2, 1 <C Eb>
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+=2' 8 vol110 [Enrrr rest G rest A rest G] rest
+=2, 1 <C Eb>
+/
+4 bars | 12 6 6 6 6 6 6 6 | 48 | 12 6 6 6 6 6 6 6 | 12 6 6 6 6 6 6 6 |
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+=2' 8 vol110 [Enrrr rest G rest A rest G] rest
+=2, 1 <C Eb>
+|
+i0.6 .60 R.H. supra
+=1, 8 vol110 rest [<F# f#> rest <E e> rest <D# d#-s1> rest <B_# B#>]
+=2' 8 vol110 [E-s1, rest, D# rest, C#-s3, rest, E] rest
+|
+=1, 8 vol110 rest [<B_# B#> rest <B_ B> rest <B_ B> rest <B_ B>]
+=2' 8 vol110 [A_#rrr rest, C#-s1, rest, D#-s1, rest, C-s1,] rest
+=2, 1 <F_#-s2,-s3,-s5, A_n>
+|
+=1, 8 vol110 rest [<B_# B#> rest <B_ B> rest <B_ B> rest <B_ B>]
+=2' 8 vol110 [A_#rrr rest, C#-s1, rest, E-emph, rest, C-s1,] rest
+=2, 1 <F_#-s1,-s3, A_n>
+
+5 systems 5 / 19-45-19 / 19-40-19 / 19-40-19 / 19-40-19 / 19-40-19 /
+pagenum
+innerhead Suite for Piano, Op. 14,  Béla Bartók, 1916
+/
+4 bars | 12 6 6 6 6 6 6 6 | 48 | 12 6 6 6 6 6 6 6 | 12 6 6 6 6 6 6 6 |
+|
+=1, 8 vol110 rest [<B_# B#> rest <B_ B> rest <D# d#> rest <C## c##>]
+i0.1 .30 cresc .   .   .
+=2' 8 vol110 [A_#rrr rest, C#-s1, rest, C-s1, rest, C-s1,] rest
+=2, 1 <F_#-s2,-s3,-s5, A_n>
+|
+=1, 8 vol110 rest [<E e> rest <E e> rest <G g> rest <F# f#-s4>]
+=2' 8 vol110 [D#-s3, rest, D# rest, E#-s1, rest, E] rest
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+I0.1 .04 ff
+=2' 8 vol110 [Enrrr rest, G-s1, rest, A-s1, rest, G-s1,] rest
+=2, 1 <C-s2,-s3,-s5, Eb>
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+=2' 8 vol110 [Enrrr rest, G-s1, rest, Bb-s1, rest, G-s1,] rest
+=2, 1 <C-s2,-s3,-s5, Eb>
+/
+5 bars | 12 6 6 6 6 6 6 6 | 48 | 11 11 10 9 | 48 | 10 10 10 9 |
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+=2' 8 vol110 [Enrrr rest G-s1, rest Bn-s1, rest G-s1,] rest
+=2, 1 <C(4-s2,-s3,-s5, Eb(2>
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+=2' 8 vol110 [B rest En-s2, rest B-s1, rest E-s2,] rest
+=2, 1 <C)4 Eb)2>
+|
+=1, 4 <g bb{1--s1-s2> <bbbl d~b--s1-s3> \
+ <d~bbl f~b--s2-s5> <b d~b}1--s1-s3>
+=2' 4 <G Bb{'1> <Bbbl db-s1,-s2,> <dbbl fb-s1,-s3,> <B db}'1-s1,-s3,>
+=2, 1 Eb-s1,-s3,-s5,
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+=2' 8 vol110 [Bn rest En-s2, rest B-s1, rest E-s2,] rest
+=2, 1 <C Eb>
+|
+=1, 4 <A c#{1--s1-s2> <cn e--s1-s3> \
+ <eb g--s2-s5> <c en}1--s1-s3>
+=2' 4 <A_ C#{'1> <Cn E-s1,-s2,> <Eb G-s1,-s3,> <C En}'1-s1,-s3,>
+=2, 1 F_#-s1,-s3,-s5,
+/
+5 bars | 48 | 44 | 24 22 | 24 22 | 24 22 |
+|
+=1, 8 vol110 rest [<F# f#> rest <F f> rest <F f> rest <F f>]
+=2' 8 vol110 [B rest En-s2, rest B-s1, rest E-s2,] rest
+=2, 1 <C Eb>
+|
+=1, 4 <g bb{1--s1-s2> <bbbl d~b--s1-s3> \
+ <d~bbl f~b--s2-s5> <b d~b}1--s1-s3>
+=2' 4 <G Bb{'1> <Bbbl db-s1,-s2,> <dbbl fb-s1,-s3,> <B db}'1-s1,-s3,>
+=2, 1 Eb-s1,-s3,-s5,
+|
+=1, 8 vol110 rest [<F# f#> rest <F f>] 4 <eb g{1> <c en}1>
+I0.4 .50 sf
+=2' 8 vol110 [Bn rest En-s2,] rest 4 <Eb G{'1> <C En}'1>
+=2, 2 <C Eb> F_#
+|
+=1, 8 vol110 rest [<F# f#> rest <F f>] 4 <eb g{1> <c en}1>
+I0.4 .50 sf
+=2' 8 vol110 [Bn rest En-s2,] rest 4 <Eb G{'1> <C En}'1>
+=2, 2 <C Eb> F_#
+|
+=1, 8 vol110 rest [<F# f#> rest <F f>] 4 <eb g{1> <c en}1>
+I0.4 .50 sf
+=2' 8 vol110 [Bn rest En-s2,] rest 4 <Eb G{'1> <C En}'1>
+=2, 2 <C Eb> F_#(2
+/
+5 bars | 48 |
+|
+=1, 4 <eb g{1--s2-s5> <db f}1--s1-s3> 4 <eb g{1> <c en}1>
+I0.4 .01 sf .50 sf
+=2' 4 <Eb G{'1> <Db F}'1> 4 <Eb G{'1> <C En}'1>
+=2, 1 F_#)2(2
+| .40 .44
+=1, 4 <eb g{1--s2-s5> <db f}1--s1-s3> 4 <eb g{1> <f a}1>
+I0.4 .01 sf .50 sf
+=2' 4 <Eb G{'1> <Db F}'1> 4 <Eb G{'1> <F A}'1>
+=2, 2 F_#)2 rest,,,
+| .46 .51
+=1  4 <eb g{1> <c en}1> 4 <A{2 c'-s2-s4> <F}2 A-s1-s2>
+I0.4 .01 sf .50 sf
+=2 4 <Eb G{'1> <C En}'1> bass <a-s1,-s2, c~{1> <f-s2,-s4, a}1>
+| .56 .54
+i0.1 .41 poco a poco accel. al   -
+=1 2 <D F-emph-s2-s4> rest
+I0.4 .41 f
+i0.4 .71 dim  .   .   .
+=2 2 <d f-emph-s2,-s4,> 8 [G#-s3, vol-5 Gn-s1, F E-s1,]
+| .52 .50
+=1 2 blank 1 rest
+=2 8 [D_, vol-5 E,] [F G] [G# vol-5 Gn F] E,
+/
+4 bars | 48 |
+| .97
+b0.5 .04 Tempo I.
+=1 2 blank 1 rest
+=2 8 [D_, vol-5 E,] [F G] [G# vol-5 Gn F] E,
+|
+=1 2 blank 1 rest
+=2 8 [D_, vol-5 E,] [F G] [G# vol-5 Gn F] E,
+|
+=1 2 blank 1 rest
+=2 8 [D_, vol-5 E,] [F G] [G# vol-5 Gn F] E,
+|
+=1 4 blank 1 rest bass
+=2 8 [D_, vol-5 E,] [F G] [G# vol-5 Gn F] E,
+
+5 systems 5 / 19-45-19 / 19-40-19 / 19-40-19 / 19-40-19 / 19-40-19 /
+pagenum
+innerhead Suite for Piano, Op. 14,  Béla Bartók, 1916
+/
+5 bars | 48 |
+|
+=1' 4 rest vol55 leg60 8 [D D] 4 Eb-ten, 8 [D D]
+I0.4 .09 pp
+=2' 8 vol45 leg99 [D_-emph,-s5, E_-s3, F_ G_-s1,] [G_#-s2, G_n-s1, F_-s2, E_]
+|
+=1' 4 Eb-ten, 8 [D D] 4 Eb-ten, 8 [D D]
+=2' 8 [D_-emph,-s5, E_-s3, F_ G_-s1,] [G_#-s2, G_n-s1, F_-s2, E_]
+|
+=1' 4 Eb-ten, 8 [D D] [A-emph G# E-s2 D-s1]
+=2' 8 [D_-emph,-s5, F_-s3, G_ G_#-s1,] [A_-s2, G_-s1, G_n-s2, F_]
+|
+=1' 4 Eb-ten, 8 [D D] [A-emph G# E-s2 D-s1]
+=2' 8 [D_-emph,-s5, F_-s3, G_ G_#-s1,] [A_-s2, G_-s1, G_n-s2, F_]
+|
+=1, 4 rest vol60 leg90 8 [d d] 4 eb-ten 8 [d d]
+I0.4 .15 p
+=2' 8 vol60 leg99 [D_-emph, E F G] [G# Gn-s1, F E]
+/
+5 bars | 48 |
+|
+=1, 4 eb-ten 8 [d d] 4 eb-ten 8 [d d]
+=2' 8 [D_-emph, E F G] [G# Gn-s1, F E]
+i1.1 .15 sempre simile
+|
+=1, 4 eb-ten 8 [d d] [a g# e d]
+=2' 8 [D_-emph, F G G#] [A G-s1, Gn F]
+|
+=1, 4 eb-ten 8 [d d] [a g# e d]
+=2' 8 [D_-emph, F G G#] [A G-s1, Gn F]
+|
+=1' 4 rest treble vol75 8 [<A_ D-s1-s4> <A_ D-s1-s4>] \
+ 4 <B_bl-emph Eb-s2-s5> 8 [<A_ D> <A_ D>]
+I0.4 .05 mf (mp)
+=2  8 vol85 [D_, vol70 E,] vol75 [F vol80 G] [G# vol75 Gn vol70 F] E,
+|
+=1' 4 rest 8 [<A_ D> <A_ D>] 4 <B_bl Eb-emph> 8 [<A_ D> <A_ D>]
+=2' 8 vol85 [D_ vol70 E-s1, vol75 F-s1, vol80 G] [G# vol75 Gn vol70 F E]
+/
+5 bars | 48 |
+|
+=1' 4 vol90 rest 8 [<A_ D-s1-s2> <A_ D>] [A-emph G#--s4 E-s1-s3 D-s1-s2]
+=1, 2 blank 4 B_b-ten, 8 [A_ A_]
+i0.3 .11 cresc  .   .   .
+=2' 8 vol90 [D_ vol-5  F-s1, vol+5 G-s3, vol+5 G#] [A vol-5 G Gn vol-5 F]
+|
+=1' 4 vol95 rest 8 [<D A-s1-s3> <D A>] [d-emph c# G#-s1-s3 Gn-s1-s2]
+=1, 2 blank 4 Eb-ten, 8 [D D]
+=2, 8 vol95 [D, vol-5 e, vol+5 f vol+5 g] [g# vol-5 gn f vol-5 e]
+|
+=1' 4 vol100 rest 8 [<A d-s1-s2> <A d>] [a-emph g#--s4 e-s1-s3 d-s1-s2]
+=1, 2 blank 4 Bb-ten, 8 [A A]
+=2, 8 vol100 [D vol-5 f-s1, vol+5 g-s3, vol+5 g#] [a vol-5 g gn vol-5 f]
+|
+=1' 2 vol105 blank 8 [d~-emph c~# g#-s1-s3 gn-s1-s2]
+=1, 4 rest 8 [<d a-s1-s3> <d a>] 4 eb-ten, 8 [d d]
+=2, 8 vol105 [D, vol-5 e, vol+5 f vol+5 g] [g# vol-5 gn f vol-5 e]
+|
+=1' 2 vol110 blank 8 [a~-emph g~#--s4 e~-s1-s3 d~-s1-s2]
+=1, 4 rest' 8 [<a d~-s1-s2> <a d~>] 4 bb-ten, 8 [a a]
+=2, 8 vol110 [D vol-5 f-s1, vol+5 g-s3, vol+5 g#] [a vol-5 g gn vol-5 f]
+/
+5 bars | 48 |
+|
+=1' 8 [a-emph g#--s4 e-s1-s3 d-s1-s2] [A-emph G#--s4 E-s1-s3 D-s1-s2]
+=1, 4 Bb-ten, 8 [A A] 4 B_b-ten, 8 [A_ A_] bass
+=2' 8 leg80 [D-s5, F-s3, G G#] [A G Gn F-s4,]
+| .95
+=1, vol100 leg65 [a{'1 g# eb d] vol+5 [e g a bb-s2] treble
+=2' vol100 leg65 [A_{,2 G_# E_b D_] vol+5 [E_ G_ A_ B_b]
+|
+=1' 8 vol+5 [Eb En-s1 A-s2 Bb] vol+5 [A E-s1 Eb-s4 B_b}'''1-s2]
+=2' 8 vol+5 [Eb En-s1, A Bb] vol+5 [A E-s1, Eb B_b}2]
+| .95
+=1' vol105 [A{'1 G# Eb D] vol+5 [E G A Bb-s2]
+=2' vol105 [A{,2 G# Eb D] vol+5 [E G A Bb]
+|
+=1, 8 vol+5 [eb en-s1 a-s2 bb] vol+5 [a e-s1 eb-s4 Bb}'''1-s2]
+=2, 8 vol+5 [eb en-s1, a bb] vol+5 [a e-s1, eb Bb},2]
+/
+5 bars | 48 |
+|
+=1, vol110 leg65 [a{'1 g# eb d] [e g a bb-s2]
+=2, vol110 leg65 [a{'1 g# eb d-s5,] [e g a-s1, bb-s4,] treble
+|
+b1.4 .01 8va .30 - .75 -
+=1, 8 vol+4 tra+12 [eb-s"3+4" en a bb] [a e a b]
+=2' 8 vol+4 [Eb-s2, En-s1, A-s3, Bb] [A E-s5, A B]
+|
+b1.4 .15 - .65 -
+=1, 8 vol+4 [a e a bb] [a e a}1 bn{'1-emph]
+=2' 8 vol+4  [A E-s5, A-s3, Bb] [A E-s5, A}'1 Bn{'1-emph]
+|
+b1.4 .20 - .75 -
+=1, 8 vol+4 [a e a b] [a e a}'1] <c c~-emph>
+I0.6 .86 ff
+=2  8 vol+4  [A E-s5, A-s3, B'] [A E-s5, A}'1] c-emph
+|
+b1.4 .30 -
+b1.0 .57 Loc.
+=1, 8 [<Bb bb-emph-s4> <A a-emph-s5> e-s4 eb-s3 Bb-s2 tra0 a-s1 g#-s4 eb-s2]
+=2' 8 [Bb-emph-s3, A-emph-s1, E-s2, Eb-s3, B_b-s5, A_-s1, G_#-s2, E_b-s4,] bass
+
+5 systems 5 / 19-45-19 / 19-40-19 / 19-40-19 / 19-40-19 / 19-40-19 /
+pagenum
+innerhead Suite for Piano, Op. 14,  Béla Bartók, 1916
+/
+4 bars |6 6 7 7 6 7 7 5 |6 6 7 7 13 7 7 5| 6 7 7 7 6 7 7 5| 7 7 6 6 7 7 6 5 |
+|
+=1, 8 [<Bb bb-emph-s4> <A a-s5> e-s4 eb-s3 Bb-s2 A-s1 G#-s4 Eb-s2]
+=2' 8 [bb-emph-s2, a-s1, e-s2, eb-s3, Bb-s5, A-s1, G#-s2, Eb-s4,]
+|
+=1' 8 [<B_b Bb-emph-s4> <A_ A-emph-s5> E-s4 Eb-s3 B_b-s2 bass a-s1 g#-s4 eb-s2]
+=2' 8 [Bb-emph-s2, A-emph-s1, E-s2, Eb-s3, B_b-s5, A_-s1, G_#-s2, E_b-s4,]
+| .93
+i1.0 .50 sempre più mosso
+=1' 8 [bb-emph-s4 a-emph-s5 en-s4 eb-s3 Bb-s2 A-s1 G#-s4 Eb-s2]
+=2' 8 [Bb-emph-s2, A-emph-s1, E-s2, Eb-s3, B_b-s5, A_-s1, G_#-s2, E_b-s4,]
+| .92
+=1' 2 rest 8 [A{2-emph G# Eb D}2]
+=2' 8 [A_{2-emph G_# E_b D_}2] 2 rest
+/
+5 bars | 7 7 6 6 7 7 6 5 | 30 | 7 7 6 6 7 7 6 10 \
+ | 30 | 7 7 6 6 7 7 6 10 |
+| .91
+=1' 2 rest treble 8 [A{2-emph,-s4 G#-s3 Eb-s1 D}2-s1,]
+=2, 8 [a{1-emph g# eb d}1] 2 rest
+| .90
+=1, 2. vol127 <c# a c~#{1-s1-s3-s"4+5"> 4 vol-10 <e c~n e~}1-s1-s3-s5>
+I0.8 .01 sff
+=2' 2. vol127 <a c~#{1> 4 vol-10 <c~n e~}1>
+=2, 1  vol127 f#-s2,-s3,-s5,
+|
+=1, 2 rest bass 8 [a{1-emph, g# eb-s1 d}1-s1,] treble
+=2' 8 [A{2-emph G# Eb D}2] 2 rest
+|
+=1, 2. vol127 <A f a{1-s1-s3-s"4+5"> 4 vol-10 <c ab c~}1-s1-s3-s5>
+I0.8 .01 sff
+=2' 2. vol127 <f a{1> 4 vol-10 <ab c~}1>
+=2, 1  vol127 d-s2,-s3,-s5,
+| .90
+=1, 2 rest bass 8 [a{1-emph-s4 g#--s3 eb--s1 d}1-s1,] treble
+=2' 8 [A{2-emph G# Eb D}2] 2 rest
+/
+4 bars | 48 |
+|
+=1, 4 <c# a c~#{1--s1-s3-s5> <e c~n e~--s1-s3-s5> \
+ <g e~b g~-s1-s3-s5> <e c~ e~n}1--s1-s3-s5>
+=2' 4 <a c~#{'1> <c~n e~-s1,-s2,> <e~b g~-s1,-s3,> <c~ e~n}'1-s1,-s3,>
+=2, 1 f#-s1,-s3,-s5,
+|
+=1, 2 blank 1 rest
+=2 8 [A{2-emph G# Eb D}2]  [a'{2-emph-s4 g#'-s3 eb'-s1] d,}2-s1,
+|
+=1, 4 <A f a{1> <c ab c~> <eb c~bl c~b> <c a c~n}1>
+=2' 4 <f a{'1> <ab c~> <c~bl e~b> <a c~}'1>
+=2, 1 d
+|
+=1' 2 rest 4 <Eb cbl eb{'1-s1-s3-s5> <C Abl cn}'1-s1-s3-s5>
+I0.6 .45 sf
+=2 8 [A{2-emph G# Eb D}2] 4 c~b{1 ab}1
+/
+4 bars |7 7 6 6 6 6 6 5 | 7 7 6 6 7 7 6 5 | 7 7 6 6 7 7 6 5 | 7 7 7 8 6 6 6 5 |
+|
+=1' 2 rest 4 <Cbl Eb{'1-s1-s3-s5> <A_bl Cn}'1-s1-s3-s5>
+I0.6 .45 sf
+=2' 8 [A_{2-emph G_# E_b D_}2] 4 eb cn
+=2, 2 blank 4 cbl{,2-s1, Abl},2-s3,
+| .88
+=1 2 blank 1 rest
+I0.7 .02 f
+i0.7 .20 cresc .   .   .
+=2' 2 blank 8 [A{2-emph G# Eb D}2]
+=2' 8 [A_{2-emph G_# E_b D_}2] 2 blank
+|
+=1 2 blank 1 rest
+=2, 2 blank 8 [a{1-emph g# eb d}1]
+=2' 8 [A{2-emph G# Eb D}2] 2 blank
+|
+=1' vol127 4 rest'' 8 [<c ab c~> <c ab c~>] \
+ 4 <eb c~bl e~b-ten-emph> 8 [<cn a c~n> <c a c~>]
+=1, 2 rest, 4 <Cbl E cbl> 8 [<A_bl Cn Abl> <A_ C A>]
+I0.7 .20 ff
+=2, vol127 8 [a{1-emph g# eb d(3] 4 d)3}'1 rest
+/
+4 bars |6 6 6 8 6 6 6 5 |8.5 6 6 6.5 6 6 6 5 \
+ |6 6 6 6 6 6 6 5 | 6 6 6 6 7 7 6 6 ||
+|
+=1' 4 <eb c~bl e~b-ten-emph> 8 [<cn a c~n> <c a c~>] \
+ 4 <eb c~bl e~b-ten-emph> 8 [<cn a c~n> <c a c~>]
+=1, 4 <Cbl Eb cbl> 8 [<A_bl Cn Abl> <A_ C A>] \
+    4 <Cbl Eb cbl> 8 [<A_bl Cn Abl> <A_ C A>]
+=2 2 blank 1 rest
+|
+=1' 4 <ebr c~bl e~b-ten-emph>] 8 [<cn a c~n> <c a c~>] 2 rest
+=1, 4 <Cblr Eb cbl>] 4 rest,, 2 blank
+=2' 2 rest' 4 <Eb eb-ten-emph> rest'
+=2, 4 rest,,, 8 [<D_ D> <D_ D>] 4 rest,,, 8 [<D_ D> <D_ D>]
+|
+=1 2 blank 1 rest
+=2' 4 <Eb eb-ten-emph> rest' <E e-ten-emph> rest'
+=2, 4 rest,,, 8 [<D_ D> <D_ D>] 4 rest,,, 8 [<D_ D> <D_ D>]
+|  .11 .12 .13 .14 .15 .16 .19 2.8
+=1, 2 rest 8 [<a a~> <g# g~#> <eb e~b> <d d~-fermata>]
+I0.9 .40 fff
+=2' 4 <Eb eb-ten-emph> rest' 8 [a~ g~#] [<d a d~> <d a d~-fermata>]
+=2, 2 blank 4 <bbl e~b> blank
+=2, 4 rest,,, 8 [<D_ D> <D_(2 D(4>] 2 <D_)2 D)4>
+b0.7 .80 attaca
+
+midi pause 0.1
+

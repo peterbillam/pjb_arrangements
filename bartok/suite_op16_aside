@@ -1,4 +1,4 @@
-5 systems 30 / 19-35-19 5/ 19-35-19 / 19-35-19 / 19-35-19 / 19-45-19 /
+5 systems 30 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 /
 title Suite for Piano, Op. 14
 pagenum 1
 innerhead Béla Bartók, 1916
@@ -97,7 +97,6 @@ I0.5 .37 p
 =1' 4 dn-ten  d-ten
 =1, 8 rest, [<F#{,2 B-.,> rest <F},2 B-.,>] treble
 =2' 8 rest,, [B_{,2-., rest,, B_},2-.,]
-# XXX 20171123 StartedSLurs not being set correctly in muscript_lua line 3795 ?
 |
 =1' vol100 8 rest'' [d-.-s1-s2-s4 d-. 16 c{'1 d]
 =1, vol100 8 rest, [<F-., Bb> rest, <Fr-., B>]
@@ -135,7 +134,7 @@ I0.5 .37 p
 |
 =1' vol85 8 rest' [G#-. G-. 16 F#{'1 G]
 =1, 8 rest,, [<B_-., E> rest,, <B_r-., E>]
-=2' vol85 8 [E-., e-.,] rest E-.,
+=2  vol85 8 [E-., e-., rest E-.,]
 |
 =1' 8 [A#}'1 16 A{'1 B#] [c# A 8 An}'1]
 =1, 8 rest,, 4. D#
@@ -534,6 +533,7 @@ i1.1   ca. 2'50"
 
 midi pause 3.0
 
+midi on
 
 5 systems 30 / 19-35-19 / 19-35-19 / 19-30-19 / 19-35-19 / 19-30-19 /
 title 2.
@@ -1472,7 +1472,6 @@ i1.1   ca. 1'50"
 
 midi pause 3.0
 
-
 5 systems 15 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 / 19-35-19 /
 title 3.
 pagenum
@@ -2087,13 +2086,12 @@ b0.7 .80 attaca
 
 midi pause 0.1
 
-
 5 systems 15 / 19-40-19 / 19-40-19 / 19-40-19 /
 title 4.
 pagenum
 innerhead Suite for Piano, Op. 14, Béla Bartók, 1916
-midi channel 1 patch 0 pan 70
-midi channel 2 patch 0 pan 30
+#midi channel 1 patch 0 pan 70
+#midi channel 2 patch 0 pan 30
 /
 5 bars | 6/8 36 | 36 |
 | 3.1

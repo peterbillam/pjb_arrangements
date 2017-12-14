@@ -21,8 +21,9 @@ PIECE2 = sonata
 PIECE3 = mikrokosmos
 PLAY = mikrokosmos
 
-dev : ${PIECE1}.a4 ${PIECE2}.a4 ${PIECE3}.a4 \
- problem_AB.jpg problem_C.jpg problem_D.jpg
+dev : ${PIECE1}.a4 ${PIECE2}.a4 ${PIECE3}.a4
+# problem_AB.jpg problem_C.jpg problem_D.jpg
+
 all : ${FREED}/${PIECE1}.pdf \
  ${A4D}/${PIECE1}.pdf  ${USD}/${PIECE1}.pdf \
  ${XMLD}/${PIECE1}.xml ${XMLD}/${PIECE1}_readme.txt
@@ -31,6 +32,9 @@ dist:
 	scp -P 2223 ${USD}/${PIECE1}.pdf  ${DIST}/us/
 	scp -P 2223 ${XMLD}/${PIECE1}.xml ${DIST}/xml/
 	scp -P 2223 ${PIECE1} ${DIST}/src/${PIECE1}.txt
+
+${PIECE1} : ${PIECE1}_1 ${PIECE1}_2 ${PIECE1}_3 ${PIECE1}_4
+	cat ${PIECE1}_1 ${PIECE1}_2 ${PIECE1}_3 ${PIECE1}_4 > $@
 
 ${A4D}/${PIECE1}.pdf : title.a4 p2.a4 ${PIECE1}.a4 ${FREEBACKPAGE}.a4
 	${ADDMESSAGE} ${PIECE1}.a4 \
