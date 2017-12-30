@@ -1,4 +1,4 @@
-10 systems 20 / 19/19 23 / 19/19 23 / 19 23 /19/19/19 23 / 19 23 / 19 /
+11 systems 18 / 19/19 23 / 19/19 23 / 19 23 /19/19/19/19 26 / 19 21 / 19 /
 title Two plus Two
 midi channel 0 patch 25 reverb 80
 /
@@ -72,12 +72,20 @@ midi pause 0.5
   [A_ E-s1, A-s1, d-s3,  g-s4,] [A_ D#-s1, A-s2, c#-s3,  g-s4,] cc64=0
 midi on
 /
-2 bars | 16 | 16 ||
+2 bars | 48 | 4 4 4 4 4 4 4 4 4 4 4 3 ||
 | 2.7
 midi pause 0.5
 =1' cc64=127 16 [A_ D G c-s3,] [A_ D#-s1, G c#-s3,] [A_ E-s1, G d-s3,]
 |
 =1' 16 [A_ F-s1, G eb-s3,] [A_ E-s1, G d-s3,] [A_ D#-s1, G c#-s3,] cc64=0
+/
+2 bars | 4 4 5 4 4 4 4 4 4 4 4 4 4 4 4 3 | 64 ||
+| 3.6
+midi pause 0.5
+=1, cc64=127 16 [A_ G-s0 B--gs4 c~#] [A_ G c d~] [A_ G c# d~#] [A_ G d e~]
+|
+=1, 16 [A_ G eb f~] [A_ G d e~] [A_ G db e~b] [A_ G c d~] cc64=0
+
 midi off
 
 /
