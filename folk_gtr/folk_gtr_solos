@@ -1527,8 +1527,8 @@ il0.9 .01 40
 /
 3 bars | 3# 48 | 48 | 48 |
 |
-=1' 8 [c-s4 16 A B(2] 4 B)2
-=1, 8  leg60 [A_ leg99 E] leg60 [E_ leg99 E]
+=1' 8 [c-s4 16 A-s4 B(2] 4 B)2
+=1, 8  leg60 [A_ leg99 E-s3,] leg60 [E_ leg99 E]
 |
 =1' 8 [c-s4 16 c{'1 B#}'1(2-s"   2"] [B)2 8 c-s4] 16 rest'
 =1, 8  leg60 [A_ leg99 E-s3,] leg60 [D#-s1, leg99 E]
