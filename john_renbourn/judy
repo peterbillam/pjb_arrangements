@@ -1,0 +1,221 @@
+8 systems 20 / 19 / 19 / 19 / 19 / 19 / 19 / 19 / 19 /
+title Judy
+pagenum
+innerhead John Renbourn, 1st album
+midi channel 0 patch 25
+/
+3 bars | 12/8 4 4 4 4 4 4  4 4 4 4 5 4 | 4 4 4 4 4 4  4 4 4 4 5 4 \
+ | 4 4 4 4 4 4  4 4 4 4 5 4 |
+| 3.16
+i1.4 .01 Capo on 3rd
+=1 treble8vab cha0 leg99
+# midi off
+=1' 12/8 vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, 12/8 vol80  4. <A_ A> G_ <F_# D> E_
+|
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+|
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+/
+3 bars | 9/8 36 | 12/8 4 4 4 4 4 4  4 4 4 4 5 4 | 4 4 4 4 4 4  4 4 4 4 5 4 |
+| 2.37 
+=1' 9/8 vol100 8 rest' [g e] 8 [d c] 4. A 8 G#
+=1' 9/8 vol80  2 blank 8 blank 4 D# blank
+=1, 9/8 vol80  2. <F_n A> 8 E_ 4 E
+| 3.16
+il0.7 .04 5
+=1' 12/8 vol90 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, 12/8 vol80  4. <A_ A> G_ <F_# D> E_
+|
+=1' vol90 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+/
+3 bars | 8 8 8 8 8 8  8 8 8 8 10 8 | 9/8 72 \
+ | 12/8 5 4 5 4 4 4  4 4 4 4 4 4  5 4 5 4 4 4  4 4 4 4 4 4 |
+|
+=1' vol90 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+| 2.37 
+=1' 9/8 vol100 8 rest' [g e] 8 [d c] 4. A 8 G#
+=1' 9/8 vol80  2 blank 8 blank 4 D# blank
+=1, 9/8 vol80  2. <F_n A> 8 E_ 4 E
+| 3.16
+=1' 12/8 vol110 16 [e{'1 8 g}'1 8. e] 8 d 4 e \
+ vol100 16 [B{'1 8 d}'1 8. B] 8 [A 16 rest 8 A] 16 rest
+=1, 12/8 vol90  8 [<A_ c> E A(2] 4 <F_# A)2> 8 <D A> 8 [E_ E G] 8 [A_ E A_]
+/
+3 bars | 5 4 5 4 4 4  4 4 4 4 4 4  5 4 5 4 4 4  4 4 4 4 4 4 \
+ | 4 4 4 4 4 4  5 4 4 4 4 4  4 4 4 4 4 4  5 4 4 4 4 4 | 96 |
+|
+il0.8 10
+=1' vol110 16 [e{'1 8 g}'1 8. e] 8 d 4 e \
+ vol100 16 [B{'1 8 d}'1 8. B] 8 [A 16 rest 8 A] 16 rest
+=1, vol90  8 [<A_ c> E A(2] 4 <F_# A)2> 8 <D A> 8 [E_ E G] 8 [A_ E A_]
+|
+=1' vol110 8 [<d a> 16 rest' 8 <d a>] 16 rest' 16 [g 8. e] 8 rest' \
+ 16 [d 8 e 16 B 8 G] 4. g
+=1, vol110 8 [F# D D] 8 [<A_ c> 16 E A 8 E] rest, 4 D 8 [G_ 16 A_ B_ 8 D]
+|
+=1' vol110 8 [<d a> 16 rest' 8 <d a>] 16 rest' 16 [g 8. e] 8 rest' \
+ 16 [d 8 e 16 B 8 G] 4 <A e> 8 <G# e>
+=1, vol110 8 [F# D D] 8 [<A_ c> 16 E A 8 E] rest, 4. D 4 E_ 
+/
+2 bars | 5 4 5 4 4 4  4 4 4 4 4 4  5 4 5 4 4 4  4 4 4 4 4 4 \
+ | 4 4 4 4 4 4  5 4 4 4 4 4  4 4 4 4 4 4  5 4 4 4 4 4 |
+|
+=1' vol110 16 [e{'1 8 g}'1 8. e] 8 d 4 e \
+ vol100 16 [B{'1 8 d}'1 8. B] 8 [A 16 rest 8 A] 16 rest
+=1, vol90  8 [<A_ c> E A(2] 4 <F_# A)2> 8 <D A> 8 [E_ E G] 8 [A_ E E]
+|
+=1' vol110 16 [e{'1 8 g}'1 8. e] 8 d 4 e \
+ vol100 16 [B{'1 8 d}'1 8. B] 8 [A 16 rest 8 A] 16 rest
+=1, vol90  8 [<A_ c> E A(2] 4 <F_# A)2> 8 <D A> 8 [E_ E G] 8 [A_ E A_]
+/
+3 bars | 96 | 5 4 5 4 4 4  4 4 4 4 4 4  5 4 5 4 4 4  4 4 4 4 4 4 \
+ || 4 4 4 4 4 4  4 4 4 4 4 4  4 4 4 4 4 4  4 4 5 5 4 4 |
+|
+il0.8 15
+=1' vol110 8 [<d a> 16 rest' 8 <d a>] 16 rest' 16 [g 8. e] 8 rest' \
+ 16 [d 8 e 16 B 8 G] 4. g
+=1, vol110 8 [F# D D] 8 [<A_ c> 16 E A 8 E] rest, 4 D 8 [G_ 16 A_ B_ 8 D]
+|
+=1' vol110 8 [<d a> 16 rest' 8 <d a>] 16 rest' 16 [g 8. e] 8 rest' \
+ 16 [d 8 e 16 B 8 G] 4 <A e> 8 <G# e>
+=1, vol110 8 [F# D D] 8 [<A_ c> 16 E A 8 E] rest, 4. D 4 E_ 
+|
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+/
+3 bars | 4 4 4 4 4 4  4 4 4 4  5 4 | 4 4 4 4 4 4  4 4 4 4 5 4 | 9/8 36 ||
+|
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+|
+midi on
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+| 0.4 0.41 0.42 0.44 0.46 0.5
+il0.6 .01 20
+=1' 9/8 vol100 8 rest' [g e] 8 [d c] 4. A 8 G#
+=1' 9/8 vol80  2 blank 8 blank 4 D# blank
+=1, 9/8 vol80  2. <F_n A> 8 E_ 4 E
+/
+2 bars | 12/8 96 | 96 |
+| 3.16
+=1' 12/8 8. [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<c e> 8 <c  e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' 
+=1, 12/8 16 cc64=99 [C  8. A 8 cc64=0 <C A>]  16 rest,, 8. [<B_ G> 8 <B_ G>] \
+    16 rest,, 8. [<A_ A> 8 <A_ A>] 16 rest,, 8. [<B_ G> 8 <B_ G>]
+|
+=1' 8. [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<c e> 8 <c  e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' 
+=1, 16 rest, 8. [<C A> cc64=0 cc64=0 8 <C A>] \
+    16 rest,, 8. [<B_ G> 8 <B_ G>] \
+    16 rest,, 8. [<A_ A> 8 <A_ A>] 16 rest,, 8. [<B_ G> 8 <B_ G>]
+
+8 systems / 19 / 19 / 19 / 19 / 19 / 19 / 19 / 19 /
+pagenum
+innerhead Judy,  John Renbourn, 1st album
+
+/
+2 bars | 96 | 96 |
+|
+=1' 8. [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<c e> 8 <c  e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' 
+=1, 16 cc64=99 [C  8. A cc64=0 8 <C A>]  16 rest,, 8. [<B_ G> 8 <B_ G>] \
+    16 rest,, 8. [<A_ A> 8 <A_ A>] 16 rest,, 8. [<B_ G> 8 <B_ G>]
+|
+=1' 8. [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<d ex> 8 <d ex>] 16 rest' 8. [<B e> 8 <B e>] 16 rest'
+=1, 16 cc64=99 [C  8. A 8 cc64=0 <C A>]  16 [D 8. A 8 <D A>] \
+    16 cc64=99 [E  8. A 8 cc64=0 <E A>]  16 [E 8. G# 8 <E G#>]
+/
+2 bars | 12/8 96 | 96 |
+| 3.16
+il0.7 .01 25
+=1' 12/8 vol-15 8. [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<c e> 8 <c  e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' 
+=1, 12/8 16 cc64=99 [C  8. A 8 cc64=0 <C A>]  16 [B_ 8. G 8 <B_ G>] \
+    16 [A_ 8. A 8 <A_ A>] 16 [B_ 8. G 8 <B_ G>]
+I0.8 .01 p
+|
+=1' 8. vol+3 [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<c e> 8 <c  e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' 
+=1, 16 cc64=99 [C  8. A cc64=0 8 <C A>]  16 [B_ 8. G 8 <B_ G>] \
+    16 [A_ 8. A 8 <A_ A>] 16 [B_ 8. G 8 <B_ G>]
+/
+2 bars | 96 | 96 |
+|
+=1' 8. vol+4 [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<c e> 8 <c  e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' 
+=1, 16 cc64=99 [C  8. A cc64=0 8 <C A>]  16 [B_ 8. G 8 <B_ G>] \
+    16 [A_ 8. A 8 <A_ A>] 16 [B_ 8. G 8 <B_ G>]
+|
+=1' 8. vol+4 [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. vol+4 [<c e> 8 <c  e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' 
+=1, 16 cc64=99 [C  8. A cc64=0 8 <C A>]  16 [B_ 8. G 8 <B_ G>] \
+    16 [A_ 8. A 8 <A_ A>] 16 [B_ 8. G 8 <B_ G>]
+i1.1 .20 cresc .  .  .
+/
+2 bars | 96 || 96 |
+|
+=1' 8. [<ex e>  8 <ex e>] 16 rest' 8. [<d ex> 8 <d ex>] 16 rest' \
+    8. [<d ex> 8 <d ex>] 16 rest' 8. [<B e> 8 <B e>] 16 rest'
+=1, 16 cc64=99 [C  8. A 8 cc64=0 <C A>]  16 [D 8. A 8 <D A>] \
+    vol110 16 cc64=99 [E  8. A 8 cc64=0 <E A>]  16 [E 8. G# 8 <E G#>]
+|
+il0.8 .21 30
+=1' vol110 16 [e{'1 8 g}'1 8. e] 8 d 4 e \
+ vol100 16 [B{'1 8 d}'1 8. B] 8 [A 16 rest 8 A] 16 rest
+=1, vol90  8 [<A_ c> E A(2] 4 <F_# A)2> 8 <D A> 8 [E_ E G] 8 [A_ E A_]
+/
+2 bars | 5 4 5 4 4 4  4 4 4 4 4 4  5 4 5 4 4 4  4 4 4 4 4 4 |
+|
+=1' vol110 16 [e{'1 8 g}'1 8. e] 8 d 4 e \
+ vol100 16 [B{'1 8 d}'1 8. B] 8 [A 16 rest 8 A] 16 rest
+=1, vol90  8 [<A_ c> E A(2] 4 <F_# A)2> 8 <D A> 8 [E_ E G] 8 [A_ E A_]
+|
+=1' vol110 8 [<d a> 16 rest' 8 <d a>] 16 rest' 16 [g 8. e] 8 rest' \
+ 16 [d 8 e 16 B 8 G] 4. g
+=1, vol110 8 [F# rest, D] 8 [<A_ c> 16 E A 8 E] rest, 4 D 8 [G_ 16 A_ B_ 8 D]
+/
+3 bars | 96 || 96 | 96 |
+|
+=1' vol110 8 [<d a> 16 rest' 8 <d a>] 16 rest' 16 [g 8. e] 8 rest' \
+ 16 [d 8 e 16 B 8 G] 4 <A e> 8 <G# e>
+=1, vol110 8 [F# rest, D] 8 [<A_ c> 16 E A 8 E] rest, 4. D 4 E_
+|
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+|
+il0.8 .27 35
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+/
+3 bars | 96 |
+|
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+| 3.3
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+| 3.4
+=1' vol100 8 rest' g 4 e 8 [E d] rest' [c A(2] [A)2 E G#]
+=1, vol80  4. <A_ A> G_ <F_# D> E_
+/
+3 bars | 96 | 96 | 32 25 25 ||
+| 2.9
+=1' 9/8 vol100 8 rest' [g e] 8 [d c] 4. A 8 G#
+=1' 9/8 vol80  2 blank 8 blank 4 D# blank
+=1, 9/8 vol80  2. <F_n A> 8 E_ 4 E
+
+| 3.5
+il0.8 .02 40
+=1 16 cc64=99 [A_ E A{2 B'}2] 8 [c e] 16 [g e] 4 f# 8 e
+|
+=1' 8 rest' 16 [c e] 2 <c e b>
+=1, 1 A_ cc64=0
+
+

@@ -27,9 +27,11 @@ UTF2ISO = /home/pbin/utf2iso
 #PLAY = whisper_not
 #PLAY = vatican_rag
 #PLAY = two_plus_two
-PLAY = river_man
+#PLAY = river_man
 # cd /home/cds/song/tom_lehrer/1965_that_was_the_year_that_was/
 # play  14_the_vatican_rag.wav tempo 0.5
+#PLAY = 20171209
+PLAY = too_tight_rag
 
 WAVDIR = /home/pjb/wav/folk
 WAV = ${WAVDIR}/${PLAY}.wav
@@ -77,6 +79,7 @@ folk_gtr_solos : ../davey_graham/angi \
   ../bert_jansch/veronica \
   ../bert_jansch/smokey_river \
   ../bert_jansch/wheel \
+  ../john_renbourn/day_at_the_seaside \
   whisper_not \
   entertainer \
   london_rag
@@ -91,6 +94,7 @@ folk_gtr_solos : ../davey_graham/angi \
 	  ../bert_jansch/veronica \
 	  ../bert_jansch/smokey_river \
 	  ../bert_jansch/wheel \
+	  ../john_renbourn/day_at_the_seaside \
 	  whisper_not \
 	  entertainer \
 	  london_rag > $@
@@ -141,5 +145,4 @@ ${WAV} : ${PLAY}
 
 play_river :
 	mplayer /home/cds/folk/nick_drake/five_leaves_left/02_river_man.wav
-
 
