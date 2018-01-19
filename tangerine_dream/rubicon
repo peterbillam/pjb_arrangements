@@ -1,11 +1,12 @@
 20110219
 
 I
+mplayer /home/cds/rock/tangerine_dream/1975_rubycon/01_part_one.wav
 	echo on Gong, and high puffs
 	song 1/sec
 	shimmer,
 	shimmer-crisis + seagulls
-	doodle /D#min / F#maj / "wey full seconds" ?
+	doodle /D#min / F#maj / "wey full seconds" ?  == doodle black-notes
 	seagulls ; rising harp into string shimmers, irregular lengths
 	more and more regular such shimmers
 	crisis in filtered HV
@@ -20,6 +21,7 @@ I
 	10/16 16 C C c c Bb G G Bb 8 C c
 	10/16 16 C C c c Bb 8 G 16 Bb 8 c
 II
+mplayer /home/cds/rock/tangerine_dream/1975_rubycon/02_part_two.wav
 	Cavernous Metallic; + wind howling noises
 	2 different channels
 	bending up and down with an LFO farm
@@ -33,3 +35,4 @@ II
 	Doodled HVs with long Att & Rel and verlegato
 	chords rising and falling on last "tian", to Pedal
 	then SurfOnBeach
+

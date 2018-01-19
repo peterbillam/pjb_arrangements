@@ -30,7 +30,7 @@ Il0.8 .03 A + B
 =1' cc64=127 16 [D-s0, A-s3, B-s0, e-s0,] \
  [D#-s1, A-s3, B-s0, f-s2,] [E-s2, A-s3, B-s0, f#-s4,]
 |
-=1' 16 [F-s3, A-s2, B-s0, g-s4,] [E-s2, A-s3, B-s0, f#-s4,] \
+=1' 16 [F-s2, A-s1, B-s0, g-s4,] [E-s2, A-s3, B-s0, f#-s4,] \
  [D#-s1, A-s3, B-s0, fn-s2,] cc64=0
 /
 2 bars | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 | 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 ||
@@ -39,7 +39,7 @@ midi pause 0.5
 =1' cc64=127 16 [A_ D-s0, A-s3, B-s0, e-s0,] \
  [A_ D#-s1, A-s3, B-s0, f-s2,] [A_ E-s2, A-s3, B-s0, f#-s4,]
 |
-=1' 16 [A_ F-s3, A-s2, B-s0, g-s4,] [A_ E-s2, A-s3, B-s0, f#-s4,] \
+=1' 16 [A_ F-s2, A-s1, B-s0, g-s4,] [A_ E-s2, A-s3, B-s0, f#-s4,] \
  [A_ D#-s1, A-s3, B-s0, fn-s2,] cc64=0
 
 /
