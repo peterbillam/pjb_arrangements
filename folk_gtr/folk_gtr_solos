@@ -3268,6 +3268,7 @@ title Day at the Seaside
 pagenum
 innerhead John Renbourn, 2nd album
 midi channel 0 patch 25
+midi channel 1 patch 25
 /
 3 bars | 2/2 4 4 5 3  4 4 4 4  6.5 4 4 5  4 4 4 3 \
  | 4 4 4 4 3 4 4 4 4 4 4 6.5 4 4 4 3 | 64 |
@@ -3277,12 +3278,13 @@ r0.7 min=66
 =1 treble8vab cha0 leg99
 # midi off
 =1' 2/2 vol100 8 rest' 16 [b{'1 8. a}'1 8 e-s0] \
- 16 [e{'1 8 f#}'1 16 f#(2 8 f)2] 8 rest'
+ 16 [e{'1 8 f#}'1--s2 16 f#(2 8 f)2] 8 rest'
 =1, 2/2 vol85 8 rest  8. [d-s3, B-s0] 8 rest 8. [A 16 d 8 A]
 =1, 2/2 vol100 1 D
 i0.6  Capo on 1st
 |
-=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e] 8. [d 16 e{'1] 4 f#}'1
+I1.3 .66 a
+=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e] 8. [d-s3 16 e{'1] 4 f#}'1
 =1, vol85 8 rest  8. [d-s3, B] 8 rest, 8. [A 16 d 8 A]
 =1, vol100 1 D
 |
@@ -3294,16 +3296,18 @@ i0.6  Capo on 1st
        | 6 4 3 4 4 4 4 4  5 6 5 4 4 6.5 4 3 \
        | 4 4 5 4 4 5 4 4  4 3 5 4 5 4 4 3 ||
 |
-=1' 8 rest' 16 [ab{'1 8 g}'1 16 f{'1 8 e}'1] 8. [d 16 d(2 8 d)2 e]
-=1, 8 rest 8. [B G] 163 blank 83 rest, 8. [G G]
-=1, 8. [E_ 16 E_(4] 4 E_)4 4. B_b 8 D(4
+=1' 8 rest' 16 [ab{'1 8 g}'1 16 f{'1 8 e}'1] 8. [d 8 d 8. e]
+=1, 8 rest 8. [B G] 163 blank 83 rest, 4. G
+=1, 4 E_ E_ 4. B_b 8 D(4
 |
 il0.9 .23 5
-=1' 16 [a{'1 8. f#}'1] 8 rest' e 16 e{'1 4.. d}'1
+# =1 1 blank---s"1    "-s"4    "
+=1' 16 [a{'1--s1-s4 8. f#}'1] 8 rest' e-s0 16 e{'1--s4 4.. d}'1--s1
 #=1, 4 <D)4 A> 4. G 8 [G 16 Ab{3 8. G}3]
 #=1, 4 <D)4 A> G 8 rest, 16 [Ab{3 8. G}3 16 F{3 F#}3]
 #=1, 4 <D)4 A> 4. G 163 [Ab{3 83 G}3] 163 [F{3 83 F#}3] 8 D(4
-=1, 4 <D)4 A> 8 G 4 G 16 [Ab{3 8 G}3] 16 [F{3 8 F#}3]
+=1, 4 <D)4 A> 8 G-s0, 4 G-s3, \
+ 16 [Ab{3-,-s4, 8 G}3-,-s3,] 16 [F{3-,-s2, 8 F#}3-,-s3,]
 |
 # =1, 16 [Ab 8. G] 16 [F 8. F#] 2 D
 # =1, 16 [F{3 8. F#}3] 2. D
@@ -3313,19 +3317,20 @@ il0.9 .23 5
 /
 3 bars | 4 4 4 5 5 4 4 4  5 5 5 4 4 4 4 3 \
        | 4 4 5 4 5 5 4 4  4 4 5 4 5 4 4 3 \
-       | 4 4 5 4 4 4 4 4  4 4 5 4 4 4 4 3 |
+       | 4 4 5 4 4 4 4 4  4 4 5 4 4 5 4 3 |
 |
-=1' 8. rest' 16 [c d 8. e] 8. [g 8 e 8. d]
+=1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [g 8 e 8. d]
 =1, 8 rest 4 G 8 G 16 rest 16 d 4 G 8 G
 =1, 2 C B_b
 |
-=1' 4 <d ex> 16 rest' 8. <c e> 4 <c dx> 16 rest' 8. <B d>
-=1, 8 rest, 16 [E 8. A 8 A] 8 rest, 16 [D 8. G 8 G]
-=1, 2 A_ G_
+=1 2 blank---s"4    "-s"0    " blank---s"4    "-s"2    "
+=1' 4 <d ex> 16 rest' 8. <c e> 4 <c dx> 16 rest' 8. <B d-s3-s2>
+=1, 8 rest, 16 [E-s2, 8. A-s3, 8 A] 8 rest, 16 [D-s0, 8. G-s0, 8 G-s4,]
+=1, 2 A_ G_-s1,
 |
-=1' 8. rest' 16 [c d 8. e] 8. [a 8 d 8. <c e>]
-=1, 8 rest 4 A 8 D rest 4 A 8 A
-=1, 2 <A_ F#> A_
+=1' 8. rest'-s4 16 [c{'1 d}'1 8. e] 8 [a 16 rest'' 8 d-s3 8. <c e>]
+=1, 8 rest 4 A 8 D rest 4 A 8 A-s3,
+=1, 2 <A_-s0, F#> A_
 /
 3 bars | 4 4 5 5 5 4 4 4 4 4 5 4 4 5 4 3 \
        | 4 4 5 5 5 5 4 4 4 4 5 5 4 4 4 3 \
@@ -3333,10 +3338,113 @@ il0.9 .23 5
 |
 il0.9 .01 10
 =1' 8. rest' 16 [B{'1 c}'1 8. e] 4 d 16 rest' 8. d
+=1, 8 rest, 4 A-s3 8 D rest, 16 [D 8. G 8 D]
+=1, 2 F_-s1, 2 G_
+|
+=1' 8. rest' 16 [c{'1 d}'1--s4 8. e] 4 g 8 rest'' e
+=1  8 rest 4 A,-s2 4 C-s3, 16 [D{'1 E(2}'1] 4 E)2
+# =1, 2 A_ 16 rest, 16 [D{3-emph, 8 E}3] 4 E_
+=1, 2. A_ 4 E_
+|
+=1' 8. rest' 16 [c{'1 d}'1--s4 8. e] 4 d 16 [A 8. <d ex>]
+=1, 8 rest, 4. A-s2 4. rest, 8 D
+=1, 4. A_ 4 G_ 16 [E_ F_#(3] 4 F_)3
+/
+3 bars | 4 3 4 3 4 4 4 4 4 4 4 4 4 4 4 3 \
+       | 6.5 5.5 4 4 6 6.5 4 4 4 4 4 6.5 4 4 4 3 \
+      || 4 4 5 4 4 4 4 4 6.5 4 4 5 4 4 4 3 |
+|
+# =1' 4 e(1 16 [e)1 8. e]  4 e(1 16 [e)1 8. e] 
+# =1, 8 rest 16 [E 8. B 8 E(2] 8 [E)2 16 E 8. B 8 E]
+# =1, 4 E_ E_ E_ E_
+=1' 8 rest' 8. [<B e> B] 16 [A 8 B 8 d 8. e]
+=1, 8 [E_ E E_ E] [E_ E E_ E]
+|
+=1' 16 [<D# c-s1-s1> 8. <E c#-s1-s1>] 16 rest' \
+ [<E c#{'1> 8 <F# d}'1-s3-s2>] 8. [<G e> 16 <G e{'1> 8 <A f#}'1> <G e>]
+=1, 8 rest,,, A 4 A_ 8 rest,, 4. A_
+
+|
+il0.9 .01 15
+=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e-s0] \
+ 16 [e{'1 8 f#}'1 16 f#(2 8 f)2] 8 rest'
+=1, vol85 8 rest  8. [d-s3, B-s0] 8 rest 8. [A 16 d 8 A]
+=1, vol100 1 D
+# midi off
+/
+3 bars | 4 4 5 3 4 5 4 4 4 4 4 6.5 5 4 4 3 \
+       | 4 4 5 4 4 4 4 4 6 4 4 5   4 4 4 3 \
+       | 4 4 5 5 4 5 4 4 4 4 4 5   4 5 4 3 |
+|
+=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e] 8. [d 16 e{'1] 4 f#}'1
+=1, vol85 8 rest  8. [d-s3, B] 8 rest, 8. [A 16 d 8 A]
+=1, vol100 1 D
+|
+=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e] 8. [fn 16 f(2] 4 f)2
+=1, vol85 8 rest  8. [d-s3, B] 16 rest [B 8. G 16 B 8 G]
+=1, vol100 2 D G_
+|
+=1' 8 rest' 16 [ab{'1 8 g}'1 16 f{'1 8 e}'1] 8. [d 16 8 d 8. e]
+#=1, 8 rest 8. [B G] 163 blank 83 rest, 8. [G G]
+#=1, 8. [E_ 16 E_(4] 4 E_)4 4. B_b 8 D(4
+=1, 8 rest 8. [B G] 163 blank 83 rest, 4. G
+#=1, 8. [E_ 16 E_(4] 4 E_)4 4. B_b 8 D(4
+=1, 4 E_ E_ 4. B_b 8 D(4
+/
+3 bars | 6 4 4 4  4 4 4 4  5 6 5 4  4 6.5 4 3 \
+       | 4 4 5 4  4 5 4 4  4 4 6 4  4 4   4 3 \
+       | 64 ||
+|
+=1' 16 [a{'1 8. f#}'1] 8 rest' e 16 e{'1 4.. d}'1
+#=1, 4 <D)4 A> 4. G 8 [G 16 Ab{3 8. G}3]
+#=1, 4 <D)4 A> G 8 rest, 16 [Ab{3 8. G}3 16 F{3 F#}3]
+#=1, 4 <D)4 A> 4. G 163 [Ab{3 83 G}3] 163 [F{3 83 F#}3] 8 D(4
+=1, 4 <D)4 A> 8 G 4 G 16 [Ab{3 8 G}3] 16 [F{3 8 F#}3]
+|
+il0.9 .01 20
+# =1, 16 [Ab 8. G] 16 [F 8. F#] 2 D
+# =1, 16 [F{3 8. F#}3] 2. D
+# =1, 16 rest, D(4] 2. D)4
+=1' vol70  8 rest' 16 [A 8 d 16 A 8 D] 8 rest' 16 [A 8 d 16 A 8 D]
+=1, vol100 2 D D
+|
+=1' 8 rest' 16 [D-s0 8. d-s2] 16 [A-s1 d(2] 8 [d)2 16 A 8. d 8 A]
+=1, cc64=99 16 [A_{3 8. D}3-s4,] 16 [A_{3 8. D}3] \
+ 16 [A_ 8. D-s0,] 16 [A_ 8. D-s0,] cc64=0
+
+6 systems 35 / 19 / 19 / 19 / 19 / 19 / 19  10/
+pagenum
+innerhead Day at the Seaside, John Renbourn, 2nd album
+midi channel 0 patch 25
+
+/
+3 bars | 4 4 4 5 5 4 4 4  5 5 5 4 4 4 4 3 \
+       | 4 4 5 4 5 5 4 4  4 4 5 4 5 4 4 3 \
+       | 4 4 5 5 5 4 4 4  4 4 5 4 4 4 4 3 |
+|
+=1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [g 8 e 8. d]
+=1, 8 rest 4 G 8 G 16 rest 16 d 4 G 8 G
+=1, 2 C B_b
+|
+=1 2 blank---s"4    "-s"0    " blank---s"4    "-s"2    "
+=1' 4 <d ex> 16 rest' 8. <c e> 4 <c dx> 16 rest' 8. <B d>
+=1, 8 rest, 16 [E 8. A 8 A] 8 rest, 16 [D 8. G 8 G]
+=1, 2 A_ G_
+|
+=1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [a 8 d 8. <c e>]
+=1, 8 rest 4 A 8 D rest 4 A 8 A
+=1, 2 <A_ F#> A_
+/
+3 bars | 4 4 5 5 5 4 4 4 4 4 5 4 4 5 4 3 \
+       | 4 4 5 5 5 5 4 4 4 4 5 5 4 4 4 3 \
+       | 4 4 5 5 5 4 4 4 4 4 6.5 5 5 5 4 3 |
+|
+il0.9 .01 25
+=1' 8. rest' 16 [B{'1 c}'1 8. e] 4 d 16 rest' 8. d
 =1, 8 rest, 4 A 8 D rest, 16 [D 8. G 8 D]
 =1, 2 F_ 2 G_
 |
-=1' 8. rest' 16 [c d 8. e] 4 g 8 rest'' e
+=1' 8. rest' 16 [c{'1 d}'1--s4 8. e] 4 g 8 rest'' e
 =1  8 rest 4 A, 4 C 16 [D E(2] 4 E)2
 # =1, 2 A_ 16 rest, 16 [D{3-emph, 8 E}3] 4 E_
 =1, 2. A_ 4 E_
@@ -3355,110 +3463,13 @@ il0.9 .01 10
 =1' 8 rest' 8. [<B e> B] 16 [A 8 B 8 d 8. e]
 =1, 8 [E_ E E_ E] [E_ E E_ E]
 |
-=1' 16 [<D# c> 8. <E c#>] 16 rest' [<E c> 8 <F# d>] \
- 8. [<G e> 16 <G e> 8 <A f#> <G e>]
+=1' 16 [<D# c{'1> 8. <E c#}'1>] 16 rest' [<E c{'1> 8 <F# d}'1>] \
+ 8. [<G e> 16 <G e{'1> 8 <A f#}'1> <G e>]
 =1, 8 rest,,, A 4 A_ 8 rest,, 4. A_
 
 |
-il0.9 .01 15
-=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e-s0] \
- 16 [e{'1 8 f#}'1 16 f#(2 8 f)2] 8 rest'
-=1, vol85 8 rest  8. [d-s3, B-s0] 8 rest 8. [A 16 d 8 A]
-=1, vol100 1 D
-/
-3 bars | 4 4 5 3 4 5 4 4 4 4 4 6.5 5 4 4 3 \
-       | 4 4 5 4 4 4 4 4 6 4 4 5   4 4 4 3 \
-       | 4 4 5 5 4 5 4 4 4 4 4 5   4 5 4 3 |
-|
-=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e] 8. [d 16 e{'1] 4 f#}'1
-=1, vol85 8 rest  8. [d-s3, B] 8 rest, 8. [A 16 d 8 A]
-=1, vol100 1 D
-|
-=1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e] 8. [fn 16 f(2] 4 f)2
-=1, vol85 8 rest  8. [d-s3, B-s0] 16 rest [B 8. G 16 B 8 G]
-=1, vol100 2 D G_
-|
-=1' 8 rest' 16 [ab{'1 8 g}'1 16 f{'1 8 e}'1] 8. [d 16 d(2 8 d)2 e]
-=1, 8 rest 8. [B G] 163 blank 83 rest, 8. [G G]
-=1, 8. [E_ 16 E_(4] 4 E_)4 4. B_b 8 D(4
-/
-3 bars | 6 4 4 4  4 4 4 4  5 6 5 4  4 6.5 4 3 \
-       | 4 4 5 4  4 5 4 4  4 4 6 4  4 4   4 3 \
-       | 64 |
-|
-=1' 16 [a{'1 8. f#}'1] 8 rest' e 16 e{'1 4.. d}'1
-#=1, 4 <D)4 A> 4. G 8 [G 16 Ab{3 8. G}3]
-#=1, 4 <D)4 A> G 8 rest, 16 [Ab{3 8. G}3 16 F{3 F#}3]
-#=1, 4 <D)4 A> 4. G 163 [Ab{3 83 G}3] 163 [F{3 83 F#}3] 8 D(4
-=1, 4 <D)4 A> 8 G 4 G 16 [Ab{3 8 G}3] 16 [F{3 8 F#}3]
-|
-il0.9 .01 20
-# =1, 16 [Ab 8. G] 16 [F 8. F#] 2 D
-# =1, 16 [F{3 8. F#}3] 2. D
-# =1, 16 rest, D(4] 2. D)4
-=1' vol70  8 rest' 16 [A 8 d 16 A 8 D] 8 rest' 16 [A 8 d 16 A 8 D]
-=1, vol100 2 D D
-|
-=1' 8 rest' 16 [D-s0 8. d-s2] 16 [A-s1 d(2] 8 [d)2 16 A 8. d 8 A]
-=1, cc64=99 16 [A_{3 8. D}3-s4,] 16 [A_ 8. D] 16 [A_ 8. D] 16 [A_ 8. D] cc64=0
-
-6 systems 35 / 19 / 19 / 19 / 19 / 19 / 19  10/
-pagenum
-innerhead Day at the Seaside, John Renbourn, 2nd album
-midi channel 0 patch 25
-
-/
-3 bars | 4 4 4 5 5 4 4 4  5 5 5 4 4 4 4 3 \
-       | 4 4 5 4 5 5 4 4  4 4 5 4 5 4 4 3 \
-       | 4 4 5 4 4 4 4 4  4 4 5 4 4 4 4 3 |
-|
-=1' 8. rest' 16 [c d 8. e] 8. [g 8 e 8. d]
-=1, 8 rest 4 G 8 G 16 rest 16 d 4 G 8 G
-=1, 2 C B_b
-|
-=1' 4 <d ex> 16 rest' 8. <c e> 4 <c dx> 16 rest' 8. <B d>
-=1, 8 rest, 16 [E 8. A 8 A] 8 rest, 16 [D 8. G 8 G]
-=1, 2 A_ G_
-|
-=1' 8. rest' 16 [c d 8. e] 8. [a 8 d 8. <c e>]
-=1, 8 rest 4 A 8 D rest 4 A 8 A
-=1, 2 <A_ F#> A_
-/
-3 bars | 4 4 5 5 5 4 4 4 4 4 5 4 4 5 4 3 \
-       | 4 4 5 5 5 5 4 4 4 4 5 5 4 4 4 3 \
-       | 4 4 5 5 5 4 4 4 4 4 6.5 5 5 5 4 3 |
-|
-il0.9 .01 25
-=1' 8. rest' 16 [B{'1 c}'1 8. e] 4 d 16 rest' 8. d
-=1, 8 rest, 4 A 8 D rest, 16 [D 8. G 8 D]
-=1, 2 F_ 2 G_
-|
-=1' 8. rest' 16 [c d 8. e] 4 g 8 rest'' e
-=1  8 rest 4 A, 4 C 16 [D E(2] 4 E)2
-# =1, 2 A_ 16 rest, 16 [D{3-emph, 8 E}3] 4 E_
-=1, 2. A_ 4 E_
-|
-=1' 8. rest' 16 [B{'1 c}'1 8. e] 4 d 16 [A 8. <d ex>]
-=1, 8 rest, 4. A 4. rest, 8 D
-=1, 4. A_ 4 G_ 16 [E_ F_#(3] 4 F_)3
-/
-3 bars | 4 3 4 3 4 4 4 4 4 4 4 4 4 4 4 3 \
-       | 6.5 5 4 4 4 6.5 4 4 4 4 4 6.5 4 4 4 3 \
-      || 4 4 5 4 4 4 4 4 6.5 4 4 5 4 4 4 3 |
-|
-# =1' 4 e(1 16 [e)1 8. e]  4 e(1 16 [e)1 8. e] 
-# =1, 8 rest 16 [E 8. B 8 E(2] 8 [E)2 16 E 8. B 8 E]
-# =1, 4 E_ E_ E_ E_
-=1' 8 rest' 8. [<B e> B] 16 [A 8 B 8 d 8. e]
-=1, 8 [E_ E E_ E] [E_ E E_ E]
-|
-=1' 16 [<D# c> 8. <E c#>] 16 rest' [<E c> 8 <F# d>] \
- 8. [<G e> 16 <G e> 8 <A f#> <G e>]
-=1, 8 rest,, A 4 A_ 8 rest,, 4. A_
-
-|
 il0.9 .01 30
-midi on
+# midi on
 =1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e-s0] \
  16 [e{'1 8 f#}'1 16 f#(2 8 f)2] 8 rest'
 =1, vol85 8 rest  8. [d-s3, B-s0] 8 rest 8. [A 16 d 8 A]
@@ -3476,9 +3487,12 @@ midi on
 =1, vol85 8 rest  8. [d-s3, B-s0] 16 rest [B 8. G 16 B 8 G]
 =1, vol100 2 D G_
 |
-=1' 8 rest' 16 [ab{'1 8 g}'1 16 f{'1 8 e}'1] 8. [d 16 d(2 8 d)2 e]
-=1, 8 rest 8. [B G] 163 blank 83 rest, 8. [G G]
-=1, 8. [E_ 16 E_(4] 4 E_)4 4. B_b 8 D(4
+=1' 8 rest' 16 [ab{'1 8 g}'1 16 f{'1 8 e}'1] 8. [d 8 d 8. e]
+#=1, 8 rest 8. [B G] 163 blank 83 rest, 8. [G G]
+#=1, 8. [E_ 16 E_(4] 4 E_)4 4. B_b 8 D(4
+=1, 8 rest 8. [B G] 163 blank 83 rest, 4. G
+#=1, 8. [E_ 16 E_(4] 4 E_)4 4. B_b 8 D(4
+=1, 4 E_ E_ 4. B_b 8 D(4
 /
 3 bars | 6 4 4 4  4 4 4 4  5 6 5 4  4 6.5 4 3 \
        | 4 4 5 4  4 5 4 4  4 3 3 3  4 3   3 3 \
@@ -3491,26 +3505,32 @@ midi on
 =1, 4 <D)4 A> 8 G 4 G 16 [Ab{3 8 G}3] 16 [F{3 8 F#}3]
 |
 il0.9 .01 35
-=1' vol70  8 rest' 16 [A 8 d 16 A 8 D] 2 rest'
+=1' vol70  8 rest' 16 [A 8 d 16 A 8 D] 2 rest
 =1, vol100 2 D D
 | 0.5 0.5 0.55 0.7
 =1' vol75 8. rest' 16 [c d 8. e] 8. [g 8 e 8. g]
 =1, 8 rest 4 G 8 blank 2 blank
 =1, vol85 4. C 8 <C G> 2 <C G>
+i0.9 .32 rit  .  .  .
 /
 3 bars | 5 5 4 4 4 4 4 4 4 3 4 3 4 3 4 3 | 60 | 50 ||
 | 0.7 0.55 0.5 0.5
 =1' 4 rest'' 8 [b{'1-emph a}'1(2] 2 a)2
-=1, 16 rest 16-s c'-emph 2.. d
+=1, 16 rest 16-s c'-emph-gs3 2.. d
 =1, 1 D(4
 | 2.0
 i0.6 .60 bend...
-=1' 2 g 4 fn{'1 f#}'1(2
-=1, 4 rest 2. c
+#P=1' 2 g-gs2 4 fn{'1 f#}'1(2
+#M=1' cha1 2 g 2 fn(2
+#M =1 2 blank 163 blank bend+4 blank bend+4 blank bend+4 \
+ blank bend+4 blank bend+4 blank
+=1, cha0 4 rest 2. c
 =1, 2 D)4 D(4
 |
-=1' 1 f#)2
-=1, 1 D)4
+i0.4 .70 ~  72 sec
+#P=1' 1 f#)2
+#M=1' cha1 bend+4 1 f)2 bend50
+=1, cha0 1 D)4
 6 systems 40 /20/20 3/20 5/20 /20 /20 30/
 pagenum
 title Whisper Not
