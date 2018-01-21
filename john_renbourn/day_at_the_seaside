@@ -44,10 +44,7 @@ il0.9 .23 5
 =1, 4 <D)4 A> 8 G-s0, 4 G-s3, \
  16 [Ab{3-,-s4, 8 G}3-,-s3,] 16 [F{3-,-s2, 8 F#}3-,-s3,]
 |
-# =1, 16 [Ab 8. G] 16 [F 8. F#] 2 D
-# =1, 16 [F{3 8. F#}3] 2. D
-# =1, 16 rest, D(4] 2. D)4
-=1' vol70  8 rest' 16 [A 8 d 16 A 8 D] 8 rest' 16 [A 8 d 16 G 8 D]
+=1' vol70  8 rest' 16 [A 8 d-s4 16 A 8 D] 8 rest' 16 [A 8 d 16 G 8 D]
 =1, vol100 2 D D
 /
 3 bars | 4 4 4 5 5 4 4 4  5 5 5 4 4 4 4 3 \
@@ -74,7 +71,7 @@ il0.9 .23 5
 il0.9 .01 10
 =1' 8. rest' 16 [B{'1 c}'1 8. e] 4 d 16 rest' 8. d
 =1, 8 rest, 4 A-s3 8 D rest, 16 [D 8. G 8 D]
-=1, 2 F_-s1, 2 G_
+=1, 2 F_-s1, 2 G_-s3,
 |
 =1' 8. rest' 16 [c{'1 d}'1--s4 8. e] 4 g 8 rest'' e
 =1  8 rest 4 A,-s2 4 C-s3, 16 [D{'1 E(2}'1] 4 E)2
@@ -140,7 +137,7 @@ il0.9 .01 20
 # =1, 16 [Ab 8. G] 16 [F 8. F#] 2 D
 # =1, 16 [F{3 8. F#}3] 2. D
 # =1, 16 rest, D(4] 2. D)4
-=1' vol70  8 rest' 16 [A 8 d 16 A 8 D] 8 rest' 16 [A 8 d 16 A 8 D]
+=1' vol70  8 rest' 16 [A 8 d-s2 16 A 8 D] 8 rest' 16 [A 8 d 16 A 8 D]
 =1, vol100 2 D D
 |
 =1' 8 rest' 16 [D-s0 8. d-s2] 16 [A-s1 d(2] 8 [d)2 16 A 8. d 8 A]
@@ -243,7 +240,7 @@ il0.9 .01 35
 =1' vol70  8 rest' 16 [A 8 d 16 A 8 D] 2 rest
 =1, vol100 2 D D
 | 0.5 0.5 0.55 0.7
-=1' vol75 8. rest' 16 [c d 8. e] 8. [g 8 e 8. g]
+=1' vol75 8. rest' 16 [c{'1 d}'1 8. e] 8. [g 8 e 8. g]
 =1, 8 rest 4 G 8 blank 2 blank
 =1, vol85 4. C 8 <C G> 2 <C G>
 i0.9 .32 rit  .  .  .
