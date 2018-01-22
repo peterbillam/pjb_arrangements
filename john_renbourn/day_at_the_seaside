@@ -77,6 +77,7 @@ il0.9 .01 10
 =1  8 rest 4 A,-s2 4 C-s3, 16 [D{'1 E(2}'1] 4 E)2
 # =1, 2 A_ 16 rest, 16 [D{3-emph, 8 E}3] 4 E_
 =1, 2. A_ 4 E_
+i0.9 .08 ponticello . . .
 |
 =1' 8. rest' 16 [c{'1 d}'1--s4 8. e] 4 d 16 [A 8. <d ex>]
 =1, 8 rest, 4. A-s2 4. rest, 8 D
@@ -91,6 +92,7 @@ il0.9 .01 10
 # =1, 4 E_ E_ E_ E_
 =1' 8 rest' 8. [<B e> B] 16 [A 8 B 8 d 8. e]
 =1, 8 [E_ E E_ E] [E_ E E_ E]
+i1.1 .95 come prima
 |
 =1' 16 [<D# c-s1-s1> 8. <E c#-s1-s1>] 16 rest' \
  [<E c#{'1> 8 <F# d}'1-s3-s2>] 8. [<G e> 16 <G e{'1> 8 <A f#}'1> <G e>]
@@ -180,6 +182,7 @@ il0.9 .01 25
 =1  8 rest 4 A, 4 C 16 [D E(2] 4 E)2
 # =1, 2 A_ 16 rest, 16 [D{3-emph, 8 E}3] 4 E_
 =1, 2. A_ 4 E_
+i0.9 .08 ponticello . . .
 |
 =1' 8. rest' 16 [c{'1 d}'1 8. e] 4 d 16 [A 8. <d ex>]
 =1, 8 rest, 4. A 4. rest, 8 D
@@ -194,6 +197,7 @@ il0.9 .01 25
 # =1, 4 E_ E_ E_ E_
 =1' 8 rest' 8. [<B e> B] 16 [A 8 B 8 d 8. e]
 =1, 8 [E_ E E_ E] [E_ E E_ E]
+i1.1 .95 come prima
 |
 =1' 16 [<D# c{'1> 8. <E c#}'1>] 16 rest' [<E c{'1> 8 <F# d}'1>] \
  8. [<G e> 16 <G e{'1> 8 <A f#}'1> <G e>]
