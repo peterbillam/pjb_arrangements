@@ -121,7 +121,7 @@ I0.5 .22 f
 I0.9 .16 p
 |
 I0.4 .16 f
-=1, 16 E vol+15 cc64=0 8 rest,, 8. rest,,, 4. blank
+=1, 16 E-s2, vol+15 cc64=0 8 rest,, 8. rest,,, 4. blank
 =1' 8 rest' 16 [<E(2 c(1> <E)2 c)1> rest <E c>] 8. [<D B> <C A>]
 |
 =1' 2. <B_ G#>
@@ -132,7 +132,7 @@ I0.9 .16 p
 4 bars | 48 | 48 | 48 | 15/16 12 12 10 10 9 ||
 |
 I0.4 .17 f
-=1, 16 E vol+15 cc64=0 8 rest,, 8. rest,,, 4. blank
+=1, 16 E-s2, vol+15 cc64=0 8 rest,, 8. rest,,, 4. blank
 =1' 8 rest' 16 [<E(2 c(1> <E)2 c)1> rest <E c>] 8. [<D B> <C A>]
 |
 il0.5 .15 30
@@ -284,7 +284,7 @@ I1.0 .15 p
 I1.1 .23 f
 =1' 8 [<B)2 e)1> 16 vol+15 <E(2 c(1> <E)2 c)1> rest <E c>] \
  8. [<D B> 8 <C A> 16 <B_(2 G#(1>] cc64=127
-=1, 8. E cc64=0 blank 4. blank
+=1, 8. E-s2, cc64=0 blank 4. blank
 |
 =1' 8. [<B_)2(2 G#)1(1> 8 <B_)2 G)1> vol-15 16 <B(2 e(1> \
   8 <B)2 e)1> 16 <B(2 e(1>] 8 [<B)2 e)1> 16 <B(2 e(1>]
@@ -294,7 +294,7 @@ I1.0 .16 p
 I0.9 .24 f
 =1' 8. <B)2 e)1> vol+15 16 [<E c> rest <E c>] \
  8. [<D B> 8 <C A> 16 <B_ G#-emph>]  vol-15
-=1, 8. E cc64=0 rest,,, 4. rest,,,
+=1, 8. E-s2, cc64=0 rest,,, 4. rest,,,
 |
 =1' 8 <C A>  16 blank 8. blank 4. blank
 =1, 8 rest,,,  16 A_ 8. [G_ F_ E_]
@@ -3325,7 +3325,7 @@ il0.9 .23 5
 =1, 8 rest, 16 [E-s2, 8. A-s3, 8 A] 8 rest, 16 [D-s0, 8. G-s0, 8 G-s4,]
 =1, 2 A_ G_-s1,
 |
-=1' 8. rest'-s4 16 [c{'1 d}'1 8. e] 8 [a 16 rest'' 8 d-s3 8. <c e>]
+=1' 8. rest'-s4 16 [c{'1 d}'1 8. e] 8 [a 16 rest'' 8 d-s3 8. <c e-s2-s0>]
 =1, 8 rest 4 A 8 D rest 4 A 8 A-s3,
 =1, 2 <A_-s0, F#> A_
 /
@@ -3419,7 +3419,7 @@ midi channel 0 patch 25
 /
 3 bars | 4 4 4 5 5 4 4 4  5 5 5 4 4 4 4 3 \
        | 4 4 5 4 5 5 4 4  4 4 5 4 5 4 4 3 \
-       | 4 4 5 5 5 4 4 4  4 4 5 4 4 4 4 3 |
+       | 4 4 5 5 5 4 4 4  4 4 5 4 4 5 4 3 |
 |
 =1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [g 8 e 8. d]
 =1, 8 rest 4 G 8 G 16 rest 16 d 4 G 8 G
@@ -3430,8 +3430,8 @@ midi channel 0 patch 25
 =1, 8 rest, 16 [E 8. A 8 A] 8 rest, 16 [D 8. G 8 G]
 =1, 2 A_ G_
 |
-=1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [a 8 d 8. <c e>]
-=1, 8 rest 4 A 8 D rest 4 A 8 A
+=1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [a 8 d 8. <c e-s2-s0>]
+=1, 8 rest 4 A 8 D rest 4 A 8 A-s3,
 =1, 2 <A_ F#> A_
 /
 3 bars | 4 4 5 5 5 4 4 4 4 4 5 4 4 5 4 3 \
@@ -3441,7 +3441,7 @@ midi channel 0 patch 25
 il0.9 .01 25
 =1' 8. rest' 16 [B{'1 c}'1 8. e] 4 d 16 rest' 8. d
 =1, 8 rest, 4 A 8 D rest, 16 [D 8. G 8 D]
-=1, 2 F_ 2 G_
+=1, 2 F_-s1, 2 G_
 |
 =1' 8. rest' 16 [c{'1 d}'1--s4 8. e] 4 g 8 rest'' e
 =1  8 rest 4 A, 4 C 16 [D E(2] 4 E)2
