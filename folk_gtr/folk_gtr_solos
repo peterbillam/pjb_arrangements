@@ -1347,7 +1347,7 @@ il0.6 .03 65
 | 2.5
 =1' 2. <e)1 c)3 G)5 E)2 C)4>
 =1, 2. vol+15 E_
-9 systems 25 /20 5/20 5/20 5/20 7/20/20/20/20/20 5/
+9 systems 20 /20 5/20 4/20 5/20 9/20 4/20 3/20/20 5/20 3/
 title Powder Rag
 pagenum
 innerhead Stefan Grossman, 1972 live album
@@ -1414,7 +1414,7 @@ rs0.7 4
 =1' 8 leg60 [c c] [<A c> <A c>]
 =1, 8 [A_ G_ F_ E_]
 |
-=1' 16 leg99 [c{2 B#}2 leg60 c leg99 f(2] [f)2 e d-s2 c]
+=1' 16 leg99 [c{2-s3 B#}2 leg60 c leg99 f(2] [f)2 e d-s2 c]
 =1, 8 leg60 [A_ E] [F_ F-s3,]
 |
 il0.8 .20 15
@@ -1451,7 +1451,7 @@ il1.0 .01 20
 =1' 8 [B 16 B G] 8 [B 16 B G]
 =1, 8 [E_ D] [E_ D(4]
 |
-=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 16. f c]
+=1' 16 leg99 [B A# leg60 B leg99 e(2] [e)2 16. f-s4 c]
 =1, 8 [<E_ D)4> D] [E_ E]
 /
 4 bars | 3# 11 11 11 10 | 7 7 6 6 6 6 8 6 | 11 11 11 10 | 7 6 6 6 6 6 6 5 |
@@ -1493,7 +1493,7 @@ il0.8 .01 30
 =1' 8 [A 16 leg99 D#-emph E] rest [B_#-emph 8 C]
 =1, 8 leg60 A_ 4. blank
 |
-=1' 8 <A_-emph, A> leg99 [A c leg60 e]
+=1' 8 <A_-emph, A> leg99 [A-s3-gs4, c leg60 e]
 
 $MID8 = {
 |
@@ -3309,7 +3309,7 @@ il0.9 .23 5
 =1, 4 <D)4 A> 8 G-s0, 4 G-s3, \
  16 [Ab{3-,-s4, 8 G}3-,-s3,] 16 [F{3-,-s2, 8 F#}3-,-s3,]
 |
-=1' vol70  8 rest' 16 [A 8 d-s4 16 A 8 D] 8 rest' 16 [A 8 d 16 G 8 D]
+=1' vol70  8 rest' 16 [A-s2 8 d-s3 16 A 8 D] 8 rest' 16 [A 8 d-s4 16 G 8 D]
 =1, vol100 2 D D
 /
 3 bars | 4 4 4 5 5 4 4 4  5 5 5 4 4 4 4 3 \
