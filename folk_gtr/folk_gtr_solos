@@ -3404,7 +3404,7 @@ il0.9 .01 20
 # =1, 16 [Ab 8. G] 16 [F 8. F#] 2 D
 # =1, 16 [F{3 8. F#}3] 2. D
 # =1, 16 rest, D(4] 2. D)4
-=1' vol70  8 rest' 16 [A 8 d-s2 16 A 8 D] 8 rest' 16 [A 8 d 16 A 8 D]
+=1' vol70  8 rest' 16 [A-s1 8 d-s2 16 A 8 D] 8 rest' 16 [A 8 d 16 A 8 D]
 =1, vol100 2 D D
 |
 =1' 8 rest' 16 [D-s0 8. d-s2] 16 [A-s1 d(2] 8 [d)2 16 A 8. d 8 A]
@@ -3423,11 +3423,11 @@ midi channel 0 patch 25
 |
 =1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [g 8 e 8. d]
 =1, 8 rest 4 G 8 G 16 rest 16 d 4 G 8 G
-=1, 2 C B_b
+=1, 2 C-s3, B_b
 |
 =1 2 blank---s"4    "-s"0    " blank---s"4    "-s"2    "
 =1' 4 <d ex> 16 rest' 8. <c e> 4 <c dx> 16 rest' 8. <B d>
-=1, 8 rest, 16 [E 8. A 8 A] 8 rest, 16 [D 8. G 8 G]
+=1, 8 rest, 16 [E 8. A 8 A] 8 rest, 16 [D 8. G-s0, 8 G]
 =1, 2 A_ G_
 |
 =1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [a 8 d 8. <c e-s2-s0>]
