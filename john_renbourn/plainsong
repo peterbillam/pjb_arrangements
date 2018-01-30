@@ -1,0 +1,196 @@
+8 systems 25 / 19 / 19 / 19 / 19 / 19 / 19 / 19 / 19 10/
+title Plainsong
+pagenum
+innerhead John Renbourn, 1st album
+midi channel 0 patch 25 transpose 2
+midi channel 1 patch 25 transpose 2
+/
+6 bars | 5 | 45 | 40 | 45 | 3/4 40 | 4/4 64 |
+| 0.4
+r0.9 cro=92
+=1 treble8vab cha0 leg99
+=1, 8 A_(4
+i1.3   Capo on 2nd
+midi off
+| 2.6
+=1' vol100 2 <E e> <D d>
+=1, vol85 2... A_)4 16 A_(4
+| 2.6
+=1' 1 <E e>
+=1, 2.. A_)4 8 A_(4
+|
+=1' vol100 2 <E e> <D d>
+=1, vol85 2... A_)4 16 A_(4
+| 1.95
+=1' 3/4 2 <E e> 8 rest A
+=1, 3/4 2. A_)4
+| 2.2
+r0.9 cro=108
+il0.6 .40 5
+=1' 4/4 2 A A
+=1, 4/4 vol100 8. [D 16 Eb 8 D C] 8. [D 16 Eb 8 D C]
+/
+4 bars | 7/8 56 | 4/4 64 | 64 | 12 12 12 16 |
+| 1.925
+=1' 7/8 4. A 2 A
+=1, 7/8 8. [D 16 Eb D C] 8. [D 16 Eb 8 D C]
+|
+r0.8 .24 dim . . .
+=1' 4/4 8 [E_(6 83 vol-10 E(4 vol-8 G#(2 8. vol-8 B(8] \
+ 2 <E_)6 E)4 G)2 B)8>
+=1, 4/4 vol100 2... blank 16 A_(4
+| 2.0
+r1.0 cro=120
+=1' vol100 2 <E e> <D d>
+=1, vol85 4.. A_)4 2 A_ 16 A_(4
+| 2.0
+=1' 1 <E e(1>
+=1, 2 A_)4 8 rest,, vol100 [G_ A_ C]
+/
+4 bars | 7.5 5.5 4 4 4 4 4 4 4 4 4 4 4 4 4 3| 12 16 12 16| 32 24| 17 16 16 12|
+| 1.6
+il0.6 .20 10
+=1' vol100 1 e)1
+=1, vol100 16 [D Eb 8 D C vol-10 D] vol+10 [C-emph, A_ G_ A_(4]
+| 2.0
+=1' vol100 2 <E e> <D d>
+=1, vol85 4.. A_)4 2 A_ 16 A_(4
+|
+=1' 2 <E e> <D A>
+=1, 4 A_)4 <A_ A> 2 F_#
+| 2.0
+=1' 4 A A 2 A
+=1, vol100 83 [Eb D-I3, C] 8 [D C] [D C] 4 E_(2
+/
+4 bars | 12/16 4 4 5 4 4 4 4 3 4 4 3 4 | 4 4 5 4 4 4 4 3 4 4 3 4 \
+ | 4 4 5 4 4 4 4 3 4 4 3 4 | 4 4 5 4 4 4 4 3 4 4 3 4 |
+| .5 .4 .4 .4
+r0.9 .01 qua.=150
+=1' 12/16 2 <E B> 16 blank vol75 8. blank
+=1, 12/16 vol100 8 rest,, 16 B_ [D E B_] 8 [D 8. <E B e> 16 B_]
+=1, 12/16 1 E_)2
+| 1.6
+il0.6 .15 15
+=1' vol100 8 rest 16 B_ [D E B_] 8 [D 8. vol80 <E B e> vol93 16 B_]
+=1, 4. E_(4 8. [E_)4 vol70 E_]
+|
+=1' vol100 8 rest 16 B_ 164 [D E D-I"4  " B_] \
+ 8 [D 8. vol80 <E B e> vol93 16 B_]
+=1, 4. E_(4 8. [E_)4 vol70 E_]
+|
+=1' vol100 8 rest 16 B_ 164 [D E D-I"4  " B_] \
+ 8 [D 8. vol80 <E B e> vol93 16 A_(4]
+=1, 4. E_ vol70 8. [E_ E_]
+/
+4 bars | 48 | 48 | 48 | 48 |
+| 1.6
+=1' vol100 8 rest' 4 <E A e> 4 <D A d> 16 rest; <E(6 A(2 e(1>
+=1, vol85 4 A_)4 16 rest,,  A_(4 8. [A_)4 A_]
+|
+=1' 4. <E)6 A)2 e)1(1> 4 e)1 16 rest' <E(6 A(2 e(1>
+=1, vol85 8 [A_ 16 E 8. A_] 8 [<E A> 16 <E A> 8. A_(4]
+|
+il0.9 .35 20
+=1' vol100 8 <E)6 A)2 e)1> 4 <E A e> 4. <D A d>
+=1, vol85 4 A_)4 16 rest,, A_(4 8. [A_)4 A_(4]
+|
+=1' 4 <E A e> 16 rest' <E(2 A(1> 4.  <E)2 A)1>
+=1, vol85 8. [A_)4 A_] vol100 8. [A_ G_]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1 1 A
+=1' 8 rest' 16 C [D Eb C] 8 D 4 C
+=1, 8. [F_# F_#] [F_# F_#]
+|
+=1 1 A
+=1' 8 rest' 16 C 164 [D Eb D-I"4  " C] 8 D 4 C
+=1, 8. [F_n F_] [F_ F_]
+|
+=1'4. B(1 8 [<D B)1> 8. <E e> 16 B(1]
+=1, 8 rest, 16 B_ [D E B_] 4. blank
+=1, 4. E_ 8. [E_ E_]
+|
+il0.6 .22 25
+=1'4. B)1(1 8 [<D B)1> 8. <E e> 16 B]
+=1, 8 rest, 16 B_ 164 [D E-I"  4", D B_] 4. blank
+=1, 4. E_ 8. [E_ E_]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' vol100 8 rest' [<E A e> <E A e>] \
+ 8. [<D(5 A(3 d(1> 8 <D)5 A)3 d)1> 16 <E(6 A(3 e(1>]
+=1, vol85 4 A_ 16 rest,, A_(4 8. [A_)4 A_]
+|
+=1' 4 <E)6 A)3 e)1> 16 rest' <E(2 A(1> 4.  <E)2 A)1>
+=1, vol85 8. [A_ vol100 A_] 8. [A_ A_]
+|
+=1' vol100 8. [<A e> 8 rest' 16 <D A(3 d(1>] \
+ 8. [<A)3(3 d)1(1> 8 <A)3 d)1> 16 <E(6 A(3 e(1>]
+=1, vol85 8 [A_ 16 E 8. A_(4] 8 [A_)4 16 D 8. A_]
+|
+=1' 4 <E)6 A)3 e)1> 16 rest' <E(2 A(1> 4.  <E)2 A)1>
+=1, vol85 8. [A_ vol100 A_] 8. [A_ G_]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+il0.6 .10 30
+=1 1 A
+=1' 8 rest' 16 C [D Eb C] 8 D 4 C
+=1, 8. [F_# F_#] [F_# F_#]
+|
+=1' 8 [<Eb A> 16 C] 164 [D Eb D-I"4  " C] 8 D 4 C
+=1, 8. [F_n F_] [F_ F_]
+|
+=1' 4. B(1 8 [<D B)1> 8. <E e> 16 B(1]
+=1, 8 rest, 16 B_ [D E B_] 4. blank
+=1, 4. E_ 8. [E_ E_]
+|
+=1'4. B)1(1 8 [<D B)1> 8. <E e> 16 B]
+=1, 8 rest, 16 B_ 164 [D E-I"  4", D B_] 4. blank
+=1, 4. E_ 8. [E_ E_]
+
+8 systems 5 / 19 / 19 / 19 / 19 / 19 / 19 / 19 / 19 10/
+pagenum
+innerhead Plainsong,  John Renbourn, 1st album
+
+/
+4 bars | 48 | 48 | 48 | 48 |
+midi on
+| 1.6
+i1.0 59 sec
+=1' vol100 4. g f#
+=1' vol75 8 rest 16 A [B c A] 8 rest 16 A [B c A]
+=1, vol90 8. [<A_ E> A_] [<A_ D> A_]
+|
+il0.5 .10 35
+=1' 1 e
+=1' vol75 8 rest 16 A [B c A(2] 8 [A)2 16 A(2 8 A)2 16 A]
+=1, vol90 8. [<A_ E> vol75 A_] [A_ A_]
+|
+=1' vol100 4. g f#
+=1' vol75 8 rest 16 A [B c A] 8 rest 16 A [B c A]
+=1, vol90 8. [<A_ E> vol75 A_] [<A_ D> A_]
+|
+=1' 1 e
+=1' vol75 8 rest 16 A [B c A(2] 8 [A)2 16 <E(6 A(2> 8 <E)6 A)2> 16 <E A>]
+=1, vol90 8. [<A_ E> vol75 A_] [A_ vol90 G_]
+/
+4 bars | 48 | 48 | 48 | 48 |
+|
+=1' 8 rest' 16 A [B{'1 c}'1 A] 8 [e 8. A 16 <D(6 A>]
+=1 1 D
+=1, 8. [F_# F_#] [F_# F_#]
+|
+=1' 8 rest' 16 G{'1 [A}'1 B{'1 c}'1] 8 [e 8. d 16 <E(2 B(1>]
+=1 1 D)6
+=1, 8. [F_n F_] [F_ F_]
+|
+il0.6 .20 40
+=1' 4. <E)2 B)1(1> 8 [<D B)1> 8. <E e> 16 <E(2 B(1>]
+=1, 8 rest, 16 B_ [D E B_] 4. blank
+=1, 4. E_ 8. [E_ E_]
+|
+=1'4. <E)2 B)1(1> 8 [<D B)1> 8. <E e> 16 B]
+=1, 8 rest, 16 B_ 164 [D E-I"  4", D B_] 4. blank
+=1, 4. E_ 8. [E_ E_]
