@@ -1518,10 +1518,10 @@ innerhead Powder Rag,  Stefan Grossman, 1972 live album
 =1' 8 [e 16 leg99 <c f-s1-s1> e(2] [e)2 f-s4 8 <c e>]
 =1, 8 leg60 [F_-s2, G_-s4, A_#-s1, F_]
 |
+il0.8 .23 39
 =1' 4 <B d#> <B d#>
 =1, 8 rest,, leg60 <B_ F> rest,, <B_ F>
 |
-il0.9 40
 =1' 16 leg99 [B 8 c-s4 16 e(2] [e)2 c 8 B]
 =1, 8  leg60 [E_ E-s3,] [E_ E]
 /
@@ -1968,7 +1968,7 @@ il0.5 .01 15
 =1' 8 rest-s2 16-s [G#-s1 B] 4 f#-s3 d-s4
 =1, 2. cc64=127 B_ cc64=0
 |
-=1' 8 rest-s3 16-s [A c] 4 d d
+=1' 8 rest-s3 16-s [A c{'1] 4 d}'1 d
 =1, 2 cc64=127 C(2 8. [C)2 16 C-Ii,] cc64=0
 /
 4 bars | 48 | 48 | 48 | 4 4 4 6  4 4 4 3  4 4 4 3 |
