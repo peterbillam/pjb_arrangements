@@ -4006,7 +4006,7 @@ il0.9 .23 5
 |
 =1 2 blank---s"4    "-s"0    " blank---s"4    "-s"2    "
 =1' 4 <d ex> 16 rest' 8. <c e-s2-s0> 4 <c dx> 16 rest' 8. <B d-s3-s2>
-=1, 8 rest, 16 [E-s2, 8. A-s3, 8 A] 8 rest, 16 [D-s0, 8. G-s0, 8 G-s4,]
+=1, 8 rest, 16 [E-s2, 8. A-s3, 8 A] 8 rest, 16 [D-s0, 8. G-s0, 8-s D-is"damped",]
 =1, 2 A_ G_-s1,
 |
 =1' 8. rest'-s4 16 [c{'1 d}'1 8. e] 8 [a 16 rest'' 8 d 8. <c e-s2-s0>]
@@ -4039,8 +4039,8 @@ i0.9 .08 ponticello . . .
 # =1' 4 e(1 16 [e)1 8. e]  4 e(1 16 [e)1 8. e] 
 # =1, 8 rest 16 [E 8. B 8 E(2] 8 [E)2 16 E 8. B 8 E]
 # =1, 4 E_ E_ E_ E_
-=1' 8 rest' 8. [<B e> B] 16 [A 8 B 8 d 8. e]
-=1, 8 [E_ E E_ E] [E_ E E_ E]
+=1' 8 rest' 8. [<B e> B] 16 [A-s2 8 B-s0 8 d-s3 8. B-s4]
+=1, 8 [E_ E-s1, E_ E] [E_ E E_ E]
 i1.1 .95 come prima
 |
 =1' 16 [<D# c-s1-s1> 8. <E c#-s1-s1>] 16 rest' \
@@ -4076,7 +4076,7 @@ il0.9 .01 15
 /
 3 bars | 6 4 4 4  4 4 4 4  5 6 5 4  4 6.5 4 3 \
        | 4 4 5 4  4 5 4 4  4 4 6 4  4 4   4 3 \
-       | 64 ||
+       | 4 4 4 4  4 4 4 4  4 4 4 4  4 6   4 3 ||
 |
 =1' 16 [a{'1 8. f#}'1] 8 rest' e 16 e 4.. d
 #=1, 4 <D)4 A> 4. G 8 [G 16 Ab{3 8. G}3]
@@ -4091,9 +4091,9 @@ il0.9 .01 20
 =1' vol70  8 rest' 16 [A-s1 8 d-s2 16 A 8 D] 8 rest' 16 [A 8 d 16 A 8 D]
 =1, vol100 2 D D
 |
-=1' 8 rest' 16 [D-s0 8. d-s2] 16 [A-s1-Im d(2--Ia] 8 [d)2 16 A 8. d 8 A]
+=1' 8 rest' 16 [D-s0 8. d-s2] 16 [A-s1-Im d(2--Ia] 8 [d)2 16 A 8. d 8 D-s0]
 =1, cc64=99 16 [A_{3 8. D}3-s4,] 16 [A_{3 8. D}3] \
- 16 [A_ 8. D-s0,] 16 [A_ 8. D-s0,] cc64=0
+ 16 [A_{3 8. D}3] 16 [A_{3 8. D}3-s4,] cc64=0
 
 6 systems 35 / 19 / 19 / 19 / 19 / 19 / 19  10/
 pagenum
@@ -4110,8 +4110,8 @@ midi channel 0 patch 25
 =1, 2 C-s3, B_b
 |
 =1 2 blank---s"4    "-s"0    " blank---s"4    "-s"2    "
-=1' 4 <d ex> 16 rest' 8. <c e-s2-s0> 4 <c dx> 16 rest' 8. <B d>
-=1, 8 rest, 16 [E 8. A 8 A] 8 rest, 16 [D 8. G-s0, 8 G]
+=1' 4 <d ex> 16 rest' 8. <c e-s2-s0> 4 <c dx> 16 rest' 8. <B d-s3-s2>
+=1, 8 rest, 16 [E-s2, 8. A-s3, 8 A] 8 rest, 16 [D 8. G 8-s D]
 =1, 2 A_ G_
 |
 =1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [a 8 d 8. <c e-s2-s0>]
@@ -4144,8 +4144,8 @@ i0.9 .08 ponticello . . .
 # =1' 4 e(1 16 [e)1 8. e]  4 e(1 16 [e)1 8. e] 
 # =1, 8 rest 16 [E 8. B 8 E(2] 8 [E)2 16 E 8. B 8 E]
 # =1, 4 E_ E_ E_ E_
-=1' 8 rest' 8. [<B e> B] 16 [A 8 B 8 d 8. e]
-=1, 8 [E_ E E_ E] [E_ E E_ E]
+=1' 8 rest' 8. [<B e> B] 16 [A-s2 8 B-s0 8 d-s3 8. B-s4]
+=1, 8 [E_ E-s1, E_ E] [E_ E E_ E]
 i1.1 .95 come prima
 |
 =1' 16 [<D# c{'1> 8. <E c#}'1>] 16 rest' [<E c{'1> 8 <F# d}'1>] \
