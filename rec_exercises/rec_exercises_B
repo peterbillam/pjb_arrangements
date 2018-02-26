@@ -3,10 +3,11 @@ pagenum 3
 title Daily Recorder Exercises
 innerhead For Bass recorder in F, Peter Billam
 leftfoot (c) Peter J Billam 1995.
+midi channel 0 patch 74
 /
 4 bars | .8 1 1 1 .8 1 1 1|1 1 1 1 1 1 1 .7|.8 1 1 1 .8 1 1 1|1 1 1 1 1 1 1 .8||
 |
-=1 bass 1b qua [F smq G A] [B c d' e'] qua [f smq e d] [c' B' A G]
+=1 bass 1b cha0 qua [F smq G A] [B c d' e'] qua [f smq e d] [c' B' A G]
 |
 =1 smq [F A G B'] [A c B d'] [c, e d f] [e g qua f]
 |
