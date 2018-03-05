@@ -166,7 +166,7 @@ il0.6 .10 30
 | 1.55
 # 59 sec
 =1' vol100 4. g-s4 f#-s4
-=1' vol75 8 rest 16 A-s3 [B c-s1 G] 8 rest 16 A-s2 [B c-s1 G]
+=1' vol75 8 rest 16 A-s3 [B c-s1 G] 8 rest 16 A-s3 [B c-s1 G]
 =1, vol90 4. <A_ E> <A_ D>
 =1 4 blank 32. blank 4. blank-Ip,-,-down,
 rs0.4      2 .99   2
@@ -484,18 +484,16 @@ il0.7 .01 95
 =1' 8 rest' vol-15 16 [A B c A] vol+15 8 [e 8. A 16 A(2]
 =1, 8. F_# 4. D 8. F_#
 |
-#=1' 16 [A)2 rest D# A B{'1 c}'1] 8 [e 8. <A d> 16 <E(2 B(1>]
-#=1, 4. F_n 8. rest,,, F_
-=1' 8 [A)2 16 rest A B{'1 c}'1] 8 [e 8. <A d> 16 <E(2 B(1>]
+=1' 8 [A)2 16 rest A-s3 B{'1 c}'1--s1] 8 [e 8. <A d> 16 <E(2 B(1-s2-s0>]
 =1, 8 F_n 4 D# 8. rest,,, F_
 |
 il0.7 .01 100
 =1' 4. <E)2 B)1(1> 8 [<D B)1> 8. <B e> 16 <E(2 B(1>]
-=1, 8 rest, 16 B_ [D E B_] 4. blank
+=1, 8 rest,, 16 B_ [D E B_] 4. blank
 =1, 4. E_ 8. [E_ E_]
 |
 =1' 4. <E)2 B)1(1> 8 [<D B)1> 8. <B e> 16 <c(2 g(1>]
-=1, 8 rest, 16 B_ 164 [D E-I"  4", D B_] 4. blank
+=1, 8 rest,, 16 B_ 164 [D E-I"  4", D B_] 4. blank
 =1, 4. E_ 8. [E_ E_]
 /
 4 bars | 4 4 5.5 4 4 7 4 4 5.5 4 4 4 | 4 4 5.5 4 4 4 4 4 4 4 4 4 \
@@ -529,7 +527,7 @@ innerhead Plainsong,  John Renbourn, 1st album
 =1' 8 rest' vol-15 16 [A B c A] vol+15 8 [e 8. A 16 A(2]
 =1, 8. F_# 4. D 8. F_#
 |
-#=1' 16 [A)2 rest D# A B{'1 c}'1] 8 [e 8 <A d> 16 rest <E(2 B(1>]
+#=1' 16 [A)2 rest D# A-s3 B{'1 c}'1--s1] 8 [e 8 <A d> 16 rest <E(2 B(1>]
 #=1, 4. F_n 8. rest,,, F_
 =1' 8 [A)2 16 rest A B{'1 c}'1] 8 [e 8 <A d> 16 rest <E(2 B(1>]
 =1, 8 F_n 4 D# 8. rest,,, E_
@@ -547,8 +545,8 @@ innerhead Plainsong,  John Renbourn, 1st album
  | 4 4 4 4 4 5 4 4 4 4 3 3 | 4 4 4 4 4 5 4 4 4 4 3 3 |
 | 1.5
 # quoted from bars 18-25
-il0.9  110
-=1' vol100 16 rest' 8 [<E A e> 8. <E A e>] \
+il0.9 .40 110
+=1' vol100 163 rest' 323 blank-s2-s3-s0 8 [<E A e> 8. <E A e>] \
  4 <D A d> 16 rest <E(6 A(2 e(1>
 =1, vol85 4 A_)4 16 rest,,  A_(4 8. [A_)4 A_]
 |
@@ -569,7 +567,7 @@ il0.9  110
 | 1.5
 =1 1 A
 =1' 8 rest' 16 C 164 [D Eb  D-I"4  " C] 8 [D 8. C 16 <Eb(2 A(1>]
-=1, 4. F_#(4 8. [F_)4 F_#]
+=1, 4. F_#(4 8. [F_)4 8 F_#] 16 rest,,,
 |
 il0.6 .12 115
 =1' 8 [<Eb)2 A)1> 16 C] 164 [D Eb D-I"4  " C] 8 [D 8. C 16 <En(2 B(1>]
@@ -615,7 +613,7 @@ il0.8 120
 # 378
 =1 1 A
 =1' 8 rest' 16 C [D Eb C] 8 [D 8. C 16 <Eb(2 A(1>]
-=1, 8. [F_# F_#(4] 8 [F_)4 16 F_# 8. F_#]
+=1, 8. [F_# F_#(4] 8 [F_)4 16 F_# 8 F_#] 16 rest,,,
 |
 il0.8  125
 # .75 193 sec
@@ -652,7 +650,7 @@ midi on
 | 1.5
 =1 1 A
 =1' 8 rest' 16 C [D Eb C] 8 [D 8. C 16 <Eb(2 A(1>]
-=1, 8. [F_# F_#] [F_# F_#]
+=1, 8. [F_# F_#] [F_# 8 F_#] 16 rest,,,
 |
 =1' 8 [<Eb)2 A)1> 16 C] 164 [D Eb D-I"4  " C] 8 D 4 C
 =1, 8. [F_n F_] [F_ E_]
