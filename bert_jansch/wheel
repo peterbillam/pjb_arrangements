@@ -78,7 +78,8 @@ I0.5 p
 |
 =1' 16 cc64=127 [G_ G-s0 G-s4] [D G G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
-=1, 8. blank [D-s3, C#-s2,]
+=1, 8. blank [D C#-s2,]
+rs0.7 .27 3
 |
 il0.6 .01 15
 =1' 16 cc64=127 [G_ G G] [D G G] [Bb rest G] cc64=0
@@ -91,9 +92,10 @@ il0.6 .01 15
  | 9/16 4 4 4 4 4 6 4 4 4 | 36 |
 |
 =1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] rest' vol90 [B-s0 B-s3] cc64=0
-=1, 8. blank [D-s3, C#-s2,]
+=1, 8. blank [D C#-s2,]
+rs0.7 .28 3
 | 1.5
-=1' 12/16 vol100 16 rest' [e-s0 e-s4] rest' [e e] \
+=1' 12/16 vol100 16 rest' [e-s0 e-s4] rest' [e-s4 e-s0] \
  rest' [B-s0 cc64=0 B-s4] rest' [G-s0 F#-s2]
 =1, 12/16 cc64=127 8. [Cn D] [C#-s3, D-s3,] cc64=0
 | 1.125
@@ -108,7 +110,7 @@ il0.7 .03 20
 4 bars | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 9/16 4 4 4 4 4 6 4 4 4 \
  | 36 | 4 4 4 3.5 4 4 3.5 6 4 |
 | 1.5
-=1' 12/16 vol100 16 rest' [e e] rest' [B-s0 B-s4] \
+=1' 12/16 vol100 16 rest' [e-s4 e-s0] rest' [B-s0 B-s4] \
  rest' [B cc64=0 B] rest' [G-s0 F#-s2]
 =1, 12/16 cc64=127 8. [Cn-s1, D] [C#-s3, D-s3,] cc64=0
 | 1.125
