@@ -104,7 +104,7 @@ rs0.7 .28 3
 =1, 9/16 8. blank [D-s3, C#-s2,]
 |
 il0.7 .03 20
-=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s0 G-s4] rest' vol90 [e-s0 e-s4] cc64=0
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s4 G-s0] rest' vol90 [e-s0 e-s4] cc64=0
 =1, 8. blank [D-s3, C#-s2,]
 /
 4 bars | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 9/16 4 4 4 4 4 6 4 4 4 \
@@ -117,10 +117,10 @@ il0.7 .03 20
 =1' 9/16 vol85 16 cc64=127 [G_-s1, G-s0 G-s4] [D G G] [Bb rest G] cc64=0
 =1, 9/16 8. blank [D-s3, C#]
 |
-=1' 16 cc64=127 [G_ G-s0 G-s4] [D G G] rest' vol90 [e-s0 e-s4] cc64=0
+=1' 16 cc64=127 [G_ G-s0 G-s4] [D G-s4 G-s0] rest' vol90 [e-s0 e-s4] cc64=0
 =1, 8. blank [D Cn]
 |
-=1' vol100 16 rest' [e e] rest' [B-s0 cc64=0 B-s4] rest' [G F#-s2]
+=1' vol100 16 rest' [e-s4 e-s0] rest' [B-s0 cc64=0 B-s4] rest' [G F#-s2]
 =1, cc64=127 8. [D C#-s3,] E_ cc64=0
 /
 4 bars | 4 4 4 4 4 6.0 4 4 4 || 12/16 3 3 4 4 3 4 4 3 4 3 3 4 \
@@ -176,7 +176,7 @@ il0.7 .07 35
 =1' 16 [G_ G G] [D B B] rest [c c] rest [c c]
 =1, 8. cc64=127 blank [D cc64=0 cc64=127 Cn] A_
 |
-=1' 16 [G_ G-s0 G-s4] [D G G] rest [e-s0 e-s4] rest [e e]
+=1' 16 [G_ G-s0 G-s4] [D G-s4 G-s0] rest [e-s0 e-s4] rest [e e]
 =1, 8. [G_-s1, D-s3,] cc64=0 [C#-s2, Cn-s1,]
 # should consistentise barlengths with 17-18 ? or, better, the other way round
 
@@ -307,8 +307,8 @@ il0.6 .07 60
 =1' 16 [G_ G G] rest [G G] rest [G G-s4] [G{'1 A}'1-s"  2" c]
 =1, 8. blank [D Cn] rest,,
 /
-4 bars | 4 4 4 4 4 4 5 4 4 4 5 4 | 9/16 4 3 4 4 3 5.5 4 4 4 \
- | 4 3 4 4 3 5.5 4 4 4 | 36 |
+4 bars | 4 4 4 4 4 4 5 4 4 4 5 4 | 9/16 4 4 3 4 4 5.5 4 4 4 \
+ | 4 4 3 4 4 5.5 4 4 4 | 4 4 4 4 4 5 4 4 4 |
 |
 il0.7 .03 65
 =1' 16 rest [A c{'1] [d c}'1 A] rest [F#-s4 A-s2] [c{'1 8 B}'1]
@@ -321,11 +321,11 @@ il0.7 .03 65
 =1' vol79 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
 |
-=1' vol79 16 cc64=127 8 [G_ 16 G] [D G G] rest [G G] cc64=0
+=1' vol79 16 cc64=127 8 [G_ 16 G] [D G-s0 G-s4] rest [G-s4 G-s0] cc64=0
 =1, 8. blank [D C#]
 /
-4 bars | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 9/16 4 3 4 4 3 5.5 4 4 4 \
- | 4 3 4 4 3 5.5 4 4 4 | 4 3 4 4 3 5.5 4 4 4 |
+4 bars | 12/16 4 4 4 4 4 4 4 4 4 4 6 4 | 9/16 4 4 3 4 4 5.7 4 4 4 \
+ | 4 4 3 4 4 5.7 4 4 4 | 4 4 3 4 4 5.7 4 4 4 |
 | 1.408
 =1' 12/16 16 rest [e-s0 e-s4] rest [B-s0 B-s3] \
  rest [G-s0 G-s4] rest [G-s0 F#-s2]
@@ -341,8 +341,8 @@ i0.9 .85 dim e accel . . .
 =1' vol75 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
 /
-4 bars | 4 3 4 4 3 5.5 4 4 4 | 4 3 4 4 3 5.5 4 4 4 \
- | 4 3 4 4 3 5.5 4 4 4 ||: 4 3 4 4 3 5.5 4 4 4 :||
+4 bars | 4 4 3 4 4 5.5 4 4 4 | 4 4 3 4 4 5.5 4 4 4 \
+ | 4 4 3 4 4 5.5 4 4 4 ||: 4 4 3 4 4 5.5 4 4 4 :||
 | 1.04
 =1' vol70 16 cc64=127 16 [G_ G G] [D G G] [Bb rest G] cc64=0
 =1, 8. blank [D C#]
