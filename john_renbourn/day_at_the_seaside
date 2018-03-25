@@ -87,7 +87,7 @@ i0.9 .08 ponticello . . .
 # =1, 4 E_ E_ E_ E_
 =1' 8 rest' 8. [<B e> B] 16 [A-s2 8 B-s0 8 d-s3 8. B-s4]
 =1, 8 [E_ E-s1, E_ E] [E_ E E_ E]
-i1.1 .95 come prima
+i1.1 .99 naturale . . .
 |
 =1' 16 [<D# c-s1-s1> 8. <E c#-s1-s1>] 16 rest' \
  [<E c#{'1> 8 <F# d}'1-s3-s2>] 8. [<G e> 16 <G e{'1> 8 <A f#}'1> <G e>]
@@ -192,7 +192,7 @@ i0.9 .08 ponticello . . .
 # =1, 4 E_ E_ E_ E_
 =1' 8 rest' 8. [<B e> B] 16 [A-s2 8 B-s0 8 d-s3 8. B-s4]
 =1, 8 [E_ E-s1, E_ E] [E_ E E_ E]
-i1.1 .95 come prima
+i1.1 .99 naturale . . .
 |
 =1' 16 [<D# c{'1> 8. <E c#}'1>] 16 rest' [<E c{'1> 8 <F# d}'1>] \
  8. [<G e> 16 <G e{'1> 8 <A f#}'1> <G e>]
