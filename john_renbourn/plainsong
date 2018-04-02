@@ -466,7 +466,7 @@ i0.9 .96 bend
 | 1.5
 =1 1 blank--s"1    "-s"4    "
 =1' vol100 4. <c g> f#
-=1' vol75 8 rest, 16 A [B c G] 8 rest 16 A [B c G]
+=1' vol75 8 rest, 16 A-s3 [B c G] 8 rest 16 A [B c G]
 =1, vol90 8. [A_ A_] [<A_ D> A_]
 |
 il0.7 .01 95
