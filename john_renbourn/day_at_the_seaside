@@ -52,7 +52,7 @@ il0.9 .23 5
 |
 =1 2 blank---s"4    "-s"0    " blank---s"4    "-s"2    "
 =1' 4 <d ex> 16 rest' 8. <c e-s2-s0> 4 <c dx> 16 rest' 8. <B d-s3-s2>
-=1, 8 rest, 16 [E-s2, 8. A-s3, 8 A] 8 rest, 16 [D-s0, 8. G-s0, 8-s D-is"damped",]
+=1, 8 rest, 16 [E-s2-bp, 8. A-s3-bi, 8 A] 8 rest, 16 [D-s0, 8. G-s0, 8-s D-is"damped",]
 =1, 2 A_ G_-s1,
 |
 =1' 8. rest'-s4 16 [c{'1 d}'1 8. e] 8 [a 16 rest'' 8 d 8. <c e-s2-s0>]
@@ -157,7 +157,7 @@ midi channel 0 patch 25
 |
 =1 2 blank---s"4    "-s"0    " blank---s"4    "-s"2    "
 =1' 4 <d ex> 16 rest' 8. <c e-s2-s0> 4 <c dx> 16 rest' 8. <B d-s3-s2>
-=1, 8 rest, 16 [E-s2, 8. A-s3, 8 A] 8 rest, 16 [D 8. G 8-s D]
+=1, 8 rest, 16 [E-s2-bp, 8. A-s3-bi, 8 A] 8 rest, 16 [D 8. G 8-s D]
 =1, 2 A_ G_
 |
 =1' 8. rest' 16 [c{'1 d}'1 8. e] 8. [a 8 d 8. <c e-s2-s0>]
