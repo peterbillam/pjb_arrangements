@@ -18,7 +18,7 @@ r0.7 min=66
 =1, 2/2 vol100 1 D
 i0.6  Capo on 1st
 |
-I1.3 .66 a
+# I1.3 .66 a
 =1' vol100 8 rest' 16 [b{'1 8. a}'1 8 e] 8. [d-s3 16 e{'1] 4 f#}'1
 =1, vol85 8 rest  8. [d-s3, B] 8 rest, 8. [A 16 d 8 A]
 =1, vol100 1 D
