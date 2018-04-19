@@ -244,21 +244,22 @@ il0.9 .01 35
 =1, vol85 4. C 8 <C G> 2 <C G>
 i0.9 .32 rit  .  .  .
 /
-3 bars | 5 5 4 4 4 4 4 4 4 3 4 3 4 3 4 3 | 60 | 50 ||
+3 bars | 5 5 5 4 4 4 4 4 4 3 4 3 4 3 4 3 | 15 12 15 14 | 45 ||
 | 0.7 0.55 0.5 0.5
 =1' 4 rest'' 8 [b{'1-emph a}'1(2] 2 a)2
 =1, 16 rest 16-s c'-emph-gs3 2.. d
 =1, 1 D(4
 | 2.0
 i0.6 .60 bend...
-#P=1' 2 g-gs2 4 fn{'1 f#}'1(2
+#P=1' 2 g-gs2 4 fn{'1 f#}'1(1
 #M=1' cha1 2 g 2 fn(2
 #M =1 2 blank 163 blank bend+4 blank bend+4 blank bend+4 \
  blank bend+4 blank bend+4 blank
-=1, cha0 4 rest 2. c
+=1, cha0 4 rest 2. c(6
 =1, 2 D)4 D(4
 |
 i0.4 .70 ~  72 sec
-#P=1' 1 f#)2
-#M=1' cha1 bend+4 1 f)2 bend50
+#P=1' 1 f#)1
+#M=1' cha1 bend+4 1 f)1 bend50
+=1  cha0 1 c)6
 =1, cha0 1 D)4
